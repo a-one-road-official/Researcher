@@ -1,0 +1,1195 @@
+{
+ "name": "松尾電機",
+ "aliases": [],
+ "context": "証券コード6969／電気機器／スタンダード（内国株式）／2026.03期 売上高5,142百万円 営業利益率11.3%",
+ "researched_at": "2026-11-02T20:17:27.509583+00:00",
+ "official_url": "https://www.ncc-matsuo.co.jp/",
+ "identified_by": "search:yahoo_jp:松尾電機",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1949年12月12日",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年 12月12日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "タンタルコンデンサ、フイルムコンデンサ及び回路保護素子等の 製造・販売",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "タンタルコンデンサ及び回路保護素子等の製造・販売 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "227名(2026年3月31日現在)",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "229人 （いずれも2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "42億9百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログのダウンロード",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリーから探す",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品体系図から探す",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チップタンタルコンデンサ製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "回路保護素子製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・セールスに関するお問い合わせ",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のPCB（ポリ塩化ビフェニル）含有について",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年7月に製品カタログを改訂しました",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名／型番検索",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログのダウンロード",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリーから探す",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品体系図から探す",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "チップタンタルコンデンサ製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "回路保護素子製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・セールスに関するお問い合わせ",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のPCB（ポリ塩化ビフェニル）含有について",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログのダウンロード",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリーから探す",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品体系図から探す",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "チップタンタルコンデンサ製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "回路保護素子製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・セールスに関するお問い合わせ",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のPCB（ポリ塩化ビフェニル）含有について",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "回路保護素子（電流ヒューズ）｜製品カテゴリーから探す｜製品情報｜松尾電機株式会社",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログのダウンロード",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリーから探す",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品体系図から探す",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "チップタンタルコンデンサ製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "回路保護素子製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・セールスに関するお問い合わせ",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のPCB（ポリ塩化ビフェニル）含有について",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品は、表面実装化のニーズに応えるチップタイプであり、機器の小型化に最適です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒューズエレメントに線材を使用した耐パルス性に優れた製品です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒューズエレメントにフレーム材を使用する事で小型高電流を達成した製品です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "車載・産業機器類の過電流に対する回路保護として使用できる小型で高電流に対応した製品です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒューズエレメントと端子が一体となった構造の高電流品で、中型リチウムイオン電池の回路保護に適した製品です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "表面実装型でありながら、小型で高電流定格を実現した製品です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "高電流・高電圧要求に加えより小形低背が求められるリチウムイオン電池パック等の回路保護に適した製品です",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "生産中止製品",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術に関するお問い合わせはこちら",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関する情報",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名／型番検索",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知機｜用途から探す｜製品情報｜松尾電機株式会社",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログのダウンロード",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリーから探す",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "製品体系図から探す",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "チップタンタルコンデンサ製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "回路保護素子製品体系図",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/product/system/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "① 回路保護素子事業は、CASE（※1）対応自動車の需要拡大に対応して、車載用製品の販売網を拡大し、売上高及び利益の増加を図る",
+    "url": "https://www.ncc-matsuo.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_event/general_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/stock/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/stock/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "pass": 1
+   },
+   {
+    "quote": "松尾電機の歴史、強み、製品に対する想いをコンパクトに分かりやすくご紹介します",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/condenser/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/recruit/graduate_recruitment/about_company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の紹介",
+    "url": "https://www.ncc-matsuo.co.jp/contact/ir_contact/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第1四半期決算短信を掲載しました",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年7月に製品カタログを改訂しました",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年12月12日",
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜松尾電機株式会社",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年12月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年1月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1957年12月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年1月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年12月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年8月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年1月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年9月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年12月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年9月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年5月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年6月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年4月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年10月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年2月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年6月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年3月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年2月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年12月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年7月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年1月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年1月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年8月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年12月",
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月末",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月末",
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信を掲載しました",
+    "url": "https://www.ncc-matsuo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信を掲載しました",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期～2027年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期（PDF:471KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（PDF:580KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期（PDF:465KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）（PDF:406KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期（PDF:468KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（訂正）（PDF:156KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（PDF:561KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期（PDF:460KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（PDF:392KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期（PDF:582KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（PDF:413KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期（PDF:187KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期（PDF:197KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期（PDF:137KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（PDF:237KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期（PDF:139KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期（PDF:142KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期（PDF:140KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月（訂正）（PDF:140KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/report/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "(2)売上高営業利益率 13％",
+    "url": "https://www.ncc-matsuo.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "松尾電機の歴史、強み、製品に対する想いをコンパクトに分かりやすくご紹介します",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "1949年の創業以来、技術立社を標榜する当社は、「品質第一」の社是のもと、タンタルコンデンサ、回路保護素子の製造・販売を中心にお客様及び各々の時代のニーズに応えて参りました",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "pass": 1
+   },
+   {
+    "quote": "今後もグローバルなマーケティングネットワークと組織体制を活かし、全世界のユーザーの皆様のニーズにいち早く応える製品づくりを通して社会に貢献して参ります",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "pass": 1
+   },
+   {
+    "quote": "更なるオリジナルな製品づくりに全力を注ぎ、今まで以上にお客様の信頼にお応えする製品を創造し続けて参ります",
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は、利用者ご自身の判断において行われるようお願い致します",
+    "url": "https://www.ncc-matsuo.co.jp/ir/disclaimer/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "・製品の保守交換が不可能な機器、製品の故障が人命に直接かかわる、または、致命的な",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/06/0dd0c42ab49a83fb14e0d6b7509e0e3e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が極めて困難な機器や、製品の故障が人命に影響する、あるいは故障の",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/06/0dd0c42ab49a83fb14e0d6b7509e0e3e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3-B ・製品の保守交換が可能な機器や、製品の故障が人命に影響しないが故障による システムダウンの損失が大きく保全管理が要求される機器 ・家庭用/ビル用等のセキュリティ管理システム・工業用ロボットや工作機械等の制御機器",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/06/0dd0c42ab49a83fb14e0d6b7509e0e3e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が可能な機器や、製品の故障によるシステムダウンが部分的な機器向けの",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/06/0dd0c42ab49a83fb14e0d6b7509e0e3e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が不可能な機器、製品の故障が人命に",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2018/04/JHC-011J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が極めて困難な機器や、製品の故障が",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2018/04/JHC-011J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が可能な機器や、製品の故障が人命に",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2018/04/JHC-011J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が可能な機器や、製品の故障による",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2018/04/JHC-011J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が不可能な機器、製品の故障が人命に",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2021/10/JAJ-JAK-001_1PD.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が極めて困難な機器や、製品の故障が",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2021/10/JAJ-JAK-001_1PD.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が可能な機器や、製品の故障が人命に",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2021/10/JAJ-JAK-001_1PD.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の保守交換が可能な機器や、製品の故障による",
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2021/10/JAJ-JAK-001_1PD.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "松尾電機 - Wikipedia — 松尾電機 ... 松尾電機株式会社 （まつおでんき）は、大阪府豊中市に本社を構える タンタル コンデンサ 、電流 ヒューズ などの回路保護素子を主に開発、製造、販売している企業である。 略称として NCC を商標登録している (N EW C ONCEPTS IN C APACITORSの略)。 [2]",
+    "url": "https://ja.wikipedia.org/wiki/松尾電機",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機株式会社 — 事業所の紹介 動画で見る松尾電機 コーポレートガバナンス 認証取得状況 サステナビリティへの取組 製品案内 製品カテゴリーから探す タンタルコンデンサ 回路保護素子（電流ヒューズ） フィルムコンデンサ 用途から探す 宇宙開発機器関連 自動車（走行 ...",
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機は何で稼いでいる？儲け方と収益構造を図解 | Vizora — Jun 25, 2026 · 松尾電機の売上の約62%は「タンタルコンデンサ事業」から。 ほかに「回路保護素子事業」・「その他」などで稼いでいます。 売上100円あたり約11円が営業利益として残ります。 前期から売上は+13.1%、営業利益は+18.4%。",
+    "url": "https://vizora.meequs.com/ja/company/matsuo-electric",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 松尾電機株式会社 | — 事業所の紹介 動画で見る松尾電機 コーポレートガバナンス 認証取得状況 サステナビリティへの取組 製品案内 製品カテゴリーから探す タンタルコンデンサ 回路保護素子（電流ヒューズ） フィルムコンデンサ 用途から探す 宇宙開発機器関連 自動車（走行 ...",
+    "url": "https://www.ncc-matsuo.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業研究】松尾電機の業績推移から中長期の経営戦略まで就活生向け... — Jun 25, 2026 · 松尾電機株式会社は、電子部品の製造販売を行う企業で、直近期の連結売上は45億円、親会社所有者帰属当期純利益は4億円です。 同社の事業は、主にコンデンサとマイクロヒューズなどの回路保護素子を中心とした電子部品の製造販売から構成されています。",
+    "url": "https://kigyo-scope.jp/company/6969/",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機のIR資料 - 6969 / ｽﾀﾝﾀﾞｰﾄﾞ / 電気機器 | バフェッ... — Aug 12, 2026 · 松尾電機（6969 / ｽﾀﾝﾀﾞｰﾄﾞ / 電気機器）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/6969/library",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機株式会社 — IR資料 - EDINET DB — Apr 18, 2026 · EDINET DB > 企業一覧 > 松尾電機株式会社 > IR資料 松尾電機株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E01933/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機株式会社（6969）適時開示・決算短信 一覧｜毎日更新｜Treela... — 松尾電機株式会社（6969）の適時開示 2 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/6969/conference",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機 (株)【6969】：決算情報 - Yahoo!ファイナンス — Aug 12, 2026 · 松尾電機 (株)【6969】の決算短信を生成AIで要約した内容をご覧いただけます。 Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/6969.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信｜IR資料｜IR管理｜松尾電機株式会社 — 決算短信 2027年3月期 2027年3月期第1四半期（PDF:471KB） 2026年3月期 2026年3月期（PDF:580KB） 2026年3月期第3四半期（PDF:465KB） 2026年3月期第2四半期（中間期）（PDF:406KB） 2026年3月期第1四半期（PDF:468KB） 2025年3月期 2025年3月期（訂正）（PDF:156KB） 2025年3月期（PDF:561KB）",
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 松尾電機株式会社 | — 早わかり松尾電機 電子部品の基礎知識 免責事項 CSR／環境 環境報告 地球温暖化対策への取組 責任ある鉱物調達への対応 一般事業主行動計画 当社製品のPCB（ポリ塩化ビフェニル）含有について グリーン調達 人権啓発への取組 安全衛生への取組 防災への ...",
+    "url": "https://www.ncc-matsuo.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "松尾電機（6969）の事業内容、事業の状況や経営戦略、事業等のリスク... — 本ページでは、有価証券報告書記載の松尾電機の事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6969",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜企業情報｜松尾電機株式会社 — 製品体系図から探す チップタンタルコンデンサ製品体系図 回路保護素子製品体系図 （電流ヒューズ） その他製品に関する情報 RoHS対応状況 テーピング仕様 認定品一覧 生産中止品情報 製品・セールスに関するお問い合わせ 責任ある鉱物調達への対応 IR情報",
+    "url": "https://www.ncc-matsuo.co.jp/company/organization/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ncc-matsuo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/product/product_uses/fire_alarm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/product/system/circuit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/management/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_event/general_meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/ir_library/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/stock/stockholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/stock/koukoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/ataglance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/investor/condenser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/recruit/graduate_recruitment/about_company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/contact/ir_contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/recruit/graduate_recruitment/about_company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/en/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/en/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/product/circuit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2025/06/companybrochure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/themes/ncc-matsuo.co.jp/common/img/product/product_catalog.pdf?%257B%257B%2520random()%2520%257D%257D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/10/ir261015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/09/ir260910.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2026/06/0dd0c42ab49a83fb14e0d6b7509e0e3e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2022/07/product_catalog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2018/04/JHC-011J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncc-matsuo.co.jp/wp-content/uploads/2021/10/JAJ-JAK-001_1PD.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/6969/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01933/ir-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松尾電機",
+   "results": [
+    "https://www.ncc-matsuo.co.jp/ja/",
+    "https://www.nikkei.com/nkd/company/?scode=6969",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E9%9B%BB%E6%A9%9F",
+    "https://job.mynavi.jp/27/pc/search/corp286114/outline.html",
+    "https://www.matsuo-ele.com/",
+    "https://ja.wikipedia.org/wiki/松尾電機",
+    "https://www.ncc-matsuo.co.jp/",
+    "https://www.ncc-matsuo.co.jp/company/about/",
+    "https://finance.yahoo.co.jp/quote/6969.T",
+    "https://finance.yahoo.co.jp/quote/6969.T/profile"
+   ]
+  },
+  {
+   "query": "松尾電機 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/松尾電機",
+    "https://www.ncc-matsuo.co.jp/",
+    "https://vizora.meequs.com/ja/company/matsuo-electric",
+    "https://www.ncc-matsuo.co.jp/company/",
+    "https://kigyo-scope.jp/company/6969/",
+    "https://consovation.com/株式会社松尾電機の成長戦略を探る-驚きのビジネ/",
+    "https://envalith.com/ja/companies/6969/overview"
+   ]
+  },
+  {
+   "query": "松尾電機 決算説明資料",
+   "results": [
+    "https://www.buffett-code.com/company/6969/library",
+    "https://edinetdb.jp/company/E01933/ir-docs/",
+    "https://treelazy.com/stock-jp/6969/conference",
+    "https://finance.yahoo.co.jp/quote/6969.T/financials",
+    "https://www.ncc-matsuo.co.jp/ir/ir_library/earnings/",
+    "https://www.ncc-matsuo.co.jp/ir/",
+    "https://irbank.net/6969/ir"
+   ]
+  },
+  {
+   "query": "松尾電機 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/松尾電機",
+    "https://www.ncc-matsuo.co.jp/company/",
+    "https://vizora.meequs.com/ja/company/matsuo-electric",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6969",
+    "https://www.ncc-matsuo.co.jp/company/organization/",
+    "https://x.com/gomatsuo/status/1778752174450938151",
+    "https://www.occto.or.jp/institution/access/link/keitou-and-plan.html"
+   ]
+  },
+  {
+   "query": "松尾電機 社長 インタビュー",
+   "results": []
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

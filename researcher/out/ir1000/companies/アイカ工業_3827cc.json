@@ -1,0 +1,1474 @@
+{
+ "name": "アイカ工業",
+ "aliases": [],
+ "context": "証券コード4206／化学／プライム（内国株式）／2026.03期 売上高251,764百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:13:12.243602+00:00",
+ "official_url": "https://www.aica.co.jp/",
+ "identified_by": "search:yahoo_jp:アイカ工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "1936 創業",
+    "value": "1936年10月、愛知化学工業株式会社は、愛知時計電機株式会社から化学部門が分離独立して設立された。 化学部門が研究開発していた、航空機用点火栓、安全ガラス、強化ガラス、接着剤などの量産化を図ることを目的に当社は誕生した。 ［写真：当社本社工場建設前の愛知時計電機船方工場（写真左の敷地に本社工場建設）］",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   },
+   {
+    "label": "2012 AAPH設立",
+    "value": "2012年12月、フィンランドの接着剤メーカー、ダイネア社のアジア太平洋部門子会社の株式取得。 アイカ・アジア・パシフィック・ホールディング社（AAPH）設立（シンガポール）。 本件を機に、M&Aおよびグローバル化が加速していく。 ［写真：アイカ・アジア・パシフィック・ホールディング社（シンガポール）］",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "1,516億円  3,000 億円",
+    "url": "https://www.aica.co.jp/company/philosophy/vision/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アイカの技術や製品は、私たちの生活のあらゆるシーンで活躍しています",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今ではアイカの製品を使っていない建物の方が少ないのではと言われるほど",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アイカはグローバルに事業を展開する企業体として、社会から信頼される組織を目指し、CSRを全うし、環境負荷低減、社会貢献商品の開発等を通じて、持続可能で豊かな社会の実現に貢献します",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGsに貢献するアイカの商品",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本インデックスは、サステナブル投資のファンドや他の金融商品の作成・評価に広く利用されます",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コアテクノロジーである樹脂技術を活かした多軸的な製品展開を行っております",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1936年に日本で初めてユリア樹脂接着剤を開発して以来、化学合成技術で時代をリードする商品を開発してきました",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代以降は、新規事業領域として機能材料製品の拡充に注力しており、活躍の場は多岐に渡ります",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "化学技術を活かした独創性の高い商品を提供",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "化成品事業で培った化学技術を活かして独創性の高い商品を提供し、国内シェアNo.1のメラミン化粧板を基軸とした多種多様な商品を提供しています",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "本Webサイトの記載事項の内容は新製品・品種の統廃合・製品改良などにより予告なく変更する場合があります",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ご選定の際には実物の商品見本等でご確認をお願いします",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アイカ工業は、お客さまによりよいサービスをご提供するために、一部コンテンツやアンケート、電子メール配信サービス等に際して、必要な範囲でお客さまの個人情報を収集しております",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アイカ工業は、お客さまによりよいサービスを提供するため、個人情報の取扱いを外部に委託することがあります",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アイカ工業が収集した個人情報の利用は、収集目的の達成のため以外に、商品情報やイベント情報等をお知らせする目的で利用させていただきます",
+    "url": "https://www.aica.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_120.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_120.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_120.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_119.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_119.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_119.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_118.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_118.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_118.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_117.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_117.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_117.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "［写真：陶磁器製品と商標］",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "化成品、化粧板、住器建材の各事業分野で、新製品や新技術の開発を進めた",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "国内グループ会社の結集、製品の開発・改良の積極的な推進、海外進出に向けた国際化を指針に、新たな経営計画を策定し、そのスローガンとして「挑戦と創造」を掲げた",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "また、C&C活動を展開するとともに、新製品の開発・拡大と製品間の連携を促進した",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   },
+   {
+    "quote": "以降、様々な樹脂技術・製品を展開していく",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代のキッチンパネル用途開拓により、不燃壁材市場の代名詞ともいえる商品へと成長していった",
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ニュース",
+    "url": "https://www.aica.co.jp/company/profile/history/portfolio/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・商品シミュレーション",
+    "url": "https://www.aica.co.jp/company/profile/history/portfolio/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サポート",
+    "url": "https://www.aica.co.jp/company/profile/history/portfolio/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ウルフドッグス名古屋とオフィシャルパートナー契約を継続",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "２０２７年国際園芸博覧会にパートナーとして協賛",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | アイカ工業株式会社",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アイカの価値創造の源泉は、化学とデザインを基礎としたコア技術を用いた開発力、国内外に張り巡らされた販売網と顧客基盤、ステークホルダーとの対話により生まれる社会課題解決力、それらによって生み出された高品質な商品群とブランド価値、優れた人的資本、健全な財務基盤にあります",
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "pass": 1
+   },
+   {
+    "quote": "国内シェアNo.1を誇るメラミン化粧板の流通を支えるのは、アイカ商品を熟知した販売代理店網「アイカ会」です",
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "pass": 1
+   },
+   {
+    "quote": "非住宅市場では、インバウンド需要によるホテル・店舗の新築・改修需要が増加しましたが、医療福祉施設や倉庫などの需要が減少し、前年を下回りました",
+    "url": "https://www.aica.co.jp/company/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "メラミン不燃化粧板「セラール」は、オフィス、店舗、ホテル、学校など非住宅市場の需要を獲得したほか、",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メラミン不燃化粧板「セラールウイルテクトPlus」は、抗ウイルスと消臭の機能が評価され、病院や店舗などを",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メラミン不燃化粧板「セラール」は、オフィス、店舗、ホテルなどでの需要を獲得するとともに高付加価値",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スのエントランスやトイレなどに加えて店舗での採用が増え、売上が大幅に伸長しました",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラミン不燃化粧板「セラールウイルテクトPlus」は抗ウイルスと消臭の機能が評価され、医療福祉施設や店舗",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不燃建材は、アクリル樹脂系塗装けい酸カルシウム板「ルナライト」が教育施設、店舗、工場などで好調に",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インドにおける生産拠点および販売網の拡大、グローバル展開への加速を目的として、インドのメラミン化",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "―国内と海外、それぞれで販売網の強みがあります",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "「国内は、建装建材の商品を扱う販売代理店約３００社で構成する『アイカ会』が商品を在庫し配達する仕組みになっている",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "一方、Ｍ＆Ａで増やしてきた海外拠点は、製造拠点だけでなく販売網も一緒に取得しグループで扱う全ての製品を取得した販売網に乗せる",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "―営業体制も刷新しました",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月 7日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 9月28日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 9月 8日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 9月 4日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 9月17日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月24日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月26日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 7月27日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 7月25日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 6月 9日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月27日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月 4日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算短信を掲載いたしました",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（累計）業績予想の公表及び通期業績予想の修正に関するお知らせ",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 5月13日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年新卒採用 マイナビにてエントリー受付中！",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 7月25日",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用 マイナビにてエントリー受付中！",
+    "url": "https://www.aica.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 全上場企業ホームページ充実度ランキング",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月27日",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月 4日",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算短信を掲載いたしました",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（累計）業績予想の公表及び通期業績予想の修正に関するお知らせ",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1936年に日本で初めてユリア樹脂接着剤を開発して以来、化学合成技術で時代をリードする商品を開発してきました",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代以降は、新規事業領域として機能材料製品の拡充に注力しており、活躍の場は多岐に渡ります",
+    "url": "https://www.aica.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月27日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月 4日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算短信を掲載いたしました",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（累計）業績予想の公表及び通期業績予想の修正に関するお知らせ",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 7月22日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 7月 6日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 7月 2日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 6月23日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年満期ユーロ円建転換社債型新株予約権付社債の転換価額の調整に関するお知らせ",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 6月18日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 5月26日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料を掲載いたしました",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 5月 1日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信を掲載いたしました",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 4月13日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月31日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月 3日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 2月 3日",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期 決算短信を掲載いたしました",
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_120.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月4日",
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_119.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年（令和9年）3月期",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月4日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年（令和8年）3月期",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月1日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月3日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月5日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月4日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和7年）3月期",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月20日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月1日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月31日",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "価値創造モデル･アイカの強み",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "化成品と建装建材の2つの事業でシナジーを創出し、この強みを改良・拡大するサイクルをまわし続け、事業活動を通じて社会課題を解決しています",
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率 5.3% 7.1% 6.7% 6.8% － 6.9%",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 16.6% 19.1% 20.5% 21.5% － 19.1%",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "―国内と海外、それぞれで販売網の強みがあります",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "「国内は、建装建材の商品を扱う販売代理店約３００社で構成する『アイカ会』が商品を在庫し配達する仕組みになっている",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "「ユニホームにＩＣチップを付与し、枚数や洗濯回数を記録して在庫管理に活用する取り組みを２５年前から行っている",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.aica.co.jp/company/philosophy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別目標",
+    "url": "https://www.aica.co.jp/company/philosophy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………７",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績については次のとおりであります",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、セグメント間の内部売上は除いております",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（化成品セグメント）",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（建装建材セグメント）",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高又は",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,100 5,347 7,447 △1,123 6,324",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益の調整額△1,123百万円には、各報告セグメントに配分していない全社費用△1,135百万",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理部門（人事、総務、経",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 3,503 6,952 10,456 △1,295 9,160",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益の調整額△1,295百万円には、各報告セグメントに配分していない全社費用△1,294百万",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 2027年3月期第1四半期 セグメント別業績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. セグメント別 海外売上高",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 海外売上比率 売上高 前期比 海外売上比率",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4-1. 化成品セグメント 商品群別売上実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4-2. 化成品セグメント 国内・海外実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5-1. 建装建材セグメント 商品群別売上実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5-2. 建装建材セグメント 国内・海外実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 15",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績については次のとおりであります",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、セグメント間の内部売上高は除いております",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（化成品セグメント）",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（建装建材セグメント）",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高（百万円） 構成比 売上高（百万円） 構成比",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、翌連結会計年度における、各セグメントに係る主要な関係会社の異動は以下のとおりです",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 構成比 増減率",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別の主要製品は次のとおりであります",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高又は振替高は、社内ルールに基づき利益を付加した価格によっております",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 9,331 22,535 31,867 △4,458 27,408",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 137,448 118,764 256,213 31,844 288,058",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 9,330 24,803 34,134 △4,990 29,143",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 140,983 136,463 277,447 48,988 326,435",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 前連結会計年度及 び当連結会計年度におけるセグメント 利益の調整額△4,458百万円及び△4,990百万円に",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、それぞれ各報告セグメントに 配分しない全社費用 △4,446百万円及び△5,001百万円が含まれておりま",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに 帰属しない一般管理部門 （人事、総務、経理部門等）に係る費用",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 2026年3月期 セグメント別業績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5.中期経営計画の進捗（2/3）ーセグメント別目標ー",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【参考】 セグメント別 海外売上高",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 海外売上比率 売上高 前期比 海外売上比率",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【参考】 化成品セグメント 商品群別売上実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【参考】 化成品セグメント 国内・海外実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【参考】 建装建材セグメント 商品群別売上実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【参考】 建装建材セグメント 国内・海外実績",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "アイカの価値創造の源泉は、化学とデザインを基礎としたコア技術を用いた開発力、国内外に張り巡らされた販売網と顧客基盤、ステークホルダーとの対話により生まれる社会課題解決力、それらによって生み出された高品質な商品群とブランド価値、優れた人的資本、健全な財務基盤にあります",
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "pass": 1
+   },
+   {
+    "quote": "海外においても1万社を超える有力な顧客基盤を構築しています",
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "pass": 1
+   },
+   {
+    "quote": "外部顧客への売上高 33,036 26,728 59,765 － 59,765",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 37,254 34,124 71,379 － 71,379",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資に関する決定は、利用者ご自身のご判断において行われますようお願い申し上げます",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 138,587 110,109 248,696 － 248,696",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 136,262 115,502 251,764 － 251,764",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資に関する決定は、利用者ご自身のご判断において行われますようお願い申し上げます",
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＢツーＢ（企業間）向けとしているが、最近、一般顧客である施工主の来場が増えてきた",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "―コロナ禍前後で、顧客ニーズはどう変化しましたか",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "化学とデザインの融合から、新たな価値を生み出す アイカ工業 ... — 化学とデザインの融合から、新たな価値を生み出す アイカ工業 ... アイカ工業株式会社 https://www.aica.co.jp",
+    "url": "https://www.aica.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス のお客さま | アイカ工業 株式会社 — ビジネス のお客さま | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > support",
+    "url": "https://www.aica.co.jp/support/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | アイカ工業 株式会社 — お問い合わせ | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > contact",
+    "url": "https://www.aica.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | アイカ工業 株式会社 — 会社案内 | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > company > profile",
+    "url": "https://www.aica.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "価値創造 モデル | アイカ工業 株式会社 — 価値創造 モデル | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > philosophy > creation_model",
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | アイカ工業 株式会社 — 決算説明 会 | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > library > document-report",
+    "url": "https://www.aica.co.jp/company/ir/library/document-report/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | アイカ工業 株式会社 — IR 資料 室 | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > company > library",
+    "url": "https://www.aica.co.jp/company/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さま | アイカ工業 株式会社 — 株主・投資家の皆さま | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > company",
+    "url": "https://www.aica.co.jp/company/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | アイカ工業 株式会社 — 決算 短信 | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > company > library > f-statements",
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アイカ工業 】[4206]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 アイカ工業 】[4206]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4206",
+    "pass": 3
+   },
+   {
+    "quote": "アイカ グループ会社案内 — アイカ グループ会社案内 アイカ工業株式会社 PDF https://www.aica.co.jp > pdf > corporate_brochure_1",
+    "url": "https://www.aica.co.jp/company/files/pdf/corporate_brochure_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "報告書（株主の皆さまへ） | アイカ工業 株式会社 — 報告書（株主の皆さまへ） | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > company > library > report",
+    "url": "https://www.aica.co.jp/company/ir/library/report/",
+    "pass": 3
+   },
+   {
+    "quote": "アイカのあゆみ（年表で見る） | アイカ工業 株式会社 — アイカのあゆみ（年表で見る） | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > profile > history > outline",
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "アイカ工業 株式会社 小野勇治 - リーダーナビ — アイカ工業 株式会社 小野勇治 - リーダーナビ リーダーナビ 100 https://www.leader-navi.com > i-company > interview02",
+    "url": "https://www.leader-navi.com/i-company/interview02/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー アイカ工業社長 海老原 健治氏 — インタビュー アイカ工業社長 海老原 健治氏 日刊工業新聞 https://biznova.nikkan.co.jp > article > aichi2023-2",
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | アイカ工業 株式会社 — 役員一覧 | アイカ工業 株式会社 アイカ工業株式会社 https://www.aica.co.jp > company > profile > executive",
+    "url": "https://www.aica.co.jp/company/profile/executive/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アイカ工業 】愛知発ものづくり企業 成長の秘密と新時代を ... — 【 アイカ工業 】愛知発ものづくり企業 成長の秘密と新時代を ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=i3b0EEGO0ok",
+    "pass": 3
+   },
+   {
+    "quote": "アイカ工業 の歴代 社長 - The社史 — アイカ工業 の歴代 社長 - The社史 The社史 https://the-shashi.com > アイカ工業の歴史",
+    "url": "https://the-shashi.com/tse/4206/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aica.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_119.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_118.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/detail/post_117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/profile/history/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/profile/history/topic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/profile/history/portfolio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/philosophy/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/business/chemical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/management/disclosure/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.aica.co.jp/company/files/pdf/corporate_brochure_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/news/files/pdf/20260804_jesop.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_summary_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report127_001_supportdata_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/pdf/report126_004_supportdata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/images/p_ir_creation_model.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/ir/files/images/p_ir_business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/files/images/p_company_business_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/files/images/p_company_business_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/files/images/p_company_business_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/files/images/value_creation_model.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/files/images/p_business_chemical_11.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aica.co.jp/company/files/images/p_business_chemical_12.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.leader-navi.com/i-company/interview02/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイカ工業",
+   "results": [
+    "https://www.aica.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AB%E5%B7%A5%E6%A5%AD",
+    "https://www.instagram.com/aica.official/",
+    "https://www.youtube.com/channel/UCixXP99ulp_efi7llWLXPWw",
+    "https://www.monotaro.com/s/c-68527/b-12/?srsltid=AYCX9vKj_6PtPgNffunlmZ1O8QTyLUbbgrg_CQvxhtJW_bzMuxo4IJy1",
+    "https://ja.wikipedia.org/wiki/アイカ工業",
+    "https://www.aica.co.jp/company/",
+    "https://x.com/aica_kogyo",
+    "https://finance.yahoo.co.jp/quote/4206.T/profile",
+    "https://finance.yahoo.co.jp/quote/4206.T"
+   ]
+  },
+  {
+   "query": "アイカ工業 ビジネスモデル",
+   "results": [
+    "https://www.aica.co.jp/",
+    "https://www.aica.co.jp/support/",
+    "https://www.aica.co.jp/contact/",
+    "https://www.aica.co.jp/company/profile/",
+    "https://www.aica.co.jp/company/philosophy/creation_model/",
+    "https://www.aica.co.jp/company/",
+    "https://www.kenzai-navi.com/makers/aica/showrooms",
+    "https://www.instagram.com/reel/DMC6iupt5zA/",
+    "https://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0165_K6502405",
+    "https://ja.wikipedia.org/wiki/アイカ工業"
+   ]
+  },
+  {
+   "query": "アイカ工業 決算説明資料",
+   "results": [
+    "https://www.aica.co.jp/company/ir/library/document-report/",
+    "https://www.aica.co.jp/company/ir/library/",
+    "https://www.aica.co.jp/company/ir/",
+    "https://www.aica.co.jp/company/ir/library/f-statements/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4206",
+    "https://www.aica.co.jp/company/ir/qa/",
+    "https://www.aica.co.jp/company/ir/news/",
+    "https://www.aica.co.jp/company/ir/event/calendar/",
+    "https://x.com/AICA_Kogyo/status/1927523010367594530",
+    "https://irbank.net/4206/ir"
+   ]
+  },
+  {
+   "query": "アイカ工業 事業系統図",
+   "results": [
+    "https://www.aica.co.jp/company/profile/",
+    "https://www.aica.co.jp/company/files/pdf/corporate_brochure_1.pdf",
+    "https://www.aica.co.jp/",
+    "https://www.aica.co.jp/company/ir/library/report/",
+    "https://www.aica.co.jp/company/profile/history/outline/",
+    "https://www.aica.co.jp/company/ir/sitemap/",
+    "https://www.aica.co.jp/company/profile/hub/factory/",
+    "https://kitaishihon.com/company/4206/business",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250526565103/140120250526565103.pdf",
+    "https://ja.wikipedia.org/wiki/アイカ工業"
+   ]
+  },
+  {
+   "query": "アイカ工業 社長 インタビュー",
+   "results": [
+    "https://www.leader-navi.com/i-company/interview02/",
+    "https://biznova.nikkan.co.jp/article/aichi2023-2",
+    "https://www.aica.co.jp/company/profile/executive/",
+    "https://www.youtube.com/watch?v=i3b0EEGO0ok",
+    "https://the-shashi.com/tse/4206/ceo/",
+    "https://biz.chunichi.co.jp/news/article/10/121587/",
+    "https://kitaishihon.com/company/4206/board-of-director",
+    "https://www.aica.co.jp/company/profile/greeting/",
+    "https://ten-ki.jp/presidents/detail/10062936",
+    "https://hanknet-japan.org/アイカ工業株式会社・小野勇治-社長のインタヒュ/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像16件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式20頁／PDF・画像16件／外部2頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式20頁／PDF・画像16件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式20頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

@@ -1,0 +1,1495 @@
+{
+ "name": "エスケイジャパン",
+ "aliases": [],
+ "context": "証券コード7608／卸売業／スタンダード（内国株式）／2026.02期 売上高16,233百万円 営業利益率11.5%",
+ "researched_at": "2026-11-02T20:14:16.300878+00:00",
+ "official_url": "https://www.sk-japan.co.jp/",
+ "identified_by": "search:yahoo_jp:エスケイジャパン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1989年(平成元年)12月1日",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1989年(平成元年)12月14日",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1989年12月14日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "145名（2026年2月28日現在）",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "141 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "キャラクターのぬいぐるみ、キーホルダー、 家庭雑貨、カプセルトイ商品、 アミューズメント施設向けプライズ商品等の企画・販売",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "今月の新商品",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "☆おしらせ☆ 『忠犬もちしば』物販商品 お取扱い店舗情報",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お詫び】商品発売延期のお知らせ",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新着商品情報",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品に関するお詫びと回収・交換対応のお知らせ",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "いつの時代にも愛され続け笑顔になれるキャラクター商品をこれからもみなさまの元へお届けします",
+    "url": "https://www.sk-japan.co.jp/company/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "笑顔を生み出すキャラクター商品にこだわり続けています",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "が詰まった商品をたくさん作っています！",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "安全を確認する人、お店に商品を届ける人、",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちの商品があなたと周囲に",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "今日も笑顔を生み出す商品作りに全力投球しています！",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "あなたが持っているその商品も",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "先取りして新しい商品をお届けしています！",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが作る商品で小さな幸せを感じる！",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：03-6701-8090（代表・アミューズメント商品）",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：03-6701-8055（カプセルトイ商品）",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "TEL：03-6701-8175（物販向けキャラクター商品）",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "家庭雑貨、カプセルトイ商品、",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "アミューズメント施設向けプライズ商品等の企画・販売",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル商品強化のため、企画製造・販売会社サムシング株式会社を設立",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター商品販売強化のため、株式会社サンエスを設立",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:03-6701-8090（代表・アミューズメント商品）",
+    "url": "https://www.sk-japan.co.jp/company/about/access",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:03-6701-8055（カプセルトイ商品）",
+    "url": "https://www.sk-japan.co.jp/company/about/access",
+    "pass": 1
+   },
+   {
+    "quote": "TEL:03-6701-8175（物販向けキャラクター商品）",
+    "url": "https://www.sk-japan.co.jp/company/about/access",
+    "pass": 1
+   },
+   {
+    "quote": "自分の提案したオリジナル商品の開発が「リスキーだ」とはねつけられると、 会社への愛着がなえてしまった",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "売り上げを回収したあとに、 その現金を持ってメーカーを回り、商品を仕入れるという自転車操業だった",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "キティちゃんの絵が付いたくしやコップなど「100円均一」用の商品であった",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "福井県のおもちゃメーカーの商品で、 関西に販路を広げようとしているという",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "100円均一セール用商品という目新しさもあって売上はどんどん増え、 ついに独立4ヶ月後の1990年3月期決算は3000万円の売上で、経営損益はわずか17万円だが黒字になった",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "平素より弊社商品をご愛顧いただき、誠にありがとうございます",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品（以下、「当該商品」という",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該商品は、 弊社 「忠犬もちしば」 のデザインに酷似しておりますが、 弊社が正式に発売または許諾し",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に弊社キャラクター商品を安心して楽しんでいただくため、今後も模倣品への注意喚起に取り",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【当該商品】",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も弊社商品をご愛顧賜りますようお願い申し上げます",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品に関するお詫びと回収・交換対応のお知らせ",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平素は弊社商品をご愛顧いただき厚く御礼申し上げます",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この度、 弊社がプライズ商品として販売しておりました商品に使用していた「星のカ",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、交換を希望されるお客様にたいしまして、該当商品を回収の上、正し",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い表記の商品と交換させていただくこととなりました",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本商品を獲得いただいたお客様には大変なご迷惑と御手数をお掛けいたしますこと、",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ちの商品を送料着払いにてお送りください",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "尚、正しい表記に修正した商品の発送は令和5 年12 月末頃を予定しております",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．交換対象商品",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社エスケイジャパン アミューズメント事業部 商品課",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社エスケイジャパンは、ゲームセンターやアミューズメント施設向けのカプセルトイ、クレーンゲーム用景品（プライズ商品）、キャラクターグッズの企画・製造・販売を展開するキャラクターコンテンツ専門商社です",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "大手アニメや人気キャラクターのライセンス商品化権を多数保持し、市場のトレンドをいち早くキャッチした魅力的な商品開発力と、全国の主要アミューズメント施設や専門店への強固な流通ネットワークを強みとして事業を展開しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "この好業績をもたらした主な要因は、国内のアミューズメント市場においてインバウンド需要の回復や推し活需要の高まりを捉え、主力のクレーンゲーム用景品やカプセルトイ商品の販売が大幅に伸びたことです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、人気IP（知的財産）を活用したオリジナル商品の拡販に加え、製造コストや物流費の上昇に対して仕入価格の見直しや生産プロセスの適正化を徹底したことが、大幅な利益率の向上と収益拡大へと繋がりました",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エスケイジャパンの価値提案は、魅力的なキャラクターを使った商品を通じて人々に「楽しさ」と「ワクワク感」を提供するところにあります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "例えばオリジナルのイラストをあしらった限定品や、人気アニメとコラボした新作商品を定期的に投入することで、ファンに常に新鮮な驚きを届ける仕組みを整えています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、最近はSNSを用いて商品の魅力を伝えるだけでなく、ユーザー同士が交流できる場を設けることで、ただの物販以上の体験価値を提供しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクターを好きな人たちが集まるコミュニティをつくり上げることでリピート購買が生まれ、また次の新商品にも関心を持ってもらいやすくなるのです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これらを外部に任せる場合もありますが、同社ではノウハウを蓄積しながら社内外のリソースを組み合わせることで、素早い製品化が可能になる仕組みを作り上げました",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "またゲームセンターのプライズ市場に向けた企画では、景品としてのインパクトやコストバランスを考慮した製品づくりが重要となります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "商品の売れ行きは市場調査や販売実績データの分析で随時確認し、そのフィードバックを新商品企画にすぐ取り入れることで、流行に遅れない速度感を実現しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのネットワークがあってこそ、人気キャラクターの新商品を最適なタイミングでリリースできたり、イベント連動企画で新しい顧客層を獲得できたりします",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたリソースを有効活用することで、同社は安定した商品開発サイクルと幅広い流通チャネルを維持しており、それが継続的なビジネス拡大へとつながっているのです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクターの人気を最大化するには、ライセンスを円滑に取得し、短期間で魅力的な商品を大量に生産し、幅広い消費者に届くようにする必要があるからです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに国内の問屋やイベント会社との連携により、発売日やイベント会場での先行販売などを調整して、商品をより話題にしやすい環境を作ります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "エスケイジャパンオリジナルのキャラクターたちをご紹介します！",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "☆おしらせ☆ 『忠犬もちしば』物販商品 お取扱い店舗情報",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "京都ハンナリーズ・ゴールドパートナー継続のお知らせ",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "京都ハンナリーズ・ゴールドパートナー契約締結のお知らせ",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介 | エスケイジャパン 会社情報",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "中川無線電機株式会社より店舗の営業権を譲受け、株式会社ナカヌキヤによる小売事業をスタートする",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/access",
+    "pass": 1
+   },
+   {
+    "quote": "エスケイジャパンのご紹介",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "文字通り叩き上げで成長を成し遂げた、弊社の「創成期」のご紹介です",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "その問屋の社長の紹介で早速、メーカーの担当者が久保の会社を訪ねてきた",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "この度、弊社が著作権を有する「忠犬もちしば」に酷似した模倣品が、日本国内の店舗およびEC サイ",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京都ハンナリーズ・ゴールドパートナー継続のお知らせ",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/06/kyotohannarz_partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ゴールドパートナーを 継続しましたのでお知らせいたします",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/06/kyotohannarz_partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これからもゴールドパートナーとして、京都ハンナリーズの活動を応援して参ります",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/06/kyotohannarz_partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要活動としては、キャラクターのライセンス取得から企画デザイン、製造、そして卸売や直販に至るまでの一連のプロセスがあります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に「ネットワーク」については、キャラクターの権利を持つ企業や出版・放送関連のパートナー、さらには小売店やアミューズメント施設との強い繋がりがポイントです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーはキャラクターライセンスを持つ権利元企業、製造受託を行う工場や配送業者、そして販売協力を行う小売店やイベント会社などが主となります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパートナーシップをしっかり築くことによって、キャラクターグッズの発売スケジュールや販売戦略を柔軟に変化させることが可能になり、ファンのニーズに合った形で提供しやすくなるのです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、コラボ企画などで新たな顧客を呼び込むために他社企業とのパートナーシップを積極的に作っていくことは、同社の成長を支える大きな要素にもなっています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクター商品の購買層はネット通販を利用することも多い一方で、実店舗やイベントで実際に商品を手に取って楽しむケースも数多くあるためです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで同社はSNSの活用や店舗でのイベント、キャンペーンなどを通じて、ファン同士が交流できる環境を整えています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また店舗や展示会の特設ブースでワークショップを開催し、商品開発の一部を体験してもらうなど、「ただ買うだけ」ではない関係を構築する工夫も行っています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は卸売と直販を組み合わせることで収益機会を増やし、特にオンライン販売の比率を高めることで幅広い地域のファンから直接注文を受ける仕組みを確立しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "特に海外に向けたライセンス展開やオンライン販売の強化が注目され、アニメやゲームのグローバルヒットと連動する形で収益機会を増やす可能性があります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月1週目",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月2週目",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月3週目",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月3週目",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月4週目",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算短信",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 (2)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2020年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2019年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2018年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2017年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2016年2月期 (4)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2015年2月期 (7)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2014年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2013年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2011年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2010年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2009年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2008年2月期 (8)",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "1989年(平成元年)12月1日",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "1989年(平成元年)12月14日",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | エスケイジャパン 会社情報",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1989年12月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1991年3月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1992年6月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1992年12月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1993年4月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1993年9月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1994年4月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1994年12月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1995年9月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1995年12月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1996年1月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1996年4月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1996年10月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1999年7月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1999年8月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2001年3月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2001年9月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年2月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年4月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年5月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年12月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2003年3月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2003年11月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2004年5月",
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1980年に高校を卒業すると進学せずに、故郷を離れて福岡市のおもちゃ卸会社に就職した",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "1989年11月",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "エスケイジャパンにはお客様の声を聞く人、デザインを考える人、",
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "pass": 1
+   },
+   {
+    "quote": "事務所は以前からの取引先の好意で、その会社の一角を間借りした",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線で西へ向かい、停車駅ごとに下車して取引先を開拓する",
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先 各位",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/07/20260703-tokyobuilding.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たものではございませんので、お客様におかれましては、誤ってご購入されることのないようご注意く",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に弊社キャラクター商品を安心して楽しんでいただくため、今後も模倣品への注意喚起に取り",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先各位",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2025/04/hukuoka-iten-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先 各位",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/06/Tokyo_iten.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先 各 位",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/03/osaka_iten.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、交換を希望されるお客様にたいしまして、該当商品を回収の上、正し",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本商品を獲得いただいたお客様には大変なご迷惑と御手数をお掛けいたしますこと、",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "交換を希望されるお客様は、令和 5 年 11 月 30 日（木）までに下記返送先までお持",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様氏名、ご住所、お電話番号を明記したものを必ず同封の上、お送りください",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※お客様の個人情報は本件のみに使用しその他の目的に使用することは一切ござ",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、最近はSNSを用いて商品の魅力を伝えるだけでなく、ユーザー同士が交流できる場を設けることで、ただの物販以上の体験価値を提供しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのネットワークがあってこそ、人気キャラクターの新商品を最適なタイミングでリリースできたり、イベント連動企画で新しい顧客層を獲得できたりします",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、コラボ企画などで新たな顧客を呼び込むために他社企業とのパートナーシップを積極的に作っていくことは、同社の成長を支える大きな要素にもなっています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "大型イベントやコミック系の即売会に出展するのも重要なチャンネルで、ファン同士の交流の場になりやすく、一度に多くの新規顧客を獲得できるメリットがあります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係は、商品を買ってもらうだけで終わらず、ファンコミュニティを作り出すことに重きを置いています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そうしたコミュニティ形成を軸にすると、口コミやSNSでの拡散も起こりやすくなり、企業と顧客が互いに長期的な関係を築きやすくなるのです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "このように商品と顧客のつながりを長く維持する戦略によって、安定した売上とブランド価値の向上を狙っています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントは子ども向けから大人のコレクター層まで幅広く存在します",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、世代を超えた顧客セグメントをカバーできるようになり、安定した売上につながっています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした多様な顧客セグメントをターゲットに設定しているからこそ、人気作品のブームが一巡しても別の作品のファンが支えてくれるという循環が生まれ、安定性の高いビジネスを実現しているのです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "注目度急上昇 株式会社エスケイジャパンのビジネスモデルを徹底解説 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "注目度急上昇 株式会社エスケイジャパンのビジネスモデルを徹底解説",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "最近はサブスクリプション型のサービスや会員制ファンクラブなどの新たな収益モデルも試験的に導入しており、既存のグッズ売上に加えて定期的な収益を得る戦略も模索中です",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにサブスクリプション型サービスやデジタルアイテムの販売など、新しいビジネスモデルを開拓する動きも加速しそうです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ダイワ通信の魅力に迫る ビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NaITOでモノづくりを支援 ビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の生産性向上や自動化を支える機械工具の商流において、国内外の多...",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "昭栄薬品のビジネスモデル徹底解剖と成長戦略を読み解く魅力的なポイント",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "共同紙販ホールディングスのビジネスモデルと成長戦略が生む魅力",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カメイのビジネスモデルと成長戦略の魅力",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "富士興産のビジネスモデルを徹底解説 成長戦略の鍵は環境関連事業にあり",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイトロン株式会社が描くビジネスモデルと成長戦略の魅力",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "：卸売や製造というビジネスモデルは、本来それほど利益率が高くないはず",
+    "url": "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "大手アニメや人気キャラクターのライセンス商品化権を多数保持し、市場のトレンドをいち早くキャッチした魅力的な商品開発力と、全国の主要アミューズメント施設や専門店への強固な流通ネットワークを強みとして事業を展開しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "主要活動としては、キャラクターのライセンス取得から企画デザイン、製造、そして卸売や直販に至るまでの一連のプロセスがあります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクター事業では魅力あるデザインを生み出す企画力と、ライセンス元との強固な関係構築が欠かせないからです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーはキャラクターライセンスを持つ権利元企業、製造受託を行う工場や配送業者、そして販売協力を行う小売店やイベント会社などが主となります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクターの人気を最大化するには、ライセンスを円滑に取得し、短期間で魅力的な商品を大量に生産し、幅広い消費者に届くようにする必要があるからです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "またキャラクターのコラボ企画を立ち上げて限定グッズを販売すると、追加のライセンス収入やコラボ先からの協賛収入が発生するケースもあります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "最近はサブスクリプション型のサービスや会員制ファンクラブなどの新たな収益モデルも試験的に導入しており、既存のグッズ売上に加えて定期的な収益を得る戦略も模索中です",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト構造には製造コスト、ライセンス料、流通費用、広告宣伝費などが含まれます",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクターグッズは版権を使用するためライセンス料が必ず発生し、さらに製品を大量生産する場合は海外工場での生産コストと輸送費が大きな割合を占めるからです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そしてコミュニティが盛り上がれば盛り上がるほど、同社の存在感は増し、他のライセンス元からも魅力的なオファーが来る可能性が高まります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "キャラクター人気やライセンス契約の動向によって株価が大きく動く場合があるため、投資を検討する際には決算発表や新規ライセンス情報のチェックが有効と考えられます",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "特に海外に向けたライセンス展開やオンライン販売の強化が注目され、アニメやゲームのグローバルヒットと連動する形で収益機会を増やす可能性があります",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにサブスクリプション型サービスやデジタルアイテムの販売など、新しいビジネスモデルを開拓する動きも加速しそうです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "：北京を拠点に、新規キャラクターライセンスの取得と現地での販路拡大を進めています",
+    "url": "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "pass": 3
+   },
+   {
+    "quote": "単に日本で作ったものを売るのではなく、現地でライセンスを取得し、現地のニーズに合わせた商品を企画する体制を整えつつある点は、長期的な成長を考える上で大きなプラス材料だと感じました",
+    "url": "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "pass": 3
+   },
+   {
+    "quote": "「ドラえもん」「星のカービィ」「サラブレッドコレクション」といった人気ＩＰとライセンス契約を結んだ商品や、自社オリジナルの「でぶねこ」「忠犬もちしば」など、豊富な商品ラインアップを取り揃えている",
+    "url": "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "pass": 3
+   },
+   {
+    "quote": "馬主などの権利者とライセンス契約を行い、キーホルダーやぬいぐるみなどを企画している",
+    "url": "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントは子ども向けから大人のコレクター層まで幅広く存在します",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、世代を超えた顧客セグメントをカバーできるようになり、安定した売上につながっています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに近年はSNSや動画配信などの影響で、海外ファンが増えていることから、国際展開による新たなセグメント開拓も進行しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした多様な顧客セグメントをターゲットに設定しているからこそ、人気作品のブームが一巡しても別の作品のファンが支えてくれるという循環が生まれ、安定性の高いビジネスを実現しているのです",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高は、エンタメ事業が約97億円",
+    "url": "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "大手アニメや人気キャラクターのライセンス商品化権を多数保持し、市場のトレンドをいち早くキャッチした魅力的な商品開発力と、全国の主要アミューズメント施設や専門店への強固な流通ネットワークを強みとして事業を展開しています",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、コストをバランスよく抑えつつ魅力的な商品を作り出すのが同社の強みといえるでしょう",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現在は営業利益率11.5％を実現し、攻めの経営に転じていることが見て取れます",
+    "url": "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "pass": 3
+   },
+   {
+    "quote": "：ROE 20％超え、営業利益率10％超えという数字は、キャラクター業界の中でも極めて優秀です",
+    "url": "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "pass": 3
+   },
+   {
+    "quote": "特許技術による高機能強みの釘メーカー 非住宅木造市場の拡大が追い風に",
+    "url": "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "pass": 3
+   },
+   {
+    "quote": "20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長",
+    "url": "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "注目度急上昇 株式会社 エスケイジャパン の ビジネスモデル を ... — 注目度急上昇 株式会社 エスケイジャパン の ビジネスモデル を ... チームマイクの企業分析 https://consovation.com > 商業 > 卸売業",
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケイジャパン : まぁーるいココロのそばに いつも — エスケイジャパン : まぁーるいココロのそばに いつも エスケイジャパン https://www.sk-japan.co.jp > お知らせ",
+    "url": "https://www.sk-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケイジャパン | multibook（マルチブック） — 株式会社 エスケイジャパン | multibook（マルチブック） multibook.jp https://www.multibook.jp > 導入事例 > 業種 > その他",
+    "url": "https://www.multibook.jp/case/sk-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケイジャパン （雑貨）の「企業分析［強み・弱み・展望 ... — エスケイジャパン （雑貨）の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > エスケイジャパン（雑貨）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fray&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "IR 決算説明 会 資料 | エスケイジャパン 会社情報 — IR 決算説明 会 資料 | エスケイジャパン 会社情報 エスケイジャパン https://www.sk-japan.co.jp > 会社情報 > IR情報",
+    "url": "https://www.sk-japan.co.jp/company/ir/kesanset",
+    "pass": 3
+   },
+   {
+    "quote": "IR 決算 短信 | エスケイジャパン 会社情報 — IR 決算 短信 | エスケイジャパン 会社情報 エスケイジャパン https://www.sk-japan.co.jp > 会社情報 > IR情報",
+    "url": "https://www.sk-japan.co.jp/company/ir/tanshin",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスケイジャパン 】[7608]IR情報 中期経営計画や 決算 短信 — 【 エスケイジャパン 】[7608]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7608",
+    "pass": 3
+   },
+   {
+    "quote": "エスケイジャパン 【7608】の最新 決算 発表、業績修正 - 株探 — エスケイジャパン 【7608】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > エスケイジャパン (7608) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=7608",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | エスケイジャパン 会社情報 — IR情報 | エスケイジャパン 会社情報 エスケイジャパン https://www.sk-japan.co.jp > 会社情報",
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜ エスケイジャパン — 組織図｜ エスケイジャパン 118.82.120.49 http://118.82.120.49 > company > organization",
+    "url": "http://118.82.120.49/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスケイジャパン 】[7608]企業概要 社員数や役員報酬・資本金 — 【 エスケイジャパン 】[7608]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | エスケイジャパン グループについて — 事業 紹介 | エスケイジャパン グループについて skjapan-group.co.jp https://skjapan-group.co.jp > groupinfo > business",
+    "url": "https://skjapan-group.co.jp/groupinfo/business/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | エスケイジャパン 会社情報 — 会社概要 | エスケイジャパン 会社情報 エスケイジャパン https://www.sk-japan.co.jp > 会社情報 > 会社案内",
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "(株) エスケイジャパン 【東証スタンダード上場】 - マイナビ — (株) エスケイジャパン 【東証スタンダード上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp202586 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp202586/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | エスケイジャパン 会社情報 — トップメッセージ | エスケイジャパン 会社情報 エスケイジャパン https://www.sk-japan.co.jp > 会社情報 > 会社案内",
+    "url": "https://www.sk-japan.co.jp/company/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "エスケイジャパン 株式会社 代表取締役 杉 弘行 - 社長名鑑 — エスケイジャパン 株式会社 代表取締役 杉 弘行 - 社長名鑑 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2810",
+    "pass": 3
+   },
+   {
+    "quote": "グループ概要 - エスケイジャパン — グループ概要 - エスケイジャパン skjapan-group.co.jp https://skjapan-group.co.jp > groupinfo > overview",
+    "url": "https://skjapan-group.co.jp/groupinfo/overview/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sk-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/philosophy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/intro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/access",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/company/about/venture",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/07/20260703-tokyobuilding.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/06/mochishiba_notice260626.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/01/20260121-ir-kogaisyaiten.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2025/04/hukuoka-iten-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/06/kyotohannarz_partnership.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/06/Tokyo_iten.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/03/osaka_iten.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/10/%E5%95%86%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E5%9B%9E%E5%8F%8E%E3%83%BB%E4%BA%A4%E6%8F%9B%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://118.82.120.49/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エスケイジャパン",
+   "results": [
+    "https://www.sk-japan.co.jp/",
+    "https://skjapan-group.co.jp/groupinfo/overview/",
+    "https://www.skj-felicis.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "https://www.kobitos.com/post/skjapan2611",
+    "https://ja.wikipedia.org/wiki/エスケイジャパン"
+   ]
+  },
+  {
+   "query": "エスケイジャパン ビジネスモデル",
+   "results": [
+    "https://consovation.com/%E6%B3%A8%E7%9B%AE%E5%BA%A6%E6%80%A5%E4%B8%8A%E6%98%87-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "https://note.com/invest_papa57/n/n4d44bb9ac3ed",
+    "https://www.sk-japan.co.jp/",
+    "https://www.multibook.jp/case/sk-japan/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fray&q_no=9",
+    "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "https://skjapan-group.co.jp/about/",
+    "https://hw-jobs.careermine.jp/salary/sk-japan",
+    "https://prtimes.jp/main/html/rd/p/000000247.000015843.html",
+    "https://consovation.com/注目度急上昇-株式会社エスケイジャパンのビジネ/"
+   ]
+  },
+  {
+   "query": "エスケイジャパン 決算説明資料",
+   "results": [
+    "https://www.sk-japan.co.jp/company/ir/kesanset",
+    "https://www.sk-japan.co.jp/company/ir/tanshin",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7608",
+    "https://kabutan.jp/stock/finance?code=7608",
+    "https://www.sk-japan.co.jp/company/ir",
+    "https://www.nsk.com/jp-ja/company/investors/financial-announcements/",
+    "https://edinetdb.jp/company/E02897/ir-docs/",
+    "https://www.buffett-code.com/company/7608/library",
+    "https://treelazy.com/stock-jp/7608/conference",
+    "https://edinetdb.jp/company/E02897/presentations/"
+   ]
+  },
+  {
+   "query": "エスケイジャパン 事業系統図",
+   "results": [
+    "http://118.82.120.49/company/organization.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7608",
+    "https://skjapan-group.co.jp/groupinfo/business/",
+    "https://www.sk-japan.co.jp/company/about/profile",
+    "https://job.mynavi.jp/27/pc/search/corp202586/outline.html",
+    "https://www.multibook.jp/case/sk-japan/",
+    "https://japex-sks.co.jp/company/organization/",
+    "https://note.com/sadaf/n/nf5da77540f1b",
+    "https://www.koba.or.jp/member/member_list.php?mb_id=0335913800"
+   ]
+  },
+  {
+   "query": "エスケイジャパン 社長 インタビュー",
+   "results": [
+    "https://www.kabutecho.com/interview/%E5%A4%A7%E9%98%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%83%BB%E6%96%B0%E5%B8%82%E5%A0%B4%E9%83%A8%E3%81%AE%E4%B8%8A%E5%A0%B4%E7%AC%AC1%E5%8F%B7-%E8%8B%A6%E9%9B%A3%E3%81%AE%E5%9B%9B%E5%8D%8A/",
+    "https://www.sk-japan.co.jp/company/about/message",
+    "https://shachomeikan.jp/industry_article/2810",
+    "https://skjapan-group.co.jp/groupinfo/overview/",
+    "https://the-leader.jp/interview/sk-japanworks/",
+    "https://www.nikkan-gendai.com/articles/view/money/375079",
+    "https://www.skj-felicis.com/view/company",
+    "https://jobtalk.jp/companies/2752/answers?question_codes=president",
+    "https://www.nikkan.co.jp/articles/view/292559",
+    "https://recruit.crj-jf.com/company/representative"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像8件／外部5頁・検索5回）"
+ }
+}

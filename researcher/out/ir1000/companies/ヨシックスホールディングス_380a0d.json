@@ -1,0 +1,1330 @@
+{
+ "name": "ヨシックスホールディングス",
+ "aliases": [],
+ "context": "証券コード3221／小売業／プライム（内国株式）／2026.03期 売上高25,914百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:26:00.897390+00:00",
+ "official_url": "https://yossix.co.jp/",
+ "identified_by": "search:yahoo_jp:ヨシックスホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1985年4月1日",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "１.会社が設立したのはいつ？",
+    "value": "1985年（昭和60年）4月1日です。",
+    "url": "https://yossix.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年度",
+    "value": "1985年",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5,244人（PA含む）（2026年3月末）",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "798人",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "持株会社として事業子会社の支配・管理のほか、企業経営に関する助言・指導を主に行う",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "傘下に寿司居酒屋「や台ずし」を中心とした飲食チェーン、店舗内装子会社を擁する。2021年1月に持株会社体制に移行。2021年8月にはCVCの設立とともに老人ホーム事業への進出検討を開始。",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗オープン・キャンペーン情報・お知らせ",
+    "url": "https://yossix.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、本格職人握り寿司居酒屋「や台ずし」、低価格居酒屋「ニパチ」、ひとくち餃子居酒屋「ひとくち餃子の頂」、お好み焼・鉄板焼居酒屋「や台や」、串カツ居酒屋「これや」、新名古屋名物「海老どて食堂」などの業態で、北海道から九州にかけての41都道府県に400店舗を展開しています",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗設計・施工事業",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "フードビジネス店舗の設計・施工を生業としております",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "401店舗（2026年3月末）",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "41都道府県に400店舗展開中",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/shop-guide/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/shop-guide/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/shop-guide/",
+    "pass": 1
+   },
+   {
+    "quote": "お子様連れや三世代でもゆったり楽しめる！(一部店舗例外あり)",
+    "url": "https://yossix.co.jp/shop-guide/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/president-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/president-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/president-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "提供するサービスの水準は各店舗の人材に影響を受けますので、優秀な人材の確保、育成およびコンプライアンスの徹底を最重要課題として取り組んでまいります",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "食材の品質管理はもとより、店舗における調理場自体の清潔感及び衛生管理を徹底することで、お客様に安心して飲食して頂くことに努めてまいります",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/corporate-governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/corporate-governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/corporate-governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/hightlight01.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/hightlight01.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/hightlight01.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/hightlight02.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/hightlight02.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/hightlight02.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/stock-information.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/stock-information.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/stock-information.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/library01.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/library01.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/library01.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/library02.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/library02.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/library02.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介",
+    "url": "https://yossix.co.jp/ir/library03.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食事業紹介トップ",
+    "url": "https://yossix.co.jp/ir/library03.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件・店舗施工管理業者の募集",
+    "url": "https://yossix.co.jp/ir/library03.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "全てのお客様の記憶に残る「食体験」を大切に、ただ料理をご提供するだけでなく、社員一丸となってお客様一人ひとりと向き合うことで最高のおもてなしを実現します",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の嗜好やニーズの多種多様化、変化のスピードも速まるなか、顧客が外食に対して要求しているものは何かということを探求し、情報収集の徹底を図ることで、新業態の開発に注力してまいります",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "食材の品質管理はもとより、店舗における調理場自体の清潔感及び衛生管理を徹底することで、お客様に安心して飲食して頂くことに努めてまいります",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "発生し、お客様情報の一部が流出したことが判明いたしました",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グル ープを通じてトイポアプリをご登録・ご利用いただいているお客様におかれまし",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グル ープにおけるトイポアプリ全体利用者のうち、最大 151,243 名様のお客様情報",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・電話番号、ユーザーID 等の識別情報",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. お客様へのお願い（不審な連絡への警戒）",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本件に伴い、お客様のパスワードやクレジットカード情報等の流出は確認されておりませ",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このたびは、お客様に多大なるご心配とお手数をおかけいたしますことを、重ねて深くお",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業理念としては、店舗内装事業を立ち上げた時からのもので、「赤ちゃんからおじいちゃん、おばあちゃんまで楽しく過ごせる心・食・居を演出する」ということで、幅広いお客様に楽しく過ごしていただくための場所を提供していくということでございます",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "中核の飲食事業であるや台やグループは、スタートがや台やという鉄板焼き屋だったのでや台やという名前をつけているのですが、このや台やグループの基本理念として「元気を持って帰ってもらえる店」ということで、お客様にお越しいただいて、楽しく飲食していただいて、元気になって帰っていただくことを目指している飲食チェーンでございます",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "店舗の中心は、この店もそうですけれども、「や台ずし」という職人が寿司を握ってご提供するとともに、居酒屋メニューを出してお客様にご満足いただけるお店で、現在323店舗展開しております",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "原材料や食材の仕入価格が上昇するなどのマイナス要因はありましたが、お客様がちゃんと店舗に来ていただいて、楽しんで帰っていただいたことで、売上と利益に繋がったということです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "客単価と客数についてはちょっと後ほど詳しくお話ししますが、とりあえずお客様が店舗に戻ってきてくださったことで、売上がしっかり伸びたということです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "なぜお客様が戻ってきたかというと、もう当たり前のことですが、皆さん外出して飲食を楽しめるようになったからでしょう",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "まさに、自分たちで店を出し、メニューを考え、お客様を呼び込み、利益を出していく",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "お客様を店舗に呼び込む施策でもあるので、経営でも優待拡充には前向きです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "「や台ずし」の客単価は3,000円ちょっと超えるぐらいなんですが、「ひとくち餃子の頂」の場合は、お持ち帰りのお客様もいらっしゃれば、定食屋のように食べて帰られる方もいて、なかなかそこまでの客単価にはいかないんです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 最近は外食企業で自社アプリを使った予約などが増えていると思いますが、ヨシックスさんでもそのようなアプリを活用してお客様を囲い込むことは検討されていますか",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "寿司は提供まで時間がかかるので、事前に予約しておけば、例えば子連れのお客様でもスムーズにお寿司を召し上がれるのではないかと思った次第です",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、テイクアウトには力を入れたいと思っていますので、アプリで注文から決済までできるようになれば、お客様を待つだけで済むので、そういった仕組みづくりは常に研究しているところです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "A. 考え方は先ほど申し上げた通りですが、個別のケースについてお答えしますと、神田店は関東事業部の近くにあるので、お客様をおもてなしする際に一店舗もないというわけにはいかず、あえて出店した経緯があります",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "九州のお客様はブリしか食べないとか言われますが、当社ではブリではなくハマチで十分に喜んでいただいてます",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、現状では外国人のお客様中心という訳ではありませんが",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "「や台ずし」に関しては、出店エリアの特性上、地域のファミリー層がメインのお客様になっています",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "地域密着型の店舗であるため顧客にはファミリー層も多く、土曜・日曜の売上も含めて安定した集客を実現しています",
+    "url": "https://www.youtube.com/watch?v=gIdTuysFWjM",
+    "pass": 3
+   },
+   {
+    "quote": "地域密着型の店舗であるため顧客にはファミリー層も多く、土曜・日曜の売上も含めて安定した集客を実現しています",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "フードサービス企業として日々成長をめざし、真心を込めた最高の料理とおもてなしをご提供しております",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "大海老太巻寿司などのお持ち帰り商品も観光客に人気",
+    "url": "https://yossix.co.jp/shop-guide/",
+    "pass": 1
+   },
+   {
+    "quote": "提供するサービスの水準は各店舗の人材に影響を受けますので、優秀な人材の確保、育成およびコンプライアンスの徹底を最重要課題として取り組んでまいります",
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "pass": 1
+   },
+   {
+    "quote": "・来店履歴、購買・サービス利用履歴",
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社には、多くの飲食チェーンが設置しているような、店舗開発部や商品部といった専門部署がありません",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・インフラ",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   },
+   {
+    "quote": "フードサービス",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   },
+   {
+    "quote": "楽器・木製品・その他製造",
+    "url": "https://biz.chunichi.co.jp/news/article/10/58072/329/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "平成10年に鉄板居酒屋「や台や」1号店を出店",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月にグループのコーポレートベンチャーキャピタル（ＣＶＣ）としてヨシックスキャピタルを設立",
+    "url": "https://yossix.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年4月1日",
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社ヨシックスホールディングス",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年(令和８年) 8月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年(令和８年) 7月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年(令和７年) 10月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年(令和７年) 7月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年(令和７年) 6月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年(令和７年) 4月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年(令和７年) 3月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年(令和６年) 9月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年(令和６年) 6月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年(令和６年) 4月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年(令和６年) 2月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年(令和５年）7月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年(令和５年）5月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年(令和４年）12月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年(令和３年）8月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年(令和３年）6月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年(令和３年）1月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年(令和２年）",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年(平成28年）9月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年(平成27年）12月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年(平成26年）12月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年(平成16年）１月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年(平成14年）3月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年(平成12年）12月",
+    "url": "https://yossix.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年(平成26年)12月24日",
+    "url": "https://yossix.co.jp/ir/stock-information.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月06日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月25日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月08日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月06日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月07日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月08日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月24日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月10日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年02月09日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月8日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月9日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月25日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月10日",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算発表",
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）4月1日です",
+    "url": "https://yossix.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年（平成26年）12月24日です",
+    "url": "https://yossix.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月26日 21:38",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 連結決算概要",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 利益計画",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "1990年にヨシックスに社名変更し、1998年に鉄板焼き屋「や台や」1号店を名古屋・押切に出店したのが飲食事業の始まりです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "我々は自社農場や養殖場を持っているわけではなく、基本的に仕入先から調達した食材を調理して販売するビジネスモデルなので、仕入価格の上昇が利益を圧迫しました",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "そして、その投資を1～2年で回収するというのが当社のビジネスモデルです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "前期の計画を最初に発表した際は、もっと保守的に、この半分ぐらいの利益予想を出したのですが、株価が翌日に大きく下落して散々な評価を受けました",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "我々としては保守的というか慎重だったのですが、結果的にはこれだけの利益を出せて良い期だったと考えております",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "売上を増やすには客数×客単価しかないわけです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "客単価と客数についてはちょっと後ほど詳しくお話ししますが、とりあえずお客様が店舗に戻ってきてくださったことで、売上がしっかり伸びたということです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は伸ばす一方で、人件費と水光熱費の比率を少し保守的に見積もったため、増収増益にはなるものの、利益率は少し低めに計画していると",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "高級路線の飲食チェーンのような客単価が高い業態では、家賃比率はもっと高くなることもあるでしょう",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "客単価は当然、「や台ずし」より少し低いです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "「や台ずし」の客単価は3,000円ちょっと超えるぐらいなんですが、「ひとくち餃子の頂」の場合は、お持ち帰りのお客様もいらっしゃれば、定食屋のように食べて帰られる方もいて、なかなかそこまでの客単価にはいかないんです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "これがどういう強みになっているかというと、スピーディに出店ができたり、業態を変更できたりするということです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は23億22百万円で、我々が一つの目安としている営業利益率10%をクリアできました",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "職人が握る本格的な寿司をリーズナブルな価格で提供することが我々の強みだからです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "価格を適正な原価率に見合ったものに改定したこともあり、前期は粗利が改善しました",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、営業利益率は前期よりも若干低下する計画となっています",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "近年は営業利益率10%を最低ラインと考えており、これを下回ると当社の強みである高収益性が失われてしまうと認識しています",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "そういう雰囲気づくりは、まさに地元の個人店や小型店の強みを活かしたものだと言えます",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、「老舗理論」とは、地元密着型の個人店・小型店の良さと、チェーン店・大型店の強みを組み合わせる戦略だと言えるでしょう",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "原価率と粗利率は、他社と比べてもそれほど違いはないはずです",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "Q. ヨシックスグループの強みの一つにヨシオカ建装があるとのことですが、ヨシオカ建装の売上と利益はどのくらいなのか気になります",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "九州は魚介の品質も高いので、名古屋ほど強みを発揮できないのではと思うのですが、九州での御社の競争力はどういった点にあるのでしょうか",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 自然薯専門店と居酒屋では強みが全く違うと思うのですが、シナジーは本当に生まれるのでしょうか",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "わたくしたちの飲食事業の強みの源泉は、独自の出店戦略「田舎戦略」にあります",
+    "url": "https://www.youtube.com/watch?v=gIdTuysFWjM",
+    "pass": 3
+   },
+   {
+    "quote": "当社飲食事業の強みの源泉は、独自の出店戦略「田舎戦略」にあります",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "[書き起こし] ヨシックスホールディングス (3221) IRセミナー ... — [書き起こし] ヨシックスホールディングス (3221) IRセミナー ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシックスホールディングス (3221)IRセミナー&質疑応答 — ヨシックスホールディングス (3221)IRセミナー&質疑応答 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=gIdTuysFWjM",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ヨシックスホールディングス 【3221】 - 未来金融研究部 — (株) ヨシックスホールディングス 【3221】 - 未来金融研究部 未来金融研究部 https://mirakin.jp > ... > 名証プレミア > 名古屋市 > 愛知県",
+    "url": "https://mirakin.jp/syougyou/kouri/yossix/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシックスホールディングス — ヨシックスホールディングス yossix.co.jp https://yossix.co.jp",
+    "url": "https://yossix.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 ヨシックスホールディングス — 決算説明資料 | 株式会社 ヨシックスホールディングス yossix.co.jp https://yossix.co.jp > IR情報 > IRライブラリ",
+    "url": "https://yossix.co.jp/ir/library02.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 ヨシックスホールディングス — IR情報 | 株式会社 ヨシックスホールディングス yossix.co.jp https://yossix.co.jp > ...",
+    "url": "https://yossix.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ヨシックスホールディングス 】[3221]IR情報 ... - 日本経済新聞 — 【 ヨシックスホールディングス 】[3221]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3221",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨシックスホールディングス - ログミーファイナンス — 株式会社 ヨシックスホールディングス - ログミーファイナンス ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/488",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 株式会社 ヨシックスホールディングス — 組織図 | 株式会社 ヨシックスホールディングス yossix.co.jp https://yossix.co.jp > 企業情報",
+    "url": "https://yossix.co.jp/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨシックスホールディングス の会社情報 - M&Aクラウド — 株式会社 ヨシックスホールディングス の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/4822",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨシックスホールディングス — 株式会社 ヨシックスホールディングス 大和インベスター・リレーションズ PDF https://www.daiwair.co.jp > td_download",
+    "url": "https://www.daiwair.co.jp/td_download.cgi?c=3221&i=3055628",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシックスホールディングス 【3221】のストーリー・沿革 — ヨシックスホールディングス 【3221】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/3221/story",
+    "pass": 3
+   },
+   {
+    "quote": "「失敗と挑戦 何度も」 ヨシックスホールディングス 会長兼 ... — 「失敗と挑戦 何度も」 ヨシックスホールディングス 会長兼 ... 中日BIZナビ https://biz.chunichi.co.jp > news > article",
+    "url": "https://biz.chunichi.co.jp/news/article/10/58072/329/",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣 | 株式会社 ヨシックスホールディングス — 経営陣 | 株式会社 ヨシックスホールディングス yossix.co.jp https://yossix.co.jp > 企業情報",
+    "url": "https://yossix.co.jp/corporate/management/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシックスホールディングス 【3221】の 社長 ・役員 — ヨシックスホールディングス 【3221】の 社長 ・役員 キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3221/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yossix.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/shop-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/president-message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/future-plans.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/corporate-governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/hightlight01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/hightlight02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/stock-information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/library07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/ir-calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yossix.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://yossix.co.jp/news/upload/79-0link_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yossix.co.jp/images/business/001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/business/002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/top/business-logo/blank.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/top/business-logo/yataizushi.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/top/business-logo/nipachi.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/top/business-logo/itadaki.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/top/business-logo/koreya.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://yossix.co.jp/images/top/business-logo/teppan.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=gIdTuysFWjM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://macloud.jp/companies/4822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.chunichi.co.jp/news/article/10/58072/329/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヨシックスホールディングス",
+   "results": [
+    "https://yossix.co.jp/",
+    "https://yossix-shop.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://x.com/yossix_co_ltd",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3221",
+    "https://ja.wikipedia.org/wiki/ヨシックス",
+    "https://www.yossix.co.jp/corporate/outline/",
+    "https://kabutan.jp/stock/?code=3221",
+    "https://finance.yahoo.co.jp/quote/3221.T/profile",
+    "https://kigyo-scope.jp/company/3221/"
+   ]
+  },
+  {
+   "query": "ヨシックスホールディングス ビジネスモデル",
+   "results": [
+    "https://note.com/kabuberry_/n/n5e97be83f2e0",
+    "https://www.youtube.com/watch?v=gIdTuysFWjM",
+    "https://mirakin.jp/syougyou/kouri/yossix/",
+    "https://yossix.co.jp/",
+    "https://www.nikkei.com/article/DGXZQOFD055DD0V00C26A8000000/",
+    "https://macloud.jp/companies/4822",
+    "https://www.daiwair.co.jp/td_download.cgi?c=3221&i=3055628",
+    "https://finance.logmi.jp/articles/289873",
+    "https://www.saa.or.jp/dc/event/apps/company/CompanyBriefingSummaryShowList.do?goExec=&evtId=018746",
+    "https://consovation.com/イノベーションを生むビジネスモデルが注目され/"
+   ]
+  },
+  {
+   "query": "ヨシックスホールディングス 決算説明資料",
+   "results": [
+    "https://yossix.co.jp/ir/library02.html",
+    "https://yossix.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3221",
+    "https://finance.logmi.jp/companies/488",
+    "https://investalk.jp/3221/yossix-2026-03-earnings/",
+    "https://kabutan.jp/stock/finance?code=3221",
+    "https://shikiho.toyokeizai.net/stocks/3221",
+    "https://newspicks.com/news/16625177/",
+    "https://yossix.co.jp/ir/library03.html",
+    "https://edinetdb.jp/company/E30656/presentations/"
+   ]
+  },
+  {
+   "query": "ヨシックスホールディングス 事業系統図",
+   "results": [
+    "https://yossix.co.jp/corporate/organization/",
+    "https://macloud.jp/companies/4822",
+    "https://yossix-shop.com/",
+    "https://www.daiwair.co.jp/td_download.cgi?c=3221&i=3055628",
+    "https://kitaishihon.com/company/3221/story",
+    "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://www.saa.or.jp/dc/event/apps/company/CompanyBriefingSummaryShowList.do?goExec=&evtId=018746",
+    "https://www.careermap.jp/corporations/89422",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YEWX.pdf",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=3221"
+   ]
+  },
+  {
+   "query": "ヨシックスホールディングス 社長 インタビュー",
+   "results": [
+    "https://biz.chunichi.co.jp/news/article/10/58072/329/",
+    "https://yossix.co.jp/corporate/management/",
+    "https://www.tv-tokyo.co.jp/cambria/backnumber/2024/0425/",
+    "https://txbiz.tv-tokyo.co.jp/cambria/vod/post_295185",
+    "https://kitaishihon.com/company/3221/board-of-director",
+    "https://www.nikkei.com/article/DGKKZO71134100Y3A510C2TB1000/",
+    "https://www.youtube.com/watch?v=pYJeEtzOvCc",
+    "https://note.com/gnavi_official/n/na84df72eae56",
+    "https://macloud.jp/companies/4822",
+    "https://yossix.co.jp/corporate/message/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部4頁・検索5回）"
+ }
+}

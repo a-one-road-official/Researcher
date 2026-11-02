@@ -1,0 +1,731 @@
+{
+ "name": "セカンドサイトアナリティカ",
+ "aliases": [],
+ "context": "証券コード5028／情報・通信業／グロース（内国株式）／2025.12期 売上高1,436百万円 営業利益率11.9%",
+ "researched_at": "2026-11-02T20:08:33.530094+00:00",
+ "official_url": "https://www.sxi.co.jp/",
+ "identified_by": "search:yahoo_jp:セカンドサイトアナリティカ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業について教えてください。",
+    "value": "新生フィナンシャル株式会社に経営コンサルティングを行っていた株式会社グリフィン・ストラテジック・パートナーズが、本格的にアナリティクスを中核事業とする企業の設立を目指すこととなり、両社の合弁により2016年6月にセカンドサイト株式会社が設立されました。2021年12月には商号をセカンドサイトアナリティカ株式会社に変更、現在に至っております。",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "2016年6月1日",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "現在の従業員数を教えてください。",
+    "value": "月次の従業員については非開示としておりますが、直近の決算での2022年12月末時点では39名となっております。",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アナリティクスとテクノロジーを活用したサービスを提供する専門企業「AI」の核となる機械学習やディープラーニングなど 新技術のR&Dを行い、様々な業種・分野に対するアナリティクス・コンサルティングサービスと、それを動かすIT基盤やAIサービス（プロダクト）を提供",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の特定のビジネス課題を解決するために、データ分析及び機械学習モデルの構築を支援することで、アナリティクスを基礎としたコンサルティングを提供しております",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広いお客様のニーズに合致した汎用性の高い製品を提供しています",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで、データサイエンス・人工知能技術を用いたコンサルティングやプロダクト提供を通じて、多くのお客様の企業価値向上に取り組んでまいりました",
+    "url": "https://www.sxi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の本質課題を捉え、データアナリティクスとAIで成果に繋げる「ビジネス価値創造企業」",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "」という経営理念の下、ビジネスの現場で生きるソリューションを顧客に届けてきた",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、顧客のビジネスに価値を届けること",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "深谷氏は、「顧客の課題解決や収益改善を重視している」と強調する",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客にとって本質的な価値とは何か」その問いに向き合いながら、データを分析し、AIという手段を通じて解を導く",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "分析か開発かではなく、価値創出の視点で繋がる──AIを手段に顧客の“幸せ”を考え抜くチーム",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "同社では、データサイエンティストとテクノロジーエンジニアが連携し、顧客の課題解決に向けたプロジェクトを推進する",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、テクノロジーエンジニアは顧客へのヒアリングを起点に、AIプロダクトの開発・チューニングから実装、運用設計までを担い、プロダクトを現場に定着させていく",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "役割には違いがあるが、共通して求められるのは「ビジネスへの理解」と「手を動かす姿勢」、そして「顧客と共に成果を追う意志」である",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の現場で実際に“使われ”、業務に組み込まれて成果が出るところまで伴走する──それが、同社における仕事の基本姿勢だ",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "どんな技術を使うかではなく、それが顧客にとってどんな意義や成果をもたらすかが重要です」AI技術の高度化・汎用化が進む中で、「誰でもAIを使える時代」が急速に訪れると見ているからこそ、同社が重視するのは技術そのものではなく、「どう使えば社会の幸せに繋がるか」という視点である",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "共通しているのは「顧客の課題解決に繋がる視点」を持ち続けている点だ",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとって本質的な成果とは何か",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "ある金融系プロジェクトでは、お客様が保有する膨大なデータに機械学習を適用し、審査判断の高度化に取り組みました",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "それもありますが、それ以上に、弊社のお客様からの「ありがとう」が嬉しかったので",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "JCBとキャッシュレス決済事業者向けに、「Marcs」を活用した加盟店審査サービスを提供開始",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エクシオグループおよび大和電設工業と共同開発した「AI献立サービス」のインタビューが公開されました",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セカンドサイトアナリティカとTIS、カード決済の不正利用を防ぐ「AI不正検知サービス」を提供開始",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI総研の「【2024年最新】おススメの企業向けAI関連サービス・開発会社まとめ」の記事に掲載されました",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広いお客様のニーズに合致した汎用性の高い製品を提供しています",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セカンドサイトアナリティカは、ワンストップでアナリティクス・AIの開発・導入・活用・運用のサービスを提供する「アナリティクスを活用したビジネス価値創造企業」です",
+    "url": "https://www.sxi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「AI」の核となる機械学習やディープラーニングの活用など新しい技術の研究開発を行い、国内外の金融を始めとし保険、決済、不動産、EC、通信、人事などさまざまな業種・分野に対するアナリティクスサービスと、それを支え、動かすIT基盤やソリューションの提供を行っています",
+    "url": "https://www.sxi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "セカンドサイトアナリティカだからこそ提供できるサービスや強みとは――",
+    "url": "https://www.sxi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "自社サービス製品あり",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "」という経営理念の下、ビジネスの現場で生きるソリューションを顧客に届けてきた",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要素を「三位一体」で複合させる体制と手法が、実効性あるソリューションを支えている",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "、自社サービス製品あり",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "アナリティクスとテクノロジーを活用したサービスを提供する専門企業",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "「AI」の核となる機械学習やディープラーニングなど 新技術のR&Dを行い、様々な業種・分野に対するアナリティクス・コンサルティングサービスと、それを動かすIT基盤やAIサービス（プロダクト）を提供",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモ、SBペイメントサービス、auフィナンシャルサービス、JCB、NTTデータ、TIS、エクシオグループ、SBI新生銀行グループなど",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：アナリティクスとテクノロジーを活用したサービスを提供する専門企業「AI」の核となる機械学習やディープラーニングなど 新技術のR&Dを行い、様々な業種・分野に対するアナリティクス・コンサルティングサービスと、それを動かすIT基盤やAIサービス（プロダクト）を提供",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムソリューション事業",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年に設立された、アナリティクスとテクノロジーを活用したサービスを提供する専門企業",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「AI」の核となる機械学習やディープラーニングなど 新技術のR&Dを通じて、様々な業種・分野に対するアナリティクス・コンサルティングサービスと、それを動かすIT基盤やAIサービス（プロダクト）を提供している",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "CaseHUB.Newsに既築住宅10万件の施工品質を支えるAI活用事例として紹介されました",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "矢野経済研究所のレポート「2025年版 デジタル金融市場の実態と将来予測」に当社が紹介されました",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業課題、業界、構築モデルごとにセカンドサイトの提供するアナリティクスコンサルティングの取組事例を紹介します",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生フィナンシャル株式会社に経営コンサルティングを行っていた株式会社グリフィン・ストラテジック・パートナーズが、本格的にアナリティクスを中核事業とする企業の設立を目指すこととなり、両社の合弁により2016年6月にセカンドサイト株式会社が設立されました",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "【国内最大級のAI・クラウド案件数／自社開発のAIマッチングシステム導入／年間休日125日以上／残業平均7.8h／充実の福利厚生29制度／平均案件紹介数61件】",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "オックスフォードパートナーズ 株式会社",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカは、当社グループのAIを活用した事業の重要なパートナーであり、通信建設工事におけるAIを活用した安全品質管理をはじめ、ローカル5Gを活用した「4K映像のリアルタイムAI画像解析」のシステム構築など、従来の協業を更に発展強化するため、セカンドサイトアナリティカの取締役会長である加藤 良太郎氏が所有する株式を取得することと致しました",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クレア・ライフ・パートナーズ 工藤 将太郎 氏",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本不動産パートナーズ 青木 晋市 氏",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルサーガパートナーズ株式会社 小俣 泰明 氏",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "セカンドサイトアナリティカだからこそ提供できるサービスや強みとは――",
+    "url": "https://www.sxi.co.jp/about",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年2月13日",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期決算発表",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月24日",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月14日",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第１四半期決算発表",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期決算発表",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第３四半期決算発表",
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月には商号をセカンドサイトアナリティカ株式会社に変更、現在に至っております",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2016年の創業以来、右肩上がりの成長を続け、2022年4月には東京証券取引所グロース市場に上場",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "2016年06月",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月10日",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年4月より代表取締役",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年に設立された、アナリティクスとテクノロジーを活用したサービスを提供する専門企業",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "R2Engineに関して、収益構造を教えてください",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "R2Engineの基本的な収益構造につきまして、まずフロー売上としてR2Engineの導入料が計上され、その後、月額で保守・運用によるストック売上が計上されることとなります",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストック売上にはどういうものがありますか？",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "アナリティクスコンサルティング事業での構築したAIモデルのライセンス料や、AIプロダクト事業でのプロダクトの保守、運用料、またはライセンス料をストック売上としております",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "アナリティクスコンサルティング事業とAIプロダクト事業で、それぞれフローとストックの売上割合はどの程度でしょうか？",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "割合について開示していないため控えますが、アナリティクスコンサルティング事業と比較して、AIプロダクト事業の方がストック色が強くなっております",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "R2Engineの基本的な収益構造につきまして、まずフロー売上としてR2Engineの導入料が計上され、その後、月額で保守・運用によるストック売上が計上されることとなります",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画の発表の予定はございませんが、中長期の成長イメージとして、ストック売上を中心としたAIプロダクト事業の割合を拡大させていくことを想定しております",
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "セカンドサイトアナリティカ 株式会社 — セカンドサイトアナリティカ 株式会社 セカンドサイトアナリティカ株式会社 https://www.sxi.co.jp",
+    "url": "https://www.sxi.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ 株式会社の中途採用・求人一覧 — セカンドサイトアナリティカ 株式会社の中途採用・求人一覧 転職サイトGreen https://www.green-japan.com > company",
+    "url": "https://www.green-japan.com/company/10553",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ ［5028］グロース IPO - YouTube — セカンドサイトアナリティカ ［5028］グロース IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=MET1LrdGgb0",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ (@SecondXight.Inc) - Facebook — セカンドサイトアナリティカ (@SecondXight.Inc) - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/SecondXight.Inc/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - セカンドサイトアナリティカ株式会社 — 決算説明資料 - セカンドサイトアナリティカ株式会社 セカンドサイトアナリティカ株式会社 https://www.sxi.co.jp > presentations",
+    "url": "https://www.sxi.co.jp/ir/presentations",
+    "pass": 3
+   },
+   {
+    "quote": "【 セカンドサイトアナリティカ 】[5028]IR情報 ... - 日本経済新聞 — 【 セカンドサイトアナリティカ 】[5028]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ 株式会社 (@SecondXight) / X — セカンドサイトアナリティカ 株式会社 (@SecondXight) / X X https://x.com > SecondXight",
+    "url": "https://x.com/SecondXight",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - セカンドサイトアナリティカ株式会社 — IR情報 - セカンドサイトアナリティカ株式会社 セカンドサイトアナリティカ株式会社 https://www.sxi.co.jp > ...",
+    "url": "https://www.sxi.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ 【5028】のIR 資料 — セカンドサイトアナリティカ 【5028】のIR 資料 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/5028/library",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - セカンドサイトアナリティカ株式会社 — 企業情報 - セカンドサイトアナリティカ株式会社 セカンドサイトアナリティカ株式会社 https://www.sxi.co.jp > company",
+    "url": "https://www.sxi.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ の株式追加取得に関するお知らせ — セカンドサイトアナリティカ の株式追加取得に関するお知らせ エクシオグループ https://www.exeo.co.jp > news",
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "pass": 3
+   },
+   {
+    "quote": "Recruit 採用情報 - セカンドサイトアナリティカ株式会社 — Recruit 採用情報 - セカンドサイトアナリティカ株式会社 セカンドサイトアナリティカ株式会社 https://www.sxi.co.jp > recruit",
+    "url": "https://www.sxi.co.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ - 日本経済新聞 — セカンドサイトアナリティカ - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5028",
+    "pass": 3
+   },
+   {
+    "quote": "CEOの仕事観に迫るメディア「CEO voice」に当社代表・高山 ... — CEOの仕事観に迫るメディア「CEO voice」に当社代表・高山 ... セカンドサイトアナリティカ株式会社 https://www.sxi.co.jp > articles > FKieZ",
+    "url": "https://www.sxi.co.jp/articles/FKieZ",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ - 高山 博和 - CEO VOiCE — セカンドサイトアナリティカ - 高山 博和 - CEO VOiCE ceo-voice.com https://www.ceo-voice.com > 記事一覧",
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ 株式会社 代表取締役 社長 高山 博和 — セカンドサイトアナリティカ 株式会社 代表取締役 社長 高山 博和 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2351",
+    "pass": 3
+   },
+   {
+    "quote": "セカンドサイトアナリティカ 株式会社の社員 インタビュー — セカンドサイトアナリティカ 株式会社の社員 インタビュー 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/10553/interview",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sxi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/performance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sxi.co.jp/ir/faq",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.green-japan.com/company/10553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exeo.co.jp/news/5041.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceo-voice.com/interview/sxi.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セカンドサイトアナリティカ",
+   "results": [
+    "https://www.sxi.co.jp/",
+    "https://www.sxi.co.jp/company",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000WgxD1",
+    "https://jp.linkedin.com/company/secondxight",
+    "https://www.green-japan.com/company/10553",
+    "https://en-ambi.com/agency/a-4213/",
+    "https://kabutan.jp/stock/?code=5028",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10169544358/",
+    "https://finance.yahoo.co.jp/quote/5028.T",
+    "https://finance.stockweather.co.jp/contents/stockdetail.aspx?cntcode=JP&skubun=1&stkcode=5028&exctype=01"
+   ]
+  },
+  {
+   "query": "セカンドサイトアナリティカ ビジネスモデル",
+   "results": [
+    "https://www.sxi.co.jp/",
+    "https://www.green-japan.com/company/10553",
+    "https://www.youtube.com/watch?v=MET1LrdGgb0",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015997849/",
+    "https://www.facebook.com/SecondXight.Inc/",
+    "https://hrmos.co/pages/sxi/jobs",
+    "https://www.geekly.co.jp/companys/data/6184/",
+    "https://kitaishihon.com/company/5028/business",
+    "https://x.com/SecondXight",
+    "https://www.sxi.co.jp/company/"
+   ]
+  },
+  {
+   "query": "セカンドサイトアナリティカ 決算説明資料",
+   "results": [
+    "https://www.sxi.co.jp/ir/presentations",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5028",
+    "https://x.com/SecondXight",
+    "https://www.sxi.co.jp/ir",
+    "https://www.buffett-code.com/company/5028/library",
+    "https://edinetdb.jp/company/E37506/presentations/",
+    "https://www.facebook.com/SecondXight.Inc/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5028",
+    "https://japanir.jp/company/company-5028/ir/5028-20260814-02_wp_financial_summary/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260213560936/"
+   ]
+  },
+  {
+   "query": "セカンドサイトアナリティカ 事業系統図",
+   "results": [
+    "https://www.sxi.co.jp/company",
+    "https://www.exeo.co.jp/news/5041.html",
+    "https://www.green-japan.com/company/10553",
+    "https://www.sxi.co.jp/recruit",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5028",
+    "https://www.youtube.com/watch?v=MET1LrdGgb0",
+    "https://en-ambi.com/agency/a-4213/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/34194",
+    "https://kitaishihon.com/company/5028/business",
+    "https://www.sxi.co.jp/"
+   ]
+  },
+  {
+   "query": "セカンドサイトアナリティカ 社長 インタビュー",
+   "results": [
+    "https://www.sxi.co.jp/articles/FKieZ",
+    "https://www.ceo-voice.com/interview/sxi.html",
+    "https://shachomeikan.jp/industry_article/2351",
+    "https://www.green-japan.com/company/10553/interview",
+    "https://x.com/SecondXight",
+    "https://www.zaikai.jp/articles/detail/5569",
+    "https://news.careerconnection.jp/dx/4ma74f-gkui/",
+    "https://www.youtube.com/watch?v=4mA74F-gkUI",
+    "https://zuuonline.com/archives/276156",
+    "https://www.sxi.co.jp/articles/vL9LE"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

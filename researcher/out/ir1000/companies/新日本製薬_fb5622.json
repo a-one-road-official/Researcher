@@ -1,0 +1,1348 @@
+{
+ "name": "新日本製薬",
+ "aliases": [],
+ "context": "証券コード4931／化学／プライム（内国株式）／2025.09期 売上高41,140百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:24:48.942112+00:00",
+ "official_url": "https://corporate.shinnihonseiyaku.co.jp/",
+ "identified_by": "search:ddgs:google:新日本製薬",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1992年（平成4年）3月11日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1992年",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "504名(2025年9月末時点)",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "515名(連結、2024年12月現在)",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "400億4300万円（連結、2024年9月期）",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "お客さまの健康に一番近い「かかりつけ」のような存在をめざし、さまざまな疾病や症状を改善へと導く商品を開発しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選した原料、当社の技術で、飲みやすさと品質にこだわった商品を皆さまの毎日に提案しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬、福岡ソフトバンクホークスジュニアチームの選手・監督・コーチへ 今年20周年を迎えた『パーフェクトワン』の商品を贈呈しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中島健人さん出演 スキンケアブランド『パーフェクトワン』の新CM「レッドカーペット」篇を6月28日（日）より全国で放映開始 ～ブランド誕生20周年を迎え、新商品とともに次なる扉を開く～",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/27シーズン開幕！新日本製薬がアビスパ福岡へ、 今年20周年を迎えた『パーフェクトワン』の商品1年分を贈呈しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品詳細はこちら",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選した原料、当社の技術で、飲みやすさと品質にこだわった商品を皆さまの毎日に提案しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの健康に一番近い「かかりつけ」のような存在をめざし、さまざまな疾病や症状を改善へと導く商品を開発",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまからいただいたご意見やご要望、「こんな商品があったらうれしい」といった声を大切にし、商品企画を行っております",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな市場調査を実施し、お客さまと直接お話をするコールセンターと連携したうえで、確かな実感が得られるように最新の技術情報や成分情報を収集し、効果性や機能性の高い商品を開発することで、ライフスタイルに合った商品のご提案ができるよう努めております",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社では10年先の定番商品を開発し、お客さまのライフスタイルを創造できるよう、新カテゴリーや新サービスの分野においても、より独自性・専門性の高い商品の開発をめざしております",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "コールセンターでの月間約20万件の会話の中からお客さまの潜在的なニーズを汲み取り、必要とされるタイミングで商品をご提供することが私たちの役割です",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬の取り扱う製品は、直接お客さまの口に入るものや肌につけていただくものがほとんど",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、安心・安全に「過ぎる」ことはないという考えのもとGQP・GVP体制を構築し、法規で定められた以上の独自の厳しいチェックを日々繰り返し、製品の品質保証・安全管理を徹底しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "より愛される商品をめざして",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "』のもと、お客さまにより高い効果を実感していただける商品開発をめざし、新しい成分や素材の研究・開発に取り組んでまいりました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "オンラインショップでは、より多くのお客さまに快適なネットショッピングを楽しんでいただけるよう、肌悩みやケアしたいポイントに合った商品を簡単に探すことができます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "商品について (商品をお使いのお客さま、ご利用希望の企業さま)",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/contact/index?message_field1=SVLjgIAo5qCq5Li75qeY44CB5oqV6LOH5a6244Gu44G-44Gq44GV44G_KQ..",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご注文に関するお問い合わせ",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/contact/index?message_field1=SVLjgIAo5qCq5Li75qeY44CB5oqV6LOH5a6244Gu44G-44Gq44GV44G_KQ..",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご相談に関するお問い合わせ",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/contact/index?message_field1=SVLjgIAo5qCq5Li75qeY44CB5oqV6LOH5a6244Gu44G-44Gq44GV44G_KQ..",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬の研究開発は、“効果を実感でき、満足していただける商品をお客さまへお届けしたい”という想いから始まりました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "新たな有用成分の探索や成分の機能性研究、浸透技術や製剤化技術を活用した有用成分の力を引き出す研究を行い、お客さまに効果を実感いただける商品の開発に活かしています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "生体バリア機能が低下すると、肌や身体の老化が促進されてしまうことがわかっており、私たちは、生体バリア機能を高めることが重要であると考え、美と健康の領域で効果を実感いただける商品や使用方法などを提案するため、研究開発に取り組んでいます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法、その他の法令及び当社の株式を上場する証券取引所規則を遵守します",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/disclosure_policy",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画初年度となる2025年9月期は、「トレンド×VOC×独自価値」のもと、重点活動の一つである新商品・新事業の強化が着実に進展した一年となりました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "各ブランドから新商品を発売するとともに、新事業としてメンズコスメをローンチした結果、売上高は411億円、営業利益は47億円と増収増益を達成しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインナップの拡充と、ターゲット層の拡大によってミドル世代を獲得し、顧客ポートフォリオの拡大を図ります",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業や新商品に対して、当社の強みである約660万人の顧客データベースを活用し、クロスセルを積極化することで売上の拡大をめざします",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "「米国を起点に、世界中どこにいても利用できる商品の提供及びサービス体制の構築」という方針のもと、米国において通販事業のマーケティング手法の成功モデルを確立し、アジアをはじめとする各地域へ展開拡大させます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "重点活動④ 新商品・新サービス強化",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "お客さま満足の最大化に向けたスピーディーな商品開発体制と仕組みを構築し、AI活用による「トレンド×VOC×独自価値」を反映したヒット商品の開発精度の向上、顧客ロイヤリティや研究開発の強化を行います",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "好調な「Fun and Health」及び「PERFECT ONE FOCUS」のさらなる成長拡大に加え、「PERFECT ONE」については戦略的新商品の投入を通じて成長フェーズへの転換を図り、全社の成長ドライバーと位置づけています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "各ブランドにおいて重点活動である新商品・新事業強化の取り組みを推進・加速するとともに、これまで培ってきたヒット創出のナレッジを活用することで、中期経営計画の最終年度に向けた大幅成長につなげていきます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "適正な商品回転率の維持",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "商品同梱資材",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "主力商品であるオールインワン美容液ジェルについては、2023年につめかえ用を発売して以降、ラインナップを拡充し、販売を順調に拡大しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "つめかえ商品の展開は、環境負荷低減と顧客利便性の向上を両立する取り組みとして着実に成果を上げています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、商品の配送箱・化粧箱に認証紙及び再生紙の採用を進めており、2025年度の使用率は配送箱で99.6％、化粧箱で72.0％まで拡大しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、メール便対応商品の拡大や置き配指定の導入等、お客さまの受取方法の多様化を進めることで再配達の削減にも取り組み、物流における効率化とCO",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬では、商品に天然由来の成分を多く採用しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまに満足いただける商品を提供し続けるためには生物多様性の保全が重要と考え、社内外での取り組みを推進しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "絶滅危惧ＩＢ類（EN）に指定されるムラサキの栽培方法確立と商品への採用",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "現在、これらの研究成果を活かした商品開発を積極的に推進するとともに、国内での栽培連携を広げています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "ムラサキを配合している商品数",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "※ PERFECT ONE・PERFECT ONE FOCUSの商品（限定品を除く）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "現在、パーフェクトワン オールインワン美容液ジェルシリーズやパーフェクトワンフォーカスの化粧箱の他、新商品においてもFSC®認証紙の採用を順次拡大しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "また、商品のお届けに使用する配送箱にもFSC®認証紙を採用し、環境負荷の低減に努めています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "小売・サービス",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の主力はスキンケアブランド『パーフェクトワン』で、オールインワン美容液ジェルシリーズは国内売り上げ8年連続ナンバーワン（富士経済「化粧品マーケティング要覧2017～2024」）を達成し、ギネス世界記録",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は販売実績を順調に増やし、既製品の販売から自社企画製品の販売へとシフト",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、顧客からの意見や要望、「こんな商品があったらうれしい」といった声を大切にしながら商品企画を行っている",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年までの3年間を長期ビジョン実現に向けた基盤固めの期間として、全社戦略である「トレンド×VOC（Voice Of Customer：顧客の声）×独自価値」を実現する商品開発の推進を加速するという",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "2点目は、DB（データベース）マーケティングの強化によって新規事業・新商品を生み出し、LTV（顧客生涯価値）を最大化すること",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みであるDBマーケティングをフルに活用し、顧客にフィット感のある新規事業と新商品開発を強化することで新たな顧客との出会いを増やし、美と健康の分野における全方位へ挑戦して、顧客満足度とQOL（生活の質）の最大化に貢献する",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "4点目は、新商品・新サービス強化による事業成長の加速だ",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "人的リソースとITへの投資強化によって、顧客の世代やライフステージに合わせた新商品・新サービスを開発できる仕組みを構築し、開発スピードやヒット率を向上させるメソッドの推進加速に努めていく",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客の声を起点とした商品開発と革新的なマーケティング戦略から、学ぶことは多い",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび、PHP（WEBサイトやWEBサービスの構築に",
+    "url": "https://recruit.shinnihonseiyaku.co.jp/department",
+    "pass": 3
+   },
+   {
+    "quote": "弊社リクルートサイトおよび以下の一部サービスを",
+    "url": "https://recruit.shinnihonseiyaku.co.jp/department",
+    "pass": 3
+   },
+   {
+    "quote": "【停止したサイトおよびサービス】",
+    "url": "https://recruit.shinnihonseiyaku.co.jp/department",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/10995",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/contact/index?message_field1=SVLjgIAo5qCq5Li75qeY44CB5oqV6LOH5a6244Gu44G-44Gq44GV44G_KQ..",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み｜研究開発｜新日本製薬 株式会社",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "美と健康領域における研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬では、コラーゲン・薬用植物・先端素材の３つに着目した、機能性が高く独自性のある新素材の開発を強みとしており、研究開発の成果については特許を取得してきました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬では、大学などとの共同研究を行い、生体バリア機能における高度な技術の開発、知見の収集と活用など、バリア機能に関する研究を強みとしています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/disclosure_policy",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/plan",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度より開始した中期経営計画「Growth Next 2027」は、美と健康の領域で成長拡大し、当社の強みを活かして事業を飛躍させるための3カ年計画です",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "また、全社基盤強化として、当社の強みであるヒューマンコミュニケーションと顧客データベースにAIを掛け合わせたデータ基盤を構築し、IT・デジタル活用を拡大しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業や新商品に対して、当社の強みである約660万人の顧客データベースを活用し、クロスセルを積極化することで売上の拡大をめざします",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の強み",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/about",
+    "pass": 1
+   },
+   {
+    "quote": "自社の強みであるDBマーケティングをフルに活用し、顧客にフィット感のある新規事業と新商品開発を強化することで新たな顧客との出会いを増やし、美と健康の分野における全方位へ挑戦して、顧客満足度とQOL（生活の質）の最大化に貢献する",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、パーパスに基づいた総合的な戦略を展開することによって持続可能な成長と企業価値の最大化を推し進め、2027年9月期には、連結で売上高520億円、営業利益60億円、営業利益率11.5％の実現を目指すという",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "資生堂ジャパン、AIアンバサダー軸に全社変革を加速～「ココロが動くAIX」で競争優位創出へ",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年熊本地震により被災された皆さまに、心よりお見舞い申し上げます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算発表の説明動画を公開しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算説明会資料（スクリプト付き）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算 主な質疑応答（要約）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算補足説明資料",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度内定式の取り組みが掲載されました[ふくおか経済]",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年の当社の創立時から、時代は変化しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算発表の説明動画を公開しました｜IR情報｜ニュース｜新日本製薬 株式会社",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/10995",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算発表の説明動画を公開しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/10995",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月７日（金）公表「2026年９月期第３四半期決算」の説明動画を公開いたしました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/10995",
+    "pass": 1
+   },
+   {
+    "quote": "1992年（平成4年）3月11日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月 時点",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新日本製薬の沿革をご覧いただけます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度～2027年度の中期経営計画をご覧いただけます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年６月30日付で株式会社フラット・クラフトを連結子会社化したことに伴い、2021年９月期第３四半期より連結決算へ移行しております",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第3四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第2四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第1四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期第3四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期第2四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期第1四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期決算および中期経営計画説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期第3四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期第2四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期第1四半期決算説明会動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期（令和８年９月期）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 通期決算発表（予定）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月７日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年５月13日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第２四半期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月10日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第１四半期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期（令和７年９月期）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月18日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月17日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月16日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月11日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 通期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年８月５日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 第３四半期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年５月15日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期半期報告書提出",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年５月13日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 第２四半期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年２月７日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 第１四半期決算発表",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期（令和６年９月期）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月20日",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社情報｜新日本製薬 株式会社",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月現在",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年12月1日制定",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/disclosure_policy",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算発表の説明動画を公開しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算説明会資料（スクリプト付き）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算 主な質疑応答（要約）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算補足説明資料",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また約600万件の顧客データベースに集約された情報から、お一人おひとりに合わせたご提案ができるよう、データを分析",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主・投資者、取引先、地域社会をはじめとするあらゆるステークホルダーに対して、当社に対する理解の促進に寄与するため、重要な情報の公正かつ適時・適切な開示を行います",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/disclosure_policy",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、化粧品は「PERFECT ONE」において、ミドル世代の新規顧客獲得が着実に進捗しましたが、効率を重視した戦略的な広告投資の抑制により、計画に対しては進捗の遅れが生じております",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "また、全社基盤強化として、当社の強みであるヒューマンコミュニケーションと顧客データベースにAIを掛け合わせたデータ基盤を構築し、IT・デジタル活用を拡大しています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインナップの拡充と、ターゲット層の拡大によってミドル世代を獲得し、顧客ポートフォリオの拡大を図ります",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業や新商品に対して、当社の強みである約660万人の顧客データベースを活用し、クロスセルを積極化することで売上の拡大をめざします",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "お客さま満足の最大化に向けたスピーディーな商品開発体制と仕組みを構築し、AI活用による「トレンド×VOC×独自価値」を反映したヒット商品の開発精度の向上、顧客ロイヤリティや研究開発の強化を行います",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お取引先との協働により事業活動において環境配慮に努めます",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、定期顧客の約42％がつめかえ用を利用し、これにより年間約165tのプラスチック使用量削減を実現しました",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "つめかえ商品の展開は、環境負荷低減と顧客利便性の向上を両立する取り組みとして着実に成果を上げています",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、顧客からの意見や要望、「こんな商品があったらうれしい」といった声を大切にしながら商品企画を行っている",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "この認識がユーザーに浸透し、2025年1月には累計販売実績8500万個を突破",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年までの3年間を長期ビジョン実現に向けた基盤固めの期間として、全社戦略である「トレンド×VOC（Voice Of Customer：顧客の声）×独自価値」を実現する商品開発の推進を加速するという",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "また、同社のバリューに掲げた「感動創出」へ向けて通販・EC・卸売りのオムニチャネル化を推進し、顧客一人一人のニーズに合わせたコミュニケーションの下、ブランドとして統一感のあるシームレスな購買体験を実現していく",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "2点目は、DB（データベース）マーケティングの強化によって新規事業・新商品を生み出し、LTV（顧客生涯価値）を最大化すること",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みであるDBマーケティングをフルに活用し、顧客にフィット感のある新規事業と新商品開発を強化することで新たな顧客との出会いを増やし、美と健康の分野における全方位へ挑戦して、顧客満足度とQOL（生活の質）の最大化に貢献する",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "人的リソースとITへの投資強化によって、顧客の世代やライフステージに合わせた新商品・新サービスを開発できる仕組みを構築し、開発スピードやヒット率を向上させるメソッドの推進加速に努めていく",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客の声を起点とした商品開発と革新的なマーケティング戦略から、学ぶことは多い",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "お客さま、お取引先さまならびに関係者の皆さまには、",
+    "url": "https://recruit.shinnihonseiyaku.co.jp/department",
+    "pass": 3
+   },
+   {
+    "quote": "主力ブランド「パーフェクトワン」はCRMの強化を通じてLTVの最大化に取り組み、複数商品の定期購入比率や定期顧客の単価が上昇し、国内売上高は前年並みを維持した",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "また、ミドル世代・ミレニアル世代の顧客層を拡大するという目標については25年以降も引き続き重点的に取り組む方針だ",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "「パーフェクトワン」はこれまでシニア層の支持を中心に成長してきたが、それ以外のユーザー層、特にミレニアル世代の獲得が課題であった",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの化粧品分野に加えヘルスケア製品でも顧客を獲得できたことは、事業拡大の観点からも重要な成果であり、今後の成長に向けた足掛かりになると考えている",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "コーセー、顧客の声を経営資産へと転換～お客様相談室起点で改革を加速",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "ファンケル、独自の顧客データと3つのAI技術を融合した新顧客理解基盤を本格始動",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "コーセー、顧客の声を経営資産へと転換～お客様相談室起点...",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "花王、AIを中核に全社のDXを加速～需給計画から顧客体...",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介｜新日本製薬 株式会社",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品店舗販売業許可",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "会社名（店舗、団体名）",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/contact/index?message_field1=SVLjgIAo5qCq5Li75qeY44CB5oqV6LOH5a6244Gu44G-44Gq44GV44G_KQ..",
+    "pass": 1
+   },
+   {
+    "quote": "3月 直営店舗１号店を福岡パルコに出店",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "【企業事例】優れた経営戦略を実践する企業の成功ストーリーを紹介します",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "”毛穴ケア”の次なる狙い目は？ 最新のアイテム傾向と、美容液からクレンジングまでODM３品をご紹介",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "制度品・海外品・一般品・通販・訪販の各企業の最新動向を万遍なく紹介しております",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介｜ 新日本製薬 株式会社 — 事業紹介｜ 新日本製薬 株式会社 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp > works",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 3
+   },
+   {
+    "quote": "パーパス主軸の事業展開で、 新日本製薬 は100年企業の基盤を ... — パーパス主軸の事業展開で、 新日本製薬 は100年企業の基盤を ... タナベコンサルティング https://review.tanabeconsulting.co.jp > モデル企業",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜サステナビリティ｜会社情報 - 新日本製薬 — トップメッセージ｜サステナビリティ｜会社情報 - 新日本製薬 新日本製薬 株式会社 https://corporate.shinnihonseiyaku.co.jp > message",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/message/",
+    "pass": 3
+   },
+   {
+    "quote": "SUSTAINABILITY REPORT 2024 - 新日本製薬 — SUSTAINABILITY REPORT 2024 - 新日本製薬 新日本製薬 株式会社 PDF https://corporate.shinnihonseiyaku.co.jp > uploads",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/files/uploads/sustainability_report_2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新日本製薬 株式会社 — 新日本製薬 株式会社 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜IRライブラリ｜投資家情報 - 新日本製薬 — 決算説明資料 ｜IRライブラリ｜投資家情報 - 新日本製薬 新日本製薬 株式会社 https://corporate.shinnihonseiyaku.co.jp > ... > IRライブラリ",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/presentation",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜投資家情報 - 新日本製薬 — IRライブラリ｜投資家情報 - 新日本製薬 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp > 投資家情報",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の皆さまへ - 新日本製薬 — 個人投資家の皆さまへ - 新日本製薬 新日本製薬 株式会社 https://corporate.shinnihonseiyaku.co.jp > 投資家情報",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期第3四半期 決算説明 会動画 - 新日本製薬 株式会社 — 2025年9月期第3四半期 決算説明 会動画 - 新日本製薬 株式会社 新日本製薬 株式会社 https://corporate.shinnihonseiyaku.co.jp > ... > IR動画",
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/movie/20250808",
+    "pass": 3
+   },
+   {
+    "quote": "経営情報｜投資家情報｜ 新日本製薬 株式会社 — 経営情報｜投資家情報｜ 新日本製薬 株式会社 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp > 投資家情報",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介｜ 新日本製薬 株式会社 — 事業 紹介｜ 新日本製薬 株式会社 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp > works",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/works/",
+    "pass": 3
+   },
+   {
+    "quote": "部署紹介 | 新日本製薬 株式会社 — 部署紹介 | 新日本製薬 株式会社 新日本製薬オンラインショップ https://recruit.shinnihonseiyaku.co.jp > department",
+    "url": "https://recruit.shinnihonseiyaku.co.jp/department",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜ 新日本製薬 株式会社 — 会社概要｜会社情報｜ 新日本製薬 株式会社 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp > 会社情報",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "新日本製薬 「企業分析」 OpenWork — 新日本製薬 「企業分析」 OpenWork OpenWork https://www.openwork.jp > ... > 新日本製薬",
+    "url": "https://www.openwork.jp/a0910000000G1Ja/analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "新日本製薬 後藤孝洋 社長 、2025年新春 インタビュー ～時代の ... — 新日本製薬 後藤孝洋 社長 、2025年新春 インタビュー ～時代の ... 週刊粧業オンライン https://www.syogyo.jp > news > 2025/01 > post_040330",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   },
+   {
+    "quote": "社長 挨拶｜会社情報 - 新日本製薬 — 社長 挨拶｜会社情報 - 新日本製薬 新日本製薬 株式会社 http://corporate.shinnihonseiyaku.co.jp > 会社情報",
+    "url": "http://corporate.shinnihonseiyaku.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "新日本製薬 代表取締役 社長 ・後藤孝洋氏 インタビュー （前） — 新日本製薬 代表取締役 社長 ・後藤孝洋氏 インタビュー （前） ウェルネスデイリーニュース https://wellness-news.co.jp > posts > 新日本製薬㈱代表取...",
+    "url": "https://wellness-news.co.jp/posts/%E6%96%B0%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%96%AC%E3%88%B1%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E3%83%BB%E5%BE%8C%E8%97%A4%E5%AD%9D%E6%B4%8B%E6%B0%8F%E3%82%A4%E3%83%B3%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "新日本製薬 株式会社 代表取締役 社長 CEO 後藤孝洋氏 — 新日本製薬 株式会社 代表取締役 社長 CEO 後藤孝洋氏 30thavispa.com https://30thavispa.com > interview",
+    "url": "https://30thavispa.com/interview/589/",
+    "pass": 3
+   },
+   {
+    "quote": "中島健人、 新日本製薬 後藤 社長 と対談 パーフェクトワンの ... — 中島健人、 新日本製薬 後藤 社長 と対談 パーフェクトワンの ... X https://x.com > Trending",
+    "url": "https://x.com/i/trending/1977967009930310114",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "主力ブランド「パーフェクトワン」はCRMの強化を通じてLTVの最大化に取り組み、複数商品の定期購入比率や定期顧客の単価が上昇し、国内売上高は前年並みを維持した",
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/10995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/stock_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/contact/index?message_field1=SVLjgIAo5qCq5Li75qeY44CB5oqV6LOH5a6244Gu44G-44Gq44GV44G_KQ..",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/rd/advantage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/disclosure_policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/category/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/ir/management/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://corporate.shinnihonseiyaku.co.jp/img/contact/pict-flow-01_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.shinnihonseiyaku.co.jp/department",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syogyo.jp/news/2025/01/post_040330",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新日本製薬",
+   "results": [
+    "https://www.shinnihonseiyaku.co.jp/?srsltid=AYCX9vLsgAuPFZiuhGu_Tdo3RWbUnozeVidMBBNWIZ3ZrEim7HvEGmiN",
+    "https://www.rakuten.co.jp/shinnihonseiyaku/",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%96%AC",
+    "https://prtimes.jp/main/html/searchrlp/company_id/36592",
+    "https://search.kakaku.com/%E6%96%B0%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%96%AC/",
+    "https://job.mynavi.jp/28/pc/search/corp286257/outline.html",
+    "https://ja.wikipedia.org/wiki/新日本製薬",
+    "https://corporate.shinnihonseiyaku.co.jp/",
+    "https://www.shinnihonseiyaku.co.jp/",
+    "https://corporate.shinnihonseiyaku.co.jp/company/"
+   ]
+  },
+  {
+   "query": "新日本製薬 ビジネスモデル",
+   "results": [
+    "http://corporate.shinnihonseiyaku.co.jp/works/",
+    "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "https://corporate.shinnihonseiyaku.co.jp/company/sustainability/message/",
+    "https://corporate.shinnihonseiyaku.co.jp/files/uploads/sustainability_report_2024.pdf",
+    "http://corporate.shinnihonseiyaku.co.jp/",
+    "https://macloud.jp/companies/8319",
+    "https://recruit.shinnihonseiyaku.co.jp/rec_business",
+    "https://invest-n.jp/ir/1187/",
+    "https://hoitto-hc.com/18038/",
+    "https://consovation.com/新日本製薬が魅せるビジネスモデルの成長戦略を/"
+   ]
+  },
+  {
+   "query": "新日本製薬 決算説明資料",
+   "results": [
+    "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/presentation",
+    "http://corporate.shinnihonseiyaku.co.jp/ir/ir_library/",
+    "https://corporate.shinnihonseiyaku.co.jp/ir/individual/",
+    "https://corporate.shinnihonseiyaku.co.jp/ir/ir_library/movie/20250808",
+    "http://corporate.shinnihonseiyaku.co.jp/ir/management/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4931",
+    "http://corporate.shinnihonseiyaku.co.jp/ir/faq/",
+    "https://www.buffett-code.com/company/4931/library",
+    "https://edinetdb.jp/company/E34965/presentations/",
+    "https://irbank.net/4931/ir"
+   ]
+  },
+  {
+   "query": "新日本製薬 事業系統図",
+   "results": [
+    "http://corporate.shinnihonseiyaku.co.jp/works/",
+    "https://recruit.shinnihonseiyaku.co.jp/department",
+    "http://corporate.shinnihonseiyaku.co.jp/company/about/",
+    "http://corporate.shinnihonseiyaku.co.jp/",
+    "https://www.openwork.jp/a0910000000G1Ja/analysis/",
+    "https://job.mynavi.jp/28/pc/search/corp286257/outline.html",
+    "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "https://macloud.jp/companies/8319",
+    "https://recruit.shinnihonseiyaku.co.jp/rec_business",
+    "https://kitaishihon.com/company/4931/business"
+   ]
+  },
+  {
+   "query": "新日本製薬 社長 インタビュー",
+   "results": [
+    "https://www.syogyo.jp/news/2025/01/post_040330",
+    "http://corporate.shinnihonseiyaku.co.jp/company/message/",
+    "https://wellness-news.co.jp/posts/%E6%96%B0%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%96%AC%E3%88%B1%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E3%83%BB%E5%BE%8C%E8%97%A4%E5%AD%9D%E6%B4%8B%E6%B0%8F%E3%82%A4%E3%83%B3%E3%82%BF/",
+    "https://30thavispa.com/interview/589/",
+    "https://x.com/i/trending/1977967009930310114",
+    "https://review.tanabeconsulting.co.jp/modelcompanies/53101/",
+    "https://jobtalk.jp/companies/29278/answers/8161597",
+    "http://corporate.shinnihonseiyaku.co.jp/company/",
+    "https://www.syogyo.jp/news/2026/01/post_042944",
+    "https://online.bci.co.jp/article/detail/5768"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部3頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部3頁・検索5回）"
+ }
+}

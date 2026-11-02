@@ -1,0 +1,918 @@
+{
+ "name": "Ｋ＆Ｏエナジーグループ",
+ "aliases": [],
+ "context": "証券コード1663／鉱業／プライム（内国株式）／2025.12期 売上高91,354百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:11:33.182073+00:00",
+ "official_url": "https://www.k-and-o-energy.co.jp/",
+ "identified_by": "search:yahoo_jp:K&Oエナジーグループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2014年1月6日",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "会社が設立された日を教えてください。",
+    "value": "2014年1月に設立いたしました。詳しくは、「 歴史・沿革 」に掲載しておりますので、こちらをご覧ください。",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2014年1月6日",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "歴史・沿革｜企業情報｜Ｋ＆Ｏエナジーグループ株式会社",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1956年に営業を開始した多摩川鉱業所は、構内にガス井戸を１本有して圧縮ガスの製造・販売を行いましたが、1959年に閉鎖しました",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1930年代以降、茂原地区や大多喜地区を中心にガス供給を続けていた当社グループは、1961年に市原町辰巳台団地（現在は市原市）へのガス供給を開始し、千葉県内房エリアへのガス供給をスタートさせました",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年1月に設立いたしました",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日の株式分割前から保有していますが、分割前の株数はどのように扱われますか",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月末日以前の株主名簿における保有株式数は、株式分割（1株を2株に分割）後の株式数に換算して継続保有期間の判定を行います",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月末日および2026年12月末日の両時点で、同一の株主番号により100株以上（分割後）を連続して保有いただいている株主さまです",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年12月31日基準日の優待以降は、通常の判定（1年以上3年未満：3回、3年以上5年未満：7回、5年以上：11回の連続記載）により継続保有期間を判定いたします",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年１月６日 作 成",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年３月29日 改 正",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月30日 改 正",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月26日 改 正",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月１日 改 正",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年1月27日",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年1月27日",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250407-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年1月27日",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20240408-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年1月27日",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20230328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年1月27日",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20220328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20220328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年１月１日（本事業再編の効力発生日）",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20220328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年12月期 2020年12月期 2021年12月期",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20220328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 １月 １日から",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月31日まで",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年１月１日から",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 １月 １日から",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 12月31日まで",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年１月１日から",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年12月31日まで",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2月11日 05:54",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けたビジョン",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期中間決算説明会(アナリスト・機関投資家向け)ログミーFinance書き起こし記事公開のお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "pass": 3
+   },
+   {
+    "quote": "2026年熊本地震",
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "適時開示情報閲覧サービス(東京証券取引所)",
+    "url": "https://www.k-and-o-energy.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "安全・安心とお客さま満足を追求し、多様なサービスを創出・提供することで、快適で豊かな生活の実現に貢献します",
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県産のヨウ素は、様々な製品の原料として世界各国に輸出されており、日本が世界に誇る資源となっています",
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社プロネクサスが運営する電子公告掲載サービス（KeeProve Master）でご覧いただけます",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "貸株サービスを利用している場合はどうなりますか",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "貸株サービスをご利用の場合、株式の名義が貸出先に移り、基準日時点で当社株主名簿にお客さまのお名前が記載されない、または株主番号が変わる可能性があります",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社DIGITALIOが提供するデジタルギフトサービスの名称です",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの概要はデジコの説明ページ（",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、交換先によっては、電子ギフトのご利用にあたり各サービスの会員登録（アカウント登録）が必要となる場合があります",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "(6) 情報処理サービス業およびOA機器の販売",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期製品仕入高",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期製品自家使用高",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器具販売事業の収益の計上は、製品又は商品の販売について、顧客との契約の中で据付を必要としない製品又",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は商品は引渡時点に、また、顧客との契約の中で据付を必要とする製品又は商品は据付が完了した時点に、顧",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客が当該製品又は商品に対する支配を獲得し、履行義務が充足されると判断し、当該時点において収益を認識",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期製品仕入高",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期製品自家使用高",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器具販売事業の収益の計上は、製品又は商品の販売について、顧客との契約の中で据付を必要としない製品又",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は商品は引渡時点に、また、顧客との契約の中で据付を必要とする製品又は商品は据付が完了した時点に、顧",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客が当該製品又は商品に対する支配を獲得し、履行義務が充足されると判断し、当該時点において収益を認識",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "複数のアセットをアプリひとつで売買できる、全く新しいサービスです",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "一つの井戸、一つの汲み上げコストから、2つの異なる高付加価値商品を生み出すこのモデルこそが、同社の高収益の源泉です",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品・サービスの深堀り",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "長年の操業で培った精製技術により、球状ヨウ素（プリル）やフレーク状ヨウ素など、顧客のニーズに合わせた高品質な製品を安定供給できる点が、グローバルな化学メーカーから選ばれる理由です",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "ヨウ素価格は国際商品市況の影響を受けます",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社グループでは、千葉県内で天然ガスを生産し、その天然ガスをご家庭をはじめとした千葉県内のお客様のもとへ、主に都市ガスとして供給しており、",
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関するご決定は利用者ご自身のご判断にて行われるよう、お願い致します",
+    "url": "https://www.k-and-o-energy.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さま・お取引先さまと",
+    "url": "https://www.k-and-o-energy.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主要な事業における顧客との契約に基づく主な履行義務の内容及び当該履行義務に",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とから、顧客に引き渡した時点で収益を認識しております",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主要な事業における顧客との契約に基づく主な履行義務の内容及び当該履行義務に",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250407-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とから、顧客に引き渡した時点で収益を認識しております",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250407-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主要な事業における顧客との契約に基づく主な履行義務の内容及び当該履行義務に",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20240408-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とから、顧客に引き渡した時点で収益を認識しております",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20240408-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主要な事業における顧客との契約に基づく主な履行義務の内容及び当該履行義務",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20230328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ことから、顧客に引き渡した時点で収益を認識しております",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20230328-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が発生し、供給の都度履行義務が充足されることから、顧客に引き渡した時点で収益を認識しております",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "該当することから取引価格には含めず、顧客から受け取る対価の額から当該他の当事者に支払う額を控除した",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器具販売事業の収益の計上は、製品又は商品の販売について、顧客との契約の中で据付を必要としない製品又",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は商品は引渡時点に、また、顧客との契約の中で据付を必要とする製品又は商品は据付が完了した時点に、顧",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が発生し、供給の都度履行義務が充足されることから、顧客に引き渡した時点で収益を認識しております",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "該当することから取引価格には含めず、顧客から受け取る対価の額から当該他の当事者に支払う額を控除した",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器具販売事業の収益の計上は、製品又は商品の販売について、顧客との契約の中で据付を必要としない製品又",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は商品は引渡時点に、また、顧客との契約の中で据付を必要とする製品又は商品は据付が完了した時点に、顧",
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分離された天然ガスは、子会社である大多喜ガスを通じて、千葉県内の一般家庭や産業用顧客に供給されます",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "LNG価格が高騰する局面でも、国産ガスは相対的に価格が安定しており、産業用顧客にとって大きな魅力となります",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "強固な顧客基盤：",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "長年の操業で培った精製技術により、球状ヨウ素（プリル）やフレーク状ヨウ素など、顧客のニーズに合わせた高品質な製品を安定供給できる点が、グローバルな化学メーカーから選ばれる理由です",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信",
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様向けプラン",
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "【紹介動画】Ｋ＆Ｏエナジーグループにおける天然ガス・ヨウ素の生産",
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の株主優待制度についてご紹介しています",
+    "url": "https://www.k-and-o-energy.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーマーケットやコンビニエンスストア等の店舗でも使えるポイントやギフトなど、最大6,000種の多彩な交換先の中からお選びいただけます",
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ガス事業の強み",
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨウ素事業の強み",
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "地味だけど高収益！K&Oエナジーグループ（1663）の「ヨウ素×ガス」戦略に注目せよ｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "地味だけど高収益！K&Oエナジーグループ（1663）の「ヨウ素×ガス」戦略に注目せよ",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、K&Oエナジーグループが持つ盤石なビジネスモデル、特に「天然ガス」と「ヨウ素」という2つの収益の柱がどのように相互作用し、高い参入障壁（エコノミック・モート）を築いているのかを徹底的に分析します",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "財務諸表の数字だけでは見えてこない、同社の本質的な競争優位性と、中長期的な成長ストーリーを紐解いていきます",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "同社の最大の強みは、事業拠点が「南関東ガス田」の上に位置していることです",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "一つの井戸、一つの汲み上げコストから、2つの異なる高付加価値商品を生み出すこのモデルこそが、同社の高収益の源泉です",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "直近の業績・財務状況：鉄壁の守りと高収益",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "高い営業利益率：",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "ヨウ素価格の上昇局面では、営業利益率が跳ね上がる傾向にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "高い専門性を持つ従業員の定着率が高いことも、組織的な強みです",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "チリの増産や世界的な在庫状況により価格が下落すれば、同社の利益も減少する可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "本記事では、K&Oエナジーグループが持つ盤石なビジネスモデル、特に「天然ガス」と「ヨウ素」という2つの収益の柱がどのように相互作用し、高い参入障壁（エコノミック・モート）を築いているのかを徹底的に分析します",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの詳細分析：黄金の「かん水」",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "同社のビジネスモデルを理解する上で最も重要なキーワードは「かん水」です",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "ここには、他のガス会社や化学メーカーには真似できない、独自の収益構造が隠されています",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメントバランス：",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業領域｜企業情報｜ K＆Oエナジーグループ 株式会社 — 事業領域｜企業情報｜ K＆Oエナジーグループ 株式会社 Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > corporate > details",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/details/",
+    "pass": 3
+   },
+   {
+    "quote": "地味だけど高収益！ K&Oエナジーグループ （1663）の ... - note — 地味だけど高収益！ K&Oエナジーグループ （1663）の ... - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "pass": 3
+   },
+   {
+    "quote": "K＆Oエナジーグループ (1663) の企業概要・業績・財務・IR ... — K＆Oエナジーグループ (1663) の企業概要・業績・財務・IR ... crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/1663",
+    "pass": 3
+   },
+   {
+    "quote": "天然ガス開発事業 | K＆Oエナジーグループ 株式会社 採用サイト — 天然ガス開発事業 | K＆Oエナジーグループ 株式会社 採用サイト k-and-o-energy-recruit.com https://k-and-o-energy-recruit.com > business01",
+    "url": "https://k-and-o-energy-recruit.com/business01/",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 K＆Oエナジーグループ は『買い』か？ — 【バフェットの視点】 K＆Oエナジーグループ は『買い』か？ note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n6f6ae632cfe4",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 MATERIAL - 株主・投資家情報 — 決算説明 会 資料 MATERIAL - 株主・投資家情報 Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > library > material",
+    "url": "https://www.k-and-o-energy.co.jp/ir/library/material.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 K&Oエナジーグループ 】[1663]IR情報 中期経営計画や 決算 短信 — 【 K&Oエナジーグループ 】[1663]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報｜ K＆Oエナジーグループ 株式会社 — 株主・投資家情報｜ K＆Oエナジーグループ 株式会社 Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > ...",
+    "url": "https://www.k-and-o-energy.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "K&Oエナジーグループ 株式会社 - ログミーファイナンス — K&Oエナジーグループ 株式会社 - ログミーファイナンス ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/1332",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜株主・投資家情報 - K＆Oエナジーグループ — IRライブラリ｜株主・投資家情報 - K＆Oエナジーグループ Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > library",
+    "url": "https://www.k-and-o-energy.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 領域｜企業情報｜ K＆Oエナジーグループ 株式会社 — 事業 領域｜企業情報｜ K＆Oエナジーグループ 株式会社 Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > corporate > details",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/details/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報｜ K＆Oエナジーグループ 株式会社 — 会社概要｜企業情報｜ K＆Oエナジーグループ 株式会社 Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > corporate > outline",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "K&Oエナジーグループ 株式会社 個人投資家向け説明会 — K&Oエナジーグループ 株式会社 個人投資家向け説明会 daiwair.webcdn.stream.ne.jp PDF https://daiwair.webcdn.stream.ne.jp > qlviewer > pdf",
+    "url": "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2505311663kyNP0ln.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制｜企業情報｜ K＆Oエナジーグループ 株式会社 — 組織体制｜企業情報｜ K＆Oエナジーグループ 株式会社 Ｋ＆Ｏエナジーグループ株式会社 https://www.k-and-o-energy.co.jp > organization",
+    "url": "https://www.k-and-o-energy.co.jp/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "K＆Oエナジーグループ 緑川昭夫 社長 に聞く ヨウ素輸出で業績 ... — K＆Oエナジーグループ 緑川昭夫 社長 に聞く ヨウ素輸出で業績 ... 毎日新聞 https://mainichi.jp > articles > ddl",
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "pass": 3
+   },
+   {
+    "quote": "K＆Oエナジーグループ社長 ・渡部均氏「体制一新、大変革期 ... — K＆Oエナジーグループ社長 ・渡部均氏「体制一新、大変革期 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/287904",
+    "pass": 3
+   },
+   {
+    "quote": "K&Oエナジーグループ 、千葉県産天然ガスの生産から供給まで ... — K&Oエナジーグループ 、千葉県産天然ガスの生産から供給まで ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383294",
+    "pass": 3
+   },
+   {
+    "quote": "K&Oエナジーグループ社長 に緑川氏 - 日本経済新聞 — K&Oエナジーグループ社長 に緑川氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXMZO55470890Q0A210C2YZ0000/",
+    "pass": 3
+   },
+   {
+    "quote": "新 社長 に梶田直氏 K＆Oエナジーグループ - 朝日新聞 — 新 社長 に梶田直氏 K＆Oエナジーグループ - 朝日新聞 朝日新聞 https://www.asahi.com > articles",
+    "url": "https://www.asahi.com/articles/DA3S11598918.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "月額1,078円(税込)で読み放題",
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.k-and-o-energy.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/highlights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/stocks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.k-and-o-energy.co.jp/corporate/outline/pdf/20260701_corporate.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250407-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20240408-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20230328-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20220328-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20260403-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-and-o-energy.co.jp/ir/notice/pdf/20250401-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/287904",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "K&Oエナジーグループ",
+   "results": [
+    "https://www.k-and-o-energy.co.jp/",
+    "https://k-and-o-energy-recruit.com/",
+    "https://www.nikkei.com/nkd/company/?scode=1663",
+    "https://ja.wikipedia.org/wiki/K%26O%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://kabutan.jp/stock/?code=1663",
+    "https://ja.wikipedia.org/wiki/K&Oエナジーグループ",
+    "https://www.k-and-o-energy.co.jp/corporate/outline/",
+    "https://finance.yahoo.co.jp/quote/1663.T",
+    "https://www.traders.co.jp/stocks/61_1663/",
+    "https://finance.yahoo.co.jp/quote/1663.T/profile"
+   ]
+  },
+  {
+   "query": "K&Oエナジーグループ ビジネスモデル",
+   "results": [
+    "https://www.k-and-o-energy.co.jp/corporate/details/",
+    "https://note.com/tatsuya_sabato/n/n74ab2b600ed8",
+    "https://www.crex-data.com/company/1663",
+    "https://k-and-o-energy-recruit.com/business01/",
+    "https://note.com/open_azalea2045/n/n6f6ae632cfe4",
+    "https://www.k-and-o-energy.co.jp/ir/strategy/plan.html",
+    "https://kitaishihon.com/company/1663/business",
+    "http://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/1809091663ek0jsun1.pdf",
+    "https://www.k-and-o-energy.co.jp/",
+    "https://consovation.com/k＆oエナジーグループのビジネスモデルキャンバス/"
+   ]
+  },
+  {
+   "query": "K&Oエナジーグループ 決算説明資料",
+   "results": [
+    "https://www.k-and-o-energy.co.jp/ir/library/material.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=1663",
+    "https://www.k-and-o-energy.co.jp/ir/",
+    "https://finance.logmi.jp/companies/1332",
+    "https://www.k-and-o-energy.co.jp/ir/library/",
+    "https://green-energy.co.jp/ir/ir_type/ir_library/presentation/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=1663",
+    "https://irbank.net/1663/pl",
+    "https://www.daiwair.co.jp/detail.cgi?code=1663",
+    "https://edinetdb.jp/company/E30048/presentations/"
+   ]
+  },
+  {
+   "query": "K&Oエナジーグループ 事業系統図",
+   "results": [
+    "https://www.k-and-o-energy.co.jp/corporate/details/",
+    "https://www.k-and-o-energy.co.jp/corporate/outline/",
+    "https://www.k-and-o-iodine.co.jp/official/wp-content/themes/koiodine/common/img/company-brochure.pdf",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2505311663kyNP0ln.pdf",
+    "https://www.k-and-o-energy.co.jp/corporate/organization/",
+    "https://www.daiwair.co.jp/e-cast_meeting.cgi?no=7096",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100FIQO.pdf",
+    "https://www.toyota-tsusho.com/press/detail/211220_005823.html",
+    "https://ja.wikipedia.org/wiki/K&Oエナジーグループ",
+    "https://www.k-and-o-energy.co.jp/corporate/"
+   ]
+  },
+  {
+   "query": "K&Oエナジーグループ 社長 インタビュー",
+   "results": [
+    "https://mainichi.jp/articles/20260611/ddl/k12/020/115000c",
+    "https://www.nikkan.co.jp/articles/view/287904",
+    "https://finance.logmi.jp/articles/383294",
+    "https://www.nikkei.com/article/DGXMZO55470890Q0A210C2YZ0000/",
+    "https://www.asahi.com/articles/DA3S11598918.html",
+    "https://www.gas-enenews.co.jp/keiei-seisaku/52370/",
+    "https://www.k-and-o-energy.co.jp/corporate/message/",
+    "https://www.nikkan.co.jp/articles/view/547645",
+    "https://shachojp.com/p/k-and-o-energy-group"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像8件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

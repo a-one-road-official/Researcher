@@ -1,0 +1,1644 @@
+{
+ "name": "自重堂",
+ "aliases": [],
+ "context": "証券コード3597／繊維製品／スタンダード（内国株式）／2026.06期 売上高13,275百万円 営業利益率11.8%",
+ "researched_at": "2026-11-02T20:09:07.512625+00:00",
+ "official_url": "https://www.jichodo.co.jp/",
+ "identified_by": "search:yahoo_jp:自重堂",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高 （解説）",
+    "value": "16,983 17,742 16,863 14,936 13,275",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "8,412 9,080 8,693 7,595 6,810",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "※ダウンロードおよびご利用時にかかる通信料はお客様負担となります",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご記入いただいた情報は、お客様への回答以外の目的では使用致しません",
+    "url": "https://www.jichodo.co.jp/inquiry/uni_p.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご記入いただいた情報は、お客様への回答以外の目的では使用致しません",
+    "url": "https://www.jichodo.co.jp/inquiry/uni_c.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご記入いただいた情報は、お客様への回答以外の目的では使用致しません",
+    "url": "https://www.jichodo.co.jp/inquiry/hakui_kaigo_p.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご記入いただいた情報は、お客様への回答以外の目的では使用致しません",
+    "url": "https://www.jichodo.co.jp/inquiry/hakui_kaigo_c.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご記入いただいた情報は、お客様への回答以外の目的では使用致しません",
+    "url": "https://www.jichodo.co.jp/inquiry/saiyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご記入いただいた情報は、お客様への回答以外の目的では使用致しません",
+    "url": "https://www.jichodo.co.jp/inquiry/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "品・納期遅れにより販売代理店様・ユーザー様に多大なご迷惑をお掛けすることとな",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会ロスの発生や、販売代理店様・ユーザー様からの信頼が低下したことにより、売上",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後、販売代理店様、ユーザー様に値上げをご",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再利用する比率 の向上に努め、取引先にもご 理",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業への影響、各ステークホルダー（株主・投資家、取引先、従業員、地域社会、環",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "制の再整備・強化に注力してお客様からの信頼 を取り戻し、販売機会ロスを低減 し",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、個別に又は集計すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個別に又は集計すると、計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に、",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ引き渡し",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金に係る顧客の信用リスクは、与信管理細則によってリスク低減を図っ",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先金融機関から提示された価格等により算定しており、その時価をレベル２の時価に分類して",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはユニフォーム事業の単一セグメントであり、主要な顧客との契約から生じる収益をエリア",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 13,275,260",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 13,275,260",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ引き渡した時点に",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 計算書類利用者の理解に資するその他の情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "富んだ商品の開発・販売強化に注力するとともに、各ユーザー様のあらゆる職場環境",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、ユーザー企業様のＳＤＧｓへの取り組み、環境活動をサポートするた",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様、ユーザー様にご迷惑をお掛けすることになりました",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高騰に対応したユーザー企業様 の経費削減意識の高まりにより、更新需要が伸び悩",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再利用する比率 の向上に努め、取引先にもご 理",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業への影響、各ステークホルダー（株主・投資家、取引先、従業員、地域社会、環",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "制の再整備・強化に注力してお客様からの信頼 を取り戻し、販売機会ロスを低減 し",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、個別に又は集計すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個別に又は集計すると、計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に、",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ引き渡し",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金に係る顧客の信用リスクは、与信管理細則によってリスク低減を図っ",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先金融機関から提示された価格等により算定しており、その時価をレベル２の時価に分類して",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはユニフォーム事業の単一セグメントであり、主要な顧客との契約から生じる収益をエリア",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 14,936,315",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 14,936,315",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ引き渡した時点に",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 計算書類利用者の理解に資するその他の情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＤＧｓ、サステナビリティを意識した環境配慮型商品の展開を強化し、ユーザー企業",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高騰に対応したユーザー企業様 の経費削減意識の高まりにより、更新需要が伸び悩",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再利用する比率 の向上に努め、取引先にもご 理",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業への影響、各ステークホルダー（株主・投資家、取引先、従業員、地域社会、環",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、個別に又は集計すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個別に又は集計すると、計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に、",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような商品及び製品の販売については、顧客に商品及び製品をそれぞれ引き渡した時点に",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金に係る顧客の信用リスクは、与信管理細則によってリスク低減を図っ",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先金融機関から提示された価格等により算定しており、その時価をレベル２の時価に分類して",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはユニフォーム事業の単一セグメントであり、主要な顧客との契約から生じる収益をエリア",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 16,863,582",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 16,863,582",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "Z-DRAGON 2026年春夏新商品発売中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON 2025年秋冬新商品発売中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2024秋冬新商品発売中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON 2024年春夏新商品発売中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin 2023年秋冬『新商品』予約・購入受付中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON 2023年秋冬『新商品』予約・購入受付中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年春夏新商品WEB展示会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年秋冬新商品WEB展示会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2022春夏新商品、購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2022春夏新商品、購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年春夏新商品 WEB展示会",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2021秋冬新商品、購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2021秋冬新商品、購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2021秋冬新商品、予約・購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2021秋冬新商品、予約・購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年秋冬新商品",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2021春夏新商品、ご購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2021春夏新商品、ご購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2021春夏新商品、予約・購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2021春夏新商品、予約・購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年春夏新商品、バーチャル展示会場はこちら",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2020秋冬新商品、購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2020秋冬新商品、購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Jawin2020秋冬新商品、予約・購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-DRAGON2020秋冬新商品、予約・購入キャンペーン実施中！",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品を送って欲しいのですが？",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "より商品を購入することができます",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "どこで商品が見られますか？",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入の商品品番が判ればお教え下さい",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証ウェブサイト（東証上場会社情報サービス）につきましては、上記のウェブサイトにアクセスして、",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度においては、ＡＩＲ便の活用による欠品商品の早期入荷、",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要予測の精度向上、商品開発力の強化、品質管理体制の強化に努め、代理店様・ユー",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・健康配慮型商品 の開発・",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "熱中症対策商品・電動ファン付ウェア「空調服」",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の商品開発・販売を強化しております",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境 ・環境配慮型商品 の開発・販売促進 ・植物由来のPET繊維を使用した商品など環境 に配慮した商品の開発・販売促進に努めています",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・商品カタログに使用する用紙を見直して軽量化・",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・使用済商品 の回収再資源",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニフォーム製品の広域認定制度の認定を取得して",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・男女共用企画商品の充実 ・女性向けサイズの男女共用企画商品の充実を図り",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サステナビリティ対応商品",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境配慮型商品の開発強化・販売促",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "広域認定制度を活用した商品回収再",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "評判 気候変動問題への取り組み評価の厳格化 省エネの推進、太陽光発電設備導入環境配慮型商品の開発強化・販売促進",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "慢性 気温上昇による売れ筋の変化 環境配慮型商品の開発強化・販売促進",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の需要増加",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "循環型社会への対応要請の増加 広域認定制度を活用した商品回収再資源化の促進",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "気温上昇による熱中症対策商品の",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "健康配慮型商品の開発強化・販売促",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワークウェアとしての機能性とデザイン性を兼ね備え、かつ、価格訴求力のある商品",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や、ＳＤＧｓ、サステナビリティに対応した商品など、「働く人」が本当に求めてい",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る商品の開発・販売強化に努めてまいります",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社玄海ソーイング 10,000千円 100％ ユニフォーム製品の製造",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代表取締役社長 出原正貴 営業本部長兼商品本部長兼ユニフォーム事業部長",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東証ウェブサイト（東証上場会社情報サービス）につきましては、上記のウェブサイトにアクセスして、",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "富んだ商品の開発・販売強化に注力するとともに、各ユーザー様のあらゆる職場環境",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日が増加する状況において、快適な労働環境を維持するための熱中症対策商品・電動",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファン付ウェア「空調服」など、働く人の健康面にも配慮した商品の販売強化を図り",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、植物由来のＰＥＴ繊維を使用した商品など、持続可能な社会実現に向けた環境配",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "慮型商品の展開、販売促進に努めました",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "12月6日午前7時30分にて紹介されました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報の役員紹介を更新しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投資家の皆さまへ、自重堂の最新の決算情報をご紹介します",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資家の皆さまへ、自重堂の最新の決算情報をご紹介します",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの販売代理店より手配させて頂きます",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの販売代理店へご用命下さい",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店を紹介して下さい",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの販売代理店をご紹介させていただきます",
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "品・納期遅れにより販売代理店様・ユーザー様に多大なご迷惑をお掛けすることとな",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会ロスの発生や、販売代理店様・ユーザー様からの信頼が低下したことにより、売上",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要予測の精度向上、商品開発力の強化、品質管理体制の強化に努め、代理店様・ユー",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を支える販売代理店様を支援することによる業界全体の活性化を考慮して、値上げを",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後、販売代理店様、ユーザー様に値上げをご",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②入交佐和氏は、現役の経営者であり、主に食品業界において、新業態、新店舗の立ち上げや、商品企画",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すが、業界を支える販売代理店様を支援し、業界全体の活性化を図るため、同業他社",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、一部商品において欠品 、納期遅れが発生し、販売代理店",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②入交佐和氏は、現役の経営者であり、主に食品業界において、新業態、新店舗の立ち上げや、商品企画",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②入交佐和氏は、現役の経営者であり、主に食品業界において、新業態、新店舗の立ち上げや、商品企画",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況のもと当社グループにおきましては、前連結会計年度に発生した欠品・納期遅れにより販売代理店様・ユーザー様に多大なご迷惑をお掛けすることとなりました",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、ＡＩＲ便の活用による欠品商品の早期入荷、新規協力工場の開拓など生産体制の再整備に努め、欠品・納期遅れの早期解消に優先的に取り組んでまいりましたが、完全解消には至らず、欠品・納期遅れによる販売機会ロスの発生や、販売代理店様・ユーザー様からの信頼が低下したことにより、売上は苦戦が続きました",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、「揃う自重堂」の復活に向け、生産体制の再整備、需要予測の精度向上、商品開発力の強化、品質管理体制の強化に努め、代理店様・ユーザー様からの信頼を取り戻し、売上回復につなげてまいります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "今春夏商戦においては、同業他社の多くが連続して値上げを行う中、当社は、業界を支える販売代理店様を支援することによる業界全体の活性化を考慮して、値上げを行わず、価格据え置きとしておりましたが、来る秋冬商戦においては、昨今の素材・エネルギー価格の高騰により、仕入価格は継続して上昇しており、当社の自助努力だけでは価格を維持することが困難となったことから、2026年10月1日出荷分より、値上げさせて頂くことを決定しました",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後、販売代理店様、ユーザー様に値上げをご理解頂くよう、営業活動を続けてまいります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主力事業であるユニフォーム事業においては、需要予測のもとメーカーである当社が製品在庫を保有し、販売代理店を経由したユーザー様からのご注文に対し、即座に納品する体制を整えております",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年秋冬展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年秋冬展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第３四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第２四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年春夏展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年秋冬展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年春夏展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年春夏新商品WEB展示会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年春夏展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年秋冬新商品WEB展示会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年秋冬展示商談会のお知らせ",
+    "url": "https://www.jichodo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第３四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第２四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第３四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第２四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.jichodo.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "2. 2006年９月27日開催の第46期定時株主総会において、取締役の報酬限度額は、年額550,000千円",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以内（当該株主総会終結時点の取締役の員数６名）、監査役の報酬限度額は、年額30,000千円以",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ⅱ．取締役の報酬は、株主総会での選任後、毎年見直しを行い、各個人の月額報酬",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 2006年９月27日開催の第46期定時株主総会において、取締役の報酬限度額は、年額550,000千円",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以内（当該株主総会終結時点の取締役の員数６名）、監査役の報酬限度額は、年額30,000千円以",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ⅱ．取締役の報酬は、株主総会での選任後、毎年見直しを行い、各個人の月額報酬",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 2006年９月27日開催の第46期定時株主総会において、取締役の報酬限度額は、年額550,000千円",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以内（当該株主総会終結時点の取締役の員数６名）、監査役の報酬限度額は、年額30,000千円以",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ⅱ．取締役の報酬は、株主総会での選任後、毎年見直しを行い、各個人の月額報酬",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "なお、当社グループは単一セグメントに該当するため、事業の種類別セグメントは",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはユニフォーム事業の単一セグメントであり、主要な顧客との契約から生じる収益をエリア",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エリア区分 報告セグメント（千円） ユニフォーム事業",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは単一セグメントに該当するため、事業の種類別セグメントは",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはユニフォーム事業の単一セグメントであり、主要な顧客との契約から生じる収益をエリア",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エリア区分 報告セグメント（千円） ユニフォーム事業",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは単一セグメントに該当するため、事業の種類別セグメントは",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはユニフォーム事業の単一セグメントであり、主要な顧客との契約から生じる収益をエリア",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エリア区分 報告セグメント（千円） ユニフォーム事業",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは衣料品製造販売事業の単一セグメントであります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは単一セグメントに該当するため、事業の種類別セグメントは記載しておりません",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、衣料品製造販売事業の単一セグメントであり、当連結会計年度の生産実績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、衣料品製造販売事業の単一セグメントであり、当連結会計年度の製品仕入実績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、衣料品製造販売事業の単一セグメントであり、当連結会計年度の販売実績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、衣料品製造販売を行う単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "的であったため粗利率を維持できたことや、広告宣伝活動の見直しにより広告宣伝費",
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益については、売上が減少しているものの、入荷が遅れたことによりコストアップの影響が限定的であったため粗利率を維持できたことや、広告宣伝活動の見直しにより広告宣伝費を抑制したことなどにより、1,560百万円（前連結会計年度比7.9％増）となりました",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．当連結会計年度においては、欠品・納期遅れを解消するために、在庫の積み増しを図ったことにより、生産実績が大幅に増加しております",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．当連結会計年度においては、欠品・納期遅れを解消するために、在庫の積み増しを図ったことにより、製品仕入実績が大幅に増加しております",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主力事業であるユニフォーム事業においては、需要予測のもとメーカーである当社が製品在庫を保有し、販売代理店を経由したユーザー様からのご注文に対し、即座に納品する体制を整えております",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため機会ロスを低減するよう豊富な在庫を準備しており、このような備蓄型ビジネスモデルが当社経営戦略の重要な柱の一つであります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率（%）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "そのため機会ロスを低減するよう豊富な在庫を準備しており、このような備蓄型ビジネスモデルが当社経営戦略の重要な柱の一つであります",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "この備蓄型ビジネスモデルを中長期的に実施していくためには健全な財務基盤が必要であり、ＲＯＥの向上を過度に追求することは、株主様に対する継続的かつ長期的な利益還元につながらないと考えております",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "取り扱いブランド｜作業着・作業服の 自重堂 — 取り扱いブランド｜作業着・作業服の 自重堂 自重堂 https://www.jichodo.co.jp > brand",
+    "url": "https://www.jichodo.co.jp/sp/brand/",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 【3597】の事業内容 - キタイシホン — 自重堂 【3597】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3597/business",
+    "pass": 3
+   },
+   {
+    "quote": "【新ブランド発表  】 株式会社 自重堂 が2024年9月 ... - Instagram — 【新ブランド発表  】 株式会社 自重堂 が2024年9月 ... - Instagram Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/C39Qlhyrt9p/",
+    "pass": 3
+   },
+   {
+    "quote": "作業服の王道メーカー 自重堂 とは？ブランドごとの特徴や魅力 ... — 作業服の王道メーカー 自重堂 とは？ブランドごとの特徴や魅力 ... アルベロットユニ https://www.alberotto.com > column > 作業服の王道メー...",
+    "url": "https://www.alberotto.com/column/%E4%BD%9C%E6%A5%AD%E6%9C%8D%E3%81%AE%E7%8E%8B%E9%81%93%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E8%87%AA%E9%87%8D%E5%A0%82%E3%81%A8%E3%81%AF%EF%BC%9F%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%94%E3%81%A8/?srsltid=AYCX9vKEBZtRjMxGJbapwZFS3EVygeXGVgxO4kitWhnkjy7pn0XfGXTZ",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 の作業着・作業服通販｜法人まとめ買い対応 — 自重堂 の作業着・作業服通販｜法人まとめ買い対応 ワークキング https://www.work-king.shop > view > category",
+    "url": "https://www.work-king.shop/view/category/jc?srsltid=AYCX9vIG8XmJudVHUKHkkQIr8scyQWIH2eyBOxpWQpJNCV65CNavslcj",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜作業着・作業服の 自重堂 — IR情報｜作業着・作業服の 自重堂 自重堂 https://www.jichodo.co.jp > ...",
+    "url": "https://www.jichodo.co.jp/sp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 自重堂 】[3597] 決算 発表や業務・財務情報 | 日経電子版 — 【 自重堂 】[3597] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 （3597）のIR情報・ 決算資料 - IRBANK — 自重堂 （3597）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 自重堂",
+    "url": "https://irbank.net/3597/ir",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 【3597】の最新 決算 発表、業績修正 - 株探 — 自重堂 【3597】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 自重堂 (3597) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=3597",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 、2026年6月期は減収増益 経常利益 ... - インベストーク — 自重堂 、2026年6月期は減収増益 経常利益 ... - インベストーク インベストーク https://investalk.jp > jichodo-2026-06-earnings",
+    "url": "https://investalk.jp/3597/jichodo-2026-06-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜会社情報 - 自重堂 — 組織図｜会社情報 - 自重堂 自重堂 https://www.jichodo.co.jp > HOME > 会社情報",
+    "url": "https://www.jichodo.co.jp/sp/company/soshiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜作業着・作業服の 自重堂 — 会社概要｜会社情報｜作業着・作業服の 自重堂 自重堂 https://www.jichodo.co.jp > HOME > 会社情報",
+    "url": "https://www.jichodo.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 - Wikipedia — 自重堂 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 自重堂",
+    "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E9%87%8D%E5%A0%82",
+    "pass": 3
+   },
+   {
+    "quote": "作業着・作業服の株式会社 自重堂 (@Jichodo.co.jp) - Facebook — 作業着・作業服の株式会社 自重堂 (@Jichodo.co.jp) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/Jichodo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Profile - 自重堂 — Corporate Profile - 自重堂 自重堂 PDF https://www.jichodo.co.jp > company > corporate_p...",
+    "url": "https://www.jichodo.co.jp/company/corporate_profile_20250901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（新 社長 ） 自重堂 出原正貴氏 - 日本経済新聞 — （新 社長 ） 自重堂 出原正貴氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 、 社長 に出原正貴氏 | 日刊工業新聞 電子版 — 自重堂 、 社長 に出原正貴氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/684304",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介｜会社情報 - 自重堂 — 役員紹介｜会社情報 - 自重堂 自重堂 https://www.jichodo.co.jp > HOME > 会社情報",
+    "url": "https://www.jichodo.co.jp/sp/company/yakuin.html",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 【3597】の 社長 ・役員 - キタイシホン — 自重堂 【3597】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3597/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "自重堂 の 社長 と経営方針【代表 : 出原 正貴】の口コミ（5件） — 自重堂 の 社長 と経営方針【代表 : 出原 正貴】の口コミ（5件） 転職会議 https://jobtalk.jp > ... > 株式会社自重堂",
+    "url": "https://jobtalk.jp/companies/996/answers?question_codes=president",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jichodo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/h_kokoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry/uni_p.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry/uni_c.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry/hakui_kaigo_p.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry/hakui_kaigo_c.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry/saiyou.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/inquiry/sales.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260929/20260929k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20260907/20260907k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250926/20250926k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20250903/20250903k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240927/20240927k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20240905/20240905k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/kouiki-240109.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jichodo.co.jp/ir/pdf/20231031/20231031.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/3597/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/684304",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自重堂",
+   "results": [
+    "https://www.jichodo.co.jp/",
+    "https://jichodo-shop.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E8%87%AA%E9%87%8D%E5%A0%82",
+    "https://www.l-m.co.jp/work/jichodo/",
+    "https://www.instagram.com/jichodo_workwear/",
+    "https://wl-netshop.com/fs/workland/c/Jichodo_workwear",
+    "https://ja.wikipedia.org/wiki/自重堂",
+    "http://www.jichodo.jp/",
+    "https://jichodo-shop.co.jp/products",
+    "https://www.jichodo.co.jp/company/company.html"
+   ]
+  },
+  {
+   "query": "自重堂 ビジネスモデル",
+   "results": [
+    "https://www.jichodo.co.jp/sp/brand/",
+    "https://kitaishihon.com/company/3597/business",
+    "https://www.instagram.com/p/C39Qlhyrt9p/",
+    "https://www.alberotto.com/column/%E4%BD%9C%E6%A5%AD%E6%9C%8D%E3%81%AE%E7%8E%8B%E9%81%93%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E8%87%AA%E9%87%8D%E5%A0%82%E3%81%A8%E3%81%AF%EF%BC%9F%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%94%E3%81%A8/?srsltid=AYCX9vKEBZtRjMxGJbapwZFS3EVygeXGVgxO4kitWhnkjy7pn0XfGXTZ",
+    "https://www.work-king.shop/view/category/jc?srsltid=AYCX9vIG8XmJudVHUKHkkQIr8scyQWIH2eyBOxpWQpJNCV65CNavslcj",
+    "https://www.kuchou-fuku.com/blog/jichodo-brand/?srsltid=AYCX9vLR6vF-cJDvcOZASXfdqp8cBR9N6QVTYBxSmkM9jy72ud-1l7vQ",
+    "https://www.uniformnext.com/blog/archives/46770?srsltid=AYCX9vKU5UKhLwNyDFff7ys-sTTVVlqN0ILj1q064TF7J9_Kz_u6E3Tc",
+    "https://www.jichodo.co.jp/company/rinen.html",
+    "https://www.sunwork-mssw.jp/item_list/1141402/?srsltid=AYCX9vJr53KI1dsC_R2MUW72hv-FNztb9RJbXSyh1EuSEbeR7IqosPYw",
+    "https://ja.wikipedia.org/wiki/自重堂"
+   ]
+  },
+  {
+   "query": "自重堂 決算説明資料",
+   "results": [
+    "https://www.jichodo.co.jp/sp/ir/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=3597",
+    "https://irbank.net/3597/ir",
+    "https://kabutan.jp/stock/finance?code=3597",
+    "https://investalk.jp/3597/jichodo-2026-06-earnings/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260126538216/",
+    "https://kitaishihon.com/company/3597/ir-library",
+    "https://www.jichodo.co.jp/ir/ir.html",
+    "https://www.jichodo.co.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/3597.T/financials"
+   ]
+  },
+  {
+   "query": "自重堂 事業系統図",
+   "results": [
+    "https://www.jichodo.co.jp/sp/company/soshiki.html",
+    "https://www.jichodo.co.jp/company/company.html",
+    "https://ja.wikipedia.org/wiki/%E8%87%AA%E9%87%8D%E5%A0%82",
+    "https://www.facebook.com/Jichodo.co.jp/",
+    "https://www.jichodo.co.jp/company/corporate_profile_20250901.pdf",
+    "https://www.work-king.shop/view/category/jc?srsltid=AYCX9vLoE-qUWmxlKjQD7gA1o65myfMxQ-Yvmh-VlTotujCXyHlbFyT_",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E8%87%AA%E9%87%8D%E5%A0%82/",
+    "https://www.kuchofuku.com/?mode=grp&gid=1777071",
+    "https://maido-ya.com/magazine/contents/cap_no/566/index_no/280",
+    "https://ja.wikipedia.org/wiki/自重堂"
+   ]
+  },
+  {
+   "query": "自重堂 社長 インタビュー",
+   "results": [
+    "https://www.nikkei.com/article/DGKKZO74000090Z20C23A8TB1000/",
+    "https://www.nikkan.co.jp/articles/view/684304",
+    "https://www.jichodo.co.jp/sp/company/yakuin.html",
+    "https://kitaishihon.com/company/3597/board-of-director",
+    "https://jobtalk.jp/companies/996/answers?question_codes=president",
+    "https://www.seventietwo.com/ja/news/Jichodo_IdeharaMasanobu_20260203",
+    "https://www.sen-i-news.co.jp/seninews/view/?article=394782",
+    "https://prtimes.jp/main/html/rd/p/000000009.000033890.html",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x00000EydLn&qco=1",
+    "https://ja.wikipedia.org/wiki/自重堂"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式12頁／PDF・画像8件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像8件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

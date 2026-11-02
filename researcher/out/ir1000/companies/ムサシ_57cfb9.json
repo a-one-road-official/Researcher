@@ -1,0 +1,893 @@
+{
+ "name": "ムサシ",
+ "aliases": [],
+ "context": "証券コード7521／卸売業／スタンダード（内国株式）／2026.03期 売上高40,586百万円 営業利益率11.5%",
+ "researched_at": "2026-11-02T20:13:51.445168+00:00",
+ "official_url": "https://musashi.inc/",
+ "identified_by": "search:yahoo_jp:ムサシ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1946年",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結533名/単独190名（2025年3月末現在）",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "生産者である前にまずは一人のユーザーとして、スタッフが生活のなかで発見し解決した、シンプルな方法を製品に落とし込みました",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー機能を併せ持つ商社として、自社開発と外部技術を融合した独自のビジネスモデルのもと、お客様のニーズに応じた最適な製品・サービスを提供しています",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "これからも変化を恐れず挑戦を続け、お客様・社会・環境にとって信頼される企業であり続けるよう努めてまいります",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "お取引先募集",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の顧客への売上依存度を抑える安定した経営基盤を強みに、現在はクラウド技術を活用した自治体DXや防災・減災事業など、ITソリューション企業への変革を迅速に遂げている",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との信頼を築いた40年 現場で貫いた価値提供の本質",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "当時は既製品を販売することが中心でしたが、私は次第に「顧客ニーズをくみ取り、自ら新しい仕組みをつくって提供したい」という熱い思いを抱くようになりました",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "入社2、3年目の頃、あるお客様との出会いが、私の営業スタイルの原点となりました",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "私の「熱量」が、ようやくお客様の心に届いた瞬間でした",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの信用金庫のお客様に対しては、機器の販売だけでなく、運用のすべてをサポートする体制を整えました",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "特定の1社による売上依存度が5％を超えることはなく、全国の自治体様をはじめとする数多くのお客様に支えられています",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "同社が今、クラウド技術の導入や開発の内製化といった未知の領域へ果敢に挑めるのは、長年現場で磨き上げてきた「顧客の声を形にする力」があるからにほかならない",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品リーフレット",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "大学と連携した製品モニタリングを実施",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "光るホワイト什器依頼フォーム・みちくさ製品什器依頼フォーム",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "強い意思で製品やサービスをおくりだす",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "生産者である前にまずは一人のユーザーとして、スタッフが生活のなかで発見し解決した、シンプルな方法を製品に落とし込みました",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "遊び心くすぐる製品づくり活動",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "製品リーフレット",
+    "url": "https://musashi.inc/company/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報 TOP",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Translate TM 翻訳サービス",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "取扱商品やサービスの内容を変えていくと共に、",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー機能を併せ持つ商社として、自社開発と外部技術を融合した独自のビジネスモデルのもと、お客様のニーズに応じた最適な製品・サービスを提供しています",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "そして自治体システムの標準化に対応したシステム開発や、ガバメントクラウドを活用したサービスの提供など、公共分野のDXにも積極的に取り組んでいます",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "また、リサイクル可能な製品の導入や環境配慮型システムの開発を通じて、持続可能な社会の実現にも取り組んでいます",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ACPO（会員サービス）",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BSC（売掛サービス）",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ACPO会員様限定！対象商品のご購入で、通常ポイントに加えて期間限定ポイント※をプレゼント",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "売場で下図の表示のある商品が対象です",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お得な商品を是非お求めくださいませ",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【リンレイ】使えば違いが分かる！おすすめ商品のご紹介",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お掃除といえばリンレイ！ビバホーム・ムサシで販売中のおすすめ商品をご紹介します",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【小林製薬】おすすめ商品！消臭元のご紹介！！",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "30年にわたり日本の家庭のニオイに向き合い続けてきた「消臭元」 ビバホーム・ムサシで販売中のおすすめ商品をご紹介します",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "入浴剤といえばアース製薬の温泡！ビバホーム・ムサシで販売中のおすすめ商品をご紹介します",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイントサービス「ACPO（アクポ）」",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「いつでもつながり、新しい出会いを創る」アークランズ各店舗とビバムサシオンライン共通で使える＆貯まるポイントサービスです",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "売掛サービス「BSC（ビジネスサポートカード）」",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "法人様のビジネスをサポートする後払いサービスです",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "家電延長保証サービス",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "万が一の製品の故障に備え、メーカー保証が終了した後も、メーカー保証とほぼ同等の保証内容を提供するサービスです",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "家電製品を安心してお使いいただくために、延長保証にぜひご加入ください",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報 TOP",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Google Translate TM 翻訳サービス",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報 TOP",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Translate TM 翻訳サービス",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報 TOP",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Translate TM 翻訳サービス",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "DXソリューション",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "街から探すムサシの商品",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "最適なデジタル印刷ソリューションを提供",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値ある製品開発に取り組む",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の顧客への売上依存度を抑える安定した経営基盤を強みに、現在はクラウド技術を活用した自治体DXや防災・減災事業など、ITソリューション企業への変革を迅速に遂げている",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "当時は既製品を販売することが中心でしたが、私は次第に「顧客ニーズをくみ取り、自ら新しい仕組みをつくって提供したい」という熱い思いを抱くようになりました",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "スペースの制約まで考慮した運用提案は、他社には真似できない独自のサービスとなり、結果として値引きなしでも選んでいただける強い信頼につながりました",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "当時は会社への報告で満足してしまい、商品化まで押し切ることができませんでした",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "結局、自分が経営本部長になってからその案件を拾い上げ、自ら商品化したのです",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "現場からの報告書提出で終わらせ、商品化が10年遅れてしまった反省から、現在は「スピーディーに動いて早く結論を出す」ことを何より大切にしています",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "一時はエンジニアの確保も危ぶまれるほどの困難な挑戦でしたが、これを乗り越えることで、年間を通じて安定したサービスを提供できる基盤が整いつつあります",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "美容師向けのヘアケア商品や化粧品を製造、販売するプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアトップクラスのサーバーやAIサービスを手掛けるITソリューションカンパニー",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ムサシが主導する多種多様なプロジェクトを紹介します",
+    "url": "https://musashi.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介ムービー",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "新店舗/リニューアル情報",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "種類と対象店舗",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【一部店舗】棚卸による店舗休業のお知らせ",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "下記店舗は棚卸等の為、閉店時間の変更・休業日がございます",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県 ご利用店舗 北海道 ・スーパービバホーム白石本通店 ・ビバホームあい…",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "キャンペーン期間中に、アークランズの対象店舗で楽天ポイントカードを提示して1回当たり2,000円（税抜）以上お会計で抽選で1,111名さまに楽天ポイント555ポイント（期間限定ポイント）が当たるキャンペーンを実施いたしま…",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【参加無料】12月ペットポスターモデルオーディション撮影会 十 実施店舗のご案内",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【リンレイ】使えば違いが分かる！おすすめ商品のご紹介",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お掃除といえばリンレイ！ビバホーム・ムサシで販売中のおすすめ商品をご紹介します",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【小林製薬】おすすめ商品！消臭元のご紹介！！",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "30年にわたり日本の家庭のニオイに向き合い続けてきた「消臭元」 ビバホーム・ムサシで販売中のおすすめ商品をご紹介します",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "入浴剤といえばアース製薬の温泡！ビバホーム・ムサシで販売中のおすすめ商品をご紹介します",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「いつでもつながり、新しい出会いを創る」アークランズ各店舗とビバムサシオンライン共通で使える＆貯まるポイントサービスです",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用店舗の営業時間についてはコチラからご参照ください",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介ムービー",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介ムービー",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介ムービー",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし私は、メンテナンスや更新の効率、定期的な店舗の引っ越し対応などを考え、仕組みを「レンタル方式」へと切り替える新たな運用スキームを提案したのです",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、店舗のレイアウトを頭に叩き込み、「この支店のここに、この機器は入るか」という相談に、図面を見ずともその場で即答できるようにしたのです",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1950年10月",
+    "url": "https://musashi.inc/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年10月",
+    "url": "https://musashi.inc/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日に発生した令和８年熊本地震により被害に遭われた皆さまに、心よりお見舞い申し上げます",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2009年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2006年3月期",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算説明会資料",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期業績予想の修正",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月28日",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算の発表日について",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年台風第25号により被災された皆様へ",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月18日",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1946年に紙の商社として創業した同社は、現場のニーズに応えて機器開発やシステム化を推し進め、今や日本の民主主義を支える選挙においてはなくてはならない企業となった",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月に創業80年を迎えるにあたり、私はこの歴史ある会社を磨き上げたいと考えています",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "1985年中央大学法学部卒業後、株式会社ムサシに入社",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "メーカー機能を併せ持つ商社として、自社開発と外部技術を融合した独自のビジネスモデルのもと、お客様のニーズに応じた最適な製品・サービスを提供しています",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "保守・修理のお問い合わせ",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "保守・修理のお問い合わせ",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "保守・修理のお問い合わせ",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "保守・修理のお問い合わせ",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は商社でありながらメーカー機能も持ち、さらに保守専門の子会社も含めたグループ全体が強固につながっています",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トップメッセージ - 株式会社ムサシ — トップメッセージ - 株式会社ムサシ 株式会社ムサシ https://www.musashinet.co.jp > message",
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームセンター ビバホーム・ ムサシ 公式ホームページ — ホームセンター ビバホーム・ ムサシ 公式ホームページ musashi.vivahome.com https://musashi.vivahome.com",
+    "url": "https://musashi.vivahome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内／株式会社 ムサシ - YouTube — 会社案内／株式会社 ムサシ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=LphQQEXJPnU",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | 株式会社 ムサシ — 決算説明 会 資料 | 株式会社 ムサシ 株式会社ムサシ https://www.musashinet.co.jp > docs > presentations",
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 | 株式会社 ムサシ — IR 資料 | 株式会社 ムサシ 株式会社ムサシ https://www.musashinet.co.jp > docs",
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ムサシ 】[7521] 決算 発表や業務・財務情報 | 日経電子版 — 【 ムサシ 】[7521] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7521",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 株式会社 ムサシ — 決算 短信 | 株式会社 ムサシ 株式会社ムサシ https://www.musashinet.co.jp > docs > results",
+    "url": "https://www.musashinet.co.jp/ir/docs/results.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ムサシ — 株式会社 ムサシ 株式会社ムサシ https://www.musashinet.co.jp",
+    "url": "https://www.musashinet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 情報・産業システム／株式会社 ムサシ - YouTube — 事業 紹介 情報・産業システム／株式会社 ムサシ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=KHr7fz0GqJA",
+    "pass": 3
+   },
+   {
+    "quote": "ムサシ 【7521】の 事業 内容 - キタイシホン — ムサシ 【7521】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7521/business",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 ムサシ 代表取締役 社長 小野 貢市 — 業界毎特集記事－株式会社 ムサシ 代表取締役 社長 小野 貢市 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "社長 の考え｜会社案内｜鍛造（熱間鍛造）の ムサシ 工業 — 社長 の考え｜会社案内｜鍛造（熱間鍛造）の ムサシ 工業 musashi-industry.com http://www.musashi-industry.com > outline > interview",
+    "url": "http://www.musashi-industry.com/pc/outline/interview.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "特定の顧客への売上依存度を抑える安定した経営基盤を強みに、現在はクラウド技術を活用した自治体DXや防災・減災事業など、ITソリューション企業への変革を迅速に遂げている",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "営業現場でしか味わえないこうした「人と人のつながり」こそが、弊社の強みである一体感や信頼関係の礎になっているのだと確信しています",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "ーー貴社が持つ独自の強みはどこにあるとお考えですか",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "大きく分けて2つの強みがあります",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   },
+   {
+    "quote": "紙のアナログな強みと最新のIT技術を融合させ、社会に不可欠な新しい価値をつくる",
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://musashi.inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://musashi.inc/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://musashi.vivahome.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashinet.co.jp/ir/docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashinet.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DKHr7fz0GqJA&q=EgQ0nSGGGKbeo9cGIjB8bd987mZaki7ldWJ4oQWnVEl5teiivD9RbPZFf_PoCrNR5uW4LXlqrnwNee11O_syAnJSWgFDYO2O3recsLqtGQ",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashinet.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5491",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ムサシ",
+   "results": [
+    "https://musashi.inc/ja/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%82%B7_(%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC)",
+    "https://www.musashinet.co.jp/",
+    "https://www.instagram.com/musashi.inc/?hl=ja",
+    "https://musashi.vivahome.com/",
+    "https://musashijapan.com/",
+    "https://www.musashi-in.co.jp/",
+    "https://www.musashi.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/ムサシ",
+    "https://grokipedia.com/page/Musashi_theory"
+   ]
+  },
+  {
+   "query": "ムサシ ビジネスモデル",
+   "results": [
+    "https://www.musashinet.co.jp/ir/message/",
+    "https://musashi.vivahome.com/",
+    "https://www.musashi.co.jp/assets/pdf/musashi_integrated_report_2025.pdf",
+    "https://www.youtube.com/watch?v=LphQQEXJPnU",
+    "https://www.arclands.co.jp/ja/business/retail/musashi.html",
+    "https://job.mynavi.jp/27/pc/search/corp260109/obog23020474/obog.html",
+    "https://kabutan.jp/news/marketnews/?b=n201907120122",
+    "https://musashi-fs.co.jp/company/",
+    "https://www.facebook.com/musashi.inc/",
+    "https://consovation.com/株式会社ムサシのビジネスモデルに迫る魅力的な/"
+   ]
+  },
+  {
+   "query": "ムサシ 決算説明資料",
+   "results": [
+    "https://www.musashinet.co.jp/ir/docs/presentations.html",
+    "https://www.musashinet.co.jp/ir/docs/",
+    "https://www.musashi.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7521",
+    "https://www.musashinet.co.jp/ir/docs/results.html",
+    "https://www.musashi-sec.co.jp/ir/accounts.php",
+    "https://www.musashi.co.jp/ir/library/financial_data/",
+    "https://www.visional.inc/ja/ir/library/presentation.html",
+    "https://newspicks.com/news/16816744/?ref=news-body_16820115",
+    "https://edinetdb.jp/company/E02855/presentations/"
+   ]
+  },
+  {
+   "query": "ムサシ 事業系統図",
+   "results": [
+    "https://www.musashinet.co.jp/",
+    "https://www.youtube.com/watch?v=KHr7fz0GqJA",
+    "https://www.musashi.co.jp/assets/pdf/musashi_integrated_report_2025.pdf",
+    "https://www.youtube.com/watch?v=LphQQEXJPnU",
+    "https://kitaishihon.com/company/7521/business",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7521",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/musashi20190121.pdf",
+    "https://www.musashinet.co.jp/company/outline/",
+    "https://www.musashi-ij.co.jp/corporate/about/",
+    "https://www.musashinet.co.jp/company/"
+   ]
+  },
+  {
+   "query": "ムサシ 社長 インタビュー",
+   "results": [
+    "https://www.musashinet.co.jp/ir/message/",
+    "https://shachomeikan.jp/industry_article/5491",
+    "http://www.musashi-industry.com/pc/outline/interview.html",
+    "https://www.musashi.co.jp/blog/",
+    "https://musashi.inc/ja/topics/6087/",
+    "https://www.nikkan.co.jp/articles/view/751277",
+    "https://www.musashinet.co.jp/recruit/message/",
+    "https://www.youtube.com/watch?v=IbWSW9x4VNo",
+    "https://www.newprinet.co.jp/%E3%83%A0%E3%82%B5%E3%82%B7-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E3%81%AB%E5%B0%8F%E9%87%8E%E5%89%AF%E7%A4%BE%E9%95%B7%E5%B0%B1%E4%BB%BB%E3%81%B8%E3%80%81%E7%BE%BD%E9%B3%A5",
+    "https://www.musashi.co.jp/media/post_67.html"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

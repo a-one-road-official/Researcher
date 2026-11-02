@@ -1,0 +1,934 @@
+{
+ "name": "エンカレッジ・テクノロジ",
+ "aliases": [],
+ "context": "証券コード3682／情報・通信業／スタンダード（内国株式）／2026.03期 売上高2,585百万円 営業利益率11.7%",
+ "researched_at": "2026-11-02T20:14:21.925493+00:00",
+ "official_url": "https://www.et-x.jp/",
+ "identified_by": "search:yahoo_jp:エンカレッジ・テクノロジ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2002年（平成14年）11月1日",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンピュータシステムソフトウェアの開発、保守ならびに販売 コンピュータ運用管理に関するコンサルティング コンピュータ運用管理に関するBPOサービス",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の採用事例集を最新版に更新しました",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システム運用に関する悩みやニーズのもとになる真の目的を解決するため、お客様に寄り添い、活発なディスカッションとヒアリングを通して新たな価値を創造し、満足いただける製品とサービスを提供しています",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品は2002年の創業以来、社会インフラの一端を担う金融、公共、通信業をはじめとする幅広い業種のお客様にご採用いただき、2026年9月末時点で800社以上のお客様のシステムの安全と安定稼働に貢献しています",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「経営理念」の実践を通じて、株主、顧客、取引先、社員、地域社会などのステークホルダーに対する責任を果たしていくことで、当社の持続的成長と企業価値を永続的に高めてまいります",
+    "url": "https://www.et-x.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業のシステム現場に常駐し、当社製品を使用したIT統制管理業務を行う業務受託",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.et-x.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の氏名、ご連絡先、お問い合わせ内容をご記入のうえ、下記メールアドレス宛てにご送信くださいますよう、お願いいたします",
+    "url": "https://www.et-x.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "※フリーメールをご利用のお客様は、迷惑メールフォルダに自動で振り分けられている場合がございます",
+    "url": "https://www.et-x.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい価値を創造する お客様目線での",
+    "url": "https://www.et-x.jp/Portals/0/images/business/img_01.png",
+    "pass": 2
+   },
+   {
+    "quote": "さまざまな業界のお客様の",
+    "url": "https://www.et-x.jp/Portals/0/images/business/img_01.png",
+    "pass": 2
+   },
+   {
+    "quote": "同製品を導入すると、まずシステム利用者の操作記録（ログ）を専用のサーバーで保存",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者がリスクの高い操作を行うと、リアルタイムで管理者にアラートメールを送信したり、操作画面をロックしたりする",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "また、管理者は過去データを閲覧できる他、利用者をリアルタイムで監視することも可能",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "「動画記録は、利用者のＰＣ画面を動画で撮ったもの",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "累計導入社数は、20年末時点で約５００社に上る",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア販売先への保守サポートが売上の６年３月期の売上高は１９億２８００万円",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のビジネスモデルは、まず導入企業に対してレックなどソフトウェア製品の使用権利を付与する「ライセンス」を販売",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エンカレッジ・テクノロジは、製品・サービスの提供を通じてシステム運用を取り巻く課題解決に貢献し、すべての人々が安心してITを利用できる社会を創ります",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちのサービス",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバー攻撃や内部不正、操作ミスといったリスク対策、セキュリティに関わる法規制・ガイドライン準拠に貢献する製品を開発しています",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、2002年の創業より培ったノウハウや今後のニーズに応えた弊社製品のご提案だけでなく、導入支援や保守サポートまで一貫して提供しています",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サービス",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PHPの重大な脆弱性(CVE-2026-109618、CVE-2026-109619)の弊社製品への影響と対応について",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人々の生活や企業活動はITシステムによって支えられており、ITシステムの安全と継続的なサービス提供は厳格なシステム運用・保守によって成立しています",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エンカレッジ・テクノロジは、ソフトウェアの提供及び関連サービスの両面で、これらのリスク対策や法令順守・ガイドライン等への対応に貢献する国産のパッケージソフトウェア・ベンダーです",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "システム運用に関する悩みやニーズのもとになる真の目的を解決するため、お客様に寄り添い、活発なディスカッションとヒアリングを通して新たな価値を創造し、満足いただける製品とサービスを提供しています",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品は2002年の創業以来、社会インフラの一端を担う金融、公共、通信業をはじめとする幅広い業種のお客様にご採用いただき、2026年9月末時点で800社以上のお客様のシステムの安全と安定稼働に貢献しています",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品のご採用企業様はこちら",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "内部脅威対策ソリューション市場の現状と将来展望 2025年度【サイバーセキュリティソリューション市場21版目】デロイト トーマツ ミック経済研究所株式会社",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "コンピュータ運用管理に関するBPOサービス",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "※プロダクト統括部、サービス統括部、品質保証部、経営管理部情報システムグループ、内部監査室で取得",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、機密情報の漏えいや、重要インフラにおけるサービス停止などのリスクが高まっています",
+    "url": "https://www.et-x.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はデーターセンターやコンピューターシステムの安定運用と安全な環境を支える製品やサービスを開発・提供しており、当事業年度におきましては、次世代型特権ID管理ソフトウエア「ESS AdminONE」クラウド版「ESS AdminONE Cloud」の提供開始に加え、主力製品の機能拡張やAIを主軸とした新製品開発を進めてまいります",
+    "url": "https://www.et-x.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ対策や内部統制強化に対応するパッケージソフトウエア製品の開発・販売",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "保守サポートサービス",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の改良版の提供、使用方法に関するQ&A窓口対応や製品情報の提供",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスや期間限定利用に対応する製品の開発・販売",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品導入に伴うインストールやトレーニング、アドバイザリーサービスなどの提供",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "SIO常駐サービス",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業のシステム現場に常駐し、当社製品を使用したIT統制管理業務を行う業務受託",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/library/material/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/library/material/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/library/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/library/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/library/yuho/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/library/yuho/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/stock/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/stock/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/stock/soukai/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/stock/soukai/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/stock/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/stock/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトはこちら",
+    "url": "https://www.et-x.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスサイトへ",
+    "url": "https://www.et-x.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "弊社は、2002年の創業より培ったノウハウや今後のニーズに応えた弊社製品のご提案だけでなく、導入支援や保守サポートまで一貫して提供しています",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人々の生活や企業活動はITシステムによって支えられており、ITシステムの安全と継続的なサービス提供は厳格なシステム運用・保守によって成立しています",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コンピュータシステムソフトウェアの開発、保守ならびに販売",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "保守サポートサービス",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア販売先への保守サポートが売上の６年３月期の売上高は１９億２８００万円",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別に分けると、ソフトウェア製品のライセンスは全体の22％",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "対して同58％と最も大きいのが保守サポートサービスだ",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のビジネスモデルは、まず導入企業に対してレックなどソフトウェア製品の使用権利を付与する「ライセンス」を販売",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、同製品のアップデートや運用支援を行う「保守サポートサービス」を導入先に提案する",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "価格はライセンス額の約20％／年で、１年ごとの自動更新となる",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第１四半期決算短信［日本基準］（非連結）を公開いたしました",
+    "url": "https://www.et-x.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年（平成14年）11月1日",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月末時点",
+    "url": "https://www.et-x.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年12月11日",
+    "url": "https://www.et-x.jp/ir/stock/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月期",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月期",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月期",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年3月期",
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年です",
+    "url": "https://www.et-x.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年12月11日です",
+    "url": "https://www.et-x.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年生まれ",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年、フュージョンワン取締役就任",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "［事業系統図］",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主要な事業系統図は以下のとおりです",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "同社のビジネスモデルは、まず導入企業に対してレックなどソフトウェア製品の使用権利を付与する「ライセンス」を販売",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.et-x.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業案内 | エンカレッジ ・ テクノロジ 株式会社 — 事業案内 | エンカレッジ ・ テクノロジ 株式会社 エンカレッジ・テクノロジ株式会社 https://www.et-x.jp > business",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ (3682)、事業内容、 ビジネスモデル — エンカレッジ ・ テクノロジ (3682)、事業内容、 ビジネスモデル grow-project.com https://www.grow-project.com > encourage-technologies-...",
+    "url": "https://www.grow-project.com/encourage-technologies-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ 株式会社 — エンカレッジ ・ テクノロジ 株式会社 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/3682",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ （3682）の株価は10倍になるのか？ — エンカレッジ ・ テクノロジ （3682）の株価は10倍になるのか？ note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/witty_racoon2307/n/nafd62d293616",
+    "pass": 3
+   },
+   {
+    "quote": "自治体向けソリューション特集 エンカレッジ ・ テクノロジ ... — 自治体向けソリューション特集 エンカレッジ ・ テクノロジ ... 週刊BCN＋ https://www.weeklybcn.com > journal > issue > detail",
+    "url": "https://www.weeklybcn.com/journal/issue/detail/20160929_28122.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | エンカレッジ ・ テクノロジ 株式会社 — IR情報 | エンカレッジ ・ テクノロジ 株式会社 エンカレッジ・テクノロジ株式会社 https://www.et-x.jp > ...",
+    "url": "https://www.et-x.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ [3682]：2026年3月期 決算説明 補足 ... — エンカレッジ ・ テクノロジ [3682]：2026年3月期 決算説明 補足 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260513527752/",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ （3682）のIR情報・ 決算資料 — エンカレッジ ・ テクノロジ （3682）のIR情報・ 決算資料 IRBANK https://irbank.net > エンカレッジ・テクノロジ",
+    "url": "https://irbank.net/3682/ir",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ･ テクノロジ 【3682】のIR 資料 — エンカレッジ ･ テクノロジ 【3682】のIR 資料 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3682/library",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 | エンカレッジ ・ テクノロジ 株式会社 — IR 資料 | エンカレッジ ・ テクノロジ 株式会社 エンカレッジ・テクノロジ株式会社 https://www.et-x.jp > library > material",
+    "url": "https://www.et-x.jp/ir/library/material/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 の内容 | エンカレッジ ・ テクノロジ 株式会社 — 事業 の内容 | エンカレッジ ・ テクノロジ 株式会社 エンカレッジ・テクノロジ株式会社 https://www.et-x.jp > enterprise",
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 案内 | エンカレッジ ・ テクノロジ 株式会社 — 事業 案内 | エンカレッジ ・ テクノロジ 株式会社 エンカレッジ・テクノロジ株式会社 https://www.et-x.jp > business",
+    "url": "https://www.et-x.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ （3682）の関連テーマ・ 事業 内容 — エンカレッジ ・ テクノロジ （3682）の関連テーマ・ 事業 内容 株トレンドpro https://jigyou-v2.kabu-trendpro.com > 情報・通信業",
+    "url": "https://jigyou-v2.kabu-trendpro.com/company/3682/",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ （英文社名 - Interop Tokyo 2026 — エンカレッジ ・ テクノロジ （英文社名 - Interop Tokyo 2026 株式会社ナノオプト・メディア https://f2ff.jp > interop > exhibitor > show",
+    "url": "https://f2ff.jp/2026/interop/exhibitor/show.php?id=3841&lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ (株)【東証スタンダード上場】 — エンカレッジ ・ テクノロジ (株)【東証スタンダード上場】 マイナビ https://job.mynavi.jp > search > corp210679 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp210679/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ の石井進也 社長 「新市場作る」 — エンカレッジ ・ テクノロジ の石井進也 社長 「新市場作る」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/664331",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ の石井 社長 「クラウドで25%増収 ... — エンカレッジ ・ テクノロジ の石井 社長 「クラウドで25%増収 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNMSGD1105E_R11C13A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "寸言 石井進也 ・ エンカレッジ ・ テクノロジ社長 — 寸言 石井進也 ・ エンカレッジ ・ テクノロジ社長 ニッキンONLINE https://www.nikkinonline.com > オピニオン",
+    "url": "https://www.nikkinonline.com/article/358490",
+    "pass": 3
+   },
+   {
+    "quote": "エンカレッジ ・ テクノロジ 特権ID管理ソフトの新製品 多様化 ... — エンカレッジ ・ テクノロジ 特権ID管理ソフトの新製品 多様化 ... 週刊BCN＋ https://www.weeklybcn.com > journal > explanation > detail",
+    "url": "https://www.weeklybcn.com/journal/explanation/detail/20210218_180242.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別に分けると、ソフトウェア製品のライセンスは全体の22％",
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.et-x.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/company/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/library/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/library/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/library/yuho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/stock/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/stock/soukai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/stock/notification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/stock/publication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.et-x.jp/ir/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.et-x.jp/Portals/0/document/PDF/11th_financial_results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/document/PDF/10th_financial_results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/document/PDF/9th_financial_results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/document/PDF/8th_Financial_Results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/document/PDF/7th_Financial_Results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/document/PDF/6th_Financial_Results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/images/business/img_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/images/business/img_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/images/business/img_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.et-x.jp/Portals/0/images/ir/img_business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.grow-project.com/encourage-technologies-analysis/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260513527752/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/664331",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エンカレッジ・テクノロジ",
+   "results": [
+    "https://www.et-x.jp/",
+    "https://www.scsk.jp/product/common/ess/index.html",
+    "https://job.mynavi.jp/28/pc/search/corp210679/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10051710717/",
+    "https://cloud.watch.impress.co.jp/docs/news/2121543.html",
+    "https://kotobank.jp/word/%E3%81%88%E3%82%93%E3%81%8B%E3%82%8C%E3%81%A4%E3%81%98%E3%81%A6%E3%81%8F%E3%81%AE%E3%82%8D%E3%81%98-1456853",
+    "https://www.et-x.jp/company/info/",
+    "https://product.et-x.jp/",
+    "https://finance.yahoo.co.jp/quote/3682.T",
+    "https://shikiho.toyokeizai.net/stocks/3682/corporate"
+   ]
+  },
+  {
+   "query": "エンカレッジ・テクノロジ ビジネスモデル",
+   "results": [
+    "https://www.et-x.jp/business/",
+    "https://www.grow-project.com/encourage-technologies-analysis/",
+    "https://www.crex-data.com/company/3682",
+    "https://note.com/witty_racoon2307/n/nafd62d293616",
+    "https://www.weeklybcn.com/journal/issue/detail/20160929_28122.html",
+    "https://consovation.com/%E3%82%A8%E3%83%B3%E3%82%AB%E3%83%AC%E3%83%83%E3%82%B8%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90/",
+    "https://japan.zdnet.com/article/35166287/",
+    "https://newscast.jp/news/0014053",
+    "https://www.atpress.ne.jp/news/575506",
+    "https://www.et-x.jp/"
+   ]
+  },
+  {
+   "query": "エンカレッジ・テクノロジ 決算説明資料",
+   "results": [
+    "https://www.et-x.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260513527752/",
+    "https://irbank.net/3682/ir",
+    "https://www.buffett-code.com/company/3682/library",
+    "https://www.et-x.jp/ir/library/material/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250513/20250422520487.pdf",
+    "https://finance.matsui.co.jp/stock/3682/settlement/index",
+    "https://envalith.com/zh-TW/companies/3682/disclosure",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20240509586275/",
+    "https://edinetdb.jp/company/E30085/ir-docs/"
+   ]
+  },
+  {
+   "query": "エンカレッジ・テクノロジ 事業系統図",
+   "results": [
+    "https://www.et-x.jp/ir/enterprise/",
+    "https://www.et-x.jp/business/",
+    "https://jigyou-v2.kabu-trendpro.com/company/3682/",
+    "https://f2ff.jp/2026/interop/exhibitor/show.php?id=3841&lang=ja",
+    "https://job.mynavi.jp/27/pc/search/corp210679/outline.html",
+    "https://www.et-x.jp/",
+    "https://www.qualica.co.jp/ja/news/20230215.html",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=3682",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3682",
+    "https://donburi.accountant/report/?es=8724&t=3"
+   ]
+  },
+  {
+   "query": "エンカレッジ・テクノロジ 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/664331",
+    "https://www.kabutecho.com/interview/%E6%93%8D%E4%BD%9C%E3%83%9F%E3%82%B9%E3%83%BB%E4%B8%8D%E6%AD%A3%E6%93%8D%E4%BD%9C%E7%99%BA%E8%A6%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%9B%BD%E5%86%85%E5%88%9D%E9%96%8B%E7%99%BA-%E3%83%86%E3%83%AC/",
+    "https://www.nikkei.com/article/DGXNMSGD1105E_R11C13A2000000/",
+    "https://www.nikkinonline.com/article/358490",
+    "https://www.weeklybcn.com/journal/explanation/detail/20210218_180242.html",
+    "https://www.et-x.jp/company/topmessage/",
+    "https://www.nikkei.com/article/DGXZTSJD02301_Z20C24A3000000/",
+    "https://www.tsr-net.co.jp/data/detail/1189561_1527.html",
+    "https://jobtalk.jp/companies/4504/answers?question_codes=president",
+    "https://the-shashi.com/tse/3682/ceo/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像10件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像10件／外部4頁・検索5回）",
+  "どうやって売るか": "記載なし（3回確認済み：公式20頁／PDF・画像10件／外部4頁・検索5回）"
+ }
+}

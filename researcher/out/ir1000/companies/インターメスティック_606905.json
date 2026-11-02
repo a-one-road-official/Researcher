@@ -1,0 +1,2277 @@
+{
+ "name": "インターメスティック",
+ "aliases": [],
+ "context": "証券コード262A／小売業／プライム（内国株式）／2025.12期 売上高50,151百万円 営業利益率11.9%",
+ "researched_at": "2026-11-02T20:06:55.327077+00:00",
+ "official_url": "https://www.zoff.com/",
+ "identified_by": "search:yahoo_jp:インターメスティック",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1993年5月20日",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1993年3月10日",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1993年5月",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1993年5月",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "１．眼鏡レンズ、眼鏡フレーム、サングラスの製造販売及び輸出入 ２．眼鏡・コンタクトレンズのケース、クリーナーその他の眼鏡・コンタクトレンズ付属品の製造販売及び輸出入",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "１．眼鏡レンズ、眼鏡フレーム、サングラスの製造販売及び輸出入 ２．眼鏡・コンタクトレンズのケース、クリーナーその他の眼鏡・コンタクトレンズ付属品の製造販売及び輸出入 ３．その他上記に付帯する一切の業務",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "眼鏡レンズ、眼鏡フレーム、サングラスの製造販売",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "眼鏡レンズ、眼鏡フレーム、サングラスの製造販売",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数(名)",
+    "value": "平均年齢(歳) 平均勤続年数(年) 平均年間給与(千円)",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "3347人（同、連結）",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "3347人（同、連結）",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "501億円",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "501億円",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "Zoff は お客様からの「ありがとう」を",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からの「あったらいいな」の声を盛り込み、これまでにないアイデアを創出しています",
+    "url": "https://www.zoff.com/about-us/business/",
+    "pass": 1
+   },
+   {
+    "quote": "数あるフレームの中から、お客様に最適な1本を",
+    "url": "https://www.zoff.com/about-us/business/",
+    "pass": 1
+   },
+   {
+    "quote": "処方箋でおつくりのお客様は、再度処方された処方箋をお持ちください",
+    "url": "https://www.zoff.com/about-us/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のモノやコトへの価値観も同様に変わり続けています",
+    "url": "https://www.zoff.com/about-us/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてお客様の企業に求める要求も日々変化していく中で、",
+    "url": "https://www.zoff.com/about-us/message/",
+    "pass": 1
+   },
+   {
+    "quote": "世のため・お客様のため・従業員のために、",
+    "url": "https://www.zoff.com/about-us/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のモノやコトへの価値観も同様に変わり続けています",
+    "url": "https://www.zoff.com/about-us/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてお客様の企業に求める要求も日々変化して行く中で、企業は常に新しい価値を創造して行かなくてはなりません",
+    "url": "https://www.zoff.com/about-us/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "Zoffは、お客様、従業員、社会全体が利益を享受できるように、時代や環境の変化に対して、自らを柔軟に変革しながら、誰も出来ない革新的発想で業界に新しい価値を創り続けます",
+    "url": "https://www.zoff.com/about-us/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、投資に関する決定は利用者ご自身の判断と責任において行われるようお願いいたします",
+    "url": "https://www.zoff.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、「メガネをTシャツのように、もっと気軽に楽しんでほしい」というコンセプトのもと、ファッション性の高いデザインとリーズナブルな価格で、若年層を中心に幅広い顧客層から支持を得ています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これは、顧客、従業員、取引先、社会全体との誠実な関係性を重視し、事業を通じて社会に貢献していくという企業の姿勢を示しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "SPAモデルを成功させる上で、顧客と直接接する従業員の専門性、モチベーション、そしてブランド価値への共感は極めて重要です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "SPAモデルにおいて、店舗スタッフは顧客との最終接点であり、ブランド体験を左右する重要な役割を担います",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "高い接客スキルや商品知識を持つスタッフの育成と定着は、顧客満足度向上、ひいては売上増加に直結します",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業者を介さないことで中間マージンを排除し、コスト競争力を高めると同時に、販売現場で得られた顧客のニーズやトレンド情報を迅速に商品企画にフィードバックできる体制を構築しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客ニーズを起点とした商品開発」を基本とし、月に2回という頻度で新商品を投入するサイクルを確立しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの収益構造は、SPAモデルを基盤とした効率的な運営と、顧客ニーズを捉えた商品戦略によって特徴づけられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、「メガネをTシャツのように着替える」というブランドコンセプトのもと、顧客の複数本購入や買い替えサイクルの短縮を促しており、リピート顧客数も増加傾向にあります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "特に、視力矯正という基本的なニーズに加え、「ファッション性」「機能性」という付加価値を提供することで、顧客の購買意欲を刺激し、収益機会を最大化しようという意図が明確です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ECチャネルの成長は、販売機会の拡大だけでなく、顧客データの収集・分析を通じたマーケティングの高度化や、より効率的な収益獲得にも繋がる重要な要素と言えるでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術革新は、顧客体験の向上や新たな市場の創出に繋がる可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "OMO戦略の巧拙は、EC化の難しさという業界課題を克服し、新たな顧客体験を創出する上で、競争優位性を左右する重要な鍵となるでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドイメージと顧客評価:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、Googleマップの口コミ評価ではZoffが平均を下回るとの指摘もあり 、店舗レベルでの顧客体験のばらつきや改善の余地を示唆している可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの競争優位性は、単なる価格競争に陥ることなく、「ファッションとしてのメガネ」という独自の価値提案を強化し、特定の顧客層（若年層、トレンドセッター）に対して強いブランドロイヤルティを構築できるかにかかっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、OMO戦略の推進による顧客体験の向上は、実店舗とオンラインの双方で顧客接点を強化し、競争優位性を高める上で不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "強力なブランド力とターゲット顧客への訴求力",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "市場のトレンドや顧客の潜在的ニーズを迅速に捉え、月に2回というハイペースで新商品を投入できる体制は、常に新鮮さを求める消費者の心を掴みます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、軽量性とデザイン性を兼ね備えた「Zoff SMART」のような、顧客の課題解決に繋がるヒット商品を継続的に開発してきた実績も、商品開発力の高さを物語っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験の重視",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "店舗での丁寧な接客は、リピート顧客の獲得に不可欠な要素であり、Zoffは販売員の育成にも力を入れていると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "LINEミニアプリの活用による店舗での待ち時間通知や保証内容の確認、ECサイトで購入した商品の店舗受け取りや度数データの連携などは、顧客の利便性を大幅に向上させ、シームレスな購買体験を提供しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "単に低価格であるだけでなく、ファッション性、話題性、そして快適な購買体験を提供することで、顧客の心を掴み、持続的な成長を目指していると言えるでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場は依然として同社の中核であり、既存事業の強化と新たな顧客層の開拓が成長の鍵となります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "顧客対応・顧客サポート",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期における国内店舗の合計顧客数は369万人",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "顧客リピート率も新規顧客の10%以上が購入年にリピート顧客となっているという",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI利用者の56％が「AI疲れ」を実感",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonのパスワードレス認証「パスキー」利用者が5億人を突破",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の「顧客体験」の最適化＆CVR最大化のポイント、売上UPにつながる決済活用法【今週11/5・6 リアルセミナー開催】",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "花のECサイト「花キューピット」などに不正アクセス、423万件の顧客情報漏えいの可能性",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "A/BテストでCPC6円・7円を記録した「広告育成メソッド」、“好き”を生む顧客体験、AI時代の人の価値創造事例",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の8割は「なんとなく」離脱する",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "ら、販売と企画の間に情報の乖離がなく顧客情報を即座に企画に反映でき、商品開発から生産をスピーディに対応",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "貫して行うことで、お客様に低価格の商品を提供しながらも高い利益率を確保できております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企画面では実際の店頭で汲み取った顧客ニーズを商品企画",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にスピーディに反映し、月２回の新商品展開を基本とし、顧客需要に適った商品が適時適切に店頭で販売できるよ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは顧客の「メガ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用するなど顧客課題の解決を追求した結果、当社を代表する商品となり、 2011年の販",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“ぼやけた”“失くした”といったお客様の必要に応じて購入するニーズ需要から、当社の商品を起点として、予",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらのアイウェア（注３）をお客様に手頃に楽しんでいただけるように、メガネ一式で6, 000円から1,000円刻",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "やすい成長期のお客様を応援するレンズのサポートプログラムとして、1 8才までのお客様には、お渡し日から起",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "頂いたお客様のうち、2016年以降でご利用実績のあるお客様のこと)数を重要な指標としております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社店頭にて商品をご購入いただいたお客様の数は、2 020年12月期の292万人から2023年12月期には369万",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１：()内の数値は各年に新規で購入頂いたお客様の数です",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※２：当社グループで導入している顧客管理システムによって把握できる人数であり、同システムにご登録のない",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の数は反映できておりません",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客単価については売上高の成長を支える要因として、店舗における顧客単価を重要な指標としておりま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "かばお氏とMomo Koyama氏が、Zoffの商品から着想を得たオリジナルパフォーマンスを披露",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "成長の糧に、我々にしかできないサービスを",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "様々なコラボレーションや新機能搭載の商品は、ここから生まれます",
+    "url": "https://www.zoff.com/about-us/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/about-us/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/about-us/message/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/about-us/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/about-us/sponsorship/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/shareholders-information/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/status/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/cash-flow/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/stock-docs/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/timely-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/electronic-public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社インターメスティック（以下当社）では、金融商品取引法および東京証券取引所が定める「上場有価証券の発行者の会社情報の適時開示等に関する規則」（以下「適時開示規則」）等に沿って、情報開示を行っております",
+    "url": "https://www.zoff.com/ir/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報サイトは、金融商品取引法や適時開示規則により開示が求められている情報についてはあくまでも補助的手段であり、これらに準拠して情報開示が行われる有価証券報告書、臨時報告書、TDnet等も併せてご覧下さい（東証の「適時開示情報閲覧サービス」はこちら）",
+    "url": "https://www.zoff.com/ir/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトに記載された情報は、当社が金融商品取引法令・規則または東京証券取引所の規則に従って開示している情報の全てを記載していない場合があること、それらの法令・規則に従って開示された情報・表現と異なった情報・表現を用いる場合があること、予告なくその内容を変更・削除する場合があることを、予めご了承ください",
+    "url": "https://www.zoff.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "取材、商品貸し出しについて",
+    "url": "https://www.zoff.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗、商品について",
+    "url": "https://www.zoff.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "商品保証について",
+    "url": "https://www.zoff.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "SPAモデルをメガネ業界でいち早く導入し、企画から販売までのバリューチェーンを自社でコントロールすることで、トレンドを迅速に商品化し、コスト競争力を高めてきました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、企画から製造、販売までのバリューチェーンを一貫して管理することで、中間マージンを削減し、トレンドを迅速に商品に反映できる体制を構築しました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "このように、同社の企業理念は単なるスローガンではなく、具体的なビジネスモデル、商品戦略、マーケティング戦略に深く結びついています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "「メガネが主役の時代をつくる」というミッションは、SPAモデルによる迅速な商品開発と適正価格の実現を後押しし 、「Eye Performance」というビジョンは、機能性レンズやコラボレーション商品など、新たな価値提案へと繋がっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "高い接客スキルや商品知識を持つスタッフの育成と定着は、顧客満足度向上、ひいては売上増加に直結します",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルは、商品の企画・開発から製造、物流、マーケティング、販売、アフターサービスに至るまでのバリューチェーン全体を自社で一貫してコントロールすることを特徴としています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業者を介さないことで中間マージンを排除し、コスト競争力を高めると同時に、販売現場で得られた顧客のニーズやトレンド情報を迅速に商品企画にフィードバックできる体制を構築しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、市場の変化に素早く対応した商品展開が可能となります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発プロセスとリードタイム:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客ニーズを起点とした商品開発」を基本とし、月に2回という頻度で新商品を投入するサイクルを確立しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なリードタイムの日数は開示されていませんが、この迅速な商品サイクルは、ファッション性の高いメガネを「Tシャツのように着替える」というブランドコンセプトを実現するための重要な要素です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "商品の製造は主に中国などの海外提携工場に委託していますが、品質管理には細心の注意を払っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "日本人技術者や自社従業員が現地工場に入り、直接指導を行うことで、Zoffが求める品質基準をクリアした製品の安定供給を目指しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "国内には関東と関西の2箇所に物流拠点を設け、効率的な商品供給体制を構築しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "SPAモデルと迅速な商品サイクルを支えるためには、効率的な在庫管理が不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "このSPAモデルは、Zoffが市場のトレンドに即応し、高品質な商品をリーズナブルな価格で提供するための根幹です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの収益構造は、SPAモデルを基盤とした効率的な運営と、顧客ニーズを捉えた商品戦略によって特徴づけられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "主要商品群と価格戦略:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "主力商品としては、軽量性とデザイン性を両立させた「Zoff SMART」（累計販売本数850万本超 ）、ディズニーやPEANUTS、UNITED ARROWSといった人気ブランドやアニメ・ゲームなどとの多彩な「コラボレーション商品」 、そして紫外線対策レンズやブルーライトカットレンズ、遠近両用レンズなどの「機能性レンズ」 が挙げられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これは、高機能レンズの選択率向上や、比較的高単価なコラボレーション商品の人気などが寄与していると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "利益率の高い商品群としては、やはり付加価値の高い機能性レンズや、独自のデザイン性が求められるブランドコラボ商品、そして「Zoff SMART」のような独自開発商品が挙げられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これらの商品は、標準的な商品に比べて高い価格設定が可能であり、収益性の向上に貢献しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの収益構造は、低価格帯で集客しつつ、高機能レンズやデザイン性の高いフレーム、コラボ商品といった高付加価値商品へのアップセル・クロスセルを促進することで、客単価と利益率の向上を目指す戦略がみてとれます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "低価格帯商品の競争激化は依然として続いており 、各社は価格以外の付加価値で差別化を図る必要に迫られています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、メガネはフィッティングや検眼といった専門的なサービスを伴うため、ECサイトのみでの販売完結が難しく 、実店舗との連携が不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "佐川急便「お荷物問い合わせサービス」に不正アクセスで個人情報流出の可能性／佐川急便が宅配便などの届出運賃・料金を改定へ【ネッ担アクセスランキング】",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "商品企画・開発（MD）",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zoff100店舗を達成",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Zoff200店舗を達成",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Zoff300店舗を達成",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "アスリート・チーム紹介",
+    "url": "https://www.zoff.com/about-us/sponsorship/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗、商品について",
+    "url": "https://www.zoff.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "SPAモデルにおいて、店舗スタッフは顧客との最終接点であり、ブランド体験を左右する重要な役割を担います",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "特に、シンガポール事業のフランチャイズ（FC）化 や過去の中国市場からの撤退 は、海外展開におけるリスク管理と効率性を重視した慎重なアプローチを示唆している可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これは、競合他社であるOWNDAYSなどがより積極的な海外店舗展開を進めているのとは対照的です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、店舗運営の効率化の一環として、デジタルサイネージを導入し、販促物の管理を効率化した事例もあります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "販売チャネルは実店舗が中心ですが、EC（電子商取引）も成長ドライバーとして位置づけられています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ECチャネルは、一般的に店舗運営コストを抑えられるため、利益率への貢献も大きいとされています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、メガネはフィッティングや検眼といった専門的なサービスを伴うため、ECサイトのみでの販売完結が難しく 、実店舗との連携が不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模と店舗展開:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "JINSが国内市場でZoffを上回る売上規模と店舗数を有しており、OWNDAYSは海外展開で先行しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、Googleマップの口コミ評価ではZoffが平均を下回るとの指摘もあり 、店舗レベルでの顧客体験のばらつきや改善の余地を示唆している可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、OMO戦略の推進による顧客体験の向上は、実店舗とオンラインの双方で顧客接点を強化し、競争優位性を高める上で不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "店舗での丁寧な接客は、リピート顧客の獲得に不可欠な要素であり、Zoffは販売員の育成にも力を入れていると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "LINEミニアプリの活用による店舗での待ち時間通知や保証内容の確認、ECサイトで購入した商品の店舗受け取りや度数データの連携などは、顧客の利便性を大幅に向上させ、シームレスな購買体験を提供しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "MLBのヌートバー選手やバレーボールの石川兄妹といった著名人の起用によるマス広告から 、店舗スタッフをインフルエンサーとして活用するSNSマーケティングまで 、多角的なアプローチでブランド認知度と好意度を高めています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ZoffのLINEミニアプリ導入による店舗での待ち時間通知や保証内容の確認機能は、顧客体験の向上に直結し、再来店を促進する効果が期待されます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "国内店舗網の拡大も重要な戦略です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "目標として国内500店舗を掲げ、特にこれまで手薄だった地方への出店を積極的に進める方針です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "年間最低15店舗の出店を目標とし、商業施設内においては、アパレル店舗の退店跡などを活用した複数店舗展開の可能性も示唆されています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ZoffはEC売上の着実な成長を目指しており 、店舗とECサイト間の顧客データ連携や在庫連携を強化することで、シームレスな購買体験を提供します",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "店舗スタッフを起点としたSNSでの情報発信や、オンラインでの商品情報提供、店舗での受け取りサービスなどは、顧客との接点を多様化し、利便性を高める取り組みです",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "現在、海外事業は主に香港とシンガポールでフランチャイズ（FC）方式により展開されています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "かつては中国本土にも直営店を展開していましたが、全店舗を閉店しており 、シンガポール事業も2024年1月にFCへ転換しました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これらの動きは、海外市場の複雑性やリスクを考慮し、直営による大規模投資よりも、ローカルパートナーとの連携を通じた展開を優先する戦略への転換を示唆しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "アライアンス戦略においては、これまでの成功パターンを継続しつつ、新たな分野のパートナーシップを模索することで、ブランド価値のさらなる向上を目指すでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "投資キャッシュフローは、店舗設備やシステム投資など、成長に向けた投資活動を反映していると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "全国の実店舗で販売",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "国内事業における販売チャネルは実店舗とECを展開",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "国内店舗数は2024年7月末時点で303店舗",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期における国内店舗の合計顧客数は369万人",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期のEC売上高は、自社ECおよびECモール出店分を含めて前期比48.6%増となる26億5900万円",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "「Francfranc」がOMO強化、Googleの検索やマップ、ショッピング上に店舗在庫を表示",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "スポンサー企業の紹介はこちら",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "７．第30期及び第31期において投資活動によるキャッシュ・フローがマイナスとなっているのは、主に店舗出店",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年４月 Zoff100店舗を達成",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Zoff200店舗を達成",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月 Zoff300店舗を達成",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、「Zoff」の店舗は、2024年７月末現在で国内303店舗とな",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ては、パートナー企業に委託を行っております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造面では協力工場にて当社の目指す商品クオリティになるよう、パートナー企業と現場で密",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "［商品紹介］",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外において現在展開している業態としては、「 Zoff」があり、2024年７月末現在で総店舗数は19",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "店舗となっています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アジア圏を中心に店舗を出店しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、安定的で持続的な成長を確認する指標として、既存店舗における前年比増収率、リピート客(当年 にご利用",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存店舗における2020年１月から2024年７月までの前年比増収率（月次）は以下の通りです",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１：既存店とは、前年同月および当月において休業が無い店舗のこと",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客単価については売上高の成長を支える要因として、店舗における顧客単価を重要な指標としておりま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：当社の国内売上高について、国内における店舗・EC・その他を含む国内売上を算出している",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「『メガネ・サングラス』の取扱店・販売店と聞いて思いついたお店（企業名）を、思いついた順に5店まで",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の国内店舗数は、過去５年間で約15店舗/毎期の店舗数純増で継続的な新規出店を続けており、今後も能",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のショッピングセンターや駅ビルにも出店を拡大し、店舗数の堅調な拡大を目指します",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加速するため、リアル店舗とWEB双方でシームレスなサービス・体験を提供するとともに、店舗運営や商品企",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略では、自社ECの認知度や機能向上に継続的に投資するとともに、インフルエンサーやアニメ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※当社のEC売上高には、自社ECサイトの売上高に加え、他社ECモールの売上高も含んでおります",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月21日（水）10時よりZoff公式オンラインストアほかで受注予約受付開始",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日（金）より放送開始",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月20日より、教育機関との連携のもと、学生生活における紫外線対策を自然な習慣として根づかせる取り組みがスタート",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月15日（金）より、教育機関および制服メーカーとの連携のもと、学生生活における紫外線対策を自然な習慣として根づかせる取り組みがスタート",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / 沿革 | 株式会社インターメスティック",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / 沿革",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年5月20日",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年3月10日",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/about-us/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年より、当社は第2章をスタートします",
+    "url": "https://www.zoff.com/about-us/message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/about-us/message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/about-us/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/about-us/sponsorship/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/shareholders-information/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/status/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/cash-flow/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/stock-docs/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/timely-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/electronic-public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.zoff.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月9日 20:19",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月18日に東京証券取引所プライム市場へ新規上場を果たし 、市場の注目を集めています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "1993年3月、メガネの製造・卸・販売を目的として株式会社ガリレオクラブ（現 株式会社ゾフ）が設立され、同年5月には衣料品関連の商標権管理及び販売を目的とした株式会社インターメスティックが設立されました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2007年には当時の大阪証券取引所ヘラクレス市場への上場を予定していましたが、「足元の業績動向」を理由に延期、その後承認取り消しとなりました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "表2：主要沿革",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期のEC化率は6.7% 、EC売上高は22.0億円 となっており、今後もOMO（Online Merges with Offline）戦略との連携により拡大が見込まれます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月のプライム市場上場後、同社から具体的な数値目標を伴った中期経営計画は、現時点では公式に発表されていません",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月の新規上場申請時に提出された有価証券報告書 によると、同社は上場に向けて着実に業績を拡大させてきたことが確認できます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期は、売上高が前期比11.1%増の398億75百万円、営業利益は同22.8%増の34億97百万円、経常利益は同28.6%増の34億27百万円、親会社株主に帰属する当期純利益は同102.2%増の25億62百万円と、大幅な増収増益を達成しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1QのROE、ROAは年換算していないため参考値",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1QのBPSは期末純資産と期末発行済株式数（自己株式控除後）で計算",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第1四半期末では約67日とやや長期化していますが、これは期末特有の在庫増や新商品投入サイクルの影響も考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月8日に発表された2025年12月期第1四半期（2025年1月～3月）の連結決算は、市場の期待を上回る好調な内容となりました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月17日付のコーポレート・ガバナンス報告書 によると、同社はプライム市場上場企業としてコーポレートガバナンス・コードの各原則の実施に取り組んでいます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "1973年生まれ",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "1940年生まれ",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月の上場に伴い、株式の流動性は向上しましたが、引き続き創業家の影響力が大きい株主構成となっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第1四半期決算短信 においても、配当予想は「未定」とされています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第1四半期決算では、大幅な増益と利益率の改善を達成し、市場の期待を上回る結果を示しました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月のIPO後、特に2025年12月期第1四半期の好決算発表を受けて株価は急騰し、市場の高い期待が示されました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月8日時点でのFISCOによる理論株価は2,975円で「やや割安」との評価もありましたが 、その後の株価上昇により、一定の成長期待は織り込まれつつあると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月のプライム市場上場と、その後の好調な第1四半期決算は、同社の成長ポテンシャルを市場に強く印象づけました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月のプライム市場上場は、同社にとって新たな成長ステージへの幕開けであり、最新の四半期決算はその力強い第一歩を示しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期連結業績は、売上高が前期比11.1%増の398億7500万円",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月21日 8:30",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "2002年10月、インターメスティックグループに眼鏡事業の機能を集約する目的でゾフの全株式を取得、子会社化した",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "眼鏡レンズ、眼鏡フレーム、サングラス、付属品の製造販売に関する情報システム・情報機器の企画・導入・運用管理・開発保守",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、高機能レンズは追加料金が発生する体系となっており 、これにより客単価の向上が図られています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "客単価と購買頻度:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "客単価は年々上昇傾向にあり、2023年には9,580円に達しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これは、高機能レンズの選択率向上や、比較的高単価なコラボレーション商品の人気などが寄与していると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの収益構造は、低価格帯で集客しつつ、高機能レンズやデザイン性の高いフレーム、コラボ商品といった高付加価値商品へのアップセル・クロスセルを促進することで、客単価と利益率の向上を目指す戦略がみてとれます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの課題として、高価格帯商品のラインナップ不足が指摘されることもあり 、客単価向上とブランドイメージの幅出しの観点からは、今後の商品戦略が注目されます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、高機能レンズの提案強化や、個々の顧客に合わせた丁寧な接客による客単価アップを目指しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これらの機能性レンズは、視力矯正という基本的な役割に加え、目の保護や特定の状況下での視覚パフォーマンス向上といった付加価値を提供し、客単価の上昇にも貢献しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "機能性レンズ（紫外線カット、ブルーライトカット、遠近両用など）や、人気ブランド・コンテンツとのコラボレーション商品は、客単価の上昇と利益率の改善に寄与します",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "今後の株価動向を占う上では、月次売上高の推移（特に既存店売上高と客単価）、新商品・新サービスの市場への浸透度、海外展開の具体的な進捗、そして競合他社の戦略とそれに対する同社の対応などが重要なチェックポイントとなります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "アパレルブランド・アニメとのコラボレーションなどの推進、カスタマイズレンズの店頭提案を強化、接客力に基づく客単価の上昇につなげている",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客単価については売上高の成長を支える要因として、店舗における顧客単価を重要な指標としておりま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客単価を支える要素の一つとして、有料レンズの購買率も重要な指標と捉えており、2 023年度までの数値は",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客単価 8,956円 8,832円 9,378円 9,580円",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１：顧客単価はPOSデータに基づく国内の店頭における各会計年度の売上高総額を、同会計年度の店頭顧客人数",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まず、当社の認識として、メガネ市場は一式単価（レンズとフレームを合わせた単価）と顧客年齢層によって大",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：国内の売上高TOP100の企業につき、平均単価が2万円以下の企業群、2～5万円の企業群、5万円以上の企業群に",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアの大きい平均単価２万円～５万円の市場規模はC AGR△0.4％（2013-2022）で推移しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、購買人口については前年比103.9％の19,549千人、眼鏡一式の平均単価についても前年比 100.3％の20,924",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注５：市場全体の販売本数は、眼鏡DB（2023）に基づき、（眼鏡一式市場規模 / 眼鏡一式平均単価）により算出",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品施策につきましては、ウォルト・ディズニー・ジャパン株式会社との商品ライセンス契約に基づきディズ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、コラボレーション商品については、ウォルト・ディズニー・ジャパン株式会社との商品ライセンス契約",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注６：「多額」とは、その価額の合計が当社の直近の３事業年度の平均で、個人の場合は年額1,000万円を超える",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の取締役等に関する報酬の限度額は 、2004年３月26日開催の定時株主総会において 、取締役は年額",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "800,000千円以内、監査役は年額200,000千円以内と決議しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上野 当社は、もともとはアパレルのライセンス事業をしていました",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "販売単価が安い当社が市場をけん引しているがために、市場が縮小したという構造があります",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "上野 当社は、もともとはアパレルのライセンス事業をしていました",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "販売単価が安い当社が市場をけん引しているがために、市場が縮小したという構造があります",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "第2章：事業内容とビジネスモデル分析",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2.3 収益構造分析",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルは、Zoffブランドの急成長を支える原動力となりました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "このように、同社の企業理念は単なるスローガンではなく、具体的なビジネスモデル、商品戦略、マーケティング戦略に深く結びついています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルは、商品の企画・開発から製造、物流、マーケティング、販売、アフターサービスに至るまでのバリューチェーン全体を自社で一貫してコントロールすることを特徴としています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの収益構造は、SPAモデルを基盤とした効率的な運営と、顧客ニーズを捉えた商品戦略によって特徴づけられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの収益構造は、低価格帯で集客しつつ、高機能レンズやデザイン性の高いフレーム、コラボ商品といった高付加価値商品へのアップセル・クロスセルを促進することで、客単価と利益率の向上を目指す戦略がみてとれます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "在庫回転期間は、2023年12月期末時点で約40日と、月2回の新商品投入というビジネスモデルに見合った効率的な水準を維持していました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "確立されたビジネスモデルとブランド",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、株式会社インターメスティック（Zoff）について、事業概要、ビジネスモデル、市場環境、競争優位性、成長戦略、財務状況、ガバナンス体制、リスク要因、そして今後の展望に至るまで、多角的な視点から詳細なデューデリジェンスを行いました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "インターメスティックは、眼鏡の企画、製造、マーケティング、販売を手がけるSPA（製造小売業）型のビジネスモデルを展開",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "インターメスティックのビジネスモデル（画像は上場目論見書から編集部がキャプチャ）",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "者から仕入を行い販売する流れが主流でしたが、 SPA方式は卸売業者を挟まないビジネスモデルであることか",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マージンをなくすことで高品質・低価格で商品供給ができるビジネスモデルです",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SPA方式は卸売業者を挟まないビジネスモデルであることから、",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "商品の企画から製造、販売までの機能を一気通貫でマネジメントすることにより、消費者ニーズに迅速に対応しつつ、中間マージンをなくすことで高品質・低価格で商品供給ができるビジネスモデルです",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の眼鏡関連の方と話す中で、企画、製造から販売まで一貫して手がけるSPA（製造小売り）というビジネスモデルを知りました",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "その点、SPAのビジネスモデルなら在庫を十分そろえられることから、このビジネスモデルなら、顧客が付いてくるのではないかと考えました",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "上野 世界中で当社と同じようなビジネスモデルのメガネ販売店がある中で、当社の立ち位置をどうするか、進出先それぞれの課題解決を考えた時に、どんなビジネスがいいのかを今、精査している最中です",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "今のビジネスモデルをどう新しくしていくか、常にチャレンジングなブランドでありたいと思っています",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の眼鏡関連の方と話す中で、企画、製造から販売まで一貫して手がけるSPA（製造小売り）というビジネスモデルを知りました",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "その点、SPAのビジネスモデルなら在庫を十分そろえられることから、このビジネスモデルなら、顧客が付いてくるのではないかと考えました",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "上野 世界中で当社と同じようなビジネスモデルのメガネ販売店がある中で、当社の立ち位置をどうするか、進出先それぞれの課題解決を考えた時に、どんなビジネスがいいのかを今、精査している最中です",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "今のビジネスモデルをどう新しくしていくか、常にチャレンジングなブランドでありたいと思っています",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメントは、大きく国内事業と海外事業に分けられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、競合であるJINSやOWNDAYSがより積極的な海外展開で一定の成果を上げているのに対し 、Zoffの海外事業は現状、売上構成比も小さく 、収益貢献も限定的です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "売上高総利益率の低下を吸収して余りある販管費の効率化や、高利益率商品の販売構成比上昇などが寄与している可能性があり、収益体質の強化がうかがえます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "売上高115億27百万円、セグメント営業利益18億87百万円",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "売上高2億27百万円、セグメント営業利益10百万円",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これが一過性のものでなく、構造的な収益力向上によるものであれば、さらなるアップサイドも期待できますが、その要因分析（コスト削減効果、高利益率商品の構成比上昇など）が重要です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．「主要な事業の内容」欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績の概要は、次のとおりです",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当連結会計年度における売上高は 38,167,085千円(前年同期比12.0％増)、セグメント営業利益",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当連結会計年度における売上高は 2,093,475千円(前年同期比4.9％減)、セグメント営業損失は",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、国内事業の業績は、セグメント売上高21,502,649千円、セグメント営業利益3,104,219千円となり",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、海外事業の業績は、セグメント売上高 413,214千円、セグメント営業損失 29,409千円となりまし",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績につきましては、「(1) 経営成績等の状況の概要 ②経営成績の状況」における各報告セグメントの経",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．「主要な事業の内容」欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績の概要は、次のとおりです",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント売上高は49,543百万円",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント営業利益は5,937百万円",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント売上高は898百万円",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント営業利益は52百万円",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績につきましては、「(1) 経営成績等の状況の概要 ②経営成績の状況」における各報告セグメントの経営成績に関連付けて示しています",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 提出会社2025年12月31日現在事業所名(所在地)セグメントの名称設備の内容帳簿価額(百万円)従業員数(名)建物及び構築物工具、器具及び備品ソフトウエアその他合計本社等(東京都港区)国内事業本社機能101268630739181品川シーサイドウエアハウス(東京都品川区)国内事業物流機能38１－１4127 (注) １．現在休止中の主要な設備はありません",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 重要な設備の新設等 会社名事業所名(所在地)セグメントの名称設備の内容投資予定金額資金調達方法着手年月完了予定年月完成後の増加能力総額(百万円)既支払額(百万円)株式会社ゾフ北海道・東北地域国内事業店舗設備47３自己資金2025年10月2026年３月売上高の増加株式会社ゾフ関東地域国内事業店舗設備23729自己資金2025年８月～2026年１月2026年３月～2026年４月売上高の増加株式会社ゾフ近畿地域国内事業店舗設備76－自己資金2026年１月2026年４月売上高の増加株式会社メガネスーパー関東地域国内事業店舗設備４－自己資金2026年１月2026年２月売上高の増加 (注) 投資予定金額には、敷金及び保証金等を含んでおります",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "本レポートでは、このZoff独自のSPAモデルの強みと課題、そして今後の成長戦略について、詳細な分析と客観的な評価を行ってまいります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：市場環境と競争優位性",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "この理念に基づいた一貫した事業展開が、Zoffブランドの独自性を形成し、競争優位性の源泉となっていると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "SPAモデルと迅速な商品サイクルを支えるためには、効率的な在庫管理が不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なシステムや手法の詳細は開示されていませんが、棚卸資産の評価は過去の販売実績や将来の在庫消化予測に基づいて行われているとの記述があります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "OMO戦略の巧拙は、EC化の難しさという業界課題を克服し、新たな顧客体験を創出する上で、競争優位性を左右する重要な鍵となるでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffの競争優位性は、単なる価格競争に陥ることなく、「ファッションとしてのメガネ」という独自の価値提案を強化し、特定の顧客層（若年層、トレンドセッター）に対して強いブランドロイヤルティを構築できるかにかかっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "また、OMO戦略の推進による顧客体験の向上は、実店舗とオンラインの双方で顧客接点を強化し、競争優位性を高める上で不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "3.3 Zoffの競争優位性の源泉",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zoffが厳しい競争環境の中で成長を続けるための競争優位性は、いくつかの要素の組み合わせによって構築されています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "特に、ディズニー、PEANUTS、UNITED ARROWSといった人気ブランドや、アニメ・ゲームなどの多様なコンテンツとのコラボレーション商品は、Zoffならではの強みであり、大きな集客力と話題性を生み出しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要素が相互に作用し、Zoffの競争優位性を形成しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "この「体験価値」の提供こそが、Zoffの競争優位性の核心にあると考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発においては、SPAモデルの強みを活かし、市場のニーズを迅速に反映した新商品を継続的に投入します",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "ZoffはEC売上の着実な成長を目指しており 、店舗とECサイト間の顧客データ連携や在庫連携を強化することで、シームレスな購買体験を提供します",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、営業利益率は2022年12月期の7.9%から2023年12月期には8.8%へ、そして2025年12月期第1四半期には16.2%へと顕著な上昇を見せています",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "在庫回転期間は、2023年12月期末時点で約40日と、月2回の新商品投入というビジネスモデルに見合った効率的な水準を維持していました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第1四半期末では約67日とやや長期化していますが、これは期末特有の在庫増や新商品投入サイクルの影響も考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "特に営業利益率の改善は特筆すべき点であり、今後の持続性が注目されます",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の増加に加え、売上総利益率は前年水準を下回ったものの、販管費の効率的なコントロールなどにより、営業利益率は16.2%と高い水準を達成しました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率の低下という課題は残るものの、それを補って余りある営業効率の向上が見られました",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "取締役 大畑 栄一 氏: アパレル業界での経験も長く、生産・物流関連に強みを持つ可能性",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "在庫リスク:",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "SPAモデルは需要予測に基づいて生産を行うため、予測の齟齬が生じると過剰在庫や機会損失のリスクがあります",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "SPAモデルの強みを活かした迅速な商品開発サイクルと、新素材（例：オールラバー素材「Galileo」）や新技術を取り入れたイノベーティブな商品提案は、市場での競争優位性を保つ上で不可欠です",
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "pass": 3
+   },
+   {
+    "quote": "インターメスティックは商品開発力、接客力、マーケティングを強みにあげている",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "インターメスティックの強み（画像は上場目論見書から編集部がキャプチャ）",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "「Francfranc」がOMO強化、Googleの検索やマップ、ショッピング上に店舗在庫を表示",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "要と認識しており、売上高、営業利益、経常利益に加え、売上高営業利益率を重要な経営指標として位置付けて",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、現場・現物・現実を重視する三現主義の考え方を根底に、次の３つの強みがあり、これらを活",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の営業利益は、円安による仕入れ価格の上昇等により売上総利益率が 1.8%低下したものの、店",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SPA方式とは異なり、NB商品（注２）を主に取り扱いを行っており、丁寧な接客に基づく高付加価値のアイウェア商品と、コンタクトレンズの販売に強みを有しております",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業を継続的に発展させていくためには、収益力を高め、適正な利益確保を図っていくことが重要と認識しており、売上高、売上高総利益率、営業利益率、EBITDA、既存店増収率、サングラス売上高、EC売上高に加え、国内新規出店数を重要な経営指標として位置付けております",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、現場・現物・現実を重視する三現主義の考え方を根底に、次の３つの強みがあり、これらを活かした経営戦略を立案しております",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の営業利益は、過年度の商品価格改定や有料レンズ購買率の上昇により売上総利益率が改善した一方で、マーケティング施策による広告宣伝費や出店及び改装に伴う減価償却費、人的資本への投下に伴う人件費が増加しましたが、売上高の成長により営業利益率は同水準にて着地いたしました",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "眼鏡が壊れてしまった人にとって、新しい眼鏡を手に入れることは緊急性がありますが、販売店の多くはレンズの在庫が十分ではありません",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "その点、SPAのビジネスモデルなら在庫を十分そろえられることから、このビジネスモデルなら、顧客が付いてくるのではないかと考えました",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "眼鏡が壊れてしまった人にとって、新しい眼鏡を手に入れることは緊急性がありますが、販売店の多くはレンズの在庫が十分ではありません",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "その点、SPAのビジネスモデルなら在庫を十分そろえられることから、このビジネスモデルなら、顧客が付いてくるのではないかと考えました",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メガネブランド「Zoff」の インターメスティック が東証 ... — メガネブランド「Zoff」の インターメスティック が東証 ... ネットショップ担当者フォーラム https://netshop.impress.co.jp > ニュース",
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インターメスティック | INTERMESTIC INC. — 株式会社 インターメスティック | INTERMESTIC INC. 株式会社インターメスティック https://www.zoff.com",
+    "url": "https://www.zoff.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【トップに聞く 2026】 インターメスティック 上野博史社長 ... — 【トップに聞く 2026】 インターメスティック 上野博史社長 ... fashionsnap.com https://www.fashionsnap.com > ... > ビジネス > トップに聞く",
+    "url": "https://www.fashionsnap.com/article/intermestic-top-interview-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー： 決算資料 - Zoff | Intermestic Inc. — IRライブラリー： 決算資料 - Zoff | Intermestic Inc. 株式会社インターメスティック https://www.zoff.com > IR",
+    "url": "https://www.zoff.com/ir/financial-statements/",
+    "pass": 3
+   },
+   {
+    "quote": "IR | INTERMESTIC INC. — IR | INTERMESTIC INC. 株式会社インターメスティック https://www.zoff.com > ...",
+    "url": "https://www.zoff.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 インターメスティック 】[262A]IR情報 中期経営計画や 決算 短信 — 【 インターメスティック 】[262A]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=262A",
+    "pass": 3
+   },
+   {
+    "quote": "インターメスティック 【262A】のIR 資料 - バフェット・コード — インターメスティック 【262A】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/262A/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インターメスティック 有価証券報告書 全文（最新） — 株式会社 インターメスティック 有価証券報告書 全文（最新） EDINET DB https://edinetdb.jp > 小売業 > 株式会社インターメスティック",
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 / 沿革Company - インターメスティック — 会社概要 / 沿革Company - インターメスティック 株式会社インターメスティック https://www.zoff.com > about-us > company",
+    "url": "https://www.zoff.com/about-us/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インターメスティック — 株式会社 インターメスティック 開示情報速報サービス PDF http://post.tokyoipo.com > ipo",
+    "url": "http://post.tokyoipo.com/ipo/10507/30842007073003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターメスティック （262A）の関連テーマ・ 事業 内容 — インターメスティック （262A）の関連テーマ・ 事業 内容 株トレンドpro https://jigyou-v2.kabu-trendpro.com > 小売業",
+    "url": "https://jigyou-v2.kabu-trendpro.com/company/262A/",
+    "pass": 3
+   },
+   {
+    "quote": "学校・職場にサングラスを――上野博史 インターメスティック ... — 学校・職場にサングラスを――上野博史 インターメスティック ... 週刊エコノミスト Online https://weekly-economist.mainichi.jp > articles",
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 上野博史 インターメスティック社長 （Zoff ... — 編集長 インタビュー 上野博史 インターメスティック社長 （Zoff ... 週刊エコノミスト https://www.weekly-economist.com > ueno_hiroshi",
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "（株） インターメスティック 代表取締役 社長 上野博史氏 — （株） インターメスティック 代表取締役 社長 上野博史氏 産業タイムズ社 https://www.sangyo-times.jp > article",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15210",
+    "pass": 3
+   },
+   {
+    "quote": "【トップに聞く 2026】 インターメスティック 上野博史 社長 ... — 【トップに聞く 2026】 インターメスティック 上野博史 社長 ... fashionsnap.com https://www.fashionsnap.com > ... > ビジネス > トップに聞く",
+    "url": "https://www.fashionsnap.com/article/intermestic-top-interview-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インターメスティック 代表取締役 社長 上野 博史 — 株式会社 インターメスティック 代表取締役 社長 上野 博史 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/6456",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zoff.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/about-us/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/about-us/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/about-us/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/about-us/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/about-us/sponsorship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/shareholders-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/status/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/cash-flow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/stock-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/financial-statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/timely-disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/monthly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/electronic-public-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/disclosure-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoff.com/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/strength01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/strength02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/strength03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/img_basic01.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/img_basic02.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/img_basic03.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/img_zoff_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.zoff.com/wp/wp-content/themes/zoff/img/business/logo_zoff.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netshop.impress.co.jp/node/13010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E03492/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "インターメスティック",
+   "results": [
+    "https://www.zoff.com/",
+    "https://ja.wikipedia.org/wiki/Zoff",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000hxSEJ",
+    "https://prtimes.jp/main/html/searchrlp/company_id/2864",
+    "https://kabutan.jp/stock/?code=262A",
+    "https://ja.wikipedia.org/wiki/インターメスティック",
+    "https://finance.yahoo.co.jp/quote/262A.T",
+    "https://finance.yahoo.co.jp/quote/262A.T/profile",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=262A",
+    "https://www.crex-data.com/company/262A"
+   ]
+  },
+  {
+   "query": "インターメスティック ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nd09cbafaefd2",
+    "https://netshop.impress.co.jp/node/13010",
+    "https://www.youtube.com/watch?v=p2UiKPrF2to",
+    "https://www.zoff.com/",
+    "https://www.fashionsnap.com/article/intermestic-top-interview-2026/",
+    "https://media.staff-start.com/case/zoff/",
+    "https://prtimes.jp/main/html/rd/p/000000733.000002864.html",
+    "https://strainer.jp/notes/8846",
+    "https://howhere.jp/articles/zoff",
+    "https://consovation.com/zoffを展開するインターメスティックのビジネスモ/"
+   ]
+  },
+  {
+   "query": "インターメスティック 決算説明資料",
+   "results": [
+    "https://www.zoff.com/ir/financial-statements/",
+    "https://www.zoff.com/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=262A",
+    "https://www.buffett-code.com/company/262A/library",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241112/20241112519348.pdf",
+    "https://kitaishihon.com/company/262A/ir-library",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260212558225",
+    "https://scouter.monex.co.jp/report/top/262A",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260212558225/",
+    "https://irbank.net/262A/ir"
+   ]
+  },
+  {
+   "query": "インターメスティック 事業系統図",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/mklp77000000gvy4-att/10INTERMESTIC-1s.pdf",
+    "https://edinetdb.jp/company/E03492/text",
+    "https://www.zoff.com/about-us/company/",
+    "http://post.tokyoipo.com/ipo/10507/30842007073003.pdf",
+    "https://jigyou-v2.kabu-trendpro.com/company/262A/",
+    "https://www.buffett-code.com/company/262A/",
+    "https://the-shashi.com/tse/262A/",
+    "https://line-works.com/cases/intermestic/",
+    "https://hrmos.co/pages/imzoff/jobs/2285692505354960902",
+    "https://www.reiwa-ipo.com/2024/09/ipo262abb.html"
+   ]
+  },
+  {
+   "query": "インターメスティック 社長 インタビュー",
+   "results": [
+    "https://weekly-economist.mainichi.jp/articles/20260908/se1/00m/020/003000c",
+    "https://www.weekly-economist.com/interview/ueno_hiroshi/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15210",
+    "https://www.fashionsnap.com/article/intermestic-top-interview-2026/",
+    "https://shachomeikan.jp/industry_article/6456",
+    "https://netshop.impress.co.jp/node/12243",
+    "https://www.instagram.com/p/DT_da4XEgHv/",
+    "https://news.livedoor.com/article/detail/32072135/",
+    "https://x.com/fashionsnap/status/2016285750623416353",
+    "https://dmagazine.docomo.ne.jp/article/5477ce87020a30c8f658f5e86a398ab50a71d86e9d227c16843eb541f59c2d69/44ada052a8b0f35e53cf5bc6df5a18b4bf49fd7c3fb535368fea68c215a1d489/"
+   ]
+  }
+ ],
+ "missing": {}
+}

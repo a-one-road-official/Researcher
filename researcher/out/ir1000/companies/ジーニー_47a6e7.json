@@ -1,0 +1,1780 @@
+{
+ "name": "ジーニー",
+ "aliases": [],
+ "context": "証券コード6562／サービス業／グロース（内国株式）／2026.03期 売上高13,377百万円 営業利益率11.5%",
+ "researched_at": "2026-11-02T20:13:36.367484+00:00",
+ "official_url": "https://geniee.co.jp/",
+ "identified_by": "search:yahoo_jp:ジーニー",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "広告プラットフォーム事業/マーケティングSaaS事業/デジタルPR事業",
+    "url": "https://geniee.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ジーニーの事業内容をわかりやすくご説明します。",
+    "url": "https://geniee.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "label": "企業情報・事業内容について",
+    "value": "ジーニーの事業や特長に関する疑問にお答えします。",
+    "url": "https://geniee.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2010年4月14日",
+    "url": "https://geniee.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "816名（連結、2026年3月末現在）",
+    "url": "https://geniee.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数 ※",
+    "value": "—以下から選択してください— 1人 ２～10人 11～30人 31～50人 51～100人 101～200人 201～300人 301～500人 501～1000人 1001人以上",
+    "url": "https://geniee.co.jp/inquiry/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の成功を",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Excelからの脱却で情報の属人化を解消し、本来の顧客対応へ集中",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に寄り添い、",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見込客獲得、サイト内CVR改善、商談管理から顧客管理・データ統合分析まで、",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業績向上と業務効率化を同時に実現できる営業管理・顧客管理ツール",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちがお客様に提供できる価値",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "1. お客様の成功への強いコミット",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発の様々なプロダクトを、企業の課題に応じて導入提案〜定着支援〜開発〜実装〜運用～成功まで、全てのフェーズにおいて顧客に寄り添って対応しています",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "根本にあるのはジーニー社員一人ひとりの「お客様の役に立ちたい」という強い想いです",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の広告配信ロジックや、ジーニーだけが提供できる機能など、お客様の課題を解決するアイデアを高い技術力で実現しています",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "日本のトップクラスのマーケティング予算を活用しているお客様と多数お取引をさせていただき、最先端のマーケティングやDXを日々実践しています",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "4. 日本のお客様の声をスピーディーに反映",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "日本のベンダーならではの、お客様に寄り添ったプロダクト開発を実現しています",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の声を素早くプロダクトに反映することで「誰もがマーケティングで成功できる世界を創る」というBusiness Purposeの実現に努めています",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "RTBは、企業が適切なユーザーに適切なタイミングで広告を配信するためのテクノロジーです",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "アジアNo.1の顧客志向",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、「最先端のテクノロジーで、顧客の収益を最大化する」という企業ビジョンのもと、新しいテクノロジーが顧客にどう利益をもたらすかに焦点をあて、事業企画や商品開発を行ってきました",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォーム事業である性質上、顧客数やデータ量などのスケールメリットが、中長期の企業価値向上に繋がると強く確信しています",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "や新聞記事を活用し、取引先の反社会的勢力との関係性や不祥事情報を確認する「RISK EYES」を展開しておりま",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マーケティングSaaS事業では、「GENIEE Marketing Cloud」のプロダクトとして、CRM（顧客管理） /SFA（営",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、2026年６月１日付で公表した決算訂正において、当社取引先（非上場会社）との受託開発取引に係る",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方で、取引先にお",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後、取引先が当局許認可を取得し、提携先からの業務委託報酬の収受等により当該その他の資産に係る回収",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②取引先向け「その他の資",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 2026年6⽉1⽇付公表の決算訂正において、取引先（⾮上場会社）との受託開発取引に係る売上収益および出資",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 当該資産の回収は、開発システムの納品に伴う代⾦回収が前提であり、取引先の⽀払原資は、提携先との業務委",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後の⾒通し ● 取引先の事業進捗や回収可能性の議論を踏まえ、貸倒引当⾦の戻⼊が⾒込まれます",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● エンタープライズから公共分野まで幅広い顧客層への提供体制を構築し、さらなる成⻑を⽬指す",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JAPAN AIの⽣成AI技術‧バーティカルAIノウハウと、⼤塚商会が全国で培った顧客基盤‧営業⼒‧サポート体制を掛け合わせ、⽇本の中堅‧中⼩企業",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● ⼤塚商会の顧客基盤‧提案⼒‧「たよれーる」ブランドの充",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● ⽣成AI機能を搭載した製品の中から、AI機能においてユーザー評価の⾼い上位",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 約200のカテゴリーごとにユーザーから最も⾼い評価を得た製品を選出",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「GENIEE SFA/CRM」、顧客レビュー集計に基づく評価で最⾼位「Leader」を3年連続受賞",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3⽉までに寄せられた多くのユーザー様からのリアルな⾼評価が受賞の原動⼒に",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "* ITreview（運営：アイティクラウド）に寄せられたユーザーレビューに基づき、",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期ごとに顧客満⾜度と市場の認知度が⾼い製品を表彰するアワード",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 顧客の事業環境変化、導⼊時の期待値ギャップ等により解約が発⽣し解約率が上昇",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1 売上収益で⼀定規模以上の閾値を設けそれを超えた顧客（広告主‧メディア）を社数としてカウント",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連携 顧客管理",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プロダクトの顧客への価値が向上",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データ蓄積 顧客管理 データ連携 データ分析",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "訪問認知 予約来訪⽐較検討 購⼊ 再購⼊ 解約防⽌ 優良顧客化",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術、ノウハウ、顧客基盤の共有等の",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フォーム事業と合算し、グローバル基準（顧客数および顧客単価）として開⽰しております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社サービスをARR10百万円以上利⽤している顧客層をエンタープライズ層と定義すると、全体のMRRの50%程度がARR10百万円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上のお客様となっており、プロダクトで整理すると、SFA/CRM、CHAT、SEARCHのお客様が⼤半となっております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンタープライズの顧客レイヤーの場合、すでに社内のシステムが構築されているケースが多く、導⼊には⼀定の開発を伴うこと",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのため、アカウント数の多いお客様においては、1社の解約が発",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営者は、取引先や社員を含めた周りの人を全部幸せにして、最後に自分に返ってくるポジションだと考えています",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様の成功があって会社は成り立つと思っています",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの技術もまさに魔法のように、お客様の課題を解決し、世界を変える力があると信じています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "名前にはチャーミングさも込めており、社員やお客様に親しみを持ってもらいたいと考えています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアNo.1の成長事業を持つことで、継続的なプロダクトと顧客サービスへの投資、社員の待遇改善、株主還元、そして次の大きな勝負への投資が両立できると考えています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "技術力の高さによる顧客価値の高いプロダクトはもちろんですが、最大の原動力は「企業カルチャー」です",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "ステークホルダーについては、顧客には市場でもっとも費用対効果の高いプロダクトを、働く人には魅力的な挑戦の機会や職場環境、市場平均より高い報酬体系を、株主の皆様には長期的に市場平均を上回るパフォーマンスを提供することを目指して経営しています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニーは技術力と顧客志向を武器に、国内外で急成長を続けています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "企業様の課題に応じて、一社で最適なソリューションをご提案できます",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "GENIEE Ads Platformとは、ジーニーが提供するWeb広告サービス群の総称です",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ECサイトや実店舗を広告媒体化し、新規収益の創出・最大化を実現するソリューション",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイジニア株式会社のグループ会社であるデクワス株式会社が運営するネット広告サービス事業について事業譲受",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2. ユニークなサービス・機能",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、「最先端のテクノロジーで、顧客の収益を最大化する」という企業ビジョンのもと、新しいテクノロジーが顧客にどう利益をもたらすかに焦点をあて、事業企画や商品開発を行ってきました",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーのプロダクトとサービスが、アジア一費用対効果の良いものであるように、最大限の企業努力をし続けたいと考えています",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、誰もが難しいと考えたいくつもの困難を乗り越えてきたからこそ、現在、様々な魅力あるサービスを実現できています",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "【10月29日更新 追記：対象情報の追加について】当社が利用する外部サービスへの不正アクセスに関するお知らせ",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "型・自律型インターフェースへの移行が進むなど、サービスの高度化が加速しております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に対する期待の高まりを背景として、国内外において新たなサービスの投入や事業展開が相次いでおり、競争環",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、企業の情報発信を支援するプレスリリース配信代行サービス「＠Press」及び「NEWSCAST」を展開しており、",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ルエンサーによる商品PRサービス「Find Model」「iHack」を提供しております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「GENIEE CHAT」、サイト内検索「GENIEE SEARCH」、広告効果測定「GENIEE ANALYTICS」などのサービスを展開",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、商品・サービス別の事業本部及び子会社を置き、各事業本部及び子会社は、サービスの向上と",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、当社グループは、事業本部及び子会社を基礎としたサービス別のセグメントから構成されており、",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントに属するサービスの内容は、以下のとおりであります",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 属するサービスの内容",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 業種‧業界ごとの課題に最適化した「特化型AIソリューション」の拡充を継続的に推進し、マーケティング領域での機能⾼度化と⾃治体向けサービ",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JAPAN AI｜Vertical（業種‧業界特化型）ソリューションの拡充",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 広告バナー⽣成AIエージェント：提供開始商品素材を維持したま",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JAPAN AI MARKETINGの新機能をリリース ⾃治体向けAIサービス「JAPAN AI ⾏政」を提供開始",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導⼊企業 導⼊ソリューション 導⼊事例",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総合人材サービス",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（業種‧業界特化型）ソリューション提供でも連携",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の中堅‧中⼩企業向けAIエージェントサービス「たよれーる ビ",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Verticalソリューションも併せて提供",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JAPAN AI AGENTが、アイティクラウド株式会社が運営するIT製品レビュープラットフォーム「ITreview」が主催する「ITreview The Best Software in",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 2024年以降に新規リリースされたビジネス向けSaaS‧ソフトウェア製品から",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上位10製品を選出",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● ⽣成AI機能を搭載した製品の中から、AI機能においてユーザー評価の⾼い上位",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20製品を選出",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 約200のカテゴリーごとにユーザーから最も⾼い評価を得た製品を選出",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最⾼スコアの製品として選出",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期ごとに顧客満⾜度と市場の認知度が⾼い製品を表彰するアワード",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TOPICS 「財界 Best AI100」において「特別賞 ‒⼤企業が選ぶAIサービス⼤賞‒」を受賞",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 企業のリアルな課題に根ざしたソリューション",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューションを提供",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最先端の生成 AIソリューション",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JAPAN AIは、日本企業が「 AI活用/AX推進」で成功するための」サービス・プロダクトを一社で提供",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年10⽉のグローバル‧サプライサイド経営統合に伴い、製品開発‧販売に関する意思決定権限、製品の所有権、組織体制、法",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社サービスをARR10百万円以上利⽤している顧客層をエンタープライズ層と定義すると、全体のMRRの50%程度がARR10百万円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既にプロダクトの連携や相互の顧客基盤を活⽤した営業活動の推進に加え、製品企画‧開発等の事業シナジーの創出活動を推進し",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その後、常務執行役に就任し、経営コンサルティング部門や営業部門、サービス提供部門を統括",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、経営者向けサービス提供としては、ネットだけでなく、リアルの場も力をいれており、年500回以上のセミナーを開催し、4000名を越す経営者が参加",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアNo.1の成長事業を持つことで、継続的なプロダクトと顧客サービスへの投資、社員の待遇改善、株主還元、そして次の大きな勝負への投資が両立できると考えています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "長期的に成長するためのプロダクト、サービス、組織や経営などの現実の様々な課題、現在の時価総額などを直視し、日々もがき苦しみながら仲間たちと乗り越えています",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "自社ECサイトや実店舗を広告媒体化し、新規収益の創出・最大化を実現するソリューション",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "交通広告、屋外広告および店舗等に設置されたデジタルサイネージに展開",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ESGに関する考え方及び取り組みについてご紹介します",
+    "url": "https://geniee.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "社外役員の選任理由や役員報酬等の情報をご紹介します",
+    "url": "https://geniee.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家との対話についての基本的な考え方等をご紹介しています",
+    "url": "https://geniee.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "友人・知人からの紹介",
+    "url": "https://geniee.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "インフルエンサーPR事業では、広告代理店やクライアントからの依頼を受け、Instagramを中心としたSNSインフ",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、CHAT領域においても⼤⼿代理店と連携し、競合プロダクトとの⽐較において",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今回、ご紹介する経営者は、工藤智昭氏（株式会社ジーニー 代表取締役社長）です",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは経歴をご紹介します",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "※インタビュー出演、企業紹介などにご興味をお持ちの方は",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "決算発表や各種IRイベント、会社紹介をお届けします",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "国内最大規模の広告在庫を活用し、高品質なオーディエンスを低単価で集客できる広告主向けの広告効果最適化プラットフォーム",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "域における新規メディアの開拓強化に取り組んだ結果、１社あたりの単価及び取引社数がともに順調に増加いた",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "解約率 （%） 2.15 1.17 0.38 2.80 2.70",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング⽐率 （%） 80.2 79.8 80.1 82.1 85.3",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ARRの成⻑を通じてストック収益基",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング収益⽐率も85.3%（前年同期⽐+5.1ポイント）へと上昇",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング⽐率*¹",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "解約率 2.70%",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング収益（ストック収益）",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 顧客の事業環境変化、導⼊時の期待値ギャップ等により解約が発⽣し解約率が上昇",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊アカウントの3か⽉平均解約率",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ど）からGAMへの⼊札が減少した場合、Google経由のCPM（インプレッション単価）が低下するリスクは存在します",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フォーム事業と合算し、グローバル基準（顧客数および顧客単価）として開⽰しております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SFA/CRMを中⼼としたエンタープライズ層拡⼤によるアカウント数の増加と、満⾜度の⾼いカスタマーサクセスによる低解約率を",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、クライアントの要望をプロダクトで実現する開発⼒を有すると共に、要件定義から保守に⾄るまで⼀貫してワンストップで対",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "解約率は突発的に上昇することがあ",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前提として、解約率はアカウント数ベースで算出しております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⽣した場合でも解約率に与える影響が相対的に⼤きくなります",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うした特殊要因を除くと、解約率は概ね0.5％を下回る⽔準で推移しております",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "以下の強みを生かして成長を続けています",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大規模の広告在庫を活用し、高品質なオーディエンスを低単価で集客できる広告主向けの広告効果最適化プラットフォーム",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み | 株式会社ジーニー Geniee,Inc.",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "競合他社と比較した際の強みや特徴をご説明します",
+    "url": "https://geniee.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの強み",
+    "url": "https://geniee.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "酬型広告運用を強みとするマーケティング支援会社であります",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 （%） 22.5 27.7 33.3 28.2 25.5",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 （%） 3.6 6.1 11.6 3.2 2.6",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "数、社単、営業利益率全て増加",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客のAI活⽤を⽀える伴⾛⼒を強みとして⾼成⻑を継続中",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「実装‧定着」まで⼀気通貫で⽀援する強みと、⾼い経営ビジョンが評価され、⼤企業向けアワードでの特別賞受賞",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JAPAN AIの強みは何か",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、当社の競争優位性に関するポイントもより明確に記載していきます",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月21日",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月05日",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月02日",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月16日",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年の創業以来、技術開発力を武器に、アドテクノロジー領域で事業を拡大してきました",
+    "url": "https://geniee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年4月14日",
+    "url": "https://geniee.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社ジーニー Geniee,Inc.",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年4月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年2月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年4月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年8月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年9月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年1月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年9月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年10月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年7月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年8月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年8月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年6月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年9月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年10月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://geniee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 通期決算を5月15日(金)に発表いたしました",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期 決算短信（",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3⽉期 第１四半期決算説明資料（",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年現在、シンガポール、インドネシア、ベトナム、タイに拠点を持ち、アジアにプラットフォームを展開しています",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期の連結売上は140億円でしたが、広告市場の規模は日本だけで6兆円あります",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月27日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月14日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算を発表",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算説明会開催のお知らせ",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月30日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月05日",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーニーの収益モデルをご説明します",
+    "url": "https://geniee.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://geniee.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、収益構造の抜本的な",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 広告プラットフォーム事業に次ぐ収益源が着実に拡⼤し、複数事業が成⻑を⽀える収益構造へ移⾏することで、全体の成⻑基盤が強化",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マージンを得るビジネスモデルであり、その中間マージンが売上収益となる",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SaaS事業のビジネスモデル変⾰を⾏い、⾼",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 44.5 57.9 30% SaaS事業のビジネスモデル変⾰を⾏い⾼成⻑の持続性‧事業の健全性を",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報の注記） ……………………………………………………………………………………12",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の業績は、次のとおりであります",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、同事業の売上収益は、1,370百万円（前年同四半期比8.9％増）となり、セグメント利益は590百万円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、同事業の売上収益は、963百万円（前年同四半期比37.0％増）となり、セグメント利益は111百万円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、同事業の売上収益は、1,172百万円（前年同四半期比5.0％増）となり、セグメント利益は83百万円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報の注記）",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 報告セグメントの概要",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、当社グループは、事業本部及び子会社を基礎としたサービス別のセグメントから構成されており、",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「広告プラットフォーム事業」、「デジタルPR事業」、「マーケティングSaaS事業」の３つを報告セグメントとし",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントに属するサービスの内容は、以下のとおりであります",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 属するサービスの内容",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 報告セグメントの情報",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益であります",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上収益は、市場実勢価格に基づいておりま",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調整額には、各報告セグメントに帰属しない「その他の収益」と「その他の費用」及び各報告セグメントに配分",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に各報告セグメントに帰属しない一般管理費です",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産及び負債については、経営資源の配分の決定及び業績を評価するための検討対象とはなっていない",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間収益 10,136 672 5,937 16,746 △16,746 －",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（△",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) セグメント利益（△損失）の調整額△596,691千円には、全社費用622,971千円、その他の収益38,290千円及",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間収益 5,288 500 1,526 7,314 △7,314 －",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) セグメント利益（△損失）の調整額△992,313千円には、全社費用700,420千円、その他の収益88,750千円及",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益から税引前四半期利益への調整表",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FY2026-1Q｜セグメント別状況",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FY2026-1Q｜セグメント別決算サマリ",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 333 411 539 251 ▲207",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 セグメント利益",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別｜業績割合推移",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 売上収益‧セグメント利益の両⾯で事業ポートフォリオの分散が進展",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別｜業績割合",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(参考) セグメント利益 5.9 億円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(参考) セグメント利益 1.1 億円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(参考) セグメント利益 0.8 億円",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントにおいて利益成長を",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※⽐較可能性向上のためFY24は新セグメントに組み替えて表⽰しており、事業規模を明確に⽰す観点から売上ベースで表",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※3 セグメント統合に伴うKPIの再集計を⾏っている",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各事業セグメントの⽅針",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今期計画｜セグメント別計画",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 54.5 62.2 14% 構造改⾰‧PMIが進み再成⻑へ‧海外セグメントが⾼成⻑へ",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● ⼀⽅で、各セグメントにおいては単なる売上拡⼤ではなく利益成⻑を重視",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,536 2,500",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今期計画｜セグメント別計画詳細",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外セグメントが⾼成⻑に",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なぜセグメントを統合したのです",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業を「広告プラットフォーム」という単⼀のセグメントに統合いたしました",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年にソーシャルワイヤー社を第三者割当増資により⼦会社化し、デジタルPRセグメントを新たに新設",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント変更についてTOPICS",
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル | 株式会社 ジーニー Geniee,Inc. — ビジネスモデル | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > 投資家情報 > 業績・財務情報",
+    "url": "https://geniee.co.jp/ir/finance/model/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 株式会社 ジーニー Geniee,Inc. — 事業内容 | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > 投資家情報 > ジーニーとは",
+    "url": "https://geniee.co.jp/ir/about/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニー の ビジネスモデル 徹底解説｜広告最適化とデータ活用 ... — ジーニー の ビジネスモデル 徹底解説｜広告最適化とデータ活用 ... Xhours https://x-hours.com > articles",
+    "url": "https://x-hours.com/articles/21929",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略 | 株式会社 ジーニー Geniee,Inc. — 成長戦略 | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > 投資家情報 > ジーニーとは",
+    "url": "https://geniee.co.jp/ir/about/strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーニー Geniee,Inc. — 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp",
+    "url": "https://geniee.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 ジーニー Geniee,Inc. — 決算説明資料 | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > 投資家情報 > IRライブラリー",
+    "url": "https://geniee.co.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 株式会社 ジーニー Geniee,Inc. — IRライブラリー | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > 投資家情報",
+    "url": "https://geniee.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "（更新） 決算説明資料 に関するお知らせ | IRニュース - ジーニー — （更新） 決算説明資料 に関するお知らせ | IRニュース - ジーニー 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > IRニュース > 2026年3月期",
+    "url": "https://geniee.co.jp/ir/news/16816/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニー （6562） 2026年3月期第3四半期 決算説明 - YouTube — ジーニー （6562） 2026年3月期第3四半期 決算説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=LSoMZtwQsI8",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 株式会社 ジーニー Geniee,Inc. — 株主・投資家情報 | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > ...",
+    "url": "https://geniee.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 ジーニー Geniee,Inc. — 会社概要 | 株式会社 ジーニー Geniee,Inc. 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > 会社情報",
+    "url": "https://geniee.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニー 【6562】の 事業 内容 - キタイシホン — ジーニー 【6562】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6562/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業管理ツールGENIEE SFA/CRMがリレーションマップ機能 ... — 営業管理ツールGENIEE SFA/CRMがリレーションマップ機能 ... 株式会社ジーニー Geniee,Inc. https://geniee.co.jp > プレスリリース",
+    "url": "https://geniee.co.jp/news/20250930/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニー について｜株式会社 ジーニー IR（6562） - note — ジーニー について｜株式会社 ジーニー IR（6562） - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/geniee_ir/n/n8d54931fdf83",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーニー 代表取締役 社長 工藤智昭氏 インタビュー — 株式会社 ジーニー 代表取締役 社長 工藤智昭氏 インタビュー 経営ノート https://keiei-note.wizbiz.jp > ... > 上場企業の経営者",
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニー 代表取締役 社長 工藤 智昭 インタビュー 〜技術と人間 ... — ジーニー 代表取締役 社長 工藤 智昭 インタビュー 〜技術と人間 ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーニー の紹介 - 社長名鑑 — 株式会社 ジーニー の紹介 - 社長名鑑 社長名鑑 https://shachomeikan.jp > corporations > intro",
+    "url": "https://shachomeikan.jp/corporations/22053/intro",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーニー ・工藤智昭の インタビュー | ONLY STORY — 株式会社 ジーニー ・工藤智昭の インタビュー | ONLY STORY ONLYSTORY https://onlystory.co.jp > 広告・マーケティング業界",
+    "url": "https://onlystory.co.jp/stories/156",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://geniee.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/company/feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/t_27q1_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://geniee.co.jp/wp/wp-content/uploads/2026/08/kessan20261Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://geniee.co.jp/wp/wp-content/themes/geniee/ir/finance/images/img_finance01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://keiei-note.wizbiz.jp/87-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/geniee_ir/n/n6b1613e42799",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジーニー",
+   "results": [
+    "https://www.disney.co.jp/fc/aladdin/character/genie",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%8B%E3%83%BC_(%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC)",
+    "https://geniee.co.jp/",
+    "https://dic.pixiv.net/a/%E3%82%B8%E3%83%BC%E3%83%8B%E3%83%BC",
+    "https://geniee.co.jp/company/outline/",
+    "https://www.disney.co.jp/fc/live-action/aladdin/character/genie",
+    "https://disney.fandom.com/ja/wiki/%E3%82%B8%E3%83%BC%E3%83%8B%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/ジーニー",
+    "https://grokipedia.com/page/Geniee",
+    "https://ja.wikipedia.org/wiki/ジーニー_(ディズニーキャラクター)"
+   ]
+  },
+  {
+   "query": "ジーニー ビジネスモデル",
+   "results": [
+    "https://geniee.co.jp/ir/finance/model/",
+    "https://geniee.co.jp/ir/about/business/",
+    "https://x-hours.com/articles/21929",
+    "https://geniee.co.jp/ir/about/strategy/",
+    "https://geniee.co.jp/",
+    "https://geniee.co.jp/ir/message/",
+    "https://note.com/geniee_ir/n/n8d54931fdf83",
+    "https://ma-jin.jp/",
+    "https://www.e-sales.jp/eigyo-labo/geniee-20207",
+    "https://consovation.com/株式会社ジーニーのビジネスモデルと成長戦略が/"
+   ]
+  },
+  {
+   "query": "ジーニー 決算説明資料",
+   "results": [
+    "https://geniee.co.jp/ir/library/briefing/",
+    "https://geniee.co.jp/ir/library/",
+    "https://geniee.co.jp/ir/news/16816/",
+    "https://www.youtube.com/watch?v=LSoMZtwQsI8",
+    "https://geniee.co.jp/ir/",
+    "https://www.youtube.com/watch?v=JKq22bkY500",
+    "https://geniee.co.jp/ir/news/14924/",
+    "https://finance.logmi.jp/companies/525",
+    "https://geniee.co.jp/ir/news/17018/",
+    "https://edinetdb.jp/company/E33615/presentations/"
+   ]
+  },
+  {
+   "query": "ジーニー 事業系統図",
+   "results": [
+    "https://geniee.co.jp/ir/finance/model/",
+    "https://geniee.co.jp/company/outline/",
+    "https://kitaishihon.com/company/6562/business",
+    "https://geniee.co.jp/news/20250930/",
+    "https://note.com/geniee_ir/n/n8d54931fdf83",
+    "https://geniee.co.jp/ir/faq/word/",
+    "https://www.docswell.com/s/geniee/Z8G74Y-2024-06-18-144002",
+    "https://www.wantedly.com/companies/geniee-co/about",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260629583900",
+    "https://geniee.co.jp/ir/about/business/"
+   ]
+  },
+  {
+   "query": "ジーニー 社長 インタビュー",
+   "results": [
+    "https://keiei-note.wizbiz.jp/87-2/",
+    "https://note.com/geniee_ir/n/n6b1613e42799",
+    "https://shachomeikan.jp/corporations/22053/intro",
+    "https://onlystory.co.jp/stories/156",
+    "https://x.com/kudotomoaki",
+    "https://geniee.co.jp/news/20250828-3/",
+    "https://kigyo-scope.jp/company/6562/ceo/",
+    "https://e-actionlearning.jp/interview/36",
+    "https://www.youtube.com/watch?v=1CwitJu9cPs",
+    "https://geniee.co.jp/company/board/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部2頁・検索5回）"
+ }
+}

@@ -1,0 +1,1629 @@
+{
+ "name": "ロート製薬",
+ "aliases": [],
+ "context": "証券コード4527／医薬品／プライム（内国株式）／2026.03期 売上高343,725百万円 営業利益率12.0%",
+ "researched_at": "2026-11-02T20:07:06.453463+00:00",
+ "official_url": "https://www.rohto.co.jp/",
+ "identified_by": "search:yahoo_jp:ロート製薬",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1899年（明治32年）2月22日",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年（昭和24年）9月15日",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "140,843百万円＜単体＞ 343,725百万円＜連結＞（2026年3月期現在）",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,786名＜単体＞ 9,292名＜連結＞（2026年3月期現在）",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "医薬品・化粧品・機能性食品等の製造販売",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新たな製品・サービスへ",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "パナソニック(株)入社、コネクティッドソリューションズ社(現パナソニックコネクト(株))常務執行役員",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "パナソニックシステムソリューションズジャパン(株)(現現場ソリューションカンパニー)取締役執行役員副社長",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレートサービス部チーフマネージャー",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "長年培ってきた技術力とブランド力をもとに、アイフレイルやデジタルデバイスの普及などで多様化する目の悩みに応えるセルフケア製品をお客様に提供しています",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "皮膚領域におけるサイエンスの知見を基盤に、安全性・有効性・メカニズムを追求したエビデンスベースの研究開発を通じて、高機能スキンケア製品を提供しています",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "多様なニーズに応えるべく、安全性と独自性を兼ね備えた製品開発に注力しています",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ケミカル・バイオ・細胞技術をコアに、プロフェッショナルケア領域へ革新的かつ多面的なソリューションを提供します",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "培養受託サービス",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/research/rd-library/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/research/rd-library/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/sustainability/library/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/sustainability/library/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "国内でもインバウンド需要や「肌ラボ」、目薬などの主力カテゴリーが堅調に推移しました",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "独自性と付加価値の高い製品・サービスを生み出す研究開発力、その価値を的確に伝えるマーケティング・販売力、環境変化に対応しながら安定供給を支える生産・調達力を磨き、これらを効率的に回転させることで、売上成長と収益性向上につなげ、安定的にキャッシュを創出できる体質を強化していきます",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法・会社法等の諸法令（以下「諸法令」という）ならびに、東京証券取引所等の定める「上場有価証券の発行者の会社情報の適時開示等に関する規則」（以下「適時開示規則」という）に従い、適時・公平・正確・明瞭・継続を基本とした、情報開示を行います",
+    "url": "https://www.rohto.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法に基づく開示は、金融庁の提供する有価証券報告書等の開示書類に関する電子開示システム（EDINET）を通じて行います",
+    "url": "https://www.rohto.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q1：IR、サービスに関する問い合わせ先を教えてください",
+    "url": "https://www.rohto.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "かかる潜在的リスクや不確定要因としましては、主要市場の経済状況および製品需要の変動、為替相場の変動、国内外の各種規制ならびに会計基準・慣行などの変更などが含まれます",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/library/well-being_report/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品の使い方のコツなど、",
+    "url": "https://www.rohto.co.jp/ir/library/well-being_report/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の存在意義（パーパス）は、『世界の人々に商品やサービスを通じて「健康」をお届けすることによって、当社を取り巻くすべての人や社会を「Well-being」に導き、明日の世界を元気にすること』と定義しています",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の人々に商品やサービスを通じて健康をお届けすることによって、当社を取り巻くすべての人や社会を「Well-being」へと導き、明日の世界を元気にすること",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "技術商品力の深化と拡充",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また、胃腸ケア製品の開発や、回復期の健康を支える予後ケア分野にも挑戦し、内服・食品事業を更に成長させ、より多くのお客様の日々の健康をサポートしていきます",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "香港政府の戦略企業パートナーへ",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士法人大江橋法律事務所パートナー",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "はばたき綜合法律事務所パートナー弁護士(現)",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社やパートナー企業の技術・ノウハウ・販路を結集し、信頼性の高い機能性食品や内服薬をお届けすることで、健康維持・未病から軽度疾患や予後のケアまでをカバーし、おなかの底から健康をお届けします",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "学術雑誌に掲載された主な研究論文をご紹介します",
+    "url": "https://www.rohto.co.jp/research/rd-library/",
+    "pass": 1
+   },
+   {
+    "quote": "学会発表のテーマをご紹介します",
+    "url": "https://www.rohto.co.jp/research/rd-library/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本議案の原案につきましては、指名委員会に諮問",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年 １ 月 弁護士法人大江橋法律事務所パートナー 2022年 3 月 ㈱Mujin 社外監査役（現任）",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同氏は、東京大学大学院理学系研究科生物化学専攻博士課程終了後、㈱東京大学エッジキャピタルパートナー",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■取締役の選任と指名に関する方針",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ましては、独立社外取締役を過半数とする指名委員会にて審議された人材候補の原案を取締役会へ提",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■監査役の選任と指名に関する方針",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "議長を独立社外取締役が務める指名委員会において客観性と透明性を確保した手続きに基づき",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取締役等の指名に関する重要な事項の検討にあたり 、2019年より委員の過半数を",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独立社外取締役で構成する指名委員会を設置しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会は、独立性および客観",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外監査役杦山栄理氏は、はばたき綜合法律事務所パートナー弁護士 、新明和工業㈱社外取",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2026年５月13日の取締役会において、2026年6月24日をもって指名委員会および報酬委員会を廃止し、新",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たに指名・報酬委員会を設置することを決議しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や法令違反等について相談・通報できる「ビジネスパートナー・ホットライン」もロート製薬",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また取締役会から独立した任意の委員会として、「指名委員",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "されており、「指名委員会」は社外取締役を議長としております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また一部の子会社では、店舗において漢方薬関",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また一部の子会社では、店舗において内服関連の商品及び製品を販売しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資源の獲得、 あるいは当社の既存事業に新たな価値やシナジーを生み出すパートナーとの連携を M&A の",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、 過半数を社外取締役で占める任意の報酬 ・ 指名委員会を設置することにより、 業務執行に対する",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●指名・報酬委員会",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "透明性・客観性および説明責任を高めることを目的として、指名・報酬委員会を設置しています",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダスキンフランチャイズチェーン加盟店",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "読売グループのお得なサービスを一挙紹介！",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "読売新聞への投稿、情報や写真・動画の提供先をご紹介しています",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "読売新聞主催の展覧会の他、全国美術館の情報を紹介します",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "身近な防災情報を幅広く紹介しています",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "読売新聞の教育プログラムやイベントを紹介するサイトです",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "明治からの読売新聞記事1,800万件以上がネットで読める有料データベース「ヨミダス」などについて紹介しています",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業の広告・販促のアイデアや最新の話題、コラム、調査結果など、マーケティングに携わる方に役立つ情報を紹介しています",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "読売新聞をはじめとする紙面の紹介や、多彩な事業、読売グループの会社概要を掲載しています",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月15日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月11日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月9日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震に対する支援について",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月31日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月18日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月14日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）9月15日",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年4月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年3月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年5月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年7月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年8月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年4月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年4月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年5月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年4月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ロート製薬の歴史沿革 | 企業情報 | ロート製薬株式会社",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年～1999年",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年～",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年以降、「オバジ」、「肌研」などのスキンケアブランドが続々と発売され、ロート製薬はヘルス＆ビューティーケアへと事業領域を拡大",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/research/rd-library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/sustainability/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の振り返り",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、不安定で厳しい経済・市場環境が続く中、全地域・全事業で増収となり、売上高、営業利益ともに過去最高を更新しました",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月に発表した「中長期成長戦略2026」では、2031年までの6年間の研究開発費控除前の営業キャッシュフローを3,800億円へ更新しました",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、国内外のコア事業における生産設備や研究開発への投資を積極的に実施しました",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度のROEは12.1％と株主資本コストを上回る資本収益性を実現しました",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/ir/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/ir/financial/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "長年培ってきた技術力とブランド力をもとに、アイフレイルやデジタルデバイスの普及などで多様化する目の悩みに応えるセルフケア製品をお客様に提供しています",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サイエンスを基盤にした高機能スキンケアで、国内外のお客様一人ひとりに寄り添います",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "将来のキャッシュ創出力をさらに高めるため、需要拡大に対応した海外生産設備の増強や、研究とお客様の接点となる「ロートサイエンスハブ東京」の整備、グローバルERPプロジェクトをはじめとするDX・IT投資を進めています",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ロート製薬株式会社（以下、当社）では、当ウェブサイトに掲載の情報に関し十分に留意しておりますが、当該情報によって利用者の方が被った損害その他に関しては、当社は一切の責任を負いかねます",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "利用した情報については利用者の皆さまご自身の責任で管理いただきますよう、お願いします",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "したがって、かかる予想値はリスクや不確定要因を含むものであって、現実の業績は、諸々の要因によりかかる予想値と異なってくる可能性があり、利用者の皆さまが当ウェブサイトの情報を利用することによって生じたいかなる損害についても、当社は責任を負うものではありませんので、あらかじめご了承ください",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "投資を行う際は、当ウェブサイトの情報に全面的に依拠することはせず、ご決定は利用者の皆様ご自身の判断にて行っていただきますよう、お願いします",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトには、他のウェブサイトへのリンクが含まれていますが、これらのリンクはご利用者の便宜のために提供しているものであり、当社は、これらのウェブサイトのいかなる内容に関しても責任を負うものではありませんのでご承知おきください",
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "「サイエンスベース」の企業体質（未知のものを解き明かそうという情熱）を強化し、長期的かつ持続的にお客様・患者様が満たされないニーズの解決を最優先に取り組むことで、パーパスの実現を目指してまいります",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また、胃腸ケア製品の開発や、回復期の健康を支える予後ケア分野にも挑戦し、内服・食品事業を更に成長させ、より多くのお客様の日々の健康をサポートしていきます",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル企業として、グループ従業員及び取引先の人権配慮は事業遂行上必須の取り組みと考えています",
+    "url": "https://www.rohto.co.jp/-/media/cojp/sustainability/management/materiality/sustainability2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 取引先に当社のサステナビリティに対する考え方への理解と実践を求め、",
+    "url": "https://www.rohto.co.jp/-/media/cojp/sustainability/management/materiality/sustainability2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様だけでなく社員にも向けられるものです",
+    "url": "https://www.rohto.co.jp/sustainability/library/-/media/cojp/sustainability/employee/health_management/health_white_paper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "家族や取引先など、 私たちを支えてくれている方々のWell-beingへの配慮を忘れま",
+    "url": "https://www.rohto.co.jp/sustainability/library/-/media/cojp/sustainability/employee/health_management/health_white_paper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内におきましては、お客様のニーズに合った商品提案やインバウ",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高は、1,693億2千6百万円（前期比2.6％増）と増収となりました",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高は、215億5千3百万円（前期比3.8％増）と増収となりました",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高は、238億8千9百万円（前期比24.7％増）と大幅な増収となりました",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高は、1,253億2千7百万円（前期比24.9％増）と大幅な増収となりました",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちは社会やお客様の期待に応え、持続可能な未来を築くために挑戦を続けています",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、薬に頼らず日々のお客様の健康を支えるため、内服・食品分野の強化に注力してい",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アイケア研究から生まれたサプリメントの「 ロートV5」は多くのお客様に支持され 、",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "服・食品事業のさらなる成長を実現し、世界中のより多くのお客様の毎日の健康に貢献してま",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の健康を支えるために 、ロート独自のサイエンスを活かし 、Well-beingな",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "集計すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場合に 、重要性がある",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活動などを通じて、お取引先様やお客様などに広く発信しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、お取引先様が当社事業に関わる不正行為",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "他の商品又は製品(サービス)を製造・販売しており、顧客との販売契約に基づいて商品又は",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの商品及び製品(サービス)の販売については、商品及び製品が顧客に引き渡された時",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. 受取手形及び売掛金のうち、顧客との契約から生じた債権の金額は、それぞれ以下のとおりです",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形及び売掛金、電子記録債権に係る顧客の信用リスクは、内部管理ルールに沿ってリスクの低減",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "転換社債型新株予約権付社債の時価は、取引先金融機関から提示された価格等に基づき算定しており、",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品(サービス)の製造及び販売を行っており、顧客との販売契約に基づいて商品又は製品を引き渡す履行義",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの商品及び製品(サービス)の販売については、商品及び製品が顧客に引き渡された時点及びサービ",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益は顧客との契約において約束された対価から返品、売上リベート等を控除した金額で測定しておりま",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、販売手数料等の顧客に支払われる対価について、取引価格から減額しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客との契約から生じる対価の中に、取引価格に含まれていない重要な金額はありません",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売しており、顧客との販売契約に基づいて商品又は製品を",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "び製品が顧客に引き渡された時点及びサービスを提供した時",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こから生み出された製品を実際にお客様もしくは患者様が使用するまでの期間）に対して適切かつ健全",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "務価値のみならず、顧客ロイヤリティやブランドイメージと言った非財務価値を向上させていくことで",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "係構築を実現するとともに、 企業イメージ、 ブランド価値および顧客ロイヤリティの向上、 ひいては持続",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に身近な製薬会社として、予防から治療まで、あらゆる選択肢を広げていきたい",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "「発言小町」は、読売新聞が運営するユーザー投稿サイト",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "海外売上比率は2031年度に全体の56%に拡大すると見込んでいます",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "各セグメント別の戦略を記載したより詳細な説明資料については、以下を参照してください",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "の構成比率を総合的に勘案して設計されるべきものであり、その詳細を株主総会において個別",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注）1. 「 その他」の区分は報告セグメントに含まれない事業セグメントであり 、オーストラリアの現地法人の事業活動を含ん",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. セ グメント利益の調整額は、全額がセグメント間取引消去であります",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（営業利益ベース）につきましては、当社は増益を維持したものの、連結子会",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（営業利益ベース）につきましては、増収効果と原価率の改善により、17億5",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（営業利益ベース）につきましては、英国において消炎鎮痛剤の容器供給業者",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（営業利益ベース）につきましては、増収効果により150億4千8百万円（同",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント（注）１ その他",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.「その他」の区分は報告セグメントに含まれない事業セグメントであり、オーストラリアの現地法人",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントによって異なる事業サイクル （基礎的な研究を含めた研究開発プロセスから、 そ",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、スキンケアの中核ブランド「オバジ」の日本国内の商標権およびすべてのライセンスと販売権を取得したほか、タイのウェルネス企業タン・オリザ社の子会社化を決議するなど、アジアのWell-being領域での成長加速に向けた布石を打ちました",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の取締役の報酬限度額は、2014年６月24日開催の定時株主総会決議において年額700百",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るが、今般、当社の取締役（社外取締役である取締役を含む）に対し、新たに年額700百万円",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の倒産による生産量低下と代替業者の単価上昇により原価率が上昇したことに加え、販売費及び",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品の輸入が困難であったミャンマーで、第２四半期に輸入ライセンスを取得できたことにより生",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）1. 取締役の報酬限度額は 、2014年６月24日開催の第78回定時株主総会決議において、年額700百万円以内（ただし、使用人",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 監査役の報酬限度額は 、2025年６月26日開催の第89回定時株主総会決議において、年額80百万円以内と決議いただいてお",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "限度額は年額80百万円以内と決議しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）当事業年度末日において当社役員が有するストックオプションとしての新株予約権の状況",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）当事業年度中に使用人等に交付したストックオプションとしての新株予約権の状況",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、販売手数料等の顧客に支払われる対価について、取引価格から減額しております",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "10月1日から利用料金を改定します",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "個人向け「ヨミダス」月額990円",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "日本とアジアなどで生産・調達機能を強化するとともに、在庫をはじめとする運転資本の効率にも目配りし、環境変化に対するレジリエンスを高めながら、成長への投資余力を確保していきます",
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.rohto.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "そして2031年度以降は、医療用眼科薬や再生医療の新薬が承認されることで、高収益を生み出す成長事業として、売上と利益の大きな柱になると期待しています",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "会社と 健康保険組合がそれぞれの強みや",
+    "url": "https://www.rohto.co.jp/sustainability/library/-/media/cojp/sustainability/employee/health_management/health_white_paper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "積み重ねてきた経験や強みを再認識し、 働",
+    "url": "https://www.rohto.co.jp/sustainability/library/-/media/cojp/sustainability/employee/health_management/health_white_paper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メディカル事業は、当社の強みである「高品質」と「高機能」を活かした新たな事業領域で",
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長、高営業利益率を享受する収穫期を迎えています",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 収益性の面では営業利益率１２%以上、 効率性の面ではＲＯＥ１０％以",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロートグループ 中長期成長戦略 | IR情報 | ロート製薬 株式会社 — ロートグループ 中長期成長戦略 | IR情報 | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > strategy > strength",
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略に関するQ&A | IR情報 | ロート製薬 株式会社 — 経営戦略に関するQ&A | IR情報 | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > strategy > growth",
+    "url": "https://www.rohto.co.jp/ir/strategy/growth/",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬 （東証プライム：4527）は長期投資に値するか ... — ロート製薬 （東証プライム：4527）は長期投資に値するか ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kajit1209/n/nefc31d00a285",
+    "pass": 3
+   },
+   {
+    "quote": "事業・ブランド | ロート製薬 株式会社 — 事業・ブランド | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > business",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略説明会 - ロート製薬 — 経営戦略説明会 - ロート製薬 ロート製薬株式会社 PDF https://www.rohto.co.jp > briefing > briefing_251003",
+    "url": "https://www.rohto.co.jp/-/media/cojp/ir/strategy/briefing/briefing_251003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | IR情報 | ロート製薬 株式会社 — 決算説明 会 資料 | IR情報 | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > library > briefing",
+    "url": "https://www.rohto.co.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | IR情報 | ロート製薬 株式会社 — IRライブラリー | IR情報 | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > library",
+    "url": "https://www.rohto.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ロート製薬 株式会社 — IR情報 | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > ...",
+    "url": "https://www.rohto.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRに関するよくあるご質問 | IR情報 | ロート製薬 株式会社 — IRに関するよくあるご質問 | IR情報 | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > faq",
+    "url": "https://www.rohto.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬 [4527] - 日本経済新聞 — ロート製薬 [4527] - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260513528827/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略説明会 - ロート製薬 — 経営戦略説明会 - ロート製薬 ロート製薬株式会社 PDF https://www.rohto.co.jp > pdf > Strategy_script_2026",
+    "url": "https://www.rohto.co.jp/ir/strategy/briefing/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/Strategy_script_2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所・グループ会社 | 企業情報 - ロート製薬 — 事業 所・グループ会社 | 企業情報 - ロート製薬 ロート製薬株式会社 https://www.rohto.co.jp > company > location",
+    "url": "https://www.rohto.co.jp/company/location/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 ・ブランド | ロート製薬 株式会社 — 事業 ・ブランド | ロート製薬 株式会社 ロート製薬株式会社 https://www.rohto.co.jp > business",
+    "url": "https://www.rohto.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬 【4527】の 事業 内容 - キタイシホン — ロート製薬 【4527】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4527/business",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬 の新 社長 伊賀市出身の瀬木英俊さんが語る思い — ロート製薬 の新 社長 伊賀市出身の瀬木英俊さんが語る思い 伊賀タウン情報 YOU https://www.iga-younet.co.jp > ニュース > 紙面",
+    "url": "https://www.iga-younet.co.jp/2025/08/31/106450/",
+    "pass": 3
+   },
+   {
+    "quote": "薬に頼らず 食で予防（ ロート製薬 瀬木英俊 社長 ） - 読売新聞 — 薬に頼らず 食で予防（ ロート製薬 瀬木英俊 社長 ） - 読売新聞 読売新聞 https://www.yomiuri.co.jp > ... > 関西経済",
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ロート製薬 瀬木英俊 社長 】新体制で横の連携力を前 ... - WWD — 【 ロート製薬 瀬木英俊 社長 】新体制で横の連携力を前 ... - WWD WWDJAPAN https://www.wwdjapan.com > articles",
+    "url": "https://www.wwdjapan.com/articles/2308674",
+    "pass": 3
+   },
+   {
+    "quote": "［経営教室］ ロート製薬 ・山田会長「会社の仕組みは社員が ... — ［経営教室］ ロート製薬 ・山田会長「会社の仕組みは社員が ... 日経ビジネス電子版 https://business.nikkei.com > 経営教室",
+    "url": "https://business.nikkei.com/atcl/gen/19/00607/122500076/",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬 ―目薬から始まり世界に羽ばたく驚異の経営力 ... — ロート製薬 ―目薬から始まり世界に羽ばたく驚異の経営力 ... 国際商業オンライン https://kokusaishogyo-online.jp > ロート製薬",
+    "url": "https://kokusaishogyo-online.jp/2025/08/232967",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rohto.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/research/rd-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/sustainability/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/library/well-being_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rohto.co.jp/-/media/cojp/sustainability/management/materiality/sustainability2030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rohto.co.jp/sustainability/library/-/media/cojp/sustainability/employee/health_management/health_white_paper.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/library/-/media/cojp/files/pdf/ir/meeting/meeting_90_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rohto.co.jp/-/media/cojp/ir/library/wb_errata_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rohto.co.jp/ir/strategy/strength/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/policy_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rohto.co.jp/-/media/cojp/business/vi_business.jpg?h=776&iar=0&w=2880&sc_lang=ja-jp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/-/media/cojp/business/vi_business_sp.jpg?h=215&iar=0&w=800&sc_lang=ja-jp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/-/media/cojp/business/top/domain.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/-/media/cojp/business/top/img_eyecare.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/-/media/cojp/company/location/domesticgroup/img_group_mentholatum.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/-/media/cojp/business/top/img_skincare.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/-/media/cojp/company/location/domesticgroup/img_group40.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rohto.co.jp/business/-/media/cojp/company/location/group/img_group_hydorox.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.iga-younet.co.jp/2025/08/31/106450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロート製薬",
+   "results": [
+    "https://www.rohto.co.jp/",
+    "https://jp.rohto.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%88%E8%A3%BD%E8%96%AC",
+    "https://jp.rohto.com/product/skincare",
+    "https://www.instagram.com/rohto_official/",
+    "https://ja.wikipedia.org/wiki/ロート製薬",
+    "https://en.wikipedia.org/wiki/Rohto_Pharmaceutical",
+    "https://ja.wikipedia.org/wiki/ロート製薬の製品",
+    "https://www.shop.rohto.co.jp/",
+    "https://x.com/eyecare_cp"
+   ]
+  },
+  {
+   "query": "ロート製薬 ビジネスモデル",
+   "results": [
+    "https://www.rohto.co.jp/ir/strategy/strength/",
+    "https://www.rohto.co.jp/ir/strategy/growth/",
+    "https://note.com/kajit1209/n/nefc31d00a285",
+    "https://www.rohto.co.jp/business/",
+    "https://www.rohto.co.jp/-/media/cojp/ir/strategy/briefing/briefing_251003.pdf",
+    "https://www.rohto.co.jp/ir/strategy/",
+    "https://dmzero.co.jp/clientwork/rohto.html",
+    "https://business.nikkei.com/atcl/gen/19/00607/121800075/",
+    "https://www.countand1.com/2023/11/rohto-pharma-short-term-loss-long-term-gain-organization-strategy.html",
+    "https://consovation.com/ビジネスモデルから探るロート製薬の成長戦略と/"
+   ]
+  },
+  {
+   "query": "ロート製薬 決算説明資料",
+   "results": [
+    "https://www.rohto.co.jp/ir/library/briefing/",
+    "https://www.rohto.co.jp/ir/library/",
+    "https://www.rohto.co.jp/ir/",
+    "https://www.rohto.co.jp/ir/faq/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260513528827/",
+    "https://www.rohto.co.jp/ir/strategy/briefing/",
+    "https://irbank.net/4527/ir",
+    "https://www.buffett-code.com/company/4527/library",
+    "https://www.rohto.co.jp/ir/investors/event/",
+    "https://www.rohto.co.jp/ir/library/summary/"
+   ]
+  },
+  {
+   "query": "ロート製薬 事業系統図",
+   "results": [
+    "https://www.rohto.co.jp/ir/strategy/briefing/~/media/cojp/files/pdf/ir/Long-Term_Growth_Strategy/Strategy_script_2026.pdf",
+    "https://www.rohto.co.jp/company/location/",
+    "https://www.rohto.co.jp/-/media/cojp/ir/strategy/briefing/briefing_251003.pdf",
+    "https://www.rohto.co.jp/business/",
+    "https://kitaishihon.com/company/4527/business",
+    "https://www.rohto.co.jp/sustainability/employee/health_management/structure",
+    "https://firm.or.jp/wp-content/uploads/2025/02/%E3%83%AD%E3%83%BC%E3%83%88%E8%A3%BD%E8%96%AC-2-1.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250513/20250513545935.pdf",
+    "https://www.rohto.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/ロート製薬"
+   ]
+  },
+  {
+   "query": "ロート製薬 社長 インタビュー",
+   "results": [
+    "https://www.iga-younet.co.jp/2025/08/31/106450/",
+    "https://www.yomiuri.co.jp/local/kansai/feature/CO086244/20260427-GYTAT00065/",
+    "https://www.wwdjapan.com/articles/2308674",
+    "https://business.nikkei.com/atcl/gen/19/00607/122500076/",
+    "https://kokusaishogyo-online.jp/2025/08/232967",
+    "https://www.nikkan.co.jp/articles/view/777108",
+    "https://note.com/mdnext/n/n28700be2fe32",
+    "https://globis.jp/article/6d5u18oo-5ny/",
+    "https://kokusaishogyo-online.jp/2026/01/344891",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I033907186"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式23頁／PDF・画像14件／外部2頁・検索5回）"
+ }
+}

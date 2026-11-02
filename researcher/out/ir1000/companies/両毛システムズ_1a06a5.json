@@ -1,0 +1,985 @@
+{
+ "name": "両毛システムズ",
+ "aliases": [],
+ "context": "証券コード9691／情報・通信業／スタンダード（内国株式）／2026.03期 売上高25,735百万円 営業利益率11.7%",
+ "researched_at": "2026-11-02T20:17:40.962850+00:00",
+ "official_url": "https://www.ryomo.co.jp/",
+ "identified_by": "search:yahoo_jp:両毛システムズ",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "15,500 17,234 18,170 22,486 25,735",
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ソフトウェア開発・システム販売 情報処理サービス システム機器・プロダクト関連販売 その他の情報サービス",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "1970(昭和45)年1月31日",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまに最適なソリューションで、",
+    "url": "https://www.ryomo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存ソリューションを",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法における財務報告の信頼性、適正性を確保するため、社内諸規程に基づきその仕組みが有効かつ適切に機能することを継続的に評価し、必要な是正措置を実施いたします",
+    "url": "https://www.ryomo.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "電力事業者向け「顧客料金管理サービス」の提供開始に関するお知らせ",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "（変更）「新製品開発に関するお知らせ」に関する一部変更の件",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/business_rep.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/business_rep.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/business_rep.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/edinet.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/edinet.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/edinet.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報処理サービス",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他の情報サービス",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報処理サービス業電子計算機システム安全対策実施事業所として認定",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス名：メーターデータ運用管理システム",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス名：RSホスティングサービス",
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.ryomo.co.jp/outline/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ryomo.co.jp/outline/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.ryomo.co.jp/outline/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業理念のもと、ＩＣＴソリューションを通じて社会課題の解決に取り組み、調和のとれた社会の実現を目指します",
+    "url": "https://www.ryomo.co.jp/outline/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの環境負荷低減に貢献できるような製品・サービスの提供に努めます",
+    "url": "https://www.ryomo.co.jp/outline/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "両毛システムズの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "業務支援サービス",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "分類カテゴリから製品を探す",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品総合ランキング",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(7)",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "両毛システムズの製品ラインアップ",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "公共ビジネスモデルを",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー戦略を推進する",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は、当社の持続的な企業価値向上のために、顧客／エンドユーザー、社員、株主／投資家、取引先／債権者、社会といった当社ステークホルダーの利益を考慮し、適切に協働する",
+    "url": "https://www.ryomo.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "電力事業者向け「顧客料金管理サービス」の提供開始に関するお知らせ",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の現状に合わせて効率が良く推進できるようご支援致します",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■お客様にとって効率の良いMBDプロセス構築をサポート",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算補足説明資料",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 半期報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせ",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 有価証券報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 半期報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 有価証券報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期連結累計期間業績予想の修正に関するお知らせ",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期報告書",
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算補足説明資料",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算説明会資料",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算説明会資料",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算説明会資料",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "社会・産業事業セグメント",
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共事業セグメント",
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営方針 | 株式会社 両毛システムズ — 中期経営方針 | 株式会社 両毛システムズ 株式会社両毛システムズ https://www.ryomo.co.jp > mtmp",
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 両毛システムズ はやばい」は事実と異なる！やめとけとい ... — 「 両毛システムズ はやばい」は事実と異なる！やめとけとい ... FactBoard https://fact-board.co.jp > company > d-ryomo > reputation",
+    "url": "https://fact-board.co.jp/company/d-ryomo/reputation/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 両毛システムズ — 株式会社 両毛システムズ 宮城県 https://monodukuri.pref.miyagi.jp > 企業 > ソフトウェア",
+    "url": "https://monodukuri.pref.miyagi.jp/company/cp-020/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 両毛システムズ の会社概要 | マイナビ2028 — (株) 両毛システムズ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp80578 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp80578/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | 株式会社 両毛システムズ — 決算説明 会 | 株式会社 両毛システムズ 株式会社両毛システムズ https://www.ryomo.co.jp > briefing",
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 株式会社 両毛システムズ — 決算 短信 | 株式会社 両毛システムズ 株式会社両毛システムズ https://www.ryomo.co.jp > past-accounts",
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 両毛システムズ — IR情報 | 株式会社 両毛システムズ 株式会社両毛システムズ https://www.ryomo.co.jp > ...",
+    "url": "https://www.ryomo.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "両毛システムズ 【9691】のIR 資料 - バフェット・コード — 両毛システムズ 【9691】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/9691/library",
+    "pass": 3
+   },
+   {
+    "quote": "【表紙】 - 両毛システムズ — 【表紙】 - 両毛システムズ 株式会社両毛システムズ PDF https://www.ryomo.co.jp > yuukasyoken_202103",
+    "url": "https://www.ryomo.co.jp/pdf/ir/yuukasyoken_202103.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "両毛システムズ の製品・サービス一覧｜イプロスものづくり — 両毛システムズ の製品・サービス一覧｜イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > company > detail > category",
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "pass": 3
+   },
+   {
+    "quote": "CP[（株） 両毛システムズ ] — CP[（株） 両毛システムズ ] cp-canda.net https://cp-canda.net > view",
+    "url": "https://cp-canda.net/index.php?url=companies/view/9691",
+    "pass": 3
+   },
+   {
+    "quote": "両備システムズと 両毛システムズ 社が公共マーケット協業 ... — 両備システムズと 両毛システムズ 社が公共マーケット協業 ... 両備システムズ https://www.ryobi.co.jp > ニュースリリース > 2022",
+    "url": "https://www.ryobi.co.jp/news/2022/20220601-2",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 | 株式会社 両毛システムズ — 役員紹介 | 株式会社 両毛システムズ 株式会社両毛システムズ https://www.ryomo.co.jp > outline > officer",
+    "url": "https://www.ryomo.co.jp/outline/officer.html",
+    "pass": 3
+   },
+   {
+    "quote": "両毛システムズ社長 ・北沢直来氏 需要開拓・事業創出を加速 — 両毛システムズ社長 ・北沢直来氏 需要開拓・事業創出を加速 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/529073",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 両毛システムズ ｜転職成功者 インタビュー ｜群馬の ... — 株式会社 両毛システムズ ｜転職成功者 インタビュー ｜群馬の ... リージョナルキャリア群馬 https://rs-gunma.net > hero > 202205_ryomo",
+    "url": "https://rs-gunma.net/hero/202205_ryomo.html",
+    "pass": 3
+   },
+   {
+    "quote": "両毛システムズ 【9691】の 社長 ・役員 - キタイシホン — 両毛システムズ 【9691】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9691/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "両毛システムズ社長 に北沢氏 - 日本経済新聞 — 両毛システムズ社長 に北沢氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXMZO43798220W9A410C1YZ0000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ryomo.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/mtmp.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/governance.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/briefing.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/business_rep.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/edinet.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/ir/general-meeting.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/outline/outline.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/outline/environment.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20261008.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20260917.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20260916.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20260825.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20260804_02.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/governance_2026_01.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20260804_01.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ryomo.co.jp/pdf/ir/etc_20260730_01.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fact-board.co.jp/company/d-ryomo/reputation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2085529/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/529073",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "両毛システムズ",
+   "results": [
+    "https://www.ryomo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%A1%E6%AF%9B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://www.youtube.com/channel/UCjPNvIogjdhdU2u_BCrJ9eQ",
+    "https://scan.netsecurity.ne.jp/article/2026/10/15/56461.html",
+    "https://job.mynavi.jp/28/pc/search/corp80578/outline.html",
+    "https://ja.wikipedia.org/wiki/両毛システムズ",
+    "https://www.ryomo.co.jp/outline/outline.html",
+    "https://kabutrack.com/news/market/2026/10/08/ryomo-systems-9691-delisting/",
+    "https://rocket-boys.co.jp/security-measures-lab/ryomo-systems-ransomware-supply-chain-impact-summary-2026/",
+    "https://rocket-boys.co.jp/security-measures-lab/ryomo-systems-internal-system-unauthorized-access/"
+   ]
+  },
+  {
+   "query": "両毛システムズ ビジネスモデル",
+   "results": [
+    "https://www.ryomo.co.jp/ir/mtmp.html",
+    "https://fact-board.co.jp/company/d-ryomo/reputation/",
+    "https://monodukuri.pref.miyagi.jp/company/cp-020/",
+    "https://www.rbs.co.jp/company/profile.html",
+    "https://job.mynavi.jp/28/pc/search/corp80578/outline.html",
+    "https://g-jumps.jp/company/34855/",
+    "https://www.ryomo.co.jp/",
+    "https://shikiho.toyokeizai.net/stocks/9691/corporate",
+    "https://www.r-agent.com/company/18960/",
+    "https://ja.wikipedia.org/wiki/両毛システムズ"
+   ]
+  },
+  {
+   "query": "両毛システムズ 決算説明資料",
+   "results": [
+    "https://www.ryomo.co.jp/ir/briefing.html",
+    "https://www.ryomo.co.jp/ir/past-accounts.html",
+    "https://www.ryomo.co.jp/ir/",
+    "https://kabutan.jp/news/?b=k202605140760",
+    "https://www.buffett-code.com/company/9691/library",
+    "https://ir-compass.com/docs/cashflow-statement/",
+    "https://www.ryomo.co.jp/pdf/ir/kessansetsumei_2025.pdf",
+    "https://www.net-presentations.com/",
+    "https://edinetdb.jp/company/E04855/presentations/",
+    "https://treelazy.com/stock-jp/9691/conference"
+   ]
+  },
+  {
+   "query": "両毛システムズ 事業系統図",
+   "results": [
+    "https://www.ryomo.co.jp/pdf/ir/yuukasyoken_202103.pdf",
+    "https://mono.ipros.com/company/detail/2085529/category/",
+    "https://cp-canda.net/index.php?url=companies/view/9691",
+    "https://www.ryobi.co.jp/news/2022/20220601-2",
+    "https://www.pc-daiwabo.co.jp/from_dis/2303_3_p2.html",
+    "https://www.rbs.co.jp/service/waterworks/system.html",
+    "https://cloud.watch.impress.co.jp/docs/cdc/catalog/1522088.html",
+    "https://www.ryomo.co.jp/water/wins_03.html",
+    "https://edinetdb.jp/company/E04855/main-customers",
+    "https://ja.wikipedia.org/wiki/両毛システムズ"
+   ]
+  },
+  {
+   "query": "両毛システムズ 社長 インタビュー",
+   "results": [
+    "https://www.ryomo.co.jp/outline/officer.html",
+    "https://www.nikkan.co.jp/articles/view/529073",
+    "https://rs-gunma.net/hero/202205_ryomo.html",
+    "https://kitaishihon.com/company/9691/board-of-director",
+    "https://www.nikkei.com/article/DGXMZO43798220W9A410C1YZ0000/",
+    "https://kigyo-scope.jp/company/9691/ceo/",
+    "https://www.ryomo.co.jp/recruit/interview1",
+    "https://j-lic.com/companies/9691/directors",
+    "https://www.jomo-news.co.jp/articles/-/382816",
+    "https://ja.wikipedia.org/wiki/両毛システムズ"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}

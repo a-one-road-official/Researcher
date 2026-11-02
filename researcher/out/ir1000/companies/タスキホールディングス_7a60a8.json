@@ -1,0 +1,1736 @@
+{
+ "name": "タスキホールディングス",
+ "aliases": [],
+ "context": "証券コード166A／不動産業／プライム（内国株式）／2025.09期 売上高74,412百万円 営業利益率11.8%",
+ "researched_at": "2026-11-02T20:08:43.537879+00:00",
+ "official_url": "https://tasuki-holdings.co.jp/",
+ "identified_by": "search:yahoo_jp:タスキホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "会社の設立はいつですか？",
+    "value": "2024年4月1日です。",
+    "url": "https://tasuki-holdings.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "47,251,895 202,408 47,454,303 1,128 47,455,431",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "2,318 21,310 23,628 △23,628 －",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "74,211,636 193,979 74,405,616 6,550 74,412,166",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ 22,016 22,016 △22,016 －",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（人）",
+    "value": "平均年齢（歳） 平均勤続年数（年） 平均年間給与（円）",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年のタスキホールディングス発足以来、金融情勢の変化、物価上昇、社会保障制度が直面する課題などにより、将来にわたり資産運用の重要性は一層の高まりを見せていくと考えています",
+    "url": "https://tasuki-holdings.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期 第１四半期決算短信［日本基準］（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年９月期 決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年９月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年９月期 第２四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年９月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年９月期 決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年９月期 第３四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年９月期 第２四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年９月期 第１四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年９月期 決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年９月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年９月期 第２四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年９月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年９月期 決算短信〔日本基準〕（連結）",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月1日です",
+    "url": "https://tasuki-holdings.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月1日に、株式会社タスキと株式会社新日本建物の株式移転によりテクニカル上場いたしました",
+    "url": "https://tasuki-holdings.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期決算は、経営統合前のタスキ業績より通算して9期連続の増収・増益となり過去最高を更新、2024年11月12日に公表した中期経営計画の初年度として順調な滑り出しとなりました",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期においては、都市部を中心に賃貸物件の賃料上昇が継続する追い風の事業環境のもと、昨今の建築費高騰を背景とするコスト増への対応として売上総利益率の向上に向けたグループワイドの取り組みに注力し、収益体質の強化を図ってまいりました",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期決算において各段階利益は計画を上回る実績となり、中期経営計画についても順調に進捗をしております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期通期計画を上方修正",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期業績予想について",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月期は100社の導入を目指しており、足元では70社を超える企業にご利用いただいています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の会社設立以前、以後の企業集団に係る沿革は以下のとおりです",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "タスキホールディングスは、テクノロジーの活用により、これらの課題解決に向けたソリューションを提供してまいります",
+    "url": "https://tasuki-holdings.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 08 29 ZISEDAIが提供する土地仕入管理サービス「TASUKI TECH LAND」が機能拡張",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 05 08 ZISEDAIが提供する土地仕入管理サービス「TASUKI TECH LAND」UIを刷新",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 02 20土地仕入管理サービス「TASUKI TECH LAND」総合不動産カンパニーのミライズライフへのサービス提供のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 02 06土地仕入管理サービス「TASUKI TECH LAND」地域密着型不動産事業を手掛けるヒットエイトへのサービス提供のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 11 29 土地仕入管理サービス「TASUKI TECH LAND」のバリューアップ型不動産投資事業を手掛けるカルシウムへのサービス提供のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 10 25 土地仕入管理サービス「TASUKI TECH LAND」の総合不動産デベロッパーのエールへサービス提供のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 10 18 土地仕入管理サービス「TASUKI TECH LAND」の総合不動産デベロッパーのWayへサービス提供のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 10 11 不動産投資型クラウドファンディングシステム構築サービスの「TASUKI TECH FUNDS」不動産事業会社へのサービス提供のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 05 25 不動産営業支援、業務改善のためのSaaS型土地仕入管理サービス「TASUKI TECH LAND」提供開始のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 03 23 タスキ、第二種金融商品取引業登録完了のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021 8 25 タスキ、DXの戦略策定から実運用まで伴走型で支援する「TASUKI DX CONSULTING」サービスを提供開始",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021 7 5 2050年のカーボンニュートラル達成に向けて環境に配慮したIoTレジデンスの最新商品「タスキsmart文教関口」が販売契約を締結",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021 4 5 タスキとハニカムラボ、不動産テックの領域においてxRや3D技術を活用したサービスおよびコンテンツ事業で協力",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産小口化商品『Joint Owners（ジョイントオーナーズ）』第一号物件、全462口完売及び運用開始のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産小口化商品『Joint Owners（ジョイントオーナーズ）』第三号組合組成・運用開始のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産小口化商品『Joint Owners（ジョイントオーナーズ）』第二号組合組成・運用開始のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産小口化商品『Joint Owners（ジョイントオーナーズ）』第一号案件組合組成・運用開始のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産小口化商品『Joint Owners（ジョイントオーナーズ）』第一号案件販売開始のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の電子公告は、株式会社プロネクサスが運営する電子公告掲載サービス「KeeProve Master PLUS」でご覧いただけます",
+    "url": "https://tasuki-holdings.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "電子公告掲載サービス「KeeProve Master PLUS」へ",
+    "url": "https://tasuki-holdings.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "CVC「TASUKI VENTURES」を通じたパートナー企業とのオープンイノベーションにより、エコシステム内の各機能やAIの開発・強化を図るほか、外部パートナーとのAPIの相互公開により連携型エコシステムを構築、より広範な領域に対応する拡張性を獲得することで、不動産DXプラットフォームとしてより一層高価値なトータルソリューションの提供を目指しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "相続税対策に有効な商品規格",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "提供商品ラインナップ",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：商品の開発について",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "相続税対策に有用な建物規格を考え、富裕層をターゲットにした不動産サービスを展開しています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：スライドには、当社グループが提供する商品の特徴として、相続税対策に有効な商品の規格を記載しています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "スライドに記載のとおり、当社の主要プロダクトは2つあり、その1つが「TASUKI TECH LAND」というサービスです",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "こちらはデベロッパーが事業を検討する際に必須となるボリュームチェック業務を、生成AIにより自動化したサービスです",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、いち早くシェアを獲得することがこのサービスの喫緊の課題です",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：「TOUCH & PLAN」はスマートフォンではなくパソコンを使うサービスですか？",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：御社のサービスを使う可能性があるボリュームゾーンということですね？",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "不動産流通領域において、査定ツールや管理支援ツール、仲介業務支援ツールは参入障壁が低く、すでにいくつものサービスが世に出ています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI-OCRや、登記簿謄本が自動で取得できるようなサービス等、オプションの積み上げにより顧客単価アップを図っています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産担保ローン等の金融ソリューションの企画・提供",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "各種家電製品、生活環境などの情報を取得する各種のセンサー等、さまざまな\"モノ\"をインターネットに接続する技術）対応設備を標準仕様とした新築投資用IoTレジデンスを開発し、投資家や企業等に販売しております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "富裕層顧客をターゲットに提供可能な資産運用商品の幅を広げるべく、当事業では中古物件を取得し、バリューアップのうえ売却を行います",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "不動産クラウドファンディングである「TASUKI FUNDS」は、１口10万円から申し込みが可能な不動産小口化商品です",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "Life Platform事業においては、アクイジションスタッフの順調な獲得により、主力となるIoTレジデンス事業を着実に拡大しており、リファイニング事業においても、不動産投資型クラウドファンディングによるオンバランスファンド（「タスキ キャピタル重視型 第14号ファンド＃１」等）９本を組成したほか、オフバランススキームで当社グループ初の取り組みとなる開発型ファンドを組成するなど、事業の多角化とバランスシートのスリム化を推進しております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度は、主力となるIoTレジデンス事業を着実に拡大し、全体として目標値を上回っております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、当社グループは常に市場動向に留意しつつ、内部管理体制の強化、優秀な人財の確保、市場のニーズにあったサービスの展開等により、当社グループの経営成績に重要な影響を与えるリスク要因を分散・低減し、適切に対応を行ってまいります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、IoTレジデンス物件やリファイニング物件、物流施設等の企画販売、不動産投資型クラウドファンディングの運営、資産コンサルティング等を行うLife Platform事業と、中小企業・小規模事業者向けの不動産融資サービスを行うFinance Consulting事業から成り立っております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "内製型DXを実現する「TASUKI DX CONSULTING」サービス提供開始",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県上尾市において形式上の存続会社、関東空調サービス株式会社を設立、一戸建て住宅の販売を開始",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "関東空調サービス株式会社の商号を株式会社京浜住宅に変更",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産担保ローン等の金融ソリューションの企画・提供",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "各種家電製品、生活環境などの情報を取得する各種のセンサー等、さまざまな\"モノ\"をインターネットに接続する技術）対応設備を標準仕様とした新築投資用IoTレジデンスを開発し、投資家や企業等に販売しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "富裕層顧客をターゲットに提供可能な資産運用商品の幅を広げるべく、当事業では中古物件を取得し、バリューアップのうえ売却を行います",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "不動産クラウドファンディングである「TASUKI FUNDS」は、１口10万円から申し込みが可能な不動産小口化商品です",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS事業に関しては、企業による省力化やDXを目的としたソフトウェア投資が活発であり、現在サービスを提供している不動産テック領域の市場規模も今後ますます拡大することが期待されるため、迅速に事業領域を拡大することにより先行者利益の獲得が可能であると考えております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "機能拡張や競合サービスからのリプレイスユーザーの増加により拡大したターゲット市場に対する広告宣伝活動や、営業体制を強化するセールス&マーケティング投資の積極的な実施を通じて、新規ユーザーを獲得してまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業活動を通じた、脱炭素化の推進、環境負荷軽減、安全でレジリエントかつ持続可能な住み続けられるまちづくりの推進に取り組むほか、アナログな手法や業務が多い不動産業界の不動産デベロップメント領域において各業務に分散している様々なシステムやプロセスを統合管理し、全体最適を実現するサービスを提供することで、新たな価値の創出と持続可能な社会の実現に向けて取り組んでまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・当社グループ商品が環境負荷低減・脱炭素ニーズ対応において、競合に遅れを取ることによる販売の困難化",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・環境配慮サービスの提供",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・省エネルギー性能が高い建築物ニーズの拡大に対し、当社グループが培った省エネルギー建築物のノウハウにより差別化された商品を市場に投入し、売上・収益を拡大",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・クライアントへのサービス提供を通じた、不動産価値の見える化及び業務効率の向上",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産DXを促進する当社グループのサービスの社内利用・社外提供により業務効率の向上、売上・収益を拡大",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "」をミッションに、不動産テック・DX領域において、業務効率化・コスト削減・事業推進に寄与する実務有用性の高い不動産価値流通プラットフォームを自社開発のSaaS型サービスとして外部へ提供しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "Life Platform事業においては、アクイジションスタッフの順調な獲得により、主力となるIoTレジデンス事業を着実に拡大しており、リファイニング事業においても、不動産投資型クラウドファンディングによるオンバランスファンド（「タスキ キャピタル重視型 第14号ファンド＃１」等）９本を組成したほか、オフバランススキームで当社グループ初の取り組みとなる開発型ファンドを組成するなど、事業の多角化とバランスシートのスリム化を推進しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "2021 21 タスキが電気通信大学と開発中のAI技術を活用したSaaS型土地活用シミュレーター「TOUCH＆PLAN」の新ビジネスモデル特許を出願",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "Life Platform事業のビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：当社のビジネスモデルの独自性についてご説明します",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：当社のビジネスモデルです",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "1棟で販売するビジネスモデルのため、売却先は富裕層顧客やファンド・事業会社が多いです",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "和田興産、2Qは当初予想を上回る進捗で中間配当を増配 中期経営計画では収益構造の転換など経営基盤の強靭化を図る",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "3．事業ポートフォリオの多角化と収益構造の多層化",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "事業の拡大と安定化のため、当社グループ内でのシナジーの発揮による新たな事業機会の創出や新規事業領域をターゲットとしたM&Aを通じて事業ポートフォリオの多角化と収益構造の多層化に取り組んでまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの収益モデルはストックではなくフローが中心だったため、投資家の皆様から積極的な株主還元の継続可能性について疑問を持たれることもありましたが、今後はストック収入も拡大させ、ストックとフローのバランスを取りながら、事業を行う方針です",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ここに私たちのビジネスモデルの強みがあります",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   },
+   {
+    "quote": "こうした空き家を買い取り、30～40坪程度（約100～130平方メートル）の敷地に「コンパクトIoTレジデンス」を建設し、投資用物件として売り出すのが、私たちのビジネスモデルです",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "2023.04.14 任意の指名委員会設置に関するお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "販売物件『ルネサンス六本木プレミアムコート』紹介動画公開のお知らせ",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS事業では、CVC投資を通じたパートナー企業との積極的なオープンイノベーションの創出と、それによるZISEDAIエコシステムの拡大を促進いたしました",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "CVC「TASUKI VENTURES」を通じたパートナー企業とのオープンイノベーションにより、エコシステム内の各機能やAIの開発・強化を図るほか、外部パートナーとのAPIの相互公開により連携型エコシステムを構築、より広範な領域に対応する拡張性を獲得することで、不動産DXプラットフォームとしてより一層高価値なトータルソリューションの提供を目指しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は販売部隊を持っていないため、アウトソーシングというかたちになりますが、顧客確保については、金融機関のウェルスマネジメント部隊や仕業の方からのご紹介でリーチを獲得しています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は全国と捉えていますので、地方への販売の拡大戦略では、販売パートナーと協力し、全国展開を進めます",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：先ほど、インバウンドでお問い合わせをいただくという話がありましたが、販売については、基本的に代理店や金融機関からの紹介営業のようなかたちになっていくのでしょうか？ 今後のイメージを教えてください",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、地方銀行をはじめ、金融機関のパートナーとの連携を中心に拡大していこうと考えています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、純粋持株会社としてグループ全体の経営管理を行う当社（株式会社タスキホールディングス）及び子会社６社（うち株式会社ZISEDAI、株式会社タスキパートナーズは非連結子会社）より構成されております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タスキパートナーズ（非連結）",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、純粋持株会社としてグループ全体の経営管理を行う当社（株式会社タスキホールディングス）及び子会社６社（うち株式会社ZISEDAI、株式会社タスキパートナーズは非連結子会社）より構成されております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タスキパートナーズ（非連結）",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "またインオーガニック戦略として、既存事業領域の拡大や新規事業領域への進出を目的としたM&Aのほか、不動産テック領域におけるプロダクト連携やパートナーの獲得によるエコシステムの構築を目的とした投資を実施してまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "機能拡張や競合サービスからのリプレイスユーザーの増加により拡大したターゲット市場に対する広告宣伝活動や、営業体制を強化するセールス&マーケティング投資の積極的な実施を通じて、新規ユーザーを獲得してまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが当連結会計年度に実施した設備投資の総額は1,497,897千円であり、その主なものは賃貸用店舗ビルの取得であります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場紹介",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "AI分野では、自社での開発と外部パートナーとの連携をどのように使い分けながら進めていくのでしょうか",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの進化は非常に速いため、外部パートナーとの連携を積極的に進めながら、スピード感を持って取り組むことが重要だと考えています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://tasuki-holdings.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、MCPを介した外部AIへの機能公開により、新規ユーザーの流入拡大を図ってまいります",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "最も多い販売先は、相続税対策をしたい富裕層顧客です",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "当社は販売部隊を持っていないため、アウトソーシングというかたちになりますが、顧客確保については、金融機関のウェルスマネジメント部隊や仕業の方からのご紹介でリーチを獲得しています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "1棟で販売するビジネスモデルのため、売却先は富裕層顧客やファンド・事業会社が多いです",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：売却先は富裕層顧客やファンドとのことですが、最近は外国人の顧客が増えているのでしょうか？ 御社が直接販売するわけではないため、わからないかもしれませんが、いかがでしょうか？",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "成長目標として、2026年9月期までに導入社数350社、ARR10億円を掲げています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "「TASUKI TECH LAND」の2023年9月期の実績は、導入社数34社、ARR1,300万円でした",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "：我々は東京に事務所を構えていますので、東京では直接アプローチして顧客獲得をしていますが、全国となると拠点の展開が追いついていない状況です",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "また、魅力的な機能拡張やUIの更新ということで、現在も日々アップデートをかけており、顧客単価の向上を狙っています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI-OCRや、登記簿謄本が自動で取得できるようなサービス等、オプションの積み上げにより顧客単価アップを図っています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "富裕層顧客をターゲットに提供可能な資産運用商品の幅を広げるべく、当事業では中古物件を取得し、バリューアップのうえ売却を行います",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への売上高がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "主要な顧客への売上高が連結売上高の10％未満であるため、主要な顧客ごとに関する情報の開示を省略しております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「コーポレート・ガバナンスの概要」「監査の状況」の節は個人の氏名を含むため、現在は審査を経た API の利用者に提供しています",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "富裕層顧客をターゲットに提供可能な資産運用商品の幅を広げるべく、当事業では中古物件を取得し、バリューアップのうえ売却を行います",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "・USER FIRST お客様のために、あらゆる活動をする",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社が2024年に公表した当社グループの長期ビジョン・中期経営計画では、経営統合によるグループシナジーを源泉に、2033年９月期（長期ビジョン）の連結売上高を2,000億円、SaaS事業導入企業数を1,500社に設定しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは中期経営計画の達成に向けた主要KPIとして、Life Platform事業の棚卸資産残高、SaaS事業のプロダクト導入企業数、EBITDA成長率の３つを採用しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "Life Platform事業の棚卸資産残高については、既存ビジネスにおける翌期以降の売上の積み上げ状況を判断する指標として採用しており、SaaS事業のプロダクト導入企業数については、ARR増大の基盤となるユーザー数の拡大状況を判断する指標として採用しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS事業のARRの増大には、新規ユーザーの獲得と顧客単価の引き上げが重要であると考えております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "機能拡張や競合サービスからのリプレイスユーザーの増加により拡大したターゲット市場に対する広告宣伝活動や、営業体制を強化するセールス&マーケティング投資の積極的な実施を通じて、新規ユーザーを獲得してまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "またさらなる機能拡張や精度の向上のほか、投資を通じたエコシステムの拡大により顧客単価の引き上げに取り組んでまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1)保有目的が純投資目的以外の目的である投資株式ａ．保有方針及び保有の合理性を検証する方法並びに個別銘柄の保有の適否に関する取締役会等における検証の内容株式会社新日本建物は、取引先等の株式を保有することにより取引の維持・拡大等が期待される銘柄については、総合的な検討を踏まえ保有する方針としております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1)保有目的が純投資目的以外の目的である投資株式ａ．保有方針及び保有の合理性を検証する方法並びに個別銘柄の保有の適否に関する取締役会等における検証の内容株式会社タスキは、取引先等の株式を保有することにより取引の維持・拡大等が期待される銘柄については、総合的な検討を踏まえ保有する方針としております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1)保有目的が純投資目的以外の目的である投資株式ａ．保有方針及び保有の合理性を検証する方法並びに個別銘柄の保有の適否に関する取締役会等における検証の内容株式会社タスキホールディングスは、取引先等の株式を保有することにより取引の維持・拡大等が期待される銘柄については、総合的な検討を踏まえ保有する方針としております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "はい、顧客のニーズは常に変化するため、私たちは環境の変化に常にアンテナを張っております",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の事業を展開する中で顧客基盤も拡充していると思いますが、こうした顧客との接点を今後の需要拡大のドライバーとしてどのように生かしていくのでしょうか",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは不動産を一棟販売し、そこでお客様との接点が終わっていましたが、今後は売却後もお客様との接点を持っていきたいと考えています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産に限らず、相続税対策に関するアドバイスのほか、金融商品、保険、債券も含め、お客様の資産に対して総合的にアドバイスやサポートを行える体制を、タスキグループとして作っていきたいと考えています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "メインプロダクトである「ZIESDAI LAND」のユーザー数は順調に増えていますが、ポイントになるのは建築プラン自動生成AI「ZISEDAI TOUCH&PLANplan」です",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "資産承継や資産活用、事業多角化のために収益物件の購入を検討されているお客様から、お問い合わせをいただいています",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に、不動産投資は資金力が必要であり、私たちが個人のお客様を対象に販売している一棟RCマンションも、投資金額は3億円から5億円と高額です",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "上記の取り組みにより、2025年9月期においては売上総利益率が前期比で向上、全体で＋2.9ポイントの19.9%となったほか、IoTレジデンス、リファイニングの各セグメントにおいても＋2.0ポイント超の向上となりました",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "資産コンサルティングについては、売上総利益率が前期比で-5.3ポイントとなったものの、他セグメントと比べて依然高い水準を維持しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "また、同セグメントの売上高構成比の拡大を推進したことで、全体の売上総利益率の向上に寄与しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（※）非連結子会社が行う事業であり、「第５ 経理の状況」における報告セグメントには含まれません",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、以下のとおりであります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、各セグメントの金額は、セグメント間取引を相殺消去する前の金額であります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表を作成するために採用される会計方針に準拠した方法であります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部売上高又は振替高",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1)セグメント利益の調整額△121,758千円は、セグメント間取引消去473,688千円、各セグメントに配分していない全社費用△595,446千円であります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "（※）非連結子会社が行う事業であり、「第５ 経理の状況」における報告セグメントには含まれません",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．「主要な事業の内容」欄には、セグメントの名称を記載しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "５．従業員は、全社（共通）のセグメントであり、管理部門等に所属しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、以下のとおりであります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "なお、各セグメントの金額は、セグメント間取引を相殺消去する前の金額であります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1)提出会社2025年９月30日現在 事業所名(所在地)セグメントの名称設備の内容帳簿価額従業員数（人）建物（千円）土地（千円）（面積㎡）有形固定資産その他（千円）ソフトウエア（千円）無形固定資産その他（千円）合計（千円）本社(東京都港区)全社本社機能12,881―(―)5,0463,66614,46236,05729（注）帳簿価額の有形固定資産の「その他」は工具、器具及び備品であります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、SaaS事業からAI Dynamics事業へとセグメント名を変更しました",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "2025年9月期においては、都市部を中心に賃貸物件の賃料上昇が継続する追い風の事業環境のもと、昨今の建築費高騰を背景とするコスト増への対応として売上総利益率の向上に向けたグループワイドの取り組みに注力し、収益体質の強化を図ってまいりました",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "Life Platform 事業：売上総利益率向上の取り組み",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "Life Platform事業においては、売上総利益率向上の取り組みをグループワイドに実施しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "上記の取り組みにより、2025年9月期においては売上総利益率が前期比で向上、全体で＋2.9ポイントの19.9%となったほか、IoTレジデンス、リファイニングの各セグメントにおいても＋2.0ポイント超の向上となりました",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "資産コンサルティングについては、売上総利益率が前期比で-5.3ポイントとなったものの、他セグメントと比べて依然高い水準を維持しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "また、同セグメントの売上高構成比の拡大を推進したことで、全体の売上総利益率の向上に寄与しております",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 1
+   },
+   {
+    "quote": "：強みは、空き家に関する情報量の多さや、そこから事業用地を生み出していくことにあります",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "当社のポジショニングとしては、不動産仕入・不動産開発DXへの取り組みが最大の強みであると考えています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "不動産流通領域において、査定ツールや管理支援ツール、仲介業務支援ツールは参入障壁が低く、すでにいくつものサービスが世に出ています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "そのような中で、当社が提供する不動産テックという領域は、不動産ビジネスにおいてもより上流のデベロップメント領域に特化していますので、競合も少なく参入障壁も非常に高いと考えています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "このような場合、用地の確保から建物竣工まで通常、概ね１年を有する新築投資用IoTレジデンスの開発と比較し、在庫回転期間が短縮され、不動産市場におけるマーケット変動リスクを低減できるなど、より効率的かつ安定的な事業運営に繋がるメリットもあるため、当連結会計年度では用地での販売の割合が自社開発プロジェクトの割合よりも高くなっております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループでは不動産販売の売上総利益率の目標値を18％と設定しております",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、前連結会計年度は、企業結合に伴う新日本建物の棚卸資産の評価替えによって売上原価が11億77百万円増加したことにより売上総利益率は目標値の18％を下回りました",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような場合、用地の確保から建物竣工まで通常、概ね１年を有する新築投資用IoTレジデンスの開発と比較し、在庫回転期間が短縮され、不動産市場におけるマーケット変動リスクを低減できるなど、より効率的かつ安定的な事業運営に繋がるメリットもあるため、当連結会計年度では用地での販売の割合が自社開発プロジェクトの割合よりも高くなっております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "中長期的な競争優位性の確立に向け、経営資源の効果的な活用やシナジーの発揮を実現する経営体制の強化を計画推進の基礎として、SaaS事業のARR増大と既存ビジネスの拡大を重点施策として掲げております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループでは不動産販売の売上総利益率の目標値を18％と設定しております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "また、前連結会計年度は、企業結合に伴う新日本建物の棚卸資産の評価替えによって売上原価が11億77百万円増加したことにより売上総利益率は目標値の18％を下回りました",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "特定のアセットクラスについて比率目標を設けず、現状のレジデンスの強みを生かしながら、商業・オフィス・物流などへの横展開を加速していくという認識でよいでしょうか",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "Life Platform事業に関して、用地取得力は大きな競争優位性の差になると理解しています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "エリアを集中させることで現場費用などを効率化し、その分コストを抑えられることが、物件取得時の競争優位性になっています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは不動産に強みがあるため、タスキグループとして独自性を出すうえでは、不動産と金融商品を組み合わせた提案を強みにして差別化していきたいと考えており、この部分を今後1年程度で強化していきたいと思っています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社と比較して物件取得のパイプラインを拡大できている背景について、競争優位性の観点から教えてください",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ここに私たちのビジネスモデルの強みがあります",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   },
+   {
+    "quote": "「タスキならではの高い技術とノウハウが強みです」",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   },
+   {
+    "quote": "それが実現できるのも、私たちの強みだといえます",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "費用は1アカウント月額10万円で、ボリュームチェックし放題のプランです",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "また、魅力的な機能拡張やUIの更新ということで、現在も日々アップデートをかけており、顧客単価の向上を狙っています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI-OCRや、登記簿謄本が自動で取得できるようなサービス等、オプションの積み上げにより顧客単価アップを図っています",
+    "url": "https://finance.logmi.jp/articles/380023",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費は、人員増に伴う給料及び手当（前連結会計年度比７億11百万円 111.0％増）、租税公課（前連結会計年度比３億93百万円 67.2％増）、販売手数料（前連結会計年度比３億52百万円 56.9％増）、のれん償却額（前連結会計年度比１億84百万円 111.6％増）等により前連結会計年度と比べ20億69百万円増加（53.0％増）の59億76百万円となりました",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業外費用は、借入に伴う支払利息（前連結会計年度比３億87百万円 101.4％増）、支払手数料（前連結会計年度比96百万円 126.7％増）等の増加により、前連結会計年度と比べ５億69百万円増加（106.4％増）の11億３百万円となりました",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS事業のARRの増大には、新規ユーザーの獲得と顧客単価の引き上げが重要であると考えております",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "またさらなる機能拡張や精度の向上のほか、投資を通じたエコシステムの拡大により顧客単価の引き上げに取り組んでまいります",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費は、人員増に伴う給料及び手当（前連結会計年度比７億11百万円 111.0％増）、租税公課（前連結会計年度比３億93百万円 67.2％増）、販売手数料（前連結会計年度比３億52百万円 56.9％増）、のれん償却額（前連結会計年度比１億84百万円 111.6％増）等により前連結会計年度と比べ20億69百万円増加（53.0％増）の59億76百万円となりました",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "営業外費用は、借入に伴う支払利息（前連結会計年度比３億87百万円 101.4％増）、支払手数料（前連結会計年度比96百万円 126.7％増）等の増加により、前連結会計年度と比べ５億69百万円増加（106.4％増）の11億３百万円となりました",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "特にリファイニング事業は3年ほど前から始めた事業で、保有中に賃料収入が入るため、これまでフロー収益中心であった収益基盤にストック収益が加わり、収益源の多様化が進んでいます",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サスティナビリティの視点から不動産ストックの有効活用の促進につながるためこの分野を積極的に広げ、フローとストックのバランスを見極めながら持続的な成長を目指していきたいと考えています",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのプロダクトは「1社あたり月額10万円」といった料金体系でしたが、TOUCH＆PLANは「1アカウントあたり月額10万円」という課金形態になります",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの収益モデルはストックではなくフローが中心だったため、投資家の皆様から積極的な株主還元の継続可能性について疑問を持たれることもありましたが、今後はストック収入も拡大させ、ストックとフローのバランスを取りながら、事業を行う方針です",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TASUKI Value Report - 株式会社タスキホールディングス — TASUKI Value Report - 株式会社タスキホールディングス 株式会社タスキホールディングス https://tasuki-holdings.co.jp > tasuki-value-report",
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス 【166A】の事業内容 - キタイシホン — タスキホールディングス 【166A】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "166A タスキホールディングス 不動産×ITの先駆者 アナリスト ... — 166A タスキホールディングス 不動産×ITの先駆者 アナリスト ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/oh_no/n/n38d2ed3a4d23",
+    "pass": 3
+   },
+   {
+    "quote": "ライブラリ | IR - 株式会社タスキホールディングス — ライブラリ | IR - 株式会社タスキホールディングス 株式会社タスキホールディングス https://tasuki-holdings.co.jp > library",
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 株式会社 タスキホールディングス — IR | 株式会社 タスキホールディングス 株式会社タスキホールディングス https://tasuki-holdings.co.jp > ...",
+    "url": "https://tasuki-holdings.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 タスキホールディングス 】[166A]IR情報 中期経営計画や 決算 ... — 【 タスキホールディングス 】[166A]IR情報 中期経営計画や 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=166A",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス [166A]：2026年9月期 第2四半期 ... — タスキホールディングス [166A]：2026年9月期 第2四半期 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260402597675/",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス 【166A】の 事業 内容 - キタイシホン — タスキホールディングス 【166A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/166A/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タスキホールディングス 有価証券報告書 全文（最新） — 株式会社 タスキホールディングス 有価証券報告書 全文（最新） EDINET DB https://edinetdb.jp > ... > 株式会社タスキホールディングス",
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タスキホールディングス 2026年9月期第3四半期 決算 ... — 株式会社 タスキホールディングス 2026年9月期第3四半期 決算 ... finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260804/20260804508429.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "166A （東証グロース） - 株式会社タスキホールディングス — 166A （東証グロース） - 株式会社タスキホールディングス 株式会社タスキホールディングス PDF https://tasuki-holdings.co.jp > uploads > 2025/06",
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2025/06/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%81%8A%E3%82%88%E3%81%B3FY2025.9-1Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よくわかる!! タスキホールディングス （166A・東証プライム ... — よくわかる!! タスキホールディングス （166A・東証プライム ... 日本証券新聞 https://www.nsjournal.jp > tasuki-holdings-report-202610...",
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス社長 に聞く…「優れた立地」の「高 ... — タスキホールディングス社長 に聞く…「優れた立地」の「高 ... ゴールドオンライン https://gentosha-go.com > 国内不動産 > 新築不動産投資",
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス 代表への インタビュー 記事が ... - AWS — タスキホールディングス 代表への インタビュー 記事が ... - AWS Amazon Web Services (AWS) PDF https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com > ...",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120260128539860.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス ［166A］ NS - YouTube — タスキホールディングス ［166A］ NS - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=OzV2zjSl5eo",
+    "pass": 3
+   },
+   {
+    "quote": "タスキホールディングス 代表への インタビュー 記事が米経済誌 ... — タスキホールディングス 代表への インタビュー 記事が米経済誌 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260128539860/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tasuki-holdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/company/directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/public/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/en/ir-calendar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2026/03/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_FY2026.9-1Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2026/06/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_FY2026.9-2Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2026/08/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_FY2026.9-3Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2025/06/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%81%8A%E3%82%88%E3%81%B3FY2025.9-1Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2025/07/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_FY2025.9-2Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2025/09/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_FY2025.9-3Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2025/12/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_FY2025.9%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2024/03/2024%E5%B9%B4%EF%BC%99%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%EF%BC%BB%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%EF%BC%BD%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuki-holdings.co.jp/wpapp/wp-content/themes/tasuki/images/top/lead.svg?240315",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/380023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/166A/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E39259/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gentosha-go.com/articles/-/73547",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タスキホールディングス",
+   "results": [
+    "https://tasuki-holdings.co.jp/",
+    "https://tasuki-holdings.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/?scode=166A",
+    "https://kabutan.jp/stock/?code=166A",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=166A&exchange_code=JPN"
+   ]
+  },
+  {
+   "query": "タスキホールディングス ビジネスモデル",
+   "results": [
+    "https://finance.logmi.jp/articles/380023",
+    "https://tasuki-holdings.co.jp/ir/tasuki-value-report/",
+    "https://kitaishihon.com/company/166A/business",
+    "https://note.com/oh_no/n/n38d2ed3a4d23",
+    "https://kabukiso.com/syuzai/kaisya/tasuki-holdings.html",
+    "https://www.youtube.com/watch?v=OzV2zjSl5eo",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260804/20260804508429.pdf",
+    "https://tasukicorp.co.jp/tasukivision/",
+    "https://www2.jpx.co.jp/disc/166A0/140120240329563812.pdf",
+    "https://tasuki-holdings.co.jp/"
+   ]
+  },
+  {
+   "query": "タスキホールディングス 決算説明資料",
+   "results": [
+    "https://tasuki-holdings.co.jp/ir/library/",
+    "https://tasuki-holdings.co.jp/ir/",
+    "https://tasukicorp.co.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=166A",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260402597675/",
+    "https://x.com/tasuki_holdings",
+    "https://note.com/tasuki_ir/n/n31ed6753a3a6",
+    "https://irbank.net/166A/ir",
+    "https://edinetdb.jp/company/E39259/presentations/",
+    "https://note.com/tasuki_ir/n/nb98e844aad8b"
+   ]
+  },
+  {
+   "query": "タスキホールディングス 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/166A/business",
+    "https://edinetdb.jp/company/E39259/text",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260804/20260804508429.pdf",
+    "https://tasuki-holdings.co.jp/wpapp/wp-content/uploads/2025/06/%E3%82%BF%E3%82%B9%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9166A_%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%81%8A%E3%82%88%E3%81%B3FY2025.9-1Q%E6%B1%BA%E7%AE%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "https://www.buffett-code.com/company/166A/",
+    "https://companydata.tsujigawa.com/?cdb_edinet_doc=S100XBKO",
+    "https://tasuki-holdings.co.jp/company/",
+    "https://www.youtube.com/watch?v=exUvmbpsl7U",
+    "https://finance.logmi.jp/articles/380023",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=166A"
+   ]
+  },
+  {
+   "query": "タスキホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.nsjournal.jp/tasuki-holdings-report-20261020/",
+    "https://gentosha-go.com/articles/-/73547",
+    "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120260128539860.pdf",
+    "https://www.youtube.com/watch?v=OzV2zjSl5eo",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260128539860/",
+    "https://forbesjapan.com/articles/detail/104216",
+    "https://x.com/tasuki_holdings/status/2016400137934012437",
+    "https://www.zenchin.com/news/content-3747.php",
+    "https://kabukiso.com/syuzai/kaisya/tasuki-holdings.html",
+    "https://invest-n.jp/ir/2629/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式23頁／PDF・画像9件／外部5頁・検索5回）"
+ }
+}

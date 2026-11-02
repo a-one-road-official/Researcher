@@ -1,0 +1,1311 @@
+{
+ "name": "ミマキエンジニアリング",
+ "aliases": [],
+ "context": "証券コード6638／電気機器／プライム（内国株式）／2026.03期 売上高83,725百万円 営業利益率11.3%",
+ "researched_at": "2026-11-02T20:17:32.634285+00:00",
+ "official_url": "https://japan.mimaki.com/",
+ "identified_by": "search:yahoo_jp:ミマキエンジニアリング",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1975年 8月 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "産業用大判インクジェットプリンタ、フルカラー3Dプリンタ、カッティングプロッタ、三次元彫刻機",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結524億71百万円 （ 2018年 3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体784名 連結1,983名 [ 1 ] （2022年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "海外のお客様は",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品について（製品導入前のお客様）",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様の通報窓口について",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様の通報窓口についてはお取引先様の通報窓口についてのページをご覧ください",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、海外のお客様は",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、海外のお客様は",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ip/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ta/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、海外のお客様は",
+    "url": "https://japan.mimaki.com/inquiry/opinion/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/opinion/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://japan.mimaki.com/inquiry/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様通信欄",
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングの価値提案は、高品質かつ多機能な印刷ソリューションによって顧客の表現力と生産性を高める点にあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした環境対応や独自技術の蓄積が、顧客にとっての大きな魅力となり、信頼獲得につながっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "先端技術を活かした研究開発部門が新製品を設計し、国内外の製造拠点で効率よく生産を行い、グローバルな販売網を通じて世界中のユーザーに届ける仕組みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、導入後のメンテナンスやカスタマーサポートを充実させることで、顧客満足度を高めてリピート受注や追加オーダーにつなげる戦略を取っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "高度な印刷機器は故障や不具合が発生した際の対応が重要であり、製品とアフターサービスを一貫して提供することで顧客の安心感を高めたいという考えがあるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外の主要拠点に自社スタッフや販売網を配置しているため、欧米やアジアを含む世界各国で顧客からの問い合わせや要望に迅速に対応できます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい印刷素材のニーズが高まると、素材メーカーとの連携によって、最適なインクやプリント方式を共同開発し、ユーザーに早期に提案できる体制を整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各地に設置したショールームでは、実機のデモンストレーションを通じてユーザーが体感できる環境を提供し、代理店との連携によって地元密着型のサポート体制を整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "国や地域によってユーザーのニーズや文化が異なるため、一つの販売経路に依存するのではなく、リアルとデジタルを組み合わせることで多角的にアプローチする必要があるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたチャンネル戦略により、幅広い顧客層へ同社の技術を伝えられる体制を構築しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は導入前後のサポートを非常に重視し、顧客の生産ラインに最適化したアドバイスから定期的なメンテナンスまで、一貫してフォローを行っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "海外顧客の場合でも、現地スタッフやサポートセンターを通じて迅速に連絡が取れる仕組みを用意し、トラブルを最小限に抑える努力を怠りません",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "高度なデジタル印刷機器はユーザーにとって大きな投資であり、安定稼働させるためにはアフターサービスの質が重要になるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は長期的な顧客満足度を高めることで、リピート購入や追加導入につなげ、結果的に収益の安定化とブランドの向上を実現しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは広告看板業界やアパレル市場だけでなく、工業製品の製造工程でプリントを行う企業や、ノベルティ制作を手がける事業者など多岐にわたります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、顧客層が多様化し、景気に左右されにくいビジネス構造を築くことに成功しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーが導入後に継続してインクを購入することで安定収益を確保し、さらにサポート契約によって修理やアップデートのサービス料を得る仕組みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、新しいインクやプリンタモデルを発表すると、顧客の使用感や要望を素早く収集し、次の改良版や派生モデルに反映させる仕組みを整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、商品の品質や多様性が向上し、さらに新たな顧客を獲得する好循環を生み出しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "この好循環を途切れさせないために、顧客とのコミュニケーションを密にし、市場の変化に対応する柔軟性を常に維持する姿勢が、同社の強みとなっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、フルカラー造形の3Dプリンタ事業や、衣料品から工業用途まで対応できる高性能プリンタの開発などに継続的な投資を続けることで、多様化する顧客ニーズに対応しながら市場シェアを拡大していくことでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みによって、国内外のユーザー基盤をさらに拡大し、技術革新を進めると同時に、安定的かつ高い利益水準を維持する力を強化していくことが期待されます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に満足いただける製品を素早く提供する小回りの利いた会社を目指します",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "当ウェブサイトでは、皆様により良いユーザー体験を提供するためクッキーを使用しております",
+    "url": "https://ir.mimaki.com/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "プリントビジネスの可能性を広げる、業務用大型インクジェットプリンタと各形状メディアに対応した製品群のご紹介（ロール / フラットベッド）",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入事例を追加しました：UV-DTFだったら「何でも、どこにでもプリントできる！」 グッズやサイン製作の外注依存から脱却するのに最適な1台（株式会社ワコムズ様）",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入事例を追加しました：多様化するオリジナルグッズ製作に欠かせない対応力の強化 小ロット多品種を望む市場ニーズへ応えられる1台（有限会社イデア様）",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PHPの脆弱性（CVE-2026-109618、CVE-2026-109619）に関する弊社ソフトウェア製品への影響について",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入をご検討の方へ",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ミマキカッティングソリューションのご提案",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "安心の地域密着型サービス",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品やキャンペーン、展示会など最新のミマキ情報をお伝えしています",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリケーション担当より、ミマキ製品で出来る”アイデアの種”を発信しています",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソフトの取り扱い、メンテナンス手順などを分かりやすく説明しています",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品について（製品導入前のお客様）",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "資料請求・お見積・サンプル依頼など製品に関するご依頼や、ミマキ製品でできること・導入についての疑問点など製品選びのご相談、導入時に活用できる補助金制度などについてはこちらからお問い合わせください",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入後のサポートについて（故障や技術的なご質問など）",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品別FAQ",
+    "url": "https://japan.mimaki.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ | お問い合わせ | ミマキ",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "※各種勧誘、商品やサービス案内など、営業を目的としたお問い合わせはご遠慮ください",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせの製品や内容を入力してください",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "フォームに入力いただきました個人情報は、お問い合わせ・資料請求への対応のほか、当社が取り扱う各種商品・サービスなどの情報提供（電子メール等による）に利用させていただきます",
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "pass": 1
+   },
+   {
+    "quote": "※各種勧誘、商品やサービス案内など、営業を目的としたお問い合わせはご遠慮ください",
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "pass": 1
+   },
+   {
+    "quote": "3D出力サービスについて",
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせの製品や内容を入力してください",
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "pass": 1
+   },
+   {
+    "quote": "フォームに入力いただきました個人情報は、お問い合わせ・資料請求への対応のほか、当社が取り扱う各種商品・サービスなどの情報提供（電子メール等による）に利用させていただきます",
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "pass": 1
+   },
+   {
+    "quote": "お使いの製品",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "お使いの製品をご記入ください",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "お使いの製品のシリアル番号をご記入ください",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "例)商品企画部 など",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "pass": 1
+   },
+   {
+    "quote": "例)商品企画部 など",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ip/",
+    "pass": 1
+   },
+   {
+    "quote": "フォームに入力いただきました個人情報は、お問い合わせ・資料請求への対応のほか、当社が取り扱う各種商品・サービスなどの情報提供（電子メール等による）に利用させていただきます",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ip/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ip/",
+    "pass": 1
+   },
+   {
+    "quote": "例)商品企画部 など",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ta/",
+    "pass": 1
+   },
+   {
+    "quote": "フォームに入力いただきました個人情報は、お問い合わせ・資料請求への対応のほか、当社が取り扱う各種商品・サービスなどの情報提供（電子メール等による）に利用させていただきます",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ta/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/testroom_ta/",
+    "pass": 1
+   },
+   {
+    "quote": "※各種勧誘、商品やサービス案内など、営業を目的としたお問い合わせはご遠慮ください",
+    "url": "https://japan.mimaki.com/inquiry/opinion/",
+    "pass": 1
+   },
+   {
+    "quote": "例)商品企画部 など",
+    "url": "https://japan.mimaki.com/inquiry/opinion/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/opinion/",
+    "pass": 1
+   },
+   {
+    "quote": "※各種勧誘、商品やサービス案内など、営業を目的としたお問い合わせはご遠慮ください",
+    "url": "https://japan.mimaki.com/inquiry/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://japan.mimaki.com/inquiry/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "商品代金の合計(税抜) 円",
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品代金の合計(税込) 円",
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(商品配達時のお支払い)",
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品名 商品コード 数量 単価(税抜) 金額(税抜)",
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングは、産業用インクジェットプリンタやカッティングプロッタ、さらには3Dプリンタや各種専用インクの開発・製造・販売・サービスをグローバルに展開する産業用印刷機器メーカーです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "サイングラフィックス（広告・看板）、インダストリアルプロダクツ（工業資材・ノベルティ印刷）、テキスタイル・アパレルといった多岐にわたる市場に向けて高度な吐出技術や色再現性を備えた独自製品を供給し、世界のプリントビジネスにおけるデジタル化と多品種小ロット生産の進展を足元から力強く支えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "この業績結果となった主な要因は、主力のサイングラフィックス分野やインダストリアルプロダクツ分野において、省電力性や環境性能に優れた新製品のUV硬化型インクジェットプリンタの販売が欧米およびエリア市場を中心に非常に好調に推移したことに加え、本体機器の稼働率上昇に伴い高利益率な消耗品（インク）の出荷が着実に積み上がったことにあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、部材価格の上昇等に対して適正な製品価格への改定を進めたことや、グループ全体での生産プロセスの効率化および費用対効果を意識した固定費管理が奏功し、大幅な利益率の向上と業績の拡大へと大きく結びつきました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングの価値提案は、高品質かつ多機能な印刷ソリューションによって顧客の表現力と生産性を高める点にあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、広告や看板の大型ポスターを鮮明に印刷できるだけでなく、繊細な布地や工業部品への直接印刷も可能にするなど、多様なニーズに応える製品力を持っているのです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、新素材やインクの開発に継続的な投資を行い、競合他社にない高度な印刷ソリューションを提供できる体制を整えたことで、高い価値提案を可能にしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の主要活動は、製品開発から製造、販売、そしてアフターサービスまでを包括するトータルサポート体制にあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "先端技術を活かした研究開発部門が新製品を設計し、国内外の製造拠点で効率よく生産を行い、グローバルな販売網を通じて世界中のユーザーに届ける仕組みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "高度な印刷機器は故障や不具合が発生した際の対応が重要であり、製品とアフターサービスを一貫して提供することで顧客の安心感を高めたいという考えがあるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "外部との連携を積極的に行うことで、常に最新の技術を取り入れながら製品開発を行い、差別化を図ることができます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパートナーシップ戦略が、より幅広い市場ニーズに対応した製品ラインナップを支える原動力となっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインでは、製品スペックや活用事例などをわかりやすく配信し、問い合わせや見積依頼にも迅速に対応しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "高度なデジタル印刷機器はユーザーにとって大きな投資であり、安定稼働させるためにはアフターサービスの質が重要になるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは広告看板業界やアパレル市場だけでなく、工業製品の製造工程でプリントを行う企業や、ノベルティ制作を手がける事業者など多岐にわたります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "プリントビジネスの可能性を広げる、業務用大型インクジェットプリンタと各形状メディアに対応した製品群のご紹介（ロール / フラットベッド）",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "業務用カッティングプロッタ、看板デザイン・アパレル向けプロッタのご紹介（ロール / フラットベッド）",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mimakiの技術を詰め込んだ「安心安定・高品質」のDTFプリンタと高付加価値の印刷ビジネス創出するUV-DTFプリンタのご紹介",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プリントビジネスの可能性をさらに広げる、MIMAKIの3Dプリンタのご紹介",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【重要なお知らせ】当社販売店を装ったウェブサイトにご注意ください",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "先端技術を活かした研究開発部門が新製品を設計し、国内外の製造拠点で効率よく生産を行い、グローバルな販売網を通じて世界中のユーザーに届ける仕組みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外の主要拠点に自社スタッフや販売網を配置しているため、欧米やアジアを含む世界各国で顧客からの問い合わせや要望に迅速に対応できます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングは、インクや各種素材のメーカー、物流・販売網を提供する代理店、さらには協業による先端技術の開発に取り組む企業など、多面的なパートナーシップを構築しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパートナーシップ戦略が、より幅広い市場ニーズに対応した製品ラインナップを支える原動力となっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、自社の販売拠点や代理店、オンラインプラットフォームなど多様なチャネルを活用しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各地に設置したショールームでは、実機のデモンストレーションを通じてユーザーが体感できる環境を提供し、代理店との連携によって地元密着型のサポート体制を整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場紹介",
+    "url": "https://www.nsjournal.jp/tag/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月29日",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://japan.mimaki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期の中間配当は1株当たり17.5円が予定されており、安定的な配当政策を継続しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明会（2026年5月27日 開催）",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月27日",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明会 資料",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明会 動画",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明会 書き起こし",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明会資料(3.7MB)",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月 個人投資家向け会社説明会 (3.1MB",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会（書き起こし）",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第1四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期決算説明&",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期決算及び新中長期成長戦略説明会（書き起こし）",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期決算及び新中長期成長戦略説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年３月期 第2四半期決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年３月期 決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年３月期 第2四半期決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年３月期 決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 第1四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年３月期 決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期 第3四半期決算説明資料",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期 第2四半期決算説明会",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年3月15日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月3日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "2007年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "1975年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.nsjournal.jp/tag/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "品名 商品コード 数量 単価(税抜) 金額(税抜)",
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益の柱は、プリンタやカッティングプロッタといったハードウェアの販売だけでなく、インクや関連消耗品の供給、そして保守サービスやメンテナンス契約からの収入も大きな割合を占めています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "単発のハード販売だけでは収益の波が大きくなる恐れがあるため、インクやサービスといったサブスクリプション型の要素を取り入れることで、継続的な収益源を確保する必要があったからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社ミマキエンジニアリングの成長戦略とビジネスモデルの魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングの成長戦略とビジネスモデルの魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "このバランスの良い収益構造が、同社の安定成長に貢献しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "太洋テクノレックスのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "シャープ株式会社の魅力とビジネスモデルを深堀りして成長戦略を探る",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "エレコム株式会社の成長戦略に迫るビジネスモデルの魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "寺崎電気産業を徹底解説 ビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "I-PEX株式会社のビジネスモデルが生み出す成長戦略の魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは広告看板業界やアパレル市場だけでなく、工業製品の製造工程でプリントを行う企業や、ノベルティ制作を手がける事業者など多岐にわたります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "インクジェット技術が幅広い材料や用途に対応できるという強みを最大限に活かすために、新しい市場へ積極的に進出する姿勢を取ってきたからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした売上増加から得た資金を再度研究開発に回すことにより、より高機能な商品や革新的な技術が生まれ、競争優位を強化していくのです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   },
+   {
+    "quote": "この好循環を途切れさせないために、顧客とのコミュニケーションを密にし、市場の変化に対応する柔軟性を常に維持する姿勢が、同社の強みとなっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ミマキエンジニアリングの成長戦略とビジネスモデルの魅力 | ... — Feb 20, 2025 · 株式会社ミマキエンジニアリングの価値提案は、高品質かつ多機能な印刷ソリューションによって顧客の表現力と生産性を高める点にあります。 自社開発のインクジェット技術を駆使することで、多彩な素材やメディアに対応できる柔軟性を実現しています。",
+    "url": "https://consovation.com/株式会社ミマキエンジニアリングの成長戦略とビ/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング株式会社ミマキエンジニアリング株式会社ミマキエンジニアリング 企業・IR情報ミマキエンジニアリングの本当の強み｜過去最高益を支えるインク収益...株式会社ミマキエンジニアリング — 株式会社ミマキエンジニアリングは、広告看板・工業製品・衣料品市場向けに、産業用大判インクジェットプリンタ、UVプリンタ、カッティングプロッタ、テキスタイルプリンタ、3Dプリンタおよびそのインク、ソフトウェアの開発・製造・販売・保守を行っています。 DTF / UV-DTFプリンタ Mimakiの技術を詰め込んだ「安心安定・高品質」のDTFプリンタと高付加価値の印刷ビジネス創出するUV-DTFプリンタのご紹介 中長期成長戦略 トップメッセージ ミマキってどんな会社？ 企業情報 個人投資家の皆様へ IRライブラリ IRイベント サステナビリティ 動画で知るミマキ 業績・財務情報 株式・",
+    "url": "https://japan.mimaki.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング株式会社ミマキエンジニアリング 企業・IR情報ミマキエンジニアリングの本当の強み｜過去最高益を支えるインク収益...株式会社ミマキエンジニアリング — DTF / UV-DTFプリンタ Mimakiの技術を詰め込んだ「安心安定・高品質」のDTFプリンタと高付加価値の印刷ビジネス創出するUV-DTFプリンタのご紹介 中長期成長戦略 トップメッセージ ミマキってどんな会社？ 企業情報 個人投資家の皆様へ IRライブラリ IRイベント サステナビリティ 動画で知るミマキ 業績・財務情報 株式・社債情報 株主還元・配当 Jun 11, 2026 · 本質は、ミマキが単なる産業用プリンタメーカーではなく、設置されたプリンタからインク・保守・関連消耗品の収益が積み上がるストック型に近い構造を持っている点にある。 市場が評価しているのは、プリンタ本体の販売台数そのものではな",
+    "url": "https://japan.mimaki.com/+/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング — 長期成長ビジョン(目指す姿・ビジネスモデル) • 独自技術を保有し、自社ブランド製品を世界に供給する「開発型企業」を目指します。 • 顧客に満足いただける製品を素早く提供する小回りの利いた会社を目指します。",
+    "url": "https://seichotoushi-hojo.jp/assets/pdf/koufu/outline_68.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "MI30 - 中長期成長戦略 | 株式会社ミマキエンジニアリング 企業・IR情... — フレキシブル有機ELシートにチャレンジ セカンドブランド「ミマキ ラメカニカ」を立ち上げ、プリンタ・カッティングの周辺機器へ進出 3Dプリンタ事業の進化を推進、事業拡大で3Dをコア事業の新たな柱とすべく育成",
+    "url": "https://ir.mimaki.com/about/mi30.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会 | 株式会社ミマキエンジニアリング 企業・IR情報株式会社ミマキエンジニアリング 決算説明資料 — EDINET DB株式会社ミマキエンジニアリング IR資料 — EDINET DBミマキエンジニアリング（66380）のIR情報・決算資料 | IRBANK株式会社ミマキエンジニアリング - 2025年3月期決算 及び 新中長期成...IR情報 | 新着情報 | ミマキ — May 27, 2026 · ホーム ミマキってどんな会社？ 企業情報 業績・財務情報 IRイベント IRライブラリ 株式・社債情報 製品情報 採用情報 長野県東御市滋野乙2182番地3 サイトマップ 当サイトのご利用について・免責事項 プライバシーポリシー クッキーポリシー 本資料の目次。 第4四半期・通期実績、2027年3月期通期予想、資本コストと株価を意識した経営の実現に向けた対応、中長期成長戦略「MI",
+    "url": "https://ir.mimaki.com/event/account",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング IR資料 — EDINET DB — Jun 28, 2026 · EDINET DB > 企業一覧 > 株式会社ミマキエンジニアリング > IR資料 株式会社ミマキエンジニアリング — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。",
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング - 2025年3月期決算 及び 新中長期成... — 株式会社ミマキエンジニアリング (6638 東証PRM) 2025年3月期決算 及び 新中長期成長戦略説明会",
+    "url": "https://vspm.irstreet.com/browse/index.php?code=caRGqV.LjbRE6",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社ミマキエンジニアリング 企業・IR情報 — 2009年3月期 第2四半期決算説明会 2008年3月期 2008年3月期 決算説明会（2008年05月22日開催） 2008年3月期 決算説明会 2008年3月期 中間決算説明会（2007年11月20日開催） 2008年3月期 中間決算説明会 2007年3月期 2007年3月期 決算説明会（2007年05月29日開催） 2007年3月期 ...",
+    "url": "https://ir.mimaki.com/event/account/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング 決算説明資料 — EDINET DB — 本資料の目次。 第4四半期・通期実績、2027年3月期通期予想、資本コストと株価を意識した経営の実現に向けた対応、中長期成長戦略「MI30」進捗、APPENDIXの5部構成。",
+    "url": "https://edinetdb.jp/company/E02114/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ミマキエンジニアリング - Wikipedia — 株式会社ミマキエンジニアリング （英:MIMAKI ENGINEERING CO., LTD.）は、 長野県 東御市 に本社を置くコンピュータ周辺機器の製造販売会社である。 主に産業用の大判 インクジェットプリンター 、 カッティングプロッター などを製造販売している。",
+    "url": "https://ja.wikipedia.org/wiki/ミマキエンジニアリング",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング — 特集 製品導入をご検討の方へ デジタル印刷のメリット ミマキの昇華転写インクジェットプリンタ テキスタイルプリンタ特集 ミマキカッティングソリューションのご提案 動画ギャラリー",
+    "url": "https://japan.mimaki.com/+/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社ミマキエンジニアリング 企業・IR情報 — ホーム > 企業情報 > 会社概要 会社概要",
+    "url": "https://ir.mimaki.com/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社ミマキエンジニアリング 企業・IR情報 — ホーム ミマキってどんな会社？ 企業情報 業績・財務情報 IRイベント IRライブラリ 株式・社債情報 製品情報 採用情報 長野県東御市滋野乙2182番地3 サイトマップ 当サイトのご利用について・免責事項 プライバシーポリシー クッキーポリシー",
+    "url": "https://ir.mimaki.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "6638 ミマキエンジニアリング | 事業内容 - 有価証券報告書-第49期 (2... — Apr 1, 2023 · また、エンドユーザーの属する市場別に分類した事業の内容は次のとおりであります。 (1)SG (サイングラフィックス)市場向け 広告・看板等のサイングラフィックス市場向けの製品群です。",
+    "url": "https://irbank.net/E02114/business?f=S100TLJ2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング 企業・IR情報 — 第16回ミマキまつり開催のご案内（10/10 ミマキエンジニアリング本社：長野県東御市） 2026年8月27日 メディア掲載情報 日本証券新聞の「トップインタビュー」に当社代表取締役社長 CEO 池田和明のインタビューが掲載されました 2026年6月23日 お知らせ",
+    "url": "https://ir.mimaki.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ミマキエンジニアリング - 日本証券新聞 — ミマキエンジニアリング 1-2件 （全2件） Free インタビュー 2026年8月27日 【速報版】トップインタビュー ミマキエンジニアリング 代表取締役社長 CEO 池田和明氏 産業用インクジェットプリンタで世界市場を席捲、長野発グローバル企業の成長戦略とは",
+    "url": "https://www.nsjournal.jp/tag/ミマキエンジニアリング/",
+    "pass": 3
+   },
+   {
+    "quote": "【SP対談】ミマキエンジニアリング（6638・プライム）代表取締役社長 ...＜トップインタビュー⑬＞㈱ミマキエンジニアリング＝東御市滋野乙＝ ...株式会社ミマキエンジニアリング【公式】 on X: \"トップインタビュー ... — Dec 15, 2022 · 今回は、ミマキエンジニアリング（6638・プライム ／代表取締役社長 池田 和明・いけだ かずあき）さまとのスペシャル対談（インタビュー動画 ... Mar 8, 2023 · 独自技術で自社ブランド製品を世界に供給する開発型企業―㈱ミマキエンジニアリング（本社・東御市滋野乙）は、産業用インクジェットプリンタ、カッティングプロッタ、3Dプリンタを手がけ、グローバルに事業を展開。 Aug 27, 2026 · 「産業用印刷のデジタル化を推進する」使命の下、産業用インクジェットプリンタ、カッティングプロッタなどを独自開発してグローバ",
+    "url": "https://www.youtube.com/watch?v=hyI0vmppfkY",
+    "pass": 3
+   },
+   {
+    "quote": "＜トップインタビュー⑬＞㈱ミマキエンジニアリング＝東御市滋野乙＝ ... — Mar 8, 2023 · 独自技術で自社ブランド製品を世界に供給する開発型企業―㈱ミマキエンジニアリング（本社・東御市滋野乙）は、産業用インクジェットプリンタ、カッティングプロッタ、3Dプリンタを手がけ、グローバルに事業を展開。",
+    "url": "https://tjournal.co.jp/corporate/post-3953/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリング【公式】 on X: \"トップインタビュー ... — Aug 27, 2026 · 「産業用印刷のデジタル化を推進する」使命の下、産業用インクジェットプリンタ、カッティングプロッタなどを独自開発してグローバルに事業を展開するミマキエンジニアリング (6638・P)。 広告、看板用 (SG)",
+    "url": "https://x.com/PR_Mimaki/status/2092877152689811549",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://japan.mimaki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/negotiation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/trouble/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/testroom_ip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/testroom_ta/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/opinion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/inquiry/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://japan.mimaki.com/media_lib/supply.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.mimaki.com/event/account",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E02114/ir-docs/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.mimaki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsjournal.jp/tag/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミマキエンジニアリング",
+   "results": [
+    "https://japan.mimaki.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9E%E3%82%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "https://www.instagram.com/mimaki_japan/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrNU",
+    "https://job.mynavi.jp/27/pc/search/corp80697/outline.html",
+    "https://ja.wikipedia.org/wiki/ミマキエンジニアリング",
+    "https://mimaki.com/",
+    "https://japan.mimaki.com/regional-offices.html",
+    "https://ir.mimaki.com/company/profile.html",
+    "https://www.nikkei.com/nkd/company/?scode=6638"
+   ]
+  },
+  {
+   "query": "ミマキエンジニアリング ビジネスモデル",
+   "results": [
+    "https://consovation.com/株式会社ミマキエンジニアリングの成長戦略とビ/",
+    "https://japan.mimaki.com/",
+    "https://japan.mimaki.com/+/",
+    "https://seichotoushi-hojo.jp/assets/pdf/koufu/outline_68.pdf",
+    "https://ir.mimaki.com/about/mi30.html",
+    "https://ir.mimaki.com/",
+    "https://kabutrack.com/strategy/2026/06/11/mimaki-ink-recurring-model.html"
+   ]
+  },
+  {
+   "query": "ミマキエンジニアリング 決算説明資料",
+   "results": [
+    "https://ir.mimaki.com/event/account",
+    "https://edinetdb.jp/company/E02114/ir-docs/",
+    "https://vspm.irstreet.com/browse/index.php?code=caRGqV.LjbRE6",
+    "https://ir.mimaki.com/event/account/list.html",
+    "https://edinetdb.jp/company/E02114/presentations/",
+    "https://irbank.net/66380/ir",
+    "https://japan.mimaki.com/news/ir/"
+   ]
+  },
+  {
+   "query": "ミマキエンジニアリング 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ミマキエンジニアリング",
+    "https://japan.mimaki.com/+/",
+    "https://ir.mimaki.com/company/profile.html",
+    "https://ir.mimaki.com/company/",
+    "https://irbank.net/E02114/business?f=S100TLJ2",
+    "https://japan.mimaki.com/group-companies.html",
+    "https://edinetdb.jp/company/E02114/integrated-reports/"
+   ]
+  },
+  {
+   "query": "ミマキエンジニアリング 社長 インタビュー",
+   "results": [
+    "https://ir.mimaki.com/",
+    "https://www.nsjournal.jp/tag/ミマキエンジニアリング/",
+    "https://www.youtube.com/watch?v=hyI0vmppfkY",
+    "https://tjournal.co.jp/corporate/post-3953/",
+    "https://x.com/PR_Mimaki/status/2092877152689811549",
+    "https://www.nsjournal.jp/トップインタビュー　ミマキエンジニアリング-代/",
+    "https://ir.mimaki.com/company/message.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

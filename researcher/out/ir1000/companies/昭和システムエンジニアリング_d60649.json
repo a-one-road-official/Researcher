@@ -1,0 +1,1818 @@
+{
+ "name": "昭和システムエンジニアリング",
+ "aliases": [],
+ "context": "証券コード4752／情報・通信業／スタンダード（内国株式）／2026.03期 売上高8,731百万円 営業利益率11.7%",
+ "researched_at": "2026-11-02T20:10:24.739260+00:00",
+ "official_url": "https://www.showa-sys-eng.co.jp/",
+ "identified_by": "search:yahoo_jp:昭和システムエンジニアリング",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1966年4月（昭和41年）",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "87億3,085万円（2026年3月期）",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "526名（2026年10月1日現在）",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・情報システムの開発 ・システムインテグレーション・サービス ・情報システムの開発・運用に関するコンサルティング ・BPOサービス",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様とともに６０年",
+    "url": "https://www.showa-sys-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術力とお客様の業務への深い理解を強みに最適なソリューションを提供し、新たな価値の創出に貢献してまいります",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "時代とともに金融サービスが多様化する中、顧客利便性の向上や業務効率化はもちろん、顧客の資産を守るセキュリティ強化など、システムに求められる役割はますます拡大しています",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、確かなシステム構築力と最新技術への対応力を両立させながら、お客様のビジネス成長を強力にサポートするとともに、これからの社会を支える新たなシステム開発を通じて、より豊かな金融インフラの構築に貢献いたします",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客手続きサポート、事務手続き支援",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報管理、帳票出力、自動照合システム",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点業務のデジタル化・UX向上支援",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティング・顧客分析",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ収集・整形、営業支援資料の自動生成",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "生保会社向けソリューションにおいては、各種申請業務のイメージワークフロー化、査定業務の自動化や、新商品開発の短縮化に繋がるシステム開発をお客様と共に実現してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、損保会社向けソリューションでは、自動車保険代理店向けシステム開発を始め、顧客のマーケティング戦略を支える顧客管理システムの開発実績がございます",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "最近では、顧客DXへの取り組みとしてのデータ利活用基盤構築にも携わっております",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客管理システム",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "契約・顧客データ登録、名寄せ、検索機能の開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "それらの実績を生かして勘定系システムの再構築や市場系システムのシステム統合をお客様とともに実現してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報管理、遺言管理の開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、SAP🄬 ERPをはじめとし、様々な業界や企業規模に応じたERPパッケージ導入をお客様と共に業務最適化を図りながら実現してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に応じて導入コンサルティングから開発、移行、運用保守まで幅広くご支援させて頂きます",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は長年に渡り、さまざまな業界・業種のお客様と共にソリューション構築によってロジスティクスの最適化を支援してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "昨今の急速な市場環境の変化に伴い、消費者のニーズは更に多様化していく中サプライチェーンのグローバル化対応をはじめ、更なるサービスの迅速化を支援する最適なソリューションをお客様と共に実現致します",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はコア業務に集中し、煩雑で時間のかかるノンコア業務はお任せ下さい",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": " その結果、顧客のシステ ム投資需要を捉え、当中期会計期間の業績は堅調",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 顧客のシステム投資需要を捉え、売上高、",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " サービス・公共分野においても顧客のシステ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 顧客の課題解決に貢献",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、当中間会計期間の売上高は顧客のシステム投資需要を捉え、4,570百万円（前年同期比9.4％増）と",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、当第１四半期累計期間の売上高は顧客のシステム投資需要を捉え、売上高2,262百万円（前年同期比",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "含め論議したうえで取引先の株式を政策的に保有する方針でおります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、「顧客満足度向上の追求」「魅力ある人間の育成」「社会への貢献」を経営理念として掲げ事業を展開してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "念を踏まえ、これまでに蓄積したナレッジを武器に提案力と最先端ICT技術を駆使したKnowledgeIntegratorとして顧客サービスを一層向上させる",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テムを導入し、顧客への見積書提出から受注・開発・納品、パートナー企業への発注等一連の業務の正当性確認を行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに顧客や",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は「顧客満足度向上の追究」、「魅力ある人間の育成」、「社会への貢献」を経営理念として掲げ事業を展",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供するKnowledge Integratorとして、ITを通じて顧客と社会のインフラを支えていくことを経営の基本方針とし",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ネスの既存領域とDX領域で顧客への最適な提案を行うことで事業の拡大を図ってまいります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れまで長年にわたり培ってきたナレッジ・技術力・顧客基盤を最大限に活用しながら、生成AIをはじめとする先",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "端技術を積極的に取り入れることで、質の高いサービスの提供と顧客の課題解決への貢献を推進してまいりま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、「顧客満足度の追求」、「魅力ある人間の育成」、「社会への貢献」の経営理念に基づき、社会にと",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客企業のIT投資動向が大きく変化した場合や、同業者間の価格競争が当社予想を大幅に超える水準で推移した",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当リスクに対しては、顧客動向をいち早くキャッチし速やかに対策するために、顧客の経営層をはじめとするキ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また業界動向および同業他社の動向に注視しつつ、当社が持つナレッジに磨きをかけて顧客のさらなる期待に応",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 主要顧客のＭ＆Ａ等による経営体制、方針の変更",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客のIT投資はその経営方針等に直結しており、Ｍ＆Ａ等による経営方針等の変化によっては、投資優先度",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当リスクに対しては、主要顧客との情報共有に努めるとともに、取引先が過度に集中することなくバランスを意",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社自らは個人情報の収集はしてはおりませんが、顧客から委託された個人情報等の漏洩、毀損事故が発生すれ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・既存ビジネス領域の維持・拡大については、主要顧客の重点投資領域に沿って積極的な提案活動を行い、多岐",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソフトウエア開発事業は、市場および顧客の動向を睨んだ提案活動を実施し、人材の育成・確保および生",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役員・社員が、公正さと高い倫理観と責任感をもち、お客様、取引先、社会の信頼に応えるため５つの行動",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指針（顧客満足の向上、社員の人格・個性を尊重、コンプライアンスの徹底、反社会的行為への関与の禁止、",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "やリスクが見合っているかを含め論議したうえで取引先の株式を政策的に保有する方針でおります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客と約束した財（有形商品等）又はサービス（役務提供による無形商品等）の支配が顧客に移転した時",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該SEサービス契約においては、当社が顧客との契約における義務を履行するにつれ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "・システムインテグレーション・サービス",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・BPOサービス",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "BPOサービス関連",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人 情報サービス産業協会",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションビジネス",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIをはじめとする最新テクノロジーの進展により、ITサービスはかつてないスピードで進化を続けています",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は半世紀以上の実績を持つシステムインテグレーターとして、証券、銀行、保険等の金融分野から、製造、流通、サービス業まで幅広い業界を支援してきました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術力とお客様の業務への深い理解を強みに最適なソリューションを提供し、新たな価値の創出に貢献してまいります",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "証券ソリューション",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "時代とともに金融サービスが多様化する中、顧客利便性の向上や業務効率化はもちろん、顧客の資産を守るセキュリティ強化など、システムに求められる役割はますます拡大しています",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "保険ソリューション",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "その重要な役割を担う保険業界では、再編による統合やライフサイクルの早い商品開発に注力しており、当社は柔軟にサポートしてまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "生保会社向けソリューションにおいては、各種申請業務のイメージワークフロー化、査定業務の自動化や、新商品開発の短縮化に繋がるシステム開発をお客様と共に実現してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、損保会社向けソリューションでは、自動車保険代理店向けシステム開発を始め、顧客のマーケティング戦略を支える顧客管理システムの開発実績がございます",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "銀行ソリューション",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラとしての重要性が非常に高い銀行ソリューションの開発、維持管理に携わってまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社が長年に渡り培ってきた証券業務ノウハウを活かし、投資信託の資金管理システム等、銀行の証券業務向けソリューションにも従事しております",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ERPパッケージソリューション",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロジスティクスソリューション",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は長年に渡り、さまざまな業界・業種のお客様と共にソリューション構築によってロジスティクスの最適化を支援してまいりました",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "昨今の急速な市場環境の変化に伴い、消費者のニーズは更に多様化していく中サプライチェーンのグローバル化対応をはじめ、更なるサービスの迅速化を支援する最適なソリューションをお客様と共に実現致します",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションビジネス 営業窓口",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "BPO（事務代行）サービス",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では金融業の事務代行を主軸としたBPOソリューションを提供しております",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "BPO・RPAソリューション",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "常駐サービス（オンサイト）",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "帳票電子化サービス",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託サービス（オフサイト）",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャンペーンの抽選サービス",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "・システ ムインテグレーション・サービス",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ＢＰＯサービス",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス・公共",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 主力の金融分野では、証券・保険の売上高が",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " サービス・公共分野においても顧客のシステ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "流通・小売 製造 サービス・公共 保険 銀行 証券",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が属する情報サービス産業においては、生成AIの実装本格化とデータセンターに代表されるインフラ需要",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SEサービス 3,863,371 37,326 3,900,698 － 3,900,698",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SEサービス 4,252,768 40,997 4,293,765 － 4,293,765",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が属する情報サービス産業においては、AIの社会実装の本格化も踏まえたDXの進展と基幹システムの刷新",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SEサービス 1,917,459 19,029 1,936,488 － 1,936,488",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SEサービス 2,130,463 20,982 2,151,445 － 2,151,445",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、企業型確定拠出年金制度に関わる継続教育の一環として、確定拠出年金サポートサイトにて各商品の月々の運用実績やレポートの提供を",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "念を踏まえ、これまでに蓄積したナレッジを武器に提案力と最先端ICT技術を駆使したKnowledgeIntegratorとして顧客サービスを一層向上させる",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日興システムソリューションズ株式会社",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業務部門は、ソフトウェア開発事業、BPO事業の事業部門からなり、これをソリューションサービス事業本部が統括しております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一般社団法人情報サービス産業協会によるプライバシーマーク付与審査を２年に１回受けております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1979年４月 汎用中型コンピュータ「ＯＵＫ 9400」２号機を増設、受託計算業務及びソフトウエア開発業務の主力",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年４月 本格的な総合情報サービス企業を目指し、商号を株式会社昭和システムエンジニアリングに変更",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "発・保守など、基盤領域を含むソフトウエア開発の全領域に対応した総合的なサービスを行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融機関向け事務代行、健康診断予約代行、スキャニングサービスなど、業種を問わず様々な業務支援を行って",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後もこの経営理念を踏まえ、長年にわたって培ってきたナレッジを基に、最適かつ高度なITソリューションを",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が属する情報サービス産業は、AIの社会実装の本格化も踏まえたDXの進展と基幹システムの刷新が加速し、",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "端技術を積極的に取り入れることで、質の高いサービスの提供と顧客の課題解決への貢献を推進してまいりま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "性および品質の高い開発体制を確立するとともに、高付加価値なサービスの提供を進めてまいります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が属する情報サービス産業においては、生成AIやクラウドなどDX分野を中心に新たな投資が拡大するとと",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日興システムソリューションズ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．グループ内再編に伴い日興システムソリューションズ株式会社は、2026年４月１日付で",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場金融商品取引所名又は登",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "録認可金融商品取引業協会名 内容",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1966年4月（昭和41年）",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間会計期間 業績レビュー",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 業績見通し",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1966年4月（昭和41年） 設立",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間会計期間",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 2027年3月期 400",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 2027年3月期 2026年3月期 2027年3月期",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 中間会計期間",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 中間会計期間",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 3 ⽉期",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年 3 ⽉期",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年 3 ⽉期中間会計期間",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期期末 2027年3月期中間期",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期期末 2027年3月期中間期 2026年3月期期末 2027年3月期中間期",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期通期予想 （前年同期）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期実績 前年同期比 通期予想",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 4,570 9.4 667 10.2 683 10.7 464 8.2",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期中間期 4,178 3.6 606 10.8 617 11.1 429 12.4",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 108.60 －",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期中間期 100.35 －",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 9,299 6,193 66.6",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 9,372 5,904 63.0",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 － 0.00 － 66.00 66.00",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 － 0.00",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期（予想） － 61.00 61.00",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期の通期業績予想につきましては、2026年５月14日に発表いたしました業績予想数値に変更はありま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年8 月28 日",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/chinginkaitei_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月給与より",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/chinginkaitei_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月12日",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 2,262 9.6 338 17.5 350 17.7 238 13.8",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 2,063 5.4 288 16.8 297 16.9 209 19.6",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 55.72 －",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 48.95 －",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 8,908 5,874 65.9",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 9,372 5,904 63.0",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 － 0.00 － 66.00 66.00",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 －",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期（予想） 0.00 － 61.00 61.00",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期の通期業績予想につきましては、2026年５月14日に発表いたしました業績予想数値に変更はありま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期における当社の取締役及び監査役に対する役員報酬は次のとおりです",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 【沿革】………………………………………………………………………………………………………… 3",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1966年４月 コンピュータの入力データ作成業務及びコンピュータによる計算業務の受託を目的として、株式会社昭",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1968年７月 業容の拡大に伴い、本社を東京都千代田区岩本町に移転",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1969年８月 本格的な計算センター業務への参入のため、汎用コンピュータ「ＯＵＫ 1040」を導入",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1973年９月 受託計算業務の増大及びソフトウエア開発業務への参入のため、汎用コンピュータ「ＯＵＫ1040」を増",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1976年11月 受託計算業務の増大に伴い汎用中型コンピュータ「ＯＵＫ 9400」１号機を設置",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1979年４月 汎用中型コンピュータ「ＯＵＫ 9400」２号機を増設、受託計算業務及びソフトウエア開発業務の主力",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年４月 受託計算業務のオンライン化及びソフトウエア開発業務拡大に伴い、新世代汎用コンピュータ「ＵＮＩ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1982年９月 日本ユニバック株式会社（現ＢＩＰＲＯＧＹ株式会社）向けの各種ソフトウエア開発を目的として、同",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "また、損保会社向けソリューションでは、自動車保険代理店向けシステム開発を始め、顧客のマーケティング戦略を支える顧客管理システムの開発実績がございます",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車保険代理店システム",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店システム",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "WEB-EDI構築、センター・店舗間の出荷管理",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナー募集 窓口",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": " ビジネスパートナーとの連携強化を図り市場からの人材要請に対応",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " ビジネスパートナーとの連携強化によ る、案件参画",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に重要な経営資源である人材の強化を積極的に進め、ビジネスパートナーとの連携も",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に重要な経営資源である人材の強化を積極的に進め、ビジネスパートナーとの連携も",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬等の特に重要な検討事項におきましても、社外取締役2名と社外監査役2名（うち独立社外監査役1名）の社外役員4名から適切な助言",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ⅳ）取締役会が経営陣幹部の選解任と取締役・監査役候補の指名を行うに当たっての方針と手続",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会は、経営陣幹部の選任と取締役・監査役の指名について実績・資質等を勘案のうえ、経営会議の審議結果を踏まえ決議いたします",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ⅴ）取締役会が上記（ⅳ）を踏まえて経営陣幹部の選解任と取締役・監査役候補の指名を行う際の、個々の選解任・指名についての説明",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、取締役及び監査役の選任・指名につ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の実効性を確保するために必要な人数や多様性に関する構成を踏まえたうえで指名を行っており、取締役・監査役候補者の選定基準を満たして",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テムを導入し、顧客への見積書提出から受注・開発・納品、パートナー企業への発注等一連の業務の正当性確認を行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー企業との基本契約や情報セキュリティ契約等の妥当性確認を行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "併せてビジネスパートナーとの連携も拡充し、ビジ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あわせて、パートナー強化室が主導するビジネスパートナー各社との戦略的連携を深化させ、エコシステムの",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.bbreak.co.jp/maeyes/case/interview5.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://www.bbreak.co.jp/maeyes/case/interview5.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "データ分析基盤の構築・保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "BI保守・エンハンス対応",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械学習モデルおよびMLパイプラインの運用保守・品質モニタリング",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引清算・決済照合ツール、手数料計算、自動照合の効率化",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "イメージワークフローシステムから基幹業務システムの新規開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "契約・異動、保険料計算画面の開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "契約・顧客データ登録、名寄せ、検索機能の開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ODS（オペレーショナルデータストア）、DWH（データウェアハウス）環境の開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "加入システムの開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業店デリバティブシステムの開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "資産管理システム、不動産総合管理システムの開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報管理、遺言管理の開発・維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "投信窓販システムの維持保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に応じて導入コンサルティングから開発、移行、運用保守まで幅広くご支援させて頂きます",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "経営・業務支援の統合管理システム保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "GLOVIA Process C1保守",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "受取手数料 212 198",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手数料 107 99",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．取締役の役員報酬限度額は、1992年6月19日開催の株主総会決議において、年額180,000千円以内(ただし、使用人分給与は含まない",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．監査役の報酬限度額は、1989年5月27日開催の株主総会決議において年額20,000千円以内と決議いただいております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業績連動報酬は、代表取締役社長が年度業績との連動を鑑み、当社内部規定に定める役位ランク基準に基づき各々の月額固定報酬額に乗じた",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "発・保守など、基盤領域を含むソフトウエア開発の全領域に対応した総合的なサービスを行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "a. 取締役の報酬限度額は、1992年６月19日開催の第26回定時株主総会において年額1億8千万円以内(ただし、",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "b. 監査役の報酬限度額は、1989年５月27日開催の第23回定時株主総会において年額2千万円以内と決議いただ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "づき各々の月額固定報酬額に乗じた月数を算定し、下記の支給基準①②に則り、支給の範囲(案)を経営会議",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 24,273 33,723",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手数料 449 415",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そしてMA-EYESは内部統制に対応し、低コストで充実した保守体制の仕組みがあることなどから採用を決定しました",
+    "url": "https://www.bbreak.co.jp/maeyes/case/interview5.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "高度な技術力とお客様の業務への深い理解を強みに最適なソリューションを提供し、新たな価値の創出に貢献してまいります",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "この業界全体を見渡せる幅広い知見と長年培ってきた開発実績が当社の強みです",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産在庫システム",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "需要予測、生産計画、在庫計画の開発支援",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "受注、出荷、在庫管理システムの開発支援",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫管理、契約管理、ロイヤリティ管理",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "+0.1pt 14.6% 14.5% 営業利益率",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "７ ３．業種別売上比率（全社）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１０ （２）セグメント別業績推移",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 業種別売上比率（全社）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）セグメント別業績推移",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 862,887 5,103 867,991 △261,935 606,055",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 949,336 6,639 955,975 △288,068 667,907",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△261,935千円は、報告セグメントに帰属しない販売費及び一般管理費でありま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間損益計算書の営業利益と調整を行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△288,068千円は、報告セグメントに帰属しない販売費及び一般管理費でありま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 6",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 413,586 2,595 416,181 △127,738 288,443",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 463,971 3,420 467,391 △128,538 338,852",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△127,738千円は、報告セグメントに帰属しない販売費及び一般管理費でありま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期損益計算書の営業利益と調整を行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△128,538千円は、報告セグメントに帰属しない販売費及び一般管理費でありま",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は次の２つのセグメントを主たる事業としております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお当事業年度におけるセグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 金額（千円） 前期比（％）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 受注高（千円） 前期比（％） 受注残高（千円） 前期比（％）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度の受注実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数（人）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりであ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,465,609 12,454 1,478,063 △529,244 948,818",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 16,824 19 16,843 8,659,947 8,676,791",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、財務諸表作成において採用している会計処理の方",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報及び収益の",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) セグメント利益の調整額△529,244千円は、報告セグメントに帰属しない販売費及び一般管理費であ",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント資産の調整額、減価償却費の調整額、有形固定資産及び無形固定資産の増加額の調整額",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、「４．報告セグメント合計額と財務諸表計上額との差額及び当該差額の主な内容（差異調整に",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、損益計算書の営業利益と調整を行っております",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,576,636 11,373 1,588,010 △563,061 1,024,948",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 14,368 19 14,387 9,358,177 9,372,565",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ソリューション ビジネス - 昭和システムエンジニアリング — ソリューション ビジネス - 昭和システムエンジニアリング 株式会社 昭和システムエンジニアリング https://www.showa-sys-eng.co.jp > solution",
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルトランスフォーメーション（DX） — デジタルトランスフォーメーション（DX） 株式会社 昭和システムエンジニアリング https://www.showa-sys-eng.co.jp > solution_dx",
+    "url": "https://www.showa-sys-eng.co.jp/solution_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 昭和システムエンジニアリング 【東証スタンダード市場 ... — (株) 昭和システムエンジニアリング 【東証スタンダード市場 ... マイナビ https://job.mynavi.jp > search > corp11206 > premium",
+    "url": "https://job.mynavi.jp/27/pc/search/corp11206/premium.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 昭和システムエンジニアリング の企業情報 — 株式会社 昭和システムエンジニアリング の企業情報 キャリタス就活 https://job.career-tasu.jp > corp",
+    "url": "https://job.career-tasu.jp/corp/00010133/",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料 - 株式会社 昭和システムエンジニアリング — 決算資料 - 株式会社 昭和システムエンジニアリング 株式会社 昭和システムエンジニアリング https://www.showa-sys-eng.co.jp > ir_info_kessan",
+    "url": "https://www.showa-sys-eng.co.jp/ir_info_kessan.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 昭和システムエンジニアリング IR 資料 - EDINET DB — 株式会社 昭和システムエンジニアリング IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > company > ir-docs",
+    "url": "https://edinetdb.jp/company/E05075/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和システムエンジニアリング [4752]：2027年 ... - 日本経済新聞 — 昭和システムエンジニアリング [4752]：2027年 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261028557398/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 決算説明資料 - 昭和システムエンジニアリング — 2025年3月期 決算説明資料 - 昭和システムエンジニアリング 株式会社 昭和システムエンジニアリング PDF https://www.showa-sys-eng.co.jp > pdf",
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2025/kessansetumei_202503_4Q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和システムエンジニアリング （4752）のIR情報・ 決算資料 — 昭和システムエンジニアリング （4752）のIR情報・ 決算資料 IRBANK https://irbank.net > 昭和システムエンジニアリング",
+    "url": "https://irbank.net/4752/ir",
+    "pass": 3
+   },
+   {
+    "quote": "会社組織図 - 昭和システムエンジニアリング — 会社組織図 - 昭和システムエンジニアリング 株式会社 昭和システムエンジニアリング https://www.showa-sys-eng.co.jp > company_sosikizu",
+    "url": "https://www.showa-sys-eng.co.jp/company_sosikizu.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 昭和システムエンジニアリング — 会社概要 - 株式会社 昭和システムエンジニアリング 株式会社 昭和システムエンジニアリング https://www.showa-sys-eng.co.jp > company",
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 昭和システムエンジニアリング — 株式会社 昭和システムエンジニアリング finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240401/20240401564017.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 昭和システムエンジニアリング IR資料 - EDINET DB — 株式会社 昭和システムエンジニアリング IR資料 - EDINET DB EDINET DB https://edinetdb.jp > company > ir-docs",
+    "url": "https://edinetdb.jp/company/E05075/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和システムエンジニアリング と電算システムの比較 「社員 ... — 昭和システムエンジニアリング と電算システムの比較 「社員 ... OpenWork https://www.openwork.jp > compa",
+    "url": "https://www.openwork.jp/a0910000000Fr7N/compa/a0910000002WixM/",
+    "pass": 3
+   },
+   {
+    "quote": "人事、 昭和システムエンジニアリング - 日本経済新聞 — 人事、 昭和システムエンジニアリング - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに - 昭和システムエンジニアリング 新卒採用サイト — はじめに - 昭和システムエンジニアリング 新卒採用サイト 株式会社 昭和システムエンジニアリング https://recruit.showa-sys-eng.co.jp > about > introduction",
+    "url": "https://recruit.showa-sys-eng.co.jp/about/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "昭和システムエンジニアリング の 社長 と経営方針【代表 : 尾崎 ... — 昭和システムエンジニアリング の 社長 と経営方針【代表 : 尾崎 ... 転職会議 https://jobtalk.jp > ... > 社長と経営方針の口コミ",
+    "url": "https://jobtalk.jp/companies/1525/answers/8992551",
+    "pass": 3
+   },
+   {
+    "quote": "（人事・情報・通信） 昭和システムエンジニアリング — （人事・情報・通信） 昭和システムエンジニアリング 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO97041770Z10C26A6DTC000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.showa-sys-eng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/ir_info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/solution.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessansetumei_202703_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/chinginkaitei_20260831.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/kessantansin_202703_1Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/corporate_governance_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/soukai_60th_rinjihoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/pdf/2026/torishimariyaku_henko_20260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/pickup/business_dx.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/business_lineup/business_securities.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/business_lineup/business_insurance.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/business_lineup/business_bank.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/business_lineup/business_erp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/business_lineup/business_logistics.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.showa-sys-eng.co.jp/img/business_lineup/business_bpo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://edinetdb.jp/company/E05075/ir-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bbreak.co.jp/maeyes/case/interview5.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "昭和システムエンジニアリング",
+   "results": [
+    "https://www.showa-sys-eng.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp11206/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fr7N",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4752",
+    "https://syukatsu-kaigi.jp/companies/108866",
+    "https://www.showa-sys-eng.co.jp/company_aisatu.html",
+    "https://finance.yahoo.co.jp/quote/4752.T/profile",
+    "https://finance.yahoo.co.jp/quote/4752.T",
+    "https://www.traders.co.jp/stocks/62_4752/",
+    "https://shikiho.toyokeizai.net/stocks/4752/corporate"
+   ]
+  },
+  {
+   "query": "昭和システムエンジニアリング ビジネスモデル",
+   "results": [
+    "https://www.showa-sys-eng.co.jp/solution.html",
+    "https://www.showa-sys-eng.co.jp/solution_dx.html",
+    "https://job.mynavi.jp/27/pc/search/corp11206/premium.html",
+    "https://job.rikunabi.com/selection/job_descriptions/80c60251d4f03cdb",
+    "https://job.career-tasu.jp/corp/00010133/",
+    "https://www.bbreak.co.jp/maeyes/case/interview5.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr7N&q_no=9",
+    "https://job.mynavi.jp/27/pc/search/corp11206/outline.html",
+    "https://kabu-ir.com/article/520739239.html",
+    "https://consovation.com/昭和システムエンジニアリングのビジネスモデル/"
+   ]
+  },
+  {
+   "query": "昭和システムエンジニアリング 決算説明資料",
+   "results": [
+    "https://www.showa-sys-eng.co.jp/ir_info_kessan.html",
+    "https://edinetdb.jp/company/E05075/ir-docs/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261028557398/",
+    "https://www.showa-sys-eng.co.jp/pdf/2025/kessansetumei_202503_4Q.pdf",
+    "https://irbank.net/4752/ir",
+    "https://investalk.jp/4752/showa-sys-2026-03-earnings/",
+    "https://www.showa-sys-eng.co.jp/ir_info_calendar.html",
+    "https://www.buffett-code.com/company/4752/library",
+    "https://www.showa-sys-eng.co.jp/ir_info.html",
+    "https://edinetdb.jp/company/E05075/presentations/"
+   ]
+  },
+  {
+   "query": "昭和システムエンジニアリング 事業系統図",
+   "results": [
+    "https://www.showa-sys-eng.co.jp/company_sosikizu.html",
+    "https://www.showa-sys-eng.co.jp/company.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240401/20240401564017.pdf",
+    "https://edinetdb.jp/company/E05075/ir-docs/",
+    "https://www.openwork.jp/a0910000000Fr7N/compa/a0910000002WixM/",
+    "https://job.mynavi.jp/28/pc/search/corp11206/outline.html",
+    "https://www.showa-sys-eng.co.jp/pdf/2026/annual_securities_report_60th.pdf",
+    "https://www.buffett-code.com/company/4752/",
+    "https://www.showa-sys-eng.co.jp/",
+    "https://www.showa-sys-eng.co.jp/company_aisatu.html"
+   ]
+  },
+  {
+   "query": "昭和システムエンジニアリング 社長 インタビュー",
+   "results": [
+    "https://www.nikkei.com/article/DGXZTSJD40501_T10C24A3000000/",
+    "https://www.bbreak.co.jp/maeyes/case/interview5.html",
+    "https://recruit.showa-sys-eng.co.jp/about/introduction",
+    "https://jobtalk.jp/companies/1525/answers/8992551",
+    "https://www.nikkei.com/article/DGKKZO97041770Z10C26A6DTC000/",
+    "https://job.mynavi.jp/27/pc/search/corp11206/outline.html",
+    "https://www.showa-sys-eng.co.jp/company_aisatu.html",
+    "https://www.openwork.jp/a0910000000Fr7N/compa/a0C10000013fEA4/",
+    "https://www.ullet.com/4752/official.html",
+    "https://the-shashi.com/tse/4752/ceo/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式4頁／PDF・画像15件／外部3頁・検索5回）"
+ }
+}

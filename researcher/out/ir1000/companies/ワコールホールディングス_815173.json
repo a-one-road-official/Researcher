@@ -1,0 +1,2576 @@
+{
+ "name": "ワコールホールディングス",
+ "aliases": [],
+ "context": "証券コード3591／繊維製品／プライム（内国株式）／2026.03期 売上高171,510百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:19:52.829738+00:00",
+ "official_url": "https://www.wacoalholdings.jp/",
+ "identified_by": "search:yahoo_jp:ワコールホールディングス",
+ "profile": {
+  "売上高": [
+   {
+    "label": "新規事業の売上高",
+    "value": "2,000百万円",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "label": "海外主要国の売上高",
+    "value": "米国396億円、欧州428億円、中国86憶円",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "2,170億",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上収益",
+    "value": "2,010億",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上収益",
+    "value": "1,715億",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上収益（単位",
+    "value": "億円） 売上総利益率（粗利率） 販管費率 事業利益（単位：億円）",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "1738億9600万円（連結、2025年3月期）",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "label": "・新規事業の売上高",
+    "value": "2,000百万円",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   },
+   {
+    "label": "・海外主要国の売上高",
+    "value": "米国396億円、欧州428億円、中国86億円",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1946（昭和21）年6月15日 塚本幸一が、復員直後に婦人洋装装身具の卸商として和江商事を創業",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "label": "創立",
+    "value": "1949（昭和24）年11月1日 資本金100万円、従業員10名で和江商事株式会社を創立",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1946年",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "子会社47社及び関連会社7社で構成され、インナーウェア（主にファンデーション、ランジェリー及びナイトウェア）、アウターウェア、スポーツウェア、その他の繊維製品及び関連製品の製造、卸売及び製品の消費者への小売を主な事業としており、更にその他の事業として、飲食・文化・サービス等の事業を展開しています。",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14,784人（連結）※2026年3月末現在",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1万6124名（連結、2025年3月現在）",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（人）",
+    "value": "平均年齢（歳） 平均勤続年数（年） 平均年間給与（円） 平均年間給与の 対前事業年度増減率 （％）",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "従業員ひとりひとりの成長と、働きがいの高い組織の構築",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "「VISION 2030」では、「高い感性と品質で、ひとりひとりのからだとこころに、美しさと豊かさを提供し、『世界のワコールグループ』として進化・成長する」ことを中長期的に目指す姿として掲げ、「国内の収益性向上と事業領域拡大」「海外事業の拡大と高収益構造への変革」「グループ経営力の強化」「資本効率の高い経営への転換」に取り組むことで、持続的な成長と企業価値の向上を実現します",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "その実現に向け、本中期経営計画では、「国内の収益性向上と事業領域拡大」「海外事業の拡大と高収益構造への変革」「グループ経営力の強化」「資本効率の高い経営への転換」の4つを重点戦略として推進します",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "その実現に向け、本中期経営計画では、「国内の収益性向上と事業領域拡大」「海外事業の拡大と高収益構造への変革」「グループ経営力の強化」「資本効率の高い経営への転換」の4つを重点戦略として推進します",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の再構築では、インナーウェア事業を中心に収益構造改革を進めるとともに、ボディデータを活用したソリューションビジネスの展開やコンディショニングウェア事業の拡大、D2Cの強化などを通じて競争力向上を図ります",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "海外事業の拡大と高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル | ワコールグループについて | ワコールホールディングス",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "地方の下着小売店と協業する、新ビジネスモデル「ワコールガーデン」～8店舗目となる上越店が2016年12月5日にオープン～",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/monthlydata/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/welcome/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/general_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "地方の下着小売店と協業する、新ビジネスモデル「ワコールガーデン」～8店舗目となる上越店が2016年12月5日にオープン～",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/notes/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/fandq/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/library/ar/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールのビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールが外部環境の変化に対して、市場が求めるビジネスモデル",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（収益構造改革・資本効率の改善）",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益構造への変革サステナビリティ",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とともに、高収益構造への変革を実現する",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 要員計画マネジメントやその他子会社の損益改善など収益構造改革の推進を継続",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル改革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●不採算事業の構造的な見直し ●ビジネスモデル改革の継続",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マーケット環境の変化に応じて収益構造を変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各社共通 ・EC中心のビジネスモデルへの転換による在庫効率化",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●海外事業の拡大と高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワコールホールディングスが挑む新ビジネスモデル | タナベコンサルティング｜メディアサイト「TCG REVIEW」",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "quote": "ワコールホールディングスが挑む新ビジネスモデル",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "quote": "当時、同社のビジネスモデルは小売店を介して消費者に商品を届ける卸ビジネス、いわゆるBtoBtoCが中心であり、直接的な顧客接点が築きにくい状況だった",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "quote": "データを活用したワコールのDXは、これまで見てきたように新たなビジネスモデルの創造にもつながっている",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "quote": "・国内ではEC事業拡大と強化によるビジネスモデルの変革を図り、店舗の売上減少をECでカバーできる販売体制を構築",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "当社には、これまでの長年にわたる人間科学研究開発センターでのこころとからだの研究データに加え、「SCANBE（スキャンビー）」によって得られたボディデータ、店舗やECサイトに寄せられたお客さまの声や購買情報、販売員の接客知見など、多くの情報資産が蓄積されています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "現在14店舗（2025年4月時点）でサービスを展開し、新たな価値創出につながっています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗×EC（OMO）",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月にOMO型店舗「WACOAL is」を開設しました",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "この店舗では、試着や素材確認、コンサルティングなど、店舗ならではの付加価値を提供するとともに、ECサイトの持つ情報量や利便性、各種コンテンツとの連携を強化しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱ワコールは、上記製品の企画・デザインと原材料調達を行い、国内外の縫製会社及びその他の協力工場から仕入れた半製品の検査を経て製品化し、国内百貨店、量販店及びその他一般小売店、また直営店舗、Eコマース（EC）サイトや国内外の販売会社を通じて、それぞれ最終消費者へ供給しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "販売会社は、WACOAL SINGAPORE PRIVATE LTD.、EVEDEN ISRAEL LTD.等子会社6社と関連会社1社であり、主としてグループ内より供給を受けたインナーウェアの製品をそれぞれ現地の百貨店、専門小売店、直営店舗を通じて最終消費者へ供給しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ワコール、企業理念や未来への想いを込めた「会社紹介動画」を公開",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたの1アクションが寄付につながる！ワコールグループ『ピンクリボンキャンペーン』を全国約1,000店舗とウェブで同時開催",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・ワコールウェブストアで 10月1日（日）よりスタート！地球環境にやさしいアクション「ワコールブラリサイクル」キャンペ ーン",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナーシップ構築宣言」を公表",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ECビジネスの成長強化と発送業務の効率化に向けて、物流倉庫を一元化",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "相互信頼と協働に基づくCSR調達・緊密なパートナーシップ構築（その２）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "相互信頼と協働に基づくCSR調達・緊密なパートナーシップ構築（その２）「ルシアン」と「ピーチ・ジョン」の製造委託先の工場リスト公開 ～サプライチェーンの透明性を高め、委託先と協力し社会的責任を果たしていく～",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールとデサント 包括的業務提携契約を締結―新しいライフスタイルの創造を目指した戦略的パートナーシップの構築―(説明会資料付）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "～店舗におけるお客様サービスをデジタル技術で革新～インナーウェア体験の未来を創るさまざまなサービスを提供するオムニチャネル戦略を加速",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "相互信頼と協働に基づくCSR調達・緊密なパートナーシップ構築 「ワコール」と「ウイング」ブランドの製造委託先の工場リストを公開～サプライチェーンの透明性を高め、協力して社会的責任を果たしていく～",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "地方の下着小売店と協業する、新ビジネスモデル「ワコールガーデン」～8店舗目となる上越店が2016年12月5日にオープン～",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/monthlydata/",
+    "pass": 1
+   },
+   {
+    "quote": "■店舗計（専門店・直営店等含む）",
+    "url": "https://www.wacoalholdings.jp/ir/monthlydata/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/welcome/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗ではご利用できません",
+    "url": "https://www.wacoalholdings.jp/ir/welcome/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/general_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ワコール、企業理念や未来への想いを込めた「会社紹介動画」を公開",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "あなたの1アクションが寄付につながる！ワコールグループ『ピンクリボンキャンペーン』を全国約1,000店舗とウェブで同時開催",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・ワコールウェブストアで 10月1日（日）よりスタート！地球環境にやさしいアクション「ワコールブラリサイクル」キャンペ ーン",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナーシップ構築宣言」を公表",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "自社ECビジネスの成長強化と発送業務の効率化に向けて、物流倉庫を一元化",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "相互信頼と協働に基づくCSR調達・緊密なパートナーシップ構築（その２）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "相互信頼と協働に基づくCSR調達・緊密なパートナーシップ構築（その２）「ルシアン」と「ピーチ・ジョン」の製造委託先の工場リスト公開 ～サプライチェーンの透明性を高め、委託先と協力し社会的責任を果たしていく～",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールとデサント 包括的業務提携契約を締結―新しいライフスタイルの創造を目指した戦略的パートナーシップの構築―(説明会資料付）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "～店舗におけるお客様サービスをデジタル技術で革新～インナーウェア体験の未来を創るさまざまなサービスを提供するオムニチャネル戦略を加速",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "相互信頼と協働に基づくCSR調達・緊密なパートナーシップ構築 「ワコール」と「ウイング」ブランドの製造委託先の工場リストを公開～サプライチェーンの透明性を高め、協力して社会的責任を果たしていく～",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "地方の下着小売店と協業する、新ビジネスモデル「ワコールガーデン」～8店舗目となる上越店が2016年12月5日にオープン～",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/notes/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/fandq/",
+    "pass": 1
+   },
+   {
+    "quote": "インナーウェア（主に婦人のファンデーション、ランジェリー、ナイトウェア及びリトルインナー）、アウターウェア、スポーツウェア、その他の繊維製品及び関連製品の製造、卸売販売及び一部製品の消費者への直接販売を主な事業としており、更にその他の事業として、飲食・文化・サービスおよび店舗内装工事の事業を展開しています",
+    "url": "https://www.wacoalholdings.jp/ir/fandq/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/ir/library/ar/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦するワコールの人を紹介",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "有限責任監査法人トーマツパートナー",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "三宅・今井・池田法律事務所パートナー（現任）",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "役員指名諮問委員会開催回数",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第1四半期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信[ＩＦＲＳ]（連結）",
+    "url": "https://www.wacoalholdings.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月には自社公式アプリ「ワコールカルネ」へのデータ連携を開始し、計測データをスマホで閲覧可能としました",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月には、経済産業省が実施する「令和5年度補正PHR社会実装加速化事業」に実証事業者として採択され、AI食事管理アプリ『あすけん』の開発・運営を行う株式会社askenとのマッチングが成立",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月にOMO型店舗「WACOAL is」を開設しました",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までのKPI項目",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年の目標",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信[ＩＦＲＳ]（連結）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算説明動画を公開しました（13分）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 DATA BOOK",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料 書き起こし",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期～2029年3月期 中期経営計画説明資料",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明動画を公開しました（30分）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月期 決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月期（累計）連結業績予想と実績との差異に関するお知らせ（IFRS）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 DATA BOOK",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料 書き起こし",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信[ＩＦＲＳ]（連結）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期 決算説明動画を公開しました（18分）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期 決算説明資料 書き起こし",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期 DATA BOOK",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算説明資料",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 年頭挨拶（要旨）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期 決算説明動画を公開しました（36分）",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 半期報告書",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信[ＩＦＲＳ]（連結）",
+    "url": "https://www.wacoalholdings.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期DATA BOOK（四半期毎のデータをご確認いただけます",
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月の概況",
+    "url": "https://www.wacoalholdings.jp/ir/monthlydata/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月より、以下の方針で月次売上情報を公開いたします",
+    "url": "https://www.wacoalholdings.jp/ir/monthlydata/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期の年間配当金については、中間配当は1株当たり50円、期末配当は1株当たり50円とし、年間配当は100円とさせていただく予定です",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月19日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月3日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月22日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月4日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月1日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年2月3日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月16日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年5月21日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年5月15日",
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信[ＩＦＲＳ]（連結）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算説明動画を公開しました（13分）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 DATA BOOK",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料 書き起こし",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期～2029年3月期 中期経営計画説明資料",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会質疑応答要旨",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明動画を公開しました（30分）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月期 決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月期（累計）連結業績予想と実績との差異に関するお知らせ（IFRS）",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 DATA BOOK",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "企業経営の透明性を高めることに継続して取り組み、公正性、独立性を確保することを通じて、「株主」「顧客」「従業員」「取引先」「地域社会」などすべてのステークホルダーとの「相互信頼」の関係を構築することで、社会になくてはならない存在を目指していきます",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的且つ高品質な商品・サービスで、新たな顧客体験を創造し続け、世界中のお客さまの生活を豊かに美しくし続けている",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱ワコールでは、厳しさを増す外部環境の中でも、高い収益力を確保できる体質へ変革するため、コスト構造改革を実行するとともに、ブランド力・顧客ロイヤリティ・人材力の強化を行い、再成長への回帰を目指しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客・市場の変化に迅速に対応できる新生ワコールとなるべく、デジタルを活用した顧客起点のバリューチェーンを再構築するため、需要連動型のサプライチェーンマネジメントなどの改革を進めていきます",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "成長戦略として取り組みを進める顧客戦略では、深く広く長い関係性を顧客と構築するため、デジタルを徹底的に活用し、一人ひとりにとっての最適な顧客体験の提供をおこなっています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客戦略」の具体的な取り組み",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "バリューチェーンを顧客起点で再構築",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ、顧客の声、販売員（BA）の接客知見を徹底的に活用",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "3D計測サービス（SCANBE）やアプリ（CARNET）を通じ、リアルとオンラインで一貫した満足度の高い顧客体験を実現",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "DXビジョンを「未来の当たり前をつくること」と位置づけ、お客さま一人ひとりの未来の日常において”当たり前”となること/ものを思い描くことで、顧客体験の新たな価値を創造することを目指しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "こころとからだは一人ひとり全く異なるものであり、その多様性に寄り添った新たな顧客体験の提供を検討する際には「パーソナライズ」の概念がキーワードになります",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "DX推進の三つの柱は、顧客起点DXと、それを支える業務DX、人材DXです",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "DX戦略は一つの部門で完結対応できるものではなく、全社戦略としての位置づけが必須と考えており、マーケティング部門において立案する顧客起点の戦略を軸に、各事業と連携して実行しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "①現場のビジネスを熟知している、かつ、デジタルと親和性があり吸収力の高い若手メンバーを中心にチームを編成②プロジェクトの中心に顧客視点で考えられる女性のメンバーを登用③本人の熱意に基づく手上げ制を重視する人事制度の積極的活用",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "DX戦略の推進に必要なITシステム環境として、顧客情報や購買履歴、来店履歴はオンライン、オフラインに関わらずクラウド上の顧客基盤に集約し、社内基幹システムと連携させています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、ビジネス環境変化に合わせた、顧客起点のモノづくりやマーケティングを柔軟かつ迅速に実行できる体制を構築しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "企業倫理・リスク管理委員会の下部組織である「情報セキュリティ部会」では、顧客個人情報や重要技術情報を狙うサイバー攻撃への対策として、情報セキュリティ全般の情報収集、現状調査、分析等を実施し、活動方針や具体的対策の立案、関連規程の制定・改廃、戦略投資案件を審議するとともに、進捗状況のモニタリングを実行しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "インナーウェアならではの対面接客のストレスに着目し、顧客体験を「よりストレスフリーに、より自由に」革新した3D計測サービス「SCANBE（スキャンビー）」を2019年5月に開始、延べ約30万人（2025年4月時点）が本サービスを体験しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "「SCANBE（スキャンビー）」初の有料コンテンツとなる本サービスは、東京・大阪で過去3回開催したポップアップストアにおいて実施枠がほぼ満席となり、その波及効果によって他店での同サービス利用者も大幅に増加しました",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "「SCANBE（スキャンビー）」に『あすけん』の蓄積データを掛け合わせることで“今のからだ”を外側と内側から知ることができ、利用者のニーズに合ったソリューションを提供するサービスの実現を目指してユースケースの創出に取り組みました",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も自社内の開発にとどまらず、他社との協業も積極的に行い”からだを知る”ことを起点とした商品やサービスの提供を拡大することで、顧客体験価値を高め、BtoB共創の可能性の拡大とシナジーの増加につなげてまいります",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "また決算説明資料等で、DX活用の顧客戦略である「SCANBE（スキャンビー）」の計測者数や計測後の購買行動に関する情報を開示し、継続的な情報発信に努めております",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールでは、顧客起点のバリューチェーン改革を推進しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では顧客起点でブランドの提供価値を明確にし、お客さまおよびビューティーアドバイザーの声を含めた消費者調査や購買データ分析、セグメンテーションなどを継続的に実施しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランドごとの顧客ニーズを的確に把握、さらに価格帯と年齢軸をもとに市場を分類、戦略マップを活用して注力すべきセグメントを明確化し、商品開発を行っています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランドマネージャー制度を導入し、企画、開発、製造、流通、販売、マーケティングの一連のバリューチェーンプロセスにおいて顧客に一貫したブランド価値を提供することで、ブランド価値の最大化を図ります",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「ワコールお客様センター」の設置",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールでは、お客さまとの大切なコミュニケーションの拠点として「ワコールお客様センター」を設置しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールの声活（VOC）では、ビューティーアドバイザーによる接客時の声や顧客のレビューをもとに、サイズ感や素材、色展開などの要望を商品開発に反映しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ビューティーアドバイザーの共感力と対話力が、顧客起点の商品づくりに活かされています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客への提供価値の最大化",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "パーソナライゼーションの追求による顧客体験価値の向上",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールグループとつながりを持つ顧客数の拡大",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールメンバーズアクティブ会員数：260万人（構成比45%）",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "「未来の当たり前をつくる」 顧客起点で推進するDXの取り組みが",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "TSIホールディングスとワコールが、双方の顧客基盤の拡大に向けたブランドコラボレーションをスタート",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "～店舗におけるお客様サービスをデジタル技術で革新～インナーウェア体験の未来を創るさまざまなサービスを提供するオムニチャネル戦略を加速",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「未来の当たり前をつくる」 顧客起点で推進するDXの取り組みが",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "TSIホールディングスとワコールが、双方の顧客基盤の拡大に向けたブランドコラボレーションをスタート",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "～店舗におけるお客様サービスをデジタル技術で革新～インナーウェア体験の未来を創るさまざまなサービスを提供するオムニチャネル戦略を加速",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身のご判断において行なわれるようお願いいたします",
+    "url": "https://www.wacoalholdings.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への対応の基本方針",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "介護休業制度利用者数*",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期休暇制度利用者数",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊2021年10月に介護休業制度利用者、介護短時間勤務制度利用者数、介護フレックス勤務制度利用者数の過年度実績を修正",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "育児フレックス勤務制度利用者数",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外キャリアチャレンジ制度利用者数",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "育児短時間勤務制度利用者数",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "介護短時間勤務制度利用者数*",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "介護フレックス勤務制度利用者数*",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジョブチャレンジおよび社内公募制度利用者数",
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】ジョブチャレンジおよび社内公募制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】社外キャリアチャレンジ制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】長期休暇制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】育児短時間勤務制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】育児フレックス勤務制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】介護休業制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】介護短時間勤務制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【PDF】介護フレックス勤務制度利用者数",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ワコールお客様センター」の設置",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "グループの商品・サービスや社会的課題に係る取組みが、全てのステークホルダーから高い信頼を得ている",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的且つ高品質な商品・サービスで、新たな顧客体験を創造し続け、世界中のお客さまの生活を豊かに美しくし続けている",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の再構築では、インナーウェア事業を中心に収益構造改革を進めるとともに、ボディデータを活用したソリューションビジネスの展開やコンディショニングウェア事業の拡大、D2Cの強化などを通じて競争力向上を図ります",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "3D計測サービス（SCANBE）やアプリ（CARNET）を通じ、リアルとオンラインで一貫した満足度の高い顧客体験を実現",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのデータを最大限に活用し、ワコールの「美・快適・健康」分野への事業拡大やよりパーソナライズされた商品・サービスの提供を通じて、お客さまと深く・広く・長い関係性の構築を目指してまいります",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "3D計測サービス",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "インナーウェアならではの対面接客のストレスに着目し、顧客体験を「よりストレスフリーに、より自由に」革新した3D計測サービス「SCANBE（スキャンビー）」を2019年5月に開始、延べ約30万人（2025年4月時点）が本サービスを体験しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "1.サービス",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "ボディデータを活用したソリューションをオープンイノベーションのスキームで開発",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "「SCANBE（スキャンビー）」初の有料コンテンツとなる本サービスは、東京・大阪で過去3回開催したポップアップストアにおいて実施枠がほぼ満席となり、その波及効果によって他店での同サービス利用者も大幅に増加しました",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "現在14店舗（2025年4月時点）でサービスを展開し、新たな価値創出につながっています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "そのデータ分析をもとに、より一人ひとりにフィットするパーソナライズ設計された商品を開発、販売しています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "「SCANBE（スキャンビー）」に『あすけん』の蓄積データを掛け合わせることで“今のからだ”を外側と内側から知ることができ、利用者のニーズに合ったソリューションを提供するサービスの実現を目指してユースケースの創出に取り組みました",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、グラングリーン大阪内に開業（2025年3月）されたオフィスワーカー向けウェルビーイング向上スペース「SLOW AND STEADY」への出店や、「わたしを知る骨格診断」に次ぐ「SCANBE（スキャンビー）」のデジタルソリューションの開発など、ヘルスケア領域における新たな価値創出を進めています",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も自社内の開発にとどまらず、他社との協業も積極的に行い”からだを知る”ことを起点とした商品やサービスの提供を拡大することで、顧客体験価値を高め、BtoB共創の可能性の拡大とシナジーの増加につなげてまいります",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "愛される商品づくりを通じて",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまや販売員（ビューティーアドバイザー）の声をもとにした分析、人体計測データを活用した研究、商品企画・設計、生産・販売に至る一連のプロセスを通じて、付加価値の高い商品を創出しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランドごとの顧客ニーズを的確に把握、さらに価格帯と年齢軸をもとに市場を分類、戦略マップを活用して注力すべきセグメントを明確化し、商品開発を行っています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "その精緻なデータと身体理解に基づく商品開発は、単なる衣料を超えた価値を提供し、他社には真似できない“からだに寄り添うものづくり”を実現しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "商品企画・設計",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールは、製品の品質保持を「社会的責任」と位置付け、自社工場の熟練縫製員による高度な手仕事による生産に加え、材料調達から出荷の全工程で厳格な品質管理を実施しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい基準に基づき部材ごとのテストや耐久性チェックを行い、安全・高品質な商品を提供しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のECサイトである「ワコールウェブストア」では（株）ワコールの全ブランドの商品を展開し、「わたしに合うブラ診断」などを通じて、より多くのお客さまに寄り添ったサービスを提供しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "寄せられたお声は社内で共有し、お客さま満足の向上に向けて商品やサービスの開発と改善につなげる仕組みを整えています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "－お客さまのお声から生まれる、もっと魅力的な商品づくり－",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「この商品をもう少し改善してほしい」「あの商品をもう一度販売してほしい」など、日々寄せられるお客さまの率直なご意見を商品開発に活かしています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまのお声が、より快適で魅力的な商品づくりの原動力です",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールの声活（VOC）では、ビューティーアドバイザーによる接客時の声や顧客のレビューをもとに、サイズ感や素材、色展開などの要望を商品開発に反映しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ビューティーアドバイザーの共感力と対話力が、顧客起点の商品づくりに活かされています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "商品品質の深化とサービス品質の構築",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "商品品質の継続的な監視と改善活動の実施",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "製品廃棄率の低下",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "製品廃棄：ゼロ＜対象：㈱ワコール＞",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の企業集団は、持株会社（当社）1社、子会社47社及び関連会社7社で構成され、インナーウェア（主にファンデーション、ランジェリー及びナイトウェア）、アウターウェア、スポーツウェア、その他の繊維製品及び関連製品の製造、卸売及び製品の消費者への小売を主な事業としており、更にその他の事業として、飲食・文化・サービス等の事業を展開しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱ワコールは、上記製品の企画・デザインと原材料調達を行い、国内外の縫製会社及びその他の協力工場から仕入れた半製品の検査を経て製品化し、国内百貨店、量販店及びその他一般小売店、また直営店舗、Eコマース（EC）サイトや国内外の販売会社を通じて、それぞれ最終消費者へ供給しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "縫製会社は㈱ワコールマニュファクチャリングジャパン等2社あり、いずれも㈱ワコールから原材料の供給を受けてインナーウェア、スポーツウェアの縫製加工を行い、半製品を㈱ワコールへ納入しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "販売会社は㈱ウンナナクール、㈱ランジェノエルがあり、主としてインナーウェア、アウターウェアの製品の小売販売を行っています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ワコールアートセンター（飲食、文化、サービス事業）",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールアイネクスト株式会社（オフィスサービス事業）",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "北中米地区の子会社10社のうちWACOAL DOMINICANA CORP.はインナーウェアの縫製会社で、製品を米国の製造・販売会社であるWACOAL AMERICA,INC.に納入しており、WACOAL AMERICA,INC.はこれら製品を現地の百貨店、専門小売店及びECサイトを通じて最終消費者へ供給しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "また、販売会社であるEVEDEN INC.は主としてWACOAL LANKA(PRIVATE) LTD.、WACOAL EMEA LTD.から供給を受けたインナーウェア等の製品を販売しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "欧州地区の子会社7社のうちWACOAL EMEA LTD.は主としてWACOAL LANKA(PRIVATE) LTD.から供給を受けたインナーウェア等の製品を主に英国の百貨店、専門小売店等を通じて最終消費者へ販売しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "BRAVISSIMO LTD.は主にグループ外から独自に供給を受けた製品の小売販売を行っています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "アジア・オセアニア地区の子会社2社と関連会社4社は、製造・販売会社で、製品をそれぞれ現地の百貨店、専門小売店等を通じて最終消費者へ供給するとともに、一部を（株）ワコール及びアジアの販売会社に供給しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "販売会社は、WACOAL SINGAPORE PRIVATE LTD.、EVEDEN ISRAEL LTD.等子会社6社と関連会社1社であり、主としてグループ内より供給を受けたインナーウェアの製品をそれぞれ現地の百貨店、専門小売店、直営店舗を通じて最終消費者へ供給しています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "製品及び原材料調達",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "国内子会社1社、海外子会社2社は、すべて販売会社であり、㈱ピーチ・ジョンは主にグループ外から独自に供給を受けた製品の小売販売を行っています",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ワコールキャリアサービス",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールサービス株式会社",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールの新技術「Melooop（メループ）」コラボレーション第二弾 ～2026 年春夏 パリ・ファッションウィークにて「doublet」との新商品を発表～",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪・関西万博で展示するPHRサービス「3Dボディスキャンから始まるヘルスケア体験」予約スタート！",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大谷翔平選手が愛用商品「CW-X」のブランドアンバサダーに就任",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "‒ 大きいカップサイズ商品市場でのドミナントポジション向上により、成長と事業効率改善を実現‒",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "『ワコール』×『あすけん』で新たなサービス実現に向けた取り組みを開始",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "～基礎体温データと法人向けフェムテックサービスによる実証実験結果～",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "強固な情報セキュリティ管理体制を構築し、より信頼されるビジネスサポートサービスを提供",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコール3D計測サービス［SCANBE］東急プラザ表参道原宿にて",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "基礎体温測定と医療相談機会の提供で働く女性の健康づくりを支援 ― 基礎体温データと法人向けフェムテックサービスによる実証実験をスタート ―",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "JR西日本グループの「e5489コーポレートサービス」を活用した カーボンオフセットの取り組みに参加",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境に配慮し、サステナブルなものづくりを目指した新商品 ［L∞Ping（ルーピング）] デビュー",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "「VISION 2030」では、「高い感性と品質で、ひとりひとりのからだとこころに、美しさと豊かさを提供し、『世界のワコールグループ』として進化・成長する」ことを中長期的に目指す姿として掲げ、「国内の収益性向上と事業領域拡大」「海外事業の拡大と高収益構造への変革」「グループ経営力の強化」「資本効率の高い経営への転換」に取り組むことで、持続的な成長と企業価値の向上を実現します",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "グループの人材、資産、ノウハウ、ネットワークを最大限活用し、世界的規模で競争優位性のある事業展開を行っている",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来培ってきた高い感性と品質を強みとして、「美」「快適」「健康」の領域において持続的な成長と企業価値向上の実現を目指します",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "その実現に向け、本中期経営計画では、「国内の収益性向上と事業領域拡大」「海外事業の拡大と高収益構造への変革」「グループ経営力の強化」「資本効率の高い経営への転換」の4つを重点戦略として推進します",
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来培ってきた高い感性と品質を強みとして、「美」「快適」「健康」の領域において持続的な成長と企業価値向上の実現を目指します",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "その実現に向け、本中期経営計画では、「国内の収益性向上と事業領域拡大」「海外事業の拡大と高収益構造への変革」「グループ経営力の強化」「資本効率の高い経営への転換」の4つを重点戦略として推進します",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "海外事業の拡大と高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "「VISION2030」では、世界市場における競争優位性の確立に向けて、国内外ともにデジタル戦略を掲げ、新しい事業領域や成長領域へ投資を行い、非連続成長の実現に挑戦しております",
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "pass": 1
+   },
+   {
+    "quote": "培ってきた強み",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "両チャネルの強みを最大限に活用した最適なカスタマージャーニーを設計しています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益／売上総利益率",
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールの事業内容および強みについて教えてください",
+    "url": "https://www.wacoalholdings.jp/ir/fandq/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールの強み",
+    "url": "https://www.wacoalholdings.jp/ir/fandq/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫を残さない仕組みづくり URL",
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中国では不採算店舗の整理を進める一方、当社の強み",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/questions20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "シェア拡大を目的とした投資ではなく、在庫適正化を優先している",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/questions20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フィッティング力といった当社の強みを生かした商品開発を進めており、店舗売上にも成果が表れ始めてい",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/questions20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いても、当社の強みを生かした商品を軸に、勝ち筋を構築して、競争力を獲得していく",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/questions20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 ー3.6%",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " ピーチ・ジョンは構造改革の効果により、高収益体質へ改善",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 営業利益率・ROE10％水準",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益構造への変革サステナビリティ",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益事業への転換",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高1,000億円 営業利益率10％",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力事業での高収益化を実現",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 8～10％水準の維持",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率10％超を創出できる企業体",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とともに、高収益構造への変革を実現する",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（営業利益率10％）",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生活に貢献するとともに、持続的な成長が可能な高収益企業への転換を果たす",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "向けた積極投資を継続する一方で、生産・物流・在庫管理など",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全体で営業利益率7％以上を目指す",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 高収益体質の実現に向けて要員計画マネジメントを継続",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内・海外ともにワコールの強みを活か",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.6% 6.4% +5.2pt",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・（株）ワコール在庫特別処分：28億円",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強み、資産を生かした新価値創造",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※在庫適正化",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みや独自資産を活用した新価値創造を実施",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同時に強み、独自資産を生かし新たな価値創造の萌芽を育む",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 他社EC：EC専用商品・スター品番の拡充による売上拡大・在庫",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みや独自資産を活用し、将来の成長に向けた",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価格最適化により、販売影響を抑えつつ粗利率",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "欧州市場拡大とEC強化による大きなサイズ領域での競争優位確立",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フィット感など本来の強みが生かせず、差別化に至らず）",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1 在庫を保有せず、受注後に仕入先から顧客へ直接商品を出荷する取引形態",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ワコールの強みを活かした商品開発による他社",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サプライチェーンと連動した管理 営業利益率",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫回転率 BSモニタリング",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROICの改善ドライバーとなる収益性及び在庫回転率に関する主要子会社の取り組みは以下の通り",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各社共通 ・EC中心のビジネスモデルへの転換による在庫効率化",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫回転率※",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 在庫回転率は（株）ワコール単体ベース",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●海外事業の拡大と高収益構造への変革",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 Ratio to revenue (%) ー ー 1.9% 11.6%",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 Ratio to revenue (%) 44.0% 4.1% 2.6% ー 3.7%",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益営業利益率 Operating margin",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ブランドごとの顧客ニーズを的確に把握、さらに価格帯と年齢軸をもとに市場を分類、戦略マップを活用して注力すべきセグメントを明確化し、商品開発を行っています",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールメンバーズアクティブ会員数：260万人（構成比45%）",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "EC売上比率：日本29％、米国67％、欧州45％、中国39%",
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱ワコールの事業を中心としたセグメント",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "ワコールインターナショナル（米国）、ワコール（中国）時装、ワコールヨーロッパ（2012年子会社化、英国）の事業を中心としたセグメント",
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高構成比（セグメント別）",
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメントごとに見ると、国内については、",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/questions20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワコール事業（海外）セグメント",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 海外事業売上比率 40％",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会員売上比率",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上比率 13.3% 13.4% 16.2% 20.9%",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上比率 41.0% 39.3% 41.7% 46.3%",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・サイトの利便性向上や物流強化を通じた、EC売上比率の向上",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "25/3期 セグメント別 事業利益計画",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上構成 ※2",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別 売上構成推移 チャネル別 売上構成推移※",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 「チャネル別 売上構成推移」に関して、中期経営計画2029におけるEC比率の算出方法見直し（専門店ECを含まない定義への変更等）に伴い、2026年3月期決算説明資料以前の開示数値とは異なる",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●EC売上比率目標 ※",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 「EC売上比率目標」に関して、中期経営計画2029におけるEC比率の算出方法見直し（専門店ECを含まない定義への変更等）に伴い、2026年3月期決算説明資料以前の開示数値とは異なる",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "EC売上比率目標",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● EC売上比率",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "260万人（構成比45%）",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "8. セグメント別累計損益概況 ---- 6-9 Overview of Wacoal China Co., Ltd.(business in China)",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "9. チャネル別売上構成比 ---- 10 12. その他アジアの概況 ---- 26",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅰ-8-1. セグメント別累計損益概況 Consolidated Segment Cumulative Revenue & Business Profit & Operating Profit (百万円/Millions of yen)",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*2026年3月期より報告セグメントの区分方法を変更",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報については、変更後の報告セグメントの区分に基づき作成したものを開示",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅰ-8-2. セグメント別累計損益概況 Consolidated Segment Cumulative Revenue & Business Profit & Operating Profit (百万円/Millions of yen)",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅰ-8-3. セグメント別累計損益概況 Consolidated Segment Cumulative Revenue & Business Profit & Operating Profit (百万円/Millions of yen)",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅰ-8-4. セグメント別累計損益概況 Consolidated Segment Cumulative Revenue & Business Profit & Operating Profit (百万円/Millions of yen)",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期セグメント事業利益",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅰ-9. チャネル別売上構成比 Sales composition by channel (百万円/Millions of yen)",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊1 百貨店売上構成比に専門店売上も含んでいます",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 営業区分 国・地域 会社名 主な事業内容",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅲ-2. 企業集団の情報 セグメント構成 Segment structure 2026年6月末 as end of June 2026.",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 事業内容 主要子会社 その他子会社",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 2027年3月期 第1四半期 決算概況（セグメント別） ・・・P.11",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "27年3月期第1四半期決算の概況、セグメント別概況、財務・株主還元についてご説明します",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 当期より報告セグメントの区分方法を変更",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報については、変更後の報告セグメントの区分に基づき作成したものを開示",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益と事業利益の前年同期差をセグメントごとに記載しています",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中心の米国グラマライズ社の買収により、EC売上比率が拡大しました",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "決算概況（セグメント別）",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次に、セグメント別の概況をご説明します",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ワコール事業(国内)の概況",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● （株）ワコール単体では黒字も、会計基準の連単差※2によりセグメント合計では事業赤字",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ワコール事業(国内)のトピックス",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ワコール事業(海外)の概況",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ワコール事業(海外)のトピックス",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ピーチ・ジョン事業の概況とトピックス",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "27/3期 1Q決算概況（セグメント別）",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "27/3期 通期計画（セグメント別）",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "増減構成比2026年6月末構成比2026年3月末",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 2027年3月期 第1四半期 決算概況（セグメント別） ・・・P.11",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 当期より報告セグメントの区分方法を変更",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報については、変更後の報告セグメントの区分に基づき作成したものを開示",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "決算概況（セグメント別）",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ワコール事業(国内)の概況",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●（株）ワコール単体では黒字も、会計基準の連単差※2によりセグメント合計では事業赤字",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別】ワコール事業(国内)のトピックス",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の割当に関するお知らせ",
+    "url": "https://www.wacoalholdings.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、割引が適用されるご購入金額の上限額（割引適用前）は、年額20万円（税込）とさせていただきます",
+    "url": "https://www.wacoalholdings.jp/ir/welcome/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の割当に関するお知らせ",
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ ライブグッズやライセンス事業など新領域で",
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、「WACOAL TERAKOYA」の一部を等級認定要件、マネジメント・ライセンス審査受験の必須要件として位置づけることで、マネジメント任用に至るまでの過程においても、学び続ける姿勢を持ち、専門性を高めていくことを制度の基盤としています",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "＜マネジメント・ライセンス制度＞",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "実際に担う役割と成果を重視する「マネジメント・ライセンス制度」を導入しました",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "2026年４月１日時点の課長級以上の女性比率は32．2％（管理職ライセンス保有者を含むと41.6％）である一方、部長級以上は依然として18.8％であるため、育成・登用施策を強化していきます",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ワコール の ビジネスモデル | ワコール グループについて — ワコール の ビジネスモデル | ワコール グループについて ワコールホールディングス https://www.wacoalholdings.jp > group > strength",
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用で新たな事業を創造。 ワコールホールディングス が ... — データ活用で新たな事業を創造。 ワコールホールディングス が ... タナベコンサルティング https://review.tanabeconsulting.co.jp > モデル企業",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画2029 国内事業戦略 - ワコールホールディングス — 中期経営計画2029 国内事業戦略 - ワコールホールディングス ワコールホールディングス https://www.wacoalholdings.jp > management > mid_term...",
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan_domestic_business/",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが ワコールホールディングス の役員だったら検討 ... — もしあなたが ワコールホールディングス の役員だったら検討 ... note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/better_equation/n/ne05572040f0f",
+    "pass": 3
+   },
+   {
+    "quote": "決算 ・事業戦略 説明資料 | 投資家情報 — 決算 ・事業戦略 説明資料 | 投資家情報 ワコールホールディングス https://www.wacoalholdings.jp > library > presentation",
+    "url": "https://www.wacoalholdings.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - ワコールホールディングス — 決算説明資料 - ワコールホールディングス ワコールホールディングス PDF https://www.wacoalholdings.jp > topics > files",
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ワコールホールディングス IR・広報 - X — 株式会社 ワコールホールディングス IR・広報 - X X https://x.com > Wacoal_IR_PR",
+    "url": "https://x.com/Wacoal_IR_PR",
+    "pass": 3
+   },
+   {
+    "quote": "ワコール グループ 組織改編と人事異動のお知らせ — ワコール グループ 組織改編と人事異動のお知らせ ワコールホールディングス https://www.wacoalholdings.jp > news > post-47",
+    "url": "https://www.wacoalholdings.jp/news/2024/post-47.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワコールホールディングス 【3591】の人的資本 - キタイシホン — ワコールホールディングス 【3591】の人的資本 - キタイシホン キタイシホン https://kitaishihon.com > company > human-capital",
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ワコールホールディングス | ワコールグループについて — 株式会社 ワコールホールディングス | ワコールグループについて ワコールホールディングス https://www.wacoalholdings.jp > group > holdings",
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "【中編】社外役員 インタビュー 「VISION 2030」実現のために ... — 【中編】社外役員 インタビュー 「VISION 2030」実現のために ... ワコールホールディングス https://www.wacoalholdings.jp > management > article03-2",
+    "url": "https://www.wacoalholdings.jp/wow/management/article03-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワコールホールディングス ・矢島昌明 社長 「自社のミッション ... — ワコールホールディングス ・矢島昌明 社長 「自社のミッション ... 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/021300383/",
+    "pass": 3
+   },
+   {
+    "quote": "《トップ インタビュー 2026》 ワコールホールディングス社長 ... — 《トップ インタビュー 2026》 ワコールホールディングス社長 ... 繊研新聞 https://senken.co.jp > posts > wacoal-260105",
+    "url": "https://senken.co.jp/posts/wacoal-260105",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wacoalholdings.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/management/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/management/mid_term_plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/management/cx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/group/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/management/materiality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/group/businessfield/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/monthlydata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/stockholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/welcome/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/general_meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/news/?n=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/schedule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/notes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/fandq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/library/ar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/group/holdings/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.wacoalholdings.jp/ir/files/ESG_DATABOOK.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/sustainability/files/ESG_Comparison_Table.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/questions20260810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20220603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/files/wacoalpresentation20260622.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoaldatabook20260810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3591/human-capital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/021300383/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ワコールホールディングス",
+   "results": [
+    "https://www.wacoalholdings.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3591",
+    "https://x.com/Wacoal_IR_PR",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B3%E3%83%BC%E3%83%AB",
+    "https://www.wacoal.jp/brand/",
+    "https://ja.wikipedia.org/wiki/ワコールホールディングス",
+    "https://ja.wikipedia.org/wiki/ワコール",
+    "https://finance.yahoo.co.jp/quote/3591.T",
+    "https://www.wacoalholdings.jp/ir/index.html",
+    "https://finance.yahoo.co.jp/quote/3591.T/profile"
+   ]
+  },
+  {
+   "query": "ワコールホールディングス ビジネスモデル",
+   "results": [
+    "https://www.wacoalholdings.jp/group/strength/",
+    "https://review.tanabeconsulting.co.jp/modelcompanies/54361/",
+    "https://www.wacoalholdings.jp/ir/management/mid_term_plan_domestic_business/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251008/20250929563914.pdf",
+    "https://note.com/better_equation/n/ne05572040f0f",
+    "https://senken.co.jp/posts/wacoal-260625",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B3%E3%83%BC%E3%83%AB",
+    "https://edinetdb.jp/company/E00590/integrated-reports/",
+    "https://career.wacoal.co.jp/about/",
+    "https://www.wacoalholdings.jp/"
+   ]
+  },
+  {
+   "query": "ワコールホールディングス 決算説明資料",
+   "results": [
+    "https://www.wacoalholdings.jp/ir/library/presentation/",
+    "https://www.wacoalholdings.jp/ir/topics/files/wacoalpresentation20260810script.pdf",
+    "https://x.com/Wacoal_IR_PR",
+    "https://note.com/wacoal_ir/n/n994a21b839f6",
+    "https://finance.biggo.jp/news/ir_3591.T_20260810_e177c609f600",
+    "https://edinetdb.jp/company/E00590/ir-docs/",
+    "https://www.wacoalholdings.jp/ir/library/financial_results/",
+    "https://edinetdb.jp/company/E00590/presentations/",
+    "https://www.wacoalholdings.jp/ir/library/",
+    "https://www.wacoalholdings.jp/ir/finance/"
+   ]
+  },
+  {
+   "query": "ワコールホールディングス 事業系統図",
+   "results": [
+    "https://www.wacoalholdings.jp/news/2024/post-47.html",
+    "https://kitaishihon.com/company/3591/human-capital",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251008/20250929563914.pdf",
+    "https://www.wacoalholdings.jp/group/holdings/",
+    "https://note.com/wacoal_ir/n/n9656926ad7c2",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3591",
+    "https://career.wacoal.co.jp/about/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100DGWH.pdf",
+    "https://www.youtube.com/watch?v=Auo2GbNmnZE",
+    "https://ja.wikipedia.org/wiki/ワコール"
+   ]
+  },
+  {
+   "query": "ワコールホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.wacoalholdings.jp/wow/management/article03-2.html",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/021300383/",
+    "https://x.com/SENKENplus/status/2008048313137000853",
+    "https://senken.co.jp/posts/wacoal-260105",
+    "https://career.wacoal.co.jp/work/people/md_02/",
+    "https://www.wacoalholdings.jp/group/holdings/",
+    "https://www.asahi.com/articles/DA3S16512201.html",
+    "https://www.value-story.com/movie/6717",
+    "https://kitaishihon.com/company/3591/board-of-director",
+    "https://ja.wikipedia.org/wiki/矢島昌明"
+   ]
+  }
+ ],
+ "missing": {}
+}

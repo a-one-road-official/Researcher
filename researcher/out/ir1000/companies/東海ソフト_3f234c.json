@@ -1,0 +1,1716 @@
+{
+ "name": "東海ソフト",
+ "aliases": [],
+ "context": "証券コード4430／情報・通信業／スタンダード（内国株式）／2026.05期 売上高12,285百万円 営業利益率11.2%",
+ "researched_at": "2026-11-02T20:16:44.826514+00:00",
+ "official_url": "https://www.tokai-soft.co.jp/",
+ "identified_by": "search:ddgs:bing:東海ソフト",
+ "profile": {
+  "設立": [
+   {
+    "label": "Q.会社の設立はいつですか？",
+    "value": "A.1970年（昭和45年）5月です。",
+    "url": "https://www.tokai-soft.co.jp/ir/faq.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "PlusFORCEを中心に製造DXソリューションを展示いたします",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DXソリューション",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・生産・原価管理ソリューション「mcframe7」",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造現場カイゼンソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "画像ソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT／クラウドソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データ可視化／電子化ソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・商品をカタチで提案します",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "製造現場カイゼンソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "画像ソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "創業より長年にわたり、お客様における製造現場の産業システム開発、及び製造メーカー様の製品開発に携わってきました",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "これからはその経験・ノウハウを自社製品であるFlexSignal、FlexDevice、PlusFORCEに集約させ、お客様により満足していただく取組みを行っています",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の強みである品質の高い製品開発、画像処理（AI含む）、物流、個別対応が必要なFAシステム開発といった様々な産業システムに対応することができ、当社業務システム開発と連携することにより、お客様のDX取組みをワンストップでサポートしていきます",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "また画像検査装置を含む装置製品の関連開発、自動倉庫システムや遠隔監視システムといった製造現場において幅広い領域で対応します",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業様の製造現場における多種多様な要望にお応えする技術力を有しており、具体的な要望にお応えするだけでなく、現場における課題に対するカイゼンを当社の経験・ノウハウをカタチにした製品FlexSignal、FlexDevice、PlusFORCEを中心にご提案・導入することが可能です",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品関連開発を長年サポートしてきた経験・ノウハウを安心感として提供",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械、装置、自動車等の製造メーカー様の製品開発に長年サポートさせていただいており、製品にまつわる様々なソフトウェア開発に携わっています",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの経験を活かし、製造メーカー様の製品関連開発を長期にわたり安心してお任せいただけます",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品／ソリューション／パートナーシップ／ツール等",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品の紹介",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー向け製品開発",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・商品をカタチで提案します",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT／クラウドソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "データ可視化／電子化ソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "DXに向けたデジタイゼーションへの課題対応として、データの可視化や電子化のソリューションもご提供します",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のクラウドマネージドサービスの活用",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "電子化ソリューション",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "パッケージを活用したサービス提供期間の短縮",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、繋がる車のソフトウェア開発を組込み部門とシステム部門が連携したワンストップソリューションを実施します",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、産業機器から家電等のデバイス制御、大規模システムまで豊富な実績と経験で高品質の組込みソフトウェア開発ソリューションをご提供します",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品に対して量産品質でサポート",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルサービスを支援し、",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの生活を豊かにするサービスを実現します",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁の提供するサービスは、我が国にかかわりのある人々の豊かな暮らしを支える上で欠かせないものであり、同様に、地方自治体が提供するサービスはそこで暮らす市民の生活に直結しています",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは生活に直結する無くてはならないシステムやサービス及び国や自治体が直接実施することのない教育や研究に関するシステム開発を支援しています",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、社会情勢の変化に伴い、市民が地方自治体へ要求するサービスも以前より多様なものとなっています",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では行政手続きのオンライン化・サービス提供を支えるバックオフィス業務の効率化といった形で自治体のDXの推進を支援し、市民生活の質を向上させるため貢献していきます",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "電力等のエネルギー・道路・通信などに関わる公共システムの連携、物流サービスの整備、それらインフラのメンテナンスへのＩＴ導入、ICTの活用による街づくり等といった事業に積極的に参画する形で、ITを通じてこれからの私たちの生活を豊かにしていきます",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は独立行政法人の事業にもシステム開発及びサービス提供を行うという形で参画しています",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "提案・開発するシステムは大規模なものであり、広い利用者にサービスとして提供されるものです",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "システムをトータルに構築する技術、ネットワーク・ソリューションの技術、そして安定した運用を提供するサポート技術を併せ持つ「エンジニアリング企業」として幅広い事業展開を行なっています",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和6年能登半島地震に関する支援について",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革／企業情報｜東海ソフト株式会社",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年05月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年05月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年12月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年08月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年12月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年06月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年07月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年10月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年06月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年06月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年11月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年06月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年08月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年12月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年05月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年09月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年10月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年11月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年12月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年04月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年06月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年08月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年05月",
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年に産業向けコンピュータソフトウエアの受託開発をスタートさせて以来、金融・公共関連のソフトウエア開発、組込み関連ソフトウエア開発と業容を拡大し、現在多くのソフトウエア開発のパートナーの協力の下、ソフトウエア受託開発及びソフトウエア開発に係る役務の提供を主力の事業として株式上場以降も業績の拡大を続けております",
+    "url": "https://www.tokai-soft.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月吉日",
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年８月 19 日",
+    "url": "https://www.tokai-soft.co.jp/pdf/BuildingNameChange_202608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 5 月 27 日",
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 3 月吉日",
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 11 月 25 日",
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 5 月 7 日",
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202505.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 12 月２日",
+    "url": "https://www.tokai-soft.co.jp/pdf/About_AJFlat_subsidiary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 11 月 29 日",
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202411.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年5月期の配当金は1株あたり47円で、安定した業績を背景に一定の株主還元を行っています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月15日時点での株価は1,457円となっており、ソフトウェア開発企業としての成長性や安定性が投資家から評価されています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトの沿革",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代のバブル崩壊は当社にとって大きな危機でした",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "受託ビジネス開発のご紹介",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題をともに解決するITパートナーとして、",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品／ソリューション／パートナーシップ／ツール等",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品の紹介",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "LINX 画像処理ライブラリHALCON インテグレーションパートナー",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "LINX SCADA／IIotソフトウェアプラットフォーム「zenon(ゼノン)」認定 インテグレーションパートナー",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題をともに解決するITパートナーとして、",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "受託ビジネス開発のご紹介",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "Armadilloインテグレーションパートナー",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート・ガバナンスに関する取組み、ディスクロージャーポリシーなどをご紹介しています",
+    "url": "https://www.tokai-soft.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年に産業向けコンピュータソフトウエアの受託開発をスタートさせて以来、金融・公共関連のソフトウエア開発、組込み関連ソフトウエア開発と業容を拡大し、現在多くのソフトウエア開発のパートナーの協力の下、ソフトウエア受託開発及びソフトウエア開発に係る役務の提供を主力の事業として株式上場以降も業績の拡大を続けております",
+    "url": "https://www.tokai-soft.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "以下に当社事業戦略上の、組込み関連事業、製造・流通及び業務システム関連事業、金融・公共関連事業の3つの事業をご紹介いたします",
+    "url": "https://www.tokai-soft.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集に関するお問い合わせ",
+    "url": "https://www.tokai-soft.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "業務提携、パートナー募集に関するお問い合わせはこちら",
+    "url": "https://www.tokai-soft.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様・ビジネスパートナー様各位",
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ーション群をご紹介いたします",
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様・ビジネスパートナー様各位",
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ーション群をご紹介いたします",
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客企業のIT部門だけでは解決できない専門的な技術ニーズが増大し、外部の高い技術力を持つパートナーへの期待が高まっているためです",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトは大手自動車メーカーや製造業、公共機関を含むさまざまなパートナー企業と緊密に協業することで、技術開発力と市場競争力を向上させてきました",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば自動車業界のプロジェクトでは、最新の安全基準やコネクティッド技術に対応する開発を共同で行い、製造業のパートナー企業とは生産管理システムやIoT領域で新しいソリューションを生み出しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした多方面のパートナーシップを通じて、東海ソフト自身も大規模な開発案件の経験を積み重ね、より高度な技術力と信頼を獲得しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトは直接営業とパートナー企業を活用した受注チャネルの両面を持っています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、パートナー企業経由では、大手メーカーや公共機関の元請け案件に参画するケースが多く、短期間で大規模なプロジェクトに関わるチャンスを得られます",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトは単発の開発案件にとどまらず、顧客企業と長期的なパートナーシップを築くことを重視しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このように顧客との緊密なコミュニケーションを続けることで、新規開発案件や顧客紹介を得やすくなる好循環を作り出しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "この好循環によって外部からも「幅広い課題に対応できる開発パートナー」として認識されやすくなり、さらなる案件を呼び込むことが可能です",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その際に東京支店を設立し、日立製作所の紹介により、公共事業の案件を受注することができました",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の課題をともに解決するITパートナーとして、",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に経験・ノウハウを",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "創業より長年にわたり、お客様における製造現場の産業システム開発、及び製造メーカー様の製品開発に携わってきました",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでは、お客様の要望にお応えすることを中心に開発を請け負わせていただき、多くの経験とノウハウを蓄積することが出来ました",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "これからはその経験・ノウハウを自社製品であるFlexSignal、FlexDevice、PlusFORCEに集約させ、お客様により満足していただく取組みを行っています",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の強みである品質の高い製品開発、画像処理（AI含む）、物流、個別対応が必要なFAシステム開発といった様々な産業システムに対応することができ、当社業務システム開発と連携することにより、お客様のDX取組みをワンストップでサポートしていきます",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の開発スタイル・体制・課題に対するニーズへの対応",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "その際は請負契約だけでなく準委任契約や派遣契約、そして各契約の組み合わせによりお客様の開発スタイル、進め方の細かなニーズにお応えすることが出来ます",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題をともに解決するITパートナーとして、",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個別ニーズに対応すべく、",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個別ニーズに対応すべく、長年に渡り、スクラッチ開発による多くのシステム開発に取り組んできました",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "当社においても、お客様の個別ニーズを満たすべくスクラッチ開発への取組みを行うとともに、急速に変化するサプライチェーンへの対応、グローバル化への対応を実現するためにパッケージを活用し、標準化と差別化のお客様ニーズを満たす幅を広げる取組みを行っています",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の業務課題に最適解を提案",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個別ニーズへの対応",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "大々的な基幹業務システムや製造実行システムの導入のみならず、その周辺で必要となるサブシステムのご提供や、お客様でExcelやAccess等を用いて内製化したが、運用に耐えられなくなった機能のシステム化など、お客様の個別ニーズに対応します",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題対応をIT技術でサポート",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズにお応えします",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の開発課題に最適解をご提案",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のCASE時代の車づくりをソフトウェア技術で支えます",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の車載プラットフォーム開発をサポート",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズにお応えします",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品に対して量産品質でサポート",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機ソフトウェア開発にて40年の長い歴史で培った知識と経験を、すべてのお客様の組込み機器開発に活かす事ができます",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて最適なシステム構成をご提案",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではアプリケーション開発だけでなく、お客様のニーズに合わせたプラットフォーム開発を行っています",
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "これら独立行政法人の事業において当社は、直接入札等の実施によって顧客への提案からシステム開発までを担当します",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "提案・開発するシステムは大規模なものであり、広い利用者にサービスとして提供されるものです",
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフトはお客様のテーマ、",
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは1970年の創業以来、独立系の受託型ソフトハウスとしてお客様の立場にたち、「品質、納期、アフターサービス」を意識し、製品づくりをサポートしてきました",
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "FA(ファクトリーオートメーション)や組込み(車載、民生、量産、試作)ソフト開発、ネットワークインフラの技術を中心に、システムをトータルに構築する技術を持つ、ワンストップソリューションを提供する企業として、お客様の業務を支えています",
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "東海ソフトはお客様のテーマ、課題、問題に対し柔軟に対応します",
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に信頼される誠実な企業",
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.tokai-soft.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様・ビジネスパートナー様各位",
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は、コンサルティングからシステムインテグレーション、保守・カイゼンに至るまで、お客様と伴走",
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様・ビジネスパートナー様各位",
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は、コンサルティングからシステムインテグレーション、保守・カイゼンに至るまで、お客様と伴走",
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "組込みソフトウェア開発における高い技術力と長年の実績を強みとし、自動車関連やFA（ファクトリーオートメーション）分野の技術革新を支える受託開発を中心に強固な顧客基盤を確立しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、主要顧客である自動車業界や製造業において、SDV（ソフトウェア定義車両）化や工場自動化（スマートファクトリー）に向けたデジタル投資が活発に推移したことを受け、主力の組込み関連事業や製造・流通システム開発の受注が非常に好調であったことによるものです",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトは、各業界の多彩なニーズに合わせた高品質なソフトウェア開発サービスを提供することで、顧客が抱える課題を最適に解決する価値を打ち出しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業の要望を丁寧にくみ取り、運用面のサポートまで継続して行うことで、信頼性と技術力を評価され、リピート受注や新規顧客獲得につなげています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業のIT部門だけでは解決できない専門的な技術ニーズが増大し、外部の高い技術力を持つパートナーへの期待が高まっているためです",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "車載制御やIoT、AI、クラウドなど先端領域に関する知見を社内で共有し、品質と納期の両面で顧客の期待に応える仕組みを確立しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも、大手メーカーや公共機関との長期的な取引実績が豊富であるため、顧客ニーズを先取りしながら安定的な開発案件を確保できる点も強力なリソースといえます",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "直接営業では顧客とのコミュニケーションを密にすることで、システム開発における細かな要望や課題を的確に把握し、最適な提案につなげることが可能です",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会や技術セミナーへの参加などを通して新規顧客とも接点をつくり、受注拡大のための網を広く張っている点も特徴です",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトは単発の開発案件にとどまらず、顧客企業と長期的なパートナーシップを築くことを重視しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに顧客満足度を高めるために、定期的な打ち合わせやフィードバックを通じて改良ポイントを洗い出し、常に最適なシステム運用を実現しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このように顧客との緊密なコミュニケーションを続けることで、新規開発案件や顧客紹介を得やすくなる好循環を作り出しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "長期的なサポート体制を整えた企業を選ぶ顧客が増え、それに応え続けることで東海ソフトの顧客基盤が安定していきました",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、多様な領域での実績が新たな顧客獲得の信頼材料となり、ポジティブな循環を生み出します",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成を強化し、国内外の市場拡大を視野に入れつつ、既存顧客と新規顧客の両面で案件を拡大していくことで、さらなる飛躍が期待されます",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "一時的に業績が低迷しましたが、その後の回復期に、大口顧客であった富士電機から「設計部門の業務を一括で任せたい」という依頼をいただきました",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "この分野では、エンドユーザーである製造業のクライアントとの直接取引が基本で、工場の自動化を実現するFAや省人化・効率化を実現する業務システムの開発を行っています",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、製造業については今のうちにエンドユーザーとの関係を深め、保守業務も含めて包括的に対応できるクライアントを増やしておく必要があります",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "その逆もまた然りで、FA分野の顧客ニーズへの対応におけるノウハウが自動車や公共系のプロジェクトに生かされることもあるはずです",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、提携事業者とお客様との間の契約締結に関し、代理、斡旋、仲介等の形態を問わず、一切関与しないものとします",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトの利用に関連して、利用者と提携事業者や第三者間で発生した紛争やトラブルについては、当事者間で解決を図るものとし、当社はこれに関して一切の責任を負わないものとします",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "その中で一番重要なポイントは長期にわたり開発してきた膨大なプログラムの品質を保つこと、そして、改造やリプレイス、保守メンテナンスに向けて仕様の明確化や品質管理を人依存に頼らない仕組みが必要になります",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "要件定義からシステム開発・保守まで一貫サポート",
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOSAR Classic Platformの導入支援、保守",
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、コンサルティングからシステムインテグレーション、保守・カイゼンに至るまで、お客様と伴走",
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は、コンサルティングからシステムインテグレーション、保守・カイゼンに至るまで、お客様と伴走",
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発フェーズだけでなく、運用や保守フェーズも一貫してサポートする姿勢が評価され、継続的な改修や追加機能の提案につながるケースも少なくありません",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア開発は導入後の運用が重要であり、継続的な保守・アップデートが必要になるためです",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "開発後の保守契約や機能追加などのフォローアップを行うことで、ストック型の収益も得られる仕組みを構築しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "近年ではクラウドやサブスクリプション型サービスの需要が高まり、東海ソフトも自社サービスやソリューションを提供することで、ライセンス収入や月額課金による新たな収益源を育て始めています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "IT市場の変化に伴い、受託開発だけでなくサブスクリプションモデルが広まりつつあります",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ソフトウェアライセンスやハードウェアなど開発に必要な設備投資もプロジェクト規模に応じて増減し、先端技術への取り組みや研究開発を進める場合にはリスクを伴う先行投資が必要となります",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションモデルやAI技術の導入による付加価値の創出も、さらなる収益拡大につながる可能性があります",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、製造業については今のうちにエンドユーザーとの関係を深め、保守業務も含めて包括的に対応できるクライアントを増やしておく必要があります",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "また、FA分野は比較的高単価な案件が多く、IT企業としての利益率向上に大きく寄与する重要な事業領域です",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトに掲載される他社の商品に関する情報に関しては、最大限の注意を払っておりますが、金利、手数料、その他商品情報の完全な正確性や信頼性を保証するものではありません",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "また、当社の強みである品質の高い製品開発、画像処理（AI含む）、物流、個別対応が必要なFAシステム開発といった様々な産業システムに対応することができ、当社業務システム開発と連携することにより、お客様のDX取組みをワンストップでサポートしていきます",
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "製造・流通及び業務システム関連事業は、工場の生産ラインや物流システムの搬送装置等を監視・制御するソフトウエア開発を中心とした製造・流通システム関連開発及び製造業向けの生産管理、在庫管理、品質管理等を中心とした業務システム関連開発を主たる事業としております",
+    "url": "https://www.tokai-soft.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込みソフトウェア開発における高い技術力と長年の実績を強みとし、自動車関連やFA（ファクトリーオートメーション）分野の技術革新を支える受託開発を中心に強固な顧客基盤を確立しています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたプロジェクトを通じて、長年にわたり幅広い業界に知見を蓄積し、新技術導入や複雑な要件にも柔軟に対応できる体制を築いていることが同社の強みです",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "互いの強みを組み合わせることで付加価値の高いサービスを提供し、市場シェアを拡大していく戦略をとってきました",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連ではコネクテッドカーやEV、自動運転などの先進技術を扱うケースが増えており、製造や物流では生産管理や在庫管理、サプライチェーン全体の効率化が求められています",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の産業にまたがってソフトウェア開発を行うことで、それぞれの業界で得た技術やノウハウを横断的に生かし、新規案件の提案や課題解決につなげる体制を整えていることが強みです",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初は、主に日立製作所様向けの業務系ソフトウェア、例えば製造管理や在庫管理といった分野の開発を手掛けていました",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierは収集したデータを活用して大規模なシステムを展開するのが得意ですが、当社はそのデータをつなぎ合わせる部分に強みがあります",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、生産管理や在庫管理、原価管理、ERPといった上位層の業務システムでは、パッケージメーカーと組んで展開しており、下層から上層まで一貫して対応できることが大きな強みです",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が3つの事業分野を持っていることも大きな強みです",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "今回M&Aで迎え入れたAJ・Flat社は、派遣型のSES企業でしたが、当社のような請負型のIT企業でも、たとえばですが医療分野に強みを持つ企業などあれば、積極的にそういった新たな分野にも事業を拡充していきたいと考えています",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "そのような中、当社の真の強みが発揮されているのはFA分野や業務系システム分野におけるシステム開発です",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "最新IR資料から読み解く東海ソフトのビジネスモデルと成長戦略 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "最新IR資料から読み解く東海ソフトのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発の安定収益基盤を維持しながら、自社製品やクラウド型サービスを含む新規ビジネスモデルへの挑戦が今後の成長戦略のカギとなるでしょう",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルが示す成長戦略 中核サービスがもたらす未来に注目するクラウドワークスの挑戦",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フォーバル・リアルストレートで学ぶビジネスモデルの魅力",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社pluszeroの成長戦略に迫るビジネスモデルの魅力",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料も読み解きながら深堀り 株式会社はてなのビジネスモデルと成長戦略を探る魅力",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力あふれるビジネスモデルが示す成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＫＹＣＯＭホールディングスのビジネスモデルが注目を集める理由",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リックソフトのビジネスモデルと成長戦略を徹底解剖 最新IR資料から読み解く未来への挑戦",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド市場を牽引するサーバーワークスのIR資料に見るビジネスモデルと成長戦略が注目を集める理由",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、製造、物流、公共といった幅広いセグメントを対象に事業を展開しているのが東海ソフトの特徴です",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "特定業界だけに注力すると景気や業界動向の影響を大きく受けてしまいますが、複数セグメントに対応することでリスク分散が可能となります",
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は組込み関連事業、製造・流通及び業務システム関連事業、金融・公共関連事業の3つのセグメントで事業を展開しています",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "最新ir資料から読み解く東海ソフトのビジネスモデルと成長戦略 | チームマイクの企業分析 — 企業概要と最近の業績 東海ソフト株式会社 【全体の業績】 東海ソフト株式会社は、車載機器や産業用ロボットに組み込まれるソフトウェアの開発をはじめ、製造業や流通業向けの業務システム構築を手掛ける独立系システムインテグレーターです。組込みソフトウェア開発における高い技術力 ...",
+    "url": "https://consovation.com/最新ir資料から読み解く東海ソフトのビジネスモ-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト株式会社 — 東海ソフト株式会社｜東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました。",
+    "url": "https://www.tokai-soft.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業概要・経営理念／企業情報｜東海ソフト株式会社 — 東海ソフトの事業概要・経営理念／企業情報について。｜東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました。",
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフトの資料一覧 | Irコンパス | Ir資料に特化した事例まとめサイト — 東海ソフトの資料一覧 東海ソフトの資料一覧 概要 表紙 目次 会社概要 役員一覧 沿革 ビジネスモデル 事業ポートフォリオ トラックレコード At a glance ミッション・ビジョン 事業・サービス一覧 事業内容 事業戦略 成長戦略 AI戦略 ポートフォリオ戦略 M&A ...",
+    "url": "https://ir-compass.com/company/東海ソフト/",
+    "pass": 3
+   },
+   {
+    "quote": "【4430】東海ソフト株式会社 事業概要と成長戦略に関するirインタビュー - インベスターナビ — ※本コラムは2024年12月12日に実施したIRインタビューをもとにしております。 東海ソフト株式会社は急速に進化する技術革新に対応し「日本の製造業をITで支える」企業です。 代表取締役会長 CEOの伊藤 秀和氏に事業戦略の変遷や今後の成長方針を伺いました。",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料｜IRライブラリー｜IR情報｜東海ソフト株式会社 — 東海ソフトの決算説明会資料‐IRライブラリー／IR情報について。｜東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました。",
+    "url": "https://www.tokai-soft.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 東海ソフト株式会社 — 東海ソフトのIR情報について。｜東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました。",
+    "url": "https://www.tokai-soft.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【東海ソフト】2027年1Q決算｜売上高3,100百万円、経常利益379百万円 ... — Oct 9, 2026 · 東海ソフト株式会社 第1四半期決算説明資料 1Qの連結決算で売上高3,100百万円、経常利益379百万円、当期純利益240百万円となり、前年同時期と比較して売上高は増加。通期の業績予想進捗は約26.8%で、AI推進・人材確保など中期計画の進捗が記載。組込み関連の堅調さが主な寄与要因。",
+    "url": "https://japanir.jp/company/company-4430/ir/4430-20261009-02_wp_financial_summary/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト株式会社 決算説明資料 — EDINET DB — Apr 20, 2026 · 東海ソフト株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E34663/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト（4430）のIR情報・決算資料 - IRBANK — Apr 10, 2026 · 東海ソフト（4430）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/4430/ir",
+    "pass": 3
+   },
+   {
+    "quote": "業務案内 - 東海ソフト株式会社 — 東海ソフトの業務案内について。｜東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました。",
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト（4430）｜上場企業 事業内容の全文 — 東海ソフトの事業内容（2025年度 最新）を全文表示。過去年度の事業内容・ソース・提出日なども一覧できます。",
+    "url": "https://jigyou.kabu-trendpro.com/company.php?ticker=4430",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト株式会社 有価証券報告書 全文（FY2026）｜事業内容・リス... — 東海ソフト株式会社（証券コード 44300）の有価証券報告書 全文（FY2026 提出版）。事業内容・経営分析（MD&A）・リスク情報・コーポレートガバナンス・サステナビリティ・R&D・沿革など 11 セクションを原文ベースで表示。EDINET 原本 PDF へも直リンク。",
+    "url": "https://edinetdb.jp/company/E34663/text?fy=2026",
+    "pass": 3
+   },
+   {
+    "quote": "4430 東海ソフト | 事業内容 - 有価証券報告書-第53期 (令和3年6月1日... — 当社はソフトウエア開発事業の単一セグメントであるため、当社事業戦略上、組込み関連事業、製造・流通及び業務システム関連事業、金融・公共関連事業の3つの事業に区分して、以下に記載いたします。 (1)組込み関連事業",
+    "url": "https://irbank.net/E34663/business?f=S100P3VU",
+    "pass": 3
+   },
+   {
+    "quote": "【4430】東海ソフト株式会社 事業概要と成長戦略に関するIRインタビュ... — Oct 15, 2026 · ※本コラムは2024年12月12日に実施したIRインタビューをもとにしております。 東海ソフト株式会社は急速に進化する技術革新に対応し「日本の製造業をITで支える」企業です。 代表取締役会長 CEOの伊藤 秀和氏に事業戦 […]",
+    "url": "https://invest-n.jp/ir/4895/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース｜IR情報｜東海ソフト株式会社 — Apr 10, 2024 · IR情報 経営情報 個人投資家の皆様へ IRニュース IRライブラリー 株式について 財務ハイライト IRカレンダー よくあるご質問 IRお問い合わせ 電子公告 免責事項 採用情報 新卒採用 経験者採用 インターンシップ 先輩インタビュー 5分でわかる東海ソフト 社員 ...",
+    "url": "https://www.tokai-soft.co.jp/irinfo/20240410/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ／企業情報｜東海ソフト株式会社 — 東海ソフトのトップメッセージ／企業情報について。｜東海ソフト株式会社は、1970年創業以来、独立系ソフトハウスとして、品質第一・納期厳守・アフターサービス充実をモットーに、積極的に新技術を取込み、事業展開してきました。",
+    "url": "https://www.tokai-soft.co.jp/profile/message/",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト流経営の舵取り: 不況を乗り越えて株式上場を成し遂げた企... — Apr 8, 2024 · 東海ソフト株式会社 代表取締役会長 1959年8月18日生まれ。愛知県出身。1982年4月当社入社、生え抜きのソフトウエア開発者として様々な現場で ...",
+    "url": "https://zuuonline.com/archives/279216",
+    "pass": 3
+   },
+   {
+    "quote": "東海ソフト社長に尾上氏 - 日本経済新聞 — Jun 14, 2023 · 尾上 雅憲氏（おのえ・まさのり）97年（平9年）中部大工卒、東海ソフト入社。20年取締役、22年専務。愛知県出身。49歳 （8月30日就任。伊藤秀和 ...",
+    "url": "https://www.nikkei.com/article/DGXZQOFD1487N0U3A610C2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tokai-soft.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/embedded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/government/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/profile/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/profile/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/individual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/stock/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/car/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/smartfactory-expo-nagoya-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/BuildingNameChange_202608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202605.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/ManufacturingWorld2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202511.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202505.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/About_AJFlat_subsidiary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/pdf/AboutAichiChildrensSupportProject_202411.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/images/base/menu/business/btn_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/images/base/menu/business/btn_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/images/base/menu/business/btn_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/images/base/menu/business/btn_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/images/base/menu/business/btn_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/images/business_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/images/business_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokai-soft.co.jp/business/images/business_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%9D%B1%E6%B5%B7%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invest-n.jp/ir/4895/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東海ソフト",
+   "results": [
+    "https://www.tokai-soft.co.jp/",
+    "https://www.tokai-soft.co.jp/profile/outline/",
+    "https://finance.yahoo.co.jp/quote/4430.T",
+    "https://finance.yahoo.co.jp/quote/4430.T/profile",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4430",
+    "https://irbank.net/4430",
+    "https://www.tokaisoftdev.co.jp/"
+   ]
+  },
+  {
+   "query": "東海ソフト ビジネスモデル",
+   "results": [
+    "https://consovation.com/最新ir資料から読み解く東海ソフトのビジネスモ-2/",
+    "https://www.tokai-soft.co.jp/",
+    "https://www.tokai-soft.co.jp/profile/summary/",
+    "https://ir-compass.com/company/東海ソフト/",
+    "https://invest-n.jp/ir/4895/",
+    "https://note.com/buffekk/n/nf318d1859875",
+    "https://note.com/fine_sable1340/n/n1ed77edd7238",
+    "https://www.atpress.ne.jp/news/9833405",
+    "https://japanir.jp/wp-content/uploads/2026/07/4430-20260714-03.pdf",
+    "https://storage.googleapis.com/disclosed-file-bucket-d4575ee/20260826526650/1/general.pdf"
+   ]
+  },
+  {
+   "query": "東海ソフト 決算説明資料",
+   "results": [
+    "https://www.tokai-soft.co.jp/ir/library/presentation.html",
+    "https://www.tokai-soft.co.jp/ir/",
+    "https://japanir.jp/company/company-4430/ir/4430-20261009-02_wp_financial_summary/",
+    "https://edinetdb.jp/company/E34663/presentations/",
+    "https://irbank.net/4430/ir",
+    "https://www.buffett-code.com/company/4430/library",
+    "https://tdnet-pdf.kabutan.jp/20261009/140120261009548626.pdf"
+   ]
+  },
+  {
+   "query": "東海ソフト 事業系統図",
+   "results": [
+    "https://www.tokai-soft.co.jp/",
+    "https://www.tokai-soft.co.jp/business/",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=4430",
+    "https://edinetdb.jp/company/E34663/text?fy=2026",
+    "https://irbank.net/E34663/business?f=S100P3VU",
+    "https://ir-compass.com/company/東海ソフト/",
+    "https://www2.jpx.co.jp/disc/44300/140120240712548531.pdf"
+   ]
+  },
+  {
+   "query": "東海ソフト 社長 インタビュー",
+   "results": [
+    "https://invest-n.jp/ir/4895/",
+    "https://www.tokai-soft.co.jp/irinfo/20240410/",
+    "https://www.tokai-soft.co.jp/profile/message/",
+    "https://zuuonline.com/archives/279216",
+    "https://www.nikkei.com/article/DGXZQOFD1487N0U3A610C2000000/",
+    "https://biz.chunichi.co.jp/news/article/60/66006/",
+    "https://www.kabutecho.com/interview/中小企業向けｆａパッケージ提供-ｍ＆ａで体制強/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

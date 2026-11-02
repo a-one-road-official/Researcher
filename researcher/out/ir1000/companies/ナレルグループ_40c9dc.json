@@ -1,0 +1,1920 @@
+{
+ "name": "ナレルグループ",
+ "aliases": [],
+ "context": "証券コード9163／サービス業／グロース（内国株式）／2025.10期 売上高24,159百万円 営業利益率11.7%",
+ "researched_at": "2026-11-02T20:11:11.732598+00:00",
+ "official_url": "https://nareru-group.co.jp/",
+ "identified_by": "search:yahoo_jp:ナレルグループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2019年5月27日",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "グループ従業員数",
+    "value": "4,283人（2025年10月現在）",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "グループ事業内容",
+    "value": "建設ソリューション事業 ・建設・プラント業界向け技術者派遣 ・建築関連作図 ・建設DXコンサルティング ・建設業界向け人材紹介 ・建設業界向け人材マッチングプラットフォームの運営",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ワールドコーポレーション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ATJC",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "コントラフト・全国建設人材協会",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "私たちの主要顧客が属する建設業界では専門技術を持つ人材不足が深刻化しており、この課題を解決するために、積極的に未経験人材の採用を行い、一人前の技術者に育てるべく人材育成に取り組んでいます",
+    "url": "https://nareru-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの主要顧客が属する建設業界では専門技術を持つ人材不足が深刻化しており、国・産業・企業それぞれの単位での隆盛に影響を与える大きな課題となっています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、複合商業施設、大型再開発、インフラ工事等の建設プロジェクトに、お客様のニーズにあった施工管理技術者及びCADオペレーターを派遣しています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "施工図作図、モデリングやBIM活用のご提案、お客様のニーズに合わせた施工図・BIM技術者を含むチーム編成およびチーム単位での派遣など、施工図・BIM分野に特化した専門事業部を設置しています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "石油・化学・発電エネルギー・鉄鋼・環境分野などのプラント建設工事に携わる設計・施工管理、大型生産設備の保守、メンテナンス、検査、運転管理など多様なニーズにあわせて人材を派遣し、お客様の人材不足を解決いたします",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題を「ICT技術×人材」で解決するため、図面のデジタル化・検査システム、グループチャット、クラウドファイルなど、デジタルツールを活用した施工管理支援を行っています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プロフェッショナル人材で、お客様のIT課題を解決",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、業種や案件規模も関係なく、お客様のご要望に合わせて最適なIT人材をご提案させていただいています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は、当ウェブサイトのご利用者が当ウェブサイトに掲載された情報を利用したことにより被るいかなる損害についても責任を負うものではありません",
+    "url": "https://nareru-group.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "実際に投資を行う際は、ご利用者ご自身のご判断において行われるようお願いいたします",
+    "url": "https://nareru-group.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の場合、技術社員を顧客企業のプロジェクトに派遣し、契約期間中は毎月派遣料をいただくことで、安定した収益を確保しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、採用・育成のタイミングと、顧客ニーズとのマッチングをいかに最適化するかが、事業運営における最大のテーマとなっています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "まず、稼働人数の増加は、顧客企業のニーズに的確に応え、技術者を提供できている証であり、収益の安定化につながります",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、「建設DXコンサルティングの展開」として建設DX支援サービスを確立することで、顧客企業の生産性向上と業務効率化に貢献できる体制を構築していく方針です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、建設DX化の支援を行うコンサルタントや技術者を養成し、複数名で編成したチームを顧客企業に派遣することで、顧客のDX化の推進を支援しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "顧客環境の変化 （建設業界）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムを顧客に派遣し、建設業界の省",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 顧客基盤の拡大・案件数の創出・営業機能の効率化",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客基盤の拡大・案件数の創出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 顧客基盤拡大を通じた案件数の創出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 建設DX企業との協業推進を図り、当社の技術者にデジタルスキルを付けることにより、お客様の DX化を推進させる",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• お客様の課題を「人材 ×テクノロジー」で解決するため、図面のデジタル化・検査システム、グループチャット、クラウ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 既存顧客への活用支援や新",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規顧客の現場への導入支援",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 当社は、こうした金融機関と連携し、当社の職業紹介サービスを顧客企",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客需要に応えるため、成長戦略を通じて技術者の安定的な確保と退職率の低下に取り組む",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求職者 顧客企業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• これらの取り組みをベースに顧客企業と交渉し、契約単価を決定",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "登録求職者の累積数推移 登録会員数の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "登録会員数は",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みを始めたのは2012年からで、以降はお客様とともに試行錯誤しながらブラッシュアップしてきました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "職人紹介事業",
+    "url": "https://nareru-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループ会社・一般社団法人全国建設人材協会を介して日本都市開発株式会社に入社した社員紹介",
+    "url": "https://nareru-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・建設業界向け人材紹介",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "技能労働者（職人）の人材紹介事業",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 株式会社ナレルグループ",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "職人紹介事業",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建設業界における深刻な課題である「職人不足」の解決のため、職人の人材紹介事業を展開しています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社コントラフトが「職人を探している企業」（求人企業）と「職人として働きたい方」（求職者）のマッチングプラットフォームである「ジョブケンワーク」の運営や求職者情報の提供を行い、建設業務有料紹介事業許可を有する一般社団法人全国建設人材協会が職業紹介を行っています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "職人紹介サービスの展開",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建設業務の有料職業紹介事業は許可団体のみ職人の職業紹介が可能であり、一般社団法人全国建設人材協会を含む全国で４団体のみが許可を受けています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技能労働者（職人）の人材紹介事業",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介をご覧いただけます",
+    "url": "https://nareru-group.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "職人紹介事業（建設ソリューション事業）",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "採用チャネルについては、求人媒体や人材紹介事業者の活用に加え、自社採用メディア、ダイレクトリクルーティング、知人紹介など、幅広いチャネルを活用して採用を行っています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：技術社員のスキルアップおよびキャリア形成を支援する当社の取り組みをご紹介します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：次に、当社が進める職人紹介事業についてご紹介します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "当社は施工管理者等の技術者派遣が事業の中心となっていますが、新規事業として強化しているものが職人の人材紹介事業です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "この人材紹介サービスを通じて、建設業界で人材不足に苦しむすべての企業に対してサービスを提供できる唯一無二の存在を目指していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：建設業務の有料職業紹介事業は、認定団体のみ職業紹介が可能であり、全国で3団体のみが認定を受けています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "実態としては、当社グループの全国建設人材協会だけが人材紹介業の活動を行っています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "技術者派遣で蓄積した求職者情報を活用することで、職人紹介向けのプラットフォーマーとして、人材紹介ビジネスを展開していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：こちらについては、職人紹介事業を展開する当社グループ会社コントラフトの社長で当社専務取締役の柴田からご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "まず、スライドにも記載のとおり、建設業務の人材派遣および優良人材紹介事業は法令で禁止されています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "御社がグループとして職人紹介事業に参入されているということですが、現在、派遣事業で一定以上のシェアを占めており、その延長で人の確保や営業などにシナジーが効いてくるものなのでしょうか？",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：人材の採用面においては、親会社のワールドコーポレーションの母集団の中から、もの作りにより興味がある人物をコントラフトや全国建設人材協会に紹介し、職人として活躍するケースもあります",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "建設領域の職人紹介事業についても、地道な営業活動の強化と、採用面におけるキャリアアドバイザーなどの育成をこの1年で徹底しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 職人紹介メディア「ジョブケンワーク」が浸透し、成約件数の増加に貢献",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 職人紹介事業：ゼネコン協力会等とのパートナーシップ強化による営業活動",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 職人紹介事業への参入",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職人紹介事業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣・職人紹介・DXソリューションを通じて建設業界の持続可能な発展に貢献する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人向け人材紹介ビジネスを展開可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職人紹介の優位性",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“人材派遣・職人紹介・ DXソリューション ”を通じて建設業界の持続可能な発展に貢献",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職人紹介事業の拡大",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "派遣事業の展開、職人紹介事業の深耕、建設 DX事業の拡大により、事業領域を拡大",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 後半期は建設 DX・職人紹介事業の成長を加速し、生産性向上で売上拡大と収益性向上を目指す",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 建設DXや職人紹介事業の成長を加速、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 採用起点の営業体制の構築",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略 3 職人紹介事業の拡大2514",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 マッチング基盤の強化と進化による職人紹介事業の拡大",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 職人紹介事業の成長加速に向けて、ステークホルダーとのパートナーシップを強化",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップによる連携強化",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考 】職人紹介事業について",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• コントラフト及び全国建設人材協会にて、職人の人材紹介ビジネスを展開",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• コントラフトは、職人（技能労働者）の転職求人情報サイト「ジョブケンワーク」を運営し、建設業務有料職業紹介事業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループの職人紹介ビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(*1) 建設業務有料職業紹介事業とは、「事業主団体が、その構成員を求人者とし、又はその構成員若しくは構成員に常時雇用されている者を求職者とし、求人及び求職の申込みを受け、求人者と求職者との間における建設業務に就く職業に係る雇用関係の成立をあっせんす",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働大臣の許可を受けた認可団体のみ建設業務有料職業紹介事業を行うことが可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(*2) 2025年4月時点、厚生労働省「建設業務有料職業紹介事業の許可を得た団体」（一般財団法人みやぎ建設総合センター、一般社団法人沖縄県建設業協会、一般社団法人全国建設人材協会の3団体）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 建設業の有料職業紹介事業 *1は認定団体のみが職業紹介が可能で",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同協会は、職人の人材紹介が可能となる「建設業務有料職業紹介事業許可」を保有している",
+    "url": "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "pass": 3
+   },
+   {
+    "quote": "小林 良インタビュー【PORTERS MAGAZINE】人材紹介・人材派遣管理システム",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "全国建設人材協会では、職人の紹介を行っています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "また、職人の有料職業紹介をおこなうには、建設業務有料職業紹介事業許可が必要となります",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち2団体は当社が把握する限り当該サービスの提供は行っておりませんので、実質、日本で職人の有料職業紹介を実施しているのは当協会のみとなります",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣管理システム TOP",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月期 通期連結業績予想の修正に関するお知らせ",
+    "url": "https://nareru-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月度 ＫＰＩのお知らせ",
+    "url": "https://nareru-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月27日",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社ナレルグループ",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年11月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年12月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年1月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年8月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年5月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年10月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月",
+    "url": "https://nareru-group.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第3四半期",
+    "url": "https://nareru-group.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第3四半期(zip)",
+    "url": "https://nareru-group.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第3四半期",
+    "url": "https://nareru-group.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第3四半期(zip)",
+    "url": "https://nareru-group.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月12日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月期 通期決算発表",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月13日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第1四半期 決算発表",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月12日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第2四半期 決算発表",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月11日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期 第3四半期 決算発表",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月上旬",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月29日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月下旬",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月31日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月30日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月28日",
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期 上期 業績",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2019年にナレルグループを設立してから、M&Aや事業譲渡により、主力のワールドコーポレーションの他、2社のグループ会社に参画いただいています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月期の業績は、売上収益約216億円、営業利益約31億円と過去最高となっています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期もさらなる成長を計画しており、過去最高の売上収益を更新する見込みです",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期の業績については、稼働人数と契約単価の伸長を見込むことから、売上収益は前期比18.7パーセントの増収となる256億5,000万円で計画しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期上期の業績概要について、専務取締役の柴田よりご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月期決算説明",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月期 事業計画・業績予想",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年10 月期の振り返り",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年10月期の重点取り組み事項に対する評価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度 2023年度 2024年度",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度は見込値、2025年度・2030年度は予測値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2040 年建設技術者の需給ギャップ 建築分野の建設テック国内市場の推移 *1",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "建設ソリューション事業",
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "建設ソリューション事業",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建設ソリューション事業では、建設・プラント業界向けに、施工管理技術者やＣＡＤオペレーター等の技術者派遣を行うとともに、施工図作成の請負業務を展開しています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建設テック市場の拡大が期待される中で、建設ＤＸ支援を提供する新規人材サービスを確立し、建設業界のＩＴ／ＤＸ化をサポートしています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "職人紹介サービスの展開",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ITソリューション事業",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ITソリューション事業では、SIer等の開発案件・インフラ管理業務に対して、IT技術者等の人材派遣やSES（システムエンジニアリングサービス）契約による受託を行っています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメール配信サービス ※",
+    "url": "https://nareru-group.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "※IRメール配信サービスの登録受付ページ(外部サイト)へ移動します",
+    "url": "https://nareru-group.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "※IRメールは、株式会社フィナンテックが運営する「IR STREET」提供のメール配信サービスを通じて配信いたします",
+    "url": "https://nareru-group.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主・投資家をはじめとする全てのステークホルダーの皆様が、当社へのご理解を深めて頂けるよう、当社に関する重要な会社情報に関して、金融商品取引法等の関係法令及び東京証券取引所の定める「上場有価証券の発行者の会社情報の適時開示等に関する規則」（以下、「適時開示規則」）に従い、正確、公平かつ適時・適切な開示を行ってまいります",
+    "url": "https://nareru-group.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "システム保守などのために、サービスを休止したり予告なくサービスを停止する場合があります",
+    "url": "https://nareru-group.co.jp/ir/about_rss/",
+    "pass": 1
+   },
+   {
+    "quote": "建設ソリューション事業（ワールドコーポレーション）",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成に向けた取り組み（建設ソリューション事業）",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "建設DXコンサルティングの展開（建設ソリューション事業）",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "職人紹介事業（建設ソリューション事業）",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2019年にナレルグループを設立してから、M&Aや事業譲渡により、主力のワールドコーポレーションの他、2社のグループ会社に参画いただいています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、技術者という人材を提供するサービスであるため、特有のリスクも存在します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、建設業界向けの派遣事業を展開する建設ソリューション事業、ITエンジニアの派遣事業を展開するITソリューション事業の2つのセグメントにて事業を展開しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比については、約9割が建設ソリューション事業、約1割がITソリューション事業となります",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "本日は主力セグメントである建設ソリューション事業を中心にご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：建設ソリューション事業は主に、ゼネコン、工務店等から派遣依頼を受け、施工管理者、いわゆる現場監督と呼ばれる建設技術者を派遣する事業を行っています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、「建設DXコンサルティングの展開」として建設DX支援サービスを確立することで、顧客企業の生産性向上と業務効率化に貢献できる体制を構築していく方針です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：建設業界のデジタル化を支援する新規人材サービスについてご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "この人材紹介サービスを通じて、建設業界で人材不足に苦しむすべての企業に対してサービスを提供できる唯一無二の存在を目指していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "建設ソリューション事業、ITソリューション事業のいずれも順調で、業績に寄与しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：建設DX支援などの新規サービスについてご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "プラントエンジニアリングの領域に関しては、今期から新たに「O&M（運転・保守）」と呼ばれる領域に関して、人材サービスの提供を開始しました",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "連結業績 KPI （建設ソリューション：ワールドコーポレーション）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ プラント：維持管理領域に対して、人材サービスの提供を開始",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設DX 支援など新規サービスの展開を加速",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設ソリューション（建設 DX事業）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスへの展開",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ダイレクトリクルーティングサービス「職人スカウト」事",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設ソリューション（ 建設技術者派遣事業 ）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション（ ITエンジニア派遣事業）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣・職人紹介・DXソリューションを通じて建設業界の持続可能な発展に貢献する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（*1） 土木を除く建築分野の建設テックのうち、ソフトウェア・ソリューションを対象としたベンダー売上高ベース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 建設DX支援サービスの展開による社会課題の解決を通じて独自のポジションを築くことが可能と認識",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“人材派遣・職人紹介・ DXソリューション ”を通じて建設業界の持続可能な発展に貢献",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ゼネコンから専門工事会社まで建設業界の全ての企業に人材サービスを提供できる唯一の企業グ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ ITソリューション事業（ ATJC ）とのシナジー創出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ ITソリューション事業の中核企業であるATJCにて、建設業界向けICT事業を発足",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 技術者を独自の研修メニューによって育成し、 ICT 運用までを担えるような「伴走型人材サービス」 といった高付加価値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション事業（ ATJC）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション事業（ ATJC）とのシナジー創出により、建設業界の DX化を推進",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 建設DX市場の拡大が期待される中で、建設 DX支援を提供する人材サービスを展開",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ドローン測量サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ョンのもと、産業用リモートセンシングサービスの開発提供を",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "独自システム「時空間解析プラットフォーム」をベースに、主力",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品クラウド型ドローン測量サービス 「くみき 」を通じて 、誰",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ドローン測量サービス「くみき」活用拡大により効率化と品質向上を実現",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この許可は日本で3団体のみ認められており、実際にサービス展開できているのは同協会だけだという",
+    "url": "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワードホーム 金融サービスの民主化を通じて 人生が豊かにな...",
+    "url": "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "pass": 3
+   },
+   {
+    "quote": "建設領域を対象に技術者を派遣する建設ソリューション事業とIT領域にエンジニアを派遣するITソリューション事業を手掛ける株式会社ナレルグループ",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナレルグループは、建設領域とIT領域に対してソリューション事業を展開しており、未経験者を積極的に採用しプロ人材に育て、企業に送り出すことをミッションとしています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち2団体は当社が把握する限り当該サービスの提供は行っておりませんので、実質、日本で職人の有料職業紹介を実施しているのは当協会のみとなります",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   },
+   {
+    "quote": "当時の建設業界では、未経験者の育成に着目している人材サービスが少なかったこともあり、パイオニア的なビジネスモデルがうまくいったことから、未経験者特化型の流れになりました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "石油・化学・発電エネルギー・鉄鋼・環境分野などのプラント建設工事に携わる設計・施工管理、大型生産設備の保守、メンテナンス、検査、運転管理など多様なニーズにあわせて人材を派遣し、お客様の人材不足を解決いたします",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "主には、JavaやPythonなどのプログラミング言語を用いたWEBアプリケーション開発や、AWSなどのITインフラの構築・運用・保守等を行っています",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが確立してきた採用ノウハウや人材育成メソッドを横展開して低コスト採用と契約単価向上を行いつつ、システム開発における上流工程案件の受注獲得やシステム開発の案件の直接受託に向けて営業活動と技術力の強化に取り組んでいます",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "システム保守などのために、サービスを休止したり予告なくサービスを停止する場合があります",
+    "url": "https://nareru-group.co.jp/ir/about_rss/",
+    "pass": 1
+   },
+   {
+    "quote": "②単価向上余地：若手技術者中心の年齢構成",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "②単価向上余地：契約単価を引き上げやすいビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価の推移（ワールドコーポレーション）",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルは、一般的にストック型ビジネスと呼ばれる形態に分類されます",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：以上のように当社のビジネスは、ストック型の安定性と、人的資源の稼働率に左右される流動性の両面を持ち合わせています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "このような構造の中で当社の事業を支えているのが、稼働人数と契約単価です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "また、契約単価が高いほど1人当たりの収益が増加します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "特に専門スキルを有する人材を派遣することで単価が上昇し、業界全体の利益率も高まります",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "このように、稼働人数の拡大と契約単価の向上が相乗効果を生み出すことで、当社事業の成長が加速していきます",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど、当社の成長を支える要素として、稼働人数と契約単価の2点を挙げました",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "この2つを下支えしているのが、当社の強みである「採用力」の高さと「契約単価向上余地」の大きさだと思っています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：もう1つの強みは、契約単価の向上余地です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "若いメンバーは吸収力が高く、成長が早いため、当社は早い段階で契約単価を引き上げることが可能になっています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：採用については、我々建設業界だけではなく、他の産業との競争が非常に激化していると肌で感じていますし、採用単価にも表れてきていると思います",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "プラントエンジニアリングとは、発電所や化学プラント、製造工場などの大規模インフラ施設を設計・建設・保守する産業分野のことです",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：例えば2級施工管理技士の資格を取得したら、御社からの派遣単価が上がるということもあるのですか？",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：今はまだそこまでは進めていませんが、当然ながら給与も上がるため、これからは給与アップに伴う契約単価の交渉も進めていくことになると思います",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、当社では最適単価を1つの指標として定めています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期の業績については、稼働人数と契約単価の伸長を見込むことから、売上収益は前期比18.7パーセントの増収となる256億5,000万円で計画しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：契約単価の推移です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "単価交渉が非常に奏功し、上期の平均単価は前年同期比1万2,000円増加の51万9,000円まで上昇しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "それに加えて、今期は採用単価の抑制に取り組んでいます",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "プラントエンジニアリングの領域に関しては、今期から新たに「O&M（運転・保守）」と呼ばれる領域に関して、人材サービスの提供を開始しました",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価を引き上げることが可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 在籍人数・稼働人数・契約単価の伸長を見込むことから、売上収益は前期比 +21.1% で計画",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア・システムの開発・保守・運用に関する委託契約の一形態",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用力と人材育成力（単価向上余地）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たり契約単価は、経験者・未経験者含む全派遣従業員の各契約単価（残業代は除く）の期中平均値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "育成力（単価向上余地）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メソッドにより、契約単価を引き上げやすい構造",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たり契約単価 *2",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②1年目の契約単価は",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 技術的な成長余地が大きく、 契約単価が上がりやすい",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 契約単価は高いが、 中長期的な成長性は限定的",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 大量採用が可能なうえ、経験者採用と比べて採用単価を低く抑えることができるメリット",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成力：契約単価を引き上げやすいビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• これらの取り組みをベースに顧客企業と交渉し、契約単価を決定",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価は、経験者・未経験者含む全派遣従業員の各契約単価（残業代は除く）の四半期毎の平均値、稼働人数は四半期毎の平均値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たり契約単価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術フェーズ 契約単価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価アップ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価と年次別稼働人数 *1",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在籍人数稼働率 契約単価 残業単価等",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価 全派遣従業員の各契約単価（残業代は除く）の平均値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "残業単価等 時間外料金等加算額 及び不稼働減額の合計の稼働人数一人当たりの金額",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働人数 ･稼働率*1 契約単価*2",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの契約単価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経験者・未経験者含む全派遣従業員の各契約単価（残業代は除く）の平均値",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ナレルグループのビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "②単価向上余地：契約単価を引き上げやすいビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：当社のビジネスモデルは、未経験人材を採用・育成し、建設現場に技術者として派遣する人材育成型派遣ビジネスです",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループの職人紹介ビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATJCのビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループの職人人材紹介ビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成力：契約単価を引き上げやすいビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 若年層中心の技術者派遣と若手人材の育成メソッドをベースにしたビジネスモデルを構築",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当時の建設業界では、未経験者の育成に着目している人材サービスが少なかったこともあり、パイオニア的なビジネスモデルがうまくいったことから、未経験者特化型の流れになりました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：事業セグメントについてご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、建設業界向けの派遣事業を展開する建設ソリューション事業、ITエンジニアの派遣事業を展開するITソリューション事業の2つのセグメントにて事業を展開しています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比については、約9割が建設ソリューション事業、約1割がITソリューション事業となります",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "本日は主力セグメントである建設ソリューション事業を中心にご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "構成比 :89.6 %",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益*1",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年齢構成比 *1",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業就業者の年齢別構成比の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（カッコ内にセグメント又は企業名の表記がある場合は当該セグメント又は子会社の売上高 ）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上収益 セグメント利益",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(*1) 調整額は、セグメント間取引消去及び連結子会社の株式会社ナレルグループに対する経営指導料等の支払分のセグメントへの一部足し戻しによるもの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループの売上構成は、ワールドコーポレーションがほぼ9割を占めています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ナレルグループの競争優位性",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：次に、当社の競争優位性についてご説明します",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "この2つを下支えしているのが、当社の強みである「採用力」の高さと「契約単価向上余地」の大きさだと思っています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "これらの競争優位性が、当社の持続的な成長を支える重要な基盤となっています",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：もう1つの強みは、契約単価の向上余地です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "：「採用した未経験者の育成について、特徴や強みなどを教えてください」というご質問です",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "（売上総利益率）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人材×DX支援の両輪での対応が競争優位につながる",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ DX対応遅れによる競争優位性喪失",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループの強み",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みと強化事業754",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 10.0%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ループ企業としての強みを磨き上げていく方針",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率 26.9% 24.2% △2.7pt 25.8% 25.3% △0.5pt",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 13.0% 8.1% △4.9pt 11.7% 10.3% △1.4pt",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 :10.4 %",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 :",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セコカンNEXT の強み セコカンNEXT の登録者数推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術者派遣企業の売上高成長率と営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(*1) 技術者派遣企業群（「業界動向サーチ：技術者派遣業界 売上高ランキング」に記載されている技術者派遣企業群17社の内、一定の条件（①上場企業②売上高100億円以上③技術者派遣事業が売上高の過半を占める）を満たす企業の売上高成長率・営業利益率と比較",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "13.3 %営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「建設現場も男女別のトイレや更衣室が標準装備となり、施工管理という緻密な段取りが求められる仕事は、むしろ女性の強みが発揮される分野です」と小林氏は語る",
+    "url": "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【QAあり】 ナレルグループ 、建設・IT業界のプロ人材不足を ... — 【QAあり】 ナレルグループ 、建設・IT業界のプロ人材不足を ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382299",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループ (9163)個人投資家向けIRセミナー ... - YouTube — ナレルグループ (9163)個人投資家向けIRセミナー ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UldNrkpesBQ",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画（事業計画及び成長可能性に関する資料） — 中期経営計画（事業計画及び成長可能性に関する資料） 株式会社ナレルグループ https://nareru-group.co.jp > IRライブラリ",
+    "url": "https://nareru-group.co.jp/ir/library/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "9163 ナレルグループ 2025.10月期 第2四半期 アナリスト ... — 9163 ナレルグループ 2025.10月期 第2四半期 アナリスト ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/oh_no/n/nef88cf351618",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ・動画 | 株式会社 ナレルグループ — 決算説明資料 ・動画 | 株式会社 ナレルグループ 株式会社ナレルグループ https://nareru-group.co.jp > IRライブラリ",
+    "url": "https://nareru-group.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 ナレルグループ — IR情報 | 株式会社 ナレルグループ 株式会社ナレルグループ https://nareru-group.co.jp > ...",
+    "url": "https://nareru-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループ [9163]：2026年10月期 第3四半期 決算説明 ... — ナレルグループ [9163]：2026年10月期 第3四半期 決算説明 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260911534638/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループ 【9163】のIR動画 - キタイシホン — ナレルグループ 【9163】のIR動画 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-meeting",
+    "url": "https://kitaishihon.com/company/9163/ir-meeting",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | 株式会社 ナレルグループ — 事業 紹介 | 株式会社 ナレルグループ 株式会社ナレルグループ https://nareru-group.co.jp > business",
+    "url": "https://nareru-group.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社 ナレルグループ — 企業情報 | 株式会社 ナレルグループ 株式会社ナレルグループ https://nareru-group.co.jp > company",
+    "url": "https://nareru-group.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ナレルグループ の転職・企業概要 - doda — 株式会社 ナレルグループ の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10193956192",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10193956192/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレルグループ が描く建設業界の未来 時代の転換点を成長 ... — ナレルグループ が描く建設業界の未来 時代の転換点を成長 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > articles",
+    "url": "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役交代（新経営体制）のお知らせ - ナレルグループ — 代表取締役交代（新経営体制）のお知らせ - ナレルグループ 株式会社ナレルグループ https://nareru-group.co.jp > ニュース",
+    "url": "https://nareru-group.co.jp/news/post-1627/",
+    "pass": 3
+   },
+   {
+    "quote": "IPO 社長 会見 ナレルグループ 人材不足の建設業界に技術者派遣 — IPO 社長 会見 ナレルグループ 人材不足の建設業界に技術者派遣 日本証券新聞 https://www.nsjournal.jp > ipo社長会見　ナレルグループ...",
+    "url": "https://www.nsjournal.jp/ipo%E7%A4%BE%E9%95%B7%E4%BC%9A%E8%A6%8B%E3%80%80%E3%83%8A%E3%83%AC%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%80%80%E4%BA%BA%E6%9D%90%E4%B8%8D%E8%B6%B3%E3%81%AE%E5%BB%BA%E8%A8%AD%E6%A5%AD/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nareru-group.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/company/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/library/sponsored-research-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/about_rss/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/irsitemap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nareru-group.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nareru-group.co.jp/wpng2503/wp-content/uploads/2025/04/business_img08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/382299",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナレルグループ",
+   "results": [
+    "https://nareru-group.co.jp/",
+    "http://nareru-group.com/",
+    "https://x.com/narerugroup",
+    "https://diamond.jp/zai/articles/-/1074850",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9163",
+    "https://ja.wikipedia.org/wiki/ナバル・グループ",
+    "https://nareru-group.co.jp/ir/",
+    "https://nareru-group.com/",
+    "https://shikiho.toyokeizai.net/stocks/9163",
+    "https://finance.yahoo.co.jp/quote/9163.T"
+   ]
+  },
+  {
+   "query": "ナレルグループ ビジネスモデル",
+   "results": [
+    "https://finance.logmi.jp/articles/382299",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "https://www.youtube.com/watch?v=UldNrkpesBQ",
+    "https://nareru-group.co.jp/ir/library/plan/",
+    "https://note.com/oh_no/n/nef88cf351618",
+    "https://bizprep.jp/contents/15887/",
+    "https://prtimes.jp/main/html/rd/p/000000043.000132820.html",
+    "https://invest-n.jp/ir/5701/",
+    "https://ircms.irstreet.com/contents/data_file.php?template=396&brand=418&folder_contents=51955&src_data=480010&filename=pdf_file.pdf",
+    "https://nareru-group.co.jp/"
+   ]
+  },
+  {
+   "query": "ナレルグループ 決算説明資料",
+   "results": [
+    "https://nareru-group.co.jp/ir/library/presentation/",
+    "https://nareru-group.co.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260911534638/",
+    "https://ircms.irstreet.com/contents/data_file.php?template=396&brand=418&folder_contents=51955&src_data=480010&filename=pdf_file.pdf",
+    "https://kitaishihon.com/company/9163/ir-meeting",
+    "https://nareru-group.co.jp/ir/library/",
+    "https://x.com/narerugroup",
+    "https://irbank.net/9163/ir",
+    "https://edinetdb.jp/company/E38728/presentations/",
+    "https://tdnet-pdf.kabutan.jp/20250911/140120250910555724.pdf"
+   ]
+  },
+  {
+   "query": "ナレルグループ 事業系統図",
+   "results": [
+    "https://nareru-group.co.jp/business/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251212/20251211518374.pdf",
+    "https://nareru-group.co.jp/company/",
+    "https://ircms.irstreet.com/contents/data_file.php?template=396&brand=418&folder_contents=51955&src_data=479945&filename=pdf_file.pdf",
+    "https://doda.jp/DodaFront/View/Company/j_id__10193956192/",
+    "https://finance.logmi.jp/articles/378510",
+    "https://x.com/narerugroup",
+    "https://kitaishihon.com/company/9163/business",
+    "https://worldcorp-jp.com/img/35993491c45b4993d26976a1a79ae7e3203882df.pdf",
+    "https://nareru-group.co.jp/"
+   ]
+  },
+  {
+   "query": "ナレルグループ 社長 インタビュー",
+   "results": [
+    "https://www.projectdesign.jp/articles/c84d11cf-4903-4673-988b-92aa147f1961",
+    "https://hrbc.porters.jp/magazine/special_detail/id=1051",
+    "https://www.youtube.com/watch?v=jzO1iEjEcQs",
+    "https://nareru-group.co.jp/news/post-1627/",
+    "https://www.nsjournal.jp/ipo%E7%A4%BE%E9%95%B7%E4%BC%9A%E8%A6%8B%E3%80%80%E3%83%8A%E3%83%AC%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%80%80%E4%BA%BA%E6%9D%90%E4%B8%8D%E8%B6%B3%E3%81%AE%E5%BB%BA%E8%A8%AD%E6%A5%AD/",
+    "https://x.com/narerugroup/status/1888763683091993077",
+    "https://bizprep.jp/contents/15887/",
+    "https://www.youtube.com/watch?v=8EhHHACB9Qg",
+    "https://skymatix.co.jp/smx_media/5371/",
+    "https://www.youtube.com/watch?v=Eae5ztsgBis"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像8件／外部5頁・検索5回）"
+ }
+}

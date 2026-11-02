@@ -1,0 +1,1687 @@
+{
+ "name": "クロスキャット",
+ "aliases": [],
+ "context": "証券コード2307／情報・通信業／プライム（内国株式）／2026.03期 売上高17,315百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:10:35.742814+00:00",
+ "official_url": "https://www.xcat.co.jp/",
+ "identified_by": "search:yahoo_jp:クロスキャット",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "173億円",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "12,119 13,835 14,931 16,194 17,314",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高営業利益率(％)",
+    "value": "9.2 10.6 10.2 11.3 11.6",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1973 年 6月",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261026556056/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "1973 年 6 月",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "1973 年 6 月",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "システム開発、BI ビジネス、自社プロダクト開発・提供",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261026556056/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "システム開発、BI ビジネス、自社プロダクト開発・提供",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "システム開発、BI ビジネス、自社プロダクト開発・提供",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "DX人材の育成からデータ分析基盤の構築、データ活用・分析、保守までお客様のDX推進を総合的に支援しています",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第5回 Oracle Cloud Infrastructure(OCI)ユーザー会」をオラクル青山センターで開催しました",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新中期経営計画「Growing Value 2026」では、「提供価値を高め、お客様に必要とされる企業」を目指しています",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "3.顧客基盤の強化",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンドユーザー比率の拡大に向けて、既存顧客への積極的な情報提供や提案活動、アライアンス先との共創活動、「CC-Dash」",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "のフル活用したクロスセル・アップセル活動などを通じて、エンドユーザーコミュニティを強化いたします",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットは、先進的なアプリケーション開発技術と多様な運用ノウハウを活かし、お客様に最適なSIとDXのソリューションを提供しています",
+    "url": "https://www.xcat.co.jp/ja/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の視点に立った経営を基本に、品質と生産性の向上により顧客満足度を高めて事業を拡大し、加えて、収益性及び資本効率性を重視した経営を進め、企業価値の向上に取り組んでまいります",
+    "url": "https://www.xcat.co.jp/ja/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャット、AI・データ活用をテーマに「第5回 OCIユーザー会」を開催",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットの「奨学金返済支援制度」利用者、累計200名に到達",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャット、メインベンダーとしてライフカード株式会社の「顧客交渉履歴システム」を構築",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャット主催の「第4回Oracle Cloud Infrastructure(OCI)ユーザー会」をオラクル青山センターで開催",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド勤怠管理システム「CC-BizMate」のユーザー会「Mateカンファレンス」を開催",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "オラクル青山センターで「第3回Oracle Cloud Infrastructure ユーザー会」を開催",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド勤怠管理システム「CC-BizMate」ユーザー会「Mateカンファレンス」開催",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のデータ活用によるDX推進に向けて、「Oracle Analytics Cloud 移行支援サービス」提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Oracle Cloud Infrastructureユーザー会」開催",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社クロスキャットと株式会社アイデミー、お客様のDX内製化に向けた支援強化を目的に業務提携開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アイスマイリー主催「AIで顧客満足度向上ウェビナー」に当社社員が登壇",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、情報の利用につきましては、利用者の判断によって行って下さい",
+    "url": "https://www.xcat.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、他社との事業連携も含めた事業企画力強化、開発体制強化、販売力強化による業容の拡大を図りつつ、最新技術習得とマネジメントスキル習得に向けた人材育成とPMOによる品質管理活動を進めることで、お客様への最適なシステムソリューション提供を通じて、皆様から一層信頼される企業を目指します",
+    "url": "https://www.xcat.co.jp/ja/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のIT投資は経済情勢や景気動向の影響を受ける傾向にあり、日本経済が低迷又は悪化した場合には、顧客のIT投資が減少するおそれがあり、その場合には当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先への依存リスク",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先である大手メーカー系、インテグレーター系のお客様の発注方針が大きく変更された場合、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、コンプライアンス教育を実施し、法令や社内規程等の遵守に努めておりますが、コンプライアンス上のリスクを完全に回避できない可能性があり、法令などに抵触する事態が発生した場合や、取引契約に関する問題が発生した場合、社会的信用の低下、顧客からの損害賠償請求等により業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のIT投資に対する要求はますます厳しさを増しており、価格面、品質面から常に同業他社との競争にさらされております",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、社内規定に基づいて締結した顧客との契約をベースに売上債権を管理しております",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客毎に与信管理を実施のうえ与信金額を設定し、債権の滞留及び回収状況を定期的に把握し、貸倒引当金を計上しております",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "CC-Dashでは、業務データの整備からBI、分析、AI へと段階的に取り組みを広げ、お客様のデータから新たな価値を生み出し、ビジネスの最大化に貢献しています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、業界やツールを問わず、お客様にとって最適なデータ利活用の組み合わせを提案できる点が当社の強みです",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の成長は、新規顧客の獲得だけに支えられているわけではありません",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "より安定的かつ持続的な成長を実現できているのは、既存顧客との長期的な関係深化です",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、単なるデータ活用支援にとどまらず、その源泉となる業務・基幹システムの設計・構築段階から関与することで、お客様の業務に対する深い理解と高品質なデータ蓄積を実現しています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした循環モデルにより、この5 年間で年間1 億円以上の顧客数は1.8 倍に増加するなど、当社の成長性と安定性をさらに高めています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規顧客の獲得力に加え、既存顧客の成長を支えるこの循環モデルこそが、当社の構造的かつ持続的な成長基盤です",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "まず、既存のお客様であるライフカード株式会社様の取り組みをご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融領域の事例となりますが、顧客交渉履歴システム刷新プロジェクトにおいて、オンプレミス環境からクラウド環境への移行を支援しました",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "次に、新規のお客様となる独立行政法人家畜改良センター様の取り組みをご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした事例の積み重ねが、当社の顧客成長モデルの再現性を支えています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "直接受注のユーザー系は、前期に国税庁の大型案件が発生した反動により、63 億5,100 万円と9.6 パーセントの減少となりました",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "略である「価値提供モデルへの転換」、「アセットベースビジネスの拡大」、「顧客基盤の強化」、「人材・組織",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "などの提供により、業務効率化や生産性向上など様々なお客様のDX化に貢献しております",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ゼーションを推進し、お客様の持続的な成長と都内産業の活性化に貢献してまいります",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261026556056/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クロスキャットグループは、2023 年 6 月、 「IT ソリューションサービスの提供を通じて、お取引先の環境課題をお取",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "銀行やクレジット、保険、官公庁など社会インフラ分野を中心に、さまざまなお客様のシステム開発・運用を支援す",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を通じて、お客様の課題整理からデータ基盤構築、可視化・分析、AI 活用までをワンストップで支援",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データ活用プロセスに沿ってサービスを再編し、お客様が自社の課",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点としたお客様の DX 推進を支援するとともに、課題整理から活用・高度化まで伴走するパートナーと",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "30 年以上にわたる BI・データ活用分野での実績をもとに、お客様の DX 推進を支援してきました",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AI 活用まで、お客様の状況に応じた支援サービスをワンストップで提供しています",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "沿った構成へ再編することで、お客様が自社の課題や検討段階に応じて、必要なサービスへスムーズ",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用分野での実績を強みに、お客様の DX 推進を支援してきました",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データの発生から活用・高度化までを一貫して支援し、お客様の持続的な事業成長に貢献してまいり",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした取り組みにより、多様な業界で実績を積み上げており、お客様に伴走する支援スタイルと確かな実行力が高",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの積み重ねは、お客様との長期的な関係構築へとつながっています",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「CC-Dash」（ https://xcc-dash.jp/ ）は、データ活用によってお客様の DX 推進を支援する当社独自のフレームワー",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する/予測する）における様々な課題に対し、テンプレート化と各種コンサルティングサービスをお客様に提供していま",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えてアライアンス等によってソリューションサービスのラインナップを随時追加・拡充していくことで、お客様",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "銀行やクレジット、保険、官公庁など社会インフラ分野を中心に、さまざまなお客様のシステム開発・運用を支援す",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供価値を高め、お客様に必要とされる企業へ < S",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/03/teaserItems1/01/binaryNodeName/001.jpg",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたるシステム開発の豊富な実績とノウハウをベースに、先端技術を活かした高品質なシステムソリューションを提供しています",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション/お知らせ",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自のDX推進支援フレームワーク「CC-Dash」のサービスサイトを全面刷新しました",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "「当社の提供価値である品質・効率性・専門性・ノウハウを組み合わせたサービスの質を高め、カスタマーサクセスへの貢献を目指す」",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットは、先進的なアプリケーション開発技術と多様な運用ノウハウを活かし、お客様に最適なSIとDXのソリューションを提供しています",
+    "url": "https://www.xcat.co.jp/ja/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "（サービス＆プロダクトへ）",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・構築プロセスの標準化により、要件定義不要でOracle Cloud Infrastructure（OCI）環境を最短導入「OCIインフラ構築サービス」提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャット、AI活用を支える「データ活用アドバイザリーサービス」を提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自のAI利活用支援サービス「CC-Dash AI」、株式会社アイスマイリーより 「AIsmiley AI PRODUCTS AWARD 2025 SPRING」を受賞",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "DX推進支援フレームワーク「CC-Dash」のラインナップを拡充、「トータルデータ活用支援サービス」の提供を開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ANA X株式会社が進める部内コミュニケーション活性化PoCに、DX 推進支援サービス「CC-Dash AI」の検証を実施",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションサービスの開発を強化、さらなるビジネス拡大を目指す",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "人事DXを支援するクラウド勤怠管理システム「CC-BizMate」、HENNGE Oneの連携ソリューションに追加",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東急レクリエーションが進める映画館の上映スケジュール作成業務効率化プロジェクトに「CC-Dash AI」PoCサービス導入決定",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員に代わってAIが質問に応対する「CC-Dash AI Chatサービス CChat」を提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「DX 総合EXPO 2024 秋 東京」に初出展、「CC-Dash AI ChatサービスCChat」による管理部門業務効率化を提案",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店約200店舗展開する株式会社甲羅にOracle Cloud Infrastructureによるデータ分析基盤構築ソリューションを導入",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "DXを加速させるAIソリューションのラインナップ拡充、AI利活用に向けた多様なニーズに対応",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のデータ活用によるDX推進に向けて、「Oracle Analytics Cloud 移行支援サービス」提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIによるデータ分析を支援する「CC-Dashテクニカルコンサルティングサービスfor AI Machine Learning in Oracle Database」提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIで需要予測を実現する新サービス「小売業向け CC-Dash AI」提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "アマゾン ウェブ サービスの認定資格取得数が50に達した企業として、「AWS 50 APN Certification Distinction」に認定",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "品揃え国内最大級のレンタルサービス事業を展開するエイトレント株式会社のレンタル業務管理システムのクラウドシフトを支援",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "人事DX支援サービスのさらなる強化を目的に、シフト管理DXに強みを持つOplus株式会社と協業開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレミス型データウェアハウスを効率的かつ安全にクラウド化する「Oracle Autonomous Database 移行支援サービス」提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレミスで運用中のVMwareの仮想サーバーをそのままOracle Cloud環境へ移行する「OCVS構築支援サービス」を提供開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "IT製品比較サイト「IT トレンド」が開催する「忖度なし！勤怠管理システム徹底比較セミナー」に当社社員が登壇",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの主な事業は、情報サービス事業を行っています",
+    "url": "https://www.xcat.co.jp/ja/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "適時開示に該当する情報の開示は、適時開示情報閲覧サービスに公開します",
+    "url": "https://www.xcat.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "最適なシステムソリューションを",
+    "url": "https://www.xcat.co.jp/ja/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報サービス業界においては、IT技術の積極的な活用による需要が期待されるなか、高度技術を保有するIT技術者の不足により、厳しい競争が続いております",
+    "url": "https://www.xcat.co.jp/ja/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、他社との事業連携も含めた事業企画力強化、開発体制強化、販売力強化による業容の拡大を図りつつ、最新技術習得とマネジメントスキル習得に向けた人材育成とPMOによる品質管理活動を進めることで、お客様への最適なシステムソリューション提供を通じて、皆様から一層信頼される企業を目指します",
+    "url": "https://www.xcat.co.jp/ja/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報サービス企業として様々な情報資産を保有しており、ISMS（Information Security Management System）に則った情報管理・取扱と意識浸透の教育に努めておりますが、万一漏洩等の事故が発生した場合、社会的信用を低下させ、業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報サービス業界では、大幅な技術環境の変化が生じることがあります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような市場環境の中で、システム設計からマルチベンダー環境での開発、運用・保守までの全工程を単独で提供できる強みを活かし、より付加価値の高いサービスを提供することにより、単なるコストダウンのみの価格競争の影響を最小限にとどめるよう努めておりますが、見込みを超えた何らかの外的要因による価格低下圧力を受けた場合には、業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は独立系SIer として、特定の製品や資本系列に縛られない立場で事業を行っています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要領域では、前期比で売上全体の15.7 パーセントであった金融向け事業は、銀行業務システムの保守サービスなどの受注により18.2 パーセントに伸長し、2.5ポイントの増加となりました",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/library/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆プロダクト",
+    "url": "https://www.xcat.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社社員が、日本オラクル株式会社が実施するパートナー・エンジニア向け表彰プログラム「2026 OCI Top Partner Engineers」に選出されたことをお知らせします",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットのあゆみについてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットの優位性についてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容・領域についてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上や利益についてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "配当金と株主還元の考え方についてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットの理念や社名の由来についてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "これからのクロスキャットについてご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャット、富士通ディフェンス＆ナショナルセキュリティよりパートナー表彰を受賞",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "3月開催の「データマネジメント 2026」にて株式会社東急レクリエーションと共同セッションを実施、AI活用を見据えた１０９シネマズのデータマネジメントを紹介",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店約200店舗展開する株式会社甲羅にOracle Cloud Infrastructureによるデータ分析基盤構築ソリューションを導入",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社壱番屋のデータ活用基盤刷新にあたり、Oracle Autonomous Data WarehouseならびにOracle Analytics Cloudの導入パートナーとして採用",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、人材の採用を積極的に行っており、社内教育による人材育成とビジネスパートナーである協力会社との連携により技術者の確保に努めておりますが、労働市場の流動化と技術革新の多様化により必要な技術者が確保できない場合、事業展開が制約され計画を達成できない可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした成長モデルが実際のビジネスの現場でどのように実現されているのか、最後に具体的な事例をご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "まず、既存のお客様であるライフカード株式会社様の取り組みをご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "次に、新規のお客様となる独立行政法人家畜改良センター様の取り組みをご紹介します",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "ム案件の受注があり前年同期比29.6％増、金融向けにて保険代理店システムの案件が好調に推移し前年同期比",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス提供体制の整備、高度デジタル人材の育成、外部パートナーとの連携を進めます",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261026556056/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「10. 人や国の不平等をなくそう」 、 「17. パートナーシップで目標を達成しよう」への貢献を目指す取り組みです",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点としたお客様の DX 推進を支援するとともに、課題整理から活用・高度化まで伴走するパートナーと",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "DX人材の育成からデータ分析基盤の構築、データ活用・分析、保守までお客様のDX推進を総合的に支援しています",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な内容としましては、ソフトウエア開発やシステムの運用・保守などのシステム開発、ビジネスインテリジェンス（BI）導入コンサルティングやBI開発・自走支援などのBIビジネスなどを展開しています",
+    "url": "https://www.xcat.co.jp/ja/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような市場環境の中で、システム設計からマルチベンダー環境での開発、運用・保守までの全工程を単独で提供できる強みを活かし、より付加価値の高いサービスを提供することにより、単なるコストダウンのみの価格競争の影響を最小限にとどめるよう努めておりますが、見込みを超えた何らかの外的要因による価格低下圧力を受けた場合には、業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、案件は単発で終わることなく、単価・支援領域・取引期間の拡大へとつながる成長サイクルを形成しています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は長年にわたり本システムの保守を担当し、安定稼働に貢献してきました",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回の刷新により、データの一元管理と業務効率化、高度化を実現するとともに、食の安全、安心を支える社会インフラとして、将来的な拡張性や保守性の向上も図っています",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要領域では、前期比で売上全体の15.7 パーセントであった金融向け事業は、銀行業務システムの保守サービスなどの受注により18.2 パーセントに伸長し、2.5ポイントの増加となりました",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "象に、システムの設計、開発、運用・保守などにおいて、長年にわたり培ってきた技術やノウハウを活かした高",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 165 －",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に対する譲渡制限付株式に関する報酬等として支給する金銭報酬債権の総額を年額30 百",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260723598286/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守までを支援するサービスと推進体制の確立を目指します",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261026556056/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム開発・保守の提供",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/04/teaserItems1/01/binaryNodeName/004.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリングサービス",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/04/teaserItems1/01/binaryNodeName/004.jpg",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "クロスキャットの4つの強み",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値提供モデルへの転換に向けて、カスタマーファーストの考えのもと、人的リソース依存からの脱却とクロスキャット独自の強みの追求を図ります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "5. 各社の強みや特徴を活かしたグループ経営の展開",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットの事業内容をはじめ、強みや沿革、業績、配当など、個人投資家の皆様に知っていただきたい情報をまとめました",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "強みと特長は？",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "（クロスキャット4つの強みへ）",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "人事DX支援サービスのさらなる強化を目的に、シフト管理DXに強みを持つOplus株式会社と協業開始",
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような市場環境の中で、システム設計からマルチベンダー環境での開発、運用・保守までの全工程を単独で提供できる強みを活かし、より付加価値の高いサービスを提供することにより、単なるコストダウンのみの価格競争の影響を最小限にとどめるよう努めておりますが、見込みを超えた何らかの外的要因による価格低下圧力を受けた場合には、業績に影響を及ぼす可能性があります",
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率(％)",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "「基幹・社会インフラ×データ活用」を軸に、業務理解に基づくデータ活用を強みに事業を拡大",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "よりデータの重要性が高まり、着実な市場拡大が見込める中、独自の強みであるデータの発生源とデータ活用をトータルでサポート",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは、業務理解を起点にデータ活用を継続的な成果へと発展させる点にあります",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした事業アプローチを実行できている背景として、当社ならではの強みと体制があります",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、業界やツールを問わず、お客様にとって最適なデータ利活用の組み合わせを提案できる点が当社の強みです",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "次に、こうした強みと体制がどのように当社の持続的な成長につながっているのかをご説明いたします",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材確保の一環として、賃上げや教育施策の拡充、働きやすさのためのオフィス環境整備等の投資を積極的に実施いたしますが、提供価値の向上や生産性の向上により収益性を向上させ、営業利益率は0.4ポイント改善して12 パーセントを見込んでおります",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "2 年目となる2026年3 月期の実績ですが、中期経営計画3 年目の収益性に関する財務数値について、売上高、営業利益、営業利益率ともに1 年前倒しで達成しました",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "力の強化」、「各社の強みや特徴を活かしたグループ経営の展開」の各種施策が奏功し、５期連続で売上高及び各",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "供をはじめ、長年にわたり当社が強みとするデータ利活用のための支援サービスや基盤構築、自社開発システム",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クロスキャットは、多様な人材がそれぞれの強みを発揮し、継続的に価値を創出できる組織づくりを目指しています",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システムインテグレーションと BI ビジネスを強みに、DX 推進を含む年間 1,200 件を超える IT プロ",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用分野での実績を強みに、お客様の DX 推進を支援してきました",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システムインテグレーションと BI ビジネスを強みに、DX 推進を含む年間 1,200 件を超える IT プロ",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各社の強みや特徴を活かし、",
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/01/teaserItems1/04/binaryNodeName/008.jpg",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月17日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月07日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月02日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月16日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月19日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月08日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月17日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月14日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月23日",
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月17日",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算短信発表予定",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロスキャットの事業内容をはじめ、強みや沿革、業績、配当など、個人投資家の皆様に知っていただきたい情報をまとめました",
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月5日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算短信発表予定",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月5日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信発表",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月13日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信発表",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月4日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信発表",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月26日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期決算説明会",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月7日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期決算短信発表",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月5日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期決算短信発表",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月26日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月23日",
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "次に、業種別売上高の構成比についてご説明いたします",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "引き続き、当社の売上構成割合は、約6 割がクレジット、金融、官公庁・公共企業向けとなっております",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、情報サービス事業並びにこれらの付帯業務の単一セグメントであるため記載を省略しておりま",
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "当社独自のAI利活用支援サービス「CC-Dash ... - クロスキャット — 当社独自のAI利活用支援サービス「CC-Dash ... - クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > news > news202505220001",
+    "url": "https://www.xcat.co.jp/ja/news/news202505220001.html",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット 4つの強み | サービス＆プロダクト — クロスキャット 4つの強み | サービス＆プロダクト 株式会社クロスキャット https://www.xcat.co.jp > service > advantage",
+    "url": "https://www.xcat.co.jp/ja/service/advantage.html",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット 、AIソリューションサービスの開発を強化 — クロスキャット 、AIソリューションサービスの開発を強化 PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000190.000025288.html",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット 、AI活用を支える「データ活用アドバイザリー ... — クロスキャット 、AI活用を支える「データ活用アドバイザリー ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260423509070/",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料 | IRライブラリ | IR情報 | 株式会社 クロスキャット — 決算資料 | IRライブラリ | IR情報 | 株式会社 クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > library > result",
+    "url": "https://www.xcat.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 クロスキャット — IR情報 | 株式会社 クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > ...",
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 クロスキャット 】[2307]IR情報 中期経営計画や 決算 短信 — 【 クロスキャット 】[2307]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2307",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会（要約・書き起こし） | 業績・財務 - クロスキャット — 決算説明 会（要約・書き起こし） | 業績・財務 - クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > finance > transcript",
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット 【2307】の最新 決算 発表、業績修正 - 株探 — クロスキャット 【2307】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > クロスキャット (2307) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=2307",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 | 株式会社 クロスキャット — 組織図 | 企業情報 | 株式会社 クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > company > organization",
+    "url": "https://www.xcat.co.jp/ja/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社 クロスキャット — 企業情報 | 株式会社 クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > company",
+    "url": "https://www.xcat.co.jp/ja/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 クロスキャット 】[2307]企業概要 社員数や役員報酬・資本金 — 【 クロスキャット 】[2307]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=2307",
+    "pass": 3
+   },
+   {
+    "quote": "(株) クロスキャット 【東証プライム上場】の会社概要 - マイナビ — (株) クロスキャット 【東証プライム上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp55874 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp55874/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社 クロスキャット — 会社概要 | 企業情報 | 株式会社 クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > company > outline",
+    "url": "https://www.xcat.co.jp/ja/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ：営業 | キャリア採用 | リクルート総合TOP — インタビュー ：営業 | キャリア採用 | リクルート総合TOP 株式会社クロスキャット https://www.xcat.co.jp > recruit > career-interview-biz01",
+    "url": "https://www.xcat.co.jp/recruit/career-index/career-interview-biz01.html",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット 【2307】の 社長 ・役員 - キタイシホン — クロスキャット 【2307】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/2307/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット 、 社長 に山根光則氏 | 日刊工業新聞 電子版 — クロスキャット 、 社長 に山根光則氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/671255",
+    "pass": 3
+   },
+   {
+    "quote": "代表者メッセージ | 企業情報 | 株式会社 クロスキャット — 代表者メッセージ | 企業情報 | 株式会社 クロスキャット 株式会社クロスキャット https://www.xcat.co.jp > company > director",
+    "url": "https://www.xcat.co.jp/ja/company/director.html",
+    "pass": 3
+   },
+   {
+    "quote": "クロスキャット の 社長 は誰？山根 光則氏の経歴・就任年 ... — クロスキャット の 社長 は誰？山根 光則氏の経歴・就任年 ... kigyo-scope.jp https://kigyo-scope.jp > 株式会社クロスキャット",
+    "url": "https://kigyo-scope.jp/company/2307/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.xcat.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/individual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/finance/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/finance/indicator.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/finance/cashflow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/stock/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/stock/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/stock/basic.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260917537890/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/news2026081702938/main/0/link/Consolidated%20Financial%20Results%20for%20the%20Three%20Months%20Ended%20June%2030,%202026%20%5BJ-GAAP%5D.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260814520578/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260805509745/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260723598286/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261026556056/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20261020553441/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/news/auto_20260930542906/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/03/teaserItems1/01/binaryNodeName/001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/05/teaserItems1/01/binaryNodeName/002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/04/teaserItems1/01/binaryNodeName/004.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/02/teaserItems1/01/binaryNodeName/005_0314.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/01/teaserItems1/02/binaryNodeName/006.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/01/teaserItems1/01/binaryNodeName/007.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.xcat.co.jp/ja/ir/management/businessplan/main/01/teaserItems1/04/binaryNodeName/008.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/2307/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クロスキャット",
+   "results": [
+    "https://www.xcat.co.jp/ja/company/outline.html",
+    "https://www.xcat.co.jp/ja/index.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqj8",
+    "https://job.mynavi.jp/27/pc/search/corp55874/outline.html",
+    "https://kabutan.jp/stock/?code=2307",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2307",
+    "https://en-hyouban.com/company/10009276368/",
+    "https://job.rikunabi.com/company_jobs/512121540/",
+    "https://ja.wikipedia.org/wiki/クロスネット局",
+    "https://finance.yahoo.co.jp/quote/2307.T"
+   ]
+  },
+  {
+   "query": "クロスキャット ビジネスモデル",
+   "results": [
+    "https://www.xcat.co.jp/ja/news/news202505220001.html",
+    "https://www.xcat.co.jp/ja/service/advantage.html",
+    "https://blogs.oracle.com/opnjapan/opn-engineer-spotlight14",
+    "https://prtimes.jp/main/html/rd/p/000000190.000025288.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260423509070/",
+    "https://www.openwork.jp/a0910000000Fqj8/compa/a0C1000000wQY6Q/",
+    "https://job.mynavi.jp/27/pc/search/corp55874/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10009276368/",
+    "https://compass.labbase.jp/company/1222",
+    "https://www.xcat.co.jp/ja/ir/management/businessplan.html"
+   ]
+  },
+  {
+   "query": "クロスキャット 決算説明資料",
+   "results": [
+    "https://www.xcat.co.jp/ja/ir/library/result.html",
+    "https://www.xcat.co.jp/ja/ir.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2307",
+    "https://www.xcat.co.jp/ja/ir/finance/transcript.html",
+    "https://kabutan.jp/stock/finance?code=2307",
+    "https://prtimes.jp/main/html/rd/p/000000219.000025288.html",
+    "https://www.visional.inc/ja/ir/library/presentation.html",
+    "https://muscatgroup.co.jp/ir/presentations/",
+    "https://www.daiwair.co.jp/td_download.cgi?c=2307&i=3048181",
+    "https://edinetdb.jp/company/E05291/presentations/"
+   ]
+  },
+  {
+   "query": "クロスキャット 事業系統図",
+   "results": [
+    "https://www.xcat.co.jp/ja/company/organization.html",
+    "https://www.xcat.co.jp/ja/company.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2307",
+    "https://job.mynavi.jp/27/pc/search/corp55874/outline.html",
+    "https://www.xcat.co.jp/ja/company/outline.html",
+    "https://kitaishihon.com/company/2307/story",
+    "https://corp.wiki.fc2.com/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88?pc",
+    "https://www.openwork.jp/a0910000000Fqj8/compa_f/0023/",
+    "https://www.xcat.co.jp/ja/index.html",
+    "https://kitaishihon.com/company/2307/business"
+   ]
+  },
+  {
+   "query": "クロスキャット 社長 インタビュー",
+   "results": [
+    "https://www.xcat.co.jp/recruit/career-index/career-interview-biz01.html",
+    "https://kitaishihon.com/company/2307/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/671255",
+    "https://www.xcat.co.jp/ja/company/director.html",
+    "https://kigyo-scope.jp/company/2307/ceo/",
+    "https://fact-board.co.jp/company/d-xcat/reputation/",
+    "https://www.nikkei.com/article/DGKKZO70536180W3A420C2TB2000/",
+    "https://jinjibu.jp/hr-conference/202111/interview_detl.php?anc=H2",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260907/20260907532499.pdf",
+    "https://www.xcat.co.jp/ja/company/executive.html"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像15件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像15件／外部1頁・検索5回）"
+ }
+}

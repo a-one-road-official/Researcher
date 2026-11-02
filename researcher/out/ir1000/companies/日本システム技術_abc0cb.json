@@ -1,0 +1,753 @@
+{
+ "name": "日本システム技術",
+ "aliases": [],
+ "context": "証券コード4323／情報・通信業／プライム（内国株式）／2026.03期 売上高32,459百万円 営業利益率12.0%",
+ "researched_at": "2026-11-02T20:07:09.753645+00:00",
+ "official_url": "https://jmics.jp/",
+ "identified_by": "search:ddgs:google:日本システム技術",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "社会とお客様へ新たな価値を提供してまいります",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客基盤（1/2）",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "顧客基盤（2/2）",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は「顧客基盤」です",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は「高い顧客リピート率」です",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：顧客基盤についてです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：当社には、長期にわたりお付き合いいただいている大手の優良顧客基盤があります",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "が、顧客の業績低迷による情報化投資の抑制や単価低減による受注減少の影響で、減収減益の状況となっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "スライドの表は、縦軸に市場・顧客、横軸に製品・サービスを配置し、それぞれを既存と新規に区分けしてカテゴライズしています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ご提供サービス",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広いサービスをワンストップで",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "データヘルス計画策定支援から実行フェーズ、システム提供によるICT化まで幅広くサービスを提供します",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レセプト点検サービス",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険者業務支援サービス「iBss」",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レセプト管理クラウドサービス",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ビッグデータサービス",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取得支援サービス",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サーバー提供元のサービス一時停止の影響",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご提供サービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、幅広い保険者様に医療費分析、保健事業をワンストップでサービスを提供している業務経験を生かし、保険者の皆様の保健事業に関する医療費分析等事業や医療費/医療扶助費に関する適正化事業を強力に推進・支援いたします",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "レセプト点検サービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "点検・通知・Web・分析サービスをまとめたワンストップサービス提供を開始",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "現事業部の前身である医療情報サービス事業部を設立",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "国民健康保険様向けサービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "都道府県様向け医療費分析業務のサービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "生活保護様向けサービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "レセプト点検事業者様向けに「JMICS」クラウドサービスの提供を開始",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "後期高齢者医療広域連合様向けにサービス提供を開始",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "データヘルス計画策定支援サービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ポリファーマシー対策事業（医療費適正通知事業）のサービス",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Web検認システムがクラウドサービスとして販売を開始",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「iBss」を健康保険組合様向けソリューションとしてリリース",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "疾病リスク予測AIを用いた勧奨通知サービス提供開始",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "GAKUEN事業（1/2）-強み①「ワンストップサービスを提供」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "BankNeo事業（1/2）-強み①「業務に応じた多様な商品群」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "医療ビッグデータ事業（1/2）-強み①「多様なサービスメニュー」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "この53年の歴史を通じて、あらゆる業種や業界にソリューションを展開してきましたが、特に教育・医療・金融といった分野においては、現場に深く入り込み、ITを活用して課題を解決するという姿勢を貫いてきました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、当社は自社ブランド製品を開発し、現在では業界基盤を支える存在へと成長しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "また、最近のメガソリューションと言われる「SAP」や「Salesforce」などのソリューションを活用しながら、お客さまの課題解決に結びつける事業となっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ事業は、DX&SI事業で長年にわたり開発を進める中で蓄積された知見やノウハウを駆使し、当社の自社ブランド製品としてオリジナルパッケージを展開している事業です",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "医療ビッグデータ事業は、医療情報データの点検や分析、およびそれに伴う関連サービスの提供を行っています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "DX&SI事業が主力で、全体の約60パーセントを占めています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、企業成長の原動力である情報技術への情熱や、お客さまに対する誠心誠意のサービス提供につながっていると考えています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは、お客さま主体のDX&SI事業に加え、教育・医療・金融を中心とした領域で、自社ブランド製品の開発・展開を進めるものです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "同じSIerとして、DX&SI事業と自社ブランド製品をあわせ持っている会社はなかなかないため、これを当社の強みの1つと捉えています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "この事業は、完全独立系で地域や業種・業界に特化することなく、すべてのお客さまに多種多様なソリューションを展開してきました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、昨今ではメガソリューションを含むサービス領域にも目を向けて、上流工程である企画、設計にも注力するようになっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、スライド右上に示されている卒業後の取り組みとして、学校と学生の関係が卒業を機に希薄になってしまうことへの対策として、アルムナイサービスである「ALUPA」を一昨年8月にリリースしました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "それに加え、4年間のキャンパスライフだけでなく、卒業生をつなぐアルムナイサービスも展開しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "また、昨年プレスリリースでも発表しましたが、学費納入に関して、従来は納入書を用いて銀行ATMから振り込む方法が一般的でしたが、キャッシュレス化を進め、カードでの振り込みやPayPayを利用した支払いが可能となるキャッシュレスサービスを開始しました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "この事業は、地方銀行や信用組合、信用金庫を主要ターゲットとし、ニッチなサービスを展開しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "提供しているサービスについてです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、これらを補完するニッチな製品を開発し、提供しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "これまで全国の点検業者が目検でチェックしていたレセプトを、当社はコンピューターで自動点検するサービスから事業を始めました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "現在では、このビッグデータを活用し、さまざまなデータの分析や利活用といった新しいサービスが次々と派生しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "当社も事業を開始した当初は、これほどまでに広がるとは想定していませんでしたが、結果的に、より高収益なサービスへと発展してきました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "この要因の1つとして、当社は完全独立系であり、地域や業種・業界に特化せず、さまざまなお客さまに対してソリューションを提供してきたことが挙げられます",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "IT業界では「選択と集中」という方針のもと、特定の業界に絞ってソリューションを展開する企業が多く見られます",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2011年に開始した事業で現在は500を超える保険者様とお取引させていただいています",
+    "url": "https://jmics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年から医療ビッグデータ事業を開始",
+    "url": "https://jmics.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 前期実績（主要財務指標）",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期実績（主要財務指標）",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期実績（セグメント別）",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期業績予想",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "1973年3月に大阪で創業し、今年で創業53年目を迎える、完全独立系のソフトウェア開発会社です",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：沿革についてです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2003年に東証二部上場、2017年には東証一部へ指定替え、そして2022年には計画より1年前倒しで東証プライム市場へ移行しました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の最終到達点として、グループ全体で売上高1,000億円を目指していきます",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "沿革、経営哲学を創業社長の平林氏が、戦略は常務取締役の大門氏が語ります",
+    "url": "https://www.youtube.com/watch?v=PCvB0v_GriQ",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社は日本システム技術株式会社といい、お客さまやパートナーからは略称で「JAST（ジャスト）」と呼ばれています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "こちらに関しては、サブスクリプション形式で導入され、ノンカスタマイズかつノートラブルで運用に踏み切っていただきました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "が、顧客の業績低迷による情報化投資の抑制や単価低減による受注減少の影響で、減収減益の状況となっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "2026年3月期 第3四半期実績（セグメント別）",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "当社は4つの事業セグメントを展開しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "スライド中央の円グラフは売上構成を示しています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "少し掘り下げてご説明すると、自社ブランドは先ほどご説明した4つのセグメントのうち、パッケージ事業と医療ビッグデータ事業の2つに該当します",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：セグメント別の状況です",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "GAKUEN事業（1/2）-強み①「ワンストップサービスを提供」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "GAKUEN事業（2/2）-強み②「業界トップシェア」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "BankNeo事業（1/2）-強み①「業務に応じた多様な商品群」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "BankNeo事業（2/2）-強み②「豊富な導入実績」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "医療ビッグデータ事業（1/2）-強み①「多様なサービスメニュー」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "医療ビッグデータ事業（2/2）-強み②「全保険者種別との取引実績」",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：事業概要と強みについてです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：当社の強みとして3点挙げています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "同じSIerとして、DX&SI事業と自社ブランド製品をあわせ持っている会社はなかなかないため、これを当社の強みの1つと捉えています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "このような挑戦によって蓄積された成果と知見こそが、当社の技術力となり、強みにつながっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：「GAKUEN」事業の強みについてです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "：医療ビッグデータ事業の強みについてご説明します",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "当社も事業を開始した当初は、これほどまでに広がるとは想定していませんでしたが、結果的に、より高収益なサービスへと発展してきました",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "医療ビッグデータ事業の源泉は、当社がIT企業であることの強み、データサイエンティストを含むデータ活用の専門人材、そして月間1,000万枚近くのレセプトから得られる医療ビッグデータを保有していることです",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "これらが当社の大きな強みとなっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "DX&SI事業のプロセスにおける、下流工程から上流工程へ結びつく案件も増加しており、これが高収益の体系につながっています",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランドのパッケージソフトウェアの営業利益率は高い",
+    "url": "https://www.youtube.com/watch?v=PCvB0v_GriQ",
+    "pass": 3
+   },
+   {
+    "quote": "あだちの極意 Vol.2 前編｜二度目の起業と「参入障壁のつくり方」【ゲスト：Glocalist】",
+    "url": "https://www.youtube.com/watch?v=PCvB0v_GriQ",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JAST 日本システム技術 株式会社 — JAST 日本システム技術 株式会社 JAST 日本システム技術株式会社 https://www.jast.jp",
+    "url": "https://www.jast.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 、「誰もが知る課題解決企業」への転換を ... — 日本システム技術 、「誰もが知る課題解決企業」への転換を ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384007",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 - JAST 日本システム技術株式会社 — 事業紹介 - JAST 日本システム技術株式会社 JAST 日本システム技術株式会社 https://www.jast.jp > SERVICE",
+    "url": "https://www.jast.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 新中計を発表、教育・医療を中核に提案型 ... — 日本システム技術 新中計を発表、教育・医療を中核に提案型 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > ニュース",
+    "url": "https://www.projectdesign.jp/articles/news/9d4a1f7e-eca3-41c7-a3f8-f51502bd4865",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ2027 - 日本システム技術 (株)【東証プライム市場上場】 — マイナビ2027 - 日本システム技術 (株)【東証プライム市場上場】 マイナビ https://job.mynavi.jp > search > corp71121 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp71121/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 等｜IR情報 - JAST 日本システム技術株式会社 — 説明 会 資料 等｜IR情報 - JAST 日本システム技術株式会社 JAST 日本システム技術株式会社 https://www.jast.jp > library > materials",
+    "url": "https://www.jast.jp/ir/library/materials/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明 会 資料 - 日本システム技術 — 2026年3月期 決算説明 会 資料 - 日本システム技術 JAST 日本システム技術株式会社 https://www.jast.jp > IR情報",
+    "url": "https://www.jast.jp/library/materials/22676/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - JAST 日本システム技術株式会社 — IR情報 - JAST 日本システム技術株式会社 JAST 日本システム技術株式会社 http://www.jast.jp > ...",
+    "url": "http://www.jast.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 のIR 資料 - 4323 / プライム / 情報・通信業 — 日本システム技術 のIR 資料 - 4323 / プライム / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/4323/library",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 日本システム技術 、新体制移行に伴い「JAST ... — 【QAあり】 日本システム技術 、新体制移行に伴い「JAST ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382264",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - JAST 日本システム技術株式会社 — 組織図 - JAST 日本システム技術株式会社 JAST 日本システム技術株式会社 https://www.jast.jp > 会社情報",
+    "url": "https://www.jast.jp/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 (株)【東証プライム市場上場】 - マイナビ2028 — 日本システム技術 (株)【東証プライム市場上場】 - マイナビ2028 マイナビ https://job.mynavi.jp > search > corp71121 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp71121/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 （4323）のプロフィール — 日本システム技術 （4323）のプロフィール 四季報オンライン https://shikiho.toyokeizai.net > ... > 日本システム技術",
+    "url": "https://shikiho.toyokeizai.net/stocks/4323/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "ZUU onlineにて 社長インタビュー 記事が掲載されました — ZUU onlineにて 社長インタビュー 記事が掲載されました JAST 日本システム技術株式会社 https://www.jast.jp > お知らせ",
+    "url": "https://www.jast.jp/seminar/22289/",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 ｜4323 CEO インタビュー - YouTube — 日本システム技術 ｜4323 CEO インタビュー - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=PCvB0v_GriQ",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 株式会社 代表取締役 社長 平林 卓 - 社長名鑑 — 日本システム技術 株式会社 代表取締役 社長 平林 卓 - 社長名鑑 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5549",
+    "pass": 3
+   },
+   {
+    "quote": "日本システム技術 (株)【東証プライム市場上場】の取材情報 — 日本システム技術 (株)【東証プライム市場上場】の取材情報 マイナビ https://job.mynavi.jp > search > corp71121 > premium",
+    "url": "https://job.mynavi.jp/27/pc/search/corp71121/premium.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jmics.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmics.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmics.jp/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jast.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/384007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jast.jp/ir/library/materials/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jast.jp/library/materials/22676/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jast.jp/corporate/organization/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jast.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jast.jp/seminar/22289/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=PCvB0v_GriQ",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本システム技術",
+   "results": [
+    "https://www.jast.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp71121/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/4323/corporate",
+    "https://www.obc.co.jp/bugyo-partner/list/jast",
+    "https://jp.linkedin.com/company/japan-system-techniques-co-ltd-",
+    "https://ja.wikipedia.org/wiki/日本システムサプライ",
+    "https://www.jast.jp/corporate/",
+    "https://finance.yahoo.co.jp/quote/4323.T/profile",
+    "https://finance.yahoo.co.jp/quote/4323.T",
+    "https://jmics.jp/"
+   ]
+  },
+  {
+   "query": "日本システム技術 ビジネスモデル",
+   "results": [
+    "https://www.jast.jp/",
+    "https://finance.logmi.jp/articles/384007",
+    "https://www.jast.jp/service/",
+    "https://www.projectdesign.jp/articles/news/9d4a1f7e-eca3-41c7-a3f8-f51502bd4865",
+    "https://job.mynavi.jp/27/pc/search/corp71121/outline.html",
+    "https://jast-recruit.snar.jp/index.aspx?id=o-rKkNVfstw",
+    "https://www.obc.co.jp/bugyo-partner/list/jast",
+    "https://commubo.com/usecase/jast",
+    "https://weekly-osakanichi2.net/archives/52025",
+    "https://consovation.com/株式会社日本システム技術-jast-成長戦略とビジネス/"
+   ]
+  },
+  {
+   "query": "日本システム技術 決算説明資料",
+   "results": [
+    "https://www.jast.jp/ir/library/materials/",
+    "https://www.jast.jp/library/materials/22676/",
+    "http://www.jast.jp/ir/",
+    "https://www.buffett-code.com/company/4323/library",
+    "https://finance.logmi.jp/articles/382264",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4323",
+    "https://minkabu.jp/stock/4323/settlement",
+    "https://www.jast.jp/cms/wp-content/uploads/2026/08/ir_notice20260813_2.pdf",
+    "https://www.jast.jp/ir/",
+    "https://www.jast.jp/ir/library/earnings/"
+   ]
+  },
+  {
+   "query": "日本システム技術 事業系統図",
+   "results": [
+    "https://www.jast.jp/corporate/organization/",
+    "https://www.jast.jp/",
+    "https://finance.logmi.jp/articles/382264",
+    "https://job.mynavi.jp/28/pc/search/corp71121/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/4323/corporate",
+    "https://jmics.jp/",
+    "https://www.jast.jp/corporate/outline/",
+    "https://jast-recruit.snar.jp/index.aspx?id=o-rKkNVfstw",
+    "https://kitaishihon.com/company/4323/story",
+    "https://www.jast.jp/service/"
+   ]
+  },
+  {
+   "query": "日本システム技術 社長 インタビュー",
+   "results": [
+    "https://www.jast.jp/seminar/22289/",
+    "https://www.youtube.com/watch?v=PCvB0v_GriQ",
+    "https://finance.logmi.jp/articles/384007",
+    "https://shachomeikan.jp/industry_article/5549",
+    "https://job.mynavi.jp/27/pc/search/corp71121/premium.html",
+    "https://www.jast.jp/corporate/message/",
+    "https://prtimes.jp/main/html/rd/p/000000171.000092153.html",
+    "https://jobtalk.jp/companies/1309/answers/1364538",
+    "https://www.jast.jp/seminar/22453/",
+    "https://invest-n.jp/ir/2434/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

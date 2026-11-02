@@ -1,0 +1,1810 @@
+{
+ "name": "デイトナ",
+ "aliases": [],
+ "context": "証券コード7228／輸送用機器／スタンダード（内国株式）／2025.12期 売上高14,377百万円 営業利益率11.2%",
+ "researched_at": "2026-11-02T20:17:05.329450+00:00",
+ "official_url": "https://www.daytona.co.jp/",
+ "identified_by": "search:ddgs:google:デイトナ",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高（百万円）",
+    "value": "2024年実績 2,200、2025年予想 3,000、2026年目標 4,150、2027年目標 4,500",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "label": "売上高（億円）",
+    "value": "2022年実績 1.9、2023年実績 1.4、2024年実績 2.4、2025年予想 2.2、2026年目標 3.0、2027年目標 4.2",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "［中間報告］メール配信サービスへの不正アクセスに伴う個人情報漏洩の可能性について（現時点においてお客様情報の漏洩は確認されておりません）",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "① お取引先様在庫分について",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様にて在庫いただいております該当商品の在庫につきましては、 全品回収させていただき良品と",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② ユーザー様ご購入分について",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様がご購入済みの商品につきましては、 良品との交換対応を実施いたします",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年 10 月中旬から末頃を予定しておりますので、対象のお客様には弊社【WEB からのお問い合わせ】まで",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後とも商品の品質向上に努め、 お客様に喜ばれる商品開発に一層努力する所存でござ",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様 各位",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、対象商品をご使用のお客様には、お手持ちの商品をご確認のうえ、スナップボタンが外",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れやすい場合はご使用をお控えいただき、デイトナ公式 WEB サイトの「お客様サポート」→「WEB から",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様には多大なるご迷惑をお掛けすることとなり、こころよりお詫び申し上げます",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様、ならびにお得意先様には、多大なるご迷惑をお掛けすることとなり、こころよりお詫び申し上げます",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デイトナホームページの「お客様サポート」ページより、「WEBからのお問い合わせ」のお問い合わせフォーム（商品の不具",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、下記のデイトナホームページ「お客様サポート」ページより、ご連絡をお願いいたします",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様ならびにお得意先各位",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様ならびにお得意先各位",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品をご使用中のお客様へ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様、ならびにお得意先様には、多大なるご迷惑をお掛けすることとなり、こころよりお詫び申し上げます",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■弊社での注油作業をご希望のお客様へ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様ならびにお得意先各位",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品をご使用中のお客様へ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様には多大なるご迷惑をお掛けすることとなり、こころよりお詫び申し上げます",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、対象商品をご使用のお客様には、ただちに使用をお控えいただき、以下の手順で弊社までご連絡いただきますよ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・コミュニティを大切にし、顧客が参加できるイベントやSNS企画などを積極的に展開しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デイトナは「ライフスタイルを提案する」という高付加価値型のアプローチで顧客を惹きつけ、その体験を共感ベースで広げる戦略を選択しました",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "このように「情熱」と「豊かさ」にフォーカスした価値提案は、顧客との深い信頼関係を築きながらファン層を増やす原動力となっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客とのイベント企画やコミュニティ活性化施策",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、オンラインでもSNSやライブ配信を活用することで顧客とのつながりを途切れさせない仕組みを整えました",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、オンラインと実店舗双方の販売チャネルを確保することで、顧客との接触機会を最大化しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした仕組みは大量生産型ビジネスではなく、あくまで「顧客とのつながり」を重視するビジネスモデルにおいて、強固な差別化要因となっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ライフスタイル提案型のビジネスはトレンドの変化が激しく、多種多様な顧客ニーズに対応する必要があります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が商品やサービスを知り、共感し、購入につなげるには、リアルとデジタルの両面からアプローチが必要だからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、実店舗やポップアップストアでは顧客同士やスタッフとのコミュニケーションを通じて世界観を直接体験してもらうことができます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "このように複数のチャンネルを有機的に結び付けることで、どの段階からでも顧客がスムーズにブランドの魅力を体感できる仕組みを構築し、ファン化を促進しているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "「情熱を共有する」ことが同社のビジョンであり、顧客と長期的な関係を築くにはコミュニティや体験の場が重要と考えているからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "モノを買うだけでなく、共感や学びを得る機会を提供することで、顧客がブランドの一部になったような高い満足度を感じます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、イベントやSNS企画を通じて顧客同士がつながることで、「ファンがファンを呼ぶ」好循環が生まれやすくなります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "アフターサポートを充実させることで、顧客との信頼を長期的に維持できるという利点も得られています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "価格だけで勝負するのではなく、ブランド価値やライフスタイル提案の付加価値を求める顧客が主なターゲットになっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、商品のデザイン性や世界観がわかりやすい形で打ち出され、より感度の高い顧客層を中心に支持されているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル技術の進歩によりオンラインで完結するサービスや顧客データの活用が進んだことで、顧客のロイヤルティを向上させる施策を展開しやすくなっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "単に安価な商品を大量に仕入れて販売するモデルとは異なり、顧客がブランドの世界観に入り込みやすい仕掛けをつくるための費用がある程度必要になります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その投資がうまく機能すれば、ファン層の拡大や顧客満足度の向上につながり、中長期的にはリピーターの増加による売上確保や利益率の改善をもたらします",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デイトナでは、情熱を持った社員が顧客へ高品質な体験を提供することで、ブランドイメージが向上し、さらに新たなファンを呼び込む好循環が生まれています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、コミュニティイベントを開催して顧客同士のつながりが強まると、それがSNSなどを通じて自然と拡散され、新規顧客が興味を持つきっかけになります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "新たな顧客は同社が提供するライフスタイルの魅力を体験し、再びコミュニティへ参加してファンとなるため、ブランド全体の価値がさらに高まります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー視点に基づく商品企画力",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザー参加型の開発体制を取り入れており、実際のライダーの声を商品開発に反映できる点も特徴です",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "GMOコマース<410A>顧客数×単価で伸びる王道モデル、成長持続の鍵は拡張力",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "ミラティブ<472A>黒字化で転換点へ｜ロイヤルユーザー成長で利益拡大フェーズ入り",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "販売先・ポジショニング",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売先別では、国内拠点卸売が35%、Eコマースが41%、アジア拠点卸売が7%、小売（直販）が17%を占めます",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内主要12ジャンルでユーザー支持率No.1獲得を目指す",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ECでの販売データをベースに顧客に遡及する価格帯の商品を充実",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア：直接販売先の拡大",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ライダーとして、ユーザーの潜在ニーズを捉えた商品企画と、利益を意識した商品開発",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "社員＝ライダーとして、ユーザーの潜在ニーズを捉えて仮説を立てる",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "［中間報告］メール配信サービスへの不正アクセスに伴う個人情報漏洩の可能性について（現時点においてお客様情報の漏洩は確認されておりません）",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービスへの不正アクセスに伴う個人情報漏洩の可能性について",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「BRAKING」商品 一部取り扱い終了と定番外商品受注サービス終了のお知らせ",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「こんな商品があればいいのに」",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「この商品、もっとこうだったらなあ」",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新たな商品作りや商品改良に活かしています",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした発想から生まれた商品は多くのライダーの心を打ちました",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品情報「LOVE LETTER（ラブレター）」11月号を公開しました",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "番:69548)」におきまして、構成部品の一部に不具合があり正しく取り付けができない商品がございまし",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様にて在庫いただいております該当商品の在庫につきましては、 全品回収させていただき良品と",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様がご購入済みの商品につきましては、 良品との交換対応を実施いたします",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品名：CB400SF2026 年モデル用 LED フェンダーレスキット",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カタログ掲載ページ 品番 商品名 旧価格 新価格 新価格( 税 込 み） JA Nコード",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "下記商品の価格を改定させていただくことになりましたのでお知らせいたします",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、 価格改定日は商品により異なり、 2026年8月21 日 （金） または2026年9月 1 8日 （金） となります",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "詳細は商品ごとの改定日をご確認ください",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 価格改定後も、 商品番号、 JANコードに変更はございません",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後とも商品の品質向上に努め、 お客様に喜ばれる商品開発に一層努力する所存でござ",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●2026年8月21日 （金） 価格改定商品 （2026年8月21日 （金） 12:00受注分より実施）",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●2026年9月18日 （金） 価格改定商品 （2026年9月18日 （金） 12:00受注分より実施）",
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部の商品におきまして、内装の後頭部を固定する樹脂クリップ（ねじ形状パーツ）の個体差により、 内装",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のスナップボタンが外れやすい商品が混在していることが判明いたしました",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、対象商品をご使用のお客様には、お手持ちの商品をご確認のうえ、スナップボタンが外",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のお問い合わせ」の「お問い合わせフォーム（商品の不具合について）」 よりご連絡ください",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品をご送付いただいたのち、内装の後頭部を固定する樹脂クリップを",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は商品管理",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品 DN-011RC カーボンヘルメット",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品番号 標準価格（税込） JANコード4909449",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は商品管理体制を見直しを図り、再発防止に努める所存ですので、何卒ご理解とご協力を賜りますようお願い申",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デイトナホームページの「お客様サポート」ページより、「WEBからのお問い合わせ」のお問い合わせフォーム（商品の不具",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品の確認方法",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、対象商品（ヘルメットマウント）をお持ちの場合はご使用をお控えいただき、お手数をお掛けいたします",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象の商品（ヘルメットマウント）がお手元にございましたら、お手数をお掛けいたしますが、弊社にご連絡いただき、返",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※対象期間外に出荷された商品は対象外です",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象商品の確認方法①",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象商品はヘルメットマウント",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象商品の確認方法②",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象商品は本体をヘルメットマウン",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品名（適合車種） 商品番号 標準価格（税込） JANコード4909449 商品名（適合車種） 商品番号 標準価格（税込） JANコード4909449",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品をご使用中のお客様へ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該商品のフック穴奥に潤滑グリススプレー（推奨：リチウム系グリス）を注油していただきますと、動作がより滑らかになり、長期的にご",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象の商品がお手元にございましたら、お手数をおかけいたしますが、返送のご協力をお願い申し上げます",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社にて注油済みの商品と",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は商品管理体制を見",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品 ダイヤルヘルメットホルダー（車種専用品）",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お手数ではございますが、商品をお送りいただければ、弊社にて注油作業を行いますので、どうぞお気軽にご利用くださいませ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お問い合わせ受付URLより お問い合わせフォーム（商品の不具合について） にアクセスし、購入日と店名が確認できるレシートなどの",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■対象商品をご使用中のお客様へ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以下のお問い合わせ受付URLより「お問い合わせフォーム（商品の不具合について）」にアクセスし、購入日と店名が確認でき",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該商品がお手元にございましたら、お手数をおかけいたしますが、返送のご協力をお願い申し上げます",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は商品管理体制を見直しを図り、再発",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イト（品番：68660）」の一部ロットにおきまして、製造工程上の問題により、別の塗料が充填された商品が混在していること",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スプレー缶底面のロット番号「T4902AS」が対象商品となります",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つきましては、対象商品をご使用のお客様には、ただちに使用をお控えいただき、以下の手順で弊社までご連絡いただきますよ",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品を回収確認後、代替品と交換させていただきます",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社デイトナは、二輪車（オートバイ）のアフターパーツや関連用品の企画・開発・卸売を主力事業として展開する企画開発型メーカーです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "グリップやブレーキパッドなどの消耗品から、電子機器、ウエア、キャンプ用品に至るまでライダーのニーズに寄り添う多彩な商品を扱い、国内外の販売網やECチャンネルを通じて世界中のバイクライフを支える強力なブランドポジションを確立しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "この業績背景には、国内市場におけるライダー向け新製品の投入やEC販売の強化に加え、アジアを中心とした海外拠点卸売事業での販売拡大が売上高を牽引したことがあります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "・衣食住にわたる多様な商品ラインナップで、日常生活を特別な体験に変えようとしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "・アパレルや雑貨など、ライフスタイルを彩る商品の企画と開発",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ビジネスパートナー様専用サイト",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "静岡県菊川市観光協会との観光パートナー協定締結のお知らせ",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "埼玉県秩父郡小鹿野町(おがのまち)との観光パートナー協定締結のお知らせ",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知県豊田市しもやま観光協会との観光パートナー協定締結のお知らせ",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県 佐倉商工会議所との観光パートナー協定締結のお知らせ",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グリップやブレーキパッドなどの消耗品から、電子機器、ウエア、キャンプ用品に至るまでライダーのニーズに寄り添う多彩な商品を扱い、国内外の販売網やECチャンネルを通じて世界中のバイクライフを支える強力なブランドポジションを確立しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "・オンラインストアや実店舗での販売網の拡充や運営",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "特に実店舗では商品のリアルな体験を重視し、スタッフとのコミュニケーションを通じてファンづくりを進めています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、オンラインと実店舗双方の販売チャネルを確保することで、顧客との接触機会を最大化しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "自社だけであらゆる工程を完結させるよりも、得意分野をもつパートナーと協力したほうが創造性を高めやすいからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパートナーシップを築き上げることが、ブランドイメージに合った高品質の商品や独自性のあるイベントを実現するうえで大きな効果を発揮し、結果的に差別化と安定した供給体制の両立に成功しているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "・ライフスタイルを体験できるコンセプト重視の実店舗",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、実店舗やポップアップストアでは顧客同士やスタッフとのコミュニケーションを通じて世界観を直接体験してもらうことができます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "・実店舗やオンラインストアの運営コスト",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン上でのコミュニティ活動が活発化するなか、実店舗の役割は「体験」や「交流」にシフトしていく傾向が強まっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、株式会社デイトナはSNSやライブ配信を駆使しながら、実店舗やイベントでしか味わえない特別な体験を提供することで、顧客のロイヤルティ向上につなげる戦略を続けるでしょう",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "全国約4,000店舗とのネットワークを背景に、主力事業として収益を支えています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ではEコマースの強化を進めており、従来の卸売中心モデルに加え、直販チャネルの拡大を図っています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "も進んでおり、従来の卸中心モデルから「直販×海外」のハイブリッド構造へと変化しています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "アクシスコンサルティング<9344>株価注目企業｜ハイエンド人材紹介×スキルシェア",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "国内拠点卸売事業では、バイクツーリング用品、メンテナンス用品、カスタマイズ用品などを約3,000店舗に販売しています",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "小売事業では、ライコランド2店舗、オフロードバイク用品店2店舗を展開しています",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスの流れは、ファブレス生産（日本・中国・台湾等のメーカー200社以上に生産委託）から始まり、企画・商品開発・生産管理を経て、保管・営業活動（直販・FC店含む4店舗、約4,000店）へと繋がり、消費者へEコマースやバイク販売店、用品店を通じて届けられます",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売先別では、国内拠点卸売が35%、Eコマースが41%、アジア拠点卸売が7%、小売（直販）が17%を占めます",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア拠点卸売は、バイクパーツ販売店への直販戦略が奏功し、売上高84%増、営業利益2.7倍と大きく伸長しました",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマース売上はオフロードバイク用品拡充等で好調を維持し、アジア拠点卸売はインドネシアでの直販強化やフィリピンへの本格展開により増収増益を予想しています",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売店への直接販売が軌道に乗ったことが要因です",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマース売上はオフロードバイク用品拡充等で引き続き好調、アジア拠点卸売はパーツ販売店への直接販売強化とフィリピンへの本格展開で増収増益を予想しています",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア拠点卸売はインドネシアでの販売網整備が一段と進み、売上高は63％増、営業利益は55％増と好調",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア拠点卸売はインドネシアでの販売網整備とブランド認知が進み、63％増収、55％営業増益と好調",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア子会社で企画・開発した商品をバイクパーツ販売店に直接販売し、初期コストを抑制、将来はフィリピンでも企画・開発",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北部・中部・南部で各1社の代理店と契約、代理店経由で販売",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "直販先店舗数（店）: 2024年実績 1,230、2025年予想 2,200、2026年目標 3,000、2027年目標 4,150",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が直接販売するバイクパーツ販売店を年間700店舗増やす",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ECや直営店舗での販売データから売れ筋カテゴリー・商品の把握、類似商品の価格調査",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業基盤となる卸売では、バイク販売店・用品店の特性を見極めて商品を展開",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "商品紹介・操作・取付動画の充実",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年からパーツ販売店への直接販売に切り替えて売上が大きく成長",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "直接販売の販売店数: 2024年実績 1,230、2025年予想 2,200、2026年目標 3,000、2027年目標 4,150",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店経由で二輪車パーツ販売店へ販売",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パーツ販売店へ直接販売",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "二輪事業の方針は、改善改良による商品力向上と市場シェア拡大、BP（ビジネスパートナー）への提案力向上と業務品質向上である",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ二輪事業（国内）におけるカスタマイズ部品の主力商品として、モンキーカスタム、エンジンプロテクター、ハンドル周辺のカスタマイズパーツ、ウインドスクリーンなどが紹介されている",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ二輪事業（国内）におけるメンテナンス用品の主力商品として、バッテリー、バイクカバー、MOTOREXエンジンオイル、MAXXISタイヤなどが紹介されている",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ二輪事業（国内）におけるツーリング用品の主力商品として、GIVIツーリングBOX、サドルバッグ、Bluetoothインカム、スマートフォンコントローラー、スマートフォンホルダーなどが紹介されている",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の展望、中期目標をご紹介します",
+    "url": "https://corporate.daytona.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "クシタニ初の電熱グローブが登場！ 着脱で電源ON/OFF、2026-27秋冬の新作ウインターグローブ4モデルを紹介",
+    "url": "https://www.autoby.jp/_ct/17784340",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "① お取引先様在庫分について",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様にて在庫いただいております該当商品の在庫につきましては、 全品回収させていただき良品と",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このように主要となる商品販売をベースに、多彩な収益チャンネルを組み合わせている点が大きな強みです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたフィードバックループが、企業成長と顧客満足度の両方を高める源泉となっており、長期的な競争優位を支えています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績株式会社ウェッズ【全体の業績】株式会社ウェッズは、自動車用アルミホイールの企画開発および販売を中心としたアフターマーケット市場を牽引する専門商社であり、全国規模のネットワークを強みにカー用品店や専門ショップへ商品を供給す...",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の強みと事業環境",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "また、小売事業は売上こそ減少しましたが、在庫管理の効率化により利益は改善しました",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "来店客数の減少などが影響していますが、在庫効率の改善により利益面では底堅さが見られます",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "強みとしては以下が挙げられます",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナの強みは商品企画や開発体制、物流体制及び販売ネットワークの充実にあり、特にアジア拠点卸売事業が好調に推移している点が挙げられる",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は減収に加え、円安による仕入コスト上昇の影響で17%減益となりましたが、新商品については価格改定を進め、適正な粗利を確保しました",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "四半期別業績では、2023年12月期4Qの売上高は前年同期並みに回復しましたが、営業利益は減収、仕入れコスト上昇、在庫処分に伴う値引き等で15%減益となりました",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は12%台を維持する計画です",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "棚卸資産は1,602百万円（前期比+106百万円）で、在庫月数は3.4ヶ月とほぼ適正ですが、商品によっては多めのものがあり、仕入調整等を進めながら削減を進める方針です",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "部門別では、国内拠点卸売の売上高は前期並みとなったが、流通在庫が適正化した２Qからは増収",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期1Qまでは流通各社の在庫調整の影響を受けたが、2Qから在庫調整の落ち着きや新製品投入により増収に転じた",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内拠点卸売事業は在庫調整等の落ち着きで2Ｑから回復、ライディングウェアやバッテリーなど補修消耗品の販売が好調",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期はEコマースの成長などで国内拠点卸売は増収、円安対応の新商品投入等により売上総利益率は改善するが、インドネシアが決算期変更により9か月決算となるため増収減益予想",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 11%以上を維持",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫月数は3.3ヵ月とほぼ適正、商品によって多めのものがあり、仕入調整等を進めながら削減を進める",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "適切な粗利確保、粗利が確保できるコストを検討",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利益額（億円）: 2022年 1.6、2023年 1.8、2024年 2.1",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利益率（％）: 2022年 11.5%、2023年 12.7%、2024年 14.4%",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略としては、マーチャンダイジング機能の強化、内部仕組みの再構築（商品マスター、発注入庫、在庫管理、人事制度、情報発信、店舗とピットの連携）、低単価品から高単価・中単価品への移行、用品・パーツ・中古品・車両販売のシナジー効果活用が挙げられる",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 商品価値の見直しと商品管理の最適化：納期遅延に対処するため在庫の積み増し、適切な価格設定による利益確保、専任者の設置・情報連携の仕組み・物流改善",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "円安傾向により輸入商品の粗利益率が低下している",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "方針として、本社による財務支援、人材交流や商品企画開発での連携強化、各店の地域性を加味したコンセプト再設定、MD徹底による品揃えと在庫適正化、粗利率コントロールと販売管理費見直しによる黒字化を目指す",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "そのことが独自の強みになる",
+    "url": "https://www.autoby.jp/_ct/17784340",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026 年 9 月 25 日",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月より販売を開始いたしました「CB400SF2026年モデル用 LEDフェンダーレスキット(品",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 6 月 2 日",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年12月19日～12月26日",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月14日～12月27日",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年2月5日",
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月15日",
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月14日",
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月22日",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は減収減益となりましたが、その要因は一時的な決算影響によるもので、事業自体は堅調に推移しています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年はアジア事業の本格寄与とEC強化により、再び成長軌道へ戻る局面です",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月17日に掲載されたデイトナ<7228>の企業分析",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の業績動向",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期の見通し",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年03月24日に掲載されたデイトナ<7228>のレポート要約",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期は減収減益となりましたが、これは主に海外子会社の決算期間変更による影響であり、事業そのものは堅調に推移しています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期は増収増益を見込んでおり、再び成長軌道への回帰が期待されています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の連結業績は、売上高14,376百万円（前期比1.4%減）、営業利益1,610百万円（同6.1%減）となりました",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期は、売上高15,566百万円（前期比8.3%増）、営業利益1,736百万円（同7.8%増）と増収増益を見込んでいます",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2028年にかけた中期計画では、売上高17,890百万円を目標としています",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期の配当は150円（前期比15円増）を予定しており、配当性向は約29.5%となる見込みです",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は特殊要因により減収減益となりましたが、事業の基礎体力は維持されており、2026年は回復局面に入る見込みです",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は減収減益となっていますが、これは インドネシア子会社の変則決算による影響が大きく、事業そのものが崩れているわけではありません",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期の業績概要や2025年12月期の業績見通し、中期経営方針などが示されている",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期には増収、営業増益を達成し、特にアジア拠点卸売事業が大幅な増収増益を記録している",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の業績見通しでは売上高が1.9%増の14,858百万円になる見込みであり、利益面は減益予想となっている",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年12月期までの成長目標を掲げ、ファブレス型メーカーとしての特徴を活かしつつ、新事業へのチャレンジを続けていくことで、100年企業を目指している",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版（第52期）",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版（2024年）",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年版",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年版（第51期）",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期のバイク部品・用品売上高は135億円（その他事業3.8億円を除く）でした",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期決算概要",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルが魅力的 株式会社デイトナの成長戦略 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルが魅力的 株式会社デイトナの成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした仕組みは大量生産型ビジネスではなく、あくまで「顧客とのつながり」を重視するビジネスモデルにおいて、強固な差別化要因となっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "マツダのビジネスモデルを読み解く 魅力的な成長戦略の全貌",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力満載 株式会社エフ・シー・シーのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニプレスの魅力を探る これからのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車のビジネスモデルを活かした成長戦略の魅力",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タチエスのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "極東開発工業株式会社のビジネスモデルと成長戦略に注目した魅力あるポイント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユタカ技研のビジネスモデルに迫る魅力と成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "「安定型から拡張型へと移行するビジネスモデル」",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの特徴",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "・オンラインサブスクリプションや限定商品の予約販売による安定収益",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ファンが多いブランドほど、限定商品の販売やサブスクリプション型のサービスが好調になりやすく、定期的な売上を確保できます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "GMOコマース<410A>顧客数×単価で伸びる王道モデル、成長持続の鍵は拡張力",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "アイキューブドシステムズ<4495>MDMトップシェアと高継続率が支えるストック型成長モデル",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略としては、マーチャンダイジング機能の強化、内部仕組みの再構築（商品マスター、発注入庫、在庫管理、人事制度、情報発信、店舗とピットの連携）、低単価品から高単価・中単価品への移行、用品・パーツ・中古品・車両販売のシナジー効果活用が挙げられる",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなセグメントに対して、コミュニティイベントやブランド体験を提供することで、長期的なファン化を図っています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の状況",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://corporate.daytona.co.jp/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期のセグメント別業績は以下の通りです",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "全社費用やセグメント間取引消去を考慮した合計では、売上高13,961百万円（同-4.3%）、利益1,698百万円（同-17.4%）となりました",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別予想では、国内拠点卸売事業は売上高10,560百万円、利益1,349百万円",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別予想",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマース売上 構成比",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "大手Ｅコマースやバイク用Eコマース向け売上が増加、Eコマース売上は前期比9％増、構成比は57％へ",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "構成比*: 2024年 57%",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ二輪事業（海外）２０１４年売上構成",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ライダーズ・サポート・カンパニー２０１４年売上構成",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は1,714百万円（前期比+6.7%）となった",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は93百万円（前期比+1,503.8%）となった",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は212百万円（前期比+12.3%）となった",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障による売電収入微減があったものの、保険・営業補償による利益確保、リユースWEB事業の黒字化により、売上高は348百万円（前期比+28.1%）、セグメント利益は34百万円（前期比+31.9%）となった",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "中期では11%程度、将来的には25%程度の売上構成比を目指す",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "排気量別構成比では、先進国では125cc超の割合が高い傾向にある一方、インドネシアなどでは125cc以下の割合が高い",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://corporate.daytona.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://corporate.daytona.co.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデルが魅力的 株式会社デイトナの成長戦略 | チームマイク... — Feb 23, 2025 · そのため、株式会社デイトナはSNSやライブ配信を駆使しながら、実店舗やイベントでしか味わえない特別な体験を提供することで、顧客のロイヤルティ向上につなげる戦略を続けるでしょう。",
+    "url": "https://consovation.com/ビジネスモデルが魅力的-株式会社デイトナの成長/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ二輪ビジネスの安定成長とアジア展開の拡大戦略 - TOITOI FIN... — Mar 22, 2026 · 2026年はアジア事業の本格寄与とEC強化により、再び成長軌道へ戻る局面です。 本記事では、同社の業績構造を整理しながら、 「安定型から拡張型へと移行するビジネスモデル」 という視点で今後の成長性を解説します。",
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針・戦略 | 株主・投資家情報（IR） | 株式会社デイトナ — 新規事業 デイトナ ブランド一覧 サステナビリティ トップメッセージ サステナビリティマネジメント 環境 社会 ガバナンス 株主・投資家情報 個人投資家の皆さまへ 経営方針・戦略 ESG 業績・財務 IR資料 株式情報 IRカレンダー 電子公告 IRサイトの使い方 ...",
+    "url": "https://corporate.daytona.co.jp/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デイトナ — Mar 9, 2023 · 2026.10.22 デイトナ公式アプリのメンテナンス実施について 2026.09.29 CB400SF 2026年モデル用 LEDフェンダーレスキット（品番:69548） 不具合のお詫びとご対応のお願い 2026.07.29 積載オーバーによるキャリアや車体フレームの破断、荷物の落下にご注意ください 2026.07.09",
+    "url": "https://www.daytona.co.jp/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デイトナ — Mar 9, 2023 · 〒437-0226 静岡県周智郡森町一宮4805 商品情報 ブランド Webカタログ お客様サポート マイバイク登録 企業・IR情報 販売店情報 活動レポート ニュース デイトナブログ サイトのご利用にあたって 個人情報保護方針 サイトマップ",
+    "url": "https://www.daytona.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信 | IR資料 | 株主・投資家情報（IR） | 株式会社デイトナ — 新規事業 デイトナ ブランド一覧 サステナビリティ トップメッセージ サステナビリティマネジメント 環境 社会 ガバナンス 株主・投資家情報 個人投資家の皆さまへ 経営方針・戦略 ESG 業績・財務 IR資料 株式情報 IRカレンダー 電子公告 IRサイトの使い方 ...",
+    "url": "https://corporate.daytona.co.jp/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デイトナ — 決算説明資料 - EDINET DB — 株式会社デイトナは、東証スタンダード市場に上場しており、証券コードは7228です。 2024年2月14日に第52期（2023年12月期）決算補足説明資料として公開されました。",
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デイトナ — IR資料 - EDINET DB — Apr 18, 2026 · EDINET DB > 企業一覧 > 株式会社デイトナ > IR資料 株式会社デイトナ — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E02877/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナのIR資料 - 7228 / ｽﾀﾝﾀﾞｰﾄﾞ / 輸送用機器 | バフェ... — Feb 18, 2026 · デイトナ（7228 / ｽﾀﾝﾀﾞｰﾄﾞ / 輸送用機器）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/7228/library",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会 | IR資料 | 株主・投資家情報（IR） | 株式会社デイトナ — ログミーファイナンスにて、当社2025年12月期決算説明をテキスト化し掲載しました。",
+    "url": "https://corporate.daytona.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制 | 企業情報 | 株式会社デイトナ - Daytona — これからのデイトナ 5分でわかるデイトナガイド 会社案内動画 50周年記念サイト 企業情報 トップメッセージ 理念・ミッション 行動指針 会社概要 役員紹介 組織体制 歴史・沿革 関連会社 事業内容 新規事業 デイトナ ブランド一覧 サステナビリティ トップ ...",
+    "url": "https://corporate.daytona.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "Daytona - ホーム | 株式会社デイトナ — 海外統括・事業開発部 アウトドアGより新商品情報です。 デイトナ流『積載のすすめ』キャンプツーリングの積載をもっとスマートに！デイトナのシートバッグに“フィット”するギアケースが登場。",
+    "url": "https://corporate.daytona.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ（7228）の事業内容・業績｜平均年収666万円・売上144億円（2... — Mar 25, 2026 · デイトナ（7228）は輸送用機器の会社。主な事業は国内拠点卸売事業・小売事業。2025年12月期は売上144億円・営業利益16億円、平均年収666万円。事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/7228/",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ（7228）の事業内容、事業の状況や経営戦略、事業等のリスク... — 3【事業の内容】 デイトナグループは、デイトナ及び連結子会社4社、非連結子会社1社で構成され、二輪車部品・用品を中心に企画・開発卸販売ならびに小売販売の事業を営んでおります。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7228",
+    "pass": 3
+   },
+   {
+    "quote": "デイトナ【7228】の事業内容 - キタイシホン — デイトナ (7228/東証スタンダード/輸送用機器)の事業内容はキタイシホンでCHECK!!事業戦略・事業内容・セグメントをまとめて ...",
+    "url": "https://kitaishihon.com/company/7228/business",
+    "pass": 3
+   },
+   {
+    "quote": "〈インタビュー〉株式会社デイトナ 代表取締役社長 織田哲司さん｜専... — Sep 20, 2025 · 今年で創業53年を迎えたデイトナは常にライダーの声に耳を傾け、ユーザー視点に立った独自の企画力、開発力で、世界中のライダーからの多種多様なニーズに応える商品をリリースしてきた総合パーツメーカー。2016年に3代目社長に就任した織田哲司さんに、デイトナが積み重ねてたきた歴史 ...",
+    "url": "https://www.autoby.jp/_ct/17784340",
+    "pass": 3
+   },
+   {
+    "quote": "〈インタビュー〉株式会社デイトナ 代表取締役社長 織田哲司さん|専門... — Sep 20, 2025 · 〈インタビュー〉株式会社デイトナ 代表取締役社長 織田哲司さん|専門がないからこそ、時流の変化をキャッチできる 今年で創業53年を迎えたデイトナは常にライダーの声に耳を傾け、ユーザー視点に立った独自の企画力、開発力で、世界中のライダーからの多種多様なニーズに応える商品を ...",
+    "url": "https://www.motormagazine.co.jp/_ct/17791668",
+    "pass": 3
+   },
+   {
+    "quote": "【デイトナ・インターナショナル 高橋正博社長CEO】圧倒的な熱量で ワ... — Feb 3, 2026 · WWD：2025年9月に着任したデイトナ・インターナショナルの第一印象は？ 高橋正博社長CEO（以下、高橋）： 社長に就任してから全国の店舗をまわり社員一人一人に会い、言葉を交わすことに時間を使っている。 そこで一番驚いたのは、社内の熱量の高さだ。",
+    "url": "https://www.wwdjapan.com/articles/2310296",
+    "pass": 3
+   },
+   {
+    "quote": "〈インタビュー〉株式会社デイトナ 代表取締役社長 織田哲司さん｜専... — 〈インタビュー〉株式会社デイトナ 代表取締役社長 織田哲司さん｜専門がないからこそ、時流の ... 2025年09月20日 | 電動アシスト自転車",
+    "url": "https://sports55.net/bicycle/dendoasist/2025/09/110200c120ccc1c0b403f5a5055bf456a50777a1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「バイクライフを永続的に楽しんでいただくためには」 (株)デイトナ代... — Apr 16, 2024 · 「ライダーに快適・便利を提供 今の状況は成長のチャンス」 (株)デイトナ代表取締役社長 織田哲司氏【上】 - 二輪車新聞 2020年からの新型コロナウイルス感染症拡大が沈静化し、本格的に経済が回り出した22年後半から23年。",
+    "url": "https://www.nirin.co.jp/_ct/17695180",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daytona.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/CB400SF2026_fenderless0929.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/co/price/20260821_20260918.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/DN011RC20260602.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/20250731.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/pv/6/NEWS/MP30GPS_mount.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/co/news/20241115_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/co/news/20241114_MC%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%9E%E5%8F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_FIX.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daytona.co.jp/files/co/news/1_167832927748112600_1_t62yo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E9%AD%85%E5%8A%9B%E7%9A%84-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%88%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toitoi-blog.com/daytona-7228/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.daytona.co.jp/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E02877/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.daytona.co.jp/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.daytona.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoby.jp/_ct/17784340",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motormagazine.co.jp/_ct/17791668",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デイトナ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/デイトナ",
+    "https://www.daytona.co.jp/",
+    "https://www.909.co.jp/rolex_catalog/daytona.html",
+    "https://www.rolex.com/ja/watches/cosmograph-daytona",
+    "https://watchnian.com/shop/e/edayto-c/",
+    "https://roleyome.com/blog/daytona-complete-guide",
+    "https://www.youtube.com/@DAYTONARIDEABIKE",
+    "https://www.daytonainternationalspeedway.com/"
+   ]
+  },
+  {
+   "query": "デイトナ ビジネスモデル",
+   "results": [
+    "https://consovation.com/ビジネスモデルが魅力的-株式会社デイトナの成長/",
+    "https://toitoi-blog.com/daytona-7228/",
+    "https://corporate.daytona.co.jp/ir/management/",
+    "https://www.daytona.co.jp/index.php",
+    "https://www.daytona.co.jp/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/daytona20241018.pdf",
+    "https://corporate.daytona.co.jp/ir/management/plan/"
+   ]
+  },
+  {
+   "query": "デイトナ 決算説明資料",
+   "results": [
+    "https://corporate.daytona.co.jp/ir/library/result.html",
+    "https://edinetdb.jp/company/E02877/presentations/",
+    "https://edinetdb.jp/company/E02877/ir-docs/",
+    "https://www.buffett-code.com/company/7228/library",
+    "https://corporate.daytona.co.jp/ir/library/presentation.html",
+    "https://www.irwebcasting.com/20250820/1/f3cc0309a9/mov/main/index.html",
+    "https://www.irwebcasting.com/20250820/1/f3cc0309a9/media/presentation_3.pdf"
+   ]
+  },
+  {
+   "query": "デイトナ 事業系統図",
+   "results": [
+    "https://corporate.daytona.co.jp/company/organization.html",
+    "https://corporate.daytona.co.jp/",
+    "https://zukaikeizai.com/kaisha/7228/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7228",
+    "https://kitaishihon.com/company/7228/business",
+    "https://www.daytona.co.jp/",
+    "https://irbank.net/E02877/business"
+   ]
+  },
+  {
+   "query": "デイトナ 社長 インタビュー",
+   "results": [
+    "https://www.autoby.jp/_ct/17784340",
+    "https://www.motormagazine.co.jp/_ct/17791668",
+    "https://www.wwdjapan.com/articles/2310296",
+    "https://sports55.net/bicycle/dendoasist/2025/09/110200c120ccc1c0b403f5a5055bf456a50777a1.html",
+    "https://www.nirin.co.jp/_ct/17695180",
+    "https://corporate.daytona.co.jp/company/officer.html",
+    "https://www.nirin.co.jp/_ct/17691466"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像8件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像8件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像8件／外部8頁・検索5回）"
+ }
+}

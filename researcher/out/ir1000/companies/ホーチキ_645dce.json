@@ -1,0 +1,1651 @@
+{
+ "name": "ホーチキ",
+ "aliases": [],
+ "context": "証券コード6745／電気機器／プライム（内国株式）／2026.03期 売上高105,855百万円 営業利益率11.4%",
+ "researched_at": "2026-11-02T20:14:30.227928+00:00",
+ "official_url": "https://www.hochiki.co.jp/",
+ "identified_by": "search:yahoo_jp:ホーチキ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1918年",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単独1,573名、連結2,383名（2025年3月31日現在）",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "火災報知設備、消火設備、防犯機器の製造、販売及び施工／防災設備に係る保守点検及び整備工事",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ホーチキが顧客に評価されていること、",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "建物OSやお客様の業務システムといった各種システムとの連携が容易になり、汎⽤性に優れる",
+    "url": "https://www.hochiki.co.jp/business/hckaas/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のAPIをHCKaaSに組み込むことができ、カスタマイズ性が⾼い",
+    "url": "https://www.hochiki.co.jp/business/hckaas/",
+    "pass": 1
+   },
+   {
+    "quote": "購入をご検討されているお客様にはご不便をおかけしますが、ご理解いただけますようお願いいたします",
+    "url": "https://www.hochiki.co.jp/business/shouka/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/business/shouka/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/business/shouka/",
+    "pass": 1
+   },
+   {
+    "quote": "全国事業所の利用者ID番号、履歴情報を統合し、一括管理を実現",
+    "url": "https://www.hochiki.co.jp/business/security/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/business/security/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/business/security/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/business/comm/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/business/comm/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様向け製品のカタログ、メンテナンス＆リニューアル、法令情報などのPDFをダウンロードいただけます",
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "火災警報器 お客様サポートページ",
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客からの関心も高く、導入件数も増えてきています",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.hochiki.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "（通話料お客様ご負担）",
+    "url": "https://www.hochiki.co.jp/support/business/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.hochiki.co.jp/support/business/library/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし2年ほど経ち、さまざまなお客様と話をする中で、次第に「ものづくりをしているメーカー」への興味が湧いてきたのです",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "また、設置後のアフターサービスやメンテナンスを通じて常に建物を最適な状態に保つ「トータルソリューション力」も、お客様から高い評価をいただいている大きな強みです",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・販売終了製品リスト",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各製品のサポート、メンテナンス、リニューアルについての情報や、製品カタログ、機器姿図を掲載しています",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "防災クラウドサービス「HCKaaS」に新オプション「Overview機能」を追加",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "火災防災ソリューションを通した、「安全・安心」の提供により、国を越えて高い評価と信頼を獲得しています",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に込められた想いをご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・販売終了製品リスト",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品品質のさらなる向上を目的として、信頼性試験センターを設立",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・販売終了製品リスト",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・販売終了製品リスト",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 秋本通信サービス",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 東京ファシリティサービス",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "ホーチキサービス株式会社",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 防災サービス",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・販売終了製品リスト",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報｜ホーチキ株式会社",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人命や財産を火災から守る私たちの業務は、研究するだけ、製品を作るだけ、販売をするだけでは、その責任を果たせません",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ホーチキの製品が導入された施設のご紹介",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "現在取り扱い中の法人向け製品が掲載されているカタログをご確認いただけます",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・販売終了製品リスト",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ホーチキ製品における生産・販売終了品のリストを掲載しています",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品に関する操作や取扱方法などをご案内する窓口です",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知システム｜法人向け製品情報｜ホーチキ株式会社",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品サポート",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するFAQ",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品情報",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "各製品について詳しくはカタログをご確認ください",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "’26-’27 火災報知設備機器 製品カタログ第二版",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ホーチキグループが目指す方向や成し遂げたいことをご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に込められた想いをご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "こだわりをご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "数字で表現できるホーチキの特徴をご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "安全・安心を支えるホーチキの活躍の場をご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内、CM動画をご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "しまじろうが消防設備士になり、火災報知機の点検や防災クイズに挑戦する様子をゲーム形式でご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "チーちゃんとキーちゃんをご紹介します",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/whats/",
+    "pass": 1
+   },
+   {
+    "quote": "Bosch Security Systemsの日本総代理店として、ネットワークカメラの販売を開始",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店 水戸ホーチキ㈱の株式を取得し、連結子会社化",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧｜会社案内｜ホーチキ株式会社",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "pass": 1
+   },
+   {
+    "quote": "ホーチキの製品が導入された施設のご紹介",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向けページ",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナー、",
+    "url": "https://www.hochiki.co.jp/business/hckaas/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/shouka/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/shouka/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/security/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/security/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/comm/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/comm/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "東証が公表した「資本コストや株価を意識した経営」 に関する事例集に当社資料が紹介されました",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・施工店安全衛生協力会の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店の皆さまへ",
+    "url": "https://www.hochiki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "システム販売の拡大や地域別ニーズへの対応、現地販売網の強化を進め、アジア・欧州を中心に、グローバル事業基盤の拡大と競争力向上が着実に進んでいます",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "協業パートナーの強化などに取り組みます",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "営業・調達・生産・販売を一体で強化し、特に「システムと販売網の両面から事業領域を拡張」し、現地密着型での価値創出を目指す",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "ホーチキの経営理念、沿革、事業内容やCSR情報などを掲載しています",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期統合レポート",
+    "url": "https://www.hochiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社案内｜ホーチキ株式会社",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1918年4月2日",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1920年 4月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1951年10月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年 5月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年 7月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年 6月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年11月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年 3月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年 3月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年11月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年 5月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年 7月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年12月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年 5月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年 8月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年 7月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年 7月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年 9月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年 1月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年 9月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年 7月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年 5月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年 4月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年12月",
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年12月からBSと110度CSで4K8K衛星放送が視聴できます",
+    "url": "https://www.hochiki.co.jp/business/comm/",
+    "pass": 1
+   },
+   {
+    "quote": "平成１４年８月 消防法施行令の一部改正について",
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期統合レポート",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期(連結)Factsheet",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期連結決算に関する補足説明資料",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期統合レポート",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期(連結)Factsheet",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期連結決算に関する補足説明資料",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 書き起こし記事（ログミーファイナンス）",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会動画",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期通期業績予想と実績値の差異に関するお知らせ",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期連結決算に関する補足説明資料",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期連結決算に関する補足説明資料",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期統合レポート",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期） 決算説明会質疑応答パート",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算説明会書き起こし記事（ログミーファイナンス）",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算説明会動画",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 半期報告書",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）連結決算に関する補足説明資料",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期を最終年度とする3年間の中期経営計画を掲載しています",
+    "url": "https://www.hochiki.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期決算発表",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期 決算説明会",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "LTEルーターの費用については月額費用に含まれておりますが、設置等の制約により別途工事費をいただく場合があります",
+    "url": "https://www.hochiki.co.jp/business/hckaas/",
+    "pass": 1
+   },
+   {
+    "quote": "（国内ストックビジネス）",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "建物ライフサイクルに沿った計画的な受注活動により、工事付リニューアルが順調に伸長し、国内ストックビジネスの拡大と収益性向上に貢献しています",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "保守対象物の増加を背景に、点検・整備工事の提案を強化しています",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "採算性を踏まえた契約見直しや整備工事の積極提案により、保有高を維持しながら、安定した収益基盤として国内ストックビジネスの成長を支えています",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「火報事業部門」「保守事業部門」「消火事業部門」「セキュリティ事業部門」のスキームを策定するとともに、各部門長は営業本部副本部長を兼務し、部門ごとの事業推進体制を強化します",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "出版業界からメーカーへ 「ストックビジネス」への転換点が会社の未来を変えた",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、私は出向先での経験から、世の中がフローからストックへと移行していく時代背景もあり、長年培ってきたメンテナンス契約件数という潜在的なポテンシャルこそが、事業モデルを大きく変えると確信していました",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "火災報知設備、消火設備、防犯機器の製造、販売及び施工／防災設備に係る保守点検及び整備工事",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "1台数千万円の壁を打破！月額制で警備と点検のDXを加速させる次世代ロボットの挑戦",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "組織の文化を強みに変え、現場の資質を最大限の価値にするためには、このギャップを「共感」や「エンゲージメント」に変えていく必要がありました",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "ーー改めて、貴社の強みを教えてください",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "また、設置後のアフターサービスやメンテナンスを通じて常に建物を最適な状態に保つ「トータルソリューション力」も、お客様から高い評価をいただいている大きな強みです",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "我々の強みや中核力を活かしながら事業価値を高め、会社として大きく変わろうとしている過渡期です",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "特に事業部門の明確化・統合を進めエンジニアリング強化や人材戦略の最適化、新たな収益モデルの構築に取り組む",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルの創出につながる取り組みを推進し、業務の削減・集約・分散といった",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれまで、防災事業を軸とした、主に法令の枠組み内で製品・サービスを展開してきましたが、市場環境の変化を踏まえ、ビジネスモデルを変革（デジタライゼーション）することで、",
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ホーチキ 株式会社(証券コード — ホーチキ 株式会社(証券コード ホーチキ株式会社 PDF https://www.hochiki.co.jp > pdf > individual",
+    "url": "https://www.hochiki.co.jp/pdf/ir/individual/2024/250315.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRセミナー 会社概要 説明資料 - ホーチキ — IRセミナー 会社概要 説明資料 - ホーチキ ホーチキ株式会社 PDF https://www.hochiki.co.jp > pdf > individual",
+    "url": "https://www.hochiki.co.jp/pdf/ir/individual/2025/260226.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜会社案内｜ ホーチキ 株式会社 — 事業内容｜会社案内｜ ホーチキ 株式会社 ホーチキ株式会社 https://www.hochiki.co.jp > corporation > jigyou",
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "pass": 3
+   },
+   {
+    "quote": "【火災報知機の老舗 ホーチキ 】5期連続最高益 - YouTube — 【火災報知機の老舗 ホーチキ 】5期連続最高益 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=zkzc8ma8Nuw",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 等｜IRライブラリー - ホーチキ — 決算説明 会 資料 等｜IRライブラリー - ホーチキ ホーチキ株式会社 https://www.hochiki.co.jp > library > presentation",
+    "url": "https://www.hochiki.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜IR情報｜ ホーチキ 株式会社 — IRライブラリー｜IR情報｜ ホーチキ 株式会社 ホーチキ株式会社 https://www.hochiki.co.jp > library",
+    "url": "https://www.hochiki.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ ホーチキ 株式会社 — IR情報｜ ホーチキ 株式会社 ホーチキ株式会社 https://www.hochiki.co.jp > ...",
+    "url": "https://www.hochiki.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ホーチキ 】[6745]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ホーチキ 】[6745]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6745",
+    "pass": 3
+   },
+   {
+    "quote": "ホーチキ 、売上高・営業利益・営業利益率いずれも過去最高値 ... — ホーチキ 、売上高・営業利益・営業利益率いずれも過去最高値 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382965",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所・グループ会社一覧 - ホーチキ — 事業 所・グループ会社一覧 - ホーチキ ホーチキ株式会社 https://www.hochiki.co.jp > corporation > map",
+    "url": "https://www.hochiki.co.jp/corporation/map/",
+    "pass": 3
+   },
+   {
+    "quote": "INTEGRATED REPORT - ホーチキ — INTEGRATED REPORT - ホーチキ ホーチキ株式会社 PDF https://www.hochiki.co.jp > img > about > doc > HO...",
+    "url": "https://www.hochiki.co.jp/img/ir/about/doc/HOCHIKI_Integrated-Report_202403.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "概要｜会社案内｜ ホーチキ 株式会社 — 概要｜会社案内｜ ホーチキ 株式会社 ホーチキ株式会社 https://www.hochiki.co.jp > corporation > outline",
+    "url": "https://www.hochiki.co.jp/corporation/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ガバナンス｜サステナビリティ｜ ホーチキ 株式会社社 — ガバナンス｜サステナビリティ｜ ホーチキ 株式会社社 ホーチキ株式会社 https://www.hochiki.co.jp > sustainability > governance",
+    "url": "https://www.hochiki.co.jp/sustainability/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "ホーチキ 株式会社 代表取締役 社長 執行役員 細井 元 — ホーチキ 株式会社 代表取締役 社長 執行役員 細井 元 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜会社案内｜ ホーチキ 株式会社 — 社長 メッセージ｜会社案内｜ ホーチキ 株式会社 ホーチキ株式会社 https://www.hochiki.co.jp > corporation > message",
+    "url": "https://www.hochiki.co.jp/corporation/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ホーチキ 【6745】の 社長 ・役員 - キタイシホン — ホーチキ 【6745】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6745/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ ホーチキ社長 ・細井元氏 東南アに開拓の余地 — インタビュー ／ ホーチキ社長 ・細井元氏 東南アに開拓の余地 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/755289",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ - 関西ホーチキエンジニアリング株式会社 — 社長 メッセージ - 関西ホーチキエンジニアリング株式会社 関西ホーチキエンジニアリング株式会社 https://kansaihochiki.co.jp > about > message",
+    "url": "https://kansaihochiki.co.jp/about/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hochiki.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/whats/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/corporation/history/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/corporation/jigyou/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/corporation/dairiten/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/kahou/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/hckaas/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/shouka/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/security/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/comm/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/business/works/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/support/business/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/highlights/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/library/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/about/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/support/business/library/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hochiki.co.jp/pdf/corporation/tatemonosetubi.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/pdf/catalog/business_kahou_union_catalog.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/pdf/catalog/business_syouka_union_catalog.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/pdf/catalog/business_security_union_catalog.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/support/business/security/data/faq_windows_update.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/pdf/support/business/hs_kanchi.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/pdf/support/business/hs_tuhoh.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/pdf/support/business/hs_shouk.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_01_sp.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_01_pc.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_02_sp.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_02_pc.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_03_sp.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_03_pc.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_04_sp.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hochiki.co.jp/img/business/index/img_hero_item_04_pc.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shachomeikan.jp/industry_article/5828",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ホーチキ",
+   "results": [
+    "https://www.hochiki.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%81%E3%82%AD",
+    "https://x.com/HochikiJapan",
+    "https://www.amazon.co.jp/%E3%83%9B%E3%83%BC%E3%83%81%E3%82%AD/s?k=%E3%83%9B%E3%83%BC%E3%83%81%E3%82%AD",
+    "https://ja.wikipedia.org/wiki/ホーチキ",
+    "http://www.hs119.jp/",
+    "https://www.hochiki.co.jp/global/",
+    "https://www.hochikiamerica.com/fire-alarm",
+    "https://www.hochikiamerica.com/",
+    "https://www.hochikiasiapacific.com/"
+   ]
+  },
+  {
+   "query": "ホーチキ ビジネスモデル",
+   "results": [
+    "https://www.hochiki.co.jp/pdf/ir/individual/2024/250315.pdf",
+    "https://www.hochiki.co.jp/pdf/ir/individual/2025/260226.pdf",
+    "https://www.hochiki.co.jp/corporation/jigyou/",
+    "https://www.youtube.com/watch?v=zkzc8ma8Nuw",
+    "https://note.com/tatsuya_sabato/n/n0bc12027e771",
+    "https://finance.logmi.jp/articles/383594",
+    "https://www.hochiki.co.jp/whats/riyu/",
+    "https://minkabu.jp/news/4404991",
+    "https://www.hochiki.co.jp/recruit/company/enterprise/",
+    "https://finance.logmi.jp/articles/383449"
+   ]
+  },
+  {
+   "query": "ホーチキ 決算説明資料",
+   "results": [
+    "https://www.hochiki.co.jp/ir/library/presentation/",
+    "https://www.hochiki.co.jp/ir/library/",
+    "https://www.hochiki.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6745",
+    "https://finance.logmi.jp/articles/382965",
+    "https://www.buffett-code.com/company/6745/library",
+    "https://www.net-presentations.com/6745/20250520/sdion43/",
+    "https://www.hochiki.co.jp/ir/disclaimer/",
+    "https://www.hochiki.co.jp/ir/highlights/",
+    "https://www.hochiki.co.jp/ir/library/tansin/"
+   ]
+  },
+  {
+   "query": "ホーチキ 事業系統図",
+   "results": [
+    "https://www.hochiki.co.jp/pdf/ir/individual/2024/250315.pdf",
+    "https://www.hochiki.co.jp/corporation/map/",
+    "https://www.hochiki.co.jp/img/ir/about/doc/HOCHIKI_Integrated-Report_202403.pdf",
+    "https://www.hochiki.co.jp/corporation/outline/",
+    "https://www.hochiki.co.jp/sustainability/governance/",
+    "https://www.hochiki.co.jp/whats/jigyou/",
+    "https://kitaishihon.com/company/6745/business",
+    "https://www.hochiki.co.jp/ir/policy/kadai/",
+    "https://finance.logmi.jp/articles/383449",
+    "https://ja.wikipedia.org/wiki/ホーチキ"
+   ]
+  },
+  {
+   "query": "ホーチキ 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/5828",
+    "https://www.hochiki.co.jp/corporation/message/",
+    "https://kitaishihon.com/company/6745/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/755289",
+    "https://kansaihochiki.co.jp/about/message/",
+    "https://www.youtube.com/watch?v=zkzc8ma8Nuw",
+    "https://www.hochiki.co.jp/corporation/outline/",
+    "https://www.mito-hochiki.co.jp/recruit/interview.html",
+    "https://www.nikkei.com/article/DGKKZO70871570Q3A510C2TB1000/",
+    "https://www.nikkan.co.jp/articles/view/00755289"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）"
+ }
+}

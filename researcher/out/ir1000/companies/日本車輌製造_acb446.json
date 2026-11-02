@@ -1,0 +1,1267 @@
+{
+ "name": "日本車輌製造",
+ "aliases": [],
+ "context": "証券コード7102／輸送用機器／プライム（内国株式）／2026.03期 売上高99,971百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:10:34.246206+00:00",
+ "official_url": "https://www.n-sharyo.co.jp/",
+ "identified_by": "search:yahoo_jp:日本車輌製造",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1.3倍以上",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "130年にわたり培ってきた技術力とものづくりの力を礎に、超電導リニアをはじめとする技術開発にも取り組みながら、お客様のニーズに応え、社会基盤の発展に貢献するインフラストラクチャー創造企業を目指しています",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、健全で持続的な成長と中長期的な企業価値の向上を図るため、株主の皆様・お客様・地域社会・取引先・従業員等のステークホルダー",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が掲げる企業理念である「ものづくりに誇りを持ち、お客様のニーズに応え、社会基盤の発展に貢献する」ことを実現するためには、優秀な",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本車両は、「ものづくりに誇りを持ち、お客様のニーズに応え、社会基盤の発展に貢献する」という企業理念に基づき、持続可能な社会の実現",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期ビジョンに掲げる「お客様の課題を解決するビジネスパートナー」として、鉄道の環境優位性をより一層高めるため鉄道車両事業に磨きをか",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けるとともに、各事業の活動を通じて、気候変動リスクなどの地球環境問題や少子高齢化に伴う労働力不足への対応といったお客様の課題、ひ",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同氏は、当社の取引先である株式会社",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "福泉 靖史氏は、当社の取引先である三",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上田 素之氏は、当社の取引先銀行であ",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）当社グループの製品等の販売先又は仕入先であって、その年間取引金額が当社の連結売上高又は相手方の連結売上高の２％を超える取",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「日本車両グループ倫理規程」を制定し、顧客、取引先、株主、社員さらには社会全体との",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会的勢力に対応するための心得を示し、その徹底を図り、また取引先との契約に暴力団排除条項の組み入れを進めるなどの対策も実施しており",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 24,183 9,771 9,996 2,565 40 46,557 - 46,557",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 22,814 12,000 10,107 2,988 49 47,960 - 47,960",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から認識した収益",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 46,557 47,960",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（顧客との契約から生じる収益を分解した情報）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別に分解した顧客との契約から認識した売上高は以下のとおりであります",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のニーズに応え、",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・社会課題の解決に貢献する製品の開発",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DXを活用した顧客課題解決サービスと収益モデルの拡充",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 多様化する顧客ニーズへの対応",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ データ分析を通じてお客様の困りごと解決を図る",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 車両メーカのノウハウを生かし、お客様の検査品",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おける機器類の取扱い確認のほか、 車内に仮想のお客様を配置することで、 異常時",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対応・乗降介助・避難誘導、 さらには清掃作業の動線確認など、 お客様サービスの",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "社会を支える日本車両の製品",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線をはじめとする鉄道車両、建設機械、輸送用機器・鉄構、エンジニアリングなどの事業を通じて、社会基盤を支える製品とサービスを提供しています",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "時代を飾った技術・製品",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は、親会社に対し、鉄道車両などの製品を販売しておりますが、販売価格その他の取引条件については市場価格を勘案して一般取",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 環境負荷の低い製品・サービスの提供",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 自動化・省力化に資する製品・サービスの提供",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、親会社に対し、鉄道車両などの製品を販売しておりますが、販売価格その他の取引条件については市場価格及び過去の取引実績等を",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）当社グループの製品等の販売先又は仕入先であって、その年間取引金額が当社の連結売上高又は相手方の連結売上高の２％を超える取",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各事業所は、「ＩＳＯ９００１」及び「ＩＳＯ１４００１」に基づき、常に安全で高品質な製品の提供を行える品質管理や社内外の自然環境や職場環境",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、財務報告の信頼性を確保するとともに、金融商品取引法に基づく適切な内部統制報告書の提出のために、「財務報告に係る内部統制",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる製造工程への影響が生じていないことに加え、売上高の増加や製品構成の変化などにより全体の利益率が向上",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 2,226 1,812",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半製品 1,362 1,390",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 減収の一方で、売上の製品構成の変化により利益率が向上し増益",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 増収の一方、売上の製品構成の変化により利益率が低下し微増",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の増加や製品構成の変化などにより全体の利益率が向上すること、また、",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の不透明さによる製造工程への影響が生じていないことに加え、売上高の増加や製品構成の変化などにより全",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③付加価値の高い製品の開発",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④ＤＸを活用した新サービスの開始",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 省力化製品の開発が必須",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "脱炭素化社会の到来 • 環境対応製品の需要増 • 環境対応製品開発費等の増加による",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 付加価値の高い製品の開発",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④ DXを活用した新サービスの開始",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・社会課題の解決に貢献する製品の開発",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（自動運転キャリヤ、グリーン対応製品等）",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新サービスの開始",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DXを活用した顧客課題解決サービスと収益モデルの拡充",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（建設機械のメンテナンスサブスクリプションサービス、",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次世代の車両検修・車両外観検査サービス等）",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 当社主力製品である新幹線車両のより快適な",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グリーン対応製品",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④DXを活用した新サービスの開始",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプションサービス",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "車両外観検査サービス",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業・サービス",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対応・乗降介助・避難誘導、 さらには清掃作業の動線確認など、 お客様サービスの",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は本アプリケーションの鉄道業界向けサービスとしての展開も目指します",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介ムービーはこちらへ",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本車両公式マスコットキャラクター「ニッくんとシーちゃん」紹介",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（ⅳ）取締役・監査役候補者の指名につきましては、当社の業務を遂行するにあたり、最もふさわしい体制を確保するという考えのもと、能力、識",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、取締役及び監査役の指名等の決定における内容の適切性及び決定プロセスの客観性・合理性を確保するため、独立社外取締役",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３名と代表取締役社長の計４名を構成員とする指名・報酬委員会を設置し、取締役会での決議に先立ち、審議を行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期ビジョンに掲げる「お客様の課題を解決するビジネスパートナー」として、鉄道の環境優位性をより一層高めるため鉄道車両事業に磨きをか",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取締役及び監査役の指名並びに取締役の報酬に関する決定における内容の適切性及び決定プロセスの客観性・合理性を確保するた",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、独立社外取締役３名と代表取締役社長の計４名を構成員とする指名・報酬委員会を設置し、取締役会での決議に先立ち、審議を行っておりま",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会における指名、報酬等の決定に関する決議は、当委員会における審議内容を尊重して行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、取締役及び監査役の指名等に関する決定における内容の適切性及び決定プロセスの客観性・合理性を確保するため、独立社外取締役３",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "名と代表取締役社長の計４名を構成員とする指名・報酬委員会を設置し、取締役会での決議に先立ち、審議を行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プロセスについては、当社は、取締役及び監査役の指名等に関する決定における内容の適切性及び決定プロセスの客観性・合理性を確保するた",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、独立社外取締役３名と社長の計４名を構成員とする指名・報酬委員会を設置し、取締役会での決議に先立ち、審議を行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会における指名等の決定に関する決議は、当委員会における審議内容を尊重して行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会に相当",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する任意の委員会 指名・報酬委員会 4 0 1 3 0 0 社外取締役",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、指名委員会及び報酬委員会の双方の機能を担っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "締役社長の計４名を構成員とする指名・報酬委員会を設置し、取締役会での決議に先立ち、審議を行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、取締役及び監査役の指名並びに取締役の報酬に関する決定における内容の適切性及び決定プロセスの客観性・合理性を確保するた",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会における指名、報酬等の決定に関する決議は、当委員会における審議内容を尊重して行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算説明資料",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期報告書を公開しました",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月19日",
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/topics/tp260519.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月現在、当社のPBRは１倍を下回っており、当社の事業戦略や今後の成長について十分な理解・評価が得られていないと認識しており",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 47,960 3.0 5,433 34.5 5,769 35.3 5,500 △4.4",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期中間期 46,557 2.2 4,038 25.2 4,263 24.7 5,756 97.2",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 381.24 －",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期中間期 398.95 －",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 155,096 87,461 56.4",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 152,564 82,248 53.9",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 － 20.00 - 25.00 45.00",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 － 25.00",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期（予想） - 25.00 50.00",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期の個別業績予想（2026年４月１日～2027年３月31日）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期の連結業績予想につきましては、2026年４月24日の「2026年３月期 決算短信」で公表いたしまし",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第２四半期 決算説明資料",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 27日",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年4月～2026年9月（第198期第２四半期連結累計期間）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 連結通期業績見通し",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期の中間配当及び期末配当予想",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月27 日",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月27 日",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030 年度に 売上高1,300 億円、営業利益150 億円（連結）の実現を目指す",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度までの経営指標「連結売上高経常利益率5％の安定的確保」を達成",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度に 売上高1,300億円（過去5年平均比1.3倍以上）、",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度経営数値目標：売上1,300億円 営業利益150億円",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 13 日",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（建設機械のメンテナンスサブスクリプションサービス、",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ メンテナンスサブスクリプション契約の導入",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプションサービス",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 車両・機械の設計から施工・保守までをつなぐ",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トや設備配置の確認が可能になるほか、 鉄道事業者の保守作業、 運転取扱い、 清掃作",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "VR 空間上で、 保守作業で扱う単位ごとに部品を動かすことや、 工具を空間上に",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配置することができるため、保守作業の支援を実現します",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "VR 空間上では、車両を構成する部品を、保守作業で扱う単位ごとに自由に動か",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より、 保守作業を想定した教育 ・ 訓練や作業手順の事前検討に活用することができ",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社の取締役会は、取締役候補者を決定するに際し、各事業部門の経営に強みを発揮できる人材、経営管理に適した人材等のバランスを考慮",
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+2.6%11.3%8.7%営業利益率",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+3.0%11.2%8.2%営業利益率",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤強みを活かした成長領域への展開",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ 強みを活かした成長領域への展開",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ 強みを活かした",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位性の高い",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 競争優位性を維持するための技術開発",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▼競争優位性の強化",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別状況は以下のとおりであります",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,673 1,827 1,187 223 △40 4,871 △832 4,038",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,581 1,894 1,327 346 48 6,198 △765 5,433",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」の区分は、報告セグメントに含まれない事業セグメント等であります",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額には、全社費用△828百万円、棚卸資産の調整額△13百万円及びセグメント",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、全社費用は、主に報告セグメントに 帰属しない一",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額には、全社費用△786百万円、棚卸資産の調整額13百万円及びセグメント 間",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、全社費用は、主に報告セグメントに 帰属しない一般",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別に分解した顧客との契約から認識した売上高は以下のとおりであります",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額（百万円） 構成比（％） 金額（百万円） 構成比（％）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）セグメント別業績",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※「調整額」は、セグメントに帰属しない一般管理費、セグメント間取引消去などを含んでいる",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績（ 2027年3月期 第２四半期累計期間）",
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "DXを活用した顧客課題解決サービスと収益モデルの拡充",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【海外展開】 • ビジネスモデル定着と持続的な事業成長の推進",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル定着と持続的な事業成長の推進",
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本車両 レポート — 日本車両 レポート 日本車輌製造 PDF https://www.n-sharyo.co.jp > finance > report",
+    "url": "https://www.n-sharyo.co.jp/finance/report/2025ir_report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 株式会社 — 日本車輌製造 株式会社 日本車輌製造 https://www.n-sharyo.co.jp",
+    "url": "https://www.n-sharyo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 株式会社／【愛知県豊川市】収益化まで担う新規 ... — 日本車輌製造 株式会社／【愛知県豊川市】収益化まで担う新規 ... doda https://doda.jp > ... > 日本車輌製造株式会社の求人情報",
+    "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015904521/",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 - Wikipedia — 日本車輌製造 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 日本車輌製造",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8A%E8%BC%8C%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   },
+   {
+    "quote": "【7102 日本車輌製造 】リニアの核を握る百年企業、JR東海の ... — 【7102 日本車輌製造 】リニアの核を握る百年企業、JR東海の ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n80e2198aba6e",
+    "pass": 3
+   },
+   {
+    "quote": "日本車両 株主・投資家向情報 — 日本車両 株主・投資家向情報 日本車輌製造 https://www.n-sharyo.co.jp > finance",
+    "url": "https://www.n-sharyo.co.jp/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 株式会社 トピックス — 日本車輌製造 株式会社 トピックス 日本車輌製造 https://www.n-sharyo.co.jp > topics",
+    "url": "https://www.n-sharyo.co.jp/topics/",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 株式会社 決算説明資料 - EDINET DB — 日本車輌製造 株式会社 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > 日本車輌製造株式会社 > IR資料",
+    "url": "https://edinetdb.jp/company/E02134/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 【7102】の最新 決算 発表、業績修正 - 株探 — 日本車輌製造 【7102】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 日本車輌製造 (7102)",
+    "url": "https://kabutan.jp/stock/finance?code=7102",
+    "pass": 3
+   },
+   {
+    "quote": "日本車両 事業 所一覧 — 日本車両 事業 所一覧 日本車輌製造 https://www.n-sharyo.co.jp > company > view",
+    "url": "https://www.n-sharyo.co.jp/company/view.htm",
+    "pass": 3
+   },
+   {
+    "quote": "日本車両 会社概要 — 日本車両 会社概要 日本車輌製造 https://www.n-sharyo.co.jp > company",
+    "url": "https://www.n-sharyo.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本車両 会社紹介動画 — 日本車両 会社紹介動画 日本車輌製造 https://www.n-sharyo.co.jp > company > movie",
+    "url": "https://www.n-sharyo.co.jp/company/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 【7102】の 社長 ・役員 - キタイシホン — 日本車輌製造 【7102】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/7102/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 株式会社 会社紹介2021 - YouTube — 日本車輌製造 株式会社 会社紹介2021 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=rnfAaeL6CN0",
+    "pass": 3
+   },
+   {
+    "quote": "日本車輌製造 の 社長 と経営方針【代表 : 田中 守】(全4件 ... — 日本車輌製造 の 社長 と経営方針【代表 : 田中 守】(全4件 ... 転職会議 https://jobtalk.jp > ... > 日本車輌製造株式会社",
+    "url": "https://jobtalk.jp/companies/2508/answers?question_codes=president",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.n-sharyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/n_qualis/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/transport/carrier/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tekko/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/kiden/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/facility/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/papermanufact/ssi/smartfead.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/transport/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/topics/tp260519.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/engineering/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/prod_shinkansen.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/transport/baruku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/kiden/piledriver/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/entreenum.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/prod_express.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/prod_commuter.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/prod_subway.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/tetsudo/prod_overseas.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261029.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/corporategovernance_report_261027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2tansin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/198R8-qtr2setumei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261027_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/finance/irinfo20261013.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/allworks_999.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_shinkansen.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_express.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_commuter.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_subway.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_newtraffic.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_checker.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.n-sharyo.co.jp/business/images/pic_inspector.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260520542384/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本車輌製造",
+   "results": [
+    "https://www.n-sharyo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8A%E8%BC%8C%E8%A3%BD%E9%80%A0",
+    "https://x.com/n_sharyo",
+    "https://www.nikkei.com/nkd/company/?scode=7102",
+    "https://job.mynavi.jp/27/pc/search/corp57586/outline.html",
+    "https://ja.wikipedia.org/wiki/日本車輌製造",
+    "https://www.n-sharyo.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/7102.T",
+    "https://corp-ratings.com/日本車輌製造/"
+   ]
+  },
+  {
+   "query": "日本車輌製造 ビジネスモデル",
+   "results": [
+    "https://www.n-sharyo.co.jp/finance/report/2025ir_report.pdf",
+    "https://www.n-sharyo.co.jp/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015904521/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8A%E8%BC%8C%E8%A3%BD%E9%80%A0",
+    "https://note.com/tatsuya_sabato/n/n80e2198aba6e",
+    "https://www.n-sharyo.co.jp/business/index.html",
+    "https://envalith.com/ja/companies/7102/overview",
+    "https://www.n-sharyo.co.jp/recruit/company/business/",
+    "https://www.youtube.com/watch?v=oBq9Nk3yv2A",
+    "https://ja.wikipedia.org/wiki/日本車輌製造"
+   ]
+  },
+  {
+   "query": "日本車輌製造 決算説明資料",
+   "results": [
+    "https://www.n-sharyo.co.jp/finance/",
+    "https://www.n-sharyo.co.jp/topics/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7102",
+    "https://edinetdb.jp/company/E02134/presentations/",
+    "https://kabutan.jp/stock/finance?code=7102",
+    "https://www.buffett-code.com/company/7102/library",
+    "https://edinetdb.jp/company/E02134/ir-docs/",
+    "https://finance.yahoo.co.jp/quote/7102.T/financials",
+    "https://treelazy.com/stock-jp/7102",
+    "https://www.n-sharyo.co.jp/finance/accounts.html"
+   ]
+  },
+  {
+   "query": "日本車輌製造 事業系統図",
+   "results": [
+    "https://www.n-sharyo.co.jp/",
+    "https://www.n-sharyo.co.jp/company/view.htm",
+    "https://www.n-sharyo.co.jp/company/",
+    "https://www.n-sharyo.co.jp/company/movie.html",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8A%E8%BC%8C%E8%A3%BD%E9%80%A0",
+    "https://www.n-sharyo.co.jp/finance/ir_report.html",
+    "https://www.n-sharyo.co.jp/business/kiden/",
+    "https://www.n-sharyo.co.jp/environment/",
+    "https://www.n-sharyo.co.jp/recruit/company/work/",
+    "https://ja.wikipedia.org/wiki/日本車輌製造"
+   ]
+  },
+  {
+   "query": "日本車輌製造 社長 インタビュー",
+   "results": [
+    "https://www.n-sharyo.co.jp/company/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260520542384/",
+    "https://kitaishihon.com/company/7102/board-of-director",
+    "https://www.youtube.com/watch?v=rnfAaeL6CN0",
+    "https://jobtalk.jp/companies/2508/answers?question_codes=president",
+    "https://www.nikkan.co.jp/articles/view/386146",
+    "https://the-shashi.com/tse/7102/executives/",
+    "https://mirakin.jp/seizou/yusouyoukiki/nihonsyaryou2/",
+    "https://x.com/n_sharyo",
+    "https://ja.wikipedia.org/wiki/中川彰"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）"
+ }
+}

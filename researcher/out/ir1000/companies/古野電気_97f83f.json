@@ -1,0 +1,1918 @@
+{
+ "name": "古野電気",
+ "aliases": [],
+ "context": "証券コード6814／電気機器／プライム（内国株式）／2026.02期 売上高140,616百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:12:08.709909+00:00",
+ "official_url": "http://www.furuno.co.jp/",
+ "identified_by": "search:yahoo_jp:古野電気",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1951年（昭和26年）5月23日",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1938年",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "舶用事業 商船、漁船、プレジャーボート向け船舶用電子機器・サービス 産業用事業 医療機器、GPS/GNSSチップ＆モジュール、ETC2.0/ETC車載器、車両管理ソリューション、インフラ維持管理・気象観測システムなどの機器・サービス 無線LAN・ハンディターミナル事業 無線LANアクセスポイント、無線ハンディターミナルの機器・サービス その他事業 EMC・環境試験サービス 事業内容について",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結 140,616 百万円 業績推移",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "【ドール】売上高",
+    "value": "1.4億円、営業利益：0.9億円",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "label": "【ユーロ】売上高",
+    "value": "2.7億円、営業利益：1.3億円",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "1269億5300円（グループ連結）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "3,411名（単独 1,954名）",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "3368名（グループ全体）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "を普遍的な価値観として尊重しつつ、2030年までの目指す姿を「事業ビジョン」と「人財・企業風土ビジョン」で構成する新たな経営ビジョンとして明示し、その実現に向けた諸活動を展開することを通じて、顧客提供価値と企業価値の両面を持続的かつ発展的に高める方針です",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで当社が事業活動で重視してきた「安全安心」「環境」という提供価値を、「安全安心」と「快適」、「環境」と「人」の視点へ拡大することで、既存事業での顧客提供価値の拡充や周辺領域での新規事業育成を推進するための新たな道しるべとします",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、顧客提供価値と企業価値の最大化を目標に、事業と市場の特性に応じて当社の人財と組織機能をグローバリゼーションの観点からより有機的に活用するとともに、顧客や取引先との連携を積極的に推進することで「名実ともに世界のフルノ」となることを目指します",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツフィッシングボートやセーリングヨット、クルーザーなどプレジャーボートのユーザーに高品質な製品を、沿岸警備艇やタグボートなど小型ワークボートのユーザーに革新的かつ信頼性の高い製品を継続的に供給しながら、顧客価値の向上を追求する事業を展開しています",
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/corporate/business/industrial.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/sociality/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/environmental/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/environmental/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社でも、顧客からインベントリ情報提出の要望があれば対応しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/environmental/ecp.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/environmental/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先さまにおかれましても「グリーン調達」の重要性をご理解いただき、当社の活動へのご協力をお願い申し上げます",
+    "url": "https://www.furuno.co.jp/csr/environmental/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "Scope 3（サプライチェーン全体の排出）については、取引先企業との連携を強化しつつ、自社内で可能な削減努力を継続してまいります",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、Scope 3に関しては、取引先企業との勉強会を開催し、サプライチェーンにおける供給者の皆様に対して、協力と理解を呼びかける取り組みを進めています",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "フルノグループは今後も、これらを普遍的な価値観として尊重しつつ、2030年までの目指す姿を「事業ビジョン」と「人財・企業風土ビジョン」で構成する新たな経営ビジョンとして明示し、その実現に向けた諸活動を展開することを通じて、顧客提供価値と企業価値の両面を、持続的かつ発展的に高める方針です",
+    "url": "https://www.furuno.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "それにより、生産・物流・営業活動が制限を受け、顧客への製品供給に支障をきたす場合、当社グループの業績及び財政状態に悪影響を及ぼす可能性があります",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、事業上の重要情報及び事業の過程で入手した個人情報や取引先等の秘密情報を保有しており、外部からの攻撃や、内部的過失や盗難等により、これらの情報の流出、破壊もしくは改ざん又は情報システムの停止等が引き起こされる可能性があります",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、CSR活動をサプライチェーン全体で実践すべく、当社資材調達基本方針を取引先にも共有し、環境配慮の要請等を行うとともに、環境情報の適切な開示に取り組んでまいります",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/management/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/library/bs.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/library/sec_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートボーティングにより技術を新たな顧客体験価値へと昇華し、豊かなボーティングライフを実現する",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全てのボートユーザーが自由・安全・快適に水上での時間を楽しめる環境を提供",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社及び安全保障分野で培った盤石な事業基盤を礎に、既存事業の深化と新領域・新市場の探索によって、顧客価値・",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の実装環境に寄り添った製品ラインナップ",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客提供価値と企業価値の両面を持続的かつ発展的に高める方針です",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全安心」と「快適」、「環境」と「人」の視点へ拡大することで、既存事業での顧客提供価値の拡充や",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は、顧客提供価値と企業価値の最大化を目標に、事業",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "するとともに、顧客や取引先との連携を積極的に推進することで「名実ともに世界のフルノ」となる",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバル市場におけるシェアを取り戻すため、事業体制の再構築を進め、顧客視点に立った商品の",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Positioning・Navigation・Timing」(位置測位・運行支援・時刻同期)の 3 つの領域で、顧客視点に",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新造船竣工時から保守メンテナンス、機器換装に至るまで、船のライフサイクルを通して顧客に寄り添う「ラ",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ サービス品質の更なる向上と共に、予兆サービス及びリモートメンテナンスを促進し、お客様の満足度と収",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４ データを活用した製品・サービスを市場投入し、新たな顧客価値の創造を目指します",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の求める DX の実現に貢献する新たなシステムソリューションを展開し、無線 LAN アクセスポイントの",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大型商船をはじめ、漁船や小型ワークボートなどの船舶に、さまざまな船舶用電子機器・サービスを提供しています",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケアやETC2.0/ETC車載器のほか、防災ソリューションなど、安全・安心で、快適な暮らしを実現するための機器・サービスを提供しています",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度NMEA最優秀商品賞を6部門で受賞",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在では連結売上高のうち海外売上比率が6割を超え、世界80カ国以上に開発・生産・販売・サービス拠点を有するようになりました",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術編",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質・サービス向上への取り組み",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術サービス職",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "GNSS製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューションに関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "協立電波（株）、協立電波サービス（株）の 経営権取得し、商船事業に着手・強化",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主な開発製品",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "舶用機器で培った技術を活かし、カーナビゲーション用GPS受信機やデジタル放送設備向けのGPS応用製品、ETC車載器などのITS機器を開発",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、衛星通信サービスなどソリューション事業にも展開する",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶向け衛星通信サービス",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "デンマークにフルノ・ブロードバンド・サービス・センターを設立",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶向け衛星通信サービス「セーフコムネット」を開始",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ECDIS コンピュータ支援型トレーニングサービス「NavSkills CAT」を開始",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型車両認識サービス「CaoThrough™」提供開始",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "車両入退管理サービス「FLOWVIS (フロービス) 」を開発",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶の位置情報をモニタリングする新クラウドサービス「イチダケ30」を開発",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術編",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・サービス向上への取り組み",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サービス職",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "GNSS製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューションに関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "商船、漁船、プレジャーボート向け船舶用電子機器・サービス",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、GPS/GNSSチップ＆モジュール、ETC2.0/ETC車載器、車両管理ソリューション、インフラ維持管理・気象観測システムなどの機器・サービス",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "無線LANアクセスポイント、無線ハンディターミナルの機器・サービス",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "EMC・環境試験サービス",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術編",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質・サービス向上への取り組み",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術サービス職",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "GNSS製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューションに関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術編",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質・サービス向上への取り組み",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術サービス職",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "GNSS製品に関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューションに関するお問い合わせ",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "舶⽤機器事業部 サービス統括部⻑",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術編",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質・サービス向上への取り組み",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術サービス職",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介映像",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/business/industrial.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/corporate/business/industrial.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/sociality/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/sociality/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/ecp.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/ecp.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "本報告書は、当社の事業ビジョン「安全安心・快適、人と環境に優しい社会・航海の実現」を中心に、当社が目指す姿やサステナブルな社会の実現に向けた取り組みなどを紹介しています",
+    "url": "https://www.furuno.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2019年より、委員の過半数が社外役員である「指名・報酬諮問委員会」を設置しています",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名諮問の場においては、取締役・監査役・執行役員の人事に関する選解任および後継者育成計画等に関する事項について審議しています",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、海外子会社及び代理店を経由して海外市場へ販売を行っており、連結売上高に占める海外売上高の割合は当連結会計年度において70.3％と高い状況にあります",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/management/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/library/bs.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/library/bs.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/library/sec_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/library/sec_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、 またまた！ こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "FURUNOを知ってほしくて、つい！こんな場所で紹介しています",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も信頼されるライフサイクルサポートパートナーへ",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度NMEA最優秀商品賞を6部門で受賞",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.furuno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.furuno.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けた成長ストーリーおよび2031年2月期目標の設定について",
+    "url": "https://www.furuno.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度の成長目標は、連結売上高1,200億円、営業利益率10％、新規事業構成比率30％",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けた成長ストーリーおよび2031年2月期目標の設定について（3.78MB）",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "1938年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年～",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年、魚群探知機部門で米国海洋電子機器協会（NMEA）最優秀メーカー賞を受賞",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年、船舶用電子機器では歴史も実績もある英国のデッカを抜き、船舶用レーダー部門で最優秀メーカー賞を受賞",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年に大阪証券取引所に株式上場",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年、「戦後40年目の海への鎮魂」のため行われた「戦艦大和の探索」計画に協力",
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月28日現在",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1951年（昭和26年）5月23日",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月1日現在",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年５月21日現在",
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年に世界で初めて魚群探知機の実用化に成功して以来、古野電気はさまざまな航海機器、通信機器の開発に努め、お客さまのニーズに応えてきました",
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月現在",
+    "url": "https://www.furuno.co.jp/csr/environmental/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度の実施状況",
+    "url": "https://www.furuno.co.jp/csr/environmental/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度は、新型コロナウイルス感染症への対応や半導体不足などの外部要因により、電力量が前年度比の3.4%減となりました",
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度には10物質規制への対応を強化することを目的として、フタル酸エステルの測定装置も導入しました",
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度におけるおおよそのCO₂排出量は、Scope 1で約1,500トン、Scope 2で約4,500トンと認識しています",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度には、さらなる削減に向けた具体的な施策として、社有車へのEV導入に向けた充電設備の設置を行うとともに、再生可能エネルギー由来の電力への切り替えを実施しました",
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月23日現在の執行役員の員数は12名（内4名は取締役が兼任）となっています",
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/bs.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/sec_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期（2023年3月～2024年2月）",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年2月期",
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年10 月９日",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030 年に向けた成長ストーリーおよび 2031 年２月期目標の設定について",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年２月期には同ビジョンで掲げた連結売上高および営業利",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2031 年２月期には、連結売上高 1,800 億円、営業利益率 15％以上を目指し、中長期的な事業成長と収益性向",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年に向けた成長ストーリー",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年に向けた3つの変革",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年のその先へ",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年2月期 第2四半期",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年2月期 第2四半期 決算のポイント",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年2月期 連結業績予想：上方修正",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "技術と事業の柱・収益構造の構築に向けた行動のフェーズ",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術と事業の柱・収益構造の構築に向けた行動のフェーズ（2023～2025年度）",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術と事業の柱・収益構造の構築に向けた行動",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術と事業の柱・収益構造の構築に向けた行動",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "現在では連結売上高のうち海外売上比率が6割を超え、世界80カ国以上に開発・生産・販売・サービス拠点を有するようになりました",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度の成長目標は、連結売上高1,200億円、営業利益率10％、新規事業構成比率30％",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント利益 122.1億円（+27.0億円）",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 8.2億円（+6.4億円）",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 3.6億円（+3.5億円）",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………10",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の業績は、次のとおりであります",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、営業利益ベースの数値であります",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、122億１",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、８億２",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、３億５千６百万円(前",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の売上高は１億３千７百万円(前年同期比8.5％減)、セグメント損失は４千万円(前年同期は８千８百万円の損",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１ 「その他」の区分は、報告セグメントに含まれない事業セグメントであり、電磁環境試験事業等を含んでおり",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失(△)の調整額は、主にセグメント間取引消去であります",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ セグメント利益又は損失(△)は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在では連結売上高のうち海外売上比率が 6割を超え、世界 80カ国以上に開発・生産・販売・",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規事業構成比率 30％です",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "率 10％、新規事業構成比率 30％」を設定しております",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円、営業利益率 10％、新規事業構成比率 30％」を設定しております",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "2030年度の成長目標は、連結売上高1,200億円、営業利益率10％、新規事業構成比率30％",
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "対応策として、フェーズ1中計より取り組んでいる在庫・品質・生産・開発に係るコスト削減の継続や、IoTを活用した高付加価値商品の開発や拡販等に取り組んでおります",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社の競争優位又は守秘義務契約に基づく特定の情報について、外部からの問い合わせに必ずしも回答しない場合があります",
+    "url": "https://www.furuno.co.jp/ir/management/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2031 年２月期には、連結売上高 1,800 億円、営業利益率 15％以上を目指し、中長期的な事業成長と収益性向",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション提供による粗利率改善産業用分野のグローバル展開サービス収益の拡大",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROICROE営業利益率売上高",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 全事業の増収と為替効果により、粗利が大幅に増加",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利の増加がこれを上回り、営業利益は大幅に増加",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長に向けた研究開発・人財投資に伴い販管費は増加したものの、粗利増により営業利益は大幅に増加",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 1.9% 2.5% 5.8% 2.9% 4.5% 3.0% 1.7% 5.7% 10.4% 11.6%",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益率(百万円)",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Autonomous Ships Plus）コンソーシアムを構築し 、それぞれの強みを生かした技術開発および社会実装に向けた",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円、営業利益率15％以上、ROE15％以上、ROIC15％以上を新たな経営目標として設定し、これらの達成に向けた成長スト",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらすべてのフェーズが完結する 2030年度の成長目標は、連結売上高 1,200億円、営業利益率 10％、",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フェーズ1 の最終年度にあたる2023 年2 月期には、安定的に自己資本営業利益率10％以上*を計上し、配当",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "* 2010 年2 月期から2018 年2 月期の平均自己資本営業利益率は5％",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 抜本的な在庫削減",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のあらゆる領域で在庫削減のための改革を進めます",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フルノグループの祖業としての強みを持つ各種機器の提供に留まらず、漁業を取り巻く様々な課題解決",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 無線LAN 事業：強みをもつ文教向け事業での経営資源の捻出と、将来成長に向けた先行投資",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円、営業利益率 10％、新規事業構成比率 30％」を設定しております",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "向上、在庫適正化、商品開発機能・総合モノづくり機能の最適化）を完遂させます",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "さらに、新造船向けのビジネスで築いたトップシェアの実績とグローバルネットワークを活かし、船舶の新船建造から保守、換装に至るライフサイクルの維持管理を支援する事業を展開しています",
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "pass": 1
+   },
+   {
+    "quote": "※商船・プレジャーボートは保守サービスを除く ※前提為替：USD＝150円／EUR＝169円",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス基盤の強化とストック型収益の拡大",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 保守サービス売上は、国内・海外ともに増加",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 保守サービス売上も増加",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 保守サービス売上も好調に推移",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 保守サービスも堅調に推移",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "準を維持し、保守サービス需要も好調に推移したことから、機器販売は堅調に推移し、保守サービス売上は増加しまし",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "か、保守サービス売上も好調に推移しました",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "増加し、保守サービスも堅調に推移しました",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本では、商船向けの機器販売が高水準を維持したほか、保守サービス",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新造船竣工時から保守メンテナンス、機器換装に至るまで、船のライフサイクルを通して顧客に寄り添う「ラ",
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "フルノの事業｜企業情報 - 古野電気 — フルノの事業｜企業情報 - 古野電気 古野電気 https://www.furuno.co.jp > corporate > business",
+    "url": "https://www.furuno.co.jp/corporate/business/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2025 - 古野電気 — 統合報告書 2025 - 古野電気 古野電気 PDF https://www.furuno.co.jp > report > IR2025_jp_A3",
+    "url": "https://www.furuno.co.jp/Portals/0/images/csr/report/IR2025_jp_A3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用先進企業の 古野電気 がAI活用を見直し — データ活用先進企業の 古野電気 がAI活用を見直し 日経クロステック https://xtech.nikkei.com > ニュース解説",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10036/",
+    "pass": 3
+   },
+   {
+    "quote": "事業等のリスク｜経営情報 - 古野電気 — 事業等のリスク｜経営情報 - 古野電気 古野電気 https://www.furuno.co.jp > management > risk",
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 - IR・投資家情報 - 古野電気 — 決算短信・ 決算説明資料 - IR・投資家情報 - 古野電気 古野電気 https://www.furuno.co.jp > library",
+    "url": "https://www.furuno.co.jp/ir/library/bs.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報｜FURUNO 古野電気 企業情報サイト — IR・投資家情報｜FURUNO 古野電気 企業情報サイト 古野電気 https://www.furuno.co.jp > ...",
+    "url": "https://www.furuno.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期 第2四半期 - 決算説明資料 - 古野電気 — 2027年2月期 第2四半期 - 決算説明資料 - 古野電気 古野電気 PDF https://www.furuno.co.jp > Portals > images > library",
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー｜IR・投資家情報 - 古野電気 — IRカレンダー｜IR・投資家情報 - 古野電気 古野電気 https://www.furuno.co.jp > calendar",
+    "url": "https://www.furuno.co.jp/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の決算短信・ 決算説明資料 - IR・投資家情報 - 古野電気 — 過去の決算短信・ 決算説明資料 - IR・投資家情報 - 古野電気 古野電気 https://www.furuno.co.jp > library > bs_archives",
+    "url": "https://www.furuno.co.jp/ir/library/bs_archives.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制｜会社概要｜企業情報 - 古野電気 — 組織体制｜会社概要｜企業情報 - 古野電気 古野電気 https://www.furuno.co.jp > about > organization",
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本情報｜会社概要 - 古野電気 — 基本情報｜会社概要 - 古野電気 古野電気 https://www.furuno.co.jp > corporate > about > outline",
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用・その他 事業 ｜フルノの 事業 ｜企業情報 - 古野電気 — 産業用・その他 事業 ｜フルノの 事業 ｜企業情報 - 古野電気 古野電気 https://www.furuno.co.jp > corporate > business > industrial",
+    "url": "https://www.furuno.co.jp/corporate/business/industrial.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 社長 名鑑】 社長インタビュー 記事掲載のお知らせ - 古野電気 — 【 社長 名鑑】 社長インタビュー 記事掲載のお知らせ - 古野電気 古野電気 https://www.furuno.co.jp > general > general_category",
+    "url": "https://www.furuno.co.jp/news/general/general_category.html?itemid=1821&dispmid=1017",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月29日 放送 古野電気 社長 古野 幸男 （ふるの ゆきお ... — 2026年1月29日 放送 古野電気 社長 古野 幸男 （ふるの ゆきお ... tv-tokyo.co.jp https://www.tv-tokyo.co.jp > cambria > backnumber",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "pass": 3
+   },
+   {
+    "quote": "古野 幸男 社長 に聞きました！｜FURUNO MIRAI PULSE — 古野 幸男 社長 に聞きました！｜FURUNO MIRAI PULSE 古野電気 https://future-vision.furuno.co.jp > mirai-pulse > detail",
+    "url": "https://future-vision.furuno.co.jp/mirai-pulse/detail/250115.html",
+    "pass": 3
+   },
+   {
+    "quote": "FURUNO｜ 古野電気 株式会社【公式】 on X — FURUNO｜ 古野電気 株式会社【公式】 on X X https://x.com > @furuno_jp",
+    "url": "https://x.com/furuno_jp/status/1926484281250975987",
+    "pass": 3
+   },
+   {
+    "quote": "トップに聞く 古野電気 古野 幸男 社長 - 日経ヴェリタス — トップに聞く 古野電気 古野 幸男 社長 - 日経ヴェリタス 日本経済新聞 https://www.nikkei.com > prime > veritas > article",
+    "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOKC191H00Z10C26A3000000",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.furuno.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/management/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/about/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/about/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/about/management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/business/marine.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/corporate/business/industrial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/sociality/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/environmental/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/environmental/management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/environmental/reduction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/environmental/ecp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/environmental/green.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/environmental/climate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/csr/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/management/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/management/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/management/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/library/bs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/library/sec_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuno.co.jp/ir/library/annualreport.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/sec_report/yukashoken_76ki_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/kessan_27d02kt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2026/file01_20261009_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/general/pdf/2018/file01_20181203_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2020/file01_20200220_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/news/ir/pdf/2022/file01_20230215_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/img_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/marine/img_main.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/marine/img_submain_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/marine/img_product_01_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/marine/img_product_01_2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/marine/img_product_01_3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.furuno.co.jp/Portals/0/images/corporate/business/marine/img_product_01_4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://pages.awscloud.com/rs/112-TZM-766/images/20241003-AWS-MFG-2_Furuno.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "古野電気",
+   "results": [
+    "http://www.furuno.co.jp/",
+    "https://www.furuno.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E5%8F%A4%E9%87%8E%E9%9B%BB%E6%B0%97",
+    "https://www.instagram.com/furuno_japan/",
+    "https://x.com/furuno_jp",
+    "https://ja.wikipedia.org/wiki/古野電気",
+    "https://en.wikipedia.org/wiki/Furuno",
+    "https://www.furuno.co.jp/",
+    "https://www.furuno.co.jp/corporate/",
+    "https://finance.yahoo.co.jp/quote/6814.T"
+   ]
+  },
+  {
+   "query": "古野電気 ビジネスモデル",
+   "results": [
+    "https://www.furuno.co.jp/corporate/business/",
+    "https://pages.awscloud.com/rs/112-TZM-766/images/20241003-AWS-MFG-2_Furuno.pdf",
+    "https://www.furuno.co.jp/Portals/0/images/csr/report/IR2025_jp_A3.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10036/",
+    "https://www.furuno.co.jp/ir/management/risk.html",
+    "https://recruit.furuno.co.jp/environment/careermodel/",
+    "https://aws.amazon.com/jp/solutions/case-studies/furuno-electric/",
+    "https://ja.wikipedia.org/wiki/%E5%8F%A4%E9%87%8E%E9%9B%BB%E6%B0%97",
+    "https://www.furuno.co.jp/corporate/about/organization.html",
+    "https://ja.wikipedia.org/wiki/古野電気"
+   ]
+  },
+  {
+   "query": "古野電気 決算説明資料",
+   "results": [
+    "https://www.furuno.co.jp/ir/library/bs.html",
+    "https://www.furuno.co.jp/ir/",
+    "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2027Q2.pdf",
+    "https://www.furuno.co.jp/ir/calendar/",
+    "https://www.furuno.co.jp/ir/library/bs_archives.html",
+    "https://www.furuno.co.jp/ir/faq/",
+    "https://www.furuno.co.jp/Portals/0/images/ir/library/bs/setsumei_2026Q4.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6814",
+    "https://www.furuno.co.jp/ir/library/sec_report.html",
+    "https://www.buffett-code.com/company/6814/library"
+   ]
+  },
+  {
+   "query": "古野電気 事業系統図",
+   "results": [
+    "https://www.furuno.co.jp/corporate/about/organization.html",
+    "https://www.furuno.co.jp/corporate/about/outline.html",
+    "https://www.furuno.co.jp/Portals/0/images/csr/report/IR2025_jp_A3.pdf",
+    "https://www.furuno.co.jp/corporate/business/industrial.html",
+    "https://pages.awscloud.com/rs/112-TZM-766/images/20241003-AWS-MFG-2_Furuno.pdf",
+    "https://www.furuno.co.jp/csr/environmental/management.html",
+    "http://www.furuno.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%8F%A4%E9%87%8E%E9%9B%BB%E6%B0%97",
+    "https://www.jstage.jst.go.jp/article/jinnavi/223/0/223_33/_pdf",
+    "https://ja.wikipedia.org/wiki/古野電気"
+   ]
+  },
+  {
+   "query": "古野電気 社長 インタビュー",
+   "results": [
+    "https://www.furuno.co.jp/news/general/general_category.html?itemid=1821&dispmid=1017",
+    "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0129/",
+    "https://future-vision.furuno.co.jp/mirai-pulse/detail/250115.html",
+    "https://x.com/furuno_jp/status/1926484281250975987",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC191H00Z10C26A3000000",
+    "https://www.diamondv.jp/article/3yedM7Y7ZZog9tTZ3TbUsv?",
+    "https://www.instagram.com/p/DQJJ_J-k8M3/",
+    "https://www.instagram.com/reel/DSqu7ACiaFz/",
+    "https://www.diamondv.jp/article/3yedM7Y7ZZog9tTZ3TbUsv",
+    "https://future-vision.furuno.co.jp/mirai-pulse/"
+   ]
+  }
+ ],
+ "missing": {}
+}

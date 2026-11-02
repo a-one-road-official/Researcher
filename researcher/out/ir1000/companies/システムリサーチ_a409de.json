@@ -1,0 +1,1691 @@
+{
+ "name": "システムリサーチ",
+ "aliases": [],
+ "context": "証券コード3771／情報・通信業／プライム（内国株式）／2026.03期 売上高29,083百万円 営業利益率11.9%",
+ "researched_at": "2026-11-02T20:14:59.535111+00:00",
+ "official_url": "https://www.sr-net.co.jp/",
+ "identified_by": "search:yahoo_jp:システムリサーチ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1981年3月",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "設立と沿革",
+    "value": "名古屋から全国へ、信頼の軌跡",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （2026年3月期）",
+    "value": "単体 290億2,477万円",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "18,405 13.9 21,556 17.1 23,320 8.1 25,931 11.1 29,083 12.1",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員 （2026.3.31現在）",
+    "value": "単体 1,548名",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "連結従業員数",
+    "value": "1,302人 1,370人 1,442人 1,484人 1,569人",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "label": "社風と従業員満足度",
+    "value": "和やかで、風通しの良い組織",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "SIサービス業務 ソフトウエア開発業務 ソフトウエアプロダクト業務 商品販売 その他(WEBサイト運営等)",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "社会を支える4つの柱",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様へお困りごとを",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲：顧客要求事項に基づく受託ソフトウェアの設計・開発及び付帯するサービス（保守、Q&A） 関連事業所：本社、第1開発センター、第2開発センター",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い業界のお客様に最適なサービスをお届けします",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "特定メーカーに依存せず、ノウハウ・経験を生かしたお客様にとって最適なプロダクト＆サービスを提案します",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望に沿った提案・開発から保守までお客様の立場に立ったSIサービスを提供します",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足に軸足を 置いた企業体質の強化を図り、顧客の情報システム全般において、System Analysis、System design、System development、System Integration等の業務を請負い、顧客が抱える問題に最適なソリューションを提供する",
+    "url": "https://www.sr-net.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や株主様から多く寄せられるご質問の回答を掲載しております",
+    "url": "https://www.sr-net.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "また、掲載情報の著作権等の知的財産権、使用権、その他の権利は、システムリサーチまたはシステムリサーチに掲載情報の利用を認めた権利者に帰属しておりますので、お客様におかれましては、これらの権利を侵害しない範囲で当サイトをご利用いただきますようお願いいたします",
+    "url": "https://www.sr-net.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "華やかなニュースや急騰する株価に目を奪われがちですが、長期的な資産形成の礎となるのは、むしろ地道ながらも着実に事業を成長させ、顧客との信頼関係を築き上げている企業ではないでしょうか",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "特筆すべきは、その顧客からの",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との強固な信頼関係",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ同社は顧客から選ばれ続けるのか",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "以来、特定のメーカーや資本系列に属さない**「独立系」**としての立場を貫き、顧客にとって最適なソリューションを追求する姿勢を崩していません",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "浜松、大阪、東京へと拠点を拡大し、顧客の傍でビジネスを支援する体制を構築",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これは、特定の業界や顧客に依存しすぎないバランスの取れた事業ポートフォリオと、後述する強固な顧客基盤の賜物です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これらが相互に連携し、顧客へのワンストップソリューション提供を可能にしています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が抱える経営課題をヒアリングし、コンサルティングからシステムの設計、開発、導入、そして運用保守までを一貫して請け負う事業です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "同社の根幹をなす事業であり、長年の経験で培った業務知識を活かし、顧客のビジネスに深く入り込んだ提案を得意としています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業などを中心に、準委任契約や派遣契約といった形態で、顧客の拠点に常駐しながらシステム開発を支援する事業です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "この事業を通じて顧客との日常的な接点を持ち、潜在的なニーズを掘り起こす役割も担っています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチの企業活動の根底には、「時流に乗る経営」「運命共同体の経営」「高能率・高配分の経営」「顧客志向の経営」といった経営理念が存在します",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "特に**「顧客志向の経営」",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の利益を最優先し、プロの技術を提供することで満足感を与え、その結果としてリピートオーダーをいただく",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "彼らは自らを単なる「システム開発会社」ではなく、顧客のビジネスの成功を共に目指す",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "この思想が、社員一人ひとりの行動指針となり、高い顧客満足度へと繋がっています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その内実を深く分析すると、顧客を惹きつけて離さない、巧みに設計された構造が見えてきます",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "一度システムを導入した顧客は、その後の機能追加や改修、運用保守、さらには次期システムの刷新といった場面で、再び同社に声をかけるのです",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチのエンジニアは、長年にわたり顧客の現場に常駐し、共に課題解決に取り組む中で、教科書には載っていない「生きたノウハウ」を蓄積しています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からすれば、「うちの業務を一番よく分かってくれている」システムリサーチに任せるのが、最も合理的で安心できる選択となります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：独立系である強みを活かし、特定のメーカー製品に縛られることなく、顧客にとって真に最適なハードウェアやソフトウェアを組み合わせた提案が可能です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "また、大企業にありがちな縦割り組織ではなく、営業とエンジニアが一体となって顧客に対応するため、意思決定が迅速かつ柔軟です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "この小回りの利く対応力が、顧客満足度を高め、継続的な関係構築に繋がっています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性：「顧客密着」が生み出す圧倒的なスイッチングコスト",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引先についてご説明します",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "その他エンドユーザーでは、ヤマト運輸グループ、日本通運、名港海運、大同特殊鋼、日本ガイシ、ダイフク、オークマ、朝日インテック、三菱電機インフォメーションネットワーク、パナソニック インフォメーションシステムズ、カゴメ、TOPPAN、ソフトバンク、パン・パシフィック・インターナショナルホールディングス（ドン・キホーテ）などがあります",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "当社のコア事業であるSIサービスにおいて、中部に加え関東・関西マーケットの優良顧客の獲得と得意分野の事業特化・ソリューションの拡充を図ります",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの経営課題に向き合い、顧客密着型で培った業務ノウハウと高い技術力で、ご満足いただけるサービスをご提供します",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車メーカーの全国販売店（ディーラー）向け商談見積、受発注管理システム、営業支援、顧客管理に関するシステムを開発しました",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "「WArm＋（ウォームプラス）」は、顧客情報や利益管理を自由に設計できるCRMシステムです",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも総務チームとして、人事（給与や労務管理）、経理（決算や資金繰り）、庶務（備品管理や清掃）、法務（契約書）などを担っており、表立ってお客様と商談をしたりする部署ではありませんが、",
+    "url": "https://www.sr-co.co.jp/recruit/staff/staff-10/",
+    "pass": 3
+   },
+   {
+    "quote": "法務は、営業担当者が受注（仕事をとってくること）したお客様との合意内容を文書にした契約書の内容の検証をしています",
+    "url": "https://www.sr-co.co.jp/recruit/staff/staff-10/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムリサーチ、帳票の読取からデータ登録までを自動化するソリューションを提供開始",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションをご紹介いたします",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/company/?id=aboutsr",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/company/?id=aboutsr",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/company/?id=aboutsr",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス業務",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲：顧客要求事項に基づく受託ソフトウェアの設計・開発及び付帯するサービス（保守、Q&A） 関連事業所：本社、第1開発センター、第2開発センター",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲：受託システムの設計、開発、導入、運用、監視、提案及び保守サービス業務、並びに常駐派遣する要員の管理業務（SEサービス業務）・プロダクト開発、保守サービス業務・WEBサービス業務",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "（社）愛知県情報サービス産業協会（AiA）会員",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京支店およびイリイソリューション部を移転 東京都新宿区西新宿2丁目7番1号 小田急第一生命ビル",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪支店およびイリイソリューション部大阪オフィスを移転 大阪市西区靭本町1-11-7 信濃橋三井ビルディング",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い業界のお客様に最適なサービスをお届けします",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "特定メーカーに依存せず、ノウハウ・経験を生かしたお客様にとって最適なプロダクト＆サービスを提案します",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望に沿った提案・開発から保守までお客様の立場に立ったSIサービスを提供します",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪支店ならびにイリイソリューション部移転に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "東京支店ならびにイリイソリューション部移転に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "大阪支店ならびにイリイソリューション部移転に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "東京支店ならびにイリイソリューション部移転に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス業務",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、当社および社員を金融商品取引法を含む法的責任から保護することを目的としています",
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法および東京証券取引所の定める「上場有価証券の発行者の会社情報の適時開示等に関する規則」（以下「開示規則」という）に沿って、情報開示を行っています",
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービス",
+    "url": "https://www.sr-net.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト&サービス",
+    "url": "https://www.sr-net.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足に軸足を 置いた企業体質の強化を図り、顧客の情報システム全般において、System Analysis、System design、System development、System Integration等の業務を請負い、顧客が抱える問題に最適なソリューションを提供する",
+    "url": "https://www.sr-net.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sr-net.co.jp/ir/contact/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ご紹介いたします",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションをご紹介いたします",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスに寄り添うITパートナー",
+    "url": "https://www.sr-net.co.jp/company/?id=aboutsr",
+    "pass": 1
+   },
+   {
+    "quote": "認定事項 （代理店・加盟団体含む）",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスに寄り添うITパートナーとして、",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "（訂正）「指名・報酬諮問委員会設置に関するお知らせ」の一部訂正についてを公開しました",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会設置に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "（訂正）「指名・報酬諮問委員会設置に関するお知らせ」の一部訂正についてを公開しました",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会設置に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "（訂正）「指名・報酬諮問委員会設置に関するお知らせ」の一部訂正についてを公開しました",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-library-en",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会設置に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-library-en",
+    "pass": 1
+   },
+   {
+    "quote": "（訂正）「指名・報酬諮問委員会設置に関するお知らせ」の一部訂正についてを公開しました",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar&doing_wp_cron=1793650535.4011070728302001953125",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会設置に関するお知らせ",
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar&doing_wp_cron=1793650535.4011070728302001953125",
+    "pass": 1
+   },
+   {
+    "quote": "ERP ITパートナー 業務パッケージ",
+    "url": "https://www.sr-net.co.jp/img/company/business/img/img_business_03_pc.png",
+    "pass": 2
+   },
+   {
+    "quote": "この記事では、単なる企業紹介に留まらず、システムリサーチが持つ本質的な強み、すなわち",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念：「ビジネスに寄り添うITパートナー」",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "「ITパートナー」**と位置づけているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、独立系であることから、顧客企業のIT戦略全体を俯瞰し、中立的な立場でアドバイスできる**「御用聞き」を超えた「パートナー」**としてのポジションを確立しています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な決済手段への対応や、きめ細やかなサポート体制が評価され、契約店舗数は右肩上がりに増加",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、会社概要、2025年3月期第2四半期（中間期）業績、中期経営計画、サステナビリティ、ソリューション紹介、株主還元の順でご説明します",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "子会社事業についてご紹介します",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "当社の経営ビジョンは「ビジネスに寄り添うITパートナー」です",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの良き理解者となり、信頼に応えていけるITパートナーとして、ともに歩んでいきます",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "当社のソリューションをご紹介します",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "SIサービスの開発実績の一部をご紹介します",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車メーカーの全国販売店（ディーラー）向け商談見積、受発注管理システム、営業支援、顧客管理に関するシステムを開発しました",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "BUSINESS-事業紹介",
+    "url": "https://recruit.sr-net.co.jp/category/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.sr-co.co.jp/recruit/staff/staff-10/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信を公開しました",
+    "url": "https://www.sr-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/company/?id=aboutsr",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革 ｜株式会社システムリサーチ",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年3月",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月・9月開催 個人投資家様向け会社説明会資料を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書を掲載しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月11日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月10日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月27日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月10日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月22日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月・9月開催 個人投資家様向け会社説明会資料を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月26日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会のオンデマンド配信および書き起こし記事を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月2日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月26日",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料を公開しました",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月・9月開催 個人投資家様向け会社説明会資料",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会オンデマンド配信および書き起こし記事",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月開催 個人投資家様向け会社説明会資料",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期(第",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期(第",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期(第",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "登録範囲：顧客要求事項に基づく受託ソフトウェアの設計・開発及び付帯するサービス（保守、Q&A） 関連事業所：本社、第1開発センター、第2開発センター",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲：受託システムの設計、開発、導入、運用、監視、提案及び保守サービス業務、並びに常駐派遣する要員の管理業務（SEサービス業務）・プロダクト開発、保守サービス業務・WEBサービス業務",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望に沿った提案・開発から保守までお客様の立場に立ったSIサービスを提供します",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が抱える経営課題をヒアリングし、コンサルティングからシステムの設計、開発、導入、そして運用保守までを一貫して請け負う事業です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "そのキーワードは**「ストック型」の発想",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これらの事業は、一般的に「フロー型（一過性の受注）」と見なされがちですが、システムリサーチはこれを実質的な**「ストック型（継続的な収益）」**へと昇華させています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "一度システムを導入した顧客は、その後の機能追加や改修、運用保守、さらには次期システムの刷新といった場面で、再び同社に声をかけるのです",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "このストック型の収益基盤の上に、EC支援サービス「イージーマイショップ」のような、完全なサブスクリプションモデルが加わることで、収益の安定性はさらに高まっています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "安定稼働を支える保守・運用フェーズこそ、顧客との長期的な関係が試される場面です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これは、前述した高いリピートオーダー率に支えられたストック型のビジネスモデルが安定的に機能していることの証明です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "一度開発したサービスを多くのユーザーに提供できるサブスクリプションモデルは、収益性が高く、利益率の押し上げ効果が期待できます",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：アクセンチュアやIBMといった外資系コンサルは、経営戦略レベルの超上流工程から入ることを得意としますが、現場の泥臭いシステム開発や運用保守まで手掛けることは少ない傾向にあります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：80%を超える高いリピートオーダー率に支えられた、実質的な「ストック型」の受託開発事業が経営の基盤を形成",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "ストックビジネス",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウエアプロダクトは、パッケージソフトの販売保守の増加で前年同期比18.9パーセント増の2億1,400万円となりました",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "その後の運用保守、維持、メンテナンスをソフトウエア開発で請け負うことにより、システムのバージョンアップやリプレイスのリピートオーダーにつなげ、安定した収益を上げています",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "EC支援事業では、本格的なネットショップをWeb上で簡単に開業できる「イージーマイショップ」を、サブスクリプションサービスとして展開しています",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（%表示は売上構成比）",
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "《株主数構成比》合計10,958名",
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "《株式数構成比》合計16,720,000株",
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルの詳細分析：なぜシステムリサーチは「選ばれ続ける」のか",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの優位性",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチのビジネスモデルは、一見すると他の多くのSIerと変わらないように見えるかもしれません",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：安定性を生む「リピートオーダー」という名の土台",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これは、前述した高いリピートオーダー率に支えられたストック型のビジネスモデルが安定的に機能していることの証明です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "IT業界は、大規模な設備投資を必要としないビジネスモデルですが、この潤沢な自己資本は、将来の成長に向けたM&Aや新規事業への投資余力を十分に確保していることの証でもあります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：単なる業務効率化のためのIT化に留まらず、デジタル技術を活用してビジネスモデルそのものを変革しようとするDXの動きは、あらゆる業界で加速しています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これは、同社のビジネスモデルの根幹を支える要素です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、特定の業界（製造業、物流業など）の業務プロセスを標準化し、SaaS（Software as a Service）として提供するビジネスモデルが考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：AIやクラウドなど、IT業界の技術革新のスピードは凄まじく、新たなテクノロジーが既存のビジネスモデルを破壊する可能性は常に存在します",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "利益率の高いプライム（元請け）案件の比率をさらに高め、収益構造を一層強化していくことが今後の課題となります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "このSaaS事業の順調な成長は、同社の収益構造をより安定させ、市場からの評価を高める要因となっています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "強固で安定したビジネスモデル",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "この記事では、単なる企業紹介に留まらず、システムリサーチが持つ本質的な強み、すなわち",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "は、同社の強みを最もよく表す言葉です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "この業務知識こそが、他のベンダーには真似のできない参入障壁となっているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：独立系である強みを活かし、特定のメーカー製品に縛られることなく、顧客にとって真に最適なハードウェアやソフトウェアを組み合わせた提案が可能です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これは、同社が特定の業界、特に業務プロセスが複雑な製造業に強みを持つ理由とも符合します",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これもまた、大手メーカー系SIerなどにはない独自の強みと言えるでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：資産の中身を見ると、不良債権化しやすい在庫や、価値の変動が激しい有価証券などの割合は低く、現金及び預金や売掛金といった換金性の高い資産が中心です",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "から、顧客にとって真に最適なソリューションを提案できる強みがあります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "この地域性と業界特化性が、他社にはない参入障壁となっています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "このユニークなポジションこそが、同社の競争優位性の源泉であり、大手とも中小とも異なる独自の成長戦略を可能にしているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチの製品・サービス開発の最大の強みは、その多くが",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これらの戦略は、いずれもこれまでの強みを活かしつつ、新たな成長領域へと事業を拡大させていこうとする、地に足の着いた成長ストーリーを描いています",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、特定の業務領域や技術に強みを持つ小規模なソフトウェア会社をM&Aの対象とすることで、開発体制を迅速に強化し、新たな顧客層を獲得することが可能になります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みである顧客との信頼関係は、こうした高付加価値なサービスを展開する上で、大きなアドバンテージとなります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "内部リスク：強みと表裏一体の課題",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これらの顧客との長年にわたる強固な信頼関係は同社の強みである一方、万が一、これらの企業の経営方針が変更されたり、IT投資が大幅に削減されたりした場合には、同社の業績に影響が及ぶ可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：同社の強みは、ベテランエンジニアが蓄積してきた業務ノウハウに支えられている側面が大きいです",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "同社が掲げる「3つのFIT（ITへのFIT・顧客へのFIT・社員へのFIT）」というコンセプトは、自社の強みと働きがいを明確に示しており、優秀な人材を惹きつける上で効果的と考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "これらの最新トピックからは、システムリサーチが既存事業の強みを着実に伸ばしつつ、将来の成長に向けた布石を打ち、さらに株主との良好な関係を維持しようとする、全方位的な経営姿勢を読み取ることができます",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の業務に深く入り込むことで、高いスイッチングコストという参入障壁を築いている",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "：日進月歩で進化するIT技術へのキャッチアップを怠れば、競争優位性が損なわれる可能性がある",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "この無形資産が、安定した収益と高い参入障壁を生み出し、40年以上にわたる持続的成長を可能にしてきました",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：営業利益率の低下要因について",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "大手物流メーカーでは、在庫管理や搬送制御機能も備えた物流センターの、入荷から出庫までの管理を自動化するシステムを開発しました",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "：増収増益ですばらしい決算だと思いますが、営業利益率は9.7パーセントと、前年同期に比べて0.8ポイントほどマイナスになっています",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "また、通期の営業利益率の目標は、11パーセント以上となっていますが、こちらに対しての対策と、平山社長",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "システムリサーチ (3771)の企業価値を穿つ〜安定成長の裏に ... — システムリサーチ (3771)の企業価値を穿つ〜安定成長の裏に ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ｜株式会社 システムリサーチ — 事業内容 ｜株式会社 システムリサーチ 株式会社システムリサーチ https://www.sr-net.co.jp > company > business",
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "DXへの取組み - 株式会社システムリサーチ — DXへの取組み - 株式会社システムリサーチ sr-co.co.jp https://www.sr-co.co.jp > 企業情報",
+    "url": "https://www.sr-co.co.jp/about/dx/",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチ （SIer・愛知県）の「企業分析［強み・弱み ... — システムリサーチ （SIer・愛知県）の「企業分析［強み・弱み ... OpenWork https://www.openwork.jp > company_answer",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqws&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチ の 企業研究一覧（全12件） - 就活会議 — システムリサーチ の 企業研究一覧（全12件） - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > ES・体験記一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/138114/experiences/company_study",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報｜株主・投資家情報 - システムリサーチ — 決算 情報｜株主・投資家情報 - システムリサーチ 株式会社システムリサーチ https://www.sr-net.co.jp > settlement",
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜株式会社 システムリサーチ — IRライブラリ｜株式会社 システムリサーチ 株式会社システムリサーチ https://www.sr-net.co.jp > library",
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチ [3771]：2027年3月期第2四半期（中間期 ... — システムリサーチ [3771]：2027年3月期第2四半期（中間期 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261026556145/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明 会 資料 を公開しました - システムリサーチ — 2026年3月期 決算説明 会 資料 を公開しました - システムリサーチ 株式会社システムリサーチ https://www.sr-net.co.jp > news",
+    "url": "https://www.sr-net.co.jp/news/6791/",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチ （3771）のIR情報・ 決算資料 - IRBANK — システムリサーチ （3771）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > システムリサーチ",
+    "url": "https://irbank.net/3771/ir",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制 ｜株式会社 システムリサーチ — 組織体制 ｜株式会社 システムリサーチ 株式会社システムリサーチ https://www.sr-net.co.jp > company > construction",
+    "url": "https://www.sr-net.co.jp/company/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 システムリサーチ 、SIサービス、ソフトウエアア ... — 【QAあり】 システムリサーチ 、SIサービス、ソフトウエアア ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/380444",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 システムリサーチ ｜医療・介護・自治体・学校・企業 ... — 株式会社 システムリサーチ ｜医療・介護・自治体・学校・企業 ... sr-co.co.jp https://www.sr-co.co.jp",
+    "url": "https://www.sr-co.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要・沿革 ｜株式会社 システムリサーチ — 企業概要・沿革 ｜株式会社 システムリサーチ 株式会社システムリサーチ https://www.sr-net.co.jp > company > history",
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 東京 システムリサーチ ｜tsr — 会社概要 | 東京 システムリサーチ ｜tsr 東京システムリサーチ https://www.tsrweb.co.jp > company",
+    "url": "https://www.tsrweb.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー ｜株式会社 システムリサーチ 新卒採用サイト — 社員 インタビュー ｜株式会社 システムリサーチ 新卒採用サイト 株式会社システムリサーチ https://recruit.sr-net.co.jp > category > interview",
+    "url": "https://recruit.sr-net.co.jp/category/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー （事務職） - 株式会社システムリサーチ — 社員 インタビュー （事務職） - 株式会社システムリサーチ sr-co.co.jp https://www.sr-co.co.jp > 採用 > 人を知る",
+    "url": "https://www.sr-co.co.jp/recruit/staff/staff-10/",
+    "pass": 3
+   },
+   {
+    "quote": "システムリサーチ 【3771】の 社長 ・役員 - キタイシホン — システムリサーチ 【3771】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3771/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "歴代 社長 - システムリサーチ のページ - The社史 — 歴代 社長 - システムリサーチ のページ - The社史 The社史 https://the-shashi.com > システムリサーチの歴史",
+    "url": "https://the-shashi.com/tse/3771/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sr-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/company/?id=aboutsr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/settlement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-library-en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/news/7002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/ir/library/?id=ir-calendar&doing_wp_cron=1793650535.4011070728302001953125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sr-net.co.jp/pdf/companyprofile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/pdf/culturebook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/wp-content/uploads/2026/10/tanshin_47_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/wp-content/uploads/2026/08/setumei_202608_09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/wp-content/uploads/2026/08/News20260807.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/wp-content/uploads/2026/07/tanshin_47_1Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/wp-content/uploads/2026/06/houkoku_46.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/wp-content/uploads/2026/05/tanshin_46.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/img/company/img/aboutsr/age_structure.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/img/company/business/img/img_business_01_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/img/company/business/img/img_business_02_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sr-net.co.jp/img/company/business/img/img_business_03_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/380444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.sr-net.co.jp/category/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-co.co.jp/recruit/staff/staff-10/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "システムリサーチ",
+   "results": [
+    "https://www.sr-net.co.jp/",
+    "https://system-research.com/cmp_info/gaiyou",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+    "https://www.sr-co.co.jp/",
+    "https://www.ibm.com/partnerplus/directory/company/9673",
+    "https://ja.wikipedia.org/wiki/システムリサーチ",
+    "https://srn.co.jp/",
+    "https://finance.yahoo.co.jp/quote/3771.T/financials",
+    "https://finance.yahoo.co.jp/quote/3771.T/profile",
+    "https://shikiho.toyokeizai.net/stocks/3771"
+   ]
+  },
+  {
+   "query": "システムリサーチ ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "https://www.sr-net.co.jp/company/business/",
+    "https://www.sr-co.co.jp/about/dx/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqws&q_no=9",
+    "https://syukatsu-kaigi.jp/companies/138114/experiences/company_study",
+    "https://envalith.com/companies/3771/overview",
+    "https://finance.logmi.jp/articles/384489",
+    "https://job.mynavi.jp/27/pc/search/corp39970/outline.html",
+    "https://recruit.sr-net.co.jp/business/",
+    "https://consovation.com/【ビジネスモデルの要点に迫る-株式会社システム/"
+   ]
+  },
+  {
+   "query": "システムリサーチ 決算説明資料",
+   "results": [
+    "https://www.sr-net.co.jp/ir/settlement/",
+    "https://www.sr-net.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261026556145/",
+    "https://www.sr-net.co.jp/news/6791/",
+    "https://irbank.net/3771/ir",
+    "https://kitaishihon.com/company/3771/ir-library",
+    "https://www.buffett-code.com/company/3771/library",
+    "https://finance.logmi.jp/articles/384489"
+   ]
+  },
+  {
+   "query": "システムリサーチ 事業系統図",
+   "results": [
+    "https://www.sr-net.co.jp/company/construction/",
+    "https://finance.logmi.jp/articles/380444",
+    "https://www.sr-co.co.jp/",
+    "https://www.sr-net.co.jp/company/history/",
+    "https://www.tsrweb.co.jp/company/",
+    "https://note.com/tatsuya_sabato/n/nae967638f19f",
+    "https://www.ss-group.jp/company.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3771",
+    "https://system-research.com/cmp_info/gaiyou",
+    "https://www.sr-net.co.jp/company/"
+   ]
+  },
+  {
+   "query": "システムリサーチ 社長 インタビュー",
+   "results": [
+    "https://recruit.sr-net.co.jp/category/interview/",
+    "https://www.sr-co.co.jp/recruit/staff/staff-10/",
+    "https://kitaishihon.com/company/3771/board-of-director",
+    "https://sys-srs.co.jp/recruit/",
+    "https://the-shashi.com/tse/3771/ceo/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+    "https://www.sr-co.co.jp/recruit/staff/staff-11/",
+    "https://www.sr-net.co.jp/company/greeting/",
+    "https://www.youtube.com/@SYSTEM_RESEARCH",
+    "https://www.instagram.com/p/DTj98gyknuc/"
+   ]
+  }
+ ],
+ "missing": {}
+}

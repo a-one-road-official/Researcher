@@ -1,0 +1,1951 @@
+{
+ "name": "アクセル",
+ "aliases": [],
+ "context": "証券コード6730／電気機器／スタンダード（内国株式）／2026.03期 売上高14,656百万円 営業利益率11.4%",
+ "researched_at": "2026-11-02T20:15:22.682076+00:00",
+ "official_url": "https://www.axell.co.jp/",
+ "identified_by": "search:yahoo_jp:アクセル",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・半導体集積回路及び半導体集積回路を組み込んだプリント基板の設計、製造、販売 ・画像・音声・機械学習等に関する要素技術の研究、開発、販売 ・情報セキュリティに関する要素技術の研究、開発、販売 ・ブロックチェーンに関する要素技術の研究、開発、販売 ・インターネットを利用した各種情報提供サービス業 ・ソフトウェアの開発、販売 ・前各号に関する応用機器の設計、製造、販売 ・古物売買業 ・前各号に付帯する一切の事業",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1996年2月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "（単体）116名 （連結）149名 ※2026年3月末現在 ※従業員数には、パート・アルバイト、契約社員を含みます。",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "14,804 440 15,244 － 15,244",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ － － － －",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "13,793 862 14,656 － 14,656",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "トータルソリューションで、より簡単に、より最短で、",
+    "url": "https://www.axell.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生かしたブロックチェーン・ソリューションを提供します",
+    "url": "https://www.axell.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世の中の革新に貢献するために、もっとも洗練された製品やサービスを、",
+    "url": "https://www.axell.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューションで、より簡単に、より最短で、",
+    "url": "https://www.axell.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロックチェーン・ソリューションを提供します",
+    "url": "https://www.axell.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "組み込み機器製品を開発するお客様にとって重要な要件でもある、長期安定供給もお約束しています",
+    "url": "https://www.axell.co.jp/business/semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIトータルソリューションです",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "アクセルは、この「学習」から「推論」まで一貫して提供することで、多様な顧客ニーズに対応した付加価値の高いAIソリューションをご提案することが可能です",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存の製品に",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.axell.co.jp/business/blockchain.html",
+    "pass": 1
+   },
+   {
+    "quote": "将来的に様々な経済活動の新 しいプラットフォームとなる可能性を秘めていますが、アクセルはマイニングプール「Vippool」の運営で培った技術を 生かしたソリューションの提供で、ブロックチェーンの社会実装を推進しています",
+    "url": "https://www.axell.co.jp/business/blockchain.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けソリューション",
+    "url": "https://www.axell.co.jp/business/blockchain.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業が抱える課題を解決するために、ブロックチェーン技術を用いたソリューションを提案",
+    "url": "https://www.axell.co.jp/business/blockchain.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウェア・ソフトウェアの開発力をもつ、アクセルならではの製品・サービスを通して、より安全・安心・便利なインフラを提供しています",
+    "url": "https://www.axell.co.jp/business/blockchain.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSHやPDFの暗号化、GitHubの二段階認証など多様なサービスへの利用ができます",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "WEBサービスへの",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "・インターネットを利用した各種情報提供サービス業",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能半導体製品の開発・販売を目的として、株式会社アクセル（本店所在地：東京都中野区）を設立",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "）製品を開発",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "）製品「AG1」シリーズを販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AS1」シリーズを販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AG2」シリーズを販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "組み込み機器市場へ向けたASSP製品「AG901」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "組み込み機器市場へ向けたASSP製品「AG902」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AS201」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AG301」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AL1」シリーズを販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AS301」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けたASSP製品「AG333」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "組み込み機器市場へ向けたASSP製品「AG10」を販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ミドルウェア製品としてAXIPシリーズを販売開始",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "特定の応用機器や特定の使用目的のために設計・製造されるLSIであり、複数の顧客に対して販売する製品を意味しています",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "特定顧客の特定の応用機器や使用目的のために設計・製造されるLSIであり、開発を依頼された特定顧客に対してのみ販売を行う製品を意味しています",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "引き続き、当社の製品·サービスによる",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの遊技機（パチンコ・パチスロ機）市場向け製品開発を引き続き推進していくとともに、現在は新たにAI事業を主とした新規事業にも取り組み、持続的な成長に向けた展開を進めております",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの主力市場である遊技機（パチンコ・パチスロ機）市場は、スマート遊技機への移行が着実に進展したものの、市場全体としては減速感が見られる一年となりました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより「LSI事業」セグメントでは、主力の遊技機向けグラフィックスLSIは前期比で約4万個減少となる約46万個の販売となりました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "販売個数の減少は主に遊技機の年間新台販売台数が前期を下回ったことによるものでありますが、主力製品の市場シェアについては引き続き堅調に推移しているものと分析しています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率は高付加価値製品への移行が進捗したこと等により、3.3ポイント改善し32.1％となっています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "市場規模の想定に加え顧客ヒアリング等を基礎にリユース比率の上昇を見込み、グラフィックスLSIは前期比約15万個減の31万個の販売計画、メモリモジュール製品は前期比減少の販売計画としました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、メモリ価格高騰に対し価格適正化を進めたことで売上高は増加する一方、製品個別の売上総利益（粗利単価）は維持するものの市場縮小による数量減で売上総利益は減少する見通しです",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "主力である遊技機（パチンコ・パチスロ機）市場の現況",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "主力である遊技機市場の年間販売台数は、2021年度から2025年度にかけて平均159万台と、安定した推移を維持しております",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の市場環境は、初期開発費の増大により、新製品開発における参入障壁が一段と高まっています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の開発費高騰に伴い参入障壁が高まり競合他社が減少する中、当社は圧倒的な市場シェア（約55%～80%）を背景に、新製品開発を継続できる独自の優位性を確立しております",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "車載機器市場やFA機器市場等に特化したAIソリューションの提供",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "アクセルグループは、あらゆるデバイスでAIを高速動作させるAIフレームワーク「アイリアSDK」や、独自開発のオフラインLLM・音声認識・合成モデルの提供、AIソフトウェア高速化サービス等を提供しております",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、国内で極めて市場規模が大きく、高い信頼性が求められる「車載機器」及び「FA機器」市場等において高い評価を得ており、今後はこれらの市場向けの開発をさらに加速させることで、市場特化AIソリューションを提供していきます",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "設立より30年、事業領域を広げつつ製品・サービスで社会の革新に貢献してきました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能半導体製品の開発・販売を目的として設立",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機（パチンコ・パチスロ機）市場へ向けた顧客専用半導体製品を開発",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "洗練された製品やサービスを提供する先端テクノロジー企業として、",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "パチンコ・パチスロ機向けに特化し市場ニーズを捉えた競争力の高い製品と、開発環境の提供をはじめとする開発・実装の手厚いサポートにより、顧客との強固な関係性を構築しております",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "競争力の高い製品",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の関係法令及び当社の株式を上場している証券取引所が定める規則（以下「適時開示規則」という）に則り、適時適切な情報開示を行います",
+    "url": "https://www.axell.co.jp/ir/general/",
+    "pass": 1
+   },
+   {
+    "quote": "もっとも洗練された製品や",
+    "url": "https://www.axell.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを、もっとも確かなスピードで",
+    "url": "https://www.axell.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの主力市場であるパチンコ・パチスロ機市場は、スマート遊技機への移行が着実に進展しており、",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様との共創をも実現します",
+    "url": "https://www.axell.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自社で一貫して開発しているので、お客様ニーズに応える最適解を提案できます",
+    "url": "https://www.axell.co.jp/business/semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "組み込み機器製品を開発するお客様にとって重要な要件でもある、長期安定供給もお約束しています",
+    "url": "https://www.axell.co.jp/business/semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "アクセルは、この「学習」から「推論」まで一貫して提供することで、多様な顧客ニーズに対応した付加価値の高いAIソリューションをご提案することが可能です",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のビッグデータから",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "SDKの開発経験を踏まえ、お客様に最適なモデルを提案",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズのヒアリングから、最適なアルゴリズム提案まで、お客様のAI導入をトータルで支援",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の社内開催のAIセミナーなどのお手伝いも可能です",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機器市場へ向けた顧客専用半導体（以下、「ASIC」という",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "特定の応用機器や特定の使用目的のために設計・製造されるLSIであり、複数の顧客に対して販売する製品を意味しています",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "特定顧客の特定の応用機器や使用目的のために設計・製造されるLSIであり、開発を依頼された特定顧客に対してのみ販売を行う製品を意味しています",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "「LSI事業」セグメントでは、顧客ヒアリング等の詳細な市場分析を実施した結果、次期の市場規模は135万台（当期は148万台程度と推定）を前提として、業績予想を算定しました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "市場規模の想定に加え顧客ヒアリング等を基礎にリユース比率の上昇を見込み、グラフィックスLSIは前期比約15万個減の31万個の販売計画、メモリモジュール製品は前期比減少の販売計画としました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "市場専用の高度な半導体設計スキルに加え、顧客の開発効率を高めるソフトウェア環境の提供や手厚いテクニカルサポートを徹底することで、遊技機メーカー各社と強固な関係性を築いています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの「開発継続力」「技術力」「顧客基盤」を原動力として、5年後には市場シェア約85％〜90％の達成を目指し、リーディングカンパニーとしての地位をさらに不動のものにしていきます",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機（パチンコ・パチスロ機）市場へ向けた顧客専用半導体製品を開発",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "遊技機市場へ向けた顧客専用メモリモジュールを販売開始",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "パチンコ・パチスロ機向けに特化し市場ニーズを捉えた競争力の高い製品と、開発環境の提供をはじめとする開発・実装の手厚いサポートにより、顧客との強固な関係性を構築しております",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の開発・実装を",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関するご決定は、ホームページ利用者ご自身の判断で行うようお願いします",
+    "url": "https://www.axell.co.jp/ir/general/",
+    "pass": 1
+   },
+   {
+    "quote": "し、同領域における認知度向上を図るとともに、顧客基盤の着実な拡大に注力いたしました",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は前述の販売価格適正化による影響に加え、世界的なメモリの供給不安を背景とした顧客の早期発注等により、",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後の業績推移や顧客の需要動",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 3,857 169 4,027 － 4,027",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 4,526 152 4,679 － 4,679",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、同領域における認知度向上を図るとともに、顧客基盤の着実な拡大に注力いたしました",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場見通しのもと、顧客ヒアリング等をはじめとする詳細な市場分析を実施した結果、次期におけるパチンコ・パチ",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力製品であるパチンコ・パチスロ機市場向け製品は、市場規模の想定に加え、顧客ヒアリング等を基礎にリユー",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方で、LEDドライバは採用顧客 の需要動向により 、前期を上回る販",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 14,804 440 15,244 － 15,244",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 13,793 862 14,656 － 14,656",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後の業績推移や顧客の",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 11,541 340 11,881 － 11,881",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 10,376 601 10,978 － 10,978",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 7,921 221 8,142 － 8,142",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20251106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 7,236 399 7,635 － 7,635",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20251106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▪顧客の満足を第一と しよ う",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グメン トでは、 顧客ヒアリング等の詳細な市場",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場規模の想定に加え顧客ヒアリング等を基礎にリユー",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場専用の高度な半導体設計スキルに加え、 顧客の開発効率を高め",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの 「開発継続力」 「技術力」 「顧客基盤」 を原動力と して、 5年後には市場シェア約85％～90％",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との強固な関係性",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た顧客専用半導体製品を開発",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年5月 遊技機市場へ向けた顧客専用メモリモ",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客 ・ 取引先との深い信頼関",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あわせて、AI領域の事業展開を推進し、同領域における認知度向上を図るとともに、顧客基盤の着実な拡大に注力いたしました",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "私は、その中でパートナー(※当社は取引先のことを顧客ではなく、パートナーとして定義しています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "： 強み・魅力は自分たちで言うことではなく、パートナーやサービスを利用していただけるユーザーの皆さまが評価するものですので私からは言及しませんが、大切にしていることは",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "その状況の中で、大切にしていることを守りながら、パートナーとの対話や協業を通じて、「アクセルエンターメディアと仕事をしたい」と言ってくださるお客様に支えられています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "：業界比較として、パートナーまたはご利用いただくお客様と向き合うディレクターの数は多い方だと認識しています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.axell.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期の決算説明動画",
+    "url": "https://www.axell.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.axell.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.axell.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.axell.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年2月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年1月25日生",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年2月24日生",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年４月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年11月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年10月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年12月12日生",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月更新",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月より、代表取締役会長兼社長に就任いたしました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の連結業績について",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期の見通しについて",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 連結業績ハイライト",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 連結業績予想",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月1日時点、当社調べ",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年2月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年4月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年7月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年5月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月25日更新",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月6日 個人投資家説明会動画",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月6日に開催した個人投資家説明会の動画を配信しています",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第31期）決算説明動画",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第31期）決算説明動画を配信しています",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年8月",
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月期 第1四半期決算発表",
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月",
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 決算発表",
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月",
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第3四半期決算発表",
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "この私たちの強みを活かし、",
+    "url": "https://www.axell.co.jp/business/semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率は高付加価値製品への移行が進捗したこと等により、3.3ポイント改善し32.1％となっています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、メモリ価格高騰に対し価格適正化を進めたことで売上高は増加する一方、製品個別の売上総利益（粗利単価）は維持するものの市場縮小による数量減で売上総利益は減少する見通しです",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の市場環境は、初期開発費の増大により、新製品開発における参入障壁が一段と高まっています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "アクセルの競争優位性と今後の目標",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の開発費高騰に伴い参入障壁が高まり競合他社が減少する中、当社は圧倒的な市場シェア（約55%～80%）を背景に、新製品開発を継続できる独自の優位性を確立しております",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体やAI等の技術力に強みを持ち、社員の50%以上がエンジニアである先端テクノロジー企業です",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "アクセルの強み",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "・競争優位性等を損なわない範囲での積極的な情報開示",
+    "url": "https://www.axell.co.jp/ir/general/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、セグメント利益については、製品ミックスの変動に伴う売上総利益率の低下や、将来",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "格調整の結果、製品個別の売上総利益（粗利単価）については前期並みの水準を維持できる見通しです",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 は高付加価値製品 への移行が進捗し、相",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "整の結果、売上総利益率は低下いたしますが、製品個別の売上総利益（粗利単価）については前期並みの水準を維持",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 では前期比2.8ポイント低",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益は前年同四半期比121百万円増（同3.5％増）となる3,565百万円、売上総利益率は製",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益は前年同中間期比243百万円増（同10.4％増）となる2,570百万円、売上総利益率は製品ミック",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20251106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率は高付加価値製品への移行が",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上高は増加する一方、 製品個別の売上総利益 （粗利単価） は",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "、 初期開発費の増大により、 新製品開発における参入障壁が一段と高まっています",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "近年の開発費高騰に伴い参入障壁が高まり競合他社が減少する中、 当社は圧倒的な市場シェア （約55%～80%） を背景に、",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アクセルの競争優位性と今後の目標​",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位 の確立",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率は高付加価値製品への移行が進捗し、相対的に利益率の低い製品の販売構成比率が低下したこと等により、3.3ポイント改善となる32.1％となっております",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "ーこの業界におけるアクセルエンターメディアが考える強み、魅力とはなんでしょうか？",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "： 強み・魅力は自分たちで言うことではなく、パートナーやサービスを利用していただけるユーザーの皆さまが評価するものですので私からは言及しませんが、大切にしていることは",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの会社が持つ強みと弱みは表裏一体だと考えています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みの一つは、エンタメ業界のDX化全般を風上から風下まで、ワンストップ且つ、カスタマイズ性高く提供するビジネス裁量の大きさです",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "デモアプリのご紹介",
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、あなたのビジネスのセキュリティ・パートナーです",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店としてインターニックス株式会社と業務提携",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店として緑屋電気株式会社と業務提携",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店として岡谷エレクトロニクス株式会社と業務提携",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "税理士法人グローバル・パートナーズ及び株式会社グローバル・パートナーズ・コンサルティングに転籍",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "税理士法人グローバル・パートナーズ社員",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社グローバル・パートナーズ・コンサルティング取締役",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "- 取締役紹介",
+    "url": "https://www.axell.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介＆アクセス",
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "当時、パソコンで動画編集ができる人はまだ稀な時代でしたが、私は経験がありましたので、人づての紹介で携帯コンテンツ会社で「着ムービー」の動画編集のアルバイトを始めました",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "私は、その中でパートナー(※当社は取引先のことを顧客ではなく、パートナーとして定義しています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーの期待を超えるための努力",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "： 強み・魅力は自分たちで言うことではなく、パートナーやサービスを利用していただけるユーザーの皆さまが評価するものですので私からは言及しませんが、大切にしていることは",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "を通じて、パートナーの期待を超える努力をすることです",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "IT企業としてのスタンダードは効率化や最適化を追求することだと考えていますが、私たちはパートナーの皆様が本当にやりたいことを、最大限に実現するための努力をする会社でありたいと考えています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "その状況の中で、大切にしていることを守りながら、パートナーとの対話や協業を通じて、「アクセルエンターメディアと仕事をしたい」と言ってくださるお客様に支えられています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "：業界比較として、パートナーまたはご利用いただくお客様と向き合うディレクターの数は多い方だと認識しています",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライセンス、認証など秘密鍵を利用した様々なシーンで、よりセキュアに情報を管理することできます",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "アプリケーションを暗号化し、USBドングルがなければ復号できなくすることで、ソースコードを変更することなく、簡単にライセンス管理を導入できます",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション化できる",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス管理USBドングル- SHALO",
+    "url": "https://www.axell.co.jp/business/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、メモリ価格高騰に対し価格適正化を進めたことで売上高は増加する一方、製品個別の売上総利益（粗利単価）は維持するものの市場縮小による数量減で売上総利益は減少する見通しです",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、本技術を核としたライセンスビジネスの展開や、戦略的なアライアンスの構築を視野に入れ、その可能性を検討してまいります",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "格調整の結果、製品個別の売上総利益（粗利単価）については前期並みの水準を維持できる見通しです",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支給する金銭報酬債権の総額を年額30百万円以内として設定すること、対象取締役に対して各事業年度におい",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "整の結果、売上総利益率は低下いたしますが、製品個別の売上総利益（粗利単価）については前期並みの水準を維持",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの行使による収入 11 6",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上高は増加する一方、 製品個別の売上総利益 （粗利単価） は",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後、 本技術を核と したライセンスビジネスの展開や、 戦略的",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルに応じ,利便性・保守性を考慮したコンサルティング",
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "【大手エンタメ企業】社内システム運用保守管理",
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "これにより「LSI事業」セグメントでは、主力の遊技機向けグラフィックスLSIは前期比で約4万個減少となる約46万個の販売となりました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "よって、セグメント売上高は前期比1,010百万円減（同6.8％減）となる13,793百万円、セグメント利益は同44百万円減（同1.7％減）となる2,566百万円となりました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「AI事業」セグメントではAI領域を主軸に、特に当社が長年培ってきたハードウェア開発の知見を最大限に生かせる「AIコンピューティング領域」に注力し、セグメント売上高は前期比422百万円増（同96.0％増）となる862百万円、セグメント損失は同327百万円減（前期は495百万円の損失）となる168百万円となりました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別連結業績",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "報告セグメントの名称を従来の「LSI開発販売関連」及び「新規事業関連」から「LSI事業」及び「AI事業」に変更しています",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当該変更は報告セグメントの名称変更のみであり、セグメント情報に与える影響はありません",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「LSI事業」セグメントでは、顧客ヒアリング等の詳細な市場分析を実施した結果、次期の市場規模は135万台（当期は148万台程度と推定）を前提として、業績予想を算定しました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「AI事業」セグメントでは、前期に寄与した大口受託案件の完了に伴い、前期を下回る販売計画としました",
+    "url": "https://www.axell.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は次のとおりであります",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、下記セグメントのほか、各セグメントに配分していな",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "LSI事業セグメントは、既存事業であるパチンコ・パチスロ機向け製品で構成されており、売上高は前年同四半",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期比668百万円増（同17.3％増）となる4,526百万円、セグメント利益は同39百万円減（同3.8％減）となる990百",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方で、セグメント利益については、製品ミックスの変動に伴う売上総利益率の低下や、将来",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当第１四半期末の同セグメントの受注残高",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AI事業セグメントは、AI領域を主軸とした事業を展開しており、特に当社が長年培ってきたハードウェア開発",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２）向けグラフィックスLSIやブロックチェーン等の領域についても、継続して同セグメントの管理区分に含めて",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ントにおける売上高は前年同四半期比17百万円減（同10.2％減）となる152百万円、セグメント損失は同12百万円",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益又は損失の調整額△150百万円は、各報告セグメントに配分していない全社費用であり、",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益又は損失の調整額△170百万円は、各報告セグメントに配分していない全社費用であり、",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 13",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対的に利益率 の低い製品の販売構成比率 が低下したこと 等により 、3.3ポイント改善となる 32.1％となっておりま",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は次のとおりであります",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、下記セグメントのほか、各セグメントに配分していない",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当連結会計年度末 より、報告セグメントの 名称を従来の「LSI開発販売関連 」および「新規事業関連 」から",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該変更は報告セグメントの名称変更のみであり 、セグメント",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "LSI事業セグメントは、既存事業であるパチンコ・パチスロ機向け製品で構成されており、売上高は前期比1,010",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円減（同6.8％減）となる13,793百万円、セグメント 利益は同44百万円減（同1.7％減）となる2,566百万円と",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当期末の同セグメントの受注残高は14,929百万円となっております",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AI事業セグメントは、AI領域を主軸とした事業を展開しており、特に当社が長年培ってきたハードウェア開発の",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けグラフィックス LSIやブロックチェーン 等の領域についても、継続して同セグメントの管理区分 に含めておりま",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同セグメントにおける売上高 は前期比422百万円増（同96.0％増）となる862百万円、セグメント 損失は同327",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高又",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△） 2,610 △495 2,115 △654 1,461",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントとして認識しておりましたが、従来「LSI開発販売関連」としていた報告セグメントの名称を「LSI事業」",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に、従来「新規事業関連」としていた報告セグメントの名称を「AI事業」に名称変更しております",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称変更のみであり、セグメント情報に与える影響はありません",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前連結会計年度のセグメント情報は、変更後の報告セグメントの区分及び名称に基づき作成したものを開示",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表を作成するために採用される会計方針に準拠し",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益又は損失は、営業利益ベースの数値であります",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は次のとおりであります",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、下記セグメントのほか、各セグメントに配分していな",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,164百万円減（同10.1％減）となる10,376百万円、セグメント利益は同49百万円減（同2.3％減）となる2,119百",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３四半期末の同セグメントの受注残高は12,719百万円となっております",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プ事業であり、売上高は前年同四半期比260百万円増（同76.6％増）となる601百万円、セグメント損失は同234百",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルに応じ,利便性・保守性を考慮したコンサルティング",
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "事業系統図は次の通りです",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後安定的な収益を確保し持続的な成長を実現していくためには、同市場の規模が縮小した中でも安定的な収益を確保するためのビジネスモデルの再構築に加え、同市場以外の新規事業を早急に開拓していくことが重要であると考えております",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは主にファブレスメーカーとして事業を展開しており、工場等の多額の設備投資を必要としないビジネスモデルを採用しております",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "現在の当社グループの収益構造はLSI事業セグメントに含まれるパチンコ・パチスロ機向け製品による収益が大半を占めており、当社グループの業績は当該市場環境の影響を強く受けるものと考えております",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "ファンクラブ制作だけでなく、EC/OFFICIAL site/ライブ配信、ゲームの企画、バックエンドのインフラ設計まで幅広く対応し、プラットフォームの提供ではなくクライアントの要望にあわせて自由度の高いサービス提供を行っており、難易度高くやりがいもあるビジネスモデルとなっております",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネス トップ | Axell - アクセル — ビジネス トップ | Axell - アクセル Axell Corporation https://www.axell.co.jp > business",
+    "url": "https://www.axell.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ITコンサルティング事業 - 株式会社アクセル・モード — ITコンサルティング事業 - 株式会社アクセル・モード axcel-mode.co.jp https://www.axcel-mode.co.jp > it-consulting",
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセル スペースとはいかなる企業か？JAXAが人工衛星開発 ... — アクセル スペースとはいかなる企業か？JAXAが人工衛星開発 ... ビジネス+IT https://www.sbbit.jp > 経営戦略",
+    "url": "https://www.sbbit.jp/article/cont1/32628",
+    "pass": 3
+   },
+   {
+    "quote": "AxelGlobe事業の収益認識基準について｜ アクセル スペース — AxelGlobe事業の収益認識基準について｜ アクセル スペース note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/axelspace/n/n3125d9728ce1",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 投資家情報 | Axell - アクセル — IR 資料 室 | 投資家情報 | Axell - アクセル Axell Corporation https://www.axell.co.jp > data",
+    "url": "https://www.axell.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 投資家情報 - アクセル — IR 投資家情報 - アクセル Axell Corporation https://www.axell.co.jp > ...",
+    "url": "https://www.axell.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセル スペースホールディングス - 決算説明資料 — アクセル スペースホールディングス - 決算説明資料 Axelspace Holdings https://www.axelspacehd.com > library > presentation",
+    "url": "https://www.axelspacehd.com/ja/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アクセル 】[6730]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 アクセル 】[6730]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6730",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - アクセル マーク株式会社 — IRライブラリ - アクセル マーク株式会社 アクセルマーク株式会社 https://www.axelmark.co.jp > library",
+    "url": "https://www.axelmark.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | Axell - アクセル — 会社概要 | 会社情報 | Axell - アクセル Axell Corporation https://www.axell.co.jp > company > outline",
+    "url": "https://www.axell.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセル 【6730】の 事業 内容 - キタイシホン — アクセル 【6730】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6730/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 - 株式会社アクセル | 人材派遣・アウトソーシング — 事業 紹介 - 株式会社アクセル | 人材派遣・アウトソーシング 株式会社アクセル https://www.axcell-inc.jp > ... > 人材派遣事業",
+    "url": "https://www.axcell-inc.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アクセル 個人投資家説明会 - YouTube — 株式会社 アクセル 個人投資家説明会 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7SMsMNfrQbQ",
+    "pass": 3
+   },
+   {
+    "quote": "システムインテグレーター｜株式会社 アクセル ｜業務案内 — システムインテグレーター｜株式会社 アクセル ｜業務案内 axele.co.jp https://www.axele.co.jp > products",
+    "url": "https://www.axele.co.jp/products",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 三野善之 | 株式会社 アクセル エンターメディア — 代表取締役 社長 三野善之 | 株式会社 アクセル エンターメディア Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "pass": 3
+   },
+   {
+    "quote": "＜ アクセル スペースメンバー インタビュー vol.8＞ 代表取締役 ... — ＜ アクセル スペースメンバー インタビュー vol.8＞ 代表取締役 ... Axelspace https://www.axelspace.com > news > interview_nakamura",
+    "url": "https://www.axelspace.com/ja/news/interview_nakamura/",
+    "pass": 3
+   },
+   {
+    "quote": "【メディア掲載】弊社代表・小暮の インタビュー 記事が「THE ... — 【メディア掲載】弊社代表・小暮の インタビュー 記事が「THE ... 株式会社アクセルラボ https://accel-lab.com > お知らせ",
+    "url": "https://accel-lab.com/news/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E5%BC%8A%E7%A4%BE%E4%BB%A3%E8%A1%A8%E3%83%BB%E5%B0%8F%E6%9A%AE%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.axell.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/semiconductor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/blockchain.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/security.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/middleware.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/business/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/90sec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/general/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/schedule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/holder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/news/index.html?c=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axell.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260805.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260206.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20251106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/company/outline/location/location_map.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20260622.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20251224.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/ir/pdf/AXELL_IR20250620.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/bg.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/bg_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/business_intro_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/business_intro_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/business_intro_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/business_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/business_05_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.axell.co.jp/images/business/index/business_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.axcel-mode.co.jp/it-consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6730/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.axelentermedia.co.jp/wp/category/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アクセル",
+   "results": [
+    "https://axel.as-1.co.jp/",
+    "https://www.axell.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB",
+    "https://www.linguee.com/japanese-english/translation/%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB.html",
+    "https://dictionary.cambridge.org/ja/dictionary/japanese-english/%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB",
+    "https://www.guiltygear.com/ggst/jp/character/axl/",
+    "https://ejje.weblio.jp/content/%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB",
+    "https://ja.wikipedia.org/wiki/アクセル",
+    "https://grokipedia.com/page/_1_akuseru_wrudo_1_kuroyukihime_no_kikan_accel_world_light_novel_1_the_return_of_princess_sno_(book)",
+    "https://finance.yahoo.co.jp/quote/6730.T"
+   ]
+  },
+  {
+   "query": "アクセル ビジネスモデル",
+   "results": [
+    "https://www.axell.co.jp/business/",
+    "https://www.axcel-mode.co.jp/it-consulting/",
+    "https://www.sbbit.jp/article/cont1/32628",
+    "https://www.n-sysdes.co.jp/product/salesforce/business-accel/",
+    "https://note.com/axelspace/n/n3125d9728ce1",
+    "https://www.axelspacehd.com/ja/vision/",
+    "https://accelc.co.jp/blog/restructure_soshiki2/",
+    "https://www.innovation-accel.jp/",
+    "https://c-nextage.com/career/accel/",
+    "https://note.com/ideal_zinnia8340/n/n19a82bf61920"
+   ]
+  },
+  {
+   "query": "アクセル 決算説明資料",
+   "results": [
+    "https://www.axell.co.jp/ir/data/",
+    "https://www.axell.co.jp/ir/",
+    "https://www.axelspacehd.com/ja/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6730",
+    "https://www.axelmark.co.jp/ir/library/",
+    "https://irbank.net/6730/ir",
+    "https://www.buffett-code.com/company/402A/library",
+    "https://www.axelmark.co.jp/ir/library/presentation.html",
+    "https://www.axell.co.jp/ir/pdf/AXELL_IR20250207_2.pdf",
+    "https://www.axell.co.jp/ir/pdf/AXELL_IR20260511_3.pdf"
+   ]
+  },
+  {
+   "query": "アクセル 事業系統図",
+   "results": [
+    "https://www.axell.co.jp/company/outline/",
+    "https://kitaishihon.com/company/6730/business",
+    "https://www.axcell-inc.jp/business/",
+    "https://www.youtube.com/watch?v=7SMsMNfrQbQ",
+    "https://www.axele.co.jp/products",
+    "https://sharedresearch.jp/ja/companies/6730",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6730",
+    "https://www.axelspacehd.com/ja/dx/",
+    "https://note.com/axelspace/n/n3125d9728ce1",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250813/fgzuz9/140120250812539605.pdf"
+   ]
+  },
+  {
+   "query": "アクセル 社長 インタビュー",
+   "results": [
+    "https://www.wantedly.com/companies/axelentermedia/post_articles/995421",
+    "https://blog.axelentermedia.co.jp/wp/category/interview/",
+    "https://www.ne-chemcat.co.jp/new_info/info/2026/0903179.html",
+    "https://www.axelspace.com/ja/news/interview_nakamura/",
+    "https://accel-lab.com/news/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E5%BC%8A%E7%A4%BE%E4%BB%A3%E8%A1%A8%E3%83%BB%E5%B0%8F%E6%9A%AE%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "https://www.wantedly.com/companies/axelentermedia/post_articles/996515",
+    "https://www.axcell-inc.jp/recruit/interview/kk/",
+    "https://www.green-japan.com/company/9616/interview",
+    "https://thekeyperson.biz/interview/yuyanakamura/",
+    "https://www.youtube.com/watch?v=7SMsMNfrQbQ"
+   ]
+  }
+ ],
+ "missing": {}
+}

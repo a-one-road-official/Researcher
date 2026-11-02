@@ -1,0 +1,1810 @@
+{
+ "name": "デジタル・インフォメーション・テクノロジー",
+ "aliases": [],
+ "context": "証券コード3916／情報・通信業／プライム（内国株式）／2026.06期 売上高25,546百万円 営業利益率11.9%",
+ "researched_at": "2026-11-02T20:08:14.381809+00:00",
+ "official_url": "https://www.ditgroup.jp/",
+ "identified_by": "search:yahoo_jp:デジタル・インフォメーション・テクノロジー",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2002年1月4日",
+    "url": "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2002年",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "1,713名（連結）（2026年6月末現在）",
+    "url": "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "1,642名（連結）（2025年6月末現在）",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "255億4千万円（2026年6月期）",
+    "url": "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業",
+    "value": "業務系システム開発、組込系システムの開発及び検証、システム運用サービス、自社開発ソフトウェア販売及びシステム販売事業",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "データ活用と高度な分析技術、先進技術を融合し、ビジネスモデルや社会生活を変革するAI・DX",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルへの転換",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基盤収益ビジネスモデル強化",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 生成AIを活用したビジネスモデル確立",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基盤収益ビジネスモデルの強化",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス提案型ビジネスモデルへの",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 他社とのアライアンス強化によるビジネスモデルの確立（OEM提供、サービス提供）",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、経営戦略からDX戦略の策定、ビジネスモデル変革、業務プロセス再設計、さらには組織変革まで、顧客の事業成長を後押しするコンサルティングを展開していく構えだ",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ユーザーエクスペリエンスを追求し、",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる業種のお客様の幅広いニーズにお応えすべく、",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中のユーザーを相手に商品を販売できるECサイト",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "安定した顧客基盤",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大企業及びその関連会社から中小企業まで安定した主要顧客との取引",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空運輸業界の主要業務である顧客管理、機体整備、運航乗務員などのシステム開発、基盤構築を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "最新技術を活用し、お客様に最適なサービスを提供するサイト構築を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "ビル・マンション業向けに利用者の利便性と安心、安全を提供します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート業務のコンサルティングからサポート要員の支援まで幅広くお客様業務をサポートします",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様業務支援",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様およびXRグラス向けクライアントアプリを開発する他社ベンダ様と連携して進めるマルチベンダ体制で実施されました",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年の創業以来、独立系システムインテグレーターとして、IT環境の構築を通じ、多くのお客様の事業に貢献しています",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "多面多様のIT企業で幅広い顧客基盤",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "安定した顧客基盤",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "大企業およびその関連会社から中小企業まで安定した主要顧客との取引",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社はSDGs（持続可能な開発目標）への取り組みとして、適切な企業経営と顧客への自社商品導入等を通じ、持続可能な社会への貢献に努めています",
+    "url": "https://www.ditgroup.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客管理システム開発",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "各空港で必要な顧客情報システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/transportation.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客管理システム開発",
+    "url": "https://www.ditgroup.jp/service/business_dev/transportation.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人顧客に対するサービスオーダシステムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．すべてのお客様に対して公正な取引をするとともに、お客様の立場に立って行動しま",
+    "url": "https://www.ditgroup.jp/pdf/DIT_Gr-KoudouKihan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．お客様の誤解を招かないよう、有益な真の情報を誠実に提供します",
+    "url": "https://www.ditgroup.jp/pdf/DIT_Gr-KoudouKihan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．お客様の安心・満足・信頼を旨とし、優れた技術に基づいた高品質の商品・サービス",
+    "url": "https://www.ditgroup.jp/pdf/DIT_Gr-KoudouKihan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．不合理な商習慣には従わず、すべての取引先に対しても対等・公正な取引関係を構築",
+    "url": "https://www.ditgroup.jp/pdf/DIT_Gr-KoudouKihan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1（お客様への誠実な対応）",
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の「声」に誠実に耳を傾ける姿勢を持ち、これを今後の業務運営に活用します",
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に商品等の正しい情報を提供し、お客様へ安心と満足をお届けします",
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様にとって最適な商品を、適切な品質管理体制をもって製造し、お客様に提供しま",
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大の顧客サービスであることを認識するとともに、独占禁止法の趣旨を遵守した活動を",
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業活動の成果を不必要に減じることのないよう、取引先等の与信管理・債権管理を徹",
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のニーズを深耕し、サービス提案型で顧客ビジネスの価値を高める",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存商品については、商品力を強化し、大規模顧客を中心に拡販",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "△ セキュリティ商材は大規模顧客を狙うもライセンスは着実な増加に留まる",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "△ 自社商品とお客様との共創ビジネスの立ち上げなど、商品開発は継続中",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客起点 育成コミュニケーション 付加価値向上目的目標をもつ熱い情熱をもつ",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れるなど、お客様のニーズに適合",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様からの需要に応えるため",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来のユーザーサポート業務からDXソリューション",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化し、お客様へ価値を提供4",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " お客様の特色に応じたアカウントプランを作成し、着実に実行、お客様のニーズにこたえる",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ナーシップを活かした新規のお客様開拓5",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 自動車メーカー、Tier1などのお客様からのニーズに応える為、中部地区に拠点を新設",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• お客様のニースに応じたラインナップ拡充",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• アウトバウンドセールスによる新規顧客獲得",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 既存のお客様へ教育支援、技術支援、業務改善相談会等で",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "やすい価格帯でパッケージ化し、導入社数を拡大",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取り扱い商材のラインナップを拡充し、既存のお客様からのセキュリ",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "施策、テレコール、展示会、セミナー等）により新たなお客様を広",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社で働く者が、顧客、取引先その他の当社の事業に関係する方から社会通念上許容される範囲を",
+    "url": "https://www.ditgroup.jp/pdf/Harassment_prevention_policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役員および従業員は、自らハラスメントを行わないことはもちろん、顧客、取引先その他の関係者や他社",
+    "url": "https://www.ditgroup.jp/pdf/Harassment_prevention_policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、顧客、取引先、施設・サービスの利用者その他当社の事業に関係する方からの言動のうち、その",
+    "url": "https://www.ditgroup.jp/pdf/Harassment_prevention_policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、ビジネスパートナー、取引先、顧客、求職者、インターンシップ参加者、その他当社の事業に関係",
+    "url": "https://www.ditgroup.jp/pdf/Harassment_prevention_policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "彼らは長年にわたり培ったソフトウェア開発力と、クラウド・AI・IoT・データ分析などの先端技術を組み合わせ、顧客ごとに最適なソリューションを設計・実装してきたという",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "この2つを融合することで、eBは次の3つの価値を顧客へ提供している",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、顧客が抱える「漠然とした課題」を明確化し、具体的なDX戦略へと落とし込む",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "「ビジネスの視点」と「テクノロジーの視点」を両輪とすることで、最適なアプローチを導き出し、顧客の事業目標の達成につなげているという",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "eBは「技術力とIT・DXコンサルティング能力を兼ね備えたサービスインテグレータ」として、顧客とともにデジタル変革の未来を切り拓こうとしている",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "これからのeB——お客様と共に描く「デジタルの未来」",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、経営戦略からDX戦略の策定、ビジネスモデル変革、業務プロセス再設計、さらには組織変革まで、顧客の事業成長を後押しするコンサルティングを展開していく構えだ",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "“高品質なサービス”を迅速に提供し、顧客とともに",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "DITは、変化する社会に対応する先進IT技術とAIソリューションを提供いたします",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品発売の最後の砦として、ジャパンクオリティをDITは提供いたします",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DITは一気通貫でサービスを提供いたします",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中のユーザーを相手に商品を販売できるECサイト",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な開発、検証実績を活かし、広範囲なサービスをDITは提供いたします",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「製造業サイバーセキュリティ展」に、リアルタイム改ざん検知・復旧ソリューション「RezOT」を出展いたします",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "市川 聡 時代の先を読む自社商品を",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトソリューション事業",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション一覧へ",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIとセキュリティ技術による品質保証サービス「Qualicia」の創出",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "独自性のある自社商品",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後市場拡大が期待できるセキュリティと業務効率化分野において、独自性のある自社商品を保有",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.ditgroup.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューションTOP",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス株式会社",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスソリューション事業（業務システム開発） ｜ サービス&ソリューション ｜ DIT デジタル・インフォメーション・テクノロジー株式会社",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスソリューション事業（業務システム開発）",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "調剤薬局業界を中心にシステム開発・保守、各種ソリューションの販売・保守を提供します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "最新技術を活用し、お客様に最適なサービスを提供するサイト構築を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスソリューション事業（運用サポート） ｜ サービス&ソリューション ｜ DIT デジタル・インフォメーション・テクノロジー株式会社",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスソリューション事業（運用サポート）",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートデスク、サービスデスク",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "業務プロセス支援、効率化の提案など幅広いサービスを提供します",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "各種クラウドサービス、仮想化、オンプレミスの基板設計、構築を支援します",
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "リアルタイム性や将来の機能拡張にも配慮した、実用性の高いサービス基盤を構築しました",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "当期は、AIや戦略商品開発に向けた成長投資を増加させることから、緩やかな成長計画とし、特に上半期は米国の通商政策の影響や前期の特需案件の剥落から大幅な減益を想定しておりました",
+    "url": "https://www.ditgroup.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューションTOP",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス株式会社",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューションTOP",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス株式会社",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューション",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&ソリューションTOP",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス株式会社",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "DITマーケティングサービス",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後はセキュリティと業務改善を中心としたプロダクトソリューション事業を成長分野として伸長させていきます",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い事業領域と独自性のある自社製品を提供することのできる「多面多様のIT 企業」である点が大きな特徴",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自性のある自社商品",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後市場拡大が期待できるセキュリティと業務効率化分野において、独自性のある自社商品を保有",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "世の中の時流やWEBのトレンドの変化に応じた事業・サービスに取り組みます",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介一覧へ",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "DIT、QNXパートナープログラムに参画、ミッションクリティカルな組込みシステムのサイバーレジリエンスを強化",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "次世代XRグラス連携Web API開発およびクラウド基盤開発│提案・実績紹介│DIT デジタル・インフォメーション・テクノロジー株式会社",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介 INDEX",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介一覧へ",
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会は、下記の議長および構成員の7名で構成され、年に1回以上開催し、取締役会の構成、取締役の報酬体系、後継者計画等のうち、取締役会から諮問を受けた事項について、審議し、取締役会に対して答申しております",
+    "url": "https://www.ditgroup.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "提案・実績紹介",
+    "url": "https://www.ditgroup.jp/ir/aboutstock.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介&サポートサイト",
+    "url": "https://www.ditgroup.jp/ir/aboutstock.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業支援、保全システム（新契約、契約管理、変額年金、数理統計）、代理店管理などの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店管理システム開発",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "調剤薬局向けの本部機能を備えた、店舗在庫、発注管理を行う保険薬局総合管理システムを提供します",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "• パートナー戦略強化",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " パートナーの技術スキルを全社で共有、優",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "良パートナーを選定",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " パートナー会を実施し情報共有と連携を強",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 必要とするパートナーの特徴を明確化し、商",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業・提案力の強化パートナーシップの強化人財育成",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 自治体電子契約の直販モデル",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 代理店への支援強化",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 自治体電子契約の直販モデルの構築と他自治体への横展",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 生成AI環境の再販が可能となるパートナー契約の締結と、シナジー",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• リファラル採用制度（社員紹介）の導入による",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、ビジネスパートナー、取引先、顧客、求職者、インターンシップ参加者、その他当社の事業に関係",
+    "url": "https://www.ditgroup.jp/pdf/Harassment_prevention_policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この記事で紹介された企業",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "を包括的に支援できるパートナーの存在が、これまで以上に求められている",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル変革の真のパートナーとなるべく、プロジェクト管理スキルの向上や、生成AIをはじめとする最新技術の習得支援など、人材基盤の強化に本腰を入れる",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "未来を共創するITパートナー",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "#パートナー",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介をお願いします",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "自分の強みを最大限に発揮できるカンパニー制で、一緒に成長しませんか",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DITの強み",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DITの強み",
+    "url": "https://www.ditgroup.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "生産管理、在庫管理、販売管理、会計・人事給与など基幹システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "DITの強み",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "調剤薬局向けの本部機能を備えた、店舗在庫、発注管理を行う保険薬局総合管理システムを提供します",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品卸向け在庫、受発注システム",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジに連動したOTC品在庫、受発注システム",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "一時的に営業利益率が低下するも、",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率（％）",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.9%",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みに更なる基盤",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "へシフト、MS365系サービス技術などに強みを持",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• カンパニー制の強みを活かした小さい組織体系",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 12.2%",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その強みと今後の展望を探った",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "特に、技術的な実現可能性とビジネス側の要請をバランスよく両立させる点で、実用性の高いシステムを構築できる点が強みとなっている",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な強みとしては、以下の2点が挙げられる",
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "pass": 3
+   },
+   {
+    "quote": "→ 組織の「強み」として未来の競争力の源泉になる",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年6月期 定時株主総会動画を公開しました",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 定時株主総会を2026年9月29日に開催いたしました",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日（水）～9日（金）にインテックス大阪で開催される「ものづくりワールド［大阪］」の",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 有価証券報告書",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期の第1四半期決算短信を2026年11月13日に発表する予定です",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度6月期ブリッジレポート（日本語版）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明資料",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期の決算説明会を2026年8月18日(火)10時30分にオンラインで開催する予定です",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期の決算短信を2026年8月12日に発表する予定です",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度6月期第3四半期ブリッジレポート（日本語版）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算説明資料",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度6月期第2四半期ブリッジレポート（日本語版）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期の第3四半期決算短信を2026年5月15日に発表する予定です",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算説明資料",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 半期報告書",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期の第2四半期決算説明会を2026年2月17日(火)10時30分にオンラインで開催する予定です",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期の第2四半期決算短信を2026年2月13日に発表する予定です",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度6月期第1四半期ブリッジレポート（日本語版）(1,978 KB)",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算説明資料",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期第2四半期（上半期：2025年7月1日～2025年12月31日）の活動を終え、ご挨拶申し上げます",
+    "url": "https://www.ditgroup.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期 第1四半期決算発表",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明会",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信発表",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算発表",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算説明会",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算発表",
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年の創業以来、独立系システムインテグレーターとして、IT環境の構築を通じ、多くのお客様の事業に貢献しています",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けた成長ステップ",
+    "url": "https://www.ditgroup.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年６月期 通期業績予想",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年ビジョンのスローガン",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年1月4日",
+    "url": "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月改正労働者派遣法対応",
+    "url": "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 ｜ 会社情報 ｜ DIT デジタル・インフォメーション・テクノロジー株式会社",
+    "url": "https://www.ditgroup.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期～2027年6月期",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年に向けた成長ステップ",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年ビジョン",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度（2025年7月1日～2026年6月30日）の労働者派遣の実績およびマージン率等は下記のとおりで",
+    "url": "https://www.ditgroup.jp/pdf/2025%E5%B9%B4%E5%BA%A6_%E5%8A%B4%E5%83%8D%E8%80%85%E6%B4%BE%E9%81%A3%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%B3%E7%8E%87%E7%AD%89%E3%81%AE%E5%85%AC%E9%96%8B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 4 月 1 日",
+    "url": "https://www.ditgroup.jp/pdf/%E6%B4%BE%E9%81%A3%E6%B3%95%E5%AF%BE%E5%BF%9C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B32026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020 年 4 月 1 日施行の改正労働者派遣法における、 労働者派遣法第 30 条の 4 第",
+    "url": "https://www.ditgroup.jp/pdf/%E6%B4%BE%E9%81%A3%E6%B3%95%E5%AF%BE%E5%BF%9C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B32026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "令和８年４月１日から令和９年３月 31 日までの１年間",
+    "url": "https://www.ditgroup.jp/pdf/%E6%B4%BE%E9%81%A3%E6%B3%95%E5%AF%BE%E5%BF%9C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B32026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月に開発を発表した、組み込み機器向けセキュリティソリューション『RezOT（レジオット）』は多くの注目を集めています",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "メガバンクをはじめとした金融機関、金融業者向けの業務システム開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "調剤薬局業界を中心にシステム開発・保守、各種ソリューションの販売・保守を提供します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "災害発生時に必要となるシステムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "電力会社、ガス会社向けの業務システム開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "大手通販会社向けにECサイトの構築・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "生産管理、在庫管理、販売管理、会計・人事給与など基幹システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "pass": 1
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内メガバンクを中心に、勘定系システム、決済系システム、市場リスク管理システム、情報系システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "市況情報をもとにした情報系システム開発、リスク管理システム、証券取引に関する清算業務など証券業務に関する幅広い領域の開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ローン提携、信用保証などの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業支援、保全システム（新契約、契約管理、変額年金、数理統計）、代理店管理などの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済手段多様化における決済代行システムやファクタリング会社の決済システム、保証システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "調剤薬局向けのシステム開発・保守、インフラ構築を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "製薬会社向け医薬品安全性業務支援パッケージのカスタマイズ開発・導入・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "病院向け統合医療情報システムのカスタマイズ開発・導入・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "各空港で必要な顧客情報システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/transportation.html",
+    "pass": 1
+   },
+   {
+    "quote": "運航乗務員向けの管理、手配に関わるシステムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/transportation.html",
+    "pass": 1
+   },
+   {
+    "quote": "機体の安全を守るために機体、部品システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/transportation.html",
+    "pass": 1
+   },
+   {
+    "quote": "官公庁向けに自社プロダクトの提供及び開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/government.html",
+    "pass": 1
+   },
+   {
+    "quote": "地方自治体の公共工事に関する情報を共有するシステム開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/government.html",
+    "pass": 1
+   },
+   {
+    "quote": "自治体で使用している災害対策情報システムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/prevention.html",
+    "pass": 1
+   },
+   {
+    "quote": "電力、ガスなどインフラ事業者の業務システム開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/infra.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人顧客に対するサービスオーダシステムの開発・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンシューマ向けの各種サービスサイトの構築・保守を支援します",
+    "url": "https://www.ditgroup.jp/service/business_dev/communication.html",
+    "pass": 1
+   },
+   {
+    "quote": " M&A効果により売上が拡大、サブスクリプ",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ション・ライセンス売上も着実に積み上がる",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "△ セキュリティ商材は大規模顧客を狙うもライセンスは着実な増加に留まる",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手半導体会社とのサブライセンス・パート",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " サブスクリプションでのストック積み上げにより、継続的に利益拡大できる収支構造構築の推進",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 「ライセンス＋制御シート作成＋有償教育」を売りやすい、買い",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別見通し：ビジネスソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別見通し：エンベデッドソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別見通し：プロダクトソリューション事業",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別見通し：システム販売事業",
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発 運用サポートセグメント全体 組込み開発 組込み検証セグメント全体 セグメント全体 セグメント全体",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営実績 事業セグメント別売上高",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "○ 4つの各セグメントにおいて順調に成長し、14期連続増収増益",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 事業セグメントに適合した資格取得目標値",
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "カンパニー情報 ｜ 会社情報 — カンパニー情報 ｜ 会社情報 DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp > corporate > strategy > strategy",
+    "url": "https://www.ditgroup.jp/corporate/strategy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "DIT デジタル ・ インフォメーション ・ テクノロジー 株式会社 — DIT デジタル ・ インフォメーション ・ テクノロジー 株式会社 DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp",
+    "url": "https://www.ditgroup.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル ・ インフォメーション ・ テクノロジー (株)【東証 ... — デジタル ・ インフォメーション ・ テクノロジー (株)【東証 ... マイナビ https://job.mynavi.jp > search > corp76948 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76948/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル ・ インフォメーション ・ テクノロジー 株式会社 — デジタル ・ インフォメーション ・ テクノロジー 株式会社 M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/584",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜ IRライブラリ ｜ IR情報 — 決算説明資料 ｜ IRライブラリ ｜ IR情報 DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp > kessan",
+    "url": "https://www.ditgroup.jp/ir/kessan.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 ｜ DIT デジタル ・ インフォメーション ・ テクノロジー ... — IR情報 ｜ DIT デジタル ・ インフォメーション ・ テクノロジー ... DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp > ...",
+    "url": "https://www.ditgroup.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル ・ インフォメーション ・ テクノロジー 決算 ・修正履歴 — デジタル ・ インフォメーション ・ テクノロジー 決算 ・修正履歴 株探 https://kabutan.jp > ... > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=3916",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 ｜ 会社情報 — 組織図 ｜ 会社情報 DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp > corporate > outline > introduction",
+    "url": "https://www.ditgroup.jp/corporate/outline/introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー ｜会社情報 — 社長インタビュー ｜会社情報 DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp > recruit > corporate",
+    "url": "https://www.ditgroup.jp/recruit/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル ・ インフォメーション ・ テクノロジー 株式会社代表 ... — デジタル ・ インフォメーション ・ テクノロジー 株式会社代表 ... 社長の履歴書 https://donzoko-ceo.com > 記事一覧 > 仕事",
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "pass": 3
+   },
+   {
+    "quote": "【 デジタル ・ インフォメーション ・ テクノロジー 】目指すは ... — 【 デジタル ・ インフォメーション ・ テクノロジー 】目指すは ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ojMoDrzcDys",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー ｜新卒採用 — 社員 インタビュー ｜新卒採用 DIT デジタル・インフォメーション・テクノロジー株式会社 https://www.ditgroup.jp > recruit > newgraduate",
+    "url": "https://www.ditgroup.jp/recruit/newgraduate/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ditgroup.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/news.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_operation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/showcase/case33.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/library.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/financialinfo.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/schedule.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/dit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/management.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/meeting.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/aboutstock.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/corporate/outline/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/health.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/transportation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/government.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/prevention.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/infra.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/business_dev/communication.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ditgroup.jp/pdf/%E6%A0%AA%E4%B8%BB%E9%80%9A%E4%BF%A12026%E9%80%9A%E6%9C%9F.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/pdf/DIT_Gr-KoudouKihan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/pdf/DIT_KoudouShishin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/ir/pdf/plan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/pdf/2025%E5%B9%B4%E5%BA%A6_%E5%8A%B4%E5%83%8D%E8%80%85%E6%B4%BE%E9%81%A3%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%B3%E7%8E%87%E7%AD%89%E3%81%AE%E5%85%AC%E9%96%8B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/pdf/%E6%B4%BE%E9%81%A3%E6%B3%95%E5%AF%BE%E5%BF%9C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B32026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/pdf/Harassment_prevention_policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/pdf/%E5%A5%B3%E6%80%A7%E6%B4%BB%E8%BA%8D%E6%8E%A8%E9%80%B2%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E6%83%85%E5%A0%B1%E5%85%AC%E8%A1%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A62025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_finance.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_health.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_transportation.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_government.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_prevention.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_infra.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_communication.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ditgroup.jp/service/img/business_dev/index_img_distribution.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260812517561/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://donzoko-ceo.com/ditgroup/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デジタル・インフォメーション・テクノロジー",
+   "results": [
+    "https://www.ditgroup.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C30000003AvDQ",
+    "https://job.mynavi.jp/27/pc/search/corp76948/premium.html",
+    "https://macloud.jp/companies/584",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/デジタル・インフォメーション・テクノロジー",
+    "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "https://finance.yahoo.co.jp/quote/3916.T",
+    "https://www.nikkei.com/nkd/company/?scode=3916",
+    "https://www.ditnet.co.jp/"
+   ]
+  },
+  {
+   "query": "デジタル・インフォメーション・テクノロジー ビジネスモデル",
+   "results": [
+    "https://www.ditgroup.jp/corporate/strategy/strategy.html",
+    "https://www.diamondv.jp/article/nQ6gjej5gKxupKbArxQABX",
+    "https://www.ditgroup.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp76948/outline.html",
+    "https://macloud.jp/companies/584",
+    "https://www.onecareer.jp/companies/78460",
+    "https://finance.logmi.jp/articles/375485",
+    "https://www.ditnet.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BA%8B%E6%A5%AD%E5%86%85%E5%AE%B9",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C30000003AvDQ&q_no=1",
+    "https://ja.wikipedia.org/wiki/デジタル・インフォメーション・テクノロジー"
+   ]
+  },
+  {
+   "query": "デジタル・インフォメーション・テクノロジー 決算説明資料",
+   "results": [
+    "https://www.ditgroup.jp/ir/kessan.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260812517561/",
+    "https://www.ditgroup.jp/ir/",
+    "https://www.irstreet.com/new/jp/brand/index.php?brand=329&contents=brand_presentation",
+    "https://kabutan.jp/stock/finance?code=3916",
+    "https://irbank.net/3916/ir",
+    "https://minkabu.jp/stock/3916/settlement",
+    "https://finance.logmi.jp/articles/382640",
+    "https://edinetdb.jp/company/E31573/presentations/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3916"
+   ]
+  },
+  {
+   "query": "デジタル・インフォメーション・テクノロジー 事業系統図",
+   "results": [
+    "https://www.ditgroup.jp/corporate/outline/introduction.html",
+    "https://www.ditgroup.jp/",
+    "https://www.it.mufg.jp/information/organization.html",
+    "https://job.mynavi.jp/27/pc/search/corp76948/outline.html",
+    "https://macloud.jp/companies/584",
+    "https://www.ditnet.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BA%8B%E6%A5%AD%E5%86%85%E5%AE%B9",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3916",
+    "https://www.ditgroup.jp/corporate/outline/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/デジタル・インフォメーション・テクノロジー"
+   ]
+  },
+  {
+   "query": "デジタル・インフォメーション・テクノロジー 社長 インタビュー",
+   "results": [
+    "https://www.ditgroup.jp/recruit/corporate/",
+    "https://donzoko-ceo.com/ditgroup/",
+    "https://www.diamondv.jp/article/39PaAMGtSF6yKATkdQjEBU",
+    "https://www.youtube.com/watch?v=ojMoDrzcDys",
+    "https://www.ditgroup.jp/recruit/newgraduate/",
+    "https://shachomeikan.jp/presidents/detail/10062976?page=2",
+    "https://j-newwave.com/archives/ichikawa_satoshi",
+    "https://shachono-nawa.com/company/ow3v6jiy5",
+    "https://weekly-economist.mainichi.jp/articles/20240423/se1/00m/020/003000c",
+    "https://the-shashi.com/tse/3916/executives/"
+   ]
+  }
+ ],
+ "missing": {}
+}

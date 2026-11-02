@@ -1,0 +1,1777 @@
+{
+ "name": "パルグループホールディングス",
+ "aliases": [],
+ "context": "証券コード2726／小売業／プライム（内国株式）／2026.02期 売上高234,704百万円 営業利益率11.6%",
+ "researched_at": "2026-11-02T20:13:13.907338+00:00",
+ "official_url": "http://www.palgroup.holdings/",
+ "identified_by": "search:yahoo_jp:パルグループホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1973.10.27",
+    "url": "https://www.palgroup.holdings/",
+    "pass": 1
+   },
+   {
+    "label": "中国現地法人の設立に関するお知らせ",
+    "value": "2016.01.12",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "234,704百万円（令和8年2月期　連結）",
+    "url": "https://www.palgroup.holdings/",
+    "pass": 1
+   },
+   {
+    "label": "9月度は、既存店売上高",
+    "value": "前年同月比101.2％（店舗＋EC)、100.2％（店舗）、全店売上高：前年同月比104.4％となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "令和６年能登半島地震に被災された皆様に心よりお見舞いを申し上げます",
+    "url": "https://www.palgroup.holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期 決算説明会資料",
+    "url": "https://www.palgroup.holdings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期 決算説明会資料",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 会社情報 | 株式会社パルグループホールディングス",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和48年10月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和50年4月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和55年3月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和56年5月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和56年11月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和57年3月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和59年11月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和60年9月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "昭和63年6月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成3年4月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成5年8月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成6年4月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成7年3月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成8年4月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成9年2月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成11年3月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成11年6月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成12年2月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成13年12月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成14年6月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成14年11月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年2月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年4月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年3月",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算サマリー",
+    "url": "https://www.palgroup.holdings/irinfo/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年2月期 第3四半期決算短信",
+    "url": "https://www.palgroup.holdings/irinfo/page/48/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月・月次売上概況〔2027年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算説明会資料",
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月・月次売上概況〔2026年2月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年2月期 決算説明会資料",
+    "url": "https://www.palgroup.holdings/irinfo/page/47/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年2月期 決算短信 〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/47/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年2月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/46/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月・月次売上概況〔2026年2月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月・月次売上概況〔2026年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年2月期 第3四半期決算サマリー",
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月期第３四半期決算短信〔日本基準〕(連結) 全文.pdf",
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月・月次売上概況〔2026年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月・月次売上概況〔2026年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年2月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年2月期 第2四半期 決算説明会資料",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年2月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年2月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/44/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月・月次売上概況〔2026年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/8/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期（中間期）決算短信 [日本基準] （連結）",
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期 決算説明会資料",
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年８月・月次売上概況〔2026年２月決算期〕",
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/48/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/47/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/46/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/44/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/8/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/43/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/42/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/10/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/11/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/41/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/40/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客満足度（CS）向上のため全社的な運動を展開し、お客様のご支持をいただけるよう努めると共に、「一流になろう」をテーマとして、約30ある各ブランドが各々のコンセプトに応じたターゲットを設定し、売上・利益等の営業効率の更なる向上はもとより、ブランドイメージやCSにおいても「一流」になることを目標とし、種々の施策を行います",
+    "url": "https://www.palgroup.holdings/irinfo/page/12/",
+    "pass": 1
+   },
+   {
+    "quote": "た環境下においても、当社グループは顧客ニーズの変化に柔軟に対応し 、当上期連結業績において過去最高の売上高および",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オンライン・オフライン双方での顧客接点の拡大とブランド認知の底上げを強力に推進してまいります",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規顧客の入店動機づけや、気温などの影響を受けづらい商材として、服飾雑貨の強化に取り組んで",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会員数は１,４５０万人を超え、ＳＮＳのフォロワー数は２,８００万人を超えています",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは 、社員インフルエンサーのＳＮＳアカウントへの顧客フォロ",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワー数が累計で２,８００万人を突破し、自社ＥＣプラットフォーム「パルクローゼット」の会員数も１,４５０万人",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした顧客基盤を活かしたＳＮＳマーケティングを展開し、そこから得られるリアルタイムな",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "需要データに加え、「パルクローゼット」の顧客行動データ・販売管理データといった定性・定量情報を分析し、",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②．ＰＡＬアプリ会員数の推移",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に真に価値ある商品とサービスを提供し続けるために、人的投資を増やし",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２-②．ＰＡＬ ＣＬＯＳＥＴアプリ会員数の推移",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※アプリ会員数",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＝アプリダウンロード数＋ＷＥＢのみ会員数",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実店舗顧客会員化開始",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スリーコインズ顧客会員化開始",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アプリ会員数１,０００万人達成",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アプリ会員数１,６００万人計画",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アプリ会員数２,０００万人計画",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本大会は、商品知識はもとより、顧客ニーズを捉える判断力や対応力、提案力を総合的に審査",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主力事業の多くは女性顧客をターゲットとしており 、全従業員の８０％を超える女性が、店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ｃプラットフォーム「パルクローゼット」の会員数が前年同期末比で200万人超増加し1,456万人となるなど、顧",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの強固な顧客基盤を背景に、ＳＮＳマーケティングやＥＣにお",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 70,581 46,279 116,860 222 117,082 － 117,082",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 70,581 46,279 116,860 222 117,082 － 117,082",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 74,468 47,366 121,834 96 121,931 － 121,931",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 74,468 47,366 121,834 96 121,931 － 121,931",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在、約30のブランドを展開しており、それぞれが独自の個性を持ちながら、多種多様なお客様のニーズに応える商品を提供しています",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "飽くなきユーザーオリエンテッドの追求 「ロッテノベーション」が採用にもたらしたもの",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "「学生＝顧客」の声に、無二のアイディアで応える",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様第一主義を徹底せよ――学生目線の採用戦略にみる、「人」への想い",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "貫いたのはきめ細やかな「お客様視点」",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "無印良品の公式アプリ 顧客情報2726万件が流出の可能性",
+    "url": "https://senken.co.jp/posts/palgrouphd-240205",
+    "pass": 3
+   },
+   {
+    "quote": "児島発の国産ジーンズ「オモトデニム」が好調 海外販売先が急増",
+    "url": "https://senken.co.jp/posts/palgrouphd-240205",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーズド商品供給を目的として、オレゴン州ポートランドにUSA事務所を設立",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社パル・リテイルシステムズ・サービスを設立",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社パル・リテイルシステムズ・サービスを吸収合併",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/48/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/47/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/46/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/44/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/8/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/43/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/42/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/10/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/11/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/41/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/40/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/12/",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）",
+    "url": "https://www.palgroup.holdings/irinfo/page/12/",
+    "pass": 1
+   },
+   {
+    "quote": "衣料部門においては、引き続き主力であるヤングカジュアルブランドが業績を力強く牽引いたしました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "雑貨部門においては、天候要因に伴う来店客数の減少が響き既存店実績は前年を下回る推移となりましたが、足元では新商品の順次投入に加え、「ポケットモンスター」とのコラボレーション商品が完売し受注販売を実施する等、売上の回復基調が",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上半期は主力ブランドの牽引と粗利率の改善により、売上高（前年同期比１０４.６％）・営業利益（同１１１.",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力 『 ｏ ｎ ｅ ａ ｆ ｔ ｅ ｒ ａ ｎ ｏ ｔ ｈ ｅ ｒ Ｎ Ｉ Ｃ Ｅ Ｃ Ｌ Ａ Ｕ Ｐ』 や",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "『ＯＬＩＶＥ ｄｅｓ ＯＬＩＶＥ』が好調を維持したほか、付加価値商品の展開による客単価上昇が原価高騰を吸",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定番商品の売上減少が主因と分析しており 、社外からのアドバイスも",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "得ながらＭＤ施策の改善を推進し、商品の鮮度の向上、発注の適正化とアウトレットの活用により店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今期秋冬商品については、予約実績が前年",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つい手に取りたくなるデザイン性のある商品たち…",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年間を１３期間（１サイクル４週間）に細分化し、新商品の",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株）パルの衣料事業においては、企画・発注する商品のほとんどが商社・大手メーカー経由であり、原価は発",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ＣＯＩＮＳ事業においては、３００円で販売価格を固定している商品が売上の約３分の１を占めている他、直",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "接貿易により、米ドル建てで仕入れている商品もあるため、為替相場変動の影響を一部受けております",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つ商品の拡充や付加価値に応じた適正価",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売れ筋商品のＭＤサイクル（８週間）での完成段階",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売れ筋商品のＭＤサイクルを、一気に４週間の短サイクルへ",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トレンドベーシックな価格戦略商品の取込み",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来の中間層が崩壊した市場に合わせた商品の投入/大型ブランド育成",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に真に価値ある商品とサービスを提供し続けるために、人的投資を増やし",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本大会は、商品知識はもとより、顧客ニーズを捉える判断力や対応力、提案力を総合的に審査",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主力事業の多くは女性顧客をターゲットとしており 、全従業員の８０％を超える女性が、店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や商品開発担当、ブランド本部など多様な職種で活躍しています",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、雑貨事業におきましては、商品の付加価値に応じた適正価格の設定に加え、初期発注数量のコントロー",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の開発・投入を継続いたしました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、下期に向け商品開発担当チームの人員・体制を増強し、商品",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発力を高めることで魅力ある新商品を戦略的に投入し、売上拡大を推進してまいります",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "及び預金の減少12,412百万円、商品及び製品の減少711百万円、受取手形及び売掛金の増加817百万円、有形固定",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 18,083 17,371",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在、システムメンテナンスのため一時的にサービスを停止しております",
+    "url": "https://palgroup-recruit.jp/who-we-are/strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、約30のブランドを展開しており、それぞれが独自の個性を持ちながら、多種多様なお客様のニーズに応える商品を提供しています",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "エームサービスが挑むコンピテ...",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "FGLテクノソリューションズが実践する「契約社員...",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FGLテクノソリューションズ / 井出 臣也 様",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "エームサービスが挑むコンピテンシー採用",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "エームサービス株式会社 / 山内 友和 様",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーンズショップ「パル青山須磨店」（神戸市須磨区）、「パル高槻店」（大阪府高槻市）、「パル堺東店」（大阪府堺市）等の出店により郊外型店舗の基盤確立",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "イタリア系インポートショップの店舗展開を事業目的に英・インターナショナル株式会社を設立",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "都心型店舗の出店開始",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社P.M.フロンティアにて店舗開発事業を開始",
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/48/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/47/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/46/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/44/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/8/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/43/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/42/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/10/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/11/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/41/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/40/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、生産のグローバル化による高感度でリーズナブルな価格の商品を供給することにより、価格訴求力と収益力とを同時に追求することを目指すとともに、人員配置・店舗運営の効率化を推進し、経営資源の最適配置を図るよう努めてまいります",
+    "url": "https://www.palgroup.holdings/irinfo/page/12/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗数推移 2026年2月 2026年 2027年 2027年2月",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月末時点 店舗数 1,151 1,165 1,174 1,171 1,174 1,170 1,166 1,175",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "衣料品小売店舗数 692 702 706 703 705 700 696 701",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "雑貨小売店舗数 459 463 468 468 469 470 470 474",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３コインズプラス店舗数 293 297 306 306 307 310 312 314",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３コインズ店舗数 81 80 76 77 77 75 74 75",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３コインズ業態以外の雑貨店舗数 85 86 86 85 85 85 84 85",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※上記売上高・店舗数には、香港3COINSの３店舗、台湾3COINSの誠品生活武昌店、クアラルンプールの3COINSららぽーとBBCC店は含めておりません",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "9月度は、既存店売上高：前年同月比101.2％（店舗＋EC)、100.2％（店舗）、全店売上高：前年同月比104.4％となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当月は、首都圏を中心に度重なる大雨や台風といった天候不順の影響を受けたものの、既存店売上高は店舗・ＥＣともに前年実績を上回る着地となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "：衣料事業は、トレンドを捉えたヤングカジュアルブランドの好調と店舗来店客数の増加により 、売上を大きく伸ばしまし",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗の来店客数・売上",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗展開においては上期に純増２店舗（出店６・退店４、期末１２８店舗）となり、下期以降も積極的な出",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "得ながらＭＤ施策の改善を推進し、商品の鮮度の向上、発注の適正化とアウトレットの活用により店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビアズリー 店舗数 ２０店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ディスコート 店舗数 ５４店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３コインズ 国内店舗数 ３８６店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗数および店舗面積が拡大していることを反映して 、売上高減価償却費率が上昇して",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗数 （国内店舗数）",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第２四半期末店舗数１,１６６店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前期末比１５店舗増）",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前期末比純増１５店舗となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "衣料事業は出店２３、退店１９、純増４店舗",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "雑貨事業は出店１６、退店５、純増１１店舗、",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移転増床が１０店舗ありました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "衣料事業は、ＤＩＳＣＯＡＴ５店舗、",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他で１８店舗を出店しました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "純増１１店舗となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移転増床店舗が１０あり、店舗面積は前年同期",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．店舗数の状況",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規店舗数 163 121 39 61",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "退店店舗数 34 48 24 32",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗数純増 129 73 15 29",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会計年度末の店舗数 1,078 1,151 1,166 1,180",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．客数、客単価の推移（（株）パル単体既存店前年比実績・実店舗のみ）",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "３．ビジネスモデル",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "安定した利益率を維持できる収益構造へ",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルの進化により、円安が業績に与える影響を軽減",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "『ＯＬＩＶＥ ｄｅｓ ＯＬＩＶＥ』が好調を維持したほか、付加価値商品の展開による客単価上昇が原価高騰を吸",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客単価前年比 客数前年比",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．客数、客単価の推移（（株）パル単体既存店前年比実績・実店舗のみ）",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別販売実績及びＥＣ売上高の状況",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比 59.2% 60.3% 61.1% 0.8%",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比 40.8% 39.5% 38.8% ▲0.7%",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ………………………………………………………………………………８",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△） 8,947 5,137 14,085 △20 14,065 30 14,095",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.セグメント利益又は損失の調整額は、セグメント間取引消去額30百万円であります",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3.セグメント利益又は損失は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△） 9,424 4,814 14,238 0 14,238 15 14,254",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.セグメント利益又は損失の調整額は、セグメント間取引消去額15百万円であります",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上総利益率は、期初想定を上回る改善幅を記録しました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た販管費の伸びをカバーできず、売上高営業利益率は０.３％低下する結果となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫管理の徹底により売上総利益率は向上したものの、販管費等の増加を補いきれず、増収減益となりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上半期は主力ブランドの牽引と粗利率の改善により、売上高（前年同期比１０４.６％）・営業利益（同１１１.",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "でのセールを抑制し、粗利率の改善を図ってまいります",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 14.4% 12.7% 12.7% 0.0%",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 7.7% 11.1% 10.2% ▲0.9%",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "衣料事業は、増収増益となりましたが、営業利益率は、人件費の増加やノーリーズの不振もあり横ばいにとどまりました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利率 55.2％ 56.2％ 57.2％ 57.6％ 0.4％",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利率 55.2％ 55.9％ 56.7％ 57.8％ 56.5％ 57.1％ 0.4％",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きる当社の強みです",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の競争優位性を支えるのが 、多様なブランドをパル",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、アパレル業界の課題である過剰在庫リス",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とともに、過剰在庫となるリスクも軽減しています",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マーケティングとＭＤの連携により、最終消化率の向上と在庫リスクの軽減を実現",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "適正型数、在庫管理の徹底により、セール期での粗利低下を防止",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＳＰＡ化率粗利率",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの取り組みを通じて在庫管理を徹底し、プロパー販売の強化および値引き販売の抑制",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を図った結果、売上総利益率は大きく向上いたしました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ルによる廃棄削減に注力した結果、売上総利益率は高い実績であった前年同期をさらに上回りました",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、当社の強みや特長をどうアピールするかも大きなポイントです",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "社員の強みを伸ばし、スキルを最大化する",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "全員SEならではの「技術×人間力」を強みに",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SUSTAINABILITY REPORT - パルグループホールディングス — SUSTAINABILITY REPORT - パルグループホールディングス 株式会社パルグループホールディングス PDF https://www.palgroup.holdings > uploads > 2026/02",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/02/PAL_sustainability_2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 パルグループホールディングス — 株式会社 パルグループホールディングス 株式会社パルグループホールディングス http://www.palgroup.holdings",
+    "url": "http://www.palgroup.holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期 決算説明 会 資料 - パルグループホールディングス — 2026年2月期 決算説明 会 資料 - パルグループホールディングス 株式会社パルグループホールディングス https://www.palgroup.holdings > irinfo > 2026年2月期-...",
+    "url": "https://www.palgroup.holdings/irinfo/2026%E5%B9%B42%E6%9C%88%E6%9C%9F-%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E8%B3%87%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報|株式会社 パルグループホールディングス — IR情報|株式会社 パルグループホールディングス 株式会社パルグループホールディングス https://www.palgroup.holdings > irinfo",
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - パルグループホールディングス — 決算説明 会 資料 - パルグループホールディングス 株式会社パルグループホールディングス PDF https://www.palgroup.holdings > uploads > 2026/04",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/04/1b76b95e314c9473b1d2ec6c7daa1b3b-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 パルグループホールディングス 決算説明 会 - YouTube — 株式会社 パルグループホールディングス 決算説明 会 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=RvUHResXQuo",
+    "pass": 3
+   },
+   {
+    "quote": "【 パルグループホールディングス 】[2726]IR情報 中期経営計画 ... — 【 パルグループホールディングス 】[2726]IR情報 中期経営計画 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2726",
+    "pass": 3
+   },
+   {
+    "quote": "The 52nd - パルグループホールディングス — The 52nd - パルグループホールディングス 株式会社パルグループホールディングス PDF https://www.palgroup.holdings > uploads > 2024/05",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2024/05/47b88dee91fece89d41d6356c47bcfe2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SUSTAINABILITY REPORT 2025 — SUSTAINABILITY REPORT 2025 株式会社パルグループホールディングス PDF https://www.palgroup.holdings > uploads > 2025/03",
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2025/03/d92a19e53cea459d93a99f51a66aba1d.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パルグループホールディングス の採用活動 | HR AGE — パルグループホールディングス の採用活動 | HR AGE HR AGE https://hr-age.humanage.co.jp > interview",
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "pass": 3
+   },
+   {
+    "quote": "《トップ インタビュー 2024》 パルグループホールディングス ... — 《トップ インタビュー 2024》 パルグループホールディングス ... 繊研新聞 https://senken.co.jp > posts > palgrouphd-240205",
+    "url": "https://senken.co.jp/posts/palgrouphd-240205",
+    "pass": 3
+   },
+   {
+    "quote": "TOP MESSAGE・社是 - パルグループホールディングス — TOP MESSAGE・社是 - パルグループホールディングス 株式会社パルグループホールディングス https://www.palgroup.holdings > company > topmessage",
+    "url": "https://www.palgroup.holdings/company/topmessage.php",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.palgroup.holdings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/company/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/company/complimentary.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/48/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/47/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/46/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/45/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/44/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/43/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/42/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/10/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/41/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/40/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/irinfo/page/12/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/a056bd50afbec1664e2b1ab26a070136.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/af8a1cb80b1db3a1d3439ec4c42cc78a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/9aca3d6e95ffdb79940274323f101276.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/4ed83641fd4161d594324762f40ef03a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/5b6c0842f4d058e04740f702a20904d5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/c36dc5d2ede90fff36850e3f51c4d23c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/03/customer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.palgroup.holdings/wp/wp-content/uploads/2026/10/f8125f25ea22375d0d1e87e1ffcdb308.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://palgroup-recruit.jp/who-we-are/strategy/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://hr-age.humanage.co.jp/interview/4606/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senken.co.jp/posts/palgrouphd-240205",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "パルグループホールディングス",
+   "results": [
+    "http://www.palgroup.holdings/",
+    "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.palgroup.co.jp/",
+    "https://www.wwdjapan.com/articles/2537383",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2726",
+    "https://ja.wikipedia.org/wiki/パルグループホールディングス",
+    "https://finance.yahoo.co.jp/quote/2726.T",
+    "https://www.nikkei.com/nkd/company/?scode=2726",
+    "https://kabutan.jp/stock/?code=2726",
+    "https://www.palgroup.holdings/"
+   ]
+  },
+  {
+   "query": "パルグループホールディングス ビジネスモデル",
+   "results": [
+    "https://www.palgroup.holdings/wp/wp-content/uploads/2026/02/PAL_sustainability_2026.pdf",
+    "https://palgroup-recruit.jp/who-we-are/strategy/",
+    "http://www.palgroup.holdings/",
+    "https://markezine.jp/article/detail/71250",
+    "https://www.nikkei.com/article/DGXZQOUC088VV0Y5A800C2000000/",
+    "https://www.palgroup.co.jp/aboutus_/",
+    "https://netshop.impress.co.jp/node/14833",
+    "https://www.palgroup.holdings/wp/wp-content/uploads/2025/03/d92a19e53cea459d93a99f51a66aba1d.pdf",
+    "https://envalith.com/ja/companies/2726/overview",
+    "https://www.crex-data.com/company/2726"
+   ]
+  },
+  {
+   "query": "パルグループホールディングス 決算説明資料",
+   "results": [
+    "https://www.palgroup.holdings/irinfo/2026%E5%B9%B42%E6%9C%88%E6%9C%9F-%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E8%B3%87%E6%96%99/",
+    "https://www.palgroup.holdings/irinfo/",
+    "https://www.palgroup.holdings/wp/wp-content/uploads/2026/04/1b76b95e314c9473b1d2ec6c7daa1b3b-1.pdf",
+    "https://www.youtube.com/watch?v=RvUHResXQuo",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2726",
+    "https://www.palgroup.co.jp/denshikoukoku/",
+    "https://www1.daiwair.jp/qlviewer/e-cast/220414272691bwr1/index.html",
+    "https://www.palgroup.holdings/irinfo/2026%E5%B9%B42%E6%9C%88%E6%9C%9F-%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1-%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96-%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89/",
+    "https://edinetdb.jp/company/E03387/ir-docs/",
+    "https://newspicks.com/news/16415675/"
+   ]
+  },
+  {
+   "query": "パルグループホールディングス 事業系統図",
+   "results": [
+    "http://www.palgroup.holdings/",
+    "https://www.palgroup.holdings/wp/wp-content/uploads/2026/02/PAL_sustainability_2026.pdf",
+    "https://www.palgroup.co.jp/aboutus_/",
+    "https://www.palgroup.holdings/wp/wp-content/uploads/2024/05/47b88dee91fece89d41d6356c47bcfe2.pdf",
+    "https://www.palgroup.holdings/wp/wp-content/uploads/2025/03/d92a19e53cea459d93a99f51a66aba1d.pdf",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2726",
+    "https://kitaishihon.com/company/2726/business",
+    "https://palgroup-recruit.jp/who-we-are/strategy/",
+    "https://www.openwork.jp/a0C10000012Xzre/analysis/",
+    "https://ja.wikipedia.org/wiki/パルグループホールディングス"
+   ]
+  },
+  {
+   "query": "パルグループホールディングス 社長 インタビュー",
+   "results": [
+    "https://hr-age.humanage.co.jp/interview/4606/",
+    "https://senken.co.jp/posts/palgrouphd-240205",
+    "https://www.ryutsuu.biz/strategy/r111179.html",
+    "https://www.palgroup.holdings/company/topmessage.php",
+    "https://www.wwdjapan.com/articles/1720894",
+    "https://www.palgroup.co.jp/aboutus_/",
+    "https://www.nikkei.com/article/DGXZQODZ00012_U5A110C2000000/",
+    "https://prtimes.com/magazine/palgroup-holdings-case-interview/",
+    "https://the-shashi.com/tse/2726/ceo/",
+    "https://kigyo-scope.jp/company/2726/ceo/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部3頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}
