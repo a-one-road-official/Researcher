@@ -1,0 +1,2090 @@
+{
+ "name": "インターアクション",
+ "aliases": [],
+ "context": "証券コード7725／精密機器／プライム（内国株式）／2026.05期 売上高4,822百万円 営業利益率14.6%",
+ "researched_at": "2026-11-02T18:58:38.208143+00:00",
+ "official_url": "https://www.inter-action.co.jp/",
+ "identified_by": "search:yahoo_jp:インターアクション",
+ "profile": {
+  "売上高": [
+   {
+    "label": "※ベース売上高",
+    "value": "顧客の設備投資動向に依存せず、安定的に需要が発生する製品等の売上高",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "6,017 6,856 7,754 6,668 4,822",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "3,829,961 2,060,700 5,890,661 777,989 6,668,651 － 6,668,651",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ － － － － － －",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,952,187 1,860,191 4,812,379 9,701 4,822,080 － 4,822,080",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "3,829,961 2,060,700 777,989 6,668,651",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,952,187 1,860,191 9,701 4,822,080",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1992年6月25日",
+    "url": "https://www.inter-action.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "創業者",
+    "value": "創業者兼名誉会長　木地 英雄",
+    "url": "https://www.inter-action.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年10月",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "123名（グループ全体　2026年5月末時点）",
+    "url": "https://www.inter-action.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "35人",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社グループの主力事業をご紹介",
+    "url": "https://www.inter-action.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、常に最先端な知識の学習に徹することで製品力を高め、光で未来を創ります",
+    "url": "https://www.inter-action.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な光学設計技術を活かし開発された各種製品によって、安定的かつ実環境を再現した光を提供可能であり、現在世界トップシェアを獲得しております",
+    "url": "https://www.inter-action.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "主力製品である『検査用光源装置』と『瞳モジュール®』はCCD・CMOSイメージセンサの製造に欠かせない検査用装置・デバイスです",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "インターアクションの技術やカスタマーサービスは高く評価されており、光源装置における世界シェアはトップです",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "瞳モジュール®はカメラのレンズ部分を再現した製品です",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "瞳モジュール®は従来の品質検査に必須の製品ではありませんが、歩留まりの向上や品質保持に大きく貢献しています",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "また、インターアクションのオリジナル製品であり、光源装置に次ぐ主力製品となっています",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報等についてのお問い合わせは、",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "ばね式のパッシブ除振装置、ナノレベルでのニーズに対応するアクティブ除振装置など、それぞれの用途に対応した製品で、半導体・光学・エネルギー・計測・バイオ・医薬品などの産業分野や、大学や国・地方自治体の研究機関などの産学・先端技術分野において活躍しています",
+    "url": "https://www.inter-action.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、自動車部品等の電子機器や工業製品等で用いられる歯車の製造に欠かせない接触型検査装置の企画・設計・製造・販売を行っております",
+    "url": "https://www.inter-action.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これを受けて当社は、IoT関連事業の主力製品である検査用光源装置及び瞳モジュールの受注を大幅に伸ばし、2026年4月には韓国の大手顧客から22億円を超える過去最大の大口案件を獲得するなど、目覚ましい躍進を遂げました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "特に上述の韓国大手顧客向け製品の受注高は、同541.8％増の3,571百万円に拡大し、IoT関連事業における強固な収益基盤の一角を築き上げました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また欧州の大手顧客向け製品の売上高も681百万円に達し、過去最高を更新しました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT関連事業は、海外顧客向け製品の販売を伸ばした一方で、国内顧客向け製品の販売が減少したことから、減収となりました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "定性面では、「グローバル展開の加速」「高付加価値製品の投入」「国内市場の基盤再構築」を重点テーマに掲げ、取り組みを進めました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "高付加価値製品の投入では、IoT関連事業において戦略的製品が収益性改善に寄与するなど、一定の成果を示しました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今期も製品開発に注力し、積極的な投入を継続します",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "主力製品は「検査用光源装置」と「瞳モジュール®」です",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "イメージセンサの品質検査に欠かせない主力製品です",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "カメラのレンズ部分を再現し、 イメージセンサが実際に使用される環境に近い状態で検査する製品です",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の主要なイメージセンサメーカーの製造工程で 当社製品が採用されています",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "光学だけでなく機械・電気・制御技術を組み合わせ、 顧客ごとの検査環境に合わせて製品を作り込みます",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "高付加価値・高収益な主力事業",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "高付加価値製品と、安定的な収益基盤の両立へ",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "主力の検査用光源装置は、 顧客の新規設備投資や生産能力増強に伴い需要が発生します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "特定顧客・業界に依存しない新製品",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※ベース売上高：顧客の設備投資動向に依存せず、安定的に需要が発生する製品等の売上高",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "強みを活かし、新しい製品・顧客・市場へ",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "光学技術などの技術基盤を活かし、 新しい製品・サービスを創出します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ、顧客、市場を広げ、 新たな成長基盤を構築します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "海外新規顧客の開拓や、 ハイエンドだけでなくミドル・ローエンドまで 製品ラインアップを拡充します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には戦略的パートナーシップを活用し、 研究者・開発者向けの 半導体ラインサイド関連製品等の新製品を展開します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製造工程から得られる独自データとAIを活用し、 歩留まり予測やダウンタイム短縮など、 新たなサービスの創出を目指します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "コア事業では、イメージセンサ市場におけるさらなる事業拡大に向け、フィジカルAIや医療分野など新たな市場ニーズを捉えた製品開発を推進するとともに、瞳モジュール®の生産自動化を通じて、品質及び納期の改善を進めてまいります",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "新事業領域では、精密測定・制御技術を活かした新たな計測機器市場の開拓に取り組み、製品の付加価値向上と事業規模の拡大を目指します",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "新設した製品企画室が中心となり、多様なテクノロジーを融合することで、新たな計測器市場の開拓と製品づくりを目指します",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "計画初年度は、開発した新製品の販売状況に手応えが感じられました",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "また、事業展開の多角化に向けては、光学製品メーカーや半導体関連機器メーカー、研究機器商社などとのパートナーシップを拡大し、従来の「モノ売り」にとどまらないサービス、ソリューション、プラットフォームの提供を目指してまいります",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の強靭性を示す指標として、設備投資に依存せず、売上総利益率、一人当たりの営業利益、資本効率（CCC）の改善に資する製品・サービスにかかる売上高",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "主にIoT関連事業における製品販売が低調に推移したことにより、前期比で減収減益",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "海外顧客向け製品の販売は好調に推移した一方、国内顧客向け製品の販売が大幅に減少",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "精密除振装置分野及び歯車試験機分野における製品販売が低調に推移",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/events/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス | 株式会社インターアクション",
+    "url": "https://www.inter-action.co.jp/ir/ir_mail/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.inter-action.co.jp/ir/ir_mail/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービスは、スパイラル株式会社による情報管理システム「スパイラル®」を利用しています",
+    "url": "https://www.inter-action.co.jp/ir/ir_mail/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "弊社グループの主力事業をご紹介",
+    "url": "https://www.inter-action.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社グループの事業をご紹介",
+    "url": "https://www.inter-action.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・人・組織・パートナーをつなぎ、 企画・マーケティング力を高めます",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には戦略的パートナーシップを活用し、 研究者・開発者向けの 半導体ラインサイド関連製品等の新製品を展開します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは直近の主要指標のみをご紹介しています",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "また、事業展開の多角化に向けては、光学製品メーカーや半導体関連機器メーカー、研究機器商社などとのパートナーシップを拡大し、従来の「モノ売り」にとどまらないサービス、ソリューション、プラットフォームの提供を目指してまいります",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のESGに関する取り組みをご紹介します",
+    "url": "https://www.inter-action.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "また、情報取扱責任者（社長または指名された取締役）が統括管理を行う体制を整えています",
+    "url": "https://www.inter-action.co.jp/ir/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から今日に至るまでの挑戦と成長の軌跡を、アニメーションでご紹介しています",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国陜西省西安市のG-solar Power Co., Ltd.と販売代理店契約を締結",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国Orient社と太陽電池製造装置の販売代理店契約を締結",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "西安立明電子科技有限責任公司とLED照明に関する販売総代理店契約を締結",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソニーセミコンダクタマニュファクチャリング株式会社より、「SONY ベストパートナー賞」を受賞",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ戦略の推進",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップ",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戦略的パートナーシップの構築：製品企画・マーケティングの能力・スピード強化",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップは、ゴールまでの時間を短縮させることが可能",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２０３０年までに５件のパートナーシップを構築していく",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マーケティングパートナー",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術パートナー",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・パートナーへ提供",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戦略的パートナーシップの進捗と今後の目標",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術パートナー マーケティングパートナー",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 2030 年までの目標達成にむけて、アプローチ先を拡大し、Ａ社のような企業とのパートナーシップを複数構築する",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▍戦略的パートナーシップの進捗",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー候補の探索・",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ パートナーシップの構築（予定）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップの構築・",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継続的にパートナーを探索",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たな取締役の体制と取締役会等の運営変革 ②取締役会 / 指名・報酬諮問委員会 運営方法の見直し",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 「取締役会の運営」 及び 「指名・報酬諮問委員会の運営」 の見直しを実施予定",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 指名・報酬諮問委員会については、代表取締役社長が委員から外れる予定",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーとして、社会に貢献してまいります",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④ パートナーシップ・新規事業の進捗について",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "④ パートナーシップ・新規事業の進捗について:半導体関連計測製品の開発スケジュール",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "4点目は、パートナーシップについてです",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "現時点で10社を超える提携を行っており、中期経営計画での目標である5社を上回っているため、パートナー数の詳細説明は必要ないと考えています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "複数のパートナー企業と正式な製品化に向けて共同開発を進めており、新型モジュールを通じて国内市場シェアの奪還を目指していきます",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "装置を提供するだけでなく、当社が装置から得られるデータとAIを活用してお客さまの課題を解決するというかたちを、現在パートナー候補を含めて模索している段階です",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "国内需要の回復、製品ラインナップの拡張、新規顧客の開拓、そして後ほどご説明するパートナー連携を通じて、顧客基盤をしっかりと分散させていきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップの進捗についてです",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "提携は技術パートナーとマーケティングパートナーを中心に進めており、これを「深化」「拡張」「探索」の3つの領域に分けて役割を明確にしています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "現在もパートナーや自社で新しい「瞳モジュール」のアイデアを次々と提案しており、国内で奪われたシェアを取り戻していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "販路、製造、開発をパートナーと分担することにより、自社だけで抱え込まず、開発期間と固定費を抑えています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップに加え、当社が企画、マーケティング、開発を担当した半導体向け製品を、年末に向けて1製品、来年以降に2製品から3製品をリリースしたいと考えています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、AI関連企業のパートナーと新製品を数件企画中です",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "ベース売上高を説明するにあたり、売上、営業利益、株価の視点から考え方をご紹介します",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "シンシア、「シンシアS」シリーズが拡大 「クレシェ」の売上高は前年比22.6％増、処方施設ルートで取扱店舗数が増加",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、精密除振装置分野及び歯車試験機分野とは異なる新たな事業領域の開拓に向けて、新設した製品企画部・新製品開発部を中心に、戦略的パートナーシップの構築及び半導体計測関連製品の企画・開発を推進しております",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "社内の事業基盤に加え、外部パートナーが有する技術、ノウハウ及びネットワークを結集することで、特定の業界や顧客に依存しない、幅広い市場ニーズに対応する製品・サービスの創出を目指してまいります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "光源装置は顧客の要望に応じて、個別にカスタマイズをして提供しています",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "インターアクションの光源装置の強みは光学的な技術だけではなく、機械に関する技術や電気に関する技術を含めた複合的な根気強いアプローチにより、顧客の持つ問題に効果的な解決策を提示できることです",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "受注環境を振り返ると、各顧客業界において半導体関連を中心とする設備投資の動きにばらつきが見られる中、当社が強みとするイメージセンサ関連領域では、海外顧客を中心に需要が堅調に推移しました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これを受けて当社は、IoT関連事業の主力製品である検査用光源装置及び瞳モジュールの受注を大幅に伸ばし、2026年4月には韓国の大手顧客から22億円を超える過去最大の大口案件を獲得するなど、目覚ましい躍進を遂げました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "特に上述の韓国大手顧客向け製品の受注高は、同541.8％増の3,571百万円に拡大し、IoT関連事業における強固な収益基盤の一角を築き上げました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また欧州の大手顧客向け製品の売上高も681百万円に達し、過去最高を更新しました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT関連事業は、海外顧客向け製品の販売を伸ばした一方で、国内顧客向け製品の販売が減少したことから、減収となりました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "国内市場の基盤再構築は、瞳モジュールのシェア奪還を目指して顧客チャネルを拡げているものの、まだまだ課題を残しており、さらなる対応強化を図ります",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ニッチな市場で培った、高度な技術と顧客基盤",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたるイメージセンサメーカーとの取引を通じて蓄積した 光学・機械・電気・制御技術と、 顧客ごとの要求に対応するカスタマイズ力が当社の強みです",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "光学だけでなく機械・電気・制御技術を組み合わせ、 顧客ごとの検査環境に合わせて製品を作り込みます",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術とカスタマイズ力によって、 検査時間の短縮、歩留まり向上、品質確保など、 顧客企業の生産性向上に貢献しています",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社装置の顧客（市場）カバー率",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ベース／当社調べ",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "主力の検査用光源装置は、 顧客の新規設備投資や生産能力増強に伴い需要が発生します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "特定顧客・業界に依存しない新製品",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※ベース売上高：顧客の設備投資動向に依存せず、安定的に需要が発生する製品等の売上高",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "強みを活かし、新しい製品・顧客・市場へ",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ、顧客、市場を広げ、 新たな成長基盤を構築します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "海外新規顧客の開拓や、 ハイエンドだけでなくミドル・ローエンドまで 製品ラインアップを拡充します",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "計画初年度となる2026年5月期は、海外顧客を中心にIoT関連事業の受注が大きく拡大するなど、コア事業において着実な進展が見られました",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "海外顧客向け製品の販売は好調に推移した一方、国内顧客向け製品の販売が大幅に減少",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "国内主要顧客の設備投資需要が落ち着いたことなどにより、セグメント全体では前期比で減収減益",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客による新規顧客開拓の進展等を背景に設備投資需要が発生しており、今後も旺盛な需要の継続を想定",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 各セグメントの売上高は外部顧客への売上高を記載しております",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から頂く個人情報は、メール配信サービスの目的のみに使用させていただきます",
+    "url": "https://www.inter-action.co.jp/ir/ir_mail/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.inter-action.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "光源装置と瞳モジュールはテスターやプローバーと接続して使用される性質上、光源装置と瞳モジュールの性能を向上させることで、顧客側の検査工程全体における生産性を相乗的に向上させ、生産管理上の選択肢を拡大させる",
+    "url": "https://www.inter-action.co.jp/ir/glossary/",
+    "pass": 1
+   },
+   {
+    "quote": "自社の強みを市場機会に結びつける企画力や、顧客ニーズを的確に把握するマーケティング能力が不足",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３． 継続的成長を支える顧客基盤の未整備",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存の特定顧客への依存度が高く、新規顧客開拓やLTV（顧客生涯価値）向上施策が不十分だった",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特定市場、特定顧客への依存度が高いため、新型コロナウイルスの感染拡大や米中貿易摩擦等、",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客基盤の未整備",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．顧客基盤の構築に向けた",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特定業界や特定顧客に依存しない裾野の広い製品を開発",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の設備投資動向に応じて需要が変動する製品",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「エンジニアが顧客の現場に足を運ぶことで培われているマーケティング能力」 、 「製造現場に根付いた製品コスト意識」 が大きな強みとなっている",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ベースで 75％以上 をカバー",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 「顧客企業の生産性の向上」を事業戦略の中心に据えて製品開発を推進",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3つの市場に適した製品を展開することで、幅広い顧客ニーズに対応し、",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内顧客向け",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 特定顧客依存 （主要顧客2社）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 広い顧客基盤",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズ共有",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズ把握",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・パートナーへ提供",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会・顧客・社員の",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのプロセスによって 「社会」 「顧客」 「社員」 ひとりひとりの可能性を広げていく",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会や顧客からの確かなる信頼",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イメージセンサ業界の顧客を",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ それに伴い、顧客側におけるイメージセンサテスト工程への設備投資も中長期的に増加していくと予測",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客とのリレーションシップ強化",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長崎開発センター開設に伴い顧客とのリレーションシップ強化を図る ➡ 開発プロセス・納期を迅速化",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●ユーザーサイドにおける歩留まりと",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多種な材料への対応とユーザーの利便性を重視した装置づくり ➡ ３つのテーマ",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カスタム品からスタート、顧客評価をもとに加工機能強化を図りつつ、付加機能も拡充",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客満足度の向上",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来の除振技術を発展させ振動の 「見える化」 を実現 ➡ 振動ソリューションの提供により顧客の生産性向上に寄与する",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 顧客側の振動環境を加振で再現 ➡ 設備導入前に実環境を判別可能",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客の2社購買方針により、価格競争が発生している",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "インターアクションの光源装置の強みは光学的な技術だけではなく、機械に関する技術や電気に関する技術を含めた複合的な根気強いアプローチにより、顧客の持つ問題に効果的な解決策を提示できることです",
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "国内随一の技術をもち、高精度な測定を強みとして、国内はもとより海外各地での歯車製作に貢献しています",
+    "url": "https://www.inter-action.co.jp/business/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.inter-action.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "受注環境を振り返ると、各顧客業界において半導体関連を中心とする設備投資の動きにばらつきが見られる中、当社が強みとするイメージセンサ関連領域では、海外顧客を中心に需要が堅調に推移しました",
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な光学技術を強みに、世界の主要なイメージセンサメーカーの モノづくりを支えるとともに、 車載・ロボティクス・フィジカルAIなどへの市場拡大や、 新たな半導体計測分野への展開を進めています",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたるイメージセンサメーカーとの取引を通じて蓄積した 光学・機械・電気・制御技術と、 顧客ごとの要求に対応するカスタマイズ力が当社の強みです",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "高付加価値・高収益な主力事業",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT関連事業 営業利益率",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "強みを活かし、新しい製品・顧客・市場へ",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の強靭性を示す指標として、設備投資に依存せず、売上総利益率、一人当たりの営業利益、資本効率（CCC）の改善に資する製品・サービスにかかる売上高",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "自社の強みを市場機会に結びつける企画力や、顧客ニーズを的確に把握するマーケティング能力が不足",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 57.5％ ５５.3％ 50.0％以上",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 事業の強靭性を示す指標として、設備投資に依存せず、売上総利益率、一人当たりの営業利益、資本効率（ CCC）の改善に",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＩｏＴ関連事業 (イメージセンサ検査ビジネス ) 当社の強み",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「エンジニアが顧客の現場に足を運ぶことで培われているマーケティング能力」 、 「製造現場に根付いた製品コスト意識」 が大きな強みとなっている",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような品質担保と高いスイッチングコストが参入障壁となっているため、高いシェアの維持が可能",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ ニッチトップ 高収益性",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ベース売上高・売上総利益率・一人当たり営業利益",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率：22.0%",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率：20%以上",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・強みを活かし、中長期的な事業拡大ができるよう、",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➡3つの強みを活かした事業展開を図る",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "することで、当該分野において技術的な強みを十",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの強みである「光（照明）の照射をコントロールする技術」は、十分なシナジー効果を発揮することが可能と考えております",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PSRには、営業利益率によって3つの型があると考えています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "規模型、高収益コンポーネント型、ニッチ独占型です",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "用途を絞った製品で稼ぐ高収益コンポーネント型は4倍、代替困難な工程を押さえるニッチ独占型は15.8倍に達するケースもあります",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "この差を生む要因は、売上の規模ではなく、代替されにくさ、つまり営業利益率と売上の安定性にあります",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "現段階で当社を調査すると、高収益コンポーネント型の水準に位置していると考えます",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "また、「瞳モジュール」のように他社で代替されにくい製品は価格競争力を持ちやすく、売上総利益率の向上が期待されます",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社グループでは当連結会計年度より、「ベース売上高」「売上総利益率」「一人当たり営業利益」「営業利益成長率（ＣＡＧＲ）」「ＲＯＥ（連結）」を新たな重要指標に設定し、2030年目標値の達成に向けて、活動しております",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度において、ベース売上高は755百万円（前期625百万円）、売上総利益率は60.5％（前期55.3％）、一人当たり営業利益は８百万円（前期20百万円）、営業利益成長率（ＣＡＧＲ）は△53.4％（前期△24.2％）、ＲＯＥ（連結）4.7％（前期8.6％）となりました",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率を除く各指標が減少した主な要因として、前述のIoT関連事業における減収減益であると分析しております",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「売上総利益率」「一人当たり営業利益」「営業利益成長率（ＣＡＧＲ）」に関する目標及び実績については、連結グループにおける主要な事業を営む提出会社（当社）のものを記載しております",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年5月期第1四半期 決算発表",
+    "url": "https://www.inter-action.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期業績（連結）",
+    "url": "https://www.inter-action.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月末時点",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 売上高（連結）",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 ベース売上高 実績",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年5月期 ベース売上高 目標",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けた主な目標",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期の主要な財務指標",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期末",
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期以降は、足もとの受注増加を背景に、各経営指標についてもさらなる進捗を見込んでおります",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年5月期 目標",
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月2日付で株式会社エア・ガシズ・テクノスの全株式を譲渡し、第1四半期連結累計期間より同社を連結の範囲から除外",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月期",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年5月期 決算公告 (26KB)",
+    "url": "https://www.inter-action.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年5月期 決算公告 (20KB)",
+    "url": "https://www.inter-action.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年5月期 決算公告 (24KB)",
+    "url": "https://www.inter-action.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "平成14年5月期 決算公告 (23KB)",
+    "url": "https://www.inter-action.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年、アメリカのAT&Tベル研究所で開発され、1982年にビデオカメラ用撮像素子として製品化される",
+    "url": "https://www.inter-action.co.jp/ir/glossary/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期",
+    "url": "https://www.inter-action.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期",
+    "url": "https://www.inter-action.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期",
+    "url": "https://www.inter-action.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月には、企業へ向けて、自社のビジネス活動に影響を及ぼす気候変動の「リスク」と「機会」について把握し、開示を推奨する提言を公表しています",
+    "url": "https://www.inter-action.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年6月25日",
+    "url": "https://www.inter-action.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "歴史・沿革 | 株式会社インターアクション",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、動画の内容を含め、当社のこれまでの歩みを以下の沿革でご覧いただけます",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月1１日",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年５月期時点での現状認識",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 イメージセンサ市場 （金額ベース）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年5月期",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1998年10月 中央監査法人入所",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2002年５月 公認会計士登録",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2003年９月 株式会社KPMG FAS入社",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年４月 荒木公認会計士事務所開設 代表（現",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年４月 税理士登録",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年７月 はやぶさトラスト監査法人設立",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年７月 税理士法人はやぶさトラスト会",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年４月 株式会社ブルームアドバイザリ",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1982年３月 株式会社アシックス入社",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年６月 株 式 会 社 キ ー エ ン ス 取 締 役",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年６月 同社 常勤監査役",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年10月 株式会社アシックス 執行役員",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年６月 株 式 会 社 大 阪 ソ ー ダ 取 締 役",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年６月 株式会社アルプス物流 社外取",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年６月 株式会社オーウエル 社外取締",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年5月期 (単位：百万円)",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 7月",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度 2023年度 2024年度 2025年度 2028年度",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度 2027年度 2028年度",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年以降頃から安定的に成長",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 4月 開設",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年5月期 2025年5月期 2026年5月期 2027年5月期 2028年5月期",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "国内主要顧客の設備投資需要が落ち着いたことなどにより、セグメント全体では前期比で減収減益",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高は2,952百万円（前期比22.9％減）、セグメント利益は1,345百万円（同30.9％減）",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高は1,860百万円（前期比9.7％減）、セグメント利益は102百万円（同61.3％減）",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "これに伴い、「環境エネルギー事業」を報告セグメントから除外し、「その他」として表示",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高は9百万円（前期比98.8％減）、セグメント利益は8百万円（同79.5％減）",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上高推移",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 各セグメントの売上高は外部顧客への売上高を記載しております",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 百万円未満を切り捨てて表示しているため、各セグメントの合計値と「合計」が一致しない場合があります",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "このため、同社事業が主な構成単位となっておりました「環境エネルギー事業」報告セグメントの重要性が乏しくなったため、2026年5月期より報告セグメントから除外し、「その他」として表示しております",
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "➢ インダストリー4.0推進事業では、海外展開や既存製品の改善効果により、セグメント利益が増加",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 主力事業のＩｏＴ関連事業セグメントにお いては 、「業界のデファクトスタンダードを確立している高い技術力」 、",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "IoT関連事業セグメント",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境エネルギー事業セグメント",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インダストリー 4.0推進事業セグメント",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループのコア技術である「光学技術」を３つのセグメントにそれぞれ",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３つのセグメント×光学技術 で更なる高みへ",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ ３つのセグメント×光学技術",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3つのセグメント×光学技術",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社グループのコア技術である「光学技術」を３つのセグメントにそれぞれ掛け合わせ、更なる事業拡大を図る",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中期事業計画コンセプト（3つのセグメント×光学技術）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "IoT関連事業セグメント×光学技術（市場）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "IoT関連事業セグメント × 光学技術（目指す姿）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境エネルギー事業セグメント × 光学技術（市場）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境エネルギー事業セグメント × 光学技術（目指す姿）",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントの報告です",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "IoT関連事業は、大口受注の準備期間であることを先ほどお伝えしましたが、売上高およびセグメント利益ともに減収減益となっています",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、新製品開発に伴う開発費がかさみ、セグメント損失を計上しました",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "当第1四半期は、既存の歯車試験機や精密除振装置でセグメント利益を計上していましたが、新製品開発に伴う開発コストがかさみ、それを補う利益を上げることができず、セグメント損失となりました",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "このため、同社事業が主な構成単位となっておりました「環境エネルギー事業」報告セグメントの重要性が乏しくなったため、当連結会計年度より報告セグメントから除外しております",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の主要製品は下記のとおりであります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、事業セグメントを「IoT関連事業」「インダストリー4.0推進事業」に分けて活動を行っており、各事業セグメントの事業環境は下記のとおりであります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の概況は以下のとおりであります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "このため、同社事業が主な構成単位となっておりました「環境エネルギー事業」報告セグメントの重要性が乏しくなったため、当連結会計年度より報告セグメントから除外し、「その他」として表示しており、下記の「その他」は組み替え後の前期と比較しております",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "海外顧客向け製品の販売は好調に推移したものの、国内顧客向け製品の販売が前期を大幅に下回ったため、セグメント全体としては前期と比較して減収減益となりました",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における当セグメントの外部顧客に対する売上高は2,952百万円（前期の売上高3,829百万円に比し、22.9％の減少）、セグメント利益は1,345百万円（前期のセグメント利益1,946百万円に比し、30.9％の減少）となりました",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における当セグメントの外部顧客に対する売上高は1,860百万円（前期の売上高2,060百万円に比し、9.7％の減少）、セグメント利益は102百万円（前期のセグメント利益265百万円に比し、61.3％の減少）となりました",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における当セグメントの外部顧客に対する売上高は９百万円（前期の売上高777百万円に比し、98.8％の減少）、セグメント利益は８百万円（前期のセグメント利益42百万円に比し、79.5％の減少）となりました",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは、連結子会社でありました株式会社エア・ガシズ・テクノスを当連結会計年度より連結の範囲から除外したためであり、同社の前期の売上高は770百万円、セグメント利益は36百万円であります",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "とにより、従来の「環境エネルギー事業」報告セグメントの重要性が乏しくなったため、「その他」とし",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "ことにより、従来の「環境エネルギー事業」報告セグメントの重要性が乏しくなったため、「その他」",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社及び連結子会社の構成単位のうち、分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであり、「IoT関連事業」、「環境エネルギー事業」及び「インダストリー4.0推進事業」の３つを報告セグメントとしておりました",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "既存ビジネスモデルの優位性が確認できた一方 他事業への展開に課題",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戦略的目標 （新規市場の開拓、ビジネスモデル変革等） とオペレーショナルな目標 （業務効率化、品質維持等） が混在",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ IAが未保有の商流",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画 - 2026－2030 - インターアクション — 中期経営計画 - 2026－2030 - インターアクション 株式会社インターアクション PDF https://www.inter-action.co.jp > uploads > 2025/07",
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターアクション 、イメージセンサ検査向け光源装置の海外 ... — インターアクション 、イメージセンサ検査向け光源装置の海外 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385882",
+    "pass": 3
+   },
+   {
+    "quote": "韓日 ビジネス 場面における インターアクション 行動 - 桜美林大学 — 韓日 ビジネス 場面における インターアクション 行動 - 桜美林大学 桜美林大学 PDF https://www.obirin.ac.jp > course_humanities",
+    "url": "https://www.obirin.ac.jp/academics/postgraduate/international_studies/course_humanities/u1ta3s000005vara-att/zh.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターアクション (7725)、事業内容、 ビジネスモデル 、強み ... — インターアクション (7725)、事業内容、 ビジネスモデル 、強み ... grow-project.com https://www.grow-project.com > 7725-inter-action",
+    "url": "https://www.grow-project.com/7725-inter-action/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 インターアクション — 決算説明資料 | 株式会社 インターアクション 株式会社インターアクション https://www.inter-action.co.jp > IR情報 > IR資料",
+    "url": "https://www.inter-action.co.jp/ir/library/briefing_report/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 | 株式会社 インターアクション — IR 資料 | 株式会社 インターアクション 株式会社インターアクション https://www.inter-action.co.jp > IR情報",
+    "url": "https://www.inter-action.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "インターアクション （7725） 2026年5月期 決算説明 - YouTube — インターアクション （7725） 2026年5月期 決算説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=HLWO7ccxRi0",
+    "pass": 3
+   },
+   {
+    "quote": "【 インターアクション 】[7725]IR情報 中期経営計画や 決算 短信 — 【 インターアクション 】[7725]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7725",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インターアクション — 株式会社 インターアクション 株式会社インターアクション https://www.inter-action.co.jp",
+    "url": "https://www.inter-action.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "インターアクション 【7725】の 事業 内容 - キタイシホン — インターアクション 【7725】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7725/business",
+    "pass": 3
+   },
+   {
+    "quote": "7725 インターアクション カタリストをどう読み取ればいいのか — 7725 インターアクション カタリストをどう読み取ればいいのか note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/oh_no/n/naca489d009c2",
+    "pass": 3
+   },
+   {
+    "quote": "インターアクション ［7725］東証1部 NS - YouTube — インターアクション ［7725］東証1部 NS - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=KC7-6yszukA",
+    "pass": 3
+   },
+   {
+    "quote": "Inter Action Corp 7725 - インターアクション - Shared Research — Inter Action Corp 7725 - インターアクション - Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/7725",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インターアクション 木地 英雄会長兼 社長 — 株式会社 インターアクション 木地 英雄会長兼 社長 cowtv.jp https://cowtv.jp > channel > boss",
+    "url": "https://cowtv.jp/channel/boss/554kiji/01.php",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 株式会社 インターアクション — トップメッセージ | 株式会社 インターアクション 株式会社インターアクション https://www.inter-action.co.jp > 企業情報",
+    "url": "https://www.inter-action.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "【 インターアクション （3）】経営の原点 ｢クライアント ... — 【 インターアクション （3）】経営の原点 ｢クライアント ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ROpHINZU18U",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ インターアクション ・木地英雄 社長 「私にも夢が ... — 経営ひと言／ インターアクション ・木地英雄 社長 「私にも夢が ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/201144",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.inter-action.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/business/iot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/business/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/business-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/esg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/ir_mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/disclosure-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/ir/glossary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2023/07/3a3c78d2507bcc59122eddc76d49d068.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021-2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/plan_2018-2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/13thkessankokoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/12thkessankoukoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/kessankoukou11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/10/img-business-03-1024x615.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2021/11/img-business-iot-fix01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.inter-action.co.jp/wp-content/uploads/2026/06/disclosure_flow_ir_dept_space-512x378.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/385882",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7725/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cowtv.jp/channel/boss/554kiji/01.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "インターアクション",
+   "results": [
+    "https://www.inter-action.co.jp/",
+    "https://kabutan.jp/stock/?code=7725",
+    "https://www.nikkei.com/nkd/company/?scode=7725",
+    "https://manbow.arc-academy.net/term/detail/109",
+    "https://sharedresearch.jp/ja/companies/7725",
+    "https://www.inter-action.co.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/7725.T",
+    "https://www.interaction.jp/",
+    "https://jp.linkedin.com/company/株式会社インターアクション",
+    "https://finance.yahoo.co.jp/quote/7725.T/profile"
+   ]
+  },
+  {
+   "query": "インターアクション ビジネスモデル",
+   "results": [
+    "https://www.inter-action.co.jp/wp-content/uploads/2025/07/8ce32d6b86ac9f78c4d89660ffcf1fc7.pdf",
+    "https://finance.logmi.jp/articles/385882",
+    "https://www.obirin.ac.jp/academics/postgraduate/international_studies/course_humanities/u1ta3s000005vara-att/zh.pdf",
+    "https://www.grow-project.com/7725-inter-action/",
+    "https://dhbr.diamond.jp/articles/-/3292?page=2",
+    "https://www.inter-action.co.jp/ir/business-plan/",
+    "https://auba.eiicon.net/projects/45002/quality",
+    "https://obirin.repo.nii.ac.jp/record/1402/files/KJ00008814119.pdf",
+    "https://blog.sptr.jp/inter-action-model"
+   ]
+  },
+  {
+   "query": "インターアクション 決算説明資料",
+   "results": [
+    "https://www.inter-action.co.jp/ir/library/briefing_report/",
+    "https://www.inter-action.co.jp/ir/library/",
+    "https://www.youtube.com/watch?v=HLWO7ccxRi0",
+    "https://finance.logmi.jp/articles/385371",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7725",
+    "https://www.inter-action.co.jp/ir/",
+    "https://www.interspace.ne.jp/ir/library/setsumei.html",
+    "https://www.moomoo.com/news/notice/1001003641/materials-for-the-first-quarter-earnings-presentation-for-the-fiscal",
+    "https://www.tm-nets.com/ir/library/presentation/",
+    "https://www.inter-action.co.jp/ir/library/brief_note/"
+   ]
+  },
+  {
+   "query": "インターアクション 事業系統図",
+   "results": [
+    "https://www.inter-action.co.jp/",
+    "https://kitaishihon.com/company/7725/business",
+    "https://note.com/oh_no/n/naca489d009c2",
+    "https://www.youtube.com/watch?v=KC7-6yszukA",
+    "https://sharedresearch.jp/ja/companies/7725",
+    "https://finance.logmi.jp/articles/385371",
+    "https://www.inter-action.co.jp/company/outline/",
+    "https://bizplan.media/?p=1477",
+    "https://jigyou-v2.kabu-trendpro.com/company/7725/",
+    "https://www.inter-action.co.jp/business/"
+   ]
+  },
+  {
+   "query": "インターアクション 社長 インタビュー",
+   "results": [
+    "https://cowtv.jp/channel/boss/554kiji/01.php",
+    "https://www.inter-action.co.jp/company/message/",
+    "https://www.youtube.com/watch?v=ROpHINZU18U",
+    "https://www.nihon-ma.co.jp/page/interview/interaction/",
+    "https://www.nikkan.co.jp/articles/view/201144",
+    "https://gyokai.media/articles/%E7%B5%8C%E5%96%B6%E5%8D%B1%E6%A9%9F%E3%82%92%E3%81%A9%E3%81%86%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%82%8B%EF%BC%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/",
+    "https://www.sangyo-times.jp/article.aspx?ID=7535",
+    "https://www.youtube.com/watch?v=KC7-6yszukA",
+    "https://www.nikkei.com/article/DGKKZO57973310T10C20A4TJ1000/",
+    "https://shachomeikan.jp/presidents/detail/10061643"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式22頁／PDF・画像11件／外部3頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式22頁／PDF・画像11件／外部3頁・検索5回）"
+ }
+}

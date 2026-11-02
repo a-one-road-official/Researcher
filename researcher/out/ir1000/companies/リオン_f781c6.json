@@ -1,0 +1,2161 @@
+{
+ "name": "リオン",
+ "aliases": [],
+ "context": "証券コード6823／電気機器／プライム（内国株式）／2026.03期 売上高28,502百万円 営業利益率15.3%",
+ "researched_at": "2026-11-02T18:53:27.388793+00:00",
+ "official_url": "https://www.rion.co.jp/",
+ "identified_by": "search:yahoo_jp:リオン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1944年（昭和19年）6月21日",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "285億195万円 （2026年3月期・連結）",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "22,635 23,868 25,726 27,877 28,501",
+    "url": "https://www.rion.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高営業利益率",
+    "value": "13.7 % 11.9 % 13.5 % 14.5 % 15.3 %",
+    "url": "https://www.rion.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "9,546,778 12,530,616 5,800,484 27,877,879 － 27,877,879",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "－ － － － － －",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "9,711,333 12,757,614 6,033,008 28,501,956 － 28,501,956",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "9,546,778 9,983,558 2,547,057 5,800,484 27,877,879",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "9,711,333 10,236,442 2,521,171 6,033,008 28,501,956",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,003名 （2026年3月31日現在・連結）",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療機器事業（補聴器、医用検査機器）、環境機器事業（音響・振動計測器）、微粒子計測器事業（微粒子計測器）の製造、販売およびこれらに関連する部品、機器等の製造、販売、サービス",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "学校やホールなどで使用する各種補聴・援助システムや生活の中でお使いいただける生活サポート商品をご紹介します",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各製品サイトのイベント・セミナー情報へリンクしています",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "リオネット補聴器､関連製品",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "リオネット補聴器､関連製品に関するお問い合わせ",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "騒音計、振動計、分析器、記録計、粘度計、及びそれら製品の点検・校正、修理",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機騒音計、強震計、計測震度計、制御用地震計、及びそれら製品の点検・校正、修理",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "気中パーティクルカウンタ、液中パーティクルカウンタ、多点モニタリングシステム、生物粒子計数器及びそれら製品の点検・校正、修理",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器事業（補聴器、医用検査機器）、環境機器事業（音響・振動計測器）、微粒子計測器事業（微粒子計測器）の製造、販売およびこれらに関連する部品、機器等の製造、販売、サービス",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "主な取扱製品",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サポート商品",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "道路交通騒音、工場騒音、建設工事騒音、航空機騒音など様々な騒音を監視する騒音計から、工場設備の保守保全や製品開発における性能試験、振動公害への対応に欠かせない振動計、そして社会インフラの保全に貢献する地震計まで…",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "音響振動計測システム製品",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "微粒子計測システム製品",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、音響学と物理学の民間研究所である一般財団法人小林理学研究所の研究成果の製品化を目的として、昭和19年、株式会社小林理研製作所の社名で設立され、わが国最初の音響機器用クリスタルエレメントおよびその応用製品の製造を開始しました",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オージオメータに代表される耳鼻科関連 医用検査機器群、環境保全や産業分野で使用される騒音計・振動計などの音響・振動計測器群、半導体・薬品工業・精密工業などにおける清浄度管理に不可欠な微粒子計測器、震災を最小限におさえるための防災用・制御用地震計の地震計測システムなど福祉および環境問題を中心に製品分野を広げ、これらの製品群は国内はもちろん海外でも高い評価を得ています",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪サービスステーション（現・西日本営業所）を開設",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001（騒音計を除く全製品）の認証を取得",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "リオンサービスセンター株式会社（現・連結子会社）を設立",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの最大の特徴は、主要製品のすべてが国内市場において高いシェアを確保していることであります",
+    "url": "https://www.rion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、他社が手がけていない独自の事業を切り開き、市場に展開してきたためであり、それぞれの分野において事業の開始以来、多くの先進的な製品を市場に投入し続けてまいりました",
+    "url": "https://www.rion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "の研究成果を製品化する目的に、1944年（昭和19年）に株式会社小林理研製作所として設立されました",
+    "url": "https://www.rion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法、会社法、東京証券取引所の定める適時開示規則等に従って、情報開示を行っております",
+    "url": "https://www.rion.co.jp/ir/disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社ホームページには、上記情報以外にも当社の製品情報をはじめ、さまざまな情報を掲載しております",
+    "url": "https://www.rion.co.jp/ir/disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/ir/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/ir/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.rion.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.rion.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "人に、社会に、地球に、優しい製品及びサービスを提供することにより国民の健康で文化的な生活の確保に寄与すると共に、人類の福祉に貢献します",
+    "url": "https://www.rion.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、すべての企業活動を通して、常に環境保全に配慮し、人に、社会に、地球に優しい製品及びサービスを提供することにより、国民の健康で文化的な生活の確保に寄与すると共に、人類の福祉に貢献する",
+    "url": "https://www.rion.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "これを受け、エネルギー、原材料、部品、サプライチェーン、サービス等の在り方に変化が起こると考える",
+    "url": "https://www.rion.co.jp/csr/environment/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "国産初、70年以上の歴史を持つリオネット補聴器の最新モデルや全国の販売店についての情報、難聴や補聴器についての基礎知識をご紹介します",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "学校やホールなどで使用する各種補聴・援助システムや生活の中でお使いいただける生活サポート商品をご紹介します",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オージオメータ、誘発反応検査装置、平衡機能検査装置、聴力検査室など、耳鼻咽喉科領域を中心とした検査関連機器をご紹介します",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "行政機関や産業界のニーズに応える様々なタイプの騒音計、振動計、地震計などをご紹介します",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子、医薬品、食品製造など、様々な産業分野のクリーンルームや製造工程の清浄度管理に貢献する気中／液中微粒子計測器をご紹介します",
+    "url": "https://www.rion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "決算発表や株主総会などの年間スケジュールをご紹介します",
+    "url": "https://www.rion.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.rion.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当社発行株式の概要をご紹介いたします",
+    "url": "https://www.rion.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "リオン株式会社｜採用情報：事業紹介",
+    "url": "https://www.rion.co.jp/recruit/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.rion.co.jp/news/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "リオン製品の技術革新ヒストリーをご紹介します",
+    "url": "https://www.rion.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "決算発表や株主総会などの年間スケジュールをご紹介します",
+    "url": "https://www.rion.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.rion.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "⑤ 指名・報酬委員会の活動状況",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度において当社は指名・報酬委員会を１回開催しており、個々の委員の出席状況については次のとお",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ので、退任までの期間に開催された指名・報酬委員会の出席状況を記載しております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業年度において、濱田喜久子氏が出席する指名・報酬委員会の開催はありませんでした",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会における主な検討事項は、取締役候補者の選定や取締役等の報酬に関する事項であります",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "―2000年１月 小島国際法律事務所パートナー",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取締役会は、取締役の報酬等の決定方針並びに個人別報酬等の内容等を決定するにあたり、指名・報酬委",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報酬等に関する諸規定に基づき作成した報酬案を指名・報酬委員会に諮問し、取締役会は委員会の答申を受け",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度における当社の役員の報酬等の額の決定過程における取締役会及び指名・報酬委員会の活動は、",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年６月の指名・報酬委員会にて、2025年７月以降の役員報酬額に係る審議を行い、2025年６月の取締役会",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "数器 PT-01F」をご紹介数器 PT-01F」をご紹介",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や全国の販売店との連携を深め、安定的な収益",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、代理店",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本特集では、その背景や特長をご紹介します",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界初の 「流体力学式液中粒子計数器 PT-01F」 をご紹介",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て医療機器事業部長の太田より事業内容をご紹介しました",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "丁寧な手作業や、製造現場ならではの工夫についてもご紹介しました",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "然や人が作り出す様々な音が含まれ、北海道から沖縄まで、地域ごとの音風景が紹介されています",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売網の拡充を進める",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リオンは、全国の眼鏡店や補聴器専門店と強固なパートナーシップを築き、この極めて重要な「対面サービス」のネットワークを全国に張り巡らせています",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "また、販売店との連携をさらに強化し、カウンセリングやフィッティングサービスの質を高めることで、顧客満足度の向上と、海外製品との差別化を図ります",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "1952年に商品化された初のオージオメータ（聴力検査機器）を紹介する岩橋社長",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "また、補聴器販売店に相談した人も全体の15％です",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "耳鼻咽喉科の専門家と一緒にそのような調整とトレーニングの必要性を訴えていくことは、我々メーカーや販売店の1つの使命だと考えています",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "JSCO2026の見どころと「がんちスタジオ」の紹介――癌治療学会第2回連携ウェビナー",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "第85回日本癌学会学術総会、9月24日から京都で――注目プログラムを紹介（後編）",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "日本産科婦人科学会が5月、札幌で開催――“第5のがん治療”光免疫療法の紹介も",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "第113回日本泌尿器科学会総会の見どころを浮村理大会長が紹介―4月23（木）〜26（日）に京都国際会館で開催",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "第70回日本リウマチ学会総会・学術集会、4月22日から福岡で開催――渥美達也会長が見どころなど紹介",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "がん専門の大病院のため、詳細は泌尿器科へ紹介状を出すとの説明を受けました",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "【個人のお客様】",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "リオネット補聴器お客様コールセンター",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "■ リオネット補聴器お客様コールセンター",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "【法人のお客様】",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.rion.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "日本初の量産補聴器発売から70年以上、リオネット補聴器は、お客様の言葉によるコミュニケーションを支えてきました",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "行政や業界の規制・規格への素早い適応や、ネットワーク化、生産システムとの連動といったお客様ニーズへの対応が高く評価されています",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "更なる事業拡大を目指し、生産性と技術開発力の向上に努めるとともに、顧客満足度を高めるために、モノに加え、デジタルトランスフォーメーション（DX）やユーザーエクスペリエンス（UX）を活用したコト事業の開発に取り組みます",
+    "url": "https://www.rion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.rion.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初の量産型補聴器発売から70年以上、リオネット補聴器は、お客様の言葉によるコミュニケーションを支えてきました",
+    "url": "https://www.rion.co.jp/recruit/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "行政や業界の規制・規格への素早い適応や、ネットワーク化、生産システムとの連動といったお客様ニーズへの対応が高く評価されています",
+    "url": "https://www.rion.co.jp/recruit/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "【個人のお客様】",
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リオネット補聴器お客様コールセンター",
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "■ リオネット補聴器お客様コールセンター",
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【法人のお客様】",
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "より高い顧客満足度を実現することにより、当社グループの持続的な発展と企業価値の向上に努めてまいりま",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの製造する製品群における技術革新は著しく、お客様のニーズに沿った新製品を市場に供給し続け",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各分野において、顧客満足度の向上を図り、常に信頼され続ける製品の開発を目指して研究開発を行っております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リオン取引先持株会 東京都国分寺市東元町３丁目20番41号 490 3.98",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、取引先との良好な取引関係の維持や、事業の円滑な推進・発展など、中長期的な企業",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行っており、当該販売については、顧客に引き渡した時点又は顧客が検収した時点で収益を認識しております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、当該国内の販売については、出荷時から当該製品の支配が顧客に移転される時までの期間が通常の期",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ 受取手形及び売掛金、電子記録債権のうち、顧客との契約から生じた債権及び契約負債の金額は、連結財務諸表",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ 顧客との契約から生じる収益",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高については、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約から生じる収益の金額は、連結財務諸表「注記事項（収益認識関係） １ 顧客との契約から生じる収益を分解",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金、電子記録債権は、顧客の信用リスクに晒されております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 信用リスク(取引先の契約不履行等に係るリスク)の管理",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資有価証券については、定期的に時価や発行体の財務状況等を把握し、取引先企業との関係を勘案して保有",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店の店頭業務を体験した際には、社員がお客様",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、当社製品をご愛顧頂くお客様の\"生活の質の向上\"を目指して、従業者が一丸となって誠心誠意努力する",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、当社製品をご愛顧頂くお客様が\"障壁\"を感じることなく市民社会で活躍できる製品･サービスを提供する",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、お客様の生産性向上と産業の発展に貢献するため、製品開発を通じた新",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リオン取引先持株会 490,400 3.98",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "補聴器ユーザー",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 2025年度は、米国・韓国の主要顧客である",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーニーズの変化に応える新製品を継続的にリリース",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル：医療機関・専門店・ユーザーの循環",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客価値訴求型営業の強化",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機能・性能を顧客ニーズに紐づけた",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様との信頼関係:",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "製品を販売するだけでなく、顧客一人ひとり、一社一社と長期的な信頼関係を築き、最後まで責任を持つという姿勢が、同社のビジネスの根幹をなしています",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "それが、顧客の期待に応え、社会に貢献し続けるための唯一の道であると考えています",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ネット通販や海外の安価な製品には決して真似のできない、リオンの最大の強みであり、顧客との長期的な信頼関係の源泉です",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "リオンは、これらの最新技術を搭載しつつも、日本のユーザーにとっての「使いやすさ」「快適さ」を追求した製品開発を続けています",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "また、販売店との連携をさらに強化し、カウンセリングやフィッティングサービスの質を高めることで、顧客満足度の向上と、海外製品との差別化を図ります",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの製造する製品群における技術革新は著しく、お客様のニーズに沿った新製品を市場に供給し続けるためには、多岐にわたる充分な研究開発活動が不可欠となります",
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "全事業顧客異なるポートフォリオ経営",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの事業の顧客が全く異なることで、経営リスクが分散されやすいのも特徴だ",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "微粒子計測器の主な販売先は、世界各国の半導体製造関連企業だ",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "市場や顧客の異なる３事業を並行して展開することにより、外的環境の影響を受けたとしてもリスク分散できるため、経営の安定につながっている",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1944年（昭和19年）6月21日",
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "リオン株式会社｜企業情報：沿革と歴史",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和35年には、理学の“リ”、音響の“オン”に由来する「リオン株式会社」に社名を改めました",
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信［日本基準］（連結）",
+    "url": "https://www.rion.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 資料",
+    "url": "https://www.rion.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期決算発表",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期決算説明会",
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年（昭和35年）には、理学の\"リ\"、音響の\"オン\"に由来する現在の「リオン株式会社」に社名を改めました",
+    "url": "https://www.rion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年2月に店頭市場（現在のジャスダック市場）に登録し、2000年5月に東京証券取引所市場第二部に上場、2011年12月に同市場第一部に銘柄指定を受けました",
+    "url": "https://www.rion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信 ［日本基準］（連結）",
+    "url": "https://www.rion.co.jp/news/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信 ［日本基準］（連結）",
+    "url": "https://www.rion.co.jp/news/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信 ［日本基準］（連結）",
+    "url": "https://www.rion.co.jp/news/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信 ［日本基準］（連結）",
+    "url": "https://www.rion.co.jp/news/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信［日本基準］（連結）",
+    "url": "https://www.rion.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 資料",
+    "url": "https://www.rion.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022 年６月 24 日",
+    "url": "https://www.rion.co.jp/ir/pdf/teikan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1944年 株式会社小林理研製作所 （現 ・ 当社） を設立",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1946年 ロッシェル塩の圧電振動子を使用したマイ クロホン及び",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1948年 日本初の量産型補聴器を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1950年 補聴器が身体障害者福祉法品目に指定",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1952年 オージオメータを発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1955年 騒音計を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1956年 トランジスタ補聴器を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1959年 眼振計を発表",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1960年 リオン株式会社に商号変更",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1962年 円盤式録音再生機リオ ノコーダを発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1964年 耳かけ型補聴器を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1965年 振動計を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1969年 脳波加算装置を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1971年 補聴器とし て日本初のグッ ドデザイン賞を受賞",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1974年 日本初の騒音計における計量法形式承認を取得",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1977年 気中微粒子計を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年 地震計を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1981年 世界初のトランジスタ式微風速計を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1983年 世界初の人工中耳の開発に成功",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1984年 オーダーメイ ド補聴器を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年 世界初の防水耳かけ型補聴器を発売",
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "道路交通騒音、工場騒音、建設工事騒音、航空機騒音など様々な騒音を監視する騒音計から、工場設備の保守保全や製品開発における性能試験、振動公害への対応に欠かせない振動計、そして社会インフラの保全に貢献する地震計まで…",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "※このほか、証券会社への手数料もかかります",
+    "url": "https://www.rion.co.jp/ir/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "道路交通騒音、工場騒音、建設工事騒音、航空機騒音など様々な騒音を監視する騒音計から、工場設備の保守保全や製品開発における性能試験、振動公害への対応に欠かせない振動計、そして社会インフラの保全に貢献する地震計まで…",
+    "url": "https://www.rion.co.jp/recruit/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境問題への対応から工場設備の保守保全まで、環境行政や産業のニーズに応え続けてきたリオンの音響・振動計測器",
+    "url": "https://www.rion.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第１１条 当会社の株主権行使の手続その他株式に関する取扱いおよび手数料は、 法令または本定款",
+    "url": "https://www.rion.co.jp/ir/pdf/teikan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 １ 条 当会社の株主権行使の手続その他株式に関する取扱いおよび手数料については、",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 16 条 買取請求の買取単価は、買取請求が第 2 条に定める株主名簿管理人事務取扱場",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 前項による買取単価に買取請求株式数を乗じた額をもって買取価格とする",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 17 条 当会社は、 前条により算出された買取価格から第20 条に規定する手数料を差し",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 ７ 章 手数料",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 20 条 第 15 条の単元未満株式買取請求に係る手数料は、以下の算式により 1 単元当た",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 16 条第 1 項に定める買取単価に単元株式数を乗じた合計金額のうち",
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年額250,000千円以内",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（金銭報酬とは別枠） 年額50,000千円以内 第99期定時株主総会（2020年６月24日開催） ４名",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役 金銭報酬 年額30,000千円以内 第71期定時株主総会（1992年６月19日開催） ２名",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非金銭報酬は、譲渡制限付株式報酬（リストリクテッド・ストック）を採用しております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 43,867 48,265",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※医療相談は、月額432円(消費税込)で提供しております",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.rion.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "高350億円以上」、「売上高営業利益率15％以上」及び「自己資本当期純利益率（ＲＯＥ）10％以上」を2031年３月",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員一人ひとりの志向・適性・強みに応じた専門性の強化やキャリア形成の実現はその能力を最大限発揮し",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "採用活動における一連のプロセスを通じて個々人が持つ強みや各人の適性を組織にフィットさせることで、活",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは「売上高350億円以上」、「売上高営業利益率15％以上」及び「自己資本当期純利益率（ＲＯ",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、売上高285億円、売上高営業利益率15.3％、自己資本当期純利益率10.1％となり、売上高営業利益率及び自己",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益の実績値を基準として、連結売上高、連結営業利益率及びＲＯＥ（自己資本当期純利益率）を段階的",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その考えのもと、一人ひとりの志向・適性・強みに応じた主体的なキャリア形成の促進を図り、それぞれの可能性",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器の両分野における強みを活かし、医療機関",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "場との意見交換を通じて、 当社の技術や強みへ",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人ひとりが持つ個性や強み、 そして組織と しての",
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2031年3月期目標 連結売上高 350億円以上 ／ 営業利益率 15％以上 ／ ROE 10％以上",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競合優位性：70年以上の歴史が育んだ、模倣困難な強み",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "損益計算書（PL）から見える安定した高収益性",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "リオンが、それぞれのニッチな市場でトップクラスの地位を維持できる理由は、一朝一夕に築けるものではない、深く、そして強固な競争優位性にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "【全事業共通の強み】",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "【医療機器事業（補聴器）の強み】",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ネット通販や海外の安価な製品には決して真似のできない、リオンの最大の強みであり、顧客との長期的な信頼関係の源泉です",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "【環境機器事業（計測器）の強み】",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "リオンの業績は、派手な急成長こそありませんが、長年にわたり、着実な成長と安定した高収益性を両立させてきた、まさに「質実剛健」という言葉が相応しいものです",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "常に研究開発を続け、最先端の技術を取り入れていかなければ、競争優位性は失われてしまいます",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "鉄壁の財務基盤と安定した事業ポートフォリオは、大きな強みである一方、時として、大胆なリスクを取って飛躍的な成長を目指す、というカルチャーが生まれにくい土壌となる可能性もあります",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "極めて高い参入障壁:",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "社グループでは「売上高350億円以上」、「売上高営業利益率15％以上」及び「自己資本当期純利益率（ＲＯＥ）10％以上」を2031年３月期までに達成すべき経営指標として取り組んでおります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度につきましては、売上高285億円、売上高営業利益率15.3％、自己資本当期純利益率10.1％となり、売上高営業利益率及び自己資本当期純利益率は目標の達成水準を超えております",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後は国内で補聴器、海外で微粒子計測器と環境機器を伸ばし、２０３１年３月期には売上高３５０億円以上、営業利益率15％以上を目指す",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "そこにパナソニックが持つワイヤレス通信などの技術を、補聴器の進化に合わせて組み合わせることで、お互いが持っている技術的強みを相互に生かす、という狙いからスタートしています",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "｢コロナの発熱対策｣ アセトアミノフェンは小児へ―小児科学会、在庫ひっ迫で配慮依頼",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ョンによって新たなビジネスモデルを創出することを中期的な経営方針としております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループが培ってきた日本型ビジネスモデルを輸出するべく、相手国の状況に合わせた取り組みを進め",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て市場ニーズの掘り起こしを進め、新たなビジネスモデルを検討してまいります",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、グループの中期的な経営方針である既存事業の成長と新たなビジネスモデルの創出の実現に向けて、その",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル：医療機関・専門店・ユーザーの循環",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その強さの秘密と、安定した収益を生み出すビジネスモデルの構造、そして未来に向けた成長戦略を、プロの株式アナリストの視点で、深く、そして多角的に解き明かしていきます",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの詳細分析：二つの柱が支える「安定」と「成長」のポートフォリオ",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：景気サイクルの異なる二事業による安定経営",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "このように、**景気の影響を受けにくい安定成長事業（医療機器）**と、**景気拡大の恩恵を享受できる成長事業（環境機器）**という、性格の異なる二つの事業を両輪とすることで、どちらかの事業が不調な時でも、もう一方の事業がカバーする、極めて安定した収益構造を構築しています",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "モノからコトへの流れの中で当社は、全社的活動として市場ニーズの掘り起こしを進め、新たなビジネスモデルを検討してまいります",
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社グループ各社の主な事業に係わる位置づけ及びセグメントとの関連は次のとおりであります",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 主要製品 主な関係会社",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ 主要な事業の内容欄には、セグメントの名称を記載しております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの影響につきまして海外セグメントと国内セグメン",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外セグメントの割合は27％程度となっております",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度における生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 金額(千円) 前期比(％)",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの内訳は次のとおりであります",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 金額(千円)",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容 帳簿価額(千円) 従業員数(名)建物及び",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高構成比",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "はじめに－３事業セグメント",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期 構成比 2026年3月期 構成比 増減額 増減率",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期の推移（事業セグメント別）",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2031年3月期までに達成する主要経営指標 事業セグメント別の市場環境及び事業状況",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント別",
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リオンの事業は、大きく二つのセグメントに分かれています",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "これらの影響につきまして海外セグメントと国内セグメントを比較いたしますと、海外においてリスクの顕在化の可能性はより高くなりますが、国内におきましては、当社の知名度、技術力、業界への影響力などにより比較的競争力が高いことから、リスクが顕在化する可能性はより低く、安定的に推移するものと認識しております",
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、更なる業容拡大に向けて海外市場の開拓を進めており、当連結会計年度における売上高のうち、海外セグメントの割合は27％程度となっております",
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ各社の主な事業に係わる位置づけ及びセグメントとの関連は次のとおりであります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「微粒子計測器事業」、「医療機器事業」及び「環境機器事業」の３つを報告セグメントとし、「微粒子計測器事業」では微粒子計測器の製造販売等、「医療機器事業」では補聴器、医用検査機器の製造販売等、「環境機器事業」では音響・振動計測器の製造販売等を行っております",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "２ 報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」と同一であります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は連結財務諸表の営業利益と一致し、報告セグメントの資産は連結財務諸表の資産合計と一致しております",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額に関する情報",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 「調整額」の区分は各報告セグメントに配分していない全社資産であります",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "関連するセグメント名",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "同事業は５年前のセグメント売上51億７２００万円から、前期までに約２倍に伸びている",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント割合は売上ベースでは、微粒子計測器事業が34％、医療機器事業が45％、環境機器事業が21％なのに対して、営業利益ベースでは、同69％、27％、４％となる",
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【徹底解剖】 リオン (6823) - 「聞こえ」と「安全」、二大社会 ... — 【徹底解剖】 リオン (6823) - 「聞こえ」と「安全」、二大社会 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 【6823】のリスク・配当 - キタイシホン — リオン 【6823】のリスク・配当 - キタイシホン キタイシホン https://kitaishihon.com > company > management-strategy",
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 株式会社｜企業情報： リオン の理念 — リオン 株式会社｜企業情報： リオン の理念 リオン株式会社 https://www.rion.co.jp > corporate > philosophy",
+    "url": "https://www.rion.co.jp/corporate/philosophy.html",
+    "pass": 3
+   },
+   {
+    "quote": "リオン （精密機器）の「企業分析［強み・弱み・展望 ... — リオン （精密機器）の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > リオン（精密機器）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrRK&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 リオン 株式会社の年収はどれくらい？平均年収 ... — 【2026年版】 リオン 株式会社の年収はどれくらい？平均年収 ... 株式会社ミギナナメウエ https://migi-nanameue.co.jp > Home > コラム",
+    "url": "https://migi-nanameue.co.jp/column/rion-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報：IRライブラリ／ 決算説明 会 資料 - リオン — IR・投資家情報：IRライブラリ／ 決算説明 会 資料 - リオン リオン株式会社 https://www.rion.co.jp > library > library06",
+    "url": "https://www.rion.co.jp/ir/library/library06.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - リオン 株式会社｜IR・投資家情報：IRライブラリ — 決算 短信 - リオン 株式会社｜IR・投資家情報：IRライブラリ リオン株式会社 https://www.rion.co.jp > library > library01",
+    "url": "https://www.rion.co.jp/ir/library/library01.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - リオン株式会社｜IR・投資家情報 — IRライブラリ - リオン株式会社｜IR・投資家情報 リオン株式会社 https://www.rion.co.jp > library",
+    "url": "https://www.rion.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 | インフキュリオン - Infcurion, Inc. — 決算 関連 資料 | インフキュリオン - Infcurion, Inc. Infcurion https://ir.infcurion.com > ... > Latest IR Materials",
+    "url": "https://ir.infcurion.com/latest-ir-materials/financial-results-and-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 株式会社 — リオン 株式会社 リオン株式会社 PDF https://www.rion.co.jp > library > pdf > news_180629",
+    "url": "https://www.rion.co.jp/ir/library/pdf/news_180629.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 【6823】の 事業 内容 - キタイシホン — リオン 【6823】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6823/business",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 株式会社｜企業情報： 事業 案内 — リオン 株式会社｜企業情報： 事業 案内 リオン株式会社 https://www.rion.co.jp > corporate > business",
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 リオン サービスセンター株式会社 新体制図 】 — 【 リオン サービスセンター株式会社 新体制図 】 リオンサービスセンター株式会社 PDF https://www.rion-service.co.jp > uploads > 2021/04",
+    "url": "https://www.rion-service.co.jp/wp/wp-content/uploads/2021/04/20210401_Organizational_changes.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リオン の企業情報 - 6823 / プライム / 電気機器 — リオン の企業情報 - 6823 / プライム / 電気機器 バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/6823/",
+    "pass": 3
+   },
+   {
+    "quote": "岩橋清勝・ リオン社長 に聞く 認知症予防に 補聴器が果たす ... — 岩橋清勝・ リオン社長 に聞く 認知症予防に 補聴器が果たす ... メディカルノート https://medicalnote.jp > nj_articles",
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "pass": 3
+   },
+   {
+    "quote": "10月17日発売「株主手帳」2025年11月号に当社が紹介され ... — 10月17日発売「株主手帳」2025年11月号に当社が紹介され ... リオン株式会社 https://www.rion.co.jp > news > 2025/10 > news-251017",
+    "url": "https://www.rion.co.jp/news/2025/10/news-251017.html",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 株式会社 代表取締役 社長 清水 健一さん - 法政大学 — リオン 株式会社 代表取締役 社長 清水 健一さん - 法政大学 法政大学 https://www.hosei.ac.jp > koho > pickup > ob-og",
+    "url": "https://www.hosei.ac.jp/koho/pickup/ob-og/2017/171017?auth=9abbb458a78210eb174f4bdd385bcf54",
+    "pass": 3
+   },
+   {
+    "quote": "リオン 株式会社｜ニュースリリース — リオン 株式会社｜ニュースリリース リオン株式会社 https://www.rion.co.jp > news > 2024/08 > news-240830",
+    "url": "https://www.rion.co.jp/news/2024/08/news-240830.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rion.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/notification.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/disclosure_policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/recruit/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/navi/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/news/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rion.co.jp/ir/pdf/teikan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/pdf/rule.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/pdf/profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/news_261029_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/news_260624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/result_105.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/ir/library/news_260518.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rion.co.jp/corporate/images/img_business_08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6823/management-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6823/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リオン",
+   "results": [
+    "https://www.rion.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AA%E3%83%B3",
+    "http://cus4.rion-jpn.com/rion210518/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "https://www.instagram.com/rion_qq/",
+    "https://ja.wikipedia.org/wiki/リオン",
+    "https://www.rion.co.jp/product/",
+    "https://particle.rion.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6823",
+    "https://particle.rion.co.jp/english/",
+    "https://rion-sv.com/"
+   ]
+  },
+  {
+   "query": "リオン ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "https://kitaishihon.com/company/6823/management-strategy",
+    "https://www.rion.co.jp/corporate/philosophy.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrRK&q_no=9",
+    "https://migi-nanameue.co.jp/column/rion-salary-average-2026/",
+    "https://kitaishihon.com/company/6823/human-capital",
+    "https://dempa-digital.com/article/179391",
+    "https://shikiho.toyokeizai.net/news/0/691233",
+    "https://consovation.com/ビジネスモデルを徹底解剖-リオン株式会社が描く/",
+    "https://www.rion.co.jp/"
+   ]
+  },
+  {
+   "query": "リオン 決算説明資料",
+   "results": [
+    "https://www.rion.co.jp/ir/library/library06.html",
+    "https://www.rion.co.jp/ir/library/library01.html",
+    "https://www.rion.co.jp/ir/library/",
+    "https://ir.infcurion.com/latest-ir-materials/financial-results-and-materials/",
+    "https://www.visional.inc/ja/ir/library/presentation.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6823",
+    "https://www.irrc.co.jp/ir/library/presentation.html",
+    "https://edinetdb.jp/company/E01842/ir-docs/",
+    "https://kitaishihon.com/company/6823/ir-library",
+    "https://treelazy.com/stock-jp/6823/conference"
+   ]
+  },
+  {
+   "query": "リオン 事業系統図",
+   "results": [
+    "https://www.rion.co.jp/ir/library/pdf/news_180629.pdf",
+    "https://kitaishihon.com/company/6823/business",
+    "https://www.rion.co.jp/corporate/business.html",
+    "https://www.rion-service.co.jp/wp/wp-content/uploads/2021/04/20210401_Organizational_changes.pdf",
+    "https://www.buffett-code.com/company/6823/",
+    "https://edinetdb.jp/company/E01842/midterm-plans/",
+    "https://www.rion.co.jp/ir/library/jreport_105.pdf",
+    "https://www.saa.or.jp/dc/event/apps/company/CompanyBriefingSummaryShowList.do?goExec=&evtId=019211",
+    "https://note.com/tatsuya_sabato/n/n3fcfa12800bd",
+    "https://www.rion.co.jp/"
+   ]
+  },
+  {
+   "query": "リオン 社長 インタビュー",
+   "results": [
+    "https://www.kabutecho.com/interview/%EF%BC%93%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%B5%8C%E5%96%B6%E3%81%A7%E6%A5%AD%E7%B8%BE%E5%A5%BD%E8%AA%BF-%E3%80%8C%E7%A4%BE%E4%BC%9A%E8%B2%A2/",
+    "https://medicalnote.jp/nj_articles/240809-001-HV",
+    "https://www.rion.co.jp/news/2025/10/news-251017.html",
+    "https://www.hosei.ac.jp/koho/pickup/ob-og/2017/171017?auth=9abbb458a78210eb174f4bdd385bcf54",
+    "https://www.rion.co.jp/news/2024/08/news-240830.html",
+    "https://dempa-digital.com/article/300026",
+    "https://www.nikkan.co.jp/articles/view/00449302",
+    "https://txbiz.tv-tokyo.co.jp/gulliver/vod/post_248267",
+    "https://www.instagram.com/p/DNxKvOWQjCz/",
+    "https://www.nikkei.com/article/DGXZQODZ00003_Q5A130C2000000/"
+   ]
+  }
+ ],
+ "missing": {}
+}

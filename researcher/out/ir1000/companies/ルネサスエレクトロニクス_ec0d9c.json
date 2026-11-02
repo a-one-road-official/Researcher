@@ -1,0 +1,1680 @@
+{
+ "name": "ルネサスエレクトロニクス",
+ "aliases": [],
+ "context": "証券コード6723／電気機器／プライム（内国株式）／2025.12期 売上高1,321,212百万円 営業利益率15.2%",
+ "researched_at": "2026-11-02T18:53:24.571935+00:00",
+ "official_url": "https://www.renesas.com/",
+ "identified_by": "search:yahoo_jp:ルネサスエレクトロニクス",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "3,723 4,053 4,352",
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "3,088 3,246 3,342 3,509",
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "7,565 7,182 7,157 9,944 15,027 14,697 13,485 13,185",
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "4,352 100.0 12,128 100.0",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "4,359 100.0 12,347 100.0",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026",
+    "pass": 1
+   },
+   {
+    "label": "売上収益段階までの調整項目（注④）",
+    "value": "7 219",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "1兆5008億円",
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車と、IoT",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "半導体製品の設計・製造販売",
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2002年11月",
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2万1017人（2022年12月末、連結）",
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "半導体および組み込みシステムソリューション | Renesas ルネサス",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "製品の詳細を見る",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "高力率・低THD対応の デジタル2段コンボ（PFC＋降圧）コントローラ（産業用調光照明ソリューション向け、250W対応）",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "アナログ、パワー、エンベデッド プロセッシング、コネクティビティによるトータルソリューション",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソリューションの最新情報をメールでお届けします",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "全製品リスト",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスはこれまでの経験を活かし、防衛、高信頼性（Hi-Rel）、耐放射線（rad-hard）、および宇宙用途向けに、高効率かつ熱性能に優れたSMD製品、MIL-STD-883準拠製品、Class-V/Q製品を提供しています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "年4回発行のHi-Rel（高信頼性）ニュースレターにご登録いただくと、ルネサスの最新のHi-Rel（高信頼性）製品やリソース情報をお届けします",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "製品ポートフォリオ",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "苛酷な環境下における最新通信システム向け RF ソリューション",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "CANトランシーバやESD保護付き送受信器などのインタフェース製品",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙、航空宇宙、防衛アプリケーション向けの信頼性の高いデジタル製品",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "苛酷な環境で要求される厳しい電圧精度を実現する製品",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "超高信頼性SMD、/883、Class-V/Q製品",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは、軍事・航空宇宙産業の主要サプライヤーとして、苛酷な環境下でも最高水準の信頼性と性能を備えた豊富な製品設計のな経験を活かしています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスの製品は、ほとんどの人工衛星に搭載されています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスの耐放射線SMD製品はすべてMIL-PRF-38535/QMLに準拠し、バーンイン試験に100%合格しています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙および苛酷な環境向けに、耐放射線およびシングルイベント効果（SEE）Class-V（宇宙グレード）に準拠した幅広い製品をラインアップしています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスの耐放射線性プラスチックパッケージICは、高速インターネット接続などのソリューションを世界中のコミュニティ、政府、企業などに提供する小型衛星という新しい分野をサポートするように設計されています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "軍事、航空宇宙、その他の苛酷な環境用途向けに、高性能なアナログ、デジタル、パワーマネジメント製品を提供しています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "SMD製品はハーメチックパッケージを採用しており、-55°C～+125°Cの性能を保証、MIL-PRF-38535に準拠し、バーンイン試験に100%合格しています",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "すべての耐放射線製品がClass-V（宇宙グレード）に完全準拠",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "すべての製品でDLA SMD設計図が利用可能",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙製品パンフレット",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソリューションの最新情報をメールでお届けします",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤレスコネクティビティ製品 ー 先進のワイヤレステクノロジーソリューション | Renesas ルネサス",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "全製品リスト",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "当社のソリューションは、堅牢でスケーラブルなシステムの構築を可能にし、比類のない信頼性と効率性で世界をつなぎます",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、IoTや産業用からスマートインフラや民生用電子機器に至るアプリケーション向けに、業界をリードするMCUやMPUと互換性のある統合無線接続ソリューションを提供しています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤレスイノベーションのリーダーである当社は、超低消費電力Wi-Fiソリューション、卓越した出力パワーを持つ高感度NFCテクノロジー、豊富な機能を満載した先進のBluetooth® Low Energy（LE）SoCおよびモジュールを提供しています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "製品ポートフォリオ",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "省電力なBluetooth Low Energy SoCソリューションは、幅広い用途に高性能かつシームレスな統合を実現します",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "世界中で利用可能なDECT 1.9GHzの干渉の少ない周波数帯に対応し、幅広い産業分野で使用できる信頼性の高いICソリューション",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "信頼性の高いWi-Fi、NFC、Bluetooth Low Energyソリューションを使用して 、照明、HVACシステム、セキュリティカメラ、スマートロック などをシームレスに制御できます",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "当社のLocationing 2.0は、高度なBluetooth、NFC、Wi-Fi技術を組み合わせ、正確で信頼性が高く、コスト効率の高いトラッキングソリューションを実現しています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスのLocationing 2.0ソリューションは、高度なBluetooth Low EnergyおよびNFC技術により、電動自転車のセキュリティとフリート管理を強化し、リアルタイムの追跡、盗難防止、シームレスなユーザーアクセス制御を可能にします",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスのコネクティビティ製品が、スマートで機能豊富なパーソナルデバイスやウェアラブルデバイスのために、どのようにスペースの制限を抑え、電力消費を最小限に抑えることができるかご覧ください",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "このブログでは、EV充電インフラストラクチャの高度な接続性が、効率的かつ信頼性の高いシームレスな充電ソリューションを提供することで、ユーザーエクスペリエンスを向上させ、電気自動車の導入促進にどのように役立つかについて説明しています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティビティのロックを解除する: ワイヤレス ソリューションのガイド",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤレスコネクティビティがソリューションの鍵を握る",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "長期製品供給プログラム(PLP)",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイクルの長いアプリケーション向けに、最適な製品をお選びください",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソリューションの最新情報をメールでお届けします",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは、無線システム、ワイヤレスアクセス機器、および通信機器向けの電源アーキテクチャ向けに設計されたパワーマネジメント、RF、アナログソリューションにより、こうしたインフラを支えています",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "CPEおよび固定無線アクセス向けに設計されたソリューションにより、5Gネットワークとエンドデバイス間の高速かつ信頼性の高い接続を実現します",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "高密度なソリューションにより、設置スペースが限られた無線機器向けの電源設計を可能にし、発熱と実装面積の低減に貢献します",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "効率的で信頼性の高いパワーマネジメントを実現する、低電圧から高電圧までの幅広い電源ICソリューション",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Bluetooth、Wi-Fi、NFC 対応ワイヤレス通信ソリューション",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソリューションの最新情報をメールでお届けします",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサス エレクトロニクスは地球環境保全に配慮し、環境にやさしい製品を提供します",
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "ツール製品のRoHS指令対応状況",
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "RoHS簡易証明書 (製品別)",
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "（インターシル製品のみ）",
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソリューションの最新情報をメールでお届けします",
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスPSIRT（ルネサス製品セキュリティインシデント対応チーム）は、ルネサス製品に生じる可能性のあるセキュリティ問題（インシデントおよび脆弱性）に対応するために組織されています",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは、当社製品に潜在するセキュリティ問題に積極的に取り組んでいきます",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "当社はそのプロセスの一環として、ルネサス製品のセキュリティ問題専用の問い合わせ窓口を設置しました",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは、CERTが定める協調的脆弱性情報開示（Coordinated Vulnerability Disclosure : CVD）に基づき、影響を受ける製品のセキュリティアドバイザリを提供しています",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "バージョンまたはリビジョン番号を含むハードウェア／ソフトウェア製品名",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "pass": 1
+   },
+   {
+    "quote": "Bluetooth Low Energy、Wi-Fi、NFC テクノロジーを紹介しています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望の製品が直接購入できない場合は、世界中の多くの販売店を通じて購入することも可能です",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "以下、ルネサスから直接購入できる製品の一部をご紹介します",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about",
+    "pass": 1
+   },
+   {
+    "quote": "先進的な半導体ソリューションを提供する当社の事業を紹介しています",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "当社のリーダーシップ＆ガバナンス体制を紹介しています",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "海外・国内の事業所、販売会社、設計・製造会社を紹介しています",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "サステナビリティ基本方針と日常の業務遂行において具体的に遵守すべき事項を紹介しています",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "サステナビリティ・環境・イノベーション・製品などの実績を紹介します",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "健康データをトラッキングし、外出先での支払い処理も可能な、洗練されたスマートリングを開発するまでの取り組みをご紹介します",
+    "url": "https://www.renesas.com/ja/about/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Capital Market Day 2026の前半では、事業見通し、財務戦略、営業戦略、およびSoftware-Defined Vehicle（SDV）戦略をご紹介しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "Capital Market Day 2026の後半では、ルネサスのEmbedded Processing & Digitalization Strategy、Intelligence at the Edge、およびAI Infra & Computeに関する取り組みを紹介しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "本動画では、2026年3月25日に開催された第24期定時株主総会の要点をご紹介します",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、主要市場の動向、顧客需要のパターン、オペレーションの最新状況が紹介されています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "Capital Market Day 2026の前半では、事業見通し、財務戦略、営業戦略、およびSoftware-Defined Vehicle（SDV）戦略をご紹介しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Capital Market Day 2026の後半では、ルネサスのEmbedded Processing & Digitalization Strategy、Intelligence at the Edge、およびAI Infra & Computeに関する取り組みを紹介しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "本動画では、2026年3月25日に開催された第24期定時株主総会の要点をご紹介します",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、主要市場の動向、顧客需要のパターン、オペレーションの最新状況が紹介されています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/investor-relations/stock/stock-information",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/applications/industrial/appliances/multi-functional-cordless-drill-wire-detection",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-announces-consolidated-forecasts-2026-10-29",
+    "pass": 1
+   },
+   {
+    "quote": "実際のお見積りについては、最寄りの弊社営業担当または販売代理店までお問い合わせください",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "充実したパートナーエコシステムにより開発効率を向上",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-launches-rx74m-and-rx74n-flagship-32-bit-mcus-first-rx-family-built-22nm-process-and",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは、エコシステムパートナーと連携し、RX74M／RX74N用のソリューションを提供することで、設計期間の短縮に貢献します",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-launches-rx74m-and-rx74n-flagship-32-bit-mcus-first-rx-family-built-22nm-process-and",
+    "pass": 1
+   },
+   {
+    "quote": "その他のパートナーについては、",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-launches-rx74m-and-rx74n-flagship-32-bit-mcus-first-rx-family-built-22nm-process-and",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-launches-rx74m-and-rx74n-flagship-32-bit-mcus-first-rx-family-built-22nm-process-and",
+    "pass": 1
+   },
+   {
+    "quote": "営業所・代理店",
+    "url": "https://www.renesas.com/ja/about/sustainability/report2025",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "強化保護機能とIO-Linkスタックライセンスを内蔵したシングルチャネルIO-Link PHYマスター／デバイストランシーバ",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "（注2）参考価格は、10,000個購入時の想定単価（米ドル）であり、あくまで参考用です",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "② 顧客単価（シェア・オブ・ウォレット）の向上：",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年の16ビットMCU市場でNo.1を獲得したルネサスエレクトロニクスは、新たなRL78/G21とRL78/G23により、スマート家電などの省電力化とシステムコスト低減を実現します",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 決算概要",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月17日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.renesas.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月27日",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月6日",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月9日",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月8日",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月31日",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 統合報告書",
+    "url": "https://www.renesas.com/ja/about",
+    "pass": 1
+   },
+   {
+    "quote": "2002年11月1日（営業開始日 2010年4月1日）",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 統合報告書",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2025年の実績と持続可能な未来に向けた取り組みをまとめた最新レポートを是非ご覧ください",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月、",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までにスコープ1およびスコープ2の温室効果ガス排出量を38%削減する (2021年比)",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月30日",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月27日",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日",
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 決算概要",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月6日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月2日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月23日",
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表を10月29日(木) 9時に予定しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 決算概要",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の事業報告および業績概要に加え、車載・産業分野を中心とした中長期成長戦略、研究開発やM&Aを通じた競争力強化、サステナビリティおよびコーポレート・ガバナンスへの取り組みについて説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の事業報告および業績概要に加え、車載・産業分野を中心とした中長期成長戦略、研究開発やM&Aを通じた競争力強化、サステナビリティおよびコーポレート・ガバナンスへの取り組みについて説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（2026年12月期）スケジュール",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（2026年12月期）",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月24日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（2025年12月期）",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月25日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月5日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 通期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月25日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第2四半期決算発表",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月26日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月24日",
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "エネルギー効率、利便性、セキュリティを強化しながら、他に類をみないユーザーエクスペリエンスを提供します",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスのLocationing 2.0ソリューションは、高度なBluetooth Low EnergyおよびNFC技術により、電動自転車のセキュリティとフリート管理を強化し、リアルタイムの追跡、盗難防止、シームレスなユーザーアクセス制御を可能にします",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "このブログでは、EV充電インフラストラクチャの高度な接続性が、効率的かつ信頼性の高いシームレスな充電ソリューションを提供することで、ユーザーエクスペリエンスを向上させ、電気自動車の導入促進にどのように役立つかについて説明しています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のサクセスストーリ",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "Feasycom や Princess Cruise Lines などの企業がルネサスを活用して IoT を革新し、ユーザー エクスペリエンスを向上させています",
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "大規模MIMO無線機やリモートラジオユニット（RRU）から、固定無線アクセス（FWA）、顧客宅内機器（CPE）まで、ルネサスの技術は、システム効率と信頼性を向上させながら、開発の加速に貢献します",
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、リスクを最小限に抑えながら脆弱性に対処し、ユーザーが自社のシステムのリスク評価ができる情報を提供します",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "お客様保護の観点から、ルネサスPSIRTとの事前の調整なしに、この脆弱性に関する情報を他の個人や組織と共有しないようお願いします",
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、世界中のお客様のご要求を確実に満たすために、多くの製品でデュアルソースによる生産を行っています",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との取り組み",
+    "url": "https://www.renesas.com/ja/about",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、世界中のお客様の進化するニーズに応えると同時に、デジタライゼーションを通じてユーザエクスペリエンスを充実化させ、イノベーションを推進しています",
+    "url": "https://www.renesas.com/ja/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の成功事例 | Renesas ルネサス",
+    "url": "https://www.renesas.com/ja/about/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "イノベーション・インサイト - お客様の成功事例",
+    "url": "https://www.renesas.com/ja/about/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤレス接続 お客様のサクセスストーリ",
+    "url": "https://www.renesas.com/ja/about/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて、主要市場の動向や顧客需要、オペレーションの最新状況、今後の成長に向けた戦略的取り組みについて、経営陣が詳しく説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて、主要市場の動向や顧客需要、オペレーションの最新状況、2026年の成長に向けた戦略的取り組みについて、経営陣が詳しく説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、主要市場の動向、顧客需要のパターン、オペレーションの最新状況が紹介されています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、世界中のお客様の進化するニーズに応えると同時に、デジタライゼーションを通じてユーザエクスペリエンスを充実化させ、イノベーションを推進しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて、主要市場の動向や顧客需要、オペレーションの最新状況、2026年の成長に向けた戦略的取り組みについて、経営陣が詳しく説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、主要市場の動向、顧客需要のパターン、オペレーションの最新状況が紹介されています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、世界中のお客様の進化するニーズに応えると同時に、デジタライゼーションを通じてユーザエクスペリエンスを充実化させ、イノベーションを推進しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "このエネルギ効率が高くインテリジェントなコードレスドリルのデザインには、壁内電線検出機能に加えて、穴あけ角度(垂直/水平/任意の角度)、プラスチック材料のRPM制限、機械スイッチの代替としてのトルク制限、距離測定、スマートフォンへのBluetooth Low Energy(LE)接続による簡単なユーザーセットアップ、電線検出のオプションの触覚表示などの追加のプログラム可能な機能が含まれています",
+    "url": "https://www.renesas.com/ja/applications/industrial/appliances/multi-functional-cordless-drill-wire-detection",
+    "pass": 1
+   },
+   {
+    "quote": "実際の業績等に影響を与えうる重要な要因としては、（1）ルネサス エレクトロニクスグループの事業領域を取り巻く日本、北米、アジア、欧州等の経済情勢、（2）市場におけるルネサス エレクトロニクスのグループ製品、サービスに対する需要動向や競争激化による価格下落圧力、（3）激しい競争にさらされた市場においてルネサス エレクトロニクスグループが引き続き顧客に受け入れられる製品、サービスを供給し続けていくことができる能力、（4）為替レート（特に米ドルと円との為替レート）の変動等がありますが、これら以外にも様々な要因がありえます",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026",
+    "pass": 1
+   },
+   {
+    "quote": "実際の業績等に影響を与えうる重要な要因としては、（1）ルネサス エレクトロニクスグループの事業領域を取り巻く日本、北米、アジア、欧州等の経済情勢、（2）市場におけるルネサス エレクトロニクスのグループ製品、サービスに対する需要動向や競争激化による価格下落圧力、（3）激しい競争にさらされた市場においてルネサス エレクトロニクスグループが引き続き顧客に受け入れられる製品、サービスを供給し続けていくことができる能力、（4）為替レート（特に米ドルと円との為替レート）の変動等がありますが、これら以外にも様々な要因がありえます",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-announces-consolidated-forecasts-2026-10-29",
+    "pass": 1
+   },
+   {
+    "quote": "RL78/G21は効率的なシステム制御に最適化し、RL78/G23はシステム制御機能とユーザーインタフェース機能を1つのマイコンに統合することで、システムのBOMコスト（部品コスト）低減に貢献します",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "RL78ファミリは15年以上にわたり、幅広い用途で世界中のユーザーから信頼を得ています",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは、RL78、RX、RAの各ファミリ向けにタッチ周辺機能とQE for Capacitive Touchツールを提供しており、シンプルなユーザーインタフェースから高度なグラフィックス表示まで、スケーラブルなHMI開発を実現します",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "「家電メーカーは、コストや消費電力を増やすことなく、より高度な機能、優れたユーザー体験、強固なセキュリティを実現することを求めています",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "RL78/G21の超低消費電力性能と強化したセキュリティ、RL78/G23の拡張されたタッチ機能により、ユーザーはシステム制御とHMIの要件に適したマイコンを選択し、より省エネで信頼性に優れたスマート家電を迅速に市場投入できます",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "を次々と成功させ、単なる「部品（マイコン）メーカー」から、顧客のあらゆる課題を解決する**「総合半導体ソリューションプロバイダー」**へと、その姿を劇的に変貌させたのです",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "この危機的状況を救ったのが、官民ファンドである**産業革新機構（現・INCJ）**と、トヨタ自動車、デンソーといった、主要顧客による大規模な出資でした",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "それは、顧客に対する**「価値の提供方法」そのものを、180度変える**ための、壮大な戦略だったのです",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は、ルネサスからマイコンを買い、別の会社から、電源を管理するアナログ半導体を買い、さらにまた別の会社から、センサーを買い…と、様々な部品を個別に調達し、それらを自分たちで組み合わせて、一つのシステム（ECU：電子制御ユニットなど）を開発していました",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルでは、ルネサスは、顧客のシステムの一部しか担っておらず、得られる収益も、マイコンの部品代だけに限られていました",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "これは、顧客が、新しい製品（例えば、自動車の先進運転支援システム（ADAS）や、工場のロボットなど）を開発しようとする際に、必要となる複数の半導体を、ルネサスが、**予め、最適に組み合わせて検証した「レシピ（参照設計）」**として、提供するソリューション提案です",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は、この「レシピ」を使うことで、部品選定や、互換性の検証といった、",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "この提案をすることで、顧客は、中核部品であるマイコンだけでなく、それに付随する、電源ICや、センサー、通信チップといった、",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "② 顧客単価（シェア・オブ・ウォレット）の向上：",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、顧客の部品購入予算に占める、ルネサス製品の割合（シェア・オブ・ウォレット）が、飛躍的に向上します",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "③ 顧客との関係深化（ロックイン）：",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は、ルネサスのソリューションに深く依存するようになり、簡単には他社製品に乗り換えられなくなります（ロックイン効果）",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、ルネサスは、顧客が「どんな製品を作ろうか」と考える、",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "開発プロセスの、まさに”最上流”の段階から、顧客と関わる",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "この、顧客の開発を、根底から支援する「ソリューション提案力」こそが、グローバルな競争を勝ち抜くための、ルネサスの最大の武器となっているのです",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "これらを、最適に組み合わせ、動作検証済みの「レシピ」として提供することで、顧客は、ゼロからシステムを開発する手間を、大幅に省くことができるのです",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、旧Dialog社の営業網を通じて、ルネサスのマイコンを販売したり、逆に、ルネサスの顧客に、旧IDT社のセンサー製品をクロスセルしたり、といったシナジーを、組織の隅々で、徹底的に追求していきます",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "「**『ウィニング・コンビネーション』という、独自のソリューション提案力**」：単なる部品売りから脱却し、高い付加価値と、顧客囲い込み効果を生む、優れたビジネスモデルを確立している",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサスが描く2035年 「AIがユーザーになる時代」の成長戦略：AIインフラ、フィジカルAI、エッジの3段階で（1/3 ページ） - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサスが描く2035年 「AIがユーザーになる時代」の成長戦略",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "pass": 3
+   },
+   {
+    "quote": "柴田氏は「もちろん売上高や市場シェアという指標もあるが、一番大切なのはユーザーから見て『エンベデッドといえばこの3社』という中に必ず入ることだ」と説明した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が半導体に使う金額の中のより多くの部分を取れるようにすることを積み重ねてきました",
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫製品をリアルタイム表示",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "在庫のある直接購入可能な製品の横には、",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "ご注文送信後、最新在庫状況を元に製品発送準備をいたします",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "をクリックすると、購入可能な在庫と価格が表示されます",
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "pass": 1
+   },
+   {
+    "quote": "持続的な成長に向けた取り組み、構造的成長ドライバー、ならびにSDV分野におけるルネサスの強みを活かした統合ソリューションの提供についてご説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "持続的な成長に向けた取り組み、構造的成長ドライバー、ならびにSDV分野におけるルネサスの強みを活かした統合ソリューションの提供についてご説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益・売上総利益率",
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益・売上高営業利益率",
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループの恒常的な経営成績の理解に有用な情報を提供するために、財務会計上の数値（IFRS）から企業買収などに関係した非経常的な項目やその他一過性の利益や損失を一定のルールに基づいて控除もしくは調整した「Non-GAAPベース」にて売上収益・売上総利益率・営業利益率を開示しております",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-announces-consolidated-forecasts-2026-10-29",
+    "pass": 1
+   },
+   {
+    "quote": "なお、売上総利益率および営業利益率は、売上収益予想の中間値により算出しております",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-announces-consolidated-forecasts-2026-10-29",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-announces-consolidated-forecasts-2026-10-29",
+    "pass": 1
+   },
+   {
+    "quote": "「RL78/G21とRL78/G23は、RL78ファミリで実証された強みを基盤に、低消費電力性能、信頼性、セキュリティ機能を備えています",
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "pass": 1
+   },
+   {
+    "quote": "半導体市場ではAI関連の需要が拡大し始める一方、その他の分野では在庫調整や需要低迷の影響が継続しました",
+    "url": "https://www.renesas.com/ja/about/sustainability/report2025",
+    "pass": 1
+   },
+   {
+    "quote": "最大の強みであり、収益の柱",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率の劇的な改善",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "高収益なアナログ事業の取り込み：",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "この高収益事業が、ルネサス全体の利益率を、構造的に押し上げました",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサスの最大の強みは、前述した**「ウィニング・コンビネーション」**です",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みである、高性能なマイコン/SoC（頭脳）と、M&Aで獲得した、多様なアナログ・パワー半導体（手足や神経）を、",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "半導体市場は、好況（需要逼迫・価格上昇）と、不況（需要減退・在庫過剰）の波を、数年周期で繰り返す「シリコンサイクル」に、大きく左右されます",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "「25％」とは、足元で意識する営業利益率だ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサスは現在、営業利益率25〜30％のオペレーティングモデルを念頭に置きながら、将来の成長に必要な投資を進める「キャッチアップ」の局面にあるとしている",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ルネサスは2026年12月期第3四半期決算説明会において、売上動向や収益性、事業セグメント別の業績を報告しました",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは2026年12月期第2四半期決算説明会において、売上動向や収益性、事業セグメント別の業績を報告しました",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは2026年12月期第1四半期決算説明会において、売上動向や収益性、事業セグメント別の業績を報告しました",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "経営陣より、売上の動向、収益性、事業セグメント別のパフォーマンス、2026年の当社の方向性を導く戦略的取り組みについて詳しくご説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは2026年12月期第2四半期決算説明会において、売上動向や収益性、事業セグメント別の業績を報告しました",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスは2026年12月期第1四半期決算説明会において、売上動向や収益性、事業セグメント別の業績を報告しました",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "経営陣より、売上の動向、収益性、事業セグメント別のパフォーマンス、2026年の当社の方向性を導く戦略的取り組みについて詳しくご説明しています",
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "pass": 1
+   },
+   {
+    "quote": "現在のルネサスの事業は、大きく2つのセグメントで構成されています",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社グループは、「2035 Aspiration」の達成に向け、「Back to Basics」を徹底し、事業基盤の強化と成長分野への投資を加速するとともに、長期的視点で持続可能なビジネスモデルの確立を目指してまいります",
+    "url": "https://www.renesas.com/ja/about/sustainability/report2025",
+    "pass": 1
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】「単品売り」から、「ソリューション提案」への、劇的転換",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "旧ルネサスのビジネスモデル：「単品売り」の限界",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "”新生”ルネサスのビジネスモデル：「ウィニング・コンビネーション」という、勝利の方程式",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサスの復活劇の核心は、このビジネスモデルの、根本的な転換にあります",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "そして、これらの多様な製品群を武器に、新たなビジネスモデル**「ウィニング・コンビネーション（Winning Combination）」**を、強力に推進しています",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "この、「単品売り」から「ソリューション提案」へ、そして「ハード」から「ソフト」までを統合する、という劇的なビジネスモデルの転換こそが、”新生”ルネサスの、成長の核心なのです",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   },
+   {
+    "quote": "「**『ウィニング・コンビネーション』という、独自のソリューション提案力**」：単なる部品売りから脱却し、高い付加価値と、顧客囲い込み効果を生む、優れたビジネスモデルを確立している",
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "[生成AI分析] ルネサスエレクトロニクス (株) - MarkLines — [生成AI分析] ルネサスエレクトロニクス (株) - MarkLines Automotive Industry Portal MarkLines https://www.marklines.com > top500 > renesas-electronics",
+    "url": "https://www.marklines.com/ja/top500/renesas-electronics",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサスエレクトロニクス のIR 資料 - 6723 / プライム / 電気機器 — ルネサスエレクトロニクス のIR 資料 - 6723 / プライム / 電気機器 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6723/library",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサス エレクトロニクス /RENESAS — ルネサス エレクトロニクス /RENESAS セミコンブレーン http://www.semiconbrain.com > cgi-bin > search > yomi",
+    "url": "http://www.semiconbrain.com/cgi-bin/search/yomi.cgi?mode=kt&kt=01_01",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 柴田英利 ルネサスエレクトロニクス社長 — 編集長 インタビュー 柴田英利 ルネサスエレクトロニクス社長 週刊エコノミスト https://www.weekly-economist.com > shibata_hidetoshi",
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサス エレクトロニクス 株式会社 代表取締役 社長 兼 CEO ... — ルネサス エレクトロニクス 株式会社 代表取締役 社長 兼 CEO ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Ed7bO6gLQAc",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー 柴田英利 ルネサスエレクトロニクス社長 兼最高 ... — インタビュー 柴田英利 ルネサスエレクトロニクス社長 兼最高 ... 週刊エコノミスト Online https://weekly-economist.mainichi.jp > articles",
+    "url": "https://weekly-economist.mainichi.jp/articles/20210323/se1/00m/020/053000c",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.renesas.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/products/space-harsh-environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/products/wireless-connectivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/applications/communications-infrastructure/wireless-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/support/environmental/environmental-compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/support/renesas-psirt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/sample-buy/buy-direct",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/investor-relations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/investor-relations/materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/investor-relations/financial-highlights/non-gaap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/investor-relations/stock/stock-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/applications/industrial/appliances/multi-functional-cordless-drill-wire-detection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-announces-consolidated-forecasts-2026-10-29",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-expands-rl78-family-ultra-low-power-16-bit-rl78g21-mcu-optimized-smart-appliance-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/newsroom/renesas-launches-rx74m-and-rx74n-flagship-32-bit-mcus-first-rx-family-built-22nm-process-and",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/ja/about/sustainability/report2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/en/oauth2/default/v1/authorize?client_id=0oa2ixjskq8o2hdJB357&response_type=code&scope=openid%20email%20phone%20profile%20MyRenesasUserInfo&redirect_uri=https%3A//www.renesas.com/openid-connect/renesas_okta&state=P3tMrsg79YaAKHnbOx5K7htZMoy3vMiVkaxQ2jlRaM4&prompt=login",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.cn/zh/oauth2/default/v1/authorize?client_id=0oa2ixjskq8o2hdJB357&response_type=code&scope=openid%20email%20phone%20profile%20MyRenesasUserInfo&redirect_uri=https%3A//www.renesas.cn/openid-connect/renesas_okta&state=HHgK_zGXtRlU72mbWFq-Xcvot5S223hn5tkQr66uE4Y&prompt=login",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.renesas.com/sites/default/files/styles/kachow_banner_424x349/public/media/images/communication-computing-infrastructure-wireless-network-1300x225.jpg?itok=EbMu-miv",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.renesas.com/sites/default/files/media/images/2025-business-and-sustainability-report_0.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.renesas.com/sites/default/files/media/images/sustainability-icon-report.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.renesas.com/sites/default/files/media/images/sustainability-icon-responsibility.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.renesas.com/sites/default/files/media/images/1-5c_0.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.renesas.com/sites/default/files/brightcove/6399148622112.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.renesas.com/sites/default/files/styles/large_image_text_box/public/media/images/green-leaf-circuit-board-image_2.jpg?itok=znV6wyWX",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ルネサスエレクトロニクス",
+   "results": [
+    "https://www.renesas.com/ja?srsltid=AYCX9vIBC1Fb-Mm5F5pl_tsjmfKGu8DJVBTucujBv-Yx5oxuGgz3ljk0",
+    "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%E3%82%B5%E3%82%B9%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/?scode=6723",
+    "https://career.renesas.com/who-we-are",
+    "https://x.com/Renesas_Japan",
+    "https://ja.wikipedia.org/wiki/ルネサスエレクトロニクス",
+    "https://en.wikipedia.org/wiki/Renesas_Electronics",
+    "https://finance.yahoo.co.jp/quote/6723.T",
+    "https://finance.yahoo.co.jp/quote/6723.T/profile",
+    "https://kabutan.jp/stock/?code=6723"
+   ]
+  },
+  {
+   "query": "ルネサスエレクトロニクス ビジネスモデル",
+   "results": [
+    "https://www.renesas.com/ja/about/profile/business?srsltid=AYCX9vJsp8AnTihjfsHnj-VtMYXZo3iJFzkAm5GRm5oV4wy86f7EUhsD",
+    "https://note.com/tatsuya_sabato/n/na42cb3866dcc",
+    "https://mirai-design-company.co.jp/blog/business-model/266.html",
+    "https://www.renesas.com/ja/about/profile/who-we-are?srsltid=AYCX9vLsk9E55IdLduiWjK30YUEL3IqekKipwYe5N2DEjMWq21qwVC2P",
+    "https://www.marklines.com/ja/top500/renesas-electronics",
+    "https://www.renesas.com/ja/about/investor-relations/individual-investors?srsltid=AYCX9vJOr25fPRp4o6FG-MiPUBNQ18YIr7_GMvyoVD0PznA_TSFbeJtX",
+    "https://career.renesas.com/sales-marketing",
+    "https://careerforum.net/ja/event/on2/companylist_68/2898/company_detail/",
+    "https://www.renesas.com/jp/ja/document/ppt/business-breakdown?srsltid=AYCX9vKinG1KfXMG9oBBad4bhpfcw1fXlaQ43kANEYAK8XKEuCLtUJM0",
+    "https://consovation.com/ルネサスエレクトロニクスのビジネスモデルと成/"
+   ]
+  },
+  {
+   "query": "ルネサスエレクトロニクス 決算説明資料",
+   "results": [
+    "https://www.renesas.com/ja/about/investor-relations/materials?srsltid=AYCX9vIZiX9qnYR7Db-dK4310fPAbV2nDA4oxc3iF86cwJsKtigiDM-f",
+    "https://www.renesas.com/ja/about/investor-relations?srsltid=AYCX9vJh5Buejxi2AVUJ15G_jHfhGJy07N9ebYUIxxwN8_oOuh2UOusj",
+    "https://www.renesas.com/ja/about/investor-relations/financial-reports/earnings-reports?srsltid=AYCX9vLLh7JtvlX7t9wbun_QpkxM1jMq6tf9EN8Yq1gDclVOh0IZWkkZ",
+    "https://www.renesas.com/ja/about/investor-relations/events/financial-calendar?srsltid=AYCX9vKIHBb86nyibqVhRKVjZuhAXsjDZONu79s6KQ0sU4488qxal2ti",
+    "https://www.buffett-code.com/company/6723/library",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6723",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261028557723/",
+    "https://kaijiwire.jp/companies/8020001075701",
+    "https://ufocatch.com/document/TD2026102900014",
+    "https://irbank.net/6723/ir"
+   ]
+  },
+  {
+   "query": "ルネサスエレクトロニクス 事業系統図",
+   "results": [
+    "https://www.renesas.com/ja/about/profile?srsltid=AYCX9vKzZNOuwx11PUXlI-pl7Oy7cBY1iIk3k1KHVmgmMcA5A0bT-bIi",
+    "https://www.renesas.com/ja/about/profile/business?srsltid=AYCX9vIevebBOccKvmN7ZZGvmB4xZ2Wx2VtzA7cc4b0ex63ZOv_Yb_q5",
+    "https://www.renesas.com/ja/about/investor-relations?srsltid=AYCX9vJUsfs6C4_d_lGAdq7Qft3Gjmv-1NDCg4o3LD94hRgRvOD5Tr6o",
+    "https://www.renesas.com/ja/about/investor-relations/individual-investors?srsltid=AYCX9vIMk03IaWROwocWD4MlrX5ysFaWbpue5aoeTrnTGyJ3YAPMUOiK",
+    "http://www.semiconbrain.com/cgi-bin/search/yomi.cgi?mode=kt&kt=01_01",
+    "https://www.renesas.com/ja/about/investor-relations/materials?srsltid=AYCX9vJgeCb32OR0XCcVmPXQvjq8gHSIFsxPYNxIrdVL3LTZO32ja4U2",
+    "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%E3%82%B5%E3%82%B9%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://www.renesas.com/ja/document/ppt/renesas-electronics-quality-assurance-system?srsltid=AYCX9vKI2WvfnfyJyNaGOvry3KZU_neIASUYo1g3Ra0KvfKD6OdyOrbz",
+    "https://www.youtube.com/watch?v=adVdA2P_o60",
+    "https://ja.wikipedia.org/wiki/ルネサスエレクトロニクス"
+   ]
+  },
+  {
+   "query": "ルネサスエレクトロニクス 社長 インタビュー",
+   "results": [
+    "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html",
+    "https://www.weekly-economist.com/interview/shibata_hidetoshi/",
+    "https://www.youtube.com/watch?v=Ed7bO6gLQAc",
+    "https://www.renesas.com/ja/about/executive-team?srsltid=AYCX9vJDTsjLKwqNG5CnevuM5GLFFBkzuos1IcQnnMjcmlkO8x5JuHiL",
+    "https://weekly-economist.mainichi.jp/articles/20210323/se1/00m/020/053000c",
+    "https://www.axiom.co.jp/achievement/interview/a003",
+    "https://www.yomiuri.co.jp/economy/20220123-OYT1T50183/",
+    "https://www.youtube.com/watch?v=zyPlzmOBtfw",
+    "https://www.nikkei.com/article/DGXZQOUE245M40U6A420C2000000/",
+    "https://note.com/moat_investech/n/nfccbbf516296"
+   ]
+  }
+ ],
+ "missing": {}
+}

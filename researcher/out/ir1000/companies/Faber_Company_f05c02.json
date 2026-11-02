@@ -1,0 +1,1812 @@
+{
+ "name": "Ｆａｂｅｒ　Ｃｏｍｐａｎｙ",
+ "aliases": [],
+ "context": "証券コード220A／情報・通信業／スタンダード（内国株式）／2025.09期 売上高2,561百万円 営業利益率14.7%",
+ "researched_at": "2026-11-02T18:56:33.137511+00:00",
+ "official_url": "https://www.fabercompany.co.jp/",
+ "identified_by": "search:ddgs:google:Faber Company",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2005年10月24日",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2005年10月24日",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2005年10月",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "80名（2025年9月末）",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "80名（2025年9月末）",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,364,024 939,956 13,202 2,317,183",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,441,684 1,110,233 8,996 2,560,913",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自社開発のSaaS「ミエルカ」シリーズの提供、コンサルティング、専門人材のマッチング支援（ミエルカコネクト）",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "WEBマーケティング支援プラットフォーム「ミエルカ」シリーズの開発・運営",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "Webサイトに訪問するユーザーの情報を解析し、そのユーザーに適したコンテンツを提供することでサイト内の回遊率アップやコンバージョン率アップを促進するツール",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Faber Companyは2005年の創業以来、「マーケターのライフラインになる」という展望を掲げ、デジタルマーケティングの自動化ツールとリソースを提供し、お客様のビジネス成長を支援してまいりました",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより国内外の職人たちとのコネクションが形成され、その集合知がお客様への価値提供に繋がっています",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も私たちは、お客様に寄り添ったソリューションを提供し続け、顧客の創造に貢献してまいります",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報及び関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピューターの状況、その他の理由により、本ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "最新情報はウェビナーやブログで素早くお客様に提供",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がWebマーケティングを正しい情報、海外最新事例などをもとに、迷わず実施できるようサポートします",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ミエルカユーザー会",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "「ミエルカSEO」の各種機能は当社のプロフェッショナル人材（＝職人）たちの技やユーザー声から生まれました",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "常に新しい価値をユーザーにお届けできるようAIなどの最新技術の研究開発も継続しています",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションモデル(月額制)のSaaSプロダクトであり、顧客のWebマーケティングのサクセスにコミットしている",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "数千台のサーバを活用し、リアルタイムで検索ワードに関連する膨大なサイトをクロールし、ユーザーの検索ニーズを瞬時に可視化することが可能",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "「ミエルカSEO」は、クライアントがSEOを内製化する上で重要となるユーザーの検索ニーズや競合企業のSEOの分析、自社SEOの課題抽出等、様々な情報を＂見える化＂します",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のコンサルティング、プロダクトの改善や新機能開発、カンファレンスやメディアでの情報発信など、職人が活躍するフィールドは限りなく広い",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "（注２）検索エンジン等、インターネットユーザーの情報探索の土台となるサービス",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分析過程においてAI技術を活用し、ユーザー行動データの自動分類やパターン抽出を行うことで、改善箇所の発見精度と分析効率の向上を図っています",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ローカルミエルカ」は、小売業、飲食業等を多店舗で行っている企業に、Googleマップを中心としたWeb上での店舗情報の一元管理と、インターネットユーザーが検索を行った際に、店舗情報が上位掲載されることを支援する、ローカルマーケティング（注１）の自動化サービスです",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）店舗周辺の地域や、来店する可能性のあるインターネットユーザーに特化したマーケティング施策",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループにおいては、経営環境やトレンド、ニーズの変化に応じた機能面・サービス面の改善に加え、大手・中堅企業への組織的な販売活動、既存顧客に対するクロスセルに注力し、デジタルマーケティング自動化ツールの売上1,441,684千円（前年同期比5.7％増）、デジタルマーケティングリソースの売上1,110,233千円（前年同期比18.1％増）となりました",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、経営環境やトレンド、ニーズの変化に応じた機能面・サービス面の改善に加え、大手・中堅企業への組織的な販売活動、既存顧客に対するクロスセルに注力したことによるもので、デジタルマーケティング自動化ツールの売上1,441,684千円（前年同期比5.7％増）、デジタルマーケティングリソースの売上1,110,233千円（前年同期比18.1％増）と堅調に推移しました",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "月額粗利益が３万円以上30万円未満の顧客社数が2024年９月末時点では782社であったところ、2025年９月末時点では824社、30万円以上の顧客社数が2024年９月末時点では69社であったところ、2025年９月末時点では93社と、堅調に推移しました",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが事業展開を行うデジタルマーケティング市場が堅調に伸長する環境のもと、デジタルマーケティング自動化ツール、デジタルマーケティングリソースとも、新規顧客獲得や既存顧客へのクロスセルに対する施策を進め、企業のデジタルマーケティングへの旺盛な投資意欲を取り込んでおります",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "低コストでクイックに顧客企業にお届けする仕組みづくり",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "で、顧客企業の皆さまには",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "アカウントマネジメントグループは新規顧客獲得・既存顧客への新サービス提案を行う営業チームと、当社サービス導入後の顧客支援を行うカスタマーサクセスチームで構成される35名規模のチームです",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、営業先でお客様からの質問に答えられないということがなくなり、個人成績を大きく伸ばすことができました",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "自分の仕事の取り組みや成果を多くの人に知ってもらうきっかけになりますし、それが顧客に向けた信頼の証にもなるので貴重な機会だと感じますね",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサクセスチームでは、ヒートマップツールやWebサイト分析ツールを使ったお客様向けのレポート作成を任せています",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "営業職を志望する学生は、お客様に電話をして商談のアポイントメントを取るインサイドセールスをお願いしています",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "Webマーケティングの実務や、実際のお客様へのアプローチを通じた営業スキルなど、",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業のマーケティング生産性を向上し、素晴らしい商品・サービスが、",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングの先駆者とつながり、その知見を現場へつなげるサービスを提供しています",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1,900社が利用するコンテンツマーケ・オウンドメディア・SEO対策分析サービス",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最短1週間でフリーランス・副業人材に依頼できる、Webマーケティング専門の業務委託マッチングサービス",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "重要なECページの露出増、商品クリック数６倍へ！ 「お客さまを幸せに」赤ちゃん本舗の願いを叶えたミエルカのAI機能",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスや当社に対するご質問・ご相談、お問い合わせはこちらから",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスの詳細資料やお役立ち資料のダウンロードはこちらから",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県船橋市本中山五丁目10番5号において、検索エンジン集客に関するコンサルティングサービスを提供することを目的として、有限会社セルフデザインを設立",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスや当社に対するご質問・ご相談、お問い合わせはこちらから",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスの詳細資料やお役立ち資料のダウンロードはこちらから",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング事業からスタートした当社は、「ミエルカSEO」などSaaS形態による自動化ツールの提供を含め、デジタルマーケティングのワンストップソリューションへと事業領域を拡大してまいりました",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "この技術を磨くことで、良い商品やサービスを必要としている人に届く社会を作り、誰もがストレスのない探索体験を享受できるようになると確信し、創業しました",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も私たちは、お客様に寄り添ったソリューションを提供し続け、顧客の創造に貢献してまいります",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、会社法、金融商品取引法その他諸法令並びに上場取引所 の「有価証券上場規程」に定める会社情報の適時開示に関する規定（以下、「適時開示規則」といいます）に従って情報開示を行います",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ、営業・取材などのご連絡はこちらのIR窓口では受け付けておりません",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法 第166条にある「重要事実」に該当する可能性のあるご質問",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "課題からサービスを探す",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業 （許可番号：13-ユ-309926）",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "また、取締役会の指名・報酬等に関する手続の公正性・透明性・客観性を強化し、当社コーポレート・ガバナンスの充実を図るため、「指名・報酬諮問委員会」を設置しております",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗集客を成功させたい",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "事業パートナー・出資先を募集中！",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業に関わる明示事項",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有料職業紹介事業許可番号/１３－ユー３０９９２６",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・職業紹介が成功した場合において、当該求職者の理論年収の 35％を求人者から徴収する",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、紹介手数料の最低金額は 150 万円とする",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "苦情申出先：株式会社 Faber Company 職業紹介責任者 嶋 勝也",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 労働契約締結日より 1 ヵ月以内に退職した場合 紹介手数料の 80％",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 労働契約締結日より 1 ヵ月を超え 3 か月以内に退職した場合 紹介手数料の 50％",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "故に、技を持たない多くの企業は、広告代理店やコンサル会社に運用代行を依頼することが長年の常識でした",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、豊富なサービスラインナップにより企業のデジタルマーケティング活動のワンストップソリューション（注３）を目指し、デジタルマーケティングの生産性を向上させる自動化ツールとして、企業のWebサイトへの流入最大化を支援する「ミエルカSEO」、UI/UX改善によるコンバージョンの最大化を支援する「ミエルカヒートマップ」、Googleマップ等を用いた店舗集客を最大化する「ローカルミエルカ」、即戦力となるフリーランス又は副業のデジタルマーケティング人材を企業に提供する「ミエルカコネクト」、特に高い専門性が求められる課題に対する支援を行うソリューションサービス等を提供しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ローカルミエルカ」は、小売業、飲食業等を多店舗で行っている企業に、Googleマップを中心としたWeb上での店舗情報の一元管理と、インターネットユーザーが検索を行った際に、店舗情報が上位掲載されることを支援する、ローカルマーケティング（注１）の自動化サービスです",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "Googleマップ等における店舗情報の一括での登録や編集、商圏における検索順位のモニタリング等、生産性向上に結びつく機能をはじめ、レビュー獲得の促進、獲得したレビューを自社のWebサイトに表示させる等、利用企業のWebサイトへの集客に寄与する機能を有しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）店舗周辺の地域や、来店する可能性のあるインターネットユーザーに特化したマーケティング施策",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "その後、総合広告代理店からインターネット専業広告代理店に転職し、紆余曲折を経て、SEOに出会いました",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "「あなたたちは何者ですか？」と聞かれましたら、「私たちはFaber Company（職人と仲間たち）です」と答えるだけで、自己紹介とすることもできる社名です",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "強み・特長 - Faber Company",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "Faber Companyの特長・強み",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（FaberCompanyの強み）",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "特長（Faber Companyの強み）",
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「第２ 事業の状況 １ 経営方針、経営環境及び対処すべき課題等 (５）経営上の目標の達成状況を判断するための客観的な指標等」に記載のとおり、売上総利益を構成する１社あたりから発生する月額粗利益を重視しており、重要なKPIとして管理しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "月額粗利益が３万円以上30万円未満の顧客社数が2024年９月末時点では782社であったところ、2025年９月末時点では824社、30万円以上の顧客社数が2024年９月末時点では69社であったところ、2025年９月末時点では93社と、堅調に推移しました",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、「１経営方針、経営環境及び対処すべき課題等（３）経営戦略」に記載の競争優位性（コア・コンピタンス）の拡大を経営の基本方針かつ、アクションプランの基軸を為すものと認識し、経営者は常に事業環境の変化に応じて経営資源を最適に配分し、様々な課題に適時適切に対処出来るような組織体制を構築してまいります",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "Faber Companyの詳しい事業内容や強みを教えてください",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2005年10月24日",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 10月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 8月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年 11月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年 5月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 10月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 11月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年 3月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 1月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 3月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 10月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 11月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 10月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 12月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年 12月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年 7月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 1月",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年10月の会社設立以来、「辺境の知から“マーケティングゼロ”を実現する」というパーパス（存在意義）のもと、デジタルマーケティングの実践を通じて企業の目標達成、事業成長、ビジネス変革を支援してまいりました",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年からは大学との共同研究を通じてAI技術を導入し、プロダクトの機能改善に邁進しています",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年以降、私たちは75回にわたる海外遠征を行い、海外の最先端情報をYouTube番組等を通じて発信してきました",
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 通期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第1四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 通期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第3四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第2四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第1四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 通期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 第3四半期決算発表",
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年10月です",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月31日です",
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代前半にマスメディアを用いた活動に従事していましたが、インターネット広告の登場には衝撃を受けました",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年からベトナム・ホーチミンに開発拠点を設置し、現地の工科大学を卒業した若手中心の採用を行うことで、日本国内に比べて安価な開発体制を敷きました",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月1日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月26日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年10月",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月13日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月13日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月25日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月29日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月01日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年08月08日",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【手数料に関する事項】",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・休職者から徴収する手数料等はありません",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "手数料等とする",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、紹介手数料の最低金額は 150 万円とする",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月額固定給（＊1）×12 ヵ月＋賞与算定基準額×前年度実績賞与支給月数（＊2）",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊1：月額固定給＝基本給+家族手当+住宅手当+役職手当+その他毎月固定的に",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "等に応じて支給額が変動する割増賃金は月額固定給に含みません",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊2：賞与の支給基準が「月数」とは異なる場合は賞与支給総額を月額基本給支給総額で",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 労働契約締結日より 1 ヵ月以内に退職した場合 紹介手数料の 80％",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 労働契約締結日より 1 ヵ月を超え 3 か月以内に退職した場合 紹介手数料の 50％",
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプションモデル(月額制)のSaaSプロダクトであり、顧客のWebマーケティングのサクセスにコミットしている",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「第２ 事業の状況 １ 経営方針、経営環境及び対処すべき課題等 (５）経営上の目標の達成状況を判断するための客観的な指標等」に記載のとおり、売上総利益を構成する１社あたりから発生する月額粗利益を重視しており、重要なKPIとして管理しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "月額粗利益が３万円以上30万円未満の顧客社数が2024年９月末時点では782社であったところ、2025年９月末時点では824社、30万円以上の顧客社数が2024年９月末時点では69社であったところ、2025年９月末時点では93社と、堅調に推移しました",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 Faber Company (ファベルカンパニー) — 株式会社 Faber Company (ファベルカンパニー) 株式会社Faber Company (ファベルカンパニー) https://www.fabercompany.co.jp",
+    "url": "https://www.fabercompany.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Faber Company の事業とカルチャー - Wantedly — 株式会社 Faber Company の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社Faber Company",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 Faber Company 】 稲次 正樹代表インタビュー — 【株式会社 Faber Company 】 稲次 正樹代表インタビュー the-leader.jp https://the-leader.jp > interview > fabercompany",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Faber Company の全ての求人一覧 - HERP Career — 株式会社 Faber Company の全ての求人一覧 - HERP Career herp.careers https://herp.careers > fabercompany",
+    "url": "https://herp.careers/v1/fabercompany",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Faber Company ｜事業内容・特徴・採用・求人 — 株式会社 Faber Company ｜事業内容・特徴・採用・求人 スタクラ https://startupclass.co.jp > 企業を探す > SaaS",
+    "url": "https://startupclass.co.jp/online/companies/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - Faber Company — 決算説明資料 - Faber Company 株式会社Faber Company (ファベルカンパニー) https://www.fabercompany.co.jp > IR情報 > IRライブラリー",
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - Faber Company — IR情報 - Faber Company 株式会社Faber Company (ファベルカンパニー) https://www.fabercompany.co.jp > ...",
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 Faber Company 】[220A]IR情報 中期経営計画や 決算 短信 — 【 Faber Company 】[220A]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=220A",
+    "pass": 3
+   },
+   {
+    "quote": "Faber Company (ファベルカンパニー) IRチーム - X — Faber Company (ファベルカンパニー) IRチーム - X X https://x.com > marketing_zero1",
+    "url": "https://x.com/marketing_zero1",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - Faber Company — 会社概要 - Faber Company 株式会社Faber Company (ファベルカンパニー) https://www.fabercompany.co.jp > 会社情報",
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "Faber Company 【220A】の 事業 内容 - キタイシホン — Faber Company 【220A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Faber Company ｜会社概要と成長戦略 - YouTube — 株式会社 Faber Company ｜会社概要と成長戦略 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=o1YQuuXPVpU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Faber Company の会社情報 - M&Aクラウド — 株式会社 Faber Company の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/9912",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 Faber Company 】 稲次 正樹代表 インタビュー — 【株式会社 Faber Company 】 稲次 正樹代表 インタビュー the-leader.jp https://the-leader.jp > interview > fabercompany",
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "5年目で部長の事例も！株式会社 Faber Company の若手育成制度 — 5年目で部長の事例も！株式会社 Faber Company の若手育成制度 MoreJob株式会社 https://morejob.co.jp > ミライのお仕事 by MoreJob",
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "pass": 3
+   },
+   {
+    "quote": "HR BLOGに、稲次正樹の インタビュー が掲載されました。 — HR BLOGに、稲次正樹の インタビュー が掲載されました。 株式会社Faber Company (ファベルカンパニー) https://www.fabercompany.co.jp > ニュース",
+    "url": "https://www.fabercompany.co.jp/news/hr_blog/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Faber Company の働き方とストーリー - Wantedly — 株式会社 Faber Company の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社Faber Company",
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/stories",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "デジタルマーケティングを取り巻く環境変化のスピードは速く、対応する当社グループのサービスも変化に応じたアップデートを行っていく必要があること、また、企業のデジタルマーケティング活動の施策内容にも時代の変化に応じたトレンドが存在することから、ビジネスモデル（収益構造）の異なるサービスであっても、企業の当社サービスの利用目的は同一であることから、報告セグメントは「ミエルカ事業」としております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "<事業系統図>",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは「ミエルカ事業」のみであり、その他の事業セグメントは開示の重要性が乏しいため、セグメントごとの記載を省略しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティングを取り巻く環境変化のスピードは速く、対応する当社グループのサービスも変化に応じたアップデートを行っていく必要があること、また、企業のデジタルマーケティング活動の施策内容にも時代の変化に応じたトレンドが存在することから、ビジネスモデル（収益構造）の異なるサービスであっても、企業の当社サービスの利用目的は同一であることから、報告セグメントは「ミエルカ事業」としております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループの報告セグメントは「ミエルカ事業」のみであり、その他の事業セグメントは開示の重要性が乏しいため、セグメントごとの記載を省略しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは「ミエルカ事業」のみであり、その他の事業セグメントは開示の重要性が乏しいため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、ミエルカ事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/220A/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fabercompany.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/library/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/library/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/library/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/stockinformation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/generalmeeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/announcement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/ir/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/feature/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fabercompany.co.jp/wp-content/uploads/Yuuryoushokugyoushoukaijigyouni_kakawaru_meijijikou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/220A/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-leader.jp/interview/fabercompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morejob.co.jp/mirai/fabercompany/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Faber Company",
+   "results": [
+    "https://faberindia.com/?srsltid=AYCX9vKiKpuUihe4EholkkKJkEM9z4sN0vrt1JVRSwuuSe_kYPR8Rd1Q",
+    "https://www.faberinc.com/",
+    "https://en.wikipedia.org/wiki/Eberhard_Faber",
+    "https://fabercastell.com/?srsltid=AYCX9vIJhpxz_eN6k2BP4aH6He3ArYw4J8va3VlQokejqCM1nZAG-ATz",
+    "https://www.bklynlibrary.org/blog/2022/04/01/eberhard-faber-pencil",
+    "https://www.trustpilot.com/review/faberspa.com",
+    "https://www.eberhardfaber.com/Company/heritage/history",
+    "https://faberdesign.co/",
+    "https://en.wikipedia.org/wiki/Faber-Castell",
+    "https://faberonline.com/"
+   ]
+  },
+  {
+   "query": "Faber Company ビジネスモデル",
+   "results": [
+    "https://www.fabercompany.co.jp/",
+    "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "https://the-leader.jp/interview/fabercompany/",
+    "https://herp.careers/v1/fabercompany",
+    "https://startupclass.co.jp/online/companies/1022/",
+    "https://macloud.jp/companies/9912",
+    "https://finance.logmi.jp/articles/383159",
+    "https://www.green-japan.com/company/3633",
+    "https://www.fabercompany.co.jp/company/outline/",
+    "https://consovation.com/デジタルマーケティングの未来を切り拓く-faber-companyの/"
+   ]
+  },
+  {
+   "query": "Faber Company 決算説明資料",
+   "results": [
+    "https://www.fabercompany.co.jp/ir/library/summary/",
+    "https://www.fabercompany.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=220A",
+    "https://finance.logmi.jp/articles/383159",
+    "https://x.com/marketing_zero1",
+    "https://www.buffett-code.com/company/220A/library",
+    "https://newspicks.com/news/16668881/",
+    "https://www.youtube.com/watch?v=N9gvHLNzFJ4",
+    "https://www.moomoo.com/ja/news/notice/307828087/faber-company-notice-of-the-third-quarter-financial-results-briefing",
+    "https://www.fabercompany.co.jp/ir/library/"
+   ]
+  },
+  {
+   "query": "Faber Company 事業系統図",
+   "results": [
+    "https://www.fabercompany.co.jp/company/outline/",
+    "https://kitaishihon.com/company/220A/business",
+    "https://www.youtube.com/watch?v=o1YQuuXPVpU",
+    "https://herp.careers/v1/fabercompany",
+    "https://macloud.jp/companies/9912",
+    "https://www.wantedly.com/companies/www-fabercompany-co/about",
+    "https://morejob.co.jp/mirai/fabercompany/",
+    "https://startupclass.co.jp/online/companies/1022/",
+    "https://www.r-agent.com/company/99837/"
+   ]
+  },
+  {
+   "query": "Faber Company 社長 インタビュー",
+   "results": [
+    "https://the-leader.jp/interview/fabercompany/",
+    "https://morejob.co.jp/mirai/fabercompany/",
+    "https://www.instagram.com/p/DIvACv6vlYt/",
+    "https://www.fabercompany.co.jp/news/hr_blog/",
+    "https://www.wantedly.com/companies/www-fabercompany-co/stories",
+    "https://www.youtube.com/watch?v=CTI_l8DG7JI",
+    "https://stock-sun.com/column/faber-company/",
+    "https://www.corner-inc.co.jp/media/j0032/",
+    "https://startupclass.co.jp/online/companies/1022/",
+    "https://invest-n.jp/ir/6633/"
+   ]
+  }
+ ],
+ "missing": {}
+}

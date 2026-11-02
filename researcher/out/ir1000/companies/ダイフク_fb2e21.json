@@ -1,0 +1,1505 @@
+{
+ "name": "ダイフク",
+ "aliases": [],
+ "context": "証券コード6383／機械／プライム（内国株式）／2025.12期 売上高660,724百万円 営業利益率15.3%",
+ "researched_at": "2026-11-02T18:53:23.730601+00:00",
+ "official_url": "https://www.daifuku-carwash.jp/",
+ "identified_by": "search:yahoo_jp:ダイフク",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2006年6月13日　（2000年3月1日　前身の株式会社ダイフクユニックスを発足）",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1937年5月20日",
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1937年5月",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "洗車機および洗車関連商品などの販売、設置、メンテナンス、総合コンサルティング業務",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "物流システムに関するコンサルティングとエンジニアリングおよび設計・製造・据付・サービスなど 搬送システム 保管システム 仕分け・ピッキングシステム 制御システム 物流機器 その他事業（洗車機、電子機器） 詳細は 事業概要 をご覧ください。",
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "物を保管・搬送・仕分けするマテリアルハンドリングの総合メーカー",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "海外従業員比率",
+    "value": "69％",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "11,417人（グループ計 / 2025年12月31日現在）",
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "1万1417人（同、連結）",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "6,607億2,400万円（2025年12月期）",
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "6607億円",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新1Wayドライブスルー洗車機「リーシア WIDE」の製品ページを公開しました",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新大型洗車機「カミオン グレイト」を製品ページに掲載しました",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "SS経営や洗車場経営をバックアップする「洗車ビジネスパートナー」ダイフクプラスモアのサービス・サポート体制をご紹介します",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ベテランのサービススタッフが親切・丁寧に対応します",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車機を安心してお使い頂くための総合メンテナンスサービスです",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/daifuku-support-program/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/daifuku-support-program/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター | ビジネスサポート | ダイフクプラスモアの洗車ビジネスサイト",
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "pass": 1
+   },
+   {
+    "quote": "ベテランのサービススタッフがご対応することで、お客様に安心をご提供します",
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21 | ビジネスサポート | ダイフクプラスモアの洗車ビジネスサイト",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車機の保守・修理に関してはサービスセンターにお問い合わせください",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "全国のサービスメンテナンス拠点約40カ所のサービススタッフがお客様の安全・安心をお届けいたします",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくは、当社営業担当者、サービススタッフにお問い合わせください",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパックのパッケージ例",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくは、当社営業担当者、メンテナンスサービススタッフにお問い合わせください",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/du-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/du-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "比較的収入が高く高級車を所有し、自分で洗車をせず、色々なサービスをなじみのガソリンスタンドや手洗い洗車専門店に依頼するタイプ",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/auto-system/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/auto-system/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "DACSのサービス",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、「サービスパック・21」によるフルメンテナンス契約により大きな安心をお届けします",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21について",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい製品・サービスを提供",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ダイフクプラスモアは、洗車機および洗車関連商品などの販売・サービスを展開しており、サービスステーション、カーディーラー、トラック・バス事業者など、多様なお客様にご愛顧いただいております",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、物流システムで世界トップメーカーである株式会社ダイフク（東証プライム市場上場）のグループ会社で、洗車機の開発・設計ならびに生産はダイフクが担っており、物流システムで培ったモノづくり技術を活かし製品化しています",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "そのダイフクと共に、企画から設計、製造、販売、据付、メンテナンスまで一貫したソリューションをお客様に提供しています",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで業界に先駆けて、節水・静音といった環境配慮型の洗車機をはじめ、コンベヤ技術を応用した連続洗車機、集客効果の高い「魅せる泡洗車」シリーズ、スマホアプリによるサブスクサービス、稼働台数の分析データを提供するとともに異常ログから洗車機の状態を遠隔で確認し早期保守によって安定稼働に繋げるシステムなど、さまざまな製品・サービスを市場へ投入してきました",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様に安心してお使いいただけるよう、土・日曜、祝日もサービススタッフがアフタ―フォローするサービスセンターを設置するなど、「お客様第一」の姿勢で、販売・サービス体制を確立しています",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、持続可能な社会に向けて、水の使用量や消費電力をより抑えた環境に優しい洗車機や、誰でも安心して使える洗車機など製品力を強化していきます",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また、これまで培った“洗車技術”を応用した新しい洗浄装置など、お客様のさまざまなニーズに対応した製品・サービスを提供し続けてまいります",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車機および洗車関連商品などの販売、設置、メンテナンス、総合コンサルティング業務",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイフクは、モノを動かす技術をもとに、生産・流通、サービス分野で物流合理化を追求し、マテリアルハンドリング（マテハン）システムにおいて世界トップクラスの企業に成長しました",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルな事業展開で培った豊富な技術と知識を活かし、お客さま企業の競争優位を押し上げ続けるために、最適・最良のソリューションを提供する「バリューイノベーション企業」を目指しています",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイフクグループでは、2024年度から製品・システムの環境価値および社会価値を評価する「サステナビリティ性能評価」を開始しました",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が環境に与える負荷をライフサイクル全体で把握し、環境配慮設計のさらなる高度化を進めていきます",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、環境への配慮にとどまらず、お客さまや社会への貢献も含めたより広い視点から製品を評価していきます",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "サステナビリティ性能評価 製品紹介（洗車機・関連商品）はこちら",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "120万平方メートルの広大な敷地に複数の工場棟が立ち並び、ダイフクの主力製品である物流システム・機器を生産しており、業界では世界最大級の規模を誇ります",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスパック・21",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "送付依頼商品名",
+    "url": "https://www.daifuku-carwash.jp/media/documents/sds_request_form.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ダイフクプラスモア │ ダイフクの洗車機やテクノロジーを紹介する洗車ビジネスサイト",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3つの魅力をわかりやすく解説！取り扱い店舗も随時更新中",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロストコートの取り扱い店舗はこちら",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JAF（日本自動車連盟）が運営するWebメディア「JAFメイトオンライン」で「トレウス WIDE」が紹介されました",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SS経営や洗車場経営をバックアップする「洗車ビジネスパートナー」ダイフクプラスモアのサービス・サポート体制をご紹介します",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイフクプラスモアは洗車機の販売のみではなく、洗車収益の向上のお手伝いを行う洗車のビジネスパートナーとして多彩な要望にお応えできるシステムを展開しております",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗に合わせた洗車メニューで収益改善",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "サステナビリティ性能評価 製品紹介（洗車機・関連商品）はこちら",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のマテリアルハンドリングシステム・機器54種を展示するほか、展示機器の説明だけでなく、場内に配置した大型ディスプレイで、顧客納入事例や現場での活用方法を映像でもご紹介しています",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタカー店舗の事例を掲載しました",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "商号、設立、資本金、代表者、従業員数などをご紹介します",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティに関するマネジメントをはじめ、ニュース、レポート、GRI-G4対照表などをご紹介します",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体 ・ 液晶生産ライン向けシステムの各種製品 ・ システムの動画を紹介し ています",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連をはじめとする幅広い分野を対象に紹介しています",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "任意の委員会の有無 有り （指名、 報酬に係る諮問委員会）",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "紹介します （日本語、 英語、 中国語、 韓国語に対応）",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月9日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月26日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震の被害に対する支援について",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月22日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月12日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月8日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月23日",
+    "url": "https://www.daifuku-carwash.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年6月13日 （2000年3月1日 前身の株式会社ダイフクユニックスを発足）",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月4日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月22日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月30日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月8日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年9月14日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月28日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月28日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月24日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月2日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年5月10日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年11月1日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月6日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年10月1日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年7月1日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月1日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年10月1日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年8月1日",
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月11日（水）",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月02日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月18日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年12月期 半期報告書",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算短信",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算説明資料",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月11日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15～16日",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度業績 （2023年4月1日～2024年3月31日）",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1937年 1944年 1947年 1957年 1966年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1939年 1964年1963年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1937年5月20日、 ダ イ フ クの前身である株式会社坂口機械製作所を創業",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1939年、 主力の工場を大阪市西淀川区御幣島に建設し ま した （現大阪本社）",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1984年 1991年1987年1986年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1957年、 創業製品のク レーンや製鉄機械に見切りをつけ、 1960年度には米国Jervis B. Webb",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1972年度、 ボウリングマシンが売上高の72％に達しました",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1969年 1971年 1973年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2007年 2008年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代、 半導体工場のク リーンルーム向け搬送システムの需要",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代には、 液晶パネル工場向けのシステムを、 また2007年に",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1994年 1999年1995年 2002年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013年 2014年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年 2016年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 2023年 2024年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 2021年",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月から9月にかけて、 半導体生産ラ イ ン向けシ ステ ムの2工場が稼働開始しま した",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のビジネスを成功へ導く、次世代の洗車場システムで",
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "泡洗車のショー効果を最大限に演出した「AWA EVOLUTION VEGA」では、SS敷地内外からも泡洗車が見える「魅せる洗車」で、多くのお客様から好評をいただき、泡洗車台数の増加につながっています",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客獲得のための販売促進サポート",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車機導入のイベントから、顧客獲得・集客のための販促",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーダイヤル（携帯電話可）なので安心なうえ、約3割の問い合わせは電話で解決！ お客様の洗車機で困った時にしっかりサポートします",
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "pass": 1
+   },
+   {
+    "quote": "ベテランのサービススタッフがご対応することで、お客様に安心をご提供します",
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "pass": 1
+   },
+   {
+    "quote": "全国のサービスメンテナンス拠点約40カ所のサービススタッフがお客様の安全・安心をお届けいたします",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に適したパッケージをご用意いたしております",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー様の洗車タイプ",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "最新鋭の高速門型洗車機で、洗車ユーザーのターゲットが大きく広がります",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "空き待ちのお客様の駐車スペースも最小限でOKです",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車場ユーザーのメリット",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "現地でのお客様トラブルの状況が把握できない",
+    "url": "https://www.daifuku-carwash.jp/business/auto-system/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代の洗車場システムで、お客様のビジネスを成功へ！",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "候補地の市場規模や予定地周辺の状況分析、洗車場の認知度分析、地形と道路付の分析、さらには相乗効果を生む施設などの有無、上･下水道の設置状況、法的規制などを総合的に判断し、お客様の候補地が洗車場として適地かどうかを判断させていただきます",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "地域や面積などお客様のご希望条件に、最適な土地の周辺環境や敷地形状などを踏まえた最適なレイアウトの提案と、そのレイアウトに基づく建築工事までトータルにお手伝いします",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単操作で高い洗浄力と仕上がり、高い安全性とセキュリティー対策も万全でオーナー様とユーザー様の両者が大満足の高性能コイン洗車場専用洗車機です",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、最新のIT（インフォメーションテクノロジー）で、お客様の収益アップに貢献し、安全と安心をサポートします",
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のさまざまニーズに対応した",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ダイフクプラスモアは、洗車機および洗車関連商品などの販売・サービスを展開しており、サービスステーション、カーディーラー、トラック・バス事業者など、多様なお客様にご愛顧いただいております",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "そのダイフクと共に、企画から設計、製造、販売、据付、メンテナンスまで一貫したソリューションをお客様に提供しています",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様に安心してお使いいただけるよう、土・日曜、祝日もサービススタッフがアフタ―フォローするサービスセンターを設置するなど、「お客様第一」の姿勢で、販売・サービス体制を確立しています",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また、これまで培った“洗車技術”を応用した新しい洗浄装置など、お客様のさまざまなニーズに対応した製品・サービスを提供し続けてまいります",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のマテリアルハンドリングシステム・機器54種を展示するほか、展示機器の説明だけでなく、場内に配置した大型ディスプレイで、顧客納入事例や現場での活用方法を映像でもご紹介しています",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "\u0007時代のニー ズに即した顧客 ・ 業種別売上高",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客からみた品質の追及",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客の価値創造",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客への付加価値の提供",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体工場向けの保管・搬送システム事業は、AI（人工知能）用半導体の需要を背景に顧客の設備投資が活発で、受注を伸ばしています",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "中国勢にも小規模システムで参入する企業はありますが、搬送車が1台止まると工場全体の搬送が止まる可能性があるため、大規模システムを急に中国製へ切り替えるのは顧客にとってリスクが大きいと考えています",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "AI、データサイエンス、ロボティクス、ソフトウエアを組み込み、単なるマテハンメーカーではなく、顧客の物流・製造現場全体を最適化するソリューション企業になりたい",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "当時、台湾の顧客は液晶に集中していて、シンガポールには半導体の顧客がいました",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "中国企業の台頭に生成AI（人工知能）の普及も加わり、どの業界でも品質や価格、顧客獲得を巡る競争が一段と厳しくなる",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "寺井友章社長が挙げたアフターサービスの強化は、顧客の活動に深く入り込み、代替不能な存在になることを意図している",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が求めるのはモノ自体ではなく、ソリューションであることを思い出させてくれる",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は顧客の要望に合わせて、顧客が満足するように作ることが多く、標準化が遅れている",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との信頼関係が強み",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "「競合他社は専業が多いが、当社は顧客へのコンサルティングやエンジニアリング、製造、工事、アフターサービスまで一貫して行っている",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "設備やシステムは10、20年単位で使うため、顧客と長い付き合いになり、信頼関係が一番の強みだ",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "30、40年の取引がある顧客が多く、下代社長は変化に合わせて、新たな提案を行っていると語っていた",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の取引先も多く、地域特性を踏まえた提案をしているという",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "最新の泡洗車システム「スライディングバブル」でさらに高収益、高付加価値洗車に貢献いたします",
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "pass": 1
+   },
+   {
+    "quote": "手洗い型コイン洗車場に代わる新しい都市型高収益事業として注目を集める、門型自動洗車機主体のコイン洗車場",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "省スペース・高回転率で高収益",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルな事業展開で培った豊富な技術と知識を活かし、お客さま企業の競争優位を押し上げ続けるために、最適・最良のソリューションを提供する「バリューイノベーション企業」を目指しています",
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイフクの強み",
+    "url": "https://www.daifuku.com/jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフクの強み",
+    "url": "https://www.daifuku.com/jp/ir/library/results/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフクの強み",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "6つの事業とダ イ フクの強み 17",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの競争優位性を押し上げる",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダ イ フ クの強みは、 コンサルテ ィ ング 、 シ ステ ム構築から、 製造、 工事、 長期安定稼働",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を提供し、 お客さまの競争優位性を押し上げています",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6つの事業とダイ フクの強み",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 在庫管理精度 ・ 出荷スピー ドの向上",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 （％） 9.1 9.4 9.8 9.8 10.2",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフクの強み",
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、同じ機械を何千台、何万台と同じ品質で作る生産技術も強みです",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、物流センター全体をシミュレーションできることです",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "寺井 日本企業の強みは技術力だけでなく、アフターサービスにもあります",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の生産技術や改善力に根付いた強みであり、今後も大切にしていきたいですね",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との信頼関係が強み",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "――自社の強みは",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "設備やシステムは10、20年単位で使うため、顧客と長い付き合いになり、信頼関係が一番の強みだ",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "――30年に連結売上高1兆円、営業利益率12・5％という高い目標を掲げた",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "今のペースだと営業利益率は達成できそうだが、問題は27年と30年の売上高",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "洗車機の保守・修理に関してはサービスセンターにお問い合わせください",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "自動洗車機を納入時より保守管理メンテナンス契約を締結し、安心してお使い頂くことを目的とした総合メンテナンスシステムです",
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで業界に先駆けて、節水・静音といった環境配慮型の洗車機をはじめ、コンベヤ技術を応用した連続洗車機、集客効果の高い「魅せる泡洗車」シリーズ、スマホアプリによるサブスクサービス、稼働台数の分析データを提供するとともに異常ログから洗車機の状態を遠隔で確認し早期保守によって安定稼働に繋げるシステムなど、さまざまな製品・サービスを市場へ投入してきました",
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "納入したシ ステ ム ・ 製品を対象に した保守 ・ メ ンテナ ンスなどに よる売上高",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般製造業 ・ 流通業向けシ ステ ム、 空港向けシ ステ ムの保守、 メ ンテナンスサー",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "門型洗車機がメインのコイン洗車場は、今後成長が見込める革新的ビジネスモデルです",
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業概要 | 会社情報 | ダイフク - DAIFUKU — 事業概要 | 会社情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > HOME > 会社情報",
+    "url": "https://www.daifuku.com/jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク レポート2025 - DAIFUKU — ダイフク レポート2025 - DAIFUKU DAIFUKU PDF https://www.daifuku.com > assets > 25_full_j",
+    "url": "https://www.daifuku.com/jp/ir/assets/25_full_j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2人で進めた ダイフク の貿易DX 業務進捗状況の可視化で — 2人で進めた ダイフク の貿易DX 業務進捗状況の可視化で Shippio Platform https://service.shippio.io > 導入事例",
+    "url": "https://service.shippio.io/case/daifuku/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク の事業が創る価値 - DAIFUKU — ダイフク の事業が創る価値 - DAIFUKU DAIFUKU https://www.daifuku.com > employment > about > value",
+    "url": "https://www.daifuku.com/jp/employment/about/value.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク の経営戦略・マーケティング戦略とは - キャククル — ダイフク の経営戦略・マーケティング戦略とは - キャククル キャククル https://www.shopowner-support.net > glossary > daifuku",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/daifuku/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | IR 資料 室 | IR情報 | ダイフク - DAIFUKU — 決算 情報 | IR 資料 室 | IR情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > HOME > IR情報 > IR資料室",
+    "url": "https://www.daifuku.com/jp/ir/library/results/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ダイフク - DAIFUKU — IR情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > ...",
+    "url": "https://www.daifuku.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | IR情報 | ダイフク - DAIFUKU — IR 資料 室 | IR情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > HOME > IR情報",
+    "url": "https://www.daifuku.com/jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ダイフク 】[6383]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ダイフク 】[6383]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6383",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 業績・財務情報 | IR情報 | ダイフク - DAIFUKU — IRカレンダー | 業績・財務情報 | IR情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > ... > IR情報 > 業績・財務情報",
+    "url": "https://www.daifuku.com/jp/ir/financials/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク PROFILE - 2024 - DAIFUKU — ダイフク PROFILE - 2024 - DAIFUKU DAIFUKU PDF https://www.daifuku.com > assets > profile2024_jp",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | ダイフク - DAIFUKU — 会社概要 | 会社情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > HOME > 会社情報",
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 概要 | 会社情報 | ダイフク - DAIFUKU — 事業 概要 | 会社情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > HOME > 会社情報",
+    "url": "https://www.daifuku.com/jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク PROFILE - 2026 - DAIFUKU — ダイフク PROFILE - 2026 - DAIFUKU DAIFUKU PDF https://www.daifuku.com > assets > profile2026_jp",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2026_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 寺井友章 ダイフク社長 - 週刊エコノミスト — 編集長 インタビュー 寺井友章 ダイフク社長 - 週刊エコノミスト 週刊エコノミスト https://www.weekly-economist.com > terai_tomoaki",
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク の下代博 社長 「物流を完全無人化」「日本は生産性の ... — ダイフク の下代博 社長 「物流を完全無人化」「日本は生産性の ... 産経ニュース https://www.sankei.com > 経済 > 産業・ビジネス",
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフク社長インタビュー 関税で受注動向はどう変化? — ダイフク社長インタビュー 関税で受注動向はどう変化? テレ東BIZ https://txbiz.tv-tokyo.co.jp > ... > 特集",
+    "url": "https://txbiz.tv-tokyo.co.jp/nms/special/post_327082",
+    "pass": 3
+   },
+   {
+    "quote": "ごあいさつ | 会社情報 | ダイフク - DAIFUKU — ごあいさつ | 会社情報 | ダイフク - DAIFUKU DAIFUKU https://www.daifuku.com > HOME > 会社情報",
+    "url": "https://www.daifuku.com/jp/company/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "トップに聞く ダイフク 寺井 友章 社長 - 日経ヴェリタス — トップに聞く ダイフク 寺井 友章 社長 - 日経ヴェリタス 日本経済新聞 https://www.nikkei.com > prime > veritas > article",
+    "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOKC271KU0X20C26A2000000",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "報 告セグメント 概 要",
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daifuku-carwash.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/key-to-profit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/daifuku-support-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/service-center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/service-pack-21/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/du-catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/auto-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/business/dacs-total-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/news/index-dsp.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daifuku-carwash.jp/media/news/2026/pdf/camion-great-202608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/documents/sds_request_form.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/news/2017/pdf/dsp-2017-spring.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/news/2018/pdf/dsp-2018-spring.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/news/2019/pdf/dsp-2019-spring.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/du-catalog/pdf/du-catalog-vol9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/news/2019/pdf/car-wash-business_vol1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig01_v2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig02_v2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig04_v2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig05_v2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daifuku-carwash.jp/media/business/images/business_main_fig09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.daifuku.com/jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku.com/jp/ir/assets/25_full_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku.com/jp/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku.com/jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daifuku.com/jp/company/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダイフク",
+   "results": [
+    "https://www.daifuku.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%95%E3%82%AF",
+    "https://www.daifuku.com/company/summary/",
+    "https://www.instagram.com/daifuku_pr/",
+    "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "https://ja.wikipedia.org/wiki/ダイフク",
+    "https://en.wikipedia.org/wiki/Daifuku_(company)",
+    "https://www.daifuku.com/jp/company/summary/",
+    "https://finance.yahoo.co.jp/quote/6383.T",
+    "https://www.youtube.com/DaifukuChannel"
+   ]
+  },
+  {
+   "query": "ダイフク ビジネスモデル",
+   "results": [
+    "https://www.daifuku.com/jp/company/business/",
+    "https://www.daifuku.com/jp/ir/assets/25_full_j.pdf",
+    "https://service.shippio.io/case/daifuku/",
+    "https://www.daifuku.com/jp/employment/about/value.html",
+    "https://www.shopowner-support.net/glossary/management-strategy/daifuku/",
+    "https://dime.jp/genre/1938430/",
+    "https://www.daifuku.com/jp/ir/assets/24_full_j.pdf",
+    "https://www.daifuku.com/jp/company/summary/",
+    "https://www.jstage.jst.go.jp/article/marketing/27/3/27_2008.009/_pdf",
+    "https://consovation.com/ダイフクのビジネスモデルと成長戦略を徹底解説/"
+   ]
+  },
+  {
+   "query": "ダイフク 決算説明資料",
+   "results": [
+    "https://www.daifuku.com/jp/ir/library/results/",
+    "https://www.daifuku.com/jp/ir/",
+    "https://www.daifuku.com/jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6383",
+    "https://www.daifuku.com/jp/ir/financials/calendar/",
+    "https://www.daifuku.com/jp/ir/policy/message/",
+    "https://www.daifuku.com/jp/ir/library/statements/",
+    "https://www.daifuku.com/jp/ir/news/2025/",
+    "https://www.daifuku.com/jp/ir/news/",
+    "https://edinetdb.jp/company/E01551/presentations/"
+   ]
+  },
+  {
+   "query": "ダイフク 事業系統図",
+   "results": [
+    "https://www.daifuku.com/jp/ir/assets/profile2024_jp.pdf",
+    "https://www.daifuku.com/jp/company/summary/",
+    "https://www.daifuku.com/jp/ir/assets/25_full_j.pdf",
+    "https://www.daifuku.com/jp/company/business/",
+    "https://www.daifuku.com/jp/ir/assets/profile2026_jp.pdf",
+    "https://www.daifuku.com/jp/company/history/",
+    "https://kitaishihon.com/company/6383/business",
+    "https://www.daifuku.com/jp/company/",
+    "https://www.daifuku-carwash.jp/company/about-daifuku/",
+    "https://ja.wikipedia.org/wiki/ダイフク"
+   ]
+  },
+  {
+   "query": "ダイフク 社長 インタビュー",
+   "results": [
+    "https://www.weekly-economist.com/interview/terai_tomoaki/",
+    "https://www.sankei.com/article/20241227-KW6IKNWJGZOPVL5H7XSFSYZUEE/",
+    "https://txbiz.tv-tokyo.co.jp/nms/special/post_327082",
+    "https://www.daifuku.com/jp/company/greeting/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC271KU0X20C26A2000000",
+    "https://www.instagram.com/p/DBu4DOITRyN/",
+    "https://toyokeizai.net/articles/-/874269?display=b",
+    "https://www.youtube.com/watch?v=h5P1X_Z8te0",
+    "https://online.logi-biz.com/134942/",
+    "https://www.daifuku.com/jp/employment/work/interview/index.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2166 @@
+{
+ "name": "ソリトンシステムズ",
+ "aliases": [],
+ "context": "証券コード3040／情報・通信業／プライム（内国株式）／2025.12期 売上高19,762百万円 営業利益率14.4%",
+ "researched_at": "2026-11-02T19:00:31.097807+00:00",
+ "official_url": "https://www.soliton.co.jp/",
+ "identified_by": "search:yahoo_jp:ソリトンシステムズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1979年3月1日",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "655人（ソリトングループ連結：2025年12月 現在）",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ITセキュリティ事業 認証ベースのログオン制御、データへのアクセス制御、ログ収集システム、ネットワーク分離 サイバーセキュリティ対策、サイバー脅威情報、情報漏洩調査とCSIRT関連サービス テレワーク用セキュリティ、IT機器の脆弱性検出 映像コミュニケーション事業 4G、5Gモバイル回線による高品質リアルタイム画像伝送システム「Smart-telecaster」の開発・販売、車、重機の遠隔操縦 Eco 新規事業開発 アナログ・デジタル混合半導体デバイスの開発・販売 特殊映像伝送システムの開発",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "197億円（2025年12月期・連結）",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "Ⅰ　売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "17,482 1,000 122 18,606",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高 又は振替高",
+    "value": "7 33 22 63",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "18,516 1,053 191 19,762",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高 又は振替高",
+    "value": "17 12 13 43",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "前連結会計年度 当連結会計年度",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "label": "連結財務諸表の売上高",
+    "value": "18,606 19,762",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "網屋のSIEM「ALog」が「Soliton OneGate」に対応 ― 認証ログを活用し、セキュリティ監視やユーザー行動の横断的な追跡を支援 ―",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の技術で、顧客に喜ばれる質の高い製品とサービスを提供します",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、官公庁、地方自治体、学校、病院、民間企業まで幅広いお客様に製品・サービスを提供しています",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "またやお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.soliton.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2. 顧客のシステムに悪影響を及ぼすことが無いよう万全の処置を講じます",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/soliton-ISMS_20260204.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. お客様システムの隔離",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社クラウドサービスは、各お客様システム（テナント）を物理的または論理的に隔離するように設計します",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. 当社スタッフによるお客様データへのアクセス",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社スタッフによるお客様データへのアクセスは、サービスの仕様上、当社が必要と定める最小限の操作以外を除き、禁",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、お客様データを取り扱うクラウドサービス運用担当者には、当社の規程に基づき定期的な教育・訓練を",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6. 当社クラウドサービスの変更管理と、変更に関するお客様への通知",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よび変更の影響について当社の規程に基づきお客様への通知を要すると判定される場合は、各サービスの実施要領に定め",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "8. お客様データの保護",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社クラウドサービス上のお客様のデータは、物理的、技術的に安全であることを当社が検証したデータセンターまたは",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "9. お客様アカウントのライフサイクル管理",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社クラウドサービスでは、お客様管理者のアカウント情報は、サービス開始時に登録され、解約時に削除されるよう運",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者アカウント情報の登録・変更・削除は、お客様の判断により管理することとします",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社クラウドサービスへのアクセスログ等の情報提供については、原則として当該クラウドサービスの機能によりお客様",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品や保守料金の値上げを実施しつつも着実に顧客基盤を維持・拡大できる構造",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "さらにクラウド認証サービス「Soliton OneGate」との連携ライセンス投入により、1顧客あたりの平均単価向上（ARPU向上）が進展",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズは、強固な顧客基盤と独自技術を強みに、サイバーセキュリティ需要の高まりを捉えて好調な業績を維持しています",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発の成果を素早く事業化できるフットワークの軽さと、長年培ってきた顧客への提案力が組み合わさることで、同社ならではの独自製品をタイムリーに世に出すことが可能になっています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が大企業から教育機関まで幅広いため、直接アプローチする場合もあれば、特定業種に強い代理店を通じてソリューションを提案するケースも多いです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこうした複数チャンネルを確保しているのかというと、顧客規模や業種によって導入プロセスが大きく異なるIT製品において、効率的にニーズを満たすには多角的な販売経路が欠かせないからです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインチャネルを活用することで、遠隔や地方からの問い合わせにも対応しやすくなり、潜在顧客との接点拡大を図ります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、高度な技術サポートとコンサルティングサービスを提供することで、顧客満足度を高い水準に保っています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後も運用ノウハウを共有したり、セキュリティ研修やトレーニングを実施することで、顧客の現場に根付いた使い方をサポートします",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこのような形で顧客との関係を築いているのかというと、ITセキュリティや映像技術は日々進化し、運用段階での課題や疑問が多発するためです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこうした複数の収益形態を確立しているかというと、ITセキュリティや映像システムは導入後のアップデートやサポートが重要であり、単発で終わらせずに顧客と長期的な関係を築くことで、安定した収益源を確保できるからです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "また、高度な技術者やエンジニアを多数抱えることで、新技術の実用化や顧客サポート体制を充実させています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "それにより新規顧客の獲得コストが下がると同時に、充実した開発リソースを継続的に確保でき、より高度なプロダクトへと進化させることが可能になります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のクラウドシフトを認証で支援",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーIDとデジタル証明書のクラウド運用に対応し、顧客の運用管理効率化と段階的なクラウド移行を支援する",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、長期的な取引維持のために、特定の取引先の株式等を保有しております",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ＩＴセキュリティ事業」は、情報漏洩対策、認証とアクセス制御、テレワークの為のセキュリティ対策、サイバーセキュリティ対策のソフトウエア等を自社で開発し、最適なシステム構築の提案ならびに運用サービスを顧客へ提供しております",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークセキュリティを強化する認証ソリューション",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最新ガイドラインに準拠したセキュリティソリューション",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバーセキュリティ総合支援サービス",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "課題解決型の専門的サービスで支援します",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Zao Cloud サービス",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な映像を現場から配信 ソリトンの遠隔臨場サービス",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ソリューション連携】アライドテレシスとソリトンシステムズが ゼロトラスト環境を支えるセキュアなネットワークアクセスを支援 ～ デジタル証明書を活用した認証連携により、安全で運用しやすいネットワーク認証を実現 ～",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "認証基盤を「導入して終わり」にしない 「ソリトン支援サービス for OneGate」を提供開始 ― 日々の運用と継続的な改善を支える、運用支援サービス展開の第1弾 ―",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "HiQZenサービスにおける脆弱性および対応状況について （第二報：サービス再開のお知らせ）",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の技術で、顧客に喜ばれる質の高い製品とサービスを提供します",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「独創」と「ものづくり」にこだわり、グローバルな世界市場に向け、製品とサービスを提供しています",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世の中を支える製品・サービス",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主な製品ラインナップ",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルの「もの創り」にこだわり、世の中で必要とされる製品やサービスを提供しています",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちの製品やサービスは世の中に幅広く広がり、今や思いも寄らないところで人々の幸せや社会の繁栄に貢献しています",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "独創とものづくりにこだわり製品とサービスを提供する",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、官公庁、地方自治体、学校、病院、民間企業まで幅広いお客様に製品・サービスを提供しています",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "「独創性」と「感動」を与える自社製品をこれからも提供していきます",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "主な出展製品",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そんなソリトンの「こんなところに！」をご紹介します",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/kabuka.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/kabuka.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/kabuka.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/highlight-e/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/highlight-e/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/highlight-e/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/library-e/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/library-e/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/library-e/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight1.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight1.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight1.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight2.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight2.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight2.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/library/library1.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/library/library1.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/library/library1.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーについて",
+    "url": "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー様向け",
+    "url": "https://www.soliton.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスメニューのご紹介",
+    "url": "https://www.soliton.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "令和8年熊本地震に伴う保守対応への影響について",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "：ストックビジネス比率の拡大と、開発を進めるアナログエッジAIチップの商業化",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "：セキュリティ製品の販売、保守サポート、クラウドサービスの月額利用料、役務提供など",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "：従来の機器売り切り型（フロー型）から、クラウドや保守による継続課金型（ストック型）への移行を推進中",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "製品や保守料金の値上げを実施しつつも着実に顧客基盤を維持・拡大できる構造",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "さらにクラウド認証サービス「Soliton OneGate」との連携ライセンス投入により、1顧客あたりの平均単価向上（ARPU向上）が進展",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "同社の収益は、ライセンスや製品販売によるイニシャル売上と、クラウドサービスや保守サービスの継続課金によるストック型売上の両面で構成されています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "また、グローバル展開やM&Aなどを通じて成長のアクセルを踏む可能性も視野に入れながら、サブスクリプションやクラウド対応のサービス分野で収益基盤を一段と強固にしていくと考えられます",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスは堅調に増加し、ストックビジネスの割合は44%に達し、今後3年間で60%への増加を目指す",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスや製品と回線サービスをセットにしたリカーリングビジネスモデルの割合が増加し、毎月のベース売上増に貢献",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E9%8E%8C%E7%94%B0%E4%BF%A1%E5%A4%AB",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ソリトンの強み」へ",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み | ソリトンの強み | 企業情報 | 株式会社ソリトンシステムズ",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/kabuka.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/highlight-e/index-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/library-e/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight2.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/library/library1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリトンの強み",
+    "url": "https://www.soliton.co.jp/ir/highlight-e/highlight1-e.html",
+    "pass": 1
+   },
+   {
+    "quote": "4. 事業内容と強み（事業セグメント別）",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "5. 競合比較・構造的強み",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "他社優位性・参入障壁",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "高い信頼性と、オンプレミスからクラウドまで柔軟に対応できる独自の技術開発力が強力な参入障壁",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率は50.1%へと大きく改善し、中間期として過去最高益を更新",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズは、強固な顧客基盤と独自技術を強みに、サイバーセキュリティ需要の高まりを捉えて好調な業績を維持しています",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発による高機能な認証アプライアンスやセキュリティソフト、クラウドサービスを強みとしており、官公庁や教育機関、民間企業に至るまで幅広い組織のITインフラ保護やサイバーセキュリティ強化を足元から力強く支えています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは長期的な研究開発の積み重ねによって蓄積されてきたものであり、模倣が難しい点に大きな強みがあります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、積極的なR&Dと人材投資が同社の強みを支える基盤になっています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした要素が重なり合うことで、同社は未来に向けて確かな競争優位を築き上げることが期待されます",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "中国子会社売却による影響があったものの、公共分野（防災・防衛）での大型案件獲得や校務DX需要拡大により自社製品/サービスの販売が好調で、セグメント売上高は前年比5.9%増、セグメント利益は17.3%増、営業利益率は20.1%に改善した",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省のi-Construction 2.0に準拠した遠隔施工や国内レベル4自動運転実証などでの技術・強みを発揮している",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境下、当社グループの業績について、ITセキュリティ事業の自社製品/サービスの売上が伸長し、売上高19,762百万円(前年同期比6.2％増）となり、粗利率は46.7％（前年同期：44.6％）に改善しました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、営業利益は、2,844百万円（前年同期比39.2％増）、営業利益率は14.4％（前年同期：11.0％）となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、滞留及び過剰在庫の内、陳腐化した棚卸資産については、適正な価値で評価されるように評価減の金額を見積もっております",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の売上高19,762百万円(前年同期比6.2％増）、売上総利益9,237百万円（前年同期比11.4％増）、売上総利益率46.7％（前年同期44.6％）となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率は前年同期比2.2％増加となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "経費面では、会社のオフィス環境の整備や将来的な人材への投資等により、販売費及び一般管理費は6,392百万円（前年同期比2.3％増）となりましたが、前述のように売上高の増収と売上総利益率の改善により、当連結会計年度の営業利益は2,844百万円（前年同期比39.2％増）、売上高営業利益率は14.4％（前年同期11.0％）となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月29日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月27日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日 ～ 2026年11月15日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日 ～ 2026年10月28日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日 ～ 2026年10月23日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日 ～ 2026年10月16日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月30日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震に伴う保守対応への影響について",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月27日",
+    "url": "https://www.soliton.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 23 日（金）10:00 ～ 16:10",
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 中間決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 中間決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第1四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 中間決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第1四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 第2四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 第1四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 第2四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 第1四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 第2四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 第1四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期 決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期 第3四半期決算発表",
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年3月1日",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | 株式会社ソリトンシステムズ",
+    "url": "https://www.soliton.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和６年能登半島地震にて、被災した自治体向けにウェアラブルカメラ及びクラウド型映像配信サービスを無償提供",
+    "url": "https://www.soliton.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 2 月 4 日 株式会社ソリトンシステムズ",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/soliton-ISMS_20260204.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020 年 7 月 14 日 株式会社ソリトンシステムズ",
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月12日 19:33",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月24日時点で1,154円を記録しています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "3. ビジネスモデルと収益構造",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスの仕組み",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "新時代の成長戦略を切り拓く ソリトンシステムズのビジネスモデルと最新IR資料に迫る | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "新時代の成長戦略を切り拓く ソリトンシステムズのビジネスモデルと最新IR資料に迫る",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "IMAGICA GROUPのビジネスモデルの魅力はここだ 成長戦略とIR資料から読み解くポイント",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションが導く成長戦略 驚くべきビジネスモデルを誇る株式会社フライトソリューションズ",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略に注目 株式会社プロディライトの魅力を探るビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "KADOKAWAの魅力に迫る ビジネスモデルで見る成長戦略",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットショップ業界を変革するBASEのビジネスモデル徹底解説と成長戦略の全貌",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "急拡大する宇宙スタートアップSynspectiveのビジネスモデルと成長戦略を徹底解剖",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "話題のIR資料も要チェック ビューティカダンホールディングスのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとIR資料を読み解く 株式会社ジンズホールディングスの成長戦略に迫る",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスや製品と回線サービスをセットにしたリカーリングビジネスモデルの割合が増加し、毎月のベース売上増に貢献",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業系統図は次のとおりであります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "4. 事業内容と強み（事業セグメント別）",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "ITセキュリティ事業（売上構成比：約94%）",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "映像コミュニケーション事業（売上構成比：約5%）",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "Eco新規事業開発（売上構成比：約1%）",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "超低消費電力を特徴とする次世代「アナログエッジAIチップ」の開発を進める先端投資セグメント",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業、自治体、教育機関、自動車業界など、幅広いセグメントにアプローチしています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこのように多彩なセグメントを対象にしているかというと、デジタル化が進む現代では、セキュリティや遠隔コミュニケーションの需要があらゆる組織に広がっているからです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ITセキュリティ事業の概要を再掲し、2025年度の収益分解とセグメント売上高・利益について詳細を説明",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "中国子会社売却による影響があったものの、公共分野（防災・防衛）での大型案件獲得や校務DX需要拡大により自社製品/サービスの販売が好調で、セグメント売上高は前年比5.9%増、セグメント利益は17.3%増、営業利益率は20.1%に改善した",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント売上高は前年同期比で増収",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成のバランスが改善した",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "各事業セグメントの製品戦略やアナログエッジAIチップの開発についても触れられている",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年度までの事業ユニット（ITセキュリティ事業、コンテンツ配信事業、ネットワーク構築組込システム事業、その他ネットワーク機器販売事業）を、2010年度からはITセキュリティ事業、ITインテグレーション事業、映像コミュニケーション事業、エコデバイスソリューション事業の4つの新事業セグメントに再編する",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのセグメント別の営業種目及び当社と関係会社の位置付けは次のとおりです",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の経営成績は、次のとおりです",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "当該変更後のセグメント区分に基づき前連結会計年度のセグメントの業績値を変更し、前年同期比較を記載しています",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は18,516百万円（前年同期比5.9％増）、セグメント利益は3,717百万円（前年同期比17.3％増）となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は1,053百万円（前年同期比5.3％増）、セグメント利益は52百万円（前年同期比93.1％増）となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "「Smart-telecasterシリーズ」について、国内外のパブリックセーフティ分野（防衛、公的治安、災害対処）への販売を中心に、売上高は増収、セグメント利益も増益となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は191百万円（前年同期比55.5％増）、セグメント損失は184百万円（前年同期はセグメント損失181百万円）となりました",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高のセグメント別変動要因に関する詳細については、「１.経営成績等の状況の概要（1）財政状態及び経営成績の状況」をご参照ください",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、最高経営意思決定機関が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社グループは、事業ユニットを基礎とした製品・サービス別のセグメントから構成されており、「ＩＴセキュリティ事業」、「映像コミュニケーション事業」及び「Eco 新規事業開発」の３つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表を作成するために採用される会計方針に準拠した方法であります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【兼業投資家向け】ソリトンシステムズ（3040）の事業モデルと最新決... — Aug 12, 2026 · 3. ビジネスモデルと収益構造 ・ 収益源：セキュリティ製品の販売、保守サポート、クラウドサービスの月額利用料、役務提供など。 ・ 顧客層：BtoBおよびBtoG（官公庁、地方自治体、教育機関、医療機関、民間企業）。",
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "pass": 3
+   },
+   {
+    "quote": "新時代の成長戦略を切り拓く ソリトンシステムズのビジネスモデルと最... — Jan 31, 2025 · 企業概要と最近の業績 株式会社ソリトンシステムズ 【全体の業績】 株式会社ソリトンシステムズは、ネットワークセキュリティやITソリューションの構築を手掛けるITセキュリティ事業を中心に、遠隔映像伝送システムなどを展開する映像コミュニケーション事業や新規技術開発を行うEco事業 ...",
+    "url": "https://consovation.com/新時代の成長戦略を切り拓く-ソリトンシステムズ/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社ソリトンシステムズ（証券コード：3040）徹底解説】セキュ... — Apr 21, 2026 · 本記事では、ITセキュリティを主軸に官公庁・重要インフラ向けビジネスを展開する株式会社ソリトンシステムズの 2025年12月期決算 について、事業構造と成長の実態を整理します。",
+    "url": "https://it-trend.jp/security-system/market/01-3040",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソリトンシステムズ 中期経営計画 — EDINET DB — Jun 28, 2026 · 株式会社ソリトンシステムズは、2026年12月期から2028年12月期までの3ヵ年の中期経営計画を策定した。 目指す姿は「ニッチキングを脱し、DXの基盤を支える企業に」である。",
+    "url": "https://edinetdb.jp/company/E05592/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズ（3040）：事業分析レポート｜ようじ — Nov 19, 2025 · これら自社製品は国内企業や官公庁に数多く導入されており、例えばPCログオン多要素認証「SmartOn」は国内シェアNo.1を誇ります 。 ソリトンのITセキュリティ製品は高い独自性と一貫したビジネスモデルが特徴です。",
+    "url": "https://note.com/kakuka0904/n/nd63592d208b2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソリトンシステムズ 決算説明資料 — EDINET DB — 株式会社ソリトンシステムズの決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンス ...",
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソリトンシステムズ（3040）適時開示・決算短信 一覧｜毎日更... — 株式会社ソリトンシステムズ（3040）の適時開示 3 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/3040/conference",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズ（3040）のIR情報・決算資料 | IRBANK — May 13, 2026 · ソリトンシステムズ（3040）のIR情報・決算資料 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 2 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 2026/08/12 2026年12月期中間決算補足説明資料（16:00）",
+    "url": "https://irbank.net/3040/ir",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 株式会社ソリトンシステムズ — Jun 30, 2026 · IR情報のページです。日本語English... Adobe Readerのダウンロード PDFファイルをご覧になるには、アドビシステムズ社が配布しているAdobe Reader（無償）が必要です。ソフトがインストールされていない場合は、Adobe社のウェブサイトからダウンロードし、お使いのパソコンにインストールしてください。",
+    "url": "https://www.soliton.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信 | IR資料 | IR | 株式会社ソリトンシステムズ — May 12, 2025 · IR資料 - 決算短信のページです。日本語Englishご利用に際しての注意事項...",
+    "url": "https://www.soliton.co.jp/ir/library/library1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズ【3040】の事業内容 - キタイシホン — 2．当連結会計年度において、索利通網絡系統（上海）有限公司の出資持分を全て売却したため、連結の範囲から除外しております。 [事業系統図] 当社グループの事業系統図は次のとおりであります。 （2025年12月31日現在）",
+    "url": "https://kitaishihon.com/company/3040/business",
+    "pass": 3
+   },
+   {
+    "quote": "3040 ソリトンシステムズ | 事業内容 - 有価証券報告書-第46期 (2023/... — Jan 1, 2023 · (注)その他の関係会社の㈲Zen-Noboksは、当社株式の44.3%を所有している資産管理会社でありますが、当社の 事業との取引関係がないため、表から除外しております。 [事業系統図] 当社グループの事業系統図は次のとおりであります。 (2023年12月31日現在)",
+    "url": "https://irbank.net/E05592/business?f=S100T1CR",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズ（3040）の事業内容、事業の状況や経営戦略、事業... — 2．当連結会計年度において、索利通網絡系統（上海）有限公司の出資持分を全て売却したため、連結の範囲から除外しております。 [事業系統図] ソリトンシステムズグループの事業系統図は次のとおりであります。 （2025年12月31日現在）",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3040",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社ソリトンシステムズSOLITON SYSTEMS K.K. (3040) 株式会社ソリトンシステムズ — Financia...ソリトンシステムズ（3040）｜上場企業 事業内容の全文 — 「創造性と国際性を持つ技術者集団」 （株）ソリトンシステムズは、米国でマイクロプロセッサが誕生した頃、インテル社に在籍した鎌田信夫（現会長）が、その関連業務や応用研究活動で知り合ったジャーナリスト、大学教授、メーカーの研究員など、11人の博士を含む37人の出資により設立 ... 2．当連結会計年度において、索利通網絡系統（上海）有限公司の出資持分を全て売却したため、連結の範囲から除外しております。 [事業系統図] 当社グループの事業系統図は次のとおりであります。 （2025年12月31日現在） Show more Financials Valuation ソリトンシス",
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "SOLITON SYSTEMS K.K. (3040) 株式会社ソリトンシステムズ — Financia... — 2．当連結会計年度において、索利通網絡系統（上海）有限公司の出資持分を全て売却したため、連結の範囲から除外しております。 [事業系統図] 当社グループの事業系統図は次のとおりであります。 （2025年12月31日現在） Show more Financials Valuation",
+    "url": "https://hachiquant.com/companies/3040",
+    "pass": 3
+   },
+   {
+    "quote": "鎌田信夫 - Wikipedia — 21/3/25 有価証券報告書－第43期 (令和2年1月1日－令和2年12月31日） 日本経済新聞社 第 21 回 KVS セミナー （第 2 回蔵前ベンチャー賞受賞社記念講演会）講演録 蔵前工業会 伊藤守 アキレス（株）代表取締役社長、鎌田信夫（株）ソリトンシステムズ代表取締役社長からのメッセージ 米沢より愛を ...",
+    "url": "https://ja.wikipedia.org/wiki/鎌田信夫",
+    "pass": 3
+   },
+   {
+    "quote": "メディア・対談・出演情報 | IR | 株式会社ソリトンシステムズ — Apr 28, 2026 · IR情報 メディア・対談・出演情報 一部指定インタビュー 東京証券取引所市場第一部銘柄への指定時における、弊社代表取締役社長へのインタビューがご覧いただけます。 （配信日：2017年11月13日）",
+    "url": "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご挨拶 | 企業情報 | 株式会社ソリトンシステムズ — 略歴 1994年慶応義塾大学経済学部卒、日本オラクル株式会社に入社。主にDatabase製品の技術検証、販売業務に従事。 21年ソリトンシステムズ入社後、ITセキュリティ事業部営業統括本部長、事業部長（現任）を経て、24年代表取締役社長就任。",
+    "url": "https://www.soliton.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社ソリトンシステムズ — ソリトンの強み ソリトンシステムズは、「日本で初めて...」にチャレンジし続けるITメーカーです。 オリジナルの「もの創り」にこだわり、世の中で必要とされる製品やサービスを提供しています。",
+    "url": "https://www04.soliton.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリトンシステムズ社長に鎌田理氏 - 日本経済新聞 — Nov 23, 2023 · 鎌田理氏（かまた・おさむ）94年（平6年）慶大経卒、日本オラクル入社。19年ソリトンシステムズ取締役。東京都出身。53歳 （24年1月1日就任 ...",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00033_S3A121C2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.soliton.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/company/feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/event/detail/semireport132.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/index-e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/kabuka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/highlight-e/index-e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/library-e/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/library-e/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/highlight/highlight2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/library/library1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soliton.co.jp/ir/highlight-e/highlight1-e.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.soliton.co.jp/company/assets/pdf/soliton-ISMS_20260204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soliton.co.jp/company/assets/pdf/ISO27017_20200714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soliton.co.jp/company/assets/pdf/CORP-PROF-2605A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/company/feature/img_company_businessarea_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/company/feature/img_company_businessarea_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/company/feature/img_company_businessarea_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/top/img_top_businessarea_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/top/img_top_businessarea_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/top/img_top_businessarea_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.soliton.co.jp/assets/img/top/img_business-info.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E05592/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treelazy.com/stock-jp/3040/conference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3040/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/E05592/business?f=S100T1CR",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%8E%8C%E7%94%B0%E4%BF%A1%E5%A4%AB",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソリトンシステムズ",
+   "results": [
+    "https://www.soliton.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://x.com/soliton_jp",
+    "https://solitonsystems.com/",
+    "https://www.youtube.com/c/SolitonSystemsOfficial",
+    "https://ja.wikipedia.org/wiki/ソリトンシステムズ",
+    "https://www.soliton.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/3040.T",
+    "https://jp.linkedin.com/company/solitonjp",
+    "https://solitonsystems.com/who-we-are/"
+   ]
+  },
+  {
+   "query": "ソリトンシステムズ ビジネスモデル",
+   "results": [
+    "https://note.com/sokyokutei/n/n182e1f95e8ce",
+    "https://consovation.com/新時代の成長戦略を切り拓く-ソリトンシステムズ/",
+    "https://it-trend.jp/security-system/market/01-3040",
+    "https://edinetdb.jp/company/E05592/midterm-plans/",
+    "https://note.com/kakuka0904/n/nd63592d208b2",
+    "https://www.soliton.co.jp/ir/",
+    "https://www2.jpx.co.jp/disc/30400/140120260213560704.pdf",
+    "https://ma-kabukatsunikki.hateblo.jp/entry/stock__analysis14",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3040",
+    "https://www.crex-data.com/company/3040"
+   ]
+  },
+  {
+   "query": "ソリトンシステムズ 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E05592/presentations/",
+    "https://treelazy.com/stock-jp/3040/conference",
+    "https://irbank.net/3040/ir",
+    "https://www.soliton.co.jp/ir/",
+    "https://www.soliton.co.jp/ir/library/library1.html",
+    "https://www2.jpx.co.jp/disc/30400/140120260213560704.pdf",
+    "https://www04.soliton.co.jp/ir/library-e/library1-e.html"
+   ]
+  },
+  {
+   "query": "ソリトンシステムズ 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/3040/business",
+    "https://irbank.net/E05592/business?f=S100T1CR",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3040",
+    "https://www.soliton.co.jp/company/profile.html",
+    "https://hachiquant.com/companies/3040",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=3040",
+    "https://www.soliton.co.jp/company/office.html"
+   ]
+  },
+  {
+   "query": "ソリトンシステムズ 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/鎌田信夫",
+    "https://www.soliton.co.jp/ir/jpxinterview.html",
+    "https://www.soliton.co.jp/company/message.html",
+    "https://www04.soliton.co.jp/company/",
+    "https://www.nikkei.com/article/DGXZQODZ00033_S3A121C2000000/",
+    "https://the-shashi.com/tse/3040/executives/",
+    "https://www.kabutecho.com/interview/トレンド見極め、国内首位製品を次々と開発-技術/"
+   ]
+  }
+ ],
+ "missing": {}
+}

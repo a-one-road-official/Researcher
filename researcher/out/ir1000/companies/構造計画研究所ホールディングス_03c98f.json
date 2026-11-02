@@ -1,0 +1,1666 @@
+{
+ "name": "構造計画研究所ホールディングス",
+ "aliases": [],
+ "context": "証券コード208A／情報・通信業／スタンダード（内国株式）／2026.06期 売上高22,453百万円 営業利益率15.8%",
+ "researched_at": "2026-11-02T18:50:38.824359+00:00",
+ "official_url": "https://www.kke-hd.co.jp/",
+ "identified_by": "search:yahoo_jp:構造計画研究所ホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "（創業者",
+    "value": "服部正）",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2024年7月1日",
+    "url": "https://kumanichi.com/articles/1940582",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "767人(2025年11月1日現在)",
+    "url": "https://kumanichi.com/articles/1940582",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "68年前、昭和31年6月に日本初の構造設計専業の設計事務所として服部正が創業し、3年後株式会社として設立された構造計画研究所は、21世紀に入り、システムインテグレーターから脱却し、顧客に真に高い付加価値サービスを提供できる技術コンサルティングファームに変貌しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "東京工業大学建築学科からスピンオフした創業者は、産学連携による工学知と20世紀後半から急展開した情報技術を組み合わせて、顧客の相談相手たる技術の「総合医」となることを夢見ておりました",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "独立系企業として全ての顧客と対等なパートナーシップを構築し、さまざまな企業の業務の理解を深めて経験知を蓄積し、知識集約型企業に相応しい価値提供を目指す",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "構造計算とプログラミング開発、双方の高い技術力を活かしたシステム開発は高い信頼を得て多くのお客様に導入していただいており、現在も当社の大きな事業の柱となっています",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個別の課題に対して、工学知に基づく付加価値の高いエンジニアリング・サービスを提供することにより、多くのお客様から信頼いただき、収益性の高いコンサルティング・ビジネスを展開しています",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "多様なお客様",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "夢と志、気概とやる気を持って顧客と対峙しながら、良い仕事をすることが個人の成長、組織の成長につながる",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 素晴らしいお客様との出会いと実践を通じた所員の成長",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "「大学、研究機関と実業界をブリッジする」という創業以来の経営理念に加えて、世界で最も価値のある最新の技術を探索、発見し、当社ならではの付加価値を加え顧客に提供いたします",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "組織形態としては、「Professional Design & Engineering Firm」として、技術の探求に加えて、社会や顧客のニーズを見極めるマーケティング活動を行いながら、ステークホルダーとともに将来に向けた新たな価値を創造し、サステナブルな成長を目指してまいります",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "また、所員のみならず、顧客・研究機関や投資先等のパートナー・協力会社・フリーランスの協力者・地域社会・株主や投資家を含むステークホルダーとの共生を重視し、その信頼と期待に応えるべく、経営の透明性と効率性を確保し、適切な経営体制の構築・維持に努めております",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/ir/stock-rating/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/stock-rating/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、本情報および資料の利用は、他の方法により入手された情報とも照合確認し、利用者の判断によって行なって下さいますようお願いいたします",
+    "url": "https://www.kke-hd.co.jp/ir/public_announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/public_announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業のあらゆる場面でお客様の良き相談相手であることは、私たちが目指す『21世紀を代表する知識集約型企業』のありかたの一つです",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "「安全な構造物の設計や地震による構造物への影響評価、台風・豪雨対策のための風・浸水状況の評価や河川水位予測、シミュレーションに基づく災害時の住民の避難計画策定支援など、当社は、お客様の直面する社会課題の解決に貢献してまいりました",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "も コ ス ト がかかるほか、利用者が殺到すれば通常業務に支",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "仲間やお客様の「想い」を大切にし",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステップ１：顧客との契約を識別する",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該履行義務",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約書等で受け渡しの条件を指定しており、顧客がソフトウェアを利用できる状態になった時点で顧客",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金は、顧客の信用リスクに晒されておりますが、当社が定めた「営業",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、下記のとおりであります",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権(期首残高)",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権(期末残高)",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 顧客との契約に基づく履行義務の充足と当該契約から生 じるキャッシュ・フローとの関係並びに当連結会計",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年度末において存在する顧客との契約から翌連結会計年度以降に認識すると見込まれる収益の金額及び時期",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、顧客からの前受金",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プロダクツサービスの提供がお客様からの高い評価を得て、加速度的に多角化が進んでいます",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、お客様に提供 するサービスの品質を 最重要課題として捉えるとともに、こ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "算、品質の面から第一級の顧客満足度の維持を目指し、 チーム及び所員一人ひとりが必要かつ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また不特定多数のお客様へ提供 するプロダクツサービスビ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジネスでは、顧客の潜在的なニーズを把握し製品 やサービスの改善に活かす マーケティングの",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、過去に発生した品質不良による顧客への迷惑を反省し、常に確かな品質",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を保証し価値ある成果を提供することで、顧客の信頼と期待を獲得し続けることを誓ってお",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "野が拡大したエンジニアリングコンサルティングビジネスでは、顧客のニーズを聞き出すコ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "68年前、昭和31年6月に日本初の構造設計専業の設計事務所として服部正が創業し、3年後株式会社として設立された構造計画研究所は、21世紀に入り、システムインテグレーターから脱却し、顧客に真に高い付加価値サービスを提供できる技術コンサルティングファームに変貌しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "工学的手法に立脚したユニークな解決策（ソリューション）を提供することによって高付加価値を実現する組織",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当時の新聞には「頭脳を売る無形商品の輸出への道を開くものとして注目」との記載もあります",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "この当時、コンピュータは高額で大企業や研究機関など限られた人々しかコンピュータを利用できませんでしたが、中小の事業者でも電話回線を通じて国産高速コンピュータDIPS-1にアクセスできる画期的な科学技術計算サービスシステム、「DEMOS(Dendenkosha - Multi access Online System)」が登場します",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けソリューションの展開",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "小売業のマーケテイングコンサルティングではいち早くコンピュータインタビューを導入し、様々な業界の様々な製品やサービスの調査に適用して経験を重ねました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "80年代後半に携帯電話サービスが始まり、移動体通信の需要が増大",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年、飛躍的な成長を遂げていた米国コロラド州に拠点を持つSendGrid社のクラウドベースメ―ル配信サービス「SendGrid」の提供を日本国内にて開始",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個別の課題に対して、工学知に基づく付加価値の高いエンジニアリング・サービスを提供することにより、多くのお客様から信頼いただき、収益性の高いコンサルティング・ビジネスを展開しています",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、18世紀から進展してきたエンジニアリング技術（工学知）と20世紀半ばから急速に進化してきた情報技術とを効果的に融合し、賢慮にみちた未来社会の創出に向けて高付加価値なサービスを提供し続けてまいります",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、クラウドサービスやハードウェア技術を持つ企業との協業や投資先の企業へ所員の派遣を積極的に行っています",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "このような取り組みを通じて、海外で立ち上がりつつあるサービスから新たなビジネスモデルを学び、新たな技術を日本社会へ伝搬し、還元していくマーケティング活動を積極的に進めております",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクツサービス",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス提供の広がり",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドを活用したサービス提供",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "受託型エンジニアリング・コンサルティングとソフトウェアパッケージ販売を中心に事業展開を行う一方で、新たなサービス形態による価値創造を行ってまいりました",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では新規事業であるサブスクリプション型のクラウドサービスが当グループの事業拡大に大きく寄与しております",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "目まぐるしい技術変動のなかで情報技術を活用したマス向けのクラウドサービスを提供できるよう、モノもコトもわかる21世紀型知識集約型企業の理念を今後も追求する所存です",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質の商品・サービスを提供するために、私たちは多様なジャンルで独自のノウハウを蓄積",
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、各分野のすぐれた商品や知識、研究結果を世界の企業・大学研究機関に求め、つねにベストなソリューションを提供できる体制を整えています",
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/stock-rating/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/public_announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "「10年間の進化を踏まえ、今年度は、2024年７月よりホールディングス体制を導入して、多様な知識集約型サービスをスピーディに展開することを目指し、より多様な人才を迎え入れられるような企業形態を準備しました",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアの知見は当社の技術の幅を広げると同時に、祖業である建築分野においても過去から現在に至るまで、当社独自のソリューション提供を可能にしました",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "「今後、当社が創業100周年を迎える2056年頃には、確固たるエンジニアリング技術を基盤としつつも変化する情報技術を活用して、信頼される技術コンサルティングの提供とマス向けのクラウドサービスが提供できるように、モノもコトもわかる21世紀型知識集約型企業の理念を追求する所存です",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke-hd.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "また新規ビジネスであるクラウドサービス提供",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メント別には、クラウドサービス提供型ビジネスが大きく伸",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長した結果、プロダクツサービスが売上の約 4 割を占める",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンジニアリングコンサルティング プロダクツサービス",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度においては、 引き続き ク ラ ウ ド サービス提供型ビジネ ス",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方で、新しいクラウ ドサービスの",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売型ビジネ スにおける新製品への先",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダク ツサービス全体の利益率は前連",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、 ク ラ ウ ド サービス全体のARR",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、プロダク ツサービスにおける ク ラ ウ ド サービス提供型ビジネ ス も継続的な成",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プロダクツサービス",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、 金融商品取引法等に基づく情報開示については適時適切な情報を開示できるよう努",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_ir_20260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ）関係会社出資金………………有限責任事業組合及びそれに類する組合への出資（ 金融商品取引法第２",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、有限責任事業組合及びそれに類する組合への出資（ 金融商品取引",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半製品、仕掛品…………………個別法による原価法（貸借対照表価額は収益性の低下による簿価切下げ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② プロダクツサービス",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プロダクツサービス事業における主な業務のパッケージソフトウェア販売においては、注文書・契",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ガバナンス体制としては指名委員会等設置会社を導入しております",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "産業界の皆様やアカデミアの方々とのオープンイノベーションを深め、当社グループの自律性と独立性を堅持しつつ、更なる海外パートナーとの出会いを模索します",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "企業グループとしての存在意義や使命、ならびに経営層や従業員の行動についての基本的な考え方をご紹介します",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "独立系企業として全ての顧客と対等なパートナーシップを構築し、さまざまな企業の業務の理解を深めて経験知を蓄積し、知識集約型企業に相応しい価値提供を目指す",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の70年間にわたる歴史をご紹介します",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当時世界最先端の汎用CADソフト「AutoCAD」を開発したAutodesk社と国内で最初となる代理店契約を締結しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会等設置会社へ移行",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業務執行と監督機能の明確な分離による経営監督機能の強化、業務執行における権限・責任の明確化と経営の透明性・客観性の向上等を目的として、指名委員会等設置会社へ移行",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナーの連携",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナーとの協業を通じてそのエッジの効いた技術（工学と情報技術）を上手く日本社会に定着させる、当社グループ独特のビジネスモデルは重要な役割を担ってきました",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "『既存ビジネスのサステナブルな成長と新規ビジネスの育成発展』を両立するため、グループ内の部門間連携と社外のパートナーの皆様との協業をさらに活発化させていきます",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 大学、研究機関、パートナーとの連携の促進",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "また、所員のみならず、顧客・研究機関や投資先等のパートナー・協力会社・フリーランスの協力者・地域社会・株主や投資家を含むステークホルダーとの共生を重視し、その信頼と期待に応えるべく、経営の透明性と効率性を確保し、適切な経営体制の構築・維持に努めております",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "機関設計としては、指名委員会等設置会社を選択し、取締役会は、独立性と豊富な知識・経験を有する社外取締役6名を含む9名で構成されております",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、指名委員会・監査委員会・報酬委員会において、指名・監査・報酬等の重要な事項に関する検討においても透明性と客観性を重視しております",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（指名、報酬諮問委員）（現任）",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社構造計画研究所 社外取締役、指名委員",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "同社 社外取締役、指名委員、報酬委員",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社 社外取締役、指名委員、報酬委員",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役（指名委員）（現任）",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社 社外取締役、指名委員",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ファーストパートナーズ・キャピタル",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "中央青山監査法人 パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "代表パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社マネーパートナーズグループ",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "日本みらいキャピタル株式会社設立、取締役パートナー&CFO",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー | 理念・経営方針 | 構造計画研究所ホールディングス",
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/stock-rating/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/public_announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナー",
+    "url": "https://www.kke-hd.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "（６） その他本自己株式取得に必要な一切の事項の決定については、取締役会決議で指名された",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/11/NewsRelease_ir_20261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） その他本自己株式取得に必要な一切の事項の決定については、取締役会決議で指名された",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/10/NewsRelease_ir_20261001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５ 当会社は、独立系企業として、国内外の様々なパートナーと良好な関係を構築し",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（９） 人材派遣及び紹介業務",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２） 指名委員会、監査委員会及び報酬委員会",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５章 指名委員会等",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第28条 指名委員会、監査委員会及び報酬委員会の委員は、取締役の中から、取締役会の",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） その他本自己株式取得に必要な一切の事項の決定については、取締役会決議で指名された",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_ir_20260901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） その他本自己株式取得に必要な一切の事項の決定 については、取締役会決議で指名さ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） その他本自己株式取得に必要な一切の事項の決定については、取締役会決議で指名され",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なパートナーと良好な関係を構築し協働する",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名 報酬 監査",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員、報酬委員 ★ ●",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員、報酬委員 ● ★",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役全員（11名）は、 本総会終結の時をもって任期満了となりますので、指名委員会の決定に",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明会",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 中間 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 有価証券報告書",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期 半期報告書",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明会",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 中間 決算説明会",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 中間 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期 株主通信",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第3四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第2四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第1四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 有価証券報告書",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第2四半期 半期報告書",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算説明会",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 中間 決算説明会",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算補足資料",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月1日に株式会社構造計画研究所ホールディングスが持株会社として誕生しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜理念・経営方針｜構造計画研究所ホールディングス",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代後半から1960年代前半にかけて、戦後復興のシンボルとして日本中で天守閣の再建ブームが沸き起こります",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年には社内にFACOM230/60を導入し、国産コンピュータの発展にも寄与しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年の大阪万博では多くの新進気鋭の建築家たちがパビリオンをデザインしました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月期（第2四半期）株主通信 p.6",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代に入ると、ビルのフロアを占有するような大型のメインフレームコンピュータに代わり、研究室や中小企業でも扱える小型のミニコンピュータが登場しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年、当社にOR（オペレーションズ・リサーチ）研究室が誕生しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年には、ノルウェーのオスロで開催された国際OR学会に、東京工業大学の松田武彦教授とともに日本の代表として出席",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年にノルウェーで開催された国際OR学会",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代後半になると、建築業界だけでなく製造業に向けても、CADをはじめとしたソフトウェアパッケージの展開を開始しました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年、大型プロジェクトの森ビル六本木ヒルズ計画に参画",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年には上海に構造設計のための事務所を開設し、上海環球金融中心プロジェクトにも携わりました",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年、飛躍的な成長を遂げていた米国コロラド州に拠点を持つSendGrid社のクラウドベースメ―ル配信サービス「SendGrid」の提供を日本国内にて開始",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年からは空間の3次元デジタル化を実現するプラットフォーム「NavVis」の提供を始めます",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 株主通信",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年4月",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年1月",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年6月",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年6月",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "レンタル代だけで月額60万円、初任給が1万2千円の時代でした",
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では新規事業であるサブスクリプション型のクラウドサービスが当グループの事業拡大に大きく寄与しております",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "（３） 情報処理にかかわるソフトウェアの開発・保守及び運用業務",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第13条 当会社の株式に関する取扱い並びに手数料、株主の権利行使に際しての手続等に",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 午前２時30分から午前４時30分までは、議決権行使サイトの保守・点検のため接続いただくことができ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで、検事・公証人として刑事・民事等を専門として42年間にわたり司法・法務という保守的な法律の",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "変わらないビジネスモデル",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "海外パートナーとの協業を通じてそのエッジの効いた技術（工学と情報技術）を上手く日本社会に定着させる、当社グループ独特のビジネスモデルは重要な役割を担ってきました",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "このような取り組みを通じて、海外で立ち上がりつつあるサービスから新たなビジネスモデルを学び、新たな技術を日本社会へ伝搬し、還元していくマーケティング活動を積極的に進めております",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "「人数を増やせば業績が正比例で増えるという労働集約的なビジネスモデルでなく、弊社の提供した価値がお客さまに認められた結果として対価をいただく、知識集約型組織を目指しております",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.kke-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.kke-hd.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の報告セグメント別の状況は、次のとおりであります",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数 前連結会計年度末比増減",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．同一の従業員が複数の事業に従事しておりますので、セグメントごとの従業員数を一括し",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数 前事業年度末比増減",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "結果、 営業利益率が大きく改善し15.8%となりました",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とで生まれる「知の循環」、それがイノベーションを創出する当社グループの強みであり、企業文化の源泉で",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益のエンジニアリングコンサルティングビジネスを着実に維持、発展 させつつ、新規顧",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経営方針 - 構造計画研究所ホールディングス — 経営方針 - 構造計画研究所ホールディングス 構造計画研究所ホールディングス https://www.kke-hd.co.jp > aboutus > management_policy",
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所ホールディングス の中間決算説明会にお越しい ... — 構造計画研究所ホールディングス の中間決算説明会にお越しい ... 構造計画研究所ホールディングス PDF https://www.kke-hd.co.jp > cms > uploads > 2026/04",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/04/explanation_script_20260220.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "理念・経営方針 - 構造計画研究所ホールディングス — 理念・経営方針 - 構造計画研究所ホールディングス 構造計画研究所ホールディングス https://www.kke-hd.co.jp > aboutus",
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 投資家情報 - 構造計画研究所ホールディングス — IRライブラリ | 投資家情報 - 構造計画研究所ホールディングス 構造計画研究所ホールディングス https://www.kke-hd.co.jp > library",
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期 決算説明 会 - 構造計画研究所ホールディングス — 2026年6月期 決算説明 会 - 構造計画研究所ホールディングス 構造計画研究所ホールディングス https://www.kke-hd.co.jp > news",
+    "url": "https://www.kke-hd.co.jp/ir/news/16637",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期 決算説明 会 株式会社 構造計画研究所 ... — 2025年6月期 決算説明 会 株式会社 構造計画研究所 ... 構造計画研究所ホールディングス PDF https://www.kke-hd.co.jp > explanation_20250821",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2025/08/explanation_20250821.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - 構造計画研究所ホールディングス - キタイシホン — IR 資料 - 構造計画研究所ホールディングス - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/208A/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報 | 財務データ | 投資家情報 — セグメント情報 | 財務データ | 投資家情報 構造計画研究所ホールディングス https://www.kke-hd.co.jp > financial > segment",
+    "url": "https://www.kke-hd.co.jp/ir/financial/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所ホールディングス 【208A】の 事業 内容 — 構造計画研究所ホールディングス 【208A】の 事業 内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/208A/business",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所ホールディングス ― Innovating for a Wise Future — 構造計画研究所ホールディングス ― Innovating for a Wise Future 構造計画研究所ホールディングス https://www.kke-hd.co.jp",
+    "url": "https://www.kke-hd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 構造計画研究所ホールディングス の企業概要 — 株式会社 構造計画研究所ホールディングス の企業概要 FactBoard https://fact-board.co.jp > company > d-kke",
+    "url": "https://fact-board.co.jp/company/d-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所ホールディングス 「工学的アプローチで社会 ... — 構造計画研究所ホールディングス 「工学的アプローチで社会 ... 熊本日日新聞社 https://kumanichi.com > articles",
+    "url": "https://kumanichi.com/articles/1940582",
+    "pass": 3
+   },
+   {
+    "quote": "株主通信|投資家情報 - 構造計画研究所ホールディングス — 株主通信|投資家情報 - 構造計画研究所ホールディングス 構造計画研究所ホールディングス https://www.kke-hd.co.jp > kkereport",
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kke-hd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/human_capital/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/aboutus/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/stock-rating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/public_announcement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/ir/kkereport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/requirements/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/11/NewsRelease_ir_20261102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/10/NewsRelease_ir_20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/kkereport_20260916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/teikan_260910.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_ir_20260910.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_ir_20260901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/08/NewsRelease_ir_20260819_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/assets/img/aboutus/management_policy/business_model.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kke.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regional.co.jp/change/202203_kke.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kumanichi.com/articles/1940582",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "構造計画研究所ホールディングス",
+   "results": [
+    "https://www.kke-hd.co.jp/corporate/",
+    "https://www.kke.co.jp/aboutus/profile/",
+    "https://www.kke-hd.co.jp/",
+    "https://www.kke.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=208A",
+    "https://recruit.kke.co.jp/",
+    "https://www.openwork.jp/a0910000000Fr7J/pr/",
+    "https://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E8%A8%88%E7%94%BB%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://ja.wikipedia.org/wiki/構造計画研究所",
+    "https://www.kke-hd.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "構造計画研究所ホールディングス ビジネスモデル",
+   "results": [
+    "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "https://www.kke-hd.co.jp/cms/uploads/2026/04/explanation_script_20260220.pdf",
+    "https://recruit.kke.co.jp/professionals/professionals-17/",
+    "https://www.kke-hd.co.jp/aboutus/",
+    "https://www.openwork.jp/a0910000000Fr7J/pr/",
+    "https://www.kke.co.jp/aboutus/",
+    "https://recruit.kke.co.jp/about/",
+    "https://compass.labbase.jp/company/477/recruit/47950",
+    "https://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E8%A8%88%E7%94%BB%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://ja.wikipedia.org/wiki/構造計画研究所"
+   ]
+  },
+  {
+   "query": "構造計画研究所ホールディングス 決算説明資料",
+   "results": [
+    "https://www.kke-hd.co.jp/ir/library/",
+    "https://www.kke.co.jp/ir/",
+    "https://www.kke-hd.co.jp/ir/news/16637",
+    "https://www.kke-hd.co.jp/cms/uploads/2025/08/explanation_20250821.pdf",
+    "https://kitaishihon.com/company/208A/ir-library",
+    "https://investalk.jp/208A/kke-hd-2026-06-earnings/",
+    "https://www.buffett-code.com/company/208A/library?page=2",
+    "https://contents.xj-storage.jp/xcontents/AS03088/2fff3dd9/9725/43dc/a7b0/45b8230d07e8/140120251112597380.pdf",
+    "https://www.kke-hd.co.jp/ir/",
+    "https://www.net-presentations.com/208A/20260821/9wnogs/"
+   ]
+  },
+  {
+   "query": "構造計画研究所ホールディングス 事業系統図",
+   "results": [
+    "https://www.kke.co.jp/aboutus/organization/",
+    "https://www.kke-hd.co.jp/ir/financial/segment/",
+    "https://kitaishihon.com/company/208A/business",
+    "https://www.kke-hd.co.jp/",
+    "https://fact-board.co.jp/company/d-kke/",
+    "https://www.kke-hd.co.jp/corporate/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fr7J",
+    "https://www.kke.co.jp/aboutus/",
+    "https://ja.wikipedia.org/wiki/構造計画研究所",
+    "https://www.kke-hd.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "構造計画研究所ホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.regional.co.jp/change/202203_kke.html",
+    "https://kumanichi.com/articles/1940582",
+    "https://cckuma.com/theory/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%8B%E9%80%A0%E8%A8%88%E7%94%BB%E7%A0%94%E7%A9%B6%E6%89%80%E6%9C%8D%E9%83%A8%E6%AD%A3%E5%A4%AA/",
+    "https://www.kke.co.jp/aboutus/greetings/",
+    "https://www.kke-hd.co.jp/ir/kkereport/",
+    "https://note.com/kensetsu_dx/n/nb1580cd180b7",
+    "https://tgs.tama.ac.jp/for-company/interview1/",
+    "https://kitaishihon.com/company/208A/board-of-director",
+    "https://recruit.kke.co.jp/about/",
+    "https://ja.wikipedia.org/wiki/構造計画研究所"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式18頁／PDF・画像9件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像9件／外部4頁・検索5回）"
+ }
+}

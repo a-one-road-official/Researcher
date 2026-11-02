@@ -1,0 +1,1415 @@
+{
+ "name": "京阪ホールディングス",
+ "aliases": [],
+ "context": "証券コード9045／陸運業／プライム（内国株式）／2026.03期 売上高332,471百万円 営業利益率14.8%",
+ "researched_at": "2026-11-02T18:57:14.696893+00:00",
+ "official_url": "https://www.keihan.co.jp/",
+ "identified_by": "search:yahoo_jp:京阪ホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1949（昭和24）年11月25日",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "label": "創立",
+    "value": "1906（明治39）年11月19日",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2025 年3 月19 日",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_keihan-holdings.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立目的",
+    "value": "枚方市駅周辺エリアの拠点を形成し、社会課題の解決を図りながら持続的に",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_keihan-holdings.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "143名",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主要な事業内容",
+    "value": "グループ経営に関する事業など",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "label": "主要な事業内容",
+    "value": "1 鉄道事業（鉄軌道による旅客運輸） 2 レジャー事業（遊園地などの経営）",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "京都のランドマーク「ニデック京都タワー」や、宿泊特化型ホテルを中心に、沿線内外で展開するホテル事業などの「レジャー・サービス業」",
+    "url": "https://www.keihan.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "公共交通の結節点であり、あらゆる人が利用できる場所であることを活かしたサービスを提供し、新しいまちづくりへとつなげていきます",
+    "url": "https://www.keihan.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "京阪本線 寝屋川市駅サービスコア前",
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/business/construction.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/business/construction.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/business/construction.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "京阪ロケーションサービス",
+    "url": "https://www.keihan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/exhibition-euphonium.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/exhibition-euphonium.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/exhibition-euphonium.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html?p=designs-2200_forever",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html?p=designs-2200_forever",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html?p=designs-2200_forever",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/stampcard.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/stampcard.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/stampcard.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/hirakatasyuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/hirakatasyuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/hirakatasyuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "便利なサービス トップ",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "京阪線にICカード決済サービス「PiTaPa」を導入",
+    "url": "https://www.keihan.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/business/traffic.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通勤・通学はもちろん、国内外の観光利用のお客さまの満足度向上に向けたサービスの充実も図っています",
+    "url": "https://www.keihan.co.jp/corporate/business/traffic.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/business/estate.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまに愛される店舗とサービスで、",
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業 | 京阪グループ",
+    "url": "https://www.keihan.co.jp/corporate/business/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keihan.co.jp/corporate/business/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "身近で心のこもったサービスで",
+    "url": "https://www.keihan.co.jp/corporate/business/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "身近で心のこもったサービスを提供しています",
+    "url": "https://www.keihan.co.jp/corporate/business/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共交通の結節点であり、あらゆる人が利用できる場所であることを活かしたサービスを提供し、新しいまちづくりへとつなげていきます",
+    "url": "https://www.keihan.co.jp/corporate/business/hirakatashi/",
+    "pass": 1
+   },
+   {
+    "quote": "これからの駅は「移動」の中心から、お客さまにサービスや商品を通じて新たな価値を提供する、まちの結節点「拠点」へと進化し、人々の賑わいと活気を生み出し、その効果をまちの再生に波及させていくことが必要になってくる",
+    "url": "https://www.keihan.co.jp/corporate/business/hirakatashi/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月18日（日）～2027年1月11日（月・祝）",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月3日（土）〜2028年1月30日（日）までの金･土･日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月29日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月27日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月23日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.keihan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月 1日（木）",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月03日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月31日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月24日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月27日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月19日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月30日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月15日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月22日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月15日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月25日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月14日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月07日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月17日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年09月30日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月19日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月24日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年09月26日",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.keihan.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月のKUZUHA MALL増床・リニューアルを機に、初代くずはモール街「汽車の広場」のDNAを継承・進化させた「まちの広場」としての機能を持たせ、シンボルとして旧3000系車両を展示する「SANZEN-HIROBA」を開設しました",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日（木）〜12月20日（日）",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/exhibition-euphonium.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月26日（水）〜12月31日（木）の平日",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html?p=designs-2200_forever",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月26日（水）〜12月31日（木）の平日",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html",
+    "pass": 1
+   },
+   {
+    "quote": "1904年に建設された図書館",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年に開館した東洋の陶磁器を展示する美術館",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月19日",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日",
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 京阪グループ",
+    "url": "https://www.keihan.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月、京阪グループが総力を結集した市街地再開発事業がついにスタート",
+    "url": "https://www.keihan.co.jp/corporate/business/hirakatashi/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月、「枚方市駅周辺地区市街地再開発組合」が設立され、京阪ホールディングス㈱、京阪電気鉄道㈱、京阪電鉄不動産㈱が参画",
+    "url": "https://www.keihan.co.jp/corporate/business/hirakatashi/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 11 月２日",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261102_keihan-dept.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年のクリスマスは「ONE HEART.ONE CHRISTMAS 2026～みんなのおもいが、ひとつのクリスマスに～」をテーマ",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261102_keihan-dept.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021 年1 月に設立し、3 年間に渡り活動を繰り広げたエリアプラットフォーム「枚方",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_keihan-holdings.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 30 日",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_kyoto-century-hotel.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1928 年に前身の「京都ステーションホテル」が天皇即位の礼(御大典)の慶祝事業の 1 つとして開業",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_kyoto-century-hotel.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021 年 4 月、新コンセプト「Nostalgic Journey」を掲げ、長年の歴史と培ってきた“おもてな",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_kyoto-century-hotel.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_good-nature-station1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度 ROE10％に向けた成長ストーリー",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度に",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度の大幅利益増を目指す",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年頃の着手に向け検討・協議中",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度までに着手",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度までの磨き上げ期間の中継点",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度の利益成長に向けた",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2031年開業予定",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年秋竣工（予定） 2032年度竣工（予定）",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月31日～",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2050年度のCO₂排出量実質ゼロをめざして、",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「京阪電車×響け！ユーフォニアム」のこれまでの取り組みを紹介する展示をします",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/",
+    "pass": 1
+   },
+   {
+    "quote": "京都から入って滋賀から出るルートをご紹介",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "イラストレーターのにしむらさちこさんが京阪・叡電・嵐電 各駅のオススメスポットをかわいいイラストで紹介",
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "pass": 1
+   },
+   {
+    "quote": "駅構内等の店舗区画は、本ご案内の対象外となります",
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "物件の一例をご紹介",
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "各駅ごとに、体験・見学可能な施設をご紹介しています",
+    "url": "https://www.keihan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「京阪電車×響け！ユーフォニアム」のこれまでの取り組みを紹介する展示として、ラッピング電車の車両デザインや写真パネル、駅構内に設置された等身大パネルなどを展示します",
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/exhibition-euphonium.html",
+    "pass": 1
+   },
+   {
+    "quote": "館内には淀川にいる生き物を紹介する「淀川の環境」、人々と淀川の関わりなどの資料も並ぶ「くらしと淀川」などのエリアも",
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/hirakatasyuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまに愛される店舗とサービスで、",
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの、より快適・便利で、楽しく心豊かな暮らしをご提案すべく魅力ある店舗づくりに取り組んでいます",
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "pass": 1
+   },
+   {
+    "quote": "「すがたも心もきれいな百貨店」というブランドメッセージのもと、京阪沿線では京阪百貨店守口店・くずはモール店・ひらかた店・モール京橋店の4店舗を、沿線外ではJR学研都市線住道駅前で、すみのどう店を営業",
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "pass": 1
+   },
+   {
+    "quote": "リニューアルや直営のセレクトショップの開業など、店舗の魅力向上に取り組んでいます",
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "pass": 1
+   },
+   {
+    "quote": "アーティスト 16 名のご紹介",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261102_keihan-dept.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なにわふぉんとのご紹介",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261102_keihan-dept.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご当地フォントのご紹介",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261102_keihan-dept.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "得に楽しめます（一部対象外店舗・サービスあり）",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_good-nature-station1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部パートナー連携",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "沿線の需要を創造する商品・サービスにより、利益率を向上させ、店舗網を拡大",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "45店舗26店舗",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食品小売業の店舗網拡大",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4店舗●西日本などへの出店加速 2店舗●",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ホテル店舗数",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20店舗 約5,000室",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "目標計6店舗",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "9店舗（飲食・物販ほか）",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 次世代AIを導入し、自律的な業務パートナーとして活用を推進することで、",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術を「人間の能力を拡張する共創パートナー」と位置づけ、既存のビジネスモデルを抜本的に変革する決意を込めたものです",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "先端ＡＩを自律的な共創パートナーとして位置",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術を共創パートナーとして",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人間の能力を拡張するパートナー：ＡＩとの共創による変革",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIを「共創パートナー」として使いこなし、",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1976年開店「京都で一番古いマクドナルド」が近く復活オープンへ 昨春「一時閉店」最新店舗に変身",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1754041",
+    "pass": 3
+   },
+   {
+    "quote": "【京都中央信用金庫】四条支店前出張所（店舗外ATM）を新設",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1754041",
+    "pass": 3
+   },
+   {
+    "quote": "いち押しの見どころを紹介",
+    "url": "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "線路近接の工事では、鉄道施設に影響を及ぼすだけでなく、お客様や工事に携わる人たちの命にかかわる重大な事故につながる危険性があるためです",
+    "url": "https://www.keihan.co.jp/business/construction.html",
+    "pass": 1
+   },
+   {
+    "quote": "▶ 京都観光における豊富な顧客接点",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▶ もより市 ：エリア/顧客層/時間帯に合わせたフレキシブルで利便性の高い商品を提供",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客接点のデジタル化",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① デジタル顧客接点強化による沿線独自経済圏の拡大",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. よりスマートで快適な顧客体験の創出",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客さまや取引先",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様な顧客ニーズに対応したデジタル接点が整備途上であり、会員",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタルを活用した顧客接点の高度化と多様なステークホルダーがつながる沿線",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客接点のデジタル化",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• GPS位置情報と顧客行動特性をリアル",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にお客さまが感じられる顧客体験価値のこと",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ グループの知見底上げ、顧客価値の創造、自動化",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会員数の増加おけいはんポイント",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様な顧客とのつながりを深化させる",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「謝罪響かない」「泣くくらいなら」 GMO熊谷代表会見、利用者は",
+    "url": "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信",
+    "url": "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "鉄道施設使用料の算出方法につきましては、使用される鉄道施設の建設費、保守管理費、金利、公租公課、土地使用料、弊社利潤等を勘案し決定いたしております",
+    "url": "https://www.keihan.co.jp/business/cable.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、鉄道施設内の光ファイバケーブルにつきましては、その保守管理を弊社に委託していただき、保守管理費も頂戴いたします",
+    "url": "https://www.keihan.co.jp/business/cable.html",
+    "pass": 1
+   },
+   {
+    "quote": "）、 鉄道施設使用料、保守管理委託料、事前調査（概略の調査期間、調査費用など）に関する事項についてご説明し、お打合せさせていただきます",
+    "url": "https://www.keihan.co.jp/business/cable.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道施設内の光ファイバケーブル等の保守管理に関する受委託契約を締結していただきます",
+    "url": "https://www.keihan.co.jp/business/cable.html",
+    "pass": 1
+   },
+   {
+    "quote": "維持・保守コストの高止まり",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守人員の確保や中長期的に多大",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 保守時の俊敏性・拡張性の確保",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライセンス管理の徹底による",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約の不備を防ぎ、ライセンス違反や",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今すぐ登録（2カ月間月額100円）",
+    "url": "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "pass": 3
+   },
+   {
+    "quote": "【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！",
+    "url": "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "※各年度の連結営業利益は、セグメント数値の合計と一致しない",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• セグメント別ROAと資産構成のモニタリングにより",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "26/3期 ROA(総資産営業利益率) 資産構成比",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "先の見えない時代だからこそ、あらためて京阪グループの「真価」である使命、強み・ポテンシャルを",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 既存事業の拡大に加え、課題の整理と強みの強化を推進",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(総資産営業利益率)",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京阪グループの強み・ノウハウを再構築し（＝「真価」）、最大限発揮することで、",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京阪の「真価」：活かすべき強み・ノウハウ",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 2030年度に向けて、京阪グループの強み・ノウハウを最大限活かして、安定した利益成長を実現",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「幅広い業態のバリエーション」という京阪グループ流通業特有の強みをさらに強化し、",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供することで、市況変動に強い高収益体質へと進化",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 沿線の強みを活かした高付加価値化の推進",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "26/3期 ROA(総資産営業利益率) 資産構成比",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 沿線の強みを事業化できる人財の強化",
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京阪グループの強みと課題",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京阪グループの「真価」である使命、強み・ポテンシャルを見つめなおし、",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "術を「人間の能力を拡張する共創パートナー」と位置づけ、既存のビジネスモデルを抜本的に変革する決意を込めたものです",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "組織の垣根を超え、既存のビジネスモデルを変革させる高度なデジタル技",
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "各事業戦略｜ 京阪ホールディングス — 各事業戦略｜ 京阪ホールディングス 京阪グループ https://www.keihan.co.jp > hdrecruit > future > business",
+    "url": "https://www.keihan.co.jp/hdrecruit/future/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "主軸戦略｜ 京阪ホールディングス — 主軸戦略｜ 京阪ホールディングス 京阪グループ https://www.keihan.co.jp > hdrecruit > future",
+    "url": "https://www.keihan.co.jp/hdrecruit/future/main.html",
+    "pass": 3
+   },
+   {
+    "quote": "各 事業 戦略｜ 京阪ホールディングス — 各 事業 戦略｜ 京阪ホールディングス 京阪グループ https://www.keihan.co.jp > hdrecruit > future > business",
+    "url": "https://www.keihan.co.jp/hdrecruit/future/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "京阪ホールディングス 株式会社 — 京阪ホールディングス 株式会社 京阪グループ PDF https://www.keihan.co.jp > 2025-06-19_governance",
+    "url": "https://www.keihan.co.jp/corporate/ir/management/pdf/2025-06-19_governance.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "京阪ホールディングス社長 が京都市伏見区の中書島に注目する ... — 京阪ホールディングス社長 が京都市伏見区の中書島に注目する ... 京都新聞デジタル https://www.kyoto-np.co.jp > 特集 > 沿線研究",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1754041",
+    "pass": 3
+   },
+   {
+    "quote": "京阪ホールディングス 株式会社 代表取締役 社長 平川 良浩 — 京阪ホールディングス 株式会社 代表取締役 社長 平川 良浩 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/6096",
+    "pass": 3
+   },
+   {
+    "quote": "新しい時代の安全・安心を。 京阪ホールディングス CEOが語る ... — 新しい時代の安全・安心を。 京阪ホールディングス CEOが語る ... GOOD NATURE STATION https://goodnaturestation.com > ジャーナル",
+    "url": "https://goodnaturestation.com/journal/products/202004153664/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.keihan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/visiting/area-topics/model-course/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/business/tochikatsuyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/business/construction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/facility.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/exhibition-euphonium.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html?p=designs-2200_forever",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/buttonbadge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/traffic/sanzen-hiroba/event/stampcard.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/hirakatasyuku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/tsu/osaka/course/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/company/profile-officers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/traffic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/estate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/distribution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/hirakatashi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/sustainability/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keihan.co.jp/business/cable.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261102_keihan-dept.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_keihan-holdings.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_keihan-holdings1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_kyoto-century-hotel.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/261030_good-nature-station1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/sustainability/report/pdf/integrated_report2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings4_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/ir/pdf/260929_keihan-holdings-dx.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/img/cmn_im01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/img/cmn_im02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/img/cmn_im03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/img/cmn_im04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/img/index_im01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/corporate/business/img/index_im02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/business/img/tochikatsuyou_im01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keihan.co.jp/business/img/tochikatsuyou_im05.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kyoto-np.co.jp/articles/-/1754041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "京阪ホールディングス",
+   "results": [
+    "https://www.keihan.co.jp/corporate/",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.keihan.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9045",
+    "https://www.keihan.co.jp/hdrecruit/future/main.html",
+    "https://ja.wikipedia.org/wiki/京阪ホールディングス",
+    "https://finance.yahoo.co.jp/quote/9045.T",
+    "https://finance.yahoo.co.jp/quote/9045.T/profile",
+    "https://www.nikkei.com/nkd/company/?scode=9045"
+   ]
+  },
+  {
+   "query": "京阪ホールディングス ビジネスモデル",
+   "results": [
+    "https://www.keihan.co.jp/hdrecruit/future/business.html",
+    "https://www.keihan.co.jp/hdrecruit/future/main.html",
+    "https://saitoshika-west.com/blog-entry-10061.html",
+    "https://note.com/hr793/n/n364ce34ac3dd",
+    "https://www.youtube.com/watch?v=JKJJ-GLpZYM",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260511523689",
+    "https://kansai-sanpo.com/keihan-hd-hankyu/",
+    "https://www.keihan.co.jp/hdrecruit/toyou/management.html",
+    "https://www.nikkei.com/article/DGXZQOUF294OG0Z20C23A3000000/",
+    "https://ja.wikipedia.org/wiki/京阪ホールディングス"
+   ]
+  },
+  {
+   "query": "京阪ホールディングス 決算説明資料",
+   "results": [
+    "https://www.keihan.co.jp/corporate/ir/library/explain.html",
+    "https://www.keihan.co.jp/corporate/ir/library/",
+    "https://www.keihan.co.jp/corporate/ir/",
+    "https://www.keihan.co.jp/corporate/ir/faq.html",
+    "https://www.keihan.co.jp/corporate/info/release/assets/260512_keihan-holdings2.pdf",
+    "https://www.youtube.com/watch?v=PylwX9r9OxA",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260511522365/",
+    "https://irbank.net/9045/ir",
+    "https://www.keihan.co.jp/corporate/ir/finance/",
+    "https://edinetdb.jp/company/E04105/ir-docs/"
+   ]
+  },
+  {
+   "query": "京阪ホールディングス 事業系統図",
+   "results": [
+    "https://www.keihan.co.jp/hdrecruit/future/business.html",
+    "https://www.keihan.co.jp/corporate/business/",
+    "https://www.keihan.co.jp/corporate/ir/management/pdf/2025-06-19_governance.pdf",
+    "https://www.keihan.co.jp/corporate/sustainability/governance/",
+    "https://www.keihan.co.jp/corporate/ir/management/pdf/2023-03-30_management_plan.pdf",
+    "https://www.keihan.co.jp/corporate/ir/stock/shareholdermeeting/pdf/2025-05-20_note.pdf",
+    "https://www.keihan-am.co.jp/organization.html",
+    "https://www.keihan.co.jp/corporate/business/ker/business.html",
+    "https://ja.wikipedia.org/wiki/京阪ホールディングス",
+    "https://ja.wikipedia.org/wiki/京阪電気鉄道"
+   ]
+  },
+  {
+   "query": "京阪ホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.kyoto-np.co.jp/articles/-/1754041",
+    "https://www.asahi.com/articles/AST8T3DDTT8TPLFA00BM.html",
+    "https://shachomeikan.jp/industry_article/6096",
+    "https://mainichi.jp/articles/20250825/k00/00m/020/242000c",
+    "https://goodnaturestation.com/journal/products/202004153664/",
+    "https://www.nikkan.co.jp/articles/view/773829",
+    "https://www.chichi.co.jp/info/chichi/pickup_article/2022/06_katoh_yoshifumi/",
+    "https://www.hokkaido-np.co.jp/article/1202983/",
+    "https://www.keihan.co.jp/hdrecruit/toyou/management.html",
+    "https://www.sankei.com/article/20230208-4XYFE4SP2JM3POZNTQO66OWZQ4/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

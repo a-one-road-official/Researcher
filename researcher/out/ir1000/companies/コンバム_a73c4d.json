@@ -1,0 +1,1033 @@
+{
+ "name": "コンバム",
+ "aliases": [],
+ "context": "証券コード6265／機械／スタンダード（内国株式）／2025.12期 売上高1,982百万円 営業利益率14.9%",
+ "researched_at": "2026-11-02T18:55:54.188289+00:00",
+ "official_url": "https://www.convum.co.jp/",
+ "identified_by": "search:yahoo_jp:コンバム",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "1951年4月16日",
+    "url": "https://www.convum.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "108名",
+    "url": "https://www.convum.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "旧製品（保守販売製品）",
+    "url": "https://www.convum.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.convum.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証および免責事項",
+    "url": "https://www.convum.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発拠点として、矢口工場を技術開発センター（矢口事業所）に変更",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.convum.co.jp/support/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証および免責事項",
+    "url": "https://www.convum.co.jp/support/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サービス向上、アクセス状況計測などのためにクッキーを使用しています",
+    "url": "https://www.convum.co.jp/support/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、真空機器及び関連製品の製造、国内外での製品等の販売を主な事業として取り組んでおります",
+    "url": "https://www.convum.co.jp/ir/irinvestor.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.convum.co.jp/ir/achieve.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証および免責事項",
+    "url": "https://www.convum.co.jp/ir/achieve.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.convum.co.jp/ir/e-announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証および免責事項",
+    "url": "https://www.convum.co.jp/ir/e-announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.convum.co.jp/ir/ir_news2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証および免責事項",
+    "url": "https://www.convum.co.jp/ir/ir_news2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "連結子会社の解散及び清算と今後の北米市場での当社製品の供給体制に関するお知らせ",
+    "url": "https://www.convum.co.jp/ir/ir_news2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品コード 形式番号",
+    "url": "https://www.convum.co.jp/product/catalog/cv-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以下の形式は、 この製品の特長を活かし つつ、 一般的なご使用に必要な機能を満たし ており ます",
+    "url": "https://www.convum.co.jp/product/catalog/cv-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品コード 形式番号",
+    "url": "https://www.convum.co.jp/product/catalog/mcv-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以下の形式は、 この製品の特長を活かし つつ、 一般的なご使用に必要な機能を満たし ており ます",
+    "url": "https://www.convum.co.jp/product/catalog/mcv-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「共通注意事項」と「コンバム共通注意事項」本製品の「取扱説明書」も併せてご確認ください",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きく吸込流量も大きい製品ですので、吸引され怪我をして",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品に触れる場合は必ず停止した",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負荷がかかかる使用方法は製品の寿命を縮めます",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と製品が変形または破損する恐れがありますので、必ず本",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "共通注意事項および各シリーズの個別注意事項や製品の取扱説明書も併せてご確認ください",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここに記した注意事項は、当社製品を安全に正しくお使いいただき、人身への危害や損害を未然に防止するためのものです",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここに掲載されている製品は、 使用される条件が多様なため、",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も最新の製品カタログ",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●ここに掲載されている製品は、 主に一般産業用にご使用",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➁当社製品の保証期間は、使用開始から１年または納入",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品によっては耐久回数や摺動距離などを定めている",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 故障の原因が、 当該製品以外の事由による場合",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➁保証とは、製品単体の保証を意味するものであり、製",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「共通注意事項」と「コンバム共通注意事項」本製品の「取扱説明書」も併せてご確認ください",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "込流量も多い製品ですので、吸込され怪我をしてしまう恐れ",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品に触れる場合は必ず停止した状態で作業を",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "かかる使用方法は製品の寿命を縮めます",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "共通注意事項および各シリーズの個別注意事項や製品の取扱説明書も併せてご確認ください",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここに記した注意事項は、当社製品を安全に正しくお使いいただき、人身への危害や損害を未然に防止するためのものです",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここに掲載されている製品は、 使用される条件が多様なため、",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も最新の製品カタログ",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●ここに掲載されている製品は、 主に一般産業用にご使用",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➁当社製品の保証期間は、使用開始から１年または納入",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品によっては耐久回数や摺動距離などを定めている",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 故障の原因が、 当該製品以外の事由による場合",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➁保証とは、製品単体の保証を意味するものであり、製",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調査・測定・サービス",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "分類カテゴリから製品を探す",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "製品総合ランキング",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "この製品へのお問い合わせ",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "【その他の掲載製品（一部）】",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "コンバムは空気圧機器メーカーのパイオニアとして、省エネルギー製品の開発を通じ、お客様のＣＯ２削減のご要望に対応できる新しい「ＣＯＮＶＵＭ」を提供してまいります",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (29)",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "関連の人気製品",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "ベッカーエアーテクノ株式会社 東京本社、大阪営業所、東関東サービスセンター",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "関連の新着製品",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "関連キーワードから製品と企業を探す",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "イプロス 関連サービス",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品は完成したチップを検査するテストハンドラーなど、後工程の装置で使われています",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "誰でもできる製品で大手と価格競争をしても、当社が勝つのは難しいですから」",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "旧製品（保守販売製品）",
+    "url": "https://www.convum.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保守部品形式番号",
+    "url": "https://www.convum.co.jp/product/catalog/cv-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守部品形式番号",
+    "url": "https://www.convum.co.jp/product/catalog/mcv-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守部品形式番号",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大型フ ィ ルタ保守部品形式番号",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介動画 （1分31秒）",
+    "url": "https://www.convum.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・施設用品",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗・ビルオーナー",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様ごとに仕様が違うため、かなり手間がかかる分野だと思っていましたが、最近では指名買いに近い形で注文が入るようになってきました",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "「紙のロボダイ」紹介記事",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット本体やシステム構築に掛かるコストの目安や考え方を紹介します",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットダイジェストのパートナーメディア「月刊生産財マーケティング」",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1951年4月16日",
+    "url": "https://www.convum.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月22日現在",
+    "url": "https://www.convum.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | コンバム株式会社",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1951年（昭和26年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年（昭和47年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年（昭和55年） 5月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年（昭和57年） 1月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年（昭和57年） 6月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年（昭和59年） 6月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年） 7月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年（平成元年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年（平成２年）10月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年（平成10年） 8月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年（平成15年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年（平成16年） 9月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年（平成16年）10月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年（平成17年）10月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年（平成18年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年（平成20年） 6月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年（平成22年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年（平成22年）10月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年） 1月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年） 2月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年） 4月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年（平成24年）12月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年（平成25年） 7月",
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年12 月期通期連結業績予想と実績値の差異に関するお知らせ",
+    "url": "https://www.convum.co.jp/ir/ir_news2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期期末配当予想の修正に関するお知らせ",
+    "url": "https://www.convum.co.jp/ir/ir_news2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期決算説明会資料(1.7MB)",
+    "url": "https://www.convum.co.jp/ir/ir_news2021.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期連結業績予想と実績値の差異に関するお知らせ",
+    "url": "https://www.convum.co.jp/ir/ir_news2021.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年12月期第２四半期業績予想と実績との差異及び通期業績予想の修正に関するお知らせ(129KB)",
+    "url": "https://www.convum.co.jp/ir/ir_news2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年12月期第２四半期業績予想と実績との差異及び通期業績予想の修正に関するお知らせ(137KB)",
+    "url": "https://www.convum.co.jp/ir/ir_news2017.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年のロボットトレンド、トップ５を発表／国際ロボット連盟",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月号の特集は「自動車生産の転換期～柔軟性で変化を乗り切る～」です",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "「人を大切にし、創造性豊かなアイデアと顧客ニーズの融合により豊かな価値を作り出し、社会貢献に努めます",
+    "url": "https://www.convum.co.jp/ir/irinvestor.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、引き続き「お客様を大事にする」を第一とした企業理念を基に、更なる業績の向上に努め、継続的な利益成長を通じて株主・投資家の皆様の期待に応えること、そして、ＩＲ活動を通じて、当社の企業実態に対する理解を得ることに努め、株主・投資家の皆様との信頼関係を築いていくことが、公開企業としての使命であると考えております",
+    "url": "https://www.convum.co.jp/ir/irinvestor.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.convum.co.jp/ir/qualification.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様へ事前の告知なしに本ウェブサイトを休止、あるいは停止することがあります",
+    "url": "https://www.convum.co.jp/about-site.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者の同意がある場合",
+    "url": "https://www.convum.co.jp/about-site.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がご利用のブラウザでJavaScriptの機能を無効にされている場合、正しく表示されないもしくは正しく機能しないことがございます",
+    "url": "https://www.convum.co.jp/about-site.html",
+    "pass": 1
+   },
+   {
+    "quote": "場合がありますので、詳細は、当社お客様相談センター",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 天災、 災害、 第三者による行為、 お客様の故意または過",
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "場合がありますので、詳細は、当社お客様相談センター",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 天災、 災害、 第三者による行為、 お客様の故意または過",
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンバムは空気圧機器メーカーのパイオニアとして、省エネルギー製品の開発を通じ、お客様のＣＯ２削減のご要望に対応できる新しい「ＣＯＮＶＵＭ」を提供してまいります",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の佐藤穣社長は「他社では真似出来ないカスタマイズ品」キーワードに、顧客の困りごとに応える技術力と独自素材の開発を武器に、真空機器メーカーとしての新たな領域を切り開く構えだ",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "受注は増加しましたが、今のところ納期でお客様に迷惑をかけることなく対応できています",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様ごとに仕様が違うため、かなり手間がかかる分野だと思っていましたが、最近では指名買いに近い形で注文が入るようになってきました",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "■顧客ニーズを柔軟に捉える",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様にはまず汎用品をテストしていただきますが、実際に使ってみるとさまざまな要望が出てきます",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "小回りが利く特徴を生かし、顧客のニーズにきめ細かく対応するため、新たな製品や技術を常に研究し、製品開発へつなげていきます",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期事業計画の策定に関するお知らせ - CONVUM — 中期事業計画の策定に関するお知らせ - CONVUM コンバム株式会社 PDF https://www.convum.co.jp > pdf > release20260909",
+    "url": "https://www.convum.co.jp/ir/pdf/release20260909.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第75期 事業報告書 - CONVUM — 第75期 事業報告書 - CONVUM コンバム株式会社 PDF https://www.convum.co.jp > pdf",
+    "url": "https://www.convum.co.jp/ir/pdf/75th_term_business_report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[ コンバム 6265.T] 中期事業計画の策定に関するお知らせ — [ コンバム 6265.T] 中期事業計画の策定に関するお知らせ BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260909533318",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260909533318",
+    "pass": 3
+   },
+   {
+    "quote": "【 コンバム 株式会社】会社紹介動画【 CONVUM .Ltd】 - YouTube — 【 コンバム 株式会社】会社紹介動画【 CONVUM .Ltd】 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=YNINbwMGaBw",
+    "pass": 3
+   },
+   {
+    "quote": "コンバム （旧妙徳）伊勢幸治社長 - robot digest — コンバム （旧妙徳）伊勢幸治社長 - robot digest robot digest https://www.robot-digest.com > contents",
+    "url": "https://www.robot-digest.com/contents/?id=1640149118-239271",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | コンバム 株式会社 — IRライブラリ | コンバム 株式会社 コンバム株式会社 https://www.convum.co.jp > library",
+    "url": "https://www.convum.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンバム [6265]：2025年12月期 決算 短信〔日本基準〕(連結 ... — コンバム [6265]：2025年12月期 決算 短信〔日本基準〕(連結 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260213560103/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ | コンバム 株式会社 — 株主・投資家の皆様へ | コンバム 株式会社 コンバム株式会社 https://www.convum.co.jp > irinvestor",
+    "url": "https://www.convum.co.jp/ir/irinvestor.html",
+    "pass": 3
+   },
+   {
+    "quote": "[ コンバム 6265.T] 2026年12月期 第2四半期（中間期） 決算 ... — [ コンバム 6265.T] 2026年12月期 第2四半期（中間期） 決算 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260812517601",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260812517601",
+    "pass": 3
+   },
+   {
+    "quote": "コンバム (6265) の企業概要・業績・財務・IR 資料 — コンバム (6265) の企業概要・業績・財務・IR 資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6265",
+    "pass": 3
+   },
+   {
+    "quote": "第75期 事業 報告書 - CONVUM — 第75期 事業 報告書 - CONVUM コンバム株式会社 PDF https://www.convum.co.jp > pdf",
+    "url": "https://www.convum.co.jp/ir/pdf/75th_term_business_report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【ダイジェスト版】 CONVUM 総合カタログ コンバム - イプロス — 【ダイジェスト版】 CONVUM 総合カタログ コンバム - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > ... > その他 > その他 > その他",
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "pass": 3
+   },
+   {
+    "quote": "CONVUM | コンバム 株式会社 — CONVUM | コンバム 株式会社 コンバム株式会社 https://www.convum.co.jp",
+    "url": "https://www.convum.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "コンバム 株式会社 — コンバム 株式会社 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250327/20241217539643.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コンバム 社長 佐藤 穣 氏 半導体と物流需要が追い風 - モノクエ — コンバム 社長 佐藤 穣 氏 半導体と物流需要が追い風 - モノクエ Mono Que https://monoque.jp > columns > post-556",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "差別化の鍵は素材にあり／ コンバム 佐藤穣 社長 インタビュー — 差別化の鍵は素材にあり／ コンバム 佐藤穣 社長 インタビュー robot digest https://www.robot-digest.com > contents",
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "pass": 3
+   },
+   {
+    "quote": "さあ出番／ コンバム社長 ・佐藤穣氏 半導体・ロボの二刀流狙う — さあ出番／ コンバム社長 ・佐藤穣氏 半導体・ロボの二刀流狙う 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/712597",
+    "pass": 3
+   },
+   {
+    "quote": "コンバム （旧妙徳）伊勢幸治 社長 - robot digest — コンバム （旧妙徳）伊勢幸治 社長 - robot digest robot digest https://www.robot-digest.com > contents",
+    "url": "https://www.robot-digest.com/contents/?id=1640149118-239271",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "特に5㌔、10㌔、20㌔といった中型から大型のワークを扱う案件が増えていますが、他社のハンドではうまくいかない形状や重量物に対応できるのが当社の強みです」",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   },
+   {
+    "quote": "――カスタマイズ対応が強みになる",
+    "url": "https://monoque.jp/columns/post-556/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.convum.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/pdf/Ejector_Reference-Chart.xlsx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/support/inquiry.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir-info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/irinvestor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/achieve.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/e-announce.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/qualification.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/about-site.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2024.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/ir_news2016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/english/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.convum.co.jp/ir/news20230810.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.convum.co.jp/product/catalog/pk2_t6_flier.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/cv-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/mcv-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/ccv-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/mca-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/crv_ejector_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/ncv3-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.convum.co.jp/product/catalog/cvz-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260213560103/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/product/detail/2000388946/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/columns/post-556/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コンバム",
+   "results": [
+    "https://www.convum.co.jp/",
+    "https://www.nittats.co.jp/products_b/product_b_category/convum",
+    "https://www.youtube.com/channel/UClNilMJtnlKR-Tu7-Jb5rPg",
+    "https://jp.misumi-ec.com/vona2/detail/221004972333/review/?srsltid=AYCX9vKatSLi4RuHxyaaLHOynjIQf2scF-UW9K2jdOYZhHP8X-8H1clz",
+    "https://ja.wikipedia.org/wiki/コンバム",
+    "https://convum.co.jp/",
+    "https://convum.co.jp/company/profile.html",
+    "https://lp.convum.co.jp/",
+    "https://finance.yahoo.co.jp/quote/6265.T/profile",
+    "https://www.convum.com/"
+   ]
+  },
+  {
+   "query": "コンバム ビジネスモデル",
+   "results": [
+    "https://www.convum.co.jp/ir/pdf/release20260909.pdf",
+    "https://www.convum.co.jp/ir/pdf/75th_term_business_report.pdf",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260909533318",
+    "https://www.youtube.com/watch?v=YNINbwMGaBw",
+    "https://www.robot-digest.com/contents/?id=1640149118-239271",
+    "https://monoque.jp/columns/convum/",
+    "https://www.youtube.com/shorts/hcJJ_fUouTM",
+    "https://www.smri.asia/jp/hrd/products/1286",
+    "https://consovation.com/コンバム株式会社のビジネスモデル徹底解剖-成長/",
+    "https://convum.co.jp/"
+   ]
+  },
+  {
+   "query": "コンバム 決算説明資料",
+   "results": [
+    "https://www.convum.co.jp/ir/library.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260213560103/",
+    "https://www.convum.co.jp/ir/irinvestor.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260812517601",
+    "https://www.crex-data.com/company/6265",
+    "https://kabutan.jp/news/marketnews/?b=n202607240478",
+    "https://finance.matsui.co.jp/stock/6265/settlement/index",
+    "https://convum.co.jp/ir/library.html",
+    "https://convum.co.jp/",
+    "https://treelazy.com/stock-jp/6265/conference"
+   ]
+  },
+  {
+   "query": "コンバム 事業系統図",
+   "results": [
+    "https://www.convum.co.jp/ir/pdf/75th_term_business_report.pdf",
+    "https://www.ipros.com/product/detail/2000388946/",
+    "https://convum.partcommunity.com/",
+    "https://www.convum.co.jp/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250327/20241217539643.pdf",
+    "https://www.smri.asia/jp/hrd/products/1286",
+    "https://www.kaunet.com/rakuraku/maker/3/12/10252/",
+    "https://www.convum.co.jp/product/catalog/cv-series.pdf",
+    "https://convum.co.jp/ir/library.html",
+    "https://edinetdb.jp/company/E01728/text"
+   ]
+  },
+  {
+   "query": "コンバム 社長 インタビュー",
+   "results": [
+    "https://monoque.jp/columns/post-556/",
+    "https://www.robot-digest.com/contents/?id=1716539644-430039",
+    "https://monoque.jp/columns/convum/",
+    "https://www.nikkan.co.jp/articles/view/712597",
+    "https://www.robot-digest.com/contents/?id=1640149118-239271",
+    "https://www.nikkei.com/article/DGXZQODZ00001_S4A320C2000000/",
+    "https://www.nikkan.co.jp/articles/view/706218",
+    "https://www.convum.co.jp/company/message.html",
+    "https://monoque.jp/columns/post-452/",
+    "https://shachojp.com/p/convum"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

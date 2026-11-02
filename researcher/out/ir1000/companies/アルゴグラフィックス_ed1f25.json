@@ -1,0 +1,923 @@
+{
+ "name": "アルゴグラフィックス",
+ "aliases": [],
+ "context": "証券コード7595／情報・通信業／プライム（内国株式）／2026.03期 売上高71,526百万円 営業利益率15.0%",
+ "researched_at": "2026-11-02T18:54:26.210878+00:00",
+ "official_url": "https://www.argo-graph.co.jp/",
+ "identified_by": "search:yahoo_jp:アルゴグラフィックス",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "製造業の設計/製造プロセスにおいて、業務改善と改革の両面を支援し、ありたき姿の具体化と変革実現によって、お客様の企業変革に貢献するアルゴグラフィックスのDXソリューションをご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AMSご契約者・保守契約いただいているお客様へ",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業データ活用・効率化・品質向上に向けた解決策をお求めのお客様へ",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望に応え、新たな改革を提案する",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスは、PLMソリューションをはじめとしてHPCソリューション、ITソリューションを通じてお客様の付加価値を創造するテクニカル・ソリューション・プロバイダーです",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる製品をつなぎお客様の要望への対応や新たな改革の提案など、アルゴグラフィックスならではのサービスをご提供します",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の付加価値を創造する『テクニカル・ソリューション・プロバイダー』です",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "EXPERIENCEプラットフォーム）の取扱いは、高度なIT技術者集団且つ製造業の業務知見を併せ持ち、お客様へのシステム開発・構築・教育・技術支援・コンサルティングなど総合支援が可能な企業である世界で約500社のみです",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "「システム構築支援」では、グローバル展開への対応、ビッグデータ処理・分析のためのシステム設計、業務効率化やコスト削減のためのインフラ統合など、お客様それぞれの課題を解決するため、多様なハードウェア・ソフトウェア製品群と当社の高い技術力を活かし、クラウドやシンクライアント、PCクラスターといった先端技術を活用した最適なシステムの構築を行っています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なエキスパートエンジニアが、上記各種ソリューションにかかるハードウェア、ソフトウェア製品の販売・保守等、お客様に安心と満足のサービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "PLMとは、Product Lifecycle Managementの略で、ものづくりの企画から設計、生産、販売後のユーザーサポート、さらには環境保全に配慮した製品の廃棄に至るまで、製品のライフサイクルを管理する手法のことをいいます",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の大切なシステムやデータを安全にお預かりし、機器の設置からシステム構築、保守・運用までをワンストップでサポート",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様、従業員そして社会と共に成長する",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望に応え、新たな改革を提案する",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "刻々と変化する事業環境の中においても、当社グループはお客様の事業活動を支える製品・サービスを安定的に提供するとともに、将来を見据えた施策に取り組んでまいりました",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社が強みとするPLM及びIT基盤構築に加え、お客様の大切なIT資産をお預かりし、これまで培ってきたPLM運用ノウハウをサービスとして提供することにより、「ワンストップDXソリューション」を一層強化してまいります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主要顧客である自動車関連業界においては、EV化・自動運転などいわゆるCASE対応に伴う技術革新や競争激化が進行しており、半導体・精密機器分野においても、生成AI、データセンター需要拡大等を背景とした投資が拡大する一方、市況変動による投資抑制リスクも内在しております",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、取引先との強固なパートナーシップを活かし、業界動向に最適化したソリューションの提供及び新規市場・顧客の開拓を通じて、付加価値の高い事業モデルへの転換を進めてまいります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "・当社グループは、お客様のニーズに応じたソリューションのコンサルティングから開発、運用、保守サービスまで提供しており、この過程において、お客様の機密情報を知り得る立場となる場合があります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、PLMソリューションの提供を主たる業務とする他、各種サーバー、PCクラスター等のシステム構築及びハードウェアの保守並びにEDAソリューションに係る業務を行っておりますが、当社グループの顧客は製造業が中心となっております",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、製造業向けのソリューション提供を通じて習得した技術をベースに他産業における顧客の開拓に努めておりますが、依然として製造業向けの売上高比率が高い状況にあります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、取締役4名に主な事業部門の長14名を加えた18名にて構成される執行役員制度を採用しており、販売活動、顧客サービス活動及び組織運営上の日常的諸問題に関し、活発な意見交換と迅速な対応策の協議等を行っております",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIが最適なソリューションを提案",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "課題を文章で入力するだけで、関連するソリューション・事例・資料をAIが検索します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最適なソリューションを見つけましょう",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "下記のボタンから、課題・目的に合ったソリューション、製品・サービスをお探しいただけます",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションを",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "関連ソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "関連製品・サービス",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサイト リニューアルのお知らせ",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「SOLIDWORKS」製品紹介ページを更新",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アルゴグラフィックスのDXソリューションなら",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の設計/製造プロセスにおいて、業務改善と改革の両面を支援し、ありたき姿の具体化と変革実現によって、お客様の企業変革に貢献するアルゴグラフィックスのDXソリューションをご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "おすすめソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ARGO DX ソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ARGO DX ソリューションによるものづくりプロセスの改善と変革についてご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MODSIMソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計業務と解析業務を融合し、製品開発を効率化するMODSIMソリューションをご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "部品表連携ソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業のAIエージェント活用ソリューション",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションを探す",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "おすすめ製品・サービス",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ARGO北見テクノセンター データセンターサービス",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高負荷IT基盤やプライベートクラウド型 Backup as a Service（BaaS）などのDR / BCP基盤を設備と運用体制で支えPLM・VDI・HPC / AIを安心して預けられるデータセンターサービス",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスソリューションサイト",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワンストップソリューションを提供します",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスで製品を組み合わせたワンストップソリューションの進化",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスは、PLMソリューションをはじめとしてHPCソリューション、ITソリューションを通じてお客様の付加価値を創造するテクニカル・ソリューション・プロバイダーです",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの要望にあわせた最適な製品の提供をさらに進化させ、アルゴグラフィックスならではのサービスで製品を組み合わせることにより、お客さまの要望への対応・新たな改革の提案の双方を可能とする進化したワンストップソリューションの提供を行います",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "PLMソリューション",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の製品設計を中心にしたソリューションから製品開発に関わるすべての要素を体系化し、その要素の成立性をシミュレーションするとともに、バーチャルな世界で組み立てることによりその製品の開発面からマーケティング面までの評価が可能になりました",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "HPCソリューション",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況にお応えする様々なソリューションとともに、最新技術を駆使した優れたインフラストラクチャー・システムをご提供します",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる製品をつなぎお客様の要望への対応や新たな改革の提案など、アルゴグラフィックスならではのサービスをご提供します",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、FAQなどに対応しヘルプデスクによるサービスやWeb上での様々な支援メニューが利用できます",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックス ソリューションサイト",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスソリューションサイト",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "EXPERIENCEソリューションは研究開発、設計支援、製造業務等、ものづくりを行う上での工程を、3Dシミュレーションを活用して一元管理できるものであり、このソリューションの提供は日本No.1、世界TOPクラスの実績を誇っています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業において、社会、グローバル化等の変化が起こる中、ハード、ソフト、ネットワーク等、最適なソリューションを提供する世界のものづくりサポート企業として、当社は日々、成長し続けております",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカル・ソリューション・プロバイダー事業",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスは、PLMソリューションをはじめとしてHPCソリューション、サーバーソリューションを通じて",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の付加価値を創造する『テクニカル・ソリューション・プロバイダー』です",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "PLMソリューション（設計・製造）分野",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業の良きパートナーとして、工業製品系製造業全般、特に自動車産業を中心に完成品メーカーから部品メーカーの多くの企業様と取引をしており、各社の技術部門に対し工期短縮や生産コスト削減、製品品質向上に繋がる業務課題をITの先端技術を駆使し改善する最適なシステムを提案、構築します",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "HPCソリューション（高度科学技術計算）分野",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業各社では、製品や部品の設計段階で性能や品質検証に複雑な解析計算業務が存在します",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、応力、構造、疲労、磁気、風力、熱量、衝突破壊など、多くのシミュレーション計算があり、そのシミュレーション結果に基づき製品の品質が向上し、設計業務が、より強化されます",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、このような複雑且つ大規模計算システムをコンピューターメーカー各社と協業し、インフラ全体からデーターセンター構築に及ぶ幅広い範囲にて販売・構築・開発・保守・技術支援サービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーソリューション（ITインフラ）分野",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "「システム構築支援」では、グローバル展開への対応、ビッグデータ処理・分析のためのシステム設計、業務効率化やコスト削減のためのインフラ統合など、お客様それぞれの課題を解決するため、多様なハードウェア・ソフトウェア製品群と当社の高い技術力を活かし、クラウドやシンクライアント、PCクラスターといった先端技術を活用した最適なシステムの構築を行っています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスビジネス分野",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なエキスパートエンジニアが、上記各種ソリューションにかかるハードウェア、ソフトウェア製品の販売・保守等、お客様に安心と満足のサービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "PLMとは、Product Lifecycle Managementの略で、ものづくりの企画から設計、生産、販売後のユーザーサポート、さらには環境保全に配慮した製品の廃棄に至るまで、製品のライフサイクルを管理する手法のことをいいます",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスは、北海道北見市に「アルゴ北見テクノセンター」を構え、データセンターサービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "冷涼な気候や再生可能エネルギーを活用した環境配慮型の施設から、全国の企業を支えるIT基盤サービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴ北見テクノセンター データセンターサービスのご紹介はこちら",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「SOLIDWORKS」製品紹介ページを更新",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の設計/製造プロセスにおいて、業務改善と改革の両面を支援し、ありたき姿の具体化と変革実現によって、お客様の企業変革に貢献するアルゴグラフィックスのDXソリューションをご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ARGO DX ソリューションによるものづくりプロセスの改善と変革についてご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計業務と解析業務を融合し、製品開発を効率化するMODSIMソリューションをご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製造部門間の情報分断を解消、手戻りを削減する統合BOM管理をご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業におけるAIエージェント活用と統合AI基盤の実現方法をご紹介します",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介｜株式会社アルゴグラフィックス コーポレートサイト",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックスの会社紹介や事業内容、社会貢献活動を掲載しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは日本のものづくりの良きパートナーです",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックス会社紹介ムービー",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業の良きパートナーとして、工業製品系製造業全般、特に自動車産業を中心に完成品メーカーから部品メーカーの多くの企業様と取引をしており、各社の技術部門に対し工期短縮や生産コスト削減、製品品質向上に繋がる業務課題をITの先端技術を駆使し改善する最適なシステムを提案、構築します",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "北見市の施設紹介ページはこちら",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴ北見テクノセンター データセンターサービスのご紹介はこちら",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご紹介などを掲載しています",
+    "url": "https://corp.argo-graph.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "基本情報をご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革などについてご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "”共成”の理念をご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の基本情報をご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "歩みをご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "認証取得についてご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "トップインタビュー、グループ会社のご紹介、対処すべき課題、",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社のご紹介",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、取引先との強固なパートナーシップを活かし、業界動向に最適化したソリューションの提供及び新規市場・顧客の開拓を通じて、付加価値の高い事業モデルへの転換を進めてまいります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "AMSご契約者・保守契約いただいているお客様へ",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この領域で使用される基幹システムのライセンス提供・システム（",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、このような複雑且つ大規模計算システムをコンピューターメーカー各社と協業し、インフラ全体からデーターセンター構築に及ぶ幅広い範囲にて販売・構築・開発・保守・技術支援サービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なエキスパートエンジニアが、上記各種ソリューションにかかるハードウェア、ソフトウェア製品の販売・保守等、お客様に安心と満足のサービスを提供しています",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の大切なシステムやデータを安全にお預かりし、機器の設置からシステム構築、保守・運用までをワンストップでサポート",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITインフラ及びアプリケーション運用・保守業務 / ITインフラシステム構築業務 /",
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "2次元CADシステム「MICRO CADAM」の開発・販売・保守等",
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "2次元CADシステム「MICRO CADAM」の販売・保守",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "・当社グループは、お客様のニーズに応じたソリューションのコンサルティングから開発、運用、保守サービスまで提供しており、この過程において、お客様の機密情報を知り得る立場となる場合があります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、PLMソリューションの提供を主たる業務とする他、各種サーバー、PCクラスター等のシステム構築及びハードウェアの保守並びにEDAソリューションに係る業務を行っておりますが、当社グループの顧客は製造業が中心となっております",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月05日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月20日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月17日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月03日～2026年12月04日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日～2099年12月31日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日～2026年10月08日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月18日～2026年03月26日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月27日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月20日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月13日",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）2月19日",
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革などについてご紹介します",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期は、2028年3月期までを対象とする中期経営計画が始動した重要な一年でありました",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月には、北海道北見市にデータセンター「アルゴ北見テクノセンター」を開所いたしました",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期においては、普通配当を5円増配して1株当たり45円とし、連結配当性向は42.9％を予定しております",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介｜株式会社 アルゴグラフィックス コーポレートサイト — 事業紹介｜株式会社 アルゴグラフィックス コーポレートサイト 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > company > business",
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴグラフィックス はどんな会社？ — アルゴグラフィックス はどんな会社？ 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > recruit > about",
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社 アルゴグラフィックス コーポレートサイト — 会社概要｜株式会社 アルゴグラフィックス コーポレートサイト 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > company > profile",
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］ - アルゴグラフィックス — 企業分析［強み・弱み・展望］ - アルゴグラフィックス OpenWork https://www.openwork.jp > ... > アルゴグラフィックス",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrZ9&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アルゴグラフィックス — 株式会社 アルゴグラフィックス 株式会社アルゴグラフィックス https://www.argo-graph.co.jp",
+    "url": "https://www.argo-graph.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 - アルゴグラフィックス — 投資家情報 - アルゴグラフィックス 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > ...",
+    "url": "https://corp.argo-graph.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - アルゴグラフィックス — IRライブラリ - アルゴグラフィックス 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > library",
+    "url": "https://corp.argo-graph.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 アルゴグラフィックス 】[7595]IR情報 中期経営計画や 決算 短信 — 【 アルゴグラフィックス 】[7595]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7595",
+    "pass": 3
+   },
+   {
+    "quote": "株主の皆様へ - アルゴグラフィックス — 株主の皆様へ - アルゴグラフィックス 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > shareholder",
+    "url": "https://corp.argo-graph.co.jp/ir/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRトピックス - アルゴグラフィックス — IRトピックス - アルゴグラフィックス 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > topics",
+    "url": "https://corp.argo-graph.co.jp/ir/topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社アルゴグラフィックス — 企業情報 - 株式会社アルゴグラフィックス 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > company",
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針｜株式会社 アルゴグラフィックス コーポレートサイト — 経営方針｜株式会社 アルゴグラフィックス コーポレートサイト 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > management",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革｜株式会社 アルゴグラフィックス コーポレートサイト — 沿革｜株式会社 アルゴグラフィックス コーポレートサイト 株式会社アルゴグラフィックス https://corp.argo-graph.co.jp > company > history",
+    "url": "https://corp.argo-graph.co.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 アルゴグラフィックス 】[7595]企業概要 社員数や役員報酬 ... — 【 アルゴグラフィックス 】[7595]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7595",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アルゴグラフィックス の入社前とのギャップ — 株式会社 アルゴグラフィックス の入社前とのギャップ エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/00002452917/22/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ アルゴグラフィックス ・藤澤義麿会長兼CEO ... — 経営ひと言／ アルゴグラフィックス ・藤澤義麿会長兼CEO ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/330329",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "業績ハイライト、セグメント別経営概況、",
+    "url": "https://corp.argo-graph.co.jp/ir/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社が強みとするPLM及びIT基盤構築に加え、お客様の大切なIT資産をお預かりし、これまで培ってきたPLM運用ノウハウをサービスとして提供することにより、「ワンストップDXソリューション」を一層強化してまいります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "・当社は、設計DX・製造DXを中核としたワンストップDXソリューションの提供を強みとしておりますが、技術革新の進展が極めて速い分野において、技術力や提供価値が市場ニーズに適合しなくなった場合、競争力を失うリスクがあります",
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.argo-graph.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://corp.argo-graph.co.jp/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/recruit/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.argo-graph.co.jp/ir/management.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アルゴグラフィックス",
+   "results": [
+    "https://www.argo-graph.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7595",
+    "https://www.ibm.com/partnerplus/directory/company/8884",
+    "https://job.mynavi.jp/27/pc/search/corp40511/outline.html",
+    "https://minkabu.jp/stock/7595",
+    "https://ja.wikipedia.org/wiki/アルゴグラフィックスカップ",
+    "https://corp.argo-graph.co.jp/",
+    "https://corp.argo-graph.co.jp/company/profile.html",
+    "https://www.argo-graph.co.jp/product-service/",
+    "https://finance.yahoo.co.jp/quote/7595.T"
+   ]
+  },
+  {
+   "query": "アルゴグラフィックス ビジネスモデル",
+   "results": [
+    "https://corp.argo-graph.co.jp/company/business.html",
+    "https://corp.argo-graph.co.jp/recruit/about.html",
+    "https://corp.argo-graph.co.jp/company/profile.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrZ9&q_no=9",
+    "https://www.argo-graph.co.jp/",
+    "https://www.buffett-code.com/company/7595/",
+    "https://job.mynavi.jp/27/pc/search/corp40511/outline.html",
+    "https://note.com/tatsuya_sabato/n/nff0f3f8711f1",
+    "https://corp.argo-graph.co.jp/recruit/data.html",
+    "https://consovation.com/株式会社アルゴグラフィックスの成長戦略と魅力/"
+   ]
+  },
+  {
+   "query": "アルゴグラフィックス 決算説明資料",
+   "results": [
+    "https://corp.argo-graph.co.jp/ir/",
+    "https://corp.argo-graph.co.jp/ir/library.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7595",
+    "https://corp.argo-graph.co.jp/ir/shareholder.html",
+    "https://corp.argo-graph.co.jp/ir/topics.html",
+    "https://corp.argo-graph.co.jp/ir/finance.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100AG88.pdf",
+    "https://www.argo-graph.co.jp/download/download_detail/",
+    "https://irbank.net/7595/ir",
+    "https://www.buffett-code.com/company/7595/library"
+   ]
+  },
+  {
+   "query": "アルゴグラフィックス 事業系統図",
+   "results": [
+    "https://corp.argo-graph.co.jp/company/profile.html",
+    "https://corp.argo-graph.co.jp/company/",
+    "https://corp.argo-graph.co.jp/ir/management.html",
+    "https://corp.argo-graph.co.jp/company/history.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7595",
+    "https://corp.argo-graph.co.jp/recruit/data.html",
+    "https://job.mynavi.jp/27/pc/search/corp40511/outline.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100AG88.pdf",
+    "https://corp.argo-graph.co.jp/recruit/about.html",
+    "https://corp.argo-graph.co.jp/company/business.html"
+   ]
+  },
+  {
+   "query": "アルゴグラフィックス 社長 インタビュー",
+   "results": [
+    "https://corp.argo-graph.co.jp/company/profile.html",
+    "https://corp.argo-graph.co.jp/ir/management.html",
+    "https://www.argo-graph.co.jp/",
+    "https://en-hyouban.com/company/00002452917/22/",
+    "https://www.nikkan.co.jp/articles/view/330329",
+    "https://kitaishihon.com/company/7595/board-of-director",
+    "https://the-shashi.com/tse/7595/executives/",
+    "https://corp.argo-graph.co.jp/company/vision.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrZ9&q_no=10",
+    "https://the-shashi.com/tse/7595/executives/ceo/ozaki-muneshi/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

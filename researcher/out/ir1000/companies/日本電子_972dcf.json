@@ -1,0 +1,2260 @@
+{
+ "name": "日本電子",
+ "aliases": [],
+ "context": "証券コード6951／電気機器／プライム（内国株式）／2026.03期 売上高179,353百万円 営業利益率14.5%",
+ "researched_at": "2026-11-02T19:10:44.218741+00:00",
+ "official_url": "https://www.jeol.co.jp/",
+ "identified_by": "search:ddgs:bing:日本電子",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1949年5月30日",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年 （ 昭和 24年） 5月30日 （株式会社日本電子光学研究所）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1949",
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "理科学計測機器（電子光学機器・分析機器、計測検査機器)、半導体関連機器、産業機器、医用機器の製造 ・ 販売 ・\n                    開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "理科学計測機器（電子光学機器・分析機器、計測検査機器)、半導体関連機器、産業機器の製造 ・ 販売 ・ 開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "label": "事業概要",
+    "value": "高級精密理科学機器（電子光学機器・分析機器）、計測検査機器、半導体関連機器、産業機器、医用機器の製造 ・ 販売 ・ 開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 (連結)",
+    "value": "1,793億5,300万円 (2026年3月末現在)",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：1,793億3,530万円 （2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数 (連結)",
+    "value": "3,731人 (2026年3月末現在)",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：3,604人、単独：2,313人 （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "3,435名(2024年3月末現在)",
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介・開発秘話",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第45回 EPMA・表面分析ユーザーズミーティング",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第2回 MicroED/3D ED ユーザーズミーティング",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「最先端テクノロジーに挑戦するお客様とイノベーションを共創する、グローバルリーダー*」を目指し、ますます高度化し多様化するお客様のニーズに的確にお応えしていきます",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々なサポート体制でお客様をバックアップしております",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子ではマクロからナノスケールまでの幅広い視点で形態観察、表面分析、構造解析、化学分析に対応できるさまざまな分析装置を揃え、お客様のニーズに合ったソリューションを提供いたします",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "様々なサポート体制でお客様をバックアップしております",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社・昭島製作所の東門は社員通用門のため、お客様のご利用はできません",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトをご利用いただくにあたり、以下の事項にお客様のご同意をいただいた上でご利用いただけます",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. お客様のご利用環境",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトは、お客様のパソコンおよび携帯端末における仕様及び設定によりましては正常に表示・作動しない場合もあります",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトのご利用により、ご利用者が損害を受けられた場合、当社はいかなる責任も負いません",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、保守作業や、システムトラブル、天災、その他の事象により、本ウェブサイトが中断し、その結果お客様に損害が生じた場合においても、当社はいかなる責任も負いません",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々なサポート体制でお客様をバックアップしております",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/solutions/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOLグループは、経営理念のもと、最先端の理科学計測機器、半導体関連機器、産業機器、医用機器等の製品やサービスを通じ、お客様、並びに市場の求めるトータルソリューションを提供するとともに、持続的発展の可能な循環型社会の実現に貢献します",
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションプロバイダーとして、お客様に満足していただける品質の高い製品・サービスを提供します",
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "「最先端テクノロジーに挑戦するお客様とイノ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは単なる規模の拡大ではなく、 顧客ととも",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業から、 顧客の研究開発や製造プロセスに深く入",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を結びつけ、 顧客との共創を通じて価値を創出し",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "となっており、 顧客の競争力そのものに直結する",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リケーション ・ サービス、 顧客との共創を組み合わ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "せることで、 顧客の課題を包括的に解決するソ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "置メーカーから顧客価値の創出に深く関与する企",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「最先端テクノロジーに挑戦するお客様とイノベーションを共創する、 グローバルリーダー※になる」",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客満足度や従業員エンゲージメントの向上を図り、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を創出し、 最先端テクノロジーに挑戦するお客様の想像を超えるイノベーションを提供できる",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▶4 顧客満足度の向上や従業員エンゲージメントの強化を図り 、 イノベーションの推進とガ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "結果をお客様が抱えている課題の解決につなげていく取り組みに踏み込んでいきます",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それぞれの強みを持ち寄ることで、 変化が著しい時代において、 最適なソリューションを最速でお客様へ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「最先端テクノロジーに挑戦するお客様とイノベーションを共創する、 グローバルリーダーになる」 を長",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "発」 の精神を失わずに、 お客様の革新を実現する最適なソリューションを提供するべく、 日々企業",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最先端テクノロジーに挑戦するお客様と",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "して、 顧客のニーズ／課題にマッチし",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を強化し、 顧客に高い付加価値を提供",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YOKOGUSHI 2.0による、 お客様のニーズの充足、 お客様の想像を上回るソリューションの創出",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度はその2年目にあたり、 1年目に実施した市場調査や顧客",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導体向けに開発したハイスループット解析電子顕微鏡 「JEM-ACE200F」 の機能を、 お客様の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供し、 お客様の課題解決に貢献します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は市場環境や技術変化に柔軟に対応しながら継続的な変革を推進し、 お客様の課題解",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の要望に応える高度な分析装置❷",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「最先端テクノロジーに挑戦するお客様とイノ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリッジングサービス",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会員制サービス",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にお使いいただくために",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポートエリア",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体ソリューション",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンスソリューション",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社JEOL RESONANCE ソリューションマーケティング部",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今さら聞けないGC-MS基礎講座 ＆ AI技術を活用した最新定性分析ソリューションセミナー",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション開発センター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション企画室",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、当社の製品は世界中で広くご利用いただいており、グローバル企業として高い評価をいただいております",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JMS-S3000 NewSpiralTOF™ MALDI-TOFMS | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブリッジングサービス",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "会員制サービス",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にお使いいただくために",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポートエリア",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "主なJEOL製品の仕組みや応用について、",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリッジングサービス",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "会員制サービス",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にお使いいただくために",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポートエリア",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子ではマクロからナノスケールまでの幅広い視点で形態観察、表面分析、構造解析、化学分析に対応できるさまざまな分析装置を揃え、お客様のニーズに合ったソリューションを提供いたします",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブリッジングサービス",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "会員制サービス",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にお使いいただくために",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポートエリア",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブリッジングサービス",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "会員制サービス",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にお使いいただくために",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポートエリア",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ナノテクノロジーやバイオテクノロジーなどさまざまな分野でトップクラスのソリューションを提供しています",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブリッジングサービス",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "会員制サービス",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にお使いいただくために",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポートエリア",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「JEOL-Nikon CLEMソリューションセンター」を開設",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.jeol.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "理科学関連分野で利用される電子顕微鏡、核磁気共鳴装置、質量分析装置などを紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連分野で利用される電子ビーム描画装置、理科学機器を紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生命科学分野における構造解析・形態観察・分子分析を目的とした解析装置ラインアップをご紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成膜・材料生成関連分野で利用される電子銃やプラズマ装置・３Dプリンターなどを紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介・開発秘話",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大収束角走査透過電子顕微鏡の紹介",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "～HAXISによる低ダメージ剥離観察と解析事例のご紹介～",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "ムービー内で紹介したアプリケーション",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 会社情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "理科学関連分野で利用される電子顕微鏡、核磁気共鳴装置、質量分析装置などを紹介します",
+    "url": "https://www.jeol.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連分野で利用される電子ビーム描画装置、電子顕微鏡を紹介します",
+    "url": "https://www.jeol.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "成膜・材料生成関連分野で利用される電子銃やプラズマ装置・３Dプリンターなどを紹介します",
+    "url": "https://www.jeol.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "ムービー内で紹介したアプリケーション",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/solutions/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「”CRYO ARM™ 300 II” を用いたワークフローの御紹介」の動画を公開しました",
+    "url": "https://www.jeol.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様紹介 / 開発秘話",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "「ビジョン2035」 と 「YOKOGUSHI 2.0」 についてご紹介します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部パートナーとの協業により",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "決に迅速に寄り添うパートナーとして、 半導体の歩留まり向上、 生産性向上、 開発期間短縮に",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Science」 に掲載された日本人による研究を取り上げて紹介して",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経由で装置の紹介や操作説明を行います",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術や新商品の紹介など、 研究 ・ 分析活動の役に立つ情",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にお応えするおすすめの消耗品をご紹介しています",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省が認定する 「研究支援サービス ・ パートナーシップ認定",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップ認定制度」",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる改善活動の紹介や、 ゲーム感覚で問題解決の手",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "も紹介いただきました",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、 各分野における 「YOKOGUSHI」 の事例を紹介 ・",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ビジョン2035」 と 「YOKOGUSHI 2.0」 についてご紹介します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部パートナーとの協業により",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "決に迅速に寄り添うパートナーとして、 半導体の歩留まり向上、 生産性向上、 開発期間短縮に",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Science」 に掲載された日本人による研究を取り上げて紹介して",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省が認定する 「研究支援サービス ・ パートナーシップ認定",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップ認定制度」",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経由で装置の紹介や操作説明を行います",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術や新商品の紹介など、 研究 ・ 分析活動の役に立つ情",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にお応えするおすすめの消耗品をご紹介しています",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる改善活動の紹介や、 ゲーム感覚で問題解決の手",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "も紹介いただきました",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、 各分野における 「YOKOGUSHI」 の事例を紹介 ・",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗数で仏具業界トップのスタンダード上場企業",
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、保守作業や、システムトラブル、天災、その他の事象により、本ウェブサイトが中断し、その結果お客様に損害が生じた場合においても、当社はいかなる責任も負いません",
+    "url": "https://www.jeol.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/solutions/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "下記製品の設計・開発、製造、販売およびサービス(据付、保守、修理、オーバーホール)",
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "保守対応を支援します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "❸ サブスクリプション",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分析機器のサブスクリプションサービス 「JEOL-",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "❸ 保守契約",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "装置を長く安定的に使用していただくため、 保守の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "費を抑え、 保守費用を計画的に管理可能です",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要な時に必要な分だけ装置を利用できる従量課金制のシェ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の第72回定時株主総会において、 年額80百万円以",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の第72回定時株主総会において、 年額600百万円",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以内 （うち社外取締役分の年額30百万円以内） と決",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の社外取締役分の報酬額のみを年額50百万円以内",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "❸ サブスクリプション",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分析機器のサブスクリプションサービス 「JEOL-",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要な時に必要な分だけ装置を利用できる従量課金制のシェ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守対応を支援します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "❸ 保守契約",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "装置を長く安定的に使用していただくため、 保守の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "費を抑え、 保守費用を計画的に管理可能です",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の第72回定時株主総会において、 年額80百万円以",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の第72回定時株主総会において、 年額600百万円",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以内 （うち社外取締役分の年額30百万円以内） と決",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の社外取締役分の報酬額のみを年額50百万円以内",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "理科学計測機器（電子光学機器・分析機器、計測検査機器)、半導体関連機器、産業機器の製造 ・ 販売 ・ 開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "をはじめとした精密機器や理科学機器の設計、製造、販売、保守を行う企業である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア提供から保守・サービス、データ利活用への進化",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "高級精密理科学機器（電子光学機器・分析機器）、計測検査機器、半導体関連機器、産業機器、医用機器の製造 ・ 販売 ・ 開発研究、およびそれに附帯する製品 ・ 部品の加工委託、保守 ・ サービス、周辺機器の仕入 ・ 販売",
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日(金)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月4日(水)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月5日(木)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月6日(金)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日(金)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月20日(金)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月27日(金)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月1日(火)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年9月の国連サミットにおいて全会一致で採択された持続可能な開発目標(SDGs)においても記されています",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月版",
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年5月30日",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 会社情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1940年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 統合報告書2025",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 統合報告書2024",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 統合報告書2023",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 統合報告書2022",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 統合報告書2021",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期 統合報告書2020",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期 統合報告書2019",
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期 アニュアルレポート 2018(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期 アニュアルレポート 2017(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期 アニュアルレポート 2016(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期 アニュアルレポート 2015(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期 アニュアルレポート 2014(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期 アニュアルレポート 2013(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期 アニュアルレポート 2012(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月期 アニュアルレポート 2011(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月期 アニュアルレポート 2010(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月期 アニュアルレポート 2009(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年3月期 アニュアルレポート 2008(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年3月期 アニュアルレポート 2007(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年3月期 アニュアルレポート 2006(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月期 アニュアルレポート 2005(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年3月期 アニュアルレポート 2004(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年3月期 アニュアルレポート 2003(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年3月期 アニュアルレポート 2002(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年3月期 アニュアルレポート 2001(PDF",
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月～12月データに基づく 「Count指標",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度は中期経営計画 「Evolving Growth",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度に実施した医用機器事業の譲渡は、 当",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年より取り組んできた 「YOKOGUSHI」 は、 最先端技術分野におけるソリューションを提供するた",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度はその2年目にあたり、 1年目に実施した市場調査や顧客",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月に開催されたSEMICON Japanでは、 冷陰極電界放出形電子銃を搭載した半",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月に発売した 「CRYO ARM™ 300S」 および 「CRYO ARM™ 200S」 は、 タンパク質に代",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月に発売した 「SuperCOOL MARVEL HCN」 は、 低温プローブ向けに最適化された",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 （実績） 2029年度 （目標）",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年6月5日に、 本施設の開設記念式典が開催されました",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年は、 世界60の国 ・ 地域から合計7,131名の研",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期には政策保有株式3銘柄",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期は配当性向30.5%を",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年12月竣工予定 2027年4月竣工予定",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "MALDI (マトリックス支援レーザー脱離イオン化) 法は発明の背景から、タンパク質や合成ポリマーなど高分子化合物の分析に 強みをもつ手法として知られてきました",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "pass": 1
+   },
+   {
+    "quote": "すなわち、 当社の強みであるコア技術を、 最も付加",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術基盤が求められるため参入障壁が高く、 当社の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位性を中長期にわたり維持 ・ 強化できる市",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益性の向上を同時に実現し、 安定的かつ高収益な",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした環境下において競争優位性",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長投資を通じて競争優位性を確立し、 収益性",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点領域における競争優位性を最大限に活かし、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それぞれの強みを持ち寄ることで、 変化が著しい時代において、 最適なソリューションを最速でお客様へ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高い参入障壁の構築",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "I技術を積極的に推進し、 競争優位性を",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした強みを最大限に活かすため、 私たちはこれまで以上に市場起点の視点を重視して",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.2％ 19.1％",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 40.2％ 37.7％",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京都大学、 株式会社リガク、 および当社は三者がお互いの強みを活",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品 ・ 消耗品の価格や在庫、 納期の確認、 見積書発行や注",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円 、 連結営業利益4 4 0億円 、 営業利益率2 1 . 5 % 、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "く なる傾向にあるため、 在庫削減を中心と したCCC短",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結売上高／営業利益率",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のコア技術による競争優位性を発揮できる半導体およ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本効率も、 売上高営業利益率14.5%、 ROE15.7%、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いった実行力の質が競争優位を左右します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点領域である半導体およびライフサイエンス分野においては、 専門人財の確保が競争優位の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "目標とする営業利益率の水準 （2029年",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を防ぎつつ、 日々の使用量 ・ 在庫量を適正に管理",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業への注力による高収益化を掲げており、 2029",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すなわち、 当社の強みであるコア技術を、 最も付加",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術基盤が求められるため参入障壁が高く、 当社の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位性を中長期にわたり維持 ・ 強化できる市",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益性の向上を同時に実現し、 安定的かつ高収益な",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした環境下において競争優位性",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長投資を通じて競争優位性を確立し、 収益性",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点領域における競争優位性を最大限に活かし、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それぞれの強みを持ち寄ることで、 変化が著しい時代において、 最適なソリューションを最速でお客様へ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高い参入障壁の構築",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "I技術を積極的に推進し、 競争優位性を",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした強みを最大限に活かすため、 私たちはこれまで以上に市場起点の視点を重視して",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.2％ 19.1％",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 40.2％ 37.7％",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京都大学、 株式会社リガク、 および当社は三者がお互いの強みを活",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品 ・ 消耗品の価格や在庫、 納期の確認、 見積書発行や注",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結売上高／営業利益率",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のコア技術による競争優位性を発揮できる半導体およ",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本効率も、 売上高営業利益率14.5%、 ROE15.7%、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円 、 連結営業利益4 4 0億円 、 営業利益率2 1 . 5 % 、",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "く なる傾向にあるため、 在庫削減を中心と したCCC短",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いった実行力の質が競争優位を左右します",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点領域である半導体およびライフサイエンス分野においては、 専門人財の確保が競争優位の",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "目標とする営業利益率の水準 （2029年",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を防ぎつつ、 日々の使用量 ・ 在庫量を適正に管理",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業への注力による高収益化を掲げており、 2029",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業績推移と目標：サイクルの「谷」を越え、高収益体質へ",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "] 業績推移と目標：サイクルの「谷」を越え、高収益体質へ",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "FY2029に向けた「営業利益率20%」「ROE/ROIC 15%以上」の野心的目標",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "JEOLグループは、「理科学・計測機器」、「半導体・産業機器」の2つのセグメントにより事業を行っております",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.jeol.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "このことからEO/PO比率は非公開のランダムコポリマーのEO/POの構成比も推定することが可能です",
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントの状況",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント別概況",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◦事業セグメントの状況 ・ 目標",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントの状況 事業環境",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別 中期経営計画目標",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◦事業セグメント別概況",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントの状況",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント別概況",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◦事業セグメントの状況 ・ 目標",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別 中期経営計画目標",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◦事業セグメント別概況",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "影響にとどまらず、 当社の収益構造に内在する課",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うえで、 持続的に成長できる収益構造への転換が",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "―収益構造を変革する中核",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計測機器事業の収益構造そのものを変革するため",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▶2 技術革新や新しいビジネスモデルの開発により競争力を強化し 、 イノベーション創出を",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニーズに応えることで新たなビジネスモデルを構築して",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "影響にとどまらず、 当社の収益構造に内在する課",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うえで、 持続的に成長できる収益構造への転換が",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "―収益構造を変革する中核",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計測機器事業の収益構造そのものを変革するため",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▶2 技術革新や新しいビジネスモデルの開発により競争力を強化し 、 イノベーション創出を",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニーズに応えることで新たなビジネスモデルを構築して",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資銘柄ビジモ解説【ビジネスモデル解説】 520回視聴 6 か月前",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "投資銘柄ビジモ解説【ビジネスモデル解説】",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "理科学・計測機器の世界的なパイオニア「日本電子（6851）」のビジネスモデルと将来性を全10枚のスライドで解説します",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル：装置売りから高付加価値ソリューションへ",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造の解剖：半導体関連（産業機器）が強烈な利益ドライバー",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "プロ経営者による指揮と、特定顧客に依存しない収益構造",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "] ビジネスモデル：装置売りから高付加価値ソリューションへ",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "] 収益構造の解剖：半導体関連（産業機器）が強烈な利益ドライバー",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "※本動画は、特定の銘柄の売買を推奨するものではなく、ビジネスモデルの解説および独自の計算に基づく価値評価を目的としています",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "#ビジネスモデル解説",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本電子 - Wikipedia — 日本電子の前身は、戦後の 1946年 （昭和 21年）に 千葉県 茂原町 （現・ 茂原市）で 風戸健二 ら元海軍技術将校が 電子顕微鏡 の設計、製造を始めた企業であったが、数年後に経営方針の違いでオーナー側からの一方的な排除を受けたことにより風戸らは ...",
+    "url": "https://ja.wikipedia.org/wiki/日本電子",
+    "pass": 3
+   },
+   {
+    "quote": "【完全解説】 日本電子（6951）【完全解説】世界トップの「視る」技術...INTEGRATED REPORT 2026 - jeol.co.jp事業紹介 | 会社情報 | JEOL 日本電子株式会社日本電子株式会社の魅力を探るビジネスモデルと成長戦略 | チームマイ...日本電子 - Wikipedia【日本電子 FY2025 Full Year 決算説明会】純利益が過去最高221億円、...日本電子の戦略分析 | 電子デバイス産業新聞（旧半導体産業新聞） — Apr 13, 2026 · 【目次】 [00:00] イントロダクション 日本電子（6951）の企業価値と「視る」技術が描く成長戦略の概要 [01:36] JEOLのDNA：「創造と開発」を貫く世界 ... 日本電子は、中期経営計画において、ライフサイエンスを重点市場の一つに位置づけています。 その背景には、「極微の世界を可視化",
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | 会社情報 | JEOL 日本電子株式会社 — 日本電子 (JEOL) の企業情報をご紹介。 電子顕微鏡 (TEM,SEM) 、核磁気共鳴装置 (NMR) や質量分析装置 (MS) などの理科学計測機器・半導体関連機器・産業機器をグローバルに展開。 総合ソリューションを提供します。",
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子株式会社の魅力を探るビジネスモデルと成長戦略 | チームマイ... — Feb 21, 2025 · 日本電子株式会社の主要活動は、大きく分けて研究開発・製造・販売・アフターサービスにわたります。 特に研究開発では、大学や企業の研究者と共同で次世代の計測技術を追求しており、新しい要求が生まれるたびに柔軟に応じることが強みです。 【理由】",
+    "url": "https://consovation.com/日本電子株式会社の魅力を探るビジネスモデルと/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本電子 FY2025 Full Year 決算説明会】純利益が過去最高221億円、... — Jun 25, 2026 · 高市早苗首相が「新技術立国への実現に向け研究機器などの基盤整備で研究費倍増を目指す」と表明したことが大きく、栗原社長は「経団連会談での発言は日本電子のビジネスにプラス」と言及。 米国予算減少の逆風を日本市場が補う構図だ。",
+    "url": "https://finance.biggo.jp/news/JP_6951.T_2026-05-29",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料 | IR情報 (株主・投資家の皆様へ) | JEOL 日本電子株... — Nov 28, 2025 · 日本電子 (JEOL) の企業情報をご紹介。 電子顕微鏡 (TEM,SEM) 、核磁気共鳴装置 (NMR) や質量分析装置 (MS) などの理科学計測機器・半導体関連機器・産業機器をグローバルに展開。 総合ソリューションを提供します。",
+    "url": "https://www.jeol.co.jp/ir/financial_report/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信 | IR情報 (株主・投資家の皆様へ) | JEOL 日本電子株式会社 — 日本電子 (JEOL) の企業情報をご紹介。 電子顕微鏡 (TEM,SEM) 、核磁気共鳴装置 (NMR) や質量分析装置 (MS) などの理科学計測機器・半導体関連機器・産業機器をグローバルに展開。 総合ソリューションを提供します。",
+    "url": "https://www.jeol.co.jp/ir/financial_results/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 (6951) : 決算情報・業績 [JEOL] - みんかぶ — 日本電子 (6951)の決算発表情報。 前期実績・前々期実績と比較して増益・減益など企業の業績をわかりやすくお知らせします。 直近決算期：2026年3月期 (連)【売上高】179,353百万円【当期純利益】22,097百万円【自己資本比率】59.90%",
+    "url": "https://minkabu.jp/stock/6951/settlement",
+    "pass": 3
+   },
+   {
+    "quote": "【日本電子】 [6951]決算発表や業務・財務情報 | 日経電子版 — 19 hours ago · 【日本経済新聞】日本電子 [6951]の配当・売上高・営業利益など決算情報を収録。中間業績や貸借対照表、キャッシュフローの状況やセグメント ...",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6951",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料 - 日本電子材料株式会社 — 決算説明会資料 ... 投資家情報 株主・投資家の皆様へ 業績ハイライト 株式情報 株価情報 株主総会 IRスケジュール IRライブラリ 決算短信 決算補足資料 有価証券報告書 事業報告書 FAQ 電子公告 会社情報 代表挨拶・経営理念・経営方針 会社概要・沿革・組織 ...",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/kessansetumeikai",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 - Wikipedia — 日本電子 「日本電気」とは異なります。 ... 日本電子株式会社 （にほんでんし、 JEOL Ltd.）は 東京都 昭島市 に本社を置く、 電子顕微鏡 をはじめとした精密機器や理科学機器の設計、製造、販売、保守を行う企業である。",
+    "url": "https://ja.wikipedia.org/wiki/日本電子",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）の事業内容、事業の状況や経営戦略、事業等のリスク... — 本ページでは、有価証券報告書記載の日本電子の事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6951",
+    "pass": 3
+   },
+   {
+    "quote": "6951 日本電子 | 有報資料 | IRBANK — (注)1. 無印 連結子会社 ※1 非連結子会社で持分法適用会社 ※2 関連会社で持分法適用会社 2. 当社は、当社の医用機器事業を継承させるための分割準備会社として、2025年9月25日に㈱医用機器事業分割準備会社を設立し、同社を連結子会社といたしました。",
+    "url": "https://irbank.net/E01905/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）｜上場企業 事業内容の全文 — なお、「第5 経理の状況 1．連結財務諸表等 (1）連結財務諸表 注記事項」に掲げるセグメント情報の区分は、電子光学機器、分析機器および計測検査機器を理科学・計測機器事業、産業機器を産業機器事業、医用機器を医用機器事業としております。",
+    "url": "https://jigyou.kabu-trendpro.com/company.php?ticker=6951",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー動画－日本電子株式会社 代表取締役会長兼取締役会...科学技術立国日本の前途を照らす | 致知電子版Interview | 製品情報 | JEOL 日本電子株式会社プロフェッショナルインタビュー | 採用情報 | JEOL 日本電子株式会社「一番重要なのは何よりも人格」——日本電子会長が語る、人生と仕事の...日本電子社長「『70年目の転進』はコミュニケーションから」「災禍は変革の源」——死ぬ思いで奮闘した4年間で掴んだ〝人生の法則〟... — 最先端理化学機器のリーディングカンパニー】「日本電子株式会社」の代表取締役会長兼取締役会議長、「栗原権右衛門」氏の動画を配信。 社長直結メディア『社長名鑑』は気になる経営者に直接提案が可能なメディアです。 祖業である電子顕微鏡で世界トップシェアを誇り、ノーベル賞の陰の立役者と称される理科学・分析機器メーカー日本電子。 しかし営業畑",
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "pass": 3
+   },
+   {
+    "quote": "Interview | 製品情報 | JEOL 日本電子株式会社 — ノーベル生理学・医学賞受賞者 大隅良典 理事長 「人のやらない」研究を続けて2016年にノーベル生理学・医学賞を受賞した大隅良典氏と日本電子 会長 栗原権衛門とで「基礎科学の振興と企業の役割」をテーマにお二人にお話しいただいた。",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナルインタビュー | 採用情報 | JEOL 日本電子株式会社 — 日本電子 (JEOL) の採用情報をご紹介。 電子顕微鏡 (TEM,SEM) 、核磁気共鳴装置 (NMR) や質量分析装置 (MS) などの理科学計測機器・半導体関連機器・産業機器をグローバルに展開。 総合ソリューションを提供します。",
+    "url": "https://www.jeol.co.jp/recruit/professional-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "「一番重要なのは何よりも人格」——日本電子会長が語る、人生と仕事の... — Jan 21, 2024 · しかし本当にそうでしょうか。 令和元年にリチウムイオン電池の研究と普及でノーベル化学賞に輝いた旭化成名誉フェロー・吉野 彰氏と、電子顕微鏡分野で世界シェア首位を誇る日本電子の会長・栗原権右衛門氏。",
+    "url": "https://www.chichi.co.jp/web/20240121-kurihara/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子社長「『70年目の転進』はコミュニケーションから」 — Nov 8, 2019 · （写真=山下 裕之） 創業70周年の節目の年に社長を拝命しました。 当社は電子顕微鏡の開発と製造で創業し、現在も売上高の7割は電子顕微鏡などの理科学・計測機器が占めています。",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00110/00045/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jeol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/solutions/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/ir/integrated_reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/recruit/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/solutions/environment.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/sustainability/environment/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/ir/annualreport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF_polymer.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jeol.co.jp/assets/img/corporate/outline/about/headoffice_map.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/img/corporate/outline/about/musashimurayama_map_20250714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2025_a4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2024_a4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2023_a4-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2022_a4-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/presidents/detail/10062503",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本電子",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本電子",
+    "https://en.wikipedia.org/wiki/JEOL",
+    "https://www.jeol.co.jp/",
+    "https://www.jeol.co.jp/corporate/",
+    "https://finance.yahoo.co.jp/quote/6951.T",
+    "https://www.n-denshi.com/",
+    "https://www.jeol.com/"
+   ]
+  },
+  {
+   "query": "日本電子 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本電子",
+    "https://www.youtube.com/watch?v=fEZebUDswn8",
+    "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "https://consovation.com/日本電子株式会社の魅力を探るビジネスモデルと/",
+    "https://finance.biggo.jp/news/JP_6951.T_2026-05-29",
+    "https://www.sangyo-times.jp/article.aspx?ID=3051",
+    "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a3.pdf"
+   ]
+  },
+  {
+   "query": "日本電子 決算説明資料",
+   "results": [
+    "https://www.jeol.co.jp/ir/financial_report/",
+    "https://www.jeol.co.jp/ir/financial_results/",
+    "https://minkabu.jp/stock/6951/settlement",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6951",
+    "https://www.jem-net.co.jp/ir/ir-library/kessansetumeikai",
+    "https://www.irwebcasting.com/20260529/6/372f6d5765/mov/main/index.html",
+    "https://irbank.net/E01905/reports"
+   ]
+  },
+  {
+   "query": "日本電子 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本電子",
+    "https://www.jeol.co.jp/corporate/outline/profile.html",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6951",
+    "https://irbank.net/E01905/business",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=6951",
+    "https://www.n-denshi.com/organization/",
+    "https://www.jeol.co.jp/assets/pdf/ir/integrated_reports/integrated_report_2026_a4.pdf"
+   ]
+  },
+  {
+   "query": "日本電子 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/presidents/detail/10062503",
+    "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "https://www.jeol.co.jp/recruit/professional-interview/",
+    "https://www.chichi.co.jp/web/20240121-kurihara/",
+    "https://business.nikkei.com/atcl/NBD/19/00110/00045/",
+    "https://magazine.chichi.co.jp/articles/2938490150/",
+    "https://www.chichi.co.jp/web/20240517_kurihara/"
+   ]
+  }
+ ],
+ "missing": {}
+}

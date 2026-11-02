@@ -1,0 +1,1440 @@
+{
+ "name": "ＮＡＮＫＡＩ",
+ "aliases": [],
+ "context": "証券コード9044／陸運業／プライム（内国株式）／2026.03期 売上高264,714百万円 営業利益率15.1%",
+ "researched_at": "2026-11-02T18:55:39.790563+00:00",
+ "official_url": "http://www.nankai.co.jp/",
+ "identified_by": "search:yahoo_jp:NANKAI",
+ "profile": {
+  "売上高": [
+   {
+    "label": "営業収益",
+    "value": "+172億円 営業利益：+16億円",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "label": "営業収益",
+    "value": "微減 営業利益：+21億円",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "label": "営業収益",
+    "value": "+13億円 営業利益：据置き",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "南海・特急チケットレスサービス",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "南海・特急チケットレスサービスとは | NANKAI",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "南海・特急チケットレスサービスとは",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "新サービスのご利用案内",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "南海・特急チケットレスサービス会員",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "「南海・特急チケットレスサービス」の取扱いがなければ、",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "） 1ポイント＝1円で、溜まったポイントを特急券購入のお支払いに利用できるサービスです",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "※最終ログイン日から1年間、「南海・特急チケットレスサービス」の取扱いがなければ退会となり、ポイントは失効いたします",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/community/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/community/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/community/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/community/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/community/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/community/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/community/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/community/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/community/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "これからもNANKAIグループは、安全・安心な移動サービスを基軸に、多様な事業で人々の生活を支えてまいります",
+    "url": "https://www.nankai.co.jp/company/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.nankai.co.jp/company/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループは、沿線エリアを中心に駅を拠点として、安全・安心・快適な輸送サービスを基軸に、住宅・オフィス・商業の開発など、生活のあらゆる場面でさまざまなサービスを組み合わせることで、「地球環境にやさしい」「すべての世代の人々にやさしい」「自然災害に強い」まちづくりを進めています",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "分析にあたっては、まず事業インパクトの大きさ等を考慮し、脱炭素社会への移行に伴うリスク・機会項目として「炭素価格、各国の炭素排出目標・政策」、「製品及びサービスへの規制」、「電気・燃料価格、エネルギーミックスの変化」を、また気候変動がもたらす物理的リスク・機会項目としては「異常気象の激甚化」を重要度評価「大」と設定しました",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "サービスへの規制",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "リフォームにおける断熱リフォームパッケージ商品の販売促進",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "「不動産業」「流通業」「レジャー・サービス業」「建設業」「その他の事業」を展開しています",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "生活を便利にし、お客さまのあらゆるニーズに適う新しいサービスを創る力",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "新しいサービスを",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "前例にとらわれない斬新な発想で、未来のサービスを描く",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "「良質で親しまれる交通サービスの提供」「沿線の玄関口・なんばのまちづくり」「沿線活性化策の総動員」によって、",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/traffic/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/traffic/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/traffic/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/traffic/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/traffic/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/traffic/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/community/natts/odekake/kansaiairport_shop_taxfree/",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/community/natts/odekake/kansaiairport_shop_taxfree/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/community/natts/odekake/kansaiairport_shop_taxfree/",
+    "pass": 1
+   },
+   {
+    "quote": "チケットレスサービス",
+    "url": "https://www.nankai.co.jp/traffic/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活サービス",
+    "url": "https://www.nankai.co.jp/traffic/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.nankai.co.jp/traffic/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "＜レジャー・サービス業＞",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業は、ビル管理メンテナンス業において工事収入が増加したことや、通天閣の営業時間の延長",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 48,321 48,649",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "運輸業 不動産業 流通業 レジャー・サービス業 建設業 その他の事業 合計 調整額(注)１",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※株式会社NANKAIは不動産業、流通業、レジャー・サービス業に重複して含まれております",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・その他のレジャー・サービス業は、通天閣の営業時間の延長等により増収の一方、ボートレース施設賃貸業における減収等により減益",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント情報（レジャー・サービス業）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他のレジャー・サービス業",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "訳 その他のレジャー・サービス業",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・その他のレジャー・サービス業は、鉄道事業の分社化に伴い運輸業から移管した施設使用契約のセグメントをその他のレジャー・サービス業から不動産賃貸業へ",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いつも南海・特急チケットレスサービスをご利用いただき、誠にありがとうございます",
+    "url": "https://www.nankai.co.jp/lib/traffic/information/pdf/261021.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の機会に、便利な特急チケットレスサービスをご利用ください",
+    "url": "https://www.nankai.co.jp/lib/traffic/information/pdf/261021.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "昭和29年(1954)に架け替えられたこの橋を渡って「不動坂」を登り、高野山上の「女人堂」に出ることで、昔の高野詣りの風情を楽しむ方も多くいらっしゃいます",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和55年(1980)3月に「なんばCITY」全館オープン",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "平成6年(1994)9月に関西国際空港が開港、平成30年(2018)に「なんばスカイオ」が開業し、大阪市から世界への玄関口として機能するなど、伝統だけでなく時代とともに変革を続けています",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和７年(2025)３月に駅前の「なんば広場」が全体完成、同年９月には２階中央改札口・コンコースのリニューアル完了",
+    "url": "https://www.nankai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（2027年3月期）",
+    "url": "https://www.nankai.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "昭和24年(1949)7月、この地の北側に「中百舌鳥運動場前駅」が開設されましたが9年後に廃止",
+    "url": "https://www.nankai.co.jp/community/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成6年(1994)9月の関西国際空港開港に先立ち、世界に開かれた近畿地方の玄関口として同年6月に開業しました",
+    "url": "https://www.nankai.co.jp/community/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成12年(2000)の第1回「近畿の駅百選」で認定駅に選ばれました",
+    "url": "https://www.nankai.co.jp/community/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/library/integrated_report",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2007年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2006年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2005年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2004年度",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月公表資料",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、以下の当社及びグループ会社（以下、「対象範囲」という",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "2030年の影響想定",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 エネルギー起源",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "2027年のありたき姿を明確にした「南海グループ経営ビジョン2027」についてご説明します",
+    "url": "https://www.nankai.co.jp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度～2027年度を対象とする「NANKAIグループ中期経営計画2025-2027」についてご説明します",
+    "url": "https://www.nankai.co.jp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2031年には「なにわ筋線」の開業が予定されており、梅田や新大阪と南海沿線がつながることで、社会の中で果たす役割もより大きくなります",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の企業像",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月28日現在のものです",
+    "url": "https://www.nankai.co.jp/traffic/station/shirasagi.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月29日現在のものです",
+    "url": "https://www.nankai.co.jp/traffic/station/kansaiairport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月25日現在のものです",
+    "url": "https://www.nankai.co.jp/traffic/station/nirigahama.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期中間期 143,759 13.6 23,367 7.8 21,772 5.0 14,685 4.3",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期中間期 126,516 2.4 21,683 18.8 20,741 4.6 14,084 12.2",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期中間期 135.72 ―",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期中間期 125.55 ―",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期中間期 1,098,159 375,741 32.4",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 1,065,100 354,085 31.3",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 ― 25.00 ― 25.00 50.00",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 ― 27.50",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期（予想） ― 27.50 55.00",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "本サイトに掲載されている情報は、投資判断の参考として、投資一般に関する情報提供を目的としたものであり、投資に関する最終的な決定は、利用者ご自身のご判断において行われるようお願いいたします",
+    "url": "https://www.nankai.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "エコカー普及による顧客減少、減収",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の評判変化：消極的な環境対策との評価による顧客減少",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の環境意識の高まりによる自家用車から鉄道へのモーダルシフト",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "税制優遇措置対象化と、顧客評価の向上による損益への影響",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "・顧客の環境性能ニーズの上昇に応えた差別化成功による増収",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "外部顧客への営業収益 58,416 20,216 14,768 17,711 15,350 53 126,516 － 126,516",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への営業収益 57,188 36,102 15,454 18,606 16,293 113 143,759 － 143,759",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "熊野御坊南海バス株式会社（社長：植田 光昭）では、本宮温泉郷における宿泊利用者の移動時",
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月 30 日まで実施したクレジットカード等によるタッチ決済利用者向け運賃割引施策の第 2 弾を、",
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中時間帯の利用者数が分散されるなど、混雑緩和に一定の効果が確認されました",
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、本施策は混雑緩和だけでなく、利用者の利便性向上にもつながりました",
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらのような第 1 弾の成果を踏まえ、利用者のさらなる利便性向上と路線バスの混雑緩和を図",
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " チェックアウト時間帯に集中する利用者の分散",
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客へのメールマガジンの送信",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします",
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーガイド",
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "pass": 3
+   },
+   {
+    "quote": "社員がワーク・ライフ・バランスを充実させて働ける環境をつくるとともに、いずれはお客様や社会を満足させることにつなげていきたいですね」",
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/library/integrated_report",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "過去5年間のセグメント別の営業収益・営業利益をグラフと数値データにて掲載しています",
+    "url": "https://www.nankai.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………… 9",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと、次のとおりであります",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの営業収益及び利益又は損失の金額に関する情報",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益又は損失（△）の調整額は、セグメント間取引消去であります",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの変更等に関する事項",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、従来の方法によった場合と比較し、「運輸業」の当中間連結会計期間のセグメント 利益が1,074百",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント別の状況",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．投資額・EBITDA（セグメント別）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 構成比：セグメント間取引を含む営業収益に対する比率",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別営業利益】【セグメント別営業収益】",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメントの構成状況（2026年９月末現在）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント別営業収益・営業利益",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別営業利益の増減（対2025/２Q実績）セグメント別営業収益の増減（対2025/２Q実績）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント情報（運輸業）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調整額（セグメント内）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント情報（不動産業）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント情報（流通業）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント情報（レジャー・サービス業）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント情報（建設業 / その他の事業）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別営業利益の増減（対2026年度期初予想）セグメント別営業収益の増減（対2026年度期初予想）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント別営業収益・営業利益（対2026年度期初予想）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別営業利益の増減（対2025年度実績）セグメント別営業収益の増減（対2025年度実績）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント別営業収益・営業利益（対2025年度実績）",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・不動産賃貸業は、人件費等の増加に加え、鉄道事業の分社化に伴い運輸業から移管した賃貸契約のセグメントを駅ビジネス事業へ見直したことにより減益",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・駅ビジネス事業は、鉄道事業の分社化に伴い運輸業から移管した賃貸契約のセグメントを不動産賃貸業から駅ビジネス事業へ見直したことにより増収増益",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・その他のレジャー・サービス業は、鉄道事業の分社化に伴い運輸業から移管した施設使用契約のセグメントをその他のレジャー・サービス業から不動産賃貸業へ",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/library/integrated_report",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "・大量輸送、定時性等の鉄道の強みを",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "・在庫の確保等、鉄道施設、不動産・流通施設に",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "事業の広がり、歴史、強み、ビジョンなど、NANKAIグループを知っていただくための情報を掲載しています",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "どんな強みが",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "どんな強みがあるの？",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "培った３つの強みを活かし、住む人、働く人、訪れる人にとっての魅力を創造しています",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "これらの強みを活かして、NANKAIグループは成長を続けています",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの強みを知る",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "こうした地域の信頼とブランド力が、当社の強みです",
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "払いもどし手数料は1回につき160円です",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "払いもどし手数料は、1席につき、",
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "現存する最古の純民間資本の鉄道会社でスタートした私たちが、果敢に挑むDXの取組みを紹介します",
+    "url": "https://www.nankai.co.jp/company/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "委 員：委員長の指名する者",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "２ なんばCITY、なんばパークス、なんば駅南海商事営業店舗を想定",
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "pass": 1
+   },
+   {
+    "quote": "NANKAIグループの今を、さまざまな数字を用いて紹介します",
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "また、グループの商品情報を取りまとめて紹介するＷＥＢサイト「南海ワンストップサイト」への掲載を行い、グループ会社の増収への貢献を目指して活動を実施",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人人財の紹介事業支援",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "また、定期的な介護関係事業者訪問活動による入居者紹介支援活動も実施",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "老人ホームへの入居者紹介支援の実施",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "NANKAIグループが所有する遊休地や賃貸不動産の空き区画などに対する活用策の提案やお客さまの紹介",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産開発用地情報の収集､紹介",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、社内業務効率化のためのクラウドサービスご紹介や、生産性向上施策の提案を実施",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "ワークフローシステム「コラボフロー」や業務アプリ作成サービス「Kintone」の自社導入事例を交えた紹介",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "社用スマートフォンと内線システムの活用によるテレワーク環境推進の自社事例紹介",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "「事業紹介」を参照ください",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "“他社とのコラボによるビジネススキーム”の提案を中心に、NANKAIグループに「新たなビジネスモデル案」を提供し、実際の営業促進支援も行うことを通じて、NANKAIグループへの増収支援活動を実施",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "「以前は郊外に戸建ての家を構え、都市に通勤するライフスタイルが主流だったため、沿線で住宅開発を行い、移動需要を創出して収益を上げるのが、鉄道会社共通のビジネスモデルでした",
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NANKAI グループ中期経営計画 2025—2027 — NANKAI グループ中期経営計画 2025—2027 南海電気鉄道株式会社 PDF https://www.nankai.co.jp > library > individual > pdf",
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/individual/pdf/250331_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NANKAI グループ向けページ | 南海 リサーチ＆アクト — NANKAI グループ向けページ | 南海 リサーチ＆アクト 南海リサーチ＆アクト https://nankai-nra.co.jp > group",
+    "url": "https://nankai-nra.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム | NANKAI イノベーションサイト Flybeyond-新規事業 — プログラム | NANKAI イノベーションサイト Flybeyond-新規事業 startup-nankai.com https://startup-nankai.com > program",
+    "url": "https://startup-nankai.com/program/",
+    "pass": 3
+   },
+   {
+    "quote": "3分で知る NANKAI — 3分で知る NANKAI nankai-recruiting.jp https://www.nankai-recruiting.jp > about-nankai",
+    "url": "https://www.nankai-recruiting.jp/about-nankai/",
+    "pass": 3
+   },
+   {
+    "quote": "地域との共創により、 南海 沿線で働き、暮らす魅力を高めたい — 地域との共創により、 南海 沿線で働き、暮らす魅力を高めたい 株式会社 ブレーンセンター https://perspectives.braincenter.co.jp > person > nankai",
+    "url": "https://perspectives.braincenter.co.jp/perspectives/blog-category/person/nankai.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | NANKAI - 南海 電鉄 — 決算説明 会 資料 | NANKAI - 南海 電鉄 南海電気鉄道株式会社 http://www.nankai.co.jp > ... > IR情報 > IRライブラリー",
+    "url": "http://www.nankai.co.jp/ir/library/presentation",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・ 決算 補足 説明資料 | NANKAI - 南海 電鉄 — 決算 短信・ 決算 補足 説明資料 | NANKAI - 南海 電鉄 南海電気鉄道株式会社 http://www.nankai.co.jp > ... > IR情報 > IRライブラリー",
+    "url": "http://www.nankai.co.jp/ir/library/brief",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 南海 化学株式会社 — 決算説明資料 - 南海 化学株式会社 南海化学株式会社 https://www.nankai-chem.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.nankai-chem.co.jp/ir/ir-library/financial-results-explanation/",
+    "pass": 3
+   },
+   {
+    "quote": "【 NANKAI 】[9044]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 NANKAI 】[9044]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9044",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | NANKAI - 南海 電鉄 — IR情報 | NANKAI - 南海 電鉄 南海電気鉄道株式会社 http://www.nankai.co.jp > ...",
+    "url": "http://www.nankai.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | NANKAI - 南海 電鉄 — 会社概要 | NANKAI - 南海 電鉄 南海電気鉄道株式会社 http://www.nankai.co.jp > 企業情報TOP > 私たちについて",
+    "url": "http://www.nankai.co.jp/company/gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報TOP | NANKAI - 南海 電鉄 — 企業情報TOP | NANKAI - 南海 電鉄 南海電気鉄道株式会社 http://www.nankai.co.jp > company",
+    "url": "http://www.nankai.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月に社名を「 NANKAI 」に変更 鉄道 事業 は「 南海 電気 ... — 2026年4月に社名を「 NANKAI 」に変更 鉄道 事業 は「 南海 電気 ... Tetsudo.com（鉄道コム） https://www.tetsudo.com > news",
+    "url": "https://www.tetsudo.com/news/3455/",
+    "pass": 3
+   },
+   {
+    "quote": "【鉄道 事業 】 NANKAI グループが鉄道 事業 の分社化でも支払 ... — 【鉄道 事業 】 NANKAI グループが鉄道 事業 の分社化でも支払 ... 「Gi通信」 https://gi.invoice.ne.jp > 導入事例",
+    "url": "https://gi.invoice.ne.jp/case/nankai/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今､ 南海 電鉄は｢ NANKAI ｣へ生まれ変わるのか 社長 が語る ... — なぜ今､ 南海 電鉄は｢ NANKAI ｣へ生まれ変わるのか 社長 が語る ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | NANKAI - 南海 電鉄 — トップメッセージ | NANKAI - 南海 電鉄 南海電気鉄道株式会社 http://www.nankai.co.jp > 企業情報TOP > 私たちについて",
+    "url": "http://www.nankai.co.jp/company/top_message/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "NANKAI 【9044】の 社長 ・役員 - キタイシホン — NANKAI 【9044】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9044/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nankai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/traffic/newticketless/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/community/station/shirasagi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/community/station/kansaiairport.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/community/station/nirigahama.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/library/integrated_report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/company/about_us/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/sustainability/materiality/06environment/tcfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/ir/individual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/traffic/station/shirasagi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/traffic/station/kansaiairport.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/community/natts/odekake/kansaiairport_shop_taxfree/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nankai.co.jp/traffic/station/nirigahama.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/261102_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/company/ir/library/monthly_report/pdf/2609_getsuji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/traffic/information/pdf/261021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/company/news/pdf/261022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/261021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/lib/groupinfo/news/pdf/260909.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nankai.co.jp/sites/default/files/2025-04/business_plan_250331_2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://nankai-nra.co.jp/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/937686",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NANKAI",
+   "results": [
+    "https://en.wikipedia.org/wiki/Nankai_University",
+    "http://www.nankai.co.jp/en_railway",
+    "https://en.nankai.edu.cn/",
+    "https://nankaishochu.com/",
+    "https://www.trip.com/guide/transport/nankai-electric-railway.html",
+    "https://www.emerald.com/nbri",
+    "https://en.wikipedia.org/wiki/Nankai_(disambiguation)",
+    "https://www.japan-guide.com/ad/kansai-by-rail/nankai.html",
+    "https://en.wikipedia.org/wiki/Nankai_Electric_Railway",
+    "https://grokipedia.com/page/nankai"
+   ]
+  },
+  {
+   "query": "NANKAI ビジネスモデル",
+   "results": [
+    "https://www.nankai.co.jp/lib/company/ir/library/individual/pdf/250331_3.pdf",
+    "https://nankai-nra.co.jp/group/",
+    "https://startup-nankai.com/program/",
+    "https://www.nankai-recruiting.jp/about-nankai/",
+    "https://perspectives.braincenter.co.jp/perspectives/blog-category/person/nankai.html",
+    "https://www.youtube.com/watch?v=G3YQ09ZkfrA",
+    "https://www.hagoromo.ac.jp/today/79020",
+    "https://www.worksap.co.jp/cases/nankai-session.html",
+    "https://ja.wikipedia.org/wiki/NANKAI",
+    "https://www.nankai.co.jp/sustainability/value_creation_process"
+   ]
+  },
+  {
+   "query": "NANKAI 決算説明資料",
+   "results": [
+    "http://www.nankai.co.jp/ir/library/presentation",
+    "http://www.nankai.co.jp/ir/library/brief",
+    "https://www.nankai-chem.co.jp/ir/ir-library/financial-results-explanation/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9044",
+    "http://www.nankai.co.jp/ir",
+    "https://www.nankaiplywood.co.jp/company/ir/finance.html",
+    "https://edinetdb.jp/company/E04106/presentations/",
+    "https://www.nankai-chem.co.jp/ir/",
+    "https://japanir.jp/company/company-9044/ir/9044-20261102-02_wp_financial_summary/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260428512752/"
+   ]
+  },
+  {
+   "query": "NANKAI 事業系統図",
+   "results": [
+    "http://www.nankai.co.jp/company/gaiyou.html",
+    "http://www.nankai.co.jp/company.html",
+    "https://www.nankai-recruiting.jp/about-nankai/",
+    "https://www.tetsudo.com/news/3455/",
+    "https://gi.invoice.ne.jp/case/nankai/",
+    "https://job.mynavi.jp/28/pc/search/corp207005/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://kitaishihon.com/company/9044/business",
+    "http://www.nankai.co.jp/company/group_companies.html",
+    "https://ja.wikipedia.org/wiki/南海電気鉄道"
+   ]
+  },
+  {
+   "query": "NANKAI 社長 インタビュー",
+   "results": [
+    "https://toyokeizai.net/articles/-/937686",
+    "http://www.nankai.co.jp/company/top_message/index.html",
+    "https://www.nikkan.co.jp/articles/view/769750",
+    "https://kitaishihon.com/company/9044/board-of-director",
+    "https://www.youtube.com/watch?v=M4s0Gj3bEgg",
+    "https://www.nankai-recruiting.jp/people/interview01.html",
+    "https://www.nankai-express.co.jp/recruit/message/",
+    "https://sele-vari.co.jp/interview/12267/",
+    "https://ja.wikipedia.org/wiki/NANKAI",
+    "https://ja.wikipedia.org/wiki/岡嶋信行"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式21頁／PDF・画像9件／外部2頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式21頁／PDF・画像9件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式21頁／PDF・画像9件／外部2頁・検索5回）"
+ }
+}

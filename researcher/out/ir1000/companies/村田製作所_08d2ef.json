@@ -1,0 +1,1583 @@
+{
+ "name": "村田製作所",
+ "aliases": [],
+ "context": "証券コード6981／電気機器／プライム（内国株式）／2026.03期 売上高1,830,856百万円 営業利益率15.4%",
+ "researched_at": "2026-11-02T18:51:54.960038+00:00",
+ "official_url": "https://www.murata.com/",
+ "identified_by": "search:yahoo_jp:村田製作所",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1950年12月23日（創業1944年10月）",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "連結/1,830,856百万円 個別/1,163,240百万円",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結/74,302名、個別/11,174名 国内/35,375名、海外/38,927名",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ファンクショナルセラミックスをベースとした電子デバイスの研究開発・生産・販売",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の製品企画・開発・実現における「ヒント」や「きっかけ」を幅広く提供します",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ファッション・リテール業界／ヘルスケア業界／製造業のお客様へ",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "海外でデータ提供をお考えのお客様へ",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/support/library",
+    "pass": 1
+   },
+   {
+    "quote": "ムラタでは、お客様の実装基板",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "自動車市場をはじめとするお客様にご利用いただき、回路設計にご活用いただいています",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー登録やダウンロードなども不要",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "このようなユーザー様、必見です！",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/heavy",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/instruments",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "さらに当社ではお客様のご要求に応じた特殊仕様のオーダーメイドセンサも製造しております",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/avionics",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/avionics",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/iot",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/mems-basic",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/hsa",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/dynamic",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/autostopstart",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/anti",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/epb",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と品質への責任と行動",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な技術の引き出し、商品技術を起点としたお客様とのすり合わせによる課題解決、タイムリー＆安定供給といった強みを活かしてビジネスを展開しています",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "多様化するアプリケーション、変化していく顧客構造を的確に捉え、激化する競争環境でも勝ち続けていくための「技術革新」で圧倒的にリードし、価値提供を続けていきます",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "モビリティ領域で多様化するお客様のニーズへの理解を深め、着実に実績と信頼を積み重ねていきます",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と品質への責任と行動",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "〜ムラタがお客様や社会にとって最善の選択となる〜",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "ムラタはこれまで「エレクトロニクス産業のイノベーションを先導していく存在でありたい」というInnovator in Electronicsに込められた想いを実践し、お客様との強固な信頼関係を構築することにより、コンデンサのムラタ、通信のムラタといったグローバルブランドを確立してきました",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "今後も変化の激流に飲み込まれることなく、真の Innovator in Electronicsとして主体的に価値創造していくためには、価値提供の軸を「お客様に対するイノベーション」だけでなく、「社会課題に対するイノベーション」へとその範囲を広げていくことが重要であると考えています",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "そしてこれを実現することにより、お客様や社会にとってムラタが「最善の選択」であり続けることは、Global No.1部品メーカーとして目指す姿でもあります",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "個人の多様性を尊重しつつ、チーム、部門、拠点を超えて信頼・連携し合い、調和することで、ムラタは今後も組織全体として、お客様にとって、さらには社会課題の解決においてもイノベーターであり続けることができます",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と品質への責任と行動",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と品質への責任と行動",
+    "url": "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と品質への責任と行動",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と品質への責任と行動",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の個人情報の取り扱いについて",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、購入自体が危ないという状況ではなく、顧客に迷惑をかけることはまずないだろうと思っている",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aやアライアンスを抜きにしても、ポートフォリオの軸は3つか4つは持っておきたいので、村田製作所として新規の顧客やアプリケーション、ビジネスモデルにアプローチし、非連続的な成長を実現したいと考えている",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "ムラタの製品をお客様に確実にお届けするために、",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の満足度および信頼関係の向上を目指し、",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のお客様へ届ける",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の期待に応え、",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品の品番または品番の一部を入力してください",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "品番・製品名などを入力してください",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "住宅用All-in-One蓄電池システムの製品不良について（2026年6月18日更新）",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュース",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最小サイズの1.0mm角 スイッチ付き高周波同軸コネクタを商品化、実装面積を約40％削減",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "使用温度上限150℃に対応した、車載CAN-FD向け金属端子構造のコモンモードチョークコイルを商品化",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュース一覧",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュースを購読する",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "光学応用製品",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電源関連製品",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFID製品",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アンテナおよび関連製品",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品企画・開発・実現における「ヒント」や「きっかけ」を幅広く提供します",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFIDソリューション",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "無線センシングソリューション",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "統合型再エネ制御ソリューションefinnos",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "生産現場の生産ロスを徹底的に削減するための製造業向け稼動率改善ソリューション​",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "空間可視化ソリューションAIRSual",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画、カタログ、資料などのお役立ちツール",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品やソリューションサイトでは提供できない特別なコンテンツやサービスをご利用いただけます",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や各種イベント・キャンペーンに関する情報に加え、部品の活用方法やアプリケーション、技術情報サービスのご案内まで、幅広くご紹介します",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質に関する規制法令と、それらに対する当社の対応状況をご説明します",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品番または品番の一部を入力してください",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "当社が印刷物として発行している製品カタログや技術資料をPDF形式で収録しています",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "製品のスペックに関する最新情報については、下記リンク先の製品検索をご参照ください",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "タイミングデバイス/製品ラインアップ (PDF:",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "タイミングデバイス/ICマッチングサービス情報 (PDF:",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュース",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質に関する規制法令と、それらに対する当社の対応状況をご説明します",
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品番または品番の一部を入力してください",
+    "url": "https://www.murata.com/ja-jp/support/library",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.murata.com/ja-jp/support/library",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュース",
+    "url": "https://www.murata.com/ja-jp/support/library",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質に関する規制法令と、それらに対する当社の対応状況をご説明します",
+    "url": "https://www.murata.com/ja-jp/support/library",
+    "pass": 1
+   },
+   {
+    "quote": "無料サービス",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "マッチングサービス”とは ?",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報(WEB)",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "＊製品に関する詳細は下記URLもしくはQRコードより参照ください",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/crystalu/vppt-hcrj126-d.ashx?la=ja-jp&cvid=20200814082906000000",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品番または品番の一部を入力してください",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "各製品の「セレクションガイド」をご覧いただけます",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "製品をお選びの際にご利用ください",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "この製品について",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュース",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質に関する規制法令と、それらに対する当社の対応状況をご説明します",
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品番または品番の一部を入力してください",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "光学応用製品",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "電源関連製品",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "RFID製品",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "アンテナおよび関連製品",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "ムラタ製品の特性表示や特性データのダウンロードができます",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "製品・イベントニュース",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質に関する規制法令と、それらに対する当社の対応状況をご説明します",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品番または品番の一部を入力してください",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "エレクトロニクスの新規技術や取り組み事例、ビジネストレンドを紹介します",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画、カタログ、資料などのお役立ちツール",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や各種イベント・キャンペーンに関する情報に加え、部品の活用方法やアプリケーション、技術情報サービスのご案内まで、幅広くご紹介します",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介資料(PDF)",
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/heavy",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/instruments",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/avionics",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/iot",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/mems-basic",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/hsa",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/dynamic",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/autostopstart",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/anti",
+    "pass": 1
+   },
+   {
+    "quote": "最新の製品情報やイベントの紹介など幅広い情報を月1～２回お届けします",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/epb",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの会社紹介映像（2023年制作）では、ムラタの事業内容や社会への提供価値、未来に向けた想いなどを紹介しています",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "pass": 3
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介映像",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "指名の手続き",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "指名諮問委員会",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "中期方針の進捗説明や、これから注力する分野、コンデンサー事業の強みの紹介などを行った",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製作所は「CEATEC 2024」に出展し、コンデンサー／インダクター内蔵基板「iPaS」を紹介した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い経験を通して学び、成長し、活躍する先輩たちの体験談をご紹介いたします",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年12月3日(木) 14:00～15:00",
+    "url": "https://www.murata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 第2四半期 決算説明会資料 (PDF: 2.23MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 第1四半期 決算説明会資料 (PDF: 862KB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 第1四半期 決算説明会書き起こし(説明･Q&A) (PDF: 3.00MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 第1四半期 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 決算説明会資料 (PDF: 1.32MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 決算説明会書き起こし(説明･Q&A) (PDF: 4.72MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第3四半期 決算説明会資料 (PDF: 1.02MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第3四半期 決算説明会書き起こし(説明･Q&A) (PDF: 3.37MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第3四半期 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第2四半期 決算説明会資料 (PDF: 1.03MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第2四半期 決算説明会書き起こし(説明･Q&A) (PDF: 3.06MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第2四半期 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第1四半期 決算説明会資料 (PDF: 1.35KB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第1四半期 決算説明会書き起こし(説明･Q&A) (PDF: 2.57MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第1四半期 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 決算説明会資料 (PDF: 0.98MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 決算説明会書き起こし(説明･Q&A) (PDF: 3.83MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 第3四半期 決算説明会資料 (PDF: 934KB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 第3四半期 決算説明会書き起こし(説明･Q&A) (PDF: 3.26MB)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 第3四半期 決算説明会動画配信(説明･Q&A)",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "1950年12月23日（創業1944年10月）",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "1971年、「外部からの視点」を取り入れることも重要という考えのもと、社外監査役を初めて選任しました",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "2001年には社外取締役を初めて選任し、近年は社外取締役の多様化と社外取締役比率の引き上げを進め、2016年の監査用委員会設置会社への移行後は社外取締役比率を3分の1以上とし、2024年からは同比率を50％以上としました",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "2026年02月27日 11時00分 公開",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の社長就任時、まず動いたのがサプライチェーンの複線化だ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年上半期の半導体業界を振り返る――電子版2026年7月号",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "1998年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2002年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "1991年入社",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "加速度センサや傾斜センサなどの慣性力センサで、装置やモーターをはじめとした機械の遠隔制御を行うことで保守管理の効率化を実現します",
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/iot",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "成長戦略① 基盤事業の深化とビジネスモデルの進化 | Vision2030（長期構想） | 経営戦略 | 村田製作所",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "基盤事業の深化とビジネスモデルの進化",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "3層目「新たなビジネスモデル創出」",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "1層目、2層目との組み合わせやこれまで培ってきた通信などの知見を活かすとともに、市場や商材、事業形態などの従来の枠組みにとらわれることなく、幅広く可能性を見出して、新たなビジネスモデルを構築していきます",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "新たなビジネスモデル創出",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略① 基盤事業の深化とビジネスモデルの進化",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "3層ポートフォリオ 3層目「新たなビジネスモデル創出」",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "「基盤事業の深化とビジネスモデルの進化」",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "このありたい姿を実現するための成長戦略が、「基盤事業の深化とビジネスモデルの進化」そして「4つの経営変革の実行」です",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "① 基盤事業の深化とビジネスモデルの進化",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "新たなビジネスモデル創出",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略① 基盤事業の深化とビジネスモデルの進化",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "3層ポートフォリオ 3層目「新たなビジネスモデル創出」",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aやアライアンスを抜きにしても、ポートフォリオの軸は3つか4つは持っておきたいので、村田製作所として新規の顧客やアプリケーション、ビジネスモデルにアプローチし、非連続的な成長を実現したいと考えている",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別売上",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる産業セグメントでのクリーンテックと呼ばれる環境技術開発の進展",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上",
+    "url": "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "豊富な技術の引き出し、商品技術を起点としたお客様とのすり合わせによる課題解決、タイムリー＆安定供給といった強みを活かしてビジネスを展開しています",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位性を確立していくための環境対応に積極的に取り組むとともに、電池・電源事業をはじめとした広がる機会をしっかりと掴み、新たな事業の創出にもチャレンジしていきます",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "村田製作所「次の営業利益率ピークは2030年」 けん引する技術とは",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "中期方針の進捗説明や、これから注力する分野、コンデンサー事業の強みの紹介などを行った",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "1人ひとりが強みと持ち味を活かし、多様な経験を通してやりがいと成長を感じ続ける",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアで培ってきた経験と強みを活かしてムラタのイノベーションに貢献していく",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成長戦略① 基盤事業の深化と ビジネスモデル の進化 | 村田製作所 — 成長戦略① 基盤事業の深化と ビジネスモデル の進化 | 村田製作所 Murata Manufacturing Co., Ltd. https://corporate.murata.com > company > growthstrategy1",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "pass": 3
+   },
+   {
+    "quote": "Vision2030（長期構想） | 村田製作所 - Corporate | Murata — Vision2030（長期構想） | 村田製作所 - Corporate | Murata Murata Manufacturing Co., Ltd. https://corporate.murata.com > ... > 企業情報 > 経営戦略",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "pass": 3
+   },
+   {
+    "quote": "村田製作所 - 成長戦略② 4つの経営変革の実行 — 村田製作所 - 成長戦略② 4つの経営変革の実行 Murata Manufacturing Co., Ltd. https://corporate.murata.com > company > growthstrategy2",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy2",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略 | 村田製作所 — 経営戦略 | 村田製作所 Murata Manufacturing Co., Ltd. https://corporate.murata.com > company > business-strategy",
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "村田製作所 、3層ポートフォリオ経営高度化 基盤領域を深化 ... — 村田製作所 、3層ポートフォリオ経営高度化 基盤領域を深化 ... 電波新聞デジタル https://dempa-digital.com > article",
+    "url": "https://dempa-digital.com/article/382658",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | 村田製作所 — 決算説明 会 | 村田製作所 Murata Manufacturing Co., Ltd. https://corporate.murata.com > ja-jp > library > meetings",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 村田製作所 - Corporate | Murata — 株主・投資家情報 | 村田製作所 - Corporate | Murata Murata Manufacturing Co., Ltd. https://corporate.murata.com > ja-jp",
+    "url": "https://corporate.murata.com/ja-jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 村田製作所 - Corporate | Murata — 決算 短信 | 村田製作所 - Corporate | Murata Murata Manufacturing Co., Ltd. https://corporate.murata.com > ja-jp > library > results",
+    "url": "https://corporate.murata.com/ja-jp/ir/library/results",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 村田製作所 — IRライブラリ | 村田製作所 Murata Manufacturing Co., Ltd. https://corporate.murata.com > ja-jp > library",
+    "url": "https://corporate.murata.com/ja-jp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 村田製作所 — 会社概要 | 村田製作所 Murata Manufacturing Co., Ltd. https://corporate.murata.com > ホーム > 企業情報",
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス | 村田製作所 - Corporate | Murata — コーポレート・ガバナンス | 村田製作所 - Corporate | Murata Murata Manufacturing Co., Ltd. https://corporate.murata.com > corporate_governance",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス体制 | 村田製作所 - Corporate | Murata — コーポレート・ガバナンス体制 | 村田製作所 - Corporate | Murata Murata Manufacturing Co., Ltd. https://corporate.murata.com > ja-jp > company > system",
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance/system",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 村田製作所 - Corporate | Murata — 企業情報 | 村田製作所 - Corporate | Murata Murata Manufacturing Co., Ltd. https://corporate.murata.com > ja-jp > company",
+    "url": "https://corporate.murata.com/ja-jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "AI需要で好調も 村田製作所社長 が語る「MLCC依存」脱却の一手 — AI需要で好調も 村田製作所社長 が語る「MLCC依存」脱却の一手 EE Times Japan https://eetimes.itmedia.co.jp > articles > news048_3",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | 村田製作所 採用情報 - Murata — 社員 インタビュー | 村田製作所 採用情報 - Murata Murata Manufacturing Co., Ltd. https://recruit.murata.com > ja-jp > member > interview",
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "村田製作所 ・中島 社長 「3年で中国に勝負をつける」 汎用品 ... — 村田製作所 ・中島 社長 「3年で中国に勝負をつける」 汎用品 ... 日経ビジネス電子版 https://business.nikkei.com > atcl > NBD > special",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02216/",
+    "pass": 3
+   },
+   {
+    "quote": "〈 インタビュー 〉 村田製作所 ･中島規巨 社長 ｢電子部品は自動車 ... — 〈 インタビュー 〉 村田製作所 ･中島規巨 社長 ｢電子部品は自動車 ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/890000?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "AIで活況の電子部品 村田製作所 の中島 社長 「今年はすごく大事」 — AIで活況の電子部品 村田製作所 の中島 社長 「今年はすごく大事」 朝日新聞 https://www.asahi.com > articles",
+    "url": "https://www.asahi.com/articles/ASV2M3DN6V2MPLFA00HM.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.murata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/support/library/catalog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/support/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/polymer/c90.ashx?la=ja-jp&cvid=20240517050000000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/resistor/highvoltage/r02j.ashx?la=ja-jp&cvid=20220922020000000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-2001-0001-d.ashx?la=ja-jp&cvid=20260217020229000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/vppt-pztj337-d.ashx?la=ja-jp&cvid=20211210061138000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/crystalu/timingdevice-xrcgb-for-consumer.ashx?la=ja-jp&cvid=20220601010000000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/crystalu/vppt-hcrj126-d.ashx?la=ja-jp&cvid=20200814082906000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/d-flyer-ceralockforautomotive.ashx?la=ja-jp&cvid=20230308001232000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/connector/o30.ashx?la=ja-jp&cvid=20260119020053000000",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/support/library/selectionguide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/heavy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/instruments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/avionics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/iot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/mems-basic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/hsa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/dynamic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/autostopstart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/anti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murata.com/ja-jp/products/sensor/library/apps/automotive/epb",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/logo.ashx?la=ja-jp&cvid=20220419093335000000",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/icon-sns-x-black.aspx?la=ja-jp&cvid=20240130042111000000",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/icon-sns-linkedin.aspx?la=ja-jp&cvid=20220419092945000000",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/logo-white.ashx?la=ja-jp&cvid=20220419093446000000",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/icon-sns-linkedin-white.ashx?la=ja-jp&cvid=20220419093107000000",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/logo-rohs.ashx?la=ja-jp&cvid=20220419093401000000",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.murata.com/-/media/siterenewal/business/commons/icons/bnr-footer-1.ashx?la=ja-jp&cvid=20240131010000000000",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.murata.com/ja-jp/member/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "村田製作所",
+   "results": [
+    "https://www.murata.com/ja-jp",
+    "https://ja.wikipedia.org/wiki/%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.murata.com/",
+    "https://www.nikkei.com/nkd/company/?scode=6981",
+    "https://eetimes.itmedia.co.jp/ee/articles/2610/30/news084.html",
+    "https://ja.wikipedia.org/wiki/村田製作所",
+    "https://en.wikipedia.org/wiki/Murata_Manufacturing",
+    "https://finance.yahoo.co.jp/quote/6981.T",
+    "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "https://www.murata.com/ja-jp/products"
+   ]
+  },
+  {
+   "query": "村田製作所 ビジネスモデル",
+   "results": [
+    "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy1",
+    "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030/growthstrategy2",
+    "https://corporate.murata.com/ja-jp/company/business-strategy",
+    "https://dempa-digital.com/article/382658",
+    "https://corporate.murata.com/-/media/corporate/ir/library/murata-value-report/2023_j/p27-28.ashx?la=ja-jp&cvid=20230928020259000000",
+    "https://mindmeister.jp/posts/bm-murata",
+    "https://corporate.murata.com/ja-jp/technology/technology-exploration",
+    "https://companypocket.com/company/6981/",
+    "https://article.murata.com/ja-jp/article/murata-dx-new-business-method"
+   ]
+  },
+  {
+   "query": "村田製作所 決算説明資料",
+   "results": [
+    "https://corporate.murata.com/ja-jp/ir/library/meetings",
+    "https://corporate.murata.com/ja-jp/newsroom/news/irnews/irnews/2026/0430b",
+    "https://corporate.murata.com/ja-jp/ir",
+    "https://corporate.murata.com/ja-jp/ir/library/results",
+    "https://corporate.murata.com/ja-jp/ir/library",
+    "https://corporate.murata.com/ja-jp/ir/library/video/results20260202",
+    "https://x.com/muRata_PR/status/2083057944321782214",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260429514091/",
+    "https://irbank.net/6981/ir",
+    "https://treelazy.com/stock/jp/6981/conference"
+   ]
+  },
+  {
+   "query": "村田製作所 事業系統図",
+   "results": [
+    "https://corporate.murata.com/ja-jp/company/factsandfigures",
+    "https://corporate.murata.com/ja-jp/company/corporate_governance",
+    "https://corporate.murata.com/ja-jp/company/corporate_governance/system",
+    "https://corporate.murata.com/ja-jp/company/business-strategy/vision2030",
+    "https://corporate.murata.com/ja-jp/company",
+    "https://ja.wikipedia.org/wiki/%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://corporate.murata.com/ja-jp/ir/library",
+    "https://kitaishihon.com/company/6981/business",
+    "https://f.irbank.net/pdf/E01914/ir/S100YHPY.pdf",
+    "https://www.murata.com/ja-jp"
+   ]
+  },
+  {
+   "query": "村田製作所 社長 インタビュー",
+   "results": [
+    "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048_3.html",
+    "https://recruit.murata.com/ja-jp/member/interview/",
+    "https://business.nikkei.com/atcl/NBD/19/special/02216/",
+    "https://toyokeizai.net/articles/-/890000?display=b",
+    "https://www.asahi.com/articles/ASV2M3DN6V2MPLFA00HM.html",
+    "https://www.sangyo-times.jp/article.aspx?ID=13800",
+    "https://newsdig.tbs.co.jp/articles/gallery/2473495?station=withbloomberg",
+    "http://tskeightkun.blog.fc2.com/blog-entry-17845.html",
+    "https://www.nikkeimm.co.jp/35th/detail/id=989",
+    "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news048.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

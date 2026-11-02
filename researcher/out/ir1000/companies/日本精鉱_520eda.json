@@ -1,0 +1,1593 @@
+{
+ "name": "日本精鉱",
+ "aliases": [],
+ "context": "証券コード5729／非鉄金属／スタンダード（内国株式）／2026.03期 売上高40,867百万円 営業利益率14.9%",
+ "researched_at": "2026-11-02T18:56:57.140393+00:00",
+ "official_url": "https://www.nihonseiko.co.jp/",
+ "identified_by": "search:yahoo_jp:日本精鉱",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "昭和10（1935）年6月11日",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "2026年3月期　40,866百万円（連結）　29,373百万円（個別）",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "＊連結売上高",
+    "value": "9,393百万円、前年同期比13.0％減収",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "15,807,418 9,336,247 25,143,665 35,846 25,179,512 － 25,179,512",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "2,268 55,506 57,774 1,667 59,441 △59,441 －",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "29,373,076 11,453,355 40,826,432 40,222 40,866,654 － 40,866,654",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ 73,128 73,128 1,649 74,777 △74,777 －",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アンチモン製品の製造・販売 ・アンチモン製品の製造・販売 三酸化アンチモン、 三酸化アンチモン特殊加工製品（マスターバッチ、ウエットタイプ、水分散タイプ）、金属アンチモン、 アンチモン酸ソーダ 三硫化アンチモン、三塩化アンチモン、五塩化アンチモン、他 ・各種金属硫化物（硫化スズ、硫化銅、他）の製造・販売、並びに 各種硫化物製品の開発・製造・販売 ・複合難燃剤、金属粉などの販売",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種金属粉末の製造・販売 銅粉、銀粉、鉄合金粉、青銅粉、黄銅粉、銅フレーク粉",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品や繊維製品などの難燃助剤をはじめ、触媒や顔料、減摩材、ガラス清澄剤など、アンチモンは様々な用途を持っています",
+    "url": "https://www.nihonseiko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、プラスチック製品に添加される難燃助剤およびポリエステルの重合触媒用として使用される三酸化アンチモン及び三酸化アンチモン特殊加工製品（マスターバッチ等）のほか、ブレーキパッドの減摩材として配合される三硫化アンチモン、エンジニアリングプラスチック製品向け難燃用途に使用されるアンチモン酸ソーダ、半導体用や各種合金用に使われる金属アンチモン等を製造、販売しております",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "日銻精礦（上海）商貿有限公司は中国国内市場にてアンチモン製品等の販売を行っています",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではその他事業として、自動車などのブレーキパッドに固体潤滑剤として配合される硫化スズなどの各種金属硫化物の製造・販売の他、各種硫化物製品についての開発・製造・販売などを行っております",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品の製造・販売",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "・アンチモン製品の製造・販売",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "三酸化アンチモン特殊加工製品（マスターバッチ、ウエットタイプ、水分散タイプ）、金属アンチモン、 アンチモン酸ソーダ",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "・各種金属硫化物（硫化スズ、硫化銅、他）の製造・販売、並びに 各種硫化物製品の開発・製造・販売",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン商品名を改訂、主力の三酸化アンチモンをATOX及びPATOXとする",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "PATOX−L及びPATOX−Uの新製品を開発、販売開始",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中瀬製錬所、転炉系製品自動包装設備・製品自動倉庫完成",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "同所、粉体加工工場新築・粗粒製品製造設備新設",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/medium-term-management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/medium-term-management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/medium-term-management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/shareholder-benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/shareholder-benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/shareholder-benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "アンチモン製品",
+    "url": "https://www.nihonseiko.co.jp/ir/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製品（日本アトマイズ加工株式会社）",
+    "url": "https://www.nihonseiko.co.jp/ir/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.nihonseiko.co.jp/ir/corporate-governance/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメントごとの事業内容は次のとおりであります",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上高（通期）",
+    "url": "https://www.nihonseiko.co.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの業況は次のとおりです",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、在庫の影響等もあり、同2,621百万円減益（94.3％減益）の",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、受注増加による操業度改善等から同285百",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不動産賃貸事業等の当第１四半期の売上高は10百万円、セグメント利益は１百万円となりました",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,779,145 86,793 2,865,938 4,150 2,870,089 8,204 2,878,293",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 157,432 371,801 529,233 1,270 530,503 8,108 538,612",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．上記の報告セグメントに含めていない、不動産賃貸事業等であります",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額8,204千円はセグメント間取引の消去8,204千円であります",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額8,108千円はセグメント間取引の消去8,108千円であります",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別決算概要",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊セグメント利益は前年同期比94.3%減益",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊セグメント利益は前年同期比328.4%増益",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（百万円） 2,779 157 ▲94.3%",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（百万円） 86 371 +328.4%",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（百万円） 2,779 1,865 1,258 ▲511 5,391 157 910",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（百万円） 86 52 196 319 653 371 800",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主要な事業は、アンチモン事業と金属粉末事業に大別され、各セグメントごとの事業内容は次のとおりであります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン事業は、売上高29,373百万円（同85.8％増収）、セグメント利益5,391百万円（同76.2％増益）となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末事業は、売上高11,453百万円（同22.7％増収）、セグメント利益653百万円（同30.0％増益）となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他は、売上高40百万円（同12.2％増収）、セグメント利益2百万円（同55.9％減益）となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント計",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）金額は、販売価格によっており、セグメント間の内部振替前の数値によっております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのセグメントごとの経営成績に重要な影響を与える要因については、以下のとおりです",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、生産効率の改善や在庫の影響もあり、同2,331百万円増益（76.2％増益）の5,391百万円となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、前連結会計年度に比べ1,473百万円増加の13,763百万円となっております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、生産効率の改善、販売価格の上昇等から、同150百万円増益（30.0％増益）の653百万円となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、前連結会計年度に比べ2,302百万円増加の10,915百万円となっております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "不動産賃貸事業等の当連結会計年度の売上高は40百万円、セグメント利益は2百万円となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、前連結会計年度に比べ15百万円増加の50百万円となっております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月期 40,866百万円（連結） 29,373百万円（個別）",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | 日本精鉱株式会社",
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（第132期）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算概要補足説明資料",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第131期）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算概要補足説明資料",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算概要補足説明資料",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算概要補足説明資料",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期業績予想及び配当予想の修正に関する補足説明資料",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第130期）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第129期）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第128期）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第131期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第130期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第129期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第128期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期（第127期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期（第126期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期（第125期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成31年（2019年）3月期（第124期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年（2018年）3月期（第123期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年（2017年）3月期（第122期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年（2016年）3月期（第121期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年（2015年）3月期（第120期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成26年（2014年）3月期（第119期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "平成25年（2013年）3月期（第118期）",
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第128期）より、定時株主総会決議ご通知の郵送を廃止しております",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第131期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第130期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第129期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第128期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期（第127期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期（第126期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期（第125期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期（第124期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年（2018年）3月期（第123期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年（2017年）3月期（第122期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年（2016年）3月期（第121期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年（2015年）3月期（第120期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "平成26年（2014年）3月期（第119期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "平成25年（2013年）3月期（第118期）",
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第131期）",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第130期）",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第129期）",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第128期）",
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "社内公募したSDGsアイデアから実際に取り組んだ活動の一部をご紹介いたします",
+    "url": "https://www.nihonseiko.co.jp/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "販売は、当社が直接販売するケースと、代理店等を通じて販売するケースがあります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は、我が国トップのアンチモンメーカーとして、顧客ニーズに応じた製品開発の推進及び“高品質”と“確実な供給”による顧客商品への高付加価値化・商品力強化に貢献致します",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社に信頼をおいてお取引いただけるよう、品質向上及び環境保全の仕組みを経営システムの中に組み込みます",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2. 顧客満足度の向上",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品やサービスにご満足いただけるよう、お客様の要望および期待を的確に吸い上げ、品質管理にフィードバックすることで、お客様に信頼される高品質な製品・サービスを供給し続けます",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の要求事項に満足できる新商品・新製品の開発、及び品質向上によるクレームの低減に努めます",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "また顧客やその他の利害関係者の要求事項で自主的に受け入れた事項を遵守します",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本関係のない取引先と通常取引をする場合と同様にしており、当社の独立性を確保",
+    "url": "https://www.nihonseiko.co.jp/application/files/2717/8244/7973/260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この歴史は、同社が単なる化学メーカーではなく、鉱石から金属を取り出し、精錬し、顧客の要求に応じて極限まで純度を高めるという、高度な「冶金（やきん）技術」をDNAとして受け継ぐ、真の技術者集団であることを物語っています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "この理念に基づき、同社は「品質至上」「安定供給」「顧客第一」を経営の基本方針とし、日々の事業活動を行っています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "顧客である化学メーカーの多種多様な要求に応じ、粒子径や形状を精密にコントロールする技術力は、同社の独壇場です",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルビジネスにおいて、顧客が最も重視することの一つが「安定供給」です",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "これが、顧客との揺るぎない信頼関係の基盤となっています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "鉱石の採掘や輸送に伴うエネルギー消費や環境負荷を大幅に削減できるため、環境意識の高い現代の顧客ニーズに合致しています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品を販売するだけでなく、顧客が抱える技術的な課題に対して解決策を提案する",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとっての価値:",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱は、顧客の多様なニーズに応えるため、様々な形態のアンチモン製品をラインナップしています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "短期的な利益の追求よりも、技術力の研鑽、品質の維持向上、そして顧客との長期的な信頼関係の構築を最優先する姿勢が一貫しています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "成長著しいアジア市場を中心に、海外の顧客への直接的なアプローチを強化",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "当社の取引先の中には金属粉末も使用されている顧客もあり、子会社製品の一部は当社を通じても販売されております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は製品・サービスの種類を基礎として報告セグメントを構成しており、詳細については「セグメント情報」３．報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額に関する情報の「外部顧客への売上高」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10%以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感",
+    "url": "https://www.japanmetal.com/news-h20220325116197.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "また、製造コスト・経費削減の徹底、在庫水準の管理等を着実に実施することにより、安定収益体制を目指します",
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント利益は、在庫の影響等もあり、同2,621百万円減益（94.3％減益）の",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売価格の低下に加え、在庫の影響なども作用し大幅な",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊アンチモン事業：販売価格の低下が利益を圧迫したことに加え、在庫の影響などもマイナスに作用したため、",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（在庫評価損を含む）",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益計算書（PL）から見える高収益体質",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "このサステナビリティへの貢献は、企業の社会的価値を高め、新たな競争優位性となっています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "前述した高い技術力による付加価値創造により、市況が良い時はもちろん、市況が軟調な時でも、安定して高い水準の営業利益率を確保しています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "中国企業の強みは、豊富な国内資源を背景とした「価格競争力」にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "この「品質」と「信頼」を武器に、価格競争とは無縁の領域で確固たるポジションを築いていることこそ、日本精鉱の最大の強みです",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱が掲げる中期経営戦略は、自社の強みを最大限に活かし、着実な成長を目指すものです",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みは、熟練技術者の経験と勘に支えられている部分も大きいと推測されます",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "極めて高い参入障壁:",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン市況の変動や地政学リスクといった不確実性は存在するものの、それを補って余りあるほどの強固な競争優位性と、盤石な財務基盤を兼ね備えています",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "これらの変動に対して、相場の上昇局面においては、若干の時間差が生じるものの原料価格のアップ分は製品販売価格に転嫁が可能となりますが、一方、下落局面においては、高値の在庫の影響により在庫の価格はすぐには下がりませんが、販売価格は下落していくこと、また、棚卸資産の低価法の影響を受けることになり、大幅な収益性の低下があった場合、並びに原料・中間品・製品の在庫数量を多く抱えた場合には経営成績に重要な影響を与えることになります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "製品販売とアンチモン地金などの原料仕入の情報の連携を密にしながら、在庫水準を常に一定に保つことで相場変動リスクをミニマイズするように努めてまいります",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、生産効率の改善や在庫の影響もあり、同2,331百万円増益（76.2％増益）の5,391百万円となりました",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "その結果、同事業の当第１四半期の売上高は、販売単価の上昇と販売数量の増加により、前年同期比2,015百万",
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属価格の上昇に伴う販売単価の上昇から大幅な増収",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "伴う販売単価の上昇により大幅な増収",
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役に対する金銭報酬枠の範囲内で年額 30 百万円以内の金銭報酬債権を支給すること、及",
+    "url": "https://www.nihonseiko.co.jp/application/files/4617/8237/5379/260625.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象取締役に対して支給される報酬総額は、本株主総会で承認された報酬額の内枠で年額30",
+    "url": "https://www.nihonseiko.co.jp/application/files/4617/8237/5379/260625.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存製品の歩留りの向上・改善を行い更なるコスト削減を継続し、付加価値の高い製品の提案及び適正な加工費単価を確保することで、収益の維持・向上に努めております",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルの詳細分析：模倣不可能な「技術の砦」",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：市況変動を乗り越える付加価値ビジネス",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "単なる財務分析に留まらず、他社が決して真似できない圧倒的な技術力、地政学リスクを乗り越える巧みな調達戦略、そしてサステナブルな社会に貢献するリサイクル技術まで、そのビジネスモデルの精巧さと奥深さを、余すところなく解き明かしていきます",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本精鉱のビジネスモデルの巧みさは、単なる市況ビジネスに留まらない点にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル事業は、環境保護とコスト競争力を両立する、時代の要請に応えるビジネスモデル",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【徹底解剖】 日本精鉱 (5729) - 世界を動かす「アンチモン」の ... — 【徹底解剖】 日本精鉱 (5729) - 世界を動かす「アンチモン」の ... note https://note.com > 科学・テクノロジー > 金属・鉱学",
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 日本精鉱 株式会社 — 会社概要 | 日本精鉱 株式会社 日本精鉱株式会社 https://www.nihonseiko.co.jp > company > profile",
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 (株)【東証スタンダード市場上場】 - マイナビ — 日本精鉱 (株)【東証スタンダード市場上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp265492 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp265492/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 株式会社（5729）— 企業情報 | ENVALITH · セグメント — 日本精鉱 株式会社（5729）— 企業情報 | ENVALITH · セグメント ENVALITH https://envalith.com > companies > segments",
+    "url": "https://envalith.com/ja/companies/5729/segments",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモンの 日本精鉱 （5729） | ひかこの渓流釣りとバリュー ... — アンチモンの 日本精鉱 （5729） | ひかこの渓流釣りとバリュー ... hikako8amago3iwana3.com https://www.hikako8amago3iwana3.com > 企業分析",
+    "url": "https://www.hikako8amago3iwana3.com/nihonseiko5729",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 日本精鉱 株式会社 — 決算 短信 | 日本精鉱 株式会社 日本精鉱株式会社 https://www.nihonseiko.co.jp > earnings",
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 日本精鉱 株式会社 — IR | 日本精鉱 株式会社 日本精鉱株式会社 https://www.nihonseiko.co.jp > news > press-release",
+    "url": "https://www.nihonseiko.co.jp/news/press-release/",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本精鉱 】[5729] 決算 発表や業務・財務情報 | 日経電子版 — 【 日本精鉱 】[5729] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5729",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 【5729】の最新 決算 発表、業績修正 - 株探 — 日本精鉱 【5729】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 日本精鉱 (5729) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=5729",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 【5729】の 事業 内容 - キタイシホン — 日本精鉱 【5729】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5729/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本精鉱 】[5729]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 日本精鉱 】[5729]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5729",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 （5729）のプロフィール - 会社四季報オンライン — 日本精鉱 （5729）のプロフィール - 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > 日本精鉱",
+    "url": "https://shikiho.toyokeizai.net/stocks/5729/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 (株)【東証スタンダード市場上場】 - マイナビ — 日本精鉱 (株)【東証スタンダード市場上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp265492 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp265492/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "役員体制 | 日本精鉱 株式会社 — 役員体制 | 日本精鉱 株式会社 日本精鉱株式会社 https://www.nihonseiko.co.jp > company > executives",
+    "url": "https://www.nihonseiko.co.jp/company/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱社長 に植田氏昇格 - 日刊産業新聞 — 日本精鉱社長 に植田氏昇格 - 日刊産業新聞 japanmetal.com https://www.japanmetal.com > news-h20220325116197",
+    "url": "https://www.japanmetal.com/news-h20220325116197.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 【5729】の 社長 ・役員 - キタイシホン — 日本精鉱 【5729】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5729/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱 ・植田憲高 社長 ／低等級原料で品質維持 ... - 鉄鋼新聞 — 日本精鉱 ・植田憲高 社長 ／低等級原料で品質維持 ... - 鉄鋼新聞 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄",
+    "url": "https://www.japanmetaldaily.com/articles/-/137794",
+    "pass": 3
+   },
+   {
+    "quote": "【5279】 日本精鉱 株式会社 事業概要と成長戦略に関するIR ... — 【5279】 日本精鉱 株式会社 事業概要と成長戦略に関するIR ... invest-n.jp https://invest-n.jp > ...",
+    "url": "https://invest-n.jp/ir/389/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nihonseiko.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/annual-interim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/highlights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/medium-term-management-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/stock/memo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/stock/shareholder-benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/stock/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/public-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/ir/corporate-governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/environment/environment-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/environment/activities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/environment/social-contribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/news/press-release/2026/2026-10-23/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/news/press-release/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/4017/9274/1249/261023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/9017/9032/7694/260925.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/3917/8937/6078/260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/9817/8599/0765/earnings-132-1q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/4917/8599/0765/earnings-260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/3717/8427/6683/260717.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/2717/8244/7973/260626.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nihonseiko.co.jp/application/files/4617/8237/5379/260625.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsk.com/jp-ja/company/investors/financial-announcements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5729/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetal.com/news-h20220325116197.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本精鉱",
+   "results": [
+    "https://www.nihonseiko.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5729",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B2%BE%E9%89%B1",
+    "https://kabutan.jp/stock/?code=5729",
+    "https://job.mynavi.jp/27/pc/search/corp265492/outline.html",
+    "https://ja.wikipedia.org/wiki/日本精鉱",
+    "https://www.nihonseiko.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/5729.T",
+    "https://finance.yahoo.co.jp/quote/5729.T/profile"
+   ]
+  },
+  {
+   "query": "日本精鉱 ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "https://www.nihonseiko.co.jp/company/profile/",
+    "https://job.mynavi.jp/27/pc/search/corp265492/outline.html",
+    "https://envalith.com/ja/companies/5729/segments",
+    "https://www.hikako8amago3iwana3.com/nihonseiko5729",
+    "https://www.buffett-code.com/company/5729/",
+    "https://kitaishihon.com/company/5729/management-strategy",
+    "https://shikiho.toyokeizai.net/stocks/5729/corporate",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/industries/other-industrial-products/industries-other-industrial-products-material-2020-04-01-01",
+    "https://www.nihonseiko.co.jp/"
+   ]
+  },
+  {
+   "query": "日本精鉱 決算説明資料",
+   "results": [
+    "https://www.nihonseiko.co.jp/ir/earnings/",
+    "https://www.nsk.com/jp-ja/company/investors/financial-announcements/",
+    "https://www.nihonseiko.co.jp/news/press-release/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5729",
+    "https://kabutan.jp/stock/finance?code=5729",
+    "https://www.nihonseiko.co.jp/ir/",
+    "https://www.n-seisen.co.jp/ir/",
+    "https://shikiho.toyokeizai.net/stocks/5729/corporate",
+    "https://www.nipponseika.co.jp/investors/library/presentations/",
+    "https://irbank.net/5729/ir"
+   ]
+  },
+  {
+   "query": "日本精鉱 事業系統図",
+   "results": [
+    "https://www.nihonseiko.co.jp/company/profile/",
+    "https://kitaishihon.com/company/5729/business",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5729",
+    "https://shikiho.toyokeizai.net/stocks/5729/corporate",
+    "https://job.mynavi.jp/28/pc/search/corp265492/outline.html",
+    "https://note.com/tatsuya_sabato/n/n7b07f8692028",
+    "https://www.nsk.com/jp-ja/company/about-us/corporate-profile/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B2%BE%E9%89%B1",
+    "https://www.nihonseiko.co.jp/ir/medium-term-management-plan/",
+    "https://www.nihonseiko.co.jp/"
+   ]
+  },
+  {
+   "query": "日本精鉱 社長 インタビュー",
+   "results": [
+    "https://www.nihonseiko.co.jp/company/executives/",
+    "https://www.japanmetal.com/news-h20220325116197.html",
+    "https://kitaishihon.com/company/5729/board-of-director",
+    "https://www.japanmetaldaily.com/articles/-/137794",
+    "https://invest-n.jp/ir/389/",
+    "https://www.nikkei.com/article/DGXZQODZ00029_U2A320C2000000/",
+    "https://chemicaldaily.com/archives/777860",
+    "https://kigyo-scope.jp/company/5729/ceo/",
+    "https://www.nikkan.co.jp/articles/view/187587",
+    "https://www.nihonseiko.co.jp/company/message/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

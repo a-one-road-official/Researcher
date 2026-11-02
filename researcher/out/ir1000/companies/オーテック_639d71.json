@@ -1,0 +1,1338 @@
+{
+ "name": "オーテック",
+ "aliases": [],
+ "context": "証券コード1736／建設業／スタンダード（内国株式）／2026.03期 売上高33,722百万円 営業利益率15.1%",
+ "researched_at": "2026-11-02T18:54:44.896151+00:00",
+ "official_url": "http://www.autech.com/",
+ "identified_by": "search:yahoo_jp:オーテック",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "31,000百万円 33,722百万円 2,722百万円増 （8.8％増） 35,000百万円",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "19,992,162 11,431,896 31,424,058 － 31,424,058",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "3,818 983 4,801 △4,801 －",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "21,708,511 12,013,750 33,722,262 － 33,722,262",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "55,365 870 56,236 △56,236 －",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/sv/clippervan_multirack/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/support/faq/about_autech/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のこだわりを実現し、質感、走行性能、デザインを高めたカスタムカーのあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のこだわりを実現し、質感、走行性能、デザインを高めたカスタムカーのあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/lv/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/wv/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/silvia_convertible_1988.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/skyline_gts_autechversion_1988.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/stelvio_1989.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/cefiro_autechversion_1990.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/caravan_campingcar_1990.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/homy_campingcar_1990.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/skyline_autechversion_1992.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/serena_suncat_1992.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/gtr_nismo_2013.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/gtr_nismo_2019.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/gtr_nismo_2021.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/nv200vanette_premiumgx_2014.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様アンケート",
+    "url": "http://www.autech.com/history/sv/nv200vanette_multibedwagon_2020.html",
+    "pass": 1
+   },
+   {
+    "quote": "管工機材事業につきましては、販売基幹システム及び商品販売サイト『Ｏ/tegaru（おてがる）』の機能充実を通じて、受発注管理・在庫管理・顧客対応の業務効率化を図り、より付加価値の高いサービスを提供できる体制の整備を進め、販売力の強化に努めてまいりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の期待を超える提案を続ける営業スタイル",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望に真正面から向き合う！提案力へのこだわり",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "シーンに合わせて多彩に使えるあなたの万能パートナー",
+    "url": "http://www.autech.com/sv/clippervan_multirack/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマイズ事業部のクルマに関するお問い合わせは、お近くの日産自動車の販売店 または、コールセンターまでお願いいたします",
+    "url": "http://www.autech.com/support/faq/about_autech/",
+    "pass": 1
+   },
+   {
+    "quote": "生み出してきたクルマを紹介します",
+    "url": "http://www.autech.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のこだわりを実現し、質感、走行性能、デザインを高めたカスタムカーのあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "一人でも多くの方に、クルマで出かける喜びを提供する福祉車両のあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現地で働くプロの要望に応える商用特装車のあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "生み出してきたクルマを紹介します",
+    "url": "http://www.autech.com/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のこだわりを実現し、質感、走行性能、デザインを高めたカスタムカーのあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "一人でも多くの方に、クルマで出かける喜びを提供する福祉車両のあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現地で働くプロの要望に応える商用特装車のあゆみをご紹介いたします",
+    "url": "http://www.autech.com/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "⼈材紹介サービス",
+    "url": "https://enregion.jp/consultant-blog/10464/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "通常の日産車と同じようにサービスや保証が受けられます",
+    "url": "http://www.autech.com/support/faq/about_autech/",
+    "pass": 1
+   },
+   {
+    "quote": "北米市場や多様化・個性化の進むアセアン新興市場など、今後も更に地域やモデルを拡大し、カスタマイズ事業部の商品を展開してまいります",
+    "url": "http://www.autech.com/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ベンディングサービスカー",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベンディングサービスカー",
+    "url": "http://www.autech.com/history/wv/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://otech.co.jp/conference/nikai/",
+    "pass": 3
+   },
+   {
+    "quote": "当社並びに連結子会社のフルノ電気工業株式会社、株式会社道東オーテック及び株式会社インターセントラルが請負・施工を行うほか、工事の一部につきましては、連結子会社の株式会社オーテックサービス北海道、株式会社三雄商会並びに非連結子会社の株式会社オーテックサービス東北及び株式会社オーテックサービス北関東に外注工事を発注しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 管工機材事業…………主要な商品は、衛生陶器、住設機器、冷暖房機器、産業機器、継手、バルブ及び鋼管であります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "衛生陶器及び住設機器につきましては、当社が商品を仕入れ、販売しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "冷暖房機器につきましては、連結子会社の株式会社インターセントラルが商品を製造及び販売するほか、当社は、同社から商品を仕入れ、販売しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "継手、バルブ及び鋼管につきましては、当社は、関連会社の株式会社大和バルブ及びその他の関係会社の日本継手株式会社が製造する商品を仕入れ、販売しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社は、連結子会社の株式会社道東オーテック、株式会社三雄商会、株式会社オーテック環境及び株式会社九州オーテックに商品を販売しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、産業機器につきましては、連結子会社の株式会社オーテック環境が商品を仕入れ、販売しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "管工機材事業につきましては、販売基幹システム及び商品販売サイト『Ｏ/tegaru（おてがる）』の機能充実を通じて、受発注管理・在庫管理・顧客対応の業務効率化を図り、より付加価値の高いサービスを提供できる体制の整備を進め、販売力の強化に努めてまいりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "ａ．商品販売の状況",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "(ａ) 商品仕入実績",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他商品（千円）",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "(ｂ) 商品販売方法",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "(ｃ) 商品販売実績",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．前連結会計年度及び当連結会計年度は、商品売上高及び完成工事高の合計に対する割合が100分の10以上の相手先はありません",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立プラントサービス",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．前連結会計年度及び当連結会計年度は、商品売上高及び完成工事高の合計に対する割合が100分の10以上の相手先はありません",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機ビルソリューションズ株式会社",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、事業部を基礎とした製品系列及び販売方法別のセグメントから構成されており、「環境システム事業」及び「管工機材事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "転職エージェントサービス",
+    "url": "https://enregion.jp/consultant-blog/10464/",
+    "pass": 3
+   },
+   {
+    "quote": "⼈材紹介サービス",
+    "url": "https://enregion.jp/consultant-blog/10464/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの特長",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   },
+   {
+    "quote": "「もっと企業について知りたい」「まずは相談してみたい」という方は、各種支援サービスにエントリーのうえ、コンサルタントにご相談ください",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスポリシー",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1988年(昭和63年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年(平成元年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年(平成2年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年(平成4年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年(平成5年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年(平成6年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年(平成7年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年(平成8年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年(平成9年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年(平成10年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年(平成11年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年(平成12年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年(平成13年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年(平成14年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年(平成15年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年(平成16年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年(平成17年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年(平成18年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年(平成19年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年(平成20年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年(平成21年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年(平成22年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年(平成23年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年(平成24年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年(平成25年)",
+    "url": "http://www.autech.com/history/sv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年(平成5年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年(平成6年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年(平成7年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年(平成8年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年(平成9年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年(平成10年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年(平成11年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年(平成12年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年(平成13年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年(平成14年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年(平成15年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年(平成16年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年(平成17年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年(平成18年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年(平成19年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年(平成20年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年(平成21年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年(平成22年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年(平成24年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年(平成25年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年(平成26年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年(平成27年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年(平成28年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年(平成29年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年(平成30年)",
+    "url": "http://www.autech.com/history/lv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年(平成8年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年(平成9年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年(平成10年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年(平成11年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年(平成12年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年(平成13年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年(平成14年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年(平成15年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年(平成16年)",
+    "url": "http://www.autech.com/history/wv/year.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年発売 シルビア コンバーチブル | クルマのあゆみ | カスタマイズ事業部 | 日産モータースポーツ＆カスタマイズ株式会社",
+    "url": "http://www.autech.com/history/sv/silvia_convertible_1988.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "第二回リフォームニュービジネスモデル勉強会 - オーテック",
+    "url": "https://otech.co.jp/conference/nikai/",
+    "pass": 3
+   },
+   {
+    "quote": "第二回リフォームニュービジネスモデル勉強会",
+    "url": "https://otech.co.jp/conference/nikai/",
+    "pass": 3
+   },
+   {
+    "quote": "リフォームニュービジネスモデル勉強会、会員様向け特別セミナー、リフォーム業向け経営戦略セミナーなど様々なセミナー、勉強会を実施しています",
+    "url": "https://otech.co.jp/conference/nikai/",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第二回リフォームニュー ビジネスモデル 勉強会 - オーテック — 第二回リフォームニュー ビジネスモデル 勉強会 - オーテック otech.co.jp https://otech.co.jp > 勉強会",
+    "url": "https://otech.co.jp/conference/nikai/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 オーテック 、新設工事増加により完成工事高が ... — 【QAあり】 オーテック 、新設工事増加により完成工事高が ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/378987",
+    "pass": 3
+   },
+   {
+    "quote": "【株初心者向け】 オーテック とは？ビルの\"頭脳\"＝空調自動 ... — 【株初心者向け】 オーテック とは？ビルの\"頭脳\"＝空調自動 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/holy_viper7334/n/naa133b71f742",
+    "pass": 3
+   },
+   {
+    "quote": "長期ビジョン／中期経営計画 | 株式会社 オーテック — 長期ビジョン／中期経営計画 | 株式会社 オーテック 株式会社オーテック https://www.o-tec.co.jp > plan",
+    "url": "https://www.o-tec.co.jp/ir/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会｜IRライブラリ - 株式会社オーテック — 決算説明 会｜IRライブラリ - 株式会社オーテック 株式会社オーテック https://www.o-tec.co.jp > library > presentation",
+    "url": "https://www.o-tec.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 株式会社 オーテック — IR | 株式会社 オーテック 株式会社オーテック https://www.o-tec.co.jp > ...",
+    "url": "https://www.o-tec.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 オーテック 】[1736]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 オーテック 】[1736]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1736",
+    "pass": 3
+   },
+   {
+    "quote": "オーテック のIR 資料 - 1736 / ｽﾀﾝﾀﾞｰﾄﾞ / 建設業 — オーテック のIR 資料 - 1736 / ｽﾀﾝﾀﾞｰﾄﾞ / 建設業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/1736/library",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要（組織図、沿革、グループ会社、支店営業所） — 会社概要（組織図、沿革、グループ会社、支店営業所） 株式会社オーテック https://www.o-tec.co.jp > company > summary",
+    "url": "https://www.o-tec.co.jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "オーテック 【1736】の 事業 内容 - キタイシホン — オーテック 【1736】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "オーテック (1736) の企業概要・業績・財務・IR資料 — オーテック (1736) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/1736",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ - 株式会社オーテック — サイトマップ - 株式会社オーテック 株式会社オーテック https://www.o-tec.co.jp > sitemap",
+    "url": "https://www.o-tec.co.jp/sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "山梨【企業TOP インタビュー 】株式会社 オーテック メカニカル ... — 山梨【企業TOP インタビュー 】株式会社 オーテック メカニカル ... 株式会社エンリージョン https://enregion.jp > コンサルタントブログ",
+    "url": "https://enregion.jp/consultant-blog/10464/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オーテック メカニカル｜企業TOP インタビュー — 株式会社 オーテック メカニカル｜企業TOP インタビュー リージョナルキャリア山梨 https://rs-yamanashi.net > change > 202405_autec",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   },
+   {
+    "quote": "MESSAGE 社長 挨拶 - 株式会社オーテック — MESSAGE 社長 挨拶 - 株式会社オーテック 株式会社オーテック https://www.o-tec.co.jp > company > message",
+    "url": "https://www.o-tec.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "【 AUTECH 】 オーテック ジャパン特別 インタビュー #2 ... — 【 AUTECH 】 オーテック ジャパン特別 インタビュー #2 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7dajUFitj1g",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社グループ（当社及び当社の関係会社）は、当社（株式会社オーテック）、連結子会社７社、非連結子会社２社、関連会社１社及び当社と継続的で緊密な事業上の関係があるその他の関係会社１社により構成されており、自動制御システム及び放射冷暖房システムの設計・施工・メンテナンス（保守）並びに自動制御機器及び環境関連機器の販売を行う環境システム事業、衛生陶器・住設機器・冷暖房機器・産業機器・継手・バルブ及び鋼管の販売を行う管工機材事業の２事業を展開しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、建設資材価格や労務単価の上昇、技能労働者不足といった課題は継続しており、経営環境は依然として厳しい状況にあります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "環境システム事業における完成工事高は209億21百万円（前連結会計年度比6.8％増）となり、新設工事が95億94百万円（同1.5％減）、既設工事が88億64百万円（同17.5％増）、保守工事が24億62百万円（同6.7％増）となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、環境システム事業における受注工事高は233億37百万円（同23.5％増）となり、新設工事が121億95百万円（同47.1％増）、既設工事が86億81百万円（同4.9％増）、保守工事が24億60百万円（同5.8％増）となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "環境システム事業における完成工事高は209億21百万円(前連結会計年度比6.8％増）となり、新設工事が95億94百万円（同1.5％減）、既設工事が88億64百万円（同17.5％増）、保守工事が24億62百万円（同6.7％増）となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "「環境システム事業」は、新設及び既設建物に対する計装工事、電気工事、メンテナンス（保守）工事、自動制御機器及び環境関連機器の販売を行っております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、事業区分は「第５ 経理の状況 １ 連結財務諸表等 (1)連結財務諸表 注記事項」に掲げるセグメントの区分と同一であります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、設備工事業者向けと二次卸売業者向けの２つの販売経路をもち、その売上高構成比率は下記のとおりであります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高構成比率（％）",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの財政状態及び経営成績の状況に関する認識及び分析・検討内容は次のとおりであります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、現金及び預金、建物及び構築物等が増加し、売上債権であります受取手形・完成工事未収入金等、電子記録債権及び売掛金の合計額並びに建設仮勘定等が減少したことにより前連結会計年度末に比べ１億49百万円減少の112億７百万円となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、現金及び預金等が増加し、売上債権であります受取手形・完成工事未収入金等、電子記録債権及び売掛金の合計額並びに原材料及び貯蔵品等が減少したことにより前連結会計年度末に比べ38百万円減少の90億78百万円となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "各報告セグメントに配分していない全社資産につきましては、現金及び預金、投資有価証券等が増加したことにより前連結会計年度末に比べ48億31百万円増加の190億29百万円となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、事業部を基礎とした製品系列及び販売方法別のセグメントから構成されており、「環境システム事業」及び「管工機材事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成において採用している会計処理の方法と同一であります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "また、利益につきましては、売上総利益率の改善に伴い、営業利益は50億84百万円（同26.3％増）、経常利益は53億58百万円（同26.9％増）、親会社株主に帰属する当期純利益は36億26百万円（同26.2％増）となりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "管工機材事業につきましては、販売基幹システム及び商品販売サイト『Ｏ/tegaru（おてがる）』の機能充実を通じて、受発注管理・在庫管理・顧客対応の業務効率化を図り、より付加価値の高いサービスを提供できる体制の整備を進め、販売力の強化に努めてまいりました",
+    "url": "https://kitaishihon.com/company/1736/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、機械をなるべく小さく作る省スペース化の技術にも強みがあります",
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.autech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/sv/clippervan_multirack/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/support/faq/about_autech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/model.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/lv/year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/lv/model.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/wv/year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/wv/model.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/silvia_convertible_1988.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/skyline_gts_autechversion_1988.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/stelvio_1989.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/cefiro_autechversion_1990.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/caravan_campingcar_1990.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/homy_campingcar_1990.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/skyline_autechversion_1992.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/serena_suncat_1992.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/gtr_nismo_2013.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/gtr_nismo_2019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/gtr_nismo_2021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/nv200vanette_premiumgx_2014.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/nv200vanette_multibedwagon_2020.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.autech.com/sv/sf7590000001oee8-att/za1_multirack_catalog_20260511.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/sv/sf7590000001oee8-att/za1_multirack_equipment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/sv/sf7590000001oee8-att/za1_multirack_spec.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/pdf/S13Convertible-1988.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/PDF/stelvio_1989.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/PDF/cefiro_autech_1990.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/PDF/caravan_camping_1990.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/history/sv/PDF/homy_camping_1990.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.autech.com/company/business/images/mainvisual_20251218.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.autech.com/company/business/images/mainvisual_20251218_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.autech.com/company/business/fnrtdp0000000aab-img/bnr-nmc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.autech.com/company/business/images/img_concept_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.autech.com/company/business/images/img_concept_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.autech.com/company/business/images/img_concept_20260115_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.autech.com/company/business/images/img_overseasbusiness_20260716.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://otech.co.jp/conference/nikai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.o-tec.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.o-tec.co.jp/ir/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.o-tec.co.jp/company/summary/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/1736/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enregion.jp/consultant-blog/10464/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-yamanashi.net/change/202405_autec.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オーテック",
+   "results": [
+    "http://www.autech.com/",
+    "https://www.o-tec.co.jp/",
+    "https://www3.nissan.co.jp/vehicles/new/serena/specifications/autech.html",
+    "https://ja.wikipedia.org/wiki/AUTECH",
+    "https://e-autec.com/company/",
+    "https://autec-h.co.jp/",
+    "https://www.oiw.co.jp/",
+    "https://ja.wikipedia.org/wiki/オーテック",
+    "https://en.wikipedia.org/wiki/Autech",
+    "https://www.autech.jp/"
+   ]
+  },
+  {
+   "query": "オーテック ビジネスモデル",
+   "results": [
+    "http://www.autech.com/",
+    "https://otech.co.jp/conference/nikai/",
+    "https://finance.logmi.jp/articles/378987",
+    "https://note.com/holy_viper7334/n/naa133b71f742",
+    "https://www.o-tec.co.jp/ir/plan/",
+    "https://www.chubu.meti.go.jp/b21jisedai/chubudx/efforts/16/index.html",
+    "https://roadect.com/articles/history/nissan-autech",
+    "https://e-autec.com/company/",
+    "https://job.mynavi.jp/28/pc/search/corp277358/outline.html",
+    "https://consovation.com/企業の成長戦略を徹底解剖-ビジネスモデルキャン/"
+   ]
+  },
+  {
+   "query": "オーテック 決算説明資料",
+   "results": [
+    "https://www.o-tec.co.jp/ir/library/presentation/",
+    "https://www.o-tec.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=1736",
+    "https://www.buffett-code.com/company/1736/library",
+    "https://finance.logmi.jp/articles/380694",
+    "https://kabutan.jp/stock/finance?code=1736",
+    "https://www.kondotec.co.jp/ir/library/briefings.html",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=1736",
+    "https://www.hokto-kinoko.co.jp/corporate/ir/shiryou/kessan/",
+    "https://edinetdb.jp/company/E00304/ir-docs/"
+   ]
+  },
+  {
+   "query": "オーテック 事業系統図",
+   "results": [
+    "https://www.o-tec.co.jp/company/summary/",
+    "https://kitaishihon.com/company/1736/business",
+    "http://www.autech.com/",
+    "https://www.crex-data.com/company/1736",
+    "https://www.o-tec.co.jp/sitemap/",
+    "https://job.mynavi.jp/28/pc/search/corp73290/outline.html",
+    "https://autec-h.co.jp/about-us/",
+    "https://j-lic.com/companies/1736/segments",
+    "https://e-autec.com/company/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=1736"
+   ]
+  },
+  {
+   "query": "オーテック 社長 インタビュー",
+   "results": [
+    "https://enregion.jp/consultant-blog/10464/",
+    "https://rs-yamanashi.net/change/202405_autec.html",
+    "https://www.o-tec.co.jp/company/message/",
+    "https://ny-benricho.com/business/interview/interview-autec/",
+    "https://www.youtube.com/watch?v=7dajUFitj1g",
+    "https://e-autec.com/category/information",
+    "https://www.japanmetaldaily.com/articles/-/109996",
+    "https://otech.co.jp/media-info/intabyu/",
+    "https://www.otec-elec.co.jp/recruit/voice/post-8.html",
+    "https://otec-saga.com/voice/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像15件／外部7頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像15件／外部7頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像15件／外部7頁・検索5回）"
+ }
+}

@@ -1,0 +1,1908 @@
+{
+ "name": "ソフトバンク",
+ "aliases": [],
+ "context": "証券コード9434／情報・通信業／プライム（内国株式）／2026.03期 売上高7,038,680百万円 営業利益率14.8%",
+ "researched_at": "2026-11-02T18:55:13.587990+00:00",
+ "official_url": "https://www.softbank.jp/",
+ "identified_by": "search:yahoo_jp:ソフトバンク",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "売上高および従業員数",
+    "value": "連結",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単体：19,150人 （2026年3月31日現在） 連結：58,432人 （2026年3月31日現在）",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "移動通信サービスの提供、携帯端末の販売、固定通信サービスの提供、インターネット接続サービスの提供",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1986年（昭和61年）12月9日",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品／料金のお知らせ",
+    "url": "https://www.softbank.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "FMC・UCサービス",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "モバイルソリューション",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "電話サービス",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド接続サービス",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "運用代行・マネージドサービス",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドセキュリティサービス",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧 トップ",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソブリン性を備えたクラウドサービス「Cloud PF Type A」を西日本リージョンで提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用し、子どものこころのケアに取り組む教師を支援するサービス「メンタリ」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "気象データ・人流データ・AIを活用して需要予測と商品値引きを最適化し、食品スーパーの食品ロス削減と生産性向上を確認",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクとSierra、AIエージェントでカスタマーサポートの顧客体験を変革するサービスの日本展開に向けた戦略的パートナーシップ契約を締結",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "企業のAIリスク対策を支援する 「AIガバナンス策定支援サービス」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクのクラウドサービス「Cloud PF Type A」で国産生成AIの最新モデル「Sarashina3 シリーズ」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソブリン性を備えたクラウドサービス「Cloud PF Type A」で国産生成AI「Sarashina」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の重要インフラの防御に向けて、OpenAIの技術を活用したサイバーセキュリティー対策ソリューション「Patching as a Service」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "JR東日本による「みどりの窓口AI対応サービス（仮称）」の実現に向けた実証実験に開発支援者として参画",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "「Oracle Alloy」を採用した「Cloud PF Type A」で、国産LLM「Sarashina」を活用した生成AIサービスを2026年6月から順次提供",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "コールセンター向けのカスハラ対策ソリューション「SoftVoice」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けAIエージェントプラットフォームサービス「AGENTIC STAR」を提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "国産LLM「Sarashina mini」のAPI接続サービス「Sarashina API」を法人向けに提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンク、オラクルとの協業によりソブリン性を備えたクラウドサービスを提供して、AIサービスも順次展開",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクのAI計算基盤を活用したクラウドサービス 「AIデータセンター GPUサーバー」を10月8日に提供開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "資料作成業務を支援するエンタープライズ向け生成AIサービス「satto workspace」を開発",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービスにおけるPHPの脆弱性への対応について",
+    "url": "https://www.softbank.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.softbank.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクのソリューション",
+    "url": "https://www.softbank.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧を見る",
+    "url": "https://www.softbank.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスやサポートについてAIに聞いてみる",
+    "url": "https://www.softbank.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "災害支援・サービス提供状況",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "知りたいサービスを選んでください",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話サービス",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクグループとは資本関係のない「軟銀ソリューションズ株式会社」「幸福空間股份有限公司」および両団体が開催するイベントについて",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI需要予測サービス「サキミル」は、飲食店や小売店で日々発生する食品ロスという社会課題に対し、ソフトバンクの人流統計データと日本気象協会の気象データ、店舗の各種データを掛け合わせた高精度な需要予測を提供",
+    "url": "https://www.softbank.jp/corp/special/answer/action/sakimiru/",
+    "pass": 1
+   },
+   {
+    "quote": "AI需要予測サービス「サキミル」を活用した取り組みが「食品産業もったいない大賞」最高位の農林水産大臣賞に",
+    "url": "https://www.softbank.jp/corp/special/answer/action/sakimiru/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 トップ",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "知りたいサービスを選んでください",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "通信ができるサービスです",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "機種OSまたは国・地域により、利用可能な機能またはサービス内容が異なる場合あり",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスエリア内で、地上のSoftBank 5G/4G LTE/4Gが受信できず、衛星との間に遮蔽物がない場所でのみ利用可",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスによるデータ通信（S!メール（MMS）/RCSの送受信を含む）ではデータ量を消費しません",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星サービス対象端末をお持ちのお客さまは",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービス利用には所定の設定要",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "（本海外サービス全部の終了のほか、各機能・内容の一部終了または段階的終了を含む",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービスをオン",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "「設定」＞「プライバシーとセキュリティ」＞「位置情報サービス」",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービスををオン",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスエリアは、日本国内の領土および領海並びに日本国の排他的経済水域の一部のうち、当社の定めるエリアに限る",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "機種またはOSにより利用可能な機能またはサービス内容が異なる場合あり",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "対象国・地域で利用が認められていないまたは海外通信事業者の衛星通信サービスで利用できない対象アプリや機能は利用不可",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "インストール済みのアプリの中から本サービスに対応しているアプリを確認できます",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "・緊急情報サービス",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "一部機種において、データローミングの設定など、本サービスを利用するために所定の設定が必要です",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "SoftBank Free Styleで販売している機種は本サービス非対応です",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "データローミングの設定等、本サービスを利用するために所定の設定が必要",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "対象国・地域で利用が認められていない、又は海外通信事業者の衛星通信サービスで利用できない対象アプリや機能は、利用不可",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "海外でのサービスエリアは、日本国外の国又は地域のうち当社指定の海外通信事業者がSpace Exploration Technologies Corp．又は関係会社が運営する衛星通信を提供する区域とします",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "通期過去最高益に向けグループサービスのシナジーを強化 －ソフトバンク株式会社 2022年3月期 第3四半期 決算説明会レポート",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "いただいたご意見から実施した改善活動をご紹介",
+    "url": "https://www.softbank.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Center）のご紹介",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SBパートナープログラム「ONE",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SBパートナープログラム",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクおよびグループ各社が取り組むAI関連の最新のニュースをご紹介します",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "「AGENTIC STAR」のパートナープログラムを開始",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクとSierra、AIエージェントでカスタマーサポートの顧客体験を変革するサービスの日本展開に向けた戦略的パートナーシップ契約を締結",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクとエリクソン、2030年に向けてAIやクラウド、XR、6Gのイノベーションを推進する戦略的パートナーシップを締結",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "導入支援の責任者が語るノウハウと、ソフトバンク社内での実践事例から、そのヒントをご紹介します",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIエージェントを実際の業務でどう生かす？ 申請受付や問い合わせ対応など、ソフトバンク社内での活用例と工夫をご紹介します",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "社内の活用事例をご紹介",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンク社内のAI活用紹介",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクおよびグループ各社のAIの取り組みをご紹介します",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 トップ",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI需要予測サービス「サキミル」は、飲食店や小売店で日々発生する食品ロスという社会課題に対し、ソフトバンクの人流統計データと日本気象協会の気象データ、店舗の各種データを掛け合わせた高精度な需要予測を提供",
+    "url": "https://www.softbank.jp/corp/special/answer/action/sakimiru/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、生活者に身近な店舗に留まらず、製造メーカーなどの生産プロセスや物流領域にも活用の幅を広げ、流通サプライチェーン全体で二酸化炭素の排出削減や食品ロスのさらなる削減に取り組んでいきます",
+    "url": "https://www.softbank.jp/corp/special/answer/action/sakimiru/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の取り組みも紹介中！",
+    "url": "https://www.softbank.jp/corp/special/answer/action/sakimiru/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 トップ",
+    "url": "https://www.softbank.jp/corp/aboutus/governance/security/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 トップ",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・拠点の電話対応を集約し、現場負荷を減らしたい",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "小規模オフィス／店舗向け",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまからのお問い合わせへのAI活用、多店舗・多拠点の受電をセンターへ集約することで業務効率化を実現します",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "多店舗の電話をセンターへ集約し、店舗スタッフが本来の接客・売場業務に集中できます",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の電話対応を減らしたい",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "0088電話サービスや国際電話サービスなどの、各種法人向け電話・割引サービスをご紹介しています",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "ホワイト光電話・BBフォン光シティなど個人向けサービスをご紹介します",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "おとく光電話のご紹介",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な通話品質のまま通信コストや管理業務を軽減できる、法人向けIP電話サービスのをご紹介します",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "通話料金着信者払いサービス「フリーコールスーパー」のご紹介",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "通話料金を着信者さま側が負担する01200・0800から始まる電話サービスをご紹介します",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "地域ごとのパートナーと提携し、海外拠点と国内拠点を問わずシームレスかつセキュアに接続可能なネットワークを提供します",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗のネットワーク環境を刷新し、コスト削減と管理の一元化を実現",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド利用を支え、社員が快適で安全に働くことができるネットワーク環境を構築するための具体的な解決策と課題解決に成功した企業の事例をご紹介します",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "ソブリンクラウドの概要と、AI・データ活用における法規制対応や安全なクラウド基盤の重要性をユースケースとともに紹介",
+    "url": "https://www.softbank.jp/business/service/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "本資料でご紹介する生成AIパッケージは、セキュアな Azure 個別環境上で汎用チャット型のBasicUIと業務特化型のCustomUIを提供します",
+    "url": "https://www.softbank.jp/business/service/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドならではの専門用語や技術、活用方法など知っておきたい基礎知識をご紹介します",
+    "url": "https://www.softbank.jp/business/service/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "多様なAIサービスを取りそろえ、企業の目的や活用フェーズに応じたソリューションをご紹介",
+    "url": "https://www.softbank.jp/business/service/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクが提供するセキュリティサービスをご紹介します",
+    "url": "https://www.softbank.jp/business/service/security/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "防犯対策や遠隔監視による店舗の省人化に最適です",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション、イノベーティブ、セールスの3つの枠組みで、パートナー企業を募集しております",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "高速・大容量 超低遅延 多数同時接続の通信を実現する5Gについて、ソフトバンクの法人のお客さまに向けた取り組みをご紹介いたします",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "また、5G関連ビジネスの創出を目的として、開発支援やビジネスパートナーのマッチングなどのビジネスサポートを受けることもできます",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "ほんの少しの誤差も許されない手術でどんな技術が活用されているのでしょうか？ 5GやAR、3Dプリンティング模型といった技術を活用し、遠隔で行われた手術支援の様子をご紹介します",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "「5G X LAB OSAKA」の詳細紹介、見学予約の申し込みを受け付けています",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "コラムのご紹介",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗内AIカメラを5Gで接続",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "顔認証や物体検知、人流解析等で、無人店舗やセキュリティ・マーケティングを高度化",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年春からスタートした5Gの商用サービスについて、さまざまな産業で活用されている実証実験のご紹介と、2022年度から提供を予定している「プライベート5G」について説明されました",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "ここではメリットや導入手順、サービスを紹介します",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "スムーズに導入・運用いただくための流れをご紹介します",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "77店舗、1,000人の人員を支える社内ナレッジ",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗レジに関する問い合わせは約30％削減へ",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "本資料では、導入メリットと手順を紹介します",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "このノウハウをもとに業務の「プロセスの可視化、自動化計画立案、費用対効果試算」を紹介します",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "人手不足な状況下で事業継続に効果的な方法を紹介します",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "導入するときのポイント、手順、課題と、ソフトバンクの支援するサービスを記事で紹介しています",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後の、業務の効率化の事例や、導入してわかるRPAの得意・苦手なことを記事でご紹介しています",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "RPAの関連情報や、ユーザ・コミュニティをご紹介しています",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.softbank.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.softbank.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月6日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月25日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月15日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月9日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月8日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月1日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月19日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月10日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月27日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月22日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月16日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月14日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月13日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月3日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月2日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日時点の対応端末です",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月4日、ソフトバンク株式会社は2027年3月期 第1四半期 決算説明会を開催し、代表取締役 社長執行役員 兼 CEOの宮川潤一が、連結業績や各事業の進捗に加え、セブン＆アイ・ホールディングスとの資本業務提携、Neoクラウド事業の米国展開に向けた取り組…",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日、ソフトバンクグループ株式会社の2027年3月期 第1四半期決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が、連結業績の内容について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月11日、ソフトバンク株式会社は2026年3月期 決算説明会を開催し、代表取締役 社長執行役員 兼 CEO 宮川潤一が、2026年3月期の連結業績と今期の業績予想に加えて、前中期経営計画の総括、新たな中期経営計画の戦略について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月13日、ソフトバンクグループ株式会社の2026年3月期 決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が、連結業績の内容について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月12日、ソフトバンクグループ株式会社の2026年3月期 第3四半期 決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が、連結業績の内容について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月9日、ソフトバンク株式会社は2026年3月期 第3四半期 決算説明会を開催し、代表取締役 社長執行役員 兼 CEO 宮川潤一が業績について説明を行いました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月11日、ソフトバンクグループ株式会社の2026年3月期 第2四半期 決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が、連結業績の内容について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月5日、ソフトバンク株式会社は2026年3月期 第2四半期 決算説明会を開催しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月7日、ソフトバンクグループ株式会社の2026年3月期 第1四半期 決算説明会が開催され、取締役 専務執行役員 CFO 兼 CISO 兼 GCOの後藤芳光が、連結業績の内容について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月5日16時より、ソフトバンク株式会社の2026年3月期第1四半期 決算説明会が開催されます",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月13日16時30分より、ソフトバンクグループ株式会社の2025年3月期 決算説明会が開催されます",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月8日、ソフトバンク株式会社の2025年3月期 決算説明会が開催され、代表取締役 社長執行役員 兼 CEOの宮川潤一が2024年度の業績や2025年度の業績予想および中期経営計画の進捗、次世代社会インフラの構築に向けた取り組みなどについて説明",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度…",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月12日、ソフトバンクグループ株式会社（以下「SBG」）の2025年3月期 第3四半期 決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が連結業績を発表",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月に発表した「Stargate Project」および2025年2月初めに発表した「クリスタル・イ…",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月10日、ソフトバンク株式会社の2025年3月期 第3四半期決算説明会が開催され、代表取締役 社長執行役員 兼 CEOの宮川潤一が連結業績を発表",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月12日、ソフトバンクグループ株式会社の2025年3月期 第2四半期 決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が、連結業績の内容について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月8日、ソフトバンク株式会社の2025年3月期 第2四半期 決算説明会が開催され、代表取締役 社長執行役員 兼 CEOの宮川潤一が2024年度の通期業績予想の上方修正を発表",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月7日、ソフトバンクグループ株式会社（以下「SBG」）の2025年3月期 第1四半期 決算説明会が開催され、取締役 専務執行役員 CFOの後藤芳光が、連結業績とASI（人工超知能）実現への取り組みなどについて説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月6日、ソフトバンク株式会社の2025年3月期 第1四半期 決算説明会が開催され、代表取締役 社長執行役員 兼 CEOの宮川潤一が連結業績と次世代社会インフラに向けた取り組みなどについて説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月13日、ソフトバンクグループ株式会社（以下「SBG」）の2024年3月期 決算説明会が開催され、取締役 専務執行役員 CFO 後藤芳光が連結業績と今後の方針について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月9日、ソフトバンク株式会社の2024年3月期 決算説明会が開催され、代表取締役 社長執行役員 兼 CEOの宮川潤一が2023年度の業績や2024年度の業績予想および中期経営計画の目標や進捗、次世代社会インフラの構築に向けた取り組みなどについて説明しま…",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月8日、ソフトバンクグループ株式会社（以下「SBG」）の2024年3月期 第3四半期 決算説明会が開催され、取締役 専務執行役員 CFO 後藤芳光が連結業績と今後の方針について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月9日、ソフトバンクグループ株式会社（以下「SBG」）の2024年3月期 第2四半期 決算説明会が開催され、取締役 専務執行役員 CFO 後藤芳光が今年9月のアームの上場や連結業績、今後の方針について説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月8日、ソフトバンク株式会社の2024年3月期 第2四半期決算説明会が開催され、代表取締役 社長執行役員 兼 CEOの宮川潤一が連結業績と次世代社会インフラの構築に向けた生成AI基盤の取り組みなどを説明しました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "1986年（昭和61年）12月9日",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月1日改訂版（PDF形式：272KB／12ぺージ）",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年8月27日",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年9月9日",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年3月30日",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年7月23日",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ソフトバンクとSierra、AIエージェントでカスタマーサポートの顧客体験を変革するサービスの日本展開に向けた戦略的パートナーシップ契約を締結",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "過去データや社内動向、最新情報を学習し、長期記憶を備えたAIとしてユーザーを支援",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが設定した業務ゴールや指示内容をもとに計画を立て、必要なツールを活用しながら判断・実行します",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の確認方法",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクユーザーの場合、SoftBank Starlink Directを使うために",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "0120・0800番号で通話料を着信側負担にし、多彩な着信制御で顧客対応を支援",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "AIによる通話内容の文字起こしや分析で、営業・顧客対応の品質向上を支援",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "応対品質の可視化とオペレーター支援機能で、顧客満足度向上を実現",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "音声やデジタルチャネルを統合し、一貫した顧客体験を提供するCX基盤",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客体験を向上したい",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客にも従業員にも快適なWi-Fi環境いますぐ実現できます",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "観光情報を利用者に通知することもできます",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "使用帯域保証型で、利用者が多い時も安定した通信が可能です",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "同時接続ユーザー数が多い場合など回線混雑時に、速度の保証ができないサービス形態をベストエフォート型といいます",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーがWindows 365 のクラウド環境にスピーディかつ安全に接続できる、初のクラウドPCハードウェアデバイスです",
+    "url": "https://www.softbank.jp/business/service/cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "専用端末を会議室に設置し操作することで、会議室の利用者が簡単に複数名でTV会議やWeb会議へ参加可能になります",
+    "url": "https://www.softbank.jp/business/service/cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが設定したゴールから、AIが自ら考え、プランニング・判断・行動し、業務の自動化から、発想の拡張、システム連携まで、全てを1つのPaaS上で実現します",
+    "url": "https://www.softbank.jp/business/service/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端のAI技術でオペレーターを顧客の暴言から守る、次世代のカスハラ対策ソリューションです",
+    "url": "https://www.softbank.jp/business/service/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー認証",
+    "url": "https://www.softbank.jp/business/service/security/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー認証とは、システムやクラウドサービスを利用する際に、ユーザーを識別するサービスです",
+    "url": "https://www.softbank.jp/business/service/security/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガス事業者と利用者をつなぐ、コミュニケーションツールです",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客対応に集中できる職場へ",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客理解から施策実行までを伴走支援",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点からの逆算を事業に生かす",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "PayPay：累計登録ユーザー数(2026年3月時点)",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "LINE：月間アクティブユーザー数 (2026年3月末時点)",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客購買データ活用",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "統計化された独自の位置情報やユーザーデータを駆使して、デジタルとリアルのプロモーションを分析するための、統合マーケティングソリューションです",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが商品やサービスを検索しているその瞬間に広告が表示されるため、顕在層に効果的にアピールできます",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクユーザー向けにメール広告の配信が可能です",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンク・ワイモバイルユーザーへ直接届くアンケート型広告",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーデータ・広告データ・購買データなど、マーケティングプロセス上に存在する全てのビジネスデータを、ノーコードで取得から活用まで行えます",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用により、顧客に紐づくデータの分析や可視化が迅速に行えます",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル接点のユーザー行動を詳細かつ膨大な匿名データとして収集・分析することで、オンライン上での顧客体験を実店舗で見ているかのように把握できます",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "データによって顧客を正しく理解してマーケティング施策の実行につなげていくためには、社内におけるデータの統合管理が必要です",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客一人ひとりに紐づくオフラインからオンラインまでのデータを、1つのプラットフォームにまとめましょう",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな顧客データを収集、統合し、顧客理解に必要な分析を行うことができます",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データの活用で売上を伸ばすためにマーケターが知っておくべきこととは？",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "データが統合されていないと顧客を多面的に分析できず、せっかくのデータを効果的に活用することができません",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ活用基盤構築のための準備ステップ",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ基盤の構築について理解が不十分だと「使いづらい」「使われない」データ基盤が完成してしまう危険性があります",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客とのデジタル接点拡大へ SMSの活用で専用ページの登録率向上を実現",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクとSierra、AIエージェントでカスタマーサポートの顧客体験を変革するサービスの日本展開に向けた戦略的パートナーシップ契約を締結",
+    "url": "https://www.softbank.jp/biz/about/ai/?utm_source=owned&utm_medium=banner&utm_campaign=_BIZ_4865",
+    "pass": 1
+   },
+   {
+    "quote": "過去データや社内動向、最新情報を学習し、長期記憶を備えたAIとしてユーザーを支援",
+    "url": "https://www.softbank.jp/biz/about/ai/?utm_source=owned&utm_medium=banner&utm_campaign=_BIZ_4865",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが設定した業務ゴールや指示内容をもとに計画を立て、必要なツールを活用しながら判断・実行します",
+    "url": "https://www.softbank.jp/biz/about/ai/?utm_source=owned&utm_medium=banner&utm_campaign=_BIZ_4865",
+    "pass": 1
+   },
+   {
+    "quote": "利用者が増えると、担当者が異動した場合の引き継ぎや権限・接続先の管理、エラーへの対応、業務ルールが変わった際の改修など、PoCでは見えにくかった課題が出てきました",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   },
+   {
+    "quote": "一方、運用を続ける中で、担当者がどのような質問にどう回答したのか把握しにくい、ユーザー間でナレッジを共有しにくいといった課題も見えてきました",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   },
+   {
+    "quote": "実際にユーザーから質問が投稿されると、まず過去の回答が蓄積されたナレッジを確認します",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   },
+   {
+    "quote": "担当者が内容を確認し、正しければ承認、誤りがあれば修正した上でユーザーへ回答する仕組みです」",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   },
+   {
+    "quote": "一方、資料から回答を確認できない場合には、まず回答できないことをユーザーに伝え、担当者につなぐ仕組みにしています",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   },
+   {
+    "quote": "顧客対応・営業支援の経験を経て、2025年よりコンテンツ制作に携わる",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   },
+   {
+    "quote": "新たにワイモバイルのご契約を希望されるお客様",
+    "url": "https://www.softbank.jp/biz/contact-us/support/smb/inquiry/?utm_source=owned&utm_medium=other&utm_campaign=_BIZ_4615",
+    "pass": 1
+   },
+   {
+    "quote": "ワイモバイルを既にご契約中のお客様",
+    "url": "https://www.softbank.jp/biz/contact-us/support/smb/inquiry/?utm_source=owned&utm_medium=other&utm_campaign=_BIZ_4615",
+    "pass": 1
+   },
+   {
+    "quote": "顧客サポート・カスタマーオペレーション",
+    "url": "https://www.softbank.jp/biz/contact-us/support/smb/inquiry/?utm_source=owned&utm_medium=other&utm_campaign=_BIZ_4615",
+    "pass": 1
+   },
+   {
+    "quote": "宣伝・マーケティング・顧客管理",
+    "url": "https://www.softbank.jp/biz/contact-us/support/smb/inquiry/?utm_source=owned&utm_medium=other&utm_campaign=_BIZ_4615",
+    "pass": 1
+   },
+   {
+    "quote": "現場の利用者として関与する",
+    "url": "https://www.softbank.jp/biz/contact-us/support/smb/inquiry/?utm_source=owned&utm_medium=other&utm_campaign=_BIZ_4615",
+    "pass": 1
+   },
+   {
+    "quote": "自らの顧客向けに提供する通信サービスにおいて利用することができない通信 又は機能については、本海外サービスにおいても利用",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/service/starlink-direct/terms.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. 本海外サービスについては、海外事業者が衛星を利用して自らの顧客向けに提供する通信サービスに係る利用条件、利用制限そ",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/service/starlink-direct/terms.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ソフトバンクは、通信で社会をつないできた強みを生かし、AIを社会実装するための計算基盤・データセンター・ネットワークなどを",
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクの強み",
+    "url": "https://www.softbank.jp/business/service/security/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクのセキュリティサービスの強み",
+    "url": "https://www.softbank.jp/business/service/security/",
+    "pass": 1
+   },
+   {
+    "quote": "通信キャリアならではの強み",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "「Vendy」は、自動販売機の売上・在庫データなどをAIが分析し、これまでルートセールスが経験と勘を駆使していたオペレーション業務を自動化",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "限られた人材で競争優位性を確保するために、どのような対策が必要なのか、有効なテクノロジーは何か",
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクは、通信で社会をつないできた強みを生かし、AIを社会実装するための計算基盤・データセンター・ネットワークなどを",
+    "url": "https://www.softbank.jp/biz/about/ai/?utm_source=owned&utm_medium=banner&utm_campaign=_BIZ_4865",
+    "pass": 1
+   },
+   {
+    "quote": "「そうした実態も含めてお客さまにお伝えし、AI活用を支援できることが、ソフトバンクの強みだと思っています」",
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.softbank.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "【動画公開】全セグメント増収で、通期業績予想を上方修正ーソフトバンク株式会社 2026年3月期 第3四半期 決算説明会",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "上期過去最高、全セグメント増収増益を達成",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役 社長執行役員 兼 CEO 宮川潤一は全セグメントでの増収増益により、売上高・営業利益・純利益のいずれも上期として過去最高であったと報告",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "全セグメント増収増益",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "全セグメント増収増益で順調に進捗 ーソフトバンク株式会社 2025年3月期 第2四半期 決算説明会レポート",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "全セグメント増収増益の順調なスタート ーソフトバンク株式会社 2025年3月期 第1四半期 決算説明会レポート",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "売上高は過去最高、全セグメントで増益",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "全セグメントで増収、通期業績予想の達成へ好スタート",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "全セグメント増収で通期過去最高益へ －ソフトバンク株式会社 2022年3月期 第2四半期 決算説明会レポート",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.softbank.jp/corp/aboutus/governance/security/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度セグメント×高レスポンスな設計で、興味喚起からLP誘導まで一括実現できます",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "SMS、データ利用料金ともに",
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "引用をストックしました",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "ストック一覧を見る",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "引用をストックできませんでした",
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月ご利用分より、「おとくライン」アナログ回線および、ISDN64回線の月額基本料について、料金改定を行います",
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "pass": 1
+   },
+   {
+    "quote": "SoftBank 光は、月額3,800円からご利用できる光回線を利用した超高速インターネット接続サービスです",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワーク構築を行うために必要な、ネットワーク機器の提供と設計・設置・保守を一括してご提供するサービスです",
+    "url": "https://www.softbank.jp/business/service/network/",
+    "pass": 1
+   },
+   {
+    "quote": "クローズドの環境でチャットやメールのやりとりができ、安否確認もついた月額300円から使えるビジネスチャットです",
+    "url": "https://www.softbank.jp/business/service/cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Azureは、コンピューティングからデータ保存、アプリケーションなどのリソースを、必要な時に必要な量だけ従量課金で利用することができます",
+    "url": "https://www.softbank.jp/business/service/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリケーションの作成やバックエンドシステムへの接続に関わる開発工数の削減、運用後の保守・管理が最適化できます",
+    "url": "https://www.softbank.jp/business/service/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Canva の法人向けライセンス提供から施策計画、効果測定まで支援するサービスです",
+    "url": "https://www.softbank.jp/business/service/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "アカウント数に応じた従量課金のため、小～中規模ネットワークに最適です",
+    "url": "https://www.softbank.jp/business/service/security/",
+    "pass": 1
+   },
+   {
+    "quote": "IoTソリューションに必要なセンサーネットワークの構築から、通信回線・通信機器の調達、データ収集および分析、さらに機器ネットワークの保守管理やコールセンター業務まで、ワンストップでサポートいたします",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "データ通信量、SIMカード代、APN、OpenVPN、SMSなど全ての機能を月額利用料なしで最大10年間ご利用いただけます",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "利用明細の通知やガス利用料金の決済が可能です",
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "pass": 1
+   },
+   {
+    "quote": "企業や自治体のニーズの多くに専用で利用できるネットワーク環境がありますが、自社専用のネットワーク「ローカル5G」を構築するには、高セキュリティなどの利点がある一方で、5G専用周波数帯の無線局免許取得や保守・運用などの手間やコストがかかるという面もあります",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "「プライベート5G」にすることで、個別の要件に応じたネットワークが構築できるのに加え、保守・運用はソフトバンクが実施します",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ保守",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "保守作業の効率や安全性を向上",
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "キャンペーンと連動した広告出稿でふるさと納税の寄附件数・単価アップを達成",
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "②特典利用料※3 11,000 円 11,000 円 11,000 円 11,000 円 11,000 円",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新トクするサポート＋（特典B）／買替え応援割適用で、最大24回分の機種代金&特典利用料がお支払い不要となります",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特典申込完了時点まであんしん保証パックサービス（月額使用料最大3,280円/月）※3 に加入している場合、故障時負担金は発生しません",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特典B利用時、ソフトバンクで対象機種へ買替え等の条件を満たさない場合、買替え応援割は適用されず、特典利用料が発生します",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "査定完了後は、特典利用料が発生します",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「買替え応援割」が適用される場合は、特典利用料は免除となります",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特典利用料、故障時負担金、あんしん保証サービスの金額は変更される場合があります",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特典利用料、故障時負担金、分割支払金は、機種・容量・時期・契約種別等により異なり、購入時点の金額が適用されます",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 契約時に別途契約事務手数料/契約変更手数料/機種変更手数料が発生します",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ お客さまが契約している対象料金プラン等の各種料金及び各種手数料は、契約約款等に基づき発生します",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/service/starlink-direct/terms.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 衛星の定期的又は緊急の保守・点検その他これに類するメンテナンスを行う場合",
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/service/starlink-direct/terms.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ソフトバンクグループでは、「群戦略」の下、特定の分野で優れたテクノロジーやビジネスモデルを持つ多様な企業群が同志的に結び付く「戦略的シナジーグループ」を形成しています",
+    "url": "https://group.softbank/philosophy/strategy",
+    "pass": 3
+   },
+   {
+    "quote": "それは、優れたテクノロジーやビジネスモデルを持つ魅力的な企業を発掘して投資を行うプロフェッショナルのほか、財務・会計、法務・コンプライアンスなどの専門領域において事業活動を推進する多様な人材です",
+    "url": "https://group.softbank/philosophy/strategy",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成長戦略「Activate AI for Society」 | 企業・IR | ソフトバンク — 成長戦略「Activate AI for Society」 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > 企業・IR > 理念・ビジョン・戦略",
+    "url": "https://www.softbank.jp/corp/philosophy/strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略 | ソフトバンク グループ株式会社 — 戦略 | ソフトバンク グループ株式会社 ソフトバンクグループ株式会社 https://group.softbank > 理念・ビジョン・戦略",
+    "url": "https://group.softbank/philosophy/strategy",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク グループの事業構造とは？ | AIに対する考え — ソフトバンク グループの事業構造とは？ | AIに対する考え ai.softbank https://ai.softbank > insights",
+    "url": "https://ai.softbank/insights/003/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 ソフトバンク Gの事業戦略を構造 ... — 【 ビジネスモデル 図解2026】 ソフトバンク Gの事業戦略を構造 ... mindmeister.jp https://mindmeister.jp > posts > bm-softbank",
+    "url": "https://mindmeister.jp/posts/bm-softbank",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク 法人・ ビジネス 向けサイト — ソフトバンク 法人・ ビジネス 向けサイト ソフトバンク https://www.softbank.jp > business",
+    "url": "https://www.softbank.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 ・動画 | ソフトバンク グループ株式会社 — 説明 会 資料 ・動画 | ソフトバンク グループ株式会社 ソフトバンクグループ株式会社 https://group.softbank > 株主・投資家情報（IR）",
+    "url": "https://group.softbank/ir/presentations",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 企業・IR | ソフトバンク — IRライブラリー | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > 企業・IR > 投資家情報",
+    "url": "https://www.softbank.jp/corp/ir/documents/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 | 企業・IR | ソフトバンク — 2026年度 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > ... > IRライブラリー > 説明会資料",
+    "url": "https://www.softbank.jp/corp/ir/documents/presentations/fy2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 | 企業・IR | ソフトバンク — 2025年度 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > ... > IRライブラリー > 説明会資料",
+    "url": "https://www.softbank.jp/corp/ir/documents/presentations/fy2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算 発表 | 企業・IR | ソフトバンク — 2026年3月期 決算 発表 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > ... > 2026年",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260511_02/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業・IR | ソフトバンク — 会社概要 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > 企業・IR > 企業情報",
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 企業・IR | ソフトバンク — 企業情報 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > 企業・IR",
+    "url": "https://www.softbank.jp/corp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめての ソフトバンク | 企業・IR — はじめての ソフトバンク | 企業・IR ソフトバンク https://www.softbank.jp > ... > 個人投資家の皆さまへ",
+    "url": "https://www.softbank.jp/corp/ir/investor/about/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ企業一覧 | ソフトバンク グループ株式会社 — グループ企業一覧 | ソフトバンク グループ株式会社 ソフトバンクグループ株式会社 https://group.softbank > 企業情報",
+    "url": "https://group.softbank/about/group",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | 企業・IR | ソフトバンク — 事業 紹介 | 企業・IR | ソフトバンク ソフトバンク https://www.softbank.jp > 企業・IR > 企業情報",
+    "url": "https://www.softbank.jp/corp/aboutus/business/",
+    "pass": 3
+   },
+   {
+    "quote": "宮川 潤一 社長 からの メッセージ | キャリア採用 | ソフトバンク — 宮川 潤一 社長 からの メッセージ | キャリア採用 | ソフトバンク ソフトバンク https://www.softbank.jp > vision_message_president",
+    "url": "https://www.softbank.jp/recruit/career/company/vision_message_president/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク 株式会社 — ソフトバンク 株式会社 ソフトバンクグループ株式会社 https://group.softbank > dreams > softbank-corp",
+    "url": "https://group.softbank/philosophy/dreams/relationships-and-social-interactions/softbank-corp",
+    "pass": 3
+   },
+   {
+    "quote": "〈孫正義 ソフトバンク社長インタビュー 〉資金繰りの不安は ... — 〈孫正義 ソフトバンク社長インタビュー 〉資金繰りの不安は ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/557114?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク グループ・後藤芳光CFO インタビュー 未公開版 ... — ソフトバンク グループ・後藤芳光CFO インタビュー 未公開版 ... テレ東BIZ https://txbiz.tv-tokyo.co.jp > ... > 未公開 特別コンテンツ",
+    "url": "https://txbiz.tv-tokyo.co.jp/wbs/special/post_343776",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.softbank.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/biz/about/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/special/answer/action/sakimiru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/mobile/service/starlink-direct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/sbnews/archive/category/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/aboutus/governance/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/aboutus/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/voice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/iot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/5g/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/iot/rpa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/digital-marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/biz/about/ai/?utm_source=owned&utm_medium=banner&utm_campaign=_BIZ_4865",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/security/paas/?utm_source=owned&utm_medium=banner&utm_campaign=_BIZ_4848",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/content/blog/202610/copilot-ai-agent-use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/network/starlink-business/accessories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/mobile/lineup/smartphone/aquos-wish6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/biz/contact-us/support/smb/inquiry/?utm_source=owned&utm_medium=other&utm_campaign=_BIZ_4615",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/products/apple-autumn-2026/model-price-ipad.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/set/data/news/press/sbkk/2026/20260714_01/pdf/20260714_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softbank.jp/mobile/set/common/pdf/service/starlink-direct/terms.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/set/data/aboutus/profile/pdf/articles_of_incorporation.pdf?202410_1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softbank.jp/business/service/mobile/lineup/smartphone/aquos-wish6/pdf/cidna-aquos-wish6-band.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softbank.jp/biz/function/dynamicmedia/deliver/dm-aid--68d2b1e7-fe2b-436d-943c-b8742bb95cde/img-softbank-business-blog-230628.jpg?width=2000&quality=100&preferwebp=true",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_1bdd7aad067c91441ace075cf72cee4a3ebbcdf9f.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_1bea26244347cf49d3b476b3e46acaae110de2664.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_126ffcee9c1b683d0293a2746745bacc6c0191f64.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_1e4d9e6202af28ee8d494403afce98fe216893c0a.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_10d60154e641ed36765a702f0a17f10879ca50390.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_15a7a4e191390a4d9d7c9581047c5bb7b6994cefd.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softbank.jp/business/media_168eb77ad5652d69ce002e9a8ff8c3b25ba131ba6.png?width=750&format=png&optimize=medium",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://group.softbank/philosophy/strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.softbank/ir/presentations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.softbank/philosophy/dreams/relationships-and-social-interactions/softbank-corp",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソフトバンク",
+   "results": [
+    "https://www.softbank.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF",
+    "https://group.softbank/",
+    "https://www.softbankhawks.co.jp/",
+    "https://www.youtube.com/channel/UCcMKfz1n6L6erIlyyowlOOA",
+    "https://grokipedia.com/page/SoftBank_Matomete_Shiharai",
+    "https://ja.wikipedia.org/wiki/ソフトバンク",
+    "https://en.wikipedia.org/wiki/SoftBank_Group",
+    "https://www.softbank.jp/en/",
+    "https://group.softbank/en"
+   ]
+  },
+  {
+   "query": "ソフトバンク ビジネスモデル",
+   "results": [
+    "https://www.softbank.jp/corp/philosophy/strategy/",
+    "https://group.softbank/philosophy/strategy",
+    "https://ai.softbank/insights/003/",
+    "https://mindmeister.jp/posts/bm-softbank",
+    "https://www.softbank.jp/business/",
+    "https://note.com/strategies/n/n3eef9b22921a",
+    "https://www.softbank.jp/biz/about/ai/",
+    "https://vizologi.com/ja/business-strategy-canvas/softbank-group-business-model-canvas/",
+    "https://panding.info/business-model/softbank-group",
+    "https://group.softbank/ir/financials/annual_reports/2026"
+   ]
+  },
+  {
+   "query": "ソフトバンク 決算説明資料",
+   "results": [
+    "https://group.softbank/ir/presentations",
+    "https://www.softbank.jp/corp/ir/documents/",
+    "https://www.softbank.jp/corp/ir/documents/presentations/fy2026/",
+    "https://www.softbank.jp/corp/ir/documents/presentations/fy2025/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2026/20260511_02/",
+    "https://www.youtube.com/watch?v=e2SYROfztu0",
+    "https://www.softbank.jp/sbnews/entry/20260803_01",
+    "https://www.softbank.jp/corp/news/press/sbkk/2026/20260804_01/",
+    "https://www.softbank.jp/corp/ir/",
+    "https://www.softbank.jp/sbnews/entry/20260508_01"
+   ]
+  },
+  {
+   "query": "ソフトバンク 事業系統図",
+   "results": [
+    "https://www.softbank.jp/corp/aboutus/profile/",
+    "https://www.softbank.jp/corp/aboutus/",
+    "https://www.softbank.jp/corp/ir/investor/about/",
+    "https://group.softbank/about/group",
+    "https://www.softbank.jp/corp/aboutus/business/",
+    "https://www.softbank.jp/corp/ir/policy/risk_factor/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://www.softbank.jp/corp/aboutus/business/group/",
+    "https://ai.softbank/insights/003/",
+    "https://group.softbank/about/profile"
+   ]
+  },
+  {
+   "query": "ソフトバンク 社長 インタビュー",
+   "results": [
+    "https://www.softbank.jp/recruit/career/company/vision_message_president/",
+    "https://group.softbank/philosophy/dreams/relationships-and-social-interactions/softbank-corp",
+    "https://toyokeizai.net/articles/-/557114?display=b",
+    "https://www.youtube.com/watch?v=9L5Hk5PYjIg",
+    "https://txbiz.tv-tokyo.co.jp/wbs/special/post_343776",
+    "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B7%9D%E6%BD%A4%E4%B8%80",
+    "https://diamond.jp/articles/-/9358",
+    "https://business.nikkei.com/atcl/gen/19/00415/122700007/",
+    "https://www.softbank.jp/corp/aboutus/message/",
+    "https://www.softbank.jp/sbnews/entry/20210401_01"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）"
+ }
+}

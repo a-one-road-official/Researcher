@@ -1,0 +1,257 @@
+{
+ "name": "ソフトバンク第２回社債型種類株式",
+ "aliases": [],
+ "context": "証券コード94346／情報・通信業／プライム（内国株式）／2026.03期 売上高7,038,680百万円 営業利益率14.8%",
+ "researched_at": "2026-11-02T18:57:02.265380+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "何を": [
+   {
+    "quote": "災害支援・サービス提供状況",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "知りたいサービスを選んでください",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、今後AIを活用した次世代デジタルサービスが日常に溶け込み、人々の生活がより便利で豊かなものになると確信しており、その実現を目指しています",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、今後当社は、通信・IT技術の高度化に加えて、次世代社会インフラの構築に向け、AIのデータ処理や電力消費などを地理的に分散化・平準化できる「分散型AIデータセンター」、その分散型AIデータセンターを仮想的に一つのシステムであるかのように見なす「超分散コンピューティング基盤（xIPF：cross Integrated PlatForm）」、生成AI（文章、画像、プログラムコードなどのさまざまなコンテンツを生成することのできる人工知能）を用いたサービスの実現、再生可能エネルギーの開発・調達などに中長期的に取り組んでいきます",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "、キャッシュレス決済サービス「PayPay」の立ち上げなど、非通信領域に事業を拡大・成長させてきました",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、このプレスリリースに記載されている会社名および製品・サービス名は、各社の登録商標または商標です",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介 トップ",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年8月30日",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月10日には、当社が「デジタル化社会の発展に不可欠な次世代社会インフラを提供する企業になる」ことを長期ビジョンとして提唱し、2023年度から2025年度までの3年間でその実現に向けた事業基盤の再構築を目指す中期経営計画を発表しました",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月の上場以降、当社は成長戦略「Beyond Carrier」に基づき、ヤフー（株）の子会社化、Zホールディングス（株）とLINE（株）の経営統合によるLINE（株）の子会社化",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月1日付でZホールディングス（株）を存続会社とし、同社ならびにLINE（株）およびヤフー（株）を中心としたグループ内再編に関する手続きが完了しました",
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/news/nr/news20231101102990.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソフトバンク第2回社債型種類株式",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://finance.matsui.co.jp/stock/94346/chart/index",
+    "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?QCODE=94346&TEMPLATE=nomura_tp_kabu_01&MKTN=T",
+    "https://finance.yahoo.co.jp/quote/94346.T",
+    "https://finance.yahoo.co.jp/quote/94346.T/history"
+   ]
+  },
+  {
+   "query": "株式会社ソフトバンク第2回社債型種類株式",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?QCODE=94346&TEMPLATE=nomura_tp_kabu_01&MKTN=T",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240725_01/",
+    "https://finance.yahoo.co.jp/quote/94346.T",
+    "https://www2.jpx.co.jp/disc/94340/140120240830578778.pdf"
+   ]
+  },
+  {
+   "query": "ソフトバンク第2回社債型種類株式 株式会社",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240725_01/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://www.softbank.jp/corp/set/data/news/press/sbkk/2024/20240830_01/pdf/faq.pdf",
+    "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?QCODE=94346&TEMPLATE=nomura_tp_kabu_01&MKTN=T",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/94346_OutlinetJP.pdf",
+    "https://finance.yahoo.co.jp/quote/94346.T"
+   ]
+  },
+  {
+   "query": "ソフトバンク第２回社債型種類株式",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://finance.matsui.co.jp/stock/94346/chart/index",
+    "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?QCODE=94346&TEMPLATE=nomura_tp_kabu_01&MKTN=T",
+    "https://finance.yahoo.co.jp/quote/94346.T",
+    "https://www2.jpx.co.jp/disc/94340/140120240725554661.pdf"
+   ]
+  },
+  {
+   "query": "ソフトバンク第2回社債型種類株式 ビジネスモデル",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240725_01/",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?QCODE=94346&TEMPLATE=nomura_tp_kabu_01&MKTN=T",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "https://www.smartstocknotes.jp/2025/11/10/企業分析：ソフトバンク第2回社債型種類株式（94346-6/",
+    "https://www.softbank.jp/corp/set/data/news/press/sbkk/2024/20240830_01/pdf/faq.pdf"
+   ]
+  },
+  {
+   "query": "ソフトバンク第2回社債型種類株式 決算説明資料",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240725_01/",
+    "https://www.softbank.jp/corp/ir/faq/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://finance.matsui.co.jp/stock/94346/chart/index",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20240830578778/",
+    "https://www.softbank.jp/corp/set/data/news/press/sbkk/2024/20240830_01/pdf/explanation.pdf"
+   ]
+  },
+  {
+   "query": "ソフトバンク第2回社債型種類株式 事業系統図",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240725_01/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/",
+    "https://www.softbank.jp/corp/set/data/news/press/sbkk/2024/20240830_01/pdf/faq.pdf",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240913_01/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20240830578778/",
+    "https://www2.jpx.co.jp/disc/94340/140120240830578778.pdf"
+   ]
+  },
+  {
+   "query": "ソフトバンク第2回社債型種類株式 社長 インタビュー",
+   "results": [
+    "https://www.softbank.jp/corp/ir/stock/class-shares/",
+    "https://www.nomuraholdings.com/jp/news/nr/news20231101102990.html",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=ipo&dir=ipo&file=stock_ipo_classified_94346.html",
+    "https://f.irbank.net/pdf/E04426/etc/S100UB1L.pdf",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/intra&QCODE=94346&MKTN=T",
+    "https://www.youtube.com/watch?v=6q16QmV-Its",
+    "https://kabukiso.com/column/idiom/bond_type_class_shares.html",
+    "https://www.nikkan.co.jp/articles/view/691327",
+    "https://www.softbank.jp/corp/set/data/news/press/sbkk/2024/20240830_01/pdf/faq.pdf",
+    "https://www.softbank.jp/corp/news/press/sbkk/2024/20240830_01/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "誰に": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "お金の形": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "利益の源泉": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）"
+ }
+}

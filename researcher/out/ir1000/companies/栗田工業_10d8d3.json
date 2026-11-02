@@ -1,0 +1,1962 @@
+{
+ "name": "栗田工業",
+ "aliases": [],
+ "context": "証券コード6370／機械／プライム（内国株式）／2026.03期 売上高402,889百万円 営業利益率14.5%",
+ "researched_at": "2026-11-02T19:03:50.959428+00:00",
+ "official_url": "https://www.kurita-water.com/",
+ "identified_by": "search:ddgs:yahoo:株式会社栗田工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1949年7月13日",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年 7月13日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "8,268名（連結） 1,677名（単体）※2026年3月31日現在（非継続事業に係る従業員843名を含む）",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：8,268［1,082］人 単独：1,677［547］人 （2026年3月31日現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "総合 水処理",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：4,028億8,900万円 単独：1,574億2,200万円 （2026年3月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "-",
+    "url": "https://catr.jp/companies/03541/48748/subsidiaries",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "232億円",
+    "url": "https://catr.jp/companies/03541/48748/subsidiaries",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客親密性の向上と高い社会価値の創出により、持続可能な社会の実現に貢献する",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が求める水量・水質の超純水を安定的に供給するサービスを提供し、安定操業と生産性の向上に貢献します",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題解決を起点としたソリューションの創出・提供を通じて社会課題の解決に貢献する",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "今日では、多様な産業に対して顧客価値を起点としたソリューションの創出・提供を加速し、お客様の課題解決を通じた節水やGHG排出削減などの社会価値を生み出しています",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への導入事例をご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水の新たな価値の開拓者」として、さらなる社会・産業の持続的な発展への貢献に向け、お客様の課題解決を通じて社会価値を提供してきた基盤をもとに、社会価値を起点に新事業・新市場を創造していくことを目指しています",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、これまでに取り組んできた顧客課題の解決を起点とした「トランスフォーメーション」の実現と、新たな社会課題の解決を起点とする「イノベーション」の創出の二軸で、社会・産業への提供価値の拡大し、社会との共通価値を創造していきます",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への導入事例をご紹介します",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、クリタの事業は、お客様の事業成長を支えながら社会課題の解決にも貢献し、その結果としてクリタ自身も成長するという、「社会との共通価値」を創造するものであるべきだと私は考えています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会やお客様とともに歩み続けるためには、クリタは一人ひとりが良心に照らして正しいことを選択し、誠実に行動する人材の集団である必要があります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様をはじめとするステークホルダーの皆様に、多大なるご迷惑とご心配をおかけしていることを心よりお詫び申し上げます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や社会からの信頼なくして持続的な成長はありません",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタの事業は、主に製造業のお客様を中心にグローバルに展開しています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタはこれまで75年以上にわたり、お客様の工場内インフラの一翼を担い、安定操業を支えてきました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私が社長に就任してからの数年間だけを見ても、地政学リスクの高まり、生成AIの急速な普及、脱炭素社会への移行、水資源問題の深刻化など、お客様の経営課題は複雑で広範なものとなっています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題を含むお客様の挑戦に貢献していくためには、従来の事業領域に留まっていては不十分です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の生産現場やプロセスへの理解を深め、そこから得られる新たなデータ、知識、経験によって「Kurita Water Intelligence」を進化させ、新たな価値創造に繋げる",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "この循環を強化し、お客様や社会により高く新しい価値を提供することが、クリタの持続的な成長の原動力になると考えています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "ここには、価値は生み出せば良いというものではなく、お客様の現場で広く実装させ、社会やお客様にとってより高く、新しい価値として届けることがクリタの存在意義だという明確な意思があります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "このビジョンのもとで、世の中への貢献をいかに高め、顧客価値を最大化するか、そしてそれをどのように企業価値へと結び付けていくかを突き詰めて経営戦略に落とし込んだものがPSV-27計画です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたってお客様と向き合い育んできた、クリタの強みである「顧客親密性」と、新たな挑戦を通じて生み出す「高い社会価値」",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "この2つの競争優位性を軸に、お客様の現場に深く入り込み、クリタだからこそ提供できる価値を追求していく",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "これはリカーリングの性質からクリタの財務基盤の安定性を高めるのみならず、お客様の現場と常に繋がり、新たな価値を生み出す源泉となるからです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "排水処理・排水回収の領域は、製造プロセスの進化に加え、お客様や立地ごとに異なる要求への対応など、高度な技術と豊富な運転経験が求められる分野です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、装置受注を起点に、続くサービス事業を通じてお客様との長期的な関係を築きながら提供価値を拡大していく成長モデルであり、クリタにとっては市場変動に左右されない強固な財務・事業基盤にもなります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらを通じて、お客様の生産活動に不可欠なパートナーとして、持続的な成長を実現していきます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材不足や設備の老朽化、エネルギーコストの上昇、脱炭素、水資源の制約など、製造業のお客様が抱える課題は複雑化しています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "CSVビジネスは、節水やGHG排出削減などの社会価値を創出すると同時に、それらをお客様の水やエネルギーのコスト削減や生産性向上にも繋げることができるモデルです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、価値を最大化するために、単に水処理装置やユーティリティの安定操業を支えるだけでなく、生産プロセスそのものにも踏み込みながら、生産性向上や環境負荷低減など、お客様の企業活動のパフォーマンス向上に貢献しています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社設備だけでなく他社設備も対象に、設備の保守や点検という従来のメンテナンスを、運転の最適化や設備投資計画の策定まで支援することで、お客様のパフォーマンスを支えるモデルへと進化させています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように、本セグメントには、パフォーマンス・エンハンサーとしてお客様の課題解決に踏み込むことで得られる、大きな成長機会が広がっています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "水処理で培ってきた「Kurita Water Intelligence」を、規制強化や資源制約、安全・環境対応といった社会課題の解決へ展開し、その提供価値をお客様に評価いただける事業へ育てていきます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタの多様な事業、多様な顧客接点、地域ネットワークと組み合わせて、かたまり感のある新たな市場へと発展させていきます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、これまで東アジアが中心だった事業基盤を欧米にも拡大するとともに、超純水に加えて排水分野における強みも発揮することで、半導体売上上位企業であるグローバルアカウントを中心としたお客様からの受注を積み上げてきました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "PSV-27計画前半の3年間は、お客様との継続的な関係の構築に繋がる継続契約型サービス向けの設備投資や、DX（Digital Transformation）/AX（AI Transformation）を含むデジタル投資、欧州での電子産業向け事業の基盤獲得のためのM&Aや新規事業創出を目的とした資本提携などに資金を振り向けてきました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "対話の中で特に関心が寄せられるテーマは、半導体市場におけるお客様とのパイプラインの拡大状況、一般水処理セグメントの収益性向上のけん引役であるCSVビジネスの拡大戦略、PFAS除去・処理などの新規事業の創出状況、さらにはROE向上に向けた成長投資や資本政策の考え方など多岐にわたります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "PSV-27計画は、従来のクリタの強みである「顧客親密性」と長期的な成長に向けた新たな挑戦により創出する「高い社会価値」の2つの競争優位性を軸に、より高く、新しい価値を生み出す独自のソリューションをお客様や社会に提供し、企業価値の向上に繋げていくものです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社製・他社製を問わず、お客様の水処理装置の診断を起点に、水処理装置運転の最適化を図るとともに、継続的な接点を通じてお客様のメンテナンス計画や長期での設備投資計画の策定などを提供する長期循環型のビジネスモデル",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や社会に対して、独創的かつ高価値なソリューションを継続的に提供するためには、既存のビジネスモデルの刷新と、競争優位性のある新たなモデルの創出が不可欠です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "より高く、新しい価値を生み出す独自のソリューションを創出し、お客様や社会に提供していくためには、様々なバックグラウンドを持つ人々の専門性や経験等の多様性を掛け合わせることが必要不可欠です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "：水処理という非常にニッチな事業領域で、多様な顧客との接点を大切にしながら課題解決をお手伝いしてきました",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "1949年の創業以来、顧客の現場を通じて「水に関する知」を蓄積しています",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "アジアだけでなく欧米にも拠点を持ってお客様にお役立ちできれば、業績変動の波を抑えられます",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のプロダクトミックスも半導体メモリーばかりではいけない",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報が流出し、築き上げた信頼が揺らぐなど、企業の存続を左右する経…",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "栗田工業｜水処理装置・超純水製造・ソリューション総合サイト",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クリタ分析センターにおける分析サービスの不適切事案に係る調査結果および今後の対応について（第二報） (PDF: 184KB)",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループ会社が利用するWEBサービスへの不正アクセスにともなう情報流出の可能性について",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "課題・用途別に栗田工業のソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別を見る",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、多様な現場接点から得られた「水に関する知」を駆使したソリューションの創出・提供を通じて、日常の生活から工場でのモノづくりや社会インフラの下支え、そして宇宙インフラの持続的な構築に至るまで、あらゆるシーンでクリタの水処理が活かされています",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会の実現に向け、社会・産業の課題を解決するためのクリタのアプローチとソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水に関する知」を駆使したソリューションの提供により、水量・水質などの側面から水資源の問題解決に取り組んでいます",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタのソリューション",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "多様な産業｜再生水供給サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "再生水供給サービス｜KCRセンター",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "水回収ソリューション｜YouTube",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "水処理薬品｜サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "脱炭素社会実現への貢献に向けて、産業・社会におけるGHGの排出削減に寄与するソリューションの開発・提供に取り組んでいます",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子産業｜「AI最適運転」ソリューション",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "土壌・地下水浄化｜サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "土壌の掘削を伴わずにVOCs汚染土壌を浄化する新技術「パワーバイオE-PLUS™」を開発｜サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "多様な産業｜膜のオフサイト洗浄・再生サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタは、多様な産業での用水、製造・生産プロセス、排水等におけるソリューションの創出・提供を通じて、生産性および製品品質の維持・向上に貢献するとともに、産業の発展に伴う社会課題の解決に取り組んでいます",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子産業｜超純水供給サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が求める水量・水質の超純水を安定的に供給するサービスを提供し、安定操業と生産性の向上に貢献します",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "超純水供給｜サービス",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼産業｜原料改質ソリューション",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタは多様な産業に多くの現場接点をもち、この現場接点から得られた課題や情報を集約、蓄積することで形づくられる「水に関する知」の活用により、社会と産業を変えるソリューションを創出・提供し、持続的な社会の実現を目指しています",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題解決を起点としたソリューションの創出・提供を通じて社会課題の解決に貢献する",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "今日では、多様な産業に対して顧客価値を起点としたソリューションの創出・提供を加速し、お客様の課題解決を通じた節水やGHG排出削減などの社会価値を生み出しています",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別のソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別 Index",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション技術",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "メンテナンス・サービス事業を開始",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "関西栗田整備社（旧栗田テクニカルサービス社の前身）設立",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "栗田総合サービス社設立",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "韓水テクニカルサービス社設立",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "栗田工業と栗田テクニカルサービス社合併",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "韓水テクニカルサービス社に資本参加",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ランドソリューション社設立",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "新たなサービス事業となる超純水供給事業をシンガポールの液晶パネルメーカーで開始",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "２０２７年国際園芸博覧会（GREEN×EXPO 2027）にブロンズパートナーとして協賛",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クリタについて、理念、トップメッセージ、会社情報、沿革、拠点情報、デジタル、調達、ポリシー＆規約をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クリタグループの理念体系（企業理念、ビジョン、大切にする価値観、価値創造ストーリー）と、行動指針をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DX戦略、取り組み等をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "課題・用途別に栗田工業のソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "超純水・純水・軟水・排水処理まで、用途に応じた装置をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・食品・医薬品など、産業ごとの課題と解決策をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "歩留まり改善・節水・環境負荷低減などの実績をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会の実現を目指すクリタの想いや社会・産業との関わりなどをご紹介します",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会の実現を目指すクリタの想いをご紹介します",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタの特徴を数字やキーワードでご紹介します",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水と環境」を事業領域としているクリタと社会・産業の関わりをご紹介します",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "水の新たな価値の開拓者を目指す、社会との共通価値を創造するための道筋をご紹介します",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水と環境」を事業領域としているクリタと社会・産業の関わりをご紹介します",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会の実現に向け、社会・産業の課題を解決するためのクリタのアプローチとソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタの特徴を数字やキーワードでご紹介します",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "水の新たな価値の開拓者を目指す、社会との共通価値を創造するための道筋をご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタグループのこれまでの歩みをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水と環境」を事業領域としているクリタと社会・産業の関わりをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別のソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への導入事例をご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "DX戦略、取り組み等を紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "イノベーションを創出する研究開発拠点や取り組み等をご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要をご紹介します",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリタグループのこれまでの歩みをご紹介します",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/policy/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/policy/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンクをご紹介します",
+    "url": "https://www.kurita-water.com/policy/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介｜栗田工業｜クリタグループ",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 Index",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 Index",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別、産業別、導入事例、イノベーションをご紹介します",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスをご紹介します",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別のソリューションをご紹介します",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への導入事例をご紹介します",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "イノベーションを創出する研究開発拠点や取り組み等をご紹介します",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/about/story.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/policy/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/industries/iron-steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/manage-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたってお客様と向き合い育んできた、クリタの強みである「顧客親密性」と、新たな挑戦を通じて生み出す「高い社会価値」",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "この2つの競争優位性を軸に、お客様の現場に深く入り込み、クリタだからこそ提供できる価値を追求していく",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、最先端半導体研究機関であるimecに水処理企業として唯一参画していることから得られる最新の製造プロセスへの理解に加え、長年にわたり一般水処理も含む幅広い分野で培ってきたノウハウや知見を活用し、この領域で高い競争優位性を築いてきました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に厳しい基準値が設けられている米国市場の強化とグローバルな競争優位の確立を目的に、PFAS除去に高い優位性を有する吸着材技術を強みとするCyclopure社への出資も2026年4月に決定しました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業を中心とする安定的なキャッシュ創出力と強固な財務基盤は、クリタの持続的な成長を支える大きな強みです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFOとして、この強みをいかに企業価値向上へ結び付けていくかが、私の重要な使命であると考えています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、これまで東アジアが中心だった事業基盤を欧米にも拡大するとともに、超純水に加えて排水分野における強みも発揮することで、半導体売上上位企業であるグローバルアカウントを中心としたお客様からの受注を積み上げてきました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、電子セグメントにおけるフロー＆ストックビジネスや継続契約型サービスの拡大、一般水処理セグメントにおけるCSVビジネス拡大に向けた地域基盤の拡充や特長的な技術の獲得、また、新規事業の創出・育成など、クリタの競争優位性をさらに高める領域へ重点的に資本を配分していきます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に当社の強みは単一事業ではなく、複数の事業が相互に連携することで生まれる価値にあるため、その全体像を適切にお伝えしていく必要があります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "PSV-27計画は、従来のクリタの強みである「顧客親密性」と長期的な成長に向けた新たな挑戦により創出する「高い社会価値」の2つの競争優位性を軸に、より高く、新しい価値を生み出す独自のソリューションをお客様や社会に提供し、企業価値の向上に繋げていくものです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "競争優位性の確立",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や社会に対して、独創的かつ高価値なソリューションを継続的に提供するためには、既存のビジネスモデルの刷新と、競争優位性のある新たなモデルの創出が不可欠です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/annual-report.html",
+    "pass": 1
+   },
+   {
+    "quote": "03 競争優位性確立に向けた取り組み",
+    "url": "https://www.kurita-water.com/ir/library/annual-report.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/shareholders-report.html",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/library/download/",
+    "pass": 1
+   },
+   {
+    "quote": "共通価値の創造を支えるクリタグループの強み",
+    "url": "https://www.kurita-water.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "これを駆使してソリューションを提供できるのが強みです",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率約50％を誇り、国内製薬トップ級の時価総額に上り詰めた中外製薬",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月5日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年卒対象「クリタ秋季仕事体験イベント：技術営業職編」開催のお知らせ",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月2日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クリタについて、理念、トップメッセージ、会社情報、沿革、拠点情報、デジタル、調達、ポリシー＆規約をご紹介します",
+    "url": "https://www.kurita-water.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期連結売上高",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月時点",
+    "url": "https://www.kurita-water.com/about/known.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年7月13日",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月25日 国土交通大臣許可（特ー7）第4647号",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月15日 東京都知事登録 第12176号",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年2月28日 東京都知事届出第065505号",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月16日 東京都知事許可24 環改保高6158号",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年1月24日 愛知県知事許可14 産技第56-29号",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年2月14日 届出番号A-01-355",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月1日 福井県知事許可番号 01820220569",
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜栗田工業｜クリタグループ",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代前後",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.kurita-water.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.kurita-water.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.kurita-water.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.kurita-water.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.kurita-water.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期のCSVビジネスの売上高は、585億円と継続的に拡大しており、本セグメントの収益性の着実な成長に寄与しています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期以降、取締役会で長期的成長のための方向付けを議論しました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月よりCFOに就任しました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月にスタートしたPSV-27計画も、今期で4年目となりました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年に実施したクリタック社およびPentagon Technologies Group社の株式譲渡についても、それぞれの事業の持続的な成長と価値向上に繋がると判断し決定したものです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月、コーポレートガバナンスの一層の強化を図るため、指名委員会等設置会社へ移行しました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期通期決算説明会資料",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算短信〔IFRS〕（連結） (PDF: 6.09MB)",
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.kurita-water.com/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.kurita-water.com/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.kurita-water.com/ir/library/presentation/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "これはリカーリングの性質からクリタの財務基盤の安定性を高めるのみならず、お客様の現場と常に繋がり、新たな価値を生み出す源泉となるからです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "勝ち筋1 電子：フロー＆ストックモデルが支える持続的成長",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして成長において重視しているのが、これらをフロー＆ストックモデルとして獲得することです",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社設備だけでなく他社設備も対象に、設備の保守や点検という従来のメンテナンスを、運転の最適化や設備投資計画の策定まで支援することで、お客様のパフォーマンスを支えるモデルへと進化させています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、電子セグメントにおけるフロー＆ストックビジネスや継続契約型サービスの拡大、一般水処理セグメントにおけるCSVビジネス拡大に向けた地域基盤の拡充や特長的な技術の獲得、また、新規事業の創出・育成など、クリタの競争優位性をさらに高める領域へ重点的に資本を配分していきます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "フロー&ストック",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "このフローとストックの両面で、変化の激しい市場における安定的な基盤の強化を図ります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "装置案件（フロー）を起点にメンテナンスや薬品などのサービス事業（ストック）を獲得すること",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【締切迫る！】秋の年額2カ月増量キャンペーン実施中",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "年額プランなら12カ月分の料金で",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "日経ビジネス、今なら2カ月分が実質無料！ 年額プランがお得に",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "電子セグメントの成長を語る際、多くの方はまず半導体市場そのものの成長に注目されます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般水処理セグメントは電子以外のすべての産業を対象にしており、一般的に安定した成熟市場というイメージを持たれることがあります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期のCSVビジネスの売上高は、585億円と継続的に拡大しており、本セグメントの収益性の着実な成長に寄与しています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように、本セグメントには、パフォーマンス・エンハンサーとしてお客様の課題解決に踏み込むことで得られる、大きな成長機会が広がっています",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした受注拡大を背景に、電子セグメントでの装置を中心とした売上拡大に加えて、一般水処理セグメントでも各事業が伸長したことにより、増収となりました",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、電子セグメントにおけるフロー＆ストックビジネスや継続契約型サービスの拡大、一般水処理セグメントにおけるCSVビジネス拡大に向けた地域基盤の拡充や特長的な技術の獲得、また、新規事業の創出・育成など、クリタの競争優位性をさらに高める領域へ重点的に資本を配分していきます",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "対話の中で特に関心が寄せられるテーマは、半導体市場におけるお客様とのパイプラインの拡大状況、一般水処理セグメントの収益性向上のけん引役であるCSVビジネスの拡大戦略、PFAS除去・処理などの新規事業の創出状況、さらにはROE向上に向けた成長投資や資本政策の考え方など多岐にわたります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子セグメント向け事業戦略",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般水処理セグメント向け事業戦略",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子産業以外のすべての産業が対象とする本セグメントでは、CSVビジネス",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスフィールドとソリューション／電子セグメント／一般水処理セグメント",
+    "url": "https://www.kurita-water.com/ir/library/annual-report.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "従来と比較して節水、GHG排出削減、廃棄物の資源化または資源投入量の削減に大きく貢献する製品、技術、ビジネスモデル",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社製・他社製を問わず、お客様の水処理装置の診断を起点に、水処理装置運転の最適化を図るとともに、継続的な接点を通じてお客様のメンテナンス計画や長期での設備投資計画の策定などを提供する長期循環型のビジネスモデル",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や社会に対して、独創的かつ高価値なソリューションを継続的に提供するためには、既存のビジネスモデルの刷新と、競争優位性のある新たなモデルの創出が不可欠です",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "これに加え、自走によるオーガニック成長も重視し、成長性や収益性に課題がある事業については、構造改革やビジネスモデルの変革を通じて改善を図ります",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "栗田工業 - Wikipedia — 栗田工業 ... 栗田工業株式会社 （くりたこうぎょう、 英: Kurita Water Industries Ltd.）は、 東京都 中野区 中野 に本社を置く、 半導体 や 液晶 などの製造に欠かせない 超純水 を製造する 水処理 装置 ・水処理 薬品 の製造・開発を行なう企業である [3]。",
+    "url": "https://ja.wikipedia.org/wiki/栗田工業",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜栗田工業｜クリタグループ — 自社製・他社製を問わず、お客様の水処理装置の診断を起点に、水処理装置運転の最適化を図るとともに、継続的な接点を通じてお客様のメンテナンス計画や長期での設備投資計画の策定などを提供する長期循環型のビジネスモデル",
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業の成長戦略とビジネスモデルを探る | チームマイクの企業分析 — Jan 16, 2026 · 水問題は地球規模の課題でもあるため、グローバルに見ても同社の強みが活かせる領域は広がっていくでしょう。 ビジネスモデルの進化やサービスの充実によって、より多くの顧客を取り込みながら持続的な成長を実現することが期待されています。",
+    "url": "https://consovation.com/栗田工業の成長戦略とビジネスモデルを探る/",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業株式会社 - 戦略、SWOTおよび企業財務レポート — 概要 栗田工業 - 戦略、SWOTおよび企業財務レポートは、包括的な企業データと情報の源です。 本レポートでは、栗田工業の企業構造、事業内容、SWOT分析、製品・サービス、コーポレートアクションを網羅し、360°の視点から企業情報を提供しています。",
+    "url": "https://www.dri.co.jp/auto/report/marketline/231030-kurita-water-industries-ltd-strategy-swot.html",
+    "pass": 3
+   },
+   {
+    "quote": "【栗田工業】「水処理装置を売る会社」からの転換――栗田工業の総合水... — Aug 1, 2026 · まとめ 栗田工業の本質は、水処理装置を単発で販売することではありません。 大型設備を納入し、その後の薬品、メンテナンス、設備運転、水供給を継続的に担うことで、顧客との関係を長期化することが収益構造の中心です。",
+    "url": "https://note.com/bright_bee861/n/ndb8435fd8ddd",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業（6370）のIR情報・決算資料 - IRBANK — Aug 6, 2026 · 栗田工業（6370）のIR情報・決算資料 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 1 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 2026/10/29",
+    "url": "https://irbank.net/6370/ir",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業のIR資料 - 6370 / プライム / 機械 | バフェット・コード — 栗田工業（6370 / プライム / 機械）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/6370/library",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業株式会社 — 決算説明資料 - EDINET DB — EDINET DB > 企業一覧 > 栗田工業株式会社 > IR資料 > 決算説明資料 栗田工業株式会社 — 決算説明資料 四半期決算の説明資料。 経営者による業績解説と短期見通し。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認ください。",
+    "url": "https://edinetdb.jp/company/E01573/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料室｜栗田工業｜クリタグループ — 決算発表や各種IRイベントに関する資料をご覧いただけます。 決算短信 四半期ごとの決算短信をご覧いただけます。 説明会資料 決算説明会や各種説明会で使用した資料をご覧いただけます。 適時開示資料 過去に発表した適時開示資料をご覧いただけます。",
+    "url": "https://www.kurita-water.com/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "説明会資料｜栗田工業｜クリタグループ — Aug 6, 2026 · 説明会資料 2027年3月期 第1四半期決算 2026年08月06日 2027年3月期第1四半期 決算説明会資料 (PDF: 1.34MB) 2026年08月07日 2027年3月期第1四半期 決算説明会資料（スクリプト付） (PDF: 1.50MB) 2026年08月06日 2027年3月期第1四半期 決算補足資料 (PDF: 1.14MB)",
+    "url": "https://www.kurita-water.com/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業 - Wikipedia — 1949年（昭和24年）に海軍機関少尉や引揚船・ 千歳丸 の機関長を務めた栗田春生が 神戸市 で設立した [4][5]。 社名の「栗田」は創業者・ 栗田春生 の苗字からとられているが、一代限りであり、現在創業者一族との関係はない。",
+    "url": "https://ja.wikipedia.org/wiki/栗田工業",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業株式会社の子会社・関連会社一覧 | 官報決算データベース — 栗田工業株式会社の子会社・関連会社・グループ会社29社の一覧です。 EDINET、TDnet、公式サイト、IR情報、プレスリリース等を調査し、住所、公式URL、決算数値を整理しています。",
+    "url": "https://catr.jp/companies/03541/48748/subsidiaries",
+    "pass": 3
+   },
+   {
+    "quote": "超純水装置一覧 | 【栗田工業】製品・サービスサイト-KCRセンター — 栗田工業が長年培ってきた水処理の技術をベースに、純水を作り上げる純水装置・ろ過装置・排水装置など規格型の水処理装置やボイラ水処理・冷却水処理・排水処理などで使用する水処理薬品を幅広くご紹介しております。",
+    "url": "https://kcr.kurita.co.jp/products/equipment/ultrapure-water",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜栗田工業｜クリタグループ — 会社概要、役員、組織、アクセスマップをご紹介します。 会社概要 会社概要をご紹介します。 取締役・執行役・執行職 役員情報をご紹介します。 組織図 組織編成をご紹介します。 アクセスマップ 本社、研究開発拠点へのアクセス情報をご案内します。",
+    "url": "https://www.kurita-water.com/company/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜栗田工業｜クリタグループ — 組織図｜組織をご紹介します。",
+    "url": "https://www.kurita-water.com/company/profile/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／栗田工業社長・江尻裕彦氏 課題解決と利益を両立 — Mar 12, 2025 · インタビュー／栗田工業社長・江尻裕彦氏 課題解決と利益を両立 (25/03/12) ENEOS Xplora、カナダ探鉱に出資 環境型ヘリウムを供給 (25/03/12)",
+    "url": "https://www.nikkan.co.jp/articles/view/00742626",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業の江尻社長「新事業、紙おむつ再生から宇宙での水処理まで」... — Sep 20, 2024 · 栗田工業は創業以来、「水に関する知」を蓄積。 さらに新規事業として宇宙向けの水処理システムなどを開発。 「今までの延長線上では物足りない」と語る江尻裕彦に今後の展望を聞いた。",
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "pass": 3
+   },
+   {
+    "quote": "取締役・執行役の略歴等｜栗田工業｜クリタグループ — 2011年04月 栗田工業（株）ケミカル事業本部第二部門コンビナート営業部長 2013年06月 ケミカル事業本部事業管理部長 2014年04月 執行役員就任 2014年06月 ケミカル事業本部営業第一部門長 2016年04月 経営企画室長 2016年06月 取締役就任（現任）",
+    "url": "https://www.kurita-water.com/ir/cg/directors-and-officers.html",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業の歴代社長 - the-shashi.com — 2 days ago · 創業 1949年7月、 栗田春生 氏が神戸で資本金30万円の栗田工業を設立し、ボイラの水あかを防ぐ清缶剤から事業を起こした。 海軍機関学校の出身で、海軍の技術将校を集めた会社だったと当時の記事にある。",
+    "url": "https://the-shashi.com/tse/6370/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ｜栗田工業｜クリタグループ — 私が社長に就任してからの数年間だけを見ても、地政学リスクの高まり、生成AIの急速な普及、脱炭素社会への移行、水資源問題の深刻化など、お客様の経営課題は複雑で広範なものとなっています。",
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kurita-water.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/about/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/about/story.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/about/relation.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/about/known.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/about/road-map.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/company/profile/outline.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/company/history.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/business.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/industries/iron-steel.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/manage-policy.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/manage-policy/cfo-message.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/results/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/presentation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/disclosure/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/annual-report.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/financial-report/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/shareholders-report.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/library/download/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/calendar/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kurita-water.com/content/uploads/jp/news/docs/KWI20261029_NewsRelease_jp.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/content/uploads/jp/ir/docs/KWI20261029_Disclosure_jp.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/content/uploads/jp/ir/docs/KWI20261002_Disclosure_jp.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/content/uploads/jp/ir/docs/KWI20261001_Disclosure_jp.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/manage-policy/assets/pdf/presentation_230511_03.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/ir/manage-policy/assets/pdf/presentation_260514_01.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/content/uploads/jp/ir/docs/KWI20260806_FinancialResults_jp.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/content/uploads/jp/ir/docs/KWI20260806_FinancialPresentation_jp.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_01.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_02.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_03.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_04.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_05.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_06.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_07.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kurita-water.com/policy/business/assets/images/business_policy_08.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/6370/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/6370/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/03541/48748/subsidiaries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/00742626",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "栗田工業",
+   "results": []
+  },
+  {
+   "query": "株式会社栗田工業",
+   "results": [
+    "https://ja.wikipedia.org/wiki/株式会社宮本工業所_(富山市)",
+    "https://ja.wikipedia.org/wiki/栗田工業",
+    "https://www.kurita-water.com/",
+    "https://www.kurita-water.com/company/profile/outline.html",
+    "http://kurita-kogyo.co.jp/",
+    "https://kurita-kogyo.co.jp/about/",
+    "https://www.kurita-kk.co.jp/",
+    "https://kurita-kougyou.co.jp/company/"
+   ]
+  },
+  {
+   "query": "栗田工業 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/栗田工業",
+    "https://www.kurita-water.com/ir/manage-policy/plan.html",
+    "https://consovation.com/栗田工業の成長戦略とビジネスモデルを探る/",
+    "https://www.dri.co.jp/auto/report/marketline/231030-kurita-water-industries-ltd-strategy-swot.html",
+    "https://note.com/bright_bee861/n/ndb8435fd8ddd",
+    "https://note.com/fisco_jp/n/n5bfdf8a6fb2a",
+    "https://www.kurita-water.com/assets/files/pdf/presentation_230511_03.pdf"
+   ]
+  },
+  {
+   "query": "栗田工業 決算説明資料",
+   "results": [
+    "https://irbank.net/6370/ir",
+    "https://www.buffett-code.com/company/6370/library",
+    "https://edinetdb.jp/company/E01573/presentations/",
+    "https://www.kurita-water.com/ir/library/index.html",
+    "https://www.kurita-water.com/ir/library/presentation/",
+    "https://en.news.kurita-water.com/ir/library/download/",
+    "https://en.news.kurita-water.com/ir/library/presentation/fy03-2026/"
+   ]
+  },
+  {
+   "query": "栗田工業 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/栗田工業",
+    "https://catr.jp/companies/03541/48748/subsidiaries",
+    "https://kcr.kurita.co.jp/products/equipment/ultrapure-water",
+    "https://www.kurita-water.com/company/profile/index.html",
+    "https://www.kurita-water.com/company/profile/organization.html",
+    "https://www.kurita-kk.co.jp/product/",
+    "https://kwk.kurita.co.jp/組織図231121/"
+   ]
+  },
+  {
+   "query": "栗田工業 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/00742626",
+    "https://business.nikkei.com/atcl/gen/19/00155/091800195/",
+    "https://www.kurita-water.com/ir/cg/directors-and-officers.html",
+    "https://the-shashi.com/tse/6370/ceo/",
+    "https://www.kurita-water.com/ir/manage-policy/message.html",
+    "https://www.nikkan.co.jp/articles/view/00775680",
+    "https://chemicaldaily.com/archives/778252"
+   ]
+  }
+ ],
+ "missing": {}
+}

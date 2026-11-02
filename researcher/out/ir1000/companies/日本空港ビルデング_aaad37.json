@@ -1,0 +1,1342 @@
+{
+ "name": "日本空港ビルデング",
+ "aliases": [],
+ "context": "証券コード9706／不動産業／プライム（内国株式）／2026.03期 売上高289,821百万円 営業利益率15.5%",
+ "researched_at": "2026-11-02T18:52:15.385347+00:00",
+ "official_url": "https://www.tokyo-airport-bldg.co.jp/",
+ "identified_by": "search:yahoo_jp:日本空港ビルデング",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1953年（昭和28年）7月20日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "326名 （2026年3月31日現在）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【東京国際空港（羽田）における事業】 国内線旅客ターミナルビル等の建設・管理運営 航空会社および空港構内営業者等に対する事務室、店舗等の賃貸および駐車場の管理運営 物品販売（国内線売店および国際線（ロビー売店等）売店） 案内業務、貸ホール・貸会議室、旅行傷害保険代理業、ホテルあっせん、海外・国内旅行の販売、各種乗車券の販売、各種催事チケットの販売、羽田空港船着場の管理運営等 国際線旅客ターミナルビルにおける業務受託（施設維持管理、免税店運営、旅客サービス等） 【成田国際空港、関西国際空港および中部国際空港等における事業】 物品販売（免税売店等）、販売業務受託（免税売店等）、免税品の卸売等 【海外における事業】 中国国内空港における卸売事業",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "羽田空港の国内線旅客ターミナルビル等の建設、管理・運営、国際線旅客ターミナルビル",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "通貨処理機・セルフサービス機器の開発・製造・販売・保守、電子決済サービス、生体認",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   }
+  ],
+  "売上高": [
+   {
+    "label": "営業収益（百万円）",
+    "value": "57,057 113,050 217,578 269,923 289,823",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "367.92億円（前期比+18.2%）",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   },
+   {
+    "label": "売上高（営業収益）",
+    "value": "2,898.23億円（前期比+7.4%、",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund」 2026年11月1日より運用開始",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第５項に基づく公表文）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "質の高いサービスを、国内外の各空港へ展開しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "質の高いサービスを、",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国際線旅客ターミナルビルにおける業務受託（施設維持管理、免税店運営、旅客サービス等）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたち日本空港ビルグループは、この銘文をCS理念とし、羽田空港をご利用されるすべてのお客さまにご満足いただけるよう、サービス向上に取り組んでいます",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たち日本空港ビルグループは、徹底したセキュリティシステムを整え、万全の体制でお客さまをお迎えし、すべてのお客さまに満足を超えた感動のサービスの提供を目指します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、日本の空の玄関口として、お客さま本位（利便性・快適性・機能性）の旅客ターミナル運営に努め、デジタル技術も積極的に活用しながら継続的にサービスやオペレーションの改善に取り組み、最高のおもてなしを提供します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "羽田旅客サービス株式会社",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "旅客サービス業務運営",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品の運送、配送、検品",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "家電製品の販売業務",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港で培ったノウハウを活かし、質の高いサービスを、国内外の各空港へ展開しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/description_of_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共性の高い旅客ターミナルの運営会社として、絶対安全を確立するとともに、サービスレベルの向上を目指します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/work/",
+    "pass": 1
+   },
+   {
+    "quote": "個室スペース、ペットホテル、電気自動車用の充電スタンドなどを設置し、サービスの向上に努めています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/work/",
+    "pass": 1
+   },
+   {
+    "quote": "旅客サービス",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食サービス（直営）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "施設維持管理、免税店運営、旅客サービス",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食サービス",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第５項に基づく公表文）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第５項に基づく公表文）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/IR_news_release/",
+    "pass": 1
+   },
+   {
+    "quote": "公共性の高い旅客ターミナル運営会社として、「絶対安全の確立」と「顧客第一主義」を徹底しさらなるサービス向上を図るとともに、より魅力のある羽田空港の発展に貢献していきます",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "CSサービス基本方針",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "航空サービスリサーチ「SKYTRAX」における受賞歴を掲載しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund」 2026年11月1日より運用開始",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "施設・サービス案内",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "エシカル商品フェア1回/年、",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "出店店舗と主な商品 ※出店店舗は予告なく変更となる場合があります",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JALと農協観光が協力してJALオリジナル商品や地域産品を販売いたします",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しており、第 1・第 2 ターミナルでそれぞれリラクゼーションサービスをご利用いただけます",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017873.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "をはじめ、オリジナルデザインの巾着やポーチに入ったお菓子など、見た目にも楽しい商品を取り揃えま",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017870.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund」",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リー」）は、共同開発した訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund 」を、",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本サービスは、2026 年 11 月から導入されるリファンド方式の消費税免税制度に対応し、訪日外国人",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "消費税の還付を現金で受けられるサービスです",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るなか、従来の免税制度では購入時に消費税が免除されるため、商品を国外へ持ち出さずに国内で転",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 11 月から導入される「リファンド方式」では、訪日外国人旅行者等が商品購入時に一時的に",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような制度変更を踏まえ、本サービスでは空港内に消費税セルフ還付端末を設置することで、訪",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■実証実験・調査結果を踏まえたサービス開発",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究開発拠点 「terminal.0 HANEDA」 にて在日外国人を対象に消費税還付サービスの実証実験を行い、",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、2026 年 11 月より消費税セルフ還付サービスを開始します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■消費税セルフ還付サービスの特長",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "消費税セルフ還付サービス「Self Tax Refund」の詳細はこちら（グローリー株式会社）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業内容： 通貨処理機・セルフサービス機器の開発・製造・販売・保守、電子決済サービス、生体認",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "証ソリューション等の提供",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店頭で一時的に税込価格で商品をご購入後、90 日以内に出国時の空港等に設置され",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（サービス詳細）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4セグメント体制：①空港内不動産事業（格納庫、整備工場、航空貨物ターミナル施設、オフィスビル、物流施設の賃貸・管理）、②空港外不動産事業（事務所ビル等の取得・賃貸・売却、ノンアセット事業含む）、③空港内インフラ事業（熱供給・給排水運営・共用通信サービス）、④その他の事業（太陽光発電等）",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "エアコンの設置が難しい場所の室温を下げたり、エアコンの効きをよくして電気代を抑えられるとして、空港内で実証実験後に販売代理店として他空港や観光施設、工場などに販売を行っています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本空港ビルデング（株）と日本空港ビルグループ各社の採用情報を紹介します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの基本理念とCS理念、経営方針、サステナビリティ基本方針、行動規範をご紹介します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "日本空港ビルデングの役員のご紹介です",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港とともに歩んだ日本空港ビルデングの歴史をご紹介します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "日本空港ビルデングの沿革をご紹介します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "航空会社および空港構内営業者等に対する事務室、店舗等の賃貸および駐車場の管理運営",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、航空会社、テナント、協力会社をはじめとするパートナー及び国と一体となって安全・安心な空港づくりやオープン・イノベーションを推進し、相互の発展を目指します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、周辺地域とのパートナーシップにより首都圏の発展に貢献するだけでなく、航空ネットワークの中心として全国の空港とも連携して国内の空の移動を活性化させ、日本全体の地域社会との共存共栄を図ります",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告代理店業、イベント企画および運営",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗運営業務",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "物販店舗の運営（業務受託を含む）、卸売",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店舗の運営、機内食の製造・販売",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "空港内店舗での卸売により運営に貢献",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "航空運送事業者および空港構内営業者に対する事務室、店舗などの賃貸を行っています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/work/",
+    "pass": 1
+   },
+   {
+    "quote": "（航空会社および空港内構内事業者に対する事務室店舗など）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "国際線ターミナルでは「東京国際空港ターミナル株式会社（TIAT)」からの業務委託を受け、施設維持管理や店舗運営などを行うほか、物品販売業・飲食業も展開しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "名称ボタンをクリックすると、各施設の紹介が表示されます",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "東京国際空港における環境パートナーシップ規程",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループがさまざまな事業を通じてどのように社会課題の解決に貢献し、持続的に企業価値を向上していくのかについて記載するとともに、長期ビジョン「To Be a World Best Airport」や2030年の目指す姿である「人にも環境にもやさしい先進的空港」の実現に向けた取り組みを紹介しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の食品安全管理、防災保安活動",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "(お客さま・パートナー・従業員)",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "データの活用やパートナーとの共創によって運営効率を上げるとともに、お客さまの利便向上を図ることは、国際線利用者の増加への対応や国内航空利用者数の維持、利用者の満足度の向上につながり、当社グループの持続的な事業運営にとっても重要な課題であると認識しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "(地域社会・パートナー)",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "多くのお客さまにご利用いただく羽田空港という場を最大限に活用し地域の魅力を発信することや、パートナーとの共創により、地域との交流創出、邦人及び訪日外国人の国内航空移動需要を創出することは、当社グループの事業を継続する上の重要な課題であると認識しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "(地球環境・パートナー)",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "(お客さま・パートナー・従業員",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介！見て、乗って、次世代の乗りものを体験しよう！",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「相撲の魅力を気軽に楽しもう！」ルールや技の紹介、迫力満点の取組、お",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地元大田区の店舗と連携し、本イベント限定で屋台を設置します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日時：11/6(金)・7(土)・8(日) ※開催時間は店舗により異なります",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出店店舗と主な商品 ※出店店舗は予告なく変更となる場合があります",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業主 体：東日本旅客鉄道株式会社、東京モノレール株式会社、野村不動産パートナーズ株式会社、",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【店舗情報】",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017870.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "空飛 ぶクルマの特徴や東京都の取組紹介 のほか、 空飛 ぶクルマの模型展示 や音の体験、 ペーパークラフ",
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/news_release/000017845.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・空飛 ぶクルマの特徴や都の取り組み紹介",
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/news_release/000017845.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・空飛 ぶクルマの安全性を支える仕組みを紹介",
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/news_release/000017845.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・空飛 ぶクルマの利用シーンを紹介",
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/news_release/000017845.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "還付方法は、免税店によって異なりますので事前に店舗でご",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "物販店舗の運営",
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_description_of_business_ph01.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "飲食店舗の運営",
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_description_of_business_ph01.jpg",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1953年の日本空港ビルデング株式会社設立から",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月02日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月24日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第１四半期決算短信〔日本基準〕（連結） （公認会計士等による期中レビューの完了）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月02日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 利用実績（7月分）2026年10月2日更新",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月28日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 利用実績 2026年5月28日更新",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月27日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 利用実績 2026年4月27日更新",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月27日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 利用実績 2026年2月27日更新",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月27日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年 利用実績 2025年8月27日更新",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年 2 月 28 日にHANEDA INNOVATION CITY内に開業しました",
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本空港ビルデングの沿革をご紹介します",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1953年（昭和28年）7月20日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年10月制定",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月改訂",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革はこちら",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜日本空港ビルデング株式会社",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "設立後の沿革につきましては、次のとおりです",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1953年7月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年5月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1964年9月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1964年10月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年5月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1973年2月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年5月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年2月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年9月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年9月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年7月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年9月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年3月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年2月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年5月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年12月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年11月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年7月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年12月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年2月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年2月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年9月",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第１四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第１四半期決算説明会資料",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月02日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月24日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第１四半期決算短信〔日本基準〕（連結） （公認会計士等による期中レビューの完了）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第１四半期決算説明会資料（説明付き）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第１四半期決算説明会 主な質疑応答（要旨）",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "そして、何よりも空港利用者に安心してご利用いただけるように、防災、防犯対策にとどまらず、感染症対策やサイバーセキュリティーなどあらゆる面での安全対策を徹底的に行う「絶対安全の確立」を常に意識して取り組んでいくことです",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/greeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "（３）顧客・業界情報の管理",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "絶対安全の確立、顧客第一主義を徹底することです",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "公共性の高い旅客ターミナル運営会社として、「絶対安全の確立」と「顧客第一主義」を徹底しさらなるサービス向上を図るとともに、より魅力のある羽田空港の発展に貢献していきます",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "データの活用やパートナーとの共創によって運営効率を上げるとともに、お客さまの利便向上を図ることは、国際線利用者の増加への対応や国内航空利用者数の維持、利用者の満足度の向上につながり、当社グループの持続的な事業運営にとっても重要な課題であると認識しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏と各地方との人の往来に支えられて事業を行っている当社グループにとって、国内航空利用者の維持は重要な課題であると認識しています",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との共創による環境配慮型サプライチェーン構築",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先との対話10社/年",
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした結果を踏まえ、実証実験で得られた利用者のフィードバックを操作画面や多言語対応に反映",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、24 時間 365 日、多言語に対応した遠隔アバタースタッフによる利用者サ",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンタープライズ顧客（航空会社・整備会社）依存度が高く、業界変動の影響を受けやすい",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   },
+   {
+    "quote": "【会見映像①】GMO熊谷正寿会長ら会見「お客様を守れず申し訳ない」サイバー攻撃の経緯･取り組みは 会見冒頭～質疑前",
+    "url": "https://www.youtube.com/watch?v=FmaRlFqYRdQ",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "成田国際空港ターミナルの保守管理業務受託開始",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "旅客ターミナル施設の設備保守管理および環境衛生管理",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港国内線旅客取扱施設利用料の変更について",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/IR_news_release/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容： 通貨処理機・セルフサービス機器の開発・製造・販売・保守、電子決済サービス、生体認",
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別：空港内不動産事業を中心に増収増益、空港内インフラ（熱供給・給排水）も+9.2%増収",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   },
+   {
+    "quote": "全セグメント増収（施設管理運営業、物品販売業、飲食業）",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   },
+   {
+    "quote": "4セグメント体制：①空港内不動産事業（格納庫、整備工場、航空貨物ターミナル施設、オフィスビル、物流施設の賃貸・管理）、②空港外不動産事業（事務所ビル等の取得・賃貸・売却、ノンアセット事業含む）、③空港内インフラ事業（熱供給・給排水運営・共用通信サービス）、④その他の事業（太陽光発電等）",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "一方で、羽田空港の発着容量が上限に近づく中、従来のビジネスモデルの延長線上における収益拡大には構造的な制約が見え始めております",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "【羽田の\"裏方インフラ\"を担う割安銘柄 vs 旅客ターミナルの王者 ― 同じ空港セクターの真逆ビジネスモデル】",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "空港施設（8864）vs 日本空港ビルデング （9706）— 事業成長 ... — 空港施設（8864）vs 日本空港ビルデング （9706）— 事業成長 ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜ 日本空港ビルデング 株式会社 — 事業内容｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > business",
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本空港ビルデング の「企業分析［強み・弱み・展望 ... — 日本空港ビルデング の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > 日本空港ビルデング",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frza&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜ 日本空港ビルデング 株式会社 — 中期経営計画｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > management_plan",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/policy/management_plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・ 説明 会 資料 ｜ 日本空港ビルデング 株式会社 — 決算 短信・ 説明 会 資料 ｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > library",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報｜ 日本空港ビルデング 株式会社 — 株主・投資家情報｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > ...",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 IRニュース｜ 日本空港ビルデング 株式会社 — 2026年 IRニュース｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > list",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/IR_news_release/list/2026/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本空港ビルデング 】[9706]IR情報 中期経営計画や 決算 短信 — 【 日本空港ビルデング 】[9706]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9706",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の皆さまへ - 日本空港ビルデング — 個人投資家の皆さまへ - 日本空港ビルデング 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > personal",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/personal/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜ 日本空港ビルデング 株式会社 — 企業情報｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > corporate_profile",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年4月以降の組織および当社役員体制について — 2026 年4月以降の組織および当社役員体制について 日本空港ビルデング株式会社 PDF https://www.tokyo-airport-bldg.co.jp > files",
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/ir/000017078.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ 日本空港ビルデング 株式会社 — 会社概要｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > profile",
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本空港ビルデング の 事業 と仕事｜新卒採用情報 — 日本空港ビルデング の 事業 と仕事｜新卒採用情報 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > group > business",
+    "url": "https://www.tokyo-airport-bldg.co.jp/recruit/group/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本空港ビルデング 【9706】の 事業 内容 - キタイシホン — 日本空港ビルデング 【9706】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9706/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本空港ビルデング社長 と会長が辞任 午後に開催される ... — 日本空港ビルデング社長 と会長が辞任 午後に開催される ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=FmaRlFqYRdQ",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜ 日本空港ビルデング 株式会社 — 社長 メッセージ｜ 日本空港ビルデング 株式会社 日本空港ビルデング株式会社 https://www.tokyo-airport-bldg.co.jp > policy",
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/policy/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本空港ビルデング 、会長・ 社長 が辞任 税務申告漏れ問題で — 日本空港ビルデング 、会長・ 社長 が辞任 税務申告漏れ問題で 日本経済新聞 https://www.nikkei.com > ビジネス > 物流・運輸",
+    "url": "https://www.nikkei.com/article/DGXZQOUC091GA0Z00C25A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "歴代 社長 - 日本空港ビルデング のページ - The社史 — 歴代 社長 - 日本空港ビルデング のページ - The社史 The社史 https://the-shashi.com > 日本空港ビルデングの歴史",
+    "url": "https://the-shashi.com/tse/9706/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー 日本空港ビルデング社長 鷹城勲 羽田空港を — インタビュー 日本空港ビルデング社長 鷹城勲 羽田空港を 国立国会図書館サーチ（NDLサーチ） https://ndlsearch.ndl.go.jp > books",
+    "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I7322885",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/greeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/officer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/history/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/corporate_profile/group.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/description_of_business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/business/airport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/stock_information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/personal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/IR_news_release/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/sustainability/medium_term_plan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017880.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017873.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017870.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/news_release/000017845.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/site_resource/whats_new/pdf/000017830.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/ir/000017673.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/ir/000017672.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/files/ir/000017633.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_ph01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_c_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_c_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_c_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_ph02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_ph04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_business_ph05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyo-airport-bldg.co.jp/images/business/img_description_of_business_ph01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=FmaRlFqYRdQ",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本空港ビルデング",
+   "results": [
+    "https://www.tokyo-airport-bldg.co.jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%A9%BA%E6%B8%AF%E3%83%93%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0",
+    "https://www.nikkei.com/nkd/company/?scode=9706",
+    "https://job.mynavi.jp/28/pc/search/corp57576/outline.html",
+    "https://kabutan.jp/stock/?code=9706",
+    "https://ja.wikipedia.org/wiki/日本空港ビルデング",
+    "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "https://finance.yahoo.co.jp/quote/9706.T",
+    "https://minkabu.jp/stock/9706",
+    "https://finance.yahoo.co.jp/quote/9706.T/profile"
+   ]
+  },
+  {
+   "query": "日本空港ビルデング ビジネスモデル",
+   "results": [
+    "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "https://www.tokyo-airport-bldg.co.jp/business/index.html",
+    "https://ir-magazine.net-ir.ne.jp/sugao/detail/id=10821",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frza&q_no=9",
+    "https://www.tokyo-airport-bldg.co.jp/ir/policy/management_plan.html",
+    "https://infrato.jp/2445/",
+    "https://www.kyoushou.co.jp/about/advantage01.html",
+    "https://kitaishihon.com/company/9706/business",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%A9%BA%E6%B8%AF%E3%83%93%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0",
+    "https://ja.wikipedia.org/wiki/日本空港ビルデング"
+   ]
+  },
+  {
+   "query": "日本空港ビルデング 決算説明資料",
+   "results": [
+    "https://www.tokyo-airport-bldg.co.jp/ir/library/index.html",
+    "https://www.tokyo-airport-bldg.co.jp/ir/index.html",
+    "https://www.tokyo-airport-bldg.co.jp/ir/IR_news_release/list/2026/index.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9706",
+    "https://www.tokyo-airport-bldg.co.jp/ir/personal/index.html",
+    "https://www.tokyo-airport-bldg.co.jp/ir/calendar/index.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260821524594",
+    "https://irbank.net/E03863/reports",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260807514551/",
+    "https://edinetdb.jp/company/E03863/presentations/"
+   ]
+  },
+  {
+   "query": "日本空港ビルデング 事業系統図",
+   "results": [
+    "https://www.tokyo-airport-bldg.co.jp/corporate_profile/index.html",
+    "https://www.tokyo-airport-bldg.co.jp/files/ir/000017078.pdf",
+    "https://www.tokyo-airport-bldg.co.jp/corporate_profile/profile.html",
+    "https://www.tokyo-airport-bldg.co.jp/recruit/group/business/index.html",
+    "https://kitaishihon.com/company/9706/business",
+    "https://note.com/kabutabi2000/n/n32ec7455c4ff",
+    "https://www.jag-co.com/oldcompany",
+    "https://www.tokyo-airport-bldg.co.jp/files/en/sustainability/human_capital_management_initiatives.pdf",
+    "https://webcast.net-ir.ne.jp/97062606/index.html",
+    "https://ja.wikipedia.org/wiki/日本空港ビルデング"
+   ]
+  },
+  {
+   "query": "日本空港ビルデング 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=FmaRlFqYRdQ",
+    "https://www.tokyo-airport-bldg.co.jp/ir/policy/index.html",
+    "https://www.nikkei.com/article/DGXZQOUC091GA0Z00C25A5000000/",
+    "https://the-shashi.com/tse/9706/ceo/",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I7322885",
+    "https://ir-magazine.net-ir.ne.jp/sugao/detail/id=10821",
+    "https://www.tokyo-airport-bldg.co.jp/recruit/group/people/index.html",
+    "https://www.jwing.net/news/92803",
+    "https://the-shashi.com/tse/9706/executives/ceo/tanaka-kazuhito/",
+    "https://www.tokyo-airport-bldg.co.jp/ir/personal/index.html"
+   ]
+  }
+ ],
+ "missing": {
+  "利益の源泉": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

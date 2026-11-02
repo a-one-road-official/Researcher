@@ -1,0 +1,1149 @@
+{
+ "name": "Ａｒｅｎｔ",
+ "aliases": [],
+ "context": "証券コード5254／情報・通信業／グロース（内国株式）／2026.06期 売上高5,829百万円 営業利益率15.8%",
+ "researched_at": "2026-11-02T18:50:33.222541+00:00",
+ "official_url": "https://arent.co.jp/",
+ "identified_by": "search:yahoo_jp:Arent",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高成長率",
+    "value": "37.0％ 44.7％",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高営業利益率",
+    "value": "42.0％ 15.8％",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,501,342 274,979 335,665 3,111,987 △274,979 2,837,007",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "885,548 － － 885,548 305,962 1,191,510",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "3,810,528 2,018,407 5,828,936 － 5,828,936",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "155,569 875 156,444 △156,444 －",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "当社の電子公告は、株式会社プロネクサスが運営する電子公告掲載サービス「KeeProve Master PLUS」でご覧いただけます",
+    "url": "https://arent.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、社会における企業の責務を認識し、各種サービスを通じた社会貢献、当社を取り巻く利害関係者の調和ある利益の実現に取り組んでまいります",
+    "url": "https://arent.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める適時開示等に関する規則（以下「適時開示規則」という）に従って、情報開示を行います",
+    "url": "https://arent.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "諸法令および適時開示規則に基づく情報開示にあたっては、TDnet（Timely Disclosure network：適時開示情報伝達システム）、EDINET（Electronic Disclosure for Investors' NETwork：金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）において開示した後、当社ウェブサイトへ掲載します",
+    "url": "https://arent.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の電子公告は、株式会社プロネクサスが運営する電子公告掲載サービス「KeeProve Master PLUS」でご覧いただけます",
+    "url": "https://arent.co.jp/en/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の電子公告は、株式会社プロネクサスが運営する電子公告掲載サービス「KeeProve Master PLUS」でご覧いただけます",
+    "url": "https://arent.co.jp/vi/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "新市場で既存製品を展開する際の課題で…",
+    "url": "https://arent.co.jp/pdf/white_paper01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存市場で新製品を開発・展開する際の課題で…",
+    "url": "https://arent.co.jp/pdf/white_paper01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存の事業を継続しつつ、新市場で新製品を展開する際の課題で…",
+    "url": "https://arent.co.jp/pdf/white_paper01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存の事業を縮小・廃止しつつ、新市場で新製品を展開する際の課題で…",
+    "url": "https://arent.co.jp/pdf/white_paper01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するととも",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コア要素をSaaSなど展開可能なサービス",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスを販売した",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うにするため、借り放題定額サービスやリコメ",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストリーミングサービスに移行",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Arentと千代田化工建設様の JVによるSaaSサービス「PlantStream」も、始ま",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラント業界全体にSaaSサービスとして提供",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この戦略のヒントとなったのが、OpenAIよりも遥かに速いスピードで成長し、既存のMicrosoft製品を組み合わせることで大きな売上を上げた「Cursor」の事例です",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "特に建設業界向けのソリューションでは、その効果は顕著です",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "自ら、コンサルタントマッチングサービス「HiPro Biz」に登録しました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント企業との協同を通じて得た業界の深い知識を活かす形で、自社プロダクトの開発・サービス提供も展開しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "※３ Software as a Serviceの略であり、インターネットを経由し、ソフトウエアの機能を提供するサービスを指し、常に最新のソフトウエアを提供できる等の利点があります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットの普及により、いわゆるパッケージ製品の販売という形態から、移行が進んでおります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "※５ Minimum Viable Product（実用最小限の製品）の略であり、顧客が求める必要最小限の機能を持った製品のことを指す用語です",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "MVPの提供後、顧客からのフィードバック等を参考に、製品の改善を図ります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、クライアントの課題を把握し、モデル化・実装まで一気通貫でDXを推し進めるためのソフトウエア開発及びサービス提供を行っております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクト事業では、空間自動設計システム「PlantStream®」等の既存製品の販売拡大に取り組むほか、",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが提供するサービスの性格上、生産実績の記載になじまないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが提供するサービスの性格上、受注実績の記載になじまないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、製品・サービスの内容等が概ね類似している各個別プロジェクトを集約し、「DX事業」及び「プロダクト事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "「プロダクト事業」は、主に当社グループが保有するDX関連のノウハウについて、ソフトウエアとして商品化し、顧客へ販売しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するととも",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【IR】株主・投資家のみなさまからよくいただくご質問と回答～ビジネスモデルについて｜株式会社 Arent",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "【IR】株主・投資家のみなさまからよくいただくご質問と回答～ビジネスモデルについて",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "まずは以下の動画でArentのビジネスモデルを理解していただくとわかりやすいかと考えます",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "【プロダクト共創開発のビジネスモデルについて】",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "開発規模が安定し、売上が定期的な収益をもたらす段階に達し、収益モデルはストック型へと移行します",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "「利益率10%の受託開発」を「利益率20%のビジネスモデル」に転換する道のり",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "彼らのビジネスモデルは、SIerと事業会社の間に立ち、プロジェクト推進の橋渡しをするという、ある種「受託」的な性格を持つものです",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "本開発の終了後は、年間50百万円～数億円規模の継続開発を行い、顧客の業務効率化と共に収益が拡大していくWin-Winの関係性を目指したビジネスモデルを構築しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するととも",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規事業創出は、対象とする顧客とその領域によってコア適",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ままに、お客様と共に新規事業創出を行う",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Q. ゼネコン・サブコンの顧客はどのくらいの規模の顧客が対象になるか、教えてください",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーヒアリングを高頻度で行い、プロダクトの改良を続けます",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "人間が思考し、意思決定する上で、UI（ユーザーインターフェース）は不可欠です",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "* AIアシスタント機能：アプリ内のデータ構造をAIが理解しているため、ユーザーはプロンプトで指示するだけで、テーブル情報の編集やタスクの追加が可能です",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、ユーザーはより創造的で価値の高い業務に集中できるようになります",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "これらのコンサルティングを通じて顧客の課題を聞き出し、「この課題はシステムを開発することで解決できます」と提案",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "このPOCで顧客に良い事例を提供できれば、その後数千万円規模の本案件へと繋がり、そこで20%以上の利益率を確保するというサイクルを回していきました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客内部の「キーマン」をいかに巻き込むかに注力しました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトの良さが、顧客内の課題解決と新規事業創出に繋がり、グループ会社を作っていけば「これで代表になれるかもしれない」という個人のモチベーションにまで火をつけることで、プロジェクトは強力に推進されました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "Arent鴨林さんは、高い基準を持ち、徹底した管理と合理性によって、高収益かつ顧客から深く信頼される会社へと導いてきました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングでは、エンジニアリングにどう落とすかという視点からヒアリングや情報分析を行い、業界の状況、顧客の課題を深く把握し、３ヶ月程度でPoC（※４）やプロトタイプを作成します",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトの初期リリース後は、顧客の要望する追加機能の開発を行う継続開発のフェーズに移行し、プロダクトの利用終了まで、長期間にわたり継続的な収益獲得を期待できます",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "主要な顧客である高砂熱学工業株式会社等との取引はこのフェーズに移行した事例であり、当セグメントの主要顧客として、安定的な取引を継続します",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "本開発の終了後は、年間50百万円～数億円規模の継続開発を行い、顧客の業務効率化と共に収益が拡大していくWin-Winの関係性を目指したビジネスモデルを構築しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "※５ Minimum Viable Product（実用最小限の製品）の略であり、顧客が求める必要最小限の機能を持った製品のことを指す用語です",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "MVPの提供後、顧客からのフィードバック等を参考に、製品の改善を図ります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "将来キャッシュ・フローの見積りは、事業計画を基礎としておりますが、主要な仮定として、将来における獲得見込み顧客へのライセンス販売額（単価に件数を乗じた金額）並びに既存顧客及び将来における獲得見込み顧客の顧客単価上昇率・解約率（継続率）があります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "「DX事業」は、主にDX関連の顧客ニーズに基づき、コンサルティング、ソフトウエア開発等を実施しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "「プロダクト事業」は、主に当社グループが保有するDX関連のノウハウについて、ソフトウエアとして商品化し、顧客へ販売しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "Arentではこれを“AIブースト”と呼び、ユーザーがAIを意識せずとも生産性が上がる仕組みの実装を重視しています",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "既存ビジネスで培ったパートナー関係はその",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Arentが得意とする「BIM」や「DX」における最新情報や、社員紹介やIR情報など、Arentの情報を幅広く発信していきます",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "まず、この事業価値向上を目的とした「三位一体の成長戦略」を紹介します",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "買収したバーティカルSaaS企業は、多くの場合、中小規模で全国に展開するための営業リソースが不足しており、代理店経由の販売に頼りがちです",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、代理店販売は売上の半数近くを手数料として支払う必要があり、営業利益率は10%程度に留まってしまいます",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "直販営業モデルを導入することで営業利益率が10%から46%にまで改善",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "転機となったのは、前職の知人からの紹介でフリーランスコンサルタントが仲介する案件に関わったことです",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "次にパートナー企業からのフィードバックを受け、対話をしながら、24か月程度でMVP（※５）を開発する本開発を行います",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "また事例のリリースや展示会出展等で獲得した商談から、増強した営業体制や開発体制によって、次の事例につながる案件を獲得する好循環を実現することで、更なる事業成長に取り組んでまいります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後も業界特化型SaaSをM&Aによってグループ化して多層展開するプロダクト群戦略、業務システム内にAIを実装して既存システムをアップデートするAIブースト戦略、直販×提案型で利益率を向上させるコンサルティング直営業戦略を推進していくため、プロダクトラインナップの拡充に取り組んでまいります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売店（材料商社）経由の売上は厚いのですが、未接点市場を開拓するには力不足です",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には全国展開の営業体制を確立し、参画直後から売上を伸ばせる仕組みを作ります",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   },
+   {
+    "quote": "Arentが得意とする「BIM」や「DX」における最新情報や、社員紹介やIR情報など、Arentの情報を幅広く発信していきます",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "業の競争優位性を確立することです",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ノウハウや技術など、コアとなる強みを、抽",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム開発は投資が止まると、競争優位が低くなります ※",
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Arentは「受託開発」という一見地味な領域を起点に、どのようにして事業を拡大し、高収益体質を築き上げてきたのか",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "2. コンサルティング直営戦略：営業利益率を最大化するモデル",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "創業6期目にして売上高は数百億円規模、営業利益率は4割から5割に達するという、日本でも類を見ない高成長・高収益を実現しています",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "今回の議論は、この「受託開発を起点とした高収益事業の構築プロセス」に焦点を当てていきます",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "まず、Arentでは受託開発の枠を超え、高収益なDX事業を構築するために、以下の三つの戦略を柱としています",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、代理店販売は売上の半数近くを手数料として支払う必要があり、営業利益率は10%程度に留まってしまいます",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "直販営業モデルを導入することで営業利益率が10%から46%にまで改善",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "この事例から、直営営業への切り替えが営業利益率を30%改善するポテンシャルを持つと考えました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、営業費用を約20%に抑えつつ、営業利益率を劇的に改善することを目指しています",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "これは、テキストをAIが理解し、編集できるCursorの強みと同様です",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "起業初期は、利益率が10%を上回るか否かという状況で、高収益とは決して言えないものでした",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "金融、AR、AIといった自身の強みと実績を明示すると、意外にもこれらの領域に強いコンサルタントが少ないことが判明しました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "事業が拡大し、高収益体質へと転換するにつれて、Arentが直面した次の課題は「エンジニアの採用」でした",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "Arentでは、PM（プロジェクトマネージャー）に対しては「貢献利益（粗利）」をKPIとして設定し、個々人が自身のプロジェクトの収益性に責任を持つ体制を構築しています",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "Arent鴨林さんは、高い基準を持ち、徹底した管理と合理性によって、高収益かつ顧客から深く信頼される会社へと導いてきました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "特に、建設業界のDX需要の高まりに狙いを定め、当社グループの強みの一つである「3Dを核としたシステム開発の技術力」を活かし、クライアント企業の業務効率化を実現する高品質なプロダクトの共創開発に注力しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、主な経営指標として売上高成長率及び売上高営業利益率を重視しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、当連結会計年度の売上高営業利益率は、のれん償却額及び子会社株式の取得関連費用の計上により、15.8％となりました",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社はソフトウェア企業として営業に強みがある一方、人員不足が課題でした",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "開発規模が安定し、売上が定期的な収益をもたらす段階に達し、収益モデルはストック型へと移行します",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "継続開発はプロダクトが続く限り無くならないストック売上です",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、代理店販売は売上の半数近くを手数料として支払う必要があり、営業利益率は10%程度に留まってしまいます",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、上場3年前まで坪単価7,500円、家賃15万円という簡素なオフィスに拠点を置いていました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "主に建設業界に対し、自社開発やM&Aによって拡充したソフトウエアのライセンス販売等を行い、利用期間に応じた継続的な収益獲得を目指す事業です",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "将来キャッシュ・フローの見積りは、事業計画を基礎としておりますが、主要な仮定として、将来における獲得見込み顧客へのライセンス販売額（単価に件数を乗じた金額）並びに既存顧客及び将来における獲得見込み顧客の顧客単価上昇率・解約率（継続率）があります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の間でも株式インセンティブ（持株会やストックオプション）への関心が高まっており、企業価値向上を自分ごととして捉えられる環境をつくりたいと考えています",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "次に、短期的な目線では、売上の95%を占める第1セグメント（プロダクト共創開発事業）の事業モデルとパイプラインの進捗にご注目ください",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "次の２部門は「第５ 経理の状況 １ 連結財務諸表等 (1)連結財務諸表 注記事項」に掲げるセグメントの区分と同一であります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度より事業内容をより明確に表現するため、セグメント名称を「プロダクト共創開発」から「DX事業」、「自社プロダクト」から「プロダクト事業」へそれぞれ変更しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、従来「共創プロダクト販売」を報告セグメントとしておりましたが、当連結会計年度において該当する取引がないため、当連結会計年度より報告セグメントから除外しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "詳細は、「第５ 経理の状況 １ 連結財務諸表等 (1)連結財務諸表 注記事項（セグメント情報等） セグメント情報」の「１．報告セグメントの概要」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当セグメントでは、コンサルティングから本開発、さらに事業化後の継続開発まで、長期にわたりクライアント企業と協同します",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "主要な顧客である高砂熱学工業株式会社等との取引はこのフェーズに移行した事例であり、当セグメントの主要顧客として、安定的な取引を継続します",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度より、報告セグメントごとの業績をより適切に管理するため、従来、セグメント利益又は損失には、経常利益を用いておりましたが、営業利益にのれん償却額を足し戻したのれん償却前営業利益に変更したほか、事業内容をより明確に表現するため、セグメント名称を「プロダクト共創開発」から「DX事業」、「自社プロダクト」から「プロダクト事業」へそれぞれ変更しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "詳細は、「第５経理の状況 １ 連結財務諸表等 (1)連結財務諸表 注記事項（セグメント情報等） セグメント情報」の「１．報告セグメントの概要」及び「２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法」をご参照ください",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は3,966,097千円（前連結会計年度比17.1％増）、セグメント利益は1,582,735千円（同11.9％増）となりました",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益率は39.9％と、前連結会計年度の一時要因を含めた利益率には及ばないものの、事業成長に備えた組織体制整備等の先行投資を実行しながら、高い利益率を維持しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、前連結会計年度に連結子会社化した株式会社構造ソフト、株式会社PlantStream、当連結会計年度に連結子会社化した株式会社スタッグ、株式会社建設ドットウェブ、アサクラソフト株式会社、株式会社レッツの連結子会社化後の経営成績は、「プロダクト事業」セグメントへ追加しております",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は2,019,282千円（前連結会計年度は335,665千円）、セグメント利益は1,488千円（前連結会計年度は39,331千円の損失）となりました",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント計",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年7月30日 12:38",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "2023年8月17日(木) 「2023年6月期 決算説明会」を開催しました",
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に東証グロース市場へ上場し、上場時に公開された成長可能性資料は、その明快な内容がSNSでも話題となりました",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期決算説明資料",
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月20日 16:00",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Company - Arent | 建設DX・コンサルティング・新規事業創出 — Company - Arent | 建設DX・コンサルティング・新規事業創出 Arent https://arent.co.jp > company",
+    "url": "https://arent.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "LENZ&Co. ｜ Projects - ARENT — LENZ&Co. ｜ Projects - ARENT LENZ&Co. https://lenz-co.jp > Projects > IPO Consulting",
+    "url": "https://lenz-co.jp/projects/arent/",
+    "pass": 3
+   },
+   {
+    "quote": "Arent が挑む建設DXプラットフォームの構築 「暗黙知の民主化 ... — Arent が挑む建設DXプラットフォームの構築 「暗黙知の民主化 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > articles",
+    "url": "https://www.projectdesign.jp/articles/25579601-6fbb-45c9-bb14-b5a3be3836fb",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | IRライブラリー | IR情報 - Arent — 決算説明資料 | IRライブラリー | IR情報 - Arent Arent https://arent.co.jp > library > presentation",
+    "url": "https://arent.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - Arent — IR情報 - Arent Arent https://arent.co.jp > ...",
+    "url": "https://arent.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "Arent [5254]：2026年6月期第3四半期 決算説明資料 2026 ... — Arent [5254]：2026年6月期第3四半期 決算説明資料 2026 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260511523427/",
+    "pass": 3
+   },
+   {
+    "quote": "Arent のIR 資料 - 5254 / グロース / 情報・通信業 — Arent のIR 資料 - 5254 / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/5254/library",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | IR情報 - Arent — IRライブラリー | IR情報 - Arent Arent https://arent.co.jp > library",
+    "url": "https://arent.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "経営情報 | IR情報 - Arent — 経営情報 | IR情報 - Arent Arent https://arent.co.jp > management",
+    "url": "https://arent.co.jp/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "Arent 【5254】の 事業 内容 - キタイシホン — Arent 【5254】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5254/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 Arent 会社紹介】なぜ Arent は建設業界をメインターゲットに ... — 【 Arent 会社紹介】なぜ Arent は建設業界をメインターゲットに ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/arent3d/n/ne8b8ee2d5460",
+    "pass": 3
+   },
+   {
+    "quote": "INTERVIEW PlantStream - Arent | 建設DX・コンサルティング ... — INTERVIEW PlantStream - Arent | 建設DX・コンサルティング ... Arent https://arent.co.jp > service > interview > case01",
+    "url": "https://arent.co.jp/service/interview/case01/",
+    "pass": 3
+   },
+   {
+    "quote": "【M&A Q&A インタビュー 】スタッグ × Arent 攻めのAIと営業 ... — 【M&A Q&A インタビュー 】スタッグ × Arent 攻めのAIと営業 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "pass": 3
+   },
+   {
+    "quote": "鴨林広軌 | Arent CEO | Hiroki Kamobayashi (@kamo_arent) / X — 鴨林広軌 | Arent CEO | Hiroki Kamobayashi (@kamo_arent) / X X https://x.com > kamo_arent",
+    "url": "https://x.com/kamo_arent",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://arent.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/en/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arent.co.jp/vi/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://arent.co.jp/pdf/Privacy-Policy-GDPR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://arent.co.jp/pdf/margin_rate_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://arent.co.jp/pdf/white_paper01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://arent.co.jp/pdf/white_paper02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://arent.co.jp/images/service/service_workflow-en.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://arent.co.jp/images/top/BusinessDX-ja.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://arent.co.jp/images/top/BusinessProduct-ja.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/arent3d/n/n59f29ceca76c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theseed.vc/magazine/iefWnM-l",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5254/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/arent3d/n/n28acfbbaa32f",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Arent",
+   "results": [
+    "https://arent.co.jp/",
+    "https://ja.wikipedia.org/wiki/Arent",
+    "https://x.com/ArentHQ",
+    "https://note.com/arent3d",
+    "https://www.youtube.com/@arent5254",
+    "https://grokipedia.com/page/Benno_von_Arent",
+    "https://www.afslaw.com/",
+    "https://www.thefreedictionary.com/arent",
+    "https://arent.co.jp/en/",
+    "https://a-rent.com/"
+   ]
+  },
+  {
+   "query": "Arent ビジネスモデル",
+   "results": [
+    "https://note.com/arent3d/n/n59f29ceca76c",
+    "https://theseed.vc/magazine/iefWnM-l",
+    "https://arent.co.jp/company/",
+    "https://lenz-co.jp/projects/arent/",
+    "https://www.projectdesign.jp/articles/25579601-6fbb-45c9-bb14-b5a3be3836fb",
+    "https://note.com/arent3d/n/n937c66ffcbf4",
+    "https://kitaishihon.com/company/5254/business",
+    "https://www.youtube.com/watch?v=PohEieB3F1o",
+    "https://it-trend.jp/dx_support/market/01-5254",
+    "https://arent.co.jp/en/"
+   ]
+  },
+  {
+   "query": "Arent 決算説明資料",
+   "results": [
+    "https://arent.co.jp/ir/library/presentation/",
+    "https://arent.co.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260511523427/",
+    "https://www.buffett-code.com/company/5254/library",
+    "https://arent.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20251113500636/",
+    "https://arent.co.jp/en/ir/library/presentation/",
+    "https://www2.jpx.co.jp/disc/52540/140120250807534388.pdf",
+    "https://irbank.net/5254/ir",
+    "https://irbank.net/E38472/reports"
+   ]
+  },
+  {
+   "query": "Arent 事業系統図",
+   "results": [
+    "https://arent.co.jp/ir/management/",
+    "https://kitaishihon.com/company/5254/business",
+    "https://note.com/arent3d/n/ne8b8ee2d5460",
+    "https://www2.jpx.co.jp/disc/52540/140120230809539383.pdf",
+    "https://lenz-co.jp/projects/arent/",
+    "https://it-trend.jp/dx_support/market/01-5254",
+    "https://www.youtube.com/watch?v=wGDWvhARKSA",
+    "https://www.openwork.jp/a0C1000001OPuGx/analysis/",
+    "https://ircms.irstreet.com/contents/data_file.php?template=1815&brand=&folder_contents=51955&src_data=482272&filename=pdf_file.pdf",
+    "https://ja.wikipedia.org/wiki/Arent"
+   ]
+  },
+  {
+   "query": "Arent 社長 インタビュー",
+   "results": [
+    "https://arent.co.jp/service/interview/case01/",
+    "https://note.com/arent3d/n/n28acfbbaa32f",
+    "https://startupclass.co.jp/article/2024/04/18/arent/",
+    "https://www.enaa.or.jp/?fname=topiterview_202503_45.pdf",
+    "https://x.com/kamo_arent",
+    "https://shachomeikan.jp/industry_article/2183",
+    "https://note.com/arent3d/n/n937c66ffcbf4",
+    "https://plantstream3d.com/jp/media-coverage-announcement-arent-ceo-featured-in-the-worldfolio-interview/",
+    "https://arent.co.jp/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260323586428/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像7件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像7件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像7件／外部4頁・検索5回）"
+ }
+}

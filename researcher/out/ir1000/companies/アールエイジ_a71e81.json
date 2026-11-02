@@ -1,0 +1,664 @@
+{
+ "name": "アールエイジ",
+ "aliases": [],
+ "context": "証券コード3248／不動産業／スタンダード（内国株式）／2025.10期 売上高3,290百万円 営業利益率15.4%",
+ "researched_at": "2026-11-02T18:52:05.302780+00:00",
+ "official_url": "https://www.early-age.co.jp/",
+ "identified_by": "search:yahoo_jp:アールエイジ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1993年12月",
+    "url": "https://www.early-age.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数(連結)",
+    "value": "17名 他契約社員・パート・ アルバイト等18名",
+    "url": "https://www.early-age.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "は営業スタッフの同行がなく、お客様ご自身にてご内見を行って頂くサービスになります",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のペースに合せて物件を内見する事が可能で、",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多様化するユーザーのニーズを、仲介活動を通じて的確に把握し、開発販売事業の物件開発コンセプトや、運営管理事業における居住者満足度の高いリノベーション実施のノウハウとして、各事業にフィードバックできることが、当社の強みであり特徴となっております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自社所有物件やサブリース・管理受諾物件・駐車場をユーザーに賃貸し、オーナー様からは管理業務（賃貸管理代行・清掃設備管理等）、およびリフォーム（退去後の原状回復、修繕工事、クリーニング等）を受注しております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都心部の利便性の高い土地にフォーカスした賃貸物件の企画開発や、狭小地や変形地といった、一見するとマンション用地に適さない、取得時の競合の少ない物件を中心に仕入れ、個別の土地の表情にマッチした最もパフォーマンスの高く、ユーザーのニーズをカタチにしたマンションの開発を行っております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "実際にお住まいいただいているユーザー様からのニーズや仲介活動の中でお付き合いするユーザ様のニーズを感じ取り、反映することで、お客様から求められる物件開発に繋げています",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "直接ユーザー様と向き合い、その声を物件のソリューション提案や開発販売事業における企画にフィードバックしております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私達が何よりも重きを置いていること、それはお客様の生活に最も近いところにある基本的なサービスです",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "第一の使命は、お客様（入居者様）が「ずっと住み続けたい」と思う住環境を提供し続けることです",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目線でサービスを捉え、検証と改善を繰り返して行っております",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の声に耳を傾けていると「こんなマンションがあったらいいなあ」といった声が聞こえてきます",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の住まいへの想いを実現することが求められています",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "日々お客様の笑顔を求め、確固たる信念で企業努力に邁進していきます",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "物件や土地を所有する個人オーナー顧客は約450名で、東京・千葉を中心に現在は住宅で4000室、駐車場3000台以上の管理を受託している",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "開発物件の売り先もほとんどが既存のオーナー顧客である",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "は営業スタッフの同行がなく、お客様ご自身にてご内見を行って頂くサービスになります",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらに付随する周辺サービス（リフォーム・メンテナンス等）は連結子会社である株式会社アールエイジ・テクニカル・サービスが提供しております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "物件オーナー様と入居者様の満足度合を符号させることが大切と考えており、入居者様にとって快適なご利用環境を維持するサービスを実現するべく、『清潔・安心・安全』の管理三原則をモットーに物件の定期点検・清掃の実施や、市場調査に基づく賃料査定、物件の付加価値を高めるための修繕工事等のサービスを提供しております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "直接ユーザー様と向き合い、その声を物件のソリューション提案や開発販売事業における企画にフィードバックしております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "船橋店・株式会社アールエイジ・テクニカル・サービス",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アールエイジ・テクニカル・サービス",
+    "url": "https://www.early-age.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "私達が何よりも重きを置いていること、それはお客様の生活に最も近いところにある基本的なサービスです",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目線でサービスを捉え、検証と改善を繰り返して行っております",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "その意識が薄れると当社のサービスの質が落ちることに繋がると向井山社長は危惧する",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "筆者が思うに、売り手の論理ではなくて、まさに入居者の目線でサービスを提供できることがアールエイジの強みとなっていると考える",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "◎賃貸管理を主力に収益物件開発に進出 ―狭小地などを安く取得し高利回り実現 アールエイジ社長 向井山 達也氏 ―10月に東京証券取引所マザーズに上…",
+    "url": "https://fknews.jp/news/detail.php?id=17105",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】“即入居可能・空き予定物件”をご紹介！",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、“即入居可能・空き予定物件”をご紹介します！",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "◎１階店舗は",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】セルフ内見可能物件をご紹介",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新築予定物件のご紹介 6/18",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【新築店舗】田原町駅徒歩２分・蔵前駅徒歩6分の1F路面店舗(飲食相談可能)",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TK479【店舗/事務所】 /",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3拠点（東京都：2、千葉県：1）において居住用不動産や店舗、事務所等の賃貸仲介業務を行っております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/finance/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/finance/salesamount/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/finance/ordinaryincome/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/finance/netprofit/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・事務所",
+    "url": "https://www.early-age.co.jp/ir/finance/netassets/",
+    "pass": 1
+   },
+   {
+    "quote": "本日、読者にご紹介するのはアパートやマンションの賃貸管理事業に特化したビジネスを展開する株式会社アールエイジである",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また5箇所のリーシング店舗では、新築だけではなく受託出来そうな空き物件を足で探す営業もあるという",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "契約事務手数料が半額",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】内見なしでご契約いただくと、契約事務手数料が半額に！",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "飯田橋駅より徒歩5分、複数沿線利用可能！家電付きで身軽に新生活をスタートできます！Wi-fi利用料無料！角部屋・1LDKタイプ・2入居可能◎",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "洗濯乾燥機付きで身軽にお引越し！Wi-fi利用料無料！",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "神保町駅徒歩2分・2沿線利用可能！１フロア2戸・1LDKタイプ・２人入居可能！Wi-fi利用料無料＆スマートロック搭載でスマホから施錠・開錠可能◎",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "森下駅徒歩3分・2駅2路線利用可能！Wi-Fi利用料無料",
+    "url": "https://www.early-age.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "住宅ストックの構造的変化と、利用形態、趣向の多様化等にともない柔軟なスタンスで",
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "その場合の当社の収益構造であるが、例えば100万円でオーナーと契約した場合、107万円で入居募集、オーナーからのサブリース手数料分7％と併せて粗利が12〜14％となる",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "残り６割は集金管理物件で手数料は5％である",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "多様化するユーザーのニーズを、仲介活動を通じて的確に把握し、開発販売事業の物件開発コンセプトや、運営管理事業における居住者満足度の高いリノベーション実施のノウハウとして、各事業にフィードバックできることが、当社の強みであり特徴となっております",
+    "url": "https://www.early-age.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは売上げの6割を占める徹底した管理運営事業",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "その場合の当社の収益構造であるが、例えば100万円でオーナーと契約した場合、107万円で入居募集、オーナーからのサブリース手数料分7％と併せて粗利が12〜14％となる",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "筆者が思うに、売り手の論理ではなくて、まさに入居者の目線でサービスを提供できることがアールエイジの強みとなっていると考える",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1993年12月",
+    "url": "https://www.early-age.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期第2四半期決算説明会資料",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月期決算説明会資料",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月期第2四半期決算説明会資料",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月期決算説明会資料",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月期第2四半期決算説明会資料",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年10月15日",
+    "url": "https://www.early-age.co.jp/ir/%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "その場合の当社の収益構造であるが、例えば100万円でオーナーと契約した場合、107万円で入居募集、オーナーからのサブリース手数料分7％と併せて粗利が12〜14％となる",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   },
+   {
+    "quote": "自社で不動産を抱えていくようなビジネスモデルではなくあくまでも管理・運営の会社である、という自覚を忘れない",
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 アールエイジ 2009年10月期第二四半期 決算説明会 — 株式会社 アールエイジ 2009年10月期第二四半期 決算説明会 early-age.co.jp PDF https://www.early-age.co.jp > 200910090616_pdf",
+    "url": "https://www.early-age.co.jp/wp-content/uploads/2020/07/200910090616_pdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アールエイジ (3248) の企業概要・業績・財務・IR資料 — アールエイジ (3248) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/3248",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アールエイジ （東京都） (3248 東証スタンダード)の ... — 株式会社 アールエイジ （東京都） (3248 東証スタンダード)の ... Compalyze https://compalyze.co.jp > 企業検索 > 不動産開発・分譲",
+    "url": "https://compalyze.co.jp/company/6010401059587",
+    "pass": 3
+   },
+   {
+    "quote": "アールエイジ (3248)、「増配」を発表し、配当利回り4.1％に ... — アールエイジ (3248)、「増配」を発表し、配当利回り4.1％に ... ダイヤモンド・オンライン https://diamond.jp > zai > articles",
+    "url": "https://diamond.jp/zai/articles/-/1006253",
+    "pass": 3
+   },
+   {
+    "quote": "説明会資料 - 都心・駅近・デザイナーズ賃貸のアールエイジ — 説明会資料 - 都心・駅近・デザイナーズ賃貸のアールエイジ early-age.co.jp https://www.early-age.co.jp > document",
+    "url": "https://www.early-age.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・適時開示書類 - アールエイジ — 決算 短信・適時開示書類 - アールエイジ early-age.co.jp https://www.early-age.co.jp > IR情報",
+    "url": "https://www.early-age.co.jp/ir/briefnote/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アールエイジ 】[3248]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 アールエイジ 】[3248]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3248",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 都心・駅近・デザイナーズ賃貸の アールエイジ — IR情報 - 都心・駅近・デザイナーズ賃貸の アールエイジ early-age.co.jp https://www.early-age.co.jp > ...",
+    "url": "https://www.early-age.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 プロ 【 アールエイジ （3248） 決算 短信等適時開示一覧 】 — 決算 プロ 【 アールエイジ （3248） 決算 短信等適時開示一覧 】 株主プロ http://ke.kabupro.jp > code",
+    "url": "http://ke.kabupro.jp/code/3248.htm",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 - 都心・駅近・デザイナーズ賃貸のアールエイジ — よくあるご質問 - 都心・駅近・デザイナーズ賃貸のアールエイジ early-age.co.jp https://www.early-age.co.jp > IR情報",
+    "url": "https://www.early-age.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "アールエイジ （3248）のプロフィール | 会社四季報オンライン — アールエイジ （3248）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > アールエイジ",
+    "url": "https://shikiho.toyokeizai.net/stocks/3248/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "アールエイジ の企業情報 - 3248 / ｽﾀﾝﾀﾞｰﾄﾞ / 不動産業 — アールエイジ の企業情報 - 3248 / ｽﾀﾝﾀﾞｰﾄﾞ / 不動産業 バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/3248/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アールエイジ 】[3248]企業概要 社員数や役員報酬・資本金 — 【 アールエイジ 】[3248]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3248",
+    "pass": 3
+   },
+   {
+    "quote": "トップが語る 今後の戦略⑥・向井山 アールエイジ社長 — トップが語る 今後の戦略⑥・向井山 アールエイジ社長 fknews.jp https://fknews.jp > news > detail",
+    "url": "https://fknews.jp/news/detail.php?id=17105",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 都心・駅近・デザイナーズ賃貸の アールエイジ — 会社概要 - 都心・駅近・デザイナーズ賃貸の アールエイジ early-age.co.jp https://www.early-age.co.jp > company",
+    "url": "https://www.early-age.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アールエイジ - OpenWork — 株式会社 アールエイジ - OpenWork OpenWork https://www.openwork.jp > ... > 組織体制・企業文化",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A1000001k7Sjn&qco=1",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.early-age.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/finance/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/finance/salesamount/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/finance/ordinaryincome/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/finance/netprofit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/finance/netassets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.early-age.co.jp/ir/%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.early-age.co.jp/wp-content/uploads/2026/06/20260612.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.early-age.co.jp/wp-content/uploads/2025/12/20251216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.early-age.co.jp/wp-content/uploads/2025/06/20250612.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.early-age.co.jp/wp-content/uploads/2024/12/20241216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.early-age.co.jp/wp-content/uploads/2024/06/20240613.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/3248",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.tokyoipo.com/column/m20071128.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fknews.jp/news/detail.php?id=17105",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アールエイジ",
+   "results": [
+    "https://www.early-age.co.jp/",
+    "https://early-age.palette.cloud/",
+    "https://kabutan.jp/stock/?code=3248",
+    "https://www.instagram.com/early_age/",
+    "https://www.facebook.com/EARLY.AGE.ea/?locale=ja_JP",
+    "https://www.fudousan.or.jp/property/agency/detail?id=3486d997b58ea84f",
+    "https://www.homes.co.jp/realtor/mid-150164hyuhHfAZJc0M/",
+    "https://finance.yahoo.co.jp/quote/3248.T",
+    "https://www.early-age.co.jp/all/",
+    "https://www.facebook.com/EARLY.AGE.ea/"
+   ]
+  },
+  {
+   "query": "アールエイジ ビジネスモデル",
+   "results": [
+    "https://www.early-age.co.jp/wp-content/uploads/2020/07/200910090616_pdf.pdf",
+    "http://www.tokyoipo.com/column/m20071128.htm",
+    "https://www.crex-data.com/company/3248",
+    "https://compalyze.co.jp/company/6010401059587",
+    "https://diamond.jp/zai/articles/-/1006253",
+    "https://salesnow.jp/insights/earnings/jcbpaw59kkfbajawd/",
+    "https://www.nikkei.com/article/DGXLMS3248H6CDS8A620C1000000/",
+    "https://corp-research.jp/%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%82%A4%E3%82%B8%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%BE%E3%81%A8%E3%82%81%EF%BD%9C%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%B3%E3%83%8D%E4%BC%81%E6%A5%AD%E7%A0%94%E7%A9%B6-Resaco",
+    "https://teikokufudosan.jp/recruit/new/business/",
+    "https://stock-insights.net/articles/3248-snapshot-2026q2"
+   ]
+  },
+  {
+   "query": "アールエイジ 決算説明資料",
+   "results": [
+    "https://www.early-age.co.jp/ir/document/",
+    "https://www.early-age.co.jp/ir/briefnote/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3248",
+    "https://www.early-age.co.jp/ir/",
+    "http://ke.kabupro.jp/code/3248.htm",
+    "https://minkabu.jp/stock/3248/settlement",
+    "https://www.buffett-code.com/company/3248/library",
+    "https://irbank.net/3248/ir",
+    "https://www.are-holdings.com/ir/library/account/",
+    "https://edinetdb.jp/company/E04077/presentations/"
+   ]
+  },
+  {
+   "query": "アールエイジ 事業系統図",
+   "results": [
+    "https://www.crex-data.com/company/3248",
+    "https://www.early-age.co.jp/ir/faq/",
+    "https://shikiho.toyokeizai.net/stocks/3248/corporate",
+    "https://www.buffett-code.com/company/3248/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3248",
+    "https://web.fisco.jp/platform/companies/0324800",
+    "https://compalyze.co.jp/company/6010401059587",
+    "https://early-age.palette.cloud/",
+    "https://baseconnect.in/companies/4a16db57-ce4d-43c6-b6b8-b32cb2ea2cee",
+    "https://vizora.meequs.com/ja/company/early-age"
+   ]
+  },
+  {
+   "query": "アールエイジ 社長 インタビュー",
+   "results": [
+    "http://www.tokyoipo.com/column/m20071128.htm",
+    "https://fknews.jp/news/detail.php?id=17105",
+    "https://www.early-age.co.jp/company/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A1000001k7Sjn&qco=1",
+    "https://www.youtube.com/watch?v=jEcpN2heNO8",
+    "https://shachojp.com/c/early-age",
+    "https://www.youtube.com/watch?v=7VKsJOe4b48",
+    "https://diamond.jp/zai/articles/-/1006253",
+    "https://onlystory.co.jp/stories/306",
+    "https://www.tokyoipo.com/column/m20071128.htm"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部4頁・検索5回）"
+ }
+}

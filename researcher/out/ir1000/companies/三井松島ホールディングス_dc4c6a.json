@@ -1,0 +1,1873 @@
+{
+ "name": "三井松島ホールディングス",
+ "aliases": [],
+ "context": "証券コード1518／その他製品／プライム（内国株式）／2026.03期 売上高65,468百万円 営業利益率14.6%",
+ "researched_at": "2026-11-02T18:59:00.555799+00:00",
+ "official_url": "https://www.mitsui-matsushima.co.jp/",
+ "identified_by": "search:yahoo_jp:三井松島ホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1913（大正2）年1月25日",
+    "url": "https://www.mitsui-matsushima.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1913（大正2）年1月25日",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/shareholder/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "654億円（2025年度）",
+    "url": "https://www.mitsui-matsushima.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "46,592 80,015 77,472 60,574 65,468",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "（26/3連結）654億6,800万円",
+    "url": "https://www.data-max.co.jp/article/87238",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客へ の売上高",
+    "value": "26,769 29,640 4,165 － 60,574 － 60,574",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント 間の内部売 上高又は振 替高",
+    "value": "20 － 41 － 61 △61 －",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客へ の売上高",
+    "value": "27,109 33,255 5,103 － 65,468 － 65,468",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント 間の内部売 上高又は振 替高",
+    "value": "14 － 47 － 62 △62 －",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,746名＜連結＞ （2026年3月末現在）",
+    "url": "https://www.mitsui-matsushima.co.jp/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三井松島ホールディングスのこれまでのあゆみのご紹介です",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/succession-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/succession-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/management-strategy2030/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/management-strategy2030/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/new/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/new/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "三井港倶楽部、ラ・ロシェル各店舗でご利用いただける「レストランご優待券（3,000円分）」を下記の保有株数に応じて贈呈いたします",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "三井港倶楽部、ラ・ロシェル各店舗でご利用いただけます",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI各店舗でご利用いただける「商品ご優待券」を下記の保有株数に応じて贈呈いたします",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "※定休日、夏期休業日、年末年始休業日等については、各店舗にお問い合わせください",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI店舗リスト",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "※ご利用可能店舗が変更となる場合があります",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI各店舗でご利用いただける「株主様向け特別割引（オーダー製品20％OFF）」ご優待クーポン券を贈呈いたします",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI各店舗のオーダー製品",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q.発送される商品は実際に店舗で販売されているものと同じ商品ですか?",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "A.実際に店舗で販売している商品と同じものです",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介 | 三井松島ホールディングス株式会社",
+    "url": "https://www.mitsui-matsushima.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介一覧",
+    "url": "https://www.mitsui-matsushima.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "三井松島グループ各社の事業内容をご紹介いたします",
+    "url": "https://www.mitsui-matsushima.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ事業紹介",
+    "url": "https://www.mitsui-matsushima.co.jp/business/straw/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第2四半期決算説明会及びスモールミーティングのお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期業績予想の上方修正及び配当予想の修正（増配）に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明会動画公開のお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | 三井松島ホールディングス株式会社",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1913年（大正2年）1月25日",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1935年度 (昭和10年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1952年度 (昭和27年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1961年度 (昭和36年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年度 (昭和37年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年度 (昭和45年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年度 (昭和48年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年度 (昭和58年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年度 (平成2年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年度 (平成3年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年度 (平成13年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年度(平成14年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度 (平成25年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度 (平成28年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度 (平成29年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度 (平成30年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度 (令和元年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度 (令和2年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度 (令和4年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 (令和5年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 (令和6年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 (令和8年度)",
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明会及びスモールミーティングのお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信（日本基準）（連結）",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明資料",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明会",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（第171）期",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明会及びスモールミーティングのお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期業績予想の上方修正及び配当予想の修正（増配）に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明会動画公開のお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明会及びスモールミーティングのお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（第170）期",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年度の株主優待制度に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期決算説明会動画公開のお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期業績予想の上方修正に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算説明会及びスモールミーティングのお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期決算説明会動画公開のお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年度の株主還元に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算説明会 登録URL公開のお知らせ 5月14日開催",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度（第169）期",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の株主優待制度に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年３月期業績予想の再修正に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年３月期配当予想の修正（増配）に関するお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期第２四半期決算説明会動画公開のお知らせ",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "※受付確認メールを受信されていないお客様は、当社からのメールを受信拒否されている恐れがございますので、ご確認お願いいたします",
+    "url": "https://www.mitsui-matsushima.co.jp/succession-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "A.お取引先の証券会社にお問い合わせください",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "これらストローのほか、飲料用の紙カップおよびPETカップ、食品用容器も多数ラインナップを揃え、幅広いお取引先を有しています",
+    "url": "https://www.mitsui-matsushima.co.jp/business/straw/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせた大量細断や廃棄物リサイクルを実現",
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足度向上とオペレーション改善に貢献する窓口案内システム",
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "pass": 1
+   },
+   {
+    "quote": "ぞれ規模の大きい生産拠点を有しており、両社の地理的優位性を生かすことで、全国の 顧客に対する機動",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/f7bb2285524677441220fa9f3efaf89b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本株式取得以降も引き続き、コウナンおよび MOS は顧客・取引先との良",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/f7bb2285524677441220fa9f3efaf89b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の顧客に対する機動的かつ効率的な対応が可能",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "確認し、利用者の判断によって行なってください",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "注目されるのは、買収先企業の業態がストロー、シュレッダー、ペットフード、住宅部材、水晶デバイス製造設備、送電線用金具、感熱レジロール、計量機、産業用チェーンと、製品や顧客分野でほとんど共通性がないことだ",
+    "url": "https://www.data-max.co.jp/article/87238",
+    "pass": 3
+   },
+   {
+    "quote": "通常の製造業が既存技術や顧客基盤を利用して周辺分野へ事業を広げていくのとは、性格が大きく異なっていることがわかる",
+    "url": "https://www.data-max.co.jp/article/87238",
+    "pass": 3
+   },
+   {
+    "quote": "CST（株）は国内初のマスクブランクス専業メーカーとして国内外の有力企業を顧客にもち、三生電子（株）は水晶デバイスの組立から検査までをカバーするインラインシステムを構築できる装置メーカーだ",
+    "url": "https://www.data-max.co.jp/article/87238",
+    "pass": 3
+   },
+   {
+    "quote": "リース市場の成熟・競争激化、顧客ニーズの変化",
+    "url": "https://www.data-max.co.jp/article/87238",
+    "pass": 3
+   },
+   {
+    "quote": "一見すると関連性の薄い事業群に見えるが、その起点には、顧客の信用力を判断する「金融」と、機械や不動産などの資産価値を見極める「モノ」の専門性がある",
+    "url": "https://www.data-max.co.jp/article/87238",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本ストローがこれまで積み重ねてきた信頼を土台に、新たな商品展開が生まれ、少しずつ取引先も広がっていきました",
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば5年、10年単位で設備投資を行う大企業からすると、取引先の経営の安定性は重要なポイントで、上場企業グループの一員であることは大きな安心材料になります",
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、1社で数十社もの取引先をサプライチェーンの上流に抱えている企業も存在します",
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引先企業一覧",
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ストローがこれまで積み重ねてきた信頼を土台に、新たな商品展開が生まれ、少しずつ取引先も広がっていきました",
+    "url": "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば5年、10年単位で設備投資を行う大企業からすると、取引先の経営の安定性は重要なポイントで、上場企業グループの一員であることは大きな安心材料になります",
+    "url": "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、1社で数十社もの取引先をサプライチェーンの上流に抱えている企業も存在します",
+    "url": "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "「プレミアムペットフードご優待券」1枚につき、下記〔1〕～〔3〕のうち、ご希望の商品を一つプレゼントいたします",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI各店舗でご利用いただける「商品ご優待券」を下記の保有株数に応じて贈呈いたします",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "・オーダー商品１点につき1枚利用可能（「オーダー商品1点」とは、上記記載の組合せ１組のことを指します）",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "・オーダー商品１点につき1枚利用可能",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI各店舗でご利用いただける「株主様向け特別割引（オーダー製品20％OFF）」ご優待クーポン券を贈呈いたします",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "HANABISHI各店舗のオーダー製品",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "pass": 1
+   },
+   {
+    "quote": "A.当社は、株主の皆様に当社グループが提供する商品・サービスを実際にご利用いただき、当社グループ事業へのご理解を深めていただくとともに、より多くの株主様にご支援を賜りたく株主優待制度を設けております",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q.商品の申込みをしましたが、発送時期はいつですか?",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q.商品の送付先を家族や知人宅に設定しても大丈夫ですか?",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "お送りする商品の送り状ラベルに申込者様の情報は表示されません",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q.申込み後に商品・住所等の変更はできますか?",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "A.お申込み後の商品・住所等の変更はできません",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q.発送される商品は実際に店舗で販売されているものと同じ商品ですか?",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "A.実際に店舗で販売している商品と同じものです",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、同じタイミングで申し込まれた場合でも商品ごとに発送の時期が異なる場合がありますのでご留意ください",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "■HANABISHI 商品ご優待券に関するご質問",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、同社ではプラスチックに代わる、環境保護に対応したストロー製品の開発・製造にも取り組んでおります",
+    "url": "https://www.mitsui-matsushima.co.jp/business/straw/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では主力のシュレッダーからパウチ、受付案内システムに加え、 オフィスセキュリティ製品、リサイクル・環境ソリューションのご提案まで、",
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "pass": 1
+   },
+   {
+    "quote": "明光商会のソリューション",
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "pass": 1
+   },
+   {
+    "quote": "全般ソリューション",
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "pass": 1
+   },
+   {
+    "quote": "（４） 事業内 容 レジロール用記録紙等のロール製品の加工販売、 紙・紙製品の卸販売、印刷",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/f7bb2285524677441220fa9f3efaf89b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品 7,520 9,770 2,250",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品 1,343 1,672 329",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の業績につきましては、産業用製品セグメントの三生電子株式会社及び日本カタン株式",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 7,847 7,619",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合計 調整額(注) 四半期連結損益計算書計上額生活消費財 産業用製品 金融その他",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、工業用及び医療用などの高付加価値分野にも製品を展開しており、特に工業用綿棒は「HUBY」",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同製品は、毛羽立ちの発生を抑える特殊加工や、不純",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "近年は、データセンター投資の拡大や半導体需要の成長を背景として、同社製品に対",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 15,374 17,712 +2,337 三生電子、日本カタン（産業用製品）等の売上増加",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生活消費財 産業用製品 金融その他",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 「産業用製品」セグメント、「金融その他」セグメントについてもグループ各社受注好調等により、各セグメントの売上は",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 工業用・医療用などの高付加価値分野にも製品を展開",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、工業用及び医療用などの高付加価値分野に も製品を展開しており、特に工業用綿棒は「HUBY」",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/07/c4b9af59862fd2ff45faf864f8fd327c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同製品は、 毛羽立ちの発生を抑える特殊加工や、不純物・",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/07/c4b9af59862fd2ff45faf864f8fd327c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "近年は、 データセンター 投資の拡大や半導体需要の 成長を背景として 、同社製品に対する",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/07/c4b9af59862fd2ff45faf864f8fd327c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品 29,640 33,255 3,615",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品 3,829 5,061 1,231",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の業績につきましては、産業用製品セグメントの株式会社ジャパン・チェーン・ホールディングスの",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 6,522 7,847",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品補償損失 156 -",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、「生活消費財事業」「産業用製品事業」「金融その他事業」の３つを報告セグメントとして",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「産業用製品事業」は、主にマスクブランクスの製造・販売、水晶デバイス用計測器・生産設備及び関連する",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合計 調整額(注)１ 連結財務諸表計上額生活消費財 産業用製品 金融その他 エネルギー",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品 22,404 25,126 2,721",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品 3,235 4,390 1,155",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第３四半期連結累計期間の業績につきましては、産業用製品セグメントの株式会社ジャパン・チェーン・ホール",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②産業用製品",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 6,522 7,827",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品補償損失 118 -",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合計 調整額(注) 四半期連結損益計算書計上額生活消費財 産業用製品 金融その他",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は生活消費財・産業用製品・金融その他の3事業がそろって増収増益（実績ベース）",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの生活に身近な\"縁の下\"の製品群です",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "B 産業用製品",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "産業用製品：",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "：産業用製品は設備投資、金融その他は金利・株価（株式運用損益）に左右される",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "優待情報サイト（大和IR経由を含む優待検索サービス等）は、まれに他社の優待内容が混ざって表示されることがあります",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の業績につきましては、産業用製品セグメントの三生電子株式会社及び日本カタン株式",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、売上高については、セグメント間取引消去前の金額によっております",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、セグメント利益は、株式会社明光商会において為替が対前期で円安に推移したことに伴い売上原価が増加したこ",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "万円（29.9%）の増収となり、セグメント利益は、当該売上の増加などにより、1,672百万円と前年同期比329百万円",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、1,225百万円と前年同期比91百万円（7.0%）の減収となり、セグメント利益は491百万円と前年同期比21百万円",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 766 1,343 513 2,622 － 2,622",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）売上高の調整額△15百万円は、セグメント間取引消去であります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 665 1,672 491 2,829 － 2,829",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）売上高の調整額△14百万円は、セグメント間取引消去であります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（MM Investmentsの上場株式運用益は下記セグメント利益には含まれておらず、",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結セグメント情報",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益マイナス要因→明光なので",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高または振替高の調整（▲14百万円）を行っているため、セグメント別合計値と前項の連結損益計算書の売上高は一致しておりません",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額 構成比(％) 金額 構成比(％) 増減額 主な増減要因",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 連結セグメント業績予想",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 株式会社山洋の子会社化については「生活消費財」セグメントへ織り込んでおり、売上高・利益ともに当初予想を",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 「産業用製品」セグメント、「金融その他」セグメントについてもグループ各社受注好調等により、各セグメントの売上は",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※MM Investmentsの上場株式運用益は下記セグメント利益には含まれておらず、経常利益・特別利益に計上",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等) ……………………………………………………………………………………………14",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の業績につきましては、産業用製品セグメントの株式会社ジャパン・チェーン・ホールディングスの",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上の増加ならびに金融その他セグメントの株式会社エム・アール・エフを2024年７月に子会社化したことなどによ",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、売上高については、セグメント間取引消去前の金額によっております",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1.2％）の増収となり、セグメント利益は2,459百万円と前年同期比85百万円（3.6％）の増益となりました",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "などにより、33,255百万円と前年同期比3,615百万円（12.2％）の増収となり、セグメント利益は5,061百万円と前年",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "945百万円（22.5％）の増収となり、セグメント利益は2,052百万円と前年同期比640百万円（45.3％）の増益となり",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報)",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 報告セグメントの決定方法",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、「生活消費財事業」「産業用製品事業」「金融その他事業」の３つを報告セグメントとして",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 報告セグメントの変更等に関する事項",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成において採用している会計処理の方法",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高又は振替高は、市場実勢価格に基づいております",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,373 3,829 1,412 － 7,615 － 7,615",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 31,591 41,291 54,442 8,701 136,027 △18,399 117,627",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 売上高の調整額△61百万円は、セグメント間取引消去であります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント資産の調整額△18,399百万円には、セグメント間及び振替高の消去△44,654百万円、各報告",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第３四半期連結累計期間の業績につきましては、産業用製品セグメントの株式会社ジャパン・チェーン・ホール",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ディングスの売上の増加及び金融その他セグメントの株式会社エム・アール・エフを2024年７月に子会社化したこと",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、売上高については、セグメント間取引消去前の金額によっております",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1.1%）の増収となり、セグメント利益は、2,179百万円と前年同期比282百万円（14.9%）の増益となりました",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "により、25,126百万円と前年同期比2,721百万円（12.1%）の増収となり、セグメント利益は、4,390百万円と前年同期",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "951百万円（32.3%）の増収となり、セグメント利益は1,603百万円と前年同期比545百万円（51.6%）の増益となりまし",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "シンジケートローン手数料 1 53",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "シンジケートローン手数料の支払額 △1 △53",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "及び企画販売、シュレッダーを中心とする事務用設備の製造・販売・保守、住宅及び家具向けのプラスチック製",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結子会社株式会社明光商会は、シュレッダーを中心とする事務用設備の製造・販売・保守を行っております",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "quote": "「生活消費財事業」は、主に伸縮ストローの製造販売・飲食用資材の仕入販売、高品質ペットフードの輸入卸及び企画販売、シュレッダーを中心とする事務用設備の製造・販売・保守、住宅及び家具向けのプラスチック製部材の企画・製造・販売、感熱レジロール加工・販売を行っております",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "本記事では、三井松島のビジネスモデル（M&Aで事業会社をグループに加えて稼ぐスタイル）を分かりやすく",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル・決算・成長性から企業をわかりやすく解説しています",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "強みと、各種リスク",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "強み（プラス材料）",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの強みを活かしながら、大手コンビニやコーヒーチェーンに向けたストローなどへ取扱品目を大きく広げ、徐々に売上・利益ともに伸ばすことができました",
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの強みを活かしながら、大手コンビニやコーヒーチェーンに向けたストローなどへ取扱品目を大きく広げ、徐々に売上・利益ともに伸ばすことができました",
+    "url": "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【株初心者向け】 三井松島ホールディングス とは？M&A ... - note — 【株初心者向け】 三井松島ホールディングス とは？M&A ... - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略とM&A｜ 三井松島ホールディングス - SOGOTCHA — 経営戦略とM&A｜ 三井松島ホールディングス - SOGOTCHA SOGOTCHA https://sogotcha.com > mitsui-matsushima",
+    "url": "https://sogotcha.com/mitsui-matsushima/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画2030 - 三井松島ホールディングス株式会社 — 中期経営計画2030 - 三井松島ホールディングス株式会社 三井松島ホールディングス株式会社 https://www.mitsui-matsushima.co.jp > management-strate...",
+    "url": "https://www.mitsui-matsushima.co.jp/management-strategy2030/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 三井松島ホールディングス 株式会社 — 決算説明資料 | 三井松島ホールディングス 株式会社 三井松島ホールディングス株式会社 https://www.mitsui-matsushima.co.jp > new",
+    "url": "https://www.mitsui-matsushima.co.jp/ir/new/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 の一覧 - 三井松島ホールディングス株式会社 — 決算説明資料 の一覧 - 三井松島ホールディングス株式会社 三井松島ホールディングス株式会社 https://www.mitsui-matsushima.co.jp > news > presentation",
+    "url": "https://www.mitsui-matsushima.co.jp/news/category/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "【 三井松島ホールディングス 】[1518]IR情報 ... - 日本経済新聞 — 【 三井松島ホールディングス 】[1518]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1518",
+    "pass": 3
+   },
+   {
+    "quote": "三井松島ホールディングス 【1518】の最新 決算 発表、業績修正 — 三井松島ホールディングス 【1518】の最新 決算 発表、業績修正 株探 https://kabutan.jp > 三井松島ホールディングス (1518)",
+    "url": "https://kabutan.jp/stock/finance?code=1518",
+    "pass": 3
+   },
+   {
+    "quote": "組織 - 三井松島ホールディングス株式会社 — 組織 - 三井松島ホールディングス株式会社 三井松島ホールディングス株式会社 https://www.mitsui-matsushima.co.jp > organization",
+    "url": "https://www.mitsui-matsushima.co.jp/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "三井松島ホールディングス 【1518】の 事業 内容 - キタイシホン — 三井松島ホールディングス 【1518】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/1518/business",
+    "pass": 3
+   },
+   {
+    "quote": "有 価 証 券 報 告 書 - 三井松島ホールディングス 株式会社 — 有 価 証 券 報 告 書 - 三井松島ホールディングス 株式会社 三井松島ホールディングス株式会社 PDF https://www.mitsui-matsushima.co.jp > 2025/06",
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2025/06/2aa7b9878a7b84d04ed0e5df827e3333.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三井松島ホールディングス 株式会社 有価証券報告書 全文 ... — 三井松島ホールディングス 株式会社 有価証券報告書 全文 ... EDINET DB https://edinetdb.jp > company > text",
+    "url": "https://edinetdb.jp/company/E00037/text",
+    "pass": 3
+   },
+   {
+    "quote": "三井松島ホールディングス 株式会社｜企業TOP インタビュー — 三井松島ホールディングス 株式会社｜企業TOP インタビュー regional.co.jp https://www.regional.co.jp > 202607_mitsuimatsushima",
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井松島ホールディングス 株式会社 代表取締役 社長 吉岡 泰士 — 三井松島ホールディングス 株式会社 代表取締役 社長 吉岡 泰士 株式会社ライフサイズ https://l-size.co.jp > インタビュー",
+    "url": "https://l-size.co.jp/2026/07/15/top-mitsuimatsushima/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ（採用情報） — トップメッセージ（採用情報） 三井松島ホールディングス株式会社 https://www.mitsui-matsushima.co.jp > 採用情報",
+    "url": "https://www.mitsui-matsushima.co.jp/recruit/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/succession-inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/management-strategy2030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/new/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/shareholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/stockinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/procedure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/specialtreatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/business/straw/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/business/officesupply/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/f7bb2285524677441220fa9f3efaf89b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/eff4fb8c0a7a6c4f520ca795b4dfe472.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/08/6038503d5b6f6d748b60d6b33fb2efaf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/07/52c2e82b9bf1e9c355076333d55e6f24.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/07/c4b9af59862fd2ff45faf864f8fd327c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/06/0100d92ab2a80c7e579008f1939cfdeb.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/05/433f7d22c9b3fcff113ad9e35f4c4e0f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/02/e97480f1382775b9e835a64273530ee1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_06_v2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-matsushima.co.jp/wp/wp-content/themes/mitsui-matsushima_2024/assets/images/page/business/index/img-nav_09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.data-max.co.jp/article/87238",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/1518/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三井松島ホールディングス",
+   "results": [
+    "https://www.mitsui-matsushima.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E6%9D%BE%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/?scode=1518",
+    "https://www.mitsui-matsushima.co.jp/outline/",
+    "https://kabutan.jp/stock/?code=1518",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001EiIMz",
+    "https://minkabu.jp/stock/1518",
+    "https://sharedresearch.jp/ja/companies/1518",
+    "https://ja.wikipedia.org/wiki/三井松島ホールディングス",
+    "https://ja.wikipedia.org/wiki/マツシマホールディングス"
+   ]
+  },
+  {
+   "query": "三井松島ホールディングス ビジネスモデル",
+   "results": [
+    "https://note.com/holy_viper7334/n/n17ebd13a9647",
+    "https://www.data-max.co.jp/article/87238",
+    "https://sogotcha.com/mitsui-matsushima/",
+    "https://www.youtube.com/watch?v=oDUxX9octos",
+    "https://www.mitsui-matsushima.co.jp/management-strategy2030/",
+    "https://www.marr.jp/genre/study/datafile/entry/37834",
+    "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "https://kitaishihon.com/company/1518/business",
+    "https://www.yrl.com/fwp/casestudy/detail_33/",
+    "https://ja.wikipedia.org/wiki/三井松島ホールディングス"
+   ]
+  },
+  {
+   "query": "三井松島ホールディングス 決算説明資料",
+   "results": [
+    "https://www.mitsui-matsushima.co.jp/ir/new/",
+    "https://www.mitsui-matsushima.co.jp/news/category/presentation/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=1518",
+    "https://kabutan.jp/stock/finance?code=1518",
+    "https://www.mitsui.com/jp/ja/ir/meeting/account/index.html",
+    "https://www.mitsui-matsushima.co.jp/ir/movie/",
+    "https://www.fse.or.jp/files/lis_tkj/22020415183.pdf",
+    "https://www.youtube.com/watch?v=KQso_Vk-Zm0",
+    "https://www.fse.or.jp/files/lis_tkj/23081015181.pdf",
+    "https://disclosure.catr.jp/companies/accfa/9025/tdnet/6b8ab/750650"
+   ]
+  },
+  {
+   "query": "三井松島ホールディングス 事業系統図",
+   "results": [
+    "https://www.mitsui-matsushima.co.jp/organization/",
+    "https://kitaishihon.com/company/1518/business",
+    "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2025/06/2aa7b9878a7b84d04ed0e5df827e3333.pdf",
+    "https://edinetdb.jp/company/E00037/text",
+    "https://www.data-max.co.jp/article/87238",
+    "https://www.mitsui-matsushima.co.jp/wp/wp-content/uploads/2026/06/d92f095d89d1bef470dc8e6ec128bc4a.pdf",
+    "https://kinmyakucode.com/ja/company/1518/",
+    "https://www.youtube.com/watch?v=ME0KRyAsExE"
+   ]
+  },
+  {
+   "query": "三井松島ホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.regional.co.jp/change/202607_mitsuimatsushima.html",
+    "https://rs-fukuoka.net/change/202607_mitsuimatsushima.html",
+    "https://l-size.co.jp/2026/07/15/top-mitsuimatsushima/",
+    "https://www.yomiuri.co.jp/local/kyushu/news/20240215-OYTNT50128/",
+    "https://www.mitsui-matsushima.co.jp/recruit/message/",
+    "https://www.marr.jp/menu/ma_strategy/ma_planning/entry/60133",
+    "https://www.youtube.com/watch?v=ME0KRyAsExE",
+    "https://www.sankei.com/article/20210816-TDCVXQDUQBOCVMUGUUYBDL6KVI/",
+    "https://www.youtube.com/watch?v=aJ51Lkwj6z4",
+    "https://www.mitsui-matsushima.co.jp/officer/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部5頁・検索5回）"
+ }
+}

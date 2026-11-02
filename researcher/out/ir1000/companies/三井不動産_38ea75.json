@@ -1,0 +1,1598 @@
+{
+ "name": "三井不動産",
+ "aliases": [],
+ "context": "証券コード8801／不動産業／プライム（内国株式）／2026.03期 売上高2,709,747百万円 営業利益率14.7%",
+ "researched_at": "2026-11-02T19:01:18.551268+00:00",
+ "official_url": "https://www.mitsuifudosan.co.jp/",
+ "identified_by": "search:yahoo_jp:三井不動産",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1941年（昭和16年）7月15日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高（連結）",
+    "value": "2,709,747百万円（2026年3月期実績）",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1兆1624億円(▲0.2％)",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,981名（2026年3月31日現在）",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産グループの「老朽化不動産再生コンサルティングサービス」",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工場からの直接仕入れによって人気ブランド商品を手ごろな価格で販売するという手法は注目を集めました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ワークスタイリング」は、時間や場所に縛られない自由なワークスタイルを提供する法人向けサービスとして2017年に誕生",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "リアル店舗と通販サイトを融合させたサービスを通じて、お客さま・ご出店者さまとともにショッピング価値の創造に取り組んでいます",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選グルメお取り寄せプラットフォーム「mitaseru」サービス開始",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、ビジネスとくらしに関するソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "WORKとLIFE、双方を支援する本部として、拠点型オフィスや法人向けシェアオフィスなどの働く場所の提供や、多様なソフトサービスで企業の経営課題の解決に寄り添うパートナーを目指します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "変化する社会情勢や多様化したお客さまの課題・社会課題に対してソリューションを提供しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産のシンクタンクとして、調査研究を通じ、情報発信やソリューションの提供を行い、三井不動産グループの新たな価値創造を支援しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "WORKとLIFE、双方を支援する本部として、拠点型オフィスや法人向けシェアオフィスなどの働く場所の提供や、多様なソフトサービスで企業の経営課題の解決に寄り添うパートナーを目指します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "様々なソリューションを提供",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "」というパーパスのもと、働く場所だけではない様々なサービスを提供しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "経営課題に寄り添う多様なサービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産グループの提供する様々なイベントホール・カンファレンスルーム・貸し会議室を横断的に検索、一括での問い合わせが出来るサービスを提供しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "本社移転やレイアウト変更を機に働き方改革に取り組む企業に対し、オフィス提供にとどまらず、新たな働き方の提案からフロアデザイン・設計施工・ソフトサービスまでをワンストップで提供するトータルサービスを提供します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "コマーシャルサービスプラットフォーマーとして、様々なステークホルダーの皆様とともに成長してまいります",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "主な商品ブランドの紹介/メインプロジェクトの紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "施設内の店舗商品をオンラインで購入できるほか、限定グッズなどここでしか手に入らないアイテムも定期的に提供し、新たなショッピング価値の創出に取り組んでいます",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "施設内店舗のブランド品など高品質な商品をアウトレットならではのおトクな価格でオンラインでも提供し、新たなショッピング体験を創出していきます",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/hotelresort/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/hotelresort/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さま一人ひとりに楽しんでいただける空間とサービスを提供",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/hotelresort/",
+    "pass": 1
+   },
+   {
+    "quote": "地元ならではの食材・きめ細やかなサービス・豊富なアクティビティを備えた高品質な滞在型リゾートホテルを展開しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/hotelresort/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/hotelresort/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまのニーズに寄り添う多様なすまいと、多岐に渡るくらしのサービスをご用意し、信頼されるベストパートナーを目指してきました",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も商品やサービスの進化に力を注ぎ、「すまいとくらし」に喜びと感動をお届けしてまいります",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ各社のソリューションをワンストップでご提供",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産グループの住宅利用者向けメンバーシップサービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "楽しく快適なすまいとくらしに関するサービスをお届けしています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "「三井のすまいLOOP」サービスデスク",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産の購入・売却・賃貸に関する、様々なサービスを提供",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の実績の中で培われたノウハウと、三井不動産グループの総合力を背景に、皆様の大切な資産をしっかりと守っていくためのマンション管理サービスをご提供します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産レジデンシャルサービス株式会社",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "家具・インテリアの企画提案・商品販売 など など",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "賃貸マンション等の商品企画",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "『シニアのためのサービスレジデンス「パークウェルステイト」』の賃貸ならびに運営管理",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部｜三井不動産の組織｜事業紹介｜三井不動産",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等」",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「マリノアシティ福岡」跡地に、九州最大の店舗数を誇る 約220店舗のアウトレットモールが誕生",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産×東京電力エナジーパートナーの連携による",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「すまう」、「はたらく」、「たのしむ」といった、皆さまの身近なくらしの観点から三井不動産の事業を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産カレンダー「和が街、和が故郷（ふるさと）」のご紹介",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産の株主優待制度をご紹介 要件を満たした株主様に「三井ショッピングパークポイント」を進呈",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "時代の変化を先取りしてきた、三井不動産の歩みを年代ごとに紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「COREDO室町2」「COREDO室町3」では、物販や飲食店舗の充実とともに、住宅や映画館といった新たなコンテンツを追加",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "消費行動の変化を捉え、リアル店舗における買い物とネットショッピングの双方の良さをもつリアル店舗共生型の公式通販サイト「Mitsui Shopping Park &mall（アンドモール）」を開設",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "リアル店舗と通販サイトを融合させたサービスを通じて、お客さま・ご出店者さまとともにショッピング価値の創造に取り組んでいます",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介｜三井不動産",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産事業紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産の事業を、「身近なくらし」、「街づくり」、「それらを支える組織」の3つの視点から紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「すまう」、「はたらく」、「たのしむ」といった、皆さまの身近なくらしの観点から三井不動産の事業を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産カレンダー「和が街、和が故郷（ふるさと）」のご紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産の組織｜事業紹介｜三井不動産",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "主な組織のご紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、ビジネスとくらしに関するソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "WORKとLIFE、双方を支援する本部として、拠点型オフィスや法人向けシェアオフィスなどの働く場所の提供や、多様なソフトサービスで企業の経営課題の解決に寄り添うパートナーを目指します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の課題解決パートナーとして先進的な物流施設を開発・提供しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジーを活用し不動産業そのものをイノベーションすべく社内各部⾨やグループ各社、パートナー企業と協業してDXを推進しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "「すまう」、「はたらく」、「たのしむ」といった、皆さまの身近なくらしの観点から三井不動産の事業を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産カレンダー「和が街、和が故郷（ふるさと）」のご紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "ビルディング本部｜三井不動産の組織｜事業紹介｜三井不動産",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "WORKとLIFE、双方を支援する本部として、拠点型オフィスや法人向けシェアオフィスなどの働く場所の提供や、多様なソフトサービスで企業の経営課題の解決に寄り添うパートナーを目指します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "「すまう」、「はたらく」、「たのしむ」といった、皆さまの身近なくらしの観点から三井不動産の事業を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産カレンダー「和が街、和が故郷（ふるさと）」のご紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "商業施設・スポーツ・エンターテインメント本部｜三井不動産の組織｜事業紹介｜三井不動産",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "出店をご検討の方に向けた三井不動産の商業施設の特色や出店までの流れのご紹介、出店に関する各種お問い合わせはこちら",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "主な商品ブランドの紹介/メインプロジェクトの紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "オンリーワンのショップや人気ブランドの新業態店舗など、それぞれのコンセプトに沿って、独自性の高い魅力的なテナントが揃いました",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "施設内の店舗商品をオンラインで購入できるほか、限定グッズなどここでしか手に入らないアイテムも定期的に提供し、新たなショッピング価値の創出に取り組んでいます",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "施設内店舗のブランド品など高品質な商品をアウトレットならではのおトクな価格でオンラインでも提供し、新たなショッピング体験を創出していきます",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "「すまう」、「はたらく」、「たのしむ」といった、皆さまの身近なくらしの観点から三井不動産の事業を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビル、商業施設、ホテル・リゾート、ロジスティクス、住宅など、幅広いソリューションとサービスの提供を行う三井不動産の各部門を紹介します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "株主様へのご優待についてご紹介！「三井ショッピングパークポイント進呈等",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産カレンダー「和が街、和が故郷（ふるさと）」のご紹介",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第1四半期決算のお知らせ",
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1941年（昭和16年）7月15日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社情報｜三井不動産",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1909年に日本初のホールディング・カンパニーである「三井合名会社」を設立し、1914年に三井家の所有する土地・建物を管理する不動産課を設置しました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年後半の高度経済成長期を前に取り組んだ、臨海部の埋立事業は大規模コンビナートや企業団地の形成に大きく寄与",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年に東京ディズニーランドの運営会社である（株）オリエンタルランド（以下、OLC）の設立に携わりました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年に、米国三井不動産の子会社ハレクラニコーポレーションを設立し、1984年には由緒あるハワイの老舗ホテルである「ハレクラニ」を全面的に建て替え開業",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代にアメリカで誕生した「アウトレットモール」という新しい流通形態の商業施設に着目し、日本初の本格的アウトレットモールとして「鶴見はなぽ～とブロッサム（現・三井アウトレットパーク大阪鶴見）」がオープンしました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年つくばエクスプレス開業以降、柏の葉スマートシティにおける街づくりの第1ステージとして、柏の葉キャンパス駅周辺街区の街づくりを進めてきました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年開業「ワイキキ パークホテル」をリニューアル",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月のリニューアルで、2つのインフィニティプールの新設や、新たなレストラン・バーなどが登場しました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月に株式会社東京ドームを連結子会社化し、「東京ドームシティ」の各種大規模リニューアルを2023年から2024年にかけて実施しております",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年には音楽コンサート、スポーツイベント、企業の展示会など様々なイベントに対応可能な施設「LaLa arena TOKYO-BAY（ららアリーナ 東京ベイ）」が開業いたしました",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年より、人々の空の移動の起点となる空港の安全・安心を担うべく、空港運営事業に参入し、熊本空港、北海道7空港、そして広島空港へと三井不動産のフィールドを拡大しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月から三井不動産を代表企業とした熊本空港の運営を行っており、2023年3月には新旅客ターミナルビルが完成しました",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年7月から三井不動産を代表企業とした広島空港の運営が始まりました",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月27日、 「くまもとサイエンスパークイノベーション創発エリア」の整備について、熊本県、合志市、三井不動産にて「くまもとサイエンスパーク」事業推進パートナー基本協定を締結し、本プロジェクトが本格始動いたしました",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年より運営している荷主企業さまのコミュニティでは、毎月、 施設見学会、物流に関する勉強会、懇親会といったイベントを開催しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/distribution/",
+    "pass": 1
+   },
+   {
+    "quote": "1929年に竣工した三井本館の歴史・文化を受け継ぎつつ、日本橋地区の再開発を両立するというコンセプトのもと建築された、都市再生の象徴ともいえる超高層ビルです",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/nihonbashi/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年の「COREDO室町2・3」開業を契機にスタートした「日本橋再生計画第2ステージ」",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/nihonbashi/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年、日本橋のたもとに船着場が完成し、舟運観光が本格化",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/nihonbashi/",
+    "pass": 1
+   },
+   {
+    "quote": "1929年に竣工した三井本館の歴史・文化を受け継ぎつつ日本橋地区の再開発を両立するというコンセプトのもと建築された、地上39階・地下4階建ての超高層ビル",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/nihonbashi/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年には東京圏として初となる国家戦略特別区域として内閣府より区域認定を受けるなど、国際的なビジネスセンターにふさわしい拠点性も備えています",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/tokyo_midtown_hibiya/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年春の開業以来、東京ミッドタウンは「JAPAN VALUE」を世界に向けて発信していくことを、街づくりのビジョンとしてきました",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/tokyo_midtown/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年 開園時",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/tokyo_midtown/",
+    "pass": 1
+   },
+   {
+    "quote": "1961年に開館し、2007年にこの地へ",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/tokyo_midtown/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に開業した「アーバンドック ららぽーと豊洲」をはじめ、幅広い層の多彩なニーズに応える商業施設を展開しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/toyosu/",
+    "pass": 1
+   },
+   {
+    "quote": "2006 年に開業した「アーバンドック ららぽーと豊洲」は、造船ドック跡を活用した親水空間を中心とする大型商業施設",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/toyosu/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年竣工の「アーバンドック パークシティ豊洲」をはじめ、さまざまな分譲マンション・賃貸マンションを三井不動産レジデンシャルを中心に展開",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/toyosu/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年11月1日制定、2018年4月1日改定、",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/earth/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月1日改定、2025年4月22日改定",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/earth/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 27 日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1027/download/sumai/20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 31 日（土）より事前案内会を開始",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1027/download/sumai/20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 4 月の新グループ経営理念策定時、「 GROUP MATERIALITY （重点的に取り組む課題）」として、「１． 産業",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1027/download/sumai/20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 9 日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1009_02/download/sumai/20261009_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 9 日（金）物件公式ホームページ開設",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1009_02/download/sumai/20261009_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 4 月の新グループ経営理念策定時、「GROUPU MATERIALITY（重点的に取り組む課題）」として、「1．",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1009_02/download/sumai/20261009_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年８月７日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260807_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年５月28 日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260528.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年５月 13 日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260513_03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期の好調な業績および当社の株主還元方針を総合的に勘案し、当期の１株当たりの年間",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260513_03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年５月 13 日",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260513_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年4月の新グ ルー プ経営理念策定と同時に、 「GROUP MATERIALITY （重点的に取り 組む課題） 」 の策定を行いま した",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年11月に当社はこれまでよ り 高 く 設定した温室効果ガス排出量の中長期目標と ともに、 包括的かつ具体的な戦略と し て脱炭素社会に向けたグ ルー プ行動計画を策定",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度に向けた取り 組みを着実に実行すると ともに、 2050年度の脱炭素社会実現に向けた行動を推進し ています",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年の誕生以来、 全国約600の",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2006年グ ッ ド デザイ ン賞受賞",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年よ り 運営し ている荷主企業さまのコミ ュニテ ィ では、 毎月、 施設",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年の設立以来、 培われた確かな",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年時点 空撮",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年時点 空撮",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年よ り 「日本橋再生計画」 の第3ステージが始動",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年にスター ト した 「日本橋再生計画」 第 ２ ステージからは、 「産業創造」 「界隈創生」 「地域共生」 「水都再生」 の",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年4月に新艇が就航しま した",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1997年から比較すると 、 日本橋エリ アは開発と一体で緑量を",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年11月に柏の葉エリ アの生活者を対象に",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2008年グ ッ ド デザイ ン賞受賞",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年グ ッ ド デザイ ン賞受賞",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年に六本木で開業した、 オ フ ィ ス ・",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1972年以来、 欧米の主要都市におけるビル事業をはじめ、 ホテル事業、 住宅事業などを世界で展開",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "バブル崩壊後、不動産業界は新たなビジネスモデルの構築が求められるようになりました",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル戦略R&D拠点整備 ビジネスモデルの変革働き方の変化",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタ ルを組み合わせたビジネスモデルの確立、 イ ノ ベーシ ョ ン推進」 に向け、 全事業でDXに積極的に取り 組ん でいます",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三井不動産【8801】長期的な拡大が続きやすいビジネスモデルとなっている理由",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産のインカムゲインやキャピタルゲイン、マネジメントを最適に組み合わせることで利益の最大化を行うビジネスモデルになっていて、不動産活用の最適な選択をするために、多様な不動産業を展開していることが分かります(2025年3月期第2四半期(中間期)決算説明資料 P11参照)",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "建物の清掃・設備の保守管理の請負",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "建物内外の保守・警備の請負",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "pass": 1
+   },
+   {
+    "quote": "土地・建物および各種付属施設の管理・保守・保安・清掃の請負・受託",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化機器を導入した三井不動産ロジスティクスパーク船橋Ⅲ内の区画を保管のみならず、 荷役・運送までワンストップで複数のお客さまで共同利用いただくことで、従量課金でご利用いただけます",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/distribution/",
+    "pass": 1
+   },
+   {
+    "quote": "ファッション業界の課題解決に挑むべく、国内外のブランドの規格外品やデッドストック品を再編集・販売し、売上の一部をアップサイクル活動へ還元しています",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/earth/",
+    "pass": 1
+   },
+   {
+    "quote": "従量課金でご利用いただけます",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、不動産管理を中心とするマネジメント事業も一定の規模がありますから、賃貸事業含めてストックでの売上が期待される事業の規模が大きいです",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "そしてストック事業が大きいということは、積み上がりも期待できるということです",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産の販売の動向に業績が左右されやすいと思われがちですが、国内住宅分譲は豊富なランドバンク（用地のストック）を抱えていて、特にマンションは毎期3000戸台を安定的に供給しています",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "・三井不動産は多様な不動産事業を展開していて、賃貸やマネジメントなどストック収益が期待できる事業も規模が大きく、一定の安定した業績が期待される企業",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "マネジメントが好調となった要因は、仲介・アセットマネジメントがリハウス(個人向け仲介)の取引件数や単価上昇による増益だったとしていて、不動産価格の上昇や堅調な不動産市場の中で好調となっています",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "施設営業では、ホテル単価の上昇や東京ドームでの稼働日数や来場者数の増加等によって増益になりました",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "東京ドームの持つアセットおよび運営ノウハウに、三井不動産の街づくりにおける知見および顧客基盤などを掛け合わせることにより、東京ドームシティ等の更なる付加価値創造を、そして三井不動産街づくりフィールドにおけるスポーツ・エンターテインメントを核とした新たな魅力の創出を目指してまいります",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "pass": 1
+   },
+   {
+    "quote": "三井不動産グループの住宅利用者向けメンバーシップサービス",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "pass": 1
+   },
+   {
+    "quote": "新旅客ターミナルビルでは、お客様が楽しく快適な時間を過ごせるよう、最新の設備機器の導入や商業エリアを充実させております",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "pass": 1
+   },
+   {
+    "quote": "都市の空洞化を解消するとともに、暮らしを「より豊かにより楽しく」変えていく拠点（HUB）を作ることで、顧客のウェルビーイングに寄与します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の手軽で豊かな食生活の実現と、飲食業界における課題解決に貢献いたします",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "環境理念の実現に向けて、重要なステークホルダーである顧客、地域、行政などコミュニティと連携・協力してより良い環境づくりを進めます",
+    "url": "https://www.mitsuifudosan.co.jp/business/development/earth/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちも、 様々な環境変化 ・ 多様化する顧客ニーズに対応し、 新たな",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "時代の変化を捉え、 顧客に対する価値創造を深化",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客および業務シ ステ ムの戦略的な刷新、 海外を含むグ ルー プ会社全体",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アリ ーナ運営によ る顧客接点の増加、 イベン ト コンテンツ等を充実させ、 商業施設と のシナジー効果を高める施策を展開",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様々な事業領域への展開を図り 、 街づ く り における顧客価値を高めていき ます",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.mfbm.co.jp/corporate/organization/index.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "総合デベロッパーとしての強みと各国のマーケットに精通したパートナーの強みを掛け合わせ、新たな開発事業に取り組みながら、飛躍的な成長を目指します",
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/global/",
+    "pass": 1
+   },
+   {
+    "quote": "コア事業で培 っ た強み ・ ノ ウハウを活かした 「新たなアセ ッ ト ク ラ ス」 への展開を加速",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Mitsui Shopping Park &mall」 、 「Mitsui Outlet Park Online」 をはじめ商業施設とECそれぞれの強みを掛け合わせて、",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "交通利便性の高さやハー ド ・ ソ フ トの強みを活かし",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コア事業で培 っ た強み ・ ノ ウ ハウを活かした 「新たなアセ ッ ト ク ラ ス」 への展開を加速",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東京ドームの強みを活かした展開",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他、 三井不動産グ ルー プの強みや ノ ウ ハウを活かし、 再生エネルギー （洋上風力発電等） や学校施設 （Rugby School Japan） の開校など 、",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メニ ューを拡充、 「新産業創造」 への貢献を強化 ・ 加速すると ともに、 当社グ ルー プの強みが",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スター ト ア ッ プ、 アカデミ ア等の多様なプレイ ヤーと の連携を通じ、 当社グ ルー プの強みが活かせる注力分野を見極め",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の国家戦略技術に強みを持つ東北大学と パー トナーシ ッ プを締結し、",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売用の在庫も多額ですから、その販売の動向も重要です",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "多額の評価益を抱えた資産を保有している点が、三井不動産の大きな強みであることが分かります",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "三井不動産の事業セグメントは以下の5つです(Investors Guide 「Business Overview」「Market Potential」参照)",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "続いてセグメント別の売上構成と(事業利益額)は、以下の通りです(2025年3月期第2四半期(中間期)決算説明資料 P9、74参照",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "ではどうして減益になったのか、もう少し詳しくセグメント別の事業利益の前期比を見てみると、以下の通りです",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の事業利益の予想では、",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プレゼンテーション資料 - 三井不動産 — プレゼンテーション資料 - 三井不動産 三井不動産株式会社 PDF https://www.mitsuifudosan.co.jp > presentation > pdf",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/presentation/pdf/&_INNOVATION_2030PJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三井不動産 【8801】長期的な拡大が続きやすい ビジネス ... — 三井不動産 【8801】長期的な拡大が続きやすい ビジネス ... 日興フロッギー https://froggy.smbcnikko.co.jp > ...",
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "pass": 3
+   },
+   {
+    "quote": "INNOVATION 2030（長期経営方針）説明資料 - 三井不動産 — INNOVATION 2030（長期経営方針）説明資料 - 三井不動産 三井不動産株式会社 PDF https://www.mitsuifudosan.co.jp > innovation2030",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/innovation2030/pdf/innovation2030.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 持続的な成長を実現する ビジネスモデル - 三井不動産 — 2. 持続的な成長を実現する ビジネスモデル - 三井不動産 三井不動産株式会社 PDF https://www.mitsuifudosan.co.jp > IR2026_ja_01_04",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/integratedreport/pdf/IR2026_ja_01_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 - 三井不動産 — 事業紹介 - 三井不動産 三井不動産株式会社 https://www.mitsuifudosan.co.jp > business",
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜IR情報 - 三井不動産 — IRライブラリ｜IR情報 - 三井不動産 三井不動産株式会社 https://www.mitsuifudosan.co.jp > corporate > library",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 三井不動産 — IR情報 - 三井不動産 三井不動産株式会社 https://www.mitsuifudosan.co.jp > corporate",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 三井不動産 — 決算説明資料 - 三井不動産 三井不動産株式会社 PDF https://www.mitsuifudosan.co.jp > presentation > pdf",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/presentation/pdf/FR_BH2605j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の皆さまへ｜IR情報 - 三井不動産 — 個人投資家の皆さまへ｜IR情報 - 三井不動産 三井不動産株式会社 https://www.mitsuifudosan.co.jp > corporate > individual",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "公告・ 決算 公告｜企業情報 - 三井不動産レジデンシャル — 公告・ 決算 公告｜企業情報 - 三井不動産レジデンシャル 三井不動産レジデンシャル https://www.mfr.co.jp > 企業情報 > 会社概要",
+    "url": "https://www.mfr.co.jp/company/outline/pubnotice/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜会社情報 - 三井不動産 — 組織図｜会社情報 - 三井不動産 三井不動産株式会社 https://www.mitsuifudosan.co.jp > corporate > organization",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 | 三井不動産 ビルマネジメント株式会社 — 組織図 | 企業情報 | 三井不動産 ビルマネジメント株式会社 三井不動産ビルマネジメント https://www.mfbm.co.jp > corporate > organization",
+    "url": "https://www.mfbm.co.jp/corporate/organization/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜企業情報 - 三井不動産商業マネジメント株式会社 — 組織図｜企業情報 - 三井不動産商業マネジメント株式会社 三井不動産商業マネジメント株式会社 https://www.mf-shogyo.co.jp > company > organization",
+    "url": "https://www.mf-shogyo.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井不動産 株式会社組織図 — 三井不動産 株式会社組織図 三井不動産株式会社 PDF https://www.mitsuifudosan.co.jp > download > mf_o...",
+    "url": "https://www.mitsuifudosan.co.jp/corporate/organization/download/mf_organization2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 会社紹介 - 三井不動産投資顧問 — 組織図 | 会社紹介 - 三井不動産投資顧問 三井不動産投資顧問 https://www.mfia.co.jp > 会社紹介",
+    "url": "https://www.mfia.co.jp/corporate/chart.html",
+    "pass": 3
+   },
+   {
+    "quote": "開拓者 インタビュー | 新卒採用情報 - 三井不動産 — 開拓者 インタビュー | 新卒採用情報 - 三井不動産 三井不動産株式会社 https://recruit.mitsuifudosan.co.jp > shinsotsu > interview",
+    "url": "https://recruit.mitsuifudosan.co.jp/shinsotsu/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "三井不動産 植田俊 社長 - 日興フロッギー — 三井不動産 植田俊 社長 - 日興フロッギー 日興フロッギー https://froggy.smbcnikko.co.jp > mitsuifudosan",
+    "url": "https://froggy.smbcnikko.co.jp/series-name/mitsuifudosan/",
+    "pass": 3
+   },
+   {
+    "quote": "モープラFT【 三井不動産 の植田 社長 に聞く不動産業の新しい ... — モープラFT【 三井不動産 の植田 社長 に聞く不動産業の新しい ... bs-tvtokyo.co.jp https://www.bs-tvtokyo.co.jp > ... > ラインナップ",
+    "url": "https://www.bs-tvtokyo.co.jp/mplusft/backnumber/202609/23593_202609250705.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | 新卒採用情報 — 社員 インタビュー | 新卒採用情報 三井不動産商業マネジメント株式会社 https://www.mf-shogyo.co.jp > recruit > work > interview",
+    "url": "https://www.mf-shogyo.co.jp/recruit/work/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井不動産 植田 社長 「街づくりから産業づくりへ」 革新の ... — 三井不動産 植田 社長 「街づくりから産業づくりへ」 革新の ... 日経ビジネス電子版 https://business.nikkei.com > インタビュー",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00263/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mitsuifudosan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shopping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/hotelresort/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/sumai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/shisan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/organization/s-e/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/nihonbashi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/kashiwanoha/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/tokyo_midtown_hibiya/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/tokyo_midtown/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/toyosu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/new/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/development/earth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/life/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/business/life/working/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1027/download/sumai/20261027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1009_02/download/sumai/20261009_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260807_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260528.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260513_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/ir/library/news/2026/pdf/news_260513_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/corporate/pdf/corporate.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/assets/image/business/organization/img_group_08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://froggy.smbcnikko.co.jp/63276/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mfbm.co.jp/corporate/organization/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.mitsuifudosan.co.jp/shinsotsu/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://froggy.smbcnikko.co.jp/series-name/mitsuifudosan/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三井不動産",
+   "results": [
+    "https://www.mitsuifudosan.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E4%B8%8D%E5%8B%95%E7%94%A3",
+    "http://www.mfr.co.jp/index.html",
+    "https://www.mf-realty.jp/",
+    "https://www.mfia.co.jp/",
+    "https://ja.wikipedia.org/wiki/三井不動産",
+    "https://www.mitsuifudosan.co.jp/corporate/about_us/",
+    "https://www.mitsuifudosan.co.jp/corporate/",
+    "https://www.mitsuifudosan.co.jp/business/",
+    "https://www.mitsuifudosan.co.jp/corporate/group_list/"
+   ]
+  },
+  {
+   "query": "三井不動産 ビジネスモデル",
+   "results": [
+    "https://www.mitsuifudosan.co.jp/corporate/ir/presentation/pdf/&_INNOVATION_2030PJ.pdf",
+    "https://froggy.smbcnikko.co.jp/63276/",
+    "https://www.mitsuifudosan.co.jp/corporate/innovation2030/pdf/innovation2030.pdf",
+    "https://www.mitsuifudosan.co.jp/corporate/ir/library/integratedreport/pdf/IR2026_ja_01_04.pdf",
+    "https://www.mitsuifudosan.co.jp/business/",
+    "https://www.mfia.co.jp/corporate/group-roles.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frqy&q_no=9",
+    "https://mindmeister.jp/posts/bm-mitsuifudosan",
+    "https://www.mitsuifudosan.co.jp/corporate/ir/individual/business/",
+    "https://www.mitsuifudosan.co.jp/corporate/innovation2030/"
+   ]
+  },
+  {
+   "query": "三井不動産 決算説明資料",
+   "results": [
+    "https://www.mitsuifudosan.co.jp/corporate/ir/library/",
+    "https://www.mitsuifudosan.co.jp/corporate/ir/",
+    "https://www.mitsuifudosan.co.jp/corporate/ir/presentation/pdf/FR_BH2605j.pdf",
+    "https://www.mitsuifudosan.co.jp/corporate/ir/individual/",
+    "https://www.mfr.co.jp/company/outline/pubnotice/",
+    "https://www.mflp-r.co.jp/ja/ir/library.html",
+    "https://www.buffett-code.com/company/8801/library",
+    "https://edinetdb.jp/company/E03855/ir-docs/",
+    "https://edinetdb.jp/company/E03855/presentations/",
+    "https://irbank.net/8801/ir"
+   ]
+  },
+  {
+   "query": "三井不動産 事業系統図",
+   "results": [
+    "https://www.mitsuifudosan.co.jp/corporate/organization/",
+    "https://www.mfbm.co.jp/corporate/organization/index.html",
+    "https://www.mf-shogyo.co.jp/company/organization.html",
+    "https://www.mitsuifudosan.co.jp/corporate/organization/download/mf_organization2022.pdf",
+    "https://www.mfia.co.jp/corporate/chart.html",
+    "https://www.mitsuifudosan.co.jp/corporate/",
+    "https://www.mitsuifudosan.co.jp/business/development/",
+    "https://www.mitsui-fc.co.jp/company/organization/",
+    "https://www.mfr.co.jp/company/organization/",
+    "https://ja.wikipedia.org/wiki/三井グループ"
+   ]
+  },
+  {
+   "query": "三井不動産 社長 インタビュー",
+   "results": [
+    "https://recruit.mitsuifudosan.co.jp/shinsotsu/interview/",
+    "https://froggy.smbcnikko.co.jp/series-name/mitsuifudosan/",
+    "https://www.bs-tvtokyo.co.jp/mplusft/backnumber/202609/23593_202609250705.html",
+    "https://www.mf-shogyo.co.jp/recruit/work/interview.html",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00263/",
+    "https://recruit.mitsuifudosan.co.jp/shinsotsu/work/crosstalk01/",
+    "https://note.com/estate_good/n/n62b3e68dc39a",
+    "https://www.zaikai.jp/articles/detail/5815",
+    "https://txbiz.tv-tokyo.co.jp/wbs/vod/post_295559",
+    "https://www.youtube.com/watch?v=HarDm-TlXz4"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像15件／外部4頁・検索5回）"
+ }
+}

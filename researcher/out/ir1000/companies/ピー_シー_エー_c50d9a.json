@@ -1,0 +1,1377 @@
+{
+ "name": "ピー・シー・エー",
+ "aliases": [],
+ "context": "証券コード9629／情報・通信業／プライム（内国株式）／2026.03期 売上高15,018百万円 営業利益率15.4%",
+ "researched_at": "2026-11-02T18:51:53.113783+00:00",
+ "official_url": "https://pca.jp/",
+ "identified_by": "search:yahoo_jp:ピー・シー・エー",
+ "profile": {
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "173億06百万円",
+    "url": "https://corp.pca.jp/company/profile.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結 : 755名 単体 : 538名 ※2026年3月31日現在",
+    "url": "https://corp.pca.jp/company/profile.html",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和55(1980)年8月1日",
+    "url": "https://corp.pca.jp/company/profile.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンピューターソフトの開発および販売",
+    "url": "https://corp.pca.jp/company/profile.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様向けサポート",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客志向のもと世の中の変化を先取",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "幅を拡げ、顧客企業の「経営サポート業」を主体とした",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客志向のビジネスへ変革",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "提供により、顧客の環境変化への適応およびビジネスの継続をサポートする存在",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多様な顧客接点の確保",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客への深い理解と",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に信頼され、",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 全ての顧客接点で顧客対応に注力できるフロント",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客視点の事業およびサービス開発につながる、",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シームレスな顧客連携/管理基盤の構築",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客との双方向のデータ連携/コミュニケーション",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新規および既存顧客に対する営業/提案力の向上へ",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 多様な接点・コミュニケーション手段、顧客や販",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 社内(部門間)および社外(顧客、販売代理店等)との",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客接点における利便性の追求",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客接点の高度化・効率化",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客志向のビジネス実現のための管理体制の整備",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取り込みを、既存顧客はもとより潜在顧",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レユーザーにも最新製品(機能)・サービ",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応用研究活動から生まれたアイデア・シーズや、顧客接",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "点強化から得られたニーズをもとに、顧客を起点とした",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様環境の電子化・デジタル化による業務のDXを支援する",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "率向上と、ユーザー起点の迅速なサービス開発と提供を実現する",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新たに導入・構築した顧客管理基盤の",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CRM・SFAを活用し、顧客ニーズへの",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BCN Web会員数6万名突破！ 無料登録で読める会員限定記事10000本以上！",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業として入った当初は「PC-9800シリーズ」の全盛期で、お客様の現場にフロッピーディスク（FD）が複数枚入ったケースを持って行って、システムFDと模擬データでデモンストレーションを行っていました",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、LANの普及によってPC同士の接続が容易になり、ITのユーザー企業は大企業中心から中堅・中小企業へと広がりました",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "私の役割は、バックオフィスSaaSベンダーとして、AIをどこに適用し、どの業務を自動化すべきかを見極め、お客様へ価値として届けることだと考えています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "どこまで自動化するのか、どの業務領域でAIを活用するのか自社で徹底的に検証し、その過程で得られた実践的な知見をお客様への提案力向上につなげます",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "――約4万社のオンプレミスユーザーのクラウド移行を喫緊の課題として挙げています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "29年3月のサポート終了までに、対象ユーザーにはクラウドまたはサブスクリプション契約へ移行していただく必要があります",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中で当社は、多くのお客様との接点から得られた生の情報や成功・失敗事例をパートナー企業と共有することで、支援を強化したいです",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社当初は新製品の検証やパッケージ製品の出荷作業、ユーザーサポート",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客と接する中でさまざまな業種・業態の現場業務についても学んだ",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様に育てていただいた」と振り返る",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "このキャンペーンには全国の認定パートナーが参画しており、オンプレミスユーザーの移行を推し進める強力なツールとして活用されているという",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "ピー・シー・エー、「PCA Arch」を軸に顧客のクラウド移行を加速 AIエージェント展開を本格化",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス19年目",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "基幹業務クラウドサービスの決定版",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑かつ独自の会計機能を求められる建設業や公益法人、社会福祉法人、医療法人向けの製品や、小規模事業者様向けのソフトもラインナップ",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "月次の給与計算から年末調整など行える給与計算や、人事管理・就業管理・メンタルヘルス対策サービスもラインナップ",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PCAの基幹業務クラウドサービス",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(税抜)から利用できるクラウドサービスです",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PCAソフト連携サービスご紹介",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PCAソフトと連携するサービスをご紹介",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "APIで業種ニーズに対応した様々なサービスとの連携でデジタルトランスフォーメーションを促進",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・クラウド・保守",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの充実・成長軌道",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "りした新事業・新製品・新サービス",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の経営・運営に係るワンストップサービスへ提供の",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアの提供を核としたトータルソリューション（モノおよびサービス）の",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ベストなソリューションの提供",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "長く利用されるサービスの提供",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客視点の事業およびサービス開発につながる、",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "つながるサービス体系やツールの見直し(ブランド",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "/サービスの整理、AI等を活用した最適提案、等)",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "更・製品リブランディング)、開発体制の変革、新人事制度導入",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ.主力事業の収益基盤 状況",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．新製品・新規事業開発につながるシリーズ発掘 〇 PCA HUB構想が進み PCA Hub eDOCをリリース",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．製品開発力の復活(伝統と革新) 〇 製品企画機能を整理し、企画設計・開発・検査の一貫体制実現",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トータルソリューション・サービスを提供",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主力事業の収益基盤の確立 新たなビジネスチャンス",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ.主力事業の収益基盤の確立",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスクを中心に、オンプレ製品の",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスへの切り替えを促進し、オンプ",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レユーザーにも最新製品(機能)・サービ",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCA Hubサービスの始動",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推進する周辺業務と基幹業務をサービス連携し、業務効",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発の企画設計・開発・検査を一貫した体制で実施し、開発工程の効",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "率向上と、ユーザー起点の迅速なサービス開発と提供を実現する",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社サービスを継続的に安全に提供する",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、長年培った経験と実績を活かし、PCAだからこそできる新しい製品やサービスの開発・体制強化を進めています",
+    "url": "https://corp.pca.jp/ir/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "PCAソフトウェアをサービスから選ぶ",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "【動画 2分48秒】「PCAのHRソリューション」",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "※上記のPCA Hubシリーズ「給与明細」「労務管理」「年末調整」をセットにしたサービス",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "「請求書」「納品書」「支払明細書」などの帳票発行を電子化し、配信するサービス",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "「PCA会計」には、消費税申告書作成の機能が備わっているため、本製品を購入いただく必要はありません",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "製品選びのお手伝いをいたします",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページだけでは、製品の選定が難しい場合は、お気軽にご相談ください",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、豊富な導入経験を踏まえ、訪問やリモートによる製品デモやヒアリングを行っております",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "また、独自の会計基準が適用される公益法人向けにリリースされたソフトは、もともと同種の製品が少ないこともありますが、他を寄せ付けない高い完成度に裏打ちされた高シェアを誇り、医療法人向けや福祉法人向け専用ソフトなどのバリエーションへ発展しています",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、こういったソフトウェア設計上の技術的背景を武器に、業界に先駆けてクラウドサービスを手掛けるなど、開発技術の高さも目を見張るものがあります",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "商品金額：0円",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAマイナンバー関連商品・サービス",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAオプション製品",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAソフトウェア製品",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAマイナンバー収集サービス",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "導入指導・構築サービス",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "新たな主力製品「PCA Arch（アーチ）」を核に、AIによる業務の自律化と真のオートメーション実現を目指す戦略を描いている",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド製品の成長率も直近2年間は鈍化傾向にあります",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "第一は、製品開発においてどのようなAIエージェントやAIアシスタントを組み込むかという点",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、キャッシュバックや操作支援サービスを組み合わせたキャンペーンも展開し、移行を後押ししています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば「この業種にはPCA ArchのこのAI機能が効果的である」「このような課題にはこのアプローチが成功しやすい」といった具体的な業務改善ノウハウを、製品と合わせて提供していく",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社当初は新製品の検証やパッケージ製品の出荷作業、ユーザーサポート",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド版製品への移行を支援するために設けた「選べる安心応援キャンペーン」の実施にあたっては、玉井社長の号令で大規模な費用を投じることが決まった",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けIT製品の導入事例情報の詳細PDFデータを何件でもダウンロードし放題！…etc…",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー、士業様向け情報",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー様専用サイト",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・認定パートナーの方はこちら",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PSIPパートナーの方はこちら",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PCAソフト連携サービスご紹介",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PCAソフトと連携するサービスをご紹介",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "• Web・販売代理店・社内各部門が一体となった",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売代理店等との接点の拡大",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 社内(部門間)および社外(顧客、販売代理店等)との",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCAは多様な働き方を支えるPCAクラウドやPCA Hubシリーズのサービスを提供し、お客様やパートナー様と共に成長する企業をめざします",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(クラウド・サブスク) 周辺サービス パートナー・専門家士業等 連携ソリューション コラボ企業・団体等",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多種多様なパートナー",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• イベント：フェス、PCAパートナーフォーラム",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時代と環境変化に先駆け、働く人たちに寄り添い続けるPCAの最新のトピックスをご紹介します",
+    "url": "https://corp.pca.jp/ir/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "PCA会計 他ソフトウェア一覧 | PCA正規代理店ミモザ情報システム",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "業務ソフトウェアメーカーは、会社の根幹を託すパートナーです",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "財務体質も良好、開発体制も万全で、皆様の基幹業務効率化のパートナーとして「長く安心してお付き合いできるメーカー」であると、おすすめしております",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミモザ情報システムは、PCA認定インストラクションパートナーです",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "半歩先の未来をパートナーに",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、パートナー企業にとってはクラウド移行を提案する好機となるでしょう",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "――パートナー戦略について教えてください",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、多くのパートナー企業もAIビジネスの立ち上げ方や提案手法について試行錯誤しています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中で当社は、多くのお客様との接点から得られた生の情報や成功・失敗事例をパートナー企業と共有することで、支援を強化したいです",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "このキャンペーンには全国の認定パートナーが参画しており、オンプレミスユーザーの移行を推し進める強力なツールとして活用されているという",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用とデータセキュリティを支える「DataXray」 マクニカが提案する、パートナーのビジネスを加速させる4つのシナリオ",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「会計」「給与」「販売管理」などの業務シーンごとに基幹業務ソフトが選択でき、月額でご利用することが可能です",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "月額9,000円",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "月額12,600円",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・クラウド・保守",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "内ストック売上高",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（保守・クラウド） 60億円 88億円",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．オンプレミス事業の強化 〇 サブスクリプション版をリリース",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型ビジネスモデル",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスクを中心に、オンプレ製品の",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク型ブランドへのリブランディング",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク』に紐づく新プロダクト名称と新プロダクトロゴを作成し、",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を利用できるサブスクリプションサービスのPCAとして認知いただけ",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ど、当社のサブスクリプションサービスでバックオフィスの生産性向",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(内、ストック[保守・クラウド]売上高： 95億円以上)",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(クラウド・サブスク) 周辺サービス パートナー・専門家士業等 連携ソリューション コラボ企業・団体等",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開発・製造・販売 保守サポート クラウドサービス 専用帳票等販売 連携製品販売 導入・運用支援",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレ PSS(保守)",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレ 保守",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック収入基盤構築",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCAクラウド PCAサブスク",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来のオンプレミスソフトをサブスクリプション形式で提供する「",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "いつでもどこでも使える「PCAクラウド」「PCA Arch」、オンプレミス（自社保有のパソコン、サーバ）環境にインストールして使う「PCAサブスク」、業務効率化を支援する「PCA Hub」からお選びいただけます",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "給与明細書／賞与明細書、月額変更届、算定基礎届、賞与支払届、源泉徴収票、源泉徴収簿／賃金台帳、勤怠台帳、社員台帳",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAクラウドは1ライセンスから利用でき、社長様のご自宅や支店、出張先、社員の在宅勤務、顧問税理士とのデータ共有の場面など、利用するだけで生産性が大幅に向上します",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク会計jiman（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク給与jiman（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク人事管理jiman（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク商魂jiman（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク商管jiman（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク会計dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク給与dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク人事管理dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク商魂dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク商管dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク固定資産dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク社会福祉法人会計dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク公益法人会計dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク建設業会計dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク個別原価会計dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク法定調書dx（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク会計hyper（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク給与hyper（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク人事管理hyper（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "PCAサブスク固定資産hyper（月額）",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系や評価制度の見直しなど準備期間を要したものの、継続課金や前払いモデルが徐々に浸透しました",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体の売上高の約80％を継続課金型ビジネスが占めており、安定した収益基盤を構築できています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "29年3月のサポート終了までに、対象ユーザーにはクラウドまたはサブスクリプション契約へ移行していただく必要があります",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "販売管理・仕入・在庫管理ソフト",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売業務と仕入在庫管理業務のデータ共通管理が可能",
+    "url": "https://pca.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "② 健全経営、長期的観点での高収益型企業を志向します",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結営業利益率 10％以上 19%",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ.高収益体質に向けた経営管理基盤の強化",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3．収益力強化を意識した業績評価指標の導入 〇 粗利益及び重点施策指標による業績評価を実施",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高収益で持続可能な",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅳ.高収益で持続可能な経営管理基盤の構築",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高収益で効率的な事業活動を実現すべく",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 営業利益 営業利益率",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結営業利益率 16％以上",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの強み",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PCAの事業や強み、業績などをわかりやすくまとめた早わかりコンテンツです",
+    "url": "https://corp.pca.jp/ir/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "仕入・在庫管理",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理 ／ 生産管理 ／ 販売管理 ／ 仕入・在庫管理",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "仕入管理、支払消込、在庫管理、棚卸、各種集計表や分析帳票",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "注文書、仕入明細表、仕入債務の銀行振込依頼書／データ、出荷伝票、在庫集計表、棚卸表など",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理、生産管理、販売管理、仕入管理、回収、支払管理、在庫管理",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "見積書、明細請求書、合計請求書、納品書、領収書、注文書、仕入明細表、出荷伝票、在庫集計表、棚卸表など",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "販売仕入在庫 バージョンアップ",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "第三は、当社の競争優位性の一つであるサポート業務へのAI導入です",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "――25年にリリースした新たな基幹業務クラウド基盤PCA Archの手応えや狙い、強みをお聞かせください",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "これが他社にはない大きな競争優位性になります",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ストック型ビジネスモデル",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2010年代後半・現在・将来の",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月1日(火曜日)よりリリースしました",
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算レポート更新",
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月17日",
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月21日",
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期(第47期)第2四半期 決算説明会資料",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月24日現在",
+    "url": "https://corp.pca.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "1980年の創業以来、業務ソフト専業メーカーとして信頼と実績を築いてきたピー・シー・エー株式会社が提供するソフトウェア",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "2014年に東証一部に上場し、現在は東証プライム市場に上場しています",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 11月",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 12月",
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "pass": 3
+   },
+   {
+    "quote": "1987年の入社以来、幾度もの技術革新を最前線で見てきた玉井史郎社長CEOは、AIの登場を歴史的変化と捉え、AIを軸に事業変革を進める",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "1963年生まれ",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年に取締役、19年に営業本部長、同年にクロノス取締役（現任）、21年にピー・シー・エー事業本部長、同年に常務取締役、25年にタイレルシステムズ取締役（現任）に就任",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月02日付 vol.2126",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HubSpot導入事例 | ピー ・ シー ・ エー 株式会社 — HubSpot導入事例 | ピー ・ シー ・ エー 株式会社 HubSpot（ハブスポット） https://www.hubspot.jp > case-studies > pca",
+    "url": "https://www.hubspot.jp/case-studies/pca",
+    "pass": 3
+   },
+   {
+    "quote": "ピー ・ シー ・ エー の「会社紹介」 OpenWork — ピー ・ シー ・ エー の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > 採用情報",
+    "url": "https://www.openwork.jp/a0910000000Frx5/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | ピー ・ シー ・ エー 株式会社コーポレートサイト — 決算説明 会 資料 | ピー ・ シー ・ エー 株式会社コーポレートサイト PCAクラウド https://corp.pca.jp > IR情報 > IRライブラリー",
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会動画 | ピー ・ シー ・ エー 株式会社コーポレートサイト — 決算説明 会動画 | ピー ・ シー ・ エー 株式会社コーポレートサイト PCAクラウド https://corp.pca.jp > IR情報",
+    "url": "https://corp.pca.jp/ir/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ピー ・ シー ・ エー 株式会社コーポレートサイト - PCA — IR情報 | ピー ・ シー ・ エー 株式会社コーポレートサイト - PCA PCAクラウド https://corp.pca.jp > ...",
+    "url": "https://corp.pca.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ピー ・ シー ・ エー 】[9629]IR情報 中期経営計画や 決算 短信 — 【 ピー ・ シー ・ エー 】[9629]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9629",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ピー ・ シー ・ エー 株式会社コーポレートサイト - PCA — 会社概要 | ピー ・ シー ・ エー 株式会社コーポレートサイト - PCA PCAクラウド https://corp.pca.jp > 会社情報",
+    "url": "https://corp.pca.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "ピー ・ シー ・ エー 代表取締役 社長 執行役員CEO 玉井史郎 — ピー ・ シー ・ エー 代表取締役 社長 執行役員CEO 玉井史郎 週刊BCN＋ https://www.weeklybcn.com > journal > keyperson > detail",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "pass": 3
+   },
+   {
+    "quote": "ピー ・ シー ・ エー社長 CEOに玉井史郎氏 - 日本経済新聞 — ピー ・ シー ・ エー社長 CEOに玉井史郎氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00001_W6A320C2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pca.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sharedresearch.jp/ja/companies/9629",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.pca.jp/ir/library/presentation.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.pca.jp/ir/movie.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.pca.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.pca.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ピー・シー・エー",
+   "results": [
+    "https://pca.jp/",
+    "https://pca.recruitment.jp/",
+    "https://d5h000003lvjqea2.my.site.com/pcamypage/login?locale=us",
+    "https://www.cloud-erp-guide.com/blog/what-is-pca-accounting",
+    "https://job.mynavi.jp/28/pc/search/corp39149/outline.html",
+    "https://ja.wikipedia.org/wiki/ピー・シー・エー",
+    "https://corp.pca.jp/company/profile.html",
+    "https://pca.jp/area_product/cloud/index.html",
+    "https://corp.pca.jp/",
+    "https://finance.yahoo.co.jp/quote/9629.T"
+   ]
+  },
+  {
+   "query": "ピー・シー・エー ビジネスモデル",
+   "results": [
+    "https://corp.pca.jp/assets/pdf/pca_vision_2030_2nd_stage.pdf",
+    "https://sharedresearch.jp/ja/companies/9629",
+    "https://www.hubspot.jp/case-studies/pca",
+    "https://www.weeklybcn.com/journal/explanation/detail/20181112_164997.html",
+    "https://www.openwork.jp/a0910000000Frx5/pr/",
+    "https://aws.amazon.com/jp/solutions/case-studies/pca/",
+    "https://finance.logmi.jp/articles/381032",
+    "https://business.shigotonoshikumi.jp/",
+    "https://edinetdb.jp/company/E04894/midterm-plans/",
+    "https://ja.wikipedia.org/wiki/ピー・シー・エー"
+   ]
+  },
+  {
+   "query": "ピー・シー・エー 決算説明資料",
+   "results": [
+    "https://corp.pca.jp/ir/library/presentation.html",
+    "https://corp.pca.jp/ir/movie.html",
+    "https://corp.pca.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9629",
+    "https://www.youtube.com/watch?v=oGvww1HBzSU",
+    "https://finance.logmi.jp/articles/380574",
+    "https://corp.pca.jp/ir/library/",
+    "https://finance.biggo.jp/news/JP_9629.T_2026-04-30",
+    "https://edinetdb.jp/company/E04894/presentations/",
+    "https://edinetdb.jp/company/E04894/ir-docs/"
+   ]
+  },
+  {
+   "query": "ピー・シー・エー 事業系統図",
+   "results": [
+    "https://corp.pca.jp/company/profile.html",
+    "https://www.mimosa.gr.jp/pca/item_list/soft/?srsltid=AYCX9vIlqcQqBUlYRFM8_nnj9R2Sd_3TojGhyIukL4nsXgajEi1_dEfw",
+    "https://it.impress.co.jp/articles/-/29324",
+    "https://sharedresearch.jp/ja/companies/9629",
+    "https://www.openwork.jp/a0910000000Frx5/pr/",
+    "https://corp.pca.jp/company/history1.html",
+    "https://pca.recruitment.jp/profile/",
+    "https://www.occ21.co.jp/wp-content/uploads/2026/05/PCA_backoffice.pdf",
+    "https://www.revoshare.com/information/42",
+    "https://ja.wikipedia.org/wiki/ピー・シー・エー"
+   ]
+  },
+  {
+   "query": "ピー・シー・エー 社長 インタビュー",
+   "results": [
+    "https://corp.pca.jp/company/profile.html",
+    "https://www.weeklybcn.com/journal/keyperson/detail/20260914_217209.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260325588965",
+    "https://www.nikkei.com/article/DGXZQODZ00001_W6A320C2000000/",
+    "https://www.saj.or.jp/publicity/board_member/3597/",
+    "https://www.buffett-code.com/company/9629/governance",
+    "https://www.weeklybcn.com/journal/keyperson/detail/20180717_163159.html",
+    "https://corp.pca.jp/ir/management/message.html",
+    "https://www.sankei.com/article/20260327-7L7GRNPYP5MSTIIDDTEQ6NONP4/",
+    "https://www.weeklybcn.com/journal/column/detail/20260918_217213.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

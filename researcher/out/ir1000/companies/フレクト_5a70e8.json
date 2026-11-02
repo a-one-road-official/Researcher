@@ -1,0 +1,1362 @@
+{
+ "name": "フレクト",
+ "aliases": [],
+ "context": "証券コード4414／情報・通信業／グロース（内国株式）／2026.03期 売上高8,252百万円 営業利益率15.1%",
+ "researched_at": "2026-11-02T18:53:38.903536+00:00",
+ "official_url": "https://www.flect.co.jp/",
+ "identified_by": "search:yahoo_jp:フレクト",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2005年8月",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "481人（2026年6月末時点）",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "フレクト従業員持株会",
+    "value": "80,400 1.48",
+    "url": "https://www.flect.co.jp/ir/stock/basic/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "■クラウドインテグレーションサービス クラウドとAIの先端テクノロジーによるDX支援のプロフェッショナルサービス",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスラインナップ",
+    "url": "https://www.flect.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "■クラウドインテグレーションサービス",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドとAIの先端テクノロジーによるDX支援のプロフェッショナルサービス",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/strategy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーがサービスとして直接利用する顧客接点となるシステムの開発が強みで、デザインや使いやすさが求められます",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルサービスの企画立案から開発までワンストップでサービス提供しています",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス環境が急速に変化する現代社会において、企業がデジタルサービスを発展させていくには、変化に適応する機動性・柔軟性が重要となります",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス変革を実現するDX支援サービス",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "1つのデジタルサービス構築に留まらない、複数のデジタルサービスを開発しそれらを束ねてビジネスモデルの変革を支援します",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "日本を代表する大手企業の高い要求難度に応えるサービス品質を提供することで、継続的な契約獲得を実現し、大手企業の売上比率は94%となります",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/stock/basic/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/events/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの個人情報は、本メール配信サービスの送信の目的でのみ利用し、当社にて適切に管理します",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本サービスは宝印刷株式会社が提供するWizLabo Libraryの機能を通じて提供するものです",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は予告なしに当サービスを中断または中止することがあります",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "当サービスのご利用にあたり、ご利用上発生する、あるいは本サービスが正常にご利用できないことにより、ご登録のお客さまに発生する不利益につきまして、当社は事由の如何を問わず一切責任を負うものではございません",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "当サービスは無料でご利用頂けますが、メール送受信に係る通信費用は利用者の負担となります",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "ドメイン指定受信などの受信制限を設定されている場合には、当サービスからのメールを受信できるよう、次のメールアドレスの設定を事前に行なってください",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://www.flect.co.jp/ir/en/",
+    "pass": 1
+   },
+   {
+    "quote": "機能性 Cookie は、ウェブサイトの機能、パフォーマンス、サービスを向上するために使用するCookie です",
+    "url": "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "pass": 3
+   },
+   {
+    "quote": "・クラウドインテグレーションサービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ Cariot （キャリオット）サービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現場の業務効率化と安心・安全を提供する自社のクラウドサービスです",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援のプロフェッショナルサービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業や新規事業のデジタル変革をサービス企画からデザイン、",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マルチクラウド開発、運用までをワンストップで提供するサービスです",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージとして提供されていたアプリケーションをインターネット上で提供するサービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※3 Salesforce Einstein（アインシュタイン）salesforce.com, Inc.が提供するAI（人工知能）サービスの名称",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先端テクノロジーを取り入れた提供サービスの変遷",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プログラムに登録、IoT/Mobilityサービス開発を提供",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "診断・音声認識・言語処理等のAIサービス開発を提供",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mobilityサービスの開発資産を活用して新規事業「Cariot」を創出",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結し、 SaaS型※2ドライバー働き方改革クラウドサービスを提供",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Chimeを活用したWithコロナ環境に適応するオンラインビデオサービス開発を提供",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新たな製品・",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの台頭",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IoT/MobilityやAIサービス、顧客と繋がるオンラインビデオ・コミュニティやECサービス、API連携やID認証の基盤構築等、企業の既存事業や",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインテグレーションサービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DX提供サービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内AIサービスのDX事例を評価され、2019年Salesforceグローバルでのイノベーションアワードを日本の企業として初めて受賞しました",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スマートコンストラクションサービスTRUCK VISION構築パートナーとして",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナルサービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・フィールドサービス部門",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cariotサービス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業態としては、部活動サークルのコミュニティサービス運営です",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年に株式会社フレクトを創業してから、株式会社リクルートホールディングス様の展開するBtoCサービスのモバイル開発を後方支援するようになりました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "：お客様に高いサービス品質をお届けすることに、専念をしていました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は、サービスを供給するリソース体制に、限界を迎えたときのことです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容としては、主に2つのサービスを展開しています",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目は、クラウドインテグレーションサービスです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドの先端テクノロジーで新しい顧客体験をカタチにする「攻めのDX」を支援する、プロフェッショナルサービスとなります",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、IoTモビリティ、AIサービス、カスタムできるオンラインビデオ、顧客とつながるコミュニティサービス、BtoB向け・店舗連携ECサービスなどです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "フレクト、Agentforce Voiceのパートナーとして初期参画、 Agentforce Voiceの成功を拡大",
+    "url": "https://www.flect.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年Salesforceグローバルでのイノベーションアワードを日本の企業として初めて受賞したことや、最上位のパートナーランクは高い技術力の証左となっています",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "提供、同社のメインパートナーに認定",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Services,Inc.とパートナー契約を順次締結",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セールスフォース・ドットコムのOEMパートナー契約を締",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Okta, Inc.とのパートナー契約により",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "MuleSoft,LLC、Tableau Software,LLCとパートナー契約によりマルチクラウドを強化",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "またSalesforce、MuleSoftの国内最上位パートナーの認定を受けています",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“年間最優秀パートナー”",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SORACOMパートナービジネスの年間実績を評価され受賞",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力を持つIoTインテグレーターとして紹介される",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スマートコンストラクションサービスTRUCK VISION構築パートナーとして",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーランク",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインテグレーションサービスは、クラウドパートナーとの共同営業を行い、顧客企業に直接プロフェッショナルサービスを提供します",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cariotサービスは、直販活動を中心に顧客企業に対してSaaSライセンスを提供するサブスクリプション型のビジネスモデルとなっています",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、契約顧客数の増加に向けて、クラウドパートナーの開拓により、商談チャネルを拡大していきます",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣の紹介",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TMI総合法律事務所パートナー弁護士",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回、ご紹介する経営者は、黒川幸治氏（株式会社フレクト代表取締役CEO）です",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは経歴のご紹介です",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、IoTモビリティ、AIサービス、カスタムできるオンラインビデオ、顧客とつながるコミュニティサービス、BtoB向け・店舗連携ECサービスなどです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "※インタビュー出演、企業紹介などにご興味をお持ちの方は",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "結果、今のSalesforceパートナー内では一定のポジションを築き、「Dreamforce 2019」で、日本初の「Salesforce Partner Innovation Awards」受賞をいただくまでになりました",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "2015年にはSalesforce（SFDC）のパートナー企業に認定されています",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2005年8月",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.flect.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年Salesforceグローバルでのイノベーションアワードを日本の企業として初めて受賞したことや、最上位のパートナーランクは高い技術力の証左となっています",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在時点",
+    "url": "https://www.flect.co.jp/ir/stock/basic/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月11日",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005年8月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2009年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年～",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年５月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年12月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年５月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年11月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年５月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年３月",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年～2030年のCAGR12.2％で拡大※1",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年～2026年のCAGR16.8%で拡大※2",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 2022年(予想）2023年(予想）2024年(予想）2024年(予想） 2030年(予想）",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 2023年(予想) 2024年(予想) 2025年(予想) 2026年(予想) 2027年(予想)",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 2023年3月期",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期 2020年3月期 2021年3月期 2022年3月期 2023年3月期",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期 2020年3月期 2021年3月期 2022年3月期 １Q",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期 2020年3月期 2021年3月期 2022年3月期 1Q",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 2023年3月期 2024年3月期 2025年3月期 2026年3月期 2027年3月期",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には東証マザーズ（現・グロース）に上場をされています",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年に株式会社フレクトを創業してから、株式会社リクルートホールディングス様の展開するBtoCサービスのモバイル開発を後方支援するようになりました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年から開始したクラウドビジネスは、非常に企業様からの引き合いも多く、順調に伸びていきました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和54年、広島県生まれ",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1971年、東京都生まれ",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年、当時赤字だった「",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年、レカムと光通信の出資分を全て買い取る",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月、TOKYO PRO Market（東京プロマーケット）市場へ上場",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年頃にビットバレーという渋谷を中心にIT会社が集まっており、そこのネットワーキングに参加したことで、",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に初めて外部資本を受け入れたことです",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "2015年にはSalesforce（SFDC）のパートナー企業に認定されています",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "以来、企業とその先のユーザーに真摯に向き合い、先端テクノロジーにキャッチアップし続けることで提供価値を拡大し、2021年12月10日に東京証券取引所マザーズ（現、東京証券取引所グロース市場）に上場いたしました",
+    "url": "https://www.flect.co.jp/ir/strategy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド先端テクノロジーの専門家として、顧客と共にDXを推進し、1つでも多くのDXを成功に導いてまいります",
+    "url": "https://www.flect.co.jp/ir/strategy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も事業成長、すなわち、お客様への提供価値を最大化させ、企業やその先の社会の発展と未来に貢献してまいります",
+    "url": "https://www.flect.co.jp/ir/strategy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "主に、企業が収益を獲得することや顧客満足を高めることを目的としたシステムの開発を手掛けています",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーがサービスとして直接利用する顧客接点となるシステムの開発が強みで、デザインや使いやすさが求められます",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データを含む様々なデータ及びシステムを連携させる開発（API連携プラットフォームMuleSoft Anypoint Platform®の導入支援）",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるデータやシステムが繋がることにより、顧客体験を向上",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客を含め、多数の関係者とのコミュニケーションを効率的に管理",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大手企業を顧客基盤とした",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大手企業を顧客基盤とした高い事業成長力",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大手企業中心の顧客基盤",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "既存大手顧客の売上構成比",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当サービスは無料でご利用頂けますが、メール送受信に係る通信費用は利用者の負担となります",
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、サイトへのアクセス数解析に使用するCookie、市場調査に使用する Cookie、不特定多数のユーザーに広告を表示するためのCookie などがあります",
+    "url": "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "pass": 3
+   },
+   {
+    "quote": "広告 Cookie は、ユーザーの関心分野を把握するためにウェブサイト上での活動を追跡し、ターゲットを絞って特定の広告を表示するための Cookie です",
+    "url": "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルに最適化された新しい顧客体験をカタチにし、",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客中心型のビジネス変革を支援していきます",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーを中心に管理者やスタッフ、顧客など",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド先端テクノロジーで新しい顧客体験をカタチにする",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客向けアプリ・業務向けアプリ開発を提供",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新しい顧客体験（価値）創出のデジタル化",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "客エンゲージメントの向上を目的とした新しい顧客体験を創出する「攻めのDX」にシフトすることが企業の高い競争力の獲得につながります",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド先端テクノロジーで新しい顧客体験をカタチにする「攻めのDX」支援",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IoT/MobilityやAIサービス、顧客と繋がるオンラインビデオ・コミュニティやECサービス、API連携やID認証の基盤構築等、企業の既存事業や",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客基盤は、積極的にDXを推進する大手企業※1が中心となっており、大手企業の売上比率は94％ ※2と",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客(CRM) API連携",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインテグレーションサービスは、クラウドパートナーとの共同営業を行い、顧客企業に直接プロフェッショナルサービスを提供します",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cariotサービスは、直販活動を中心に顧客企業に対してSaaSライセンスを提供するサブスクリプション型のビジネスモデルとなっています",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優良な顧客基盤を有する収益性の高いクラウドインテグレーションサービス2",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能力）を有し、価値を創出する顧客接点（フロントエンド）の開発を強みとします",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客アプリケーション",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客接点の変革 サービス商品の変革 ビジネスモデルの変革",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「大手企業向けの攻めのDX」を主たる事業領域として、顧客接点の変革からビジネスモデルの変革までをトータルで支援します",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優良な顧客基盤を有する収益性の高いクラウドインテグレーションサービス２",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "四半期契約顧客数※1 顧客当たりの四半期平均売上高(ARPA※2)",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "23年3月期4Ｑの大手企業の四半期契約顧客数は、取引拡大が見込",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "める顧客にリソースを集中し、23年3月期3Ｑ比で1社減少し、33",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "23年3月期4Qの大手企業のARPAは、既存顧客の取引拡大により、",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※1 再販案件を除いた四半期会計期間における契約顧客数",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "再販案件とは当社が仕入れたライセンスを顧客に再販売するリセールにあたり、当社においては金額が僅少なため、当該顧客は除く",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "：お客様に高いサービス品質をお届けすることに、専念をしていました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーは価値を生み出すものなので、景気後退時であれ価値提供ができていればお客様に選んでいただけます",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、リーマンショックが起こった翌年の2009年に、メイン顧客の広告発注量は減り、業績は低迷していきました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "当時は、お断りをしたお客様が他のベンダーで失敗し「助けて欲しい」と、再び依頼を下さってもお受けすることができないほどでした",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドの先端テクノロジーで新しい顧客体験をカタチにする「攻めのDX」を支援する、プロフェッショナルサービスとなります",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、IoTモビリティ、AIサービス、カスタムできるオンラインビデオ、顧客とつながるコミュニティサービス、BtoB向け・店舗連携ECサービスなどです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "物流・フィールドサービス・営業等で利用する車両の位置や、状態を見える化し、問合せ業務の削減や車両管理業務の効率化により、お客様の生産性向上を支援するサブスクリプション型のビジネスです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "好きなもの、好きなことで「ニューバランス、パタゴニア、自動二輪車・自動車、旅行、読書（塩野七生 著「ローマ人の物語」)、歴史、スポーツ（バスケ、フットサル、ゴルフ等）、競争、顧客・社員・社会に貢献できている（喜ばれる）こと」と多岐にお答えいただきました",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様・社員関係なく、全ての方へ公平に接することを意識しています",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自分の意思を持ち経営に向き合うことが結果として、社会やお客様への価値提供に繋がるのでとても重要なことだと感じています",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "「人・モノ・コト」をなめらかにつなぐ、お客様のデジタルサービスのづくりの支援です",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "働くクルマをコネクテッドして、ドライバー、管理者、お客様をなめらかにつなぎ、業務改善を支援するB2B SaaSとなります",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の問題解決を支援すること",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "これはユーザー企業単体で行うことは現実的ではありません",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針は大きく変化して、いかにお客様への提供価値を高めていけるかが目的になりました",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "など要素技術を常に取り入れてお客様のDXをご支援しています",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "特に先端技術においては、どこよりも早く調査学習し、お客様のニーズにお応えできるよう先回りして準備しています",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "またサービス企画においてはRFPに応えるのみならず、本当にお客様のあるべき姿を考え、RFPにそわない提案も行っています",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "取引先のお客様の事業が伸びること",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "お客様目線に立って物事を考えていくことも重要",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "1つのデジタルサービス構築に留まらない、複数のデジタルサービスを開発しそれらを束ねてビジネスモデルの変革を支援します",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Cariotサービスは、直販活動を中心に顧客企業に対してSaaSライセンスを提供するサブスクリプション型のビジネスモデルとなっています",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1つのデジタルサービス構築に留まらない、複数のデジタルサービスを開発しそれらを束ねてビジネスモデルの変革を支援します",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客接点の変革 サービス商品の変革 ビジネスモデルの変革",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「大手企業向けの攻めのDX」を主たる事業領域として、顧客接点の変革からビジネスモデルの変革までをトータルで支援します",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "取引継続性（ストック性）",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "DX案件の継続的な受注とクロスセルにより、フロービジネスでありながらも、高いストック性を有しています",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス契約",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cariotサービスは、直販活動を中心に顧客企業に対してSaaSライセンスを提供するサブスクリプション型のビジネスモデルとなっています",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型で将来成長をリードするCariotサービス3",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "再販案件とは当社が仕入れたライセンスを顧客に再販売するリセールにあたり、当社においては金額が僅少なため、当該顧客は除く",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型で将来成長をリードするCariotサービス３",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金額換算は当社月額平均サービス単価×12か月×台数にて当社で試算",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "物流・フィールドサービス・営業等で利用する車両の位置や、状態を見える化し、問合せ業務の削減や車両管理業務の効率化により、お客様の生産性向上を支援するサブスクリプション型のビジネスです",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "日本を代表する大手企業の高い要求難度に応えるサービス品質を提供することで、継続的な契約獲得を実現し、大手企業の売上比率は94%となります",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、26年3月期における既存大手企業からの売上構成比は90％となります",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "既存大手顧客の売上構成比",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客基盤は、積極的にDXを推進する大手企業※1が中心となっており、大手企業の売上比率は94％ ※2と",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "%は既存顧客の売上高構成比",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ユーザーがサービスとして直接利用する顧客接点となるシステムの開発が強みで、デザインや使いやすさが求められます",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 1
+   },
+   {
+    "quote": "能力）を有し、価値を創出する顧客接点（フロントエンド）の開発を強みとします",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位性が生かせる中小企業の配送トラック、ごみ収集車、営業・訪問サービス車等のターゲット領域へ注力した結果、多数の新規顧客を獲",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先行して競争優位性を確立していきます",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "24年3月期の売上総利益率は43％、営業利益は553百万円（営業利益率9％）と利益率改善を見込んでいます",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けるCariot調整後営業利益は725百万円（営業利益率11%）となり、クラウドインテグレーションサービスにおいて、一定の利益率を確保してい",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術革新への対応が遅れることでの当社の競争優位性が",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "及び同社アプリケーションの競争優位性が失われるリス",
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IR Informationよくある質問 - 株式会社フレクト — IR Informationよくある質問 - 株式会社フレクト 株式会社フレクト https://www.flect.co.jp > investor > faq",
+    "url": "https://www.flect.co.jp/ir/investor/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フレクト （FLECT） | Salesforce AgentExchange — 株式会社 フレクト （FLECT） | Salesforce AgentExchange Salesforce https://appexchangejp.salesforce.com > appxListingDetail",
+    "url": "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フレクト のコンテンツ一覧 | ロール モデル 就活・転職 ... — 株式会社 フレクト のコンテンツ一覧 | ロール モデル 就活・転職 ... タレントブック・ストーリー https://www.talent-book.jp > flect > contents",
+    "url": "https://www.talent-book.jp/flect/contents",
+    "pass": 3
+   },
+   {
+    "quote": "3分で分かる フレクト | あるべき未来をクラウドでカタチにする — 3分で分かる フレクト | あるべき未来をクラウドでカタチにする 株式会社フレクト https://www.flect.co.jp > investor > about",
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 | 株式会社 フレクト - 株式会社 フレクト — 決算短信・ 決算説明資料 | 株式会社 フレクト - 株式会社 フレクト 株式会社フレクト https://www.flect.co.jp > library > result",
+    "url": "https://www.flect.co.jp/ir/library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | あるべき未来をクラウドでカタチにする — 決算説明 会 | あるべき未来をクラウドでカタチにする 株式会社フレクト https://www.flect.co.jp > events > presentations",
+    "url": "https://www.flect.co.jp/ir/events/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "【 フレクト 】[4414]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 フレクト 】[4414]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4414",
+    "pass": 3
+   },
+   {
+    "quote": "フレクト ： 決算説明 会 資料 （2027年3月期第1四半期） — フレクト ： 決算説明 会 資料 （2027年3月期第1四半期） Moomoo https://www.moomoo.com > news > notice",
+    "url": "https://www.moomoo.com/ja/news/notice/307893130/flect-financial-results-presentation-materials-1st-quarter-fiscal-year-ending",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フレクト - ログミーファイナンス - ログミーFinance — 株式会社 フレクト - ログミーファイナンス - ログミーFinance ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/1271",
+    "pass": 3
+   },
+   {
+    "quote": "IR Informationコーポレートガバナンス - 株式会社フレクト — IR Informationコーポレートガバナンス - 株式会社フレクト 株式会社フレクト https://www.flect.co.jp > strategy > governance",
+    "url": "https://www.flect.co.jp/ir/strategy/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | あるべき未来をクラウドでカタチにする — 会社概要 | あるべき未来をクラウドでカタチにする 株式会社フレクト https://www.flect.co.jp > company > outline",
+    "url": "https://www.flect.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "フレクト の企業情報 | CFN（CareerForum.Net） — フレクト の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail",
+    "url": "https://careerforum.net/ja/company_list/4462/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フレクト 代表取締役CEO 黒川幸治氏 インタビュー — 株式会社 フレクト 代表取締役CEO 黒川幸治氏 インタビュー 経営ノート https://keiei-note.wizbiz.jp > ... > 上場企業の経営者",
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【創業者 インタビュー 】CEO黒川が語る フレクト の軌跡と想い — 【創業者 インタビュー 】CEO黒川が語る フレクト の軌跡と想い Wantedly https://www.wantedly.com > 株式会社フレクト > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 | あるべき未来をクラウドでカタチにする — 役員紹介 | あるべき未来をクラウドでカタチにする 株式会社フレクト https://www.flect.co.jp > company > board-member",
+    "url": "https://www.flect.co.jp/company/board-member/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 フレクト 代表取締役CEO 黒川 幸治 — 業界毎特集記事－株式会社 フレクト 代表取締役CEO 黒川 幸治 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2135",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フレクト 代表取締役CEO 黒川幸治氏 - YouTube — 株式会社 フレクト 代表取締役CEO 黒川幸治氏 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4_YGX6R1XGU",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.flect.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/strategy/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/investor/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/stock/basic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/events/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/support/mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flect.co.jp/ir/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://keiei-note.wizbiz.jp/131-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フレクト",
+   "results": [
+    "https://www.flect.co.jp/",
+    "https://careerforum.net/ja/company_list/4462/company_detail/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000vuw2e",
+    "https://www.talent-book.jp/flect",
+    "https://soracom.jp/support_partners/certified/flect-2/",
+    "https://ja.wikipedia.org/wiki/フレクトゴン",
+    "https://www.flect.co.jp/company/outline/",
+    "https://finance.yahoo.co.jp/quote/4414.T",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?stock_sec_code_mul=4414&exchange_code=JPN",
+    "https://kabutan.jp/stock/chart?code=4414"
+   ]
+  },
+  {
+   "query": "フレクト ビジネスモデル",
+   "results": [
+    "https://www.flect.co.jp/ir/investor/faq/",
+    "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "https://www.talent-book.jp/flect/contents",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250508/20250507532835.pdf",
+    "https://www.flect.co.jp/ir/investor/about/",
+    "https://careerforum.net/ja/company_list/4462/company_detail/",
+    "https://speakerdeck.com/flect_hr/zhu-shi-hui-she-hurekutohui-she-shuo-ming-zi-liao-arubekiwei-lai-wokuraudodekatatinisuru",
+    "https://www.wantedly.com/companies/company_5291994/about",
+    "https://sankak.jp/event/flect",
+    "https://consovation.com/急成長を遂げるクラウドdx企業フレクトのビジネス/"
+   ]
+  },
+  {
+   "query": "フレクト 決算説明資料",
+   "results": [
+    "https://www.flect.co.jp/ir/library/result/",
+    "https://www.flect.co.jp/ir/events/presentations/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4414",
+    "https://www.moomoo.com/ja/news/notice/307893130/flect-financial-results-presentation-materials-1st-quarter-fiscal-year-ending",
+    "https://finance.logmi.jp/companies/1271",
+    "https://www.flect.co.jp/ir/",
+    "https://edinetdb.jp/company/E37130/presentations/",
+    "https://www.buffett-code.com/company/4414/library",
+    "https://irbank.net/4414/ir",
+    "https://edinetdb.jp/company/E37130/ir-docs/"
+   ]
+  },
+  {
+   "query": "フレクト 事業系統図",
+   "results": [
+    "https://www.flect.co.jp/ir/strategy/governance/",
+    "https://www2.jpx.co.jp/disc/44140/140120230510563913.pdf",
+    "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N30000003IFKuEAO",
+    "https://www.flect.co.jp/company/outline/",
+    "https://careerforum.net/ja/company_list/4462/company_detail/",
+    "https://www.wantedly.com/companies/company_5291994/about",
+    "https://speakerdeck.com/flect_hr/zhu-shi-hui-she-hurekutohui-she-shuo-ming-zi-liao-arubekiwei-lai-wokuraudodekatatinisuru",
+    "https://www.talent-book.jp/flect/contents",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250508/20250507532835.pdf",
+    "https://www.flect.co.jp/"
+   ]
+  },
+  {
+   "query": "フレクト 社長 インタビュー",
+   "results": [
+    "https://keiei-note.wizbiz.jp/131-2/",
+    "https://www.wantedly.com/companies/company_5291994/post_articles/200650",
+    "https://www.flect.co.jp/company/board-member/",
+    "https://shachomeikan.jp/industry_article/2135",
+    "https://www.youtube.com/watch?v=4_YGX6R1XGU",
+    "https://www.nikkei.com/article/DGXZQOUC2945R0Z21C21A1000000/",
+    "https://kitaishihon.com/company/4414/board-of-director",
+    "https://www.talent-book.jp/flect/stories/48538",
+    "https://macloud.jp/companies/10816",
+    "https://www.listennotes.com/podcasts/社長に聞くin-wizbiz/第268回-黒川幸治氏株式会社フレクト代表取締役ceo前編--5ZRMKVCTxQ/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

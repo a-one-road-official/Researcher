@@ -1,0 +1,1507 @@
+{
+ "name": "九州旅客鉄道",
+ "aliases": [],
+ "context": "証券コード9142／陸運業／プライム（内国株式）／2026.03期 売上高500,393百万円 営業利益率14.8%",
+ "researched_at": "2026-11-02T18:59:54.589347+00:00",
+ "official_url": "https://www.jrkyushu.co.jp/",
+ "identified_by": "search:yahoo_jp:九州旅客鉄道",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1987年4月1日",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1987年 （ 昭和 62年） 4月1日 [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "7,738名（2026年4月1日現在）",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結: 15,365人 単独: 6,483人 （2026年3月31日現在） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "旅客鉄道事業 旅客自動車運送事業 旅行業 駐車場業 広告業 損害保険代理業その他の保険媒介代理業 旅行用品、飲食料品、酒類、医薬品、化粧品、日用品雑貨等の小売業 旅館業及び飲食店業 不動産の売買、賃貸、仲介及び管理業",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "旅客鉄道事業 他",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "（25/3連結）4,543億9,300万円",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 5003億9300万円 単独: 2729億3900万円 （2026年3月期） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "ける迅速かつ確実な伝達を行うとともに、施設利用者への伝達に努めるものとする",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/protection_plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 当社が管理する施設等について、施設利用者や旅客の誘導が必要となった場合には、",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/protection_plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "正な配慮についての旅客施設及び車両等の利用者に対する広報活動及び啓発活動",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/260630_barrier_free_keikaku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついての鉄道駅の利用者に対する広報活動及び啓発活動",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）過去３年度における１日当たりの平均利用者数が３万人以上の鉄道駅を設置又は管理してい",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）過去３年度における１日当たりの平均利用者数が3000人以上３万人未満の鉄道駅を設置又は",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、今後、利用者が支援を求めやすくなるようヘルプマークの周知活",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついての鉄道車両の利用者に対する広報活動及び啓発活動",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に本数・利用者数の面で大きく水を開けられている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "の利用者も多い",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "お客様満足推進部",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "7月7日：インターネット列車予約向け「eレールポイント」、JQ CARD利用者向け「JQポイント」、SUGOCA利用者向け「SUGOCAポイント」 の各",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "」について、顧客らに対し「年7%の金利が付く」などと虚偽の勧誘をし、顧客らは620万円から2,000万円にかけてこの社員に支払った",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "利用者向け）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR九州のローカル線には、（分割民営化後の）38年間で利用者が７割くらい減った路線もあります",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、（指宿枕崎線の）利用者の約８割は高校生で、通学の足となっています",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "DXは(保守メンテナンスの)費用を下げたり、人手をかけずに設備を維持したりすることにつながりますが、今は鉄道利用者の利便性向上がウエイト的に大きく、ネット予約で利用者が窓口に行かずに切符を買え、QRコードで改札を通れるようになりました",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "(マース)」(鉄道やバスなど複数の公共交通機関による乗り継ぎチケットの販売サービス)なども、スマートフォン（スマホ）ひとつで利用できるので、利用者には非常に便利です",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "運輸サービス",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの取り組み",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "運輸サービス",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "運輸サービスグループ",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスサービスグループ",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "運輸サービスグループ",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスサービスグループ",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "■ ジェイアール九州アド・サービス（株）設立（H3.4.1 ジェイアール九州エージェンシー（株）に社名変更）",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "■ 一般クレジットによる旅行商品の取扱開始",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "■ ジェイアール九州オーエーサービス（株）設立",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "■ 福岡ケータリングサービス（株）設立",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "■ ジェイアール九州アド・サービス（株）を（株）ジェイアール九州エージェンシーに社名変更",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "運輸サービスグループ",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスサービスグループ",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービス",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケーションサービスサイト",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "お得な会員サービス",
+    "url": "https://www.jrkyushu.co.jp/company/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.jrkyushu.co.jp/company/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "くらしのサービスTOP",
+    "url": "https://www.jrkyushu.co.jp/company/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://www.jrkyushu.co.jp/company/esg/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "企業情報・事業紹介",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報・事業紹介",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 企業情報 | 企業・IR・採用 | JR九州",
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "pass": 1
+   },
+   {
+    "quote": "JR九州グループの経営理念についてご紹介します",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "役員のご紹介、組織図をご覧いただけます",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "JR九州グループの倫理⾏動憲章をご紹介します",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "JR九州グループの歴史をご紹介します",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "JR九州の事業紹介です",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道事業、不動産事業、事業開発等についてご紹介します",
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "お知らせ② 【2026年9月】行政処分や指名停止（80件）監督官庁・自治体公表の企業",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ③ 【2026年9月】大規模小売店舗 新設届出27件（全国）",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "ベガコーポレーション、27年3月期中間は大幅増収増益 LOWYA実店舗拡大、通期予想も上方修正",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "大規模小売店舗新設",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "管内主要駅に設置している旅行業店舗名をこれまでの「ジョイロード」から「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "事業以外の事業を同年7月18日設立のJR九州ビジネスパートナーズに継承させた上で、JR九州フィナンシャルマネジメントの株式を",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "10月2日：JR九州本体とJR九州保険コンサルティング（2023年4月3日設立）で会社分割（簡易吸収）を実施し、JR九州本体の保険代理店業をJR九州保険コンサルティングに移管、同日より同社の事業を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "（各駅構内の店舗と、北部九州のフランチャイズ店舗の一部）などを経営",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "（一部店舗のみ）を経営していた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR九州ビジネスパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "その他事業を分割会社「JR九州ビジネスパートナーズ」として引き続きグループ会社として保有",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "- 保険代理店（損保・生保・少額短期）、その他販売代理店等",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "- 大分県内の飲食店フランチャイズ、駅収受業務などを担当",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "運営店舗｜JR九州フードサービス株式会社",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR九州がトランドール株を譲渡 駅構内を中心にパン店を展開 5月までにさらに10店舗撤退",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東京電力エナジーパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "DX推進のコツをご紹介",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "地域社会DXに関連したイベントの様子を紹介",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "地域社会DXの事例を取材する中で出会った「全国各地のご当地ネタ」を紹介",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.jrkyushu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月1日",
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和62年度",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和63年度",
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月04日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月27日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算説明会資料",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月04日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月27日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算説明会資料",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月23日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月18日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月12日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明会資料",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月11日",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度・2023年度分はこちらからご覧いただけます",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年カーボンニュー トラル",
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年中間目標 50％削減",
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年中間目標 60％削減",
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年2月",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/influenza2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 4 月 1 日 改正",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/influenza2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年度 2022年度 2023年度 2024年度 2025年度",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/25_miyazaki_airport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度まで",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/25_miyazaki_airport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1996年7月18日設定",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/25_miyazaki_airport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２５年８月",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/support_plan_2017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021 年４月",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2021_04_09%20bousaigyoumukeikaku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年６月 30 日",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/260630_barrier_free_keikaku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022 年６月よりお客さまが事前に WEB からお手伝いの受付ができる「ＪＲ九",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/260630_barrier_free_keikaku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度工事完了",
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年6月12日 13:00",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 18:20",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 17:30",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 17:00",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 16:30",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 15:00",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 14:10",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 13:00",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績(連結)",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績の推移をグラフでご覧いただけます",
+    "url": "https://www.jrkyushu.co.jp/company/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績（連結）",
+    "url": "https://www.jrkyushu.co.jp/company/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別に見ると、運輸サービスの売上高は1,643億4,700万円（全体に占める構成比：36.2％）と1,800億円台に達していたコロナ禍前の水準には届かず、営業利益では121億8,600万円（同20.3％）と18年3月期の292億円の半分以下にとどまっている",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "とくに鉄道事業の売上規模は圧倒的な開きがあり、3社の鉄道事業の売上高が全体に占める構成比は60％を超え、なかでも東海道新幹線を有するJR東海は80％超に達しており、鉄道事業が主力である",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "他方、大手私鉄は元来多様な事業分野を有する企業が多いため、鉄道事業の売上構成比は小さい",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "次に不動産事業（JR九州とJR東日本は不動産とホテルが同一セグメントのためホテルを含む）の売上高は、すべての事業者で19年比で増加している",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "値上げの結果、26年3月期の運輸サービスのセグメント売上高（調整前）は1,847億円で19年3月期以来の1,800億円台に乗り、セグメント営業利益は206億円でコロナ禍前の水準回復を見込む",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "JR九州の建設セグメント5社の共同株式移転により、",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "建設セグメントにおける中間持株会社設立に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネス展開 ビジネスモデルの検討 ビジネス化及び規模の拡大 ビジネスを通じた 資源循環型経済モデルの構築",
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルの検討 ビジネス化及び規模の拡大 ビジネスを通じ た資源循環型経済モデルの構築",
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たなビジネスモデル検討",
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この背景には同社の収益構造の変化がある",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "JR九州の収益構造 大手私鉄型へ",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "このようにJR九州の収益構造の変化は、ある意味、同社のビジネスモデルがJR（旧・国鉄）型から大手私鉄型へ変化しているとみることができる",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "このように鉄道事業者の駅前開発は、鉄道事業への投資を人流創出に結びつけ、駅周辺の不動産開発によって効率的に資本回収を行う収益構造を築いている",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "移動が不安定化する時代 人流に頼らない収益構造へ",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも観光需要の変動といった不安定要因とともに、再び訪れるかもしれないネクストパンデミックの可能性もあり、人流に依存することは、同社の収益構造の脆弱性として大きなリスクになっている",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "これは「人の移動が不安定化する時代」への備えとして収益構造の改革を目指すものだ",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "過去最高収益の更新を目指す同社は今後どのような方向性を示すのか",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   },
+   {
+    "quote": "さらに高収益へ",
+    "url": "https://www.data-max.co.jp/article/78693",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "九州のサステナブルなインフラに貢献し続ける | 九州旅客鉄道 ... — 九州のサステナブルなインフラに貢献し続ける | 九州旅客鉄道 ... タナベコンサルティング https://review.tanabeconsulting.co.jp > 100年経営対談",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/22048/",
+    "pass": 3
+   },
+   {
+    "quote": "九州旅客鉄道 - Wikipedia — 九州旅客鉄道 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 九州旅客鉄道",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "九州旅客鉄道 （9142）のIR情報・ 決算資料 - IRBANK — 九州旅客鉄道 （9142）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 九州旅客鉄道",
+    "url": "https://irbank.net/9142/ir",
+    "pass": 3
+   },
+   {
+    "quote": "九州旅客鉄道 株式会社 統合報告書 - EDINET DB — 九州旅客鉄道 株式会社 統合報告書 - EDINET DB EDINET DB https://edinetdb.jp > 九州旅客鉄道株式会社 > IR資料",
+    "url": "https://edinetdb.jp/company/E32679/integrated-reports/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 採用情報 | JR九州 九州旅客鉄道 株式会社 — トップメッセージ | 採用情報 | JR九州 九州旅客鉄道 株式会社 JR九州 https://www.jrkyushu.co.jp > recruit > about > message",
+    "url": "https://www.jrkyushu.co.jp/recruit/about/message.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、適切に保守を行っていかなければなりません",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "BIG EYEは保守メンテナンスを容易にし、様々な面での省力化にも貢献しています",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "効率的でもあり、保守費用も抑えられます",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "これまで保守点検の考え方はTBM（Time Base Management",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "レールの保守・点検にAIを活用",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "新幹線のレールの保守・点検にはAIを活用していると伺いました",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   },
+   {
+    "quote": "DXは(保守メンテナンスの)費用を下げたり、人手をかけずに設備を維持したりすることにつながりますが、今は鉄道利用者の利便性向上がウエイト的に大きく、ネット予約で利用者が窓口に行かずに切符を買え、QRコードで改札を通れるようになりました",
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jrkyushu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/history/history01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/integrated_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/esg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir/public_notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/esg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/business/procurement/info.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jrkyushu.co.jp/company/esg/environment/pdf/Environmental_Vision.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/influenza2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/protection_plan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/25_miyazaki_airport.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/support_plan_2017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2021_04_09%20bousaigyoumukeikaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/260630_barrier_free_keikaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/other/pdf/2025_barrier_free_houkoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/business/img/seg1_unyuservice.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/business/img/seg3_fudousanhotel.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/business/img/seg4_ryutsugaishoku.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/business/img/seg2_kensetsu.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/info/business/img/seg5_sonota.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jrkyushu.co.jp/company/ir_eng/policy/img/plan2025_2027_en.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.data-max.co.jp/article/78693",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "九州旅客鉄道",
+   "results": [
+    "https://www.jrkyushu.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://job.mynavi.jp/28/pc/search/corp38135/outline.html",
+    "https://www.jrkyushu-aruressha.jp/",
+    "https://www.instagram.com/jr_kyushu.com.jp/",
+    "https://ja.wikipedia.org/wiki/九州旅客鉄道",
+    "https://ja.wikipedia.org/wiki/九州旅客鉄道鉄道事業本部",
+    "https://finance.yahoo.co.jp/quote/9142.T",
+    "https://www.jrkyushu.co.jp/?from=companyhomepages.com",
+    "https://www.wikiwand.com/ja/articles/九州旅客鉄道"
+   ]
+  },
+  {
+   "query": "九州旅客鉄道 ビジネスモデル",
+   "results": [
+    "https://www.jrkyushu.co.jp/company/ir/policy/pdf/plan2025_2027.pdf",
+    "https://www.data-max.co.jp/article/78693",
+    "https://review.tanabeconsulting.co.jp/100fcc/22048/",
+    "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://go.jikiden.jp/app/webroot/files/doc/3389_1191.pdf",
+    "https://www.jrkyushu.co.jp/company/info/business/",
+    "https://www.jstage.jst.go.jp/article/uhs/2017/97/2017_15/_pdf/-char/ja",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G0wo&q_no=9",
+    "https://gyokai.media/company/6290001012621/",
+    "https://note.com/marketing_method/n/n0fbcbf8874dc"
+   ]
+  },
+  {
+   "query": "九州旅客鉄道 決算説明資料",
+   "results": [
+    "https://www.jrkyushu.co.jp/company/ir/library/earnings/",
+    "https://www.jrkyushu.co.jp/company/ir/",
+    "https://irbank.net/9142/ir",
+    "https://investalk.jp/9142/jr-kyushu-2026-03-earnings/",
+    "https://www.jrkyushu.co.jp/company/ir/library/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260804508451",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9142",
+    "https://www.westjr.co.jp/company/ir/library/",
+    "https://www.buffett-code.com/company/9142/library",
+    "https://finance.yahoo.co.jp/quote/9142.T/financials"
+   ]
+  },
+  {
+   "query": "九州旅客鉄道 事業系統図",
+   "results": [
+    "https://www.jrkyushu.co.jp/company/info/officers/",
+    "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.jrkyushu.co.jp/company/info/business/",
+    "https://edinetdb.jp/company/E32679/integrated-reports/",
+    "https://magicalir.net/Disclosure/-/file/1393080",
+    "https://shashi.shibusawa.or.jp/details_nenpyo.php?sid=11783&query=&class=&d=all&page=23",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VUGL.pdf",
+    "https://go.jikiden.jp/app/webroot/files/doc/3389_1191.pdf",
+    "https://www.jrkyushu.co.jp/company/info/officers/img/soshikizu_250401.pdf",
+    "https://ja.wikipedia.org/wiki/九州旅客鉄道鉄道事業本部"
+   ]
+  },
+  {
+   "query": "九州旅客鉄道 社長 インタビュー",
+   "results": [
+    "https://dx-navi.soumu.go.jp/interview/saya/004",
+    "https://www.jrkyushu.co.jp/recruit/about/message.html",
+    "https://toyokeizai.net/articles/-/919191?display=b",
+    "https://www.youtube.com/watch?v=ryvxFFE3ebg",
+    "https://www.weekly-economist.com/interview/furumiya_yohji/",
+    "https://jhclub.jmam.co.jp/acv/magazine/content?content_id=22341",
+    "https://the-shashi.com/tse/9142/ceo/",
+    "https://kitaishihon.com/company/9142/board-of-director",
+    "https://ja.wikipedia.org/wiki/古宮洋二",
+    "https://www.nishinippon.co.jp/image/286304/"
+   ]
+  }
+ ],
+ "missing": {}
+}

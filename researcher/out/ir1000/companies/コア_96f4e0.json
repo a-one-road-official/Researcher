@@ -1,0 +1,1479 @@
+{
+ "name": "コア",
+ "aliases": [],
+ "context": "証券コード2359／情報・通信業／プライム（内国株式）／2026.03期 売上高26,532百万円 営業利益率14.4%",
+ "researched_at": "2026-11-02T19:01:17.146928+00:00",
+ "official_url": "https://www.core.co.jp/",
+ "identified_by": "search:ddgs:google:コア",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1969年（昭和44年）12月",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結：1,696名 単体：1,145名（2026年4月現在）",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "label": "コア従業員持株会",
+    "value": "1,036 6.9",
+    "url": "https://www.core.co.jp/ir/stock",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "未来社会ソリューション事業 AIで新たな価値を創造する未来ソリューション・プラットフォームで、地域社会が抱える共通課題を解決し、安全・安心に暮らすためのデジタル社会を実現 産業技術ソリューション事業 特化ICTとAIを融合させた産業ソリューション・プラットフォームで、重点成長産業の発展に寄与すると同時に、地域産業が抱える課題を解決し地域創成を支援 顧客共創ビジネス事業 経験に基づく多角的な視点と積み重ねた技術で、顧客の重要パートナーとして価値を共創",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高CAGR",
+    "value": "36.4% ※1",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "経験に基づく多角的な視点と積み重ねた技術で、顧客の重要パートナーとして価値を共創",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が有する業務課題に対し、最先端の特化ICT技術を活かしたソリューションを提供",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "顧客業務に対し、業務知識やノウハウを活かしたICTトータルサービスを提供",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせた個別対応",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題を、ワンストップソリューションで対応いたします",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "1973年の結成以来、情報サービス産業の核として様々な課題を「創造力」と「技術開発力」で 解決し、お客様と共に成長してきました",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "顧客課題を解決することで安定した企業成長を継続してまいります",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "未来社会ソリューション事業、産業技術ソリューション事業、顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "3つの事業領域で社会課題を解決し、お客様のご要望に沿った幅広いサービスを提供します",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "拠点分散型カンパニー制を活用し、お客様が安心できるサービスを安定して日本全国に提供し続けることを目指します",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちは社員一人一人のエネルギーを結集し、創造と挑戦でお客様の持つ課題解決に向き合い続けます",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の課題を解決",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネスで培った業務ノウハウと先端技術を組み合わせ、それらを標準化したソリューションとして生み出たものを全国に展開",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の業務に向き合う",
+    "url": "https://www.core.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "顧客共創ビジネス事業",
+    "url": "https://www.core.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "こうした収蔵品の調査・研究、ならびに保存・修復を行い、展示をしてお客様にご観覧いただいています",
+    "url": "https://www.core.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "事業区分別では、未来社会ソリューション事業は売上高5,084百万円、産業技術ソリューション事業は13,695百万円、顧客業務インテグレーション事業は7,751百万円",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、運送会社向けシステム開発案件の縮小（顧客業務）、音響機器や半導体関連装置に関する開発業務の堅調（産業技術）、医療Solにおける前期の不採算案件からの回復基調（未来社会）も影響している",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客業務インテグレーション事業の売上高は6,018百万円から5,582百万円へ92.8%減、営業利益は673百万円から608百万円へ90.3%減",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント別割合は、未来社会ソリューション事業19.0%、産業技術ソリューション事業52.1%、顧客業務インテグレーション事業28.9%",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客業務インテグレーション事業では、グロースエンジン事業への業務シフトが進行",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "※前年度に取引があった顧客",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客の売上高は全体の売上高の9割程度を占める",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客数の推移（売上高別）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客数の推移（全体）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大口顧客小口顧客",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 顧客満足度を上げることで既存顧客(※)との取引を継続的に拡大し、大口顧客数を増",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "KPI 大口顧客数の増加",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 顧客数増加の鈍化の主要因は前期Q3に子会社2社連結があったため",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客獲得",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規プロジェクト成功による顧客との信頼関係",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本陣で対応できない既存顧客の新規プロジェク",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 本部ごとの役割を明確化（新規顧客×製品、既存顧客）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 年々増加する既存顧客に対し、全商材のクロスセルを利かせられる組織体制へ改編",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、顧客への提案活動量を増加させる",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• DX支援の新規顧客開拓活動量は着実に増加",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援の新規顧客開拓の営業活動量（製造業向け）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※既存顧客、製造業以外の業種、クラウドソリューション（Salesforce等）の営業活動は除く",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 顧客企業のDX支援、IT人材調達支援",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "APPENDIX 主要顧客",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Act Together 私たちは、お客様にも社員にもそして多くの関係者にも支えられている",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "私たちはDX（デジタル・トランスフォーメーション）により顧客の業務プロセスとバリューチェーンを改革し、売上高の拡大や利益",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客がDXを実現・内製化できる",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を強みとしてエンドユーザーから直請けするため高",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一部はエンドユーザーから直請け",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業・物流業 多業種エンドユーザー",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービストップ",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コアのサービス提供領域",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "未来社会ソリューション事業",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業技術ソリューション事業",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス検索",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを探す",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コアの製品・サービス",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「様々な産業の効率化」の実現に最適なソリューションをご提供すべく、",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コアの提供するサービス",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "コアのサービス提供領域",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "未来社会ソリューション事業",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "産業技術ソリューション事業",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス検索",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを探す",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "AIで新たな価値を創造する未来ソリューション・プラットフォームで、地域社会が抱える共通課題を解決し、安全・安心に暮らすためのデジタル社会を実現",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "特化ICTとAIを融合させた産業ソリューション・プラットフォームで、重点成長産業の発展に寄与すると同時に、地域産業が抱える課題を解決し地域創成を支援",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "(一社)情報サービス産業協会",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001認証（株式会社コア 産技ソリューションカンパニー、関西カンパニー、中部カンパニー、北海道カンパニー、",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "九州カンパニー、東関東カンパニー(仙台技術センター)、未来ソリューションカンパニー、中四国カンパニー、",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "社会ソリューションカンパニー）",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証（株式会社コア 産技ソリューションカンパニー デバイスソリューション部 デジタルテクノロジー担当）",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "コアのサービス提供領域",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "未来社会ソリューション事業",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "産業技術ソリューション事業",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス検索",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを探す",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "「様々な産業の効率化」の実現に最適なソリューションをご提供すべく、",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "環境や生活基盤などの未来における社会課題に対し、自社の特長を活かして高付加価値なソリューションを創出",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション、医療ソリューション、エネルギーソリューション",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が有する業務課題に対し、最先端の特化ICT技術を活かしたソリューションを提供",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "IoT・ロボティクスソリューション、ソーシャルメディアソリューション、宇宙テックソリューション、BXソリューション 、クラウドサービス 、セキュリティ",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "顧客業務に対し、業務知識やノウハウを活かしたICTトータルサービスを提供",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターサービス",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "30年間にわたるデータセンター事業で培った技術力とノウハウに裏打ちされたお客さまからの信頼をベースに、これからの時代に即した安心・安全なデータセンターサービスを安価にご提供いたします",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "コアクラウドセンターのサービス概要",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "高速データ伝送サービス",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "システム監視・保守、バックアップサービス",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "コアクラウドセンターのワンストップソリューション",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題を、ワンストップソリューションで対応いたします",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "コアのサービス提供領域",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "未来社会ソリューション事業",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "産業技術ソリューション事業",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス検索",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを探す",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "イントラネットを構築、インターネットサービス事業開始",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001認定取得（エンベデッドソリューションカンパニー）",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "第7次3カ年計画（独立系ITサービスによる社会貢献）スタート",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認定取得（エンベデッドソリューションカンパニー、コア総合研究所、コアネットインタナショナル）",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ISMS認証取得（エンベデッドソリューションカンパニー、ビジネスソリューションカンパニー、管理本部、資材本部、人事本部）",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "第9次3カ年計画（技術革新と製品・サービス創生でIT社会をリード）スタート",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ISMS認証範囲拡大（プロダクトソリューションカンパニー、総合研究所）",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナーを募集しております",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "経験に基づく多角的な視点と積み重ねた技術で、顧客の重要パートナーとして価値を共創",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "連結会社・関連会社の紹介はこちら",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集",
+    "url": "https://www.core.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 同所パートナー就任（現任）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは中小企業を中心とした広範なビジネスパートナーネットワーク「Ohgi」を活用することにより、日本のシステムインテグ",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナー（BP）の積極活用でレ",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CCT パートナー",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ SAPと2024年にパートナー契約締結",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ Salesforceとは2014年以来、パートナー",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーから流入",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 新規は、自力でのリード確保だけに頼らず、パートナー企業との関係性強化を図り",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "APPENDIX ビジネスパートナーネットワーク Ohgi",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業時から開拓してきた多くのビジネスパートナーと、そこに所属する社員の情報を網羅した人材ネットワークをデータベース化",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " CCT、ビジネスパートナー（BP）双方にとって売上拡大のwin-winの関係を構築",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※CCTが二次請けとしてプロジェクトリーダーを務める業務について、パートナーの力を借りる仕組み（業務委託の商流：大手SIer→CCT→BP）であり、SIerとエンジニア",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナー（BP）にも売上拡大のメリットを提供",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注3. デジタル人材（IT技術者）派遣サービス、デジタル人材紹介サービス、デジタル人材ダイレクトリクルーティングサービス、",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期(中間期)決算短信を掲載しました",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期(中間期)決算補足説明資料を掲載しました",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.core.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年（昭和44年）12月",
+    "url": "https://www.core.co.jp/company/company",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社コア",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1969年-1990年",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1991年-2010年",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2011年-現在",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1969年 - 1990年",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1991年 - 2010年",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2011年 - 現在",
+    "url": "https://www.core.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1973年の結成以来、情報サービス産業の核として様々な課題を「創造力」と「技術開発力」で 解決し、お客様と共に成長してきました",
+    "url": "https://www.core.co.jp/ir/core",
+    "pass": 1
+   },
+   {
+    "quote": "2026年版",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版（FY2026 Q3）",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月期 第３四半期と2026年３月期 第３四半期の連結業績比較",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期の連結業績の推移を示すグラフ",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月期第３四半期末の資産合計は25,157百万円、負債合計は6,625百万円、純資産は18,532百万円",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期第３四半期末の資産合計は26,809百万円（前期末比106.6%）、負債合計は6,937百万円（前期末比104.7%）、純資産は19,872百万円（前期末比107.2%）",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期第３四半期の売上高の業種別割合は、情報サービス26.0%、電気機器22.6%、その他金融6.8%、機械6.5%、放送6.2%、精密機器5.1%、輸送用機器4.1%、卸売業3.9%、官公庁・地方公共団体3.8%、電気・ガス2.9%、その他12.1%",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年国土交通省告示第347号による規制緩和を受け、自動点呼の適用範囲が拡大したことに伴い、「Cagou IT点呼」は新要件に対応し、業務前自動点呼機器として国土交通省の認定を取得",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 第3四半期",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月13日",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年 (株)インクス（現SOLIZE(株)）入社",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006年 (株)ラグナ設立",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006年 (株)KT Consulting 入社",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2009年 (株)シンスター監査役 就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年 当社入社",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013年 取締役副社長 就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年 代表取締役社長CEO 就任（現任）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 (株)DTダイナミクス 取締役 就任（現任）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1995年 (株)日本興業銀行 (現(株)みずほ銀行) 入行",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2014年 ヒューマンホールディングス (株)執行役員 就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 (株)エスキュービズム 取締役 就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 当社入社",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 執行役員CFO 就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 取締役CFO 就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 取締役副社長CFO 就任（現任）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1983年 松下電器産業（株）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 同社 静岡支店長就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2007年 同社 四国支店長就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年 パナソニックシステムソリュ",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年 同社 常務執行役員就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 同社 常勤監査役就任",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 当社取締役監査等委員",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1997年 弁護士登録",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サーバ保守運用",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "システム監視・保守、バックアップサービス",
+    "url": "https://www.core.co.jp/company/activity",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aに係る仲介手数料・専門家報酬が増加",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 売上は人月単価の積み上げ（業務委託契約）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 売上単価と仕入単価（BP外注費）の差額が粗",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 社員の賃金上昇分、外注単価の上昇分を吸収、プラ",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スαも含め5%-10%の提案単価の引き上げを目指す",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 外注単価の上昇分を吸収",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ohgiの活用により市場の単価上昇の影響を緩和",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（相対的に単価上昇圧力を抑制）",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ DX支援の開発・運用保守フェーズでは汎用業務が中心となるため、Ohgiで調達したBPのエンジニアを積極活用",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 多重下請構造により中小IT企業の受注単価は階層が下がるごとに低下するが、CCTから発注する案件は二次請け（CCTの直請け案件）ま",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たは三次請け（CCTの二次請け案件）となるため、受注単価が高くなる",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(手数料売上)",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企画構想 仕組み構築 運用・保守",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■Salesforce ライセンス",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント別割合は、未来社会ソリューション事業19.0%、産業技術ソリューション事業52.1%、顧客業務インテグレーション事業28.9%",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "経営指標の推移では、売上高は26,532百万円、営業利益3,819百万円、営業利益率14.4%",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "「Cagou IT点呼」が国土交通省の認定を取得し、競争優位性と販売拡大を図る",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "規制緩和と認定取得を追い風に、拡大する需要を取り込み、競争優位性と販売拡大を図る",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "YoYで増収も、営業利益・営業利益率は低下",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 11.5 10.3 % 前年同期比 ▲1.2 ポイント",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率 27.0% 27.2%",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 11.5% 10.3%",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率Down",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 旺盛な需要に対応するための外注費増加で営業利益率Down",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 一部不採算案件の影響で営業利益率Down",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " QoQで増収基調を維持も、売上総利益は粗利率の低下により横這い推移",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " QoQで営業利益は増益も、販管費が重く営業利益率は低水準",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率 27.3% 27.5% 26.2% 23.9%",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 12.7% 10.2% 11.7% 7.5%",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率 27.3％ 27.5％ 26.2％ 23.9％",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " QoQでDX支援は増収基調も、一部不採算案件の影響で売上総利益率は低下、受注残は増加",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " QoQでIT人材調達支援の売上高は横這い、売上総利益率と受注残は堅調に推移",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "△ DX支援の粗利率は一部不採算案件の影響で",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■連結売上高 四半期別推移 ■営業利益・営業利益率 四半期別推移",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期営業利益率",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期営業利益率",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を強みとしてエンドユーザーから直請けするため高",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CCTの競争優位性を高める",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の推移 営業利益・営業利益率の推移",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "APPENDIX 粗利率向上の施策",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率 ⚫ 中期的に40%以上の水準維持を目指す",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 受注判定会議（粗利率基準40%以上）の厳格化、",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "※CCTが二次請けとしてプロジェクトリーダーを務める業務について、パートナーの力を借りる仕組み（業務委託の商流：大手SIer→CCT→BP）であり、SIerとエンジニア",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの独自性",
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社コア — 決算説明資料 - EDINET DB — Apr 28, 2026 · クローズド環境で利用可能な生成AIを活用し、自治体の人員不足やナレッジ低下・属人化といった課題を解消し、行政サービスの品質向上を支援する「公共DXソリューション」について説明。",
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コア — IR資料 - EDINET DB — Jun 27, 2026 · EDINET DB > 企業一覧 > 株式会社コア > IR資料 株式会社コア — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E05332/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信 | 株式会社コア — 電子公告を行なうことが出来ない事故や事由が生じた場合は、日本経済新聞に掲載します。 なお、当社は金融商品取引法の有価証券報告書提出会社であるため、 会社法第440条第4項の規定に基づき、2010年3月期以降の決算公告は掲載しておりません。",
+    "url": "https://www.core.co.jp/ir/account",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 株式会社コア — 決算短信や有価証券報告書等のIRライブラリーを掲載しています。 株式会社コアは“ソリューションプラットフォーマー”として持続可能な価値を創出するプラットフォームを提供してまいります。",
+    "url": "https://www.core.co.jp/ir/library",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.core.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/company/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/company/activity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/core",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/hilight",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/stock",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/calendar",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/library",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/announce",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/disclosure",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/faq",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/recruitment/coresway",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.core.co.jp/ir/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.core.co.jp/system/files/2026-10/ir_20261028-1.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/system/files/2026-10/ir_20261028-2.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/system/files/2026-10/ir_20261028-3.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/sites/default/files/2026-06/2026_Core_Company_brochure.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/sites/default/files/2026-06/20260625_Core_Company_profile.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/system/files/2026-06/ir_20260618.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/system/files/2026-05/【株式会社コア】第15次コアグループ中期経営計画_20260501_1.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/sites/default/files/2026-05/202605_コアグループ紹介資料v1.0.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.core.co.jp/sites/default/files/2020-03/businessoutline_header.jpg",
+    "status": "network_error:ConnectionError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.core.co.jp/sites/default/files/2020-03/4-64_BusinessDescription_5.png",
+    "status": "network_error:ConnectionError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.core.co.jp/sites/default/files/2026-05/core_company-business_260507.png",
+    "status": "network_error:ConnectionError",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://edinetdb.jp/company/E05332/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mit-hd.co.jp/ir-information/keito/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コア",
+   "results": [
+    "https://ja.wikipedia.org/wiki/コア",
+    "https://grokipedia.com/page/Ducklett_Pokémon",
+    "https://www.core.co.jp/",
+    "https://job.migi-nanameue.co.jp/column/core-meaning-usage-examples/",
+    "https://word-dictionary.jp/posts/2188/",
+    "https://www.core.co.jp/company/company",
+    "https://topicks.jp/column/core-meaning-usage-synonyms/",
+    "https://study-z.net/100126180"
+   ]
+  },
+  {
+   "query": "コア ビジネスモデル",
+   "results": []
+  },
+  {
+   "query": "コア 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E05332/presentations/",
+    "https://www2.jpx.co.jp/disc/43710/140120251112597491.pdf",
+    "https://edinetdb.jp/company/E05332/ir-docs/",
+    "https://www.core.co.jp/ir/account",
+    "https://www.core.co.jp/ir/library",
+    "https://irbank.net/2359/ir",
+    "https://japanir.jp/company/company-2359/ir/2359-20261028-02_wp_financial_summary/"
+   ]
+  },
+  {
+   "query": "コア 事業系統図",
+   "results": [
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "https://mit-hd.co.jp/ir-information/keito/",
+    "https://slide.ipo-navi.jp/category/95f7dc69-a314-4833-b0fd-13a7cb9c2948",
+    "https://www.nitto-kohki.co.jp/company/chart/",
+    "https://x.com/powerpoint_jp/status/2027520297029800223",
+    "https://www.core.co.jp/",
+    "https://www.hitachi.com/ja-jp/recruit/business/organization/"
+   ]
+  },
+  {
+   "query": "コア 社長 インタビュー",
+   "results": []
+  }
+ ],
+ "missing": {}
+}

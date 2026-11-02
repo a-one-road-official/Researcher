@@ -1,0 +1,1142 @@
+{
+ "name": "タクミナ",
+ "aliases": [],
+ "context": "証券コード6322／機械／スタンダード（内国株式）／2026.03期 売上高11,156百万円 営業利益率14.6%",
+ "researched_at": "2026-11-02T18:57:27.481545+00:00",
+ "official_url": "https://www.tacmina.co.jp/",
+ "identified_by": "search:yahoo_jp:タクミナ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1956年11月",
+    "url": "https://www.tacmina.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数（連結）",
+    "value": "324名（2026年3月現在。嘱託社員、契約社員、パートタイマー、派遣社員等除く）",
+    "url": "https://www.tacmina.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "精密ポンプ・流体制御機器の製造 販売",
+    "url": "https://www.tacmina.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "9,744 11,015 11,119 11,155",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様が抱える難しい課題が、これまでのタクミナのポンプ技術をつくってきました",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "難しい課題に直面した時こそ、おもてなしの心で、お客様にとことん寄りそう",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "課題解決のプロセスにおいて、実験や分析の結果を、その都度詳細なデータとともにお客様にご報告し、ご納得いただいたうえで、次のステップに進めるようにしています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流体分析装置や計測機器、シミュレーションシステムなど最新の設備を整え、高度な解析技術で、お客様のニーズにお応えします",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "配管の太さや長さ、高低差や注入点の圧力など、お客様のプロセスごとに異なる使用条件を実験室内に再現し、実際の液を使用してポンプの性能試験を行える環境を流体ソリューションセンター内にご用意しています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望を満たし、さらに生産性の向上やコスト削減など一段上の価値をご提供すべく、ポンプ1台からユニットまで、柔軟にご提案いたします",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、部品加工から組立・品質管理・検査に至るまで、メーカーとして万全の体制を整え、信頼性の高い製品をお客様のもとへとお届けしています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に一貫した製品・サービスを提供するため、ISO9001に基づく品質マネジメントを実施",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "“ポンプ道場” にデモ機を積んでお客様のもとへ",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のすぐそばでサポート",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機を搭載したトラック”ポンプ道場””ポンプ道場ミニ”で年間約180社のお客様のもとを訪問",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に向き合い、試していただく",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ご自身でも日常的な点検・保守を行っていただけるよう、メンテナンス講習会も実施しています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "修理後のポンプは新品出荷時と同様の厳しい性能検査を実施して、お客様のもとへお返ししています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当ホームページに掲載されている情報の正確性については万全を期すよう努めておりますが、当社は利用者が当ホームページの情報を用いて行う一切の行為について、何ら責任を負うものではありません",
+    "url": "https://www.tacmina.co.jp/library/glossary",
+    "pass": 1
+   },
+   {
+    "quote": "タクミナは、常にお客様の立場で物事を考え、個性豊かな人間と、独創的な技術で世界に役立つ",
+    "url": "https://www.tacmina.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "タクミナは、あらゆる課題を歓迎する、「流体ソリューション」の会社です",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション提案",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タクミナの ｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な製品で",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "配管の太さや長さ、高低差や注入点の圧力など、お客様のプロセスごとに異なる使用条件を実験室内に再現し、実際の液を使用してポンプの性能試験を行える環境を流体ソリューションセンター内にご用意しています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、部品加工から組立・品質管理・検査に至るまで、メーカーとして万全の体制を整え、信頼性の高い製品をお客様のもとへとお届けしています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ一覧を見る",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご購⼊いただく製品は",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に一貫した製品・サービスを提供するため、ISO9001に基づく品質マネジメントを実施",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "開発、製造、検査、アフターサービスなど各部門で品質目標を設定し、組織的に取り組んでいます",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を⾒て、触れて、",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/library",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/library",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/library/basics",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/library/basics",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/basics",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/basics",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/library/glossary",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/library/glossary",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/glossary",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/glossary",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/library/convert/flowing",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/library/convert/flowing",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/convert/flowing",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/convert/flowing",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/library/convert/ziaenso",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/library/convert/ziaenso",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/convert/ziaenso",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/library/convert/ziaenso",
+    "pass": 1
+   },
+   {
+    "quote": "会員サービス | 株式会社タクミナ",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "会員サービス",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "会員登録後、ログインいただければ本日より会員サービスをご利用いただけます",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "新商品のご案内や展示会情報、イベントの告知などタクミナに関する最新情報が満載のメールマガジンが購読できます",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ | 株式会社タクミナ",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の製品のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "製品の選び方、お見積り、事例紹介、お困りごと等どんなことでもお気軽にお問い合わせください",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "製品の選定に関するご質問や御見積・納期に関するお問い合わせはこちらにご記入ください",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス･修理のお問い合わせ",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   },
+   {
+    "quote": "｢流体ソリューション｣",
+    "url": "https://www.tacmina.co.jp/inquiry/rental",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.tacmina.co.jp/inquiry/rental",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "タクミナ企業紹介ムービー",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、販売費及び一般管理費は、継続的な賃上げの実施や販売促進及び研究開発活動に向けた積極投資により増加した面はあるものの、海外の販売代理店向け手数料の支払いが減少要因となり、営業利益は16億30百万円（同1.7％増）、経常利益は17億2百万円（同3.5％増）、親会社株主に帰属する当期純利益は12億31百万円（同1.1％増）となり、これらの利益については４期連続で過去最高を更新しました",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タクミナが取り組んでいるさまざまなテーマをご紹介します",
+    "url": "https://www.tacmina.co.jp/library",
+    "pass": 1
+   },
+   {
+    "quote": "タクミナが取り組んでいるさまざまなテーマをご紹介します",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "連続水素化反応に適したポンプ ～海外論文紹介～",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "安全機能のご紹介",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "大型ポリタンク 天板破損・防止対策のご紹介",
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "pass": 1
+   },
+   {
+    "quote": "製品の選び方、お見積り、事例紹介、お困りごと等どんなことでもお気軽にお問い合わせください",
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お客様ご自身でも日常的な点検・保守を行っていただけるよう、メンテナンス講習会も実施しています",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、販売費及び一般管理費は、継続的な賃上げの実施や販売促進及び研究開発活動に向けた積極投資により増加した面はあるものの、海外の販売代理店向け手数料の支払いが減少要因となり、営業利益は16億30百万円（同1.7％増）、経常利益は17億2百万円（同3.5％増）、親会社株主に帰属する当期純利益は12億31百万円（同1.1％増）となり、これらの利益については４期連続で過去最高を更新しました",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "4-4. ガラス電極 電極の寿命・保守",
+    "url": "https://www.tacmina.co.jp/library/basics",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年09月11日",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期(中間期)連結業績予想の公表に関するお知らせ",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月19日",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2012年以前",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "1956年11月",
+    "url": "https://www.tacmina.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月1日から",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月31日まで",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月1日から",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月31日まで",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月1日から",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月31日まで",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日から",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日まで",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2012年以前",
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "2026年～2027年",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 1
+   },
+   {
+    "quote": "2012年以前",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 電子公告",
+    "url": "https://www.tacmina.co.jp/ir/announcement",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月22日",
+    "url": "https://www.tacmina.co.jp/ir/announcement",
+    "pass": 1
+   },
+   {
+    "quote": "2012年以前",
+    "url": "https://www.tacmina.co.jp/ir/announcement",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 適時開示・決算短信書類",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期(中間期)連結業績予想の公表に関するお知らせ",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月17日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月01日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月20日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月11日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明資料",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月24日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月30日",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2012年以前",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 適時開示・決算短信書類",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月06日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期(中間期)決算短信",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期(中間期)決算説明資料",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月23日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期(中間期)連結業績予想の公表に関するお知らせ",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月07日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月01日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月18日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月08日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算説明資料",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   },
+   {
+    "quote": "2025年01月31日",
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "利益面につきましては、売上構成の変化に伴い限界利益率が低下し、売上総利益は51億59百万円（同0.6％減）と減少しました",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SDGs・健康経営 | 会社情報 - タクミナ — SDGs・健康経営 | 会社情報 - タクミナ TACMINA https://www.tacmina.co.jp > company > sdgs",
+    "url": "https://www.tacmina.co.jp/company/sdgs",
+    "pass": 3
+   },
+   {
+    "quote": "精密ポンプのリーディングカンパニー 株式会社 タクミナ ... — 精密ポンプのリーディングカンパニー 株式会社 タクミナ ... TACMINA https://www.tacmina.co.jp",
+    "url": "https://www.tacmina.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タクミナ （6322）— 企業情報 | ENVALITH · 企業概要 — 株式会社 タクミナ （6322）— 企業情報 | ENVALITH · 企業概要 ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/6322/overview",
+    "pass": 3
+   },
+   {
+    "quote": "一般事業主行動計画 | 会社情報 - タクミナ — 一般事業主行動計画 | 会社情報 - タクミナ TACMINA https://www.tacmina.co.jp > company > plan",
+    "url": "https://www.tacmina.co.jp/company/plan",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タクミナ | 導入事例 | モノ（有形商材）の ... - オプロ — 株式会社 タクミナ | 導入事例 | モノ（有形商材）の ... - オプロ 株式会社オプロ https://subsc.opro.net > モノスク > 導入事例",
+    "url": "https://subsc.opro.net/soasc/case/tacmina.html",
+    "pass": 3
+   },
+   {
+    "quote": "適時開示・ 決算 短信 | IR情報 | 株式会社 タクミナ — 適時開示・ 決算 短信 | IR情報 | 株式会社 タクミナ TACMINA https://www.tacmina.co.jp > highlight",
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "pass": 3
+   },
+   {
+    "quote": "投資家の皆様へ | IR情報 | 株式会社 タクミナ — 投資家の皆様へ | IR情報 | 株式会社 タクミナ TACMINA https://www.tacmina.co.jp > ...",
+    "url": "https://www.tacmina.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | IR情報 | 株式会社 タクミナ — IRカレンダー | IR情報 | 株式会社 タクミナ TACMINA https://www.tacmina.co.jp > cal",
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "pass": 3
+   },
+   {
+    "quote": "タクミナ （6322）のIR情報・ 決算資料 - IRBANK — タクミナ （6322）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > タクミナ",
+    "url": "https://irbank.net/6322/ir",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社 タクミナ — 会社概要 | 会社情報 | 株式会社 タクミナ TACMINA https://www.tacmina.co.jp > company",
+    "url": "https://www.tacmina.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "タクミナ の歴史 | 会社概要 — タクミナ の歴史 | 会社概要 TACMINA https://www.tacmina.co.jp > company > history",
+    "url": "https://www.tacmina.co.jp/company/history",
+    "pass": 3
+   },
+   {
+    "quote": "一般 事業 主行動計画 | 会社情報 - タクミナ — 一般 事業 主行動計画 | 会社情報 - タクミナ TACMINA https://www.tacmina.co.jp > company > plan",
+    "url": "https://www.tacmina.co.jp/company/plan",
+    "pass": 3
+   },
+   {
+    "quote": "活用分野 | 会社情報 | 株式会社 タクミナ — 活用分野 | 会社情報 | 株式会社 タクミナ TACMINA https://www.tacmina.co.jp > company > field",
+    "url": "https://www.tacmina.co.jp/company/field",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ放映されました(動画) | お知らせ | 株式会社 タクミナ — テレビ放映されました(動画) | お知らせ | 株式会社 タクミナ TACMINA https://www.tacmina.co.jp > information",
+    "url": "https://www.tacmina.co.jp/information/20220725786",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ タクミナ ・山田圭祐 社長 「国内要増に期待」 — 経営ひと言／ タクミナ ・山田圭祐 社長 「国内要増に期待」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/730525",
+    "pass": 3
+   },
+   {
+    "quote": "タクミナ 【6322】の 社長 ・役員 - キタイシホン — タクミナ 【6322】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6322/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タクミナ 様｜クライアント対談 - サンセイテクノス — 株式会社 タクミナ 様｜クライアント対談 - サンセイテクノス サンセイテクノス https://www.sanseitechnos.co.jp > client > talk02",
+    "url": "https://www.sanseitechnos.co.jp/client/talk02/",
+    "pass": 3
+   },
+   {
+    "quote": "タクミナ の 社長 は誰？山田 圭祐氏の経歴・就任年【6322】 — タクミナ の 社長 は誰？山田 圭祐氏の経歴・就任年【6322】 kigyo-scope.jp https://kigyo-scope.jp > 株式会社タクミナ",
+    "url": "https://kigyo-scope.jp/company/6322/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tacmina.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library/feature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library/basics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library/glossary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library/convert/flowing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library/convert/ziaenso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library/convert/ryuryo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/member/login?destination=/library/convert/p_calculate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/inquiry/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/inquiry/rental",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/inquiry/catalog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/inquiry/repair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/inquiry/other",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/cal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/announcement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/highlight/2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/highlight/2024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/ir/highlight/2023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/library",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/information/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F%20%E7%AC%AC%EF%BC%92%E5%9B%9B%E5%8D%8A%E6%9C%9F%28%E4%B8%AD%E9%96%93%E6%9C%9F%29%E9%80%A3%E7%B5%90%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/information/%E5%89%B0%E4%BD%99%E9%87%91%E3%81%AE%E9%85%8D%E5%BD%93%EF%BC%88%E4%B8%AD%E9%96%93%E9%85%8D%E5%BD%93%EF%BC%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/announcement/20260722.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/highlight/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F%20%E7%AC%AC%EF%BC%92%E5%9B%9B%E5%8D%8A%E6%9C%9F%28%E4%B8%AD%E9%96%93%E6%9C%9F%29%E9%80%A3%E7%B5%90%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/highlight/%E5%89%B0%E4%BD%99%E9%87%91%E3%81%AE%E9%85%8D%E5%BD%93%EF%BC%88%E4%B8%AD%E9%96%93%E9%85%8D%E5%BD%93%EF%BC%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/highlight/%E8%AD%B2%E6%B8%A1%E5%88%B6%E9%99%90%E4%BB%98%E6%A0%AA%E5%BC%8F%E5%A0%B1%E9%85%AC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E8%87%AA%E5%B7%B1%E6%A0%AA%E5%BC%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%AE%E6%89%95%E8%BE%BC%E5%AE%8C%E4%BA%86%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/highlight/2027%E5%B9%B43%E6%9C%88%E6%9C%9F%20%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tacmina.co.jp/system/files/system/highlight/%E8%AD%B2%E6%B8%A1%E5%88%B6%E9%99%90%E4%BB%98%E6%A0%AA%E5%BC%8F%E5%A0%B1%E9%85%AC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E8%87%AA%E5%B7%B1%E6%A0%AA%E5%BC%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/730525",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タクミナ",
+   "results": [
+    "https://www.tacmina.co.jp/",
+    "https://www.tacmina.com/",
+    "https://job.mynavi.jp/27/pc/search/corp60826/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__00006816503/",
+    "https://ja.wikipedia.org/wiki/ターミナル・リスト"
+   ]
+  },
+  {
+   "query": "タクミナ ビジネスモデル",
+   "results": [
+    "https://www.tacmina.co.jp/company/sdgs",
+    "https://www.tacmina.co.jp/",
+    "https://envalith.com/ja/companies/6322/overview",
+    "https://www.tacmina.co.jp/company/plan",
+    "https://subsc.opro.net/soasc/case/tacmina.html",
+    "https://www.tacmina.co.jp/company",
+    "https://www.wantedly.com/companies/company_4420873/about",
+    "https://www.tacmina.co.jp/company/environment",
+    "https://recruit.tacmina.jp/history/talk01/",
+    "https://consovation.com/株式会社タクミナが描く成長戦略とビジネスモデ/"
+   ]
+  },
+  {
+   "query": "タクミナ 決算説明資料",
+   "results": [
+    "https://www.tacmina.co.jp/ir/highlight",
+    "https://www.tacmina.co.jp/ir",
+    "https://www.tacmina.co.jp/system/files/system/highlight/240508_2_0.pdf",
+    "https://www.tacmina.co.jp/ir/cal",
+    "https://irbank.net/6322/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6322",
+    "https://edinetdb.jp/company/E01711/presentations/",
+    "https://www.tacmina.co.jp/system/files/system/highlight/2025年3月期決算説明資料.pdf",
+    "https://treelazy.com/stock-jp/6322/conference",
+    "https://edinetdb.jp/company/E01711/ir-docs/"
+   ]
+  },
+  {
+   "query": "タクミナ 事業系統図",
+   "results": [
+    "https://www.tacmina.co.jp/company",
+    "https://www.tacmina.co.jp/",
+    "https://www.tacmina.co.jp/company/history",
+    "https://www.tacmina.co.jp/company/plan",
+    "https://www.tacmina.co.jp/company/field",
+    "https://kitaishihon.com/company/6322/business",
+    "https://www.tacmina.co.jp/specialpdf/registration",
+    "https://www.tacmina.co.jp/library",
+    "https://www.tacmina.co.jp/company/office/74",
+    "https://irbank.net/E01711/business?f=S100VYQY"
+   ]
+  },
+  {
+   "query": "タクミナ 社長 インタビュー",
+   "results": [
+    "https://www.tacmina.co.jp/information/20220725786",
+    "https://www.nikkan.co.jp/articles/view/730525",
+    "https://kitaishihon.com/company/6322/board-of-director",
+    "https://www.sanseitechnos.co.jp/client/talk02/",
+    "https://kigyo-scope.jp/company/6322/ceo/",
+    "https://www.tacmina.co.jp/company",
+    "https://www.wantedly.com/companies/company_4420873/about",
+    "https://www.nikkei.com/article/DGKKZO70419390R20C23A4TB0000/",
+    "https://choujin.jp/story/406/",
+    "https://www.nikkei.com/article/DGXZQODZ00027_R20C23A4000000/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

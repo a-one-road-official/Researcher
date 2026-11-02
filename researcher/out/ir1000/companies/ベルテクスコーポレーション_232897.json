@@ -1,0 +1,1638 @@
+{
+ "name": "ベルテクスコーポレーション",
+ "aliases": [],
+ "context": "証券コード5290／ガラス・土石製品／スタンダード（内国株式）／2026.03期 売上高46,520百万円 営業利益率15.2%",
+ "researched_at": "2026-11-02T18:52:48.963929+00:00",
+ "official_url": "https://www.vertex-grp.co.jp/",
+ "identified_by": "search:yahoo_jp:ベルテクスコーポレーション",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年度",
+    "value": "2018年",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,077人",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "368億円",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "40,000 38,918 41,000 46,519 43,000 (50,000) 52,000",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "26,918,352 3,689,249 4,890,554 ― 35,498,155 3,419,857 38,918,012 ― 38,918,012",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "1,339 ― ― ― 1,339 34,888 36,227 △36,227 ―",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "30,028,852 2,828,858 4,635,313 5,623,679 43,116,703 3,403,163 46,519,866 ― 46,519,866",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "3,953 ― ― ― 3,953 57,178 61,131 △61,131 ―",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "社会資本の整備に欠かせないコンクリート製品や落石防護柵等の防災製品を手掛け、安心・安全な日常の実現に貢献する東証STD市場上場の企業グループです。高い技術力と製品力により高い営業利益率を誇っています。",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "浸水対策製品をはじめとするコンクリート事業を中心に、落石・土砂防護柵の防災事業、建築基礎杭のパイル事業、その他の事業を展開しております",
+    "url": "http://www.vertex-grp.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年10月1日にコンクリート二次製品業界を牽引するゼニス羽田ホールディングス株式会社及び株式会社ホクコンを完全子会社とする当社が設立されました",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の優位性",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "他社に先駆けて新製品を市場に投入することで優位性を発揮、No.1ブランドとしての地位を確立",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の販売だけではなく、設計を受け持つ設計コンサルタントや、エンドクライアントである官庁に対し、常時情報収集を実施することで、川上で求められているニーズを的確に把握",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品PRや技術提案も積極的に実施",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・ニーズをもとに新製品の開発＆実験や技術の活用法を考案",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "収集した情報やニーズをもとに、新たな自社製品の開発＆実験を実施、他社に先駆けた新製品の開発や活用法を考案",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "市場のニーズを的確に捉える優れた提案力のある営業スタッフや、ニーズや情報を活かした新製品開発・提案を可能とする技術スタッフ等、探求心溢れる優れた人材力が上記を支える",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "インフラの維持・管理を上流から巻き取り、調査診断から維持管理までをワンストップでサービスを提供する新ビジネスを展開することで、安心して暮らせる社会に貢献していきます",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレキャストについて、モバイルプラントを使って現場で製品を製造するオンサイトプレキャスト事業の展開を考えています",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "（開示事項の中止）株式会社カナサシテクノサービスの株式取得に向けた基本合意書の解除に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社カナサシテクノサービスの株式取得に向けた基本合意書締結に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "介護専用型サービス付き高齢者向け住宅の完成及び賃貸開始に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_sewer.html",
+    "pass": 1
+   },
+   {
+    "quote": "人命を守るための製品を数多く保有",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/buisiness_road.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/buisiness_road.html",
+    "pass": 1
+   },
+   {
+    "quote": "先送りできないインフラ老朽化対策として、ライフサイクルコストを考慮した最適な製品・工法をご提案",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_mainte.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_mainte.html",
+    "pass": 1
+   },
+   {
+    "quote": "超高硬度コンクリートや特殊モルタルなど、材料まで突き詰めた製品もラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_train.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_train.html",
+    "pass": 1
+   },
+   {
+    "quote": "地震や災害に強い街づくりのために、大地震対応の製品を数多くラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_house.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_house.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的・ 製品PRや",
+    "url": "http://www.vertex-grp.co.jp/ja/about/main/06/teaserItems1/00/binaryNodeName/BusinessModels.png",
+    "pass": 2
+   },
+   {
+    "quote": "製品PR ニギ",
+    "url": "http://www.vertex-grp.co.jp/ja/about/main/06/teaserItems1/00/binaryNodeName/BusinessModels.png",
+    "pass": 2
+   },
+   {
+    "quote": "ユニークな自社製品を開発 /",
+    "url": "http://www.vertex-grp.co.jp/ja/about/main/06/teaserItems1/00/binaryNodeName/BusinessModels.png",
+    "pass": 2
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主力事業はコンクリート、パイル、防災、その他の4項目のセグメントです",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "工事進捗の遅れなどもあり、売上高は前期同期比で減収となったものの、高付加価値製品へのシフトを戦略的に進めた結果、利益額については前年同期比同水準となりました",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリート事業の販売単価アップと、製品ミックスの改善に関する進捗の状況をスライドに示しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "スライド左側のグラフは2020年3月期を起点とした製品販売単価の伸び率です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "スライド右側のグラフは当社の高付加価値製品比率の進捗です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値製品比率の向上に加え、汎用性が高い製品についても、適正売価へと改善しました",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "水色で示している③の部分は、製品販売単価の見直しによる収益の効果です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "製品別に分類し、各製品別に販売量の影響と販売単価の影響を示しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "個々の製品についておおむね販売価格を上げることはできましたが、販売量は減少しました",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "要因として、浸水対策製品である雨水貯留槽の工事進捗の遅れがあります",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "また、大型特殊ボックスカルバートの需要が低調だったことや、汎用性の高い製品の受注が低調であったことも減収の要因です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリート事業は、浸水対策関連製品のさらなる営業の深耕、付加価値化と継続、インフラメンテナンス市場への展開を推し進め、売上高は285億円となっています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "街や高速道路、山間部など、多くの場所で当社の製品が使われています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "このように当社の製品は、自然災害の絶えないこの日本のいたるところで人々の暮らしを守っています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "2011年の3社による経営統合を機に、製品群の絞り込みや工場の統廃合といった構造改革を実施し、収益性が大きく改善されました",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "その後も高付加価値製品へのシフトを積極的に進めて利益率をアップさせ、業界最高水準の収益性を確保しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "直接の製品の販売先はゼネラルコントラクター（ゼネコン）になります",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "案件の計画段階から設計コンサルタントや官庁・デベロッパーなどの発注者に対して、課題解決に向けた提案やサポートを行うことで、自社製品を売り込むことができるビジネスモデルとなっています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "これらのビジネスモデルを押し進め続けるために、大学など産学官との連携を通して、ユニークな自社製品の開発を継続的に行っています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの特徴として、製品開発、販売開始から安定的な収益を構築するまで、おおむね10年程度が必要という点が挙げられます",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社主要製品の「SJ-BOX」を事例として、ご紹介します",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "ある段階までいくと一気に認知され、この地点を超えた製品が安定した利益の源泉になります",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "現場でゼネコンが生コンを打設する「現場打ち」と、工場でコンクリート製品を作って現場まで運び、ゼネコンがそれを組み立てる「プレキャスト」の2つのパターンがあります",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社は構造物の調査・診断から分析、補修・補強方法の設計、製品の製造、工事、維持管理までのサプライチェーンです",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "社会資本の整備に欠かせないコンクリート製品や落石防護柵等の防災製品を手掛け、安心・安全な日常の実現に貢献する東証STD市場上場の企業グループです",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力と製品力により高い営業利益率を誇っています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "社会資本や生活インフラの整備に欠かせないコンクリート製品や防災製品を提供しています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "ベルテクスグループとして多彩なサービスを提供しています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "」をモットーに、自然災害の絶えない日本において、どこに住んでいても安心して暮らせる世界の実現を目指し、大地震対応製品や浸水対策製品をはじめとするコンクリート事業、落石・土砂防護柵の防災事業などを展開しています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "マンホール、ヒューム管ほか各種水路製品、鉄道関連製品、地下貯留施設などのコンクリート二次製品の製造・販売、その他関連商品の販売、据付工事",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "落石・土砂防護柵などの防災製品の製造・販売・設置工事",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、製品の優位性と技術提案力、それらを活かしたビジネスモデルにあります",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "当社の直接的なお客様はゼネコンですが、設計を受け持つ設計コンサルタントや、発注者である官庁・デベロッパーとも積極的にコミュニケーションを取り、設計段階から製品PRや技術提案を行っています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_sewer.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_sewer.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/buisiness_road.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/buisiness_road.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_mainte.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_mainte.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_train.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_train.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_house.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_house.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_pile.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_pile.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_bosai.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_bosai.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業 | 事業内容 | 株式会社ベルテクスコーポレーション",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_segument.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_segument.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_segument.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_ceramics.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_ceramics.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_rfid.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_rfid.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_sys.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_sys.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_hydraulic.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_hydraulic.html",
+    "pass": 1
+   },
+   {
+    "quote": "1-2. 2024年3月期 セグメント別業績 まとめ",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "1-3. 2024年3月期 セグメント別業績",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "2-2. 2025年3月期 セグメント別業績予想",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "次にセグメント別業績の売上高と利益についてご説明します",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主力事業はコンクリート、パイル、防災、その他の4項目のセグメントです",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "上段の表はセグメント別の売上高で、下段はセグメント別の利益です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の業績です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "濃い青で示している①の部分は、2024年3月期におけるコンクリート事業の利益額で、②の部分は2023年3月のセグメント利益額です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "以上、当社のセグメントの中で、最も大きな割合を占めるコンクリート事業の減収要因についてでした",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "強みを活かしたビジネスモデル",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルの全体図",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの特徴",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルについて簡単にご説明します",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "案件の計画段階から設計コンサルタントや官庁・デベロッパーなどの発注者に対して、課題解決に向けた提案やサポートを行うことで、自社製品を売り込むことができるビジネスモデルとなっています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "これらのビジネスモデルを押し進め続けるために、大学など産学官との連携を通して、ユニークな自社製品の開発を継続的に行っています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの特徴として、製品開発、販売開始から安定的な収益を構築するまで、おおむね10年程度が必要という点が挙げられます",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ3ヶ年で見ていただきたいかと言いますと、そこには当社のビジネスモデルが関係しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、製品の優位性と技術提案力、それらを活かしたビジネスモデルにあります",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値の高い製品・サービスや活用法を提供する独自のビジネスモデルにより、価格競争が多い業界のなかでも高い利益率を確保しています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "VERTEXの強み",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "強みを活かしたビジネスモデル",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "強みを支える3つの要因",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベルテクスの強み",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "パイル事業は、当社の強みを発揮できる地域に絞り込み、需要の回復を見込んでいます",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな分野で強みを持っていたプレキャストコンクリートメーカー4社が経営統合し、2018年10月にベルテクスコーポレーションが誕生しました",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "このような市場環境下で当社は技術力と開発力の強みを活かして成長していきます",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "現状でもこの強みを活かすことによって、業界内で最も高い水準の利益率を引き続き維持しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力と製品力により高い営業利益率を誇っています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、製品の優位性と技術提案力、それらを活かしたビジネスモデルにあります",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2018年10月1日にコンクリート二次製品業界を牽引するゼニス羽田ホールディングス株式会社及び株式会社ホクコンを完全子会社とする当社が設立されました",
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期決算短信[日本基準](連結)",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期決算短信[日本基準](連結)",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2034年、私たちの日常は革新的な技術で溢れています",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月10日公表 第3次中期経営計画（2025/3期→2027/3期）",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日（木）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月27日（金）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月27日（木）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月29日（木）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月29日（水）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月29日（火）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月26日（金）午前10時",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ここでは、私たちが情熱を注いで描いた2034年の技術と未来をご紹介します",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社主要製品の「SJ-BOX」を事例として、ご紹介します",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション(新株予約権）の発行内容確定に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）の行使条件変更に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストックオプション(新株予約権）の発行内容確定に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）の内容改定に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "（訂正）「株式報酬型ストック・オプション（新株予約権）に関するお知らせ」の一部訂正について",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）のに関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）の導入に関するお知らせ",
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート事業の販売単価アップと、製品ミックスの改善に関する進捗の状況をスライドに示しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "スライド左側のグラフは2020年3月期を起点とした製品販売単価の伸び率です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "水色で示している③の部分は、製品販売単価の見直しによる収益の効果です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "製品別に分類し、各製品別に販売量の影響と販売単価の影響を示しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "左側のグラフは販売量の要因で、右側のグラフは販売単価の要因です",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "みらいビジョンの「ワンストップ化」でご説明したように、調査・診断から維持・保守管理までワンストップで対応しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "ストックについては、2024年3月期末における現預金が139億円、中期経営計画3ヶ年に推定される営業キャッシュフローが156億円で、合計295億円と想定しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・アロケーションについては、ストックをもとにスライド中央に整理して記載しています",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "直接の製品の販売先はゼネラルコントラクター（ゼネコン）になります",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "当社の直接的なお客様はゼネコンですが、設計を受け持つ設計コンサルタントや、発注者である官庁・デベロッパーとも積極的にコミュニケーションを取り、設計段階から製品PRや技術提案を行っています",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載はありません",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ベルテクスコーポレーション 、業界最高水準の収益性を確保し ... — ベルテクスコーポレーション 、業界最高水準の収益性を確保し ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/379593",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ベルテクスコーポレーション の会社情報 - M&Aクラウド — 株式会社 ベルテクスコーポレーション の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/7965",
+    "pass": 3
+   },
+   {
+    "quote": "VERTEXについて - 株式会社ベルテクスコーポレーション — VERTEXについて - 株式会社ベルテクスコーポレーション 株式会社ベルテクスコーポレーション https://www.vertex-grp.co.jp > about",
+    "url": "https://www.vertex-grp.co.jp/ja/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "5290） ベルテクスコーポレーション 2026年3月期決算 — 5290） ベルテクスコーポレーション 2026年3月期決算 ブリッジサロン http://www.bridge-salon.jp > archives > 2026/06",
+    "url": "http://www.bridge-salon.jp/report_bridge/archives/2026/06/260622_5290.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベルテクスコーポレーション 【5290】のストーリー・沿革 — ベルテクスコーポレーション 【5290】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/5290/story",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IRライブラリ | 株主・投資家情報 — 決算 短信 | IRライブラリ | 株主・投資家情報 株式会社ベルテクスコーポレーション https://www.vertex-grp.co.jp > library > result",
+    "url": "https://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - 株式会社ベルテクスコーポレーション — 株主・投資家情報 - 株式会社ベルテクスコーポレーション 株式会社ベルテクスコーポレーション https://www.vertex-grp.co.jp > ...",
+    "url": "https://www.vertex-grp.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ベルテクスコーポレーション 】[5290]IR情報 ... - 日本経済新聞 — 【 ベルテクスコーポレーション 】[5290]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5290",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社ベルテクスコーポレーション — 会社情報 - 株式会社ベルテクスコーポレーション 株式会社ベルテクスコーポレーション https://www.vertex-grp.co.jp > company",
+    "url": "https://www.vertex-grp.co.jp/ja/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベルテクスコーポレーション 【5290】の 事業 内容 - キタイシホン — ベルテクスコーポレーション 【5290】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5290/business",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2026 - 株式会社 ベルテクスコーポレーション — 統合報告書 2026 - 株式会社 ベルテクスコーポレーション 株式会社ベルテクスコーポレーション PDF https://www.vertex-grp.co.jp > IntegratedReport_all",
+    "url": "https://www.vertex-grp.co.jp/ja/ir/library/integrated/main/0/teaserItems2/00/link/IntegratedReport_all.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CEO インタビュー - 株式会社ベルテクスコーポレーション — CEO インタビュー - 株式会社ベルテクスコーポレーション 株式会社ベルテクスコーポレーション https://www.vertex-grp.co.jp > company > interview",
+    "url": "https://www.vertex-grp.co.jp/ja/company/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベルテクスコーポレーション社長 に山本譲氏 - 日本経済新聞 — ベルテクスコーポレーション社長 に山本譲氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ベルテクスコーポレーション 【5290】の 社長 ・役員 — ベルテクスコーポレーション 【5290】の 社長 ・役員 キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5290/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 | 会社情報 | 株式会社 ベルテクスコーポレーション — 役員紹介 | 会社情報 | 株式会社 ベルテクスコーポレーション 株式会社ベルテクスコーポレーション https://www.vertex-grp.co.jp > company > officer",
+    "url": "https://www.vertex-grp.co.jp/ja/company/officer.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library/integrated.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/stock/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_sewer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/buisiness_road.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_mainte.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_train.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_concrete/business_house.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_pile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_bosai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_segument.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_ceramics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_rfid.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_sys.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/business_other/business_hydraulic.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news/auto_20260924539309/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news/auto_20260918538683/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news/auto_20260901529309/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/ir/ir_news/auto_20260827526842/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/en/ir_news/auto_20260925540376/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/en/ir_news/auto_20260918538686/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/en/ir_news/auto_20260901529311/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/en/ir_news/auto_20260827526844/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/about/main/06/teaserItems1/00/binaryNodeName/BusinessModels.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/promos1/0/binaryNodeName/mv_service.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/main/01111112/teaserItems1/0/binaryNodeName/image_media_editor1762336752429_PC.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/main/01111112/teaserItems2/0/binaryNodeName/image_media_editor1762336791752_PC.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/main/01111112/teaserItems3/01114/binaryNodeName/jigyo_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/main/01111113/teaserItems1/01116/binaryNodeName/jigyo_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/main/01111113/teaserItems2/0/binaryNodeName/juutaku.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.vertex-grp.co.jp/ja/business/main/0/teaserItems1/0111114/binaryNodeName/connectors-20200609195952060.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/379593",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://macloud.jp/companies/7965",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5290/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ベルテクスコーポレーション",
+   "results": [
+    "https://www.vertex-grp.co.jp/ja/ir/ir_news.html",
+    "https://www.vertex-grp.co.jp/ja/company.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5290",
+    "http://vertexgrp.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://vertex-grp.premium-yutaiclub.jp/",
+    "https://macloud.jp/companies/7965",
+    "https://www.vertex-grp.co.jp/ja/company/outline.html",
+    "https://ja.wikipedia.org/wiki/ベルテクスコーポレーション",
+    "https://finance.yahoo.co.jp/quote/5290.T"
+   ]
+  },
+  {
+   "query": "ベルテクスコーポレーション ビジネスモデル",
+   "results": [
+    "https://finance.logmi.jp/articles/379593",
+    "https://macloud.jp/companies/7965",
+    "https://www.vertex-grp.co.jp/ja/about.html",
+    "http://www.bridge-salon.jp/report_bridge/archives/2026/06/260622_5290.html",
+    "https://kitaishihon.com/company/5290/story",
+    "https://www.vertex-grp.co.jp/ja/ir/management/irmessage.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5290",
+    "https://x.com/VERTEX_Co_JP",
+    "https://column.ifis.co.jp/company/bridge/172653",
+    "https://www.saa.or.jp/dc/event/apps/company/CompanyBriefingSummaryShowList.do?goExec&evtId=019163"
+   ]
+  },
+  {
+   "query": "ベルテクスコーポレーション 決算説明資料",
+   "results": [
+    "https://www.vertex-grp.co.jp/ja/ir/library/result.html",
+    "https://www.vertex-grp.co.jp/ja/ir.html",
+    "https://finance.logmi.jp/articles/384583",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5290",
+    "https://www.vertex-c.co.jp/ir/library/presentation",
+    "https://www.vertex-grp.co.jp/ja/ir/library.html",
+    "https://www.buffett-code.com/company/5290/library",
+    "https://x.com/VERTEX_Co_JP",
+    "https://edinetdb.jp/company/E34137/presentations/",
+    "https://irbank.net/5290/ir"
+   ]
+  },
+  {
+   "query": "ベルテクスコーポレーション 事業系統図",
+   "results": [
+    "https://www.vertex-grp.co.jp/ja/company.html",
+    "https://kitaishihon.com/company/5290/business",
+    "http://vertexgrp.co.jp/company/organization",
+    "https://finance.logmi.jp/articles/379593",
+    "https://www.vertex-grp.co.jp/ja/ir/library/integrated/main/0/teaserItems2/00/link/IntegratedReport_all.pdf",
+    "https://macloud.jp/companies/7965",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://x.com/VERTEX_Co_JP",
+    "https://vertex-const.co.jp/about_us/",
+    "https://ja.wikipedia.org/wiki/ベルテクスコーポレーション"
+   ]
+  },
+  {
+   "query": "ベルテクスコーポレーション 社長 インタビュー",
+   "results": [
+    "https://www.vertex-grp.co.jp/ja/company/interview.html",
+    "https://www.nikkei.com/article/DGXZQODZ00006_S6A210C2000000/",
+    "https://mizudesignjournal.com/serial/3324.html",
+    "https://kitaishihon.com/company/5290/board-of-director",
+    "https://www.vertex-grp.co.jp/ja/company/officer.html",
+    "https://www.vertex-p.com/recruitment/member/",
+    "https://x.com/VERTEX_Co_JP",
+    "https://www.v-tex.co.jp/recruit/interview/interview11/",
+    "https://www.youtube.com/watch?v=pWs4hz_-tco"
+   ]
+  }
+ ],
+ "missing": {}
+}

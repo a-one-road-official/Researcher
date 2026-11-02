@@ -1,0 +1,462 @@
+{
+ "name": "イーエムシステムズ",
+ "aliases": [],
+ "context": "証券コード4820／情報・通信業／プライム（内国株式）／2025.12期 売上高23,658百万円 営業利益率15.6%",
+ "researched_at": "2026-11-02T18:51:57.223744+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1980年（昭和55年）",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結 236億5千8百万円（2025年12月期） 個別 188億2千9百万円（2025年12月期）",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結 858名（2025年12月31日現在） 個別 514名（2025年12月31日現在）",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "調剤システム事業 医科システム事業 介護/福祉システム事業 その他の事業",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "外部環境に左右されにくいビジネスモデルを確立 EMシステムズ（4820東証1部）(1/7) | JBpress (ジェイビープレス)",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "外部環境に左右されにくいビジネスモデルを確立 EMシステムズ（4820東証1部）",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "外部環境に左右されにくいビジネスモデルを確立",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "同社の特徴はストック型のビジネスモデルである｡従量課金のユーザー数（顧客数）を積み上げることで、通常2年ごとの診療報酬改定や医療制度改革など、外部環境の変化に左右されにくいビジネスモデルを確立している",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "●2012年3月期からストック型ビジネスモデルの収穫期に",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "同社の特徴はストック型のビジネスモデルである｡従量課金のユーザー数（顧客数）を積み上げることで、通常2年ごとの診療報酬改定や医療制度改革など、外部環境の変化に左右されにくいビジネスモデルを確立している",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "売上面では既存ユーザーの自社リプレースがほぼ完了した調剤システムが苦戦したものの、2014年3月期の下期に(株)ユニコンを買収した医科システムの寄与で賄い増収を確保した｡利益面ではユニコンの経費負担と先行投資的な人員増で減益だった",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品は薬局向けシステムであり、自社開発のソフトウェアをパソコンに導入調整してお客様に納入します",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品は電子カルテシステム等のクリニック向けシステムであり、パソコンに導入調整してお客様に納入します",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社では顧客の細かな要望を集め、それらを基に毎月、システムをバージョンアップしている",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "EMシステムズ<4820>は、調剤薬局向けレセプト（診療報酬請求書）コンピュータの開発と販売を主力に、開業医向け電子カルテシステム販売のほか、本社ビルのテナント部分を活用した不動産賃貸事業などを展開している",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "1982年にメンテナンス会社(有)エム.シイ.エス.サービスを立ち上げたほか、1984年にはエプソン販売と合弁会社関西エプソンメディカル(株)を設立し、医療事務用オフコンの販売部門を集約した",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "1997年にジーニスコンサルタント買収で調剤薬局部門を手中にしたほか、システムのメンテナンス会社エム.シイ.エス.サービスと医療事務用オフコン販売会社エプソンメディカルの統合で事業基盤強化に努め、1998年には商号を現在の株式会社イーエムシステムズに変更した",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "JBpressの会員向けサービスのご案内",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "薬局向けのシステムを開発販売し、付帯するサプライの供給や保守メンテナンスサービスを行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品は薬局向けシステムであり、自社開発のソフトウェアをパソコンに導入調整してお客様に納入します",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品はASP(アプリケーション・サービス・プロバイダ)による、インターネットを利用した調剤業務支援システムであり、グループ薬局間の情報共有と本部統括管理を実現するシステムや、グループ薬局以外の在庫情報等を共有することができるシステム等も提供しております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックを主とする医療機関向けに医療事務処理コンピュータシステムを開発販売し、付帯するサプライの供給や保守メンテナンスサービスを行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品は電子カルテシステム等のクリニック向けシステムであり、パソコンに導入調整してお客様に納入します",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品は、介護/福祉サービス事業者向けシステムと医療介護連携ソリューションを開発販売し、保守メンテナンスサービスを行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "チョキ株式会社は、クリニック·薬局向けキャッシュレス決済システムの開発·運営や、統計情報分析サービスの開発·運営を行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "14年常務取締役執行役員チェーン薬局本部長、19年システム製品事業部長、取締役常務執行役員",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   },
+   {
+    "quote": "特に同社が中核製品として注力しているのが、３領域で共通のエンジン・マスタを基盤としたクラウド型システム「ＭＡＰｓ」シリーズだ",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   },
+   {
+    "quote": "“複合化技術”で多様な製品を製造 ゴルフ用シャフトが利益をけん引",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "●医科システムは代理店調開拓やM&Aも有効な選択肢",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "当社及び当社子会社等が販売するほか、販売代理店経由で販売しております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社及び当社子会社等が販売するほか、販売代理店経由でも販売しております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "美容クチコミデータを活かした実店舗が好調 コロナ禍から復活、データ活用で営業利益率８％へ",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "同社の特徴はストック型のビジネスモデルである｡従量課金のユーザー数（顧客数）を積み上げることで、通常2年ごとの診療報酬改定や医療制度改革など、外部環境の変化に左右されにくいビジネスモデルを確立している",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "●2012年3月期からストック型ビジネスモデルの収穫期に",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "登録範囲 データセンターの運営・管理及びアプリケーションの開発・保守",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "薬局向けのシステムを開発販売し、付帯するサプライの供給や保守メンテナンスサービスを行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックを主とする医療機関向けに医療事務処理コンピュータシステムを開発販売し、付帯するサプライの供給や保守メンテナンスサービスを行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要な製品は、介護/福祉サービス事業者向けシステムと医療介護連携ソリューションを開発販売し、保守メンテナンスサービスを行っております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2015年3月期第2四半期累計決算（以下：上期）は売上高が前年同期比3.7%増の5,132百万円、経常利益は同36.5%減の589百万円であった",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "1982年にメンテナンス会社(有)エム.シイ.エス.サービスを立ち上げたほか、1984年にはエプソン販売と合弁会社関西エプソンメディカル(株)を設立し、医療事務用オフコンの販売部門を集約した",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "1997年にジーニスコンサルタント買収で調剤薬局部門を手中にしたほか、システムのメンテナンス会社エム.シイ.エス.サービスと医療事務用オフコン販売会社エプソンメディカルの統合で事業基盤強化に努め、1998年には商号を現在の株式会社イーエムシステムズに変更した",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "2000年に入り中国でソフトウェア開発子会社（持分100%）を設立し、日…",
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "pass": 3
+   },
+   {
+    "quote": "1980年（昭和55年）",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "1974年生まれ、兵庫県出身",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年南京航空航天大計算機応用卒業、同年EMシステムズ入社",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【株式会社 イーエムシステムズ （証券コード：4820）徹底 ... — 【株式会社 イーエムシステムズ （証券コード：4820）徹底 ... ITトレンド https://it-trend.jp > emr > market",
+    "url": "https://it-trend.jp/emr/market/01-4820",
+    "pass": 3
+   },
+   {
+    "quote": "【 イーエムシステムズ 】[4820]IR情報 中期経営計画や 決算 短信 — 【 イーエムシステムズ 】[4820]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4820",
+    "pass": 3
+   },
+   {
+    "quote": "イーエムシステムズ (商号 EMシステムズ )（4820）のIR情報 ... — イーエムシステムズ (商号 EMシステムズ )（4820）のIR情報 ... IRBANK https://irbank.net > ...",
+    "url": "https://irbank.net/4820/ir",
+    "pass": 3
+   },
+   {
+    "quote": "(株) イーエムシステムズ 【東証プライム上場】 - マイナビ — (株) イーエムシステムズ 【東証プライム上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp206345 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206345/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "イーエムシステムズ - Wikipedia — イーエムシステムズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > イーエムシステムズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "主要な製品はASP(アプリケーション・サービス・プロバイダ)による、インターネットを利用した調剤業務支援システムであり、グループ薬局間の情報共有と本部統括管理を実現するシステムや、グループ薬局以外の在庫情報等を共有することができるシステム等も提供しております",
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "美容クチコミデータを活かした実店舗が好調 コロナ禍から復活、データ活用で営業利益率８％へ",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   },
+   {
+    "quote": "20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "主な事業セグメントは、処方箋を扱う薬局向けの「調剤システム事業」、入院設備を持たない無床クリニックに電子カルテシステムなどを提供する「医科システム事業」、そして介護／福祉施設向けにオンラインでの介護記録や請求業務のシステムを提供する「介護／福祉システム事業」の３つ",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   },
+   {
+    "quote": "売上比率はそれぞれ83％、10％、２％",
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/42636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emsystems.co.jp/sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emsystems.co.jp/ir/presentations.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://emsystems.co.jp/ir/library-c.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emsystems.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emsystems.co.jp/about/profile.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "イーエムシステムズ",
+   "results": [
+    "https://emsystems.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp206345/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4820",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fr9j"
+   ]
+  },
+  {
+   "query": "株式会社イーエムシステムズ",
+   "results": [
+    "https://emsystems.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp206345/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fr9j",
+    "https://finance.logmi.jp/companies/2429",
+    "https://prtimes.jp/main/html/searchrlp/company_id/81158"
+   ]
+  },
+  {
+   "query": "イーエムシステムズ 株式会社",
+   "results": [
+    "https://emsystems.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp206345/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://minkabu.jp/stock/4820",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fr9j",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4820",
+    "https://ja.wikipedia.org/wiki/イーエムシステムズ",
+    "https://emsystems.co.jp/index.html",
+    "https://emsystems.co.jp/about/profile.html",
+    "https://job.mynavi.jp/27/pc/search/corp206345/outline.html"
+   ]
+  },
+  {
+   "query": "イーエムシステムズ ビジネスモデル",
+   "results": [
+    "https://jbpress.ismedia.jp/articles/-/42636",
+    "https://emsystems.co.jp/sustainability/",
+    "https://web.fisco.jp/FiscoPFApl/SelectedNewsDetailWeb?nwsId=0009350020200107050&nwsType=null&token=",
+    "https://it-trend.jp/emr/market/01-4820",
+    "https://note.com/kabutabi2000/n/n99ddfdb15d72",
+    "https://edinetdb.jp/company/E05155/midterm-plans/",
+    "https://job.mynavi.jp/28/pc/search/corp206345/outline.html",
+    "https://ameblo.jp/furupanko1130/entry-12950649622.html",
+    "https://www.belletk.com/emsisutemuzu201805.pdf",
+    "https://ja.wikipedia.org/wiki/イーエムシステムズ"
+   ]
+  },
+  {
+   "query": "イーエムシステムズ 決算説明資料",
+   "results": [
+    "https://emsystems.co.jp/ir/presentations.html",
+    "https://emsystems.co.jp/ir/library-c.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4820",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100KZHE.pdf",
+    "https://irbank.net/4820/ir",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4820",
+    "https://the-shashi.com/tse/4820/financials/sales/",
+    "https://emsystems.co.jp/ir/calendar.html",
+    "https://envalith.com/ja/companies/4820/disclosure",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260213561654/"
+   ]
+  },
+  {
+   "query": "イーエムシステムズ 事業系統図",
+   "results": [
+    "https://emsystems.co.jp/about/profile.html",
+    "https://emsystems.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp206345/outline.html",
+    "https://kitaishihon.com/company/4820/business",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100KZHE.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://digikar.m3.com/articles/how-to-choice-emr/article107",
+    "https://prtimes.jp/main/html/searchrlp/company_id/81158",
+    "https://shikiho.toyokeizai.net/stocks/4820/corporate",
+    "https://ja.wikipedia.org/wiki/イーエムシステムズ"
+   ]
+  },
+  {
+   "query": "イーエムシステムズ 社長 インタビュー",
+   "results": [
+    "https://www.kabutecho.com/interview/%E8%96%AC%E5%B1%80%E3%83%BB%E7%97%85%E9%99%A2%E3%83%BB%E4%BB%8B%E8%AD%B7%E6%96%BD%E8%A8%AD%E3%81%AE%E6%A5%AD%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA-%EF%BC%93/",
+    "https://emsystems.co.jp/about/profile.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://www.interaction-i.com/interview/emsystems/",
+    "https://kitaishihon.com/company/4820/board-of-director",
+    "https://kigyo-scope.jp/company/4820/ceo/",
+    "https://emtlab.co.jp/company.html",
+    "https://www.youtube.com/channel/UCQkuWSyYweBKE1a14dWbzGg",
+    "https://syukatsu-kaigi.jp/companies/44165/word_mouths/employee/employments/regular_employee",
+    "https://ja.wikipedia.org/wiki/國光浩三"
+   ]
+  }
+ ],
+ "missing": {}
+}

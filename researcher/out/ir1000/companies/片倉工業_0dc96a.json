@@ -1,0 +1,1350 @@
+{
+ "name": "片倉工業",
+ "aliases": [],
+ "context": "証券コード3001／繊維製品／スタンダード（内国株式）／2025.12期 売上高40,652百万円 営業利益率14.4%",
+ "researched_at": "2026-11-02T19:01:31.972250+00:00",
+ "official_url": "https://www.katakura.co.jp/",
+ "identified_by": "search:yahoo_jp:片倉工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1873年（明治6年）",
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "会社設立",
+    "value": "1920年（大正9年）3月23日",
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1920年 （ 大正 9年） 3月23日 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "104名（2025年12月31日現在）",
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：1,059人、単体：116人 （2021年12月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "不動産事業： 商業施設の運営及び各種不動産賃貸、社有地の開発・活用、交配専用みつばち・国産はちみつの製造・販売、植物とペットの専門店の運営、植栽管理・清掃等 医薬品事業： 循環器領域（虚血性心疾患、不整脈、心不全）の医療用医薬品 機械関連事業： 消防自動車の製造 繊維事業： インナーウェア、レッグウェア、エプロン、リラクシングウェア、機能性繊維等",
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "医薬品製造販売、ショッピングセンター等の不動産運営・賃貸、自動車部品等の機械製造販売、繊維製品の製造販売",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：440億43百万円 単体：154億3百万円 （2019年12月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "消費者の生活向上、課題を解決するために必要な商品・サービスを開発し、豊かなライフスタイルを提案します",
+    "url": "https://www.katakura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "片倉キャロンサービス株式会社",
+    "url": "https://www.katakura.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "消費者の生活向上、課題を解決するために必要な商品・サービスを開発し、豊かなライフスタイルを提案します",
+    "url": "https://www.katakura.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信サービス",
+    "url": "https://www.katakura.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタクラケアパートナー 西大井デイサービス「創（はじめ）」オープン",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタクラケアパートナー 武蔵境デイサービス「紡（つむぎ）」オープン",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コクーンシティ（さいたま新都心） スターバックスリザーブ®県内初販売店舗やSC初出店の人気ベーカリーが登場 アウトドアの「マムート」ほかファッション・サービス・キッズ店舗も続々オープン（PDF：1.2MB）",
+    "url": "https://www.katakura.co.jp/business/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計から加工・組立てまで一貫した生産技術で満足度の高い商品を提案",
+    "url": "https://www.katakura.co.jp/business/machine/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い製品",
+    "url": "https://www.katakura.co.jp/business/machine/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高所作業車両等の一部製品の販売",
+    "url": "https://www.katakura.co.jp/business/machine/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品の企画はもちろんのこと、素材の選択からデザイン、仕上げまでこだわった物づくりを続け、これからも“着る人の心の琴線に触れる最上の商品”を提案していきます",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い製品",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "シルクを使った高品位なインナーの他、日本製のコットンなど、様々な素材・機能をもった付加価値商品を数多く取り揃えています",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "流行を先取りした商品の開発に努め、お客様への最大級の満足を提案しています",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルブランドをはじめ、ライセンス製品を中心としたエプロンを提案します",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルブランドをはじめ、ライセンス製品を中心としたリラクシングウェアを提案します",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外でも評価の高いブランドを、各商品分野で商品化できるようプロデュースしています",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "消費者の生活向上、課題を解決するために必要な商品・サービスを開発し、提供します",
+    "url": "https://www.katakura.co.jp/business/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "農業関連製品",
+    "url": "https://www.katakura.co.jp/business/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビル管理サービス・植栽管理",
+    "url": "https://www.katakura.co.jp/business/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社片倉キャロンサービス",
+    "url": "https://www.katakura.co.jp/business/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "したがって、東京証券取引所「コーポレートガバナンス・コード」および金融商品取引法「フェア・ディスクロージャー・ルール」の趣旨・意義に則り、公正・公平な情報開示を推進するとともに、株主総会や決算説明会等を通じた、長期投資家の皆さまとの建設的な対話により、経営の透明性を高め、信頼される企業を目指します",
+    "url": "https://www.katakura.co.jp/ir/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法等の諸法令および東京証券取引所の定める適時開示等に関する規則（適時開示規則）により開示を義務づけられている情報だけでなく、それらに該当しない場合でも、投資判断に実質的な影響を与える可能性がある情報や、当社の理解促進のために有用と考えられる情報については、公平性と適時性を考慮した上で主体的に開示を行います",
+    "url": "https://www.katakura.co.jp/ir/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "諸法令および適時開示規則に基づく情報開示にあたっては、TDnet（適時開示情報伝達システム）、EDINET（金融商品取引法に基づく開示システム）において開示するとともに、当社ウェブサイト上にも掲載します",
+    "url": "https://www.katakura.co.jp/ir/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報開示にあたっては、金融商品取引法に定める「フェア・ディスクロージャー・ルール」を遵守し、投資判断等に影響を与える可能性のある重要情報については、特定の者に対する選択的開示を禁止することにより、公平な情報開示の実現に努めます",
+    "url": "https://www.katakura.co.jp/ir/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "片倉工業「IRメール」は適時開示やプレスリリース、IR情報の更新などをご登録いただいたメールアドレスにお知らせするサービスです",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただいた個人情報は、本メール配信サービスを提供する目的でのみ利用し、当社にて適切に管理します",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本サービスは宝印刷株式会社が提供するWizLabo Libraryの機能を通じて提供するものです",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社はご登録者様の皆様へ通知することなく、サービス内容を変更または中止させていただく場合があります",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスのご利用により、あるいは本サービスが正常にご利用できないことにより、ご登録者様に発生する不利益については、当社は事由の如何を問わず一切の責任を負いません",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは無料でご利用頂けますが、メール送受信に係る通信費用はご登録者様の負担となります",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ドメイン指定受信などの受信制限を設定されている場合には、本サービスからのメールを",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスはパソコンから閲覧することを前提としております",
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "証券会社の貸株サービスを利用した場合",
+    "url": "https://www.katakura.co.jp/ir/irinquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信サービス",
+    "url": "https://www.katakura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品製造販売、ショッピングセンター等の不動産運営・賃貸、自動車部品等の機械製造販売、繊維製品の製造販売",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "製品の製造販売を行う企業である",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "にかけての日本の主力",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "後に進出した自動車用部品製造、繊維製品の販売などを行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "を介して製造販売する医薬品が主力となっており、蚕由来の",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "片倉キャロンサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都中央区）（サービス事業）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "、それを素材とする製品に関連した",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "日本の繊維製品メーカー",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "この好業績は、主力である不動産事業において「コクーンシティ」におけるテナントの入替効果や積極的な集客イベントの開催により、施設全体の売上および賃料収入が極めて堅調に推移したことによるものです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "また、繊維事業やその他の事業においても、高付加価値商品の導入や生産効率の適正化を推し進めたことに加え、全社的な徹底したコストコントロールと工程改善が功を奏し、原材料コストやエネルギー価格の上昇分をカバーして高い収益性を確保することへ繋がりました",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業は、多角的に事業を展開しながらも、それぞれの分野で培った専門性とブランド力を活かして付加価値の高い製品・サービスを提供しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "元来の繊維技術を基盤に、時代に合わせて高付加価値製品や公共性の高い領域に進出することで、より確実な収益源を確保する戦略が組まれてきたからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品や消防自動車では専門の代理店や営業担当者を通じて取引先と関係を構築し、繊維製品では店舗やECサイトなど多様なチャンネルを活用しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品や機械関連ではアフターサービスや定期メンテナンスが重要になり、繊維製品ではブランドや品質への信頼感が継続購入に直結します",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産賃貸収入や商業施設運営からの収益を基盤とし、医薬品・機械・繊維などの製品売上を加えることで、連結業績に厚みをもたせています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "商業施設から得られる安定的なキャッシュフローを研究開発や設備投資に回すことで、時代の変化に合わせた新製品投入を可能にし、結果的に複数の収益源を育てる形に至ったのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業では、不動産事業で得た安定的な収益を医薬品や機械などの研究開発に再投資し、そこで生まれた新技術や新製品がさらなる売上を生むサイクルが形成されています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績株式会社ホギメディカル【全体の業績】株式会社ホギメディカルは、医療機関向けの手術用不織布製品や、手術に必要な器材を一つのパッケージにまとめた「手術キット（オペラマスター）」の製造・販売をコアビジネスとする医療総合資材メー...",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績ラピーヌ株式会社【全体の業績】ラピーヌ株式会社は、婦人プレタポルテ（高級既製服）を中心に、ミセス・シニア層に向けた高品質なアパレル製品の企画・製造・販売を手掛ける老舗のアパレルメーカーです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "証券・商品先物取引業",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "「片倉工業【東証１部:3001】「繊維製品」」",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E9%87%8E%E5%85%AC%E5%93%89",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年12月期 第2四半期 決算説明会動画",
+    "url": "https://www.katakura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明会資料（PDF：492.5KB）",
+    "url": "https://www.katakura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期 決算説明会動画",
+    "url": "https://www.katakura.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明会資料（PDF：492.5KB）",
+    "url": "https://www.katakura.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1920年（大正9年）3月23日",
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 片倉工業株式会社",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年～",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年～（平成元年～現在）",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度12月期 第2四半期決算説明会",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度12月期 第2四半期決算発表",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月14日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度12月期 第1四半期決算発表",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月27日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 第117回定時株主総会",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月27日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 決算説明会",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 決算発表",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月14日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 第3四半期決算発表",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月29日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 第2四半期決算説明会",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月12日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 第2四半期決算発表",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月13日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度12月期 第1四半期決算発表",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月28日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度12月期 第116回定時株主総会",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月28日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度12月期 決算説明会",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月14日",
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要、沿革について教えてください",
+    "url": "https://www.katakura.co.jp/ir/irinquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期 決算説明会動画",
+    "url": "https://www.katakura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明会資料（PDF：492.5KB）",
+    "url": "https://www.katakura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年7月",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1949年5月16日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1994年に伝統事業である",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2021年11月8日、同社の役員らが設立した会社による",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月12日、株式会社かたくらはMBOの断念を発表",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2017年8月20日",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月9日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月30日時点の",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月31日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2017年8月20日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期 決算説明会資料",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1920年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1920年代設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1949年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.katakura.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の売上の状況についてご紹介しています",
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.katakura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "カタクラケアパートナー 西大井デイサービス「創（はじめ）」オープン",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタクラケアパートナー 武蔵境デイサービス「紡（つむぎ）」オープン",
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コクーンシティ（さいたま新都心） スターバックスリザーブ®県内初販売店舗やSC初出店の人気ベーカリーが登場 アウトドアの「マムート」ほかファッション・サービス・キッズ店舗も続々オープン（PDF：1.2MB）",
+    "url": "https://www.katakura.co.jp/business/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コクーンシティ 夏のバーゲン6/26(金) スタート！ 今春オープンの話題ショップを含む約100店舗が参加 親子で楽しめるパウ・パトロールの体験型イベントも同時開催♪（PDF：1.1MB）",
+    "url": "https://www.katakura.co.jp/business/service/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高所作業車両等の販売代理店として、販売活動及びメンテナンス等を行っております",
+    "url": "https://www.katakura.co.jp/business/machine/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マギルス社との日本国内における販売代理店契約の締結について（PDF：157.9KB）",
+    "url": "https://www.katakura.co.jp/business/machine/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上・損益状況について、直近5年分の推移をグラフにまとめて紹介しています",
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "財務状況について、直近5年分の推移をグラフにまとめてご紹介しています",
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャッシュフローの状況について、直近5年分の推移をグラフにまとめてご紹介しています",
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の売上の状況についてご紹介しています",
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、一部利用対象外店舗がございますため、",
+    "url": "https://www.katakura.co.jp/ir/irinquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "片倉フィラチャー（核店舗：",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "片倉フィラチャー（核店舗：イオン熊谷店）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "片倉フィラチャー（核店舗：プラッセだいわ宮之城店（旧寿屋））",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "また医薬品事業では医療機関や共同研究先との連携が、機械事業では自治体や消防関連組織とのパートナーシップが重要になります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品や消防自動車では専門の代理店や営業担当者を通じて取引先と関係を構築し、繊維製品では店舗やECサイトなど多様なチャンネルを活用しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "流行を先取りした商品の開発に努め、お客様への最大級の満足を提案しています",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「前広便座 いい安座」をお使いのお客様へ大切なお知らせ（PDF：512.0KB）",
+    "url": "https://www.katakura.co.jp/business/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "未公表の重要事実（もしくは重要情報）や秘密保持契約に抵触する情報をはじめ、個人情報、顧客情報、および関係者の権利を侵害するおそれのある情報については開示を行いません",
+    "url": "https://www.katakura.co.jp/ir/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.katakura.co.jp/ir/disclaimer/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品事業では循環器領域に特化した医療用医薬品を開発し、不動産事業では大型商業施設での快適なショッピング環境を創出するなど、顧客のニーズに合わせた多面的な価値を届けているのが特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "各事業で最大限の成果を上げるには、専門的な知見や顧客接点をもつ外部組織との協力が必要不可欠であり、長年の実績が信頼関係を築いてきた結果です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品や消防自動車では専門の代理店や営業担当者を通じて取引先と関係を構築し、繊維製品では店舗やECサイトなど多様なチャンネルを活用しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ターゲット顧客が大きく異なるため、それぞれに適した販売ルートを整備しなければ成果につながらないという現実があるからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "多角化企業だからこそ事業ごとに最適な顧客対応が必要であり、各領域で専門知識やサポート体制を構築する過程で独自の関係強化施策が磨かれてきたためです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "オリジナルブランドをはじめ、ライセンス製品を中心としたエプロンを提案します",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルブランドをはじめ、ライセンス製品を中心としたリラクシングウェアを提案します",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス（David Hicks）",
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E9%87%8E%E5%85%AC%E5%93%89",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "製剤の技術に強みを持つ",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "繊維をルーツとする老舗企業ながら、時代の変化とともに事業領域を拡大してきた背景があり、リスク分散や長期安定経営を意識した結果、各事業ごとの強みを最大限に生かす形へと進化していったためです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産事業で運営する大型商業施設の立地と規模は大きなリソースであり、医薬品事業においては研究開発のノウハウや製造設備が強みになります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルとIR資料から見る片倉工業の成長戦略と魅力を徹底解説するブログ記事 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとIR資料から見る片倉工業の成長戦略と魅力を徹底解説するブログ記事",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "素材とヘルスケアとITを融合する帝人のビジネスモデルと成長戦略を読み解く魅力的ポイント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ホギメディカルのビジネスモデルがもたらす成長戦略と最新IR資料を深掘り",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "国内製紙業界を支える日本フエルトのビジネスモデルとIR資料から読み解く成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "豊かな成長戦略につながるビジネスモデルを徹底解剖するアツギ株式会社の魅力と可能性を探るブログ記事",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "富士紡ホールディングスのビジネスモデルを徹底解剖しながら描く成長戦略への道",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ラピーヌのビジネスモデルを探る 成長戦略へのヒント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "グンゼ株式会社の成長戦略を探る 最新IR資料から読み解くビジネスモデルの鍵",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューリック株式会社のビジネスモデルと成長戦略 ユニークな都市型再開発で注目を集める不動産企業の魅力",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "片倉工業 - Wikipedia — 現会長及び現社長が折半出資し、片倉工業株買取を目的とした「株式会社かたくら」を設立。 MBOにて上場を廃止する予定であった。 買取額は約700億円となる予定で、ファンド系資本によるMBO以外では日本国内最大額となる。",
+    "url": "https://ja.wikipedia.org/wiki/片倉工業",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとIR資料から見る片倉工業の成長戦略と魅力を徹底解説... — Jan 31, 2025 · 片倉工業株式会社は、文脈に応じた多彩な事業を展開する総合企業であり、特にさいたま新都心エリアに位置する大型商業施設「コクーンシティ」の運営を中心とした不動産事業を柱に、肌着や靴下などの製造販売を行う繊維事業、機械関連の製造事業 ...",
+    "url": "https://consovation.com/ビジネスモデルとir資料から見る片倉工業の成長戦/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - 片倉工業株式会社 — Apr 2, 2026 · 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。",
+    "url": "https://www.katakura.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料室 - 片倉工業株式会社 — 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。",
+    "url": "https://www.katakura.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業（3001）はどんな会社？事業内容・業績・年収 | 図解経済 — 片倉工業（3001）は繊維製品の会社。 主な事業は不動産・医薬品。 2025年12月期は売上407億円・営業利益59億円、平均年収689万円。 事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/3001/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料 - 片倉工業株式会社 — Aug 30, 2024 · 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。",
+    "url": "https://www.katakura.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - 片倉工業株式会社 — Apr 2, 2026 · 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。",
+    "url": "https://www.katakura.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業株式会社 — IR資料 - EDINET DB — Aug 28, 2026 · EDINET DB > 企業一覧 > 片倉工業株式会社 > IR資料 片倉工業株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E00524/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業株式会社（3001）有価証券報告書・半期報告書 ダウンロード｜... — 片倉工業株式会社（証券コード 3001）の決算資料をまとめて掲載。 有価証券報告書・半期報告書 11 件。 PDF は EDINET の原本へ直接リンクしています。",
+    "url": "https://treelazy.com/stock-jp/3001",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業（30010）のIR情報・決算資料 - IRBANK — Nov 7, 2025 · (訂正)「MBOの実施及び応募の推奨に関するお知らせ」の一部訂正（17:30） (訂正)「株式会社かたくらによる片倉工業株式会社株式 (証券コード:3001)に 片倉工業（30010）のIR情報・適時開示一覧。 決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/30010/ir",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業 - Wikipedia — 1994年に伝統事業である 蚕糸 事業から撤退し、その後、不動産資産を活かしたショッピングセンター運営・不動産賃貸事業・小売事業の他、 第二次世界大戦 後に進出した自動車用部品製造、繊維製品の販売などを行っている。",
+    "url": "https://ja.wikipedia.org/wiki/片倉工業",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 片倉工業株式会社片倉工業株式会社 - katakura.co.jp片倉工業 - Wikipedia片倉工業（3001）の事業内容、事業の状況や経営戦略、事業等のリスク...片倉工業（3001）はどんな会社？事業内容・業績・年収 | 図解経済片倉工業は何で稼いでいる？儲け方と収益構造を図解 | Vizora3001 片倉工業 | 有報資料 | IRBANK — 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。 1994年に伝統事業である 蚕糸 事業から撤退し、その後、不動産資産を活かしたショッピン",
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業株式会社 - katakura.co.jp — 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。",
+    "url": "https://www.katakura.co.jp/ir/library/presentation/pdf/company/organization/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業（3001）の事業内容、事業の状況や経営戦略、事業等のリスク... — 本ページでは、有価証券報告書記載の片倉工業の事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3001",
+    "pass": 3
+   },
+   {
+    "quote": "佐野公哉 - Wikipedia — 人物・経歴 山梨県 出身 [1]。 山梨県立日川高等学校 を経て [2] 、1977年 明治大学農学部 卒業、 片倉工業 入社 [1]。 総務部 長を経て、2010年 執行役員 小売 事業 部長 に昇格。 2011年執行役員 経理 部長 [3]。 2013年 常務取締役。",
+    "url": "https://ja.wikipedia.org/wiki/佐野公哉",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業株式会社 佐野 公哉会長 ｜世界で活躍する企業経営ドキュメン... — 片倉工業株式会社 佐野 公哉会長 ｜従業員を家族のように育てる 片倉家のDNA Cow-TVの「社長室101」は世界で活躍中の日本人経営者を突撃取材するシリーズ番組です。",
+    "url": "https://cowtv.jp/channel/boss/465sano/03.php",
+    "pass": 3
+   },
+   {
+    "quote": "社長ごあいさつ - 片倉工業株式会社 — 片倉工業のコーポレートサイトです。 製糸業を起源とし、商業施設コクーンシティを中核とした不動産事業をはじめ、繊維、医薬品、機械関連などの事業を多角的に展開しています。",
+    "url": "https://www.katakura.co.jp/company/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "片倉工業の歴代社長 - the-shashi.com — 2 days ago · 1920年3月に片倉製糸紡績となり、1943年11月に片倉工業へ商号を変更している。 1949年5月に東証へ上場したが、1956年6月以降の社長に片倉家の名は無く、創業家の経営は戦後の早い時期に終わっている。",
+    "url": "https://the-shashi.com/tse/3001/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "上甲亮祐氏の経歴｜片倉工業の歴代社長（2019年〜現任） — Oct 26, 2026 · 2014年12月期の大株主には、 みずほ銀行 が第3位、みずほ信託銀行が第7位で並んでいた。 片倉工業へ移って1年10カ月での就任で、主要株主の銀行で役員を務めた人物に経営を託した人事とみられる。",
+    "url": "https://the-shashi.com/tse/3001/executives/ceo/joko-ryosuke/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.katakura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/company/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/company/history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/service/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/medicine/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/machine/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/fiber/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/life/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/governance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/individual/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/financial/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/stock/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/calendar/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/policy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/public/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/mail/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/disclaimer/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/irinquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katakura.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/p260401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/p261027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/p260916_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/p260916_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/118_kessan2q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/r260522.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/n260402.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/upload/docs/r260402.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.katakura.co.jp/common/images/business.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/images/01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/medicine/images/10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/medicine/images/12.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/medicine/images/09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/medicine/images/11.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/machine/images/01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.katakura.co.jp/business/machine/images/01_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E9%87%8E%E5%85%AC%E5%93%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cowtv.jp/channel/boss/465sano/03.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "片倉工業",
+   "results": [
+    "https://www.katakura.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E7%89%87%E5%80%89%E5%B7%A5%E6%A5%AD",
+    "https://job.mynavi.jp/28/pc/search/corp1566/outline.html",
+    "https://kitaishihon.com/company/3001/story",
+    "https://www.nikkei.com/nkd/company/?scode=3001",
+    "https://ja.wikipedia.org/wiki/片倉工業",
+    "https://www.katakura.co.jp/company/profile/index.html",
+    "https://finance.yahoo.co.jp/quote/3001.T",
+    "https://the-shashi.com/tse/3001/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3001"
+   ]
+  },
+  {
+   "query": "片倉工業 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/片倉工業",
+    "https://consovation.com/ビジネスモデルとir資料から見る片倉工業の成長戦/",
+    "https://www.katakura.co.jp/ir/index.html",
+    "https://www.katakura.co.jp/ir/library/index.html",
+    "https://zukaikeizai.com/kaisha/3001/",
+    "https://vizora.meequs.com/ja/company/katakura-industries",
+    "https://envalith.com/ja/companies/3001/overview"
+   ]
+  },
+  {
+   "query": "片倉工業 決算説明資料",
+   "results": [
+    "https://www.katakura.co.jp/ir/library/presentation/",
+    "https://www.katakura.co.jp/ir/",
+    "https://edinetdb.jp/company/E00524/ir-docs/",
+    "https://treelazy.com/stock-jp/3001",
+    "https://irbank.net/30010/ir",
+    "https://edinetdb.jp/company/E00524/presentations/",
+    "https://irbank.net/E00524/reports"
+   ]
+  },
+  {
+   "query": "片倉工業 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/片倉工業",
+    "https://www.katakura.co.jp/company/profile/index.html",
+    "https://www.katakura.co.jp/ir/library/presentation/pdf/company/organization/index.html",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3001",
+    "https://zukaikeizai.com/kaisha/3001/",
+    "https://vizora.meequs.com/ja/company/katakura-industries",
+    "https://irbank.net/E00524/business"
+   ]
+  },
+  {
+   "query": "片倉工業 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/佐野公哉",
+    "https://cowtv.jp/channel/boss/465sano/03.php",
+    "https://www.katakura.co.jp/company/greeting/",
+    "https://the-shashi.com/tse/3001/ceo/",
+    "https://the-shashi.com/tse/3001/executives/ceo/joko-ryosuke/",
+    "https://kigyo-scope.jp/company/3001/ceo/",
+    "https://kitaishihon.com/company/3001/board-of-director"
+   ]
+  }
+ ],
+ "missing": {}
+}
