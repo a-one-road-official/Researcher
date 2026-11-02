@@ -9,3 +9,4 @@ topics:
   bundle_bench: {run: false, shards: 3, per_run: 3}
   ir1000: {run: true, shards: 12, per_run: 8}
   am_flow: {run: true, shards: 8, per_run: 10}
+  whitelabel: {run: true, shards: 8, per_run: 3}

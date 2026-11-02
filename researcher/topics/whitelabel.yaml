@@ -1,0 +1,28 @@
+# ホワイトラベル（自社名で提供・再販できる）ソフト・AIソフトの洗い出し。品目（分野）ごとに、
+# 自社名で出せる条件・再販制度・無料体験/貸出・価格・日本対応・提供企業名の行をそのまま引用する。
+# 判定の物差し（本人が決める）：①ホワイトラベル可 ②今すぐ無料体験かライセンス貸出で触れる
+# ③30分で仕様と操作が分かる（認証・専門知識が要らない）④日本に独占パートナーがいない
+kind: market
+title: ホワイトラベルで担げるソフト・AIソフト（無料体験・30分で分かるもの優先）
+input: researcher/inputs/whitelabel.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  提供企業: [white label partner, white-label platform, white label solution, best white label, top white label, providers, platforms like, alternatives, vs, compared, review]
+  自社名で出せる条件: [white label, white-label, whitelabel, rebrand, your brand, your own brand, your logo, custom domain, private label, OEM, remove branding, unbranded, ホワイトラベル, OEM提供, 自社ブランド]
+  再販制度: [reseller, resell, partner program, agency plan, agency partner, revenue share, recurring commission, wholesale, markup, margin, referral, affiliate, 代理店, 再販, パートナー制度]
+  無料体験・貸出: [free trial, free plan, freemium, start for free, try for free, no credit card, demo account, sandbox, 14-day, 7-day, 30-day, trial, 無料トライアル, 無料体験, 無料プラン]
+  価格: [per month, /month, /mo, per user, per seat, pricing, price, plans start, starting at, $, €, 円, 月額]
+  日本対応: [Japan, Japanese, 日本, 日本語, Japanese language, multilingual, languages supported, 対応言語]
+  使いやすさ: [no-code, no code, minutes, easy to use, setup in, onboarding, drag-and-drop, without coding, ノーコード, 簡単]
+numeric: [価格]
+
+external_queries:
+  - "best {en} 2026"
+  - "{en} reseller program agencies"
+  - "{en} free trial pricing"
+  - "{en} rebrand your logo custom domain"
+  - "{en} Japan Japanese"
+  - "{name} 日本"
+
+limits: {pages: 40, external_per_query: 5, per_cat: 15}
