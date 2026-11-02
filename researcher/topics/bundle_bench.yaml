@@ -1,0 +1,28 @@
+# 海外製品を「束ねたサービス」または「日本での契約と保守の独占」で売る会社の、料金・提供形態・規模（引用のみ）
+kind: market
+title: 束ねたサービス／日本独占で売る会社のベンチマーク（料金・提供形態・規模）
+input: researcher/inputs/bundle_bench.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+# この言葉を含む行をそのまま引用する（品目名を含むページに限る）
+evidence:
+  料金: [月額, 年額, 年間, 初期費用, 導入費用, 保守料, 保守費, ライセンス, サブスク, 料金, 価格, 万円, 円/月, ドル, per month, per year, subscription, pricing, license fee, maintenance fee]
+  提供形態: [総代理店, 国内代理店, 日本代理店, 正規代理店, 販売代理店, 独占, 日本語サポート, 日本語化, ローカライズ, 保守, 導入支援, 導入サポート, 一括, ワンストップ, パッケージ, スイート, 束ね, exclusive, distributor, reseller, localization, support]
+  会社規模: [従業員, 社員数, 売上, 売上高, 設立, 創業, 資本金, employees, revenue, founded]
+  顧客: [導入事例, 導入企業, 導入実績, 導入社数, 社以上, お客様, 顧客, customers, case study]
+  主要企業: [株式会社, 合同会社, 代理店, 提供, 取り扱い, 取扱, 販売開始, 契約を締結, 提携, partnership, agreement]
+
+numeric: [料金, 会社規模]
+
+figure_patterns:
+  月額: '料金|(?:月額|月々|/月|per month)[^0-9]{0,15}?([0-9][0-9,，.]{1,12})\s*(?:円|万円|ドル|USD|\$)?'
+
+external_queries:
+  - "{name} 料金 月額 保守"
+  - "{name} 株式会社 総代理店 契約"
+  - "{name} 導入事例 社"
+  - "{name} 従業員 売上 設立"
+  - "{en} pricing Japan distributor"
+  - "{en} Japan partner announces"
+
+limits: {pages: 45, external_per_query: 5, per_cat: 20}
