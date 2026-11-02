@@ -1,0 +1,987 @@
+{
+ "name": "ヤマダコーポレーション",
+ "aliases": [],
+ "context": "証券コード6392／機械／スタンダード（内国株式）／2026.03期 売上高16,226百万円 営業利益率16.4%",
+ "researched_at": "2026-11-02T18:41:09.355454+00:00",
+ "official_url": "https://yamadacorp.co.jp/",
+ "identified_by": "search:yahoo_jp:ヤマダコーポレーション",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1939年12月20日",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "グループ合計　338名（2026年3月31日現在）",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結決算　16,226百万円 単独決算　10,478百万円　（2026年3月31日現在）",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "売上高構成比",
+    "value": "オートモーティブ部門 ： 22.4% インダストリアル部門 ： 66.0% その他 ： 11.6%　（2026年3月31日現在）",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・ハンドポンプ、バケットポンプ、ルブリケーター等のオイル・グリースを供給する 潤滑給油機器 ・タイヤサービス機器、排気ガス排出システム、フロンガス関連機器等の環境整備機器 ・各種産業分野におけるオイル・グリースをはじめ塗料・接着剤・インキ・化学薬品等 の流体を圧送するためのエアポンプやダイアフラムポンプ及びそのシステム化製品",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カーサービス機器・フロンガス交換機",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "夏季休業期間および製商品出荷停⽌のお知らせ",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品新着ニュース",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "廃販製品情報",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界100ヶ国以上にダイアフラムポンプを中心としたヤマダ製品を展開しております",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証登録",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の方必見！製品動画＆活用例満載",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・タイヤサービス機器、排気ガス排出システム、フロンガス関連機器等の環境整備機器",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "の流体を圧送するためのエアポンプやダイアフラムポンプ及びそのシステム化製品",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "オイルサービスキャビネット（OPシリーズ）販売開始",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマダプロダクツサービスを設立",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新型エアキャリー（ATC-99M）がグッドデザイン中小企業商品賞受賞する",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グッドデザイン商品選定証",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全製品の社内展示",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品へのお問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちらから",
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お問い合わせ",
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ニュース一覧",
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ヤマダコーポレーションのグローバル拠点紹介",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマダコーポレーション紹介動画",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Sagamihara Fab ― 相模原新工場紹介動画",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スウェーデン（NEDERMAN社）より「自動車用排気ガス排出システム」の販売代理店契約を",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会の設置に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/notification/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズサイト",
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマダコーポレーション 新相模原工場紹介映像",
+    "url": "https://www.youtube.com/watch?v=-rL3PZS825k",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のニーズ、社員の喜び、株主の期待、",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "【お客様志向】",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の潜在ニーズを探り、創意工夫を凝らし、お客様価値を創造し続ける",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様、株主の皆様をはじめ、関係者の皆様に多大なるご迷惑とご心配をおかけしましたことを",
+    "url": "https://yamadacorp.co.jp/docs/20251017_system-recovery.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "売上高構成比",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1939年12月20日",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜株式会社ヤマダコーポレーション",
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表予定日に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信の開示が四半期末後45日を超えることに関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表の延期に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年３月期通期業績予想の修正に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年３月期第２四半期累計期間の業績予想の修正に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年３月期通期業績予想の修正に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年３月期配当予想の修正に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年３月期業績予想の修正に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "平成22年３月期業績予想の修正に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期第3四半期決算短信",
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年9 月3 日",
+    "url": "https://yamadacorp.co.jp/docs/2026.09.03shuyoukabunushinoidou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年9 月 3 日付けで、以下のとおり当社の主要株主である筆頭株主の異動がありましたので、お知らせ",
+    "url": "https://yamadacorp.co.jp/docs/2026.09.03shuyoukabunushinoidou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年9 月 3 日付で、Charon Finance GmbH より大量保有報告書（変更報告書）が関東財務局長に提出さ",
+    "url": "https://yamadacorp.co.jp/docs/2026.09.03shuyoukabunushinoidou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 6 月 24 日",
+    "url": "https://yamadacorp.co.jp/docs/20260624_pressrelease.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 5 月 12 日",
+    "url": "https://yamadacorp.co.jp/docs/20260512_jouyokinhaitou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年５月８日",
+    "url": "https://yamadacorp.co.jp/docs/20260508_earnings-forecast.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年３月期通期連結業績予想数値の修正（2025 年４月１日～2026 年３月 31 日）",
+    "url": "https://yamadacorp.co.jp/docs/20260508_earnings-forecast.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期通期連結業績予想につきまして、2025年11月11日公表の業績予想に対し、米国を中心に海外売上が",
+    "url": "https://yamadacorp.co.jp/docs/20260508_earnings-forecast.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期の期末配当予想を１株当たり110円00銭から10円00銭増配し120円00銭に修正させていただくこととい",
+    "url": "https://yamadacorp.co.jp/docs/20260508_earnings-forecast.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年11 月 13 日",
+    "url": "https://yamadacorp.co.jp/docs/20251113_interim-dividend.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 11 月 11 日",
+    "url": "https://yamadacorp.co.jp/docs/20251111_earnings-forecast.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 3 月期第 2 四半期（累計）連結業績予想につきましては、米国関税政策の影響等が想定より軽微に",
+    "url": "https://yamadacorp.co.jp/docs/20251111_earnings-forecast.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 10 月１７日",
+    "url": "https://yamadacorp.co.jp/docs/20251017_system-recovery.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 9 月 29 日",
+    "url": "https://yamadacorp.co.jp/docs/20250929_financial-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 3 月期 第 1 四半期決算発表予定日に関するお知らせ",
+    "url": "https://yamadacorp.co.jp/docs/20250929_financial-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 10 月 3 日",
+    "url": "https://yamadacorp.co.jp/docs/20250929_financial-report.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グループビジョン・中期経営計画 - ヤマダコーポレーション — グループビジョン・中期経営計画 - ヤマダコーポレーション 株式会社ヤマダコーポレーション https://yamadacorp.co.jp > corporate > midtermplan",
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマダコーポレーション — 株式会社 ヤマダコーポレーション 株式会社ヤマダコーポレーション https://yamadacorp.co.jp",
+    "url": "https://yamadacorp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念Mission - ヤマダコーポレーション — 企業理念Mission - ヤマダコーポレーション 株式会社ヤマダコーポレーション https://yamadacorp.co.jp > corporate > mission",
+    "url": "https://yamadacorp.co.jp/corporate/mission/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージMessage - ヤマダコーポレーション — トップメッセージMessage - ヤマダコーポレーション 株式会社ヤマダコーポレーション https://yamadacorp.co.jp > corporate > message",
+    "url": "https://yamadacorp.co.jp/corporate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜株式会社 ヤマダコーポレーション — IR情報｜株式会社 ヤマダコーポレーション 株式会社ヤマダコーポレーション https://yamadacorp.co.jp > ...",
+    "url": "https://yamadacorp.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ヤマダコーポレーション 】[6392]IR情報 中期経営計画や 決算 ... — 【 ヤマダコーポレーション 】[6392]IR情報 中期経営計画や 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6392",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマダコーポレーション IR 資料 - EDINET DB — 株式会社 ヤマダコーポレーション IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > company > ir-docs",
+    "url": "https://edinetdb.jp/company/E02180/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要Company - ヤマダコーポレーション — 会社概要Company - ヤマダコーポレーション 株式会社ヤマダコーポレーション https://yamadacorp.co.jp > corporate > company",
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマダコーポレーション — 株式会社 ヤマダコーポレーション 株式会社ヤマダコーポレーション https://stg.yamadacorp.co.jp",
+    "url": "https://stg.yamadacorp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ヤマダコーポレーション 【東証スタンダード市場上場】 — (株) ヤマダコーポレーション 【東証スタンダード市場上場】 マイナビ https://job.mynavi.jp > search > corp57856 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57856/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマダコーポレーション ｜ インタビュー 動画 - YouTube — 株式会社 ヤマダコーポレーション ｜ インタビュー 動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=-rL3PZS825k",
+    "pass": 3
+   },
+   {
+    "quote": "（新 社長 ） ヤマダコーポレーション社長 に山田氏 - 日本経済新聞 — （新 社長 ） ヤマダコーポレーション社長 に山田氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNASDD280PD_Y2A620C1TJ3000/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマダコーポレーション 、 社長 に山田昌太郎氏 - 日刊自動車新聞 — ヤマダコーポレーション 、 社長 に山田昌太郎氏 - 日刊自動車新聞 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/139102",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yamadacorp.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/corporate/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/pressrelease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/kessan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/notification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/ir/stockholder/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://yamadacorp.co.jp/docs/2026.09.03shuyoukabunushinoidou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20260624_pressrelease.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20260512_jouyokinhaitou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20260508_earnings-forecast.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20251113_interim-dividend.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20251111_earnings-forecast.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20251017_system-recovery.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamadacorp.co.jp/docs/20250929_financial-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.yamada-holdings.jp/ir/presentation.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-rL3PZS825k",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヤマダコーポレーション",
+   "results": [
+    "https://yamadacorp.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6392",
+    "https://metoree.com/companies/4113/distributors/",
+    "https://job.mynavi.jp/27/pc/search/corp57856/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%80%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://yamadacorp.co.jp/corporate/",
+    "https://stg.yamadacorp.co.jp/",
+    "https://stg.yamadacorp.co.jp/corporate/history/",
+    "https://product.yamadacorp.co.jp/",
+    "https://product.yamadacorp.co.jp/search.html"
+   ]
+  },
+  {
+   "query": "ヤマダコーポレーション ビジネスモデル",
+   "results": [
+    "https://yamadacorp.co.jp/corporate/midtermplan/",
+    "https://yamadacorp.co.jp/",
+    "https://yamadacorp.co.jp/corporate/mission/",
+    "https://note.com/doctor_kessan/n/n34da38cf4ad4",
+    "https://yamadacorp.co.jp/corporate/message/",
+    "https://mirai-design-company.co.jp/blog/business-model/371.html",
+    "https://www.yamada-holdings.jp/group/",
+    "https://recruit.yamadacorp.co.jp/company/",
+    "https://toyokeizai.net/articles/-/9553?display=b",
+    "https://edinetdb.jp/company/E02180/midterm-plans/"
+   ]
+  },
+  {
+   "query": "ヤマダコーポレーション 決算説明資料",
+   "results": [
+    "https://yamadacorp.co.jp/ir/",
+    "https://www.yamada-holdings.jp/ir/presentation.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6392",
+    "https://www.yamada-denki.jp/ir/presentation.html",
+    "https://edinetdb.jp/company/E02180/ir-docs/",
+    "https://yamadacorp.co.jp/news/",
+    "https://yamadacorp.co.jp/",
+    "https://yamadacorp.co.jp/ir/kessan/",
+    "https://stg.yamadacorp.co.jp/ir/",
+    "https://edinetdb.jp/company/E03139/presentations/"
+   ]
+  },
+  {
+   "query": "ヤマダコーポレーション 事業系統図",
+   "results": [
+    "https://yamadacorp.co.jp/corporate/company/",
+    "https://yamadacorp.co.jp/",
+    "https://yamadacorp.co.jp/corporate/message/",
+    "https://stg.yamadacorp.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp57856/outline.html",
+    "https://yamadacorp.co.jp/ir/results/",
+    "https://stg.yamadacorp.co.jp/corporate/history/",
+    "https://www.crex-data.com/company/6392",
+    "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%80%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://yamadacorp.co.jp/corporate/"
+   ]
+  },
+  {
+   "query": "ヤマダコーポレーション 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=-rL3PZS825k",
+    "https://yamadacorp.co.jp/corporate/message/",
+    "https://www.wantedly.com/companies/company_3606156/post_articles/408602",
+    "https://www.nikkei.com/article/DGXNASDD280PD_Y2A620C1TJ3000/",
+    "https://www.netdenjd.com/archives/139102",
+    "https://kitaishihon.com/company/6392/board-of-director",
+    "https://diamond-rm.net/management/topinterview/520359/",
+    "https://kigyo-scope.jp/company/6392/ceo/",
+    "https://mono.ipros.com/company/detail/294751/news/",
+    "https://diamond-rm.net/management/topinterview/518775/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式11頁／PDF・画像8件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式11頁／PDF・画像8件／外部2頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式11頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

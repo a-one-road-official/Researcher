@@ -1,0 +1,2324 @@
+{
+ "name": "エービーシー・マート",
+ "aliases": [],
+ "context": "証券コード2670／小売業／プライム（内国株式）／2026.02期 売上高378,624百万円 営業利益率16.7%",
+ "researched_at": "2026-11-02T18:39:50.660160+00:00",
+ "official_url": "https://www.abc-mart.co.jp/",
+ "identified_by": "search:yahoo_jp:エービーシー・マート",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　　　立：",
+    "value": "1985年6月6日",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高：",
+    "value": "3,786億24百万円（2026年 2月期）",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "label": "国内 売上高",
+    "value": "国内売上 総利益 国内営業 利益 海外 売上高 海外売上 総利益 海外営業 利益 海外売上 比率％",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "label": "国内店舗売上高合計",
+    "value": "251,140 100.0 33 25 1,107",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高合計",
+    "value": "378,624  64 58 1,505",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "国内店舗売上高(百万円)",
+    "value": "238,303 251,140",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "１㎡当たり 売上高",
+    "value": "平均売場面積(㎡) 313,529.00 319,417.10",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "１㎡当たり年間売上高(千円)",
+    "value": "760 786",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "１人当たり 売上高",
+    "value": "平均従業員数(人) 5,544 5,761",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "１人当たり年間売上高(千円)",
+    "value": "42,983 43,593",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "258,010 114,192 372,202 － 372,202",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "1,085 2,413 3,498 △3,498 －",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "272,073 106,550 378,624 － 378,624",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "1,090 4,827 5,918 △5,918 －",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "258,010 70,557 43,634 372,202",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "272,073 64,838 41,712 378,624",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従 業 員 数：",
+    "value": "10,309名（うちアルバイト6,332名） （2026年 2月28日現在）",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "label": "3. 従業員の尊重",
+    "value": "私たちは、従業員の多様性、人格を尊重するとともに、チームワークを大切にして、全員参加で共通目標の達成を目指します。",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事 業 内 容：",
+    "value": "靴・衣料・雑貨などの小売、靴の商品企画、製造及び販売",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r402.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r302.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家の皆様、お客様、そしてお取引先様をはじめとするステークホルダーの皆様、平素より多大なるご支援を賜り、厚く御礼申し上げます",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが自ら店頭に立ち、各国の多様なニーズを直接肌で感じることで、お客様に喜んでいただける品揃えと店作りを徹底してまいります",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "ナショナルブランド各社様とのグローバルな連携をより一層深め、世界中のお客様に「ABCマートで良い買い物をした」と感じていただけるよう、サービスと専門性の向上に努めてまいります",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、アプリを通じた利便性の向上などIT投資を継続し、店舗でもデジタルでも、お客様がストレスなくショッピングを楽しめる環境を整備いたします",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗スタッフやお客様の声を迅速に経営へ反映させ、全員が誇りを持って働ける、そして社会から必要とされる企業であり続けるために、全社一丸となって突き進んでまいります",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC マートは、『世界共通の品質を世界共通の価格で』を創業以来の経営方針として、品質の良いファッショントレンドアイテムを、リーズナブルな価格でお客様にお届けするために、また、『ライフスタイル創造企業』として、お客様にご満足いただき感動を与えられるような世界共通のサービスを提供するために、熱意とチャレンジ精神をもって取り組んでまいります",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、靴を中心とした商品を直接お客様の手元へお届けするために、靴小売店「ABC-MART」の出店を進め、世界に通用するストアブランドとして確立することを目指します",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "2. お客様本位の徹底",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、何よりもお客様が第一であることを徹底し、お客様から高い信頼と満足をいただけるよう、社会的に有用で安全な商品・サービスの提供に努めるとともに、靴を中心とした商品を充実させて、ライフスタイルそのものを提案します",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様・取引先・株主をはじめとする全ての利害関係者 ( ステークホルダー ) との間で公平かつ公正な関係維持に努め、企業の社会的責任を果たします",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのお客様にご満足いただくために、",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "都市型店舗では新しいトレンドを素早く捕らえて展開する必要があり、郊外型店舗では都心型店舗で得られた情報を活かしつつ地域、顧客層に応じた品揃えが重要です",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "駅ビル、ファッションビルなどトレンド色の強い地域に限定して展開する業態や顧客層を絞り込んでニッチな市場で展開する業態、またスポーツ系ファッショントレンド向けの業態など様々です",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるお客様のニーズにお応えするため新業態を開発し、幅広い顧客層へのアプローチを進めていきます",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の変化に機敏に対応する店舗リニューアルを実施し、既存店舗の強化はもとよりビジネスの活性化を図っています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "Hawkins、ABC Select、stefanorossi、DannerなどABCマートの自社ブランド商品は、常に時代のトレンドをリードするシューズとして幅広い顧客に強い支持を得、収益の源泉となっています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "店頭では、インターネット通販の在庫を活用して、自店で欠品している商品をお客様に直接お届けするサービスを行っています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンユーザー向けに、ABCマート公式アプリを活用した様々なサービスを提供しています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との対面販売による現場での経験が人材育成の基本となり、ABCマートの強力な販売力の源です",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/getsujijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/meeting/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/kabunushijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "として、お客様にご満足いただける商品やサービスの提供を通じて、当社グループの持続的な成長が社会貢献に繋がるような世界、具体的には、",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの主なステークホルダーは、お客様、従業員、お取引先様、株主様であります",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との接点となる「ABC-MART」を通じて地域社会とのつながりを強固にするためには、まずは「ABC-MART」で働く人一人ひとりのために働きやすい環境づくりを行うことが重要であります",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との対面販売による現場での経験が人材育成の基本となり、当社グループの強力な販売力の源です",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の気候変動",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の増加",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、環境に配慮した商品に対するお客様のニーズと購買価格帯を見極めながら、商品開発を⾏っております",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらにスマホアプリによる自店在庫の見える化により、お客様の利便性が増したことに加え、生産性の向上による売上拡大と業務効率の改善による人件費の圧縮が可能となりました",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、IT活用による顧客満足度の最大化と更なる業務の効率化を目指してまいります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品戦略につきましては、顧客ニーズの多様化とライフスタイルの変化に即応していくために、商品カテゴリー毎の戦略をより明確にし、店舗とオンラインへの商品供給を適時適切に行ってまいります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "人事戦略においては、お客様にとって魅力のある店づくり、商品づくりを心がけ、提供していくためには、スタッフ一人ひとりの販売力＝『人の力』が重要であると認識しております",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様への気配りや心遣いが次のご来店に繋がることから、接客サービスを向上させる取り組みを進めてまいります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "下半期の販売戦略につきましては、様々なお客様のニーズに対応し、店舗業態を軸とした商品戦略を実施してま",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 139,145 50,987 190,132 － 190,132",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 145,776 56,522 202,298 － 202,298",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様々な顧客層に合わせた自社ブランドの取り扱いに加え、知名度が高く顧客への訴求力が高い有名ブランドも多く取り扱うことで、消費者のニーズに合った商品を幅広く提供することを可能にしています",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "ファッショントレンドに敏感な顧客層が多く集まる地域・テナントに出店している当社は、店舗での売れ筋や消費者のニーズを海外メーカーにフィードバックし、リレーション強化に役立てています",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r402.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r402.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r302.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r302.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "靴・衣料・雑貨などの小売、靴の商品企画、製造及び販売",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "ナショナルブランド各社様とのグローバルな連携をより一層深め、世界中のお客様に「ABCマートで良い買い物をした」と感じていただけるよう、サービスと専門性の向上に努めてまいります",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC マートは、『世界共通の品質を世界共通の価格で』を創業以来の経営方針として、品質の良いファッショントレンドアイテムを、リーズナブルな価格でお客様にお届けするために、また、『ライフスタイル創造企業』として、お客様にご満足いただき感動を与えられるような世界共通のサービスを提供するために、熱意とチャレンジ精神をもって取り組んでまいります",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、靴を中心とした商品を直接お客様の手元へお届けするために、靴小売店「ABC-MART」の出店を進め、世界に通用するストアブランドとして確立することを目指します",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、何よりもお客様が第一であることを徹底し、お客様から高い信頼と満足をいただけるよう、社会的に有用で安全な商品・サービスの提供に努めるとともに、靴を中心とした商品を充実させて、ライフスタイルそのものを提案します",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "Hawkins、ABC Select、stefanorossi、DannerなどABCマートの自社ブランド商品は、常に時代のトレンドをリードするシューズとして幅広い顧客に強い支持を得、収益の源泉となっています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABCマートが輸入商社時代に培った海外ネットワークを駆使し、世界の最新モードや流行などの情報をいち早く収集して新商品開発を行います",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした活動と独自のノウハウをもとに開発された商品は、最新のシューズとして他の追随を許さない高い競争力をもっています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABCマートでしか手に入らない限定商品を販売するなど緊密な施策を展開し、年間を通じた販売・販促戦略は競合店には無い販売力の強化に繋がっています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "店頭では、インターネット通販の在庫を活用して、自店で欠品している商品をお客様に直接お届けするサービスを行っています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット通販では、一部の店舗での商品の店頭受取りやご試着を受け付けています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "公式アプリによるサービスの提供",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンユーザー向けに、ABCマート公式アプリを活用した様々なサービスを提供しています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット通販と実店舗でご利用いただける電子ポイントシステムや、新商品の発売やセールに関する情報配信サービスなどがあります",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、商品検索や店舗検索機能のほか、靴にまつわる様々な情報が得られるツールとしても活用いただけます",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/getsujijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/getsujijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/meeting/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/meeting/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/kabunushijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/kabunushijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後の商品戦略、人事戦略に関してお聞かせ下さい",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "として、お客様にご満足いただける商品やサービスの提供を通じて、当社グループの持続的な成長が社会貢献に繋がるような世界、具体的には、",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "「地域社会とのつながり」「誰もが働きやすい環境づくり」「サステナブルな商品セレクト」「エコロジカルな店舗運営」「ロスをうまない経営」",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品・ブランド戦略",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "人気商品ランキング",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r402.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r302.html",
+    "pass": 1
+   },
+   {
+    "quote": "新型コロナウイルス感染拡大防止に伴う店舗臨時休業に関するお知らせ（第２報）",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "新型コロナウイルス感染拡大防止に伴う店舗臨時休業に関するお知らせ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "〔ABC店舗〕 北海道39、東北62、東京136、関東（東京除く）280、",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "中部180、関西180、四国・中国70、九州・沖縄141 計1,088店舗",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "〔海外店舗〕 韓国332、台湾63、米国7、ベトナム4、フィリピン2",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "〔グループ店舗合計〕1,522舗",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国に広がり続けるABCマートの店舗は、私たちが築き上げてきた軌跡そのものなのです",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・HAWKINSの国内総代理店となる",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・上野アメ横、渋谷に『ABC-MART』を４店舗出店",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・VANSの国内総代理店となる",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・8月、100店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・テナント店舗として初の アパレル等も扱う大型総合ショップ『メガステージ』を出店",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・11月、500店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・9月、韓国で100店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・12月、700店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・レディース新業態店舗『Charlotte』を新宿・渋谷に出店",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・国内外にて1,000店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・4月、韓国で200店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・国内1,000店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "・グループ出店で1,500店舗達成",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "トレンドを牽引する「GRAND STAGE」やファミリー層向けの店舗展開をさらに広げ、国内1,500店舗体制を目指します",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、アプリを通じた利便性の向上などIT投資を継続し、店舗でもデジタルでも、お客様がストレスなくショッピングを楽しめる環境を整備いたします",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗スタッフやお客様の声を迅速に経営へ反映させ、全員が誇りを持って働ける、そして社会から必要とされる企業であり続けるために、全社一丸となって突き進んでまいります",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規出店の際は、専門チームが地域の特性やマーケットニーズを素早く調査、分析し、店舗内装や品揃えを企画します",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "都市型店舗では新しいトレンドを素早く捕らえて展開する必要があり、郊外型店舗では都心型店舗で得られた情報を活かしつつ地域、顧客層に応じた品揃えが重要です",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "新業態、新形態店舗の開発",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "中核となるABC-MARTに加え、近年では新しい業態での都市型店舗の出店を多数進めています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の変化に機敏に対応する店舗リニューアルを実施し、既存店舗の強化はもとよりビジネスの活性化を図っています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット通販では、一部の店舗での商品の店頭受取りやご試着を受け付けています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうして、ABCマートでは、インターネット通販と実店舗におけるデメリットを双方で補い合うことで、販売機会ロスの極小化に取り組んでいます",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット通販と実店舗でご利用いただける電子ポイントシステムや、新商品の発売やセールに関する情報配信サービスなどがあります",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、商品検索や店舗検索機能のほか、靴にまつわる様々な情報が得られるツールとしても活用いただけます",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "最近は、フューチャーアーキテクトとIT全般における戦略的パートナーシップを結び、今後、同社と協同して次世代システムの構築を絡めたABCマートの中長期的な事業戦略を推進していきます",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "【店舗数の推移】",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/getsujijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/meeting/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/kabunushijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後の店舗業態について、どのようにお考えですか？",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABCマートの環境・社会に関する取り組み、およびコーポレート・ガバナンスに関する情報を紹介します",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "「地域社会とのつながり」「誰もが働きやすい環境づくり」「サステナブルな商品セレクト」「エコロジカルな店舗運営」「ロスをうまない経営」",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗物件情報募集中",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABCマートの環境・社会に関する取り組み、およびコーポレート・ガバナンスに関する情報を紹介します",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、多店舗展開を成長戦略の柱としております",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "集合研修においては、マインドセットを目的に人事部主導で実施する研修と、全国各地の店舗社員から人事部が任命したファシリテーター（研修講師）が地域毎に実施する研修に分けております",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r402.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r302.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強みの源泉は、常に「現場」にあります",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み | エービーシー・マート",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後もこれらのプライベートブランドを強力な宣伝によってバックアップし、ABCマートの独自の強みとして育成します",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "店頭では、インターネット通販の在庫を活用して、自店で欠品している商品をお客様に直接お届けするサービスを行っています",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/getsujijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/meeting/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/kabunushijoho.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "競合他社が多いデジタルコマースにおける競争優位性はどうでしょうか？",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "障がいの有無に関わらず、全ての従業員が自身の強みを活かして永く活躍できる環境づくり",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "pass": 1
+   },
+   {
+    "quote": "売れ残り在庫廃棄禁⽌に伴う在庫寄付に係る輸送の発⽣",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "⻑期滞留在庫の廃棄ゼロ化（⼤型店舗やアウトレット店における滞留商品集約等）",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "洪⽔/⾼潮の影響を受けやすい拠点における在庫保管場所の⾒直し",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの考えるロスには、商品がないことによる『販売機会のロス』と『在庫のロス』があります",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗において倉庫在庫の販売が直接できるようになり、またオンライン販売においては店舗での商品受け取りが可能となり、欠品時の販売機会のロスが低減できるようになりました",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらにスマホアプリによる自店在庫の見える化により、お客様の利便性が増したことに加え、生産性の向上による売上拡大と業務効率の改善による人件費の圧縮が可能となりました",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "次の目標としては、将来の在庫処分をうまないために、売上分析に基づき、需要のある地域に適切な分量の商品を供給し、販売していく仕組みをつくることにあります",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "滞留商品については、地域の拠点となる大型店舗やアウトレット店に商品を集約することで、在庫の消化を促進する取り組みも行ってまいります",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようにして、長期滞留在庫（使用不可商品を除く",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "競合他社が多いデジタルコマースにおける競争優位性はどうでしょうか？",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABCマートアプリによる新規会員の獲得、リアルとネットの相互利用が可能な電子ポイントシステム、会員向け情報発信サービスの提供、キャッシュレス決済への対応に加え、在庫情報の可視化によるオペレーションの向上があります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "売れ筋商品の見極めと滞留在庫の取り扱いの早期判断・対処により、単品毎の在庫回転率の改善を図り、収益力を高めてまいります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率の向上を図るためには、メーカー各社との取引において他社との差別化を図るため、ナショナルブランドの共同企画による限定商品を多数展開してまいります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、売上総利益率の高い自社企画商品においては、付加価値の高い、競争優位性の高い商品の開発を行ってまいります",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABC-MARTの強み",
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫金額 50,185 58,489 51,468 61,588 56,757 66,704 60,064 67,930 63,565",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の産業付加価値や競争優位性に加え、NVICとして考える、『今後も生き残り続ける小売業』について、国内外の投資先小売業のビジネスモデルにも触れながらご説明させていただきます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景として、集客効率の良い出店戦略と競争優位の一角を担うほどの徹底した現場第一主義にその一因があるとNVICでは考えております",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "システム投資により店頭タブレットや店員のスマホでリアルタイムでの在庫把握を可能にし、顧客が来店した際にほしいサイズ・色が店頭にない場合でも、倉庫から直接顧客へ配送するサービスを行っています",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "また、こうしたサイクルの中でメーカーとのリレーションはさらに強化され、競争優位性が増すものと考えます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの商品は、他社が取り扱わないことで値下げ圧力を受けず、通常のNB商品より粗利を高めることができると考えられます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率、営業利益率ともに高い（出所：BloombergよりNVIC作成）",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "有名アパレルブランド等の余剰在庫やシーズンを過ぎた商品を仕入れ、定価の20%～60%で消費者に販売しています",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "TJXは、余剰在庫を解消したいメーカーと品質の良い品を安く購入したい消費者のニーズを満たす役割を担っており、アパレル業界において余剰在庫が必ず発生する事業特性を生かした「必要悪」に根差したビジネスモデルと言えます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、当社の競争優位の源泉である“海外メーカーとの強固なリレーション”がこの先も維持されるものかどうかは重要なポイントです",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより在庫回転率を高め、効率的な物流体制を整えることで収益性を高めた",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   },
+   {
+    "quote": "ABCマートの強みは商品開発力にもある",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   },
+   {
+    "quote": "高収益体質を生む利益構造",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月期には営業利益率が16.8%に達し、売上高3722億円、営業利益625億円と過去最高を記録した",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   },
+   {
+    "quote": "特に独占ブランド商品が全売上の約30～40%を占め、粗利率が高いため、利益を大きく押し上げている",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   },
+   {
+    "quote": "また、ドミナント戦略による物流効率化や在庫管理の精度向上も収益性改善に寄与している",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第2四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期 決算ﾃﾞｰﾀ資料",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月5日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 9月度月次概況",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月8日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期 決算ﾃﾞｰﾀ資料",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月1日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月27日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月26日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月1日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月8日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月期 決算データ資料",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月3日",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 2月度月次概況",
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月1日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月28日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月21日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月9日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月17日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月4日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 2月度月次概況",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月8日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月11日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月9日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月22日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月10日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月5日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期 2月度月次概況",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月10日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月9日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月11日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月21日",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期 業績予想の修正に関するお知らせ",
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "【セグメント別業績】",
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "pass": 1
+   },
+   {
+    "quote": "【株式構成比】",
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等） …………………………………………………………………………………………11",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、国内における売上高は前年同期比4.8％増の1,463億42百万円、セグメント利益は前年同期比5.0",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、海外における売上高は前年同期比10.8％増の586億92百万円、セグメント利益は前年同期比31.5",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 30,361 3,269 33,630 13 33,644",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ セグメント利益の調整額13百万円はセグメント間取引消去であります",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 31,875 4,299 36,174 △43 36,131",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ セグメント利益の調整額△43百万円はセグメント間取引消去であります",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額 構成比 前期比 金額 構成比 前期比 金額 構成比 前期比",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 海外セグメント",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021/2月期における売上高構成比と、主なPB・NB商品（出所：当社決算資料よりNVIC作成）",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内の靴小売市場が頭打ちのなか、スニーカーを中心としたスポーツ靴は市場規模を拡大しており、競合と比較してスポーツ靴の売上構成比が高く、海外の有名メーカーとも強固なリレーションを持つ当社は、そうした潮流を追い風にして成長してきたと考えられます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "国内靴小売の市場規模と海外有名ブランドの構成比の推移（出所：EuromonitorよりNVIC作成）",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "国内靴小売大手の商品種別売上構成比の比較（2021/2期）（出所：各社決算資料よりNVIC作成）",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のグラフは、Nikeの全社売上とDTC売上構成比の推移です",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "NikeのDTC売上比率の推移（出所：Bloomberg,Nike決算資料からNVIC作成）",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル売上高構成比は前期比0.2ポイント増加の10.6％となりました",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "、セグメント利益は前期比",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の販売実績につきましては、「１ 連結財務諸表等 注記事項（収益認識関係） １．顧客との契約から生じる収益を分解した情報」に記載しております",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "構成比(％)",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社グループは、地域別のセグメントから構成されており、「国内」及び「海外」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "各報告セグメントでは、靴のほか、靴に関連した小物及びアパレル等を販売しております",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "インバウンドの増加が継続するものと考え、引き続き客単価の上昇による売上の拡大を予想しますが、物価の上昇",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/261007_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るものと考え、引き続き客単価の上昇による売上の拡大を予想しますが、物価の上昇に伴う消費マインドの低下や、",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 5,533 5,990",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客単価 5.9 5.3 5.2 5.5 6.8 7.4 6.0 6.6 6.1",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/getsuji.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客単価 6.7 5.4 5.3 5.8 6.9 7.5 6.1 6.7 6.3",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/getsuji.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客単価 4.1",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/getsuji.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客単価 4.3",
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/getsuji.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客単価は３％以上上昇しており、これらの結果、全店の売上高は前期比5.1％増、既存店は前期比4.6％増となりました",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社の産業付加価値や競争優位性に加え、NVICとして考える、『今後も生き残り続ける小売業』について、国内外の投資先小売業のビジネスモデルにも触れながらご説明させていただきます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニークな小売ビジネスモデル",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "バリューチェーン内の小売企業の付加価値が相対的に低下していくなか、ユニークなビジネスモデルからそのポジションを確立している小売企業もあります",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした顧客訴求力を重視したビジネスモデルにより、単なる売買差益に依ったビジネスではなく、有料会員の「会費」を主な収益源としたユニークな収益構造となっています",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "TJXは、余剰在庫を解消したいメーカーと品質の良い品を安く購入したい消費者のニーズを満たす役割を担っており、アパレル業界において余剰在庫が必ず発生する事業特性を生かした「必要悪」に根差したビジネスモデルと言えます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "消費者の交渉力が強まり、メーカーと消費者に挟まれるかたちで小売業の付加価値が相対的に低下していくなか、ユニークなビジネスモデルを展開し、自社の付加価値を高めることに成功した小売業が今後も生き残るのではないかと考えます",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "パワーバランスの変化により当社の交渉力が弱まっていくのか（Foot Lockerと同じ道をたどるのか）、または、独自のビジネスモデルを確立することでこの先も付加価値を創出し続けることができるのかについては、単なる靴小売の競合だけではなく国内外の小売業やグローバルメーカーへの分析を通じてモニタリングしていきたいと思います",
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "pass": 3
+   },
+   {
+    "quote": "事業系統図は次のとおりであります",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ABC-MART の強み - エービーシー・マート — ABC-MART の強み - エービーシー・マート abc-mart.co.jp https://www.abc-mart.co.jp > tsuyomi",
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エービーシー ・ マート - Vpon — 株式会社 エービーシー ・ マート - Vpon Vpon https://www.vpon.com > cases > abc-mart",
+    "url": "https://www.vpon.com/jp/cases/abc-mart/",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料 - エービーシー・マート — 決算資料 - エービーシー・マート abc-mart.co.jp https://www.abc-mart.co.jp > kessanshiryo",
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "pass": 3
+   },
+   {
+    "quote": "エービーシー ・ マート : IR 情報 — エービーシー ・ マート : IR 情報 abc-mart.co.jp https://www.abc-mart.co.jp",
+    "url": "https://www.abc-mart.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "エービーシー ・ マート 【2670】のIR 資料 - キタイシホン — エービーシー ・ マート 【2670】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/2670/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - エービーシー・マート — 会社概要 - エービーシー・マート abc-mart.co.jp https://www.abc-mart.co.jp > aboutus > gaiyo",
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "エービーシー ・ マート 【2670】の 事業 内容 - キタイシホン — エービーシー ・ マート 【2670】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2670/business",
+    "pass": 3
+   },
+   {
+    "quote": "エービーシー ・ マート - 日本経済新聞 — エービーシー ・ マート - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=2670",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エービーシー ・ マート | 2011001033515 — 株式会社 エービーシー ・ マート | 2011001033515 info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011001033515",
+    "pass": 3
+   },
+   {
+    "quote": "投資家の皆さまへ - エービーシー・マート — 投資家の皆さまへ - エービーシー・マート abc-mart.co.jp https://www.abc-mart.co.jp > toshika",
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r602.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r502.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r402.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r302.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/backnumber/r202.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/aboutus/rekishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/toshika.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/keieirinen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/gyoseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/getsujijoho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/meeting/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/kabunushijoho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/kabushikijoukyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/sustainability.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/social.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/faq_detail.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/261007_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/261007_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_eng.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_hosoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/kessan02_hosoku_eng.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/getsuji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abc-mart.co.jp/ir/pdf/2027/getsuji_eng.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nvic.co.jp/policy/method/no-04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/2670/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monstar.ch/magazine/785/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/abcmart.japan/posts/abc%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AE%E3%81%8A%E7%88%B6%E3%81%95%E3%82%93%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AB%E7%AA%81%E6%92%83%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-vol1%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%8A%E9%A1%8C%E3%81%AF%E7%88%B6%E3%81%AE%E6%97%A5%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%8A%E7%88%B6%E3%81%95%E3%82%93%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E6%9C%AC%E9%9F%B3%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AF%E7%88%B6%E3%81%AE%E6%97%A5%E3%81%AB%E4%BD%95%E3%82%92%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88/1359129036337798/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エービーシー・マート",
+   "results": [
+    "http://www.abc-mart.net/shop/",
+    "https://www.abc-mart.co.jp/",
+    "https://ja.wikipedia.org/wiki/ABC%E3%83%9E%E3%83%BC%E3%83%88",
+    "https://www.instagram.com/abc_mart_japan/?hl=ja",
+    "https://www.rakuten.co.jp/abc-mart/",
+    "https://gs.abc-mart.net/",
+    "https://ja.wikipedia.org/wiki/エービーシー・マート",
+    "https://ja.wikipedia.org/wiki/ABCマート",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2670",
+    "https://www.abc-mart.co.jp/english/gaiyo.html"
+   ]
+  },
+  {
+   "query": "エービーシー・マート ビジネスモデル",
+   "results": [
+    "https://www.nvic.co.jp/policy/method/no-04/",
+    "https://note.com/ryokubota/n/n6db8f6f8d184",
+    "https://www.abc-mart.co.jp/ir/tsuyomi.html",
+    "https://diamond-rm.net/management/businessplan/457137/",
+    "https://www.vpon.com/jp/cases/abc-mart/",
+    "https://bizspa.jp/post-638897/",
+    "https://kitaishihon.com/company/2670/business",
+    "https://the-shashi.com/tse/2670/",
+    "https://prtimes.jp/main/html/rd/p/000000090.000004374.html",
+    "https://consovation.com/ビジネスモデルとir資料で読み解くエービーシー・/"
+   ]
+  },
+  {
+   "query": "エービーシー・マート 決算説明資料",
+   "results": [
+    "https://www.abc-mart.co.jp/ir/kessanshiryo.html",
+    "https://www.abc-mart.co.jp/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261006546823/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261006546823",
+    "https://kitaishihon.com/company/2670/ir-library",
+    "https://kabutan.jp/stock/finance?code=2670",
+    "https://zaimani.com/financial-analysis-catalog/2670/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=2670",
+    "https://edinetdb.jp/company/E02925/presentations/",
+    "https://irbank.net/2670/ir"
+   ]
+  },
+  {
+   "query": "エービーシー・マート 事業系統図",
+   "results": [
+    "https://www.abc-mart.co.jp/aboutus/gaiyo.html",
+    "https://kitaishihon.com/company/2670/business",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2670",
+    "https://job.mynavi.jp/28/pc/search/corp73051/outline.html",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011001033515",
+    "https://ja.wikipedia.org/wiki/ABC%E3%83%9E%E3%83%BC%E3%83%88",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FqmJ&q_no=1",
+    "https://www.youtube.com/watch?v=JPulm7Nkkms",
+    "https://salesnow.jp/db/companies/jcbxhajbkavs1m8a",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=2670"
+   ]
+  },
+  {
+   "query": "エービーシー・マート 社長 インタビュー",
+   "results": [
+    "https://monstar.ch/magazine/785/",
+    "https://www.facebook.com/abcmart.japan/posts/abc%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AE%E3%81%8A%E7%88%B6%E3%81%95%E3%82%93%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AB%E7%AA%81%E6%92%83%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-vol1%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%8A%E9%A1%8C%E3%81%AF%E7%88%B6%E3%81%AE%E6%97%A5%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%8A%E7%88%B6%E3%81%95%E3%82%93%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E6%9C%AC%E9%9F%B3%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AF%E7%88%B6%E3%81%AE%E6%97%A5%E3%81%AB%E4%BD%95%E3%82%92%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88/1359129036337798/",
+    "https://www.abc-mart.co.jp/ir/toshika.html",
+    "https://www.tokyu-shopstaff.jp/tokyushopstaff/AB0530030245/CDinterview-d.htm",
+    "https://www.youtube.com/watch?v=JPulm7Nkkms",
+    "https://www.nikkei.com/article/DGXZQOUC015VU0R01C25A2000000/",
+    "https://the-shashi.com/tse/2670/",
+    "https://www.instagram.com/reel/DZvrJuQCtfa/",
+    "https://dxmagazine.jp/interview/executive/ebtd37/",
+    "https://ja.wikipedia.org/wiki/野口実_(実業家)"
+   ]
+  }
+ ],
+ "missing": {}
+}

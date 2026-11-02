@@ -1,0 +1,1574 @@
+{
+ "name": "リベロ",
+ "aliases": [],
+ "context": "証券コード9245／サービス業／グロース（内国株式）／2025.12期 売上高4,364百万円 営業利益率17.4%",
+ "researched_at": "2026-11-02T18:24:21.290493+00:00",
+ "official_url": "https://www.livero.co.jp/",
+ "identified_by": "search:ddgs:yahoo:リベロ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　立",
+    "value": "2009年5月",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2018年2月",
+    "url": "https://www.livero-bs.co.jp/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2009年",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "147名（2025年12月末現在）",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "147名",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "移転者サポート事業",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お部屋が決まったお客様への",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業務提携等をご希望のお客様はこちら",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "「オールユーザーファースト」を実現した解決に取り組みます",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちリベロは、2009年の設立から、お客様のことをいちばんに考えてサービスをご提供してまいりました",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足度のアップや業務の効率化",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "個人・法人にとらわれることなく、すべてのお客様の満足に目を向けた「オールユーザーファースト」という考えで、新生活の問題を解決してまいります",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "新生活コンサルティング企業として、培ってきた専門知識を最大に活かして、すべてのお客様を、よりよい未来へご案内いたします",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "業務提携等をご希望のお客様はこちら",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "今後とも、スピード感ある事業成長とともに、顧客・パートナー・社会の四方よしの価値を実現し、持続可能な社会の構築に向けて邁進してまいります",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "新生活ラクっとNAVIや社宅ラクっとNAVIなど生み出すサービスは常に「ユーザーファースト」",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "企業内外の両方の立場から組織を見た時、社会に貢献できる企業に必要なのは、株主様、お取引先様、従業員、そして広く世間に対し、誠実であることだと痛感",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数100,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数500,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数1,000,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数1,500,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数2,000,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "業務提携等をご希望のお客様はこちら",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/csr",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/human",
+    "pass": 1
+   },
+   {
+    "quote": "事業を通して、株主・顧客・取引先・従業員が持続的にベネフィットを還元することができる仕組みを提供して参ります",
+    "url": "https://www.livero.co.jp/ir/management/human",
+    "pass": 1
+   },
+   {
+    "quote": "※取引先持株会、従業員持株会含む",
+    "url": "https://www.livero.co.jp/ir/management/human",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/about",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/employee",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/interview",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/governance",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示いたしません",
+    "url": "https://www.livero.co.jp/ir/management/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/stock/overview",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/stock/return",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/stock/meeting",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/notice",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.livero.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/library/securities",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/library/material",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、サプライチェーンの取引先の皆様や価値創造を図る事業者の皆様との連携・共存共栄を進めるこ",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "直接の取引先を通じてその先の取引先に働きかけることにより、サプライチェーン全体での付加価値向上に取",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り組むとともに、既存の取引関係や企業規模等を超えた連携により、取引先との共存共栄の構築を目指します",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その際、災害時等の事業継続や働き方改革の観点から、取引先のテレワーク導入やBCP（事業継続計画）策定の",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親事業者と下請事業者との望ましい取引慣行（下請中小企業振興法に基づく「振興基準」）を遵守し、取引先",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先も働き方改革に対応できるよう、下請事業者に対して、適正なコスト負担を伴わない短納期発注",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法人向けサービスは堅調に成長しており、導入企業数は4,000社を突破しました",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーから「社宅ラクっとNAVI」「新生活ラクっとNAVI」を通じて、お部屋探しを起点とした転居者の情報が当社に集まります",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「社宅ラクっとNAVI」にてユーザー情報を集め、不動産会社さまへ送客をします",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "この送客数が増えることで、不動産会社さまからも「新生活ラクっとNAVI」にてより多くのユーザー情報をいただくことに繋がります",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "このように当社のプラットフォームは成長し続けてきましたが、多くのユーザーさまのご要望にあったサービスを提供し続けるには、新生活関連事業者さまとのネットワークが重要となります",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "当時、不動産会社にとってライフラインの手配などはお客様への案内や手続きが非常に面倒な作業でした",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が契約に至れば、通信事業者等から私たちが紹介料をいただくというモデルですね",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   },
+   {
+    "quote": "徹底した顧客目線で、本当に求められるサービスを追求した結果だと思います",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "引越会社様向けサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "家賃割引サービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームの構築と提供で",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームの構築と提供を通じて、",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人企業様向けサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサイトへ",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生サービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活を迎える人とサービスを提供する事業者の課題を解決する",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォーム",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活ワンストップサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "実現したクラウド賃貸契約サービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームサービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧を見る",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームのサポート実績",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービス",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームのネットワーク",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームの構築と提供を通じて解決することにより、",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスについてのご質問や、",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "引越会社様向けサービス",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "家賃割引サービス",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームの構築と提供で",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "新生活サービスプラットフォームの構築と提供を通じて、",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちリベロは、2009年の設立から、お客様のことをいちばんに考えてサービスをご提供してまいりました",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "お部屋探しや引越会社のご紹介、電気・ガスなどのライフラインのお取り次ぎ、転勤業務のお手伝いなど、新生活を迎える個人の方だけでなく、新生活に関わる不動産会社様や法人の総務・人事様の幅広いニーズにお応えするサービスをご用意しています",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "サービスについてのご質問や、",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "引越会社様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "家賃割引サービス",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "」を経営理念として掲げ、「お引越しをされる方のみならず、転勤や社宅に関わる事業者、転居者向けのサービスを提供する事業者、それぞれの課題解決に貢献する」ことをミッションに事業を展開しております",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービスである「社宅ラクっとNAVI」は、2024年12月期末現在で3,713社に導入され、引き続き業界ナンバーワンのサービスへと成長しています",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "そして2023年、これまでの転勤を中心としたサポートサービスを拡大し、福利厚生で利用可能な「ベネフィット社宅」や、保育事業者向けの「ワンコイン保育社宅」、外国人向けの「インバウンド社宅」のサービスを開始いたしました",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "引越会社向けには、既存の引越案件マッチングに加え、資材・燃料の共同購買や、段ボール広告サービス「HAKO-Ad」、業務支援クラウド「HAKO-Tec」など、引越業界の課題を解決する多角的なサービスを展開しております",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "新生活ラクっとNAVIや社宅ラクっとNAVIなど生み出すサービスは常に「ユーザーファースト」",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスの立ち上げ責任者",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "これまで法人企業3,000社以上へサービス導入を牽引してきた営業力を活かし、現在は、取締役事業本部長として不動産事業部門、法人事業部門、引越事業部門を管掌",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "有力企業との連携をはかり、質の良いサービスを提供し、更なる拡大を担う",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "引越会社様向けサービス",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向けサービス",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "家賃割引サービス",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数100,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "「社宅ラクっとNAVI®」サービスを開始",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数500,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス利用者数1,000,000名突破",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "「引越しラクっとNAVI ®」サービスを開始",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/csr",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/human",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/about",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/employee",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/interview",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/governance",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/management/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/stock/overview",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/stock/return",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/stock/meeting",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/notice",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/library/securities",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/library/material",
+    "pass": 1
+   },
+   {
+    "quote": "（登録範囲：新生活サービスプラットフォームに関わる情報システムの企画、設計、開発、保守及び運用）",
+    "url": "https://www.livero.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "集まった情報は、当社の提携する新生活関連事業者へ送客され、紹介手数料が得られます",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、法人企業さまに社宅管理サービスを提供することで、ストック収益が得られる仕組みとなっています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "このように当社の事業はフロー収益とストック収益を両立するモデルとなっています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "【FCE Holdings(9564)】RPA「ロボパットDX」がサブスクで着実成長！他社との違いは、教育研修事業とのシナジーにあり",
+    "url": "https://www.youtube.com/watch?v=NMfjcwCEotM",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "お部屋探しや引越会社のご紹介、電気・ガスなどのライフラインのお取り次ぎ、転勤業務のお手伝いなど、新生活を迎える個人の方だけでなく、新生活に関わる不動産会社様や法人の総務・人事様の幅広いニーズにお応えするサービスをご用意しています",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、不動産会社・引越会社といったパートナー企業との「相互送客」関係を大切にし、強固な信頼のもと共に成長してまいりました",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "このパートナーシップは、個社では解決しきれない課題に業界全体で取り組む「社宅推進プロジェクト」や「引越業界の未来をつくる会」などの共創活動へと発展しつつあります",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "今後とも、スピード感ある事業成長とともに、顧客・パートナー・社会の四方よしの価値を実現し、持続可能な社会の構築に向けて邁進してまいります",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2010年弁護士登録、2012年GMOペイメントゲートウェイ企業内弁護士、2015年中村好伸法律事務所、2023年中村山本法律事務所（パートナー）",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.livero.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "※パートナーシップ構築宣言とは",
+    "url": "https://www.livero.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.livero.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "※パートナーシップ構築宣言とは",
+    "url": "https://www.livero.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業への向き合い方",
+    "url": "https://www.livero.co.jp/ir/management/csr",
+    "pass": 1
+   },
+   {
+    "quote": "事業本部 不動産パートナー事業部 第２課主任",
+    "url": "https://www.livero.co.jp/ir/management/interview",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナーシップ構築宣言」",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とで、新たなパートナーシップを構築するため、以下の項目に重点的に取り組むことを宣言します",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組みます",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の管理委託方式についてご紹介します",
+    "url": "https://www.livero-bs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "集まった情報は、当社の提携する新生活関連事業者へ送客され、紹介手数料が得られます",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が契約に至れば、通信事業者等から私たちが紹介料をいただくというモデルですね",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   },
+   {
+    "quote": "業務負担が劇的に減るうえに、紹介料まで還元される仕組みにしたからです",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2009年5月",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2024年にはISMS（情報セキュリティマネジメントシステム）認証も取得し、情報管理体制の高度化も進めております",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "1978年9月、福岡県生まれ",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "1979年に殖産住宅株式会社に入社し、住友林業レジデンシャル株式会社の専務取締役を経て当社へ",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "1995年に小林会計事務所へ入所し、長年にわたり会計・税務の実務に携わる",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2022年に当社へ入社後は経理部長として財務・会計業務全般を統括",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "1983年生",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2010年弁護士登録、2012年GMOペイメントゲートウェイ企業内弁護士、2015年中村好伸法律事務所、2023年中村山本法律事務所（パートナー）",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2022年リベロ監査役就任",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2006年、京都大学工学部物理工学科入学",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "2009年に株式会社エックスポイントワン設立・代表取締役兼 CEO 就任",
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社情報｜株式会社リベロ Livero Inc.",
+    "url": "https://www.livero.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 2Q決算説明会",
+    "url": "https://www.livero.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 2Q決算説明会",
+    "url": "https://www.livero.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月31日までに、",
+    "url": "https://www.livero.co.jp/ir/management/employee",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月31日までに女性管理職40％を目指す当社で、",
+    "url": "https://www.livero.co.jp/ir/management/interview",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 通期決算説明会",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 通期決算説明会",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 通期決算説明会",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 通期決算説明会",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 通期決算説明会",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日 2026年 第３四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日～11月13日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月下旬（予定） 個人投資家向け説明会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日 機関投資家向け説明会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日 2026年 第２四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日～8月7日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月15日 2026年 第１四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日～5月15日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月27日 定時株主総会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月19日 個人投資家向け説明会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日 機関投資家向け説明会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日 2025年12月期 決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月1日～2月13日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月14日 2025年 第３四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月1日～11月14日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月27日 個人投資家向け説明会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月8日 機関投資家向け説明会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月8日 2025年 第２四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月1日～8月8日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月15日 2025年 第１四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日～5月15日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月28日 定時株主総会",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月14日 2024年12月期 決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月1日～2月14日 沈黙期間",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月14日 2024年 第３四半期決算発表",
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年6 月25 日",
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年2月",
+    "url": "https://www.livero-bs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 通期業績予想",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期通期決算について報告します",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期について、売上高・営業利益は達成率93パーセントから95パーセントの着地となり、当期純利益は通期計画である5.3億円を達成しました",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期については、下期の伸びがこれまでの期に比べて大きく伸長した結果となっています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の第4四半期と累計の連結サマリーになります",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期は、売上高53億5,000万円、営業利益11億円、経常利益11億500万円、当期純利益7億5,000万円を計画しています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2028年の営業利益20億円を目指して、しっかりと計画を達成していきたいと思います",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月期決算説明",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社のビジネスモデル上、2026年の計画である売上高53.5億円に対して、50億円はすでに契約済のお客さまからのご依頼で達成できる予定となっています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "業界を変革する独自のビジネスモデルと、SNSで“裏側”までさらけ出す規格外の経営哲学に迫った",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのビジネスモデルを日本中に広げるには、会社としての「社会的信用」をどうしても獲得する必要がありました",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社の強みはお部屋探しを起点とした相互送客が生む好循環構造であると考えています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単一領域に特化した事業会社とは異なる独自のポジショニングを確立しており、強力な競争優位性となっています",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "多様なバックグラウンドを持つ人材が活躍できることが組織の強みだと思っています",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "リベロビジネスサポート — リベロビジネスサポート 株式会社リベロビジネスサポート https://www.livero-bs.co.jp",
+    "url": "https://www.livero-bs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "リベロ 、相互送客による好循環構造で 16期連続増収 26年も ... — リベロ 、相互送客による好循環構造で 16期連続増収 26年も ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384081",
+    "pass": 3
+   },
+   {
+    "quote": "IR｜株式会社 リベロ Livero Inc. — IR｜株式会社 リベロ Livero Inc. livero.co.jp https://www.livero.co.jp > library > interview",
+    "url": "https://www.livero.co.jp/ir/library/interview",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 リベロ 個人投資家向けオンライン会社説明会 — 株式会社 リベロ 個人投資家向けオンライン会社説明会 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=MaMA5iVSQCA",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - IR｜株式会社リベロ Livero Inc. — 決算説明資料 - IR｜株式会社リベロ Livero Inc. livero.co.jp https://www.livero.co.jp > library > presentation",
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "pass": 3
+   },
+   {
+    "quote": "FINANCIAL RESULTS 決算 短信 - IR｜株式会社リベロ Livero Inc. — FINANCIAL RESULTS 決算 短信 - IR｜株式会社リベロ Livero Inc. livero.co.jp https://www.livero.co.jp > library > result",
+    "url": "https://www.livero.co.jp/ir/library/result",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】株式会社 リベロ （PR・IR） (@livero__official) — 【公式】株式会社 リベロ （PR・IR） (@livero__official) Threads https://www.threads.com > ...",
+    "url": "https://www.threads.com/@livero__official?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【 リベロ 】[9245]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 リベロ 】[9245]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9245",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜株式会社 リベロ Livero Inc. — 会社情報｜株式会社 リベロ Livero Inc. livero.co.jp https://www.livero.co.jp > company",
+    "url": "https://www.livero.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 リベロ - 三菱UFJモルガン・スタンレー証券 — 株式会社 リベロ - 三菱UFJモルガン・スタンレー証券 三菱ＵＦＪモルガン・スタンレー証券株式会社 PDF https://www.sc.mufg.jp > stock > new > pdf",
+    "url": "https://www.sc.mufg.jp/products/stock/new/pdf/210824_9245_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リベロ 【9245】の 事業 内容 - キタイシホン — リベロ 【9245】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9245/business",
+    "pass": 3
+   },
+   {
+    "quote": "リベロ ビジネスサポート — リベロ ビジネスサポート 株式会社リベロビジネスサポート https://www.livero-bs.co.jp",
+    "url": "https://www.livero-bs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 リベロ 代表取締役 鹿島 秀俊 — 業界毎特集記事－株式会社 リベロ 代表取締役 鹿島 秀俊 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "pass": 3
+   },
+   {
+    "quote": "リベロ ［9245］東証マザーズ IPO - YouTube — リベロ ［9245］東証マザーズ IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=NMfjcwCEotM",
+    "pass": 3
+   },
+   {
+    "quote": "上場会見： リベロ <9245>の鹿島 社長 、不動産と引っ越しをDX化 — 上場会見： リベロ <9245>の鹿島 社長 、不動産と引っ越しをDX化 c-eye.co.jp https://c-eye.co.jp > ipo-eq",
+    "url": "https://c-eye.co.jp/ipo-eq/59104",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 リベロ の社員 インタビュー | IT/Web業界の転職サイト ... — 株式会社 リベロ の社員 インタビュー | IT/Web業界の転職サイト ... 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/7472/interview",
+    "pass": 3
+   },
+   {
+    "quote": "リベロ 社長 ストーリー動画 - 映像制作 Vecks — リベロ 社長 ストーリー動画 - 映像制作 Vecks vecks.jp https://vecks.jp > VP",
+    "url": "https://vecks.jp/video-package/levero-story/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.livero.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/csr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/human",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/management/disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/stock/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/stock/return",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/stock/meeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/library/result",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/library/presentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/library/securities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/library/material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livero.co.jp/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.livero.co.jp/corporate/corp_assets/pdf/partnership.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.livero.co.jp/corporate/corp_assets/img/ir/icon_business-policy.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.livero-bs.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/384081",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sc.mufg.jp/products/stock/new/pdf/210824_9245_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5930",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=NMfjcwCEotM",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リベロ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%99%E3%83%AD_(%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB)",
+    "https://store.alpen-group.jp/Page/Feature/other_220207_01.aspx?srsltid=AYCX9vI5HbhVf2sNjx0cTAaj_IU3As8hnrQ3d_NlzYAGl6xw35KO7465",
+    "https://abema.tv/lp/volleyball-libero",
+    "https://kotobank.jp/word/%E3%82%8A%E3%81%B9%E3%82%8D-3220540",
+    "https://www.vfz.jp/magazine/rule/about-libero/",
+    "https://spojoba.com/articles/978",
+    "https://dic.pixiv.net/a/%E3%83%AA%E3%83%99%E3%83%AD",
+    "https://ja.wikipedia.org/wiki/リベロ",
+    "https://ja.wikipedia.org/wiki/リベロ_(バレーボール)",
+    "https://www.livero.co.jp/"
+   ]
+  },
+  {
+   "query": "リベロ ビジネスモデル",
+   "results": [
+    "https://www.livero-bs.co.jp/",
+    "https://finance.logmi.jp/articles/384081",
+    "https://www.livero.co.jp/ir/library/interview",
+    "https://www.youtube.com/watch?v=MaMA5iVSQCA",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260327/20260326590462.pdf",
+    "https://www.livero.co.jp/company/history",
+    "https://tenshoku.mynavi.jp/jobinfo-260770-5-37-1/",
+    "https://compalyze.co.jp/company/6011001120920",
+    "https://www.sc.mufg.jp/products/stock/new/pdf/210824_9245_3.pdf",
+    "https://shachomeikan.jp/industry_article/5930"
+   ]
+  },
+  {
+   "query": "リベロ 決算説明資料",
+   "results": [
+    "https://www.livero.co.jp/ir/library/presentation",
+    "https://www.livero.co.jp/ir/library/result",
+    "https://www.threads.com/@livero__official?hl=ja",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9245",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260807/20260806513606.pdf",
+    "https://www.libcon.co.jp/ir/presentations/",
+    "https://irbank.net/9245/140120260210554462",
+    "https://www.livero.co.jp/ir/library/material",
+    "https://www.buffett-code.com/company/9245/library",
+    "https://www.livero.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "リベロ 事業系統図",
+   "results": [
+    "https://www.livero.co.jp/company",
+    "https://www.sc.mufg.jp/products/stock/new/pdf/210824_9245_3.pdf",
+    "https://kitaishihon.com/company/9245/business",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241114/20241113522493.pdf",
+    "https://www.livero-bs.co.jp/",
+    "https://compalyze.co.jp/company/1010901024558",
+    "https://envalith.com/ja/companies/9245/segments",
+    "https://www.youtube.com/watch?v=s_RxqIIcRH4",
+    "https://www.instagram.com/p/DUAV_PigSNh/",
+    "https://libero-sys.co.jp/"
+   ]
+  },
+  {
+   "query": "リベロ 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/5930",
+    "https://www.youtube.com/watch?v=NMfjcwCEotM",
+    "https://c-eye.co.jp/ipo-eq/59104",
+    "https://www.green-japan.com/company/7472/interview",
+    "https://vecks.jp/video-package/levero-story/",
+    "https://www.livero.co.jp/ir/management/message",
+    "https://www.threads.com/@livero__official?hl=ja",
+    "https://www.nikkei.com/article/DGXZQOUC285G40Y1A920C2000000/",
+    "https://www.shibuyamov.com/interviews/memberinterview43.html",
+    "https://www.instagram.com/reel/DSHgDq-AaDy/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部5頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部5頁・検索5回）"
+ }
+}

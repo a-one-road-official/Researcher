@@ -1,0 +1,1545 @@
+{
+ "name": "ＣＲＩ・ミドルウェア",
+ "aliases": [],
+ "context": "証券コード3698／情報・通信業／スタンダード（内国株式）／2025.09期 売上高3,449百万円 営業利益率16.1%",
+ "researched_at": "2026-11-02T18:30:53.643691+00:00",
+ "official_url": "https://www.cri-mw.co.jp/",
+ "identified_by": "search:yahoo_jp:CRI・ミドルウェア",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2001年 （平成13年） 8月1日",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "音声・映像関連ミドルウェアの提供",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 34億4857万7000円 （2025年9月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結: 161人 （2023年9月30日現在） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちＣＲＩ・ミドルウェアは、ゲーム、モビリティ、カラオケ、ECなどの世界でエンドユーザー体験がより快適で楽しくなることを目指して、各界開発者をサポートしています",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "音声処理やクロスプラットフォーム対応といった高度な独自技術を活用して、お客様のやりたいことをサポート",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、開発者の課題解決をサポートすることで、その先のエンドユーザーに豊かな体験を届けます",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "画像、動画の軽量化や配信ソリューションでWebでの顧客体験を向上させます",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、開発者の課題解決をサポートすることで、その先のエンドユーザーに豊かな体験を届けます",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "画像、動画の軽量化や配信ソリューションでWebでの顧客体験を向上させます",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "車両の中で音と映像は、ユーザーに情報を知らせるUI、UXの役割を持ちます",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の技術でモビリティ全体のSDV化を推進し、培ってきた「さまざまな環境でも動作できる」技術を生かして次世代のモビリティを構築、全てのユーザーに新たな価値を提供します",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のさまざまな音響技術を磨き、組み合わせ、拡張することで、エンドユーザーのカラオケ体験をより楽しく、驚きあるものにしていきます",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、技術の提供で「ユーザー同士のWebコミュニケーション活性化」を目指します",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、商品の画像や動画をユーザーがもっと気軽に投稿できるなど、「新しいWebサイトの仕組みづくり」を技術で支えます",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "エンドユーザー自身が簡単に動画や画像を投稿できるシステムや、インタラクティブな表示技術の提供で、未来のコミュニケーションの広がりを支えます",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが能動的に商品を確認できる仕組みで、オンラインショッピングに納得感と期待感をプラスします",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "「はやい」「かるい」「きれい」でユーザーのWeb閲覧を快適に",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲームでは、音声や映像の応答速度がユーザーの体験に直結することから、遅れのないリアルタイムな技術が求められます",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様それぞれのサービスに必要な技術を組み込めるのが当社の特長の一つです",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の成功を第一に考えるサポート力",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "技術の提供でも、システムの構築でも、企画から開発、運用フェーズまで全てをサポートし、お客様のサービスに伴走します",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストレスのない真のオンラインコミュニケーションがユーザーに新しい楽しさを提供します",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と遊び心で、エンドユーザーが快適に過ごせる「居心地のよい空間」を作り出します",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "映像技術を中心に、通信技術など当社の持つ技術を組み合わせることで、お客様に最適なソリューションを構築し、提供します",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "多岐にわたるプロジェクトに参画する組込み領域では、お客様やシステムの要求に対応した技術が必要です",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "当社と協業先の持つ技術を柔軟に組み合わせ、お客様の製品の価値を上げることで、1社では実現できない新たなサービスを提供します",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "振動パターンをゲーム演出に活用することで、これまでにないユーザー体験を実現する触覚ミドルウェアです",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "Dirac社の「Dirac Audio enhancement」を背景に、当社のソフトウェア技術によってお客様にお届けする、総合的な音響ソリューションです",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "【EC事業社様向け zoomセミナー】 ユーザー体験・集客効率を最大化する動画活用の手法とは",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の「買いたい」を刺激するAI&動画活用セミナー～最新事例から学ぶCVR300％アップの秘訣～",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から選んでもらえる、買いやすいページの作り方をWebセミナーで学ぼう～売れている企業の動画活用術！もご紹介～",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトではお客様のブラウジング体験の改善や利便性向上のためにcookieを使用します",
+    "url": "https://www.cri-mw.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTPiX ユーザーサポート",
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、他社に真似できない技術で、お客様と共に新しいクリエイティブにチャレンジすることを約束します",
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様が安心して目的を完遂できるように、長年の経験に基づく丁寧なサポートを提供します",
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、業界を問わず幅広いお客様の心が躍る、革新的かつ高品質なミドルウェアを届けます",
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品をご利用中の方へ",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関するお問い合わせ",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの製品は、ゲーム、モビリティ、カラオケ、ECなど、さまざまな分野で活用されています",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カラオケ機器、産業機器などに、音声領域のソリューションを提供しています",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス /",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "画像、動画の軽量化や配信ソリューションでWebでの顧客体験を向上させます",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(10/30 16:00更新)PHPの脆弱性対応に伴うWebサイトおよびサービスの緊急メンテナンスのお知らせ",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス/EC領域",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・IR・採用・その他に関するお問い合わせは",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中の方へ",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関するお問い合わせ",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ＣＲＩ・ミドルウェアでは、長年培ってきた音声や映像技術を生かした製品やサービスの提供のみならず、開発者の皆さまが抱える課題を解決できるよう、提案から仕組みづくりまでを一緒に考え、サポートしています",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの製品は、ゲーム、モビリティ、カラオケ、ECなど、さまざまな分野で活用されています",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カラオケ機器、産業機器などに、音声領域のソリューションを提供しています",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス /",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "画像、動画の軽量化や配信ソリューションでWebでの顧客体験を向上させます",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中の方へ",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関するお問い合わせ",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "多言語での技術サポートや情報発信を強化し、全ての開発者に向けて製品提供を行っていきます",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲーム領域の製品一覧",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・IR・採用・その他に関するお問い合わせは",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中の方へ",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関するお問い合わせ",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "音と映像で人とモビリティをつなぐHMI（ヒューマン・マシン・インターフェース）向けの製品を提供しています",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティ領域の製品一覧",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・IR・採用・その他に関するお問い合わせは",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中の方へ",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関するお問い合わせ",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "音響/カラオケ領域では、電子レンジや給湯器といった家電製品から、ハイエンドオーディオやカラオケ機器まで、さまざまな「音を扱う」製品向けのソリューションを提供しています",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは「音を扱う」さまざまな製品へ適用できる技術を提供しています",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "家電、産業機器、カラオケ、音響製品、カーオーディオなど、音を扱うあらゆる製品に必要な技術を提供していきます",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアで作る音響製品への挑戦",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、音響製品はハードウェアに依存した製品づくりが主流です",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、ソフトウェアで定義される“Software Defiened Audio”を提案し、ハードウェアに縛られない柔軟な音響製品の実現を目指します",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自の音響技術はオーディオ製品へも展開がはじまっています",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のサポートは、製品開発中のみならず、企画から製品発売後まで開発過程の全てをサポートしています",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "この「実際の開発に伴走する」サポートを評価いただき、たくさんの製品で当社の技術を導入いただいています",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "長年、幅広い業界の実際の開発をサポートして培ったノウハウで、製品開発の課題を分析し、解決へと導きます",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "音響 / カラオケ領域の製品一覧",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・IR・採用・その他に関するお問い合わせは",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域 - CRI Middleware",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中の方へ",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "その他製品に関するお問い合わせ",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス/EC領域では、他領域で築き上げてきた画像や動画の圧縮、リアルタイム処理の技術をWebサービス向けに提供しています",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS形式での自社サービス提供に加え、他社システムの受託開発も行っています",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域の目指す世界",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、商品の画像や動画をユーザーがもっと気軽に投稿できるなど、「新しいWebサイトの仕組みづくり」を技術で支えます",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが能動的に商品を確認できる仕組みで、オンラインショッピングに納得感と期待感をプラスします",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は他領域で培った圧縮技術を、WebサービスやECサイト向けに応用し、提供しています",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "この技術をWebサービスに応用し、複数人による同一ファイルの同時編集でファイル管理を効率化できます",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様それぞれのサービスに必要な技術を組み込めるのが当社の特長の一つです",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "技術の提供でも、システムの構築でも、企画から開発、運用フェーズまで全てをサポートし、お客様のサービスに伴走します",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域の製品一覧",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち「ＣＲＩ・ミドルウェア」という会社自身について、創業時からこれまで大切に継続してきた研究開発活動について、さらに私たちが目指している「私たちの技術が活躍する未来の姿」について紹介します",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 - CRI Middleware",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "映像技術の頼れるパートナーを目指して",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは主にミドルウェアとして提供している製品を紹介します",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲーム開発向けの音声・映像ミドルウェア「CRIWARE」の製品情報やチュートリアル、導入事例などをご紹介しています",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "「CRI ADX」のアップデート情報や、ゲームサウンドに関するノウハウなどを紹介しています",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から選んでもらえる、買いやすいページの作り方をWebセミナーで学ぼう～売れている企業の動画活用術！もご紹介～",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "インスタグラム・動画のEC活用事例ご紹介セミナー",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "LiveAct® PRO販売パートナー(新規)説明会",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「世の中のニーズに柔軟に変化する力を」社長の思いをご紹介します",
+    "url": "https://www.cri-mw.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/about/social/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会",
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役の田村奈央子氏および鈴木久和氏、取締役会長の鈴木正彦氏および代表取締役社長の押見正雄氏を構成員とした任意の指名・報酬委員会を設置しております",
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会は、取締役および執行役員の選任・解任方針や後継者計画の策定、候補者の選定、株主総会に付議する報酬関連議案の原案作成、ならびに取締役および執行役員の個人別の報酬の内容やその決定方針について審議し、取締役会に答申を行います",
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/ai-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.cri-mw.co.jp/ir/management/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの技術を認めていただき、「この製品についてはCRIでないと」とご指名をいただいたり、これまで実現が難しかった案件のご相談を受けるところからスタートすることが多々あります",
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＲＩ、DSP Conceptsとパートナーシップに合意、1,600万台以上の車両を支える警告音の技術を世界市場に提供",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算補足説明資料",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期上期Q＆A動画公開のお知らせ",
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要／沿革／グループ会社 - CRI Middleware",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要／沿革／グループ会社",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年8月1日",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/about/social/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/medium_term_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月現在",
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月現在",
+    "url": "https://www.cri-mw.co.jp/ir/management/compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/ai-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 / グループ会社 / 沿革",
+    "url": "https://www.cri-mw.co.jp/ir/management/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期第３四半期決算補足説明資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期上期決算補足説明資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期第１四半期決算補足説明資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "沿革サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2014年11月27日上場",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2001年（平成13年）8月 - 株式会社CSK総合研究所の100%子会社として、株式会社シーアールアイ・ミドルウェアを設立",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2004年（平成16年）5月 -",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2019年9月19日、セガが世界同時発売した復刻系ゲーム機・",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期有価証券報告書",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月20日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月3日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2013年5月16日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月23日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2001年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "2014年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ゲーム領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティ領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "音響 / カラオケ領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス / EC領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "pass": 1
+   },
+   {
+    "quote": "オンラインコミュニケーション領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "組込み / その他領域における強み",
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は音声、映像技術をはじめとする独自の研究開発力を強みに、エンターテインメントからエンタープライズまで幅広い分野で事業を展開してきました",
+    "url": "https://www.cri-mw.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、中長期的な事業拡大と企業価値向上をめざしており、売上高の持続的な成長と20％程度の営業利益率を重要な経営指標としております",
+    "url": "https://www.cri-mw.co.jp/ir/management/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、当面はCRI TeleXusへの研究開発投資や、モビリティへのソフトウェア投資を優先して行うため、営業利益率は一時的に低下する見込みです",
+    "url": "https://www.cri-mw.co.jp/ir/management/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "ものごとを表面的な理解で済ませず、その意味を深く考えることが私たちの強みです",
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "pass": 3
+   },
+   {
+    "quote": "「常に本質に根差した課題解決」をすることにより、事業の競争優位性を確立してきました",
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「CRIWARE」のライセンス提供、技術サポート",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "「CRIWARE」のライセンス提供",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲームやアプリ、業務用ゲーム機器に提供したCRIWAREの数は、世界中で10,000ライセンスを超えています",
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "pass": 3
+   },
+   {
+    "quote": "CRIWARE、利用者拡大中のゲームエンジン「Godot」に完全対応、10,000以上のゲーム向けライセンスで培われた技術資産でGodot利用者をサポート",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "音声・映像のデジタル信号処理技術をミドルウェア化・拡販し、許諾料をいただくビジネスモデルが当社事業の柱です",
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CRI ・ ミドルウェア を知る - CRI Middleware — CRI ・ ミドルウェア を知る - CRI Middleware CRI Middleware https://www.cri-mw.co.jp > corporatesummary",
+    "url": "https://www.cri-mw.co.jp/corporatesummary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 CRI ・ ミドルウェア の事業とカルチャー - Wantedly — 株式会社 CRI ・ ミドルウェア の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > company_1569192 > about",
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 CRI ・ ミドルウェア の会社情報 - LabBase就職 — 株式会社 CRI ・ ミドルウェア の会社情報 - LabBase就職 LabBase就職 https://compass.labbase.jp > company",
+    "url": "https://compass.labbase.jp/company/409",
+    "pass": 3
+   },
+   {
+    "quote": "【 CRI ・ ミドルウェア 】[3698]適時開示情報 株主総会や定款関連 — 【 CRI ・ ミドルウェア 】[3698]適時開示情報 株主総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "pass": 3
+   },
+   {
+    "quote": "CRI ・ ミドルウェア (3698) 東証スタンダード 決算 - 株式市況 — CRI ・ ミドルウェア (3698) 東証スタンダード 決算 - 株式市況 松井証券 https://finance.matsui.co.jp > stock > settlement",
+    "url": "https://finance.matsui.co.jp/stock/3698/settlement/index",
+    "pass": 3
+   },
+   {
+    "quote": "CRI・ミドルウェア - Wikipedia — 株式会社CRI・ミドルウェア （シーアールアイ・ミドルウェア、 英: CRI Middleware Co., Ltd.[2]）は、 ミドルウェア の研究開発・販売を行う 日本 の企業。 社名のCRIは、この会社の母体となった 株式会社CSK総合研究所 （シーエスケイそうごうけんきゅうじょ、以下旧CRI）の英語表記\" C SK R esearch I ...",
+    "url": "https://ja.wikipedia.org/wiki/CRI・ミドルウェア",
+    "pass": 3
+   },
+   {
+    "quote": "CRI Middleware — Oct 23, 2026 · CRI・ミドルウェアは、映像・音声・ファイルシステム・音声認識などの分野でミドルウェアの開発・販売・サポートを行っています。マルチプラットフォーム対応を前提に、様々な機種向けに製品展開をしております。",
+    "url": "https://www.cri-mw.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 - CRI Middleware — 中期経営計画 - CRI・ミドルウェアは、映像・音声・ファイルシステム・音声認識などの分野でミドルウェアの開発・販売・サポートを行っています。マルチプラットフォーム対応を前提に、様々な機種向けに製品展開をしております。",
+    "url": "https://www.cri-mw.co.jp/ir/management/medium_term_plan/",
+    "pass": 3
+   },
+   {
+    "quote": "CRI展開分野 - CRI・ミドルウェア採用サイト — Business CRI展開分野 当社は、主力である音声関連ミドルウェアと映像関連ミドルウェア、およびファイル関連ミドルウェア、グラフィック関連ミドルウェアなどを、さまざまな分野にあったかたちで製品化し、幅広く展開しています。",
+    "url": "https://recruit.cri-mw.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要／沿革／グループ会社 - CRI Middleware — 会社概要／沿革／グループ会社 - 株式会社CRⅠ・ミドルウェアの会社概要 / 沿革 / グループ会社ページです。CRI・ミドルウェアは、音声・映像技術を活用したミドルウェアの開発・提供を行う企業です。長年の技術力と実績を基に、ゲーム、モビリティ、カラオケ、Webなど幅広い分野で採用さ ...",
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "ゲーム起動時によく見る「CRIWARE」って何？ “ハード戦争”や“和ゲー v... — Jul 22, 2025 · “ハード戦争”や“和ゲー vs 洋ゲー”の裏で暗躍したミドルウェア商人の歴史 インタビュー ゲーム 2025/07/22 株式会社CRI・ミドルウェア 代表取締役社長 押見 正雄 1987年にCRI・ミドルウェアの前身であるCSK総合研究所にAI技術者として入社。",
+    "url": "https://levtech.jp/media/article/interview/detail_697/",
+    "pass": 3
+   },
+   {
+    "quote": "CRI・ミドルウェア社長に桜井敦史氏 - 日本経済新聞 — Sep 11, 2026 · CRI・ミドルウェア桜井 敦史氏（さくらい・あつし）00年（平12年）名古屋大院修了、CSK総合研究所入社。18年CRI",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00008_R10C26A9000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cri-mw.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/game/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/mobility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/sound/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/web/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/communication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/embedded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/product/productlist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/business/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/news/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/about/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/about/social/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/medium_term_plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/ai-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/ir/management/indicator/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/business/index/img_business_index_kv_1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_business_1_md.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_business_2_md.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_business_3_md.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_business_4_md.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_business_5_md.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_business_6_md.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cri-mw.co.jp/wp/wp-content/themes/cri-mw/img/common/img_related_business_game_index_1_md.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.wantedly.com/companies/company_1569192/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CRI・ミドルウェア",
+   "results": [
+    "https://www.cri-mw.co.jp/",
+    "https://ja.wikipedia.org/wiki/CRI%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2",
+    "https://game.criware.jp/",
+    "https://x.com/CRIWARE",
+    "https://www.renesas.com/ja/design-resources/partners/cri-middleware?srsltid=AYCX9vJUiSONR3lMYsEj8Gf06d_nzq3dUPizYomMGKjb6_j4XRq8qiAi",
+    "https://ja.wikipedia.org/wiki/CRI・ミドルウェア",
+    "https://en.wikipedia.org/wiki/CRI_Middleware",
+    "https://x.com/criware",
+    "https://www.cri-mw.co.jp/about/profile/",
+    "https://game.criware.com/"
+   ]
+  },
+  {
+   "query": "CRI・ミドルウェア ビジネスモデル",
+   "results": [
+    "https://www.cri-mw.co.jp/corporatesummary/",
+    "https://www.wantedly.com/companies/company_1569192/about",
+    "https://xtrend.nikkei.com/info/09/00070/062300095/",
+    "https://www.youtube.com/watch?v=H9IXJDd0pgw",
+    "https://compass.labbase.jp/company/409",
+    "https://note.com/tatsuya_sabato/n/nd112268f00d6",
+    "https://envalith.com/ja/companies/3698/overview",
+    "https://digitalpr.jp/r_detail.php?release_id=144695"
+   ]
+  },
+  {
+   "query": "CRI・ミドルウェア 決算説明資料",
+   "results": [
+    "https://www.cri-mw.co.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=3698",
+    "https://www.cri-mw.co.jp/ir/library/",
+    "https://finance.matsui.co.jp/stock/3698/settlement/index",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260806511754",
+    "https://kabutan.jp/stock/finance?code=3698",
+    "https://www.youtube.com/watch?v=H9IXJDd0pgw",
+    "https://kitaishihon.com/company/3698/top",
+    "https://www.cri-mw.co.jp/ir/",
+    "https://irbank.net/3698/ir"
+   ]
+  },
+  {
+   "query": "CRI・ミドルウェア 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/CRI・ミドルウェア",
+    "https://www.cri-mw.co.jp/",
+    "https://www.cri-mw.co.jp/ir/management/medium_term_plan/",
+    "https://www.marr.jp/shared_files/contents/manews/64/64611/64611.pdf",
+    "https://recruit.cri-mw.co.jp/company/business.html",
+    "https://www2.jpx.co.jp/disc/36980/140120250623597016.pdf",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20251105588599/"
+   ]
+  },
+  {
+   "query": "CRI・ミドルウェア 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/CRI・ミドルウェア",
+    "https://www.cri-mw.co.jp/news/info/20659/",
+    "https://www.cri-mw.co.jp/about/profile/",
+    "https://levtech.jp/media/article/interview/detail_697/",
+    "https://www.nikkei.com/article/DGXZQODZ00008_R10C26A9000000/",
+    "https://interview-ir.com/article/425605896.html",
+    "https://recruit.cri-mw.co.jp/interview.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

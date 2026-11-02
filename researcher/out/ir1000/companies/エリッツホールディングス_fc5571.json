@@ -1,0 +1,1636 @@
+{
+ "name": "エリッツホールディングス",
+ "aliases": [],
+ "context": "証券コード5533／不動産業／スタンダード（内国株式）／2025.09期 売上高6,386百万円 営業利益率16.0%",
+ "researched_at": "2026-11-02T18:32:27.491376+00:00",
+ "official_url": "https://www.elitz-holdings.co.jp/",
+ "identified_by": "search:yahoo_jp:エリッツホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2012年3月23日",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "グループ事業内容",
+    "value": "賃貸マンションの仲介・管理 フランチャイズチェーン事業 不動産売買の仲介・不動産販売のコンサルティング 分譲マンションの管理 賃貸マンションの企画・立案・ファイナンシャルプラン 資産活用・相続・事業承継コンサルティング事業 保険代理業 マンスリーマンション運営 テナント仲介 法人社宅サポート 広告事業 ファーム(農業)事業 海外不動産事業(マレーシア) 滞納保証事業 ライフイノベーション事業 ＩＴ開発・システム販売事業 シェアサイクルサービス事業 結婚相手紹介サービス業 不動産特定共同事業(京都府知事第2号) 有料職業紹介事業[26-ユ-300415] 飲食事業 清掃事業 設備管理事業",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "総合不動産業",
+    "url": "https://www.elitz-holdings.co.jp/fund/220322release1.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "448人(グループ全体)",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "293人　2026.10.24現在",
+    "url": "https://www.elitz.co.jp/corporate/corporate.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "不動産小口化商品",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業を開始しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産小口化商品「そなえるファンド京都智恵光院」の販売を開始しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社弁慶ひっこしサービス設立",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エリッツに株式会社弁慶ひっこしサービスが合併",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業スタート",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、1989年7月に現在の「株式会社エリッツ」の前身である「株式会社長栄ホーム」設立以来、『質の高い情報とサービスにより、夢のある住空間とゆとりある生活の実現に貢献する",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "』を経営理念として、不動産仲介事業（賃貸仲介事業、売買仲介事業、賃貸事業、開発事業、海外事業）、不動産管理事業（賃貸マンション・アパート等の管理事業、分譲マンション管理事業）、居住者サポート事業（保険代理店事業、滞納保証事業、入居後サービス事業、コールセンター事業、引越事業、古物・遺品整理事業、シェアサイクル事業）を行ってまいりました",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、会社法、金融商品取引法その他諸法令並びに上場取引所 の「有価証券上場規程」に定める会社情報の適時開示に関する規定（以下、「適時開示規則」といいます",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "10. 入居後サービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "13. 結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業部",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．世界一上質な人づくり、世界一上質な仕組みづくり、世界一上質な商品づくりを行う",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "エリッツホールディングスグループは、質の高い情報とサービスにより、夢のある住空間とゆとりある生活の実現に貢献する",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産賃貸仲介事業 不動産売買仲介事業 不動産賃貸事業 不動産開発事業 海外事業 賃貸マンション・アパート等の管理事業 分譲マンション管理事業 保険代理店事業 滞納保証事業 入居後サービス事業 コールセンター事業 引越事業 古物・遺品整理事業 シェアサイクル事業 結婚相手紹介サービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/contact.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/contact.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "シェアサイクルサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIG損保 商品試験 合格者 4人",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、必要な個人情報の一部または全部を提供されなかった場合は、適切な状態で各種手続きやサービス等を提供できない場合があります",
+    "url": "https://www.elitz-holdings.co.jp/recruit/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2025.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2025.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＴサービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "・当社の事業内容およびサービスに関する財務状況等投資の判断に必要なIR に係るお問い合わせにお応えするため",
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、必要な個人情報の一部または全部を提供されなかった場合は、適切な状態で各種手続きやサービス等を提供できない場合があります",
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "不動産⼩⼝化商品「そなえるファンド京都智恵光院」販売開始のお",
+    "url": "https://www.elitz-holdings.co.jp/fund/220322release1.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗・事務所・",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エリッツキャラクター紹介を掲載しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業を開始しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "（カッコ内は店舗数）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪へ進出 茨木店オープン（10店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "立命館大学前店オープン（20店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フランチャイズ業務開始",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フランチャイズ1号店 近江八幡店オープン",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "二条駅前店オープン（30店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "南草津店オープン（40店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "草津駅前店オープン（50店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "枚方市駅前店オープン（60店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業スタート",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "阪急淡路店オープン（70店舗達成）",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "』を経営理念として、不動産仲介事業（賃貸仲介事業、売買仲介事業、賃貸事業、開発事業、海外事業）、不動産管理事業（賃貸マンション・アパート等の管理事業、分譲マンション管理事業）、居住者サポート事業（保険代理店事業、滞納保証事業、入居後サービス事業、コールセンター事業、引越事業、古物・遺品整理事業、シェアサイクル事業）を行ってまいりました",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "８．保険代理店事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "13. 結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式に関するご紹介およびお届出等は下記へご連絡ください",
+    "url": "https://www.elitz-holdings.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産賃貸仲介事業 不動産売買仲介事業 不動産賃貸事業 不動産開発事業 海外事業 賃貸マンション・アパート等の管理事業 分譲マンション管理事業 保険代理店事業 滞納保証事業 入居後サービス事業 コールセンター事業 引越事業 古物・遺品整理事業 シェアサイクル事業 結婚相手紹介サービス事業",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/contact.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/contact.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "フランチャイズチェーン事業",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業[26-ユ-300415]",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2025.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2025.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター紹介",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "結婚相手紹介サービス業",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "家賃保証代理店契約 ーーーーーーーー te:",
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年度のファーム合宿が終了しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度国立大学入学試験京都大学学生応援活動を行いました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 お取引業者様新年会を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度年間業績達成表彰式(懇親会)を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度のファーム合宿が終了しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度国立大学入学試験京都大学学生応援活動を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 お取引業者様新年会を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度年間業績達成表彰式(懇親会)を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度国立大学入学試験 京都大学学生応援活動",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度懇親会(年間業績達成表彰式)を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月27日の京都新聞に上場の広告を掲載しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度国立大学入学試験日 京都大学学生応援活動を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月28日(土)に資産管理・運用のセミナーを開催致します",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度国立大学入学試験日 京都大学学生応援活動を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度国立大学入学試験日",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年地域別研修会を開催しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度国立大学入学試験日",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年度国立大学入学試験日",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度新卒採用サイトを追加しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度新卒採用サイトを追加しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度新卒採用サイトを追加しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度新卒採用サイトを追加しました",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | エリッツホールディングス",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月12日開催の取締役会において、当社取締役4名、当社子会社取締役5名、当社従業員（主任以上）10名、当社子会社従業員（主任以上）56名に対し、新株予約権(潜在株式数204,600株)を付与いたしました",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月23日です",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月27日",
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月23日",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月24日現在",
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2025.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期",
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月05日",
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月25日",
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月19日",
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月18日",
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ここに謹んでご報告申し上げますとともに、株主の皆様、お取引先様またすべての関係者の皆様の暖かいご支援の賜物と心より感謝申し上げます",
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、テナント部門、法人部門さらには仕入部門も専門特化し、お客様の多様化するニーズに応えてきました",
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ここに謹んでご報告申し上げますとともに、株主の皆様、お取引先様またすべての関係者の皆様の暖かいご支援の賜物と心より感謝申し上げます",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "この度の上場を機に、上場企業としての責任を自覚し、更なる業容の拡大を図るとともに、株主の皆様、お取引先の皆様をはじめすべての関係者の皆様に信頼され、不動産事業を通じて社会・地域に貢献し、ひいては不動産業の地位向上に貢献できるよう役職員一同社業の発展に一層の努力を図る所存でございます",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報及び関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピューターの状況、その他の理由によりウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.elitz-holdings.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、次の者を個人情報の保護管理者として任命し、お客様の個人情報を適切かつ安全に管理し、個人情報の漏えい、滅失または毀損を防止する保護策を講じています",
+    "url": "https://www.elitz-holdings.co.jp/recruit/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、同意を得た利用目的の範囲内で、お客様の情報の全部もしくは一部を他の事業者に委託する場合があります",
+    "url": "https://www.elitz-holdings.co.jp/recruit/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社に個人情報を提供されるかどうかは、お客様の任意によるものです",
+    "url": "https://www.elitz-holdings.co.jp/recruit/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "クッキー（Cookie）は、ご利用者が当社のWEBサイトに再度訪問された際、より便利に当WEBサイトを閲覧していただくためのものであり、プライバシーを侵害するものではありません",
+    "url": "https://www.elitz-holdings.co.jp/recruit/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、次の者を個人情報の保護管理者として任命し、お客様の個人情報を適切かつ安全に管理し、個人情報の漏えい、滅失または毀損を防止する保護策を講じています",
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、同意を得た利用目的の範囲内で、お客様の情報の全部もしくは一部を他の事業者に委託する場合があります",
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社に個人情報を提供されるかどうかは、お客様の任意によるものです",
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "クッキー（Cookie）は、ご利用者が当社のWEB サイトに再度訪問された際、より便利に当WEB サイトを閲覧していただくためのものであり、プライバシーを侵害するものではありません",
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "pass": 1
+   },
+   {
+    "quote": "mm] システム利用者",
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "pass": 2
+   },
+   {
+    "quote": "物件の紹介だけでなく、お客様のライフスタイルや将来の計画にも寄り添うため、店舗では細やかなヒアリングを実施しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、自社開発のCRMシステムを活用して、お客様の要望や過去の相談履歴などをしっかりと蓄積・分析し、より最適な物件やプランを提案できるような仕組みを整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした価値提案を行うことで、地域に根ざした不動産会社としてお客様の満足度向上に努め、結果的には高い契約件数とリピート率を獲得しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "保険代理業やフランチャイズ事業も手がけており、お客様の暮らしと資産を多角的にサポートできる点が強みとなっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに自社で開発したITシステムを活用することで、契約手続きの簡素化や顧客情報の一元管理を実現し、店舗スタッフがより丁寧に接客に集中できる環境をつくっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "そしてITリソースとしての自社開発CRMシステムとRPAの導入は、日々の業務効率を高めるだけでなく、顧客データを細やかに分析し、より最適な提案を実現しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "エリッツホールディングスが顧客と接点を持つチャンネルとしては、大きく分けて直営店舗とオンラインプラットフォームがあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "直営店舗では、お客様が直接スタッフに相談できるため、顔の見える信頼関係を築きやすいのが特徴です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "この複数のチャンネルを柔軟に使い分けることが、より多くのお客様にアプローチしやすくなる要因といえます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係性は、単なる契約や仲介にとどまらず、長期的なサポートを重視しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、不動産取引が一度きりの関係になりがちなところを、引っ越しや住み替え、投資相談などで継続的に接点を持つほうが顧客満足につながると考えているからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、同社のCRMシステムには契約の履歴だけでなく、お客様のライフステージや将来的なニーズなどの情報が蓄積される仕組みが整っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたデータを活用することで、適切なタイミングで新しい住まいの提案を行ったり、保険や管理など別のサービスを提案するなど、より顧客のニーズに沿った対応が可能になります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこの方針をとっているかといえば、賃貸の更新や物件の買い替えなど、人生の大きな節目をサポートする企業として認知されることで、リピーターや口コミによる新規顧客が増えていくからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "長期的な視野に立った顧客ケアこそが、企業としての成長と信頼をもたらします",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは、主に関西エリアで物件を探す個人や法人です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこのように幅広い層を対象にしているかといえば、地域密着の不動産企業として、一度顧客になってもらった人が長年にわたって暮らしのパートナーとして相談に来やすい土壌をつくることが大切だと考えているからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、「エリッツに行けば不動産のことは何でも相談できる」という認識が地域で高まっていき、多彩な顧客セグメントを取り込むことにつながっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこうしたコストをかける必要があるのかといえば、不動産業ではお客様との信頼関係や情報の正確性が非常に重要であり、専門スタッフとITシステムを充実させることで競合と差別化を図るためです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "エリッツホールディングスでは、自社開発のCRMシステムやRPAを活用することで、日々の業務を効率化しながら、お客様のニーズに即した対応を行いやすい体制を整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、顧客データを一元管理するCRMによって提案精度が高まると、契約率が向上し、顧客満足度も上がります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "満足した顧客は口コミやリピート利用を通じて新たな顧客を紹介することが多く、その結果、さらに契約件数や売上高が増加し、企業としての資本や開発投資に余力が生まれます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "この余力をもとに、さらにシステムを強化・拡充し、スタッフ教育や店舗の拡張に投資すれば、また新たな顧客層を取り込むことができるという好循環が生まれます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.elitz.co.jp/corporate/corporate.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般顧客・取引企業400社以上",
+    "url": "https://www.elitz.co.jp/corporate/corporate.html",
+    "pass": 3
+   },
+   {
+    "quote": "「売買×賃貸管理」の融合が成長の鍵 顧客との関係構築を収益機会に",
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストック・オプション",
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "ナーーーーーーーーーーーーーーーーー 仲介手数料一 riled",
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "pass": 2
+   },
+   {
+    "quote": "zi 仲人手数料",
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "pass": 2
+   },
+   {
+    "quote": "【不動産売買仲介事業】 仲介手数料一 (売主・買主)",
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "pass": 2
+   },
+   {
+    "quote": "収益の流れは、主に仲介手数料や管理費、保険手数料などから成り立っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "仲介手数料は賃貸や売買の契約時に発生し、管理費は賃貸管理や分譲マンション管理などのサービス提供で継続的に得られる収益です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "また保険代理業として、火災保険や住まいに関わる各種保険商品を取り扱うことで、手数料を獲得しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "エリッツホールディングスグループ事業系統図",
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社エリッツホールディングスのビジネスモデルが生み出す魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エリッツホールディングスのビジネスモデルが生み出す魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこうした多角的な収益構造が生まれた理由は、一度契約を取りまとめるだけではなく、管理や保険による安定収入を得ることで、企業としての収益基盤を強固にしたいという狙いがあるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、賃貸仲介を基盤にしながらも、マンスリーマンション仲介やテナント仲介、不動産小口化商品などを通じて多角的な収益モデルを構築してきました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "事業多角化が生み出す驚異的なビジネスモデル IR資料と成長戦略で読み解くトラストホールディングスの未来",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カチタスのビジネスモデルが生み出す未来の可能性とは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "サンネクスタグループのビジネスモデルを探る 成長戦略が生み出す未来",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略が光る株式会社テーオーシーのビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力満載 株式会社AMGホールディングスのビジネスモデルで見る成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社トーセイの成長戦略とビジネスモデルの魅力に迫る",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リアルゲイトのビジネスモデルで見る成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェノバの成長戦略がすごい 医療業界を変えるビジネスモデルとは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは、主に関西エリアで物件を探す個人や法人です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、「エリッツに行けば不動産のことは何でも相談できる」という認識が地域で高まっていき、多彩な顧客セグメントを取り込むことにつながっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "保険代理業やフランチャイズ事業も手がけており、お客様の暮らしと資産を多角的にサポートできる点が強みとなっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社エリッツホールディングス — エリッツホールディングスのウェブサイトです。企業情報、グループ事業、エリッツホールディングスの取り組み（CSR活動）、採用情報を提供しています。エリッツホールディングスグループは関西を中心に地域に密着した「住まい」のパートナーとして、地域の発展に貢献していきます。",
+    "url": "https://www.elitz-holdings.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エリッツホールディングスのビジネスモデルが生み出す魅力 | ... — Feb 17, 2025 · こうした主要活動の広がりと効率化への取り組みが、地域における安定したポジションを支えているのです。 リソース エリッツホールディングスが活用しているリソースには、大きく分けて人的リソース、店舗ネットワーク、そしてITの3つがあります。",
+    "url": "https://consovation.com/株式会社エリッツホールディングスのビジネスモ/",
+    "pass": 3
+   },
+   {
+    "quote": "エリッツホールディングス（5533）はどんな会社？事業内容・業績・年... — Dec 24, 2025 · エリッツホールディングス（5533）は不動産業の会社。主な事業は不動産仲介事業・不動産管理事業。2025年9月期は売上64億円・営業利益10億円、平均年収393万円。事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/5533/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業研究】エリッツホールディングスの業績推移から中長期の経営戦... — Dec 24, 2025 · 株式会社エリッツホールディングス（5533）の企業研究。売上・利益・年収・人的資本・有価証券報告書から将来性・財務健康度・就職偏差値をまとめて掲載。",
+    "url": "https://kigyo-scope.jp/company/5533/",
+    "pass": 3
+   },
+   {
+    "quote": "エリッツホールディングス（5533）の事業内容、事業の状況や経営戦略... — 3【事業の内容】 エリッツホールディングスグループは株式会社エリッツホールディングス及び連結子会社6社により構成されており、不動産仲介事業、不動産管理事業、居住者サポート事業を営んでおります。なお、当該3つの事業区分については、「第5 経理の状況 1連結財務諸表等 (1）連結 ...",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=5533",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜エリッツホールディングス — エリッツホールディングスのIRライブラリーをご紹介します。",
+    "url": "https://www.elitz-holdings.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜エリッツホールディングス — Jun 27, 2023 · 株式会社エリッツホールディングスは、2023年6月27日、東京証券取引所スタンダード市場に上場いたしました。 ここに謹んでご報告申し上げますとともに、株主の皆様、お取引先様またすべての関係者の皆様の暖かいご支援の賜物と心より感謝申し上げます。",
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エリッツホールディングス（5533）適時開示・決算短信 一覧｜... — Aug 20, 2026 · 株式会社エリッツホールディングス（5533）の適時開示 5 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/5533/conference",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期第2四半期決算説明資料 2 0 — 資本金 事業内容 連結従業員数 株式会社エリッツホールディングス(Elitz Holdings Co., Ltd.) 京都市中京区堀川通姉小路上る三坊堀川町55番地1エリッツ御池ビル 代表取締役社長 槙野常美",
+    "url": "https://www2.jpx.co.jp/disc/55330/140120250519557445.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エリッツホールディングス 決算説明資料 — EDINET DB — 重要な判断には 元PDFをご確認ください。 株式会社エリッツホールディングスの決算説明資料は、現時点で構造化データが取得できておりません。 (5件のPDFを認識中・順次処理予定) ← 株式会社エリッツホールディングス IR資料一覧に戻る",
+    "url": "https://edinetdb.jp/company/E38634/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報│賃貸のエリッツ5533 エリッツ HD | 事業内容 - 有価証券届出書 (新規公開時)（2023/0...グループ企業一覧│企業情報│賃貸のエリッツ(株)エリッツホールディングス【5533】：企業情報（決算時期・代表者...2026年9月期第2 — エリッツの企業情報や会社概要を紹介しています。 May 22, 2023 · 当社グループは株式会社エリッツホールディングス及び連結子会社6社により構成されており、不動産仲介事業、不動産管理事業、居住者サポート事業を営んでおります。なお、当該3つの事業区分については、「第5 経理の状況1連結財務諸表等 (1)連結財務諸表注記事項」に掲げるセグメントの ... エリッツホールディングスグループの企業を一覧でご紹介します。 18 hours ago · (株)エリッツホールディングス【5533】の決算時期や平均年収、代表者名、",
+    "url": "https://www.elitz.co.jp/corporate/corporate.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)エリッツホールディングス【5533】：企業情報（決算時期・代表者... — 18 hours ago · (株)エリッツホールディングス【5533】の決算時期や平均年収、代表者名、大株主情報、大量保有報告状況、IR動画などの企業情報をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/5533.T/profile",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜エリッツホールディングス — 企業情報 会社概要 トップメッセージ 経営方針 会社沿革 組織図 社名・ロゴマークについて キャラクター紹介 グループ企業一覧 ニュースリリース マンガでわかる！エリッツ グループ事業 賃貸不動産仲介事業 賃貸不動産管理事業 不動産売買事業 分譲マンション管理事業 マンスリー ...",
+    "url": "https://www.elitz-holdings.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "5533 エリッツ HD | 事業内容 - 有価証券届出書 (新規公開時)（2023/0... — May 22, 2023 · 当社グループは株式会社エリッツホールディングス及び連結子会社6社により構成されており、不動産仲介事業、不動産管理事業、居住者サポート事業を営んでおります。なお、当該3つの事業区分については、「第5 経理の状況1連結財務諸表等 (1)連結財務諸表注記事項」に掲げるセグメントの ...",
+    "url": "https://irbank.net/E38634/business?f=S100QSUZ",
+    "pass": 3
+   },
+   {
+    "quote": "Elitz Holdings [5533] Standard IPO - YouTube整備士から上場企業の社長へ。組織崩壊の危機を乗り越えた「DX推進」...不動産業界の常識を変えた、システム活用 仲介メインに管理拡大、営業...エリッツホールディングス 京都、滋賀の賃貸仲介で成長【上場インタビ...トップメッセージ 株式会社エリッツホールディングス 代表取締役 槇野...エリッツ 社長 | 株式会社エリッツ 会社概要 | トップメッセージ 株式...トップメッセージ｜エリッツホールディングス — Jun 27, 2023 · 「新規上場企業トップインタビュー」2023年06月27日、スタンダード市場へ新規上場したエリッツホールディングス 代表取締役社長 槇野常美さんに ... Jan 23, 2026 · 建設・不動産業界 2026年01月23日 株式会社エリッツホールディングス 整備",
+    "url": "https://www.youtube.com/watch?v=We_FRCovn44",
+    "pass": 3
+   },
+   {
+    "quote": "エリッツホールディングス 京都、滋賀の賃貸仲介で成長【上場インタビ... — Oct 5, 2023 · 東証スタンダード市場に、2023年6月に上場したエリッツホールディングス (京都市)は、京都府を中心に滋賀、大阪、奈良、兵庫で賃貸不動産事業を展開する。 23年第3四半期までの通算で、売り上げが43億4000万円、経常利益が8億8800万円だ。",
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ 株式会社エリッツホールディングス 代表取締役 槇野... — しかし、現在エリッツホールディングスグループではこの激動の時代に挑戦し、100年以上継続出来る企業集団を目指している。 では何に取り組み100年企業になるか。 キーワードは「本物」になることだと考える。",
+    "url": "https://www.elitz-holdings.co.jp/recruit/topmessage/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜エリッツホールディングス — 私たちエリッツホールディングスグループでは、100年以上継続できる企業集団作りを目指し、激動の時代に挑戦し、さらなる成長を目指しています。 では何に取り組み100年以上継続できる企業になるか。 キーワードは本物になることだと考えます。",
+    "url": "https://www.elitz-holdings.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "整備士から上場企業の社長へ。組織崩壊の危機を乗り越えた「DX推進」... — Jan 23, 2026 · 建設・不動産業界 2026年01月23日 株式会社エリッツホールディングス 整備士から上場企業の社長へ。組織崩壊の危機を乗り越えた「DX推進」と「目的思考」の真髄",
+    "url": "https://mindmatch.goat-groups.com/3100",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.elitz-holdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/company/corporate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/recruit/form/inquiry/input.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/calendar_2023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/form/inquiry/input.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.elitz-holdings.co.jp/common/info/info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/listing.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/fund/220322release1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/images/snav_business_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/images/title_h2_business_content.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/ir/images/img_business_system_chart.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.elitz-holdings.co.jp/common/images/snav_ir_business_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%83%83%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elitz.co.jp/corporate/corporate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=We_FRCovn44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenchin.com/news/post-8209.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エリッツホールディングス",
+   "results": [
+    "https://www.elitz-holdings.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp105402/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001Cix8f",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5533",
+    "https://herp.careers/careers/companies/elitz",
+    "https://www.elitz-holdings.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/?scode=5533",
+    "https://www.elitz.co.jp/",
+    "https://www.elitz.co.jp/corporate/list.html"
+   ]
+  },
+  {
+   "query": "エリッツホールディングス ビジネスモデル",
+   "results": [
+    "https://www.elitz-holdings.co.jp/",
+    "https://consovation.com/株式会社エリッツホールディングスのビジネスモ/",
+    "https://zukaikeizai.com/kaisha/5533/",
+    "https://kigyo-scope.jp/company/5533/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=5533",
+    "https://kigyobunseki.jp/companies/ds9577/",
+    "https://jobhakase.com/archives/295650"
+   ]
+  },
+  {
+   "query": "エリッツホールディングス 決算説明資料",
+   "results": [
+    "https://www.elitz-holdings.co.jp/ir/library.html",
+    "https://www.elitz-holdings.co.jp/ir/",
+    "https://treelazy.com/stock-jp/5533/conference",
+    "https://www2.jpx.co.jp/disc/55330/140120250519557445.pdf",
+    "https://edinetdb.jp/company/E38634/presentations/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20251118505335/",
+    "https://www2.jpx.co.jp/disc/55330/140120251118505335.pdf"
+   ]
+  },
+  {
+   "query": "エリッツホールディングス 事業系統図",
+   "results": [
+    "https://www.elitz-holdings.co.jp/",
+    "https://www.elitz.co.jp/corporate/corporate.html",
+    "https://finance.yahoo.co.jp/quote/5533.T/profile",
+    "https://www.elitz-holdings.co.jp/company/organization.html",
+    "https://irbank.net/E38634/business?f=S100QSUZ",
+    "https://www.elitz.co.jp/corporate/list.html",
+    "https://tdnet-pdf.kabutan.jp/20260514/140120260513529912.pdf"
+   ]
+  },
+  {
+   "query": "エリッツホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=We_FRCovn44",
+    "https://www.zenchin.com/news/post-8209.php",
+    "https://www.elitz-holdings.co.jp/recruit/topmessage/",
+    "https://www.elitz-holdings.co.jp/company/message.html",
+    "https://mindmatch.goat-groups.com/3100",
+    "https://www.kabutecho.com/interview/不動産業界の常識を変えた、システム活用-仲介メ/",
+    "https://rate.webscoutmarketing.com/エリッツ-社長-株式会社エリッツ-会社概要-トッフ/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像7件／外部4頁・検索5回）"
+ }
+}

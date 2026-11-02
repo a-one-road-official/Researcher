@@ -1,0 +1,1648 @@
+{
+ "name": "網屋",
+ "aliases": [],
+ "context": "証券コード4258／情報・通信業／グロース（内国株式）／2025.12期 売上高5,936百万円 営業利益率17.7%",
+ "researched_at": "2026-11-02T18:22:52.021682+00:00",
+ "official_url": "https://www.amiya.co.jp/",
+ "identified_by": "search:yahoo_jp:網屋",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1996年12月",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "会社の設立はいつですか？",
+    "value": "1996年12月、創業者の伊藤整一が東京都港区にて株式会社網屋を設立しました。",
+    "url": "https://www.amiya.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "サイバーセキュリティ製品/サービスの開発・製造・販売 ICTインフラのクラウドサービスの開発・製造・販売",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容を教えて下さい。",
+    "value": "当社の事業内容につきましては、「 会社概要 」ページをご覧ください。",
+    "url": "https://www.amiya.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "テレビ放送 インターネットサービス IP電話等を事業とするケーブルテレビ局",
+    "url": "https://www.amiya.co.jp/secsup/case/12314/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様のセキュリティの課題を",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "被害者、取引先からの損害賠償金や弁護士費用",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提案する立場",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人 日本情報システム・ユーザー協会（JUAS）",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社網屋（本社）は、2006年2月の情報セキュリティマネジメントシステム（ISMS）「ISO IEC27001」「JIS Q27001」の認証取得を契機として、情報セキュリティの管理・運営に関して継続的に充実を図り、お客様に高品質の製品・サービスを安全に、安定的に提供してまいります",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「SECURE THE SUCCESS」をビジョンに掲げ、お客様のビジネスの成功を守る「安全、安心なセキュリティ情報基盤」を提供しております",
+    "url": "https://www.amiya.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の商品・サービスをご利用頂くお客様の多くは、我が国を代表する大手企業や官公庁です",
+    "url": "https://www.amiya.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や当社などが所有する情報を保護することを目的として、国際規格である「ISO/IEC 27001」認証を取得しています",
+    "url": "https://www.amiya.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.amiya.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗ごとで保有する顧客データ",
+    "url": "https://www.amiya.co.jp/corporate/global/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提案する立場",
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=index",
+    "pass": 1
+   },
+   {
+    "quote": "組織体制や守るべき資産、脅威などを考慮し、お客様にとって最も有効なCSIRTを構築します",
+    "url": "https://www.amiya.co.jp/secsup/news/12388/",
+    "pass": 1
+   },
+   {
+    "quote": "網屋の『CSIRT構築支援サービス』では、有効なCSIRTを構築する為に蓄積された様々なノウハウを活用しながら、次の4つのプロセスを踏み顧客のCSIRT構築を支援していく",
+    "url": "https://www.amiya.co.jp/secsup/case/12314/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提案する立場",
+    "url": "https://www.amiya.co.jp/secsup/case/12314/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様それぞれに最適なCSIRTを構築",
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様状況をヒアリング・分析し、各組織にとって最も効果の高いCSIRT組織をご提案",
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適な構築プロジェクトを",
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提案する立場",
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提案する立場",
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=news",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提案する立場",
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=case",
+    "pass": 1
+   },
+   {
+    "quote": "なお、お客様向け管理コンソール",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様による対応が必要となる場合は、サポートサイト等を通じてご案内いたします",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客情報¥取引先重要顧客リスト.xls",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "12:15:04 amiya¥Sasaki amyfs001 D:¥¥営業部¥重要顧客リスト.xls READ",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に文書でレポート",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ALogをお客様に代わって運用",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一部残存は、特定顧客の追加ライセンス購入",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平均顧客単価",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な理由はコロナ禍の外食/小売り顧客の解約が収束したためです",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その一方で、当社はエンドユーザーの購買決定及び購入時期において直接の関与度が低いため、",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中断や停止等、予測不可能な事由によりシステムがダウンした場合には、お客様へのサービスの",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は事業活動を通じ、取引先の重要情報や個人情報に接する機会を有しており、継続した情報",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "はこのような顧客情報資産の漏洩、紛失、破壊のリスクに対処するために、国際規格である",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しかしながら、当社からお客様の重要情報等が漏えいするよ",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該予想と実際の業績の間には、経済状況の変化や顧客のニーズ及びユーザーの嗜好の変化、他社との競合、",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益モデルの変更は既存顧客離れやフロー収益減少の懸念もあったが、最も恐れた“サブスクリプションの谷“に陥らず、幸いにも顧客も増え、25年12月期第1Qの営業利益は過去最高益となった」",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "――既存顧客には値上げになっていますね",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは大企業や中堅企業が主要な販売先だったが、今後は回線事業者などへの販売網の拡大により、中小企業にも裾野が広がっていく見込みだ」",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「Network All Cloud」は「Verona」、「Hypersonix」およびクラウド情シスサービス「ランサポ」から構成され、当社がお客様に代わりインフラ環境をクラウドから設定・管理・障害対応まで行うため、お客様はIT人材不足の解決や導入・運用コストの大幅な削減が実現できるようになりました",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "これに対して当社のALogは、セキュリティの自動化運用をより簡単に実現することを目指し複雑な設定や操作を必要とせず、直感的に利用できるUIを提供することで、お客様自身がセキュリティ管理を行えるようにしています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークセキュリティ事業：自社製品と顧客ネットワーク",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "このようにトータルソリューションをお客様に提供できるため、複数の製品を個別に購入・導入する手間を省き、コスト削減にも繋がっています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "このように日本における市場では先駆者として全産業向けのサービスでお客様を確実に獲得してきました",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "企業のICT化やIT技術者の人材不足、リモートワークの急速な普及を背景に、お客様のニーズは人手を介さないネットワーク運用とセキュリティ強化だと考えています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで『ALog』をサブスクリプションモデルへ移行することで収益性を改善し顧客の裾野を大企業から中小企業へ、国内から世界へ目を向けて拡販していきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社は総合サイバーセキュリティプロバイダとして、顧客の求めるニーズに対して必要な事業やサービスを拡充していきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのビジネスモデルでは主なお客様は大手企業が中心でした",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし今後はALog Cloudにより当社がお客様のログを収集し、運用代行することが可能となったため、自社での運用が難しかった中堅・中小企業に対しての販売も見込めます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、お客様から単にセキュリティツールを購入するだけではなく、監視・分析などの運用サービス、セキュリティポリシーの策定、さらには社員に対するセキュリティ教育まで、セキュリティに関するあらゆるニーズに対応してほしいという要望が寄せられています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで当社が中堅・中小企業が必要とするセキュリティ運用を包括的に提供する、クラウドCSIRTサービス「セキュサポ」やセキュリティ診断、コンサルティング、セキュリティ教育を提供する「セキュリティサービス」などを提供していくことでお客様のニーズに対してアプローチしていきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、提携事業者とお客様との間の契約締結に関し、代理、斡旋、仲介等の形態を問わず、一切関与しないものとします",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトの利用に関連して、利用者と提携事業者や第三者間で発生した紛争やトラブルについては、当事者間で解決を図るものとし、当社はこれに関して一切の責任を負わないものとします",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスTOP",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス群",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "統合セキュリティサービス",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドCSIRTサービス",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PHPの脆弱性に関する当社製品・サービスへの影響および対応状況のお知らせ",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "網屋「フルマネージドSASE Verona」、NTTPCコミュニケーションズの法人向けインターネット接続サービス「InfoSphere®」との連携販売を強化",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "網屋はセキュリティの製品やサービスを",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス情報セキュリティポリシー",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスTOP",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス群",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "統合セキュリティサービス",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドCSIRTサービス",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス情報セキュリティポリシー",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "関連サービス",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "統合セキュリティサービス",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドCSIRTサービス セキュサポ",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要資料(PDF)を",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "Webには掲載していないサービス詳細や",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュサポの詳細サービス内容がわかる！",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "自社SIEM製品「ALog」を導入し、",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "「内部脅威対策ソリューション市場の現状と将来展望 2025年度」",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "利用しているサービスのパスワードを変更",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "価格・サービス仕様",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "価格・サービス仕様は概要資料に掲載",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "“事業継続”の観点で、セキュリティ体制を強化【松屋】ALog＋運用サービス導入で攻撃に備える",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドCSIRTサービス",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを幅広くラインナップ",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドセキュリティサービス・SOC",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドXDRサービス",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド情シスサービス",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "学術研究・専門技術サービス業",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊業・飲食サービス業",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "生活関連サービス業・娯楽業",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "複合サービス事業",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス業（他に分類されないもの）",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスTOP",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス群",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "統合セキュリティサービス",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドCSIRTサービス",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "03-6822-9995（セキュリティサービス）",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバーセキュリティ製品/サービスの開発・製造・販売",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ICTインフラのクラウドサービスの開発・製造・販売",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "【Winner】 -一般社団法人 情報サービス産業協会「JISA Awards 2020」",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人 情報サービス産業協会（JISA）",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社網屋（本社）は、2006年2月の情報セキュリティマネジメントシステム（ISMS）「ISO IEC27001」「JIS Q27001」の認証取得を契機として、情報セキュリティの管理・運営に関して継続的に充実を図り、お客様に高品質の製品・サービスを安全に、安定的に提供してまいります",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス情報セキュリティポリシー",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスTOP",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティサービス群",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "統合セキュリティサービス",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドCSIRTサービス",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTドコモビジネス株式会社のセキュリティ統合型ネットワークサービス「docomo business RINK®」に「ALog」を提供",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライセンス費・クラウド費0円！UniFiが選ばれる理由6選！",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを抑えつつ月額固定でご提供",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "「ALogシリーズ」主要製品のサブスクリプションライセンスを販売開始",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「セキュサポ」は、予防・検知・対応の各フェーズで必須なセキュリティ運用を月額固定料金で提供する、クラウドCSIRTサービスです",
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=index",
+    "pass": 1
+   },
+   {
+    "quote": "サイバー攻撃・内部不正の監視や脆弱性診断、事件時の原因特定や影響範囲の調査、日ごろのセキュリティ相談の窓口など、サイバーセキュリティの専門チームが、貴社のセキュリティ対策に求められる包括的な対応を月額固定料金で提供します",
+    "url": "https://www.amiya.co.jp/secsup/news/12388/",
+    "pass": 1
+   },
+   {
+    "quote": "「セキュサポ」は、予防・検知・対応の各フェーズで必須なセキュリティ運用を月額固定料金で提供する、クラウドCSIRTサービスです",
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=news",
+    "pass": 1
+   },
+   {
+    "quote": "「セキュサポ」は、予防・検知・対応の各フェーズで必須なセキュリティ運用を月額固定料金で提供する、クラウドCSIRTサービスです",
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=case",
+    "pass": 1
+   },
+   {
+    "quote": "ALogサブスク本格化",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国産サブスクベンダーならではの『高利益』と『安定収益』",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスク谷越えで",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ALogのサブスク化から18か月が経過し、「売上減衰期」から「利益堆積期」に移行",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスク収益が顕在化",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクによる利益均衡が顕在化",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "完全サブスク化したDS事業は同＋43％",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ALogオールサブスク化",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オールサブスク化により、年間一括払いによるキャッシュイン(BS上の契約負債)が前期比+38%",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスク（ライセンス）",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスク（セキュリティサービス）",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旧体系（ライセンス）",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旧体系（保守）",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクへのシフトが予定以上に早く進捗",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "した売上ラインを既に超過し、サブスクの谷越えが明示的に",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以降はARR(サブスク確定収益)の堆積へ",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FY2024Q2より完全サブスク以降したため、新規受注は原則サブ",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一部残存は、特定顧客の追加ライセンス購入",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規受注におけるサブスク比率",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "| サブスク黎明期を越え、従前のフロー売上以上に",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旧体系ライセンス サブスクリプション",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ALog関連売上 新規サブスク比率",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力製品のサブスク化で従来収益を10倍に",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来は少額保守金額の積上げ",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "解約率も高かった",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特にデータセキュリティ事業は一昨年に収益モデルをライセンス販売からサブスクリプションに転換したことで解約率が従来の14%から0.6%に激減するなど“サブスクの谷”を乗り越えて成果を伸ばしている",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "――データセキュリティの収益モデルをサブスクリプションに変えた効果は",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「サブスクリプションモデルへの移行は昨年4月に本格的に開始した",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のライセンス販売と比較して解約率が14%から0.6%に低下、これによりライフタイムバリューが増加し、収益性が大きく向上した",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルの変更は既存顧客離れやフロー収益減少の懸念もあったが、最も恐れた“サブスクリプションの谷“に陥らず、幸いにも顧客も増え、25年12月期第1Qの営業利益は過去最高益となった」",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは「売り切りのライセンス販売＋月額保守」の販売体系でしたが、2023年2月の「ALog Cloud」のリリースより月額基本利用料金をベースとするサブスクリプションモデルにシフトしています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで『ALog』をサブスクリプションモデルへ移行することで収益性を改善し顧客の裾野を大企業から中小企業へ、国内から世界へ目を向けて拡販していきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "ALogサブスクリプションモデルによる収益性改善",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月にリリースされたALog Cloudに続き、2024年4月1日にはALogオンプレミス版のサブスクリプションモデルをリリースしました",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは、ライセンスを一度購入すると更新時に再購入の必要がなく、月額の保守料のみでサービスを継続できるというモデルでした",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "これからはサブスクリプション契約のみを提供していくことでストック収益を安定的に積み上げていきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "更なる拡販とストック収益の積み上げが期待できます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "ALogのサブスクリプションモデルへの移行に注目していただきたいです",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は収益性が大幅に高くなり、ストック収益を積み上げていくビジネスモデルに切り替えていくことで更なる安定した経営を実現していきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトに掲載される他社の商品に関する情報に関しては、最大限の注意を払っておりますが、金利、手数料、その他商品情報の完全な正確性や信頼性を保証するものではありません",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年12月10日(木)",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月17日(火)",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日(水) 〜 12日(木)",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月09日(月)",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月04日(水)",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年12月",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "平成31年3月29日",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 会社情報 | 株式会社 網屋",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期",
+    "url": "https://www.amiya.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.amiya.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期（実績）",
+    "url": "https://www.amiya.co.jp/ir/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.amiya.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年12月、創業者の伊藤整一が東京都港区にて株式会社網屋を設立しました",
+    "url": "https://www.amiya.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月22日に上場しました",
+    "url": "https://www.amiya.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 10月 27日",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 21日に公表された PHPの脆弱性（CVE-2026-109618／CVE-2026-",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 22日 16時 初版を公開",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 22日 18時 Hypersonixハイセキュアタイプの影響および対応状況を更新",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 23日 10時 Hypersonixスタンダードタイプのアラート機能に関する対応状",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 27日 10時 Hypersonixハイセキュアタイプの暫定対策およびサービス再開",
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月27日",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度」2023年1月 発刊",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年末より開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年末より拡大",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 19校 31名",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 7校 13名",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 3校 8名",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度 2校 4名",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年度 2校 5名",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1996年12月 東京都港区六本木に企業LAN/WANネットワークの設計・構築事業を行う「株式会社網屋」を設立",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1998年6月 事業拡大のため、東京都中央区日本橋蛎殻町へ本社を移転",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1999年1月 米国Lucent社のIPアドレス管理ツール『QIP』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2005年9月 サーバアクセスログ製品『ALog ConVerter』を開発・販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2006年2月 事業拡大のため、東京都中央区新川へ本社を移転",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2006年5月 『ALog ConVerter for NetApp/EMC』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年5月 『ALog ConVerter for Database』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年11月 クラウドVPNサービス『Verona』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2011年6月 大阪営業所を開設",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012年6月 台湾網屋股份有限公司を設立",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012年7月 リモートアクセス『Verona V-Client』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年2月 『Verona』が日本テレワーク協会主催のテレワーク推進賞の「優秀賞」を受賞",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年8月 クラウド無線LANサービス『Hypersonix』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年10月 経済産業省/内閣府/総務省の情報化月間推進会議で、ALog ConVerterが「経済産業大臣表彰」を受賞",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年8月 事業拡大のため、東京都中央区日本橋浜町に本社を移転",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年8月 統合ログ製品『ALog EVA』を販売開始",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年５月１日",
+    "url": "https://www.amiya.co.jp/assets/ir/disposal_of_treasury_stock_20260501.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月27晶",
+    "url": "https://www.amiya.co.jp/wp-content/themes/Ami-CorporateWeb/assets/old/images/ja/ir/news/business-plan-2026.webp",
+    "pass": 2
+   },
+   {
+    "quote": "2025年8月29日",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月にリリースされたALog Cloudに続き、2024年4月1日にはALogオンプレミス版のサブスクリプションモデルをリリースしました",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期はセグメント売上を前期比31％増と見込んでおります",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期はALogの収益構造の拡大に注力し、中期経営計画の達成を目指してまいります",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "価格等を詳しくご紹介しています",
+    "url": "https://www.amiya.co.jp/secsup/",
+    "pass": 1
+   },
+   {
+    "quote": "【戦略優秀パートナー賞】 -台湾経済部「IPO Awards 2014」",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "富士通ミドルウェア(株)と「ALogシリーズ」の販売代理店契約を締結",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾政府経済部主催「IPO Awards 2014」で「戦略優秀パートナー賞」受賞",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)日立ソリューションズと「ALogシリーズ」の販売代理店契約を締結",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電気(株)と｢ALog ConVerter」の販売代理店契約を締結",
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗ごとで保有する顧客データ",
+    "url": "https://www.amiya.co.jp/corporate/global/",
+    "pass": 1
+   },
+   {
+    "quote": "価格等を詳しくご紹介しています",
+    "url": "https://www.amiya.co.jp/secsup/news/12388/",
+    "pass": 1
+   },
+   {
+    "quote": "価格等を詳しくご紹介しています",
+    "url": "https://www.amiya.co.jp/secsup/case/12314/",
+    "pass": 1
+   },
+   {
+    "quote": "Webには掲載していないサービス概要や、サービスラインナップ、価格等を詳しくご紹介しています",
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "pass": 1
+   },
+   {
+    "quote": "ご支援内容、価格等を詳しくご紹介しています",
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売網強化と売上増幅",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規上場紹介",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "全国に強い販売網がある会社と協業することで、特に中小企業に販路が拡大すると期待している",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは大企業や中堅企業が主要な販売先だったが、今後は回線事業者などへの販売網の拡大により、中小企業にも裾野が広がっていく見込みだ」",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "多拠点・多店舗を有する企業、教育機関、医療機関などを中心に、4,800社に導入し、契約末端接続台数は178万台を突破しています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "売上24.8億円、売上総利益14.1億円、セグメント利益10.2億円",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上34.5億円、売上総利益14.2億円、セグメント利益10.0億円",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年12月期はセグメント売上を前期比31％増と見込んでおります",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちの強みは、",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は11％",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率(OPM) 11.0% 10.4% 17.4% ー 17.7% +6.7pt",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上のようなALogの製品力が強みだと考えています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの社会的なニーズこそが「Network All Cloud」の強みとなっています",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社情報 | 株式会社 網屋 — 会社情報 | 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp > corporate",
+    "url": "https://www.amiya.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "4258 網屋 オールサブスクへ転換後も受注好調 アナリスト ... — 4258 網屋 オールサブスクへ転換後も受注好調 アナリスト ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/oh_no/n/nc2f0977e6502",
+    "pass": 3
+   },
+   {
+    "quote": "網屋 、5期連続増収増益・ARR29%増 新中計ではM&A推進や ... — 網屋 、5期連続増収増益・ARR29%増 新中計ではM&A推進や ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383860",
+    "pass": 3
+   },
+   {
+    "quote": "網 屋 — 網 屋 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260212/20260212557781.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | IRライブラリー | IR情報 | 株式会社 網屋 — 決算説明資料 | IRライブラリー | IR情報 | 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp > IR情報 > IRライブラリー",
+    "url": "https://www.amiya.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 網屋 — IR情報 | 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp > ...",
+    "url": "https://www.amiya.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 網屋 IR】2026年12月期 第1四半期 決算 を発表 - note — 【 網屋 IR】2026年12月期 第1四半期 決算 を発表 - note note https://note.com > ビジネス > 会計・財務・経理",
+    "url": "https://note.com/vast_sedum756/n/ne83d44d51984",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 株式会社 網屋 — 決算説明 会 資料 株式会社 網屋 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260812/20260812518257.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | IR情報 | 株式会社 網屋 — よくあるご質問 | IR情報 | 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp > IR情報",
+    "url": "https://www.amiya.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社 網屋 — 会社概要 | 会社情報 | 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp > 会社情報",
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 | 会社情報 | 株式会社 網屋 — 役員紹介 | 会社情報 | 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp > 会社情報",
+    "url": "https://www.amiya.co.jp/corporate/management_board/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 網屋 — 株式会社 網屋 株式会社 網屋 https://www.amiya.co.jp",
+    "url": "https://www.amiya.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー 網屋 石田晃太代表取締役 社長 NTT ... — トップ インタビュー 網屋 石田晃太代表取締役 社長 NTT ... 日本証券新聞 https://www.nsjournal.jp > トップインタビュー　網屋　石...",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "【4258】株式会社 網屋 事業概要と成長戦略に関するIR ... — 【4258】株式会社 網屋 事業概要と成長戦略に関するIR ... invest-n.jp https://invest-n.jp > ...",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ企業「 網屋 」との資本業務提携 — サイバーセキュリティ企業「 網屋 」との資本業務提携 エイチ・シー・ネットワークス株式会社 https://www.hcnet.co.jp > ニュースリリース",
+    "url": "https://www.hcnet.co.jp/news/news2025111301.html",
+    "pass": 3
+   },
+   {
+    "quote": "網屋 ｜投資家様向け会社紹介動画 - YouTube — 網屋 ｜投資家様向け会社紹介動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=qPozGz8SUGU",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "特にデータセキュリティ事業は一昨年に収益モデルをライセンス販売からサブスクリプションに転換したことで解約率が従来の14%から0.6%に激減するなど“サブスクの谷”を乗り越えて成果を伸ばしている",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "――データセキュリティの収益モデルをサブスクリプションに変えた効果は",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルの変更は既存顧客離れやフロー収益減少の懸念もあったが、最も恐れた“サブスクリプションの谷“に陥らず、幸いにも顧客も増え、25年12月期第1Qの営業利益は過去最高益となった」",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "創業から現在のビジネスモデルに至るまで",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのビジネスモデルでは主なお客様は大手企業が中心でした",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は収益性が大幅に高くなり、ストック収益を積み上げていくビジネスモデルに切り替えていくことで更なる安定した経営を実現していきます",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期はALogの収益構造の拡大に注力し、中期経営計画の達成を目指してまいります",
+    "url": "https://invest-n.jp/ir/30739/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amiya.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/secsup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/library/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/stock/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/esg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/contact/?inflow=tem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/corporate/global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/corporate/environmental_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=index",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/secsup/news/12388/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/secsup/case/12314/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/nature/csirt_buildup_support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amiya.co.jp/secsup/documents/request/?item=cloud_csirt&series=secsup&service=series&inflow=case",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.amiya.co.jp/assets/news/doc_news_20261022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amiya.co.jp/assets/ir/financial_results_2026_Q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amiya.co.jp/assets/ir/business-plan-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amiya.co.jp/assets/ir/disposal_of_treasury_stock_20260501.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amiya.co.jp/wp-content/themes/Ami-CorporateWeb/assets/old/images/ja/ir/news/business-plan-2026.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amiya.co.jp/wp-content/themes/Ami-CorporateWeb/assets/new/images/ja/figure_nature_cbs-feature-model-1.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amiya.co.jp/wp-content/themes/Ami-CorporateWeb/assets/new/images/ja/figure_nature_cbs-feature-model-2.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://pages.awscloud.com/rs/112-TZM-766/images/AMIYA_SaaSonAWS2022_Day1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invest-n.jp/ir/30739/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "網屋",
+   "results": [
+    "https://www.amiya.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E7%B6%B2%E5%B1%8B",
+    "https://www.youtube.com/channel/UCOwmdNWNzC9GgtIKKMx3QTA",
+    "https://kabutan.jp/stock/?code=4258",
+    "https://www.nikkei.com/nkd/company/?scode=4258",
+    "https://ja.wikipedia.org/wiki/網屋",
+    "https://zh.wikipedia.org/wiki/樂屋網",
+    "https://finance.yahoo.co.jp/quote/4258.T",
+    "https://www.rakuya.com.tw/",
+    "https://www.591.com.tw/"
+   ]
+  },
+  {
+   "query": "網屋 ビジネスモデル",
+   "results": [
+    "https://pages.awscloud.com/rs/112-TZM-766/images/AMIYA_SaaSonAWS2022_Day1.pdf",
+    "https://www.amiya.co.jp/corporate/",
+    "https://note.com/oh_no/n/nc2f0977e6502",
+    "https://finance.logmi.jp/articles/383860",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260212/20260212557781.pdf",
+    "https://kabukiso.com/syuzai/kaisya/amiya.html",
+    "https://www.amiya.co.jp/corporate/profile/",
+    "https://www.youtube.com/watch?v=oZDN3WTxSrg",
+    "https://invest-n.jp/ir/30739/",
+    "https://www.amiya.co.jp/"
+   ]
+  },
+  {
+   "query": "網屋 決算説明資料",
+   "results": [
+    "https://www.amiya.co.jp/ir/library/presentation/",
+    "https://www.amiya.co.jp/ir/",
+    "https://note.com/vast_sedum756/n/ne83d44d51984",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260812/20260812518257.pdf",
+    "https://www.amiya.co.jp/ir/faq/",
+    "https://incdesign.jp/ir_work_250701/",
+    "https://www.youtube.com/playlist?list=PLjYVtUvv1VeIyscW-UHZ9pg2vD-SDB2Ld",
+    "https://kitaishihon.com/company/4258/ir-meeting",
+    "https://edinetdb.jp/company/E37160/presentations/",
+    "https://www2.jpx.co.jp/disc/42580/140120260812518257.pdf"
+   ]
+  },
+  {
+   "query": "網屋 事業系統図",
+   "results": [
+    "https://www.amiya.co.jp/corporate/profile/",
+    "https://www.amiya.co.jp/corporate/",
+    "https://www.amiya.co.jp/corporate/management_board/",
+    "https://www.amiya.co.jp/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260212/20260212557781.pdf",
+    "https://www.amiya.co.jp/corporate/access/",
+    "https://www.youtube.com/watch?v=oZDN3WTxSrg",
+    "https://www.amiya.co.jp/ir/management/governance/",
+    "https://note.com/vast_sedum756/n/ne83d44d51984",
+    "https://vizora.meequs.com/ja/company/amiya"
+   ]
+  },
+  {
+   "query": "網屋 社長 インタビュー",
+   "results": [
+    "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E7%B6%B2%E5%B1%8B%E3%80%80%E7%9F%B3%E7%94%B0%E6%99%83%E5%A4%AA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9/",
+    "https://invest-n.jp/ir/30739/",
+    "https://www.amiya.co.jp/corporate/management_board/",
+    "https://www.hcnet.co.jp/news/news2025111301.html",
+    "https://www.youtube.com/watch?v=qPozGz8SUGU",
+    "https://kitaishihon.com/company/4258/board-of-director",
+    "https://www.ntt.com/about-us/press-releases/news/article/2025/0514.html",
+    "https://keiei.freee.co.jp/articles/i0102097",
+    "https://www.youtube.com/channel/UCOwmdNWNzC9GgtIKKMx3QTA",
+    "https://www.linkedin.com/posts/yukihide-taira-b5b926153_4258株式会社網屋事業概要と成長戦略に関するirインタビュー-activity-7183077563483799552-ec5Q"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像7件／外部3頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像7件／外部3頁・検索5回）"
+ }
+}

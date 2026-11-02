@@ -1,0 +1,1401 @@
+{
+ "name": "ジーデップ・アドバンス",
+ "aliases": [],
+ "context": "証券コード5885／卸売業／スタンダード（内国株式）／2026.05期 売上高6,949百万円 営業利益率16.1%",
+ "researched_at": "2026-11-02T18:34:24.074808+00:00",
+ "official_url": "https://www.gdep.co.jp/",
+ "identified_by": "search:ddgs:bing:ジーデップ・アドバンス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年 1月15日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "AI（ディープラーニング）用サーバー、エッジデバイスの開発・製造・販売及び輸出入 HPC（ハイパフォーマンスコンピューティング）マシンの開発・製造・販売及び輸出入 映像編集、CG製作、VRに特化したグラフィックワークステーションの開発・製造・販売及び輸出入 ビッグデータ用高速大容量ストレージの開発・製造・販売及び輸出入 顧客リクエストの仕様に基づいたオーダメイドシステムの構築と運用支援 AI及びHPCクラウドサービスの提供 上記に伴うソリューションの提供",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "34億9117万7000円 （2022年5月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "6,630 - 6,949 - +318 +4.8%",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "6,949 - 7,308 - 95.1% 6,949 - 100.0%",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "6,630 6,949 8,415 8,840",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "6,949 - 8,840 - +1,890 +27.2%",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客リクエストに基づいたシステムの構築と運用支援",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルソリューションとして導入から運用までワンストップでお客様のデマンドにお応えします",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ビジネスを強力にサポートいたします",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全てのお客様対象",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客リクエストの仕様に基づいたオーダメイドシステムの構築と運用支援",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、売上の約9割を占める「DXサービス」が堅調に推移し、リピート率約9割という強固な顧客基盤を維持しています",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題に対しPoCから実装運用までEnd to End でソリューションを提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "4期連続取引をしている顧客は毎年増加、引き続き強固な顧客基盤を形成中",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "常に最新のアーキテクチャを提供できるケーパビリティと、卓越したCXでPoCから実運用まで顧客に並走",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客単価の段階的向上",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "引き続き上位レイヤーへのポートフォリオの拡充を図り、幅広いユーザーニーズに対応シームレスなアップセル・クロスセルを促進する",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題をヒアリングし、先端技術を用いた独自のソリューションを企画・提案・提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "得られた知見を同様の課題を抱えているお客様に対する",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "Service＆Supportによる顧客継続性",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の課題解決のためのベストソリューションを設計・提案",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の課題に応じたオリジナルモデルの設計・提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "フロービジネスとなるオンプレミスだけでなく、ストックビジネスであるクラウド、レンタルサービスまで、多様な顧客ニーズに対応可能な柔軟な提供形態",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の利便性を高め、開発用のクラウドとして高い競合優位性を確立",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "仮想化環境を介して運用1つのリソースを複数ユーザーで共有",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "③ Service＆Supportによる顧客継続性",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアチューニングによる性能変化を実機検証し、お客様のシステムを常に最適な環境に更新",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "導入後の利用価値向上（ユーザーエクスペリエンス）を実現",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のアイデアやコンセプトをヒアリングし最適なアプローチ方法を模索",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "スモールマス展開時のペルソナ（仮想顧客）を選定し、将来の拡販ターゲットを明確にする",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータシステムを利用者側で保有・運用すること",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "それ以前は、半導体メーカーのIntelの国内パートナーとして活動し、大学や研究機関を主なお客様としていました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "この製品は、AI研究者や開発者がすぐにディープラーニングを始められるオールインワンのソリューションとして設計され、多くの法人顧客からの反響がありました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、法人顧客が急増したことで、当社の事業は大学や研究機関を中心とする従来の取引から、民間企業との取引へと広がりました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社のお客様を獲得する方法は3つのチャネルを中心に展開しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会やセミナーを通じて直接お客様からお問い合わせをいただく場合、メーカーからのご紹介を受ける場合、そして販売パートナーからの紹介による場合です",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "この多角的なアプローチにより、新規顧客の獲得と事業拡大を進めています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、当社はお客様のニーズに応じた多様な提案が可能です",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社はお客様のニーズに応じて柔軟にソリューション提供の形態を変化させています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "一度販売したら終わりではなく、お客様が継続的に利用できるように伴走支援を行う点も、当社の特徴的な取り組みの一つです",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に当社は既製品をそのまま提供するのではなく、お客様の課題解決に貢献するために独自の知見を活かしたカスタマイズを施しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした展開を可能にするために、開発の初期段階でペルソナ（具体的な顧客像）を設定し、最適なソリューションを設計することを重視しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの普及に伴い、当社のお客様の業界構成は大きく変化しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは製造業のお客様が最も多く、主に外観検査や不良品の選別といった生産工程においてAIが活用されてきました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、業界構成が変化する中で、お客様のニーズもますます多様化しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "市場のAI進化に対応するためにも、当社ではこのような大規模なAIシステムをお客様に適切に提供できるよう、技術スキル、調達能力、提供能力の向上に取り組んでいます",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの課題を解決するため、当社は国内のデータセンターと提携し、お客様が大規模AIシステムを安定して稼働させられる環境を整えるトータルソリューションを提供しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、多様なニーズに柔軟に対応しながら、ユーザーニーズに適切に対応できる準備を進めています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な知見を基に、お客様に最適な提案を行い、課題解決に向けたソリューションを提供しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "一度製品が完成したら、まずお客様に使っていただき、その過程で小さなトラブルが発生した場合にはお客様と共に迅速に改善していく姿勢を持っています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "この変化は他の業界にも広がりつつあり、製品を提供した後もお客様と共にアップグレードを続けていくことが、これからのビジネスの主流になると考えています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、お客様にも当社との関わりを通じて少しでもその「ワクワク感」を感じていただけていると信じています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、提携事業者とお客様との間の契約締結に関し、代理、斡旋、仲介等の形態を問わず、一切関与しないものとします",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトの利用に関連して、利用者と提携事業者や第三者間で発生した紛争やトラブルについては、当事者間で解決を図るものとし、当社はこれに関して一切の責任を負わないものとします",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "GDEP ジーデップ・アドバンス AI,ビジュアライゼーション,HPCのソリューションプロバイダ",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションラインナップ",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名・スペックから検索",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA ソリューション",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルソリューション",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウェアソリューション",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ストレージ・ソリューション｜ AI高性能ストレージ",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド・レンタルサービス",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "GX CLOUD｜ 占有型クラウドサービス",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "話題のキャンペーンや新製品",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Sim2Realソリューション",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションビジネスを展開しています",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI（ディープラーニング）用ソリューションの提供",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "XR、メタバース向けビジュアライズ用ソリューションの提供",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビッグデータ用高速大容量ストレージソリューションの提供",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIによって革新的な映像サービスを生み出すEmbodyMeは、映像の未来を切り開くためにチャレンジし続けるスタートアップ",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA最新GPUトライアルサービス",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルソリューションとして導入から運用までワンストップでお客様のデマンドにお応えします",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションラインナップ",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名・スペックから検索",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA ソリューション",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルソリューション",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウェアソリューション",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "ストレージ・ソリューション｜ AI高性能ストレージ",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド・レンタルサービス",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "GX CLOUD｜ 占有型クラウドサービス",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ジーデップ・アドバンス（東証スタンダード、証券コード：5885）は、「Advance with you」をミッションに、GPGPUをはじめとするアクセラレーターやハイエンドワークステーション、広帯域ネットワークや高速ストレージを用いたクラスターシステム、さらにライブラリやコンパイラ、ジョブスケジューラなどの運用ツールの提供構築から運用支援まで、仕事や研究を前に進めるための手段をオンプレミスやレンタル、クラウドなどあらゆる形態で総合的に提供するAIとビジュアライゼーションのソリューションプロバイダです",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "※記載されている会社名、製品名等は各社の登録商標あるいは商標です",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "AI及びHPCクラウドサービスの提供",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "上記に伴うソリューションの提供",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "）とビジュアライゼーションのソリューションプロバイダーである",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "サーバー、AIワークステーション、メタバースシステムの開発、販売・ソリューション提供を主要事業としている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "などのプロビュジュアライゼーションをターゲットとしたINTEL社、NVIDIA社、AMD社、XILINX社の製品を活用したサーバー、ワークステーション、高速ストレージの開発販売及びソリューション提供を行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "を実現するNVIDIA社製アプライアンスサーバー「DGX-2」を用いた「GDEP DGXクラウド」をはじめ、最先端の演算リソースのサービス提供も行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2019年5月 - NVIDIA社製DGX-2を利用したハイグレードクラウドサービスの提供開始を発表",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "期初は大型案件の停滞があったものの、PoC（概念実証）からミドルレイヤーの高付加価値ソリューションへの注力が奏功し、売上総利益率の向上と営業増益を実現しました",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、売上の約9割を占める「DXサービス」が堅調に推移し、リピート率約9割という強固な顧客基盤を維持しています",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "DXサービス",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "リカバリー策としてPoCからミドルレイヤーの高付加価値ソリューションの販売に注力",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "世界の最先端技術をソリューションに変える力でAI開発のPoCから実運用まで並走",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題に対しPoCから実装運用までEnd to End でソリューションを提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "ビジュアライズソリューション",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "最新のXRやメタバースなど可視化や仮想化及び、 CAD,CAE,CGなど設計やデザインのためのシステムやソフトウェアツーの提供その他ソリューションサービス",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションサービス",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "トップラインリカバリー策の高付加価値ソリューションが売上に貢献",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "案件規模の大型化と提供する製品ポートフォリオの拡大に伴い、過去の期と比較し、四半期ごとの変動が生じる傾向がより顕著になっている",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "DXサービスが売上の9割を占める",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "両サービスともに好調に推移",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "期初においてトランプ関税を意識した案件停滞が発生したため大型案件は伸び悩んだものの、リカバリー施策として展開したPoCからミドルレイヤーの高付加価値ソリューションが売り上げに大きく寄与した",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "専任エンジニアおよびソリューションアーキテクトを結集した「AI Factoryチーム」を発足",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIに対するPoCソリューション「ROBODEV」をマクニカ社と共同開発",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発のためのツールをソリューションとして提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドベンダーやデータセンターと提携しオンプレミスとクラウドのハイブリッド利用を促進また、AIスタートアップとのコラボソリューションもラインナップ",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "先進的なソリューションを提供する「アドバンスドソリューションベンダー」を目指す",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "トップラインの大幅成長により中長期的に100億円突破を目指すAIとビジュアライズソリューションのNo.1カンパニーへ",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "システムインキュベーション事業の単一セグメント、その中にDXサービスとService&SupportのサービスDXサービスの主な提供内容はAIソリューションとビジュアライズソリューション",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "AI学習環境システムや、推論用エッジデバイスをエンドツーエンドで提供ビジュアライズソリューション",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "認定パートナー",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルコンピューティングカンパニーの認定パートナーとして新しいテクノロジーをいち早く吸収し、",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・パートナーシップによって",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期モデル - 標準仕様なら最短5営業日で出荷 – | NVIDIA認定パートナー【ジーデップ・アドバンス】",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "※2026年9月末まで、アカデミック・インセプションパートナー向けに「",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "インセプションパートナー対象",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA社の「NPN（NVIDIAPartner Network）」においてエリートパートナーとして活動しています",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "pass": 1
+   },
+   {
+    "quote": "社のエリートパートナーであり、AI（",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2016年1月 - NVIDIA社のパートナー認定制度NPN (NVIDIA Partner Network)において、AIおよびHPC（HighPerformance Computing）の分野で国内で初めて「Elite(最上位)レベル」に認定",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルプロセッサメーカーからのパートナー認定",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "・パートナー企業のセミナー受講による先端技術の知識獲得",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "指名・報酬委員会",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "指名報酬委員会",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "DATACenterセールスパートナー",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "特にNVIDIAは2007年から良好な関係を構築している国内トップクラスのパートナー",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルプロセッサメーカー3社の認定パートナーとしての技術力と、グローバルベンダーとの綿密な",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "それ以前は、半導体メーカーのIntelの国内パートナーとして活動し、大学や研究機関を主なお客様としていました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "その高い技術力と製品力に魅了され、NVIDIA製品の取り扱いを開始し、翌年にはパートナー認定を受けました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "このパートナーシップは現在まで続いており、当社の事業基盤を支える重要な関係性となっています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会やセミナーを通じて直接お客様からお問い合わせをいただく場合、メーカーからのご紹介を受ける場合、そして販売パートナーからの紹介による場合です",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、NVIDIAのパートナーとして国内最高レベルの認定を受けており、さらにIntel、AMD、XILINXといった主要なプロセッサメーカーからもパートナー認定を取得しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でこの4社から同時にパートナー認定を受けている企業は当社だけであり、この点が当社の技術力の高さを示しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、NVIDIAに関してAI、メタバース、ビジュアライゼーション（CADなどの用途）といった特定分野ごとにパートナー認定を受けています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、グローバルなビジネスパートナーとの連携を活かし、ハードウェアとソフトウェアの統合的な活用を推進しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社はエコシステムの構築において、さまざまなパートナー企業と連携しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした体制は、NVIDIAをはじめとするメーカーとの連携を軸に、他社とも等距離でのパートナーシップを築くことで実現しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、そのNVIDIAと長年にわたる歴史的な繋がりを持ち、国内で最もプレゼンスの高いパートナー企業であると自負しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションサービス",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "ストックビジネス",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "顧客単価の段階的向上",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "DXサービスのうちサブスクリプションサービス及びService&Supportはストックビジネス",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションサービス• 自社内で利用するオンプレミスによる提供の他に、レンタルやクラウドなどを「サブスクリプションサービス」として提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア保守• Q&A、FAQ共有、障害切り分け、オンサイトサポート、代替え環境などを提供",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "フロービジネスとなるオンプレミスだけでなく、ストックビジネスであるクラウド、レンタルサービスまで、多様な顧客ニーズに対応可能な柔軟な提供形態",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は、システムの保守、運用支援、さらには性能向上をサポートするService & Supportです",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社はハードウェア・ソフトウェアの取り扱いだけでなく、導入後の保守・運用支援にも重点を置いています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトに掲載される他社の商品に関する情報に関しては、最大限の注意を払っておりますが、金利、手数料、その他商品情報の完全な正確性や信頼性を保証するものではありません",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2022年12月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月30日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2016年1月 - GPUコンピューティング市場の急速な拡大に伴い、株式会社GDEPアドバンスを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2016年1月 - NVIDIA社のパートナー認定制度NPN (NVIDIA Partner Network)において、AIおよびHPC（HighPerformance Computing）の分野で国内で初めて「Elite(最上位)レベル」に認定",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2016年4月 - ディープラーニング用スーパーコンピューター「NVIDIA DGX-1」の取り扱いを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2017年6月 -「NVIDIA DGXシリーズ ベストリセラーアワード FY17」を受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月 - NVIDIA社の「ATP (Advanced Technology Partner)」に国内で初めて認定",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月 - ディープラーニング用スーパーコンピューター「NVIDIA DGX-2」の取り扱いを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2018年6月 -「NVIDIA DGXシリーズ ベストリセラーアワード FY18」を受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2019年5月 - NVIDIA社製DGX-2を利用したハイグレードクラウドサービスの提供開始を発表",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2019年8月 - NVIDIA認定",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2019年9月 - テクノスデータサイエンス・エンジニアリングとディープラーニングビジネスの成長促進を目的に提携",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月 - XILINX社とALVEO Value Added Reseller (VAR) 契約を締結",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2020年4月 - 会社名を株式会社ジーデップ・アドバンスへ変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月 - インテル®テクノロジー・プロバイダー最高位の「Titanium」に認定",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2016年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2023年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期の業績予想については、政府のAI関連予算拡大を追い風に、売上高88億4000万円（前期比27.2%増）、営業利益12億6800万円（同13.6%増）を見込んでいます",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期はさらに+4円増配し、48円の見込み",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 決算概要",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期 業績予想",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月期",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期期初予想",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期6月15日修正予想",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月期 営業利益",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 営業利益",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月期末",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期末",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期当初計画",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期(予想)",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度AI関連予算5027億円 補正予算を含めると7000億円超えの史上最高額となる見込み",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期は3Qに売上高が大きく増加する見込み",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月期",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期（予想）",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期 (予想)",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月期",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月期",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月1日付で普通株式1株につき4株の割合で株式分割を実施しておりそれ以前の配当額は株式分割を考慮した数値を記載しています",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期は前期に引き続き、ポスト中計（第13期以降）の成長に向けた積極的な投資を実行これにより一時的にROEが低下する見込まれるものの、PERの改善を通じてPBRを向上させ、引き続き株式時価総額の向上を目指す",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期の配当性向は31.8%",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "2023年06月30日、スタンダード市場へ新規上場した",
+    "url": "https://www.youtube.com/watch?v=5sPsUuFm688",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ・アドバンスの沿革",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年、NVIDIAは「CUDA（Compute Unified Device Architecture）」という革新的なソフトウェア環境を発表し、翌年にはHPC（High Performance Computing）向けのGPU「Tesla（テスラ）」を発表しました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年11月、アメリカの学会でNVIDIAの展示ブースを訪れた際、現在では考えられないほど展示ブースは小規模でしたが、製品の革新性と市場に即応する姿勢が強く印象に残りました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年、「ImageNet」と呼ばれる画像認識技術のコンペティションで、Geoffrey Hinton教授が開発した「AlexNet」が大きな成果を上げました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年から2024年にかけて小規模なAIシステムから大規模な生成AIに対応するシステムまで、一貫して提供できる体制を準備してきました",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ジーデップ・アドバンス - Wikipedia — 2019年9月 - テクノスデータサイエンス・エンジニアリングとディープラーニングビジネスの成長促進を目的に提携 2020年3月 - XILINX社とALVEO Value Added Reseller (VAR) 契約を締結 2020年4月 - 会社名を株式会社ジーデップ・アドバンスへ変更",
+    "url": "https://ja.wikipedia.org/wiki/ジーデップ・アドバンス",
+    "pass": 3
+   },
+   {
+    "quote": "GDEP ジーデップ・アドバンス AI,ビジュアライゼーション,HPCのソリュ... — 株式会社ジーデップ・アドバンスは、「Advance with you」をミッションに、GPGPUをはじめとするアクセラレーターやハイエンドワークステーション、広帯域ネットワークや高速ストレージを用いたクラスターシステム、さらにライブラリやコンパイラ、ジョブスケジューラなどの運用ツールの提供 ...",
+    "url": "https://www.gdep.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "AIとビジュアライゼーションのソリューションプロバイダ【ジーデップ... — May 27, 2026 · 株式会社ジーデップ・アドバンスは、グローバルなコンピューティングカンパニーである Intel、NVIDIA、AMD、XILINX 各社の認定パートナーとして HPC、CAD&CAE、映像処理、セキュリティ、そしてDeepLearningに代表されるAI分野などで、新しいテクノロジをいち早く吸収し メーカーと一緒に新規マーケット ...",
+    "url": "https://info.gdep.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーデップ・アドバンスの魅力に迫るビジネスモデルと成長戦... — Feb 23, 2025 · 企業概要と最近の業績 株式会社ジーデップ・アドバンス 【全体の業績】 株式会社ジーデップ・アドバンスは、AI（人工知能）やディープラーニング、高度なシミュレーションに特化したシステムやソリューションを提供する先端ITインフラ企業です。米国NVIDIA社の最上位パートナーシップを ...",
+    "url": "https://consovation.com/株式会社ジーデップ・アドバンスの魅力に迫るビ/",
+    "pass": 3
+   },
+   {
+    "quote": "【5885】株式会社ジーデップ・アドバンス 事業概要と成長戦略に関する... — Oct 15, 2026 · そして、その事業を切り出す形で2016年に設立したのが現在のジーデップ・アドバンスです。 NVIDIAとの出会い 当社にとって大きな転機となったのは、2007年にNVIDIAと出会ったことです。",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ･アドバンスのIR資料 - 5885 / ｽﾀﾝﾀﾞｰﾄﾞ / 卸売業... — Oct 14, 2026 · ジーデップ･アドバンス（5885 / ｽﾀﾝﾀﾞｰﾄﾞ / 卸売業）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/5885/library",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ・アドバンス[5885]：2026年5月期決算補足説明資料及び中期... — 2026年7月14日 ジーデップ・アドバンス [5885]の開示資料「2026年5月期決算補足説明資料及び中期経営計画」 が閲覧できます。資料はPDFで ...",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260713592230/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ・アドバンス（5885）のIR情報・決算資料 | IRBANK — Aug 5, 2026 · ジーデップ・アドバンス（5885）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/5885/ir",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ・アドバンス - Wikipedia — ジーデップ・アドバンス ... 株式会社ジーデップ・アドバンス は、 NVIDIA 社のエリートパートナーであり、AI（ディープラーニング）とビジュアライゼーションのソリューションプロバイダーである。",
+    "url": "https://ja.wikipedia.org/wiki/ジーデップ・アドバンス",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ・アドバンス（5885）の事業内容、事業の状況や経営戦略、... — ジーデップ・アドバンスは「Elite」の認定を受けております。 [事業系統図] 以上述べた内容を事業系統図によって示すと次のとおりであります。 ※1 日本GPUコンピューティング有限責任事業組合を指します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=5885",
+    "pass": 3
+   },
+   {
+    "quote": "【5885】株式会社ジーデップ・アドバンス 事業概要と成長戦略に関する... — Oct 15, 2026 · 株式会社ジーデップ・アドバンス 2024年5月期決算補足説明資料及び中期経営計画 より引用 ジーデップ・アドバンスの事業概要と特徴 概要 当社はシステムインキュベーション事業を単一セグメントとして展開しています。 この事業は大きく2つの柱から成り立っています。 1つ目は ...",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーデップ・アドバンス[5885]スタンダード IPO - YouTube【5885】株式会社ジーデップ・アドバンス 事業概要と成長戦略に関する...上場会見：ジーデップ・アドバンスの飯野社長、運用・実装需要を獲る ...COMPANY | AIとビジュアライゼーションのソリューションプロバイダ【...2007年からのGPU知見で、顧客の研究スピードを加速 ジーデップ・アド...AI開発の企画から運用まで一気通貫 需要の高まりを追い風に業績拡大 |...IR | AIとビジュアライゼーションのソリューションプロバイダ【ジーデ... — Jun 30, 2023 · 「新規上場企業トップインタビュー」2023年06月30日、スタンダード市場へ新規上場したジーデップ・アドバンス 代表取締役社長 飯野匡道さんに ... Oct 15, 2026 · ジーデップ・アドバンスの沿革 株式会社ジーデッ",
+    "url": "https://www.youtube.com/watch?v=5sPsUuFm688",
+    "pass": 3
+   },
+   {
+    "quote": "【5885】株式会社ジーデップ・アドバンス 事業概要と成長戦略に関する... — Oct 15, 2026 · ジーデップ・アドバンスの沿革 株式会社ジーデップ・アドバンス 代表取締役社長 飯野 匡道氏 創業の経緯 当社のルーツは、1978年に私の父が東北地方で電子部品の卸売を行う商社「トーワ電機」を設立したことに始まります。",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "上場会見：ジーデップ・アドバンスの飯野社長、運用・実装需要を獲る ... — Jul 3, 2023 · 6月30日、ジーデップ・アドバンスが東証スタンダードに上場した。 初値は公開価格の4510円を136.81％上回る1万680円を付け、1万3680円で引けた。 DXサービスではディープラーニングを行うためのワークステーションやサーバーを開発・提供。",
+    "url": "https://c-eye.co.jp/ipo-eq/68162",
+    "pass": 3
+   },
+   {
+    "quote": "2007年からのGPU知見で、顧客の研究スピードを加速 ジーデップ・アド... — 2016年GDEPアドバンス（現：ジーデップ・アドバンス）設立、代表取締役社長就任。 25年ジーデップ・アドバンス代表取締役社長CEO執行役員就任（現任）。 ──御社については「NVIDIA認定パートナー」という認知が先行しているように感じます。",
+    "url": "https://www.kabutecho.com/interview/2611588502/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY | AIとビジュアライゼーションのソリューションプロバイダ【... — PROFILE 会社概要 社名 株式会社ジーデップ・アドバンス / GDEP ADVANCE,Inc. 上場市場 東京証券取引所 スタンダード市場 証券コード：5885 役員 代表取締役CEO 執行役員 飯野 匡道 取締役CFO 執行役員 大橋 達夫 社外取締役 栗原 さやか（弁護士）",
+    "url": "https://info.gdep.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "サービス区分とビジネスモデル",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "これは、開発した高性能なプロダクトを他の用途に転用するビジネスモデルを指します",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "このような柔軟性、専門性、グローバル視点を持つ当社のビジネスモデルは、他社との差別化を図る大きな要因となっています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別では、売上の約9割を占める「DXサービス」が堅調に推移し、リピート率約9割という強固な顧客基盤を維持しています",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比 約",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "構成比：8.4%",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "構成比：91.6%",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成変化に伴う利益率低下が生じるものの、13.6%の営業増益を見込む",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "システムインキュベーション事業の単一セグメント、その中にDXサービスとService&SupportのサービスDXサービスの主な提供内容はAIソリューションとビジュアライズソリューション",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "当社はシステムインキュベーション事業を単一セグメントとして展開しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "期初は大型案件の停滞があったものの、PoC（概念実証）からミドルレイヤーの高付加価値ソリューションへの注力が奏功し、売上総利益率の向上と営業増益を実現しました",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "また、財務面では世界的な部材不足への対応として在庫を大幅に強化しました",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "人件費や減価償却による販管費の上昇を高い売上総利益率でカバー",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "― 当社の強みと特徴",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "セールスミックスの変化により営業利益率が上昇",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なIT部材不足による機会損失を軽減するため大幅に在庫を強化",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益の高い成長率を維持するとともに、営業利益率も高めていく",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益・営業利益率",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 (%)",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みと特徴",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "強みと特徴の概略",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルプロセッサメーカー3社から認められる技術力と、グローバルベンダーとの連携から生まれる企画力・製品調達力が源泉となり、高い競争優位性を創出",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みは、他社にはない当社独自の強みだと自負しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ソフトウェア開発やコンサルティングにおいては国内のAIスタートアップ企業が強みを発揮しています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社製品の開発や、ソフトウェアの自社開発にも積極的に取り組んでおり、技術面でも他社にはない独自の強みを持っています",
+    "url": "https://invest-n.jp/ir/5066/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gdep.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gdep.co.jp/quick_delivery_model_2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.gdep.co.jp/wp-content/themes/gdep/images/new/businessmodel.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/5885/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%87%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5sPsUuFm688",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://invest-n.jp/ir/5066/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジーデップ・アドバンス",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジーデップ・アドバンス",
+    "https://www.gdep.co.jp/",
+    "https://www.gdep.co.jp/products_lineup/",
+    "https://info.gdep.co.jp/",
+    "https://www.traders.co.jp/stocks/62_5885/",
+    "https://info.gdep.co.jp/company/",
+    "https://www.reuters.com/jp/markets/companies/5885.T/"
+   ]
+  },
+  {
+   "query": "ジーデップ・アドバンス ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジーデップ・アドバンス",
+    "https://www.gdep.co.jp/",
+    "https://info.gdep.co.jp/",
+    "https://consovation.com/株式会社ジーデップ・アドバンスの魅力に迫るビ/",
+    "https://invest-n.jp/ir/5066/",
+    "https://note.com/tatsuya_sabato/n/n63cba471618f",
+    "https://info.gdep.co.jp/company/"
+   ]
+  },
+  {
+   "query": "ジーデップ・アドバンス 決算説明資料",
+   "results": [
+    "https://finance.biggo.com/news/jpx_tdnet_140120260713592230",
+    "https://www.buffett-code.com/company/5885/library",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260713592230/",
+    "https://irbank.net/5885/ir",
+    "https://info.gdep.co.jp/ir/",
+    "https://www2.jpx.co.jp/disc/58850/140120250711513007.pdf",
+    "https://info.gdep.co.jp/ir/library/presentation/"
+   ]
+  },
+  {
+   "query": "ジーデップ・アドバンス 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジーデップ・アドバンス",
+    "https://www.gdep.co.jp/",
+    "https://info.gdep.co.jp/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=5885",
+    "https://invest-n.jp/ir/5066/",
+    "https://info.gdep.co.jp/company/",
+    "https://www2.jpx.co.jp/disc/58850/140120230801531377.pdf"
+   ]
+  },
+  {
+   "query": "ジーデップ・アドバンス 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=5sPsUuFm688",
+    "https://invest-n.jp/ir/5066/",
+    "https://c-eye.co.jp/ipo-eq/68162",
+    "https://www.kabutecho.com/interview/2611588502/",
+    "https://info.gdep.co.jp/company/",
+    "https://www.kabutecho.com/interview/ai開発の企画から運用まで一気通貫-需要の高まり/",
+    "https://info.gdep.co.jp/ir/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部6頁・検索5回）"
+ }
+}

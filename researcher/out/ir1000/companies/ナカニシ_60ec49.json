@@ -1,0 +1,837 @@
+{
+ "name": "ナカニシ",
+ "aliases": [],
+ "context": "証券コード7716／精密機器／スタンダード（内国株式）／2025.12期 売上高81,179百万円 営業利益率17.4%",
+ "researched_at": "2026-11-02T18:23:40.192012+00:00",
+ "official_url": "https://www.nakanishi-inc.jp/",
+ "identified_by": "search:yahoo_jp:ナカニシ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1930年（昭和5年）2月",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1951年（昭和26年）1月",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,204名（2025年12月時点）",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "歯科医療用機器、外科医療用機器および一般産業用切削・研削機器の製造・販売",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 百万円",
+    "value": "48,671 59,692 77,041 81,179 90,185",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "当社製品の故障・修理に関するお問い合わせはこちらをクリックください",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ナカニシは超高速回転技術をコアに、歯科医療用製品、外科医療用製品、一般産業用製品の3つの領域で事業を展開しています",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「KANUMA」が健康で輝く歯を作る、その中心地になるように、感動を与える製品を届けていきたいナカニシです",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中西歯科器械（NAKANISHI Shika Kikai）の頭文字をとった「NSKマーク」を製品に刻んだ",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新たな事業領域として、工業製品関連事業を開始",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科製品関連事業のウェブサイトやカタログが2016日本BtoB広告賞で金賞・銀賞・銅賞を受賞",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品関連事業の広告が日経BPマーケティングアワード・クリエーティブ部門で最優秀賞を受賞",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イタリア子会社Dental X S.p.A.に歯科関連製品の販売部門を設立",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者・中西敬一が独立したときに作っていた製品群 (1930年)",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ナカニシの製品は1分間に40万回転もします",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ナカニシの製品は1秒間に2万回往復振動します",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "歯の健康を実現するため、ナカニシの「革新的『削るテクノロジー』」である超高速回転技術と超音波技術により、保存・補綴歯科治療、予防歯科・歯周病治療、インプラント治療、訪問歯科診療、感染予防機器（オートクレーブ）の分野で革新的な製品の開発に取り組んでいます",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その用途はますます多様化し、要求される性能、条件も上がってきていますが、それらのニーズを先取りした製品開発に取り組んでおります",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "超高性能グラインダーは、精密で正確な作業が要求される微細バリ取り、金型製作だけでなく、工芸・宝飾業界などでも活用され、ハイエンドクラスの製品として高く評価されています",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度上半期は世界需要が持ち直す中、当社が推し進めてきた製品ラインアップの強化やKOLとの連携を通じたブランディング、そして世界140カ国以上をカバーするグローバル販売体制の強化が功を奏し、歯科・外科・機工・DCIの全事業で二桁増収を達成しました",
+    "url": "https://www.nakanishi-inc.jp/ir/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "北米では市場全体が横ばいで推移する中、NSKブランドの市場シェアは順調に拡大しており、またDCIとNSKによる製品バンドル販売の進展も相まって北米における当社グループの市場プレゼンスは着実に向上しています",
+    "url": "https://www.nakanishi-inc.jp/ir/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科事業での競争力ある新製品投入と販売網拡充",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "外科事業の成長実現へ新製品開発・販売体制強化",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "○ コロナ特需への増産対応や新製品発売が奏功、世界シェア拡大（25％ ▶ 28%）",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "インプラント関連・予防歯科関連の製品ラインアップ強化とシェア拡大",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "○ インプラント・予防歯科それぞれの分野で新製品を発売し、シェア拡大",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "✕ 滅菌器の新製品を上市したが、シェア拡大は未達",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルアフターサービス体制の充実",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "○ グローバルアフターサービス体制強化",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "サージカル事業の製品ポートフォリオ拡大",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "△ アタッチメントやディスポの新製品を発売",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "○ M&Aを通じて① 歯科米国市場の加速装置（DCI）、②予防歯科中心のローエンド市場（REFINE）、③より広範な製品ラインアップ（Jaeger）を獲得",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "環境問題は世界中の人々に共通する重要な課題であり、企業の環境負荷軽減への取り組みが経営の質、ひいてはその製品への評価にまで影響する時代となりました",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科医療用機器をはじめとした超高速回転機器製品の開発設計・製造・販売・サービス等の全ての企業活動において、未来の地球環境に向けて環境負荷を軽減し、自然との調和、健康的で豊かな社会づくりを目指すことを経営の基本におき、次の環境活動を実施します",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・地球資源は有限であると認識し、事業活動や製品・サービスの両面から資源の有効な利用、活用を促進する積極的な環境施策を展開しています",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・事業活動、製品・サービスにかかわる環境側面について、生物多様性を含む環境への影響を評価し、環境負荷の低減に向けた環境目標を設定して、環境活動を全員で推進しています",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・ライフサイクルを通して環境負荷の低減に取組み、環境配慮型製品やサービスを提供しています",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "この環境マネジメントシステムは、当社の設計・製造・販売・サービスの全ての",
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2020/10/badf0785ce69326187de1f7f0006465e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この環境マネジメントシステムは、以下の製品の設計、製造、販売及びサービ",
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2020/10/badf0785ce69326187de1f7f0006465e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "作った製品の納品に父が月一回、東京に出向いてお金をもらってくる",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "「アメリカの最大手のメーカーがうちの製品に目をつけてくれて、取引が始まりました",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "「より一層お客様に感動してもらえる製品をどんどん出して、グローバルでナンバー１になりたい",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科医療従事者は一度は同社の製品に触れたことがあるのではないでしょうか？",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   },
+   {
+    "quote": "また、同社では歯科事業、外科事業、機工事業の3つの事業セグメントを展開し各製品で世界市場を席巻しています",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   },
+   {
+    "quote": "外科事業では、高品質な外科手術用機器を開発し、1000件以上の大学や病院で製品が使用されています",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   },
+   {
+    "quote": "製品レビュー",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "世界中の歯科医療従事者をはじめとするパートナーに寄り添い、必要とされるものをCreateし続けること",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ナカニシの「ものづくり」へのこだわりと、世界に誇る確かな技術力を紹介する「I am NSK テクノロジーブック」",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科事業での競争力ある新製品投入と販売網拡充",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナーCSRガイドライン",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "「その時期に取引先が紹介してくれて、歯科の工業組合に入ることができました",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、自ら修理でも何でもやってくれないかと独立を迫られて、販売代理店４社を作り、父のイニシャルを取って『ＫＮコントラ』という自社ブランドを立ち上げたのです」その際、ブランドの認知向上を図るために、販売代理店の方の手引きもあり、最大手の広告代理店である電通を使って、カタログとダイレクトメールを作成した",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "「『折角作るなら良いものを』という父と販売代理店の方のアイデアでした",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和８年熊本地震により被災された皆様に心よりお見舞い申し上げます",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜株式会社ナカニシ",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年度職業能力開発関係・厚生労働大臣表彰を受賞",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度「JPX日経インデックス400」構成銘柄に選定",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度「JPX日経インデックス400」構成銘柄に選定",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度「JPX日経インデックス400」構成銘柄に選定",
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1930年（昭和5年）2月",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1951年（昭和26年）1月",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度上半期は世界需要が持ち直す中、当社が推し進めてきた製品ラインアップの強化やKOLとの連携を通じたブランディング、そして世界140カ国以上をカバーするグローバル販売体制の強化が功を奏し、歯科・外科・機工・DCIの全事業で二桁増収を達成しました",
+    "url": "https://www.nakanishi-inc.jp/ir/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日を効力発生日として株式分割（1株につき2株の割合）を実施しました",
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の中間配当実績は1株当たり30円だが、過去比較のために株式分割考慮後の金額に修正して記載",
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度の配当性向・総還元性向は、DCI買収に係る特別利益を控除した調整後純利益を基準値として算出",
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度の配当性向・総還元性向は、ｲｴｶﾞｰ減損に係る特別損失を控除した調整後純利益を基準値として算出",
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の配当性向・総還元性向は、DCI減損に係る特別損失を控除した調整後純利益を基準値として算出",
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日現在",
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月現在",
+    "url": "https://www.nakanishi-inc.jp/ir/analyst_coverage/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度 環境レポート",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度 環境レポート",
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和３０年代には不況で歯科商店が次々に倒産するなか、ナカニシも取引先から納品を断られることがあり、苦境に立たされた",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和30年代",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月10日(月) 公開",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫水準適正化によるCCCの改善とグローバルキャッシュ管理",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "インフレ、医療機器規制（MDR）、部品不足に伴う設計変更等で費用増加、営業利益・営業利益率・ROEは目標未達",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 1
+   },
+   {
+    "quote": "回転技術で欠かせないモーターやボールベアリングなどのテクノロジーを９割方、自社で開発・生産していることに強みがあると中西社長は仰います",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "第 11 条 当会社の株式に関する取扱い および 手数料は、法令 または本定款のほか、取",
+    "url": "https://www.nakanishi-inc.jp/assets/img/company/profile/jp_Articles_of_Incorporation_20220330.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ナカニシ 2025‐2030 中期経営計画 - NV2030 — 株式会社 ナカニシ 2025‐2030 中期経営計画 - NV2030 株式会社ナカニシ PDF https://www.nakanishi-inc.jp > uploads > 2025/08",
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2025/08/NV2030.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NV2030 - 株式会社 ナカニシ — NV2030 - 株式会社 ナカニシ 株式会社ナカニシ PDF https://www.nakanishi-inc.jp > uploads > 2025/08",
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2025/08/NV2030S.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Our Business事業領域 - 株式会社ナカニシ — Our Business事業領域 - 株式会社ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > business",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ナカニシ の知財戦略：コア技術と垂直統合による開発・事業 ... — ナカニシ の知財戦略：コア技術と垂直統合による開発・事業 ... TechnoProducer株式会社 https://www.techno-producer.com > AIレポート > 企業分析",
+    "url": "https://www.techno-producer.com/ai-report/nakanishi_ip_strategy_report/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 | 株式会社 ナカニシ — 中期経営計画 | 株式会社 ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > ホーム > IR",
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 決算 短信 | IR - 株式会社ナカニシ — IR 資料 室 決算 短信 | IR - 株式会社ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > ホーム > IR",
+    "url": "https://www.nakanishi-inc.jp/ir/financial-report/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - IR - 株式会社ナカニシ — 決算説明 会 資料 - IR - 株式会社ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > ホーム > IR",
+    "url": "https://www.nakanishi-inc.jp/ir/briefing-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 決算説明 会 資料 — 2025年12月期 決算説明 会 資料 株式会社ナカニシ PDF https://www.nakanishi-inc.jp > uploads > 2026/02",
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_PMS.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - 株式会社ナカニシ — IRニュース - 株式会社ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > ホーム > IR",
+    "url": "https://www.nakanishi-inc.jp/ir/irnews/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ナカニシ IR 資料 - EDINET DB — 株式会社 ナカニシ IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社ナカニシ",
+    "url": "https://edinetdb.jp/company/E02331/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - 株式会社ナカニシ — 会社概要｜企業情報 - 株式会社ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > company > profile",
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ナカニシ : TOP — 株式会社 ナカニシ : TOP 株式会社ナカニシ https://www.nakanishi-inc.jp",
+    "url": "https://www.nakanishi-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Business 事業 領域 - 株式会社ナカニシ — Our Business 事業 領域 - 株式会社ナカニシ 株式会社ナカニシ https://www.nakanishi-inc.jp > business",
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ナカニシ 【7716】の 事業 内容 - キタイシホン — ナカニシ 【7716】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7716/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ナカニシ - タカラベルモント — 株式会社 ナカニシ - タカラベルモント タカラベルモント https://www.takarabelmont.co.jp > interview > nakanishi",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ナカニシ 代表取締役 中西 英一 社長インタビュー #1 — 株式会社 ナカニシ 代表取締役 中西 英一 社長インタビュー #1 Doctorbook academy https://academy.doctorbook.jp > movies",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   },
+   {
+    "quote": "ナカニシ 中西 英一 社長 に聞くモノづくりへのこだわりと — ナカニシ 中西 英一 社長 に聞くモノづくりへのこだわりと Doctorbook academy https://academy.doctorbook.jp > 全ての動画",
+    "url": "https://academy.doctorbook.jp/contents/4460",
+    "pass": 3
+   },
+   {
+    "quote": "歯科医療産業の先へ CREATE IT. 〜 ナカニシ 工場取材〜 — 歯科医療産業の先へ CREATE IT. 〜 ナカニシ 工場取材〜 whitecross.co.jp https://www.whitecross.co.jp > 記事一覧",
+    "url": "https://www.whitecross.co.jp/articles/view/687",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "昭和３０年代には不況で歯科商店が次々に倒産するなか、ナカニシも取引先から納品を断られることがあり、苦境に立たされた",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "「その時期に取引先が紹介してくれて、歯科の工業組合に入ることができました",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声を大切に常にがむしゃらに",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "「私は、お客様のクレームは宝だといつも言っています",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   },
+   {
+    "quote": "「より一層お客様に感動してもらえる製品をどんどん出して、グローバルでナンバー１になりたい",
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "また、同社では歯科事業、外科事業、機工事業の3つの事業セグメントを展開し各製品で世界市場を席巻しています",
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nakanishi-inc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/top_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/financial-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/financial_data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/nv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/analyst_coverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/stock_price_information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/bond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/ir/electric_public_notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/company/profile/jp_Articles_of_Incorporation_20220330.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2019/10/report2019_JP_201104_F.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2020/10/environment2018.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2021/08/BusinessPartnerCSRGuidelines_rev1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2020/10/environmentalpolicy_20170201.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/app/wp-content/uploads/2020/10/badf0785ce69326187de1f7f0006465e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/business_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/vis_dental01.png?20240308",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/vis_dental02.png?20240308",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/vis_dental03.png?20240308",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/vis_dental04.png?20240308",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/vis_dental05.png?20240308",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/vis_dental06.png?20240308",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nakanishi-inc.jp/assets/img/business/business_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academy.doctorbook.jp/movies/1004582",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナカニシ",
+   "results": [
+    "https://www.nakanishi-inc.jp/",
+    "https://www.japan.nsk-dental.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%AB%E3%83%8B%E3%82%B7",
+    "https://nakanishi-spindle.com/",
+    "https://www.jp.nsk-surgery.com/",
+    "https://ja.wikipedia.org/wiki/ナカニシ",
+    "https://www.nakanishi-inc.jp/company/",
+    "https://www.en.nakanishi-inc.jp/",
+    "https://en.nakanishi-spindle.com/"
+   ]
+  },
+  {
+   "query": "ナカニシ ビジネスモデル",
+   "results": [
+    "https://www.nakanishi-inc.jp/app/wp-content/uploads/2025/08/NV2030.pdf",
+    "https://www.nakanishi-inc.jp/app/wp-content/uploads/2025/08/NV2030S.pdf",
+    "https://www.nakanishi-inc.jp/business/",
+    "https://www.techno-producer.com/ai-report/nakanishi_ip_strategy_report/",
+    "https://www.nakanishi-inc.jp/ir/nv/",
+    "https://www.nakanishi-inc-recruitment.jp/message/",
+    "https://www.nakanishi-inc.jp/",
+    "https://note.com/tatsuya_sabato/n/nf74795813d1f",
+    "https://www.youtube.com/watch?v=v2gOzH1lmsg",
+    "https://www.nakanishi-inc.jp/ir/business-report/"
+   ]
+  },
+  {
+   "query": "ナカニシ 決算説明資料",
+   "results": [
+    "https://www.nakanishi-inc.jp/ir/financial-report/",
+    "https://www.nakanishi-inc.jp/ir/briefing-materials/",
+    "https://www.nakanishi-inc.jp/app/wp-content/uploads/2026/02/FY2025Q4_PMS.pdf",
+    "https://www.nakanishi-inc.jp/ir/irnews/",
+    "https://edinetdb.jp/company/E02331/ir-docs/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7716",
+    "https://www.nakanishi-inc.jp/ir/calendar2023/",
+    "https://www.buffett-code.com/company/7716/library",
+    "https://www.techno-producer.com/wp-content/uploads/2026/06/%E3%83%8A%E3%82%AB%E3%83%8B%E3%82%B7%E3%81%AE%E7%9F%A5%E8%B2%A1%E6%88%A6%E7%95%A5.pdf",
+    "https://www.nakanishi-inc.jp/ir/"
+   ]
+  },
+  {
+   "query": "ナカニシ 事業系統図",
+   "results": [
+    "https://www.nakanishi-inc.jp/company/profile/",
+    "https://www.nakanishi-inc.jp/",
+    "https://www.nakanishi-inc.jp/business/",
+    "https://www.nakanishi-inc.jp/ir/nv/",
+    "https://kitaishihon.com/company/7716/business",
+    "https://www.japan.nsk-dental.com/admin/wp-content/uploads/general_catalog_2016_JP.pdf",
+    "https://nakanishi-spindle.com/company/",
+    "https://www.nakanishi-inc.jp/company/offices/",
+    "https://www.techno-producer.com/ai-report/nakanishi_ip_strategy_report/"
+   ]
+  },
+  {
+   "query": "ナカニシ 社長 インタビュー",
+   "results": [
+    "https://www.takarabelmont.co.jp/100th/interview/nakanishi/",
+    "https://academy.doctorbook.jp/movies/1004582",
+    "https://academy.doctorbook.jp/contents/4460",
+    "https://www.nakanishi.co.jp/information/20251223142749.html",
+    "https://www.whitecross.co.jp/articles/view/687",
+    "https://www.nakanishi-inc-recruitment.jp/interview-d/",
+    "https://academy.doctorbook.jp/movies/1004583",
+    "https://www.nakanishi-inc.jp/company/message/",
+    "https://www.nikkei.com/article/DGXMZO65468090W0A021C2L60000/",
+    "https://www.nakanishi.co.jp/information/20261023143259.html"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式17頁／PDF・画像14件／外部2頁・検索5回）"
+ }
+}

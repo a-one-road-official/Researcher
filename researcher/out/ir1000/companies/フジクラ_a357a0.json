@@ -1,0 +1,1467 @@
+{
+ "name": "フジクラ",
+ "aliases": [],
+ "context": "証券コード5803／非鉄金属／プライム（内国株式）／2026.03期 売上高1,182,358百万円 営業利益率16.0%",
+ "researched_at": "2026-11-02T18:33:07.476368+00:00",
+ "official_url": "https://www.fujikura.co.jp/",
+ "identified_by": "search:yahoo_jp:フジクラ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1885年（明治18年）2月",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1910年（明治43年）3月18日",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "50,586名（連結）（2026年3月31日）",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "11,824億円（連結）（2025年度）",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1兆1,824億円 +20.7%",
+    "url": "https://semi-connect.net/fujikura-semiconductor-business/",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1兆6,000億円 2兆8,000億円",
+    "url": "https://semi-connect.net/fujikura-semiconductor-business/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "通信⽤ケーブル等の研究開発・製造",
+    "url": "https://www.fujikura.co.jp/news/pressrelease/images/0e7dffcf2ff5678aa0d9e037f1bab8ca7e1c2b04.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "高密度・高精細・多機能化のニーズに高度な技術で応え、顧客の最先端アプリケーションの創出に貢献します",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "優良な顧客基盤と世界に広がる生産拠点を活用し、フジクラの技術を組み合わせて新たなビジネスを創出します",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今回制定した新しいブランドロゴは、このような時代にあって、世界中のより多くのお客様に当社グループの名前を覚えていただくとともに、私たちの価値ある商品とソリューションをより身近に感じていただき、深い信頼と末永いパートナーシップをこれまで以上にしっかりと構築していきたいという私たちの意志と想いを重ねています",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "quote": "優良顧客のパートナーとして、高密度・高精細・多機能化の要求に対し、電子部品・コネクタ・フレキシブルプリント配線板（FPC）の持つユニークで高度な技術で応え、顧客の最先端アプリケーションの創出に貢献します",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ネットワークと繋がり情報端末として急速に進化する次世代自動車の市場においても、フジクラグループの多様なエレクトロニクス製品で顧客課題へのソリューションを提案します",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客パートナーの設計思想を尊重しつつ配電システムの最適化を検討し、ワイヤハーネスの省線化、軽量化を実現することにより顧客製品の価値向上に貢献しています",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、100年に1度の変革期にある自動車産業において、フジクラグループが保有する要素技術を結集した新たな融合製品を生み出すべく、自動車事業の優良顧客のニーズに合致する製品やソリューションの開発を、他の事業と連携して取り組んでいます",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "このDNAの下、優れた技術力、社会変化への適応力、お客様との信頼関係を大切にしてきました",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも私たちフジクラグループは \"つなぐ\"テクノロジー™を通じ、顧客の価値創造と社会に貢献していきます",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電力ケーブルの超高圧化、大容量、長尺化が進む中、富津工場は世界トップクラスの超高圧CVケーブル、OFケーブル、海底ケーブル製造の拠点としてユーザーニーズにフルに対応するために建設された最先端の工場である",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "未来に\"つなぐ\"テクノロジーTMを通じ、顧客の価値創造と社会への貢献を",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の価値創造と社会に貢献する",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫優良な顧客基盤",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を通じ顧客の価値創造と社会に貢献する",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "車載向け部品などでは顧客ニーズに合わせた設計開発も活発です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業の購買行動が変化し、オンラインでの製品情報収集や問い合わせが増加しているためです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の直接営業だけでは対応が難しくなり、幅広いチャネルを整備して顧客アクセスを最適化する必要がありました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、単なる製品提供ではなく、顧客の課題解決を一緒に考える姿勢が重要となり、長期契約やリピート受注につながりました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "通信業界、エレクトロニクス業界、自動車業界などが主な顧客層です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "例えばダークファイバをはじめとする新サービスを立ち上げると、通信関連の技術ノウハウがさらに深まり、顧客企業との接点が増加します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "投資・売買に関する最終決定は、お客様ご自身のご判断でなさいますようお願い申し上げます",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報が流出し、築き上げた信頼が揺らぐなど、企業の存続を左右する経…",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "継続的な技術革新により多心化・細径化・小型化という市場ニーズに光配線ソリューションで応えます",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多心光配線ソリューション",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "光制御技術と高出力レーザで、高速・精密・高効率な加工を実現し、多彩なラインナップで最適なソリューションを提供します",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BPC（Beam Profile Control） FL製品群",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パルスファイバレーザ製品群",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CWシングルモードファイバレーザ製品群",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "kW級高出力FL製品群",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ワイヤ｜製品情報｜製品情報｜エレクトロニクス",
+    "url": "https://www.fujikura.co.jp/products/electronics/wire/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.fujikura.co.jp/products/electronics/wire/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/products/electronics/wire/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/products/electronics/wire/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤハーネス｜製品情報｜製品情報｜自動車",
+    "url": "https://www.fujikura.co.jp/products/automotive/wireharness/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.fujikura.co.jp/products/automotive/wireharness/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/products/automotive/wireharness/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/products/automotive/wireharness/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用電線｜製品情報｜製品情報｜自動車",
+    "url": "https://www.fujikura.co.jp/products/automotive/automotivewires/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.fujikura.co.jp/products/automotive/automotivewires/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/products/automotive/automotivewires/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/products/automotive/automotivewires/",
+    "pass": 1
+   },
+   {
+    "quote": "高温超電導線材｜製品情報｜製品情報｜超電導",
+    "url": "https://www.fujikura.co.jp/products/superconductors/superconductingwire-reel/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.fujikura.co.jp/products/superconductors/superconductingwire-reel/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/products/superconductors/superconductingwire-reel/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/products/superconductors/superconductingwire-reel/",
+    "pass": 1
+   },
+   {
+    "quote": "「耐水性高圧耐火ケーブル」や「自動直流漏れ電流測定器（他社共同開発）」をはじめ、軟銅ロープより線の使用により可とう性を向上させた低圧CVケーブルの参考出展など、新時代を支える製品を紹介します",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品コンクール出展中の「垂直幹線用アルミ導体分岐付ケーブル」をはじめ、",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニシチューブ、屋内配線ユニットケーブル、無停電工事用機材等、コスト低減や省力化に貢献する様々な製品をサンプル展示します",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回制定した新しいブランドロゴは、このような時代にあって、世界中のより多くのお客様に当社グループの名前を覚えていただくとともに、私たちの価値ある商品とソリューションをより身近に感じていただき、深い信頼と末永いパートナーシップをこれまで以上にしっかりと構築していきたいという私たちの意志と想いを重ねています",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "quote": "情報インフラ基盤構築の光配線ソリューションを提供",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "、高精度な多心光コネクタを始めとする光部品、世界トップシェアの光ファイバ融着接続機、エンジニアリングを組み合わせた光配線ソリューションを提供し、安全かつ強靭な情報インフラ基盤の構築や生成AIの普及・拡大に伴い急成長するデータセンタの需要に応えます",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ネットワークと繋がり情報端末として急速に進化する次世代自動車の市場においても、フジクラグループの多様なエレクトロニクス製品で顧客課題へのソリューションを提案します",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サーマルソリューション",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "変革期にある自動車産業にソリューションを提供",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客パートナーの設計思想を尊重しつつ配電システムの最適化を検討し、ワイヤハーネスの省線化、軽量化を実現することにより顧客製品の価値向上に貢献しています",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、100年に1度の変革期にある自動車産業において、フジクラグループが保有する要素技術を結集した新たな融合製品を生み出すべく、自動車事業の優良顧客のニーズに合致する製品やソリューションの開発を、他の事業と連携して取り組んでいます",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "社会の基盤を支えるインフラ製品を安定的に供給",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来続くフジクラグループの原点として汎用低圧ケーブル、高圧ケーブルや架空送電線など電力インフラに不可欠な製品を提供しています",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その新製品に「市川掛け」と命名し、当時の歌舞伎の名優9代目市川団十郎に依頼して口上とともに毎日数百本を客席にばら撒いた",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主力製品は、東京線、パラフィン線で、ゴム被覆線は品質改良で苦闘時代にあった",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当初の製品は裸銅線・アルミ線・ゴム絶縁線・プラスチック線等であった",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沼津工場から、事業基盤を支え続ける数々の技術や製品が生まれていくのである",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シスコム（現 フジクラソリューションズ）設立",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "FTTH光製品商品化",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "香港に電子関連製品の販売会社「藤倉香港貿易有限公司」を設立",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "記載のグループ会社および製品情報についてフジクラの歴史的足跡を表したもので、現在はその事業内容や製品の取扱いを変更または終了している場合があります",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現在のフジクラグループ会社および取扱い製品はこちらをご確認ください",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "フジクラは、常に技術的な挑戦で、数々の独創的な製品を世の中に送り出してきました",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術領域・製品群",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "周辺製品への波及効果",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "の増強により、トータルソリューション提供の機会も拡大",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年台風第25号による被害への支援について",
+    "url": "https://www.fujikura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月27日（水）〜5月29日（金）9:00～16:00",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "1910年（明治43年）3月18日",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年に誕生した大型複合施設「深川ギャザリア」を中心に不動産賃貸・管理事業を営んでいます",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1900年（明治33）8月、帰国した岡田顕三は、技術面でもっとも重要な役目を果たすのである",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年（明治34）「藤倉電線護謨合名会社」設立",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1910年（明治43年）には電線事業の規模拡大の必要性から新社名「藤倉電線株式会社」となった",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1910年（明治43）3月18日、電線事業拡大の必要から電線事業を分離、藤倉電線株式会社が誕生する",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1903年（明治36）、旋風で工場全壊、1923年（大正12）、関東大震災で深川工場焼失という危機にも時を移さず率先躬行にて再建",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年（昭和13）で松本留吉社長が関係する会社は45社であった",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年（昭和13）3月24日、松本留吉死去、71歳",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1923年（大正12）9月1日、関東大震災が完成したばかりの深川工場を襲った",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年（昭和13）3月、松本留吉社長の死去により故人の長男松本新太が2代社長に就任した",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1923年（大正12）、当時総務部長であった松本新太社長によって創られた",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1925年（大正14）、工場横にグランドが作られる",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1944年（昭和19）に戦争疎開工場として創設した富士工場は東京大空襲で焼失した深川工場から、焼け残りの機械を移設し、ゴム線工場として稼動していた",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1964年（昭和39）に試運転が始まり、翌1965年（昭和40）から本格稼動した佐倉工場は高度経済成長の中、通信ケーブルを主体とした近代的な工場として急成長を遂げる",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1965年（昭和40）からのイザナギ景気を背景とする電力需要の急増に対応するため、電力CVケーブル生産専用の工場建設を計画していた",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年（昭和43）4月に日本最初の超高層ビルである霞が関ビル（地上36階、地下3階）が完成した",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年（昭和48）10月、第4次中東戦争が勃発",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年（昭和52）10月、本社事務所を霞が関ビルから五反田藤倉ビル（地上9階、地下1階）に移転した",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45）から光ファイバの取り組みを進めていたフジクラは、1975年（昭和50）より電電公社と共同開発を行い、1976年（昭和51）にはMCVD法により極低損失ファイバを開発し、長波長側に超低損失領域があることを発見（IEEEの論文賞受賞）した",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年（昭和59）8月、タイ王国にフジクラタイランド社を設立した",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年（平成2）本社ビルが完成",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年（平成4）10月1日、藤倉電線から株式会社フジクラへと社名変更を行った",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年（平成4）10月、深川工場に代わる電力ケーブル製造・開発の新たな拠点として富津工場を建設し、社名変更と同じ日に操業を開始した",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年（平成17）に創業120周年を迎えた",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年度目標",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.fujikura.co.jp/ir/basic-information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 ⽉ 20 ⽇",
+    "url": "https://www.fujikura.co.jp/news/pressrelease/images/0e7dffcf2ff5678aa0d9e037f1bab8ca7e1c2b04.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 2024年度 2025年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 2024年度 2025年度 2023年度 2024年度 2025年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年10月28日に米国商務省と枠組み合意書を締結し、",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年代以降の商用化を見据えたプロジェクトに参画",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 2027年度 2028年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年度 財務目標：規模と収益の拡大",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年度 2028年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 2027年度 2028年度 2030年度 2035年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年度 財務目標：規模と収益の拡大(成長投資及び戦略投資後の見立て)",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年度の経営危機からの急峻な企業再生を果たし、",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度からを、フジクラの「第4の創業」と位置付け、",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年度",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年4 月1 日改正",
+    "url": "https://www.fujikura.co.jp/company/pdf/articles.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成29年6月開催の第169期定時株主総会終結前の社外監査役（社外監査役であった者を含む",
+    "url": "https://www.fujikura.co.jp/company/pdf/articles.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年9月1日 施行",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期第1四半期の連結業績は、売上収益が1,988億73百万円（前年同期比4.6%増）、営業利益が171億89百万円（同15.1%増）、税引前利益が229億12百万円（同37.1%増）、親会社の所有者に帰属する四半期利益は160億7百万円（同31.8%増）となりました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「耐水性高圧耐火ケーブル」や「自動直流漏れ電流測定器（他社共同開発）」をはじめ、軟銅ロープより線の使用により可とう性を向上させた低圧CVケーブルの参考出展など、新時代を支える製品を紹介します",
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回制定した新しいブランドロゴは、このような時代にあって、世界中のより多くのお客様に当社グループの名前を覚えていただくとともに、私たちの価値ある商品とソリューションをより身近に感じていただき、深い信頼と末永いパートナーシップをこれまで以上にしっかりと構築していきたいという私たちの意志と想いを重ねています",
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "pass": 1
+   },
+   {
+    "quote": "優良顧客のパートナーとして、高密度・高精細・多機能化の要求に対し、電子部品・コネクタ・フレキシブルプリント配線板（FPC）の持つユニークで高度な技術で応え、顧客の最先端アプリケーションの創出に貢献します",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客パートナーの設計思想を尊重しつつ配電システムの最適化を検討し、ワイヤハーネスの省線化、軽量化を実現することにより顧客製品の価値向上に貢献しています",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「会々、明治16年晩秋、日本橋際郵便局ノ露台ニ於テ\"アーク燈\"ヲ点ジ、市民ニ電光ヲ紹介セシコトアリ",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "フジクラグループの業績や配当、今後の方針などをわかりやすくご紹介します",
+    "url": "https://www.fujikura.co.jp/ir/shareholders-message/",
+    "pass": 1
+   },
+   {
+    "quote": "第 23 条 （指名諮問委員会）",
+    "url": "https://www.fujikura.co.jp/company/pdf/articles.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当会社は、取締役会の諮問により取締役の候補者等を検討する指名諮問委員会を置く",
+    "url": "https://www.fujikura.co.jp/company/pdf/articles.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要部品のサプライヤーとして高い品質と納期管理が評価された結果、幅広いパートナーを獲得できました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "直販や代理店を通じた販売に加え、近年はオンラインプラットフォームでの情報発信も活用しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "のパートナーからの情報提供を受けています",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫電線が応急資材として飛ぶように売れ、復興資金となった",
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的製造技術により、確固たる競争優位を実現",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品・コネクタと自動車事業の融合により、両事業の強みを掛け合わせたシナジーを創出",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "CASEやAI分野に対応し、競争優位性のある新たな事業基盤の確立を図る",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "高収益基盤を確立し、28中期へ",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 単位：億円営業利益※／営業利益率 自己資本比率",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "確固たる競争優位を実現",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トータルで実施する【End to End】のソリューション提供力で、高収益を実現",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率目標",
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GPUメーカーの強みと弱みを整理してみた",
+    "url": "https://semi-connect.net/fujikura-semiconductor-business/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率約50％を誇り、国内製薬トップ級の時価総額に上り詰めた中外製薬",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当会社の株式に関する取扱いおよび手数料は、法令または本定款のほか、取締役会において定める",
+    "url": "https://www.fujikura.co.jp/company/pdf/articles.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当会社における株主権行使の手続きその他株式に関する取扱いおよび手数料については、 株式会社",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前条の買取請求の買取単価は、買取請求が株 主名簿管理人事務取扱場所に到達した日の東京証",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 前項による買取単価に買取請求株式数を乗じた額をもって買取価格とする",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当会社は、前条により算出された買取価格から第 26条に定める手数料を控除した金額を買取代",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金とし、当会社が別途定めた場合を除き、機構の定めるところにより買取単価が決定した日の",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買 増 単価 は、 買増 請求 の効 力 発生 日の 東京 証券 取引 所 の開 設す る市 場に おけ る 最終 価格 とす",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 前項による買増単価に買増請求株式数を乗じた額をもって買増価格とする",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主が証券会社等を通じて、買増代金として買増価格に第 26条に定める手数料を加算した金額",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第６章 手数料",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第26条 （手数料）",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第15条の単元未満株式買取請求および第 19条の単元未満株式買増請求に係る手数料は、以下の",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式の売買の委託に係る手数料相当額として以下の算式により 1単元当たりの金額を算定し、これ",
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力製品の販売収益、関連サービス提供による収益、そして一部ライセンス収入などが挙げられます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発を続けて生まれた独自技術を活かし、製品を販売するだけでなく、保守・サービス契約や技術使用料も得られる仕組みを整えました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "VIP倶楽部を詳しく見る（月額2,838円）",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "【締切迫る！】秋の年額2カ月増量キャンペーン実施中",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "pass": 3
+   },
+   {
+    "quote": "年額プランなら12カ月分の料金で",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "pass": 3
+   },
+   {
+    "quote": "日経ビジネス、今なら2カ月分が実質無料！ 年額プランがお得に",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社フジクラのビジネスモデルを徹底解説 成長戦略が光る魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジクラのビジネスモデルを徹底解説 成長戦略が光る魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪チタニウムテクノロジーズのビジネスモデルと成長戦略を徹底分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アサカ理研の成長戦略と革新的ビジネスモデルが切り拓く未来",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦チタニウム株式会社のビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エスクリプトエナジーの成長戦略とビジネスモデルの全貌",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精鉱の成長戦略とビジネスモデルが切り拓く未来",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業の成長戦略とビジネスモデル徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本伸銅が描く未来 成長戦略に迫る魅力のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "UACJのビジネスモデルが描く魅力と成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別に見ると、エネルギー・情報通信カンパニーでは、欧米における再生可能エネルギー関連の設備投資やデータセンター投資が継続し、増収増益となりました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "主な事業セグメント",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "フジクラの主な事業セグメントは、情報通信・エレクトロニクス・自動車・エネルギー・不動産の5つです",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信セグメントが売上・利益の大部分を占め、データセンタ向け光コンポーネント製品が中核事業となっています",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "牽引役は情報通信セグメントで、データセンタ向け光コンポーネント製品の需要拡大に加え、米国以外の新規案件の大量受注もあり、売上高83.9%増・営業利益188.3%増と急成長しました",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "一方、エレクトロニクスセグメントはスマートフォン向け製品の品種構成変化や材料費高騰の影響で、売上高10.3%減・営業利益73.5%減と大幅に落ち込んでいる点は懸念材料です",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社フジクラのビジネスモデルを徹底解説 成長戦略が光る魅力 | チームマイクの企業分析 — 企業概要と最近の業績株式会社フジクラ株式会社フジクラは、「つなぐ」テクノロジーを通じて、エネルギー、情報通信、エレクトロニクス、自動車電装の4つの事業分野で社会の基盤となる製品やソリューションを提供しています。具体的には、光ファイバケーブル...",
+    "url": "https://consovation.com/株式会社フジクラのビジネスモデルを徹底解説-成/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョン｜企業情報｜株式会社フジクラ — ビジョン｜企業情報｜株式会社フジクラのdescription 未来への 布 石 デジタル社会の実現に向けた核心的事業領域である情報インフラ・情報ストレージ・情報端末を主軸に、さらに、高温超電導線材とファイバレーザ技術を活かして、新たな事業領域を開拓していく。 電子部品・コネクタと ...",
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】フジクラの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター） — 1. フジクラのビジネスモデル構造マップ 2.さらにくわしく解説します ① 超高密度光ケーブル技術（コアバリュー） ② AIデータセンターへの集中投資（成長） ③ 徹底した事業の選択と集中（オペレーション） 3.まとめ 「ビジネスモデル図解」一覧",
+    "url": "https://mindmeister.jp/posts/bm-fujikura",
+    "pass": 3
+   },
+   {
+    "quote": "兼業投資家向け フジクラ（5803）の事業モデルと2027年3月期第1四半期決算まとめ｜双曲亭 卯月 — 3. ビジネスモデルと収益構造 収益源：光ケーブルや光配線部品の製造販売、布設工事等の通信エンジニアリング、車載ワイヤハーネス、電力インフラ向け電線販売、不動産賃貸。",
+    "url": "https://note.com/sokyokutei/n/nc16c474cadf3",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜企業情報｜株式会社フジクラ — また、100年に1度の変革期にある自動車産業において、フジクラグループが保有する要素技術を結集した新たな融合製品を生み出すべく、自動車事業の優良顧客のニーズに合致する製品やソリューションの開発を、他の事業と連携して取り組んでいます。",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)フジクラ【5803】：決算情報 - Yahoo!ファイナンス — Aug 7, 2026 · (株)フジクラ【5803】の決算短信を生成AIで要約した内容をご覧いただけます。 Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "フジクラのIR資料 - 5803 / プライム / 非鉄金属 | バフェット・コー... — フジクラ（5803 / プライム / 非鉄金属）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/5803/library",
+    "pass": 3
+   },
+   {
+    "quote": "【フジクラ】 [5803]決算発表や業務・財務情報 | 日経電子版 — 1 day ago · 【日本経済新聞】フジクラ [5803]の配当・売上高・営業利益など決算情報を収録。中間業績や貸借対照表、キャッシュフローの状況やセグメント ...",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5803",
+    "pass": 3
+   },
+   {
+    "quote": "決算公表資料｜株主・投資家情報｜株式会社フジクラ — 経営理念 IR資料室 決算公表資料 有価証券報告書 統合報告書 事業報告 事業説明会資料 株主・株式情報 株式基本情報 株主総会 株主還元 株式の手続き 定款・株式取扱規程 アナリストカバレッジ 電子公告 社外からの評価認定 個人投資家の皆様へ 個人投資家 ...",
+    "url": "https://www.fujikura.co.jp/ir/financials/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報｜株式会社フジクラ — 6 days ago · IR資料室 決算公表資料 有価証券報告書 事業報告 事業説明会資料 株主・株式情報 株式基本情報 株主総会 株主還元 株式の手続き 定款・株式取扱規程 アナリストカバレッジ 電子公告 個人投資家の皆様へ 個人投資家説明会 業績・財務 業績ハイライト 格付 ...",
+    "url": "https://www.fujikura.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "よくわかるフジクラグループ｜株式会社フジクラ — フジクラグループはエネルギー・情報通信事業を中心にグローバルに多角化を展開していき、\"つなぐ\"テクノロジー™の分野で更なる技術開発と市場開拓を続け、現在につながっています。",
+    "url": "https://www.fujikura.co.jp/understanding-fujikura/",
+    "pass": 3
+   },
+   {
+    "quote": "フジクラ (Fujikura)の半導体関連事業を徹底解説【2026年最新：光ファ... — Jun 11, 2026 · フジクラの半導体関連事業を2026年最新版で解説。 ボンディングワイヤー・FPC・光ファイバー（SWR/WTC）・光電融合デバイス（CPO）の4事業を網羅。 売上1兆1,824億円・営業利益1,887億円（過去最高）の業績と5,300億円の新中計まで徹底解説。",
+    "url": "https://semi-connect.net/fujikura-semiconductor-business/",
+    "pass": 3
+   },
+   {
+    "quote": "フジクラとは？事業内容・強み・将来性を徹底解説 | 奮闘するサラリー... — May 27, 2026 · 本記事では、株式会社フジクラの事業内容や強み、最新の業績動向、将来性についてわかりやすく解説します。 就職活動中の方、投資家、ビジネスパーソンの方にとって役立つ実用的な情報をお届けします。",
+    "url": "https://huntou-sarao.com/フジクラとは？事業内容・強み・将来性を徹底解/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスフローを知る | 株式会社フジクラ — フジクラのビジネスフローをご覧ください。 フジクラの窓口として、価格交渉、出荷、納期対応、代理店管理を行います。 フジクラの事業部の窓口として、開発への情報共有、要望などのフィードバック、代理店指導を行います。",
+    "url": "https://recruit.fujikura.co.jp/people/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜企業情報｜株式会社フジクラ — 2000年に誕生した大型複合施設「深川ギャザリア」を中心に不動産賃貸・管理事業を営んでいます。 不動産事業を通じ、地域を活性化し、地域の皆様やビジネスパーソンから愛される街づくりを進めています。",
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "フジクラ岡田社長CEO「戦略はストーリーで語る」 提供できる価値を追... — Feb 20, 2026 · 戦略商品を発明した技術者から、倒産危機の会社を立て直す経営者へ。 そんな転身はどのようになされ、そこにどんな苦闘があったのか。 フジクラの岡田直樹社長CEO（最高経営責任者）に改革の舞台裏を聞いた。",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "pass": 3
+   },
+   {
+    "quote": "WEBメディア「社長名鑑」に取締役社長CEO岡田直樹のインタビュー記事... — Jun 24, 2025 · フジクラグループは1885年の創業以来、エネルギー、情報通信、エレクトロニクス、自動車電装等、様々な分野において、「新しいことに挑戦する『進取の精神』」と「高度な技術を探求する『技術のフジクラ』」をDNAに、顧客の価値創造と社会の発展に貢献 ...",
+    "url": "https://www.fujikura.co.jp/news/information/20250624webceo.html",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ｜ニュース｜株式会社フジクラ — Mar 19, 2026 · フジクラグループは1885年の創業以来、エネルギー、情報通信、エレクトロニクス、自動車電装等、様々な分野において、「新しいことに挑戦する『進取の精神』」と「高度な技術を探求する『技術のフジクラ』」をDNAに、顧客の価値創造と社会の発展に貢献しているグローバルカンパニーです。",
+    "url": "https://www.fujikura.co.jp/news/information/",
+    "pass": 3
+   },
+   {
+    "quote": "フジクラ社長、業績計画に｢下振れない｣と強調－AI向け製品で値上げ... — Jun 9, 2026 · 光ファイバーケーブル大手 フジクラ の 岡田直樹 社長は、2027年3月期の利益計画について「下振れは絶対にない」と述べ、市場に広がる先行きへ ...",
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-06-09/TG2WIGT9NJLS00",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／フジクラ社長・岡田直樹氏 AIDC需要に対応 — Jul 3, 2026 · フジクラは5月に発表した2027年3月期の連結業績予想を一カ月後に上方修正した。当期利益を前期比0・7％減の1560億円としていたが、一転して同45 ...",
+    "url": "https://www.nikkan.co.jp/articles/view/785809",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fujikura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/products/electronics/wire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/products/automotive/wireharness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/products/automotive/automotivewires/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/products/superconductors/superconductingwire-reel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/news/events/20260515jeca_fair_202573_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/company/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/company/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/shareholders-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/ir-calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/financials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/business-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/business-briefing-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/basic-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/shareholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/shareholder-return/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/articles-of-incorporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/analyst-coverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/electronic-public-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/ir/individual-investors/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fujikura.co.jp/news/pressrelease/images/0e7dffcf2ff5678aa0d9e037f1bab8ca7e1c2b04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/newsrelease/management/__icsFiles/afieldfile/2026/05/19/260519.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/company/pdf/articles.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikura.co.jp/resource/pdf/rule.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E6%88%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/5803/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://semi-connect.net/fujikura-semiconductor-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジクラ",
+   "results": [
+    "https://www.fujikura.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9",
+    "https://www.nikkei.com/nkd/company/?scode=5803",
+    "https://www.youtube.com/channel/UCQsU4lsfBEEJh_asJ3fagPg",
+    "https://ja.wikipedia.org/wiki/フジクラ",
+    "https://en.wikipedia.org/wiki/Fujikura",
+    "https://finance.yahoo.co.jp/quote/5803.T",
+    "https://www.fujikurashaft.jp/",
+    "https://finance.yahoo.co.jp/quote/5803.T/profile",
+    "https://www.fujikura.co.jp/en/"
+   ]
+  },
+  {
+   "query": "フジクラ ビジネスモデル",
+   "results": [
+    "https://consovation.com/株式会社フジクラのビジネスモデルを徹底解説-成/",
+    "https://www.fujikura.co.jp/company/vision/",
+    "https://mindmeister.jp/posts/bm-fujikura",
+    "https://note.com/sokyokutei/n/nc16c474cadf3",
+    "https://www.fujikura.co.jp/company/business/",
+    "https://www.youtube.com/watch?v=-LI9B4veaO8",
+    "https://recruit.fujikura.co.jp/company/vision.html",
+    "https://www.itmedia.co.jp/business/articles/2605/22/news026.html",
+    "https://note.com/hr793/n/n46301b83400b",
+    "https://www.fbs.fujikura.jp/company/index.html"
+   ]
+  },
+  {
+   "query": "フジクラ 決算説明資料",
+   "results": [
+    "https://finance.yahoo.co.jp/quote/5803.T/financials",
+    "https://www.buffett-code.com/company/5803/library",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5803",
+    "https://www.fujikura.co.jp/ir/financials/",
+    "https://www.fujikura.co.jp/ir/",
+    "https://edinetdb.jp/company/E01334/presentations/",
+    "https://www.fujikuracomposites.jp/ir/library/"
+   ]
+  },
+  {
+   "query": "フジクラ 事業系統図",
+   "results": [
+    "https://www.fujikura.co.jp/understanding-fujikura/",
+    "https://semi-connect.net/fujikura-semiconductor-business/",
+    "https://huntou-sarao.com/フジクラとは？事業内容・強み・将来性を徹底解/",
+    "https://recruit.fujikura.co.jp/people/",
+    "https://www.fujikura.co.jp/company/business/",
+    "https://mindmeister.jp/posts/bm-fujikura",
+    "https://recruit.fujikura.co.jp/technology/company.html"
+   ]
+  },
+  {
+   "query": "フジクラ 社長 インタビュー",
+   "results": [
+    "https://business.nikkei.com/atcl/NBD/19/special/02421/",
+    "https://www.fujikura.co.jp/news/information/20250624webceo.html",
+    "https://www.fujikura.co.jp/news/information/",
+    "https://www.bloomberg.com/jp/news/articles/2026-06-09/TG2WIGT9NJLS00",
+    "https://www.nikkan.co.jp/articles/view/785809",
+    "https://www.fujisan.co.jp/trends/business/68093/",
+    "https://kabutan.jp/news/marketnews/?b=n202603040349"
+   ]
+  }
+ ],
+ "missing": {}
+}

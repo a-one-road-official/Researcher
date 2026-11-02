@@ -1,0 +1,2017 @@
+{
+ "name": "ビジョン",
+ "aliases": [],
+ "context": "証券コード9416／情報・通信業／プライム（内国株式）／2025.12期 売上高39,012百万円 営業利益率16.6%",
+ "researched_at": "2026-11-02T18:35:46.728409+00:00",
+ "official_url": "https://www.vision-net.co.jp/",
+ "identified_by": "search:yahoo_jp:ビジョン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1995年6月1日",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2001年12月4日",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "label": "設立登記数（総数）",
+    "value": "145,357件",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "国内：881名（社員 706名　アルバイト 175名） 海外：112名（社員 106名　アルバイト 6名） ※2026年6月30日時点",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1.グローバルWiFi事業 海外事業 国内事業 2.情報通信サービス事業 固定通信事業 移動体通信事業 ブロードバンド事業 OA機器販売事業 インターネットメディア事業 3.グランピング・ツーリズム事業 4.その他",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がもっと安心して、もっと便利に、",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回の認証取得により一層の情報セキュリティ管理の強化を図り、情報資産を正確かつ安全に取り扱い、経営戦略に沿った情報セキュリティを実現するとともに、お客様の信頼に応えていくものとします",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港：海外及び国内におけるインターネット、音声接続機器に関する顧客サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "中部国際空港：海外及び国内におけるインターネット、音声接続機器に関する顧客サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "関西国際空港：海外及び国内におけるインターネット、音声接続機器に関する顧客サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、常に革新的な技術と創造性を追求し、お客様のニーズに応えるサービスを提供することを使命としています",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の成長ステージにおけるニーズにお応えします",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "徹底したお客様視点に立ち、最良の価値を提供できたからだと自負しています",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは自らが新しいサービスの創り手となって、お客様がもっと安心して、もっと便利に、",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、世の中の情報通信産業革命を積極的に推進し個人のライフスタイル、そして企業のビジネススタイルをイノベーションし、クライアント企業様とエンドユーザー様を効率的、効果的につなぐディストリビューター企業として、永久にベンチャースピリットを忘れず従業員の無限なる向上心や夢・思いがステークホルダーに貢献できているか確認しあい妥協しない集団であり続け、人類と社会の進歩発展に貢献します",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合お客様サポートはこちら",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "私たち株式会社ビジョンは、お客様の満足度を徹底的に追及することで、お客様・市場・時代のニーズを的確に捉え、事業の拡大と周辺ビジネスによる差別化、業界における圧倒的な地位の確立を図るべく積極的な事業活動を行っています",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の成長ステージにおけるニーズにお応えします",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルWiFiユーザーへ",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との長期的なリレーションを構",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客資産活用",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強固な顧客基盤",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客数 ご利用者数シェアナンバーワン※1利用者数2,500万人突破！※2",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：「2016年～2024年海外用レンタルWi-Fiサービス（国内→海外）」のべユーザー数、売上高調査（東京商工 リサーチ、2017年～2025年各年調査）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2：Wi-Fiルーターレンタルサービスにおけるグループ全体のご利用者数（ 2026年７月当社調べ）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外Wi-Fiレンタル利用者数No.1の「グローバルWiFi®」が提供する",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスレベルをお客様に応じて最適化",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "説明が不要なお客様（リピーター層等）へは、待ち時間をなくす（スマートピックアップ活用）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "説明が必要なお客様へは、空港スタッフが応対（空港カウンター活用）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "即時お客様識別カウンター",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様それぞれのニーズに対応する店舗へ進化",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のご要望に応え旅ナカサービス（オプション含む）を拡充",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独自ノウハウのＣＲＭ（顧客関係・取引継続）戦略",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の「売上向上」、「経費削減」、「業務効率改善」、「コミュニケーション",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは自ら新しいサービスの創り手となって、",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス展開",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「チャージWiFiどっとこむ」累計販売台数10,000台を突破 －必要なときに必要な分だけチャージして使えるWi-Fiとして、2025年に本格的にサービスを開始し、約１年で累計販売台数10,000台を達成－",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業本部長",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "2.情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社：海外及び国内におけるインターネット、音声接続機器に関するマネージドサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型テレマーケティングサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "オンライン・オフラインの通訳、動画の吹替・翻訳、文字の翻訳サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "新宿営業所：海外及び国内におけるインターネット、音声接続機器に関するマネージドサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "横浜営業所：海外及び国内におけるインターネット、音声接続機器に関するコールセンターサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "柏営業所：海外及び国内におけるインターネット、音声接続機器に関するマネージドサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "関西営業所：海外及び国内におけるインターネット、音声接続機器に関するマネージドサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジョン・フューチャー・ビジネスセンター：海外及び国内におけるインターネット、音声接続機器に関するコールセンターサービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港：海外及び国内におけるインターネット、音声接続機器に関する顧客サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "中部国際空港：海外及び国内におけるインターネット、音声接続機器に関する顧客サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "関西国際空港：海外及び国内におけるインターネット、音声接続機器に関する顧客サービスの提供",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "ZORSE株式会社：企業向け営業及びコールセンターの代行サービス、並びにカスタマーサポート",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "ZORSE株式会社 二日町オフィス：企業向け営業及びコールセンターの代行サービス、並びにカスタマーサポート",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスである国内外でモバイルインターネット通信が可能なWi-Fiルーターレンタルサービス「グローバルWiFi」、「VISION GLAMPING Resort & Spa」の宿泊およびスキンケアシリーズ「KO SHI KA | こしか」の３点セットに関するご利用券を贈呈",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "◆ご利用いただけるサービス",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "①グローバルWiFi（海外Wi-Fiルーターレンタルサービス）：",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "②グローバルWiFi（国内Wi-Fiルーターレンタルサービス）：",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "・欠品が発生した場合は、商品が入荷次第、速やかに発送いたします",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、常に革新的な技術と創造性を追求し、お客様のニーズに応えるサービスを提供することを使命としています",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界200以上の国と地域で使えるパケット定額制の海外用WiFiルーターレンタルサービスです",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "訪日外国人や、日本への一時帰国・出張などの方向けの日本国内用WiFiルーターレンタルサービス提供しています",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "固定通信サービス、移動体通信サービス、OA機器、ビジネスフォン、WEBサイト制作等、企業活動に必要な通信インフラやオフィス機器をご提供しています",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人・個人に関わらず様々なシーンに合わて、高品質な送迎サービスを時間単位でご利用頂けるハイヤーのタイムシェアリングサービスです",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが情報通信サービスのあらゆる分野においてNo.1ディストリビュータの地位を継続できたのも、",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは自らが新しいサービスの創り手となって、お客様がもっと安心して、もっと便利に、",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・サービス一覧 | 株式会社ビジョン",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "世界200以上の国と地域で使えるパケット定額制の海外用Wi-Fiルーターレンタルサービスです",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "訪日外国人や、日本への一時帰国・出張などの方向けの日本国内用Wi-Fiルーターレンタルサービスも提供しています",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "固定通信サービス、移動体通信サービス、OA機器、ビジネスフォン、WEBサイト制作等、企業活動に必要な通信インフラやオフィス機器をご提供しています",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信サービス事業",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在日南米人向け国際電話サービス",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ファミリーラインサービス」を",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外旅行時の「パケ死」回避サービスとして",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービスの新たなニーズを",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な価格でサービスを継続的に提供",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスの質の高さを保ちながら、",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ サービス品質評価",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ コンシェルジュサービス",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "集中させサービスを極める",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "（会社紹介・参考資料）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外注費（代理店等への支払手数料） 等",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗スマート化戦略（テンスマ）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様それぞれのニーズに対応する店舗へ進化",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（店舗スマート化戦略） クラウドWiFi データベース",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※空港カウンター店舗目の前でのWeb申込みも、",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗の営業時間内であれば深夜の受取可能",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無人型店舗展開 ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無人型店舗展開",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "キャリア、または一次代理店より入金",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代理店への支払",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通信キャリア、または一次代理店、代",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通信キャリア、メーカー、代理店等へ",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー、",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス事業 エスカレーション（事業部間連携、顧客紹介）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エスカレーション（事業部間連携、顧客紹介）が生みだす高い生産性",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オーストラリアなどを中心に、50か国以上の海外旅行代理店との",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「独自の営業体制による高いクロスセル率」が買収先とのシナジーを早期に最大化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 自社顧客、関係会社等の紹介",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旅行代理店 A",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旅行代理店 B",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旅行代理店 C",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここからは、ビジョンに意味を持たせるためのポイントを2つ紹介します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年中には、事例紹介・活用実績を含めた情報公開を目指しています",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョンマップの事例紹介",
+    "url": "https://tomorrowgate.co.jp/blog/3456/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にトゥモローゲートが企業と一緒に設計してきた実際のビジョンマップをいくつかご紹介していきます",
+    "url": "https://tomorrowgate.co.jp/blog/3456/",
+    "pass": 3
+   },
+   {
+    "quote": "事例を一つ紹介しよう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゼネラルパートナー",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営企画、店舗開発、FC加盟店開発、新規事業立ち上げを経験し、当社へ入社",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業界に変革を起こし、より多くの求職者様に質の高いサービスを提供したいという思いから、2022年に株式会社MyVisionを設立",
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "pass": 3
+   },
+   {
+    "quote": "実際に私が面談した方でも質の低いエージェントに当たってしまい、「レスポンスが極めて遅い」「面接対策を全くしてくれない」「自分の希望を完全に無視した求人を紹介される」「勝手に応募される」などの苦労をしている方が多くいらっしゃいました",
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業の成長には、優秀な人材が何よりも重要",
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "pass": 3
+   },
+   {
+    "quote": "並行して、人材紹介において別業界にも支援領域を広げていきたいと思っています",
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "pass": 3
+   },
+   {
+    "quote": "現在の人材紹介業界に疑問を感じていて、しっかりとヒト・キャリアの支援をやりたい人",
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルパートナーズ株式会社 / 代表取締役",
+    "url": "https://vision-zukan.com/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年6月1日",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年12月4日",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年5月31日",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴｜企業情報 | 株式会社ビジョン",
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期） 決算関係書類（2026.8.10）",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)（550KB/12P）",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期）決算説明資料（2MB/54P）",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期） 決算説明動画（2026.8.12）",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期） 決算説明会(書き起こし)",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期） 決算説明会(書き起こし)",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 決算説明会(書き起こし)",
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月13日発表",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期（予想）",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年６月30日時点の株主名簿に記載または記録された株主様より適用いたします",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第３四半期決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期）決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第１四半期決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第３四半期決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第２四半期（中間期）決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第１四半期決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期決算発表、決算説明会（機関投資家向け）",
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期）決算説明動画",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期（中間期）決算概況について",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第１四半期 決算説明動画",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第１四半期 決算概況について",
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.vision-net.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "沿革および売上高推移 VOC(Voice Of Customer)による成長ストーリー",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年 2017年～現在2012年",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年 年間6,000万人",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年の国際観光客到着数は約15.2億人と推定、パンデミッ",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年初旬オープン予定",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度実績 企画型ツアー パッケージツアー",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年２月13日",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月期 通期実績の振り返りとハイライト",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年開業",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 2025年度 2026年度予想 2027年度計画 2028年度計画",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年度",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年以前",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "グリーンサイトライセンス取得",
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お申込み時、受渡手数料：無料（通常550円税込）",
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "✓ ストックビジネス",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４Ｇプラン：月額基本料金（2,167円）＋データ利用料金（プラン）×利用日数",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５Ｇプラン：月額基本料金（3,278円）＋データ利用料金（プラン）×利用日数",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外注費（代理店等への支払手数料） 等",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クレジットカード決済手数料 等",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無制限プランの選択率増加⇒ARPU向上",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継続的収益の最大化＝ストックビジネス",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・業務受託手数料",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取次手数料",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・継続手数料※",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・月額サービス利用料",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・回線利用料、外注費および",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス事業 ストック型ビジネスモデル",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型ビジネスモデル",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "家賃保証による「高継続ストック収益」を確保しつつ、オフィス",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・新たなストック収益の柱",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 保証料ストックとリードを確保",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 多層的なストック収益の構築",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ ストックビジネス",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益と経理BPOによるLTV最大化を推進",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "需要トレンドと外部環境を織り込んだ保守的計画",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法人強化と単価向上による基盤確立",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "率を高め、全体単価を底上げすることで、外的要因に左右されない強",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利重視のストック拡大とクロスセル強化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利計上型のストック収益拡大を強化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独自性：ストック収益を積み上げる法人基盤",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● クラウド、セキュリティ等ストック収益へ移行",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ オプションサービスの充実によるニーズ拡大と単価の",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を目指し、既存顧客との関係強化、新規顧客の獲得、さらにはストック型収益の拡大に寄",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• ストック商材の拡販と継続利用の促進に注力することで、安定",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "‐ 独自の体験価値を提供し、満足度向上と消費単価の拡大を図る",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社ストック収益 売上総利益推移予測",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバルWiFi ストック 0 0 0 0 1.4 3.3 3.4 3.6 4.7 6.2 7.5 8.6 9.6 10.7",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス自社ストック 0.5 0.8 1.3 1.9 3.3 4.7 6.7 8.5 9.9 13.2 16.2 20.9 26.8 32.9",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "キャリア・メーカーストック 4.7 4.6 4.6 4.2 4.0 3.6 3.4 3.0 2.7 2.3 2.9 2.8 2.8 3.1",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期的に安定した収益基盤となるストック収益を強化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、プロジェクト型支援（コンサル・構築）に加え、運用フェーズにおけるサブスクリプション型の保守・教育サービスを展開しており、継続的な価値提供を可能としています",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "グローバルWiFi事業 ビジネスモデル・競争優位",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバルWiFi事業 収益構造",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス事業 収益構造",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス事業 ビジネスモデル",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業以来31年で構築したビジネスモデルを",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス事業 ストック型ビジネスモデル",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型ビジネスモデル",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "M&A統合による収益構造の多層化とLTV最大化",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用、および商材転換による収益構造の最適化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "盤石な基盤と収益モデルの進化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益構造の進化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単なる「モノ流し」から脱却し、高付加価値を提供する持続可能なビジネスモデルを共に創ります",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験をもとに、マーケティングを軸とした経営戦略の立案、ビジネスモデルの再設計、組織風土改革など、攻守のバランスを重視したコンサルティングを数多く手掛けている",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営ビジョンの実現に向けたビジネスモデルの方向性 :: assist-godo",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ビジョンの実現に向けたビジネスモデルの方向性",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "■ ビジネスモデルの柱（戦略的方向性）",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の3つの柱を当社のDXビジネスモデルの中核に位置づけています：",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 収益モデルと強み",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのビジネスモデルと戦略は、現在、社内で方針を整備中であり、今後、Webサイトや顧客向け資料を通じて順次公表していく予定です",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "単なる「モノ流し」から脱却し、高付加価値を提供する持続可能なビジネスモデルを共に創ります",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "複数の事業セグメントを有しており、状況（景気、トレンド、経済条件等）に合わ",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法人セグメント（B2B）約74％",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個人セグメント（B2C）約26％",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益の増加 セグメント別",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "グローバルWiFi事業 ビジネスモデル・競争優位",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバルWiFi for Biz積極拡販 ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "超高速通信５Gプラン・World eSIM® ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無制限プランエリア拡大 ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンビニ受取対応 ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無人型店舗展開 ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本国内向けWi-Fi ～渡航回復時の競争優位性～",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報通信サービス事業 成長戦略（競争優位）",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スタートアップ 年間国内で新規設立される法人の約10社に１社※と取引がある強み",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利率・粗利",
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 営業利益率 16.6%（前期15.1%から大幅向上）",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 15.1% 16.6% 15.7% 17.9% 15.7% 19.1% 15.9% 20.0%",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率目標 20.0%",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫依存を下げ利益が現預金として残る構造へ",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利重視のストック拡大とクロスセル強化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利計上型のストック収益拡大を強化",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活かしたクロスセル最大化により、効率的に利益を積み上げる高収益",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "‐ 法人顧客に喜ばれるオプションサービスを拡充し、差別化と高収益化を推進",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 訪日外国人向けに明確なターゲティングを実施し、高収益化とセカンドマネタイズの",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と取引がある強み",
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益を誇る優秀企業の事例をもとにクライアントを指導し、絶大な信頼を得ている",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社・卸における高収益ビジネスへの突破口",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファミリービジネス（同族経営）の真価とは？ 強みと課題から読み解く、次世代への長期ビジョン構築",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "■ 収益モデルと強み",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "①営業利益率が4.8%（2017年度）から21.3%（2021年度）と約4倍になった",
+    "url": "https://tomorrowgate.co.jp/blog/3456/",
+    "pass": 3
+   },
+   {
+    "quote": "Tは強みや固有技術（Technology）、MはMarket（市場）、Man（人）、Money（お金）、Management（管理）の意味である",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業戦略は、どの市場へ自社のどの強みや固有技術を展開するのか、経営戦略は事業戦略を実現するために人・お金・管理をどのようにするのかを決めることである",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "わが社にはどんな技術があり、お客様に評価されている点は何か、他社より優れている点は何か、どんな実績があったかを整理し、討議を行い、技術力、強みを明確にした",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員が自社の強み・技術を会得し、●年後にはどのような姿になっていて欲しいか、求める人物像の設定を行った",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社・卸における高収益ビジネスへの突破口",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファミリービジネス（同族経営）の真価とは？ 強みと課題から読み解く、次世代への長期ビジョン構築",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後コンサル業界特化のエージェントへ転職し、圧倒的な面接対策を強みに数百名の方々を転職決定までご支援",
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジョン とは？ ビジネス における意味や必要性～策定ステップ ... — ビジョン とは？ ビジネス における意味や必要性～策定ステップ ... タナベコンサルティング https://www.tanabeconsulting.co.jp > TOP > コラム",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営 ビジョン の実現に向けた ビジネスモデル の方向性 — 経営 ビジョン の実現に向けた ビジネスモデル の方向性 Webnode https://assist-godo.webnode.jp > 経営ビジョンの実現に向...",
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョン とは【簡単まとめ】事例と作り方。 — ビジョン とは【簡単まとめ】事例と作り方。 株式会社やさしいビジネスラボ https://yasabi.co.jp > site > vision",
+    "url": "https://yasabi.co.jp/site/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ビジネスモデル 時代の『 ビジョン 』と『ミッション』の ... — 「 ビジネスモデル 時代の『 ビジョン 』と『ミッション』の ... Biz/Zine https://bizzine.jp > article > detail",
+    "url": "https://bizzine.jp/article/detail/1072",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル に含まれる要素とは？そして、 ビジョン ... — ビジネスモデル に含まれる要素とは？そして、 ビジョン ... ctoforgood.com https://ctoforgood.com > ビジネスモデル解説",
+    "url": "https://ctoforgood.com/2018/05/why-you-run-the-business/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜IR（投資家情報） - 株式会社ビジョン — 決算説明資料 ｜IR（投資家情報） - 株式会社ビジョン 株式会社ビジョン https://www.vision-net.co.jp > Investors > IR Library",
+    "url": "https://www.vision-net.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "Investors IR（投資家情報） - 株式会社ビジョン — Investors IR（投資家情報） - 株式会社ビジョン 株式会社ビジョン https://www.vision-net.co.jp > ...",
+    "url": "https://www.vision-net.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "ミッション・ ビジョン の 資料 一覧 - IRコンパス — ミッション・ ビジョン の 資料 一覧 - IRコンパス IRコンパス https://ir-compass.com > docs > ミッション・ビジョン",
+    "url": "https://ir-compass.com/docs/%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 IR Information - メディカル・データ・ビジョン — 決算説明 会 資料 IR Information - メディカル・データ・ビジョン メディカル・データ・ビジョン株式会社（MDV） https://www.mdv.co.jp > IR情報",
+    "url": "https://www.mdv.co.jp/ir/library/supplement.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - シリウスビジョン株式会社 — IR情報 - シリウスビジョン株式会社 シリウスビジョン株式会社 https://siriusvision.co.jp > ...",
+    "url": "https://siriusvision.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョン とは？組織が強くなる ビジョン マップの作り方 — ビジョン とは？組織が強くなる ビジョン マップの作り方 トゥモローゲート https://tomorrowgate.co.jp > blog",
+    "url": "https://tomorrowgate.co.jp/blog/3456/",
+    "pass": 3
+   },
+   {
+    "quote": "長期 ビジョン において、将来の組織図を描き、教育体系 — 長期 ビジョン において、将来の組織図を描き、教育体系 タナベコンサルティング https://www.tanabeconsulting.co.jp > TOP > コラム",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場を巻き込み組織を変える！「 ビジョン 策定」の正しい手順 ... — 現場を巻き込み組織を変える！「 ビジョン 策定」の正しい手順 ... TOPPA!!!SQUARE https://solution.toppan.co.jp > contents > vision_develop...",
+    "url": "https://solution.toppan.co.jp/bx/contents/vision_development_contents01.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジョン とは？】企業の目指すべき未来との関係性や作り方 ... — 【 ビジョン とは？】企業の目指すべき未来との関係性や作り方 ... 株式会社パラドックス https://prdx.co.jp > HOME > コーポレートブランディング",
+    "url": "https://prdx.co.jp/visions-prdx/what-is-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "第一歩をどう踏み出すか | 長期 ビジョン で企業変革を実現する — 第一歩をどう踏み出すか | 長期 ビジョン で企業変革を実現する MRI 三菱総合研究所 https://www.mri.co.jp > knowledge > column",
+    "url": "https://www.mri.co.jp/knowledge/column/20191121.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョン 図鑑｜ 社長 の「本気」と出会う インタビュー メディア — ビジョン 図鑑｜ 社長 の「本気」と出会う インタビュー メディア ビジョン図鑑 https://vision-zukan.com",
+    "url": "https://vision-zukan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "佐野健一・ ビジョン社長インタビュー 「“やっぱり面白い”と ... — 佐野健一・ ビジョン社長インタビュー 「“やっぱり面白い”と ... 経済界ウェブ https://net.keizaikai.co.jp > 経営 > 経営者・経営戦略",
+    "url": "https://net.keizaikai.co.jp/archives/915",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイトから 社長 へ-代表からのメッセージ — アルバイトから 社長 へ-代表からのメッセージ 株式会社ビジョン https://recruit.vision-net.co.jp > top-message",
+    "url": "https://recruit.vision-net.co.jp/top-message",
+    "pass": 3
+   },
+   {
+    "quote": "ザ・トップ ビジョン ～未来を切り開くリーダーシップ - BS朝日 — ザ・トップ ビジョン ～未来を切り開くリーダーシップ - BS朝日 BS朝日 https://www.bs-asahi.co.jp > topvision",
+    "url": "https://www.bs-asahi.co.jp/topvision/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vision-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/company/com_data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/topics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/benefit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/finance/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/personal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/guide/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/movie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.vision-net.co.jp/archive/ir/FY2026_Business_Overview_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vision-net.co.jp/pdf/business-strategy-revision-2025-2028-ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomorrowgate.co.jp/blog/3456/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/myvision/n/n7d3b8a5e333e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vision-zukan.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ビジョン",
+   "results": [
+    "https://www.vision-net.co.jp/",
+    "https://www.kaonavi.jp/dictionary/vision/",
+    "https://solution.lmi.ne.jp/column/c433",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "https://kotobank.jp/word/%E3%81%B3%E3%81%98%E3%82%88%E3%82%93-3165815",
+    "https://ja.wikipedia.org/wiki/ビジョン",
+    "https://grokipedia.com/page/Vision_Megane",
+    "https://www.evolverpartners.com/glossary/vision",
+    "https://job.migi-nanameue.co.jp/column/vision-meaning-importance-business/",
+    "https://kotobank.jp/word/びじよん-3165815"
+   ]
+  },
+  {
+   "query": "ビジョン ビジネスモデル",
+   "results": [
+    "https://www.tanabeconsulting.co.jp/vision/column/detail130.html",
+    "https://assist-godo.webnode.jp/%E7%B5%8C%E5%96%B6%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7/",
+    "https://yasabi.co.jp/site/vision/",
+    "https://bizzine.jp/article/detail/1072",
+    "https://ctoforgood.com/2018/05/why-you-run-the-business/",
+    "https://www.hri-japan.co.jp/contents_library/term/business-model/75/",
+    "https://www.ohmae.ac.jp/mbaswitch/mba_vision",
+    "https://www.udemy.com/course/4-ekebqx/?srsltid=AYCX9vLbrzjwXdYKeUeqkjYsGznj4vD4ar1YBE15YJzeEPdJHq1MGdA_",
+    "https://biz.moneyforward.com/establish/basic/55477/",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail130.html?categoryName=medium"
+   ]
+  },
+  {
+   "query": "ビジョン 決算説明資料",
+   "results": [
+    "https://www.vision-net.co.jp/ir/library/presentation.html",
+    "https://www.vision-net.co.jp/ir",
+    "https://ir-compass.com/docs/%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3/",
+    "https://www.mdv.co.jp/ir/library/supplement.html",
+    "https://siriusvision.co.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260513531044/",
+    "https://www.visional.inc/ja/ir/library/presentation.html",
+    "https://www.pigeon.co.jp/ir/library/kesan_setumei/"
+   ]
+  },
+  {
+   "query": "ビジョン 事業系統図",
+   "results": [
+    "https://tomorrowgate.co.jp/blog/3456/",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail04.html",
+    "https://solution.toppan.co.jp/bx/contents/vision_development_contents01.html",
+    "https://prdx.co.jp/visions-prdx/what-is-vision/",
+    "https://www.mri.co.jp/knowledge/column/20191121.html",
+    "https://suzuki-tax.net/shacho-kyokasho/organization-chart",
+    "https://solution.lmi.ne.jp/column/c433",
+    "https://www.vision-net.co.jp/ir/company/outline.html",
+    "https://nobuplanning.com/blog/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BF%85%E8%A6%8B%EF%BC%81%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9E%E3%83%83%E3%83%97/",
+    "https://mit-hd.co.jp/ir-information/keito/"
+   ]
+  },
+  {
+   "query": "ビジョン 社長 インタビュー",
+   "results": [
+    "https://note.com/myvision/n/n7d3b8a5e333e",
+    "https://vision-zukan.com/",
+    "https://net.keizaikai.co.jp/archives/915",
+    "https://recruit.vision-net.co.jp/top-message",
+    "https://www.bs-asahi.co.jp/topvision/",
+    "https://cowtv.jp/channel/boss/348sano/03.php",
+    "https://my-vision.co.jp/interview",
+    "https://www.wantedly.com/companies/company_2421912/post_articles/532760",
+    "https://www.youtube.com/watch?v=8zscGzA0Evs",
+    "https://the-leader.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像2件／外部6頁・検索5回）"
+ }
+}

@@ -1,0 +1,631 @@
+{
+ "name": "レイヤード",
+ "aliases": [],
+ "context": "証券コード634A／情報・通信業／スタンダード（内国株式）／2026.06期 売上高1,981百万円 営業利益率17.4%",
+ "researched_at": "2026-11-02T18:24:10.414426+00:00",
+ "official_url": "https://layered.inc/",
+ "identified_by": "search:yahoo_jp:レイヤード",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療DX事業",
+    "url": "https://layered.inc/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1998年7月15日",
+    "url": "https://layered.inc/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "171名 （2026年6月末時点）",
+    "url": "https://layered.inc/corporate/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "【重要】外部サービス「Studio」への不正アクセスに伴う、フォ...",
+    "url": "https://layered.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "受診先を探す、受診予約、来院・受付、診察待ち、診察、患者説明、決済、受診後のフォローまでの患者動線を総合的にカバーするプロダクト・サービスを提供しています",
+    "url": "https://layered.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "現場で使われ続けることが、私たちのサービス価値だと考えています",
+    "url": "https://layered.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "医療現場の課題と向き合いながら改善を積み重ね、多くの医療機関で日々利用されるサービスへと成長してきました",
+    "url": "https://layered.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】外部サービス「Studio」への不正アクセスに伴う、フォーム送信情報の流出の可能性に関するお詫びとお知らせ",
+    "url": "https://layered.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機関向けデジタルサイネージの製品名を「Medicastar メディキャスター」に変更",
+    "url": "https://layered.inc/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルサイネージ広告配信サービス（メディア事業）を提供開始",
+    "url": "https://layered.inc/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機関向けホームページ制作サービスを提供開始",
+    "url": "https://layered.inc/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "AI電話エージェントサービス「Capai カパイ」を提供開始",
+    "url": "https://layered.inc/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト / サービス",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "電話やホームページ、LINEでの患者対応を支援するAIサービスです",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ウィーハブは、医療機関ホームページの運用をトータルサポートするサービスです",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "レイヤード製品は患者の受診動線に対応します",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各プロダクト／サービスについてはこちら",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "レイヤードのソリューションを活用して、医療者・生活者にとって有益な情報をとはなにかを考え、",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "レイヤードが提供する病院向けの各ソリューションは、病院におけるあらゆる患者業務の効率化を実現します",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "レイヤードのソリューションを活かした医療DXにより、どのような状況下でも持続可能な医療体制を構築し、実装していきます",
+    "url": "https://layered.inc/business/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、当社は株主の皆様だけでなく、サービスをご利用いただく医療機関、より良いサービスを届けるために働く従業員、当社を支えてくださる取引先、そして医療という社会に不可欠な産業があって初めて成り立つ会社です",
+    "url": "https://layered.inc/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に商号を「株式会社レイヤード」へと変更、2023年に予約システム「Wakumy：ワクミー」、2024年に医療版CRM「Kakarite」といった主力プロダクトをリリース",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS製品の月額利用料収入で構成されています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを利用する医療機関増加に比例して収入が積み上がると共に、複数プロダクトを導入する医療機関が増加することで医療機関あたりのARPU（平均売上高）が向上します",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを新規導入する際に発生する初期費用による収益で構成されています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入にあたり、各医療機関の運用に即したコンサルテーションとシステム設定支援、受付スタッフへの使い方支援のレクチャー等のサービスを提供しています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "導入医療機関数と各プロダクトの販売単価に依存し、近年は営業体制の拡充や定期的な新サービスの開発・投入、及び当社ブランドの向上により、導入医療機関数は年々拡大",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "契約時の複数プロダクト契約（クロスセル）率向上、無人受付ソリューション等の高単価プロダクト の投入により、販売単価も向上",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "導入初期における丁寧なコンサルテーション、オンボーディングサービスは、解約率の低減や長期的な顧客関係構築に繋がるため、ストック事業を下支えする重要な役割を果たしています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1998年7月15日",
+    "url": "https://layered.inc/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社レイヤード",
+    "url": "https://layered.inc/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月28日 01:00",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期の売上高は19.8億円、営業利益率は17.4％",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "沿革｜医療機関向けサイネージ会社を現経営陣が引き継ぐ、医療DX事業で成長",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2008年に現代表の毛塚 牧人 氏が代表に就任",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2011年に創業者から毛塚氏と田澤悟郎氏（現・専務取締役）が株式を取得しています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に商号を「株式会社レイヤード」へと変更、2023年に予約システム「Wakumy：ワクミー」、2024年に医療版CRM「Kakarite」といった主力プロダクトをリリース",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にはメディパルHDと業務提携を発表しています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期時点で、契約総数2,425、総アカウント数8,451となっています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期時点で、月次チャーンレート0.38%となっています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期時点の要約財務情報は売上高0.7億円・当期純損失△0.1億円",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "しかし、当社は株主の皆様だけでなく、サービスをご利用いただく医療機関、より良いサービスを届けるために働く従業員、当社を支えてくださる取引先、そして医療という社会に不可欠な産業があって初めて成り立つ会社です",
+    "url": "https://layered.inc/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "導入初期における丁寧なコンサルテーション、オンボーディングサービスは、解約率の低減や長期的な顧客関係構築に繋がるため、ストック事業を下支えする重要な役割を果たしています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "約30年にわたり培ってきた医療現場への深い理解と業務設計力が、当社の大きな強みです",
+    "url": "https://layered.inc/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期の売上高は19.8億円、営業利益率は17.4％",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "pass": 3
+   },
+   {
+    "quote": "導入医療機関数と各プロダクトの販売単価に依存し、近年は営業体制の拡充や定期的な新サービスの開発・投入、及び当社ブランドの向上により、導入医療機関数は年々拡大",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 レイヤード 】[634A]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 レイヤード 】[634A]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "pass": 3
+   },
+   {
+    "quote": "レイヤード 【634A】の最新 決算 発表、業績修正 - 株探 — レイヤード 【634A】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > レイヤード (634A)",
+    "url": "https://kabutan.jp/stock/finance?code=634A",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - 株式会社レイヤード — 組織図 - 株式会社レイヤード 株式会社レイヤード https://layered.inc > corporate > organization",
+    "url": "https://layered.inc/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "【IPO分析】株式会社 レイヤード ：福岡発の医療DX SaaS - note — 【IPO分析】株式会社 レイヤード ：福岡発の医療DX SaaS - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 レイヤード 様】6ヶ月でサービス開始、医療機関 ... — 【株式会社 レイヤード 様】6ヶ月でサービス開始、医療機関 ... ＰＣＩソリューションズ https://www.pci-sol.com > product > cases > layered",
+    "url": "https://www.pci-sol.com/business/service/product/cases/layered/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社レイヤード — 会社概要 - 株式会社レイヤード 株式会社レイヤード https://layered.inc > corporate > profile",
+    "url": "https://layered.inc/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 レイヤード 、東京証券取引所スタンダード市場に新規 ... — 株式会社 レイヤード 、東京証券取引所スタンダード市場に新規 ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000004524.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ - 株式会社レイヤード — 代表メッセージ - 株式会社レイヤード 株式会社レイヤード https://layered.inc > corporate > message",
+    "url": "https://layered.inc/corporate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 レイヤード の働き方とストーリー - Wantedly — 株式会社 レイヤード の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社レイヤード",
+    "url": "https://www.wantedly.com/companies/mediacontentsfactory/stories",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "・ストック＆イニシャル、マルチプロダクトを展開する医療系SaaSのビジネスモデル",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル｜医療の接点を丁寧に繋ぐマルチプロダクト戦略",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメントは「医療DX事業」の単一であり、収益構造の観点から3つの事業区分に分けられています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "・ストック＆イニシャル、マルチプロダクトを展開する医療系SaaSのビジネスモデル",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "（１）医療DXストック事業（月額利用料／ストック型）【55.2%】",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS製品の月額利用料収入で構成されています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを利用する医療機関増加に比例して収入が積み上がると共に、複数プロダクトを導入する医療機関が増加することで医療機関あたりのARPU（平均売上高）が向上します",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "導入医療機関数と各プロダクトの販売単価に依存し、近年は営業体制の拡充や定期的な新サービスの開発・投入、及び当社ブランドの向上により、導入医療機関数は年々拡大",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "契約時の複数プロダクト契約（クロスセル）率向上、無人受付ソリューション等の高単価プロダクト の投入により、販売単価も向上",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "導入初期における丁寧なコンサルテーション、オンボーディングサービスは、解約率の低減や長期的な顧客関係構築に繋がるため、ストック事業を下支えする重要な役割を果たしています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "チャーンレート（解約率）",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期時点で、月次チャーンレート0.38%となっています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "医療DXセグメントにおける3つの事業区分",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメントは「医療DX事業」の単一であり、収益構造の観点から3つの事業区分に分けられています",
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://layered.inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/public-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/library/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layered.inc/ir/stock/info/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/sec_business02_02_01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/sec_business02_02_02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/sec_business02_02_03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/sec_business02_02_04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/business_WM.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/business_SV.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/business_KR.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://layered.inc/wp/wp-content/themes/corporate/img/renew/business_IV.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ampmedia.jp/2020/01/04/triple-layered-businessmodel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hAuZG92V4-c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/finance?code=634A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/local_newsletter/n/nc63cac050feb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scentnations.com/interview/02/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レイヤード",
+   "results": [
+    "https://stripe-club.com/cts1/layered.html",
+    "https://layered.inc/",
+    "https://www.felissimo.co.jp/niau/words/16822/",
+    "https://www.daytona-park.com/feature/1109433",
+    "https://baycrews.jp/blog/detail/100011934?srsltid=AYCX9vK7i2OxLZp_ntq8ncdaaRp4Q5kWWZFC0fThE62vN3tBP-N5N9-f",
+    "https://www.dot-st.com/rageblue/disp/item/1107670/?COLOR_CD=92",
+    "https://giseleweb.com/fashion/645455/",
+    "https://wear.jp/coordinate/?tag_ids=328",
+    "https://modelnavi.jp/model-make/layered-style-winter-2026-complete-guide/",
+    "https://ranking.rakuten.co.jp/keyword/layered/"
+   ]
+  },
+  {
+   "query": "レイヤード ビジネスモデル",
+   "results": [
+    "https://ampmedia.jp/2020/01/04/triple-layered-businessmodel/",
+    "https://www.youtube.com/watch?v=hAuZG92V4-c",
+    "https://bizdev.reinforz.co.jp/4279",
+    "https://www.3ds.com/ja/industries/home-lifestyle/disruptive-business-models",
+    "https://blog.btrax.com/jp/business-models-vol2/",
+    "https://www.u-tokai.ac.jp/uploads/sites/10/2022/10/481611c979019194c932af449e8bfcea-1.pdf",
+    "https://goodpatch.com/blog/business-model-canvas",
+    "https://www.wwdjapan.com/articles/1562374",
+    "https://mazrica.com/product/businesslab/trend/about-business-model/"
+   ]
+  },
+  {
+   "query": "レイヤード 決算説明資料",
+   "results": [
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=634A",
+    "https://kabutan.jp/stock/finance?code=634A",
+    "https://www.toray.co.jp/ir/library/",
+    "https://www.tradershd.com/ir/library/presentations/",
+    "https://plaid.co.jp/ir/library/",
+    "https://www.hoosiers.co.jp/ir/library/",
+    "https://www.raiznext.co.jp/ir/library/pr.html",
+    "https://exawizards.com/ir/library/result/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=634A",
+    "https://edinetdb.jp/company/E41715/ir-docs/"
+   ]
+  },
+  {
+   "query": "レイヤード 事業系統図",
+   "results": [
+    "https://layered.inc/corporate/organization/",
+    "https://note.com/local_newsletter/n/nc63cac050feb",
+    "https://www.pci-sol.com/business/service/product/cases/layered/",
+    "https://layered.inc/corporate/profile/",
+    "https://prtimes.jp/main/html/rd/p/000000083.000004524.html",
+    "https://www.youtube.com/watch?v=jYObV8z0WBc",
+    "https://ipo-navi.jp/column/layered-634a-listing-report",
+    "https://www.facebook.com/layered.inc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%89%E3%81%AF%E6%9C%AC%E6%97%A5%E6%9D%B1%E4%BA%AC%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E5%B8%82%E5%A0%B4%E3%81%AB%E4%B8%8A%E5%A0%B4%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E9%95%B7%E5%B9%B4%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8A%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E3%81%94%E5%88%A9%E7%94%A8%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%A8%E3%82%82%E3%81%AB%E4%BA%8B%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3/1578076844115984/",
+    "https://finance.logmi.jp/articles/385864",
+    "https://zenn.dev/takpon1751/articles/8c578e9c0ce5b5"
+   ]
+  },
+  {
+   "query": "レイヤード 社長 インタビュー",
+   "results": [
+    "https://scentnations.com/interview/02/",
+    "https://layered.inc/corporate/message/",
+    "https://note.com/kezukamakito/n/n613e63ad6378",
+    "https://www.mcf.bz/2017/04/14/post-745/",
+    "https://www.wantedly.com/companies/mediacontentsfactory/stories",
+    "https://www.nikkei.com/article/DGXZQOUC221TM0S6A920C2000000/",
+    "https://finance.logmi.jp/articles/385864",
+    "https://www.youtube.com/watch?v=jYObV8z0WBc",
+    "https://shikiho.toyokeizai.net/news/0/959221",
+    "https://www.youtube.com/watch?v=ccyaXpAe2Pc"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像8件／外部6頁・検索5回）"
+ }
+}

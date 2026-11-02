@@ -1,0 +1,1363 @@
+{
+ "name": "ハンモック",
+ "aliases": [],
+ "context": "証券コード173A／情報・通信業／グロース（内国株式）／2026.03期 売上高4,890百万円 営業利益率17.1%",
+ "researched_at": "2026-11-02T18:25:01.724511+00:00",
+ "official_url": "https://hammockstyle.net/",
+ "identified_by": "search:yahoo_jp:ハンモック",
+ "profile": {
+  "売上高": [
+   {
+    "label": "(売上高",
+    "value": "百万円)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "48億円（2026年3月期）",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1994年4月1日",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数 (正社員のみ)",
+    "value": "218名（2026年3月31日現在）",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "法人向けソフトウェアの開発、販売 自社ソフトウェアによるソリューション、サービス販売 海外ソフトウェアの日本語版販売",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様都合による返品につきましてはお客様のご負担とさせていただきます",
+    "url": "https://hammockstyle.net/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先・提携企業",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題を解決することで",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズに応じた製品をオンプレミス型・クラウド型で提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド料金支払顧客",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客接点 / C X",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ 全てのエンドユーザーとの接点をもつ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ 顧客の課題を的確に解決",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スピーディーに顧客に提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ポートフォリオ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社製品導入企業率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「新規顧客開拓」「名刺管理」「 S FA *」「 M A * *」 の 領 域 を 統 合 し た 一 気 通 貫 の 営 業 支 援 ツ ー ル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客開拓 名刺管理 ＳＦＡ MＡ（マーケティング機能）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報を一元管理",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の興味関心を可視化し",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "HOTなお客様が見つかる",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“顧客”の営業データ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズや事業成長に合わせて、機能拡張や利用部門の拡大が可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• これらにより、幅広い顧客ニーズを 網羅",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 新規顧客獲得",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 顧客獲得費用（営業費用、広告宣伝費等）コントロール",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 顧客の継続利用を高める",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報漏洩事件",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズを捉えその課題を解決",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIを単なる技術革新ではなく、“顧客体験を進化させる事業成長のエンジン”と位置づけています",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験の変革",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "- ユーザーはAIと対話するだけ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先・提携企業",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先・提携企業",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先・提携企業",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "企業で利用している数多くのパソコンの運用管理に必要なソフトウェアを提供し、多くのお客様にご導入いただいております",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員一丸となってお客様課題の解決に全力を尽くしてまいります",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "また、実際にハンモックの製品をご利用いただいているお客様の事例を一挙公開しております",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定顧客との取引拡大を実現",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホットプロファイル 顧客深耕",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceへの顧客情報 登録作業をゼロに！",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新の顧客情報をKintoneで活用",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "名刺管理ツール未導入企業の約6割が現状の管理に課題",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "〜AI OCR導入企業実態調査〜",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定顧客との取引拡大を実現 ホットプロファイル 顧客深耕",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceへの顧客情報 登録作業をゼロに！ 「ホットプロファイル for Salesforce」",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様本位の開発を貫いた日々",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに応える形で2001年に商品化されたAssetViewでしたが、リリース当初は不具合も少なくありませんでした",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在では多くのお客様とお取引をさせていただいています",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様目線で、使い勝手の良さ、運用のしやすさに重点をおいて商品開発を行ったことで、競合との差別化を生み、成長を続けて来られたのだと思います",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、当時市場として盛り上がりを見せていた営業支援系のツールであればお客様に満足していただけるのではないかと気付き、同事業の立ち上げに至りました",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先・提携企業",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品到着後７日以内とさせていただきます",
+    "url": "https://hammockstyle.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "セールスDXソリューション",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータエントリーソリューション",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス DX OCR",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービスをつくっています",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションを、目的別、悩み別にご提案します",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス『DX OCR』、スマートフォン版OCRアプリをリリース",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型データ入力サービス WOZE",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "セールス DX ソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IT 資産管理・セキュリティ対策製品",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータエントリーソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズに応じた製品をオンプレミス型・クラウド型で提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービスの提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品およびサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス代金",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークソリューション セールスDXソリューション AIデータエントリーソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション 成長ステージ CAGR＊",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社ソリューションが属する市場規模",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "O C R ソリューション全体の市場",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他 BPOサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セールス DX ソリューションネットワークソリューション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：デロイト トーマツ ミック経済研究所株式会社「OCRソリューション市場動向 2024年度版」",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ 自社開発による自由な製品開発の強みを持ち",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場ニーズを捉えた製品を製品化し",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 業種 ：業種業態に関わらず、どんな企業にもある業務を支援するサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強み② 「全方位型の製品」を提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「全方位型の製品」を提供することにより、幅広い企業に導入",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業支援製品 データエントリー対策製品",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "セールスDXソリューション",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータエントリーソリューション",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型データ入力サービス WOZE",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型データエントリーサービス WOZE",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "セールスDXソリューション",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータエントリーソリューション",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型データ入力サービス WOZE",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型データエントリーサービス WOZE",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "セールスDXソリューション",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータエントリーソリューション",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス DX OCR",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "帳票設計不要のAI-OCRサービス",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自社主力商品の総合セキュリティ対策ソフトウェア「AssetView」を立ち上げ、日立ソリューションズ「秘文」シリーズへユーザ操作ログ取得機能のOEM提供、IT資産管理の業界初、カスペルスキーのアンチウイルスエンジンの組み込みなど事業を拡大",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自社ソフトウェアによるソリューション、サービス販売",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型データ入力サービス WOZE",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-OCRサービス",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークソリューション",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "セールスDXソリューション",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータエントリーソリューション",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー営業課 2018年入社",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "直販・代理店営業により中堅企業・大企業、 O E M提 供 に よ り 中 小 企 業 へ の 販 路 を 拡 大",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊2025年/3期に取引のあった代理店数",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "管理方法や注意点、テンプレートなどを紹介",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "多店舗展開している小売業、半数以上が「スマホ・タブレットの管理」に不安あり",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "教育現場の端末セキュリティのご紹介資料",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホットプロファイルはパートナー様を募集しております >> ...",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社に最適な製品を比較・検討する際の選定ポイントについても詳しく紹介し、包括的なエンドポイントセキュリティの実現をサポートします",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI OCRとは？従来のOCRとの違いを解説！メリットや活用事例も紹介",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハンモックの製品紹介",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に導入した企業様の事例もご紹介",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2018年入社",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年入社",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年６月",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1994 年 4 月 1 日",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年4月 新たにパーパスを策定",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1994 年創業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2014年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "201８年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 2024年3月期 2025年3月期 2026年3月期",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度実績 2023年度見込 2024年度予測 2025年度予測 2026年度予測",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度実績 2023年度実績 2024年度見込 2025年度予測 2026年度予測",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月リリース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年〜",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年10 月、国内最大の「金融機関のための IT フェア」 F I T（金融国際情報技術展）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年４月以降、大塚商会の全国各地域イベントへの出展も決定",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 4 月には、日本サイバーセキュリティファンド ※2 に 出 資",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年3月期 業績予想",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 3月期 2025年 3月期 2026年3月期予想",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年3月期 ソリューション別売上予想",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 2025年3月期",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算発表",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月26日",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月13日（予定）",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第3四半期決算発表",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "1994年に創業してから2026年に33年目を迎えます",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年に株式会社ハンモックへ入社、新規ビジネスの立ち上げ責任者を歴任",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年よりクラウド営業支援ツール「ホットプロファイル」を立ち上げ、売上を倍増",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月、同社代表取締役社長に就任",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "1994年4月1日",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度に導入した営業・マーケティング支援ツールは「SFA」が第1位",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度に導入した営業・マーケティング支援ツール第1位は「SFA（営業支援ツール）」",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月に制度構築方針が正式決定",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月11日、新規上場した",
+    "url": "https://www.youtube.com/watch?v=0NbwTGmO1AM",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル・市場環境",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01 会社概要 02 ビジネスモデル・市場環境 03 競争力の源泉 04成長戦略及び事業計画 05 リスク情報",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル・市場環境02",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の成長戦略② リカーリング型ビジネスモデルへの移行",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全ソリューションのリカーリング型ビジネスモデルへの移行による利益率の向上",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの提供によるリカーリング型ビジネスモデルへの移行",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※1：BPaaS（ビーパース）は「Business Process as a Service」の略で、従来のBPOとSaaSの要素を組み合わせたビジネスモデルのことを指します",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド比率を高め、リカーリング型ビジネスモデルへの移行を加速",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化が激しく、技術革新や企業のビジネスモデルの変化などにより市場",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "保守サービスの提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス利用料",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 単価アップ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の成長戦略② リカーリング型ビジネスモデルへの移行",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全ソリューションのリカーリング型ビジネスモデルへの移行による利益率の向上",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの提供によるリカーリング型ビジネスモデルへの移行",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略② リカーリング型ビジネスへの移行",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保守・サブスククラウド",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全社：リカーリング売上高／リカーリング売上比率の進捗状況",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング 売上高（ARR*1）推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "占めるリカーリング売上割合",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス、オンプレミスの保守、オンプレミスのサブスクを含む",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※全社としてリカーリングビジネスへの移行を成長戦略として掲げておりますため、全社のリ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カーリング売上高（ARR）、リカーリング売上比率をKPIとして追加致しました",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド比率を高め、リカーリング型ビジネスモデルへの移行を加速",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チャーンレート *",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド比率が高まる中、チャーンレートは低水準を維持",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*解約率を意味し、既存契約の月次経常収益のうち、解約に伴い減少した月次経常収益の割合の直近12カ月平均",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドのチャーンレートの進捗",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チャーンレート * の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専任スタッフが顧客の売上向上の実現まで支援することで、チャーンレートは 1 ％ を 下 回 る 低 水 準",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チャーンレート （ O E M除く）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ OEMは、OEM先企業の事業方針等に左右され、当社が管理不能な要素が含まれるため、上記チャーンレートの算定から除いております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "大企業中小企業 売上構成",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実績 構成比 実績 構成比 前期比 予想 構成比 前期比",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全社：リカーリング売上高／リカーリング売上比率の進捗状況",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カーリング売上高（ARR）、リカーリング売上比率をKPIとして追加致しました",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス売上比率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益・営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強み① ハンモックサイクルを高速に実現",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ 自社開発による自由な製品開発の強みを持ち",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強み② 「全方位型の製品」を提供",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強み①「統合管理」",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強み② 単機能から導入可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品概要と強み① 一気通貫の営業支援ツール",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強み② 企業データベース",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強み③ 低コスト、利用機能・部門が選択可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品概要と強み",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「AI」によるプロダクト強化で、競争優位性と事業成長を目指す",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は前期比 0 . 2 % U P",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益・営業利益率の進捗状況と予想",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ハンモック ｜統合IT運用管理／法人営業支援／データ ... — 株式会社 ハンモック ｜統合IT運用管理／法人営業支援／データ ... 株式会社ハンモック https://www.hammock.jp",
+    "url": "https://www.hammock.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ ハンモック 173A.T] 事業計画及び成長可能性に関する事項 — [G－ ハンモック 173A.T] 事業計画及び成長可能性に関する事項 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260616571682",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260616571682",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ハンモック | 自治体通信Online — 株式会社 ハンモック | 自治体通信Online 自治体通信Online https://www.jt-tsushin.jp > companies > hammock",
+    "url": "https://www.jt-tsushin.jp/companies/hammock",
+    "pass": 3
+   },
+   {
+    "quote": "PRESENTATION MATERIALS 決算説明資料 - ハンモック — PRESENTATION MATERIALS 決算説明資料 - ハンモック 株式会社ハンモック https://www.hammock.jp > presentations",
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR CALENDAR IRカレンダー - ハンモック — IR CALENDAR IRカレンダー - ハンモック 株式会社ハンモック https://www.hammock.jp > calendar",
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハンモック のIR 資料 - 173A / グロース / 情報・通信業 — ハンモック のIR 資料 - 173A / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/173A/library",
+    "pass": 3
+   },
+   {
+    "quote": "【 ハンモック 】[173A]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 ハンモック 】[173A]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=173A",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜株式会社 ハンモック ｜統合IT運用管理／法人営業支援 — 会社案内｜株式会社 ハンモック ｜統合IT運用管理／法人営業支援 株式会社ハンモック https://www.hammock.jp > company",
+    "url": "https://www.hammock.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お役立ち資料｜株式会社 ハンモック ｜統合IT運用管理 — お役立ち資料｜株式会社 ハンモック ｜統合IT運用管理 株式会社ハンモック https://www.hammock.jp > whitepaper",
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ ハンモック 173A.T] 事業 計画及び成長可能性に関する事項 — [G－ ハンモック 173A.T] 事業 計画及び成長可能性に関する事項 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260616571682",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260616571682",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ハンモック のカタログ・会社概要・製品情報 | Metoree — 株式会社 ハンモック のカタログ・会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/40507/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー ｜株式会社 ハンモック 採用情報 — トップ インタビュー ｜株式会社 ハンモック 採用情報 株式会社ハンモック https://www.hammock.jp > recruit > top_interview",
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハンモック ［173A］IPO - YouTube — ハンモック ［173A］IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=0NbwTGmO1AM",
+    "pass": 3
+   },
+   {
+    "quote": "ハンモック の 社長 は誰？若山 大典氏の経歴・就任年【173A】 — ハンモック の 社長 は誰？若山 大典氏の経歴・就任年【173A】 kigyo-scope.jp https://kigyo-scope.jp > 株式会社ハンモック",
+    "url": "https://kigyo-scope.jp/company/173A/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ハンモック 【173A】の 社長 ・役員 - キタイシホン — ハンモック 【173A】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/173A/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ハンモック 代表取締役 社長 若山 大典さん（3/3） — 株式会社 ハンモック 代表取締役 社長 若山 大典さん（3/3） Voicy https://voicy.jp > ... > 藤沢久美の社長Talk",
+    "url": "https://voicy.jp/channel/1714/6223325",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hammockstyle.net/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.hammock.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hammock.jp/ir/presentations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hammock.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hammock.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hammock.jp/whitepaper.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hammock.jp/recruit/top_interview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0NbwTGmO1AM",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハンモック",
+   "results": [
+    "https://www.amazon.co.jp/%E3%83%8F%E3%83%B3%E3%83%A2%E3%83%83%E3%82%AF/s?k=%E3%83%8F%E3%83%B3%E3%83%A2%E3%83%83%E3%82%AF",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%83%B3%E3%83%A2%E3%83%83%E3%82%AF/",
+    "https://www.yodobashi.com/category/152022/152200/152257/152262/ranking/",
+    "https://hammockstyle.net/?mode=f9",
+    "https://www.biccamera.com/bc/i/topics/osusume_hammock/index.jsp?srsltid=AYCX9vJUi5HT-iUcxkItz0TMKv8DvQxB5cPPmIHjSuVq5a4rVHZhuFUV",
+    "https://vivere-hammock.com/blogs/articletop/comfortable?srsltid=AYCX9vKZeyY3wCFd7S8UwhjjcuT-rWYFePj933FiRG0i9z7jH_nPrljm",
+    "https://kakaku.com/ranking/outdoor/0050_0010/0018/",
+    "https://hammock-life.com/",
+    "https://ja.wikipedia.org/wiki/ハンモック",
+    "https://sakidori.co/article/10905"
+   ]
+  },
+  {
+   "query": "ハンモック ビジネスモデル",
+   "results": [
+    "https://www.hammock.jp/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250623/20250620595138.pdf",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260616571682",
+    "https://finance.logmi.jp/articles/385970",
+    "https://www.jt-tsushin.jp/companies/hammock",
+    "https://hrmos.co/pages/hammock/jobs",
+    "https://www.youtube.com/watch?v=0NbwTGmO1AM",
+    "https://mid-tenshoku.com/agency/a-7077/",
+    "https://www.r-agent.com/company/62326/",
+    "https://consovation.com/成長企業の秘密-ビジネスモデルキャンバスから読/"
+   ]
+  },
+  {
+   "query": "ハンモック 決算説明資料",
+   "results": [
+    "https://www.hammock.jp/ir/presentations.html",
+    "https://www.hammock.jp/ir/calendar.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260515/20260514534603.pdf",
+    "https://www.buffett-code.com/company/173A/library",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=173A",
+    "https://www2.jpx.co.jp/disc/173A0/140120240529511640.pdf",
+    "https://investalk.jp/173A/hammock-2026-03-earnings/",
+    "https://www.hammock.jp/ir/faq.html",
+    "https://edinetdb.jp/company/E39460/ir-docs/",
+    "https://irbank.net/173A/ir"
+   ]
+  },
+  {
+   "query": "ハンモック 事業系統図",
+   "results": [
+    "https://www.hammock.jp/company/",
+    "https://www.hammock.jp/whitepaper.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250515/20250514552230.pdf",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260616571682",
+    "https://metoree.com/companies/40507/",
+    "https://mid-tenshoku.com/agency/a-7077/",
+    "https://www.openwork.jp/a0C1000000qdO7N/analysis/",
+    "https://www.jt-tsushin.jp/companies/hammock",
+    "https://pr.www.ipros.com/en/hammock/information/",
+    "https://www.hammock.jp/"
+   ]
+  },
+  {
+   "query": "ハンモック 社長 インタビュー",
+   "results": [
+    "https://www.hammock.jp/recruit/top_interview.html",
+    "https://www.youtube.com/watch?v=0NbwTGmO1AM",
+    "https://kigyo-scope.jp/company/173A/ceo/",
+    "https://kitaishihon.com/company/173A/board-of-director",
+    "https://voicy.jp/channel/1714/6223325",
+    "https://www.zaikai.jp/articles/detail/4415",
+    "https://www.hammock.jp/news/180402.html",
+    "https://www.jac-recruitment.jp/search/NJB2408516/",
+    "https://www.nikkei.com/article/DGXZQOUC110RX0R10C24A4000000/",
+    "https://www.hammock.jp/recruit/interview/"
+   ]
+  }
+ ],
+ "missing": {}
+}

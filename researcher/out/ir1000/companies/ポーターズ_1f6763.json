@@ -1,0 +1,1492 @@
+{
+ "name": "ポーターズ",
+ "aliases": [],
+ "context": "証券コード5126／情報・通信業／グロース（内国株式）／2025.12期 売上高2,137百万円 営業利益率16.8%",
+ "researched_at": "2026-11-02T18:26:24.606585+00:00",
+ "official_url": "https://www.porters.jp/",
+ "identified_by": "search:yahoo_jp:ポーターズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "会社の設立はいつですか？",
+    "value": "2001年に有限会社ポーターズを設立し、2002年にポーターズ株式会社に組織変更しました。",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容を教えて下さい。",
+    "value": "当社は、人材業界向けにクラウドサービスの提供を行う企業グループです。詳しくは 会社HP （ソリューション・私たちについて）をご覧ください。",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,100 1,290 1,587 1,923 2,137",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,886 37 1,923 1,923 － 1,923",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "2 7 10 10 △10 －",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,126 11 2,137 2,137 － 2,137",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "3 19 22 22 △22 －",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "それが、お客様やパートナー様の人材ビジネスを加速させるために求められることだからです",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーターズが提供する製品やサービスが、雇用市場において役に立っているか、お客様やパートナー様のビジネスに役立っているか",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その想いをチームで共有し、お客様、パートナー様の課題に向き合い、解決策を提案し、ビジネスを成功に導くよう、今後も研鑽してまいります",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、既存事業の成長と新規事業への挑戦を続け、持続的な事業価値の拡大を目指すことで、顧客が目的を達成し、心から満足いただけるサービスの提供を通じて、世界の雇用創出に貢献して参ります",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/material/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "また、自社のみならず、株主、顧客企業、取引先及び従業員等のステークホルダーの立場を尊重するとともに、法令遵守の徹底に努めていくことも重要と考えております",
+    "url": "https://www.porters.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "経営層の戦略と現場の課題をITで繋ぎ、本質的な「顧客成果」を創出する",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "派遣・人材紹介業界の基盤をつくるポーターズで顧客の事業成長を支えているのが、エンジニアリングUnit GMで導入コンサル、セールスを担う于さんだ",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客成果につながる瞬間をつくる」",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの立場や課題を理解しながら橋渡しをすることが、顧客成果を生み出すうえで重要だと思っています",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "営業スキルはもちろんですが、「顧客理解」「ビジネスモデルを俯瞰する力」「マネジメント力」は大きく伸びたと感じます",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "、単にサービスを提供するだけでなく、顧客の課題やその先の成果にまで向き合うことができる点",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "特に印象に残っているのは、Valueにある「顧客が目的を達成し、心から満足するサービスを目指す」という言葉です",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "私は現場では、「どんな機能を導入したか」ではなく、「導入によって顧客成果がどう変わるか」を大切にしています",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "こうした経験を通じて、顧客成果につながる導入とは、機能を入れることではなく、現場で使われる仕組みをつくることだと感じています",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "このように顧客の事業課題にまで踏み込んで向き合う環境の中で働く",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "お客様とともに一緒に成長していきたい",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "渡邊 「HRビジネスクラウドをもっと多くのお客様にご利用いただくには、お客様の状況や要望を知ることが重要です",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "なので、常にお客様とコミュニケーションを取って、ヒアリングしていますね",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "最近はSNSなどを利用して海外のお客様とのリアルタイムなコミュニケーションがしやすくなりました",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月、海外のユーザーは日系企業の割合が多いですが、現在ローカル企業や多国籍企業への提案を多く行なっており、より注力していく考えです",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "また、本当に顧客に合った提案をするために、人材紹介の知識も必要だと渡邊は話します",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "お客様事例一覧",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に合った適切な環境構築、迅速な導入をサポートいたします",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様側で対応いただくことも可能です",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、運用相談会やユーザー交流会、勉強会なども開催しております",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社、人材派遣会社など大小問わず多くのお客様にご利用いただいております",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "このような中、当社では、人材紹介会社、労働者派遣会社、その他人材マッチングサービスの提供会社に対して、クラウド型の情報管理システム、ユーザー単位の月額課金制である料金体系と、それぞれの会社に応じて無料カスタマイズ可能なシステム機構の提供を行い、そのシステム機構における情報の一元管理やマッチングのための各種ツールを通じてマッチングプロセスの最適化を実現させております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客の自社Webサイトとの間での各種情報の自動連携や、社内のシステムとの連携のためのAPI機能（※）も有料で提供しております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "APIにより、他システムとの連携や、必要機能の追加など、顧客独自のユーザーアプリ開発を可能にすることができます",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "PORTERSでは、お客様の状況に合わせてPORTERSとWebサイト連携をすることができます",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度において、セールス面では、見込顧客の獲得のためにデジタルマーケティングへの投資を継続的に行うとともに、PORTERS Magazineの発行によって市場における潜在顧客へのアプローチに努めました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、従来までの各種オンラインセミナーの実施に加え、初の大型イベントである「PORTERS DAY」の開催等により営業活動を強化した結果、多数の新規顧客の獲得に繋がりました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの活動の結果、新規顧客のID獲得は良好に推移し、ID数の伸長にも寄与いたしました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社顧客である人材紹介会社や労働者派遣会社において、業務効率化のためにIT投資を積極的に行うという姿勢は継続したことから、PORTERSは堅調に成長し続け、2025年12月末時点で有料ユーザーID数は16,566IDとなりました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、マーケティング活動及び営業活動を積極的に実施したことによる新規顧客の獲得によりID数が増加したこと等により、当連結会計年度末のID数が16,566IDとなったことが要因です",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "※２：2021年12月期及び2022年12月期は、顧客の事業環境が回復傾向であったことに加え、積極的なマーケティング活動への投資により新規顧客の獲得が順調に進んだため計画数を上回っております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期は、新規顧客における納品時期の翌期への後ろ倒し等により、計画数を下回っております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "このプロジェクトを通じて、”お客様の成果にコミットし、実際に結果をだし満足してもらう”経験をしました",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "それに対して、お客様が満足してくれることはこの上ない喜びでした",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "情報と情報が結びつくことでお客様を満足させるサービスです",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイトはこちら",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューションを提供しています",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "雇用ビジネスのソリューション",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "雇用インフラのソリューションを提供し、世界の雇用を進化させ、働く人の人生に寄り添い、自らも挑んでいく",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "どんなに世の中が変化、進化したとしても、その変化、進化の一歩先に、人材ビジネスのソリューションはあるべきだと私たちは考えます",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーターズは、人材ビジネスを加速させるクラウドソリューションを提供することで、",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちポーターズの製品やサービスは、時代とともに変化、進化する人材ビジネスとともにあります",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、その変化、進化の一歩先を見据え、課題を見つけ、解決に導くソリューションを提案できる企業でありたいと考えています",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーターズが提供する製品やサービスが、雇用市場において役に立っているか、お客様やパートナー様のビジネスに役立っているか",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新たなサービス、安定したサービスの提供を、最高のポーターズチームで取り組み、世界の雇用に貢献する企業を目指し、多様な人材ビジネスをサポートします",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は創業以来、人材業界向けのクラウドサービスの開発、提供をしております",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "人材業界は情報ビジネスであり、様々な社内外のシステムとの連携、業界特有の法令の遵守が求められるなど、人材業界に特化したクラウドサービスのニーズは高く、累計2,000社以上にサービス提供し、今では国内最大規模のサービスとなっております",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような中で当社は、クラウドサービスを通じて人材業界のインフラを支え、「求職者と求人企業のマッチング」と「業務の効率化、変革」に向けて取り組んで参ります",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、既存事業の成長と新規事業への挑戦を続け、持続的な事業価値の拡大を目指すことで、顧客が目的を達成し、心から満足いただけるサービスの提供を通じて、世界の雇用創出に貢献して参ります",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/library/material/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/library/material/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のミッションである「Matching, Change your business」の実現のためには、サービスの向上、業容拡大、持続的な成長と企業価値の向上が不可欠です",
+    "url": "https://www.porters.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、人材業界向けにクラウドサービスの提供を行う企業グループです",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "（ソリューション・私たちについて）をご覧ください",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.porters.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実のために、クッキーを使用しています",
+    "url": "https://www.porters.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "「テクノロジーで世界の雇用にもっとも貢献する」をVisionに、世界の雇用インフラを進化させるサービスを提供するポーターズ",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化や労働力不足といった社会課題に対して、人材サービスや採用支援は大きな役割を果たせる",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "、単にサービスを提供するだけでなく、顧客の課題やその先の成果にまで向き合うことができる点",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "特に印象に残っているのは、Valueにある「顧客が目的を達成し、心から満足するサービスを目指す」という言葉です",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "PORTERS 公式サービスサイト（人材紹介・派遣向けクラウドシステム）",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "日本とグローバル2度の創業を経験し、11カ国でサービスを展開した原動力とは | ポーターズ株式会社",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "日本とグローバル2度の創業を経験し、11カ国でサービスを展開した原動力とは",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "日本で高いシェアを占めるHRビジネスクラウドだけに、製品力には自信があった渡邊",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "そしてごあいさつがてら、サービスの提案をしています",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "「PORTERS HRビジネスクラウド」などの製品は、高い技術力と生産性、エンジニアが幸福に働ける開発体制から生まれています",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品「HRビジネスクラウド（HRBC）」の開発チームを率いるのがマネージャーの大石光洋です",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "外部サービス連携",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品をもっと見る →",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス導入まで4ステップ",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "人材紹介会社様向け",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介業務のノウハウが凝縮されたクラウドシステム",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業績、財務、経営状況、活動報告、IRイベント、レポートなど、ポーターズの活動や経営方針、考え方について詳細情報をご紹介しています",
+    "url": "https://www.porters.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "それが、お客様やパートナー様の人材ビジネスを加速させるために求められることだからです",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーターズが提供する製品やサービスが、雇用市場において役に立っているか、お客様やパートナー様のビジネスに役立っているか",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その想いをチームで共有し、お客様、パートナー様の課題に向き合い、解決策を提案し、ビジネスを成功に導くよう、今後も研鑽してまいります",
+    "url": "https://www.porters.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "派遣・人材紹介業界の基盤をつくるポーターズで顧客の事業成長を支えているのが、エンジニアリングUnit GMで導入コンサル、セールスを担う于さんだ",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ある紹介会社のお客さまでは、求人や候補者の進捗管理が担当者ごとに分かれていて、チーム全体の状況を把握しづらいという課題がありました",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "PORTERS 公式サービスサイト（人材紹介・派遣向けクラウドシステム）",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "小学校から高校までをアフリカで過ごし、たったひとりで海外を開拓した彼女の姿をご紹介します",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "必然的に、人材紹介業も増加していきます",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "そこで渡邊は、日本ですでに接点のある紹介会社の、海外法人への導入をまず目指すことにします",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "渡邊 「日本ではすでに、日系や外資系の大手人材企業とつながりがあったので、各国の責任者を紹介してもらったんです",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、すぐに導入を決めてくれた紹介会社もあったものの、すべてが順調にいったわけではありません",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "ほかに感慨深かったのは、当時タイとシンガポールで紹介事業を行なっていたリーラコーエン社への導入",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "労働人口の増加するアジア地域では、人材紹介、人材派遣業はもちろん、採用企業での人材マッチングシステムへの期待が高まっています",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "また、本当に顧客に合った提案をするために、人材紹介の知識も必要だと渡邊は話します",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "対応領域も、現在は人材紹介と人材派遣に特化していますが、BPOやアウトソーシングなど、世界で多様化する人材のマッチングニーズに応えていきたいと考えています",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "CTOの川口登が取り組んできた組織づくりやエンジニア育成への思いを紹介します",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "そんな彼女から見た、ポーターズの社風や魅力を紹介します",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターズ株式会社は、人材紹介や人材派遣など人材ビジネスのためのマッチングプラットフォームをクラウドで提供しています",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣管理システム【PORTERS（ポーターズ）】",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業務の生産性向上と",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "医師、看護士、薬剤師の人材紹介／派遣に特化",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社様向けスカウト代行",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介向け機能一覧",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介開業への道",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介事業を開始する時に役立つ情報を掲載",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣成功への道",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業・人材派遣業の売上を拡大するためのお役立ちコンテンツを掲載",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣のノウハウ",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業・人材派遣業全般に役立つノウハウを無料で公開",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・派遣企業向け",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業・人材派遣業でよく使うテンプレートを無償でダウンロード",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・派遣特化型の",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社向け",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣特化型の管理システム",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "POETRES（ポーターズ）は、人材紹介や人材派遣などの人材ビジネスに特化した、クラウド型の業務管理システム（CRM/ATS）です",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "主な特徴は、人材紹介向けの「PORTERS Agent」や人材派遣向けの「PORTERS Staffing」など、各業態に最適化された機能を備えている点です",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介や人材派遣のみならず、各業界の業務フローを徹底的に研究して設計されており、求職者・求人案件の管理から、選考進捗、成約後の売上管理までを一つのシステムで完結できます",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "GOジョブ人材紹介事業、ゼロからの立ち上げを実現",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】人材紹介管理システム比較5選｜選び方と導入メリットをプロが解説",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣のノウハウを見る",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金のご利用が可能です、またご紹介制度等もありますので、詳しくは営業担当にお尋ねください",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定のサポートや、人材紹介や人材派遣用のテンプレートはありますか？",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "HR-Tech事業の主なサービスであるPORTERSは、人材紹介会社、労働者派遣会社、その他人材マッチングサービスに携わる企業のためのクラウド型マッチング総合管理システムです",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、人材紹介会社、労働者派遣会社等がこれらの要件を満たすために独自のシステム開発を行うことは、先行的に多額のシステム投資コストが必要となるほか、個人情報保護のための適切なシステム構築が必要であり、最適な事業環境を整える上で障害となっておりました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような中、当社では、人材紹介会社、労働者派遣会社、その他人材マッチングサービスの提供会社に対して、クラウド型の情報管理システム、ユーザー単位の月額課金制である料金体系と、それぞれの会社に応じて無料カスタマイズ可能なシステム機構の提供を行い、そのシステム機構における情報の一元管理やマッチングのための各種ツールを通じてマッチングプロセスの最適化を実現させております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、マッチング結果によって、メール作成を自動化し、求職者推薦や求人紹介をまとめて行うことも可能です",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社顧客である人材紹介会社や労働者派遣会社において、業務効率化のためにIT投資を積極的に行うという姿勢は継続したことから、PORTERSは堅調に成長し続け、2025年12月末時点で有料ユーザーID数は16,566IDとなりました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、求人媒体であるatB Jobsについては、有料求人掲載プランの販売を開始するとともに、求職者の登録情報に基づき自動で求人を紹介するレコメンドジョブ機能を実装するなど、同サイトの利便性向上のための開発及び改修を行いました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業のマネジメントを支える一貫した考えのもと、人材紹介ビジネスを手がける企業向けクラウドサービス「PORTERS HR-Business Cloud」を展開",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業の発展を読みサービス開発で成果を出す",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "実際にニーズがあり、人材紹介部門で仕事をすることになりました",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "当時、人材紹介業はリクルート、インテリジェンスが牽引していました",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "この業界を盛り上げていこう、労働人口減少に歯止めをかけよう、という思いを持ち人材紹介業に取り組んでいた方は少なかったと思います",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "ちょうど2000年手前、職業紹介に関する規制が緩和されました",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "それから、年間1000単位で職業紹介事業を行う事業所が増えてきました",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "：はい、人材紹介の仲介とは、究極の情報取扱業です",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2001年に有限会社ポーターズを設立し、2002年にポーターズ株式会社に組織変更しました",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月29日に新規上場しました",
+    "url": "https://www.porters.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月3日 14:50",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "2017年にポーターズへ入社後、BtoBの新規営業としてキャリアをスタートしました",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "2015年末、そんな渡邊に転機が訪れます",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "2018年現在は、渡邊は国内のミッションもあり、他のメンバーがグローバル事業を引き継いでいますが、定期的にフォローアップを行なっています",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月、海外のユーザーは日系企業の割合が多いですが、現在ローカル企業や多国籍企業への提案を多く行なっており、より注力していく考えです",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期は、新規顧客における納品時期の翌期への後ろ倒し等により、計画数を下回っております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年8月14日 14:56",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "2001年8月株式会社ポーターズを設立",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "2001年に貴社設立をされました",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "営業スキルはもちろんですが、「顧客理解」「ビジネスモデルを俯瞰する力」「マネジメント力」は大きく伸びたと感じます",
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、実務経験は不問で、「探求心を持ってビジネスモデルを調べ、きちんと理解して提案できる方であれば歓迎です」とも言います",
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MISSON VISION VALUE - ポーターズ株式会社 — MISSON VISION VALUE - ポーターズ株式会社 ポーターズ株式会社 https://www.porters.jp > mvv",
+    "url": "https://www.porters.jp/mvv/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜IR情報 - ポーターズ株式会社 — 決算説明資料 ｜IR情報 - ポーターズ株式会社 ポーターズ株式会社 https://www.porters.jp > library > presentation",
+    "url": "https://www.porters.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - ポーターズ株式会社 — IR情報 - ポーターズ株式会社 ポーターズ株式会社 https://www.porters.jp > ...",
+    "url": "https://www.porters.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターズ 株式会社（5126）— 企業情報 | ENVALITH · 開示 — ポーターズ 株式会社（5126）— 企業情報 | ENVALITH · 開示 ENVALITH https://envalith.com > companies > disclosure",
+    "url": "https://envalith.com/ja/companies/5126/disclosure",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターズ のIR 資料 - 5126 / グロース / 情報・通信業 — ポーターズ のIR 資料 - 5126 / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/5126/library",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣管理システム【 PORTERS （ ポーターズ ）】 — 人材紹介・人材派遣管理システム【 PORTERS （ ポーターズ ）】 ポーターズ株式会社 https://hrbc.porters.jp",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターズ 【5126】の 事業 内容 - キタイシホン — ポーターズ 【5126】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターズ 株式会社 の求人・採用情報/会社概要 - HERP Career — ポーターズ 株式会社 の求人・採用情報/会社概要 - HERP Career herp.careers https://herp.careers > careers > companies > porters",
+    "url": "https://herp.careers/careers/companies/porters",
+    "pass": 3
+   },
+   {
+    "quote": "「世界で戦う強い組織とは」 ポーターズ 西森康二 社長 へ ... — 「世界で戦う強い組織とは」 ポーターズ 西森康二 社長 へ ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 & 取締役副 社長 | CROSS TALK — 代表取締役 社長 & 取締役副 社長 | CROSS TALK ポーターズ株式会社 https://www.porters.jp > recruit > cross-talk",
+    "url": "https://www.porters.jp/recruit/cross-talk/03/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ポーターズ 株式会社 西森 康二】「今までになかったものを ... — 【 ポーターズ 株式会社 西森 康二】「今までになかったものを ... MiraError https://miraerror.jp > ...",
+    "url": "https://miraerror.jp/202101301331/",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターズ 西森康二 社長 - YouTube — ポーターズ 西森康二 社長 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=XmbBs0za_g8",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "月額15,000円から利用できる",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "初期導入費用100,000円、月額利用料15,000円～ご利用いただけます",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "PORTERSは、初期導入費用100,000円、月額利用料15,000円～ご利用いただけます",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果とROIは初期費用・月額費用・追加機能のコストと、実際に得られる業務削減・案件獲得の機会増加のバランスで評価します",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "このような中、当社では、人材紹介会社、労働者派遣会社、その他人材マッチングサービスの提供会社に対して、クラウド型の情報管理システム、ユーザー単位の月額課金制である料金体系と、それぞれの会社に応じて無料カスタマイズ可能なシステム機構の提供を行い、そのシステム機構における情報の一元管理やマッチングのための各種ツールを通じてマッチングプロセスの最適化を実現させております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は人材マッチングクラウドサービスであるPORTERSを１IDから利用可能なサブスクリプションモデルで提供しております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主にシステムの安定稼働のための運用保守費用が増加したこと等によります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "人材紹介管理システムを軸として、候補者の登録から面談、スキルの評価、候補者と求人のマッチングまでの流れを統合管理し、人材紹介CRMの強みであるクライアント企業との関係性や案件の追跡機能と結びつけます",
+    "url": "https://hrbc.porters.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "特にインドに強みを持ち、インド市場への進出や現地採用なども対応領域です",
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、次の各事業は、「第５ 経理の状況 １ 連結財務諸表等 (1) 連結財務諸表 注記事項 (セグメント情報等)」に掲げるセグメントの区分と同一であります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "HR-Tech事業セグメントは、雇用創出産業及び雇用創出ビジネスパーソン向けのクラウドサービスを通じて雇用に貢献する事業を行っております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "Global HR-Tech事業セグメントは、当社グループの海外拠点を活用したオフショア開発事業や海外における求人媒体の開発・運営などを通じて雇用に貢献する事業を行っております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント別の業績は以下のとおりであります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、HR-Tech事業における当連結会計年度の売上高は2,126百万円（前期比12.8%増）、セグメント利益は466百万円（前期比5.9%減）となりました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、Global HR-Tech事業における当連結会計年度の売上高は11百万円（前期比70.3%減）、セグメント損失は109百万円（前期はセグメント損失104百万円）となりました",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "(１) 報告セグメントの決定方法",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、会社を基礎とした事業別のセグメントで構成されており、HR-Tech事業及びGlobal HR-Tech事業の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "(２) 各報告セグメントに属する製品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産の金額の算定方法",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成において採用している会計処理の方法と同一であります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産の金額に関する情報",
+    "url": "https://kitaishihon.com/company/5126/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.porters.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/library/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/management/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porters.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talent-book.jp/porters/stories/2680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrbc.porters.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5126/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/careerfly_rie/n/n81014128aa34",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ポーターズ",
+   "results": [
+    "https://www.porters.jp/",
+    "https://www.instagram.com/porters_corporation/",
+    "https://www.yim.co.jp/",
+    "https://www.openwork.jp/a0C1000000powd2/pr/",
+    "https://jp.linkedin.com/company/porters-corporation",
+    "https://ja.wikipedia.org/wiki/ポーターズピンク"
+   ]
+  },
+  {
+   "query": "ポーターズ ビジネスモデル",
+   "results": [
+    "https://note.com/shiny_vole3291/n/n4d2f268486e6",
+    "https://www.talent-book.jp/porters/stories/2680",
+    "https://www.porters.jp/mvv/",
+    "https://note.com/nikkeicnbc_naoi/n/n6f921432245c",
+    "https://irtv.jp/wp-content/uploads/2025/03/%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%99-%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E5%8F%8A%E3%81%B2%E3%82%99%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "https://x.com/PORTERS_JP",
+    "https://prtimes.jp/main/html/rd/p/000000295.000033277.html",
+    "https://www.facebook.com/Porters.PoCafe/posts/porters-magazine-staffing%E4%BA%BA%E6%9D%90%E6%88%A6%E7%95%A5%E6%94%AF%E6%8F%B4%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%82%92%E3%81%94%E5%AD%98%E7%9F%A5%E3%81%A7%E3%81%99%E3%81%8B%EF%B8%8F%E4%BA%BA%E6%9D%90%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%A5%AD%E7%95%8C%E3%81%AE%E4%BE%A1%E5%80%A4%E5%90%91%E4%B8%8A%E3%81%A8%E4%BA%8B%E6%A5%AD%E6%88%90%E9%95%B7%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%9B%87%E7%94%A8%E6%A9%9F%E4%BC%9A%E3%81%AE%E5%89%B5%E5%87%BA%E3%82%92%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%81%AB%E4%BC%81/1628544979275130/",
+    "https://university.globalpower.co.jp/251671/",
+    "https://note.com/open_azalea2045/n/n4f201d8d46ae"
+   ]
+  },
+  {
+   "query": "ポーターズ 決算説明資料",
+   "results": [
+    "https://www.porters.jp/ir/library/presentation/",
+    "https://www.porters.jp/ir/",
+    "https://envalith.com/ja/companies/5126/disclosure",
+    "https://www.buffett-code.com/company/5126/library",
+    "https://www2.jpx.co.jp/disc/51260/140120260512525455.pdf",
+    "https://irtv.jp/wp-content/uploads/2023/11/%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%99-2023%E5%B9%B412%E6%9C%88%E6%9C%9F-%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%A3%9C%E8%B6%B3%E8%B3%87%E6%96%99.pdf",
+    "https://www.starts.co.jp/investor/library/explanation/",
+    "https://www.youtube.com/watch?v=Obo-zpN1A5o",
+    "https://www.trenders.co.jp/ir/library/presentations/",
+    "https://edinetdb.jp/company/E37926/presentations/"
+   ]
+  },
+  {
+   "query": "ポーターズ 事業系統図",
+   "results": [
+    "https://hrbc.porters.jp/",
+    "https://kitaishihon.com/company/5126/business",
+    "https://www.itreview.jp/products/hrbusiness-cloud/profile",
+    "https://irtv.jp/wp-content/uploads/2025/03/%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%99-%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E5%8F%8A%E3%81%B2%E3%82%99%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "https://herp.careers/careers/companies/porters",
+    "https://www.instagram.com/porters_corporation/",
+    "https://www.docswell.com/s/8882745/KM14P9-2024-07-04-104938",
+    "https://mid-tenshoku.com/agency/a-11543/",
+    "https://www.porters.jp/",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92"
+   ]
+  },
+  {
+   "query": "ポーターズ 社長 インタビュー",
+   "results": [
+    "https://note.com/careerfly_rie/n/n81014128aa34",
+    "https://www.porters.jp/recruit/cross-talk/03/",
+    "https://miraerror.jp/202101301331/",
+    "https://university.globalpower.co.jp/251671/",
+    "https://www.youtube.com/watch?v=XmbBs0za_g8",
+    "https://willof-work.co.jp/corp/news/20250613/8427/",
+    "https://www.porters.jp/news/108",
+    "https://note.com/shiny_vole3291/n/n8715bb1525be",
+    "https://www.instagram.com/reel/DCEt0L-oYY5/",
+    "https://note.com/shiny_vole3291/n/n542de2dba031"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部5頁・検索5回）"
+ }
+}

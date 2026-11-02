@@ -1,0 +1,1720 @@
+{
+ "name": "ディップ",
+ "aliases": [],
+ "context": "証券コード2379／サービス業／プライム（内国株式）／2026.02期 売上高54,853百万円 営業利益率16.6%",
+ "researched_at": "2026-11-02T18:27:27.692720+00:00",
+ "official_url": "https://www.dip-net.co.jp/",
+ "identified_by": "search:yahoo_jp:ディップ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　立",
+    "value": "1997年3月",
+    "url": "https://www.dip-net.co.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1997年3月",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,155名（2026年4月1日現在の正社員） ※契約・アルバイト･派遣社員除く",
+    "url": "https://www.dip-net.co.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "従業員数(人)",
+    "value": "平均年齢(才) 平均勤続年数(年) 平均年間給与(千円)",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "2,356名(2022年4月1日現在の正社員) ※契約・アルバイト･派遣社員除く 事業内容/人材サービス事業、DX事業など",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（百万円）",
+    "value": "61,351 54,852",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "395億1,500万円(2022年2月期)",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/ir-news/news-list",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/service/jinjiroumukobot",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "英会話スクール、ブライダルなど様々な分野のカタログを情報端末に集め、ユーザーに無料配布する代わりに、入手した情報を企業に提供し、マーケティングに利用してもらうというアイデアに夢中になる",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー・企業のニーズにいち早く応える",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ポータルサイト大手と提携することで、ユーザー数・顧客数ともに一気に拡大",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "上場を祝うはずの船上パーティーをヤフーからの卒業パーティーとして開催し、「ヤフーがなくてもユーザーを集める」と決意を新たにする",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーファーストを実現する新機能へのチャレンジ",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "徹底したユーザー視点から生み出されたインターネットならではのサービスは、当時紙媒体がメインであった競合との大きな差別化に",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "コロナ禍でユーザーを思う",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "年3月 新型コロナウイルス感染による休業時の経済支援を有期雇用のユーザー向けに開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ワクチン接種の後押しをし、求職者と顧客企業にとって安心・安全な職場作りを促進",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "有期雇用の方々の待遇向上に向け、営業社員が顧客企業に時給の引き上げ等を提案し、dipの求人サイトに掲載",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "応募時の年齢入力を求人企業が任意・必須に選択できるよう、営業社員が顧客企業に提案し、dipの求人サイトに掲載",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/ir-news",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/stocks",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/ir-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/public-notice",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/G007",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/G006",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/G011",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/attention",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/esg/environment",
+    "pass": 1
+   },
+   {
+    "quote": "この場合、個々のユーザーを識別できる情報は含まれません",
+    "url": "https://www.dip-net.co.jp/ir/ir-news/mail",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/ir-news/mail",
+    "pass": 1
+   },
+   {
+    "quote": "一人ひとりに寄り添う、「ユーザーファースト」なサービスを追求します",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "私はそこまでシンプルに捉えてしまってよいのか少し疑問に感じたが、ディップの場合はアウトバウンドで全国規模の営業組織を持ち、ダイレクトに顧客にリーチできるパワーがある",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "その理由としては、コンビニエンスストア、アパレル、カフェなど志向性の高いユーザーに向けた専門サイトを開設したこと、スマートフォン版のサイトを新設、ＰＣ版サイトを改良したなど媒体力を強化したことに加え、ＣＭやＴＶ等での媒体プロモーションを強化し応募数の増加を図ったためだとＩＲ資料には記載があった",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "これらは求職者に対して多くの利点をもたらすため、利用者の増加ひいては求人広告数の増加に繋がる",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「コーポレート・ガバナンスの概要」「監査の状況」の節は個人の氏名を含むため、現在は審査を経た API の利用者に提供しています",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス事業においては、インターネット求人情報サイト等の提供を通じ、顧客企業の人材採用とその活用を支援するとともに、一人ひとりがいきいきと働くことができる環境構築への貢献を目指しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "予約台帳機能により飲食店の顧客管理を支援",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "様々な個性を持つ人々が、互いを認め合い協働する職場、環境づくりを進め、ユーザー、顧客企業をはじめとした、ビジネスに関わる全ての人々の人権が尊重される事業活動を行います",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "2025年６月からは、中期経営計画におけるビジョン「Labor force solution company」の本格的な実現に向け、従来の顧客規模・エリア別の営業体制から業種別の営業体制（ソリューション体制）へと移行しました",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "この組織改編は、営業社員の業界専門性を高め、顧客企業の課題に対して人材・AI・DXを組み合わせた最適な解決策を提案できる体制を構築することで、生産性を大幅に向上させることを目的とした経営戦略上の重要な意思決定です",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の事業については、インターネット情報サイトを構成するコンピュータシステムと利用者各位がアクセスする端末とを結ぶ通信ネットワークに依存しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "SSLは、サーバと顧客企業及び求職者間で通信される内容を暗号化いたしますので、全ての通信は、第三者の盗聴、改ざん、なりすましから保護されております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "また、法的責任を問われないまでも、顧客企業及び求職者の信頼を失い、さらにはブランドイメージの悪化等により、当社の業績及び財政状態に影響を及ぼす可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、他社に先駆けたサービスの導入や新機能を継続的に提供することなどにより、ユーザーとの継続的な関係構築のための施策を積極的に行っておりますが、既存事業者内でのさらなる競争激化や、新たな参入事業者との競争において当社が適時かつ効果的・効率的に対応ができない場合、当社の事業運営及び業績に影響を及ぼす可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "DX事業におきましても、求人情報サービスで培った幅広い顧客及び直販の営業人員という独自の強みを活かし、DXサービスを展開しておりますが、今後、同様の強みあるいは当社にはない強みを持つ競合他社が登場し、これら事業者との競争において当社が適時かつ効果的・効率的に対応できない場合、当社の事業運営及び業績に影響を及ぼす可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社は1997年の創業以来、「私たちdipは夢とアイデアと情熱で社会を改善する存在となる」という企業理念のもと、インターネット求人情報サイトの提供を通じ、顧客企業の人材採用とその活用を支援するとともに、求職者一人ひとりがいきいきと働くことができる環境の構築に貢献すべく事業に取り組んでおります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "これらのサービスにおいては、当社の強みである営業力、サービス開発力、プロモーション力を活かし、ユーザー及び顧客基盤を拡大することを目指しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当期は、担当企業の引継ぎ業務が増加した影響により、新規顧客や過去に取引があった顧客の契約獲得が鈍化したため、人材サービス事業の売上高は軟調に推移しました",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当期は、地図検索における表示順位向上により顧客企業の販促活動を支援する「集客コボットfor MEO」の売上が順調に伸長しましたが、応募者との面談スケジュールの自動調整等を行う「面接コボット」や派遣会社の営業先リスト自動作成等の営業支援を行う「HRコボット」のほか、職場紹介動画をはじめとするバイトルの独自機能を活かして企業の採用ページを作成する「採用ページコボット」がメディアサービスの契約社数減少に伴い売上が減少いたしました",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の運転資金需要の主なものは、営業活動に係る資金支出では、営業人員を中心とした人件費、求職者及び顧客企業向けの広告宣伝費の支払いであります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "なお、貸倒引当金の計上にあたっては、期末時点で入手可能な情報により見積っておりますが、顧客の財務状況等が悪化し支払能力が低下した場合は、引当金の追加計上又は貸倒損失が発生する可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、「ユーザーファースト」という当社のフィロソフィーに紐づく考え方に立ち返り、「求職者を守れ」「お客さまを守れ」というキャンペーンを大々的に展開したのです",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、当社のアルバイト・パート求人掲載サイト『バイトル』などのユーザーが新型コロナウイルスに感染した場合、治療期間中の収入相当額を当社が支払うという施策を発表しました",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、2021年12月から続けているのは、「有期雇用ユーザーの待遇改善」に向けたキャンペーンです",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "人材サービスとDXサービスの提供を通して、労働市場における諸課題を解決し、誰もが働く喜びと幸せを感じられる社会の実現を目指します",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入しやすい価格帯で、豊富なサービスを提供しています",
+    "url": "https://www.dip-net.co.jp/service/jinjiroumukobot",
+    "pass": 1
+   },
+   {
+    "quote": "各業務フローにワンストップで対応できるサービスを揃えており、課題を抱える業務フローのデジタル化を通じて、生産性を向上させ、主要業務に集中できる環境づくりを支援しています",
+    "url": "https://www.dip-net.co.jp/service/jinjiroumukobot",
+    "pass": 1
+   },
+   {
+    "quote": "端末設置の営業中に、IBMが同様のサービスを企画していることが発覚",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "リリース後は、人材派遣のカタログ請求が多いことに着目し、「はたらこねっと」の前身となる求人広告業界初の「人材派遣お仕事情報サービス」を開始する",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インターネットの家庭普及率が18％ほどという時代、全国に約7,500 店舗を展開していたローソンと交渉し、店頭端末「Loppi」を利用した派遣会社のお仕事情報提供サービスを開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "紙媒体による求人情報が主流だった時代に、インターネットによる情報サービスを始め、求職者に必要十分な情報量をいち早く届けることを可能にした「はたらこねっと」内に、アルバイトの求人情報を加え、仕事探しを大きく進化させた",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "※同サービスは2002年10月より「バイトル」として独立",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "業界に先駆けて採用HP検索エンジンサービスの提供に挑戦",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "10月 「ジョブエンジン」サービス開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "企業ホームページ内の求人情報を自動で収集し、閲覧できるサービスを開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "残った社員は「応募保証サービス」などの斬新な提案を行い、採用費大幅削減で悩むクライアントを支援",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "「動画情報サービス」「応募バロメーター」搭載",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "徹底したユーザー視点から生み出されたインターネットならではのサービスは、当時紙媒体がメインであった競合との大きな差別化に",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービスに加えてDXで労働市場における諸問題を解決",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "求人広告メディアを主軸とする事業ドメインを拡大し、求人広告を通じた人材採用の支援に加え、AI・RPAを活用したサービスの開発及び提供を行う新事業を開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "DX事業において、新サービスの提供を開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "従来のDXサービスは価格が高く、運用に専門人材が必要とされるため、中小企業が導入や継続利用がしやすいように開発された新サービス",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービスに加え、DXサービスの開発・提供を行う新事業を開始し、事業ドメインを拡大する中で、当社の進化の象徴として、コーポレートロゴおよびコーポレートサイトを刷新",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "それを解消すべく、dipのサービスを通じて就業した方が感染した場合、治療機関として必要な半月分の収入を支援",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "年5月 日本初となる対話型バイト探しサービス「dip AIエージェント」開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "年10月 スポットのバイトサービス「スポットバイトル」開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "アルバイトと店長のコミュニケーションを変革する新サービスを展開",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "必須項目については、ご入力いただかなかった場合、ディップ株式会社からのサービスを提供できません",
+    "url": "https://www.dip-net.co.jp/ir/ir-news/mail",
+    "pass": 1
+   },
+   {
+    "quote": "任意項目については、ご入力いただかなかった場合、ディップ株式会社からのサービスを十分に提供できない場合があります",
+    "url": "https://www.dip-net.co.jp/ir/ir-news/mail",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービスとDXサービスの提供を通して、労働市場における諸課題を解決し、誰もが働く喜びと幸せを感じられる社会の実現を目指します",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "一人ひとりに寄り添う、「ユーザーファースト」なサービスを追求します",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "多様性に溢れた自由闊達な社風をつくり、 イノベーターとして価値あるサービスの創造を追求する",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員 第二ソリューション営業本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員 第一ソリューション営業本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員 CTO （最高技術責任者） 兼 ソリューション開発本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "当社代表取締役社長 兼 CEO 兼 第三ソリューション営業本部長（現任）",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "当社取締役 執行役員専務HRソリューション事業本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "当社取締役COO（最高執行責任者）兼 人材サービス事業本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "当社取締役COO（最高執行責任者）兼 人材サービス事業本部長 兼 経営管理本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "当社取締役COO（最高執行責任者）兼 人材サービス事業責任者 兼 経営管理本部長",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「私たち dip は夢とアイデアと情熱で社会を改善する存在となる」という企業理念のもと、「Labor force solution company」をビジョンに掲げ、人材サービスとDX サービスの提供を通して、労働市場における諸課題を解決し、誰もが働く喜びと幸せを感じられる社会の実現を目指します",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "現在のように求人過多な市場においては商談機会が増えると、高額商品を売りやすくなり、継続的なリレイションから発生する受注案件も増えそうなので、売上続伸には大きく貢献しているように感じられた",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "2013年から2014年にかけて、主力の求人広告媒体である『バイトル』と『はたらこねっと』の売上は106億900万円→169億1600万円、営業利益は26億9700万円→58億円5000万円と大幅に増加している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "という点でより機能性の高いサービスを提供している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "その場合、「広告課金型求人広告」を主力としているディップはどのような施策を講じればよいだろうか",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "ポートフォリオとは、リスクやリターンなど収益性の異なる商品を組み合わせることでリスクを分散させる投資手法をいう",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "既にリブセンスのような「成功報酬型求人広告」に加えて、リクルート傘下のIndeedのようなクリック課金のアフィリエイト型や、ビズリーチが立ち上げたスタンバイのような求人企業にとって無料（ビズリーチはスポンサードサーチの広告収入のみ）のサービスも登場している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "人材ソリューション",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "ヘッドハンティングサービスの特徴",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "サービスプラン",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニアスの転職支援サービス",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県名古屋市中区において、コンビニエンスストアにおけるマルチメディアステーション端末を利用した「無料カタログ送付サービス」の運営を目的としてディップ株式会社を設立",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "同端末にて「人材派遣お仕事情報サービス」を開始",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットによる派遣社員の求人情報サービス「はたらこねっと」を開始",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "AI・RPA事業(現DX事業)のDXサービス「コボット」提供開始",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを活用した対話型バイト探しサービス「dip AI」を開始",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "スポットのバイトサービス「スポットバイトル」を提供開始",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、Human work forceを提供する人材サービス事業及びDigital labor forceを提供するDX事業を主たる事業としております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "(人材サービス事業)",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス事業においては、インターネット求人情報サイト等の提供を通じ、顧客企業の人材採用とその活用を支援するとともに、一人ひとりがいきいきと働くことができる環境構築への貢献を目指しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス事業における主な提供サービスは以下のとおりです",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "主なサービス名",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年9月度派遣求人",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月度アルバイト平均時給",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月度派遣求人",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月度アルバイト平均時給",
+    "url": "https://www.dip-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年3月",
+    "url": "https://www.dip-net.co.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | ディップ株式会社",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 創業者の冨田が起業の準備をスタート",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2000年10月「はたらこねっと」開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1998年から働きかけていた努力が実り、「Yahoo!求人情報」にアルバイト・請負情報、派遣情報の提供を開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2006年12月 情報セキュリティマネジメントシステム「IS027001(JIS Q 27001)」の認証を取得",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 初のTVコマーシャル開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2009年2月 有料職業紹介事業認可取得",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2018年5月 米国子会社 DIP America, Inc. を設立",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2018年8月 hachidori株式会社の株式を取得し、持分法適用関連会社化",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月 TRUNK株式会社の株式を取得し、持分法適用関連会社化",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2019年9月 「コボット」提供開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月 コーポレートロゴを刷新",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2020年2月 新オフィス「デジレバ」を東京・渋谷に開設",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月 「面接コボット」提供開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月 「FTSE Blossom Japan Index」の構成銘柄に初選定",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月 AI・RPA事業から「DX事業」へ名称変更",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2021年5月 専門職の総合求人サイト「バイトルPRO」開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2021年7月 プロダンスチーム「dip battles（ディップ バトルズ）」を設立",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月 経済産業省が定める「DX認定」を取得",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "1990年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "1992年５月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "1997年３月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2006年３月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2018年５月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2025年６月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2025年７月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "1995年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "1998年６月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2012年３月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2018年７月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2018年９月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2019年12月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2021年５月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2022年３月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2022年６月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2024年１月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2022年５月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "1988年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2013年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2016年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2018年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2022年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2024年４月",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月24日",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月に発表した中期経営計画「dip30th」（2025年2月期～2027年2月期）にて新たに策定した財務戦略は、事前にCFOと複数の株主・投資家の皆様とのディスカッションを通してその内容に磨きをかけ、さらに取締役会や経営会議等で議論を重ねて決定いたしました",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "2013年から2014年にかけて、主力の求人広告媒体である『バイトル』と『はたらこねっと』の売上は106億900万円→169億1600万円、営業利益は26億9700万円→58億円5000万円と大幅に増加している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "1997年３月",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "1998年５月",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "2000年５月",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "2000年10月",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "2001年２月",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "2001年９月",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/ir-news/news-list",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/ir-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/public-notice",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/G007",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/G006",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/G011",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "また、取締役会における独立社外取締役の構成比３分の２を目安とし、女性比率半数を目安とする基本方針のもと、取締役８名のうち６名は社外取締役であり、経営陣や支配株主から独立した立場の社外取締役が取締役会の３分の２を占めることにより、経営に対する監督機能の強化を図ってまいります",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の概況は、以下のとおりであります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は152億８百万円",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は37億10百万円",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメント別に示すと、次のとおりであります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の設備投資は5,229百万円であり、セグメント別の主な設備投資は以下のとおりです",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 提出会社 2026年２月28日現在事業所名(所在地)セグメントの名称設備の内容帳簿価額(千円)従業員数(人)建物構築物工具、器具及び備品ソフトウエアその他合計本社(東京都港区)人材サービス事業DX事業全社(共通)営業施設及び統括業務施設533,3156,855186,30011,899,098255,93212,881,501979",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "有料職業紹介事業許可番号 13－ユ－303788",
+    "url": "https://www.dip-net.co.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "1月 IBMとのコンテンツパートナー契約を締結",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インターネットの家庭普及率が18％ほどという時代、全国に約7,500 店舗を展開していたローソンと交渉し、店頭端末「Loppi」を利用した派遣会社のお仕事情報提供サービスを開始",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2009年2月 有料職業紹介事業認可取得",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "3月 「ナースではたらこ」が職業紹介優良事業者の第1 期事業者に認定",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "西村あさひ法律事務所（現 西村あさひ法律事務所・外国法共同事業）パートナー（現任）",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "pass": 1
+   },
+   {
+    "quote": "（３）任意の指名・報酬委員会",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会の諮問機関である任意の指名・報酬委員会は、取締役会から諮問を受け、取締役の指名及び報酬に関する事項につき審議し、答申を行っております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会は、代表取締役社長 兼 CEO 及び独立社外取締役で構成し、過半数が独立社外取締役であることとしております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当該決定方針は、取締役会の諮問機関であり、独立社外取締役が委員長を務め、独立社外取締役が委員の過半数を占める指名・報酬委員会による答申を踏まえて、取締役会決議により決定しております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "なお、取締役会は、基準額及び役職ごとに定める係数の決定を、指名・報酬委員会に一任しております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "当社の役員報酬方針は、指名・報酬委員会による答申を踏まえ、当社取締役会で決定しております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "基本報酬につきましては、客観性・透明性を高める観点から、株主総会決議による報酬枠の範囲内にて、当社取締役会により一任された指名・報酬委員会が、当該役員の役職（役職ごとに内規で定める係数を含む）、責任、業績への貢献度を総合的に勘案し、決定しております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "(５)指名・報酬委員会の手続き",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "任意の指名・報酬委員会は、取締役会からの一任に基づき、取締役の個別報酬（基準額及び役職ごとに定める係数）を決定するとともに、取締役会からの諮問に応じて、取締役の指名及び報酬に関する事項につき審議し答申を行っております",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "ディップ株式会社（以下、ディップ）は、アルバイト情報サイト『バイトル』や派遣情報サイト『はたらこねっと』等インターネット求人広告サイト、また人材不足が深刻な問題となっている看護師の転職・就職を支援する人材紹介事業「ナースではたらこ」を主な事業として展開している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、求人広告媒体とは別に展開している医療系を中心とした人材紹介・派遣ビジネスへの集中を行うことが有効と考える",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "人材業界でのヘッドハンティング・人材紹介、転職をご希望の方は、お気軽にお問合せください",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業の動向、大手・中小人材紹介会社の今後とは...",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "「はたらこねっと」の姉妹サイトとして新サイト「はたらこ紹介予定派遣」を開始",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業認可取得",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "看護師人材紹介サービス",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "介護職人材紹介サービス",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "職場紹介動画等、バイトル独自機能を搭載した採用サイト作成サービス",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "2025年６月からは、中期経営計画におけるビジョン「Labor force solution company」の本格的な実現に向け、従来の顧客規模・エリア別の営業体制から業種別の営業体制（ソリューション体制）へと移行しました",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は、有料職業紹介事業者として、厚生労働大臣の許可を受けております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の職業紹介事業の継続には有料職業紹介事業者の許可が必要であるため、何らかの理由により許可の取消があった場合には、当社の事業運営及び業績に影響を与える可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス事業において、インターネットを利用した「アルバイト・パートの求人情報（スポットのバイトサービスを含む）」、「派遣社員の求人情報」、「正社員の求人情報」、「専門職領域の求人情報」及び「看護師紹介事業」を提供する競合他社は多数存在しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "DX事業におきましても、求人情報サービスで培った幅広い顧客及び直販の営業人員という独自の強みを活かし、DXサービスを展開しておりますが、今後、同様の強みあるいは当社にはない強みを持つ競合他社が登場し、これら事業者との競争において当社が適時かつ効果的・効率的に対応できない場合、当社の事業運営及び業績に影響を及ぼす可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス事業は、アルバイト・パートの求人情報サイト「バイトル」、スポットのバイトサービス「スポットバイトル」、正社員・契約社員の求人情報サイト「バイトルNEXT」、総合求人情報サイト「はたらこねっと」、専門職の総合求人サイト「バイトルPRO」、医療専門職向け人材紹介サービス「ナースではたらこ」、介護職向け人材紹介サービス「介護ではたらこ」を運営しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当期は、地図検索における表示順位向上により顧客企業の販促活動を支援する「集客コボットfor MEO」の売上が順調に伸長しましたが、応募者との面談スケジュールの自動調整等を行う「面接コボット」や派遣会社の営業先リスト自動作成等の営業支援を行う「HRコボット」のほか、職場紹介動画をはじめとするバイトルの独自機能を活かして企業の採用ページを作成する「採用ページコボット」がメディアサービスの契約社数減少に伴い売上が減少いたしました",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主たる業務は、インターネットを利用した求人情報掲載、医療専門職と介護職の人材紹介及びDXサービスの提供であり、これらの提供するサービスには生産に該当する事項がありませんので、生産実績に関する記載はしておりません",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "CPC導入で一時的な売上高減少の可能性があるものの、直販営業の強みを活かし、掲載件数を伸長させ、早期の売上再成長を図ってまいります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の運転資金需要の主なものは、営業活動に係る資金支出では、営業人員を中心とした人件費、求職者及び顧客企業向けの広告宣伝費の支払いであります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "IBMの端末機は、すでに都内1000店舗のコンビニエンスストアに設置済み",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "「ゼロリセット」のゲームで築いた「IT人材紹介」の城",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HR業界の代表的な業界団体をご紹介いたします",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "米国ATDの活動に賛同しているパートナー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 日本人材紹介事業協会",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働大臣の許可を受けてホワイトカラーを中心とした職業紹介を行う人材紹介事業者の団体です",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ヤフー依存型のビジネスモデルからの脱却のための準備を入念に進め、いち早く携帯電話の公式サイトに、「バイトル」「はたらこねっと」の求人情報が掲載された",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "上場を果たし、ビジネスモデルが整い始めた創業10年目",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ディップの広告事業のビジネスモデルの特徴として「広告課金型求人広告」が挙げられる",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "この結果をどのように評価するかは難しいが、現状ではディップの採る「広告課金型求人広告」というビジネスモデルがまだ健在であり、採用の成否に関わらずに広告費を支払うクライアント企業が多いことが伺われる",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "以上のように、景気（有効求人数や広告掲載数）に左右されやすいビジネスモデルを採用しているディップにおいては、経済環境が変化したり、課金モデルのトレンドが変わる場合でも、代替策を考えておくことが営業利益等の維持・向上に繋がる鍵となるのではないかと考える",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益／売上高営業利益率",
+    "url": "https://www.dip-net.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "ディップの2014年度の売上高は195億3000万円、営業利益は48億600万円、そして営業利益率は24.6％であり、これはJACリクルートメントに続いて2番目に高い営業利益率となっている",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "それでは何故ディップの営業利益率が高くなったのかを考察したい",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス事業におけるインターネット上での情報提供サービス及びDX事業において、同業他社が実用新案または特許等を取得した場合、その内容によっては当社事業の競争優位性の低下または当社への訴訟が発生し、当社の業績及び財政状態に影響を及ぼす可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "DX事業におきましても、求人情報サービスで培った幅広い顧客及び直販の営業人員という独自の強みを活かし、DXサービスを展開しておりますが、今後、同様の強みあるいは当社にはない強みを持つ競合他社が登場し、これら事業者との競争において当社が適時かつ効果的・効率的に対応できない場合、当社の事業運営及び業績に影響を及ぼす可能性があります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "これらのサービスにおいては、当社の強みである営業力、サービス開発力、プロモーション力を活かし、ユーザー及び顧客基盤を拡大することを目指しております",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "CPC導入で一時的な売上高減少の可能性があるものの、直販営業の強みを活かし、掲載件数を伸長させ、早期の売上再成長を図ってまいります",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "我々の強みのひとつは、「豊富なアイデア」にあると思っているのですが、それを迅速に行動へ移せた理由は、それらのアイデアがつねに会社の「フィロソフィー」に沿ったものだったからだと思っています",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "年額675,000千円（うち社外取締役分は年額100,000千円以内）",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "年額125,000千円以内",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "一方、ディップと正反対の事業モデルとして「成功報酬型求人広告」がある",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "これは、掲載費用を最初にもらうのではなく、求職者の応募、採用などの「成果」が得られて初めて利用料（成功報酬）が発生するというシステムである",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬型求人広告を採用している媒体として、リブセンス株式会社が運営するジョブセンスが挙げられる",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "リブセンス失速に感じたこと、集客コストと成功報酬モデルの罠",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "また、求人媒体の求職者集客力という点では、広告課金型は成功報酬型と比べて予算が組みやすく、有名タレントを使った大規模なプロモーション費用を投入できることもメリットとなる",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "事業モデルの見直しについては、一部成功報酬型広告モデルの導入が検討できる",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "既にリブセンスのような「成功報酬型求人広告」に加えて、リクルート傘下のIndeedのようなクリック課金のアフィリエイト型や、ビズリーチが立ち上げたスタンバイのような求人企業にとって無料（ビズリーチはスポンサードサーチの広告収入のみ）のサービスも登場している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   },
+   {
+    "quote": "このように求人媒体は、「広告課金型求人広告」から「成功報酬型求人広告」、「アフィリエイト型」から「完全無料型」など異なる事業（課金）モデルが乱立している",
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "沿革 | ディップ 株式会社 — 沿革 | ディップ 株式会社 ディップ株式会社 https://www.dip-net.co.jp > 会社情報",
+    "url": "https://www.dip-net.co.jp/company/history",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ の「企業分析［強み・弱み・展望］」 OpenWork — ディップ の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > ディップ",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqjz&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "バイトルの裏側とDX戦略の全貌！ ディップ (2379)の成長 ... — バイトルの裏側とDX戦略の全貌！ ディップ (2379)の成長 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/hr793/n/nbbdf3eeba491",
+    "pass": 3
+   },
+   {
+    "quote": "dip の ビジネス | ディップ 株式会社 中途採用サイト — dip の ビジネス | ディップ 株式会社 中途採用サイト recruit-dip.com https://recruit-dip.com > 中途採用TOP",
+    "url": "https://recruit-dip.com/career/business/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | ディップ 株式会社 — 決算説明資料 | ディップ 株式会社 ディップ株式会社 https://www.dip-net.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.dip-net.co.jp/ir/library/briefing",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ディップ 株式会社 — IR情報 | ディップ 株式会社 ディップ株式会社 https://www.dip-net.co.jp > ...",
+    "url": "https://www.dip-net.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【HRog 決算 解説】 ディップ 株式会社の2026年2月期通期 決算 ... — 【HRog 決算 解説】 ディップ 株式会社の2026年2月期通期 決算 ... HRog https://hrog.net > 決算解説",
+    "url": "https://hrog.net/ir/135039/",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ 【2379】のIR動画 - キタイシホン — ディップ 【2379】のIR動画 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-meeting",
+    "url": "https://kitaishihon.com/company/2379/ir-meeting",
+    "pass": 3
+   },
+   {
+    "quote": "【 ディップ 】[2379] 決算 発表や業務・財務情報 | 日経電子版 — 【 ディップ 】[2379] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=2379",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス | ディップ 株式会社 — コーポレート・ガバナンス | ディップ 株式会社 ディップ株式会社 https://www.dip-net.co.jp > IR情報 > 経営方針",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ 株式会社 — 有価証券報告書テキスト（最新） — ディップ 株式会社 — 有価証券報告書テキスト（最新） EDINET DB https://edinetdb.jp > サービス業 > ディップ株式会社",
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ (株)の会社概要 | マイナビ2028 — ディップ (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp85586 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp85586/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ディップ 株式会社 代表取締役 社長 兼 CEO 冨田 英揮 — ディップ 株式会社 代表取締役 社長 兼 CEO 冨田 英揮 ベンチャー通信Online https://v-tsushin.jp > interview > vt88_dip-net",
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ：冨田英揮さん（ ディップ 株式会社） - 日本の ... — インタビュー ：冨田英揮さん（ ディップ 株式会社） - 日本の ... 日本の人事部『プロネット』 https://service.jinjibu.jp > article > detl > innovator",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "pass": 3
+   },
+   {
+    "quote": "【賢者の選択Leaders】 ディップ 株式会社 代表取締役 社長 兼 ... — 【賢者の選択Leaders】 ディップ 株式会社 代表取締役 社長 兼 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7P9KHUb5Zjo",
+    "pass": 3
+   },
+   {
+    "quote": "冨田英揮氏の経歴｜ ディップ の歴代 社長 （2006年 - The社史 — 冨田英揮氏の経歴｜ ディップ の歴代 社長 （2006年 - The社史 The社史 https://the-shashi.com > ディップの歴史 > 歴代社長",
+    "url": "https://the-shashi.com/tse/2379/executives/ceo/tomita-hideki/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | ディップ 株式会社 — トップメッセージ | ディップ 株式会社 ディップ株式会社 https://www.dip-net.co.jp > IR情報 > 経営方針",
+    "url": "https://www.dip-net.co.jp/ir/management-policy/message",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dip-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/ir-news/news-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/service/jinjiroumukobot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/company/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/ir-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/management-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/individual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/stocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/ir-schedule",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/general-meeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/public-notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/G007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/G006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/G011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/attention",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/esg/environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/en/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/ir-news/mail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/management-policy/philosophy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/management-policy/officer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.genius-japan.com/blog/nawata20150619",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E05368/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ディップ",
+   "results": [
+    "https://www.dip-net.co.jp/",
+    "https://www.kurashiru.com/search?source=yahoo&query=%E3%83%87%E3%82%A3%E3%83%83%E3%83%97&search_type=next&bucket=control",
+    "https://macaro-ni.jp/51579",
+    "https://www.kurashiru.com/lists/d07244f7-171d-4af5-a75c-3f97f9c5be96",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%83%E3%83%97_(%E8%AA%BF%E5%91%B3%E6%96%99)",
+    "https://delishkitchen.tv/categories/19655?page=3",
+    "https://ja.wikipedia.org/wiki/ディップ",
+    "https://ja.wikipedia.org/wiki/ディップ_(企業)",
+    "https://www.dip-net.co.jp/company/overview",
+    "https://finance.yahoo.co.jp/quote/2379.T"
+   ]
+  },
+  {
+   "query": "ディップ ビジネスモデル",
+   "results": [
+    "https://www.dip-net.co.jp/company/history",
+    "https://www.genius-japan.com/blog/nawata20150619",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqjz&q_no=9",
+    "https://note.com/hr793/n/nbbdf3eeba491",
+    "https://recruit-dip.com/career/business/",
+    "https://www.dip-net.co.jp/esg/ValueCreationProcess",
+    "https://hrmos.co/pages/dip-net/jobs/SJ015",
+    "https://bizi-mo.com/c/dip",
+    "https://macloud.jp/companies/9171",
+    "https://www.dip-net.co.jp/"
+   ]
+  },
+  {
+   "query": "ディップ 決算説明資料",
+   "results": [
+    "https://www.dip-net.co.jp/ir/library/briefing",
+    "https://www.dip-net.co.jp/ir",
+    "https://hrog.net/ir/135039/",
+    "https://kitaishihon.com/company/2379/ir-meeting",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=2379",
+    "https://www.youtube.com/watch?v=CKLmgvm1er0",
+    "https://www.dip-net.co.jp/ir/ir-news/news-list",
+    "https://irbank.net/2379/ir",
+    "https://www.dip-net.co.jp/ir/library",
+    "https://edinetdb.jp/company/E05368/presentations/"
+   ]
+  },
+  {
+   "query": "ディップ 事業系統図",
+   "results": [
+    "https://www.dip-net.co.jp/ir/management-policy/governance",
+    "https://edinetdb.jp/company/E05368/text",
+    "https://pdf.irpocket.com/C2379/IuL7/UA4s/HDvf.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp85586/outline.html",
+    "https://newrelic.com/jp/customers/dip",
+    "https://design-sli.de/deck/%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%20%E4%BC%9A%E7%A4%BE%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99%20-%20Speaker%20Deck",
+    "https://note.com/dip_dx/n/n7eaa6bffb7a3",
+    "https://www.dip-net.co.jp/ir",
+    "https://speakerdeck.com/diprecruit/deitupuzhu-shi-hui-she-hui-she-shuo-ming-zi-liao",
+    "https://note.com/hr793/n/nbbdf3eeba491"
+   ]
+  },
+  {
+   "query": "ディップ 社長 インタビュー",
+   "results": [
+    "https://v-tsushin.jp/interview/vt88_dip-net/",
+    "https://service.jinjibu.jp/article/detl/innovator/1369/3/",
+    "https://www.youtube.com/watch?v=7P9KHUb5Zjo",
+    "https://the-shashi.com/tse/2379/executives/ceo/tomita-hideki/",
+    "https://www.dip-net.co.jp/ir/management-policy/message",
+    "https://www.facebook.com/FMCOCOLO/photos/wonder-garden10%E6%99%82%E5%8F%B0dip-%E5%AF%8C%E7%94%B0%E8%8B%B1%E6%8F%AE%E3%81%95%E3%82%93%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC2026-%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF-%E6%9D%B1%E4%BA%AC%E3%83%97%E3%83%BC%E3%83%AB%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BCdip-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E5%85%BCc/1663805251266462/",
+    "https://froggy.smbcnikko.co.jp/series-name/dip/",
+    "https://ameblo.jp/takiguchi-yurina/entry-11865418378.html",
+    "https://www.baitoru.com/contents/bm_topinterview/",
+    "https://ja.wikipedia.org/wiki/冨田英揮"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

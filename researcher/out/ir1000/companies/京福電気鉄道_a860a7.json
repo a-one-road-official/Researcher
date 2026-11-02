@@ -1,0 +1,1512 @@
+{
+ "name": "京福電気鉄道",
+ "aliases": [],
+ "context": "証券コード9049／陸運業／スタンダード（内国株式）／2026.03期 売上高14,881百万円 営業利益率16.3%",
+ "researched_at": "2026-11-02T18:30:28.259824+00:00",
+ "official_url": "https://www.keifuku.co.jp/",
+ "identified_by": "search:yahoo_jp:京福電気鉄道",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1942 （昭和17） 年3月2日",
+    "url": "https://www.keifuku.co.jp/cms/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1942年 （ 昭和 17年） 3月2日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "96人",
+    "url": "https://www.keifuku.co.jp/cms/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結: 675人 単独: 108人 （2024年3月31日現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "122 149 1.2",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "149 150",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 140億4200万円 単独: 33億7700万円 （2024年3月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "鉄道事業、軌道事業及び索道事業 他",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "令和8年 踏切事故防止キャンペーン「カンカンカンカン 鳴って渡るの アカンアカン」",
+    "url": "https://www.keifuku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=5",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=3",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=3",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=3",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=3",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=4",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=4",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 3月期 第3四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=4",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 3月期 第2四半期決算短信",
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=4",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期第1四半期 3,529 △ 6.3 634 △ 17.4 644 △ 17.0 396 △ 22.6",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期第1四半期 3,766 ― 767 ― 775 ― 512 ―",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期第1四半期 199.58 ―",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期第1四半期 257.87 ―",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期第1四半期 26,955 16,260 55.0",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 26,710 15,781 53.9",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 ― 0.00 ― 20.00 20.00",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 ―",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期（予想） 0.00 ― 20.00 20.00",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年５月12日の「2026年３月期 決算短信」で公表いたしました通期の連結業績予想に変更はありません",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "投資に関する決定は、利用者ご自身の判断において行われるようお願い致します",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "万一、これらの情報に基づいて情報利用者が被ったいかなる損害につきましても、当社及び情報提供者は一切責任を負いません",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 1
+   },
+   {
+    "quote": "たが、嵐山駅ビルの物販業では、利用者数が増加し増収となりました",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 1,938 1,551 277 3,766 － 3,766",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 1,970 1,252 306 3,529 － 3,529",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 7,829 5,424 1,205 14,459 － 14,459",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 7,889 5,780 1,210 14,881 － 14,881",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 5,888 4,146 992 11,027 － 11,027",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 5,898 4,516 1,004 11,420 － 11,420",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 3,842 2,727 728 7,298 － 7,298",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 3,842 3,072 736 7,651 － 7,651",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 1,953 1,422 281 3,657 － 3,657",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 1,938 1,551 277 3,766 － 3,766",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 7,542 5,262 1,237 14,042 － 14,042",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 7,829 5,424 1,205 14,459 － 14,459",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 5,612 4,185 1,046 10,843 － 10,843",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 5,888 4,146 992 11,027 － 11,027",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 3,568 2,407 807 6,783 － 6,783",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への営業収益 3,842 2,727 728 7,298 － 7,298",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業セグメントでは、コロナ禍後に旅行需要の回復や集客施策によって利用者が増加しました",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "銘柄の選択、売買価格等の投資の最終決定は、お客様ご自身でご判断いただきますようお願いいたします",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "嵐山本線・北野線の利用者数のピークは",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "によって芦原温泉の定期通勤利用者が激減したことからそれまで堅調であった三国芦原線も急速に収益が悪化",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "３） レジャー・サービス業 （物販業など）",
+    "url": "https://www.keifuku.co.jp/cms/company/",
+    "pass": 1
+   },
+   {
+    "quote": "③ レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業におきまして、ホテル京福福井駅前では、新幹線開業効果の一巡などから減収となりまし",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、レジャー・サービス業の営業収益は310百万円（前年同期比24百万円、8.7％増）、営業利益は80百",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 10",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況のもと、当社グループでは、各事業において積極的な営業活動とサービス向上に取り組んでまいり",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鋼索線・架空索道では、安全性の向上と快適なサービス提供を図るため、",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス「iCONPASS」（アイコンパス）を導入し、ケイカン交通㈱ではオンデマンド交通における自動運転技術の実",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業におきましては、ホテル京福福井駅前では、引き続き稼働が堅調に推移し増収となりまし",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、レジャー・サービス業の営業収益は、1,259百万円（前期比4百万円、0.4％減）となり、営業利益は",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 9",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって 、当社グループは事業区分 を基礎としたサービス 別セグメントから 構成されており 、「運輸",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業」、「不動産業」、「レジャー・サービス業」の３つを報告セグメントとしております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業：物販業、ホテル業、水族館業等",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業におきましては、ホテル京福 福井駅前、越前松島水族館などで積極的な情報発信や販売",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、レジャー・サービス業の営業収益は、1,031百万円（前年同期比１百万円、0.1％減）、営業利益は",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 12",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業におきましては、各事業とも諸経費の増加がありましたが、ホテル京福 福井駅前、越前",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、レジャー・サービス業の営業収益は、750百万円（前年同期比０百万円、0.1％減）、営業利益は",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 10",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、レジャー・サービス業の営業収益は285百万円（前年同期比５百万円、1.8％減）、営業利益は60百",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 10",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス事業におきましては、ホテル京福福井駅前、越前松島水族館で、北陸新幹線敦賀延伸効果によ",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、レジャー・サービス業の営業収益は、2023年６月に三国観光ホテルを事業譲渡したことから1,263百",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 9",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、当社グループは事業区分を基礎としたサービス別セグメントから構成されており、「運輸",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業」、「不動産業」、「レジャー・サービス業」の３つを報告セグメントとしております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業：物販業、ホテル業、水族館業等",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業の営業収益は、2023年６月に三国観光ホテルを事業譲渡したことにより1,033百万円（前年",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 12",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ レジャー・サービス業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業の営業収益は、2023年６月に三国観光ホテルを事業譲渡したことにより750百万円（前年同",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9 10",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）２運輸業 不動産業 レジャー・サービス業 計",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域に密着した交通サービスを提供し、京都の観光や市民生活を支える企業として重要な役割を果たしています",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "レジャー・サービス業セグメントでは、コロナ禍後に旅行需要の回復や集客施策によって利用者が増加しました",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期は、観光需要の回復・拡大により運輸業やレジャー・サービス業の利用増加が見込まれるほか、不動産事業の安定した賃貸収入も寄与し、増収増益が予想されています",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "土信田は国内証券会社で企画や商品開発に携わり、マーケットアナリストに",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "商号等：楽天証券株式会社／金融商品取引業者 関東財務局長（金商）第195号、商品先物取引業者",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "加入協会：日本証券業協会、一般社団法人金融先物取引業協会、日本商品先物取引協会、一般社団法人第二種金融商品取引業協会、一般社団法人資産運用業協会",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9049",
+    "pass": 3
+   },
+   {
+    "quote": "ただし流用されたのは制御器関係のみで、主電動機は4モーター車だったモボ121形121 - 124の発生品のうちモボ621形・モボ21形に引き継がれなかった余剰品を流用しており、その関係で台車も新製品を使用している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "交通系ICカードの全国相互利用サービスについて",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "びわこフードサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "京阪レジャーサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次に、セグメント別の状況をご報告いたします",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報に与える",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）セグメント間の内部営業収",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 167 539 60 767 0 767",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 196 358 80 634 － 634",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１.報告セグメントごとの営業収益及び利益又は損失の金額に関する情報",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益の調整額０百万円はセグメント間取引消去額です",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益の調整額－百万円はセグメント間取引消去額です",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.報告セグメントの変更等に関する事項",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のセグメント利益は、１百万円減少しております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ………………………………………………………………………………………… 12",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）セグメント間の内部営業収",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 420 1,636 245 2,302 0 2,302",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 13,060 10,103 992 24,156 1,096 25,253",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの 報告セグメントは 、当社グループの構成単位のうち 分離された財務情報 が入手可能 であ",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって 、当社グループは事業区分 を基礎としたサービス 別セグメントから 構成されており 、「運輸",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業」、「不動産業」、「レジャー・サービス業」の３つを報告セグメントとしております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各報告セグメントの主な事業内容は以下のとおりです",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの営業収益及び利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成において採用されている会計処理",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部営業収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの営業収益及び利益又は損失、資産その他の項目の金額に関する情報",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）セグメント利益の調整額０百万円、減価償却費の調整額△０百万円はセグメント間取引消去額です",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）セグメント資産の調整額1,096百万円のうち、3,225百万円は全社資産であり、△2,128百万円はセグメ",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 480 1,751 188 2,420 0 2,420",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 13,586 10,337 976 24,900 1,718 26,619",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）セグメント資産の調整額1,718百万円のうち、3,710百万円は全社資産であり、△1,992百万円はセグメ",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次に、セグメント別の状況をご報告いたします",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）セグメント間の内部営業",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 514 1,312 295 2,122 0 2,122",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 489 1,482 307 2,279 0 2,279",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの営業収益及び利益又は損失の金額に関する情報",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益の調整額０百万円はセグメント間取引消去額です",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次に、セグメント別の経営成績をご報告いたします",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）セグメント間の内部営業収",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 300 865 276 1,441 0 1,441",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 271 990 266 1,528 0 1,528",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１.報告セグメントごとの営業収益及び利益又は損失の金額に関する情報",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益の調整額０百万円はセグメント間取引消去額です",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "1株当たり当期純利益 潜在株式調整後1株当たり当期純利益 自己資本当期純利益率 総資産経常利益率 売上高営業利益率",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1株当たり当期純利益 潜在株式調整後1株当たり当期純利益 自己資本当期純利益率 総資産経常利益率 売上高営業利益率",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体商社の日本株5選：事業構造に強み、今期増益予想",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "観光需要の回復により、嵐山駅直営物販店舗、ホテル京福 福井駅前、越前松島水族館とも増収となりました",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "観光需要の回復により、嵐山駅直営物販店舗、ホテル京福 福井駅前、越前松島水族館とも増収となりました",
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "『お金が増える家族はどっちを選ぶ!? 800万の赤字を抱えていた旅行大好き夫婦が5000万貯めたゆる投資』【書籍紹介】",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "『AIに9割まかせる ほぼほったらかし株式投資』【書籍紹介】",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9049",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9049",
+    "pass": 3
+   },
+   {
+    "quote": "沿線店舗の優待特典が付く",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "駅での乗車券の発売はないが、駅近隣の店舗などで、割引乗車券類を発売しているところもある",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "）で乗車できたが、4年ぶりの運行となった2023年は、運賃の割引はなく、嵐山駅はんなり・ほっこりスクエアの各店舗で100円のお買い物券として利用できる「妖怪札」の進呈になった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "を使用したり、様々な妖怪を紹介するポスターを掲示したり、車両に取り付けられている方向幕が青くなるなどムードの演出がされている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1976年開店「京都で一番古いマクドナルド」が近く復活オープンへ 昨春「一時閉店」最新店舗に変身",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1615796",
+    "pass": 3
+   },
+   {
+    "quote": "【京都中央信用金庫】四条支店前出張所（店舗外ATM）を新設",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1615796",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "鉄道業界世界2位の割安感、京都観光を支える 京福電気鉄道 ... — 鉄道業界世界2位の割安感、京都観光を支える 京福電気鉄道 ... media.rakuten-sec.net https://media.rakuten-sec.net > articles",
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "pass": 3
+   },
+   {
+    "quote": "会社概況 | 京福電鉄 株式会社 — 会社概況 | 京福電鉄 株式会社 京福電気鉄道株式会社 https://www.keifuku.co.jp > cms > company",
+    "url": "https://www.keifuku.co.jp/cms/company/",
+    "pass": 3
+   },
+   {
+    "quote": "京福グループ【 京福電気鉄道 (株)・京福バス(株)】[グループ募集] — 京福グループ【 京福電気鉄道 (株)・京福バス(株)】[グループ募集] マイナビ https://job.mynavi.jp > corp58202 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58202/recruiting_course27031799/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 【9049】の 事業 内容 - キタイシホン — 京福電気鉄道 【9049】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9049/business",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 株式会社 - 京都府 — 京福電気鉄道 株式会社 - 京都府 京都府 https://www.pref.kyoto.jp > wlbsuisin > corp > detail",
+    "url": "https://www.pref.kyoto.jp/wlbsuisin/corp/detail.html?RequestNo=719&mode=preview",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 | 京福電鉄 株式会社 — IR 資料 | 京福電鉄 株式会社 京福電気鉄道株式会社 https://www.keifuku.co.jp > cms > irmaterials",
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "pass": 3
+   },
+   {
+    "quote": "【 京福電気鉄道 】[9049]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 京福電気鉄道 】[9049]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9049",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 【9049】のIR 資料 - キタイシホン — 京福電気鉄道 【9049】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/9049/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 株式会社 IR 資料 - EDINET DB — 京福電気鉄道 株式会社 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 京福電気鉄道株式会社",
+    "url": "https://edinetdb.jp/company/E04108/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 - Wikipedia — 京福電気鉄道 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 京福電気鉄道",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 株式会社 — 京福電気鉄道 株式会社 京福電気鉄道株式会社 https://www.keifuku.co.jp",
+    "url": "https://www.keifuku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 株式会社 - 日本民営鉄道協会 — 京福電気鉄道 株式会社 - 日本民営鉄道協会 日本民営鉄道協会 https://www.mintetsu.or.jp > corporates > local > keifuku",
+    "url": "https://www.mintetsu.or.jp/corporates/local/keifuku.html",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 - 配線略図.net — 京福電気鉄道 - 配線略図.net 配線略図.net https://www.haisenryakuzu.net > 地下鉄・軌道",
+    "url": "https://www.haisenryakuzu.net/documents/metro/keifuku/",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 株式会社（ #嵐電 ）様の人事担当の方に来校して ... — 京福電気鉄道 株式会社（ #嵐電 ）様の人事担当の方に来校して ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DVQgA3Oj5G7/",
+    "pass": 3
+   },
+   {
+    "quote": "京福電気鉄道 【9049】の 社長 ・役員 - キタイシホン — 京福電気鉄道 【9049】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9049/board-of-director",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "京福が近年まで保守的な経営をとっていた表れの一つとして、京都本社では1980年代まで",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.keifuku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/inquiryall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/inquiryall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/irnews.php",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/irmaterials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=2",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=5",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E7%AC%AC120%E6%9C%9F-%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E3%80%8C%E4%BA%AC%E7%A6%8F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB2028%E3%80%8D%EF%BC%882026%E5%B9%B4%E5%BA%A6%EF%BD%9E2028%E5%B9%B4%E5%BA%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E7%AC%AC119%E6%9C%9F%E3%80%80%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=3",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E7%AC%AC118%E6%9C%9F%E3%80%80%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/irnews.php?paged=4",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E7%AC%AC117%E6%9C%9F%E3%80%80%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E3%80%8C%E4%BA%AC%E7%A6%8F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB2025%E3%80%8D%EF%BC%882023%E5%B9%B4%E5%BA%A6%EF%BD%9E2025%E5%B9%B4%E5%BA%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/%E7%AC%AC116%E5%9B%9E%E5%AE%9A%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E6%8B%9B%E9%9B%86%E3%81%94%E9%80%9A%E7%9F%A5%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/aff822f696db110b48514aa6ecc6e030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a969a750335dec25fc461e0d8344f3f3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/646c346dda31ec1453fb56483042876a-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/a41cb189ca3e9b4897a110aa63fba08d-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/b0d1fd67ba6ed8587b68ce9e2247c0da-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/ebe6a625e4e988fb0d84d71850a95a03-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/be7d514189789be42c30bdb5156e8118-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keifuku.co.jp/cms/wp-content/uploads/d36987ad699370fce8b48727a4b92976-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://media.rakuten-sec.net/articles/-/53695",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoto-np.co.jp/articles/-/1615796",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "京福電気鉄道",
+   "results": [
+    "https://www.keifuku.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://x.com/Randen_Official?lang=ja",
+    "https://www.mintetsu.or.jp/corporates/local/keifuku.html",
+    "https://www2.nhk.or.jp/archives/movies/?id=D0004010032_00000",
+    "https://ja.wikipedia.org/wiki/京福電気鉄道",
+    "https://ja.wikipedia.org/wiki/京福電気鉄道嵐山本線",
+    "https://zh.wikipedia.org/wiki/京福電氣鐵道",
+    "https://en.wikipedia.org/wiki/Keifuku_Electric_Railroad",
+    "https://www.keifuku.co.jp/randen_timetable.php"
+   ]
+  },
+  {
+   "query": "京福電気鉄道 ビジネスモデル",
+   "results": [
+    "https://media.rakuten-sec.net/articles/-/53695",
+    "https://www.keifuku.co.jp/cms/company/",
+    "https://job.mynavi.jp/27/pc/search/corp58202/recruiting_course27031799/recruiting_course.html",
+    "https://kitaishihon.com/company/9049/business",
+    "https://www.pref.kyoto.jp/wlbsuisin/corp/detail.html?RequestNo=719&mode=preview",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260601556727",
+    "https://note.com/jobhuntkeyence/n/nf74e7b056f21",
+    "https://wwwtb.mlit.go.jp/kinki/content/000010250.pdf",
+    "https://ja.wikipedia.org/wiki/京福電気鉄道"
+   ]
+  },
+  {
+   "query": "京福電気鉄道 決算説明資料",
+   "results": [
+    "https://www.keifuku.co.jp/cms/irmaterials/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9049",
+    "https://kitaishihon.com/company/9049/ir-library",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007RRJ.pdf",
+    "https://edinetdb.jp/company/E04108/ir-docs/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260427512368",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=9049",
+    "https://www.keikyu.co.jp/ir/library/accounts.html",
+    "https://irbank.net/9049/ir",
+    "https://treelazy.com/stock-jp/9049/conference"
+   ]
+  },
+  {
+   "query": "京福電気鉄道 事業系統図",
+   "results": [
+    "https://www.keifuku.co.jp/cms/company/",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://www.keifuku.co.jp/",
+    "https://www.mintetsu.or.jp/corporates/local/keifuku.html",
+    "https://www.haisenryakuzu.net/documents/metro/keifuku/",
+    "https://www.flickr.com/photos/monhsi/2688478114",
+    "https://www.uraken.net/rail/chiho/keifuku.html",
+    "https://raillab.jp/transport/222",
+    "http://the6thfactory.web.fc2.com/randen/index.html",
+    "https://ja.wikipedia.org/wiki/京福電気鉄道"
+   ]
+  },
+  {
+   "query": "京福電気鉄道 社長 インタビュー",
+   "results": [
+    "https://www.kyoto-np.co.jp/articles/-/1615796",
+    "https://www.keifuku.co.jp/cms/company/",
+    "https://media.rakuten-sec.net/articles/-/53695",
+    "https://www.instagram.com/p/DVQgA3Oj5G7/",
+    "https://kitaishihon.com/company/9049/board-of-director",
+    "https://www.pref.kyoto.jp/wlbsuisin/corp/detail.html?RequestNo=719&mode=preview",
+    "https://www.facebook.com/kadokawadaisaku/posts/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E9%89%84%E3%81%AE%E5%B2%A1%E6%9C%AC%E5%85%89%E5%8F%B8-%E4%BC%9A%E9%95%B7%E6%96%B0%E3%81%9F%E3%81%AB%E3%81%94%E5%B0%B1%E4%BB%BB%E3%81%AE%E5%A4%A7%E5%A1%9A%E6%86%B2%E9%83%8E-%E7%A4%BE%E9%95%B7%E4%B8%89%E5%AE%85%E7%AB%A0%E5%A4%AB-%E9%89%84%E9%81%93%E9%83%A8%E9%95%B7%E3%81%8C%E3%81%94%E6%9D%A5%E5%BA%81%E5%B5%90%E9%9B%BB%E3%81%AF%E4%BA%AC%E9%83%BD%E3%81%AE%E5%AE%9D%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E3%82%92%E7%94%9F%E3%81%8B%E3%81%97%E3%81%9F%E8%A6%B3%E5%85%89%E5%AE%A2%E3%81%AE%E5%88%86%E6%95%A3%E5%8C%96%E3%81%AA%E3%81%A9%E5%B8%82%E6%B0%91%E7%94%9F%E6%B4%BB%E3%81%A8%E8%AA%BF%E5%92%8C%E3%81%97%E3%81%9F%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E8%A6%B3%E5%85%89/2313463528690612/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Frtu",
+    "http://web2.nazca.co.jp/zz1564/page179.html",
+    "https://ja.wikipedia.org/wiki/京福電気鉄道"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

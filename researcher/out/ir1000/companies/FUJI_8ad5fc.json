@@ -1,0 +1,1395 @@
+{
+ "name": "ＦＵＪＩ",
+ "aliases": [],
+ "context": "証券コード6134／機械／プライム（内国株式）／2026.03期 売上高180,642百万円 営業利益率16.2%",
+ "researched_at": "2026-11-02T18:33:00.190609+00:00",
+ "official_url": "https://www.fuji.co.jp/",
+ "identified_by": "search:yahoo_jp:FUJI",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1959年4月",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1959 年 4 月",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立年",
+    "value": "1934年",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結180,642百万円、単体149,641百万円　※2026年3月期",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結3,132名、単体1,771名　※2026年3月末現在",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電子部品実装ロボットならびに工作機械の開発、製造、販売",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "の電子基板製造を支える製品",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイト緊急メンテナンスのお知らせ（電子部品実装ロボット / 移乗サポートロボット）",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニトリ環八用賀店で『Quist』を活用した実証実験を開始 ～スマートロッカーシステムを活用し、店舗受取りサービスの利便性向上と業務効率化を検証～",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "だけじゃないＦＵＪＩの製品群",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界のものづくりを支える製品だけでなく、介護・物流といった新たな分野でも社会課題の解決に向けて、",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＵＪＩ製品",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロッカー本体、クラウド、そしてユーザー端末を結び、非対面・非接触による荷物・商品の受渡しを可能に",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入実績",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＵＪＩは、社内で培ってきた要素技術開発・製品開発に加え、スタートアップ企業や研究機関との連携によるオープンイノベーションを推進しています",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット・製品の開発",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.fuji.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮製品の開発",
+    "url": "https://www.fuji.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献製品の開発",
+    "url": "https://www.fuji.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/achievement/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/mail/input.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただく個人情報は、メール配信サービスの目的のみに使用させていただきます",
+    "url": "https://www.fuji.co.jp/ir/mail/input.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/glossary.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "どのような事業や製品の取り扱いを行っているのですか？",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置や、介護・物流といった社会課題解決に向けた製品・サービスにも取り組んでいます",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業よりご確認いただけます",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "IRメール配信サービスはありますか？",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/individual/form/input.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/ir/caution.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、金融商品取引法および東京証券取引所の適時開示規則等に基づき開示された情報のすべてを網羅するものではありません",
+    "url": "https://www.fuji.co.jp/ir/caution.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/news/post_136.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/news/post_135.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/news/post_134.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・事業 | Top",
+    "url": "https://www.fuji.co.jp/news/_202731.html",
+    "pass": 1
+   },
+   {
+    "quote": "高性能化・省電力化を支える製品です",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_placement_of_tomahawk6_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出典: Broadcom Inc. 製品ページ",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_placement_of_tomahawk6_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ボティクスが期待される分野において、「人々の心豊かな暮らしのために」驚きと感動を与える商品・サービスをお届",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_placement_of_tomahawk6_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ＦＵＪＩ ロボットソリューション事業本部 マーケティング部 グローバルメディア課 白井",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_placement_of_tomahawk6_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "刷機、自動化技術を組み合わせたソリューションの強化に取り組んでいます",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ＦＵＪＩ ロボットソリューション事業本部 マーケティング部 グローバルメディア課 白井",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "～スマートロッカーシステムを活用し、店舗受取りサービスの利便性向上と業務効率化を検証～",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて、「Quist」を利用した店舗受取りサービスの実証実験を開始しました",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本実証実験では、これまで培ったＦＵＪＩの技術・ノウハウも活用しつつ、お客様が注文した商品を店",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "作業負荷軽減効果や、Quist での受取りに適したサービス・商品選定などについても併せて評価を行いま",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現状、店舗受取り商品はバックヤードや保管棚で管理されており、お客様の来店時には店舗スタッフが",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象商品を取り出しのうえ受け渡しを行っています",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そこで、店舗受取りサービスのさらなる利便性向上および店舗業務の効率化に向けた取り組みとして、",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "舗スタッフを介することなく、店舗にあるロッカーから商品を簡単に受け取ることが可能となります",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "などを行い、今後のサービス展開に向けた有効性を検証します",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・バーコード・QR コードを利用したシンプル・スマートな商品や荷物の受け渡し",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "モノの保管や管理に関するお客様の課題や新たなニーズに対応するソリューションの企画・開発を進",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を与える商品・サービスをお届けすることで社会に新しい価値を創造し、 人々の笑顔があふれるサステナ",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ＦＵＪＩ ロボットソリューション事業本部 新規事業部 Quist プロジェクト 牛居",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ニトリ環八用賀店で『Quist』を活用した実証実験を開始 ～スマートロッカーシステムを活用し、店舗受取りサービスの利便性向上と業務効率化を検証～",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【TV放送】 NHK名古屋 『まるっと！』 にて当社が紹介されます（7月23日放送）",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「第 39 回 インターネプコンジャパン」に出展します（出展内容紹介）",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パーパス紹介動画",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の取り組みや強み、経営戦略などをわかりやすくご紹介いたします",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的な考え方と活動状況についてご紹介します",
+    "url": "https://www.fuji.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介いたします",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの事業やあゆみをご紹介します",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みをご紹介します",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "中長期の経営計画などをご紹介します",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事は、当社カバーアナリストである 大和証券株式会社 田井 宏介氏 による当社紹介記事です",
+    "url": "https://www.fuji.co.jp/news/post_136.html",
+    "pass": 1
+   },
+   {
+    "quote": "～スマートロッカーシステムを活用し、店舗受取りサービスの利便性向上と業務効率化を検証～",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて、「Quist」を利用した店舗受取りサービスの実証実験を開始しました",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 店舗スタッフの",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現状、店舗受取り商品はバックヤードや保管棚で管理されており、お客様の来店時には店舗スタッフが",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そこで、店舗受取りサービスのさらなる利便性向上および店舗業務の効率化に向けた取り組みとして、",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "舗スタッフを介することなく、店舗にあるロッカーから商品を簡単に受け取ることが可能となります",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本実証実験では、実際の店舗運用を通じて、",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・店舗業務効率化効果の測定",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（Quist 紹介ページ）https://www.fuji.co.jp/product/delivery-locker/",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(7 月 23 日放送) NHK 名古屋『まるっと！』にて紹介されます！",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20260717_nhk_marutto_notice.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NHK 名古屋放送局の情報番組『まるっと！』にて、ＦＵＪＩが紹介されます",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20260717_nhk_marutto_notice.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の様子や、介護ロボット「Hug」についてもご紹介いただく予定です",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20260717_nhk_marutto_notice.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "番組紹介｜まるっと！×知立市ウイーク！",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20260717_nhk_marutto_notice.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次に、写真技術の新用途を開拓する技術マーケティングの事例を紹介します",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "で自社の写真技術をどのように医療・ヘルスケアの分野に活用したかを紹介しています（上図参照）",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど紹介した再生医療研究所長（当時）の",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、TechnoProducerのサービスを少し紹介させて頂きます",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "では、サービス参加者の方からのお声や、企業の技術マーケティング事例を本記事よりもさらに掘り下げてご紹介しております",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "特に参考になる企業としてフィルム事業の衰退を乗り越えた富士フイルムと、全固体電池開発で石油依存からの脱却を進める出光興産の事例を紹介し、事業創出のプロセスを明らかにします",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "★弊社書籍の紹介",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月08日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月05日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月14日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月03日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震への災害支援について",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月17日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月30日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月01日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月19日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度「FTSE JPX Blossom Japan Index」構成銘柄に初選定および「FTSE JPX Blossom Japan Sector Relative Index」に再選定",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月17日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月22日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月23日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年04月11日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月01日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算開示のお知らせ",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月08日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月16日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月17日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月12日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月22日",
+    "url": "https://www.fuji.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年4月",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社ＦＵＪＩ",
+    "url": "https://www.fuji.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1959年、工作機械メーカーとして創業したＦＵＪＩは、精密加工技術を基盤に自動化装置や電子部品実装ロボットなど新たな分野へ挑戦してきました",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明資料",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月05日",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算開示",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月01日",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月05日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年02月04日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第3四半期決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（2027年3月期）",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月03日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（2026年3月期）",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月10日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月07日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年09月05日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月05日",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表",
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月23日（土）",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年4月、愛知県名古屋市中川区にて創業しています",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期までの中期経営計画においては、ROE：11%以上、PBR：1.1倍以上を目標としています",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度から2026年度の中期経営計画期間は、配当性向を50％以上とし、1株当たりの年間配当金の下限を80円とする方針です",
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月08日",
+    "url": "https://www.fuji.co.jp/news/post_136.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月14日",
+    "url": "https://www.fuji.co.jp/news/post_135.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月14日（月）発売の「週刊東洋経済 2026年9月19日・26日合併号」の「AI・半導体 需要爆発」特集に当社代表取締役社長 五十棲丈二のインタビュー記事が掲載されましたので、お知らせいたします",
+    "url": "https://www.fuji.co.jp/news/post_135.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月03日",
+    "url": "https://www.fuji.co.jp/news/post_134.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算開示のお知らせ | 株式会社ＦＵＪＩ",
+    "url": "https://www.fuji.co.jp/news/_202731.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "米国拠点の ＦＵＪＩ Innovation Lab.を中心に、世界中の新しい技術やビジネスモデルを探索し、将来の事業につながる技術の発掘を進めています",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造ストーリーやビジネスモデルをわかりやすくまとめた報告書を掲載しています",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "・急成長企業のビジネスモデルと知財戦略",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変／「ガリバー」運営IDOMがAXに大型投資 注目記事を音声化",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   },
+   {
+    "quote": "テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "NC旋盤を中心とし、多彩な周辺装置オプションからお客様のライン生産をトータルコーディネート",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロッカー本体、クラウド、そしてユーザー端末を結び、非対面・非接触による荷物・商品の受渡しを可能に",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "掲載情報に基づいて利用者が行う投資判断等については、利用者ご自身の責任において行われるものであり、当社は一切責任を負うものではありません",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ZERO」のコンセプトのもと、電子部品実装技術の開発を継続し、お客様の現場課題に応じた最適な提案を通",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本実証実験では、これまで培ったＦＵＪＩの技術・ノウハウも活用しつつ、お客様が注文した商品を店",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "舗で受け渡す業務の運用有効性やお客様の利便性向上に関する検証を実施します",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現状、店舗受取り商品はバックヤードや保管棚で管理されており、お客様の来店時には店舗スタッフが",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "か、時間帯によってはお客様をお待たせする場合があります",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Quist を活用することで、お客様は店",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・お客様利便性評価",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "モノの保管や管理に関するお客様の課題や新たなニーズに対応するソリューションの企画・開発を進",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような背景を受け、FUJI はお客様の声をもとに、実際の 生産現場に求められる価値を追求し、制",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_clt-fg_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FUJI では、お客様の選択肢を広げる新たなプラットフォームとして 『CLT-FG』をラインナップに加え、より",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_clt-fg_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績/お客様の声",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "既存の強みである技術の用途を開拓し、新たな顧客を開拓するマーケティングは「技術マーケティング」",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客価値を明確にする技術マーケティングの考え方（「",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "【お客様事例】市場調査では見えない「潜在ニーズ」を発見｜R&D現場の困りごとを知財情報から捉える",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "【お客様事例】IPランドスケープを新規テーマ提案につなげる「未来予測調査」とは？",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業のアイデアを「否定される」のが怖いときは？ 顧客の声で企画を磨く方法｜楠浦さんAI活用実例",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "商品企画の失敗を防ぐ「仮説検証」とは？ 顧客ヒアリング×楠浦さんAIの実践例",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "【商品企画の失敗談】「売れる理由」が分からない企画を量産していた私が、「顧客目線」を身につけるまで ─ 楠浦さんAI活用実例",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "協業の推進にあたっては、タイムアドバンテージを強く意識し、とにかく素早く購買を行い試作品や技術の評価をして、顧客先を含めた本番環境でのテストを行うなどの工夫をしている",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   },
+   {
+    "quote": "SOMPOがトップ級スタートアップと協業できた理由、パイオニアユーザーを目指す",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   },
+   {
+    "quote": "アダルトサイト閲覧中のユーザーを盗撮、Webカメラを乗っ取るマルウエア出現",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント・地域別情報",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント・地域別情報",
+    "url": "https://www.fuji.co.jp/ir/achievement/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴は、自社の技術の新用途について、「市場セグメント」といった抽象的なレベルでは終わらないことです",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社の取り組みや強み、経営戦略などをわかりやすくご紹介いたします",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＵＪＩの強み",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の取り組みや強み、",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＵＪＩの強み",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みをご紹介します",
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "既存の強みである技術の用途を開拓し、新たな顧客を開拓するマーケティングは「技術マーケティング」",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "「特許情報の活用」により「解像度の高い技術マーケティング」を実践できるのが企業内発明塾の強み",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "「既存事業の強みを生かした新規事業の創出」を支援するサービス",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   },
+   {
+    "quote": "技術マーケティングのプロである楠浦の直接支援により、BtoC、BtoBを問わず、あなたの会社の強みを生かした新規事業の企画を生み出せます",
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成長戦略 | 株式会社 FUJI — 成長戦略 | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > ... > 個人投資家の皆さまへ",
+    "url": "https://www.fuji.co.jp/ir/individual/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) FUJI 【6134】 | 未来金融研究部《ミラキン》 — (株) FUJI 【6134】 | 未来金融研究部《ミラキン》 未来金融研究部 https://mirakin.jp > ... > 名証プレミア > 愛知県",
+    "url": "https://mirakin.jp/seizou/kikai/fuji/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 富士 フイルムの事業戦略を構造 ... — 【 ビジネスモデル 図解2026】 富士 フイルムの事業戦略を構造 ... mindmeister.jp https://mindmeister.jp > posts > bm-fujifilm",
+    "url": "https://mindmeister.jp/posts/bm-fujifilm",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 富士 フイルム ビジネス イノベーション — 事業内容 | 富士 フイルム ビジネス イノベーション Fujifilm [Global] https://www.fujifilm.com > about > corporate-fb > business",
+    "url": "https://www.fujifilm.com/fb/ja/about/corporate-fb/business",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 会 資料 | 株式会社 FUJI — 決算短信・ 決算説明 会 資料 | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > 株主・投資家情報 > IRライブラリー",
+    "url": "https://www.fuji.co.jp/ir/library/financial.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 | 株主・投資家の皆さまへ | 株式会社 フジ 会社案内サイト — IR 資料 | 株主・投資家の皆さまへ | 株式会社 フジ 会社案内サイト フジ https://www.the-fuji.com > company > library",
+    "url": "https://www.the-fuji.com/company/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 株式会社 FUJI — 株主・投資家情報 | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > ...",
+    "url": "https://www.fuji.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - フジ・メディア・ホールディングス — 決算説明資料 - フジ・メディア・ホールディングス フジ・メディア・ホールディングス https://www.fujimediahd.co.jp > presentation",
+    "url": "https://www.fujimediahd.co.jp/ir/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 FUJI 】[6134]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 FUJI 】[6134]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6134",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 FUJI — 会社概要 | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > 企業情報",
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース・お知らせ（2026年） | 株式会社 FUJI — ニュース・お知らせ（2026年） | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > ニュース・お知らせ",
+    "url": "https://www.fuji.co.jp/news/2026/",
+    "pass": 3
+   },
+   {
+    "quote": "拠点紹介 | 株式会社 FUJI — 拠点紹介 | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > 企業情報",
+    "url": "https://www.fuji.co.jp/company/plants.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜企業情報 - フジ テレビ — 組織図｜企業情報 - フジ テレビ フジテレビ https://www.fujitv.co.jp > company > info > soshiki",
+    "url": "https://www.fujitv.co.jp/company/info/soshiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 挨拶 | 株式会社 FUJI — 社長 挨拶 | 株式会社 FUJI 株式会社ＦＵＪＩ https://www.fuji.co.jp > 企業情報",
+    "url": "https://www.fuji.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "FUJI社長 に聞く、シリコンバレーのトップスタートアップと ... — FUJI社長 に聞く、シリコンバレーのトップスタートアップと ... 日経クロステック https://xtech.nikkei.com > atcl > nxt > column",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の最前線で選ばれ続ける理由。 FUJI の技術を支える ... — 世界の最前線で選ばれ続ける理由。 FUJI の技術を支える ... リクルートダイレクトスカウト https://directscout.recruit.co.jp > 企業特集記事 > 特集記事",
+    "url": "https://directscout.recruit.co.jp/contents/article/30744/",
+    "pass": 3
+   },
+   {
+    "quote": "FUJI の歴代 社長 - The社史 — FUJI の歴代 社長 - The社史 The社史 https://the-shashi.com > FUJIの歴史",
+    "url": "https://the-shashi.com/tse/6134/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 五十棲 丈二 - 株式会社FUJI — 代表取締役 社長 五十棲 丈二 - 株式会社FUJI 株式会社ＦＵＪＩ https://recruit.fuji.co.jp > about > message",
+    "url": "https://recruit.fuji.co.jp/about/message.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "締切迫る！年額プランが普段より2カ月お得に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   },
+   {
+    "quote": "有料会員（月額プラン）は初月無料！",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fuji.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/achievement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/mail/input.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/glossary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/individual/form/input.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/caution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/post_136.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/post_135.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/post_134.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/_202731.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_placement_of_tomahawk6_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/library/pdf/IR2026_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20261020_Quist_nitori_store_pickup.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20260807_donation_kumamoto.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/20260717_nhk_marutto_notice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_clt-fg_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Newly_Selected_for_FTSE_JPX_Blossom_Japan_Index_and_Reselected_for_FTSE_JPX_Blossom_Japan_Sector_Relative_Index_FY2026.pdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/company/img/about_tx02.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-fuji.com/company/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "FUJI",
+   "results": [
+    "https://www.fuji.co.jp/",
+    "https://en.wikipedia.org/wiki/Mount_Fuji",
+    "https://www.japan.travel/en/fuji-guide/",
+    "https://www.fujifilm-x.com/global/",
+    "https://global.fujifilm.com/en",
+    "https://www.fujitv.com/",
+    "https://www.the-fuji.com/",
+    "https://grokipedia.com/page/Fuji",
+    "https://www.fujifilm.com/us/en/consumer/digitalcameras",
+    "https://fujisports.com/"
+   ]
+  },
+  {
+   "query": "FUJI ビジネスモデル",
+   "results": [
+    "https://www.fuji.co.jp/ir/individual/strategy.html",
+    "https://www.techno-producer.com/column/fujifilm-business-conversion/",
+    "https://mirakin.jp/seizou/kikai/fuji/",
+    "https://mindmeister.jp/posts/bm-fujifilm",
+    "https://www.fujifilm.com/fb/ja/about/corporate-fb/business",
+    "https://www.fuji.co.jp/ir/library/pdf/IR2025_J.pdf",
+    "https://jbpress.ismedia.jp/articles/-/87477",
+    "https://www.fuji.co.jp/innovation/intellectual-property.html",
+    "https://panding.info/business-model/fujifilm",
+    "https://www.youtube.com/watch?v=NYhdm69oJbw"
+   ]
+  },
+  {
+   "query": "FUJI 決算説明資料",
+   "results": [
+    "https://www.fuji.co.jp/ir/library/financial.html",
+    "https://www.the-fuji.com/company/ir/library/",
+    "https://www.fuji.co.jp/ir/",
+    "https://www.fujimediahd.co.jp/ir/presentation.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6134",
+    "https://www.fujielectric.co.jp/ir/library/index.html",
+    "https://www.fujioil.co.jp/ir/library/hosoku/",
+    "https://www.fuji.co.jp/ir/news.html",
+    "https://global.fujitsu/ja-jp/ir/library/finance",
+    "https://ir.fujifilm.com/ja/investors/ir-materials/earnings-presentations.html"
+   ]
+  },
+  {
+   "query": "FUJI 事業系統図",
+   "results": [
+    "https://www.fuji.co.jp/company/outline.html",
+    "https://www.fuji.co.jp/news/2026/",
+    "https://www.fuji.co.jp/company/plants.html",
+    "https://www.fujitv.co.jp/company/info/soshiki.html",
+    "https://www.fuji.co.jp/ir/",
+    "https://www.fuji.co.jp/ir/library/integration-report.html",
+    "https://www.fsi.co.jp/company/organizational_tree.html",
+    "https://www.the-fuji.com/company/companies/",
+    "https://www.fuji.co.jp/ir/individual/strategy.html",
+    "https://www.fuji.co.jp/"
+   ]
+  },
+  {
+   "query": "FUJI 社長 インタビュー",
+   "results": [
+    "https://www.fuji.co.jp/company/message.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02859/060500006/",
+    "https://directscout.recruit.co.jp/contents/article/30744/",
+    "https://the-shashi.com/tse/6134/ceo/",
+    "https://recruit.fuji.co.jp/about/message.html",
+    "https://kitaishihon.com/company/6134/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/784878",
+    "https://dempa-digital.com/article/432615",
+    "https://www.fuji.co.jp/story/keyword/interviews.html",
+    "https://www.youtube.com/watch?v=N73iA6JFZQs"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1696 @@
+{
+ "name": "ロジザード",
+ "aliases": [],
+ "context": "証券コード4391／情報・通信業／グロース（内国株式）／2026.06期 売上高2,436百万円 営業利益率16.6%",
+ "researched_at": "2026-11-02T18:41:46.005691+00:00",
+ "official_url": "https://www.logizard.co.jp/",
+ "identified_by": "search:yahoo_jp:ロジザード",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2001年7月16日",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "147名（2026年6月30日現在）",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "SaaS（クラウドサービス）事業 情報システムの開発及び販売 物流業務・小売業務コンサルティング",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様支援サービスを提供しています",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド在庫管理システムの提供と物流に関するお客様支援サービスを展開しています",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.logizard.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.logizard.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "伝わることを諦めない人 お客様と、",
+    "url": "https://www.logizard.co.jp/recruit/about/culture/",
+    "pass": 1
+   },
+   {
+    "quote": "LTV（顧客生涯価値）を最大化する信頼の構築",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB物流の停止は、取引先のラインストップや販売機会の損失に直結し、社会的な信頼問題に発展しかねない",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、顧客が対価を払う対象は、システムの多機能さ以上に「出荷を絶対に止めない（出荷絶対）」という安心感や、トラブル時に即座に電話がつながるサポート体制にある",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "取引先ごとの柔軟な対応",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "出荷の停止は、BtoCであればエンドユーザーの信頼喪失を招き、BtoBであれば取引先の販売機会損失やラインストップに直結する",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援担当者は顧客の要望を単にシステム化するのではなく、現場に入り込み、標準機能を活用した最適な業務フローへと「翻訳・提案」を行う役割を担う",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "365日の有人サポートや、稼働初期の混乱を最小限に抑える導入メソッドにより、顧客に「物流のプロが共に現場を守っている」という安心感を提供する",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "初期の人材投資は一時的なコスト増を招くが、高いLTV（顧客生涯価値）をもたらす長期的な収益基盤の構築において、極めて合理的な経営判断といえる",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "データベース構造やシステム間連携の仕様を深く理解し、顧客の既存システム（レガシーシステム等）と「ロジザードZERO」を最適に接続する技術的知識",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "この思想を浸透させることで、社員は単に「システムを導入して終わり」ではなく、「そのシステムによって、エンドユーザーの体験がどう向上するか」までを想像して提案できるようになる",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "この高い視座こそが、BtoBの複雑な要件定義において、顧客をリードするために必要な要素である",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "1. LTV（顧客生涯価値）の最大化",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB顧客はBtoC顧客に比べて、取引規模が大きく、かつ継続期間が長い傾向にある",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の事業継続を守り抜く「出荷絶対」の思想を、365日のサポートや現場対応といった",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "新設された「業務プロセス改革室」による全社的な業務DXの推進や、「契約事務課」によるフロント業務の負荷軽減は、専門人材が顧客対応に集中できる環境を整えるものである",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "外部ベンダーが参加できるアプリケーションプラットフォームへの進化は、顧客の利便性を一層高め、同社の市場における優位性をより強固なものにするだろう",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "DXの過渡期にある日本の物流業界において、顧客の事業継続を最優先するこのハイブリッドなアプローチは、市場のニーズに極めて合致している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "これまで物流現場で顧客に伴走してきた経験を強みに、同社は物流全体の最適化を担う企業へと変革を推し進めている",
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "物流現場をどうＤＸ化していくかをお客様と一緒に考える、いわば物流ＤＸのサプライヤーだと思っています」（金澤社長）",
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "約7割のユーザー様がノンカスタマイズ",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "理由・ユーザー様の声",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーの皆さまからは倉庫管理の標準機能や特に",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドカメラとの連携で顧客からの信頼度も向上",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズに関してはアドオン開発プランや専用環境プランなど、お客様のご要望に合わせたご提案が可能です",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ロジザードZEROでは、不正ログイン防止のための各種機能を備え、お客様の大切なデータを安全に保護しています",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご希望に合わせて",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ともに、テクノロジーで物流業界をHappyにしたいという思いで、お客様の業務がより楽に、より効率良く、より高い生産性を上げられるようにとロジザードを導いてきた二人が、今後のビジョンを語り合いました",
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報自体が1つのサービスになり得る、つまりビッグデータとしてお客様の物流のお役にたてるようになる、と考えていて、今いろいろな可能性を探っています",
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス、ドキュメント",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードが人材紹介サービス『CSjob』に「SaaSを展開する企業6選」として掲載",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス、メディア",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードのサービス",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様支援サービスを提供しています",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2001年7月に埼玉県蕨市において倉庫在庫管理クラウドサービスシステムの開発、販売を目的とする会社として、有限会社ロジザード（資本金3百万円）を設立し、倉庫在庫管理クラウドサービス 「ロジザードPLUS」の販売開始しました",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/contact/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS（クラウドサービス）事業",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けIT製品比較サイト「ITトレンド」が発表した「ITトレンド年間ランキング」において、「ロジザードZERO」が倉庫管理（WMS）部門で1位を獲得",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス│クラウド倉庫管理システムを提供する ロジザード株式会社",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスを通して正しい在庫管理と在庫情報の活用を推進します",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド在庫管理システムの提供と物流に関するお客様支援サービスを展開しています",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "モノが作られてから消費者に届くまでの流れを担う物流サービスを展開しています",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "20年を超えるサービス実績、業界シェア1位のクラウドWMS",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けIT製品比較サイト「ITトレンド」：ITトレンド年間ランキング2024倉庫管理システム（WMS）",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "営業段階から現場に寄り添ったハイタッチなサービスをご提供しています",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサイトはこちら",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "完全無料の物流倉庫紹介サービスです",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "海外向けクラウドサービス",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードZEROの東南アジア向け製品です",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードZEROの中国国内向けOEM製品です",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2001年7月に埼玉県蕨市において倉庫在庫管理クラウドサービスシステムの開発、販売を目的とする会社として、有限会社ロジザード（資本金3百万円）を設立し、倉庫在庫管理クラウドサービス 「ロジザードPLUS」の販売開始しました",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "物流ITサービスで、人をつなぐ",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードが人材紹介サービス『CSjob』に「SaaSを展開する企業6選」として掲載",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革等さまざまな概要をご紹介します",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種IR資料などのIR情報をご紹介します",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Bit Waybillのご紹介",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗管理システム「RB-Manager」の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム「POSぴたRBM」（旧店舗管理システム「RB-Manager」の携帯電話対応版）の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム「ロジザードZERO-STORE」の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリのカメラ機能でバーコードをスキャンし、各店舗の在庫を一元管理、リアルタイムに確認することができます",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の細やかな在庫管理を実現したい事業者様をロケーション管理機能や棚卸機能にてご支援いたします",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "完全無料の物流倉庫紹介サービスです",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流業務の委託先倉庫をお探しの通販事業者様やメーカー様に、最短で1週間で平均3～4社の倉庫様をご紹介",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードスタッフが直接会ったことのある倉庫様を中心に、多数のご紹介の実績があります",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "アジア各国の代理店とともに、海外でも安心して物流業務を遂行できるように支援します",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "現地代理店が日本語、中国語、英語にてご提案、サポートいたします",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "経営を担う代表および役員の略歴をご紹介しています",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型在庫管理システムを中心とした当社の事業内容と提供価値をご紹介します",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/financials/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/financials/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/financials/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫紹介サービス「ロジザード・マッチン」",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードの考え方や事業、そして働く人たちの文化をご紹介します",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫や店舗、EC事業者の現場で使われる在庫管理システムなど、物流の効率化を支える自社開発のクラウドサービスを展開しています",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "応募者の皆様に向け、当社の理念や未来への想いを込めた社長からのメッセージをご紹介します",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "社員構成や平均年齢、働き方のデータなど、ロジザードのリアルを数字でご紹介",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザード、物流データの分析・改善提案をAIで支援する「ロジザードZERO AI在庫分析」を提供開始",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド在庫管理システムと物流に関する",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2001年7月に埼玉県蕨市において倉庫在庫管理クラウドサービスシステムの開発、販売を目的とする会社として、有限会社ロジザード（資本金3百万円）を設立し、倉庫在庫管理クラウドサービス 「ロジザードPLUS」の販売開始しました",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム「POSぴたRBM」（旧店舗管理システム「RB-Manager」の携帯電話対応版）の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム「ロジザードZERO-STORE」の提供開始",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスを通して正しい在庫管理と在庫情報の活用を推進します",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド在庫管理システムの提供と物流に関するお客様支援サービスを展開しています",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流、在庫情報は経営にも役立つ重要なデータです",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流データ活用に必要な、正確な在庫情報とその「見える化」をご支援いたします",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物流管理、在庫管理のお悩みはお気軽に相談ください",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリのカメラ機能でバーコードをスキャンし、各店舗の在庫を一元管理、リアルタイムに確認することができます",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の細やかな在庫管理を実現したい事業者様をロケーション管理機能や棚卸機能にてご支援いたします",
+    "url": "https://www.logizard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2001年7月に埼玉県蕨市において倉庫在庫管理クラウドサービスシステムの開発、販売を目的とする会社として、有限会社ロジザード（資本金3百万円）を設立し、倉庫在庫管理クラウドサービス 「ロジザードPLUS」の販売開始しました",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型在庫管理システムを中心とした当社の事業内容と提供価値をご紹介します",
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/financials/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫や店舗、EC事業者の現場で使われる在庫管理システムなど、物流の効率化を支える自社開発のクラウドサービスを展開しています",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "社員は「力量水準 × 役割」に応じた等級により評価され、3つのキャリアコース（ゼネラルコース・マネジメントコース・プロフェッショナルコース）を軸に、自身の強みを活かしたキャリア形成が可能です",
+    "url": "https://www.logizard.co.jp/recruit/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/recruit/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド在庫管理システムのリーディングカンパニー",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "「物流×在庫×IT」で現場改善に貢献します",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫の在庫を管理するクラウドWMS「ロジザードZERO」に加え、店舗の在庫を管理する「ロジザードZERO-STORE」を提供",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の抱える在庫に関わる課題解決を支援してまいります",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2001年7月に埼玉県蕨市において倉庫在庫管理クラウドサービスシステムの開発、販売を目的とする会社として、有限会社ロジザード（資本金3百万円）を設立し、倉庫在庫管理クラウドサービス 「ロジザードPLUS」の販売開始しました",
+    "url": "https://www.logizard.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/recruit/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジザードは、クラウド型の在庫管理システムを通じて、",
+    "url": "https://www.logizard.co.jp/recruit/about/culture/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/recruit/about/culture/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド店舗在庫管理システム",
+    "url": "https://www.logizard.co.jp/recruit/about/logizard-data/",
+    "pass": 1
+   },
+   {
+    "quote": "本レポートでは、クラウドWMS市場におけるBtoB領域への戦略的拡張とハイタッチサービスによる競争優位性の構築について、ロジザードの中期戦略を読み解く",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "①OMO対応の在庫一元管理",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "3.2 2025年6月期の業績概要 2桁増収＋高収益の両立",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "このようなマクロ環境下において、クラウド型倉庫管理システム（WMS）のリーディングカンパニーであるロジザード株式会社（以下、ロジザード）は、従来強みとしてきたBtoC（EC物流）領域から、より市場規模が大きく、かつDXが遅れているBtoB（企業間物流）領域への強化へと舵を切っている",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "人材への投資が財務諸表（特に売上総利益率や販管費）にどのような影響を与え、それが長期的な企業価値向上にどう寄与するのか",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "これまでExcelや紙台帳で在庫管理を行っていた中小規模の倉庫事業者や荷主企業が、業務効率化とトレーサビリティ確保のために、システム導入を本格的に検討し始めているからである",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "小売・流通事業者は、実店舗とECの在庫を一元管理し、ネット注文の店舗受取や店舗出荷、リアル店舗でのショールーミング対応などをシームレスに行うことが不可欠となっている",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、次世代のWMSには、単なる在庫管理の枠を超え、以下の「ハイブリッドな能力」と「拡張性」が求められている",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "EC専用倉庫と店舗在庫を統合的に制御し、販売機会の最大化と在庫の偏在解消を同時に実現する能力",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は前年比2桁成長を維持し、営業利益率は18.7%と高い収益性を確保している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "3.3 収益構造の分析：ストックビジネスの強み",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "3.4 売上総利益率の変動と戦略的投資",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "詳細な損益計算書の分析において注目すべき点は、クラウドサービスの売上総利益率が第4四半期に59.0%となり、人材採用への投資によって低下している点である",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なSaaS企業の評価において、売上総利益率の低下は収益性の悪化と捉えられる傾向にある",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB領域への戦略的強化を理解する上では、従来の強みであるBtoC物流と、今後注力するBtoB物流の構造的な差異を整理しておく必要がある",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "会社資料ではBtoBを「取り組みを強化していく領域」と定義しているが 、投資家がその難易度と参入障壁を正しく評価できるよう、まずは機能・運用面における具体的な違いを以下の表にまとめる",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年、新年のご挨拶",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革等さまざまな概要をご紹介します",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年5月に本店を東京都港区へ移転、2004年2月に株式会社へ組織を変更し、商号を株式会社ロジザード販売に変更、2005年8月にロジザード株式会社(旧創歩人コミュニケーションズ株式会社)を吸収合併し、商号をロジザード株式会社へ変更、2012年9月本店を東京都中央区へ移転し、現在に至ります",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）7月4日に東京証券取引所マザーズに上場し、現在はグロース市場となります",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年7月16日",
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革│ロジザードについて│クラウド倉庫管理システムを提供する ロジザード株式会社",
+    "url": "https://www.logizard.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日（水）",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 通期決算発表",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年5月に本店を東京都港区へ移転、2004年2月に株式会社へ組織を変更し、商号を株式会社ロジザード販売に変更、2005年8月にロジザード株式会社(旧創歩人コミュニケーションズ株式会社)を吸収合併し、商号をロジザード株式会社へ変更、2012年9月本店を東京都中央区へ移転し、現在に至ります",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）7月4日に東京証券取引所マザーズに上場し、現在はグロース市場となります",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日（水）",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期通期決算発表",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月下旬",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月中旬",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期第1四半期決算発表",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月中旬",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期第2四半期決算発表",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月中旬",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期第3四半期決算発表",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年8月中旬",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期決算発表",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年9月下旬",
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日（水） 11:00～18:30",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日（水） 12:10～12:40",
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年5月に本店を東京都港区へ移転、2004年2月に株式会社へ組織を変更し、商号を株式会社ロジザード販売に変更、2005年8月にロジザード株式会社(旧創歩人コミュニケーションズ株式会社)を吸収合併し、商号をロジザード株式会社へ変更、2012年9月本店を東京都中央区へ移転し、現在に至ります",
+    "url": "https://www.logizard.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）7月4日に東京証券取引所マザーズに上場し、現在はグロース市場となります",
+    "url": "https://www.logizard.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月25日 16:10",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月から適用されたトラックドライバーの時間外労働規制強化（いわゆる「2024年問題」）は、輸送能力の不足を顕在化させ、サプライチェーン全体の効率化を強制する圧力となっている",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期は中期経営計画の初年度として成長投資を行うため、利益率は一時的に低下する見通しである（詳しくは後述）",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "2028年6月期に従業員数を177名（25年6月期比で45名増）まで拡大し、導入・支援体制を先行して整える",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "1979年 創歩人コミュニケーションズ（ロジザードの前身）を設立",
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "技術職の構成比",
+    "url": "https://www.logizard.co.jp/recruit/about/logizard-data/",
+    "pass": 1
+   },
+   {
+    "quote": "このアプローチにより、高額な投資が難しいためにDXを断念していた中堅・中小の卸売業者やメーカーという、広範な市場セグメント（潜在需要層）の獲得が可能となる",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "3.3 収益構造の分析：ストックビジネスの強み",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ロジザードのビジネスモデルがフロー（売り切り）型ではなく、安定したストック（継続課金）型であることを示している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルおよび戦略的アプローチの差異】",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "“物流を止めない”という社会インフラを支えるロジザードのビジネスモデルと成長戦略に迫る",
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "物流現場で感じた課題から生まれたこの発想が、ロジザードのビジネスモデルの出発点となった",
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとして「あり」だと思います",
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "下図に示す通り、同社はストック型収益を基盤に増収基調を維持し、収益性も高水準で推移している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "3.3 収益構造の分析：ストックビジネスの強み",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ロジザードのビジネスモデルがフロー（売り切り）型ではなく、安定したストック（継続課金）型であることを示している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、解約率（チャーンレート）は低く抑えられる傾向にあり、積み上がったMRRが将来の投資原資を生み出す好循環（フライホイール）が機能している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "一度導入されれば現場のオペレーションとシステムが不可分となり、他社製品への乗り換えコストが極めて高くなるため、より長期的かつ強固なストックビジネスへと深化する",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同社は「標準機能のパラメータ設定」と「ハイタッチサービスによる運用提案」を組み合わせることで、月額数万円〜数十万円のクラウドサービスでBtoB領域をカバーしようとしている",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "多くのSaaS企業がサポートの効率化（テックタッチ）へ舵を切るなか、同社はあえて以下の人的支援を強化し、約1%という極めて低い解約率を実現している",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "3. 単価の向上",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB対応機能やコンサルティングサービスは、高単価なプランやオプション料金の対象となる",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "人材の質が上がれば、より難易度の高い（＝単価の高い）案件を受注できるようになり、長期的には利益率の改善に寄与する",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアを一括販売するのではなく、ネット経由で利用できる仕組みをつくり、月額料金で提供する",
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "利用料について",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用と月額費用でシンプルな料金体系です",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "利用料について",
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロジザード 株式会社（4391） 中期経営計画における戦略的 ... — ロジザード 株式会社（4391） 中期経営計画における戦略的 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "pass": 3
+   },
+   {
+    "quote": "ロジザード （4391・G） | 株主手帳オンライン — ロジザード （4391・G） | 株主手帳オンライン 株主手帳オンライン https://www.kabutecho.com > 読む会社説明会",
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドWMSなら ロジザード ZERO｜倉庫管理システムの決定版 — クラウドWMSなら ロジザード ZERO｜倉庫管理システムの決定版 ロジザードZERO https://www.logizard-zero.com",
+    "url": "https://www.logizard-zero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド倉庫管理システムを提供する ロジザード 株式会社 — クラウド倉庫管理システムを提供する ロジザード 株式会社 ロジザード https://www.logizard.co.jp",
+    "url": "https://www.logizard.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型倉庫管理システム - 稼働数業界№1 - IRTV — クラウド型倉庫管理システム - 稼働数業界№1 - IRTV irtv.jp PDF https://irtv.jp > 2026/01 > ロジザード-事業説明",
+    "url": "https://irtv.jp/wp-content/uploads/2026/01/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%E4%BA%8B%E6%A5%AD%E8%AA%AC%E6%98%8E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - IR（投資家情報） - ロジザード — 決算説明資料 - IR（投資家情報） - ロジザード ロジザード https://www.logizard.co.jp > library > presentation",
+    "url": "https://www.logizard.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "ロジザード [4391]：2026年6月期 決算説明 ... - 日本経済新聞 — ロジザード [4391]：2026年6月期 決算説明 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260810517218/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報  クラウド倉庫管理システムを提供する ロジザード 株式 ... — IR情報  クラウド倉庫管理システムを提供する ロジザード 株式 ... ロジザード https://www.logizard.co.jp > ...",
+    "url": "https://www.logizard.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ロジザード 株式会社 - 東証 — ロジザード 株式会社 - 東証 日本取引所グループ PDF https://www2.jpx.co.jp > disc",
+    "url": "https://www2.jpx.co.jp/disc/43910/140120181113436558.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『 ロジザード ZERO相関図』公開のお知らせ — 『 ロジザード ZERO相関図』公開のお知らせ ロジザード https://www.logizard.co.jp > logizardzero_industry-map",
+    "url": "https://www.logizard.co.jp/news/2023/06/logizardzero_industry-map/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド倉庫管理システム（WMS） ロジザード ZERO — クラウド倉庫管理システム（WMS） ロジザード ZERO 大塚商会 https://www.otsuka-shokai.co.jp > ... > 製品を探す",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/product/logizard-zero/",
+    "pass": 3
+   },
+   {
+    "quote": "ロジザード 、WMSの連携システム「相関図」公開 — ロジザード 、WMSの連携システム「相関図」公開 LOGISTICS TODAY https://www.logi-today.com > ...",
+    "url": "https://www.logi-today.com/548990",
+    "pass": 3
+   },
+   {
+    "quote": "【会長(当時)・ 社長 対談】WMSで得た知見を物流の未来に ... — 【会長(当時)・ 社長 対談】WMSで得た知見を物流の未来に ... ロジザードZERO https://www.logizard-zero.com > columns > stocktalk-03",
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ ロジザード について  クラウド倉庫管理 ... — 代表メッセージ ロジザード について  クラウド倉庫管理 ... ロジザード https://www.logizard.co.jp > company > message",
+    "url": "https://www.logizard.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "[書き起こし] ロジザード (4391)IRセミナー&質疑応答 2025.12.21 — [書き起こし] ロジザード (4391)IRセミナー&質疑応答 2025.12.21 note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/kabuberry_/n/n948db720ba2b",
+    "pass": 3
+   },
+   {
+    "quote": "ロジザード社長 、改正法対応で物流モデル刷新へ — ロジザード社長 、改正法対応で物流モデル刷新へ LOGISTICS TODAY https://www.logi-today.com > ...",
+    "url": "https://www.logi-today.com/896478",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.logizard.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/contact/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/financials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/recruit/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/recruit/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/news/2026/10/logi-dx-mirai2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/recruit/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/recruit/about/culture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard.co.jp/recruit/about/logizard-data/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/oh_no/n/n73f5022450be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260810517218/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard-zero.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロジザード",
+   "results": [
+    "https://www.logizard.co.jp/",
+    "https://www.logizard-zero.com/",
+    "https://www.youtube.com/@logizard_official/about",
+    "https://www.otsuka-shokai.co.jp/erpnavi/product/logizard-zero/",
+    "https://it-trend.jp/warehouse_management_system/4525",
+    "https://www.logizard.co.jp/company/profile/",
+    "https://prtimes.jp/main/html/rd/p/000000377.000014943.html",
+    "https://www.nikkei.com/nkd/company/?scode=4391",
+    "https://www.logizard-zero.com/store/",
+    "https://www.bitwaybill.jp/"
+   ]
+  },
+  {
+   "query": "ロジザード ビジネスモデル",
+   "results": [
+    "https://note.com/oh_no/n/n73f5022450be",
+    "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "https://www.logizard-zero.com/",
+    "https://www.logizard.co.jp/",
+    "https://irtv.jp/wp-content/uploads/2026/01/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%E4%BA%8B%E6%A5%AD%E8%AA%AC%E6%98%8E.pdf",
+    "https://kabutan.jp/news/marketnews/?b=n202610010582",
+    "https://scalecloud.jp/blog/logizard_kpi/",
+    "https://www.itreview.jp/products/logizard-zero/profile",
+    "https://consovation.com/ロジザードが変える在庫管理の未来/",
+    "https://www.logizard.co.jp/ir/policy/plan/"
+   ]
+  },
+  {
+   "query": "ロジザード 決算説明資料",
+   "results": [
+    "https://www.logizard.co.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260810517218/",
+    "https://www.logizard.co.jp/ir/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260812/20260810517218.pdf",
+    "https://www2.jpx.co.jp/disc/43910/140120181113436558.pdf",
+    "https://irbank.net/4391/ir",
+    "https://www.youtube.com/watch?v=lCrCsuN13WA",
+    "https://logisteed-holdings.com/jp/ir/library/presentations/",
+    "http://ke.kabupro.jp/code/4391.htm",
+    "https://www.logizard.co.jp/ir/library/"
+   ]
+  },
+  {
+   "query": "ロジザード 事業系統図",
+   "results": [
+    "https://www.logizard.co.jp/news/2023/06/logizardzero_industry-map/",
+    "https://www.logizard-zero.com/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/product/logizard-zero/",
+    "https://irtv.jp/wp-content/uploads/2026/01/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%E4%BA%8B%E6%A5%AD%E8%AA%AC%E6%98%8E.pdf",
+    "https://www.logi-today.com/548990",
+    "https://www.youtube.com/watch?v=L00it7RPREc",
+    "https://www.logizard.co.jp/company/profile/",
+    "https://www.inventoryctl-system.net/guide/logizard_zero.html",
+    "https://prtimes.jp/main/html/rd/p/000000154.000014943.html",
+    "https://vizora.meequs.com/ja/company/logizard"
+   ]
+  },
+  {
+   "query": "ロジザード 社長 インタビュー",
+   "results": [
+    "https://www.logizard-zero.com/columns/stocktalk-03.html",
+    "https://www.logizard.co.jp/company/message/",
+    "https://note.com/kabuberry_/n/n948db720ba2b",
+    "https://www.logi-today.com/896478",
+    "https://www.kabutecho.com/%E8%AA%AD%E3%82%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A-2/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%EF%BC%BB4391%E3%83%BB%E6%9D%B1%E8%A8%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%EF%BC%BD/",
+    "https://www.green-japan.com/company/4173/interview",
+    "https://www.bci.co.jp/netkeizai/feature/825",
+    "https://irtv.jp/wp-content/uploads/2026/01/%E3%83%AD%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%89-%E4%BA%8B%E6%A5%AD%E8%AA%AC%E6%98%8E.pdf",
+    "https://invest-n.jp/ir/2933/",
+    "https://keiei.freee.co.jp/articles/i0102057/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部5頁・検索5回）"
+ }
+}

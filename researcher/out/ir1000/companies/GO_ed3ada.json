@@ -1,0 +1,783 @@
+{
+ "name": "ＧＯ",
+ "aliases": [],
+ "context": "証券コード581A／情報・通信業／グロース（内国株式）／2026.05期 売上高41,446百万円 営業利益率17.0%",
+ "researched_at": "2026-11-02T18:25:41.474939+00:00",
+ "official_url": "https://go.dev/",
+ "identified_by": "search:yahoo_jp:GO",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "タクシー事業者等に向けた配車システム提供などモビリティ関連事業",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1977年8月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "本稿では、ナインセルモデルの考え方を使って、GOがなぜ儲かるのか、ビジネスモデルと戦略を図解し説明します",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "④収益対象・⑤収益構造",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 収益構造",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "：ビジネスモデルを「選ばれる理由・儲かる理由・勝ち続ける理由」の9要素で整理する考え方です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル分析",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の受託開発・組織づくりの実践に加え、有名企業の戦略とビジネスモデルを図解で発信中",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "1．なぜ、顧客に選ばれるのか？",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "①顧客ニーズ",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "① 顧客ニーズ",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "利用者・タクシー会社・法人企業の三者を同時に便利にする",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "GOの顧客は、単に「タクシーに乗る人」ではありません",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は利用者だけではありません",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "JTBD（顧客が本当に片づけたい用事）",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の本音（インサイト）",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "その中でGOが選ばれる理由は、利用者の行動を",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "「他社との違い」は、利用者向けアプリだけでなく、タクシー会社向け端末・決済・広告・法人向け管理サービスまで持っていることです",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "利用者・法人・タクシー事業者・広告主から収益機会を得る",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "GOは、利用者だけからお金をもらう会社ではありません",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "KPI（実車数、月間利用者数、配車成立率、法人導入社数、1実車当たり平均売上高など）を動かす仕組みが利益ドライバーです",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "利用者が「この便利さなら払ってもよい」と感じ、タクシー会社も「配車効率が上がるなら使い続けたい」と感じる必要があります",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、利用者がGOで配車し、アプリで決済し、車内端末で広告に接触し、法人IDで経費処理する",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "「移動したい瞬間に乗れる安心」という顧客価値を、配車精度・法人管理・決済・広告・端末の仕組みによって、実車数・1実車当たり平均売上高・周辺収益に変換していること",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "配車データを集め、需要を読み、タクシー会社・利用者・法人に還元する",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "利用者基盤、提携車両、ブランド、配車ロジック、業界との関係",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "利用者がアプリを開く",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "提携車両が増え、利用者の利便性が上がる",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "利用者が多くても車両が少なければ配車できず、車両が多くても利用者がいなければ稼働効率は上がりません",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "顧客価値（早く安心して乗れる）、利益（実車数×1実車当たり売上高）、強み（利用者基盤・提携車両・配車データ）をつないでいるのが、需給を合わせる力です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "需給が合わなくなれば利用者は待たされ、実車数・法人利用・広告価値まで連鎖的に弱くなります",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "自社で持つべきは利用者接点・配車データ・プロダクト・業界連携の設計",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "顧客行動が変わる",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー向けアプリの他に、乗務員向け支援ソリューションも提供しています",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "タクシーアプリ『GO』をご利用いただいているのお客様の声です",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "おもてなしのため、友人や取引先のために配車することがあります",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーシステム第一グループ",
+    "url": "https://www.wantedly.com/companies/GOinc/members",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "主力サービスは、タクシーアプリ『GO』です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "タクシーは需要と供給のズレが起きやすいサービス",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "「他社との違い」は、利用者向けアプリだけでなく、タクシー会社向け端末・決済・広告・法人向け管理サービスまで持っていることです",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "これらは別々のサービスに見えますが、同じ「移動」の前後に発生する体験です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開発の失敗の多くは、開発力の不足ではなく、「その機能がどの顧客ニーズを満たし、どのKPIを動かし、どのKSFを磨くのか」が曖昧なまま進んでしまうことにあります",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "：顧客が商品やサービスを使って片づけたい本質的な用事",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "GO株式会社 公式サイト・サービス情報",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開発",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー向けアプリの他に、乗務員向け支援ソリューションも提供しています",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスサイトを見る",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "タクシーのビジネス利用に特化した法人向け管理サービス 『GO BUSINESS』",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月サービス開始",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素サービス『GX（グリーントランスフォーメーション）』",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "タクシーの運行実態に即したエネルギーマネジメントシステムを構築する「タクシー産業GXプロジェクト」や、街中に設置したEV急速充電スポットの検索・予約・決済をオンラインで完結できるEV充電サービス『GO Charge』など、モビリティ領域の脱炭素サービスを包括的に提供するGX事業を推進しています",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社では、タクシーメディア『TOKYO PRIME』、ドライバー人材に特化した採用プラットフォーム『GOジョブ』、次世代AIドラレコサービス『DRIVE CHART』、など、モビリティ分野で幅広いサービスを展開しています",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧はこちら",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "⑦ パートナー",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "足りないピースを埋める戦略的提携｜⑦パートナー",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "主要パートナーは単なる外注先ではなく、成功要因を補う存在です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "車両運行・自動運転技術・地域の交通実務・決済インフラはパートナーと組む方が合理的です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "GO株式会社ではたらく仲間たちをご紹介します",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "GO株式会社ではたらく仲間たちをご紹介します",
+    "url": "https://goinc.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "GO株式会社ではたらく仲間たちをご紹介します",
+    "url": "https://goinc.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介事業",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "GO株式会社ではたらく仲間たちをご紹介します",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "GOの利益 ＝ 実車数 × 1実車当たり平均売上高 ＋ 法人・決済・広告・端末などの周辺収益 － 決済手数料・インフラ費・分配・広告費・人件費・開発運営費",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "便利にしようとすると、開発費・広告費・インフラ費・決済手数料・連携コストが増えます",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "1回の乗車から得られる収益を高めるには、単に手数料を上げればよいわけではありません",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "⑨重要プロセス・⑧強み",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "この強みは、アプリだけで完結していない点にあります",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "顧客価値（早く安心して乗れる）、利益（実車数×1実車当たり売上高）、強み（利用者基盤・提携車両・配車データ）をつないでいるのが、需給を合わせる力です",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "強みが強みを生むフライホイール",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "＝ 固定費の効率が上がり、営業利益率が改善する",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "強みが蓄積される",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "強みが強みを生む美しい仕組みを、あなたの事業にも実装します",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "：強みが強みを生み、成長が加速する循環",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "」の下、独自の強みを生かした価値の提供をより全方位的に拡大・発展させるとともに、モビリティを軸とした社会課題を解決する多様な事業展開を通じて、生活者一人ひとりの日常がアップデートされる世界の実現を目指してまいります",
+    "url": "https://goinc.jp/news/info/2023/04/25/45aiqy9ubdjdystuabzdjr/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年7月7日 20:30",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月サービス開始",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "1977年8月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年12月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年8月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年6月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年10月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年2月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年7月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年9月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年4月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年9月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年6月30日",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "タクシーを1台も増やさずに儲かるのか｜ GO の ビジネス 戦略図解 — タクシーを1台も増やさずに儲かるのか｜ GO の ビジネス 戦略図解 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "pass": 3
+   },
+   {
+    "quote": "GO 株式会社が目指す世界 | 採用情報 GO 株式会社 — GO 株式会社が目指す世界 | 採用情報 GO 株式会社 GO株式会社 https://goinc.jp > career > future",
+    "url": "https://goinc.jp/career/future/",
+    "pass": 3
+   },
+   {
+    "quote": "GO の上場は「配車アプリ企業」の終わりか、「都市OS」の ... — GO の上場は「配車アプリ企業」の終わりか、「都市OS」の ... gamemo.confidence-media.jp https://gamemo.confidence-media.jp > お仕事通信",
+    "url": "https://gamemo.confidence-media.jp/2600",
+    "pass": 3
+   },
+   {
+    "quote": "GO BUSINESS — GO BUSINESS go-business.jp https://go-business.jp",
+    "url": "https://go-business.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - GO株式会社 — 決算説明資料 - GO株式会社 GO株式会社 https://goinc.jp > IR情報 > IRライブラリ",
+    "url": "https://goinc.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - GO株式会社 — IR情報 - GO株式会社 GO株式会社 https://goinc.jp > ...",
+    "url": "https://goinc.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "GO [581A]：2026年5月期 通期 決算説明資料 ... - 日本経済新聞 — GO [581A]：2026年5月期 通期 決算説明資料 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260714593008/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - ペットゴー株式会社 — 決算説明資料 - ペットゴー株式会社 ペットゴー株式会社 https://corp.petgo.jp > IR情報 > IR ライブラリー",
+    "url": "https://corp.petgo.jp/ir/library/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | GO 株式会社 — 会社概要 | GO 株式会社 GO株式会社 https://goinc.jp > company",
+    "url": "https://goinc.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "GO 株式会社の役員・従業員 - Wantedly — GO 株式会社の役員・従業員 - Wantedly Wantedly https://www.wantedly.com > Wantedly > GO株式会社",
+    "url": "https://www.wantedly.com/companies/GOinc/members",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる GO 株式会社 会社紹介資料 / About_GO_Inc — 3分でわかる GO 株式会社 会社紹介資料 / About_GO_Inc Speaker Deck https://speakerdeck.com > about-go-inc",
+    "url": "https://speakerdeck.com/mobilitytechnologies/about-go-inc",
+    "pass": 3
+   },
+   {
+    "quote": "GO 上場で注目！タクシー配車アプリの勢力図と今後のある ... — GO 上場で注目！タクシー配車アプリの勢力図と今後のある ... 株式会社インソース https://www.insource.co.jp > 人事のお役立ちニュース",
+    "url": "https://www.insource.co.jp/contents/hr-article-no84387.html",
+    "pass": 3
+   },
+   {
+    "quote": "GO 株式会社 川鍋・中島 特別対談 インタビュー 公開 — GO 株式会社 川鍋・中島 特別対談 インタビュー 公開 GO株式会社 https://goinc.jp > news > info > 2023/04/25",
+    "url": "https://goinc.jp/news/info/2023/04/25/45aiqy9ubdjdystuabzdjr/",
+    "pass": 3
+   },
+   {
+    "quote": "平川 凌 on X: \" GO の中島 社長インタビュー 【直撃】配車アプリ ... — 平川 凌 on X: \" GO の中島 社長インタビュー 【直撃】配車アプリ ... X https://x.com > @g7z5e",
+    "url": "https://x.com/g7z5e/status/2116533052017148284",
+    "pass": 3
+   },
+   {
+    "quote": "GO社長 が語る「ライドシェアとの向き合い方｣ 上場理由の一つ ... — GO社長 が語る「ライドシェアとの向き合い方｣ 上場理由の一つ ... 自動運転ラボ https://jidounten-lab.com > Interview",
+    "url": "https://jidounten-lab.com/u_51350",
+    "pass": 3
+   },
+   {
+    "quote": "社名変更を記念してThe Breakthrough Company GO 三浦代表 ... — 社名変更を記念してThe Breakthrough Company GO 三浦代表 ... PR TIMES https://prtimes.jp > 人物",
+    "url": "https://prtimes.jp/main/html/rd/p/000000180.000030664.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://go.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pkg.go.dev/std",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.dev/project",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.dev/doc/devel/release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.dev/doc/devel/pre_go1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://pkg.go.dev/static/shared/logo/social/stack-overflow.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://go.dev/images/logos/social/stack-overflow.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/solati/n/n17f31c77d32d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goinc.jp/career/future/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goinc.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goinc.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goinc.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/GOinc/members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goinc.jp/news/info/2023/04/25/45aiqy9ubdjdystuabzdjr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/g7z5e/status/2116533052017148284",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "GO",
+   "results": [
+    "https://go.dev/",
+    "https://en.wikipedia.org/wiki/Go_(programming_language)",
+    "https://www.merriam-webster.com/dictionary/go",
+    "https://gobyexample.com/",
+    "https://www.codecademy.com/learn/learn-go",
+    "https://ja.wikipedia.org/wiki/GO",
+    "https://grokipedia.com/page/Guarantee_of_origin",
+    "https://www.google.com/",
+    "https://go.gov/",
+    "https://go.state.gov/"
+   ]
+  },
+  {
+   "query": "GO ビジネスモデル",
+   "results": [
+    "https://note.com/solati/n/n17f31c77d32d",
+    "https://goinc.jp/career/future/",
+    "https://gamemo.confidence-media.jp/2600",
+    "https://kenja-succession.com/articles/strategy/interview-nihonkoutsu-2/",
+    "https://go-business.jp/",
+    "https://ja.wikipedia.org/wiki/GO_(%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD)",
+    "https://go.goinc.jp/business/case",
+    "https://www.movin.co.jp/executive/jobs/EX5666",
+    "https://www.wantedly.com/companies/GOinc/post_articles/397123",
+    "https://www.youtube.com/watch?v=66ZWXcVTRNs"
+   ]
+  },
+  {
+   "query": "GO 決算説明資料",
+   "results": [
+    "https://goinc.jp/ir/library/presentation/",
+    "https://goinc.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260714593008/",
+    "https://corp.petgo.jp/ir/library/financial-results/",
+    "https://www.visional.inc/ja/ir/library/presentation.html",
+    "https://ir.group.gmo/library/presen/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261015551201/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260714592943",
+    "https://finance.biggo.com/news/jpx_tdnet_140120261015551201",
+    "https://tdnet-pdf.kabutan.jp/20261015/140120261015551201.pdf"
+   ]
+  },
+  {
+   "query": "GO 事業系統図",
+   "results": [
+    "https://goinc.jp/company/",
+    "https://www.wantedly.com/companies/GOinc/members",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt0000016v9l-att/06GO-1s.pdf",
+    "https://speakerdeck.com/mobilitytechnologies/about-go-inc",
+    "https://www.insource.co.jp/contents/hr-article-no84387.html",
+    "https://go-gx.com/",
+    "https://diamond.jp/articles/-/399505",
+    "https://goinc.jp/about/",
+    "https://note.com/local_newsletter/n/n688c66b64228",
+    "https://mit-hd.co.jp/ir-information/keito/"
+   ]
+  },
+  {
+   "query": "GO 社長 インタビュー",
+   "results": [
+    "https://goinc.jp/news/info/2023/04/25/45aiqy9ubdjdystuabzdjr/",
+    "https://x.com/g7z5e/status/2116533052017148284",
+    "https://jidounten-lab.com/u_51350",
+    "https://kenja-succession.com/articles/strategy/interview-nihonkoutsu-2/",
+    "https://prtimes.jp/main/html/rd/p/000000180.000030664.html",
+    "https://go-on.goinc.jp/n/nd60cc571f6d1",
+    "https://www.green-japan.com/company/4001/interview",
+    "https://myroad-online.jp/keyperson/kawanabe_ichiro/",
+    "https://www.wantedly.com/companies/GOinc/stories"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部8頁・検索5回）"
+ }
+}

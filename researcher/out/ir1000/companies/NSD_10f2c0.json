@@ -1,0 +1,1195 @@
+{
+ "name": "ＮＳＤ",
+ "aliases": [],
+ "context": "証券コード9759／情報・通信業／プライム（内国株式）／2026.03期 売上高117,813百万円 営業利益率16.2%",
+ "researched_at": "2026-11-02T18:44:00.549825+00:00",
+ "official_url": "https://www.nsd.co.jp/",
+ "identified_by": "search:yahoo_jp:NSD",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1969年（昭和44年）4月8日",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "システム開発事業 1 ITコンサルティング 2 システムの企画・設計・開発 3 ITインフラの構築 ソリューション事業 1 ITを利用したサービスの提供 2 ソフトウェア・プロダクトの販売",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "4,555名（2026年3月31日現在）",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "label": "ＮＳＤ従業員持株会",
+    "value": "2,272 3.01",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（連結）",
+    "value": "117,813百万円（2026年3月期）",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "9,905 19,692 29,930 40,515 51,025 62,330",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "9,905 9,786 10,237 10,585 10,510 11,305",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "9,115 18,038 27,298 36,797 46,507 56,605 66,477 76,475 86,849 96,620 106,662 117,813",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "9,115 8,922 9,260 9,498 9,710 10,098 9,871 9,998 10,374 9,770 10,042 11,151",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "8,429 16,761 25,281 34,004 42,881 52,050 61,193 70,282 79,497 88,586 97,736 107,791",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "8,429 8,332 8,520 8,722 8,877 9,168 9,143 9,089 9,214 9,089 9,149 10,055",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "7,762 15,357 24,007 32,578 41,412 50,333 58,751 66,998 75,237 83,754 92,196 101,263",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "7,762 7,595 8,649 8,571 8,833 8,921 8,417 8,247 8,238 8,517 8,442 9,067",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "6,295 12,247 18,594 25,047 31,382 37,767 44,225 50,636 57,252 63,930 70,726 77,982",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "6,295 5,952 6,346 6,452 6,335 6,384 6,458 6,411 6,615 6,678 6,795 7,255",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "4つのサービスラインで、お客様の経営課題にアプローチ",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なIT環境を提供し、ビジネス競争力の強化を総合力で支援しています",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)NMシステムズと(株)ジャパンジョブポスティングサービスを合併し、商号を(株)ステラスへ変更（経営の効率化を図り、多様化する顧客ニーズへの対応を強化）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、独立系のソフトウェア会社としてさまざまな業種のシステム開発に携わり、数多くのお客様より厚い信頼を得ています",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ソリューションサイトおよび一部グループ会社のウェブサイト再開のお知らせ",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "4つのサービスラインで、お客様の経営課題にアプローチ",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤの4つのサービスライン",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人や社会に役立つソリューションの",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用・キャリア採用・働き方情報の各ページは、株式会社ＮＳＤデジタルソリューションズ（当社100%子会社）のサイトに遷移します",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関する",
+    "url": "https://www.nsd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "quote": "ITを利用したサービスの提供",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)シェアホルダーズ・リレーションサービス営業開始（株主優待サービス等）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "NSD International, Inc.を米国・ニューヨーク州に設立（日系企業向けサービス）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)NMシステムズを子会社化（HR・物流ソリューション）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)ジャパンジョブポスティングサービスを子会社化（HRソリューション）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)NMシステムズと(株)ジャパンジョブポスティングサービスを合併し、商号を(株)ステラスへ変更（経営の効率化を図り、多様化する顧客ニーズへの対応を強化）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)アートホールディングスを子会社化（ソフトウェア開発・ソリューションサービス）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)ノーザを子会社化（医療・デンタルソリューション）",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "・(株)ステラスの商号を、(株)ＮＳＤデジタルソリューションズへ変更",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/governancereport.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/governancereport.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/material.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/material.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳＤのサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/treat.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/treat.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の株主優待事業の運営委託先である「株式会社シェアホルダーズ・リレーションサービス」（当社100％子会社）のサイトに遷移します",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/treat.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1969年（昭和44年）4月8日",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社ＮＳＤ",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1969年4月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年4月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1977年8月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年2月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年11月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年9月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年11月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年5月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年10月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年8月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年10月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年5月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年2月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年10月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月",
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期～2029年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期～2026年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期～2021年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期～2018年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期～2015年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年04月30日に策定したものを2017年04月27日に修正しております",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期（第一期）進捗状況",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期（第二期）進捗状況",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日現在",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度株主優待 寄付結果のご報告",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/treat.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度株主優待における寄付の合計は、1,489,500円となりました",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/treat.html",
+    "pass": 1
+   },
+   {
+    "quote": "1969年4月8日、資本金3,000万円で大阪市東区（現・中央区）に設立されました",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年11月、大阪証券取引所市場第二部に上場し、1998年9月には一部指定されました",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月の東京証券取引所の市場区分再編に伴い「プライム市場」へ移行しました",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年05月19日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年05月18日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年05月21日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年05月20日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年05月19日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年04月01日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年03月01日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年01月01日",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年1月5日で株券は無効になっておりますので、お手元の株券は破棄していただいて結構です",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年1月26日に、株主名簿管理人の三菱UFJ信託銀行に特別口座として株主の皆様の口座が作成され管理されています",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上⾼営業利益率",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/highlight.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "構成比（％）",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "構成比は、小数点第３位以下を四捨五入して記載しております",
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "」で紹介しておりますのでご覧ください",
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業および有料職業紹介事業",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "情報システムの保守、運用および管理、ならびに情報処理サービス",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "システム関連機器の販売、賃貸および保守",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用システムおよび医療機器の開発、製造、販売、賃貸および保守、ならびに情報技術（IT）を利用した医療関連サービス",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主名簿および新株予約権原簿への記載または記録、単元未満株式の買取り・買増し、その他株式または新株予約権に関する取扱いおよび手数料、株主の権利行使に際しての手続等については、法令または定款に定めるもののほか、取締役会において定める株式取扱規則による",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当会社の株式及び新株式予約権に関する取扱い及び手数料、株主の権利行使に際しての手続等については、定款の規定に基づき、この規則の定めるところによるほか、振替機関である株式会社証券保管振替機構（以下「機構」という",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当会社及び当会社が指定した信託銀行との間で締結した契約に基づき開設された特別口座の取扱い及び手数料、権利行使に際しての手続等は、この規則の定めるところによるほか、当該信託銀行の定めるところによる",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "単元未満株式の買取単価は、前条の請求が、第2条に定める株主名簿管理人事務取扱場所に到達した日の東京証券取引所の開設する市場における最終価格とする",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "前項による買取単価に、買取請求株式数を乗じた額をもって買取価格とする",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当会社は、買取代金の支払いに要した送金手数料の実費を買取代金から差し引いて支払うことができる",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "単元未満株式の買増単価は、第18条の請求が、第2条に定める株主名簿管理人事務取扱場所に到達した日の東京証券取引所の開設する市場における最終価格とする",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "前項による買増単価に、買増請求株式数を乗じた額をもって買増価格とする",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "第7章 手数料",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "第24条 手数料",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当会社の株式の取扱いに関する手数料は、無料とする",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主等が証券会社等または機構に対して支払う手数料は、株主等の負担とする",
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NSD グループの企業情報 | CFN（CareerForum.Net） — NSD グループの企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail",
+    "url": "https://careerforum.net/ja/company_list/4551/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "人とITの未来へ - NSD — 人とITの未来へ - NSD 株式会社ＮＳＤ PDF https://www.nsd.co.jp > nsd_intg_report_2023_pr",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2023_pr.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2025 | NSD — 統合報告書 2025 | NSD 株式会社ＮＳＤ PDF https://www.nsd.co.jp > pdf > nsd_intg_report_2025",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NSD のサービス | 株式会社 NSD — NSD のサービス | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > service",
+    "url": "https://www.nsd.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "NSD の「企業分析［強み・弱み・展望］」 OpenWork — NSD の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > NSD",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs0F&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 NSD — 決算説明資料 | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 株主・投資家情報 > IR資料",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/material.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 | 株式会社 NSD — IR 資料 | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 株主・投資家情報",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 | 株式会社 NSD — 統合報告書 | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 株主・投資家情報 > IR資料",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト | 株式会社 NSD — 財務ハイライト | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 株主・投資家情報 > IR資料",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "月次売上高（速報） | 株式会社 NSD — 月次売上高（速報） | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 株主・投資家情報 > IR資料",
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 株式会社 NSD — 組織図 | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 企業情報",
+    "url": "https://www.nsd.co.jp/corp/system.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社 NSD — 企業情報 | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > corp",
+    "url": "https://www.nsd.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 NSD — 会社概要 | 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp > 企業情報",
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NSD — 株式会社 NSD 株式会社ＮＳＤ https://www.nsd.co.jp",
+    "url": "https://www.nsd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | 株式会社NSD — 役員一覧のページです。株式会社NSDは、常に最先端のIT技術を探求し、人や社会に役立つソリューションの創造･提供を通じて、社会の発展に貢献します。",
+    "url": "https://www.nsd.co.jp/corp/board.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ - 株式会社NSD — 社長メッセージのページです。株式会社NSDは、常に最先端のIT技術を探求し、人や社会に役立つソリューションの創造･提供を通じて、社会の発展に貢献します。",
+    "url": "https://www.nsd.co.jp/corp/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "【N.S.D】店舗開業をトータルサポート｜物件探しからデザイン・施工ま...今城義和氏の経歴｜NSDの歴代社長（2009年〜現任）役員メッセージ | 新卒採用 | 採用情報 | 株式会社NSDインタビュー | キャリア採用 | 採用情報 | 株式会社NSD今城 義和の経歴・キャリア・学歴｜株式会社NSD | オープン経営者DB — Sep 23, 2026 · / _nextspacedesign_ #NSD #店舗デザイン #店舗設計 #店舗施工 #店舗開業 #店舗内装 #不動産 #会社紹介 #社長インタビュー …...more Oct 23, 2026 · 抜擢 2009年4月、専務取締役から代表取締役社長に就任した。 執行役員に就任してから4年での昇格である。 就任前年度の2009年3月期は連結売上高416億円・営業利益75億円だったが、就任年度の2010年3月期は349億円・42億",
+    "url": "https://www.youtube.com/watch?v=e-AioSQpz5M",
+    "pass": 3
+   },
+   {
+    "quote": "役員メッセージ | 新卒採用 | 採用情報 | 株式会社NSD — NSDの資産は、お客様の信頼にお応えする、“真面目”な組織風土と確かな技術力であり、それを醸成してきた、誠実で、熱意と強靭さを内に秘める「人」です。そのため、新卒採用を中心に据えて、先輩から後輩へ継承されるNSDマインドを大切にし、社内教育研修と薫陶により自律的な学びを ...",
+    "url": "https://recruit.nsd.co.jp/message/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー | キャリア採用 | 採用情報 | 株式会社NSD — People社員インタビュー DXエンジニア職 M.G",
+    "url": "https://career.nsd.co.jp/interview/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nsd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/corp/corp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/corp/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/governancereport.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/tanshin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/material.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/yuho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/kabu_material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/kabu_material/oshirase.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/kabu_material/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/kabu_material/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/kabu_material/memo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/kabu_material/treat.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/teikan.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nsd.co.jp/corp/pdf/index_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2023_pr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2022_pr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://careerforum.net/ja/company_list/4551/company_detail/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NSD",
+   "results": [
+    "https://www.nsd.co.jp/",
+    "https://www.nsd.co.jp/corp/corp.html",
+    "https://ja.wikipedia.org/wiki/NSD_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)",
+    "https://www.nsdcorp.com/company/about/index.html",
+    "https://www.nsd.co.jp/corp/affiliates.html",
+    "https://www.nsdintl.com/index_jp.html",
+    "https://www.linkedin.com/company/nsd-international-inc",
+    "https://websso.nsd.co.jp/psl/portal_welcome.htm",
+    "https://finance.yahoo.com/quote/9759.T/",
+    "https://ja.wikipedia.org/wiki/NSD"
+   ]
+  },
+  {
+   "query": "NSD ビジネスモデル",
+   "results": [
+    "https://careerforum.net/ja/company_list/4551/company_detail/",
+    "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2023_pr.pdf",
+    "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2025.pdf",
+    "https://www.nsd.co.jp/service/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs0F&q_no=9",
+    "https://www.nsd.co.jp/corp/corp.html",
+    "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2024.pdf",
+    "https://nsd-ds.co.jp/company/about.html",
+    "https://www.nsdintl.com/index_jp.html",
+    "https://www.nsd.co.jp/"
+   ]
+  },
+  {
+   "query": "NSD 決算説明資料",
+   "results": [
+    "https://www.nsd.co.jp/ir/irmaterial/material.html",
+    "https://www.nsd.co.jp/ir/irmaterial/",
+    "https://www.nsd.co.jp/ir/irmaterial/intgreport.html",
+    "https://www.nsd.co.jp/ir/irmaterial/highlight.html",
+    "https://www.nsd.co.jp/ir/irmaterial/sokuhou.html",
+    "https://www.buffett-code.com/company/9759/library",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9759",
+    "https://www.nsd.co.jp/ir/faq.html",
+    "https://newspicks.com/news/16646457/"
+   ]
+  },
+  {
+   "query": "NSD 事業系統図",
+   "results": [
+    "https://www.nsd.co.jp/corp/system.html",
+    "https://www.nsd.co.jp/corp/",
+    "https://www.nsd.co.jp/corp/corp.html",
+    "https://www.nsd.co.jp/",
+    "https://www.nsd.co.jp/ir/irmaterial/pdf/nsd_intg_report_2025.pdf",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs0F&q_no=1",
+    "https://kitaishihon.com/company/9759/business",
+    "https://www.nsd.co.jp/corp/affiliates.html",
+    "https://www.nsd.co.jp/corp/history.html",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=9759"
+   ]
+  },
+  {
+   "query": "NSD 社長 インタビュー",
+   "results": [
+    "https://www.nsd.co.jp/corp/board.html",
+    "https://www.nsd.co.jp/corp/message.html",
+    "https://www.youtube.com/watch?v=e-AioSQpz5M",
+    "https://recruit.nsd.co.jp/message/index.html",
+    "https://career.nsd.co.jp/interview/index.html",
+    "https://open-keieisha-db.com/executives/imajo-yoshikazu",
+    "https://the-shashi.com/tse/9759/executives/ceo/imajo-yoshikazu/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

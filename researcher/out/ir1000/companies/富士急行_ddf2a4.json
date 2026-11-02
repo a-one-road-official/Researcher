@@ -1,0 +1,1337 @@
+{
+ "name": "富士急行",
+ "aliases": [],
+ "context": "証券コード9010／陸運業／プライム（内国株式）／2026.03期 売上高53,517百万円 営業利益率16.4%",
+ "researched_at": "2026-11-02T18:37:01.069682+00:00",
+ "official_url": "https://www.fujikyu.co.jp/",
+ "identified_by": "search:yahoo_jp:富士急行",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1926年（大正15年）9月18日",
+    "url": "https://www.fujikyu.co.jp/integrated/memo/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,897名（グループ全体、臨時従業員含む　2024年3月末）",
+    "url": "https://www.fujikyu.co.jp/integrated/memo/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "レジャー・サービス業、運輸業、不動産業、その他の事業",
+    "url": "https://www.fujikyu.co.jp/integrated/memo/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792581361.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "遊園地事業",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792110193.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "旅客船事業",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1371.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "旅客船事業、ホテル事業",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   }
+  ],
+  "売上高": [
+   {
+    "label": "目標営業収益",
+    "value": "630億円",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/corporate/history1.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/koukoku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・団体のお客様",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "「すみっコぐらしルーム」にご宿泊のお客様には、客室限定",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792543551.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ミッションをクリアしたお客様には、チェックアウト時にルーム限定のカードキーレプリカ",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792543551.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "観光客や釣人、島民など、多様なお客様のニーズに応え",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "~「船まるごと初島」を体現したデザインと、多様な利用者に寄り添う船内空間が評価~",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "元住民のための場所も用意するなど、利用者の声を丹念に聞いたうえで空間を構築したこと",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ セントラルパークのイベントでの集客効果もあり、富士急ハイランドは利用者数・インバウント比率ともに増加",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導線設計、価格設定、顧客体験を一体設計できる優位性",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループ利用者数",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 顧客体験価値を起点としたビジネスの再構築",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客体験価値を起点としたビジネスの再構築",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 4つの顧客体験価値に基づくターゲットの拡大と深化",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• グループ内外の連携を通じた顧客体験価値（CLTV）向上に向けて、中核プロジェクトを適時組成し、創造的",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点方針1. 顧客体験価値を起点としたビジネスの再構築",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 当社グループの事業を4つの顧客体験価値を起点としたビジネスへ再構築",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客起点でターゲットの拡大と深化を図る",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "深化（顧客ロイヤリティ）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客層（マス層）/既存エリア",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "等を起点とした顧客生涯価値向上",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "による新規顧客層の取り込み",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客体験価値モデル",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各事業で実現する４つの顧客体験価値",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データに基づく顧客理解とマーケティング施策をグループ横断で推進",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客数、生涯リピート率の向上、平均施設利用",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "回数増加により、延べ利用者数を拡大",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループ利用者数 1,939万人 3,000万人",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界中から訪れる全てのお客様に「安心・安全」で「快適」な質の高いサービス・商品を提供するため、",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社員の心身の健康が 、お客様への",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定期券の値下げなどに取り組み、利用者は増加",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4つの顧客体験価値",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高速バス 三島-河口湖ライナー利用者数（千人）中央高速バス 新宿ー富士五湖線 営業収益（百万円）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "富士山エリアにおける顧客体験価値向上、ビッグデータを活用した戦略的経営基盤の強化に取り組んでます",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/organization-chart.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客生涯価値（CLTV）の向上に向けたCRM戦略の立案・推進や、CDP・Fujiyama Connectなどのデジタルプラットフォームを活用したロイヤリティプログラムの開発・推進など、グループ横断的な顧客価値の向上に取り組んでいます",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/organization-chart.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/corporate/history1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士急オートサービス",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/koukoku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業、運輸業、不動産業、その他の事業",
+    "url": "https://www.fujikyu.co.jp/integrated/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.fujikyu.co.jp/integrated/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "ショップ・サービス・その他",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "富士急オートサービス",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792581361.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1957 年創設のグッドデザイン商品選定制度を継承する、日本を代表する",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1371.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1957 年創設のグッドデザイン商品選定制度を継承する、日本を代表する",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ULTRA Q × 大型投資＝レジャー・サービス業の成長",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 収益源かつ成長ドライバーである「レジャー・サービス」「運輸」を中心とした大規模な成長投資による将来",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アミューズメントパーク機能（エンターテインメント性）を他施設・サービスまで広げ、繋げる（当社保有",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 回遊を促進するセット商品を造成することで、",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 収益源かつ成長ドライバーである、レジャー・サービス業と運輸業を中心に、",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー･サービス業 約130億円",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー･サービス業約80億円",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点施策１ レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 車両工場（富士急オートサービスやフジエクスプレス）、電車工場（富士",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界中から訪れる全てのお客様に「安心・安全」で「快適」な質の高いサービス・商品を提供するため、",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "｢安心･安全｣や質の高いサービスにつ",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 24,839 25,316 1.9% 477 26,203 96.6% △ 887",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 2,584 2,479 △4.1% △105 2,736 90.6% △256",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 運輸業 不動産業 その他事業",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 25,316 26,866 6.1％ 1,549",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 2,479 2,772 11.8％ 292",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 25,696 25,495 26,413 25,345 16,048 18,237 21,888 24,909 24,839 25,316",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 1,791 2,389 2,790 1,678 △649 1,084 2,172 3,137 2,584 2,479",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レジャー・サービス業 7.0% 9.4% 10.6% 6.6% △4.1% 5.9% 9.9% 12.6% 10.4% 9.8%",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊2018.3期より「レジャー・サービス業」に計上していた飲食物販事業について「その他の事業」の物品販売業に管理区分を変更しております",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KPI レジャー・サービス業",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "富士急オートサービス（株）",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "pass": 3
+   },
+   {
+    "quote": "レジャー・サービス事業",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "pass": 3
+   },
+   {
+    "quote": "別荘地の管理、不動産売買、仲介、メンテナンスなど別荘地の価値向上のためのサービスを行っています",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ・ラジオ番組の紹介、会見記事、オーディオ製品、アマチュア無線などを担当",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   },
+   {
+    "quote": "Blackmagic Design製品を活用、米大学卒業生が映像制作で活躍",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   },
+   {
+    "quote": "東芝など、コーポレートPPAサービス導入",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革 -創業期-｜企業情報｜富士急行株式会社",
+    "url": "https://www.fujikyu.co.jp/corporate/history1.html",
+    "pass": 1
+   },
+   {
+    "quote": "1926年9月18日、富士の霊峰を中心に富士山麓一帯を世界的観光地として大規模に開発するという構想のもとに、まず第一歩として交通機関を整備すべく、富士山麓電気鉄道株式会社を設立しました",
+    "url": "https://www.fujikyu.co.jp/corporate/history1.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期(中間期)決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期(中間期)決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算/中期経営計画説明資料",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期(中間期)決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期２Ｑ決算説明資料",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算説明資料",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期(中間期)決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第２四半期決算説明資料",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算説明資料",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算説明資料",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算短信",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期ビジネスレポート",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期中間ビジネスレポート",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期ビジネスレポート",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期中間ビジネスレポート",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期ビジネスレポート",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「ハイランドリゾートホテル＆スパ」「ホテルマウント富士」の指定するツインルーム室料100%またはホテル内レストラン利用料30%割引券",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "またレストラン利用料の割引額の上限は3万円といたします",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ハイランドリゾートホテル＆スパ」「ホテルマウント富士」の指定するツインルーム室料100%またはホテル内レストラン利用料30%割引券",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "またレストラン利用料の割引額の上限は3万円といたします",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "利用料金：4,000 円（片道）",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "安全評価の最高評価獲得、契約単価引き上げ等による新規需要創出と",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "富士急ハイランド 消費単価（円）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "箱根遊船 大茶会 船内紹介",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1371.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "初島リゾートライン 金波銀波 船内紹介",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ Fujiyama Connectでの直販を強化",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "記念書籍で事業の歩みと経営の特徴を紹介",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   },
+   {
+    "quote": "本書で紹介される例は多彩だ",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ・ラジオ番組の紹介、会見記事、オーディオ製品、アマチュア無線などを担当",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント業績",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 通期業績見通し（セグメント別）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント業績 ①",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント業績 ②",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益/営業利益率（百万円、%）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 足を持った観光会社の強みを活かしたクロスセルを強化",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 9.9% 13.2% 16.1% +2.9%pts",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人 件 費 減価償却費 その他固定費 変 動 費 営 業 損 益 営業利益率（右軸）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 連結営業利益率は20.3期の約2倍の水準に達し資本効率も向上、ROAも4.1％から8.5％に上昇",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 約２倍",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫限界利益の営業レバレッジ効果が営業利益率を押し上げ、資本効率を最大化",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "目標営業利益率：16.7%",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5. 営業利益率 16.4% 16.7%",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率（%）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 首都圏近郊の強みを生かした、森と自然をテーマとした体験型アクティビティの拡充",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益、営業利益率（百万円、%）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 15.9％ 16.4% - +0.5%pts 16.0％ - +0.4%pts",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別営業収益（百万円） 営業利益、営業利益率（百万円、%）",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 16.4％ 15.8％ - △0.6pts",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高営業利益率 9.5% 10.1% 11.3% 8.6% △10.2% 2.2% 9.9% 16.1% 15.9% 16.4%",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 9.5% 10.1% 11.3% 8.6% △10.2% 2.2% 9.9% 16.1% 15.9% 16.4%",
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、経営学者で一橋ビジネススクール特任教授の楠木健氏による特別寄稿と、堀内光一郎社長への巻末インタビューも収められ、富士急行の強みと次の100年に向けた展望に迫る内容となっている",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画の進捗｜統合報告 - 富士急行 — 中期経営計画の進捗｜統合報告 - 富士急行 富士急行 https://www.fujikyu.co.jp > integrated > strategy",
+    "url": "https://www.fujikyu.co.jp/integrated/strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧 | 会社を知る | 富士急行 総合採用サイト — グループ会社一覧 | 会社を知る | 富士急行 総合採用サイト i-note.jp https://www.i-note.jp > recruit > company > recruit_group",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 - Wikipedia — 富士急行 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 富士急行",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜ 富士急行 株式会社 — 企業情報｜ 富士急行 株式会社 富士急行 http://www.fujikyu.co.jp > corporate",
+    "url": "http://www.fujikyu.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 、創立100周年記念の ビジネス 書を9月18日刊行 ... — 富士急行 、創立100周年記念の ビジネス 書を9月18日刊行 ... SURF&SNOW https://surfsnow.jp > ニュース一覧",
+    "url": "https://surfsnow.jp/news/7213",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連情報｜ 決算 短信・ 説明資料 ｜IR情報｜ 富士急行 株式会社 — 決算 関連情報｜ 決算 短信・ 説明資料 ｜IR情報｜ 富士急行 株式会社 富士急行 https://www.fujikyu.co.jp > soumu > investors",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期2Q 決算説明資料 - 富士急行 — 2026年3月期2Q 決算説明資料 - 富士急行 富士急行 PDF https://www.fujikyu.co.jp > soumu > investors > pdf",
+    "url": "https://www.fujikyu.co.jp/soumu/investors/pdf/2026032Q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 富士急行 】[9010]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 富士急行 】[9010]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9010",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 のIR 資料 - 9010 / プライム / 陸運業 — 富士急行 のIR 資料 - 9010 / プライム / 陸運業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/9010/library",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 （9010）のIR情報・ 決算資料 - IRBANK — 富士急行 （9010）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 富士急行",
+    "url": "https://irbank.net/9010/ir",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 会社を知る | 富士急行 総合採用サイト — 組織図 | 会社を知る | 富士急行 総合採用サイト i-note.jp https://www.i-note.jp > company > organization-chart",
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/organization-chart.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要｜企業情報｜ 富士急行 株式会社 — 企業概要｜企業情報｜ 富士急行 株式会社 富士急行 https://www.fujikyu.co.jp > corporate > outline",
+    "url": "https://www.fujikyu.co.jp/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士山麓電気鉄道株式会社 - 富士急行線 — 富士山麓電気鉄道株式会社 - 富士急行線 富士山麓電気鉄道（富士急行線） https://www.fujikyu-railway.jp > fujisanroku",
+    "url": "https://www.fujikyu-railway.jp/fujisanroku/",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 、創立100周年の挑戦。組織横断で「社員の想い」を ... — 富士急行 、創立100周年の挑戦。組織横断で「社員の想い」を ... MarkeZine（マーケジン） https://markezine.jp > MarkeZine20周年特別企画",
+    "url": "https://markezine.jp/article/detail/77425",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 創立100周年記念書籍発行 「ヘン」な挑戦の軌跡と ... — 富士急行 創立100周年記念書籍発行 「ヘン」な挑戦の軌跡と ... 電波タイムズ https://www.dempa-times.co.jp > プレスリリース",
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "pass": 3
+   },
+   {
+    "quote": "事業をまるごとオフィスに。 富士急行 が “わくわくの最高峰” を ... — 事業をまるごとオフィスに。 富士急行 が “わくわくの最高峰” を ... 株式会社オリバー https://www.oliverinc.co.jp > インタビュー",
+    "url": "https://www.oliverinc.co.jp/interview/interview07/",
+    "pass": 3
+   },
+   {
+    "quote": "“普通の会社がしないこと”を続けた 100 年を描くビジネス書を ... — “普通の会社がしないこと”を続けた 100 年を描くビジネス書を ... 富士急行 PDF https://www.fujikyu.co.jp > data > pdf_file1_1350",
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1350.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "富士急行 株式会社 堀内光一郎氏｜団体会員トップに聞く — 富士急行 株式会社 堀内光一郎氏｜団体会員トップに聞く 富士山クラブ https://www.fujisan.or.jp > interview > interview01-fujikyu",
+    "url": "https://www.fujisan.or.jp/kyosan/interview/interview01-fujikyu.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fujikyu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/corporate/history1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/integrated/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/memo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/governance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/koukoku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/integrated/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/integrated/memo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/integrated/pdf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fujikyu.co.jp/soumu/investors/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/pdf/260825_shareholders_program.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792543551.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792581361.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792110193.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1371.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1792039944.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-note.jp/fujikyu/recruit/company/organization-chart.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markezine.jp/article/detail/77425",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dempa-times.co.jp/press-release/58876/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富士急行",
+   "results": [
+    "https://www.fujikyu.co.jp/",
+    "https://www.fujikyu-railway.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C",
+    "https://www.fujikyu-railway.jp/train/",
+    "https://www.fujikyu.co.jp/transportation/",
+    "https://x.com/fujikyurailway",
+    "https://www.instagram.com/fujikyuko_railway/",
+    "https://mb.jorudan.co.jp/os/rosen/fujikyuko_line/",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%BA%93%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C%E7%B7%9A",
+    "https://ja.wikipedia.org/wiki/富士急行"
+   ]
+  },
+  {
+   "query": "富士急行 ビジネスモデル",
+   "results": [
+    "https://www.fujikyu.co.jp/integrated/strategy/",
+    "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C",
+    "http://www.fujikyu.co.jp/corporate/",
+    "https://surfsnow.jp/news/7213",
+    "https://www.dempa-times.co.jp/press-release/58876/",
+    "https://atanaka-lab.com/seminar/activities/Fujikyuko",
+    "https://envalith.com/companies/9010/overview",
+    "https://ja.wikipedia.org/wiki/富士急行",
+    "https://consovation.com/魅力満載の富士急行で学ぶビジネスモデルと成長/"
+   ]
+  },
+  {
+   "query": "富士急行 決算説明資料",
+   "results": [
+    "https://www.fujikyu.co.jp/soumu/investors/ir.html",
+    "https://www.fujikyu.co.jp/soumu/investors/pdf/2026032Q.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9010",
+    "https://www.buffett-code.com/company/9010/library",
+    "https://irbank.net/9010/ir",
+    "https://www.fujimediahd.co.jp/ir/presentation.html",
+    "http://www.fujikyu.co.jp/soumu/investors/",
+    "https://www.fujipharma.jp/ir/library/all_data/",
+    "https://kitaishihon.com/company/9010/ir-library",
+    "https://edinetdb.jp/company/E04093/presentations/"
+   ]
+  },
+  {
+   "query": "富士急行 事業系統図",
+   "results": [
+    "https://www.i-note.jp/fujikyu/recruit/company/organization-chart.html",
+    "https://www.fujikyu.co.jp/corporate/outline.html",
+    "https://www.i-note.jp/fujikyu/recruit/company/recruit_group.html",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C",
+    "https://www.fujikyu-railway.jp/fujisanroku/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100ITDI.pdf",
+    "https://kitaishihon.com/company/9010/business",
+    "https://www.fujikyu.co.jp/integrated/file/2603_midterm-plan.pdf",
+    "https://ticket.jorudan.co.jp/fujikyu-railway/rbp-2d/ja/file/Jorudan_fujikyu-railway-rbp-2d_routemap.pdf",
+    "https://ja.wikipedia.org/wiki/富士急行"
+   ]
+  },
+  {
+   "query": "富士急行 社長 インタビュー",
+   "results": [
+    "https://markezine.jp/article/detail/77425",
+    "https://www.dempa-times.co.jp/press-release/58876/",
+    "https://www.oliverinc.co.jp/interview/interview07/",
+    "https://www.fujikyu.co.jp/data/news_pdf/pdf_file1_1350.pdf",
+    "https://www.fujisan.or.jp/kyosan/interview/interview01-fujikyu.html",
+    "https://www.instagram.com/p/DfEhaDiE6A4/",
+    "https://www.yomiuri.co.jp/economy/20240117-OYT1T50229/",
+    "https://www.tv-tokyo.co.jp/cambria/backnumber/2018/0719/",
+    "https://www.fujisan-net.jp/post_topics/3031873",
+    "https://ja.wikipedia.org/wiki/堀内光一郎"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

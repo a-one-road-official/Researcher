@@ -1,0 +1,2057 @@
+{
+ "name": "ヤマウホールディングス",
+ "aliases": [],
+ "context": "証券コード5284／ガラス・土石製品／スタンダード（内国株式）／2026.03期 売上高21,244百万円 営業利益率16.7%",
+ "researched_at": "2026-11-02T18:29:44.722901+00:00",
+ "official_url": "https://www.yamau-holdings.co.jp/",
+ "identified_by": "search:yahoo_jp:ヤマウホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1958年２月 ※2021年４月１日持株会社化に伴い、「株式会社ヤマウ」より商号変更",
+    "url": "https://www.yamau-holdings.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "21,243百万円（連結）",
+    "url": "https://www.yamau-holdings.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "811人（連結）",
+    "url": "https://www.yamau-holdings.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "総合ソリューションパートナーとして",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマウグループは、グループ企業間のシナジーを最大限追求しながら、「コンクリート製品製造・販売事業」「水門・堰の製造及び施工並びに保守事業」「地質調査・コンサルタント業務及び土木工事事業」「コンクリート構築物の点検・調査、補修工事事業」「情報機器の販売及び保守事業」「橋梁、高架道路用伸縮装置の製造・販売・設置工事事業」の6つのセグメントにより事業を推進しています",
+    "url": "https://www.yamau-holdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "（有）ヤマウセメント工業をヤマウセメント製品工業（株）に組織変更",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "宮崎県東諸県郡（現宮崎県宮崎市）に宮崎工場を新設、小型の道路用・農業土木用コンクリート製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "福岡県福岡市にヤマウ総合開発（株）を設立、コンクリート製品の開発、設計施工及び管理を行う",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "宮崎県北諸県郡（宮崎県都城市）に高崎工場を新設、大型の道路用・農業土木用コンクリート製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート製品の相互供給を図る",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "鹿児島県姶良郡（現鹿児島県霧島市）に建材鹿児島工場を新設、景観関連製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "宮崎県児湯郡にレジコン工場（現川南工場に統合）を新設、レジンコンクリート製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大分県大野郡（現大分県臼杵市）に大分工場、佐賀県神埼郡（現佐賀県佐賀市）に佐賀第二工場（現佐賀工場）を新設、道路用・農業土木用コンクリート製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "静岡県磐田郡に浜松工場を新設、景観関連製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県阿哲郡に岡山工場、福島県いわき市にいわき工場を新設、景観関連製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のコンクリート製品の製造業務請負子会社である（有）ヤマウトラスト（（株）ヤマウトラストに組織変更）を設立",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のコンクリート製品の製造業務請負子会社である（有）ネオトラストを設立",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート製品用型枠の製造・販売を行うためクリエイティブ・モールド（株）を設立",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート製品製造・販売事業",
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマウグループは、徹底した品質管理のもと、FAボックスやL型擁壁をはじめとしたコンクリート二次製品の開発と製造に取り組んでまいりました",
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "pass": 1
+   },
+   {
+    "quote": "また、従来のコンクリート製品に加え、建築製品やPC製品の製造にも力を入れており、人々の安全・安心を支える社会基盤の整備に積極的に取り組んでおります",
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマウグループでは、自然災害のリスクに向き合い防災・減災に対する取り組みを積極的に行い、製品開発に活かしています",
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "pass": 1
+   },
+   {
+    "quote": "安心なインフラを維持管理していくために必要な雨水貯水槽や、護岸整備のためのパワーロック等、防災・減災に有効な災害対策製品をラインアップしています",
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "pass": 1
+   },
+   {
+    "quote": "社会資本整備事業における企画、調査、計画、設計、施⼯管理等の各段階において、その技術サービスを提供しています",
+    "url": "https://www.yamau-holdings.co.jp/business/survey/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機関の事務機器をトータルサポートする会社として製品やサービスの提供を通じて金融業界に貢献してまいりました",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機器事業ではバックヤード業務における機械化・システム化の推進に加え、幅広いニーズに対応する製品を提案し、業務の省人化と効率化を実現いたします",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューションの提案",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "今後の事業展開として、ＡＩやＲＰＡなどを駆使した新たな取り組みでシステムソリューションを提案いたします",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "ル配信サービス「blastmail」を利用しております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000468_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アクセスにより、同社のクラウドサービスに登録された個人情報が外部に漏えいした可能性が",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000468_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスであり、本件におけるヤマウのネットワーク、システムへの影響及び事業への影響はあ",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000468_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（コンクリート製品製造・販売事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品製造・販売事業の売上は、土木製品、景観製品、レジンコンクリート製品の販売によるもので",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の業績は、前年同四半期に比べ大口案件への製品出荷量が減少したこと等に",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "び預金が12億50百万円、商品及び製品が１億37百万円、仕掛品が１億14百万円それぞれ増加し、受取手形、売掛金",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 1,636,109 1,773,208",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "健全性を維持しつつ、人的資本経営の推進、製造・施工プロセスの機械化・省人化、新製品・工法の開発へ向けた戦",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インフラ整備の総合ソリューションパートナーとして、",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きる製品を開発・提案し、国策",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品製造・販売事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品のご紹介",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品製造・販売事業の売上は、土木製品、景観製品、レジンコンクリート製品の販売によるものであり",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の業績は、 「コンクリート製品製造・販売事業」",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "防災・減災関連製品",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱ヤマウ コンクリート製品製造・販売事業 コンクリート構造物の点検・調査、補修工事事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大分フジ㈱ コンクリート製品製造・販売事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱熊本ヤマウ コンクリート製品製造・販売事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1968年２月 ㈲ヤマウセメント工業をヤマウセメント製品工業㈱に組織変更",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二次製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "福岡県福岡市にヤマウ総合開発㈱を設立、コンクリート二次製品の開発、設計施工及び管理を行",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年８月 鹿児島県姶良郡（現鹿児島県霧島市）に建材鹿児島工場を新設、景観関連製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年11月 宮崎県児湯郡にレジコン工場(現川南工場に統合)を新設、レジンコンクリート製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(現佐賀工場)を新設、道路用・農業土木用コンクリート二次製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1990年６月 静岡県磐田郡に浜松工場を新設、景観関連製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1993年11月 岡山県阿哲郡に岡山工場、福島県いわき市にいわき工場を新設、景観関連製品の製造開始",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社のコンクリート二次製品の製造業務請負子会社である㈲ヤマウトラスト（㈱ヤマウトラスト",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2005年４月 当社のコンクリート二次製品の製造業務請負子会社である㈲ネオトラストを設立",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年９月 コンクリート製品用型枠の製造・販売を行うためクリエイティブ・モールド㈱を設立",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社、株式会社熊本ヤマウ、中外道路株式会社）で構成されており、土木製品、景観製品、レジンコンクリート製品",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から構成されるコンクリート製品製造・販売を主な事業内容とし、更に水門・堰の製造及び施工並びに保守事業、地",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（コンクリート製品製造・販売事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "総合ソリューションパートナーとして",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "またアフターサポートも充実しており、店舗全体を強力にバックアップいたします",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ整備の総合ソリューションパートナーとして、",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品のご紹介",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ヤマウグループのパーパスを「インフラ整備の総合ソリューションパートナーとして、サステナブルで安心・安全",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、2022年４月１日付で、社外取締役を過半数とする任意の指名・報酬委員会を設置いたしております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ 指名・報酬委員会の活動状況",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度において当社は指名・報酬委員会を３回開催しており、個々の委員の出席状況については次のとお",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会における具体的な検討内容として、取締役候補者の審議や代表取締役社長が作成した個人別",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年１月 弁護士法人東京フレックス法律事務所パートナー（現任）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役が過半数を占める任意の指名・報酬委員会で審議・検討したうえで、取締役会に案を上程し、取締役会",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で承認された報酬等限度額の範囲内で、指名・報酬委員会で審議・検討したうえで取締役会に案を上程し、取",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各取締役候補者の選定は、指名・報酬委員会に諮問し、審議を経て、取締役会におい",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年４月 同 コ ンサルティング事業本部パートナー",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "補欠の監査等委員である取締役候補者の選定は、指名・報酬委員会に諮問し、審議を",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年１月 弁護士法人東京フレックス法律事務所パートナー",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弁護士法人東京フレックス法律事務所パートナー",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個人別の報酬額については、代表取締役社長が作成した報酬案を指名・報酬委員",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "認された報酬等限度額の範囲内で、代表取締役社長が作成した報酬案を、指名・報酬委員",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社取締役会の任意の諮問機関である指名・",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しかし、私の長年のパートナーであるチャーリー・マンガーと私は、そうした喧騒から離れた場所で、全く異なる種類の獲物を狙っています",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：経営陣と資本配分 — 株主のパートナーとして",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマウグループは、グループ企業間のシナジーを最大限追求しながら、「コンクリート製品製造・販売事業」「水門・堰の製造及び施工並びに保守事業」「地質調査・コンサルタント業務及び土木工事事業」「コンクリート構築物の点検・調査、補修工事事業」「情報機器の販売及び保守事業」「橋梁、高架道路用伸縮装置の製造・販売・設置工事事業」の6つのセグメントにより事業を推進しています",
+    "url": "https://www.yamau-holdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/water_gate/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/survey/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/business/joint/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/mid_term/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/library/securities-report",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/electronic-notice",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社8社において6つのセグメントの事業を",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/public-notice",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………９",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの経営成績を示すと次のとおりであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より、売上高は24億33百万円（前年同四半期比11.6％減）、セグメント利益（営業利益）は３億16百万円（前年同",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は９億13百万円（前年同四半期比21.9％増）、セグメント利益（営業利益）は80百万円（前年同四半期は営業損失",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "少したこと等により、売上高は２億56百万円（前年同四半期比40.7％減）、セグメント損失（営業損失）は22百万",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "比25.2％増）、のれん償却後のセグメント損失（営業損失）は64百万円（前年同四半期は営業損失80百万円）とな",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は増加したこと等より、売上高は１億５百万円（前年同四半期比93.1％増）、セグメント損失（営業損失）は23百",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "37.6％減）、セグメント利益（営業利益）は６百万円（前年同四半期比14.7％増）となりました",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "68百万円（前年同四半期比0.8％減）、セグメント利益（営業利益）は41百万円（前年同四半期比1.7％増）となり",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）1.セグメント利益又は損失（△）の調整額は、セグメント間取引消去であります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.セグメント利益又は損失（△）は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別営業の状況",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（売上高構成比）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、 当連結会計年度の業績は、 売上高は 121 億 67 百万円（前年同期比 3.6％減） 、 セグメント利益（営業利益）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "等のセグメントで受注額が前年度比で減少したことにより、売",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "18.8% （売上高構成比）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "9.3%（売上高構成比） 1.3% （売上高構成比）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は40億円（前年同期比9.6％減） 、セグメント利益（営業利益）は５億61百万円（前年",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前年同期比0.0％減） 、セグメント利益（営業利益）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 40億円 セグメント利益 5億61百万円",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2億22百万円",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1億15百万円",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3.9% （売上高構成比）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前年同期比7.3％増） 、セグメント利益（営業利益）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1億98百万円",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "0.8% （売上高構成比）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前年同期比16.0％減） 、セグメント利益（営業利益）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 36百万円",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "9.7% （売上高構成比）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 20億66百万円 セグメント損失 1億 96百万円",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1958年２月",
+    "url": "https://www.yamau-holdings.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜【ヤマウホールディングス株式会社】インフラ整備事業に携わる9社の持株会社",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和40年代",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和43年2月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和44年11月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和45年5月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和48年9月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和49年9月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和50年代",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和51年9月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和52年10月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和54年8月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和55年1月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和55年8月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和55年11月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和56年10月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和60年代",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和60年10月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和62年4月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成2年6月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成4年4月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成5年11月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成7年10月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成10年代",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成12年10月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成13年11月",
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月22日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月01日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月22日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月08日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月22日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月08日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月27日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月19日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2025年09月12日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月29日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月26日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月23日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月08日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月06日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月05日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月01日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月08日",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ヤマウグループは、グループ企業間のシナジーを最大限追求しながら、「コンクリート製品製造・販売事業」「水門・堰の製造及び施工並びに保守事業」「地質調査・コンサルタント業務及び土木工事事業」「コンクリート構築物の点検・調査、補修工事事業」「情報機器の販売及び保守事業」「橋梁、高架道路用伸縮装置の製造・販売・設置工事事業」の6つのセグメントにより事業を推進しています",
+    "url": "https://www.yamau-holdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/business/water_gate/",
+    "pass": 1
+   },
+   {
+    "quote": "情報事務機器の販売及び保守事業",
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "（水門・堰の製造及び施工並びに保守事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業の売上は、水門、除塵機、水管橋等鋼構造物の製造、施工並びにそれら",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の保守によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（情報機器の販売及び保守事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業の売上は、主に金融機関向け業務処理支援機器及びその周辺機器の販売並びにそれ",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らの保守事業によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "及び保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "施工並びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業の売上は、水門、除塵機、水管橋等鋼構造物の",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造、施工並びにそれらの保守によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業の売上は、主に金融機",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にそれらの保守事業によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開成工業㈱ 水門・堰の製造及び施工並びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "光洋システム機器㈱ 情報機器の販売及び保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から構成されるコンクリート製品製造・販売を主な事業内容とし、更に水門・堰の製造及び施工並びに保守事業、地",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ト構造物の点検・調査、補修工事事業、情報機器の販売及び保守事業、不動産事業に取り組んでおります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（水門・堰の製造及び施工並びに保守事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に水門、除塵機、水管橋等鋼構造物の製造、施工並びにそれらの保守を行っており、その製品は次のとおりであ",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（情報機器の販売及び保守事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に金融機関向け業務処理支援機器、貨幣処理機及びその周辺機器の販売並びにそれらの保守事業を行っておりま",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売及び保守事",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、主にコンクリート製品製造・販売事業、水門・堰の製造及び施工並びに保守事業、地質調査・",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "争による受注量の減少や販売単価の下落により、当社グループの収益を圧迫する可能性があります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業の売上は、水門、除塵機、水管橋等鋼構造物の製造、施工並びにそれらの",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業の売上は、主に金融機関向け業務処理支援機器及びその周辺機器の販売並びにそれら",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の保守事業によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業 2,748,112 △12.9",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業 51,806 △61.9",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業 3,407,741 △15.2 2,413,255 △14.7",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業 3,989,599 △9.8",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業 157,281 △15.7",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 水門・堰の製造及び施工並びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業では、水門等の改良を中心に研究開発を行っており、当連結会計年度に",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「情報機器の販売及び保守事業」及び「不動産事業」",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）「水門・堰の製造及び施工並びに保守事業」、「地質調査・コンサルタント業務及び土木工事事業」、「情報機",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器の販売及び保守事業」、「コンクリート構造物の点検・調査、補修工事事業」、「橋梁・高架道路用伸縮装置",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（水門・堰の製造及び施工並びに保守事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業の売上は、水門、除塵機、水管橋等鋼構造物の製",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造、施工並びにそれらの保守によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（情報機器の販売及び保守事業）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業の売上は、主に金融機関向け業務処理支援機器及びその周辺",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器の販売並びにそれらの保守事業によるものであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業 4,423,361 1 9.4 4,000,277 1 8.8",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開 成 工 業 株 式 会 社 60,000 100.0 水門・堰の製造及び施工並びに保守",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "光洋システム機器株式会社 17,050 100.0 情報機器の販売及び保守",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 水 門・堰の製造及び施工並びに保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に水門、除塵機、水管橋等鋼構造物の製造、施工並びにそれらの保守を行っており、",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑥ 情 報機器の販売及び保守事業",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の保守事業を行っております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水門・堰の製造及び施工並びに保守事業 168 増 ４",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器の販売及び保守事業 6 ー",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客関連資産 219,000 200,750",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,753,252 741,257 432,366 428,346 54,817",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 50,191 18,072 ― 4,478,304",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,433,674 913,213 256,218 525,721 105,868",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 27,813 17,521 ― 4,280,030",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、顧客第一を基本方針として、市場ニーズにマッチした優れた商品を顧客に提供し、事業活動を",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは十分な与信管理を行っておりますが、取引先に予期せぬ貸倒れが発生した場合は少なからず損益",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このため、取引先の与信管理については、日常的に信用情報を収集し、社内審",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(8)のれん及び顧客関連資産",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、企業結合により生じたのれん及び顧客関連資産を計上しております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該のれん及び顧客関",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い場合には、当該のれん及び顧客関連資産について減損損失を計上する必要が生じ、当社グループの業績に重要な",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ 総販売実績に対して10％以上に該当する販売先はありません",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、個別性の高い顧客の課題や仕様にも柔軟に対応するた",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品開発にあたっては、顧客ニーズへの対応を最優先とし、社会動向や市場動向を十分に調査・分析したうえ",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一環として、また、取引先及び地域社会との良好な関係を構築し、事業の円滑な推進を図るため必要と判断す",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リックス㈱ 87,400 87,400 （保有目的）取引先等との関係強化（定量的な保有効果）（注）１ 有297,597 261,675",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20,000 20,000 （保有目的）取引先等との関係強化",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱南陽 62,000 62,000 （保有目的）主要取引先等との関係強化（定量的な保有効果）（注）１ 有89,218 71,734",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "52,170 52,170 （保有目的）主要取引先等との関係強化",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱佐賀銀行 8,000 8,000 （保有目的）主要取引先等との関係強化（定量的な保有効果）（注）１ 有37,360 18,464",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（保有目的）主要取引先等との関係強化",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産 292,000 219,000",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客関連資産については、効果の及ぶ期間（主として９年）に基づく定額法を採用しておりま",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び当社連結子会社の顧客との契約から生じる収益に関する当該履行義務を充足する通常の時点（収益を認",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような製品及び商品等の販売については、製品及び商品等の出荷から顧客が検収するまでの期間が短期間",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と顧客への財又はサービスの支配の移転の間には直接の関係があるためインプット法を使用しており、各報告期",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの収益は顧客との契約において約束した対価から、値引き等を控除した金額で測定しております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "識と現場経験を有する営業担当者等による一定の仮定と判断を伴い、主要な仮定は、顧客との現在の契約に基づき",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工事期間を通じて顧客との合意に基づき当初の契約から工事契約内容が変更される場合や施工等の遅延等によ",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客関連資産については効果の及ぶ期間（主として9年）に",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び当社連結子会社の顧客との契約から生じる収益に関する当該履行義務を充足する通常の時点",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような製品及び商品等の販売については、製品及び商品等の出荷から顧客が検収するまでの期間",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの収益は顧客との契約において約束した対価から、値引き等を控除した金額で測定しておりま",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的な知識と現場経験を有する営業担当者等による一定の仮定と判断を伴い 、主要な仮定は、顧客との現在の",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工事期間を通じて顧客との合意に基づき当初の契約から工事契約内容が変更される場合や施工等の遅延等",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形、電子記録債権及び売掛金に係る顧客の信用リスクは、与信管理規程に沿ってリスク低減を図って",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じ",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 12,167,267 3 ,989,599 1 ,965,325 2 ,055,822",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 836,523 157,281 72,040 2 1,243,859",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価に対する権利が無条件になった時点で顧客との契約から生じた債権に振り替えられます",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、主に請負工事等について顧客から受け取った前受金であります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は子会社への経営指導を行っており、当社の子会社を顧客としております",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客は国・地方自治体等の公共発注者であり、九州を主要市場として防災・減災・老朽化インフラ更新需要を取り込む社会インフラ総合ソリューション企業である",
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2.3 顧客の構造：国策との連動",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウの主な顧客は、国土交通省や地方自治体、そしてそこから工事を請け負う建設会社（ゼネコン）です",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "また、ヤマウは「政策保有株式」として、取引先などの上場株式を保有しています",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "これは、顧客（自治体やゼネコン）にとってヤマウの製品が不可欠であり、他社への乗り換えが難しいことを証明しています",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "連結営業利益率",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結営業利益 27億円（営業利益率 12.5％）",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力セグメントの高い収益性（営業利益率21%超）",
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期のコンクリート製品製造・販売事業の営業利益率は21.4%（前期比1.5ポイント改善）",
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期は主力のコンクリート製品事業における大口案件出荷減少が響き、売上高4,280百万円（前年同期比4.4%減）、営業利益339百万円（同29.9%減）、営業利益率7.9%（前年同期10.8%）と減収減益・利益率低下となった",
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "pass": 3
+   },
+   {
+    "quote": "この広範な工場ネットワークこそが、他地域の競合他社に対する強力な参入障壁—すなわち「堀」—となっているのです",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "5.1 営業利益率の壁を突破する",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社の多くは、営業利益率が3%〜5%程度に留まっています 11",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": ": 営業利益率 13.1%",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 15.6%",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "この計画では、単なる規模の拡大ではなく、高収益体質への転換と、持続可能な成長（Sustainability）を重視しています",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "以上述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの美しさは、その「不変性」にあります",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "どんなに素晴らしいビジネスモデルを持っていても、経営陣が株主を無視し、利益を無駄な買収や豪華な本社ビルに使ってしまうなら、投資価値はありません",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ヤマウホールディングス 株式会社（5284）— 企業情報 — ヤマウホールディングス 株式会社（5284）— 企業情報 ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 ヤマウホールディングス (5284) は ... — 【バフェットの視点】 ヤマウホールディングス (5284) は ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "pass": 3
+   },
+   {
+    "quote": "【 ヤマウホールディングス 株式会社】インフラ整備事業に ... — 【 ヤマウホールディングス 株式会社】インフラ整備事業に ... ヤマウホールディングス https://www.yamau-holdings.co.jp",
+    "url": "https://www.yamau-holdings.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス <5284> - 大量保有報告書データベース — ヤマウホールディングス <5284> - 大量保有報告書データベース M&A Online https://maonline.jp > companies > shareholding",
+    "url": "https://maonline.jp/db/companies/5284/shareholding",
+    "pass": 3
+   },
+   {
+    "quote": "銘柄分析 ヤマウホールディングス （5284） | 自由への投資 ... — 銘柄分析 ヤマウホールディングス （5284） | 自由への投資 ... アメーバブログ https://ameblo.jp > furupanko1130 > entry-12943675339",
+    "url": "https://ameblo.jp/furupanko1130/entry-12943675339.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 発表 資料 ｜IRライブラリ｜株主・投資家情報 — 決算 発表 資料 ｜IRライブラリ｜株主・投資家情報 ヤマウホールディングス https://www.yamau-holdings.co.jp > ... > IRライブラリ",
+    "url": "https://www.yamau-holdings.co.jp/ir/library/disclosure-financial",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 IR NEWS - ヤマウホールディングス — IR情報 IR NEWS - ヤマウホールディングス ヤマウホールディングス https://www.yamau-holdings.co.jp > 株主・投資家情報",
+    "url": "https://www.yamau-holdings.co.jp/ir/news/index/page:2",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス [5284]：2026年3月期 決算説明資料 ... — ヤマウホールディングス [5284]：2026年3月期 決算説明資料 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260508519987/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス 株式会社 決算説明資料 - EDINET DB — ヤマウホールディングス 株式会社 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > ... > IR資料",
+    "url": "https://edinetdb.jp/company/E01211/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス 【5284】の最新 決算 発表、業績修正 — ヤマウホールディングス 【5284】の最新 決算 発表、業績修正 株探 https://kabutan.jp > ヤマウホールディングス (5284) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=5284",
+    "pass": 3
+   },
+   {
+    "quote": "役員体制｜企業情報 - ヤマウホールディングス — 役員体制｜企業情報 - ヤマウホールディングス ヤマウホールディングス https://www.yamau-holdings.co.jp > 企業情報",
+    "url": "https://www.yamau-holdings.co.jp/company/officers/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜株主・投資家情報 - ヤマウホールディングス — 中期経営計画｜株主・投資家情報 - ヤマウホールディングス ヤマウホールディングス https://www.yamau-holdings.co.jp > ... > 中期経営計画",
+    "url": "https://www.yamau-holdings.co.jp/ir/mid_term/midterm7",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス 【5284】の 事業 内容 - キタイシホン — ヤマウホールディングス 【5284】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5284/business",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス 【5284】の 社長 ・役員 - キタイシホン — ヤマウホールディングス 【5284】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5284/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマウホールディングス の 社長 は誰？有田徹也氏の経歴・就任 ... — ヤマウホールディングス の 社長 は誰？有田徹也氏の経歴・就任 ... kigyo-scope.jp https://kigyo-scope.jp > company > ceo",
+    "url": "https://kigyo-scope.jp/company/5284/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yamau-holdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/concrete/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/water_gate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/business/joint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/mid_term/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/disclosure-financial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/library/securities-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/stocks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/electronic-notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/ir/news/archives/category/public-notice",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000468_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000463_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000461_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000459_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000458_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000457_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000456_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/files/optionallink/00000454_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/img/icon-global-nav-business-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/img/icon-global-nav-business-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/img/icon-global-nav-business-03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/img/icon-global-nav-business-04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/img/icon-global-nav-business-06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yamau-holdings.co.jp/img/icon-global-nav-business-05.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://envalith.com/ja/companies/5284/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamau.co.jp/recruit/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヤマウホールディングス",
+   "results": [
+    "https://www.yamau-holdings.co.jp/company/outline/",
+    "https://www.yamau-holdings.co.jp/ir/news/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5284",
+    "https://kabutan.jp/stock/?code=5284",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=5284&exchange_code=JPN",
+    "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6",
+    "https://minkabu.jp/stock/5284",
+    "https://www.yamau-holdings.co.jp/",
+    "https://ja.wikipedia.org/wiki/ヤマウホールディングス",
+    "https://ja.wikipedia.org/wiki/ヤマウ"
+   ]
+  },
+  {
+   "query": "ヤマウホールディングス ビジネスモデル",
+   "results": [
+    "https://envalith.com/ja/companies/5284/overview",
+    "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "https://www.yamau-holdings.co.jp/",
+    "https://maonline.jp/db/companies/5284/shareholding",
+    "https://ameblo.jp/furupanko1130/entry-12943675339.html",
+    "https://job.mynavi.jp/28/pc/search/corp279694/outline.html",
+    "https://www.yamau.co.jp/",
+    "https://diamond.jp/zai/articles/-/1016201",
+    "https://syukatsu-kaigi.jp/companies/17692",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=5284"
+   ]
+  },
+  {
+   "query": "ヤマウホールディングス 決算説明資料",
+   "results": [
+    "https://www.yamau-holdings.co.jp/ir/library/disclosure-financial",
+    "https://www.yamau-holdings.co.jp/ir/news/index/page:2",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260508519987/",
+    "https://edinetdb.jp/company/E01211/presentations/",
+    "https://kabutan.jp/stock/finance?code=5284",
+    "https://investalk.jp/5284/yamau-2026-03-earnings/",
+    "https://edinetdb.jp/company/E01211/ir-docs/",
+    "https://finance.yahoo.co.jp/quote/5284.T/financials",
+    "https://www.yamau-holdings.co.jp/ir/news/",
+    "https://www2.jpx.co.jp/disc/52840/140120260508519987.pdf"
+   ]
+  },
+  {
+   "query": "ヤマウホールディングス 事業系統図",
+   "results": [
+    "https://www.yamau-holdings.co.jp/company/officers/",
+    "https://www.yamau-holdings.co.jp/ir/mid_term/midterm7",
+    "https://kitaishihon.com/company/5284/business",
+    "https://edinetdb.jp/company/E01211/presentations/",
+    "https://www.yamau.co.jp/company/outline/",
+    "https://companydata.tsujigawa.com/?cdb_edinet_doc=S100TUG5",
+    "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6",
+    "https://note.com/open_azalea2045/n/n4f09cf5ffd7e",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20210628457359/140120210628457359.pdf",
+    "https://www.yamau-holdings.co.jp/"
+   ]
+  },
+  {
+   "query": "ヤマウホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.yamau-holdings.co.jp/company/officers/",
+    "https://www.yamau.co.jp/recruit/interview/",
+    "https://www.instagram.com/p/DcNErYJD_2U/?__d=1%3Futm_source%3Dig_embedzakkayaelement",
+    "https://kitaishihon.com/company/5284/board-of-director",
+    "https://kigyo-scope.jp/company/5284/ceo/",
+    "https://j-lic.com/companies/5284/directors",
+    "https://www.nikkei.com/article/DGKKZO65381360T21C20A0TJC000/",
+    "https://www.libcon.co.jp/case/022/",
+    "https://job.mynavi.jp/28/pc/search/corp279694/obog26004900/obog.html",
+    "https://www.nikkei.com/article/DGXMZO65381360T21C20A0YZ0000/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式23頁／PDF・画像14件／外部3頁・検索5回）"
+ }
+}

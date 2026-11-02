@@ -1,0 +1,2169 @@
+{
+ "name": "ＫＤＤＩ",
+ "aliases": [],
+ "context": "証券コード9433／情報・通信業／プライム（内国株式）／2026.03期 売上高6,071,915百万円 営業利益率17.4%",
+ "researched_at": "2026-11-02T18:34:21.634032+00:00",
+ "official_url": "https://www.kddi.com/",
+ "identified_by": "search:yahoo_jp:KDDI",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1984年（昭和59年）6月1日 会社の沿革",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   },
+   {
+    "label": "設立日",
+    "value": "1984年",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電気通信事業",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   },
+   {
+    "label": "主な事業など",
+    "value": "太陽光発電、 じた く 発電所サービス・節電チ ャ レンジプログラム、 ク",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "73,198名（連結ベース） ※ 2026年3月31日現在",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "6,071,915",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "くらしのサービス",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "auの金融・保険サービス",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "不法無線局によるものと疑われる携帯電話サービスへの混信について～フィッシング詐欺等のSMSにご注意ください～",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "通信料金や各種サービスご利用料金のインボイス制度対応について",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI利用料金の「未払い金」やau PAYなど当社グループサービスを装う偽メールにご注意ください",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "潜在的な不確実性を含むものとしては、当社または当社のグループ会社が取引する、海外の国々における景気および為替レート、特に米ドルに影響するものやユーロなどさまざまな外貨に関するもの、当社およびグループ会社が「急速な技術革新と新サービスの安定供給ならびに厳しい価格競争で特徴付けられた」通信市場において、新たなお客さまを獲得するための、発展的かつ魅力あるサービスを提供し続ける能力などがあげられます",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数データ",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数データ",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数データ",
+    "url": "https://www.kddi.com/corporate/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数データ",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数データ",
+    "url": "https://www.kddi.com/corporate/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIがJR東日本と提供する4K相当の次世代オンライン会議サービス「空間自在ワークプレイスサービス」によって、遠隔からでもボールタッチや身体の使い方が確認でき、細やかなコーチングを可能とします",
+    "url": "https://www.kddi.com/kddi-miraikyoso/",
+    "pass": 1
+   },
+   {
+    "quote": "空間自在ワークプレイスサービスについて",
+    "url": "https://www.kddi.com/kddi-miraikyoso/",
+    "pass": 1
+   },
+   {
+    "quote": "本プロジェクトでは、学生の斬新なアイデアを社会に実装し、多くの方々の手に取っていただける素晴らしい商品開発に取り組みます",
+    "url": "https://www.kddi.com/kddi-miraikyoso/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハンディフォン」サービス開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "IDO デジタル方式サービス開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "全国シームレスネットワーク完成携帯電話向けインターネット接続サービス「EZweb」開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラケーを象徴する歴史的サービスの提供開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "au サービス開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "現代では必要不可欠な、GPS式地図サービスを、携帯電話として初めて提供",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "音楽ダウンロードサービス",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "総合音楽サービス",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンが普及する以前から、「未来のスタンダード」を予見し、サービスを開始",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代高速通信サービス",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "第5世代移動通信サービス",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別に見るとau、UQ mobile、povoの3ブランドに加えて、法人やIoT、その他にもmvnoサービスへの回線提供を合わせることで、合計の規模となります",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "仮想移動体通信事業者：無線通信回線設備を開設・運用せずに、自社ブランドで携帯電話やPHSなどの移動体通信サービスを行う事業者のこと",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年の誕生当時は、店舗やATMへの来店が主流だったなか、いちはやく携帯電話の可能性に着目し、いつでもどこでも銀行サービスを利用できる環境の実現を目指しました",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス開始は2008年",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年にサービス提供開始された5Gが拡げる可能性は、スマートシティや自動運転などにも大きく影響します",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、該当するサービスをご利用いただく場合には、ご利用のブラウザがSSL/TLSに対応していることが必要となりますので、最新バージョンのブラウザをご利用いただくことを推奨します",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "外部サービスの利用",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サイトでは、外部のサービスによりお客さまのウェブサイト閲覧情報などのデータが収集されます",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客さまが当社が提供するアカウントの認証をした場合、当社はWebアクセス情報を、お客さま個人に割当てられた識別子（IDなど）と組み合わせ、お客さまの属性情報などを付加した上で利用および外部サービスに送信する場合があります",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "外部サービスの一覧および、各サービスが収集するデータの詳細、利用目的、停止方法などについて、サイトのカテゴリ別に以下にお知らせします",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客さま向けサイト（通信サービス）",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客さま向けサイト（通信以外のサービス）",
+    "url": "https://www.kddi.com/terms/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "購入した製品・サービス",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "販売した製品の加工",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "販売した製品の使用",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "販売した製品の廃棄",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "移動通信サービス契約数データ",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/2022-online/",
+    "pass": 1
+   },
+   {
+    "quote": "DDI、東海道ルート（東京・名古屋・大阪）での専用サービス開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "DDI、東海道ルート（東京・名古屋・大阪）での市外電話サービス開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IDO、ハイキャップ方式の自動車・携帯電話サービス開始 当時NTTが独占していた自動車電話事業への初めての新規参入",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IDO、携帯電話「ハンディフォン」サービス開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "関西セルラー、TACS方式でサービスを開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IDO、TACS方式のサービス開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "DDI、全国サービスネットワークが完成",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "関西セルラー、デジタル（PDC）方式のサービス開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IDO、デジタル（PDC）方式のサービス開始 字入力はアルファベットとカタカナのみ、モノクロ液晶",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "DIONサービス開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IDOとセルラーグループ、携帯電話向けインターネット接続サービス「EZweb」開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電話会社選択サービス「マイライン」開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "地域系通信会社のTTNet、大阪メディアポート（OMP）、中部テレコミュニケーション（CTC）が法人向けデータ通信サービスを会社分割し、株式会社パワードコムが発足",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三世代携帯電話サービス（CDMA2000 1x）開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "音楽ダウンロードサービス「着うた®」開始",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "CD音源そのものを携帯電話にダウンロードして着信音に設定できるサービスは、業界初であった",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「KDDIみらい共創プログラム」は、つなぐチカラを進化させたパートナーとの共創により、",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“あなたに気付く街 みんなで築く街”をテーマに、様々なパートナーとともに、データ活用による新しいまちづくりを通じた「スマートシティ」の実現します",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIの活動や取り組みをご紹介いたします",
+    "url": "https://www.kddi.com/corporate/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の取締役、監査役、執行役員をご紹介します",
+    "url": "https://www.kddi.com/corporate/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIグループの情報セキュリティに関する活動を紹介します",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "「KDDIみらい共創プログラム」は、つなぐチカラを進化させたパートナーとの共創により、",
+    "url": "https://www.kddi.com/kddi-miraikyoso/",
+    "pass": 1
+   },
+   {
+    "quote": "取り組み紹介",
+    "url": "https://www.kddi.com/kddi-miraikyoso/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDはプラチナパートナーとして協賛、日立製作所とともに「Society 5.0と未来の都市」をテーマに共同展示を行いました",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年の誕生当時は、店舗やATMへの来店が主流だったなか、いちはやく携帯電話の可能性に着目し、いつでもどこでも銀行サービスを利用できる環境の実現を目指しました",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "パーソナルグロース事業本部 パートナーグロース本部長",
+    "url": "https://www.kddi.com/corporate/ir/governance/board/",
+    "pass": 1
+   },
+   {
+    "quote": "【動画公開】「KDDI SUMMIT 2026」の見どころを紹介",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーの皆さまとの新たな価値創出の取り組みをご紹介しながら、",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDIが培ってきた強固な通信基盤と顧客接点の強みに加え、グループの専門性を融合した価値創出の取り組みをご紹介",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットや基盤モデルに加え、データや計算資源、通信など、多岐にわたるフィジカルAI領域に対して、本講演では最新動向や業界構造を解説するとともに、KDDIグループのドローン・モビリティ領域で培った実績や「通信」「AI基盤」を活かしたフィジカルAI戦略をご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDIの取り組みや最新の協業事例のご紹介に加え、AI領域を牽引する投資先スタートアップ4社によるピッチを実施",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "AIがビジネスにもたらす変革と、共創による新たな価値創出の可能性をご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "AI×パートナーで推進する地域変革",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI株式会社 パーソナルグロース事業本部 パートナーグロース本部 副本部長",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI株式会社 パーソナルグロース事業本部 パートナーグロース本部 マーケティングソリューション部長",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "～ パートナーとの協創×Starlink直接通信がもたらす、全国に広がる「空のAI労働力」 ～",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIグループやパートナー各社によるサービスを実際に体感いただけます",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce社の最新AIエージェント「Agentforce」とSMS/RCS（KDDI Message Cast）を活用した次世代顧客接点をご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業の皆さまの事業成長につながる、次世代ビジネス共創のヒントをお伝えします",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、7月に公開した書籍などと対話できるAIサービス「Buffmee」の新たな挑戦として、吉本興業が持つ芸人のトーク技術やエンタメ力とAIの融合を紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、地域の魅力化を通じた社会価値の創造と事業成長を目指すKDDIの取り組みを紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本セッションでは、KDDIのビッグデータと基盤技術を活用した共創事例を一挙ご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "人とAIが協働し成果を生み続けるAI-BPOの実践を紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "全国のドローンポートを社会基盤として構築する「Drone as a Service（DaaS）」の最前線を紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "通信圏外の制約を超える「Starlink直接通信」と先端AI技術、そして共創パートナーの産業知見を融合させることで、新時代の社会インフラビジネスの可能性を紐解きます",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、日本企業が持つ「現場力」をいかに海外で価値転換するか、そして事業成長を止めないためのインフラ戦略について、お客さまとの実装実例を交えながらご紹介",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDIが目指すAI時代の未来像を起点に、コネクティッドが果たす役割や世界で進む現場変革の潮流をご紹介",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、AI時代に顕在化するネットワーク運用の課題と、その解決策としてKDDIが提供する次世代ネットワークをご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIが、AIを街や店舗、アリーナなどといったリアルな現場空間へ実装し、PoCに留まらず継続的に、かつ日本らしい価値を創出するチャレンジを、実事例と共にご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDIの音声・AI技術とアルティウスリンクの顧客対応・運用設計ノウハウを組み合わせ、顧客理解の深化やCX向上につながる新たな顧客接点のあり方をご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "私たちには、そのためのパートナーがいる",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j02_oEhj3C.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全国 14,000 以上の店舗網を持つローソ ン と、 KDDI の通信や",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のページで紹介 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ナビリ テ ィ 委員会において、 代表取締役社長を委員長、 取締役を構成委員と し、 委員長が指名するオ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⃝ お客さま対応の場面は、 店舗来店・電話・個人宅訪問・事務所対応など多岐にわたるため、 一律の基準のみではなく",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そこで、 店舗スタ ッ フか らの問",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合せに答えるAI エージ ェ ン ト を、 7 月よ りauシ ョ ッ プ全店舗に導入 し ま した",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIが店舗スタッフの問い合わせに回答",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年7月、 auシ ョ ップ全店舗 （約2,000店）に導入",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "となる 「災害支援ローソ ン」 を2030 年度までに全国 100 店舗設置する計画や、 地域課題解決を目指",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市内のローソ ン店舗で店頭回収実証に参画 し ま した",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "池回収キ ャ ンペーンに参画 し、 東京都庁舎への AI 自動分別リ サイクルボ ッ クス設置や、 都内 4 店舗の",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上の店舗は大事なお客さま接点と して、 価値創出",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みである全国 14,000 以上のローソ ン店舗も リ ア",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全国の通信インフラや auシ ョ ッ プ、 ローソ ン店舗、 法",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソ ン店舗への送客で貢献 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 6 月には、 ローソ ン店舗を拠点に、 テク ノ ロジーの力も活用 して社会課題を解決するマチづ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市 AI サポーター」 も、 本店舗にて初めて提供 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※高輪店舗 （社員専用ローソ ン） を利用 したアンケー ト回答者 （1,077人） の内、 週2日以上利用する人の割合 （2025年9月8日～9月13日）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗全体 （イメージ画像）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7 月に社員向けのオフ ィ ス環境特化の店舗もオープン し、 社員が実験",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、 大阪、 新宿オフ ィ スまで店舗を拡大 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗を起点に誰もが安心 して暮ら し、 人と人がつながる持続",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "氏名 代表権 社外役員 独立役員 業務執行 非業務執行 指名諮問委員会 報酬諮問委員会 補足",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "淡輪 敏 ● ● ● ● 指名諮問委員会議長",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "通信料金や各種サービスご利用料金のインボイス制度対応について",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI利用料金の「未払い金」やau PAYなど当社グループサービスを装う偽メールにご注意ください",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のケーブル敷設船が実際に海底へ敷設、 長期にわたる運用・保守によ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "位性を活か し、 大容量を低遅延で運ぶ光海底ケーブルの敷設・保守事業も充実させて海外とのアクセ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上拡大・解約率低減",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで蓄積 した通信ネ ッ ト ワークの運用 ・ 保守実績にあわせて、 新たにグルー",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設備運用保守",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こ う した価値づく り を通 じ、 ARPU 成長と ご契約期間長期化による解約率低下を図る こ とで、 よ り 筋",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "方に注力する こ とで、 ARPU 増やご契約期間の長期化につながり ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "モバイルARPU増 A I エ ー ジェントによる1to1マーケティング強化",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上・ARPU",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これによ り 、 顧客体験の向上に加え、 解約率の低減を実現 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る品揃え強化によ り 、 顧客単価、 客数が増加 し日",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さ らに、 初期費用・月額費用の負担なく お ト ク に",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その上にインテグレーシ ョ ンや保守・運用をクロスセル し、 よ り 強固な収益構",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に、auのモバイルプランやFTTHを含むモバイルブロードバンドサービスのサブスクリプションベースのお子様のモデルが生まれています",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "スペクトラムライセンス",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "それであれば、単に来ていただくだけなら、「サブスクぷらすポイント」の延長でいいのでは？ という考え方もあるかもしれません",
+    "url": "https://k-tai.watch.impress.co.jp/docs/interview/2058610.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年台風第25号災害義援金（千葉県）",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年台風第18号災害義援金（鹿児島県）",
+    "url": "https://www.kddi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年以前のレポートに掲載している業績・財務データは、当社連結子会社における不適切な取引の影響を考慮しておりませんので、あらかじめご了承ください",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年以前",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年（昭和59年）6月1日",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月6日",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日-28日",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末時点",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末時点",
+    "url": "https://www.kddi.com/corporate/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算説明会（2026年8月7日）",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信（2026年8月7日）",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年夏号",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "１ページでわかるKDDIの歴史 | 沿革 | KDDI株式会社",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月～9月の6カ月間、日本国際博覧会（愛・地球博）において、総合情報センター、観覧予約システム、サポートナビシステム、ハイブリッド情報端末「愛・MATE」など、最新IT技術を駆使した取り組みにより、万博のスムーズな運営をサポートしました",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月現在では、約700万口座数を保有するまでに拡大",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年の会社発足から掲げてきたブランドスローガン「Designing The Future」を、「Tomorrow, Together」に一新",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年日本国際博覧会（大阪・関西万博）未来社会ショーケース事業「フューチャーライフ万博・未来の都市」",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月時点",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年の誕生当時は、店舗やATMへの来店が主流だったなか、いちはやく携帯電話の可能性に着目し、いつでもどこでも銀行サービスを利用できる環境の実現を目指しました",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年にサービス提供開始された5Gが拡げる可能性は、スマートシティや自動運転などにも大きく影響します",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI沿革はこちら",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIの主要沿革",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度はKDDIの所有する海外データセンター数が対象",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年～2024年度のデータは、2025年度実績ベースで算出",
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年7月2日に発生した通信障害について",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/2022-online/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | KDDI株式会社",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年 通信自由化前",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年～2000年",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年 KDDI発足以降",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年8月3日現在",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1953年（昭和28年）",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月現在",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年（平成12年）",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年4月よりauの新しいモバイルプロダクト・ブランド「iida」へと進化した",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年には、いつでも、どこでも、高画質、高音質な映画やドラマをau携帯電話やPCで、まるごと1本お楽しみいただける新サービス「LISMO Video（リスモビデオ）」もスタート",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日現在",
+    "url": "https://www.kddi.com/corporate/ir/governance/board/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/governance/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年3月期～2012年3月期",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の軌跡・沿革",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明会",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月6日（金）",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算説明会（2026年8月7日）",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期～2021年3月期",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期～2016年3月期",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期～2011年3月期",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "電話会社がレンタルしていた携帯電話機を、利用者が買い取る制度",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、利用者は多額の保証金を支払う必要がなくなり、若者らに普及するきっかけに",
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "pass": 1
+   },
+   {
+    "quote": "電話会社がレンタルしていた携帯電話機を、利用者が買い取る制度で、これにより、利用者は多額の保証金を支払う必要がなくなり、若者らに普及するきっかけとなった",
+    "url": "https://www.kddi.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "～ データ×リアル接点×AIで挑む顧客起点の変革 ～",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "AIが浸透する社会で真の差別化価値を築く鍵は、利便性だけでない顧客起点の体験づくりです",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "多様な顧客データを土台にした、auショップやローソンなどのリアル接点とAIの融合",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "通信・金融・デジタルアセットの融合が生み出す新たな顧客体験と未来像を語ります",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "～ 自動運転時代に生まれる、新たなユーザー接点と地域経済圏 ～",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDIが培ってきた強固な通信基盤と顧客接点の強みに加え、グループの専門性を融合した価値創出の取り組みをご紹介",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "AIエージェントとカスタマーデジタルツインが創る、新しい顧客体験",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "～ 顧客接点とデータの好循環で拓く\"AI生活力\" ～",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "データとAIで紡ぐ次世代の顧客体験",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "～ AIが変える次世代カスタマーサービスと顧客接点の未来 ～",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce社の最新AIエージェント「Agentforce」とSMS/RCS（KDDI Message Cast）を活用した次世代顧客接点をご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce社による最新活用事例やKDDIのAI活用事例に加え、AI自動応答やリッチメッセージ配信の体験を通じて、顧客体験向上と業務効率化を実現する新たなカスタマーサービスをご体感いただけます",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "auショップやPontaパスなどの顧客接点では、すでにAIエージェントが接客支援や対話品質の自動改善に動き始めています",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIはその先に、約3,000万人の顧客データに生活者の\"心\"を掛け合わせるカスタマーデジタルツイン（CDT）を構想",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "一人ひとりの\"心\"に寄り添う1to1体験と、体験を通じて顧客理解がさらに深まる好循環——「AI生活力」を支える実装の現在地と未来構想を語ります",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "技術の同質化が進むAI前提社会で、企業が生き残る鍵は「リアル接点」と「深い顧客理解」にあります",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDI・ローソン・池田市の力を結集した「ハッピーローソンタウン池田伏尾台店」プロジェクトを題材に、三者がどう地域課題を解決し、新しい顧客体験を実装したのかを紐解きます",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "海外モバイルサブブランドを率いるリーダーのインタビューを交え、ゲストとともに、AIによる新たな顧客体験や直面する課題、そして今後の可能性について、グローバルな視点から解き明かします",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "顧客対応・カスタマーサポート部門の責任者、事業部門のご担当者",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "近年の顧客接点においては、「会話の文脈を理解した応対」や「お客さまの課題をワンストップで解決する体験」がますます求められています",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "音声AIエージェントと人がそれぞれの強みを活かしながら、顧客体験の向上を実現",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "本講演では、KDDIの音声・AI技術とアルティウスリンクの顧客対応・運用設計ノウハウを組み合わせ、顧客理解の深化やCX向上につながる新たな顧客接点のあり方をご紹介します",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "全社を挙げての以下の活動取り組みにより、KDDIグループの活動全体に対する支持と信頼を獲得し、お客さま満足度の向上と顧客基盤の強化・拡大を達成する",
+    "url": "https://www.kddi.com/corporate/ir/governance/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者数およびお客さま接点数の総和のこ と",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j02_oEhj3C.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データ、 サービスをかけ合わせ、 日常の生活の場で新たな顧客体験を生み",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そ して、 どのよ う な時代にな っ ても、 同 じ テク ノ ロジーか ら異なる顧客体",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たち自身が変化 し、 それ らをかけ合わせる こ とで、 KDDI ならではの顧客体",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIで壊されにくい価値を、 固有の顧客体験へ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "由来である 「バフ」 は、 ゲームなどでよく使われる、 ユーザーをパワーア ップ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 業務の属人化や権限の集中を許 し、 取引先管理、 事業管理、 グルー",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再発防止に向け、 グループ会社における取引先の与信管理基準、 事業計",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なアセ ッ ト を磨き直 し、 Fusionによ っ て新 しい顧客体験と事業へ変える",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全国規模のインフラ顧客基盤",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6-3 顧客の基本的権利とプライバシー管理",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 8 スマホ ・ ケータイ教室、 モンゴルICT教室、 アウ ト オブキ ッ ザニア、 4v4のご利用者数、",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点検監視 商品仕分け 顧客問合せ ロボタクシー 生活相談 おトク ／ エ ン タ メ健康支援 地域情報",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Buffmee のコンセプ トは、 利用者が AIと対話しながら新しい知識を学び、 進化する 「あなた",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このサービスでは信頼できる コンテンツのみか ら回答するため、 利用者を嘘の情報",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者を嘘の情報から守る",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "掘り ができた／利用者 （30 代・男性）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法の高度化・自動化が進み、 サイバー攻撃の影響は取引先や海外子会社を含むサプライチ ェ ーン全",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ク ・ユーザー体感レポー ト」",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスがあり 、 それぞれに顧客基盤を保持 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 顧客体験の変化と社会実装を担う人財の創出に取り 組み、 AI時代の競争優位性を確立 してまいり ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "具体的には、 グループにおける取引先与信管理や購買業務の権限分離、 財務管理の強化など、",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは、 当社主要サービスの利用者数およびお客さま接点数の総和であり 、 こ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 日本市場を対象と した 「モバイル ・ ネ ッ ト ワーク ・ ユーザー体感レポー ト※2 」 （2026 年 4 月時点）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これによ り 、 顧客体験の向上に加え、 解約率の低減を実現 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "au PAY カード会員数 1,082万会員",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うち、 ゴールドカード会員数 １９５万会員",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る品揃え強化によ り 、 顧客単価、 客数が増加 し日",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "好評で、 会員数は2026 年 3月末時点に約 1,560",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さ らなる会員数拡大に向け",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ Pontaパス会員数",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会員数拡大に向けて",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存金融（サービス・顧客・UX）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者である社員の声をもと に使いやすさと利",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "業績ハイライト／事業セグメント別データ一括ダウンロード",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント別データ",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "業績ハイライト／事業セグメント別データ",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント別データ 2012年3月期～",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "旧セグメントデータ",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスデータ旧事業セグメント別 ダウンロード",
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDI 連結における経営基幹職および管理職 （本部長以下、 課長相当まで） の構成比",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "またグロース領域は、 連結に占める構成比 1/3",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結に占める構成比",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ビジネスグロース」 セグメント 「パーソナルグロース」 セグメント",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「テレコムコア」 セグメント",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ モバイル収入※（パーソナルセグメントベース）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KDDIの顧客セグメント",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "本講演では、自動運転と通信技術で住民の「移動の自由」を守りながら、新たなビジネスモデルを築く具体策を、自治体の皆さまとともに考えます",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "さ らに、 新 しいビジネスモデル創出に向けた取り 組みと して、 既存金融の基盤の上で、 Web3 金融を",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実際のビジネスモデルの内訳",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIのビジネスモデルとは？",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIのビジネスモデルを支える重要な選択肢と、それらがどのように価値を生み出すのかをご覧ください",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに多くのビジネスモデルを探求する準備はできていますか？",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "優れた企業のビジネスモデルを発見し、インスピレーションを得て、わずか数分で独自のビジネスモデルを構築しましょう",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIのビジネスモデルがこれほど成功している理由は？",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "Vizologiでは、このようなビジネスモデルの分析と設計が可能です",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIは、多様な顧客グループの要求にうまく対応する独自のインターネット化されたビジネスモデルを採用しています",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIの収益モデルは、多様なサービスポートフォリオを活かすように精巧に設計されています",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIのビジネスモデルキャンバス",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIの収益モデル",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDIは、様々なビジネスモデルを組み合わせることで収益を上げています",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルデザインのアーキタイプ",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "ダバービジネスモデル",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "BTグループのビジネスモデル",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "オレンジのビジネスモデル",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルキャンバスとは何ですか?",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインビジネスモデルキャンバステンプレート（PDF）",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "無料のビジネスモデルキャンバスの例",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "本講演では、KDDIが培ってきた強固な通信基盤と顧客接点の強みに加え、グループの専門性を融合した価値創出の取り組みをご紹介",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "音声AIエージェントと人がそれぞれの強みを活かしながら、顧客体験の向上を実現",
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "pass": 1
+   },
+   {
+    "quote": "ただ し、 これ ら3 つの価値を保有 しているだけで、 競争優位が生まれるわ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り 、 KDDI が長年培 っ てきた リ アルな強みであり 、 私たちならではのアセ ッ ト",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Fusion」 とは、 異なる領域や強みをかけ合わせ、 単独では到達できない",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KDDI が目指す Fusion も、 異なる強み",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自ら常に前進し続けるためには、 強みを",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AI 前提社会は、 KDDI がこれまで築いてきた強みが、 そのまま価値を持",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KDDI は、 リアルなアセ ッ トの持つ強みと",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みを活か し、 さ らなる差別化を図るため、 新たな成長構造と して、 異分野融合による価値創",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Real-Tech Fusion は、 リ アルの持つ強みに着目 し テク ノ ロジーと結び付けるものです",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位を左右 し ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“AIで壊されにくい価値” が競争優位となる社会",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合による価値創造手法 「Fusion」 の 3 点が競争優位性確立のカギです",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持続的成長という当社の強みをAI 前提社会において深化 し、 クオ リ テ ィ を向上 していく こ とで、 企業",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きに く いエ リ アをカバーする衛星通信など、 陸海空にわたる通信網は当社ならではの強みです",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタルベル ト構想は当社の強みである通信品質、 アジア ・米国間を大容量かつ低遅延で",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リ ング力にも強みがあり ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "改めて リ アルの持つ強みに着目 し、 AI を最大限活用する",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 顧客体験の変化と社会実装を担う人財の創出に取り 組み、 AI時代の競争優位性を確立 してまいり ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的な挑戦心という強みがあり ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人財の強み、 CHROのミ ッシ ョ ン",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 営業利益／営業利益率",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 営業利益 （左軸） 営業利益率 （右軸）",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 調整後営業利益／調整後営業利益率",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "povoは、 通信品質と柔軟なサービス設計が強みです",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みである全国 14,000 以上のローソ ン店舗も リ ア",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新中期経営戦略においても、 強みを活か し、 引き続き、 グロー",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 売上高 ■ 調整後営業利益／調整後営業利益率 ■ 調整後EBITDA／マージン",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "みにも先行 して着手 し、 既存金融を基盤と した競争優位の確立を図り ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 売上高 ■ 調整後営業利益／営業利益率 ■ 調整後EBITDA／マージン",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "都市と近接 した立地かつ、 低遅延でセキ ュ アに接続できる強みに",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、 AI の社会実装とKDDI の強みである通信インフラや顧客基",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "改めて感じたKDDIらしさや事業の強みについてお聞かせくだ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リ アリ テ ィ は KDDIら しさや強み",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "池田取締役 ：私がKDDIの強みと してまず感 じたのは、 潤沢な",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きな強みであり 、 将来性の高さにつなが っ ている と感 じています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大きな強みだと思います",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り 、 そこに大きな強みがあり ます",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業基盤、 人財、 時代の追い風など成長に向けた多く の強みが",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "だか ら こそ、 その強みに安住する こ とな",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KDDI の強みである と認識 しています",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KDDIの強み",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "淡輪取締役：人財育成という点では、 KDDI には既に大きな強み",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KDDI の人財・組織の強みは、 フ ィ ロソ",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るべきかという価値観が組織の根幹にある こ とは大きな強みだと",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は、 こ う した強みを維",
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営戦略（2026年-2028年） | 理念・ビジョン - KDDI — 中期経営戦略（2026年-2028年） | 理念・ビジョン - KDDI KDDI https://www.kddi.com > 理念・ビジョン",
+    "url": "https://www.kddi.com/vision/managementplan2026-2028/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDI の ビジネスモデル - ビジネス戦略キャンバス - Vizologi — KDDI の ビジネスモデル - ビジネス戦略キャンバス - Vizologi Vizologi https://vizologi.com > kddi-business-model-canvas",
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 KDDI の事業戦略を構造化する ... — 【 ビジネスモデル 図解2026】 KDDI の事業戦略を構造化する ... mindmeister.jp https://mindmeister.jp > posts > bm-KDDI",
+    "url": "https://mindmeister.jp/posts/bm-KDDI",
+    "pass": 3
+   },
+   {
+    "quote": "【第2弾】 KDDI の ビジネスモデル 完全解剖― 最強の“通信以外 ... — 【第2弾】 KDDI の ビジネスモデル 完全解剖― 最強の“通信以外 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/hip_sedum4970/n/n3f8bcbbd9b3c",
+    "pass": 3
+   },
+   {
+    "quote": "理念・ビジョン | KDDI 株式会社 — 理念・ビジョン | KDDI 株式会社 KDDI https://www.kddi.com > vision",
+    "url": "https://www.kddi.com/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | IRライブラリ | KDDI 株式会社 — 決算説明 会 | IRライブラリ | KDDI 株式会社 KDDI https://www.kddi.com > ... > IRライブラリ",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 株主・投資家情報 | KDDI 株式会社 — IRライブラリ | 株主・投資家情報 | KDDI 株式会社 KDDI https://www.kddi.com > 企業情報 > 株主・投資家情報",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 企業情報 | KDDI 株式会社 — 株主・投資家情報 | 企業情報 | KDDI 株式会社 KDDI https://www.kddi.com > 企業情報",
+    "url": "https://www.kddi.com/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IRライブラリ | KDDI 株式会社 — 決算 短信 | IRライブラリ | KDDI 株式会社 KDDI https://www.kddi.com > ... > IRライブラリ",
+    "url": "https://www.kddi.com/corporate/ir/ir-library/earning/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 (2026年6月1日現在) - KDDI — 組織図 (2026年6月1日現在) - KDDI KDDI PDF https://www.kddi.com > kddi > soshiki > pdf > soshiki",
+    "url": "https://www.kddi.com/extlib/files/corporate/kddi/soshiki/pdf/soshiki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | KDDI 株式会社 — 企業情報 | KDDI 株式会社 KDDI https://www.kddi.com > corporate",
+    "url": "https://www.kddi.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "【旧組織】 【新組織】 2026年4月1日付 KDDI 組織図 — 【旧組織】 【新組織】 2026年4月1日付 KDDI 組織図 KDDI ニュースルーム PDF https://newsroom.kddi.com > kddi_nr_s-59_4330",
+    "url": "https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-59_4330/kddi_nr_s-59_4330_pdf_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | KDDI エンジニアリング株式会社 — 組織図 | KDDI エンジニアリング株式会社 KDDIエンジニアリング株式会社 https://www.kddi-eng.com > company > organization",
+    "url": "https://www.kddi-eng.com/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDI グループ | 企業情報 | KDDI 株式会社 — KDDI グループ | 企業情報 | KDDI 株式会社 KDDI https://www.kddi.com > 企業情報",
+    "url": "https://www.kddi.com/corporate/group/",
+    "pass": 3
+   },
+   {
+    "quote": "「夢中」が未来をつくる原動力― KDDI 松田新 社長 が語る ... — 「夢中」が未来をつくる原動力― KDDI 松田新 社長 が語る ... Spark Journal by KDDI https://spark-journal.kddi.com > つなぐ",
+    "url": "https://spark-journal.kddi.com/tsunagu/article00246/",
+    "pass": 3
+   },
+   {
+    "quote": "[ KDDI 松田 社長インタビュー 、「Googleとの記事AI検索」や ... — [ KDDI 松田 社長インタビュー 、「Googleとの記事AI検索」や ... ケータイ Watch https://k-tai.watch.impress.co.jp > docs > interview",
+    "url": "https://k-tai.watch.impress.co.jp/docs/interview/2058610.html",
+    "pass": 3
+   },
+   {
+    "quote": "KDDI ・松田 社長 CEO（最高経営責任者）「価値創造で循環 ... — KDDI ・松田 社長 CEO（最高経営責任者）「価値創造で循環 ... 日経ビジネス電子版 https://business.nikkei.com > 編集長インタビュー",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00314/",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ | 企業情報 | KDDI 株式会社 — CEOメッセージ | 企業情報 | KDDI 株式会社 KDDI https://www.kddi.com > 企業情報",
+    "url": "https://www.kddi.com/corporate/president/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kddi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/kddi-miraikyoso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/kddi/history/special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/terms/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/sustainability/esg-data-environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/2022-online/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/ir-library/sustainability-integrated-report/archive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/governance/board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/finance/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/summit/?utm_source=referral&utm_medium=referral&utm_campaign=line_cor_ir&pcode=line_cor_ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/individual/investing/?utm_source=in&utm_medium=a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/stock-rating/dividend/?utm_source=in&utm_medium=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/governance/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/governance/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/ir/?utm_source=doc&utm_medium=top",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j_nqm7Ji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j_p_PQpRgk.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j01_OWHfad.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j02_oEhj3C.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j03_qxYvwH.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j04_MaJ2Rw.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j05_b5H2Sv.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/files/corporate/ir/ir-library/sustainability-integrated-report/pdf/kddi_sir2026_j06_nodiO3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/common/img_new/header_logo02_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/common/img_new/footer_logo01_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/corporate/kddi/history/special/images/logo_r.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/extlib/corporate/kddi/history/index/logo_37.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/summit/summit2026/img/img-flow-step01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/summit/summit2026/img/img-flow-step02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/summit/summit2026/img/img-flow-step03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kddi.com/summit/summit2026/img/img-flow-step04.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spark-journal.kddi.com/tsunagu/article00246/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k-tai.watch.impress.co.jp/docs/interview/2058610.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KDDI",
+   "results": [
+    "https://www.kddi.com/",
+    "https://ja.wikipedia.org/wiki/KDDI",
+    "https://en.wikipedia.org/wiki/KDDI",
+    "https://www.youtube.com/user/KDDIofficial",
+    "https://www.linkedin.com/company/kddi-corporation",
+    "https://www.nikkei.com/nkd/company/?scode=9433",
+    "https://grokipedia.com/page/KDDI",
+    "https://www.kddi.com/english/",
+    "https://us.kddi.com/",
+    "https://us.kddi.com/en/company/corporate/"
+   ]
+  },
+  {
+   "query": "KDDI ビジネスモデル",
+   "results": [
+    "https://www.kddi.com/vision/managementplan2026-2028/",
+    "https://vizologi.com/ja/business-strategy-canvas/kddi-business-model-canvas/",
+    "https://mindmeister.jp/posts/bm-KDDI",
+    "https://note.com/hip_sedum4970/n/n3f8bcbbd9b3c",
+    "https://www.kddi.com/vision/",
+    "https://www.kddi.com/corporate/ir/ir-library/annual-report/2016-selected/business-model/",
+    "https://biz.kddi.com/",
+    "https://biz.kddi.com/5g/partnerprogram/",
+    "https://www.bizreach.jp/job-feed/public-advertising/ydbtqb9/",
+    "https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_plan_pvHOPw.pdf"
+   ]
+  },
+  {
+   "query": "KDDI 決算説明資料",
+   "results": [
+    "https://www.kddi.com/corporate/ir/ir-library/presentation/",
+    "https://www.kddi.com/corporate/ir/ir-library/",
+    "https://www.kddi.com/corporate/ir/",
+    "https://www.kddi.com/corporate/ir/ir-library/earning/",
+    "https://www.youtube.com/watch?v=SWYH9u9quxk",
+    "https://www.kddi.com/corporate/ir/individual/movie/",
+    "https://newsroom.kddi.com/ir-news/detail/kddi_ir-1210_4659.html",
+    "https://irbank.net/E04425/reports",
+    "https://www.kddi.com/corporate/ir/ir-library/meeting/",
+    "https://edinetdb.jp/company/E04425/presentations/"
+   ]
+  },
+  {
+   "query": "KDDI 事業系統図",
+   "results": [
+    "https://www.kddi.com/extlib/files/corporate/kddi/soshiki/pdf/soshiki.pdf",
+    "https://www.kddi.com/corporate/",
+    "https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-59_4330/kddi_nr_s-59_4330_pdf_01.pdf",
+    "https://www.kddi-eng.com/company/organization/",
+    "https://www.kddi.com/corporate/group/",
+    "https://www.kddi.com/corporate/ir/individual/result/",
+    "https://www.kddi.com/corporate/ir/individual/operation/",
+    "https://kitaishihon.com/company/9433/business",
+    "https://www.kddi.com/corporate/kddi/annai/pdf/all.pdf",
+    "https://ja.wikipedia.org/wiki/KDDIグループ"
+   ]
+  },
+  {
+   "query": "KDDI 社長 インタビュー",
+   "results": [
+    "https://spark-journal.kddi.com/tsunagu/article00246/",
+    "https://k-tai.watch.impress.co.jp/docs/interview/2058610.html",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00314/",
+    "https://www.youtube.com/watch?v=AeBOMPYlu_Y",
+    "https://www.kddi.com/corporate/president/",
+    "https://www.youtube.com/watch?v=r1KyLf5YRTk",
+    "https://www.nikkan.co.jp/articles/view/747074",
+    "https://www.youtube.com/watch?v=n0n5HTpXCRY",
+    "https://www.kddi.com/summit/"
+   ]
+  }
+ ],
+ "missing": {}
+}

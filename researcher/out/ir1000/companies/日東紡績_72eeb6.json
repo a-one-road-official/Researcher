@@ -1,0 +1,1127 @@
+{
+ "name": "日東紡績",
+ "aliases": [],
+ "context": "証券コード3110／ガラス・土石製品／プライム（内国株式）／2026.03期 売上高118,229百万円 営業利益率17.6%",
+ "researched_at": "2026-11-02T18:22:51.986850+00:00",
+ "official_url": "https://www.nittobo.co.jp/",
+ "identified_by": "search:yahoo_jp:日東紡績",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1898(明治31)年2月 郡山絹糸紡績株式会社(郡山)設立 1918(大正7)年4月 福島精練製糸株式会社(福島)設立 1923(大正12)年4月 日東紡績株式会社創立",
+    "url": "https://www.nittobo.co.jp/corporate/about/index.htm",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "（連結）2,793名　（単体）867名 （2026年3月31日現在）",
+    "url": "https://www.nittobo.co.jp/corporate/about/index.htm",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "【復旧】システムメンテナンス完了およびサービス再開のお知らせ（817KB）",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムメンテナンスに伴う一部サービス停止のお知らせ（823KB）",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品は、身近なものから産業インフラまで、あらゆるところで使用されています",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会に必要不可欠な製品の開発",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発で独自のポジションを築き、グローバルな顧客に深く根ざす",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "社会に価値を提供する製品を提供していきます",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "提供価値と製品・サービス",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "『Big VISION 2030』を実現する2030年度目標に向けて、投資の刈り取り、新規開発製品の結実による着実な収益貢献を目指す",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "次世代製品へのシフトを進め、売上高及び利益率でさらなる高みを目指す",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発の加速、新商品開発の推進",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "より広く社会に貢献する商品・プロセスの開発",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "顧客起点の商品開発と需要探索",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "環境対応商品の開発、生産プロセスの環境対応",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "環境に貢献する商品の開発、販売",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "低排出量品として製品価値を訴求",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "コラボレーション製品の上市",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "成長分野（環境、E&E、機能性商材など）への製品提案",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "省エネによる需要の高まりを機会としたハイエンド製品の販売強化",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ZEH対応商品の販売拡大",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "断熱等級６・７の商品開発",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップの絞り込みによる生産性向上",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "商品開発機能は、各事業本部が担い、製造・販売が一体となることで機動性を高めていきます",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "また、基礎研究、生産技術に特化した技術開発本部が商品開発機能の横串を担います",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献商品の開発",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "※「環境貢献商品の開発」の目標は、",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンフットプリント：製品やサービスの原材料調達から廃棄、リサイクルに至るまでのライフサイクル全体を通して排出される温室効果ガス排出量をCO₂に換算して表示する仕組み",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "グラスファイバーとは｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/",
+    "pass": 1
+   },
+   {
+    "quote": "ここで収集された情報は、ユーザーが各パートナーに提供した他の情報や各パートナーのサービスを使用した際に収集された情報と組み合わされ、各パートナーによって使用されることがあります",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは様々な種類のCookieが使用されており、一部のCookieは、当社のページに表示されるサードパーティーのサービスにより配置されています",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "過去に販売していた製品の",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "過去に販売していた製品の照会について",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "電子材料事業｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "当社は基本的なグラスファイバーが持つ特性を活かしたまま、ある特性をさらに際立たせるコンセプトでガラス組成開発・製品開発を進めています（スペシャルガラス）",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "NEガラスは1990年代に開発し、近年における低誘電ガラスのデファクトスタンダード製品として業界を牽引してきました",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "メディカル事業｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/medical/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "日東紡グループ内で原料から製品までを一貫製造しており、高品質な体外診断用医薬品を安定供給できることが最大の特長です",
+    "url": "https://www.nittobo.co.jp/business/medical/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報、お問い合わせはこちら",
+    "url": "https://www.nittobo.co.jp/business/medical/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "複合材事業｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/compositematerials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "連続繊維であるロービングや一定の長さに切断したチョップドストランドなどの幅広い製品群を有し、FRP（繊維強化プラスチック）やFRTP（繊維強化熱可塑性プラスチック）用途において多様なニーズに対応しています",
+    "url": "https://www.nittobo.co.jp/business/compositematerials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "複合材事業本部は、日東紡グループが展開する複合材用のグラスファイバーを通して「より高い生産性、よりコスト競争力」「より広く社会に貢献する商品・プロセス開発」「より深いお客様との信頼関係構築」を目指し事業活動を行っています",
+    "url": "https://www.nittobo.co.jp/business/compositematerials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "資材・ケミカル事業｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/materialssolution/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材用グラスファイバー事業は、グラスファイバーの耐熱・耐火性や軽量性を活かし、大型建造物用の膜材や自動車用の制振材などさまざまな製品を提供しています",
+    "url": "https://www.nittobo.co.jp/business/materialssolution/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "また、日東紡グループの祖業である繊維事業では、接着芯地や「日東紡の新しいふきん®」などの製品のほか、独自の接着技術を活用した製品も提供しています",
+    "url": "https://www.nittobo.co.jp/business/materialssolution/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "資材・ケミカル事業本部は、幅広い用途への展開の可能性を持つ産業資材用グラスファイバー事業、独自性の高い機能性ポリマーなどのケミカル事業、独自の技術を持つ接着芯地などの繊維関連事業のコラボレーションにより、事業間で情報や知見を共有し、新製品の上市や新規ビジネスを創出していきます",
+    "url": "https://www.nittobo.co.jp/business/materialssolution/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "また、それぞれの事業の枠にとらわれることなく、シナジーを生み出す組織運営と、提案・推進できる人財を育成していくとともに、既存事業領域においても成長が期待できる分野（環境、Electric & Electronic、機能性商材など）への製品提案も進め、新規商権獲得を目指します",
+    "url": "https://www.nittobo.co.jp/business/materialssolution/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "断熱材事業｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/insulationmaterials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報、お問い合わせはこちら",
+    "url": "https://www.nittobo.co.jp/business/insulationmaterials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "日東紡グループは5つの事業本部で製品の開発、製造、販売を行っています",
+    "url": "https://www.nittobo.co.jp/business/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製品の適用例はこちら",
+    "url": "https://www.nittobo.co.jp/business/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "組成／特性｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/composition.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製造方法｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/process.htm",
+    "pass": 1
+   },
+   {
+    "quote": "成形法｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/method/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "FRP（繊維強化プラスチック）は、ガラス繊維や炭素繊維またはアラミド繊維等で樹脂を強化した材料であり、成形法により最終製品の寸法・形状、機械的特性、コスト等が大きく変化します",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/method/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "すなわち、製品設計する場合にFRPの成形法を理解し、要求品質を踏まえて適切な成形法を選択することが重要となります",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/method/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "複合材料の設計技術｜事業・製品｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   },
+   {
+    "quote": "従来の製品開発のプロセスは、設計、試作＆実験、設計変更を繰り返し行うことで、最適な製品の開発が行われてきました",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、製品開発にCAEを活用することで、最小限の試作回数で最適な製品設計が可能となってきました",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   },
+   {
+    "quote": "さらに複合材料の成形品の開発においても、CAEを活用することで従来の開発プロセスよりも開発期間を短縮でき、しかも低コストで製品開発が行えるようになりました",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   },
+   {
+    "quote": "日東紡では、お客様の製品設計に対するご要望にお答えするために、CAEによる複合材料の設計技術に積極的に取り組んでいます",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "見えないところで社会を支えているグローバル・ニッチな日東紡を紹介しています",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "外部パートナーとの「共創」",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "またユーザーによるサイトの利用状況についても情報を収集し、ソーシャルメディアや広告配信、データ解析の各パートナーに情報を共有しています",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ここで収集された情報は、ユーザーが各パートナーに提供した他の情報や各パートナーのサービスを使用した際に収集された情報と組み合わされ、各パートナーによって使用されることがあります",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、FRPとFRTP（繊維強化熱可塑性プラスチック）の成形法について説明し、日東紡が保有する各種成形法に適したガラス基材を紹介します",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/method/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介（標準）",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/yarn/index.htm",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度から2027年度に向けた中期経営計画を策定し、次の100年に向けた注力分野の強化と、新たな柱づくりを進めています",
+    "url": "https://www.nittobo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年にありたい姿",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2030年を超え、次の100年に向けた新たな柱づくり",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度の売上高は1,550億円、営業利益は360億円を目指します",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度に",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2017年に設立した総合研究所を2024年4月1日に改組しました",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2050年度を見据え、2030年度目標を掲げています",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度目標",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度に策定予定",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度までにグローバルで20%増を目指す",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会 主要質疑応答",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明（オンライン会議）",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月22日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月18日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月28日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月25日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月13日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明（オンライン会議）",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 主要質疑応答",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月12日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月01日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月10日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明会 主要質疑応答",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月06日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算説明（オンライン会議）",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月05日",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算説明資料",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2022年には、2025年までに全ての新設住宅の断熱性能を従来の最高等級に適合させることが義務化されるとともに、より一層高い断熱等級も新設されるなど、断熱性能向上へのニーズが増えています",
+    "url": "https://www.nittobo.co.jp/business/insulationmaterials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜日東紡績株式会社",
+    "url": "https://www.nittobo.co.jp/corporate/history.htm",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "製品開発で独自のポジションを築き、グローバルな顧客に深く根ざす",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "開製販の一体運営、顧客視点の強化",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ニーズを把握した上で、次世代スペシャルガラス（ NEZ 、 V 、 DXⅡ）開発・量産化を行う",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "より深いお客様との信頼関係構築",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "顧客起点の商品開発と需要探索",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのコンタクトを通じた新規用途探索、新規開発テーマの獲得",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 1
+   },
+   {
+    "quote": "このサイトではCookieを使って、ユーザーに合わせたコンテンツや広告の表示、トラフィックの分析を行っています",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "またユーザーによるサイトの利用状況についても情報を収集し、ソーシャルメディアや広告配信、データ解析の各パートナーに情報を共有しています",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ここで収集された情報は、ユーザーが各パートナーに提供した他の情報や各パートナーのサービスを使用した際に収集された情報と組み合わされ、各パートナーによって使用されることがあります",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "現在のドメインにおけるユーザーのCookie同意状態を保存",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーのブラウザがCookieに対応しているかを確認するために使用されます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ログイン中のユーザーを識別します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "固有のセッションIDがユーザーに関連付けられ、ウェブサイトの閲覧中にユーザーが識別されます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieの有効期限が切れると、ユーザーはログアウトされます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "設定情報Cookieは、ユーザーの優先言語やアクセス元の地域など、ウェブサイトの動作や外観に関する情報の保持に使用されます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "統計Cookieは、ウェブサイト上でユーザーがとった行動を匿名で収集・報告するもので、ウェブサイトの品質向上に使用されます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーのウェブサイト訪問回数、および初回訪問日と直近の訪問日に関するデータを収集します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーがウェブサイトにアクセスした正確な時刻のタイムスタンプを記録します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーがウェブサイトを離れた正確な時刻のタイムスタンプを記録します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "Google アナリティクスで使用するためのユーザー定義トラッキングパラメータを保存します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの流入元、使用された検索エンジン、クリックされたリンク、使用された検索語に関するデータを収集します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングCookieは、ウェブサイト全体でユーザーをトラッキングするために使用され、ユーザーに関連性が高く興味を引く広告を表示することで、パブリッシャーやサードパーティーの広告主にとっての広告価値を高めます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーとウェブサイト上の広告バナーとの間のコンバージョン率を追跡します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "埋め込みコンテンツに対するユーザーのインタラクションを追跡するために使用されます",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "埋め込みYouTube動画を使用した際のユーザーの動画プレーヤー設定を保存します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube動画が組み込まれたページで、ユーザーの帯域幅を推定しようとします",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが視聴したYouTube動画の統計を保持するために一意のIDを記録します",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "Cookieは、ユーザーがウェブサイトをより効果的に利用するための小さなテキストファイルです",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトの運営に必要不可欠なCookieはユーザーのデバイス上に保存することが法律上認められていますが、その他の種類のCookieの使用にはユーザーの許可が必要です",
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "pass": 1
+   },
+   {
+    "quote": "複合材事業本部は、日東紡グループが展開する複合材用のグラスファイバーを通して「より高い生産性、よりコスト競争力」「より広く社会に貢献する商品・プロセス開発」「より深いお客様との信頼関係構築」を目指し事業活動を行っています",
+    "url": "https://www.nittobo.co.jp/business/compositematerials/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "日東紡では、お客様の製品設計に対するご要望にお答えするために、CAEによる複合材料の設計技術に積極的に取り組んでいます",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   },
+   {
+    "quote": "日東紡ではこのCAEによる設計システムを用いて、お客様の開発製品に最適な強化基材の提供を行っていきます",
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "pass": 1
+   },
+   {
+    "quote": "数種類のガラス組成やtex番手、フィラメント径など日東紡独自の品揃えでお客様のニーズに応えております",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/yarn/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "また、製織に適した表面処理を施し、作業性が良く安定した品質の製品をお客様に提供しております",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/yarn/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "なかでもラージパッケージに巻き上げた超大型ジャンボロービング（150～200kg）は、お客様の作業段取りや糸つなぎ作業を簡略化し、作業効率の向上に寄与する他、均一分散を確保できるため品質向上にも寄与します",
+    "url": "https://www.nittobo.co.jp/business/compositematerials/roving.htm",
+    "pass": 1
+   },
+   {
+    "quote": "その他にも、プリフォーム用・スプレーアップ用・波平板用など幅広い品揃えでお客様のご要望にお応えします",
+    "url": "https://www.nittobo.co.jp/business/compositematerials/roving.htm",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "強みとする技術を軸とし、新しい分野へも挑戦します",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ガラス組成開発とその繊維化技術そして織物加工技術を基に、一貫メーカーの強みを活かしたガラスクロス製品の展開を行っています",
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/pcbcloth/index.htm",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日東紡がよくわかる6つのコト | 日東紡 採用サイト — 日東紡がよくわかる6つのコト | 日東紡 採用サイト 日東紡績株式会社 https://www.nittobo.co.jp > recruiting",
+    "url": "https://www.nittobo.co.jp/recruiting/6things/",
+    "pass": 3
+   },
+   {
+    "quote": "事業・製品｜ 日東紡績 株式会社 — 事業・製品｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > business",
+    "url": "https://www.nittobo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 日東紡績 は『買い』か？ — 次世代通信 ... — 【バフェットの視点】 日東紡績 は『買い』か？ — 次世代通信 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n7b2dd785ae97",
+    "pass": 3
+   },
+   {
+    "quote": "長期ビジョン｜IR情報｜ 日東紡績 株式会社 — 長期ビジョン｜IR情報｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > keiei > vision",
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画（2024-2027年度）｜IR情報 - 日東紡 — 中期経営計画（2024-2027年度）｜IR情報 - 日東紡 日東紡績株式会社 https://www.nittobo.co.jp > keiei > chukei",
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 ｜IR情報｜ 日東紡績 株式会社 — 説明 会 資料 ｜IR情報｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > library > financial_results",
+    "url": "https://www.nittobo.co.jp/ir/library/financial_results.htm",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ 日東紡績 株式会社 — IR情報｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > ...",
+    "url": "https://www.nittobo.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書｜IR情報｜ 日東紡績 株式会社 — 統合報告書｜IR情報｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > library > integrated_report",
+    "url": "https://www.nittobo.co.jp/ir/library/integrated_report.htm",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報｜ 日東紡績 株式会社 — 会社概要｜企業情報｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > corporate > about",
+    "url": "https://www.nittobo.co.jp/corporate/about/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated Report - 日東紡 グループ 統合報告書 — Integrated Report - 日東紡 グループ 統合報告書 日東紡績株式会社 PDF https://www.nittobo.co.jp > pdf > Nittobo_tougouho...",
+    "url": "https://www.nittobo.co.jp/ir/pdf/Nittobo_tougouhoukokusyo_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業 ・製品｜ 日東紡績 株式会社 — 事業 ・製品｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > business",
+    "url": "https://www.nittobo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "日東紡績 【3110】の 事業 内容 - キタイシホン — 日東紡績 【3110】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3110/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜ 日東紡績 株式会社 — 企業情報｜ 日東紡績 株式会社 日東紡績株式会社 https://www.nittobo.co.jp > corporate",
+    "url": "https://www.nittobo.co.jp/corporate/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nittobo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/glassfiber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/ir/news.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/medical/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/compositematerials/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/materialssolution/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/insulationmaterials/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/ir/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/ir/keiei.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/glassfiber/composition.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/glassfiber/process.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/glassfiber/method/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/glassfiber/design.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/corporate/about/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/corporate/history.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/t-glass.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/ne-glass.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/yarn/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/pcbcloth/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/compositematerials/roving.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nittobo.co.jp/news/pdf/20261102_newsrelease.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/news/pdf/20261022_newsrelease.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/news/pdf/20261021_newsrelease.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/news/pdf/20261015_newsrelease.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/news/pdf/asbestos_info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/pdf/recycled-glass-fiber.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/electronicmaterials/images/electronicmaterials01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/medical/images/medical01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/compositematerials/images/compositematerials01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/materialssolution/images/materialssolution01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/insulationmaterials/images/insulationmaterials01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/images/business01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/images/business02.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nittobo.co.jp/business/images/business03.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://chemicaldaily.com/archives/809606",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tohorc.or.jp/cms/rc/wp-content/uploads/2025/09/2510%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%EF%BC%88%E7%AC%AC15%E5%9B%9E%EF%BC%89.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日東紡績",
+   "results": [
+    "https://www.nittobo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9D%B1%E7%B4%A1%E7%B8%BE",
+    "https://www.nikkei.com/nkd/company/?scode=3110",
+    "https://kabutan.jp/stock/?code=3110",
+    "https://minkabu.jp/stock/3110",
+    "https://ja.wikipedia.org/wiki/日東紡績",
+    "https://en.wikipedia.org/wiki/Nitto_Boseki",
+    "https://www.nittobo.co.jp/corporate/about/index.htm",
+    "https://finance.yahoo.co.jp/quote/3110.T",
+    "https://www.nittobo.co.jp/corporate/ataglance/index.htm"
+   ]
+  },
+  {
+   "query": "日東紡績 ビジネスモデル",
+   "results": [
+    "https://www.nittobo.co.jp/recruiting/6things/",
+    "https://www.nittobo.co.jp/business/",
+    "https://note.com/open_azalea2045/n/n7b2dd785ae97",
+    "https://www.nittobo.co.jp/ir/keiei/vision.htm",
+    "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "https://www.nittobo-global-trading.com/",
+    "https://kabu.bridge-salon.jp/nittobo-stock/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqrf&q_no=9",
+    "https://consovation.com/ビジネスモデルを多角展開する日東紡績の成長戦/",
+    "https://shisyonotan.com/wp-content/uploads/2026/06/日東紡績_20260629_Ver3.15.pdf"
+   ]
+  },
+  {
+   "query": "日東紡績 決算説明資料",
+   "results": [
+    "https://www.nittobo.co.jp/ir/library/financial_results.htm",
+    "https://www.nittobo.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3110",
+    "https://www.nittobo.co.jp/ir/library/integrated_report.htm",
+    "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "https://kabutan.jp/stock/finance?code=3110",
+    "https://www.nittobo.co.jp/koukoku/",
+    "https://irbank.net/3110/ir",
+    "https://www.nito.co.jp/IR/library/briefing/",
+    "https://treelazy.com/stock-jp/3110/conference"
+   ]
+  },
+  {
+   "query": "日東紡績 事業系統図",
+   "results": [
+    "https://www.nittobo.co.jp/corporate/about/index.htm",
+    "https://www.nittobo.co.jp/ir/keiei/chukei.htm",
+    "https://www.nittobo.co.jp/ir/pdf/Nittobo_tougouhoukokusyo_2025.pdf",
+    "https://www.nittobo.co.jp/business/",
+    "https://kitaishihon.com/company/3110/business",
+    "https://www.nittobo.co.jp/tech-development/structure-policy.htm",
+    "https://www.nittobo.co.jp/ir/",
+    "https://www.nittobo-global-trading.com/about.htm",
+    "https://www.nittobo.co.jp/sitemap.htm",
+    "https://ja.wikipedia.org/wiki/日東紡績"
+   ]
+  },
+  {
+   "query": "日東紡績 社長 インタビュー",
+   "results": [
+    "https://chemicaldaily.com/archives/809606",
+    "https://tohorc.or.jp/cms/rc/wp-content/uploads/2025/09/2510%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%EF%BC%88%E7%AC%AC15%E5%9B%9E%EF%BC%89.pdf",
+    "https://www.nikkan.co.jp/articles/view/791858",
+    "https://www.minpo.jp/articles/-/105100",
+    "https://www.nittobo.co.jp/corporate/",
+    "https://www.nikkei.com/article/DGXZQOUC246UY0U5A221C2000000/",
+    "https://x.com/Nikkan_BizLine/status/2097318537916199383",
+    "https://senken.co.jp/posts/nittobo-240126",
+    "https://www.sen-i-news.co.jp/seninews/view/?article=420159",
+    "https://the-shashi.com/tse/3110/executives/ceo/hayashi-toshinobu/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）"
+ }
+}

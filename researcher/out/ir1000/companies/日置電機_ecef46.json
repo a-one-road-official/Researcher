@@ -1,0 +1,940 @@
+{
+ "name": "日置電機",
+ "aliases": [],
+ "context": "証券コード6866／電気機器／プライム（内国株式）／2025.12期 売上高40,532百万円 営業利益率16.8%",
+ "researched_at": "2026-11-02T18:26:27.029947+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1935年（昭和10年）6月",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1952年（昭和27年）1月",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1153名（2025年12月31日現在）",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電気計測器の開発、生産、販売・サービス 事業内容 注力市場",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "外部顧客への売上高",
+    "value": "3,505,985 5,846,002 19,423,249 8,366,069 2,129,352 39,270,659",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "3,518,762 6,170,398 20,187,852 8,380,620 2,274,183 40,531,817",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "Googleアナリティクス支援、顧客データ分析サービス、マーケティングリサーチ",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みにより、新規顧客と既存顧客を含めて年間売上を10～ 20％上げていければと考えています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の所在地別では、中国の売上高が前連結会計年度比で大幅に増加し、インド、国内も増加いたしました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "よって、生産実績及び受注実績につきましては製品の分類別情報を、販売実績につきましては製品の分類別情報及び顧客の所在地別情報を記載しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "(b) 顧客の所在地別実績",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率を改善させるため、開発面では、重点市場として捉えております、バッテリー、デバイス、エネルギーの各分野に向けて顧客密着で高付加価値製品の開発を進め、製品を販売してまいります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル営業本部を中心に、顧客管理や販売・プロモーション管理の一元化を図り、効率的な営業活動を展開しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、海外販売子会社を中心にHIOKIブラン ドの浸透を図り売上高を伸長させるとともに、世界中のお客様に安心して当社製品をお使いいただくためのグ ローバルアフターサービス体制の構築に引き続き取り組んでまいります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "「電気計測を通して、お客様の安全で有効なエネルギー活用を促進し、社会の安心と発展に私達が貢献する」",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは言い換えればお客様の創造です",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様を創造するには、日々の仕事の組み合わせを変えることで、必ず生み出せるもの」と繰り返し言っています",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業部門はコロナ禍でお客様の元に行くことができず、在宅勤務をしていました",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "一つ目は「顧客価値の構築」",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様に選ばれる存在になるためにはどうすべきか」「4年後ありたい姿に対して今何をするのか」",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、お客様と共に持続可能な社会の実現に貢献すべく、新しい社会システムを構成する電気自動車（EV/PHEV）やバッテリーといった重要市場に開発資源を集中している",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービストップ",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "Googleアナリティクス支援、顧客データ分析サービス、マーケティングリサーチ",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "支援サービス：",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "既に本社で作成しているイベントスケジュールカレンダーには、展示会やウェビナー、新製品のリリース情報や、営業がローカルで動くイベント、会員サイトの動きなど、全てを網羅して掲載しています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品軸と業界軸に分けて見えるようにされています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、営業担当者は付加価値の高い製品に特化して営業をおこない、仕様だけ見て販売できるような製品はECで売れたらと考えています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス資料ダウンロード",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "ー個別サービスー",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "Adobe Marketo Engage⽀援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "GA4・Marketo連携支援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "Account Engagement ROI向上支援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "Braze支援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "推進支援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "パックサービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "MOps支援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "支援サービス",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 / 製品・サービス",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気計測器の開発、生産、販売・サービス",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、電気測定器事業をサポートするためにその他のサービス等の事業を行っております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "子会社が所在する国以外の東南アジア及びオセアニア市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "韓国市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "インド市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "台湾市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "タイ市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "中東及びアフリカ市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム市場における当社製品の販売",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "よって、生産実績及び受注実績につきましては製品の分類別情報を、販売実績につきましては製品の分類別情報及び顧客の所在地別情報を記載しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "(a) 製品の分類別実績",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率を改善させるため、開発面では、重点市場として捉えております、バッテリー、デバイス、エネルギーの各分野に向けて顧客密着で高付加価値製品の開発を進め、製品を販売してまいります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、海外販売子会社を中心にHIOKIブラン ドの浸透を図り売上高を伸長させるとともに、世界中のお客様に安心して当社製品をお使いいただくためのグ ローバルアフターサービス体制の構築に引き続き取り組んでまいります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度における製品区分別の状況は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "トランプ関税による世界の自動車貿易の混乱を受け、自動車市場向けを主力とするジグ型の実装基板検査装置が大きく低迷した一方、AI向け半導体業界の活況が続いており、前連結会計年度に投入したベアボード検査装置は順調に受注高を伸ばしました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な配電網整備の重要性を背景に、海外市場での需要拡大を目指し、主力機種において基本性能を大きく向上させるモデルチェンジを実施いたしました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、バッテリーの発火事故による社会的問題を背景に、より信頼性の高い検査への需要が増加し、当社製品がそのニーズに応えることで市場から高い評価を獲得いたしました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度は、その中でも成長が期待されるエネルギー分野、デバイス分野、バッテリー分野それぞれに、業界最高性能や業界初の機能を搭載した複数の新製品を投入いたしました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、一部のアナログ製品をデジタルへ転換し、製品の生産性と信頼性を向上させる取り組みを進めております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの資金需要の主なものは、材料費、人件費、新製品開発に必要な研究開発費、営業費用、管理費用及び設備投資資金であります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "「働きがい」向上支援サービス",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は電気計測器の開発、生産、販売・サービスを手掛けるメーカーです",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気計測器メーカーとして、高品質な製品と最高のサービスにより社会に貢献すること",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気計測のソリューションを通じて、お客さまにどのように貢献していくのか",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "取り組みはまだ道半ばですが「技術の組み合わせ方によって新しいアプリケーションの提案ができるんじゃないか」「自分の事業の商品群ではないもので、お客さまにお役立ちできるのではないか」など、若い人たちが主体的に動き出しています",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "「今の世の中DXだよね」ということで、社員が集まって、「Bluetoothのドングルをつくり、複数の製品に付け替えられるようにすればお客さんの価値に繋がるのでは」と興味深い提案が生まれました",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこから派生したチームが開発チームになり、実際に製品化して発売しています",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品は一人生産方式を基本としています",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "その実現に向け、社内で「ソリューション・クリエイター」という言葉を意識的に使っています",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発、生産ライン、および保守サービスなど、あらゆる場面で不可欠であり、産業のマザーツールと呼ばれる電気計測器の専門メーカー",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧ページへ",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "研修サービス",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "マーケティングの最新トレンドを紹介",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介トップ",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "代表挨拶、スローガン、社名の由来の紹介",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "所在地、事業領域、アクセスマップ、役員紹介などの基本情報",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "メンバー紹介",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "各メンバーの専門領域や執筆記事などを紹介",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "パワー・インタラクティブはそのトレーニングパートナーを務めています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "そんなときにリードビジネスゲームを中島から紹介され、貴社に依頼したという経緯です",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "：リードビジネスゲームを体験したことで、拠点の年間販促計画「イベントスケジュールカレンダー」にメール配信が組み込まれたり、販売店との施策に共催ウェビナーがあったりと従来とは違う動きが出ています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、お客さまの属性によって送るメールの種類を変えるとか、販売店向けのマーケティング施策を打っていくといったことが書かれるようになりました",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "販売面では、３月にベトナム子会社を設立し、アジア地域での販売網の強化に取り組んでまいりました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "JMI 7月開講3コースのご紹介",
+    "url": "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営のパートナーとしての『人事プロ』、",
+    "url": "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーティブな組織を目指す同社代表の岡澤様より、その取り組みを紹介していただきました",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのような中、自分の仕事の自慢をしようということで、YouTubeを活用した仕事紹介をしています",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1935年の創業以来、電気計測器の研究開発・生産に取り組んでいる日置電機株式会社（以下、日置電機）",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年にAdobe Marketo Engage（以下、Marketo）を導入し、デジタルマーケティングを推進しています",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の1月からMQLやSQL（Sales Qualified Lead）という用語を使ったリード件数の報告が、全社的に始まりました",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月27日",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年に入社",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年SFAの入替をきっかけに営業部門からマーケティングにジョブチェンジ",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "1935年（昭和10年）6月",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1952年（昭和27年）1月",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度ケース企業：月島機械株式会社",
+    "url": "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、取締役執行役員営業本部長を務めていた私は、営業の総責任者として国内に加え海外営業組織をも担当することになりました",
+    "url": "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1935年に創業し、今年で86年",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年にはイノベーションセンターという施設を本社工場に増設しました",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "1987年、当時社長の新聞記事から企業理念に共感し日置電機に入社",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年取締役に就任",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に専務",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月から代表取締役社長（現任）",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "1935年に創業",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日置電機 株式会社のリード ビジネス ゲーム事例：営業拠点長の ... — 日置電機 株式会社のリード ビジネス ゲーム事例：営業拠点長の ... パワー・インタラクティブ https://www.powerweb.co.jp > 事例",
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機 株式会社 中期経営計画 - EDINET DB — 日置電機 株式会社 中期経営計画 - EDINET DB EDINET DB https://edinetdb.jp > 日置電機株式会社 > IR資料",
+    "url": "https://edinetdb.jp/company/E01999/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機 【6866】のIR 資料 - バフェット・コード — 日置電機 【6866】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6866/library",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機 【6866】の 事業 内容 - キタイシホン — 日置電機 【6866】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機 株式会社 代表取締役 社長 岡澤尊宏氏 インタビュー — 日置電機 株式会社 代表取締役 社長 岡澤尊宏氏 インタビュー JMAマネジメント・インスティチュート https://jmi.jma.or.jp > コラム・インタビュー > 派遣企業の声",
+    "url": "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機 株式会社 - GPTW Japan — 日置電機 株式会社 - GPTW Japan Great Place To Work Japan https://hatarakigai.info > tip > interview",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機 新卒採用サイト – Hioki - 社員紹介 — 日置電機 新卒採用サイト – Hioki - 社員紹介 i-note.jp https://www.i-note.jp > hioki > recruit > people",
+    "url": "https://www.i-note.jp/hioki/recruit/people/index.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業に係る位置付け及びセグメントの関係は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、報告セグメントに含まれない事業セグメントは、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは、電気測定器事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、電気測定器事業の単一セグメントであるため、セグメント別の記載を行っておりません",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、電気測定器事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "生産は国内ですが、海外売上比率は50％以上",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "また、目標とする経営指標の一つであります売上高営業利益率につきましては、当連結会計年度においては20％を目標に掲げてまいりましたが16.8％となり、誠に遺憾ながら目標未達となりました",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率を改善させるため、開発面では、重点市場として捉えております、バッテリー、デバイス、エネルギーの各分野に向けて顧客密着で高付加価値製品の開発を進め、製品を販売してまいります",
+    "url": "https://kitaishihon.com/company/6866/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "研究開発、生産ライン、および保守サービスなど、あらゆる場面で不可欠であり、産業のマザーツールと呼ばれる電気計測器の専門メーカー",
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.hioki.com/ja/our-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hioki.com/ja/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hioki.com/ja/news/detail/id_n1385881",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hioki.com/ja/corporate/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6866/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日置電機",
+   "results": [
+    "https://www.hioki.com/jp-ja/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%BD%AE%E9%9B%BB%E6%A9%9F",
+    "http://www.hioki.com/ja/corporate/outline.html",
+    "https://www.instagram.com/hiokijapan/",
+    "https://www.amazon.co.jp/stores/%E6%97%A5%E7%BD%AE%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BC%88HIOKI%EF%BC%89/page/35633CD0-8F24-4D4F-99E6-596A7941E688",
+    "https://www.i-note.jp/hioki/recruit/index.html",
+    "https://ja.wikipedia.org/wiki/日置電機"
+   ]
+  },
+  {
+   "query": "株式会社日置電機",
+   "results": [
+    "https://www.hioki.com/jp-ja/",
+    "https://www.i-note.jp/hioki/recruit/index.html",
+    "http://www.hioki.com/ja/corporate/outline.html",
+    "https://www.instagram.com/hiokijapan/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%BD%AE%E9%9B%BB%E6%A9%9F",
+    "https://www.youtube.com/watch?v=Iug4Iq_Vx-4",
+    "https://www.openwork.jp/a0C30000002grql/pr/",
+    "https://www.amazon.co.jp/stores/%E6%97%A5%E7%BD%AE%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BC%88HIOKI%EF%BC%89/page/35633CD0-8F24-4D4F-99E6-596A7941E688",
+    "https://metoree.com/companies/562/",
+    "https://ja.wikipedia.org/wiki/株式会社安川電機"
+   ]
+  },
+  {
+   "query": "日置電機 株式会社",
+   "results": [
+    "https://www.hioki.com/jp-ja/",
+    "http://www.hioki.com/ja/corporate/outline.html",
+    "https://www.i-note.jp/hioki/recruit/index.html",
+    "https://www.instagram.com/hiokijapan/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%BD%AE%E9%9B%BB%E6%A9%9F",
+    "https://www.openwork.jp/a0C30000002grql/pr/",
+    "https://metoree.com/companies/562/",
+    "https://www.youtube.com/watch?v=Iug4Iq_Vx-4",
+    "https://ja.wikipedia.org/wiki/日本電気株式会社",
+    "https://ja.wikipedia.org/wiki/日置電機"
+   ]
+  },
+  {
+   "query": "日置電機 ビジネスモデル",
+   "results": [
+    "http://www.hioki.com/ja/our-business",
+    "https://www.powerweb.co.jp/casestudylist/interview-38/",
+    "https://compass.labbase.jp/articles/522",
+    "http://www.hioki.com/ja/our-business/style.html",
+    "https://edinetdb.jp/company/E01999/midterm-plans/",
+    "https://www.i-note.jp/hioki/recruit/business/technology.html",
+    "https://www.openwork.jp/a0C30000002grql/pr/",
+    "https://www.youtube.com/watch?v=FJueBwbYxBk",
+    "https://kitaishihon.com/company/6866/business",
+    "https://ja.wikipedia.org/wiki/日置電機"
+   ]
+  },
+  {
+   "query": "日置電機 決算説明資料",
+   "results": [
+    "http://www.hioki.com/ja/ir/library",
+    "https://www.hioki.com/ja/news/detail/id_n1385881",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6866",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261015/20261015551354.pdf",
+    "https://www.buffett-code.com/company/6866/library",
+    "https://www.ushio.co.jp/jp/ir/library/",
+    "https://www.hoshizaki.com/ir/library",
+    "https://www.hulic.co.jp/ir/library/tanshin/",
+    "https://www.hioki.com/ja/",
+    "https://irbank.net/6866/ir"
+   ]
+  },
+  {
+   "query": "日置電機 事業系統図",
+   "results": [
+    "http://www.hioki.com/ja/corporate/outline.html",
+    "https://kitaishihon.com/company/6866/business",
+    "https://www.i-note.jp/hioki/recruit/about/overview.html",
+    "https://edinetdb.jp/company/E01999/midterm-plans/",
+    "https://www.hioki.com/ja/corporate",
+    "https://files.solidworks.com/casestudies_jpn/pdf/110Hioki_DS.pdf",
+    "https://www.hiokikorea.com/download/system.pdf",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%BD%AE%E9%9B%BB%E6%A9%9F",
+    "https://www.daiichi-kagaku.co.jp/area/maker/hioki/",
+    "https://ja.wikipedia.org/wiki/日置電機"
+   ]
+  },
+  {
+   "query": "日置電機 社長 インタビュー",
+   "results": [
+    "https://jmi.jma.or.jp/column_interview/interview/hioki_okazawa/index.html",
+    "https://hatarakigai.info/tip/interview/20210628_295.html",
+    "https://www.i-note.jp/hioki/recruit/people/index.html",
+    "https://www.kamakuraim.jp/yuibiyori/detail/---id-2081.html",
+    "https://compass.labbase.jp/articles/522",
+    "https://kitaishihon.com/company/6866/board-of-director",
+    "https://the-shashi.com/tse/6866/executives/ceo/okazawa-takahiro/",
+    "https://www.vpj.co.jp/case/detail/interview.html?cid=hioki",
+    "https://special.nikkeibp.co.jp/atclh/ONB/25/hioki0725/",
+    "https://www.facebook.com/hioki.co.jp/posts/5334366613241262/"
+   ]
+  }
+ ],
+ "missing": {}
+}

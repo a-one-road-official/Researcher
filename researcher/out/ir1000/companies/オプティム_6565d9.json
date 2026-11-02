@@ -1,0 +1,2173 @@
+{
+ "name": "オプティム",
+ "aliases": [],
+ "context": "証券コード3694／情報・通信業／プライム（内国株式）／2026.03期 売上高11,732百万円 営業利益率16.8%",
+ "researched_at": "2026-11-02T18:27:35.994607+00:00",
+ "official_url": "https://www.optim.co.jp/",
+ "identified_by": "search:yahoo_jp:オプティム",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1〜500名",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1001名以上",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "433名（2025年4月1日現在）",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2000年",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "ライセンス販売・保守サポートサービス（オプティマル）事業 IoTプラットフォームサービス リモートマネジメントサービス サポートサービス その他サービス",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "デジタルによる顧客接点の構築を支援するサービスを提供",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「時間をかけずスマートフォンだけで簡単に宣伝したい」、「新規顧客を増やしたい」「外国人旅行客にもアプローチしたい」という店舗経営者の課題をまとめて解決します",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客とサービス提供者のやり取りをすべてAI化、自動化を推進し顧客接点のデジタル化を進めます",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初となる、スマホ・タブレットで顧客分析を実現する画像解析ソリューション「OPTiM AI Camera Mobile」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーアプリが不要に、セキュアにWeb画面をリアルタイム共有、「Optimal Remote Web」を発表",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お店とお客様を簡単につなげるクラウドサービス「デジタマ」を発表",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向け顧客接点DXサービス「OPTiM Hardware My Portal」を発表",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・利用者接点のデジタル化プラットフォーム",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客サポートとアップセルをAIで自動化・効率化",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "快適で質の高い顧客体験を技術でサポート――既存MDMからのリプレイスで管理にかかる作業時間は30％以上削減",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "MDMがエンドユーザーの課題を解決",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "出典：ITトレンド年間ランキング2025 電子帳票システム部門ITトレンドでユーザーから最もお問い合わせが多かった製品を発表するランキングです",
+    "url": "https://www.optim.co.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けには、問い合わせへの自動応答・顧客の自己解決支援・AIカメラを活用したマーケティング分析まで、",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客と提供者双方にとって心地よく継続的な関係構築を可能にするAXサービスを幅広く展開しています",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "「時間をかけずスマートフォンだけで簡単に宣伝したい」、「新規顧客を増やしたい」「外国人旅行客にもアプローチしたい」という店舗経営者の課題をまとめて解決します",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客とサービス提供者のやり取りをすべてAI化、自動化を推進し顧客接点のデジタル化を進めます",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "」の拡販を進めることで、顧客単価の向上と売上拡大を図ってまいります",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "MDMによる資産管理に加え、SaaS管理やID管理、物品管理をオールインワンで提供することで顧客単価（ARPU）の向上を図り、「",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーのサポート",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー作成数",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご希望日時を選んで",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiM AIRES（アイレス）では、サービスを通じてお客様が入力されたデータはAIのモデル学習等に利用されない仕組みになっています",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用人数や管理者ユーザー数に制限はありますか？",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiM AIRES（アイレス）では、どのプランでも管理者ユーザー、一般ユーザー共にユーザー数の制限はございません",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムが提供するサービス全体を通じてユーザーがより使いやすく、より分かりやすいUXを提供するためのデザインシステム（nucleus）を構築しています",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "複数のサービスで統一されたUI/UXを提供することで、ユーザーが各サービスを迷うことなく横断して利用することが可能となります",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとってちょっとした簡単な操作でトラブルになってしいます",
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "pass": 1
+   },
+   {
+    "quote": "利用者で自己解決問合せ件数の減少",
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "pass": 1
+   },
+   {
+    "quote": "利用者の増加に伴って、サポートコールは増加します",
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "pass": 1
+   },
+   {
+    "quote": "Optimal Diagnosis & Repairツールはワンストップで自己解決できるため、利用者は、サポートセンタの営業時間さえ気にすることなく、ツールを利用し、ツールを配置するだけでサポートコールを抜本的に減らします",
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムは長年に渡ってお客様のトラブルをソフトウェアで解決してきました",
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "pass": 1
+   },
+   {
+    "quote": "するユーザーに一元化されたダッシュボード、共通したユーザー体験、共通IDでのログインや機能",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コミュニケーションAXサービスでは、企業が顧客と、自治体が住民とのコミュニケーションをデ",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客用ポータルサイトをAIが作成、運用までを自動化することで、顧客満足度向上と売上",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "OPTiM Support & Growth Portal AIが自動的に顧客用ポータルサイトを作成、運用",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客満足度向上と売上拡大を両立するAIカスタマーポータルサービス",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各産業でDX・AXが急速に進展する中、多種多様なユーザーニーズに迅速に対応することが求め",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に移転することから契約期間におけるライセンス使用量に応じて収益を認識しております",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の保守サービス契約については、サービスに対する支配が期間の経過により顧客に移転することから、",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "財・サービスを顧客に提供する義務があります",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たって開発等を行い、財・サービスを顧客に提供する義務があります",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、契約に基づいて商品及び製品を顧客に提供する義務があります",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品の販売契約については、商品又は製品を顧客に引き渡し",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た時点又は顧客が検収し た時点で履行義務が充足 されると判断し、当該時点で収益を認識して おりま",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、商品及び製品の国内販売において、出荷時から当該商品及び製品の支配が顧客に移転され",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形、売掛金及び契約資産のうち、顧客との契約から生じた債権及び契約資産の金額は、「６．収益",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金は、顧客の信用リスクに晒されております",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（取引先企業）の信用リスクに晒されております",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ．信用リスク（取引先の契約不履行等に係るリスク）の管理",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、与信管理規程に従い、営業部門が主要な取引先の状況を定期的にモニタリングし、",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資有価証券については、定期的に時価や発行体（取引先企業）の財務状況等を把握し、取引先企業",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 9,007,557 2,637,446 11,645,004",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 9,092,348 2,639,456 11,731,804",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を理解するための基礎となる情報は、「１．連結計算書類の作成のための基",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の収益は主に商品又は製品の販売であり、顧客との販売契約に基づき商品",
+    "url": "https://www.optim.co.jp/notice/2bPto8ilMQaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を引き渡す一時点において、顧客が当該商品又は製品に対する支配を獲得して充",
+    "url": "https://www.optim.co.jp/notice/2bPto8ilMQaf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の立場に立ち、「ペインポイント」を理解できることが強み",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   },
+   {
+    "quote": "強みは、お客様が困っている点、つまり「ペインポイント」をよく理解している点です",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービストップ",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業別サービス",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布AXサービス（ピンポイントタイム散布サービス）",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン遮光・遮熱剤散布AXサービス",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン播種AXサービス（ドローン打込条播サービス）",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMが手がける主力事業",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "測量や現場業務のAXサービスを提供",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療従事者の業務負担を軽減するAXサービスを提供",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人・端末・クラウドサービスを一元管理し、",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情シスの負荷低減を実現できるAXサービスを提供",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "書類の読み取り・整理・管理を自動化するサービスを提供",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルによる顧客接点の構築を支援するサービスを提供",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・製品",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・サービスを",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ネットを空気に変える」というコンセプトを掲げ、すべての人々が等しくインターネットのもたらす創造性、利便性を享受できるようなサービスの開発に尽力しております",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「OPTiM Biz Premium」は、15年連続No.1 MDMを中心に、端末・SaaS・IDをまとめて管理できる資産管理サービスです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パソコンの遠隔一括設定や資産管理、セキュリティ、幅広い業務をまとめて支援するサービスです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本全国で多数の防除実績がある中山間地域、平地向け・米、大豆、麦向け生産者向けの圃場別デジタル解析によるドローン農薬散布AXサービスです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "適正価格で委託できるスマート農作業代行サービス共同購入サイトです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「OPTiM 文書管理」は、AIを活用して法定文書や稟議書、申請書、許可書、報告書、仕様書、営業車走行記録、マニュアル、議事録などのあらゆる文書を管理するサービスです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用し契約書管理を効率化するサービスです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用して電子帳簿保存法・インボイス制度に対応の上請求書・領収書・注文書などのあらゆる取引情報を一元管理できるサービスです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体のあらゆる情報とサービスを、1つのアプリで住民に提供するためのプラットフォームです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "産業別サービス",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布AXサービス（ピンポイントタイム散布サービス）",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン遮光・遮熱剤散布AXサービス",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン播種AXサービス（ドローン打込条播サービス）",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "産業別サービス",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布AXサービス（ピンポイントタイム散布サービス）",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン遮光・遮熱剤散布AXサービス",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン播種AXサービス（ドローン打込条播サービス）",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ダウンロードプロモーションサービス「i-CM」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ストリーミング動画広告サービス「i7 Streaming Spot」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パソコン向け画面共有製品「Optimal Remote」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "家電検出製品「Optimal HomeLink」のトライアル提供開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初となるAndroid向けリモート製品「Optimal Remote Mobile」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初となるマルチデバイスリモート製品「Optimal Remote Ubiquitous」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初となるAndroid搭載STB（セットボックス）対応リモート製品の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ビジネスソフト使い放題サービス powered by OPTiM」の提供を開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "MDMサービス「Optimal Biz」が3年連続国内シェア実績No.1を達成",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、タブレット向けトータルサービス「タブレット使い放題 powered by OPTiM」を販売開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "テレパシージャパンとウェアラブルソリューション分野で業務提携",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Remote Experience Sharing構想を具現化するVisual Remote Supportサービス「Optimal Second Sight」を建設現場ICTソリューション「スマートコンストラクション」に提供",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「平成28年熊本地震」の支援を目的として、遠隔医療サービス「ポケットドクター」を無償提供",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発によるAI を活かしAIコンサルティングサービスを提供",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内初の遠隔診療・健康相談サービス「ポケットドクター」、全国約150名の専門医から健康相談が受けられる「予約相談」サービスを提供開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "AI・IoTを活用したスマート・ホーム・メディカルサービス「在宅医療あんしんパック」の実証実験を織田病院にて実施",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用した画像解析によるリアルタイム空席検知サービスを発表",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "遠隔診療ポケットドクター、経済産業省推進のIT導入補助金対象サービスに認定",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "産業別サービス",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "撮影した画像からAIが最適なSNS投稿文を自動生成し、店舗の宣伝を手軽に行えるアプリです",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「時間をかけずスマートフォンだけで簡単に宣伝したい」、「新規顧客を増やしたい」「外国人旅行客にもアプローチしたい」という店舗経営者の課題をまとめて解決します",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介 | OPTiM",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT時代に最適化された新型OS「OPTiM Cloud IoT OS」、パートナー向けに提供開始",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを用いた空席検知などのマーケティングと防犯対策を実施する店舗管理支援サービス「Smart Retail Management」を発表",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、“写真を撮るだけ”、AIが最適な店舗宣伝を実現",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービス紹介",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス紹介",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービス紹介",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス紹介",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "電子カルテへの入力、退院時看護サマリー、診療情報提供書（紹介状）——こうした文書作成業務が医師・看護師の時間を大量に消費し、患者ケアに専念できない状況が続いています",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "診療内容をもとに紹介状の下書きをAIが作成",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービス紹介",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス紹介",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "地域医療の連携強化と、AI・IoTを活用した未来型医療の実現へ向けた研究をご紹介します",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービス紹介",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス紹介",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaSビジネスパートナーとしての端末管理の新たな可能性～AIインカムアプリとの融合で現場をもっとスマートに～",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "業務端末の一本化で店舗DXを促進",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービス紹介",
+    "url": "https://www.optim.co.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービス紹介",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "撮影した画像からAIが最適なSNS投稿文を自動生成し、店舗の宣伝を手軽に行えるアプリです",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "「時間をかけずスマートフォンだけで簡単に宣伝したい」、「新規顧客を増やしたい」「外国人旅行客にもアプローチしたい」という店舗経営者の課題をまとめて解決します",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス紹介",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "農場・建設現場・病院など、各産業の現場に入り込み、パートナーとともに課題を解決してきた実績があります",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/investors",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/investors",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.optim.co.jp/investors",
+    "pass": 1
+   },
+   {
+    "quote": "ディレクター紹介",
+    "url": "https://www.optim.co.jp/investors/policy",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン農薬散布の仕事ご紹介サービス",
+    "url": "https://www.optim.co.jp/investors/policy",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "業務端末のセキュリティ強化に加え、SaaSライセンスの意図しない不正利用の防止、SSOによる安全なID運用など、情シス部門の管理業務をオールインワンで支援します",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス契約数",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "清水建設、ワンマン測量アプリ「OPTiM Geo Scan」をコーポレートライセンスで全社導入",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "業務端末のセキュリティ強化に加え、SaaSライセンスの意図しない不正利用の防止、SSOによる安全なID運用など、情シス部門の管理業務をオールインワンで支援します",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "・AX事業のストック売上比率は81.47％と高く、安定したキャッシュフローを創出しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "」を中心としたストック収益基盤の拡大に加え、「",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "」の拡販を進めることで、顧客単価の向上と売上拡大を図ってまいります",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "」を中心としたストック型ビジネスの成長を重視しており、主な指標としてストック売上高やストック売上比率を重視しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期のストック売上高は70.5億円、ストック売上比率は81.47％と高い水準となっております",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "MDMによる資産管理に加え、SaaS管理やID管理、物品管理をオールインワンで提供することで顧客単価（ARPU）の向上を図り、「",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "・将来の成長に向けた投資を継続するため、期初の営業利益計画は一定の保守性を持って策定していたため",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "・ストック売上を中心に売上高が計画を上回って推移し、利益を押し上げたため",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "「総合案内用AIチャットボット構築・運用保守業務委託」の受託候補者として、オプティムが選定されました",
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "pass": 1
+   },
+   {
+    "quote": "これによって、IoTデバイスのトラブルに素早く対応可能となり、ダウンタイムの最小化や保守コストの削減をセキュアかつ簡単に実現可能です",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション・ライセンス管理",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション型製品の販売・契約・請求管理を効率化する機能（OPTiM Store）を有しています",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ライセンス管理機能を統合し、契約が行われた瞬間からサービスの利用を開始することが可能なUXも実現しています",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "15年連続国内シェアNo.１（※２）のMDMサービス「OPTiM Biz」を中心にライセンス数を 伸",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "18万社以上（※３）の圧倒的な市場シェアとストック",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建設・土木AXサービスでは「OPTiM Geo Scan」のライセンス数が順調に増加しています",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、各ライセンスサービスが順調に伸張したことにより、AXサービスにおけるストック売上は",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7,051,687千円（前年同期比5.2%増）となり、ストック比率は81.4%と高水準を維持しており ま",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加価値の商品を提案し、売上単価を向上させる営業手法",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、売上単価を向上させる営業手法",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、予見可能性の高いストック型ビジネスを基盤に安定収益を確保しつつ、成長投",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基本報酬、業績連動報酬及び非金銭報酬としてストック・オプションの付与により構成する",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック・オプションを付与する時期は、取締役会決議により決定する",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の報酬限度額は2018年６月28日開催の第18期定時株主総会において年額600百万円以内（うち",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開催の第24期定時株主総会においてストック・オプション報酬額として年額90百万円以内（社外取締役を",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の報酬限度額は、2009年６月26日開催の第９期定時株主総会において年額10百万円以",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内、別枠で賞与年額３百万円以内と決議いただいております",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手数料 8,590",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ．ストック型収入",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型収入における契約は、契約期間にわたってサービスを提供する義務があります",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益の認識時期について、ライセンス販売契約は、サービスに対する支配がライセンスの使用に伴い",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に移転することから契約期間におけるライセンス使用量に応じて収益を認識しております",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の保守サービス契約については、サービスに対する支配が期間の経過により顧客に移転することから、",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以内のライセンス収益計画の見積りに基づいて資産性を検討し、将来に収益を獲得することが確実と認めら",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る可能性があり、実績として発生したライセンスの収益計上額が見積りと異なった場合、翌連結会計年度の",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型収入",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、ストック型収入のサービスにおいて、契約期間分の対価として顧客から受け取った前受収益",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約負債が増加した主な理由は、ストック型収入のサービス伸長に伴い、収益の認識による減少が前受収益の",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライセンス販売・保守サポートサービス（オプティマル）事業 IoTプラットフォームサービス リモートマネジメントサービス サポートサービス その他サービス",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムの強み",
+    "url": "https://www.optim.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/business/communication/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み | OPTiM",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムの強み",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムの5つの強み",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムが農業・建設・医療・情シスなど多様な産業へAXサービスを高速展開できる理由は、5つの強みにあります",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "全サービスを支える共通基盤から、現場での実践力、業界をまたぐアライアンス、そして一気通貫で事業を担う人材まで——これらが互いに連携することで、他社が容易に追随できない競争優位性を生み出しています",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "長期的な競争優位性を確立",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "各産業の応用技術を守る特許を着実に積み上げており、この知的財産の蓄積こそが他社が容易に追随できない長期的な競争優位性の証です",
+    "url": "https://www.optim.co.jp/capability/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/policy",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/irnews",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/library",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "オプティムの強みについて教えてください",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、当社の強みとして以下を認識しております",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれらの強みを活かし、「AX事業」と「アグリテック事業」を両輪として持続的な企業価値向上を目指しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "アグリテック事業では、サービス提供面積や継続率など事業拡大を示す指標に加え、現在は営業利益率の改善に注目いただきたいと考えています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当事業は成長投資を継続しているため営業損失を計上していますが、2026年3月期の営業利益率は前年の△23.3％から△17.4％へ改善しており、2027年3月期予想も△9.2％まで改善する見込みです",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率も改善傾向にあり、収益構造も改善してきております",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "本事業は粗利率40％程度を想定して設計しており、当社としては数年内の黒字化を見込んでいます",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "また、医療データや農業データなど、インターネット上には存在しない「シークレットビッグデータ」を活用していることも当社の強みです",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "pass": 1
+   },
+   {
+    "quote": "OPTiMの強み",
+    "url": "https://www.optim.co.jp/investors/policy/governance",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを統合した本サービスは、同一プラットフォームで構築されている事が強みであり、利用",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "拡大しましたが、営業利益率は△17.4%（前年同期比5.9pt増）と収益構造は改善しています",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の立場に立ち、「ペインポイント」を理解できることが強み",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   },
+   {
+    "quote": "ーー貴社の強みはどういった点にありますか",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   },
+   {
+    "quote": "強みは、お客様が困っている点、つまり「ペインポイント」をよく理解している点です",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革 | OPTiM",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年〜",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年〜",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年〜",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年〜",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年〜",
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度、ドローン散布AXサービスを中心に全国約3.2万ヘクタール・約13万ヶ所の農地でご活用いただいています",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月8日時点、オプティム調べ",
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年問題（働き方規制）",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年問題",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月16日の土木学会全国大会で発表された施工技術総合研究所による「小規模土工におけるモバイル端末を使用した計測技術の現場適用性と効果検証」により、Geo Scanの測量値の誤差が他社よりも小さいことが示されました",
+    "url": "https://www.optim.co.jp/business/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に187万人",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月19日時点、オプティム調べ",
+    "url": "https://www.optim.co.jp/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月25日、当社集計",
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月1日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月31日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月1日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月31日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月1日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月31日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月1日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月31日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.optim.co.jp/investors/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期のストック売上高は70.5億円、ストック売上比率は81.47％と高い水準となっております",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月16日に支配株主である菅谷 俊二氏から自己株取得を実施し、2026年3月13日に消却しました",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期について、どのように事業へAIの活用をしたのか教えてください",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期では、AI新サービスとして「",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期の営業利益について教えてください",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年６月25日",
+    "url": "https://www.optim.co.jp/irdocs/RWj5x2tFzNiw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年06月11日 13時30分 $FOLDER; 1 ページ （ Tess 1 .50(64) 2 0260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/RWj5x2tFzNiw.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 1ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月９日",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 2ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 3ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 4ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 5ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 6 ページ （ Tess 1 .50(64) 2 0260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 7ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 8ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 9ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 10ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 11ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 12ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月末",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 13ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 14ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 15ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 16ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 17ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 18ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 19ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 20ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 21ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 22ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年05月25日 09時17分 $FOLDER; 23ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月29 日",
+    "url": "https://www.optim.co.jp/notice/stockoption07.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 22 日開催の当社取締役会において、下記の内容の新株予約権を発行する旨を決議いたしま",
+    "url": "https://www.optim.co.jp/notice/stockoption07.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年11 月 13 日",
+    "url": "https://www.optim.co.jp/notice/stockoption07.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2031 年11 月 13 日から2036 年 10 月21 日まで",
+    "url": "https://www.optim.co.jp/notice/stockoption07.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2000年佐賀大学在学中に株式会社オプティムを創業、代表取締役に就任",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "売上成長だけでなく収益構造の改善も進んでおり、将来の黒字化に向けて着実に前進しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率も改善傾向にあり、収益構造も改善してきております",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社は経営理念で掲げる通り、世界の人々に大きく良い影響を与える普遍的なテクノロジー・サービス・ビジネスモデルを創り出すことを目的として事業に取り組んでおり、AI・IoT技術を社会の隅々に行き渡らせ、日本のあらゆる産業を根底から変革する「AXの中核を担う企業」を目指しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "直販・代理店販売など多様なビジネスモデルにも対応しています",
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "pass": 1
+   },
+   {
+    "quote": "型ビジネスモデルにより、高い利益率を生み出しています",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同期比2.7％増）、営業利益は4,995,995千円（前年同期比7.4％増）となり、収益構造はより強固に",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "拡大しましたが、営業利益率は△17.4%（前年同期比5.9pt増）と収益構造は改善しています",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "・AX事業のストック売上比率は81.47％と高く、安定したキャッシュフローを創出しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントを分けた理由を教えてください",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "アグリテック分野が大幅な成長を遂げ、事業全体に占める重要性が高まったため、投資家の皆様に事業の実態や成長状況をより分かりやすくお伝えするべく報告セグメントを「AX事業」と「アグリテック事業」の2区分へと変更しました",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント毎のKPIを教えてください",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、事業の特性に応じてセグメントごとに重視する指標が異なります",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "」を中心としたストック型ビジネスの成長を重視しており、主な指標としてストック売上高やストック売上比率を重視しています",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期のストック売上高は70.5億円、ストック売上比率は81.47％と高い水準となっております",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループはこれまで「オプティマル事業」の単一セグメントとしておりました",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ため、当連結会計年度より報告 セグメントを「AX（AI Transformation）（※１）事業」、「アグリ",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記を踏まえまして、当連結会計年度のセグメント毎の実績は以下の通りです",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、当セグメントは当連結会計年度も増収増益が続き、売上高は9,092,348千円（前年",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、当セグメントは売上高が2,639,456千円（前年同期比52.7％増）と大きく成長しま",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループはこれまで「オプティマル事業」の単一セグメントとしておりましたが、アグリテック分",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "告セグメントを「AX（AI Transformation）事業」、「アグリテック事業」の２区分に変更しております",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 使用人数 前連結会計年度末比増減",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．当連結会計年度よりセグメント区分の変更をしたため、セグメント別の前連結会計年度末比増減は記",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業案内 | OPTiM — 事業案内 | OPTiM OPTiM（オプティム） https://www.optim.co.jp > corporate > outline",
+    "url": "https://www.optim.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "AI・IoT・Roboticsを使って ”稼げる農業”を実現する - オプティム — AI・IoT・Roboticsを使って ”稼げる農業”を実現する - オプティム OPTiM（オプティム） https://www.optim.co.jp > agriculture",
+    "url": "https://www.optim.co.jp/agriculture/",
+    "pass": 3
+   },
+   {
+    "quote": "OPTiM （ オプティム ）｜AIであらゆる産業の未来を創造する — OPTiM （ オプティム ）｜AIであらゆる産業の未来を創造する OPTiM（オプティム） https://www.optim.co.jp",
+    "url": "https://www.optim.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | OPTiM - オプティム — よくあるご質問 | OPTiM - オプティム OPTiM（オプティム） https://www.optim.co.jp > IR情報トップ",
+    "url": "https://www.optim.co.jp/investors/faq",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オプティム の企業情報 - 農業ジョブ — 株式会社 オプティム の企業情報 - 農業ジョブ 農業ジョブ https://agrijob.jp > gosetsu > companies > optim",
+    "url": "https://agrijob.jp/gosetsu/companies/optim",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 | OPTiM — 説明 会 資料 | OPTiM OPTiM（オプティム） https://www.optim.co.jp > IR情報トップ > IRライブラリ",
+    "url": "https://www.optim.co.jp/investors/library/report",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | OPTiM — IRライブラリ | OPTiM OPTiM（オプティム） https://www.optim.co.jp > IR情報トップ",
+    "url": "https://www.optim.co.jp/investors/library",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会動画 | OPTiM — 説明 会動画 | OPTiM OPTiM（オプティム） https://www.optim.co.jp > IR情報トップ > IRライブラリ",
+    "url": "https://www.optim.co.jp/investors/library/video",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明 会動画を公開しました。 | OPTiM — 2026年3月期 決算説明 会動画を公開しました。 | OPTiM OPTiM（オプティム） https://www.optim.co.jp > newsdetail > 20260525-info-02",
+    "url": "https://www.optim.co.jp/newsdetail/20260525-info-02",
+    "pass": 3
+   },
+   {
+    "quote": "オプティム [3694]：2026年3月期 決算説明 会 ... - 日本経済新聞 — オプティム [3694]：2026年3月期 決算説明 会 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260522544505/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 案内 | OPTiM — 事業 案内 | OPTiM OPTiM（オプティム） https://www.optim.co.jp > corporate > outline",
+    "url": "https://www.optim.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | OPTiM - オプティム — 会社概要 | OPTiM - オプティム OPTiM（オプティム） https://www.optim.co.jp > corporate > information",
+    "url": "https://www.optim.co.jp/corporate/information/",
+    "pass": 3
+   },
+   {
+    "quote": "オプティム 【3694】の 事業 内容 - キタイシホン — オプティム 【3694】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3694/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社代表取締役 社長 菅谷 俊二の インタビュー 記事が — 当社代表取締役 社長 菅谷 俊二の インタビュー 記事が OPTiM（オプティム） https://www.optim.co.jp > newsdetail > 20251215-media-01",
+    "url": "https://www.optim.co.jp/newsdetail/20251215-media-01",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 オプティム 代表取締役 社長 菅谷 俊二 — 業界毎特集記事－株式会社 オプティム 代表取締役 社長 菅谷 俊二 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "pass": 3
+   },
+   {
+    "quote": "書籍の紹介 | OPTiM — 書籍の紹介 | OPTiM OPTiM（オプティム） https://www.optim.co.jp > corporate > optim-books",
+    "url": "https://www.optim.co.jp/corporate/optim-books/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オプティム - Facebook — 株式会社 オプティム - Facebook Facebook https://www.facebook.com > optimjpn > posts > こんにち...",
+    "url": "https://www.facebook.com/optimjpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E5%BA%83%E5%A0%B1%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%99%E5%BD%93%E7%A4%BE%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E8%8F%85%E8%B0%B7%E4%BF%8A%E4%BA%8C%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E8%B5%B7%E6%A5%AD%E3%81%BE%E3%81%A7%E3%81%AE%E9%81%93%E3%81%AE%E3%82%8A%E3%82%84%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%90%91%E3%81%8D%E5%90%88%E3%81%84%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94/1536602671192214/",
+    "pass": 3
+   },
+   {
+    "quote": "当社代表取締役 社長 菅谷 俊二の インタビュー 記事が — 当社代表取締役 社長 菅谷 俊二の インタビュー 記事が OPTiM（オプティム） https://www.optim.co.jp > newsdetail > 20250704-media-01",
+    "url": "https://www.optim.co.jp/newsdetail/20250704-media-01",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.optim.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/corporate/directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/business/agriculture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/business/construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/business/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/business/it-department/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/business/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/business/communication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/capability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/irnews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/optim-aires/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/capability/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/products-detail/top/165",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/policy/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/irnews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/irnews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/investors/irnews",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.optim.co.jp/irdocs/RWj5x2tFzNiw.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.optim.co.jp/irdocs/LFwIN87wqqJt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.optim.co.jp/notice/stockoption07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.optim.co.jp/notice/2bPto8ilMQaf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_company_business_outline.jpg.webp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/image_agri_after.png?20261028-06:15:51",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_business_agriculture.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_business_construction.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_business_medical.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_business_it-department.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_business_office-dx.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optim.co.jp/wp-content/uploads/menu_business_communication-dx.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shachomeikan.jp/industry_article/5277",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オプティム",
+   "results": [
+    "https://www.optim.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%86%E3%82%A3%E3%83%A0",
+    "https://www.instagram.com/optim_corporation/",
+    "https://www.facebook.com/optimjpn/?locale=ja_JP",
+    "https://www.nikkei.com/nkd/company/?scode=3694",
+    "https://ja.wikipedia.org/wiki/オプティム",
+    "https://www.optim.co.jp/corporate/information/",
+    "https://optim-net.jp/",
+    "https://www.facebook.com/optimjpn/",
+    "https://www.optimum.net/"
+   ]
+  },
+  {
+   "query": "オプティム ビジネスモデル",
+   "results": [
+    "https://www.optim.co.jp/corporate/outline/",
+    "https://www.optim.co.jp/agriculture/",
+    "https://www.optim.co.jp/",
+    "https://www.optim.co.jp/investors/faq",
+    "https://agrijob.jp/gosetsu/companies/optim",
+    "https://note.com/kusuura/n/n1db522ef814b",
+    "https://jobs.forkwell.com/optim",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C30000008OAKd&q_no=9",
+    "https://www.optim.co.jp/corporate/history/"
+   ]
+  },
+  {
+   "query": "オプティム 決算説明資料",
+   "results": [
+    "https://www.optim.co.jp/investors/library/report",
+    "https://www.optim.co.jp/investors/library",
+    "https://www.optim.co.jp/investors/library/video",
+    "https://www.optim.co.jp/newsdetail/20260525-info-02",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260522544505/",
+    "https://www.optim.co.jp/investors/policy",
+    "https://www.youtube.com/watch?v=Hq3gRDG7Jk8",
+    "https://irbank.net/3694/ir",
+    "https://www.optim.co.jp/investors",
+    "https://edinetdb.jp/company/E30918/presentations/"
+   ]
+  },
+  {
+   "query": "オプティム 事業系統図",
+   "results": [
+    "https://www.optim.co.jp/corporate/outline/",
+    "https://www.optim.co.jp/corporate/information/",
+    "https://kitaishihon.com/company/3694/business",
+    "https://www.optim.co.jp/",
+    "https://www.optim.co.jp/investors/faq",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/optim20230720.pdf",
+    "https://jobs.forkwell.com/optim",
+    "https://www.optim.co.jp/corporate/history/",
+    "https://www.optim.co.jp/ip/patent/",
+    "https://irbank.net/E30918/business"
+   ]
+  },
+  {
+   "query": "オプティム 社長 インタビュー",
+   "results": [
+    "https://www.optim.co.jp/newsdetail/20251215-media-01",
+    "https://shachomeikan.jp/industry_article/5277",
+    "https://www.optim.co.jp/corporate/optim-books/",
+    "https://www.facebook.com/optimjpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E5%BA%83%E5%A0%B1%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%99%E5%BD%93%E7%A4%BE%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E8%8F%85%E8%B0%B7%E4%BF%8A%E4%BA%8C%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E8%B5%B7%E6%A5%AD%E3%81%BE%E3%81%A7%E3%81%AE%E9%81%93%E3%81%AE%E3%82%8A%E3%82%84%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%90%91%E3%81%8D%E5%90%88%E3%81%84%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94/1536602671192214/",
+    "https://www.optim.co.jp/newsdetail/20250704-media-01",
+    "https://x.com/optim_jpn/status/2003390577384267885",
+    "https://asm.asahi.com/article/13948590",
+    "https://www.optim.co.jp/newsdetail/20240202-media-01",
+    "https://www.youtube.com/watch?v=JOLgLxiGnU0",
+    "https://ja.wikipedia.org/wiki/菅谷俊二"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像12件／外部1頁・検索5回）"
+ }
+}

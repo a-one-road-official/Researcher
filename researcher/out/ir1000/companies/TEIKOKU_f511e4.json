@@ -1,0 +1,841 @@
+{
+ "name": "ＴＥＩＫＯＫＵ",
+ "aliases": [],
+ "context": "証券コード6333／機械／プライム（内国株式）／2026.03期 売上高29,091百万円 営業利益率17.1%",
+ "researched_at": "2026-11-02T18:36:21.524797+00:00",
+ "official_url": "https://www.teikokurestaurant.com/",
+ "identified_by": "search:yahoo_jp:TEIKOKU",
+ "profile": {
+  "売上高": [
+   {
+    "label": "外部顧客への売上高",
+    "value": "29,289,194 1,004,191 252,901 30,546,287",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1939年9月12日",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,145人（連結）、328人（単体）（2026年3月31日現在）",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "当社では、ポンプ部だけでなくモータ部も自社で設計、製造できる技術力を持ち、お客様のあらゆる要求仕様に対応できる設計・生産体制をとることでお客様と強い信頼関係を築いています",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先や顧客の与信管理をしたい",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先や顧客データを一元管理できるようにしたい",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット取引先管理サービス C-モニタリング",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先ポートフォリオ分析",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし中谷が目指している「将来も安定的な収益を確保できる取引先を見分ける」となると、見るべきところが多少変わってきます",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の生命線を見抜く",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループを取り巻く環境は、主要顧客である化学業界において、米国では関税政策や金融環境の影響により設備投資は鈍化傾向となり、また中国においても経済低迷により大型プロジェクトの抑制が見られる等、減速感が強まりました",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "そして、顧客、株主、取引先、社員、地域社会など、さまざまなステークホルダーに支えられた信頼があります",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "「当社は化学業界においては高い認知度と信頼をいただいているが、その背景には、創業当初に実績のない後発メーカーでありながら、顧客の声に真摯に向き合い、求められる性能・品質を一つひとつ形にしてきた歴史がある",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした姿勢こそが今日の評価につながっており、当社の強みである『顧客起点の開発力』と『信頼を積み上げる姿勢』は今後も変わることはない",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、国内外の主要展示会への積極的な出展に加え、顧客のニーズを丁寧に汲み取り、それに応える新たな製品・技術の開発に取り組んでいく",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との対話を重ねながら、安全性・信頼性に優れたソリューションを提供し、船舶分野における当社ブランドの浸透と存在感の強化を図っていきたい」",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ＴＥＩＫＯＫＵグループは、主力事業である「ポンプ事業」や特殊機器などの事業を展開し、常に新しい分野の開拓に積極的に取り組んでいます",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主力事業である「ポンプ事業」では、完全無漏洩の「キャンドモータポンプ」を主な製品としています",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "またそれぞれに使用される条件が複雑多岐にわたるため、製品ごとにそれが使用される環境に合わせた設計が求められます",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な製品",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発型企業として様々な製品を生み出しています",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は創業以来、研究開発型の企業として独自の技術によって製品を開発するという姿勢のもと、様々な製品を生み出しています",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "目的からサービスを探す",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧を見る",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "データ連携サービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "企業定点観測サービス SAFETY",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "Webサービス・ツール",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "Webサービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット企業情報サービス COSMOSNET",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット取引先管理サービス C-モニタリング",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "COSMOSNET APIサービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "企業価値評価サービスValue Express",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析サービス HELFECLOUD",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報データ運用サービス DataDrive",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "企業コード付加サービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "財務分析サービス COSMOS1レポート",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービス（総合）",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービス（研修・育成）",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "TDBサーバ証明書発行サービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "TDB電子認証サービス TypeA",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "企業サーチ登録サービス 登録くん",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット決算公告サービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "データサービス",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "TDB電子認証サービスTypeA",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.teikokucp.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.teikokucp.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.teikokucp.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.teikokucp.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.teikokucp.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.teikokucp.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ（当社及び当社の関係会社）は、当社及び子会社12社により構成されており、キャンドモータポンプ、定量ポンプ及びその他ポンプを主な製品とする「ポンプ事業」を中心に、減揺装置用モータ等の製品も取り扱い、事業活動を展開しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "子会社である株式会社協和電機製作所、株式会社帝伸製作所及び上月電装株式会社を外注加工先として、当社が製品を製造し、国内及び一部海外での販売及びアフターサービスを行っております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社製品の海外での販売及びアフターサービスは、台湾では子会社である台湾帝国ポンプ股份有限公司が、シンガポールでは子会社であるTEIKOKU SOUTH ASIA PTE LTD.が、韓国では子会社であるTEIKOKU KOREA CO.,LTD.が、ヨーロッパでは子会社であるTEIKOKU ELECTRIC GmbHがそれぞれ行っており、その他の地域では当社が直接販売しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "米国では子会社であるTEIKOKU USA INC.が、中国では子会社である大連帝国キャンドモータポンプ有限公司他１社が、インドでは子会社であるHYDRODYNE TEIKOKU(INDIA)PVT.LTD.がそれぞれ製品の製造、販売及びアフターサービスを行っておりますが、一部の製品は当社から仕入れております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "子会社である株式会社協和電機製作所及び上月電装株式会社が製造し、当社が製品の販売を行っております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況下、当連結会計年度においては、東南アジアやインド、欧州等が堅調に推移したものの、主要市場である米国と中国において、ケミカル機器キャンドモータポンプやアフターサービスが減少したことや、子会社である株式会社平福電機製作所の事業停止等により、売上高は減少しました",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの製品は、石油化学プラント、ファインケミカル、医薬・食品業界、原子力発電所、変電所など様々な分野で活躍しており、JR新幹線では当社の車両用ポンプが100％採用されております",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、中国大連市に現地法人大連帝国キャンドモータポンプ有限公司を設立し、中国でのキャンドモータポンプの製造・販売体制を確立、アメリカにおいてはキャンドモータポンプを世界で初めて発明したケミポンプ社を買収し、アメリカでの生産・サービス体制の充実を図るなど、海外7カ国（アメリカ、中国、台湾、シンガポール、ドイツ、韓国、インド）に拠点を設立し、海外事業の拡大・強化を推し進めております",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、国内外の主要展示会への積極的な出展に加え、顧客のニーズを丁寧に汲み取り、それに応える新たな製品・技術の開発に取り組んでいく",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との対話を重ねながら、安全性・信頼性に優れたソリューションを提供し、船舶分野における当社ブランドの浸透と存在感の強化を図っていきたい」",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "常石ソリューションズ、自律運航2システムで技術認証取得、社会実装へ前進",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルをつかむ～未来予想図を描くⅠ～｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルをつかむ～未来予想図を描くⅠ～",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "「大きく２つあると思うけど、まずベースとなるのはその会社のビジネスモデルをしっかり把握することじゃないかな",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の将来性を見極める上でまず重要になるのは、中谷が言うようにその会社のビジネスモデルを正しくおさえることです",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社グループの事業系統図は次のとおりであり、図中では前表のキャンドモータポンプ、定量ポンプ及びその他ポンプを一括し、「モータポンプ」として表示しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "したがって、売上高は総額だけでなく事業別の構成比率をつかみ、どの分野がその会社の収益の生命線を握っているのかをおさえることが、その会社の将来性を見極める上で極めて重要になるのです",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月31日をもって、当社グループの電子部品分野を担う子会社である株式会社平福電機製作所の事業を停止したことに伴い、「ポンプ事業」を単一の報告セグメントとしており、その他については量的重要性が乏しいため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度より、当社グループは「ポンプ事業」を単一の報告セグメントとしており、その他の事業については量的重要性が乏しいため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "詳細は、「第５ 経理の状況 １連結財務諸表等 注記事項（セグメント情報等）」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「ポンプ事業」を単一の報告セグメントとしており、その他の事業については量的重要性が乏しいため、「ポンプ事業」に含めて記載しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "「Ⅱ 当連結会計年度（報告セグメントの変更等に関する事項）」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは「ポンプ事業」を単一の報告セグメントとしており、その他の事業については量的重要性が乏しいため、セグメント情報の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "（報告セグメントの変更等に関する事項）",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは従来、報告セグメントを「ポンプ事業」及び「電子部品事業」、報告セグメントに含まない「その他」の３つにセグメントを区分しておりましたが、当連結会計年度より「ポンプ事業」の単一セグメントに変更しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "この変更は、2024年12月31日をもって、当社グループの「電子部品事業」を担う子会社である株式会社平福電機製作所の事業を停止したこと及び、「その他」の量的な重要性が乏しいことから、報告セグメントを「ポンプ事業」の単一セグメントとして一体開示することが、当社グループの経営実態をより適切に反映するものと判断したためであります",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "この変更により、前連結会計年度及び当連結会計年度におけるセグメント情報の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "関連するセグメント名",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "例えば食品加工会社であれば、得意とする加工技術を活かして競争優位性を持っている分野では儲かっていても、他は薄利であったり赤字であったりします",
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "pass": 3
+   },
+   {
+    "quote": "利益面につきましては、主に粗利率の低下等により、営業利益は4,983百万円（同17.7％減）、経常利益は5,444百万円（同13.5％減）となったものの、投資有価証券売却益868百万円及び株式会社平福電機製作所の事業停止等による固定資産売却益140百万円の計上により、親会社株主に帰属する当期純利益は4,341百万円（同13.9％増）となりました",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "― アンモニアやメタノール、液化二酸化炭素（LCO2）などを扱う分野において、「無漏洩」というTEIKOKUの強みはどのような価値を発揮するか",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が強みとする『無漏洩』を前提とした技術は、まさにこの分野の安全性を支える基盤技術だ",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした姿勢こそが今日の評価につながっており、当社の強みである『顧客起点の開発力』と『信頼を積み上げる姿勢』は今後も変わることはない",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業案内 | 会社情報 - TEIKOKU — 事業案内 | 会社情報 - TEIKOKU teikokucp.co.jp https://www.teikokucp.co.jp > 会社情報",
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "BUSINESS｜採用情報 - 帝国不動産 — BUSINESS｜採用情報 - 帝国不動産 帝国不動産 https://teikokufudosan.jp > recruit > new > business",
+    "url": "https://teikokufudosan.jp/recruit/new/business/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株主・投資家向け情報 - TEIKOKU — 決算説明資料 - 株主・投資家向け情報 - TEIKOKU teikokucp.co.jp https://www.teikokucp.co.jp > ... > IR資料室",
+    "url": "https://www.teikokucp.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 株主・投資家向け情報 - TEIKOKU — IR 資料 室 | 株主・投資家向け情報 - TEIKOKU teikokucp.co.jp https://www.teikokucp.co.jp > 株主・投資家向け情報",
+    "url": "https://www.teikokucp.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - 帝国 繊維株式会社 テイセン TEIKOKU SEN-I Co.,Ltd. — IR 資料 - 帝国 繊維株式会社 テイセン TEIKOKU SEN-I Co.,Ltd. 帝国繊維株式会社 https://www.teisen.co.jp > library",
+    "url": "https://www.teisen.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 TEIKOKU 】[6333] 決算 発表や業務・財務情報 | 日経電子版 — 【 TEIKOKU 】[6333] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6333",
+    "pass": 3
+   },
+   {
+    "quote": "創業87年の 帝国 電機製作所が『 TEIKOKU 』へ。社名変更後初 ... — 創業87年の 帝国 電機製作所が『 TEIKOKU 』へ。社名変更後初 ... PR TIMES https://prtimes.jp > 上場企業決算発表",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000164325.html",
+    "pass": 3
+   },
+   {
+    "quote": "TEIKOKU 【6333】の 事業 内容 - キタイシホン — TEIKOKU 【6333】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 - TEIKOKU — 会社概要 | 会社情報 - TEIKOKU teikokucp.co.jp https://www.teikokucp.co.jp > 会社情報",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - 株式会社 テイコク — 組織図 - 株式会社 テイコク 株式会社テイコク https://www.teikoku-eng.co.jp > 会社案内",
+    "url": "https://www.teikoku-eng.co.jp/about/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 ご挨拶 | 会社情報 - TEIKOKU — 社長 ご挨拶 | 会社情報 - TEIKOKU teikokucp.co.jp https://www.teikokucp.co.jp > 会社情報",
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国 電機、4月に「 TEIKOKU 」へ村田 社長 「無漏洩ポンプ — 帝国 電機、4月に「 TEIKOKU 」へ村田 社長 「無漏洩ポンプ 海事プレスONLINE https://www.kaijipress.com > 造船・舶用",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "TEIKOKU 【6333】の 社長 ・役員 - キタイシホン — TEIKOKU 【6333】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6333/board-of-director",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月31日をもって、当社グループの電子部品分野を担う子会社である株式会社平福電機製作所の事業を停止したことに伴い、「ポンプ事業」を単一の報告セグメントとしており、その他については量的重要性が乏しいため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6333/business",
+    "pass": 3
+   },
+   {
+    "quote": "1939年9月12日",
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日の記事一覧",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "アルゴ・アーティス、日本製紙とコスモ石油の導入事例紹介、AIで配船計画作業時間3分の1に",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "漏洩ゼロは単に事故を防ぐだけでなく、燃料そのもののロス削減、設備の寿命延伸、保守コストの低減といった経済的価値も生み出す",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.teikokurestaurant.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.teikokucp.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teikokucp.co.jp/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teikokucp.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6333/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teikokucp.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teikokucp.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TEIKOKU",
+   "results": [
+    "https://www.teikokurestaurant.com/",
+    "https://teikokupumps.com/",
+    "https://www.teikokucp.co.jp/company/profile/",
+    "https://www.instagram.com/teikokurestaurant/",
+    "https://teikokuusa.com/",
+    "https://www.teikoku.co.jp/en/company/profile/",
+    "https://www.yelp.com/biz/teikoku-newtown-square",
+    "https://ja.wikipedia.org/wiki/TEIKOKU",
+    "https://grokipedia.com/page/Yura_Yura_Teikoku",
+    "https://www.teikokucp.co.jp/english/"
+   ]
+  },
+  {
+   "query": "TEIKOKU ビジネスモデル",
+   "results": [
+    "https://www.teikokucp.co.jp/company/business/",
+    "https://www.tdb.co.jp/report/biz-knowledge/hllqhn4i1/",
+    "https://www.jmac.co.jp/case/detail/202606_03.html",
+    "https://teikokufudosan.jp/recruit/new/business/",
+    "https://www.youtube.com/watch?v=N9PLAne1W7o",
+    "https://note.com/open_azalea2045/n/n19c2b48a096b",
+    "https://job.hari-match.com/pages/company/teikokudenki/index.html",
+    "https://english.teikokupump.co.jp/",
+    "https://www.youtube.com/watch?v=PLiqHqTuAbs",
+    "https://ja.wikipedia.org/wiki/TEIKOKU"
+   ]
+  },
+  {
+   "query": "TEIKOKU 決算説明資料",
+   "results": [
+    "https://www.teikokucp.co.jp/ir/library/presentation.html",
+    "https://www.teikokucp.co.jp/ir/library/",
+    "https://www.teisen.co.jp/ir/library.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6333",
+    "https://prtimes.jp/main/html/rd/p/000000006.000164325.html",
+    "https://kitaishihon.com/company/6333/ir-library",
+    "https://www.daikoku.co.jp/ir/library/presentation/",
+    "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL5Z",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240529/20240528510823.pdf",
+    "https://edinetdb.jp/company/E01761/presentations/"
+   ]
+  },
+  {
+   "query": "TEIKOKU 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/6333/business",
+    "https://www.teikokucp.co.jp/company/profile/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240529/20240528510823.pdf",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrKy&q_no=1",
+    "https://www.teikoku-eng.co.jp/about/organization/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6333",
+    "https://prtimes.jp/main/html/rd/p/000000006.000164325.html",
+    "https://job.mynavi.jp/28/pc/search/corp74744/outline.html",
+    "https://www.buffett-code.com/company/6333/",
+    "https://ja.wikipedia.org/wiki/TEIKOKU"
+   ]
+  },
+  {
+   "query": "TEIKOKU 社長 インタビュー",
+   "results": [
+    "https://www.teikokucp.co.jp/company/message/",
+    "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+    "https://kitaishihon.com/company/6333/board-of-director",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC053LB0V00C25A3000000",
+    "https://www.youtube.com/watch?v=PLiqHqTuAbs",
+    "https://www.nikkan.co.jp/articles/view/528870",
+    "https://www.sanics.co.jp/2020/07/teikoku-news.html",
+    "https://www.teikoku-eng.co.jp/notice/9374/",
+    "https://www.mikasa.co.jp/info/info2025121601/",
+    "https://teikokufudosan.jp/news/2990/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

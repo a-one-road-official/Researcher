@@ -1,0 +1,1910 @@
+{
+ "name": "だいわ",
+ "aliases": [],
+ "context": "証券コード6459／機械／プライム（内国株式）／2025.12期 売上高46,920百万円 営業利益率15.9%",
+ "researched_at": "2026-11-02T18:46:15.405812+00:00",
+ "official_url": "https://www.drk.co.jp/",
+ "identified_by": "search:ddgs:google:だいわ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和33年2月1日",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和37年11月28日",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "昭和33年2月1日",
+    "url": "http://drk.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "昭和37年11月28日",
+    "url": "http://drk.co.jp/company/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "469億1千9百万円（2025.12）",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "469億1千9百万円（2025.12）",
+    "url": "http://drk.co.jp/company/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "2,355名（2025.12）",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "2,355名（2025.12）",
+    "url": "http://drk.co.jp/company/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1 冷凍・冷蔵庫、ショーケース、製氷機、自販機及び冷熱応用製品の製造販売並びにリース 2 冷熱機器の設備の工事及び各種部品の製造販売 3 厨房機器、装置、部品の製造販売並びにリース 4 店舗・厨房の企画、設計、施工 5 建築工事業 6 発電及び売電に関する事業 7 前各号に附帯関連する一切の業務",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "1 冷凍・冷蔵庫、ショーケース、製氷機、自販機及び冷熱応用製品の製造販売並びにリース 2 冷熱機器の設備の工事及び各種部品の製造販売 3 厨房機器、装置、部品の製造販売並びにリース 4 店舗・厨房の企画、設計、施工 5 建築工事業 6 発電及び売電に関する事業 7 前各号に附帯関連する一切の業務",
+    "url": "http://drk.co.jp/company/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国ネットワークを活かした迅速なサポート体制により、お客様の事業を長期的に支えます",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼関係を大切にし、長期的なパートナーとして歩み続けます",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に寄り添う現場主義",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに課題解決に取り組みます",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国のお客様とともに事業領域を拡大",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "だいわ株式会社は業務用冷蔵庫や製氷機などコールドチェーン機器、及び店舗機器の製造・販売の事業において、「食の安全と美味しさ」、「省エネ・環境」を追求した製品とサービスの提供で、世界のお客様の顧客満足度向上と、食文化の発展に貢献してまいります",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造・販売・サービスの事業活動を通じ品質向上と顧客満足度向上を図り、食文化の発展に貢献する",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に選ばれる6つの理由",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/events/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/e-public-notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/news/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/news/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/business-report.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/news/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/news/ir/index_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/news/ir/index_3.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.drk.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社を取り巻く環境といたしましては、主要取引先である",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外食産業において、インバウンド需要の回復や顧客単価の上",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もお客様の課題解決に貢献するソリューションの提供に努めてまいります",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社を取り巻く環境といたしましては、主要取引先である外食産業において、インバウンド需要の回復や顧客単",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連する装置の供給を行うOEM取引先として、当社事業の一端を担ってきた重要なパートナーであります",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は創業以来、「顧客のニーズに応える」、「社員の生活向上に努める」、「企業の安定成長をはかる」を掲",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、経営理念である「社会の繁栄に貢献する」をもとに、「顧客のニーズに応える」、「社員の生活向上に",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会や環境、社員や取引先、地域といったステークホルダーを意識し、未来への発展",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、取引先情報や個人情報等の機密情報を保護することは、企業としての信頼の根幹をなすものであり、当社で",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社を取り巻く環境といたしましては、主要取引業種の外食産業にあっては、インバウンドの好調や顧客単価上昇",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 総販売実績に占める割合が10％以上である販売先は、該当ありません",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負荷低減とお客様のSDGs達成に向けた取り組みを支援しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な業種・業態のお客様のニーズに応えてまいります",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は今後とも、ユーザーの視点に立ったデザイン性・機能性に優れた製品開発を進めることで、食の安心・安全",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や作業効率の向上、美味しさの追求といった幅広いお客様のニーズに応え、様々な厨房オペレーションに対応可能な",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のニーズに応えるべく、省エネ性を追求し地球環境に配慮した製品を市場投入するとともに、一層の使い勝手",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コーポレート・ガバナンスとは、株主、顧客、従業員、取引先、地域社会など様々なステークホルダー（利害",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "125,000 125,000 金融機関の取引先として、事業上の関係",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "26,700 26,700 金融機関の取引先として、事業上の関係",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "53,000 53,000 金融機関の取引先として、事業上の関係",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "43,000 43,000 金融機関の取引先として、事業上の関係",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6,000 6,000 主に厨房設備機器事業の取引先として、",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2,000 2,000 主に厨房設備機器事業の取引先として、",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "500 500 主に厨房設備機器事業の取引先として、",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "18,700 － 金融機関の取引先として、事業上の関係",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステップ１：顧客との契約を識別する",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点で顧客が約束した財の支配を獲得し、当社が履行義務を充足するため収益を認識しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン | 製品情報 | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースなど冷熱機器総合メーカー",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮の最先端製品群",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "自然冷媒機器や省エネルギー製品の開発を推進し、環境負荷の低減に貢献",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "確かな経営基盤と長年にわたり培った技術力を強みに、安定した製品・サービスを提供",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "人手不足や省力化、食品ロス削減、環境対応など、現場が抱えるさまざまな課題に向き合い、最適なソリューションを提案",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発・製造・販売・厨房設計・施工・アフターサービスまで一貫して提供する冷熱機器メーカーです",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社工場での製品製造により、高品質な冷熱機器を安定して供給しています",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、特注オーダーメイド機器やオリジナル製品の製造にも対応しています",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国に広がる営業・サービスネットワークにより、導入後の保守やメンテナンスにも迅速に対応します",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "だいわ株式会社の製品とサービスは、多様な業界で導入されています",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスセンター19ヶ所、配送センター3ヶ所、",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "冷凍・冷蔵庫、ショーケース、製氷機、自販機及び冷熱応用製品の製造販売並びにリース",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイワでは地球環境にやさしい製品の開発に挑戦しています",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では主力製品に自然冷媒である「シクロペンタン」を発泡剤としたノンフロン断熱材を採用し、地球温暖化係数890～950を3にまで抑えることに成功しました",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイワでは、風光明媚で緑豊かな自然との共生、地域との共存を目指し、2013年5月に、主力工場である佐伯工場（大分県佐伯市）に太陽光発電システムを設置し、本格的な稼働を始めました",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "だいわ株式会社は業務用冷蔵庫や製氷機などコールドチェーン機器、及び店舗機器の製造・販売の事業において、「食の安全と美味しさ」、「省エネ・環境」を追求した製品とサービスの提供で、世界のお客様の顧客満足度向上と、食文化の発展に貢献してまいります",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造・販売・サービスの事業活動を通じ品質向上と顧客満足度向上を図り、食文化の発展に貢献する",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/events/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/events/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/e-public-notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/e-public-notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/news/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/news/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/news/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/news/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/ir/business-report.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/ir/business-report.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/news/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.drk.co.jp/news/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.drk.co.jp/news/ir/index_2.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン | 製品情報 | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースなど冷熱機器総合メーカー",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼関係を大切にし、長期的なパートナーとして歩み続けます",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 企業情報 | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースなど冷熱機器総合メーカー",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の開業や厨房設備の導入に必要なすべてをトータルプランニングでサポートします",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の業態や規模に合わせた機器選定から、厨房レイアウト設計、機器導入、設置施工、",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の業態や規模に応じて、効率的な厨房レイアウトを設計します",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店、菓子店、生花店、医療施設、学校・給食施設、物流施設、小売店舗 など",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗厨房課2ヶ所、店舗厨房部19ヶ所、",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房の企画、設計、施工",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "だいわ株式会社は業務用冷蔵庫や製氷機などコールドチェーン機器、及び店舗機器の製造・販売の事業において、「食の安全と美味しさ」、「省エネ・環境」を追求した製品とサービスの提供で、世界のお客様の顧客満足度向上と、食文化の発展に貢献してまいります",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/news/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・厨房関連機器",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗用ショーケース",
+    "url": "https://www.drk.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス用エアコン",
+    "url": "https://www.drk.co.jp/ir/governance.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "だいわの強み",
+    "url": "https://www.drk.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特徴・強み | 企業情報 | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースなど冷熱機器総合メーカー",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "1958年の創業以来、冷熱機器の総合メーカーとして培ってきた技術力と豊富な実績を強みに成長を続けてきました",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "確かな経営基盤と長年にわたり培った技術力を強みに、安定した製品・サービスを提供",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国を細かく網羅する直販・サービス網と自社工場による高度な生産・供給システムを強みに、外食産業をはじめとする各種空間の「食の安全・安心」と省エネ・効率化ニーズを足元から力強く支える堅固な事業基盤を確立しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "こうして積み重ねられた企業への信頼感や技術力が、また新たな顧客を呼び込むという繰り返しが大きな強みになっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "だいわの強み",
+    "url": "http://drk.co.jp/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "設計から保守まで一貫対応",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製造、施工、保守メンテナンスまでワンストップで対応",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国に広がる営業・サービスネットワークにより、導入後の保守やメンテナンスにも迅速に対応します",
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "外食産業において、インバウンド需要の回復や顧客単価の上",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社を取り巻く環境といたしましては、主要取引業種の外食産業にあっては、インバウンドの好調や顧客単価上昇",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）金額は販売価額の平均単価によっております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、温度管理やトレーサビリティ確保、遠隔保守等の新たな価値を提供しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役員報酬は、固定報酬である月額報酬及び役員賞与で構成しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の報酬のうち、月額報酬は、職責、経験、能力、実績等を考慮し、役員賞与は、実績、その他定性要因",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の報酬限度額は、2004年３月30日開催の第43期定時株主総会において、年額500,000千円以内と決議さ",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の報酬限度額は、2004年３月30日開催の第43期定時株主総会において、年額30,000千円以内と決議され",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ストック・オプション等関係）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社を取り巻く環境といたしましては、主要取引業種の外食産業にあっては、インバウンドの好調や顧客単価上",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大和冷機工業株式会社は、飲食店やスーパーマーケット、ホテル、病院などのあらゆる店舗・施設で不可欠な業務用冷凍・冷蔵庫やショーケース、製氷機、自販機などの開発・製造・販売および保守・メンテナンスを展開する冷熱機器の独立系大手メーカーです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに保守点検や修理といったアフターサービスからも継続的に収益を得ています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1958年の創業以来、冷熱機器の総合メーカーとして培ってきた技術力と豊富な実績を強みに成長を続けてきました",
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和33年2月1日",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和37年11月28日",
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "歴史・沿革 | 企業情報 | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースなど冷熱機器総合メーカー",
+    "url": "https://www.drk.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月27日",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月28日",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月28日",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月30日",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月30日",
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月1日 2026年6月30日",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 １ 月 １ 日か ら",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 ６ 月30日 ま で",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 １ 月 １ 日か ら",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 ６ 月30日 ま で",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度グッドデザイン賞を受賞",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 ２ 月17日 （火） ～ ２ 月20日 （金） 東京ビ ッ グサイ ト",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 ５ 月20日 （水） ～ ５ 月22日 （金） 幕張メ ッ セ",
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月10日",
+    "url": "https://www.drk.co.jp/news/assets/6bafc510e72ca90e70dd2d1120bb08b5ed479b65.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年12月期の中間配当におきまして、１株当たり30円の普通配当に加えて、１株当たり５円の記念配当を実施",
+    "url": "https://www.drk.co.jp/news/assets/6bafc510e72ca90e70dd2d1120bb08b5ed479b65.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 7 月 1 日",
+    "url": "https://www.drk.co.jp/news/assets/9f4a28522828cc7d56cb545c55287ad4e8c7f708.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月１日から会社名を上記のとおり変更いたしました",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年１月１日～",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月30日 － 51,717 － 9,907,039 － 9,867,880",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月30日現在",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年２月14日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年８月９日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年２月10日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月８日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月23日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月１日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月10日",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 沿革 ……………………………………………………………………………………………………………… 2",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1958年２月 創業者が大阪市生野区において業務用冷蔵庫の製造販売を目的として個人経営で大和冷機工業所を",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1962年11月 業務用冷凍冷蔵庫、冷凍機応用製品の製造販売を目的として、資本金300万円をもって大和冷機工",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1964年11月 大阪市生野区に製造工場を新設し、業務用冷蔵庫の規格品の製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1967年３月 大阪市生野区に本社ビルを新築",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1969年１月 コールドテーブルの製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1970年８月 大分県佐伯市に旧佐伯工場を新設",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1971年１月 オール冷凍庫の製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1973年３月 全自動製氷機の製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1975年８月 大阪市東区大阪国際ビルに本社（本店）を移転",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1977年11月 大型ガラス扉のショーケースの製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1978年９月 東京都千代田区霞が関ビルへ東京支店を移転し、東京本社と改称",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1983年10月 NHガラスを採用し、省エネ効果のあるショーケースの製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1984年１月 ビールディスペンサーの製造販売を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1985年10月 大阪証券取引所の市場第二部特別指定銘柄（新二部）に株式上場",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年11月 大阪府知事許可特定建設業取得",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1987年４月 新工場（現、佐伯工場）建屋完成",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1988年４月 1993年満期スイス・フラン建転換社債を発行",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1989年６月 佐伯工場全面操業を開始",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1989年７月 1994年満期スイス・フラン建転換社債を発行",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1990年６月 大阪証券取引所の市場第二部特別指定銘柄の指定を解除（第二部に昇格）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1991年８月 東京証券取引所の市場第二部に株式上場",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1992年６月 埼玉県加須市豊野台テクノタウンに関東大利根工場を新設",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1992年11月 1996年満期スイス・フラン建新株引受権付社債を発行",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、冷凍冷蔵冷熱機器に係る事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額（千円） 構成比（％）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、単一セグメント、単一事業部門であるため区分表示は行っておりません",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、単一セグメントであるため、品目別の生産・受注及び販売の実績を記載しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社は、冷凍冷蔵冷熱機器に係る事業の単一セグメントであるため、品目別に記載しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、冷凍冷蔵冷熱機器に係る事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "区分 注記番号 金額（千円） 構成比（％） 金額（千円） 構成比（％）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額（千円） 構成比（％） 金額（千円） 構成比（％）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、冷凍冷蔵冷熱機器に係る事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額（千円） 構成比（％）",
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントは飲食店や生花店、和洋菓子店、ホテル、病院、コンビニやスーパーマーケットなど、温度管理が不可欠な領域に広がっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社だいわのビジネスモデル徹底解説 成長戦略を探る | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社だいわのビジネスモデル徹底解説 成長戦略を探る",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした二重の収益モデルが企業の安定経営につながり、研究開発などへの投資資金を生み出す好循環を生んでいることが大きな特徴です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした機会を活かし、安定した収益構造をさらに高めていくことが注目の的となっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社靜甲の成長戦略がスゴイ 魅力あふれるビジネスモデルを解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナガオカの魅力 成長戦略とビジネスモデルを徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日工のビジネスモデルを知って成長戦略を探る",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "中北製作所が挑むビジネスモデルの魅力とは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力満載 株式会社ジャノメのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社不二越の魅力とビジネスモデル解説ブログ",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社モリタホールディングスの魅力とは ビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "セガサミーホールディングスが生み出すビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社だいわのビジネスモデル徹底解説 成長戦略を探る | チームマ... — Feb 19, 2025 · 大和冷機工業では、全国のサービスセンターが迅速に修理や部品交換を実施するため、顧客との信頼関係が築かれやすくなっています。 こうした密接なアフターフォローにより、新規顧客の紹介やリピーターの定着を呼び、事業拡大につながっています。",
+    "url": "https://consovation.com/株式会社だいわのビジネスモデル徹底解説/",
+    "pass": 3
+   },
+   {
+    "quote": "だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースな... — マルチスマートクーラー（牛乳保冷庫）が2026年グッドデザイン賞を受賞しました！",
+    "url": "http://drk.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "だいわ株式会社 中期経営計画 — EDINET DB — Apr 18, 2026 · 商号: 大和冷機工業株式会社、英文名: DAIWA INDUSTRIES LTD.、資本金: 9,907,039,049円、発行済株式総数: 51,717,215株、本社: 大阪市天王寺区、事業内容: 冷凍冷蔵庫、ショーケース、製氷機、自販機および冷熱応用製品の製造販売ならびに保守修理。 従業員数: 2,274名。",
+    "url": "https://edinetdb.jp/company/E01961/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "だいわ株式会社 — IR資料 - EDINET DB — Jun 28, 2026 · EDINET DB > 企業一覧 > だいわ株式会社 > IR資料 だいわ株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。 （証券コード: 64590・業種 ...",
+    "url": "https://edinetdb.jp/company/E01961/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料室 | IR | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷... — 当社のIR情報・投資家向け情報を発信いたします。",
+    "url": "https://www.drk.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷... — 事業内容 1 冷凍・冷蔵庫、ショーケース、製氷機、自販機及び冷熱応用製品の製造販売並びにリース 2 冷熱機器の設備の工事及び各種部品の製造販売 3 厨房機器、装置、部品の製造販売並びにリース 4 店舗・厨房の企画、設計、施工 5 建築工事業",
+    "url": "http://drk.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "だいわ株式会社｜業務用冷蔵庫・冷凍庫、製氷機、冷蔵ショーケースな... — 事業紹介 会社概要 事業所のご案内 特徴・強み 歴史・沿革 サステナビリティ 環境への取組み ふるさと納税制度 SDGsへの取り組み IR IR新着情報 経営方針 IR資料室 ガバナンス IRイベント 電子公告 新着情報一覧 テストキッチン・ショールーム デジタル ...",
+    "url": "http://drk.co.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.drk.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/product/air-conditioner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/strengths.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/business_info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/management-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/e-public-notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/earnings.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/notification.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/business-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/ir/index_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/ir/index_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.drk.co.jp/news/assets/business-66-interim-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/assets/42c9fac00b159cf3af16894c75b979fd02292d8d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/assets/a31a565f62ec4078e9a685b039020d6b93383d2d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/assets/6bafc510e72ca90e70dd2d1120bb08b5ed479b65.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/news/assets/9f4a28522828cc7d56cb545c55287ad4e8c7f708.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/pdf/securities/20260808_securities.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/pdf/securities/4c2806528acd8b8526059495fe645d6104855e09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/ir/pdf/securities/51ff35615d9549df7bd947820ede3a604640b1a0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.drk.co.jp/company/img/business_info/img_flow.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.drk.co.jp/assets/images/modules/header/btn-business-office_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://hd.dowa.co.jp/ja/ir/strategy/business_model.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A0%E3%81%84%E3%82%8F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01961/ir-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiwawa.com/ir/library/presentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://drk.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://drk.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E6%98%8E%E5%BD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8F%8B%E6%B5%A9%E5%97%A3",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "だいわ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/だいわ",
+    "https://www.drk.co.jp/",
+    "https://www.daiwa.co.jp/PCC/HomeTrade/Account/m8301.html",
+    "https://www.daiwa.jp/",
+    "https://www.daiwa.com/jp/",
+    "https://www.daiwa.jp/onlinetrade/",
+    "https://www.daiwa.com/jp/product/productlist?category1=リール",
+    "https://daiwa.us/"
+   ]
+  },
+  {
+   "query": "だいわ ビジネスモデル",
+   "results": [
+    "https://hd.dowa.co.jp/ja/ir/strategy/business_model.html",
+    "https://consovation.com/株式会社だいわのビジネスモデル徹底解説/",
+    "http://drk.co.jp/",
+    "https://edinetdb.jp/company/E01961/midterm-plans/",
+    "https://www.drk.co.jp/news/assets/42c9fac00b159cf3af16894c75b979fd02292d8d.pdf",
+    "https://www.daiwa-grp.jp/ir/toolkit/annualreport/pdf/ar2026/ar2026j_all_04.pdf",
+    "https://hd.dowa.co.jp/ja/ir/news/auto_20250519558059/pdfFile.pdf"
+   ]
+  },
+  {
+   "query": "だいわ 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E01961/ir-docs/",
+    "https://daiwawa.com/ir/library/presentation",
+    "https://www.drk.co.jp/ir/library/",
+    "https://www2.jpx.co.jp/disc/58880/140120250912556959.pdf",
+    "https://www.daiwa-grp.jp/ir/",
+    "https://www.daiwa-grp.jp/ir/toolkit/briefs/",
+    "https://www.daiwahouse.co.jp/ir/financialannouncement/"
+   ]
+  },
+  {
+   "query": "だいわ 事業系統図",
+   "results": [
+    "http://drk.co.jp/company/outline.html",
+    "http://drk.co.jp/",
+    "https://www.bike-daiwa.co.jp/about-us/chart.html",
+    "https://www.daiwa-energy.com/",
+    "https://www.bike-daiwa.co.jp/sp/about-us/chart.html",
+    "https://www.ddk.co.jp/",
+    "https://www.daiwa-energy.com/company/organization_chart.html"
+   ]
+  },
+  {
+   "query": "だいわ 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/荻野明彦",
+    "https://ja.wikipedia.org/wiki/大友浩嗣",
+    "https://www.youtube.com/watch?v=CMfeXxnvB4w",
+    "https://shell-lubes.co.jp/lubes-grease/customer-interview/2682/",
+    "https://cargo-news.online/news/detail.php?id=12549",
+    "https://daiwa358.com/company/",
+    "https://www.logistics.jp/article/logistics-company/item_S005137"
+   ]
+  }
+ ],
+ "missing": {}
+}

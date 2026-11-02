@@ -1,0 +1,2279 @@
+{
+ "name": "光通信",
+ "aliases": [],
+ "context": "証券コード9435／情報・通信業／プライム（内国株式）／2026.03期 売上高734,791百万円 営業利益率15.9%",
+ "researched_at": "2026-11-02T18:33:20.561390+00:00",
+ "official_url": "https://www.hikari.co.jp/",
+ "identified_by": "search:ddgs:yahoo:光通信",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1988年2月5日",
+    "url": "https://www.hikari.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1988年2月5日",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "法人サービス 個人サービス 取次販売",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：6865億53百万円 （2025年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：3,939人 単体：2人 （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都新宿区に携帯電話販売店舗第1号店が開店",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話販売店舗数が全国で1,500店舗",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "直販から代販体制への移行を本格化",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ビジネスパートナー",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用・パートナー募集",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "販売網については、現在約1,000社の代理店が稼働しており、約2万人近い販売スタッフがパートナーとして活動しています",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "主に代理店を活用",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "親会社である株式会社K892が、第三者割当てにより、ＭＢＫパートナーズ又はその関係会社がサービスを提",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "詳細は、公開買付者が公表する「株式会社光通信、MBKパートナーズの投資ファンド及びNECキャピタルソ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本取引は、当社、MBKパートナーズの投資ファンド及び NECキャピタルソリューションの投資ファンドによる",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MBKパートナーズ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MBKパートナーズ及びNECキャピタルソリューションは、それぞれの投資ファンドを通じて出資しま",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社光通信、MBKパートナーズの投資ファンド及びNECキャピタルソリューション株式会社の投資ファン",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公開買付者が2026年９月 14日付で公表した「株式会社光通信、MBKパートナーズの投資ファンド及び",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公開買付けの成立を条件として、第三者割当てにより、ＭＢＫパートナーズ又はその関係会社がサービスを提",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "詳細は、公開買付者が公表する「株式会社光通信、MBK パートナーズの投資ファンド及びNEC キャピタルソ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社光通信、MBK パートナーズの投資ファンド及びNEC キャピタルソリューション株式会社の投資ファン",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開始日前に、光通信、ＭＢＫパートナーズ又はその関係会社（以下「ＭＢＫＰ」と総称します",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "蓄積してきた代理店開拓、営業推進及び代理店管理その他の保険事業に関する知見を活用し、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あすか少短の外部代理店チャネルの拡大や販売力の強化等を支援することで、あすか少短の企",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーズが持つ地域金融機関との広範なリレーションの活用に加え、不動産ファイナンスや再生",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で以上の意思決定のスピードアップや、新たな事業パートナーの連携により事業拡大を行うことが必",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社宅利用であり、光通信グループの関係先や取引先を対象者の法人顧客として紹介することで、これ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "者管理物件を紹介することにより、技能実習制度、育成就労制度及び特定技能制度等を利用して来日",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファンドによる公開買付者親会社、公開買付者及び対象者における取締役及び監査役の指名権を含む",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "若しくは法務等に関するアドバイザーを指名し若しくは承認(事後承認を含む",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社、公開買付者及び対象者における取締役及び監査役の指名権、並びに、 （b）光通信、ＭＢＫＰ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の普及期に、携帯電話販売代理店「HIT SHOP」を全国展開して新規の回線契約者に",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "に携帯電話販売店第1号店を開店",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "5月 - 携帯電話販売店舗数が全国1,500店舗",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "携帯電話販売代理店",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目は法人(特に中小企業)に対して、インターネット回線や電力、店舗予約サイトなどの自社商材を販売する法人サービス、2つ目は個人に対してインターネット回線や宅配水などの自社商材を販売する個人サービス、そして3つ目が、携帯電話やOA機器、保険などといった他社商材の取次販売です",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "また、店舗予約サイトEparkなどといった自社のWebサービスの開発や販売も行っております",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "光通信グループの電力事業は発電設備を保有せず、外部販売パートナー網を活用した低コストな運営体制",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "PPS事業会社7社、販売パートナー約300社、約250人の運営体制で、連結外に約300社・約2,000人の販売ネットワークを有する固定費を抑えたアセットライトモデルを説明",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "高圧・低圧の商品、対面販売・テレマーケティング・WEBの販売手法、工場・病院・大規模施設・中小企業・オフィス・店舗・個人等の顧客属性に合わせ、事業利回りの最適なチャネルで獲得・展開することを示す",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ・提携",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーとの配分は安易に変えず、追加商材提案",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "配当利回り上位10銘柄と含み益・評価損益率上位10銘柄を紹介",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルは自社商材と他社商材があり、代理店を通じた販売が中心",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "強みとして、①ストック型ビジネスモデル（売上収益の78%がストック売上）、②強固な販売体制（法人契約約100万、個人契約約300万、代理店約1,000社）、③高い手元流動性（純現金資産4,402億円）、④企業文化（迅速な意思決定、質素倹約）、⑤独自性（特定対象に依存しない）を挙げている",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "損害保険業・少額短期保険業の例として、通信端末修理費用補償保険と家財保険を紹介",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店販売の拡大に注力し、従業員数は2015年3月末の12,367人から2023年3月末には5,697人に減少（主に代理店へ移行）",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年2月5日",
+    "url": "https://www.hikari.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 株式会社光通信",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月 — 2027年3月",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日（予定）",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月16日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月13日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会（動画）",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月18日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月8日～11日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月1日～4日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月27日～28日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月13日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会（動画）",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月28日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月 — 2026年3月",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月6日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月26日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月25日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月12日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算発表",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明会（動画）",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月23日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月5日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月11日",
+    "url": "https://www.hikari.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月２日",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261102_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月31日",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2046年８月18日まで）",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2047年９月14日まで）",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2048年９月14日まで）",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年９月15日（火曜日）から2026年10月30日（金曜日）まで（30営業日）",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年11月９日（月曜日）",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月１日",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261001_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年９月14 日",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年３月期",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年３月期",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2005年３月の設立以来、東アジア諸国において83件の投資実績を有し、そのうち日本に",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2005年２月に東京証券取引所市",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年４月の東京証券取引所における市場区分の見直しに伴い、東京証券取引所プライム市場に移行",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月29日、対象者より、本意向表明書を受領した旨及び本意向表明書に記載の提案の検討を",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年１月28日、対象者より、対象者のファイナンシャル・アドバイザー及び第三者算定機関とし",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年２月４日、対象者より、公開買付者らによる本コンソーシアムの組成",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月９日、対象者より、対象者における検討プロセスを見直した結果、本コンソーシアムの",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年４月28日、対象者より、本特別委員会において検討した結果、本コンソーシアムの３社によ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月８日、本コンソーシアムの３社は、対象者より、本特別委員会において検討した結果、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月３日の東京証券取引所プライム市場における対象者株式の終値648円に対して54.32％、同",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月13日、本コンソーシアムの３社は、対象者より、本特別委員会において検討した結果、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月７日、本コンソーシアムの３社は、対象者より、本特別委員会において検討した結果、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月19日、本コンソーシアムの３社は、対象者より、本特別委員会において検討した結果、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月28日、本コンソーシアムの３社は、対象者より、本特別委員会において検討した結果、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年３月期にかけて、2027年３月期に役員向け株式交付信託及び従業員向け株式交付信託の清算関",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月26日開催の取締役会における決議により、対象者、本応募予定株主、本不応募予定株主、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年１月15日及び16日に光通信から質問事項に対する回答を受領し、さらに同月22日には、光通信",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "電気・ガス、通信、飲料、保険、金融、ソリューション、取次販売",
+    "url": "https://www.hikari.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "市外電話サービスの回線販売事業を開始",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国際電話サービス回線販売事業を本格化",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話サービス回線販売事業を本格化",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの取次及びPHS端末の販売を開始",
+    "url": "https://www.hikari.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社および当社グループは、商品・サービスの販売後に使用料などに応じた継続的な収入が見込まれるストック事業を中核事業とし、個人および法人のお客様向けに様々な商品・サービスを広く普及させることを通じて、お客様、取引先様、株主様、従業員、社会などステークホルダーに貢献することを目指しております",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "通信回線サービスや付帯サービスの提供",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "損害保険や生命保険、保証サービス等の提供",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロファイナンス等の金融サービスの提供",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客管理システムや決済管理システム等のプラットフォーム及び各種ツールの提供を通じた業種別ソリューションサービスの展開",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "通信キャリア、メーカー等の各種商品の取次販売",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "テレコムサービス株式会社",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品をリリースすると、通信、OA機器、電力などの顧客にクロスセルすることができ、新規事業を加速度的に成⾧させることが可能です",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はウェブを含むさまざまな販売チャネルも持っており、新商品や新規事業を迅速に成⾧させるノウハウがあります",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "商品や事業環境の変化に応じて最適な販売チャネルを活用",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "及び新株予約権を、金融商品取引法（昭和23年法律第25号",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社である株式会社K892が、第三者割当てにより、ＭＢＫパートナーズ又はその関係会社がサービスを提",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "供する投資ファンド、及びＮＥＣキャピタルソリューション株式会社の完全子会社である株式会社ＯＨＡＮＡ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本取引は、当社、MBKパートナーズの投資ファンド及び NECキャピタルソリューションの投資ファンドによる",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NECキャピタルソリューション",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MBKパートナーズ及びNECキャピタルソリューションは、それぞれの投資ファンドを通じて出資しま",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社光通信、MBKパートナーズの投資ファンド及びNECキャピタルソリューション株式会社の投資ファン",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）を、金融商品取引法（昭和23年法律第25号",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法第27条の13第１項の規定に基づき、金融商品取引法施行令（昭和40年政令第321号",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NECキャピタルソリューション株式会社の投資ファンドが共同で運営を行う予定である株式会社K891によ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "び新株予約権を、金融商品取引法（昭和23 年法律第 25 号",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公開買付けの成立を条件として、第三者割当てにより、ＭＢＫパートナーズ又はその関係会社がサービスを提",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "供する投資ファンド、及びＮＥＣキャピタルソリューション株式会社の完全子会社である株式会社ＯＨＡＮＡ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "者）が株式会社光通信（公開買付者の親会社）に行った要請に基づき、金融商品取引法施行令第30 条第１項",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社光通信、MBK パートナーズの投資ファンド及びNEC キャピタルソリューション株式会社の投資ファン",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）を、金融商品取引法（昭和23年法律第25号",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスを提供する投資ファンド（以下「ＭＢＫＰファンド」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業、飲料事業、保険事業、金融事業、ソリューション事業及び取次販売事業を行っております",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＭＢＫＰファンドは、ＭＢＫＰがサービスを提供するファンドの１つです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジー、金融サービス及びヘルスケアの分野を中心に大企業から中堅企業までを対象として投資を行っ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成される企業グループの金融サービス会社として創設されました",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "充実させ、金融サービス会社として提供するソリューション提案の幅を広げています",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループビジョン2030では、ベンダーファイナンス・ＩＣＴ専門サービス・金融プロダクトの３つの",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション領域を特定、各領域を強化・確立し、成長を目指しています",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "専門サービス領域ではＩＣＴに関する豊富な知見を活かした様々なサービス、ＰＦＩ・ＰＰＰ（注12）",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業における専門サービスを提供しています",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ト等の建築請負、営繕工事、社宅代行、不動産仲介、賃料保証、入居者向けブロードバンドサービス、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電力供給サービス、少額短期保険の提供等を行っているとのことです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連サービスを展開しているとのことです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ホーム、グループホーム、デイサービスセンターその他介護関連施設の運営を行っているとのことで",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "少子高齢化の進展を背景として、高齢者向け住宅及び介護サービスに対する社会的ニーズに応え",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他事業においては、主に入居者及び利用者向けサービス、太陽光発電事業その他対象者グルー",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器・設備のリースや不動産ファイナンス等の様々な金融サービスを提供できる可能性があり、ＮＥＣ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "a) 管理物件への取扱サービス導入",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ガス、インターネットサービス・モバイルサービス、ウォーターサーバー、決済代行、保険・保証と",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ネルギーを提供する環境配慮型電力サービスの創設、持続可能な水資源の保護、資源・廃棄物の削減など、積極的に",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金・保険料その他継続課金から、サービス提供原価、顧客維持費用等を控除した利益をいいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に中小企業や個人に対して、通信回線サービスや付帯サービス等の提供を行っております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に中小企業や個人に対して、損害保険や生命保険、保証サービス等の提供を行っております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に中小企業や個人に対して、マイクロファイナンス等の金融サービスの提供を行っております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【ソリューション事業】",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に中小企業に対して、顧客管理システムや決済管理システム等のプラットフォーム等、情報通信サービスを活",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用した各種ツールの提供を通じた業種別ソリューションサービスを展開しております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に中小企業や個人に対して、通信キャリア、メーカー等の情報通信サービス関連商品等の各種商品の取次販売",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社および当社グループは、商品・サービスの販売後に使用料などに応じた継続的な収入が見込まれるストック事業を中核事業とし、個人および法人のお客様向けに様々な商品・サービスを広く普及させることを通じて、お客様、取引先様、株主様、従業員、社会などステークホルダーに貢献することを目指しております",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客管理システムや決済管理システム等のプラットフォーム及び各種ツールの提供を通じた業種別ソリューションサービスの展開",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "我々の強みは、法人顧客約130万社、個人顧客約400万人といった大規模な顧客基盤にあります",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品をリリースすると、通信、OA機器、電力などの顧客にクロスセルすることができ、新規事業を加速度的に成⾧させることが可能です",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "種機器・設備のリースに加え、お客様の様々な経営課題の解決に貢献すべくファイナンスメニューを",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の領域では官公庁自治体、大企業を主要な顧客とする強固な事業基盤を有するとともに、さまざまな",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "身者向け賃貸住宅を提供しており、物件オーナー様、入居者及び法人顧客に対して総合的な住まい関",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他事業においては、主に入居者及び利用者向けサービス、太陽光発電事業その他対象者グルー",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な顧客基盤を有し、施工不備問題及び新型コロナウイルス感染症の影響による業績低迷から、賃料戦",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "光通信グループで取引している法人顧客に、対象者との法人契約を案内することで、新規入居者を",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社宅利用であり、光通信グループの関係先や取引先を対象者の法人顧客として紹介することで、これ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "があることや取引先株主との資本関係が解消することによって取引関係に影響を及ぼす可能性が考え",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おり、取引先との信頼関係も既に一定程度構築していることから、上場廃止によりその社会的信用力",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法人顧客基盤及び外国人向けサービスとの連携を通じた入居率向上、新たな収益源の創出等のシナ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に対象者の構造改革を実施する環境を確保しつつ、公開買付者らの商材、顧客基盤、ネットワーク及",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本取引の実行後、光通信グループの法人顧客、関係先及び取引",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分にアプローチできていなかった法人顧客層への接点を拡大し、新規入居者の獲得及び管理物件の稼",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基盤を通じて相応に確立されていること、並びに本取引後は公開買付者らの資金力、信用力、顧客基",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "者とみずほ証券は一般取引先と同様の取引条件での取引を実施しているため本取引におけるファイナ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、光通信グループのサービス及び顧客基盤を活用することにより、対象者管理物件の付加価値向",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上、新たな収益機会の創出及び入居者満足度の向上が期待できることに加え、法人顧客及び外国人労",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する資金力、信用力、顧客基盤及び経営支援機能を活用できることを踏まえると、これらのデメリッ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レオパレス２１取引先持株会 1.59％",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間においては、自社商材の顧客契約数の増加に伴う将来の安定した収益源となるストック",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ストック利益とは、当社グループが獲得した顧客との契約に基づき、契約期間中に発生する基本契約料金、使用料",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金・保険料その他継続課金から、サービス提供原価、顧客維持費用等を控除した利益をいいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、顧客から直接受領する場合のほか、通信キャリア等から受領する場合があります",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数の増加や販売単価の上昇等により売上収益が伸びた一方、将来の成長",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に向けた投資として顧客獲得に係る費用を計画的に支出したことから、売上収益は83,290百万円（前年同期比29.5",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数が伸びたことにより将来の安定した収益源となるストック利益が増加",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数が伸びたことによるストック利益の増加等により、売上収益は21,765",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数の増加によりストック利益が増加した一方、販売が好調に推移してい",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ることに伴う顧客獲得費用の増加により、売上収益は9,794百万円（前年同期比20.6％増）、営業利益は1,679百万",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に中小企業に対して、顧客管理システムや決済管理システム等のプラットフォーム等、情報通信サービスを活",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション 顧客管理システムや決済管理システム等のプラットフォーム及び各種ツールの提供を通じた業種別ソリューションサービスの展開",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．各報告セグメントの売上収益にはIFRS15号に基づく顧客との契約から認識した収益以外の、その他の源泉か",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "24%7,750顧客保有数の増加等+15%1,925売上高",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_presen.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "例えば光通信はウォーターサーバー事業も行っていますが、これはサーバーを無料で提供し、定期的に天然水を顧客に対して配送することで利益を上げています",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "①顧客基盤が安定しているため、安定的に売上をあげることができる",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "先ほども触れましたが、ストック事業は顧客基盤が安定しているため、安定的な売上に繋がります",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "主な増減理由として顧客保有数の増加、為替差益、受取配当金・利息増加、事業売却益等を記載",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "高圧・低圧の商品、対面販売・テレマーケティング・WEBの販売手法、工場・病院・大規模施設・中小企業・オフィス・店舗・個人等の顧客属性に合わせ、事業利回りの最適なチャネルで獲得・展開することを示す",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電力調達コストは顧客転嫁で対応",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の主導権はエンドユーザーと認識し、顧客基盤へのクロスセル強化",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は拡大余地があり、競争激化に対応するため長期契約・解約率の低い顧客に注力",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・ガス事業のストック利益は顧客数増加による",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電力事業はオーガニックで顧客獲得件数が前期比20%増",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "債権増加は顧客増による売掛金増加",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客獲得コストは1件あたりの基準値を設け低減",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電力事業のスポット市場価格、営業利益、顧客解約率、獲得件数の推移",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術を活用した顧客体験の向上が戦略の柱",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客解約率は減少、獲得件数は前期比13%増",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は中小企業と個人",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "宅配水では潤沢な資金で顧客獲得コストを投下し国内シェアNo.1、電力では取引価格急騰時にM&Aでシェア拡大",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "宅配水市場は成長しており、2010年～2022年の顧客数CAGRは市場全体で7%、ワンウェイ方式では17%",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電力顧客に対し、ガスや付帯サービスをクロスセル・アップセルすることで、安定収益の確保、将来収益の増加、利回りの向上を図る",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・保険事業の顧客獲得が好調",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "主要商品の顧客獲得状況",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "低圧電力、IT、保険の顧客獲得が好調",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客獲得の状況",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "業種の垣根なく安定収益であるストック事業を行う",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社および当社グループは、商品・サービスの販売後に使用料などに応じた継続的な収入が見込まれるストック事業を中核事業とし、個人および法人のお客様向けに様々な商品・サービスを広く普及させることを通じて、お客様、取引先様、株主様、従業員、社会などステークホルダーに貢献することを目指しております",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション） （以下「第２回新株予約権」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプション） （以下「第３回新株予約権」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプション） （以下「第４回新株予約権」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプション） （以下「第６回新株予約権」といい、第２回新株予約権、第３回新株予約権、",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的には、入居率及び稼働家賃単価の向上に向けたエリア戦略の実行、ＤＸ及び人的資本経営の推進に",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、本取引に係るＳＢＩ証券に対する報酬には、本取引の成立等を条件に支払われる成功報酬が",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公開買付者は、報酬の一部を成功報酬とすることには、本取引が不成立と",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、これらのサービスの利用料等の一部を対象者の収益とすることにより、対象者にとって新た",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に支払われる成功報酬が含まれておりますが、対象者は、同種の取引における一般的な実務慣行等も",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引の公表や成立等を条件に支払われる成功報酬は含まれていないとのことです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "条件に支払われる成功報酬は含まれていないとのことです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とする成功報酬は含まれていないとのことです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にかかわらず固定額とされ、本取引の成立等を条件とする成功報酬は含まれていない",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引の成立等を条件に支払われる成功報酬が含まれているものの、対象者は、本取引が不成立となった",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "場合に生じる対象者の金銭的負担が成功報酬を含まない報酬体系に比べて小さい点で対象者にとって",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、プルータスに対する報酬には、本取引の公表や成立等を条件に支払われる成功報酬は含まれ",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬型ストックオプション）（以下「第２回新株予約権」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬型ストックオプション）（以下「第３回新株予約権」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬型ストックオプション）（以下「第４回新株予約権」といいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬型ストックオプション）（以下「第６回新株予約権」といい、第２回新株予約権、第３回新",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間においては、自社商材の顧客契約数の増加に伴う将来の安定した収益源となるストック",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ストック利益とは、当社グループが獲得した顧客との契約に基づき、契約期間中に発生する基本契約料金、使用料",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金・保険料その他継続課金から、サービス提供原価、顧客維持費用等を控除した利益をいいます",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数の増加や販売単価の上昇等により売上収益が伸びた一方、将来の成長",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数が伸びたことにより将来の安定した収益源となるストック利益が増加",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数が伸びたことによるストック利益の増加等により、売上収益は21,765",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間は、顧客契約数の増加によりストック利益が増加した一方、販売が好調に推移してい",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "包括利益純利益税引前利益支払利息受取利息+受取配当金持分法投資損益営業利益ストック利益売上高 含み益増減売却損益",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_presen.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "22%2,015+2%445ストック利益",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_presen.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益獲得コストストック利益売上高",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_presen.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック事業",
+    "url": "https://www.hikari.co.jp/assets/img/business_img001.png",
+    "pass": 2
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "ストック利益",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "ストック事業",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "②についても、例えばウォーターサーバーの場合、業界での平均解約率が約1.5%と非常に低いため、赤字になる心配はほとんどないと言って良いでしょう",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "②長期安定収益であるストック利益を軸としたビジネスモデル",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけ、ウォーターサーバーの事業を中心に、個人サービスでのストック利益が大きく増加しております",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "先ほども触れましたが、ストック事業は顧客基盤が安定しているため、安定的な売上に繋がります",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "ウォーターサーバーの場合、業界として解約率の低い事業であることも一つの要因であると考えられます",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "また、それら多くの事業において、ストック利益を軸としたビジネスを展開しています",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "光通信のHPでもストック事業を中核にしていると公言しており、今後もストック事業を増やし、ますます成長していくのではないかと考えられます",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "- 光通信の事業は多岐に渡っており、ストック利益を軸としたビジネスを展開している",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "- 今後もストック事業を増やしていくと考えられる",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "数年で多くのストック事業を始めた光通信",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "これからも、どんなストック事業を始めていくのだろうかと考えると目が離せませんね！",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "売上高・ストック利益・営業利益・税引前利益・純利益・包括利益の各項目で進捗堅調",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・ガス、通信、飲料、保険、金融、ソリューション、取次販売の各事業別に売上高・ストック利益・獲得コスト・営業利益の前年同期比を開示",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "15年間の業績推移では売上高・ストック利益・営業利益が拡大",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業別損益ではストック利益・営業利益が11%成長",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期予想は売上高・ストック利益・営業利益が過去最高を見込む",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ストック利益は15年で5.7倍に拡大",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "クロスセルによりARPU向上を図る",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ストック利益10%増、営業利益2%増、為替差益除く税引前利益8%増、包括利益2,402億円",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期のストック利益減少は季節要因",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ストック利益のオーガニック成長10%は達成可能と自信",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業利回りは商品単位で管理し、5年間のストック利益を解約率等で算定",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ストック利益のオーガニック成長は年率10%、M&Aで5%上乗せ目標",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー事業のストック利益減少は季節要因",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント - 株式会社光通信",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "「その他事業」の３つを報告セグメントとしているとのことです",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．事業セグメント ……………………………………………………………………………………………12",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＜当期のセグメント別の状況＞",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "詳細は、「注記５．事業セグメント」に記載しております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．事業セグメント",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 報告セグメントの概要",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "険」「金融」「ソリューション」と、他社製品の販売を行う「取次販売」の７つを報告セグメントとしておりま",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各報告セグメントの主な事業内容は以下のとおりであります",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 主な事業内容",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 報告セグメントごとの売上収益、利益または損失、その他の項目の金額の算定方法",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントごとの情報は以下のとおりであります",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、報告セグメントの利益は、営業利",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額には、各セグメントに配分していない全社損益が含まれております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．各報告セグメントの売上収益にはIFRS15号に基づく顧客との契約から認識した収益以外の、その他の源泉か",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電気・ガスセグメントには、IAS第20号に基づく政府補助金363百万円が含まれております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "飲料セグメントには、IFRS第16号に基づくリース収益が含まれております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保険セグメントには、IFRS第17号に基づく保険収益は5,874百万円が含まれており、対応する保険サービス費",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用は4,487百万円、再保険損益（△は損失）△26百万円は保険セグメントのセグメント利益を構成しておりま",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融セグメントには、実効金利法を用いて計算した金利収益を含むIFRS第９号に基づく収益が含まれており",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電気・ガスセグメントには、IAS第20号に基づく政府補助金263百万円が含まれております",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保険セグメントには、IFRS第17号に基づく保険収益は8,420百万円が含まれており、対応する保険サービス費",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用は7,845百万円、再保険損益（△は損失）△11百万円は保険セグメントのセグメント利益を構成しておりま",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年3月期より報告セグメントを変更",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "また、光通信のセグメント別業績において、売上では法人サービスが約半分を占めているものの、営業利益に関してはほとんど偏りがないのが特徴です",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高、ストック利益、獲得コスト、営業利益",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高、ストック利益、獲得コスト、営業利益の前期比増減を示す",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・ガス、通信、飲料、保険、金融、ソリューション、取次販売の各セグメントの状況を説明",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高・ストック利益・獲得コスト・営業利益",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上・ストック利益・獲得コスト・営業利益",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電力小売会社の買収は低圧電力で高圧セグメントに影響なし",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの変更",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "経営体制の変更に伴い、報告セグメントを変更",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上収益とストック利益の前期比",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別営業利益と獲得コスト",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント損益",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "法人サービス、個人サービス、取次販売のセグメント損益",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高・ストック利益・営業利益を前期比で説明",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントを細分化",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "通信は下げ止まり、他セグメントもストック増",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、法人サービスは減収増益（電力取引価格下落、電力M&A効果）、個人サービスは増収増益（電力新プラン適用）、取次販売は減収減益（保険取次事業のオフバランス）",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "主力事業とセグメント",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは取次販売、個人サービス、法人サービスに分かれ、主力事業としてインターネット回線、電力、業種別ITソリューション、保険、宅配水、携帯電話、OA機器等を扱う",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは取次販売、個人サービス、法人サービスに分かれ、主力事業としてインターネット回線、電力、保険、宅配水、携帯電話、OA機器などを扱う",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高と利益を示す",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・ガス、通信、飲料、保険、金融、ソリューション、手数料販売の各セグメントで増収増益",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "電力・ガス、通信、飲料、保険、金融、ソリューション、手数料販売の各セグメントの業績を解説",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aによる売却益の内訳を事業セグメント別に示す",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "強み - 株式会社光通信",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "我々の強みは、法人顧客約130万社、個人顧客約400万人といった大規模な顧客基盤にあります",
+    "url": "https://www.hikari.co.jp/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、強みである販売力を活かし、電気・ガス、通信回線、宅配水、保険、金融といった長期的に安",
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3.光通信の強み",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率についても見ていきましょう",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "光通信は競合他社と比べ、高い営業利益率も出し続けています",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "2017年以降売上を伸ばし、営業利益率も維持できているのは、",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は大手約7％に対し光通信グループPPS約12％",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "大手電力等と比較し、料金反映タイミングや粗利への影響が異なる",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ドル高と米国経済の影響（流動性資産の3分の1がドル建て、事業への影響はほぼなし）、日本の金利上昇による調達環境変化（有利子負債残高は増えない見込み）、エネルギー事業のマージン低下理由（価格改定の影響、第2四半期は前年比10%増）、日本での投資機会（割安な優良企業に集中）、今後5年間で最も成長する事業（電力、シェア1.3%から拡大余地）、電力事業の競争優位性（クロスセル）、非上場化しない理由（純投資目的）、本質的価値（事業価値1.8兆円、純現金資産0.8兆円、合計2.6兆円）、自社株買い（1,000億円枠、慎重に実施）、役員・従業員の株式保有制度（貸付、給与株式払い、ストックオプションなし）",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "強みとして、①ストック型ビジネスモデル（売上収益の78%がストック売上）、②強固な販売体制（法人契約約100万、個人契約約300万、代理店約1,000社）、③高い手元流動性（純現金資産4,402億円）、④企業文化（迅速な意思決定、質素倹約）、⑤独自性（特定対象に依存しない）を挙げている",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "また、対象者のビジネスモデルである一括借",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "所有することにより調達すること等も含めた対象者のビジネスモデルの再検討及び再構築が必要とな",
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.光通信のビジネスモデル",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "を軸としたビジネスモデルを確立しており、安定的に利益を上げています",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "②長期安定収益であるストック利益を軸としたビジネスモデル",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルはコロナ禍のような有事の際も生き残れる戦略であると言えるでしょう",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュフロー圧迫は金融事業の債権増加によるもので、ビジネスモデル上当然",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルは自社商材と他社商材があり、代理店を通じた販売が中心",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "強みとして、①ストック型ビジネスモデル（売上収益の78%がストック売上）、②強固な販売体制（法人契約約100万、個人契約約300万、代理店約1,000社）、③高い手元流動性（純現金資産4,402億円）、④企業文化（迅速な意思決定、質素倹約）、⑤独自性（特定対象に依存しない）を挙げている",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティ方針として、マテリアリティ（重要課題）を①収益構造・リスク分散、②資本効率の追求、③人材育成、④スピード経営と設定",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティ方針として、収益構造・リスク分散、資本効率の追求、人材育成、スピード経営を掲げる",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "光通信 (企業) - Wikipedia — 光通信 (企業) ... 旧HITSHOP 1号店（新宿）現在はナンバーポータビリティー専門店としてリニューアル 株式会社光通信 （ひかりつうしん、 英: HIKARI TSUSHIN,INC.）とは、 東京都 豊島区 西池袋 に本社を置く情報通信業の ホールディングカンパニー。",
+    "url": "https://ja.wikipedia.org/wiki/光通信_(企業)",
+    "pass": 3
+   },
+   {
+    "quote": "【図解】直近10年で伸びた市場に学ぶ、ビジネスアイデア⑨〜光通信〜｜...光通信9435はなぜ高利益を稼げるのか？通信会社から進化した「安定収...事業セグメント - 株式会社光通信光通信 (企業) - Wikipedia光通信の実態を徹底解説！驚きの現実とその裏側｜副業オタクちゃんね... — 光通信の事業は大きく分けて3つあります。1つ目は法人(特に中小企業)に対して、インターネット回線や電力、店舗予約サイトなどの自社商材を販売する法人サービス、2つ目は個人に対してインターネット回線や宅配水などの自社商材を販売する個人サービス、そして3つ目が、携帯電話やOA機器、保険などといった他社商材の取次販売です。 また、光通信のセグメント別業績において、売上では法人サービスが約半分を占めているものの、営業利益に関してはほとんど偏りがないのが特徴です。 光通信はストック利益を軸としたビジネスモデル",
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "pass": 3
+   },
+   {
+    "quote": "光通信9435はなぜ高利益を稼げるのか？通信会社から進化した「安定収... — Aug 1, 2026 · 光通信9435を徹底分析。 通信販売会社から高収益なストック型ビジネス企業へ変化した理由、通信・電力・保険などの収益構造、今後の事業計画、顧客からの評判、株価上昇・下落シナリオまで詳しく解説します。",
+    "url": "https://kurabetter.com/archives/22400",
+    "pass": 3
+   },
+   {
+    "quote": "光通信の実態を徹底解説！驚きの現実とその裏側｜副業オタクちゃんね... — Nov 21, 2024 · 光通信の概要と注目される背景 光通信株式会社は、 1980年に創業 し、国内外で注目を集める通信企業として成長してきました。 創業当初から 通信事業を中心 に据え、モバイル通信やオフィス関連の商材を取り扱い、着実に業績を伸ばしてきました。",
+    "url": "https://note.com/hukugyouotaku/n/n43eab4ef3060",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社光通信のビジネスモデルを徹底解説 成長戦略のポイント | チ... — Jun 8, 2025 · 企業概要と最近の業績大規模言語モデルとして私はまだ学習中であり、そちらについてはお役に立てません。価値提案顧客にとって日常生活やビジネス上で欠かせない電力・ガス、通信回線、宅配水、保険といった幅広いサービスを提供することで、利用者がまとめて...",
+    "url": "https://consovation.com/株式会社光通信のビジネスモデルを徹底解説-成長/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社光通信 決算説明資料 — EDINET DB — 株式会社光通信の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマタグ ...",
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社光通信（9435）適時開示・決算短信 一覧｜毎日更新｜Treelazy — Sep 3, 2026 · 株式会社光通信（9435）の適時開示 9 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/9435/conference",
+    "pass": 3
+   },
+   {
+    "quote": "光通信（9435）のIR情報・決算資料 - IRBANK — Sep 1, 2026 · 光通信（9435）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/9435/ir",
+    "pass": 3
+   },
+   {
+    "quote": "光通信（9435）の決算発表資料一覧 | IRBANK — 光通信（9435）の決算発表資料一覧 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 5 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます",
+    "url": "https://irbank.net/E04948/reports",
+    "pass": 3
+   },
+   {
+    "quote": "光通信 [9435]：2026年3月期 第1四半期決算説明資料 2025年8月13日 (... — 2025年8月13日 光通信 [9435]の開示資料「2026年3月期 第1四半期決算説明資料」 が閲覧できます。資料はPDFでダウンロードできます",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20250808537766/",
+    "pass": 3
+   },
+   {
+    "quote": "地域イントラネット光系統図 - 総務省事業セグメント - 株式会社光通信9435 光通信 | 有報資料 | IRBANKネットワーク構成図【図解でわかる】光回線とは？仕組みから開通までを全て解説！サービ... — 回線系統図は、現行ネットワークを図示したもの及び補助事業で整備した後のネットワークを図示したものの2種類を作成すること。 01 02 40C/0C/0C/36C(2C)/ m※既設の光ファイバーを活用 ソリューション事業 顧客管理システムや決済管理システム等のプラットフォーム及び各種ツールの提供を通じた業種別ソリューションサービスの展開 株式会社EPARK 株式会社シック・ホールディングス (7) 取次販売事業 主に中小企業や個人に対して、通信キャリア、メーカー等の各種商品の取次販売を行っております。 事業系統図 以上述べた事項を事業系統図によって示すと以下のとおりであります。 ",
+    "url": "https://www.soumu.go.jp/main_content/000728460.pptx",
+    "pass": 3
+   },
+   {
+    "quote": "9435 光通信 | 有報資料 | IRBANK — (7) 取次販売事業 主に中小企業や個人に対して、通信キャリア、メーカー等の各種商品の取次販売を行っております。 事業系統図 以上述べた事項を事業系統図によって示すと以下のとおりであります。",
+    "url": "https://irbank.net/E04948/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業概要 - 株式会社光通信 — 事業・純投資 サステナビリティ ガバナンス 投資家情報 決算資料・説明会資料 IRカレンダー 株主総会資料 格付・社債情報 株式事務 採用・パートナー募集 パートナー募集 独立支援制度 採用情報 M&A インターンシップ採用 お問い合わせ プライバシー ...",
+    "url": "https://www.hikari.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント - 株式会社光通信 — ソリューション事業 顧客管理システムや決済管理システム等のプラットフォーム及び各種ツールの提供を通じた業種別ソリューションサービスの展開 株式会社EPARK 株式会社シック・ホールディングス",
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "pass": 3
+   },
+   {
+    "quote": "玉村剛史 - Wikipedia — 玉村 剛史 （たまむら たけし、 1970年 7月16日 - ）は、 日本 の 実業家。 株式会社光通信 代表取締役 社長 兼 COO （2003年6月 - ）。",
+    "url": "https://ja.wikipedia.org/wiki/玉村剛史",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ - 株式会社光通信 — 光通信は創業以来、幾多の商品・サービスをお客様に販売し普及させることにより、 ①お客様の利便性の向上、②パートナー・取引先への貢献、③従業員の生活水準の向上、④光通信の株主価値の向上など、全てのステークホルダーの発展により社会に貢献することに努めております。 大きく ...",
+    "url": "https://www.hikari.co.jp/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "光通信の社長が新卒採用されたばかりの頃1ヶ月でタクシー代32万使いト... — Sep 24, 2024 · 光通信の社長が新卒採用されたばかりの頃1ヶ月でタクシー代32万使いトップセールスに→「ルールに対する向き合い方」について考えさせられる 経済 ルール コンプラ 光通信 ビジネス",
+    "url": "https://togetter.com/li/2439019",
+    "pass": 3
+   },
+   {
+    "quote": "重田康光 (光通信社長)の現在！経歴と資産・嫁と子供 (息子/娘)・自宅... — これを聞いた弁護士の父親は「世間知らずにも程がある」と激怒したのだそうです。 これらの内容は若い頃の重田康光さんがメディアインタビューなどで語られたものです。 重田康光（光通信代表取締役CEO）の経歴② アルバイトでお金を貯め光通信を起業",
+    "url": "https://newsee-media.com/shigeta-yasumitsu",
+    "pass": 3
+   },
+   {
+    "quote": "光通信 役員一覧 | 取締役8名の経歴と選任賛成比率 — Oct 21, 2026 · 1999年11月に常務取締役、2001年11月に取締役副社長へ進み、2003年6月に代表取締役社長となった。 入社から社長就任までは12年である。 2014年10月にはEPARKの代表取締役社長を兼ねた。 2015年3月期の大株主では本人が2.39%を持ち、4位に並んでいる。",
+    "url": "https://the-shashi.com/tse/9435/executives/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hikari.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/settlement/2027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/business_segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari.co.jp/strengths/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261102_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261031_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/news/261001_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260914_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260903_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/news/260901_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_zaimu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/pdf/ir/40th/1st_presen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_img001.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_img002.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_segment_img001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_segment_img002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_segment_img003.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_segment_img004.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_segment_img005.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hikari.co.jp/assets/img/business_segment_img006.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%80%9A%E4%BF%A1_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E04948/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treelazy.com/stock-jp/9435/conference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000728460.pptx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/E04948/business",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%8E%89%E6%9D%91%E5%89%9B%E5%8F%B2",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "光通信",
+   "results": [
+    "https://ja.wikipedia.org/wiki/光通信",
+    "https://ja.wikipedia.org/wiki/光通信_(企業)",
+    "https://zh.wikipedia.org/zh-cn/光通訊",
+    "https://baike.baidu.com/item/光通信/6770706",
+    "https://zhuanlan.zhihu.com/p/113869040",
+    "https://www.hikari.co.jp/outline/",
+    "https://www.hikari.co.jp/"
+   ]
+  },
+  {
+   "query": "光通信 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/光通信_(企業)",
+    "https://note.com/jafcogroup8595/n/n0291857b5432",
+    "https://kurabetter.com/archives/22400",
+    "https://note.com/hukugyouotaku/n/n43eab4ef3060",
+    "https://consovation.com/株式会社光通信のビジネスモデルを徹底解説-成長/",
+    "https://www.hikari.co.jp/business/",
+    "https://www.hikari.co.jp/business_segment/"
+   ]
+  },
+  {
+   "query": "光通信 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E04948/presentations/",
+    "https://treelazy.com/stock-jp/9435/conference",
+    "https://irbank.net/9435/ir",
+    "https://irbank.net/E04948/reports",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250808537766/",
+    "https://www.hikari.co.jp/settlement/2025/",
+    "https://www.hikari.co.jp/assets/pdf/ir/38th/4th_presen.pdf"
+   ]
+  },
+  {
+   "query": "光通信 事業系統図",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000728460.pptx",
+    "https://irbank.net/E04948/business",
+    "https://www.hikari.co.jp/business/",
+    "https://www.hikari.co.jp/business_segment/",
+    "https://crexgroup.com/ja/hikari-kaisen/basics/fiber-internet-structure-onu/",
+    "https://www.soumu.go.jp/soutsu/kinki/service/jigyo/02.pdf",
+    "https://xn--9ckkn6734azp1b.jp/hikarikaisen/"
+   ]
+  },
+  {
+   "query": "光通信 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/玉村剛史",
+    "https://www.hikari.co.jp/greeting/",
+    "https://togetter.com/li/2439019",
+    "https://newsee-media.com/shigeta-yasumitsu",
+    "https://the-shashi.com/tse/9435/executives/",
+    "https://www.hikari.co.jp/",
+    "https://the-shashi.com/tse/9435/decisions/founding-1988/"
+   ]
+  }
+ ],
+ "missing": {}
+}

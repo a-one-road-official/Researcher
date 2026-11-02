@@ -1,0 +1,1449 @@
+{
+ "name": "新晃工業",
+ "aliases": [],
+ "context": "証券コード6458／機械／プライム（内国株式）／2026.03期 売上高59,339百万円 営業利益率15.9%",
+ "researched_at": "2026-11-02T18:33:38.215138+00:00",
+ "official_url": "http://www.sinko.co.jp/",
+ "identified_by": "search:ddgs:google:新晃工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1950年6月16日",
+    "url": "http://www.sinko.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1950年 6月16日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結1,701名、単体770名",
+    "url": "http://www.sinko.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：1,616人 単独：699人 （2024年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "63,000百万円（前連結会計年度比6.2％増）",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：519億4,300万円 単独：282億8,900万円 （2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容について教えてください。",
+    "value": "空調機器の製造、販売を行っています。 詳しくは「 こんなところに！新晃工業 」をご覧ください。",
+    "url": "http://www.sinko.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "空調機器の製作、販売、空調工事の請負施工",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関すること",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品サイトTOP",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品サイトTOP",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を通じた環境負荷低減",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報（国内製品）",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報（海外製品）",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報一覧",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品サイト",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品サイト",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お困りゴト×ご提案｜国内製品サイト｜新晃工業株式会社 -SINKO-",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品サイト",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関すること",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップTOP",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報（海外製品）",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちSINKOは、高い製品力はもちろん、豊富な経験から生まれたノウハウを駆使することで空調にまつわる様々な課題を解決してきた唯一無二の空調エキスパートです",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ビル｜お困りゴト×ご提案｜国内製品サイト｜新晃工業株式会社 -SINKO-",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品サイト",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関すること",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップTOP",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報（海外製品）",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん、省スペース製品であっても品質と性能はしっかり追求しています",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "ワンランク上の品質をお届けするため、日々、空気の研究や製品開発を行っています",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "・ 他社製品からの更新にも対応します",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業｜お困りゴト×ご提案｜国内製品サイト｜新晃工業株式会社 -SINKO-",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品サイト",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関すること",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップTOP",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報（海外製品）",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "データセンター｜お困りゴト×ご提案｜国内製品サイト｜新晃工業株式会社 -SINKO-",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品サイト",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関すること",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップ",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップTOP",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報（海外製品）",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、安定した納期で製品をご提供できることや、搬送時間の短縮、高い対応力も国内生産ならではの利点です",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷に配慮した製品を検討したい",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "CO₂排出量削減など環境に優しい製品づくりを進めています",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス製メインフレームのビス組立式の採用や、外装パネルに塗装レスのガルバリウム鋼板の導入、溶接を極力減らした設計など、30年以上前から継続して環境に優しい製品づくりに取り組んでいます",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "モータ、ファン、風量可変機構を備えたオールインワンの製品を組み込むことにより、省スペース化にも貢献します",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "信頼性の高い製品の開発を支える当施設を是非ご活用ください",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "テレビ朝日のニュースで、当社の体育館空調システム「そよ風アリーナ®」が紹介されました",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が重視するサステナビリティ経営の詳細をご紹介します",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SINKOのご提案をご紹介します",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "エントランス、オフィス、店舗など、ビルを訪れる",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "SINKO 施設紹介",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "使い方紹介映像",
+    "url": "http://www.sinko.co.jp/product/sinko-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "関東地方総代理店として",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "空調と聞いて真っ先に思い浮かぶのは、家庭用のエアコンや、店舗などにあるもう少し大型の業務用エアコンといった「目に触れる空調機器」ではないでしょうか",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "当リスクは随時発生する可能性があるため、当社グループは、新たに事業戦略立案を専門的に担う部門を立ち上げ、優れた戦略・戦術の立案機能を強化し、将来の社会需要及び動向を予測して研究開発を進めるほか、パートナーとの共同開発によって、外部の技術も活用することで製品開発を加速させておりますが、予測を超える需要の変化があった場合は、当社グループの業績及び財務状況に悪影響を及ぼす可能性があります",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会",
+    "url": "https://the-shashi.com/tse/6458/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/tse/6458/executives/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. 日本セグメント：成長に向けた「売る力」の強化",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "3. アジアセグメント：収益性改善への注力",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "アジアセグメントにおいては、依然として厳しい事業環境が続くものと見込まれますが、製品・サービス面での差別化戦略、および品質・製造プロセスの見直しによる原価低減と利益確保に注力し、収益性の改善を最優先に取り組んでまいります",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/finance/performance.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/public.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "http://www.sinko.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント売上",
+    "url": "https://the-shashi.com/tse/6458/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "社外取締役の構成比率（2026/5）",
+    "url": "https://the-shashi.com/tse/6458/executives/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の空間クオリティ向上を全力でサポートいたします",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "全ての利用者が快適に過ごせる空間をつくりたい",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の大切なデータを守るために、",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内生産ならではの安定した納期や価格、高い対応力でお客様のご要望を叶えます!",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "落ち着いた空間でお客様に性能を確認いただくスペースをご用意しております",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "無駄な工事を削減し、かつお客様のご要望にお応えするために、これまで培ってきた技術やアイデアを組み合わせたご提案ができるのがSINKOの強みです",
+    "url": "http://www.sinko.co.jp/product/air-solution/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の施設管理業務をサポートするツールをご用意",
+    "url": "http://www.sinko.co.jp/product/air-solution/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループワンストップ体制を活かし、最新技術や豊富な実績から、​お客様の状況に合わせたステップで伴走いたします",
+    "url": "http://www.sinko.co.jp/product/maintenance/air-clinic/",
+    "pass": 1
+   },
+   {
+    "quote": "全体更新、部分更新などお客様の状況をヒアリングし、",
+    "url": "http://www.sinko.co.jp/product/maintenance/air-clinic/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは研究開発から、顧客のニーズに応える個別受注設計、製造、販売、さらに充実したサービス・メンテナンス体制まで、現場に密着した一貫システムを確立しています",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "建物の特長やお客様からのご要望にきめ細かくお応えするために、柔軟な対応力と高度な技術力を活かし、あらゆる用途や条件に最適な空調機器の設計を行います",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の高度なご要望に細かく対応しながら、品質にこだわった製品を製造しています",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "建築計画スタートの段階から、お客様の様々なご要望に応じて、最適な提案を行います",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の高い専門性に応えるBtoB事業",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "建築計画スタートの段階から、設計事務所、建設会社、設備工事業者等の専門家と打合せを重ね、次に、お客様からのご要望にきめ細かくお応えするために、高度な技術力とノウハウを活かした設計・提案を行います",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、社会、そして社員に対し、「信頼と満足」を普遍的に提供すること",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「豊かな創造力と誇れる品質」を経営理念に掲げ、「地球温暖化防止に貢献する最適な空気質」を社会に提供することで、お客様、社会、そして社員の皆様に「信頼と満足」を普遍的に提供することを使命としております",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、人的資本やDXへの投資を通じて、設計・製造・施工・保守の各機能を強化し、生産性、品質、お客様への提案力を高めていきます",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "その結果として、お客様との長期的な関係価値（LTV）を拡大し、収益力の向上につなげます",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "その実現のためには、単に製品を販売するだけでなく、お客様の課題やニーズを深く理解し、最適なソリューションを提案する営業活動への進化が不可欠です",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの施設は、当社グループの技術力や製品品質、さらにはグループ一貫のバリューチェーンを、お客様に実際に見て、触れて、体感していただくための拠点です",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "施設見学や実機検証を通じて、お客様の潜在的な課題や新たなニーズを発掘し、新製品開発や提案営業、さらにはメンテナンス・更新需要の獲得へとつなげてまいります",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との接点を拡充しながら、データセンター、個別空調、更新・サービス市場をはじめとする重点市場において成長機会を確実に捉え、持続的な業容拡大と企業価値向上を実現してまいります",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用した生産予約システムや顧客向け製品検索サービス「SINKOダイレクト」、二次元コードによるメンテナンス情報アクセスできる「SINKOかざしてメンテ」などを導入し、グループ全体の価値向上と中長期的な発展・収益性向上を目指します",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2027年3月期を最終年度とする中期経営計画「move.2027」におきまして、生産能力の増強、お客様へのサービス性向上、研究開発による付加価値向上などのための成長への投資と挑戦を進めるとともに、株主の皆様に対しましては、2025年3月期より、配当性向の目安を50%、株主資本配当率（DOE）の下限を3.5%とすることを利益配分に関する基本方針としております",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "この他、顧客における部品調達難が工期に影響する可能性があり現場の情報収集と納期調整に努めております",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、事業活動を通して、顧客や取引先の営業上・技術上の機密情報を有しています",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式市況の急激な悪化や取引先の経営破綻等が発生した場合、当該期の損失とすることとなり、当社グループの業績及び財務状況に悪影響を及ぼす可能性があります",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "空調機の保守作業やファンモータ交換はSINKOアトモスが担当",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/04.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/air-solution/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/sinko-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保守情報",
+    "url": "http://www.sinko.co.jp/product/maintenance/air-clinic/",
+    "pass": 1
+   },
+   {
+    "quote": "保守契約・整備工事",
+    "url": "http://www.sinko.co.jp/product/maintenance/air-clinic/",
+    "pass": 1
+   },
+   {
+    "quote": "将来の更新工事、保守点検のメンテナンス計画、",
+    "url": "http://www.sinko.co.jp/product/maintenance/air-clinic/",
+    "pass": 1
+   },
+   {
+    "quote": "24時間稼働の生産施設向けに、耐食性と保守性を兼ね備えた高効率な空調機に対するニーズが高まった",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "空調機器を安心してより長くご使用いただくために、新晃アトモス株式会社では、長年培ってきた経験と高度な技術力を活かし、保守・点検から、劣化診断、整備・更新工事まで、空調機器メーカーならではの充実したアフターサービスをご提供しています",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、人的資本やDXへの投資を通じて、設計・製造・施工・保守の各機能を強化し、生産性、品質、お客様への提案力を高めていきます",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年6月より稼働開始！神奈川工場内に空調機総合実験棟「SINKO AIR DEVELOPMENT LAB」を建設しました",
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年の設立以来、探求心と開発力、柔軟な対応力を活かし、空調機のリーディングカンパニーとして日本の経済成長を支えてきました",
+    "url": "http://www.sinko.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年6月16日",
+    "url": "http://www.sinko.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年建築基準法施行とともに現場施工の工期短縮、建築の品質向上が進展する",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年以降には、国内独自の技術が生まれ、海外と同レベルに達した",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1964年の東京オリンピックに象徴される高度経済成長期を迎え、自動車・電機に代表される工業製品とともに建築や空調分野も大きく発展した",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年にはオイルショックによるエネルギーコストの高騰から、建築設備設計に省エネルギー対策が取り入れられた",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年以降のオフィスビル向け空調では、VAV可変風量やCO",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年には塗装不要のガルバリウム鋼板を全ての空調機外板に採用し、製造過程において二酸化炭素排出量の削減を行い、いち早く時代の要請に応えた",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月、当社グループは中期経営計画「move.2027」（2025年3月期～2027年3月期）を発表しました",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度事業環境と業績について",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、大型再開発を含むビル空調や国内製造拠点に納める産業空調、データセンター投資など、当社グループの主要市場は引き続き堅調な需要に支えられ、管工事設備工事会社の受注高も高水準で推移しました",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月からは、設計・製造指示をデジタル化する新生産システムを運用開始し、リードタイム短縮と品質向上を目指し、属人的生産からの脱却や製販業務最適化を進めます",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度から、豊富なデジタル資産を活用し、事業機会拡大を目指すDX構想「SWA」を始動します",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月 代表取締役社長",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（令和9年3月期）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算補足説明資料",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（令和8年3月期）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算補足説明資料",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算補足説明資料",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算補足説明資料",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算補足説明資料",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（令和7年3月期）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算補足説明資料",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（令和6年3月期）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期決算短信〔日本基準〕(連結)",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期決算短信〔日本基準〕(連結)",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（令和5年3月期）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算短信〔日本基準〕（連結）",
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期(予想)",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期の期首に当該株式分割が行われたと仮定して、一株当たり配当金を算定しております",
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年に大阪証券取引所市場第2部、2012年に大阪証券取引所市場第1部、2013年には東京証券取引所と大阪証券取引所の株式市場統合により東京証券取引所市場第1部に上場、そして2022年に東京証券取引所プライム市場へ移行いたしました",
+    "url": "http://www.sinko.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2021 年 3 ⽉ 10 ⽇",
+    "url": "http://www.sinko.co.jp/company/history/pdf/20210310_news_product_ocoogeo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年2月",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1985年8月1日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和25年6月 - 業務用冷暖房機器の製造販売を目的として会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和40年8月 - 東日本の生産拠点として、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和51年1月 - 新晃空調サービス株式会社(現 新晃アトモス株式会社(連結子会社))を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和51年12月 - 日本ビー・エー・シー株式会社(連結子会社)を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和56年3月 - 西日本の生産拠点として、岡山県津山市に岡山新晃工業株式会社(現 新晃空調工業株式会社本社・岡山工場(連結子会社))を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和60年8月1日 -",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "昭和62年5月 - 合弁会社上海新晃空調設備有限公司を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "平成7年1月 - 新晃アトモス株式会社の出資により、ガス系消火設備の設計・施工等を目的とした新晃テクノス株式会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "平成8年3月 - 建築用資材事業を目的とした株式会社サン・マテックを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "無駄な工事を削減し、かつお客様のご要望にお応えするために、これまで培ってきた技術やアイデアを組み合わせたご提案ができるのがSINKOの強みです",
+    "url": "http://www.sinko.co.jp/product/air-solution/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "太平洋戦争勃発により、1942（昭和17）年に創業わずか4年足らずで業務停止という苦難に直面しながらも、1950（昭和25）年に新晃工業㈱を設立、卓越した開発力と柔軟な対応力を強みに、業務用空調機器のトップメーカーとして日本の高度経済成長を支えてきました",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "産業分野においては、グローバル化の進展と激しい国際競争のなかで、依然として日本に強みのある電子デバイスなどの分野では大きな影響力を保持していた",
+    "url": "http://www.sinko.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "こんなところが強み！",
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、持続的な成長と競争優位性の確立を目指し、ものづくりにおけるデジタル技術革新に積極的に取り組んでおります",
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "pass": 1
+   },
+   {
+    "quote": "市場において競争優位を保持するためには、社会の需要に即した製品開発が不可欠です",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライヤーとの情報連携を密にして在庫の確保に努めるほか、一部製品はモジュール化を進めることで調達部品点数を減らし部品調達難への対応を進めております",
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新晃工業 - Wikipedia — 新晃工業 ... 新晃工業株式会社 は、 大阪市 北区 に本社を置く空調機器の製作、販売をする会社である。 特にセントラル空調機器の分野では、国内シェアの40%を占めるトップメーカーである。",
+    "url": "https://ja.wikipedia.org/wiki/新晃工業",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業株式会社 -SINKO- 空気をデザインする会社 — 新晃工業のコーポレートサイトです。 当社は、空調機（AHU）・ヒートポンプ空調機・データセンター空調機・ファンコイルユニット（FCU）など業務用空調機器の開発・設計・製造・販売を行う、空調機器の総合メーカーです。",
+    "url": "http://www.sinko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析：新晃工業（6458） | ざっくり投資術 — Feb 2, 2026 · 新晃工業は、日本のビル・産業・データセンター向け業務用空調機で高いシェアと高い利益率を持つ、ニッチな高収益メーカー。 2021〜2025年で売上は順調に成長し、営業利益率は17％台、ROEは12％台まで改善。 ネットキャッシュで財務も堅固。",
+    "url": "https://blog.chart62.com/business-analysis-202601-6458/",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業 - 株式会社フィスコ — 同社、新晃空調工業、岡山新晃工業が、共同でISO9001認証を取得。 タイにSINKO SALES (THAILAND) CO.,LTD.(現SINKO AIR CONDITIONING (THAILAND) CO.,LTD.)を設立。 上海新晃空調設備有限公司は組織変更に伴い、上海新晃空調設備股份有限公司に商号変更。",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/sinko20221220.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業の売上内訳とセグメント別利益 | Vizora — 新晃工業新晃工業株式会社6458東証プライム機械2026年3月期, 連結, 日本基準 Vizora › 業界地図 › 空調 › 新晃工業 ›新晃工業の売上内訳とセグメント別利益",
+    "url": "https://vizora.meequs.com/ja/company/sinko-industries/segments",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料｜IRライブラリ｜IR情報｜新晃工業株式会社 -SINKO- — 2026年3月期（令和8年3月期） 通期 2026年3月期 決算説明資料（2026年6月11日開催）・資料 日本語 [3.82MB] 英語 [2.06MB] 2026年3月期 決算説明資料（2026年6月11日開催）・書き起こし",
+    "url": "https://www.sinko.co.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業（6458）のIR情報・決算資料 - IRBANK — May 14, 2026 · 新晃工業（6458）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/6458/ir",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業株式会社（6458）適時開示・決算短信 一覧｜毎日更新｜Treela... — 新晃工業株式会社（6458）の適時開示 4 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/6458/conference",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業のIR資料 - 6458 / プライム / 機械 | バフェット・コード — Aug 6, 2026 · 新晃工業（6458 / プライム / 機械）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/6458/library",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業株式会社 — IR資料 - EDINET DB — Apr 16, 2026 · EDINET DB > 企業一覧 > 新晃工業株式会社 > IR資料 新晃工業株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E01669/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業の社長は誰？末永 聡氏の経歴・就任年【6458】 | 企業スコー... — Jun 22, 2026 · 新晃工業株式会社の社長は末永 聡氏（代表取締役社長兼社長執行役員・64歳）。 2020年6月に社長に就任。 有価証券報告書（2026年3月期）の「役員の状況」から、経歴と取締役の一覧をまとめました。",
+    "url": "https://kigyo-scope.jp/company/6458/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業 役員一覧 | 取締役13名の経歴と選任賛成比率 — Oct 12, 2026 · 新晃工業の役員一覧。取締役13名（2026年6月時点）。代表は末永聡・青田徳治。在任期間・役職の変遷と株主総会の選任賛成 ...",
+    "url": "https://the-shashi.com/tse/6458/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業（6458）の役員の経歴と役員の変遷 — 社外取締役中川善雄氏は、検事・弁護士として培われた豊富な経験と専門知識を有しており、新晃工業の内部統制の改善並びにコンプライアンス強化等に向けた客観的かつ適切なアドバイスが期待できるため、社外取締役といたしました。",
+    "url": "https://kabutore.biz/genzaikabuka/yakuin.html?code=6458",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業・末永聡社長「データセンター建設遅れも空調機需要は堅調」 — Dec 1, 2025 · 「データセンター（DC）の建設計画が後ろ倒しになる動きはあるが、受注した空調機の案件は順次進んでいる」。業務用空調機メーカー、新晃 ...",
+    "url": "https://www.nikkei.com/article/DGXZQOUF17B900X11C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "新晃工業の歴代社長 - the-shashi.com — Oct 26, 2026 · 2013年〜武田昇三 退任 代表取締役社長 社長執行役員 会長 代表取締役社長 社長執行役員 2020年〜末永聡 現任 代表取締役社長 社長執行役員 代表取締役社長 社長執行役員",
+    "url": "https://the-shashi.com/tse/6458/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.sinko.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/air-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/air-solution/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/air-solution/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/air-solution/03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/air-solution/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/air-solution/05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/sinko-direct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/product/maintenance/air-clinic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/solution/air-solution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/investor/point-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/management/top-message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/library/earning.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/finance/performance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/stock/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/public.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinko.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.sinko.co.jp/news/assets/2026041_news_senmonshi_BEkenchikusetsubi_March.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/company/history/pdf/20210310_news_product_ocoogeo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/pdf/sinko_integrated_report_2026_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/pdf/sinko_integrated_report_2025_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/pdf/sinko_integrated_report_2025_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/pdf/sinko_integrated_report_2025_cn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/pdf/sinko_integrated_report_2024_spread_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/sustainability/integrated-report/pdf/sinko_integrated_report_2024_spread_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/business-structure/img_structure01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/business-structure/img_map.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/salesoffice/img_office01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/salesoffice/img_office02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/salesoffice/img_office03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/business-structure/img_australia.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/business-structure/img_bangladesh.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sinko.co.jp/global_products/business/img/business-structure/img_indonesia.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%99%83%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/6458/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyo-scope.jp/company/6458/ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/6458/executives/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新晃工業",
+   "results": [
+    "https://ja.wikipedia.org/wiki/新晃工業",
+    "http://www.sinko.co.jp/",
+    "https://www.sinko.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/6458.T",
+    "https://www.sinko.com.tw/index.php?lang=TC",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6458",
+    "https://finance.yahoo.co.jp/quote/6458.T/profile"
+   ]
+  },
+  {
+   "query": "新晃工業 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/新晃工業",
+    "http://www.sinko.co.jp/",
+    "https://blog.chart62.com/business-analysis-202601-6458/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/sinko20221220.pdf",
+    "https://vizora.meequs.com/ja/company/sinko-industries/segments",
+    "https://consovation.com/新晃工業の魅力に迫る-ビジネスモデルと成長戦略/",
+    "https://www.sinko.co.jp/ir/investor/point-03.html"
+   ]
+  },
+  {
+   "query": "新晃工業 決算説明資料",
+   "results": [
+    "https://www.sinko.co.jp/ir/library/briefing/",
+    "https://irbank.net/6458/ir",
+    "https://treelazy.com/stock-jp/6458/conference",
+    "https://www.buffett-code.com/company/6458/library",
+    "https://edinetdb.jp/company/E01669/ir-docs/",
+    "https://www.sinko.co.jp/ir/library/earning/",
+    "https://edinetdb.jp/company/E01669/presentations/"
+   ]
+  },
+  {
+   "query": "新晃工業 事業系統図",
+   "results": []
+  },
+  {
+   "query": "新晃工業 社長 インタビュー",
+   "results": [
+    "https://kigyo-scope.jp/company/6458/ceo/",
+    "https://the-shashi.com/tse/6458/executives/",
+    "https://kabutore.biz/genzaikabuka/yakuin.html?code=6458",
+    "https://www.nikkei.com/article/DGXZQOUF17B900X11C25A1000000/",
+    "https://the-shashi.com/tse/6458/ceo/",
+    "https://toyokeizai.net/articles/-/715102",
+    "https://kitaishihon.com/company/6458/board-of-director"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部4頁・検索5回）"
+ }
+}

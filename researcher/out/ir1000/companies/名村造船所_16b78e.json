@@ -1,0 +1,1421 @@
+{
+ "name": "名村造船所",
+ "aliases": [],
+ "context": "証券コード7014／輸送用機器／スタンダード（内国株式）／2026.03期 売上高159,035百万円 営業利益率17.7%",
+ "researched_at": "2026-11-02T18:22:54.534659+00:00",
+ "official_url": "https://www.namura.co.jp/",
+ "identified_by": "search:yahoo_jp:名村造船所",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数（単体） 従業員数（連結）",
+    "value": "1,158名 (2026年3月31日現在） 2,436名 (2026年3月31日現在）",
+    "url": "https://www.namura.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "187名（2026年4月現在）",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（連結）",
+    "value": "159,035百万円（2026年3月期）",
+    "url": "https://www.namura.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高(百万円)",
+    "value": "83,423 124,080 135,006 159,227 159,035",
+    "url": "https://www.namura.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高営業利益率",
+    "value": "△11.4 7.7 12.2 18.5 17.7",
+    "url": "https://www.namura.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1983年（昭和58年）7月4日",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・ソフトウェア開発サービス ・システム基盤構築・運用、保守 ・ITコンサルティング ・情報システム関連商品の販売、導入支援",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/iron.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "船舶の燃費技術の向上以外にも、各種取り組みをおこなっており、そのうち、次項以降ではLNG燃料、風力、アンモニア燃料、水素燃料についてご紹介します",
+    "url": "https://www.namura.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "「温室効果ガス削減に向けた最新の取り組みの紹介」",
+    "url": "https://www.namura.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/materials.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/contact4.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/20260409-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/20260409.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/202511-2.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチステークホルダー方針およびパートナーシップ構築宣言",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/202511-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーズ法律事務所に名称変更）",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーとして参画(現)",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ＴＭＩ総合法律事務所パートナー）",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、各取締役の報酬決定に際しては、指名・報酬委員会の助言を受けております",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しており、取引先および業務提携先ならびに共同研究開発のパートナーなどの重要なステークホル",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該権限が代表取締役社長によって適切に行使されるよう、指名・報酬委員会から適切な助言",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は指名・報酬委員会の委員であり、取締役の個人別の報酬等の",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "氏は指名・報酬委員会の委員であり、取締役の個人別の報酬等",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社では、指名・報酬委員会を設置しております",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の指名・報酬委員会は、取締",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会の委員の過半数は独立社外取締役と",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1911年2月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1931年4月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1942年5月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年6月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1961年9月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年10月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年12月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年11月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1975年3月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年10月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年7月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年1月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年7月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年8月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年1月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年9月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年1月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年6月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年4月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年10月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年1月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年3月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年3月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年3月",
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期通期業績予想と実績値との差異、剰余金の配当（増配）に関するお知らせ",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期通期業績予想の修正に関するお知らせ",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "工事実績 | 鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/iron.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. 製品における取り組み～温室効果ガスの削減～",
+    "url": "https://www.namura.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社の貸借対照表及び損益計算書については、金融庁より行政サービスとして提供されている",
+    "url": "https://www.namura.co.jp/ja/ir/announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "「金融商品取引法に基づく有価証券報告書等の開示に関する電子開示システム（EDINET）」",
+    "url": "https://www.namura.co.jp/ja/ir/announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "松本橋 | 工事実績 | 鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/20260409-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "天狗橋 | 工事実績 | 鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/20260409.html",
+    "pass": 1
+   },
+   {
+    "quote": "町原大橋 | 工事実績 | 鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/202511-2.html",
+    "pass": 1
+   },
+   {
+    "quote": "坂本橋 | 工事実績 | 鉄構事業 | 事業・製品 | 株式会社名村造船所",
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/202511-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境やご加入のサービス、ご使用の機種によっては、議決権",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のの、ドル円相場が円安水準で推移したこと、当期のグループ中核商品と位置付けているハン",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力の国内艦艇修繕工事が順調に完工したことに加えて 、佐世保重工業株",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "門においては、主力の舶用エンジン向けクランクシャフトの事業環境が改善し 、課題であった",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究や新商品開発、生産技術の向上等を目的とした研究開発に取り組み 、当連結会計年度にお",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主力工場である伊万里事業所は2024年に竣工50周年を迎えました",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る生産現場の最適化・省人化が不可欠であり 、主力工場である当社伊万里事業所においては 、",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、これまでお客様から高い評価をいただいている主力商品においてもさらに性能と品質",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "がりの傾向が顕著になってまいりましたものの国内製品と海外製品の調達価格差は依然とし",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境への取り組み 製品における取り組み 〜温室効果ガスの削減〜",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）当社と会計監査人との間の監査契約において、会社法に基づく監査と金融商品取引法に基づく監査の監査報酬の額を区別して",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第二に、高品質の製品を安定的に供給するためには 、わが国の大手製鉄会社をはじめとする",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第三に、顧客ニーズを的確にとらえた高品質な製品を開発・受注・製造するための 、開発",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "佐世保重工が主力としてきた中型バルカーは中国造船所のほか、多くの国内造船所が手掛けており、かねて競争が激しかったが、事業環境が一段と悪化した」",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "今後は新造船から修繕船への配置転換も行い、主力の海上自衛隊向け艦艇のほか、海上保安庁の巡視船や客船、探査船に加え、一般商船の工事も積極的に受注していく」",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "保有した船舶の運航データを蓄積・分析すれば、自社製品の開発・設計にフィードバックすることも可能で、より顧客満足度の高い船舶の建造につながるだろう」",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "「名村造船所・伊万里事業所（佐賀県伊万里市）の主力船型、大型バルカーとVLCC（大型原油タンカー）、石炭船をしっかり受注していく方針は変わらない",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "専航船として使われる比率が高いケープサイズバルカーやVLCCは、中国造船所の台頭でコモディティー化（一般商品化）が進んでしまった中型バルカーとは異なり、顧客のニーズを技術力で船型に反映できる余地がある",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業エネルギーソリューション&マリンカンパニー企画本部、会社人事",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "・ソフトウェア開発サービス",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "・情報システム関連商品の販売、導入支援",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所「基幹システム」IBM System p570サーバーのハウジングサービス開始",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 基幹システム Ｎutanixサーバーでのホスティングサービス開始",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ共同基幹システムＮutanixサーバー(名村・佐世保・函館)ホスティングサービス開始",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ共同ファイルサーバー(名村・佐世保)ホスティングサービス開始",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ共同会計サーバー(名村・佐世保)ホスティングサービス開始",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 セキュリティー基盤(ＤarkＴrace) ホスティングサービス開始",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業エネルギーソリューション&マリンカンパニー企画本部、会社人事",
+    "url": "https://www.jmd.co.jp/article.php?no=188287",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.jmd.co.jp/article.php?no=188287",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "株式報酬型ストックオプション（新株予約権）の発行内容の確定に関するお知らせ",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストックオプション（新株予約権）の割当総数確定のお知らせ",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストックオプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストックオプション（新株予約権）の発行決議内容の見直しに関するお知らせ",
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第５号議案 監査役（社外監査役を除く）に対する株式報酬型ストックオプション制度",
+    "url": "https://www.namura.co.jp/ja/news/news20250624/main/0/link/20250624.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５号議案 監査役（ 社外監査役を除く）に対する株式報酬型ストックオ",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役の報酬等の額は、2010年６月24日開催の第111回定時株主総会において、年額",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "枠で2012年６月26日開催の第113回定時株主総会においてストックオプションに関する報酬枠",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "として年額120百万円、新株予約権の上限数は年950個とする旨のご承認いただいております",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今般、当社は、役員報酬制度の見直しの一環として、現行のストックオプションとしての新株",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本議案につきご承認をいただいた場合、ストックオプション制度を廃止し、今後、対象取締役",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に対するストックオプションとしての新株予約権を新たに発行しないことといたします",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とし、その総額は、年額300百万円以内（ただし、使用人兼務取締役の使用人分給与を含まな",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "具体的には、社外取締役を除く取締役の報酬は 、固定報酬となる月額報",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "割・職務の内容を勘案し、固定報酬としての月額報酬のみとしております",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役の基本報酬は固定報酬となる月額報酬とし、役位・職責に応じて他社水準 、従業",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５号議案 監査役（社外監査役を除く）に対する株式報酬型ストックオプション制度廃止の件",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主総会において年額60百万円以内と決議いただき、別枠で社外監査役を除く監査役に対する",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式報酬型ストックオプションに関する報酬限度額として年額６百万円と決議いただいておりま",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今般、監査役の役割を踏まえ、株式報酬型ストックオプション制度（以下「本制度」といいま",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）を廃止し、月額固定報酬のみとすることにつきご承認をお願いするものであります",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "修繕や予防保全、保守点検を実施してまいります",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "具体的には、社外取締役を除く取締役の報酬は、固定報酬となる月額報",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬、業績連動報酬（賞与）および株式報酬型ストックオプションにより構成し、社外取締役の",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報酬はその役割・職務の内容を勘案し、固定報酬としての月額報酬のみとしております",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役の基本報酬は固定報酬となる月額報酬とし 、役位・職責に応じて他社水準、従業",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非金銭報酬等は株式報酬型ストックオプションとし、当社グループの中長期的な成長と企業価",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ティブ報酬である株式報酬型ストックオプションの割合は 、事業環境や財務状況、剰余金の配",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会において年額300百万円（ただし、使用人分給与は含まない）の範囲内で取締役会に一任す",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役を除く取締役に対する株式報酬型ストックオプションに関する報酬限度額について",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・システム基盤構築・運用、保守",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "情報システムの開発・保守及び運用業務、情報処理機器の販売、並びにデータセンタ業務",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の全文は、有料プラン（月額8,250円/税込）でお読みいただけます",
+    "url": "https://www.jmd.co.jp/article.php?no=188287",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.namura.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "北日本の安全保障の重要拠点である函館どつくの修繕と合わせ、名村造船グループ全体の強みになり得る事業だと今も確信している」",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様にと って",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "はもとより顧客・取引先・金融機関・従業員・地域など様々なステークホルダーとの信頼関係",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、お客様のご期待に応えるべく、次",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、これまでお客様から高い評価をいただいている主力商品においてもさらに性能と品質",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらにグループ各社や取引先との連携を強化し、仕",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 お客様のご期待に応えるべく、 次世代燃料船の開",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しており、取引先および業務提携先ならびに共同研究開発のパートナーなどの重要なステークホル",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造を基軸とした事業活動を営んでおり、顧客のニーズに応えた高品質の船舶を長年にわたり",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定的に製造・供給することを基軸とする経営を続けることにより顧客の信頼を獲得し、全",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第一に、わが国の主要海運会社をはじめとする国内外の顧客との長期的視野に立った緊密な",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第三に、顧客ニーズを的確にとらえた高品質な製品を開発・受注・製造するための 、開発",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上のように、当社は、顧客、舶用資機材供給者などの取引先、従業員も含めたステークホ",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダーを対象として包含する「顧客信頼度」というキーワードを掲げて経営を続けておりま",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・適正かつ透明性の高い経営を保つことにより株主、取引先および社会の信頼を得ること",
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに海運マーケットが急騰した際には、自社グループ向けに発注済みの期近納期の新造船を顧客が求める時期に販売したり用船に出すなど、懐の深い営業活動が可能になる」",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "保有した船舶の運航データを蓄積・分析すれば、自社製品の開発・設計にフィードバックすることも可能で、より顧客満足度の高い船舶の建造につながるだろう」",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "専航船として使われる比率が高いケープサイズバルカーやVLCCは、中国造船所の台頭でコモディティー化（一般商品化）が進んでしまった中型バルカーとは異なり、顧客のニーズを技術力で船型に反映できる余地がある",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "お客様情報の外部送信について",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "これも一重に顧客の皆様をはじめ、あらゆる分野でご協力いただいた方々のおかげと、改めてお礼申し上げます",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と共に考え、高度な技術と豊富な実績に実証されたシステムの構築こそ、重責だと自覚し、未来に邁進することをお約束いたします",
+    "url": "https://www.namurainfo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様情報の外部送信について",
+    "url": "https://www.jmd.co.jp/article.php?no=188287",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "「また建造と修繕に加えて保有まで一部手掛けることで、売り切り型ではなく、船舶のライフサイクル全体をサポートしていくビジネスモデルに徐々に変革していきたい",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【新時代の日本造船 生き残り戦略】（5） 名村造船所 社長・名 ... — 【新時代の日本造船 生き残り戦略】（5） 名村造船所 社長・名 ... 日本海事新聞 電子版 https://www.jmd.co.jp > 造船/舶用の記事一覧",
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "pass": 3
+   },
+   {
+    "quote": "造船のプロセス | 事業・製品 | 株式会社 名村造船所 — 造船のプロセス | 事業・製品 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > product > about > process",
+    "url": "https://www.namura.co.jp/ja/product/about/process.html",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】株式会社 名村造船所 （旧・佐世保重工業 ... — 【バフェットの視点】株式会社 名村造船所 （旧・佐世保重工業 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n9d466f8f5f51",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 【7014】の事業内容 - キタイシホン — 名村造船所 【7014】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7014/business",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 - Wikipedia — 名村造船所 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 名村造船所",
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%9D%91%E9%80%A0%E8%88%B9%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株主・投資家情報 | 株式会社 名村造船所 — 決算説明資料 | 株主・投資家情報 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > materials",
+    "url": "https://www.namura.co.jp/ja/ir/materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | 株主・投資家情報 | 株式会社 名村造船所 — 決算 情報 | 株主・投資家情報 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > result",
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 [7014]：2027年3月期 第1四半期 決算 短信〔日本 ... — 名村造船所 [7014]：2027年3月期 第1四半期 決算 短信〔日本 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260805509916/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 株式会社 名村造船所 — 株主・投資家情報 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > ...",
+    "url": "https://www.namura.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 | 株式会社 名村造船所 — 組織図 | 企業情報 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > company > organization",
+    "url": "https://www.namura.co.jp/ja/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 【7014】の 事業 内容 - キタイシホン — 名村造船所 【7014】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7014/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社 名村造船所 — 会社概要 | 企業情報 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > company > outline",
+    "url": "https://www.namura.co.jp/ja/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 インタビュー 】 名村造船所社長 ・名村建介氏:佐世保重工の ... — 【 インタビュー 】 名村造船所社長 ・名村建介氏:佐世保重工の ... 日本海事新聞 電子版 https://www.jmd.co.jp > 造船/舶用の記事一覧",
+    "url": "https://www.jmd.co.jp/article.php?no=188287",
+    "pass": 3
+   },
+   {
+    "quote": "名村造船所 の女性社員に インタビュー しました ... - Instagram — 名村造船所 の女性社員に インタビュー しました ... - Instagram Instagram https://www.instagram.com > reel",
+    "url": "https://www.instagram.com/reel/DSwuq1rk755/",
+    "pass": 3
+   },
+   {
+    "quote": "先輩 インタビュー | 大卒採用 | 採用情報 | 株式会社 名村造船所 — 先輩 インタビュー | 大卒採用 | 採用情報 | 株式会社 名村造船所 株式会社名村造船所 https://www.namura.co.jp > recruit > university > interview",
+    "url": "https://www.namura.co.jp/ja/recruit/university/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ 名村造船所 ・名村建介 社長 「海の課題解決を」 — 経営ひと言／ 名村造船所 ・名村建介 社長 「海の課題解決を」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/785837",
+    "pass": 3
+   },
+   {
+    "quote": "【技術職(造船)】耀き 輝く！ 名村造船所 で働く社員 ... - YouTube — 【技術職(造船)】耀き 輝く！ 名村造船所 で働く社員 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=SJqXBfehgUg",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.namura.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/iron.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/materials.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/ircalendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/contact4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/finance/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/finance/indicator.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/ir/finance/cashflow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/20260409-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/20260409.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/202511-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/product/iron/iron_list/202511-1.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20261015/main/0/link/20261015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20261015-2/main/0/link/20261015-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20261002/main/0/link/20261002-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20260623/main/0/link/20260623.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20251110-1/main/0/link/20251110.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20250624/main/0/link/20250624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20250618/main/0/link/kabunusisoukai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.namura.co.jp/ja/news/news20240625/main/0/link/20240625.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=266858",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namurainfo.com/about/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=188287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DSwuq1rk755/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名村造船所",
+   "results": [
+    "https://www.namura.co.jp/ja/index.html",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%9D%91%E9%80%A0%E8%88%B9%E6%89%80",
+    "https://www.nikkei.com/nkd/company/?scode=7014",
+    "https://www.namurainfo.com/",
+    "https://ja.wikipedia.org/wiki/名村造船所",
+    "https://finance.yahoo.co.jp/quote/7014.T",
+    "https://stockexpress.jp/namurashipbuilding20260819/",
+    "https://r.nikkei.com/nkd/company/?scode=7014",
+    "https://finance.yahoo.co.jp/quote/7014.T/financials",
+    "https://r.nikkei.com/nkd/company/disclose/?scode=7014"
+   ]
+  },
+  {
+   "query": "名村造船所 ビジネスモデル",
+   "results": [
+    "https://www.jmd.co.jp/article.php?no=266858",
+    "https://www.namura.co.jp/ja/product/about/process.html",
+    "https://note.com/open_azalea2045/n/n9d466f8f5f51",
+    "https://kitaishihon.com/company/7014/business",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%9D%91%E9%80%A0%E8%88%B9%E6%89%80",
+    "https://www.nikkei.com/article/DGXZQOUF1724U0X10C26A7000000/",
+    "https://www.namurainfo.com/about/",
+    "https://www.kaijipress.com/news/shipbuilding/2026/10/205051/",
+    "https://ja.wikipedia.org/wiki/名村造船所",
+    "https://www.namura.co.jp/ja/index.html"
+   ]
+  },
+  {
+   "query": "名村造船所 決算説明資料",
+   "results": [
+    "https://www.namura.co.jp/ja/ir/materials.html",
+    "https://www.namura.co.jp/ja/ir/result.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260805509916/",
+    "https://www.namura.co.jp/ja/ir.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260806/20260805509916.pdf",
+    "https://kitaishihon.com/company/7014/ir-library",
+    "https://finance.matsui.co.jp/stock/7014/settlement/index",
+    "https://investalk.jp/7014/namura-shipbuilding-2026-03-earnings/",
+    "https://newspicks.com/news/16857828/",
+    "https://edinetdb.jp/company/E02129/presentations/"
+   ]
+  },
+  {
+   "query": "名村造船所 事業系統図",
+   "results": [
+    "https://www.namura.co.jp/ja/company/organization.html",
+    "https://www.namurainfo.com/about/",
+    "https://kitaishihon.com/company/7014/business",
+    "https://www.namura.co.jp/ja/company/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%9D%91%E9%80%A0%E8%88%B9%E6%89%80",
+    "https://shikiho.toyokeizai.net/stocks/7014/corporate",
+    "https://data.swcms.net/file/namura/dam/jcr:bc7747f3-f396-4bf1-8c4d-177250f97cc1/S100YEFT.pdf",
+    "https://www.youtube.com/watch?v=HZjhymyyGgQ",
+    "https://www.jmd.co.jp/article.php?no=266858",
+    "https://ja.wikipedia.org/wiki/名村造船所"
+   ]
+  },
+  {
+   "query": "名村造船所 社長 インタビュー",
+   "results": [
+    "https://www.jmd.co.jp/article.php?no=188287",
+    "https://www.instagram.com/reel/DSwuq1rk755/",
+    "https://www.namura.co.jp/ja/recruit/university/interview.html",
+    "https://www.nikkan.co.jp/articles/view/785837",
+    "https://www.youtube.com/watch?v=SJqXBfehgUg",
+    "https://the-shashi.com/tse/7014/ceo/",
+    "https://www.instagram.com/reel/DSepN1zE8CC/",
+    "https://www.namura.co.jp/ja/company/message.html",
+    "https://cir.nii.ac.jp/crid/1520010378568745344",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I5619897"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

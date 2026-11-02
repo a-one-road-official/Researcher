@@ -1,0 +1,223 @@
+{
+ "name": "富士紡ホールディングス",
+ "aliases": [],
+ "context": "証券コード3104／繊維製品／プライム（内国株式）／2026.03期 売上高45,929百万円 営業利益率17.7%",
+ "researched_at": "2026-11-02T18:22:51.617263+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "富士紡ホールディングス - 株式会社フィスコ — 富士紡ホールディングス - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > FISCO > fujibo20250620",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/fujibo20250620.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "富士紡ホールディングス （株）〉の会社概要 | マイナビ2028 — 富士紡ホールディングス （株）〉の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp483 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "《トップ インタビュー 2026》 富士紡ホールディングス社長 ... — 《トップ インタビュー 2026》 富士紡ホールディングス社長 ... 繊研新聞 https://senken.co.jp > posts > fujibohd-260120",
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "無印良品の公式アプリ 顧客情報2726万件が流出の可能性",
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "pass": 3
+   },
+   {
+    "quote": "児島発の国産ジーンズ「オモトデニム」が好調 海外販売先が急増",
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "《トップに聞く》ハイドサイン社長兼チーフデザイナー 吉井秀雄氏 衣服から衣服への製品循環を検証",
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "pass": 3
+   },
+   {
+    "quote": "繊研新聞社のサービス",
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "注目企業に聞く 自社EC強化とOMOで描く次の成長戦略とは 「ファッションECサミット2026秋」",
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.fujibo.co.jp/recruit/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/fujibo20250620.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujibo.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujibo.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujibo.co.jp/corporate/outline/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujibo.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujibo.co.jp/recruit/interviews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senken.co.jp/posts/fujibohd-260120",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富士紡ホールディングス",
+   "results": [
+    "https://www.fujibo.co.jp/corporate/outline/",
+    "https://www.fujibo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%9C%E3%82%A6%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://job.mynavi.jp/27/pc/search/corp483/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqra",
+    "https://www.nikkei.com/nkd/company/?scode=3104",
+    "https://kabutan.jp/stock/?code=3104",
+    "https://shikiho.toyokeizai.net/stocks/3104/corporate",
+    "https://ja.wikipedia.org/wiki/フジボウホールディングス",
+    "https://finance.yahoo.co.jp/quote/3104.T/profile"
+   ]
+  },
+  {
+   "query": "株式会社富士紡ホールディングス",
+   "results": [
+    "https://www.fujibo.co.jp/",
+    "https://www.fujibo.co.jp/corporate/outline/",
+    "https://job.mynavi.jp/27/pc/search/corp483/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%9C%E3%82%A6%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.fujibow.co.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqra",
+    "https://shikiho.toyokeizai.net/stocks/3104/corporate",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00001217621/",
+    "https://job.mynavi.jp/28/pc/search/corp483/outline.html",
+    "https://ja.wikipedia.org/wiki/フジボウホールディングス"
+   ]
+  },
+  {
+   "query": "富士紡ホールディングス 株式会社",
+   "results": [
+    "https://www.fujibo.co.jp/corporate/outline/",
+    "https://www.fujibo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%9C%E3%82%A6%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://job.mynavi.jp/28/pc/search/corp483/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqra",
+    "https://shikiho.toyokeizai.net/stocks/3104/corporate",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00001217621/",
+    "https://www.nikkei.com/nkd/company/?scode=3104",
+    "https://ja.wikipedia.org/wiki/フジボウホールディングス",
+    "https://job.mynavi.jp/27/pc/search/corp483/outline.html"
+   ]
+  },
+  {
+   "query": "富士紡ホールディングス ビジネスモデル",
+   "results": [
+    "https://www.fujibo.co.jp/recruit/works/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/fujibo20250620.pdf",
+    "https://kabutan.jp/news/marketnews/?b=n202211290678",
+    "https://job.mynavi.jp/28/pc/search/corp483/outline.html",
+    "https://note.com/tatsuya_sabato/n/na96ebfe8506e",
+    "https://shikiho.toyokeizai.net/stocks/3104/corporate",
+    "https://www.openwork.jp/a0910000000Fqra/analysis/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%9C%E3%82%A6%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://pr.mono.ipros.com/fujibo/",
+    "https://consovation.com/富士紡ホールディングスのビジネスモデルを徹底/"
+   ]
+  },
+  {
+   "query": "富士紡ホールディングス 決算説明資料",
+   "results": [
+    "https://www.fujibo.co.jp/ir/library/presentation/",
+    "https://www.fujibo.co.jp/ir/library/",
+    "https://www.fujibo.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3104",
+    "https://www.fujimediahd.co.jp/ir/presentation.html",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/fujibo20251216.pdf",
+    "https://www.nittobo.co.jp/ir/",
+    "https://www.daiwabo-holdings.com/ja/ir/library/results.html",
+    "https://treelazy.com/stock-jp/3104/conference",
+    "https://finance.biggo.jp/quote/3104.T/earnings-call/JP_3104.T_2026-05-18"
+   ]
+  },
+  {
+   "query": "富士紡ホールディングス 事業系統図",
+   "results": [
+    "https://www.fujibo.co.jp/corporate/outline/organization/",
+    "https://www.fujibo.co.jp/corporate/outline/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W5BI.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp483/outline.html",
+    "https://www.incom.co.jp/corporation/top.php?company_id=13071",
+    "https://edinetdb.jp/company/E00543/text",
+    "https://shikiho.toyokeizai.net/stocks/3104/corporate",
+    "https://www.openwork.jp/a0910000000Fqra/analysis/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/fujibo20251216.pdf",
+    "https://ja.wikipedia.org/wiki/フジボウホールディングス"
+   ]
+  },
+  {
+   "query": "富士紡ホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.fujibo.co.jp/recruit/interviews/",
+    "https://senken.co.jp/posts/fujibohd-260120",
+    "https://x.com/SENKENplus/status/2013469031844700162",
+    "https://the-shashi.com/tse/3104/executives/",
+    "https://www.fujibo.co.jp/corporate/outline/directors/",
+    "https://kitaishihon.com/company/3104/board-of-director",
+    "https://acaric.jp/articles/8647",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%9C%E3%82%A6%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqra&gender=2&q_no=10",
+    "https://senken.co.jp/posts/fujibohd-250122"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "お金の形": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "売上構成": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "利益の源泉": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "沿革": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

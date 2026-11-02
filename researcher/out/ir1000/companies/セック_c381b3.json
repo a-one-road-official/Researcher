@@ -1,0 +1,1555 @@
+{
+ "name": "セック",
+ "aliases": [],
+ "context": "証券コード3741／情報・通信業／プライム（内国株式）／2026.03期 売上高11,220百万円 営業利益率16.8%",
+ "researched_at": "2026-11-02T18:28:47.756394+00:00",
+ "official_url": "https://www.sec.co.jp/",
+ "identified_by": "search:yahoo_jp:セック",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1970年 5月",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立と沿革",
+    "value": "創業以来のゆるぎない技術軸",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "399名（2026年4月1日現在）",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "社会公共分野・先端分野のリアルタイムソフトウェア及びソリューションの提供",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "社会の「今」を動かす4つの領域",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "11,220百万円（2026年3月期）",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "より高品質なものをお客様に提供するために、まず自らが「質重視」の経営を推進しています",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からの言葉を胸に、「宇宙機を送り出す」という夢へ一直線",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の教材になっていて、嬉しかった",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の困りごとも、",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発で変化先取りし、最高のお客様満足度を実現する",
+    "url": "https://www.sec.co.jp/ja/sec/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セックは「QCD（品質・価格・納期）を窮め、I（イノベーション）で飛躍する」をビジネスコンセプトとして、お客様中心ビジネスを推進しています",
+    "url": "https://www.sec.co.jp/ja/sec/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "新しい何かNew Element を常に先回りして準備し、New System の実現につなげることで、お客様満足度を追求しています",
+    "url": "https://www.sec.co.jp/ja/sec/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人ワークロイド・ユーザーズ協会（WUA） ワークロイド研究会",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "このネバーギブアップの精神と質の高い仕事が多くのお客様からの信頼につながっています",
+    "url": "https://www.sec.co.jp/ja/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セックは「QCD（品質・価格・納期）を窮め、I（イノベーション）で飛躍する」をビジネスコンセプトとして、お客様中心ビジネスを推進しています",
+    "url": "https://www.sec.co.jp/ja/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、'New Element to New System' の標語のもと、新しい何かNew Element を常に先回りして準備し、New System の実現につなげることで、お客様満足度を追求してきました",
+    "url": "https://www.sec.co.jp/ja/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "複数の電気自動車の一斉充電をコントロールしたり、様々な充電サービスをクラウドで管理者や利用者に提供したりするシステムが「スマートチャージシステム」です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者・管理者サービスをクラウドサービスとして提供",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートチャージシステムのインフラシステムは通信モジュールを搭載し、利用者認証には非接触ICカードが利用できます",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者はインターネット経由で充電設備の空き情報を検索したり、充電完了のお知らせや毎月の利用実績情報をメールで受け取ったり、電気自動車のカーシェアリングの予約や位置情報の発信、走行軌跡の表示等のサービスを受けることができます",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に応じて、基本コンポーネントのみのご提供、お客様向けのカスタマイズ開発によるご提供、お客様の既存システムとの連携を実現する提供、お客様が資産を持たない形態でのＡＳＰサービスの提供が可能です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airSmartGは以下のSVG関連ソフトウェアで構成されおり、お客様のニーズにあわせてカストマイズが可能です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   },
+   {
+    "quote": "セックの売上は、顧客からの受託によるシステム開発、すなわちプロジェクトベースで計上されます",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "深い顧客リレーション:",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "これらの長期プロジェクトを通じて、顧客（通信キャリア、JAXA、防衛関連機関など）の業務やシステムを深く理解し、単なる開発会社ではなく「不可欠なパートナー」としての地位を築いています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、個々のプロジェクトには納期がありますが、事業全体としては、既存顧客からの継続的な改修・保守案件や、次世代システムの開発案件が安定的に発生し、",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "その経営方針は、急成長を追うのではなく、技術力を着実に高め、顧客や社会との長期的な信頼関係を構築することを重視しています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "株主や従業員、顧客といった全てのステークホルダーとの共存共栄を目指す姿勢は、企業の持続可能性を高める上で非常に重要です",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "【速報】GMO系で顧客情報が漏えい",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は宇宙先端システム（2025年3月期売上高構成比30％）、社会基盤システム（同48％）、インターネット（同13％）、モバイルネットワーク（同9％）と四つのビジネスフィールドを軸に事業を展開しており、特に官公庁や研究機関、大手通信キャリア、大手電機メーカー 、大手自動車メーカーを主要な顧客としている",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い知識と技術で、顧客の省エネを支え続ける 最前線で奮闘するKenesの社員たち",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】オーガニックスーパーにて接客・販売、お客様の栄養相談、品出し・商品ディスプレイ、在庫管理、キャンペーン立案、動画配信・SNS運用に従事していただきます",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルネットワークBFとインターネットBFも、長年培った顧客基盤を生かしながら、新しい技術テーマへ展開する役割を担っている",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "主体的なビジネスが売り上げや継続収益につながっているか、AIの活用によって一人当たり付加価値や利益率、外注比率がどう変わるか、顧客の業務領域まで理解できる高度人材の充実を図れるかという点だ",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要加盟団体を更新しました（産学共創・宇宙分散知能ロボティクスコンソーシアム、MiRZAソリューションパートナー）",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "駐車場状況判断サービス",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "Rtrilo Parking Monitor - 駐車場状況判断サービス",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス技術",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・開発に関するお問い合わせ",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/sec/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロードサービス向けGPS緊急通報システム",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 診療報酬情報提供サービス など",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットの標準化技術と機能安全のノウハウを有し、様々な用途のロボットシステムの開発やコンサルティングサービスを提供しています",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスロボット用ソフトウェア（車両自動走行関連システム、搬送ロボット、他）",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙天気データベースWebシステム、宇宙天気予報運用サービス",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャッシュレス決済端末や車載端末などモバイルデバイスを使ったサービスシステムや、スマートコンストラクションに関するシステム、ＸＲ（クロスリアリティ）など次世代技術を使ったエッジデバイスのソフトウェアを開発しています",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会公共分野・先端分野のリアルタイムソフトウェア及びソリューションの提供",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター サービスロボット事業化交流会",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "MiRZAソリューションパートナー",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人 情報サービス産業協会（JISA）",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京都情報サービス産業健康保険組合",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国情報サービス産業企業年金基金",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "交通・防衛・医療・官公庁など社会公共性の高い分野のシステムを開発する「社会基盤システムBF」、科学衛星や惑星探査機など宇宙天文分野とロボットやAIなど先端分野のソフトウェアを開発する「宇宙先端システムBF」、モバイルサービスシステムやXR（クロスリアリティ）など次世代技術を使ったエッジデバイスのソフトウェアを開発する「モバイルネットワークBF」、非接触IC搭載ソフトウェアやIoT関連システムとクラウドシステムなどを開発する「インターネットBF」の4つのビジネスフィールド（BF）でソフトウェアを提供しています",
+    "url": "https://www.sec.co.jp/ja/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロームのAIソリューション「Solist-AI(TM)」のエコシステムパートナーに参加",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "SVG製品ファミリー「airSmartG」を発売",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス（LBS）プラットフォーム「airLook」を発売",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "LBSソリューションを「g-Contents WORLD 2004」に出展",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境エネルギー | これまでの研究開発 | 研究・製品開発 | セックを知る | 株式会社セック - SEC -",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "Rtrilo Parking Monitor - 駐車場状況判断サービス",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス技術",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス（エネルギーマネージメントシステム）",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "複数の電気自動車の一斉充電をコントロールしたり、様々な充電サービスをクラウドで管理者や利用者に提供したりするシステムが「スマートチャージシステム」です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「スマートチャージシステム」を単独で販売することよりも、駐車場運営に必要な業務をパッケージ化したシステムやサービスの提案を進めています",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者・管理者サービスをクラウドサービスとして提供",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "センターシステムに充電情報を通知したり、設備の異常を監視したりするクラウドサービスを備えています",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者はインターネット経由で充電設備の空き情報を検索したり、充電完了のお知らせや毎月の利用実績情報をメールで受け取ったり、電気自動車のカーシェアリングの予約や位置情報の発信、走行軌跡の表示等のサービスを受けることができます",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気自動車、ハイブリッド車の充電用インターフェイスとしてのJ1772規格適合コネクタを提供し、充電制御回路（CPLT：Control Pilot Circuit）の装備等、電気自動車のための充電施設の整備を対象とした補助金対象製品となることを目標としています",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、自治体、病院、学校、駐車場メーカ、自動車メーカ及び販売会社、不動産デベロッパー、ショッピングセンター、コンビニエンスストア、レンタル・リース会社等をマーケットと想定し、製品化検討を進めています",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "地上デジタル放送技術 | これまでの研究開発 | 研究・製品開発 | セックを知る | 株式会社セック - SEC -",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "Rtrilo Parking Monitor - 駐車場状況判断サービス",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス技術",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "airCube（エアキューブ）は、地上デジタル放送におけるデータ放送の表示を可能にする組込みソフトウェア製品です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "パソコン周辺機器のデジタルTVチューナーや業務用放送機器、スマートフォンや携帯電話など、様々な製品・機器に採用されています",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス技術 | これまでの研究開発 | 研究・製品開発 | セックを知る | 株式会社セック - SEC -",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス技術",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "Rtrilo Parking Monitor - 駐車場状況判断サービス",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook - 位置情報サービスプラットフォーム",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービスを柔軟に構築可能なプラットフォーム製品",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook（エアルック）は、位置情報サービス（LBS：Location Based Services）のシステムを構築するためのプラットフォーム製品です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLookは、全地球測位システム（GPS）で取得した位置情報を地理情報システム（GIS）と連携して、地図上のどこにその人やモノがいるかを把握したり、移動履歴をトレースしたり、特定エリアの侵入離脱を検出したりするサービスを提供します",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に応じて、基本コンポーネントのみのご提供、お客様向けのカスタマイズ開発によるご提供、お客様の既存システムとの連携を実現する提供、お客様が資産を持たない形態でのＡＳＰサービスの提供が可能です",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook製品概要",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook活用事例：モバイル機器を使った組み上げソリューションのご提案",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook活用事例：バスロケーションサービス「バスはどこ太郎」のご紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベクトル描画技術（SVG） | これまでの研究開発 | 研究・製品開発 | セックを知る | 株式会社セック - SEC -",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究・製品開発",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   },
+   {
+    "quote": "Rtrilo Parking Monitor - 駐車場状況判断サービス",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   },
+   {
+    "quote": "位置情報サービス技術",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "主要加盟団体を更新しました（産学共創・宇宙分散知能ロボティクスコンソーシアム、MiRZAソリューションパートナー）",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス（2026年10月19日号）の特集記事に当社の取組みが紹介されました",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "pass": 1
+   },
+   {
+    "quote": "ランドログパートナー",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "MiRZAソリューションパートナー",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "（ビジネスパートナー）",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロームのAIソリューション「Solist-AI(TM)」のエコシステムパートナーに参加",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "アストロスケールとセック、ADRAS-Jに関するマーケティングパートナーシップを締結",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名報酬委員会の設置に関するお知らせ",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗への太陽光発電と当該電力で稼動するヒートポンプ給湯器導入によるCO2削減の把握",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートチャージシステムの紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "airCube for Androidのご紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLookのご紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook活用事例：CCCシステムのご紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airLook活用事例：バスロケーションサービス「バスはどこ太郎」のご紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "pass": 1
+   },
+   {
+    "quote": "airSmartGのご紹介",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   },
+   {
+    "quote": "airSmartGご紹介資料",
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境教育・周知活動を推進し、全役員、全従業員、ビジネスパートナーの環境意識の向上を図るとともに、環境方針を社外に公開します",
+    "url": "https://www.sec.co.jp/ja/sustainability/environment/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Convex Space Visualizer」を紹介",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512306/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "紹介する情報番組です",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260724599370/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "まず、セックという企業がどのような歩みを経てきたのか、その基本的なプロフィールをご紹介します",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "これらの長期プロジェクトを通じて、顧客（通信キャリア、JAXA、防衛関連機関など）の業務やシステムを深く理解し、単なる開発会社ではなく「不可欠なパートナー」としての地位を築いています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3741",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3741",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場紹介",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年度日本建築学会大会［中国］学術講演会にて大成建設と共同で自律移動ロボットに関する講演発表を行います",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算補足説明資料",
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年 5月",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.sec.co.jp/ja/ir/news/news-3915497178462134268.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.sec.co.jp/ja/news/news5805343602075444064.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.sec.co.jp/ja/ir/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月1日付で1:2の割合で株式分割を実施いたしました",
+    "url": "https://www.sec.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第1四半期",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会（16:00）",
+    "url": "https://www.sec.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表（15:45）",
+    "url": "https://www.sec.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックボイス主催「STOCK VOICE 「資産形成フェスタ」 in 東証アローズ Online 2025」",
+    "url": "https://www.sec.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックボイス「東京マーケットワイド」（2025年11月26日放送）に代表取締役社長 櫻井が出演しました",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックボイス「東京マーケットワイド」（2024年11月27日放送）に代表取締役社長 櫻井が出演しました",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックボイス「東京マーケットワイド」（2023年11月29日放送）に代表取締役社長 櫻井が出演しました",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックボイス「東京マーケットワイド」（2022年11月30日放送）に代表取締役社長 櫻井が出演しました",
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "収益構造：ストック型に近いプロジェクトベース収益",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発プロジェクトも、一度運用が始まれば10年以上にわたる保守・運用が求められます",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、個々のプロジェクトには納期がありますが、事業全体としては、既存顧客からの継続的な改修・保守案件や、次世代システムの開発案件が安定的に発生し、",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型の収益に近い安定性",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のミドルウェアなどを拡販し、受託開発だけでなく、ライセンス収益の割合を高めていくことも目指しています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "社会インフラを支える長期継続案件が多く、ストック型に近い安定した収益が見込めます",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "試験結果を積み重ね、その先で継続的にロボットを提供し、販売やリースなどのストック型ビジネスにつなげたい",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "技術重視・少数精鋭・質実剛健・クリーン・信用重視・責任優先・新技術や新分野への積極的挑戦・高収益追究等、自らの質を重視した経営に取組んでいます",
+    "url": "https://www.sec.co.jp/ja/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512306/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 経常利益率",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512306/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1株当たり当期純利益 潜在株式調整後1株当たり当期純利益 自己資本当期純利益率 総資産経常利益率 売上高営業利益率",
+    "url": "https://www.sec.co.jp/ja/ir/library/result/main/013/teaserItems1/0/linkList/0/link/140120190410403001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本記事では、セックが持つ技術的な強みの源泉、安定した収益を生み出すビジネスモデル、そして今後の成長戦略について、多角的な視点から深く掘り下げていきます",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "特に、防衛関連や防災関連のシステムなど、高い信頼性と即応性が求められる分野に強みを持ちます",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "セックのビジネスモデルは、一般的なIT企業とは一線を画す特徴を持っており、それが高い収益性と参入障壁の源泉となっています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "セックの最大の強みは、模倣が極めて困難な参入障壁にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率:",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙・防衛、移動体通信といった既存の強みを持つ領域で、次世代技術への対応を進め、確固たる地位を維持・強化します",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "ポジティブ要素（強み・機会）",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "極めて高い参入障壁:",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "15%を超える営業利益率、80%超の自己資本比率、無借金経営は、企業としての質の高さを証明しています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みは、第一に創業以来磨き続けてきた極めて高度なリアルタイム技術と、それを支える独自の開発様式にある",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "第二の強みは、宇宙探査機「はやぶさ2」の制御や車両自動走行の研究開発など、参入障壁が極めて高い先端領域における豊富な実績と知見である",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした最先端プロジェクトで培われた技術は他のビジネスフィールドへも応用され、競争優位性の源泉となっている",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】オーガニックスーパーにて接客・販売、お客様の栄養相談、品出し・商品ディスプレイ、在庫管理、キャンペーン立案、動画配信・SNS運用に従事していただきます",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "【システム開発】携帯電話などの通信の混雑回避技術に強み",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3741",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みと今後の戦略について、櫻井伸太郎代表取締役社長(写真)に話を聞いた",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "――セックの強み「リアルタイム技術」とは何か",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "高い参入障壁を生む競争優位の源泉であり、無形の知的財産だと位置づけている",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "――宇宙・天文分野における競争優位性とは",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 6",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512286/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額（千円） 構成比（％） 金額（千円） 構成比（％）",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512286/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512286/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、情報サービス事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512286/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セックの事業は、主に4つのセグメントで構成されています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "防衛費や宇宙開発予算が大幅に削減されるような事態になれば、関連セグメントの業績に影響が及ぶ可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "特に、社会のDX化の流れを受け、各セグメントで安定した受注が見込まれています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "同社は宇宙先端システム（2025年3月期売上高構成比30％）、社会基盤システム（同48％）、インターネット（同13％）、モバイルネットワーク（同9％）と四つのビジネスフィールドを軸に事業を展開しており、特に官公庁や研究機関、大手通信キャリア、大手電機メーカー 、大手自動車メーカーを主要な顧客としている",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "本記事では、セックが持つ技術的な強みの源泉、安定した収益を生み出すビジネスモデル、そして今後の成長戦略について、多角的な視点から深く掘り下げていきます",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】なぜセックは高い収益性を維持できるのか",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "セックのビジネスモデルは、一般的なIT企業とは一線を画す特徴を持っており、それが高い収益性と参入障壁の源泉となっています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：ストック型に近いプロジェクトベース収益",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要素が組み合わさることで、価格競争に巻き込まれにくい、強固なビジネスモデルが構築されています",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "安定した収益構造:",
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルは受託開発が約98％を占め、国の入札においては最高評価のAランクを保持するなど、野村総合研究所や富士通といった大手企業と比肩する技術提案力を有している",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "セック ---最先端リアルタイム技術で宇宙・社会基盤を支える高 ... — セック ---最先端リアルタイム技術で宇宙・社会基盤を支える高 ... 47NEWS https://www.47news.jp > 経済 > 市場ニュース＆レポート",
+    "url": "https://www.47news.jp/13919657.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業分野 | セック を知る | 株式会社 セック - SEC - — 事業分野 | セック を知る | 株式会社 セック - SEC - 株式会社セック －SEC https://www.sec.co.jp > sec > fields",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 | IRライブラリー | 投資家情報 — 決算短信・ 決算説明資料 | IRライブラリー | 投資家情報 株式会社セック －SEC https://www.sec.co.jp > library > result",
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 セック 】[3741]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 セック 】[3741]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3741",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 | 株式会社 セック - SEC - — 投資家情報 | 株式会社 セック - SEC - 株式会社セック －SEC https://www.sec.co.jp > ...",
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セック IR 資料 - EDINET DB — 株式会社 セック IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社セック",
+    "url": "https://edinetdb.jp/company/E05400/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社 セック - SEC - — 会社概要 | 会社情報 | 株式会社 セック - SEC - 株式会社セック －SEC https://www.sec.co.jp > company > profile",
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 分野 | セック を知る | 株式会社 セック - SEC - — 事業 分野 | セック を知る | 株式会社 セック - SEC - 株式会社セック －SEC https://www.sec.co.jp > sec > fields",
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "pass": 3
+   },
+   {
+    "quote": "セック 【3741】の 事業 内容 - キタイシホン — セック 【3741】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3741/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – 株式会社 セック — 会社概要 – 株式会社 セック sec-ltd.co.jp https://sec-ltd.co.jp > company",
+    "url": "https://sec-ltd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概況｜企業情報 - セック株式会社 — 会社概況｜企業情報 - セック株式会社 セック株式会社 https://www.sec-i.co.jp > 企業情報",
+    "url": "https://www.sec-i.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー セック 代表取締役 社長 櫻井伸太郎氏 ... — トップ インタビュー セック 代表取締役 社長 櫻井伸太郎氏 ... 日本証券新聞 https://www.nsjournal.jp > トップインタビュー　セック-代...",
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "「アイアールmagazineオンライン」に当社 社長インタビュー ... — 「アイアールmagazineオンライン」に当社 社長インタビュー ... 株式会社セック －SEC https://www.sec.co.jp > news2839902589673714409",
+    "url": "https://www.sec.co.jp/ja/ir/news/news2839902589673714409.html",
+    "pass": 3
+   },
+   {
+    "quote": "「チャンスは蓄積できない」--先端分野に挑み続ける セック が ... — 「チャンスは蓄積できない」--先端分野に挑み続ける セック が ... CNET Japan https://japan.cnet.com > extra > cnetjapan-live2025-report",
+    "url": "https://japan.cnet.com/extra/cnetjapan-live2025-report/35230266/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セック 新卒採用：社員 インタビュー 【社会基盤分野 — 株式会社 セック 新卒採用：社員 インタビュー 【社会基盤分野 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=X-Na0f19VEQ",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sec.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sec/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sec/fields.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/news-3915497178462134268.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/news/news5805343602075444064.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/stockinfo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/envir_energy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/aircube.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airlook.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sec/rd/achievements/airsmartg.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/company/philosophy/aboutlogo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/sustainability/environment/policy.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512286/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260806512306/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260724599370/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20260709590511/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/library/result/main/012/teaserItems1/00/linkList/0/link/test0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/company/profile/main/03/teaserItems2/0/linkList/0/link/sec_cb2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/news/auto_20231101577629/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/ir/library/result/main/013/teaserItems1/0/linkList/0/link/140120190410403001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.co.jp/ja/index/main/0/teaserItems2/0/binaryNodeName/about_img02-2x.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.47news.jp/13919657.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セック",
+   "results": [
+    "https://www.sec.co.jp/ja/index.html",
+    "https://www.sec-i.co.jp/",
+    "https://www.sec.co.jp/recruit/fresh/business.html",
+    "https://ja.wikipedia.org/wiki/セック_(企業)",
+    "https://grokipedia.com/page/41",
+    "https://finance.yahoo.co.jp/quote/3741.T",
+    "https://sec-i.co.jp/",
+    "https://www.sec.co.jp/ja/company.html",
+    "https://finance.yahoo.co.jp/quote/3741.T/profile",
+    "https://kabutan.jp/stock/?code=3741"
+   ]
+  },
+  {
+   "query": "セック ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "https://www.47news.jp/13919657.html",
+    "https://www.sec.co.jp/ja/sec/fields.html",
+    "https://socialvalue.jp/mmbackno/sec_businessplan16",
+    "https://www.moomoo.com/jp/learn/understand-the-company-s-business-model",
+    "https://www.pref.niigata.lg.jp/sec/chiikishinko/r8bizinesumoderusaikoutiku.html",
+    "https://www.cyber-u.ac.jp/subject/theory_of_business_model.html",
+    "https://www.nri.com/jp/knowledge/glossary/busi_method.html",
+    "https://www.youtube.com/watch?v=4tmiD8F2fbU",
+    "https://www.sec.co.jp/ja/index.html"
+   ]
+  },
+  {
+   "query": "セック 決算説明資料",
+   "results": [
+    "https://www.sec.co.jp/ja/ir/library/result.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3741",
+    "https://www.sec.co.jp/ja/ir.html",
+    "https://sec-carbon.com/ir/financial-results/",
+    "https://edinetdb.jp/company/E05400/ir-docs/",
+    "https://irbank.net/3741/ir",
+    "https://koseholdings.co.jp/ja/ir/library/earnings/",
+    "https://www.sbisec.co.jp/company/about/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260511522744/",
+    "https://www.sec.co.jp/ja/ir/library.html"
+   ]
+  },
+  {
+   "query": "セック 事業系統図",
+   "results": [
+    "https://www.sec.co.jp/ja/company/profile.html",
+    "https://www.sec.co.jp/ja/sec/fields.html",
+    "https://kitaishihon.com/company/3741/business",
+    "https://sec-ltd.co.jp/company/",
+    "https://www.sec-i.co.jp/company/outline.html",
+    "https://td.kabumap.com/cgi-bin/tdNet/tdNetPdf.pl?140120260519541319.pdf,dd84540fe80cda2e09948eb3eb1353d0dd33686e",
+    "https://www.youtube.com/watch?v=qydvzPPZc4Q",
+    "https://data.swcms.net/file/sec/dam/jcr:6c956a8e-7fd3-4085-b413-3f068981c4ea/140120250522561225.pdf",
+    "https://note.com/tatsuya_sabato/n/n14ac881bef49",
+    "https://ja.wikipedia.org/wiki/セック_(企業)"
+   ]
+  },
+  {
+   "query": "セック 社長 インタビュー",
+   "results": [
+    "https://www.nsjournal.jp/%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%BB%E3%83%83%E3%82%AF-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E6%AB%BB%E4%BA%95/",
+    "https://www.sec.co.jp/ja/ir/news/news2839902589673714409.html",
+    "https://japan.cnet.com/extra/cnetjapan-live2025-report/35230266/",
+    "https://www.wantedly.com/companies/secinc/post_articles/989640",
+    "https://www.youtube.com/watch?v=X-Na0f19VEQ",
+    "https://www.sec.co.jp/ja/ir/news/news-3915497178462134268.html",
+    "https://kitaishihon.com/company/3741/board-of-director",
+    "https://kigyo-scope.jp/company/3741/ceo/",
+    "https://www.youtube.com/watch?v=TKvlYc1DsNc&vl=ja",
+    "https://www.nsjournal.jp/トップインタビュー　セック-代表取締役社長-櫻井/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,903 @@
+{
+ "name": "芝浦メカトロニクス",
+ "aliases": [],
+ "context": "証券コード6590／電気機器／プライム（内国株式）／2026.03期 売上高88,039百万円 営業利益率17.3%",
+ "researched_at": "2026-11-02T18:31:53.482321+00:00",
+ "official_url": "https://www.shibaura.co.jp/",
+ "identified_by": "search:yahoo_jp:芝浦メカトロニクス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1939年（昭和14年）10月12日",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "創立",
+    "value": "東芝鶴見工場の一部の建物や機械設備を借用して操業を開始。設立当時の社名は「芝浦京町製作所」でしたが、同年12月に東芝の前身である「芝浦製作所」の社名を継承。創立当初は軍需品を中心に取り扱っていました。",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結88,039百万円（2025年度）",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "連結1,269名（2026年3月31日現在）",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "半導体製造装置 FPD製造装置 真空応用装置 ヘルスケア関連装置",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "多様化するお客様のニーズに最適な",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "変化を創り「時代」「お客様」「仲間」と共に成長する",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降、台湾、韓国、中国など、海外のお客様への販売・サービス体制の強化を進めました",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品使用時の環境負荷低減を目指した環境調和型製品の提供およびグリーン調達の推進、ならびに事業所内における地球温暖化対策、資源の有効活用の推進等、事業活動全体を通じ、気候変動への対応、環境負荷の低減を進めています",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の環境課題解決に向け、環境負荷低減に寄与する環境調和型製品を提供します",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術の進展、顧客の環境意識の高まりを受けて、省エネルギー型製品やGHG排出抑制に寄与する製品のニーズが増加する",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "電源仕様を従来の物から見直し、電力消費量の削減をおこなうことで、資源を有効に活用し、お客様に満足いただける環境調和型製品を提供しております",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ビジョンでは、お客様の将来課題を解決する製品・サービス一体の提案を通じ、お客様価値の最大化を実現することを目指します",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会やお客様の将来課題とそこにある潜在的ニーズを把捉して能動的に提案・解決し、お客様と共に成長する企業",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存グローバルニッチトップ製品とそのコア技術を核に、新規顧客・市場や今後期待される領域へ展開",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスへ",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外サービス事業を拡大しており、",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションでお応えしています",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "芝浦ビルサービス（現・芝浦エンジニアリング）を設立",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国に半導体製造装置の販売・サービス拠点として、現地法人SHIBAURA TECHNOLOGY INTERNATIONALCORPORATIONを設立",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降、台湾、韓国、中国など、海外のお客様への販売・サービス体制の強化を進めました",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "枚葉式Siウェーハ洗浄装置や枚葉式リン酸エッチング装置など、グローバルニッチトップ製品",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニッチ（特定）分野における世界市場でのトップを目指す製品",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品使用時の環境負荷低減を目指した環境調和型製品の提供およびグリーン調達の推進、ならびに事業所内における地球温暖化対策、資源の有効活用の推進等、事業活動全体を通じ、気候変動への対応、環境負荷の低減を進めています",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境調和型製品",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境調和型製品の提供",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の環境課題解決に向け、環境負荷低減に寄与する環境調和型製品を提供します",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、持続的な成長の実現に向け、「環境調和型製品の開発・提供でグリーン社会に貢献」、「気候変動への対応・環境負荷の低減」といった数多くの環境に関するマテリアリティを特定し、関連する情報を開示しています",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術の進展、顧客の環境意識の高まりを受けて、省エネルギー型製品やGHG排出抑制に寄与する製品のニーズが増加する",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、製品による環境負荷の低減と、新たな事業機会の創出という2つの観点から、環境調和型製品の提供を推進しています",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発・設計段階で製品のライフサイクルアセスメント（LCA）による環境影響の定量評価を実施するとともに、環境負荷の低減や機能の向上など前機種からの改善度を評価し、優れた製品を「SM-ECP",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境調和型製品の売上高比率を重要指標として掲げており、SM-ECP環境調和型製品の売上高比率の90%以上を継続することを目標としています",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境調和型製品の事例①",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの環境調和型製品SM-ECPの一つ",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境調和型製品の事例②",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来装置と比較し、高精度化に加え、パーティクル対策、検査機能の向上により製品の不良率削減にも寄与しています",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "電源仕様を従来の物から見直し、電力消費量の削減をおこなうことで、資源を有効に活用し、お客様に満足いただける環境調和型製品を提供しております",
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/data/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/ir-list.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ビジョンでは、お客様の将来課題を解決する製品・サービス一体の提案を通じ、お客様価値の最大化を実現することを目指します",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置（SPE）：グローバルニッチトップ製品拡大を核にさらなる拡大",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "フラットパネルディスプレイ（FPD）製造装置：新型・次世代向け製品を拡大",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "課題・ニーズの把捉と、解決につながる技術開発、製品・サービスへの展開",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品とサービスのより一体的な提案により、全体付加価値向上",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルニッチトップ製品を武器にしたSPEプレーヤーとして事業を拡大",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存グローバルニッチトップ製品とそのコア技術を核に、新規顧客・市場や今後期待される領域へ展開",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資成果の刈取りを進めながら、グローバルニッチトップ製品の機能アップ、新機種開発・上市に向け、緩めることなく投資継続",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス一体経営（目指すビジネスモデル）",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業規模の更なる拡大推進",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "※ IPLUS：Issue & Need（課題とニーズの把握）、Propose（提案）、Leading Application（開発＆アプリケーション）、Unique Product（独自製品）、Support & Service（サポート＆サービス）",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/general.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/analyst.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合わせ",
+    "url": "https://www.shibaura.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.shibaura.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "収集された情報は Google LLC のプライバシーポリシーに基づき、同社のサービス提供・維持・改善等の目的でも利用される場合があります",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "収集データは、上記の目的の範囲で、業務を委託する外部サービス（アクセス解析・配信など）に取り扱わせる場合があります",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "長年培ってきたコア技術を強みに、経済的・社会的価値を創出し、",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自らの強みを最大化し、持続的成長を目指します",
+    "url": "https://www.shibaura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "芝浦メカトロニクスグループの特長や強み、目指す将来像などを早わかりで紹介します",
+    "url": "https://www.shibaura.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1939年（昭和14年）10月12日",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 芝浦メカトロニクス株式会社",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度、10年後のありたい姿を描いた長期経営ビジョンである「芝浦ビジョン2033」を策定しました",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月1日に株式分割（1株→5株）を実施しました",
+    "url": "https://www.shibaura.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期以前の１株当たり配当金（年間）は株式分割後ベースに調整しています",
+    "url": "https://www.shibaura.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "1939年（昭和14年）10月12日です",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1969年10月",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年2月",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1939年、東京芝浦電気（現・東芝）のモータ事業を一部継承し、芝浦製作所を設立",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年、真空ポンプの徳田製作所と合併し、1998年には半導体製造装置等の東芝メカトロニクスと合併し、社名を芝浦メカトロニクスに変更しました",
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年就任",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年就任",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年就任",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年就任",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年〜",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年〜",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年〜",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年〜",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "1939年10月、",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "1998年に東芝メカトロニクスと合併して芝浦メカトロニクスとなり、2023年に",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年には",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年以降の社長は3〜7年ほどで交代しており、10年を超える長期政権は確かめられる範囲にない",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月執筆予定",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年〜現任",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "1939年、芝浦京町製作所として横浜で発足",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "1998年の東芝メカトロニクスとの合併と液晶製造装置への参入、2023年の東芝による全株売り出しまでの沿革と経緯を執筆",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 1株配当60円・配当性向35.8%",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 連結従業員数1,269名・平均年収953万円（単体621名）",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "芝浦メカトロニクスグループの特長や強み、目指す将来像などを早わかりで紹介します",
+    "url": "https://www.shibaura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業・業績などについて推奨・論評を行う証券会社のアナリストを紹介しております",
+    "url": "https://www.shibaura.co.jp/ir/analyst.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、上記は投資家の皆様に当社の業績などを分析し予測などを行っているアナリスト、調査機関についてご紹介する趣旨で掲載しており、当社株式の売買を勧誘し推奨するものではありません",
+    "url": "https://www.shibaura.co.jp/ir/analyst.html",
+    "pass": 1
+   },
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "製品・サービス一体経営（目指すビジネスモデル）",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "芝浦メカトロニクス 早わかり — 芝浦メカトロニクス 早わかり 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/at-a-glance.html",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦ビジョン2033／中期経営計画 | 芝浦メカトロニクス 株式会社 — 芝浦ビジョン2033／中期経営計画 | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 投資家情報",
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織／事業部・事業所 | 芝浦メカトロニクス 株式会社 — 組織／事業部・事業所 | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/org.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 芝浦メカトロニクス株式会社 — 企業情報 - 芝浦メカトロニクス株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > company",
+    "url": "https://www.shibaura.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 芝浦メカトロニクス 株式会社 — 沿革 | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - 芝浦メカトロニクス株式会社 — 決算説明 会 資料 - 芝浦メカトロニクス株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 投資家情報 > IR資料室",
+    "url": "https://www.shibaura.co.jp/ir/data/material.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 - 芝浦メカトロニクス株式会社 — IR 資料 室 - 芝浦メカトロニクス株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 投資家情報",
+    "url": "https://www.shibaura.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 | 芝浦メカトロニクス 株式会社 — 投資家情報 | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > ...",
+    "url": "https://www.shibaura.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書／アニュアルレポート | 芝浦メカトロニクス 株式会社 — 統合報告書／アニュアルレポート | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 投資家情報 > IR資料室",
+    "url": "https://www.shibaura.co.jp/ir/data/integrated.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - 芝浦メカトロニクス株式会社 — IRニュース - 芝浦メカトロニクス株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 投資家情報",
+    "url": "https://www.shibaura.co.jp/ir/ir-list.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織／ 事業 部・ 事業 所 | 芝浦メカトロニクス 株式会社 — 組織／ 事業 部・ 事業 所 | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/org.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 芝浦メカトロニクス株式会社 — 会社概要 - 芝浦メカトロニクス株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "拠点 | 芝浦メカトロニクス 株式会社 — 拠点 | 芝浦メカトロニクス 株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/base.html",
+    "pass": 3
+   },
+   {
+    "quote": "ごあいさつ - 芝浦メカトロニクス株式会社 — ごあいさつ - 芝浦メカトロニクス株式会社 芝浦メカトロニクス株式会社 https://www.shibaura.co.jp > 企業情報",
+    "url": "https://www.shibaura.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦メカトロニクス の歴代 社長 - The社史 — 芝浦メカトロニクス の歴代 社長 - The社史 The社史 https://the-shashi.com > 芝浦メカトロニクスの歴史",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦メカトロニクス 早わかり - YouTube — 芝浦メカトロニクス 早わかり - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=1aAgZoNZbWk",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦メカトロニクス ・今村圭吾氏 研究開発に積極投資 — 芝浦メカトロニクス ・今村圭吾氏 研究開発に積極投資 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/609474",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦メカトロニクス 【6590】の 社長 ・役員 - キタイシホン — 芝浦メカトロニクス 【6590】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6590/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント売上",
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shibaura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/company/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/integrated.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/ir-list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/financial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/schedule.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/general.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/analyst.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/report/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/annual_2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/highlights_2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/annual_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/highlights_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/annual_2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/highlights_2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/annual_2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shibaura.co.jp/ir/data/pdf/annual_2018.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://the-shashi.com/tse/6590/ceo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "芝浦メカトロニクス",
+   "results": [
+    "https://www.shibaura.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E8%8A%9D%E6%B5%A6%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://www.youtube.com/watch?v=1aAgZoNZbWk",
+    "https://www.nikkei.com/nkd/company/?scode=6590",
+    "https://www.youtube.com/@SHIBAURA-Channel",
+    "https://ja.wikipedia.org/wiki/芝浦メカトロニクス",
+    "https://grokipedia.com/page/Shibaura_Mechatronics",
+    "https://finance.yahoo.co.jp/quote/6590.T",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6590",
+    "https://www.youtube.com/watch?v=ssI9Wt0062M"
+   ]
+  },
+  {
+   "query": "芝浦メカトロニクス ビジネスモデル",
+   "results": [
+    "https://www.shibaura.co.jp/company/at-a-glance.html",
+    "https://www.shibaura.co.jp/ir/strategy.html",
+    "https://www.shibaura.co.jp/company/org.html",
+    "https://www.shibaura.co.jp/company/",
+    "https://www.shibaura.co.jp/company/history.html",
+    "https://jbpress.ismedia.jp/articles/-/89405",
+    "https://www.shibaura.co.jp/ir/",
+    "https://ja.wikipedia.org/wiki/%E8%8A%9D%E6%B5%A6%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://www.shibaura.co.jp/",
+    "https://consovation.com/芝浦メカトロニクスのビジネスモデルが生む成長/"
+   ]
+  },
+  {
+   "query": "芝浦メカトロニクス 決算説明資料",
+   "results": [
+    "https://www.shibaura.co.jp/ir/data/material.html",
+    "https://www.shibaura.co.jp/ir/data/",
+    "https://www.shibaura.co.jp/ir/",
+    "https://www.shibaura.co.jp/ir/data/integrated.html",
+    "https://www.shibaura.co.jp/ir/ir-list.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260513528725/",
+    "https://irbank.net/E01757/reports",
+    "https://www.buffett-code.com/company/6590/library",
+    "https://www.shibaura.co.jp/ir/data/houkoku.html",
+    "https://www.shibaura-machine.co.jp/jp/ir/library/hosoku/"
+   ]
+  },
+  {
+   "query": "芝浦メカトロニクス 事業系統図",
+   "results": [
+    "https://www.shibaura.co.jp/company/org.html",
+    "https://www.shibaura.co.jp/company/at-a-glance.html",
+    "https://www.shibaura.co.jp/company/info.html",
+    "https://www.shibaura.co.jp/ir/",
+    "https://www.shibaura.co.jp/company/base.html",
+    "https://jbpress.ismedia.jp/articles/-/89405",
+    "https://www.shibaura.co.jp/",
+    "https://www.youtube.com/watch?v=1aAgZoNZbWk",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6590",
+    "https://ja.wikipedia.org/wiki/芝浦メカトロニクス"
+   ]
+  },
+  {
+   "query": "芝浦メカトロニクス 社長 インタビュー",
+   "results": [
+    "https://www.shibaura.co.jp/company/message.html",
+    "https://the-shashi.com/tse/6590/ceo/",
+    "https://www.youtube.com/watch?v=1aAgZoNZbWk",
+    "https://www.nikkan.co.jp/articles/view/609474",
+    "https://kitaishihon.com/company/6590/board-of-director",
+    "https://dempa-digital.com/article/177872",
+    "https://www.nikkei.com/article/DGXZQODZ00033_V20C21A3000000/",
+    "https://www.youtube.com/@SHIBAURA-Channel",
+    "https://www.sangyo-times.jp/article.aspx?ID=8173"
+   ]
+  }
+ ],
+ "missing": {
+  "お金の形": "記載なし（3回確認済み：公式19頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

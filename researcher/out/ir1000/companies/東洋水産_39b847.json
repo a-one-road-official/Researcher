@@ -1,0 +1,1693 @@
+{
+ "name": "東洋水産",
+ "aliases": [],
+ "context": "証券コード2875／食料品／プライム（内国株式）／2026.03期 売上高536,636百万円 営業利益率16.0%",
+ "researched_at": "2026-11-02T18:45:27.651094+00:00",
+ "official_url": "https://www.maruchan.co.jp/",
+ "identified_by": "search:ddgs:google:東洋水産",
+ "profile": {
+  "設立": [
+   {
+    "label": "創　立",
+    "value": "1953年3月25日",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "label": "創業者",
+    "value": "森 和夫",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1953年 （昭和28年） 3月25日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数(連結)",
+    "value": "4,717人",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結: 4,696人 単独: 2,189人 （2025年3月31日現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高(連結）",
+    "value": "5,366億円（2026年3月期）",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "百万円 361,495 435,786 489,013 512,277 536,636",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 5076億円 単独: 2234億95百万円 （2025年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "加工食品事業、水産事業、冷凍・冷蔵事業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/reports/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/reports/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせフォーム | お客様窓口 | 東洋水産株式会社",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口メニュー",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へお送りするお返事のメールは、今回いただいたお問い合わせにお答えすることを目的とし、お客様個人宛にお送りするものです",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からのメール受信後、弊社から受信確認メールを送信させていただきます",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "（お客様相談室 0120-181-874）",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご入力いただきます個人情報（お名前、メールアドレス、郵便番号、住所、電話番号）は、ご意見やお問い合わせ内容について、回答するために利用させていただきます",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、法令などにより開示を求められた場合を除き、お客様の同意なしに、第三者に開示・提供することはございません",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "※お客様にご入力いただいた個人情報は、SSL暗号化通信で送信されており、厳重に保護されております",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/company/project/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産グループが一体となり、やる気と誠意を持ち「安全でおいしい商品」「確実なサービス」をお客様にお届けし、株主様をはじめステークホルダーの皆様が笑顔になれるようチャレンジし続けてまいります",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、顧客第一主義のもと「お客様により良い商品、サービスを提供することにより喜びと満足のある生活に貢献する」ことを経営理念としております",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「安全でおいしい商品」「確実なサービス」をお客様にお届けし、お客様から支持されることによって信頼される企業グループを目指しております",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "内部留保に関しましては、急速な技術革新や顧客ニーズの変化等に対応するため、企業体質の強化及び開発投資等に活用し、企業価値の向上を目指してまいります",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ニーズの変化に対応してより良い商品の提案を行うために研究開発を重視し、併せて商品の安全性を確保する",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業分野において顧客ニーズに対応した地域別、商品別の販売促進を強化し積極的な営業活動を実施する",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp:443/irnews/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/ekessan/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産グループが一体となり、やる気と誠意を持ち「安全でおいしい商品」「確実なサービス」をお客様にお届けし、株主様をはじめステークホルダーの皆様が笑顔になれるようチャレンジし続けてまいります",
+    "url": "https://www.maruchan.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/environment/climate_change_response.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/environment/procurement_policy_palm_oil.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口（お問い合わせ）",
+    "url": "https://www.maruchan.co.jp/csr/environment/environmentally_friendly.html",
+    "pass": 1
+   },
+   {
+    "quote": "大盛り系縦型カップ麺で10代後半から30代前半のコアな縦型カップ麺ユーザーをターゲットとした商品",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "カップ麺を含む即席麺をあまり食べる事のない30代前後の女性ユーザー向けに特化した縦型カップ麺）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーからの意見を商品開発にフィードバックする試みも進んでおり、コンビニ限定フレーバーなど消費者参加型の企画も注目を集めています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "即席麺市場はブランド力が勝負を左右する要因の一つであり、顧客との接点を増やしてファンを獲得・維持することが不可欠だからです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みが顧客との長期的な信頼関係を育んでいるのです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産の顧客は国内外を問わず、幅広い年齢層や食文化の異なる人々にわたります",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこうした多面的な顧客セグメントが生まれたのかというと、即席麺という商品特性上、国境を越えて共通するニーズがある点が大きいです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "また、低価格帯からプレミアムラインまで揃え、さまざまな所得層や嗜好に対応できる商品ポートフォリオを構築した結果、多様な顧客セグメントを取り込むことに成功しています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内では健康志向や高付加価値商品のトレンドが続いており、そこに対応することで新しい顧客層を取り込む余地があります",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "業務用冷凍食品 カタログダウンロード | 商品情報 | 東洋水産株式会社",
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報メニュー",
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/csr/reports/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/csr/reports/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "4.環境に配慮した商品・サービスの提供",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷の低減を目指した商品・サービスの提供を推進します",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "排出量の対象範囲はScope1、Scope2及びScope3の一部（自社商品配送に伴う排出量）",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/csr/reports/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/csr/reports/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社商品の取扱店に関するお問い合わせの場合には、ご住所の情報も必ずご入力願います",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品について",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "その他の商品",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品以外のご質問について",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "ロサンゼルスオリンピック公式麺製品に認定",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/company/project/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/company/project/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年発売のチルド麺「マルちゃん焼そば3人前」、1978年発売の「赤いきつねうどん」並びに1980年発売の「緑のたぬき天そば」といった多数のロングセラー商品が生まれ、2011年発売の「マルちゃん正麺」につきましては、袋麺の新しい価値を創造した商品として好評を頂いております",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産グループが一体となり、やる気と誠意を持ち「安全でおいしい商品」「確実なサービス」をお客様にお届けし、株主様をはじめステークホルダーの皆様が笑顔になれるようチャレンジし続けてまいります",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、顧客第一主義のもと「お客様により良い商品、サービスを提供することにより喜びと満足のある生活に貢献する」ことを経営理念としております",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「安全でおいしい商品」「確実なサービス」をお客様にお届けし、お客様から支持されることによって信頼される企業グループを目指しております",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "業務改革による生産性向上やコスト削減、高付加価値商品の開発、キャッシュ・フロー経営の重視を徹底してまいります",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後の見通しにつきましては、一部に景気回復の兆しが見えるものの、完全な消費回復が不透明な中で、消費者の商品選別の多様化が進み、一層の競争激化が進むと思われます",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品競争力の確保",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ニーズの変化に対応してより良い商品の提案を行うために研究開発を重視し、併せて商品の安全性を確保する",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業分野において顧客ニーズに対応した地域別、商品別の販売促進を強化し積極的な営業活動を実施する",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp:443/irnews/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp:443/irnews/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/ekessan/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー別商品検索",
+    "url": "https://www.maruchan.co.jp/ir/ekessan/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年発売のチルド麺「マルちゃん焼そば3人前」、1978年発売の「赤いきつねうどん」並びに1980年発売の「緑のたぬき天そば」といった多数のロングセラー商品が生まれ、2011年発売の「マルちゃん正麺」につきましては、袋麺の新しい価値を創造した商品として好評を頂いております",
+    "url": "https://www.maruchan.co.jp/ir/management/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/reports/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/reports/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/company/project/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp:443/irnews/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/ekessan/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/environment/climate_change_response.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/environment/procurement_policy_palm_oil.html",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産のローリングストック",
+    "url": "https://www.maruchan.co.jp/csr/environment/environmentally_friendly.html",
+    "pass": 1
+   },
+   {
+    "quote": "サッカー日本代表オフィシャルライセンス商品）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内でもコンビニや大手スーパーと協力して限定商品を販売し、高付加価値商品として差別化を図ることで、単価アップやリピート購入につなげています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%9D%91%E5%B0%86%E4%B9%9F",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年度 マルちゃん杯少年柔道大会",
+    "url": "https://www.maruchan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 地域イベントへの協賛",
+    "url": "https://www.maruchan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度東洋水産グループ環境目標・実績",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度目標",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度実績",
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1953年3月25日",
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1953年、築地市場で誕生し、冷凍マグロの輸出事業からスタートした",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "1975年発売のチルド麺「マルちゃん焼そば3人前」、1978年発売の「赤いきつねうどん」並びに1980年発売の「緑のたぬき天そば」といった多数のロングセラー商品が生まれ、2011年発売の「マルちゃん正麺」につきましては、袋麺の新しい価値を創造した商品として好評を頂いております",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年にはアメリカ ロサンゼルスに現地法人マルチャンインクを設立し、今日ではアメリカ国内の4工場にて即席麺を製造し北米に供給する体制をとっております",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 | IRライブラリー：最新の決算データ | IR | 東洋水産株式会社",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期（平成30年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期（平成29年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期（平成28年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期（平成27年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期（平成26年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期（平成25年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期（平成24年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月期（平成23年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月期（平成22年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月期（平成21年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年3月期（平成20年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年3月期（平成19年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年3月期（平成18年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月期（平成17年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年3月期（平成16年3月期）",
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月25日",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月30日",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算参考資料",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "1953年に設立しました",
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年に東京証券取引所の市場第2部に上場しました",
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruchan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "決算情報・セグメント別概要・会社概要",
+    "url": "https://www.maruchan.co.jp/csr/reports/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決算情報・セグメント別概要・会社概要",
+    "url": "https://www.maruchan.co.jp/csr/reports/",
+    "pass": 1
+   },
+   {
+    "quote": "連結決算データ・セグメント別売上高をグラフなどで分かりやすくご覧いただけます",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこうした多面的な顧客セグメントが生まれたのかというと、即席麺という商品特性上、国境を越えて共通するニーズがある点が大きいです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "また、低価格帯からプレミアムラインまで揃え、さまざまな所得層や嗜好に対応できる商品ポートフォリオを構築した結果、多様な顧客セグメントを取り込むことに成功しています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、以下の６部門はセグメント情報における報告セグメントの区分と同一であります",
+    "url": "https://ai-analyst-ir.com/factbook/2875/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "投融資の厳選ならびに在庫の削減に取り組むことにより、財務体質の強化を目指す",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に近年は、アメリカやメキシコを中心とした北米市場において現地の即席麺需要を捉えた「海外即席麺事業」が驚異的な成長を遂げており、グローバルな収益基盤と高いブランド力を有する点に最大の強みを持っています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産が強みとするリソースには、大規模な製造設備、グローバルな研究開発チーム、そして海外における「Maruchan」ブランドの知名度が含まれます",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "東洋水産の会社概要をご紹介します",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産の企業理念をご紹介します",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "創業からの東洋水産のあゆみをご紹介します",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋水産の事業内容をご紹介します",
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みは、店舗や家庭で賞味期限切れにより廃棄されてしまう食品ロスの削減につながります",
+    "url": "https://www.maruchan.co.jp/csr/environment/environmentally_friendly.html",
+    "pass": 1
+   },
+   {
+    "quote": "原材料を供給する農漁業関係者や物流企業、さらには現地の販売代理店や小売店など、サプライチェーン全体を通じてさまざまなパートナーと連携しています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "食品企業は安全性や品質を第一に考えるため、信頼できるパートナーとの長期的な関係構築が必須だったからです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "こうして幅広いパートナー網を築くことで、多様なマーケットへの安定的な参入と拡販を実現しているのです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーマーケットやコンビニエンスストアなどのリアル店舗に加え、近年はオンラインショップを含むECサイトにも力を入れています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "生活様式の多様化やインターネット購買の普及により、従来の店舗販売だけでは消費者の購買行動をすべてカバーできなくなったからです",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "東洋水産の最新IR資料から読み解くビジネスモデルと成長戦略 4300億円達成への挑戦 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産の最新IR資料から読み解くビジネスモデルと成長戦略 4300億円達成への挑戦",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの9つの要素",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした多角的な収益構造が成長のエンジンとなっています",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "日清食品ホールディングスのビジネスモデルと成長戦略を徹底解剖して未来を切り開く方法",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "Ｓ Ｆｏｏｄｓ株式会社のビジネスモデルと成長戦略を探る魅力",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略に注目 株式会社ピックルスホールディングスのビジネスモデルと魅力を徹底解説",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "森永乳業株式会社のビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを読み解く 株式会社J-オイルミルズのIR資料から見る成長戦略",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フィード・ワンの魅力に迫るビジネスモデル解説",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "今がチャンスデルソーレのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "最新IR資料から読み解く株式会社キッズスターのビジネスモデルと成長戦略2023",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "[事業系統図] 以上述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://ai-analyst-ir.com/factbook/2875/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東洋水産 - Wikipedia — 東洋水産株式会社 （とうようすいさん、 英: Toyo Suisan Kaisha,Ltd.[3]）は、 東京都 港区 港南 （品川駅 前）に本社を置く、 日本 の大手 食品 会社である。 インスタントラーメン のブランド名は「マルちゃん」。",
+    "url": "https://ja.wikipedia.org/wiki/東洋水産",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産の最新IR資料から読み解くビジネスモデルと成長戦略 4300億円... — Jan 29, 2025 · ビジネスモデルの9つの要素 価値提案 東洋水産が提供する価値の中心は、手軽ながら高品質な即席麺や水産食品を消費者に届けることです。 袋麺やカップ麺など、多彩な味わいとリーズナブルな価格帯を両立させることで幅広い層の支持を集めています。 最近では健康志志向の商品や現地の ...",
+    "url": "https://consovation.com/東洋水産の最新ir資料から読み解くビジネスモデル/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 | IR | 東洋水産株式会社 - MARUCHAN — 東洋水産の企業情報、IR情報、採用情報についてご覧いただけます。",
+    "url": "https://www.maruchan.co.jp/ir/management/mid_plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針 | IR | 東洋水産株式会社 — 東洋水産の企業情報、IR情報、採用情報についてご覧いただけます。",
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年7月】東洋水産（2875）企業分析：北米首位と営業利益858億円... — Mar 20, 2026 · はじめに 「赤いきつね」「緑のたぬき」「マルちゃん正麺」で知られる東洋水産は、国内の即席麺メーカーという印象が強い。しかし、利益の中心はすでに北米市場へ移っている。2026年3月期は売上高5,366億円、営業利益858億円となり、いずれも過去最高を更新した。海外即席麺事業の営業利益 ...",
+    "url": "https://worklife-carrer.hatenablog.com/entry/2026/03/20/142209",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 東洋水産株式会社 - MARUCHAN — 東洋水産の企業情報、IR情報、採用情報についてご覧いただけます。",
+    "url": "https://www.maruchan.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー：決算説明会資料 | IR | 東洋水産株式会社 — 東洋水産の企業情報、IR情報、採用情報についてご覧いただけます。",
+    "url": "https://www.maruchan.co.jp/ir/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産株式会社 — 決算説明資料 - EDINET DB — 東洋水産株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E00461/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産（2875）のIR情報・決算資料 - IRBANK — Jul 1, 2026 · 東洋水産（2875）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/2875/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【東洋水産】 [2875]IR情報 中期経営計画や決算短信 | 日経電子版 — 【日本経済新聞】東洋水産 [2875]のIR情報。決算短信や中期経営計画などの適時開示情報やプレスリリース、有価証券報告書などのIRに関する最新 ...",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2875",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 企業情報 | 東洋水産株式会社 - MARUCHAN — 東洋水産のローリングストック CSR活動 食の安全・安心の取り組み 環境保全の取り組み 地域・社会貢献の取り組み 社員との取り組み 行動規範・ガバナンス 統合報告書／コミュニケーションレポート お客様窓口 よくお寄せいただくご質問 お問い合わせ ...",
+    "url": "https://www.maruchan.co.jp/company/project/",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産（2875）の事業内容｜有報「事業の内容」｜AIR日本株ファクト... — [事業系統図] 以上述べた事項を事業系統図によって示すと次のとおりであります。 （注）1 水産食品事業の仕入・販売は、グループ会社相互間においても行っております。",
+    "url": "https://ai-analyst-ir.com/factbook/2875/business",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産（2875）の事業内容、事業の状況や経営戦略、事業等のリスク... — 東洋水産、連結子会社5社（㈱フレッシュダイナー他）及び非連結子会社2社（東和エステート㈱他）により構成されております。 [事業系統図] 以上述べた事項を事業系統図によって示すと次のとおりであります。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=2875",
+    "pass": 3
+   },
+   {
+    "quote": "2875 東洋水産 | 事業内容 - 有価証券報告書-第74期(令和3年4月1日-令... — Jun 23, 2022 · 以上述べた事項を事業系統図によって示すと次のとおりであります。 (注)1 水産食品事業の仕入・販売は、グループ会社相互間においても行っております。 2 冷蔵事業を営んでいる会社の倉庫には、グループ会社の水産食品事業等の貨物も保管されております。",
+    "url": "https://irbank.net/E00461/business?f=S100OC60",
+    "pass": 3
+   },
+   {
+    "quote": "【企業概要・事業モデルの比較】東洋水産（2875）vs 日清食品HD（2897... — Apr 24, 2026 · 東洋水産（2875）の事業モデルと3つの特徴 日清食品HD（2897）の事業モデルと3つの特徴 【直近の業績推移とマクロ環境・セクターKPIの考察】 マクロ環境の影響（追い風と向かい風） 食品・即席麺セクター特有のKPI比較 【今後の成長戦略の特徴と財務的観点からの考察】",
+    "url": "https://note.com/kabutabi2000/n/nc59ab53b76a7",
+    "pass": 3
+   },
+   {
+    "quote": "今村将也 - Wikipedia — 1981年（昭和56年）4月 東洋水産入社。関西事業部長等を歴任。 2011年（平成23年）6月 取締役。 2012年（平成24年）6月 常務取締役。 2013年（平成25年）6月 専務取締役兼即席麺本部長。 2014年（平成26年）6月 代表取締役社長に就任。社長を退任した 小畑一雄 は顧問 [5]。 2018年（平成30年）5月 日本 ...",
+    "url": "https://ja.wikipedia.org/wiki/今村将也",
+    "pass": 3
+   },
+   {
+    "quote": "ご挨拶（社長メッセージ） | IR | 東洋水産株式会社 — 株主・投資家のみなさまへ 1953年、築地市場で誕生し、冷凍マグロの輸出事業からスタートした 東洋水産は、現在では水産食品事業にとどまらず、冷蔵事業、加工食品事業を手がける総合食品メーカーに成長し、新しい価値の創造に努めてまいりました。 1975年発売のチルド麺「マルちゃん ...",
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産、新社長に住本憲隆氏 - 日本食糧新聞・電子版 — May 17, 2023 · 東洋水産は12日開催の取締役会で、経営体制のさらなる強化のため、住本憲隆専務取締役を新社長にする人事を決定した。今村将也社長は代表取締役副会長に就く。就任日は6月22日付。 住本憲隆氏（すみもと・のりたか）1966年2月 […]",
+    "url": "https://news.nissyoku.co.jp/news/kubo20230515043745814",
+    "pass": 3
+   },
+   {
+    "quote": "東洋水産 次期社長に住本専務 9年ぶりトップ交代 | 食品新聞 WEB版（... — May 12, 2023 · 東洋水産は12日、住本憲隆専務取締役が代表取締役社長に昇任する人事を発表した。6月22日付。今村将也代表取締役社長は代表取締役副会長に就く。堤殷代表取締役会長と3名で代表権を持ち、経営体制のさらなる強化を図る。",
+    "url": "https://shokuhin.net/75154/2023/05/12/kakou/sokuseki/",
+    "pass": 3
+   },
+   {
+    "quote": "住本憲隆氏の経歴｜東洋水産の歴代社長（2023年〜現任） — Oct 23, 2026 · 東洋水産（社長）住本憲隆氏。2023年6月、今村将也氏の後任として社長に就任した。連結売上高は2024年3月期4890億円、2025年3月期5076億円、2026年3月期5366億円と、在任の3期とも前期を上回った。",
+    "url": "https://the-shashi.com/tse/2875/executives/ceo/sumimoto-noritaka/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.maruchan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/reports/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/customer/inquiry.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/company/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/company/info/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/company/project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/management/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/library/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/individual_investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp:443/irnews/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/event/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/ekessan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/management/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/environment/climate_change_response.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/environment/procurement_policy_palm_oil.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/csr/environment/environmentally_friendly.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_004.pdf?v3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_005.pdf?n=20260423",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_006.pdf?2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_007.pdf?v3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/pdf/2026_bus_kv_008.pdf?v2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_001.png?n=20260419",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_002.png?n=20260419",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_003.png?n=20260419",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_004.png?n=20260419",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_005.png?n=20260420",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_006.png?2025",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_007.png?n=20260419",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/products/category/business/images/bus_kv_008.png?n=20260419",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E6%9D%B1%E6%B4%8B%E6%B0%B4%E7%94%A3%E3%81%AE%E6%9C%80%E6%96%B0ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-analyst-ir.com/factbook/2875/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%9D%91%E5%B0%86%E4%B9%9F",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東洋水産",
+   "results": [
+    "https://ja.wikipedia.org/wiki/東洋水産",
+    "https://www.maruchan.co.jp/",
+    "https://finance.yahoo.co.jp/quote/2875.T",
+    "https://www.nikkei.com/nkd/company/?scode=2875",
+    "https://finance.yahoo.co.jp/quote/2875.T/profile",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=2875",
+    "https://www.maruchan.co.jp/products/"
+   ]
+  },
+  {
+   "query": "東洋水産 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/東洋水産",
+    "https://consovation.com/東洋水産の最新ir資料から読み解くビジネスモデル/",
+    "https://www.maruchan.co.jp/ir/management/mid_plan.html",
+    "https://www.maruchan.co.jp/ir/management/policy.html",
+    "https://worklife-carrer.hatenablog.com/entry/2026/03/20/142209",
+    "https://note.com/kabutabi2000/n/nc59ab53b76a7",
+    "https://nhggp.com/wp-content/uploads/2024/04/Toyo-Suisan-Presentation-25-April-2024-JPN.pdf"
+   ]
+  },
+  {
+   "query": "東洋水産 決算説明資料",
+   "results": [
+    "https://www.maruchan.co.jp/ir/",
+    "https://www.maruchan.co.jp/ir/library/presentations/",
+    "https://edinetdb.jp/company/E00461/presentations/",
+    "https://irbank.net/2875/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2875",
+    "https://treelazy.com/stock-jp/2875/conference",
+    "https://tdnet-pdf.kabutan.jp/20260515/140120260515536135.pdf"
+   ]
+  },
+  {
+   "query": "東洋水産 事業系統図",
+   "results": [
+    "https://www.maruchan.co.jp/company/project/",
+    "https://ai-analyst-ir.com/factbook/2875/business",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=2875",
+    "https://irbank.net/E00461/business?f=S100OC60",
+    "https://note.com/kabutabi2000/n/nc59ab53b76a7",
+    "https://www.buffett-code.com/company/2875/",
+    "https://www.maruchan.co.jp/irnews/upload/other/documents/6b1f452fd192eaf4a96ad62ad9d4843d1878b338.pdf"
+   ]
+  },
+  {
+   "query": "東洋水産 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/今村将也",
+    "https://www.maruchan.co.jp/ir/management/message.html",
+    "https://news.nissyoku.co.jp/news/kubo20230515043745814",
+    "https://shokuhin.net/75154/2023/05/12/kakou/sokuseki/",
+    "https://the-shashi.com/tse/2875/executives/ceo/sumimoto-noritaka/",
+    "https://the-shashi.com/tse/2875/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00611/052800011/"
+   ]
+  }
+ ],
+ "missing": {}
+}

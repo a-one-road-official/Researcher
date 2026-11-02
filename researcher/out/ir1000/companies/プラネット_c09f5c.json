@@ -1,0 +1,1589 @@
+{
+ "name": "プラネット",
+ "aliases": [],
+ "context": "証券コード2391／サービス業／スタンダード（内国株式）／2026.07期 売上高3,149百万円 営業利益率17.7%",
+ "researched_at": "2026-11-02T18:22:45.731056+00:00",
+ "official_url": "https://www.planet-van.co.jp/",
+ "identified_by": "search:yahoo_jp:プラネット",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "EDI基幹プラットフォームの構築・提供・運用",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "全国の消費者購買データを扱うビッグデータプラットフォームを運営。POS/ID-POSなど消費者データ分析や購買行動分析ソリューションを小売業、消費財メーカー等に開発・提供。データマーケティング支援。",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・国際貿易 ・物流及び倉庫サービス ・ネットワーク技術及び物流情報技術の提供他",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1985 年8月1日",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2000年10月10日",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2017年1月11日",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2006年11月1日",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットはEDIやSCMなどに関する将来ビジョンを、ユーザー・業界関係者・有識者などと共に提示してまいりました",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～利用者からは「いつもありがとう」「負担をかけたくない」の声～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～実際に申告を行った人は1.6％…対応アプリができれば利用者広がる可能性も？～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマホユーザーの4人に1人が毎日ゲームをしている",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.9 栄養ドリンク・エナジードリンクのコアユーザーは、２０・３０代男性",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "『プラネットユーザー会2026』開催のご案内",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "『プラネット ユーザー会 2026』開催決定",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットユーザー会 2025 開催：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットユーザー会 2024 開催：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "CLOSE UP USER(クローズアップユーザー)：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットユーザー会 2023 開催：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットユーザー会 2022 開催",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラネットユーザー会2022」をリアルで開催します 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「取引先データベース」システムリニューアル",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットユーザー会 2021 Webセミナー開催：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラネットユーザー会 2021」をオンラインで開催 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラネットユーザー会2020」Webセミナー開催：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラネットユーザー会2019」開催：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラネットユーザー会 2019」を開催 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "プラネット ユーザー会 2025を開催",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例紹介",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_essay",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_essay",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_essay",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_books",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_books",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_books",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先データベース",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用のお客様の声",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットEDIサービスをご利用頂いている",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社商品が「どの店舗に、いくつ、いくらで」納品されているのか",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "毎日受け取れるデータ配信サービス",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国の日常生活と日本製品購買に関する調査レポート",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品データベース画像を活用した画像認識モデル構築手法",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.243 宅配便・宅配サービスに関する意識調査",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高齢者介護 介護用品やサービスについてどう思う？",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～動画配信サービス時代、映画との付き合い方は？～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.187 宅配便・宅配サービスに関する意識調査",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「宅配便・宅配サービス」5年でこんなに変わった！",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～連携決済サービスは“電子マネー”が最多～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成を振り返る意識調査…日用品で最大のヒット商品はアレ",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～“実店舗のように商品が選べ、ネットスーパーのように配達してもらえる” が理想～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を一元管理業界全体の効率化と発展を目指す",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「商品データベース」サービスを終了いたしました 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報インフラ×ソリューションプロバイダーを目指して",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員 セールス＆サービス推進ユニット長 上原 英智",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報の一元管理を目的とした新会社",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社プロダクト・レジストリ・サービス」を共同設立 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Web発注サービスの機能追加および改修 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "もっと 知りたい！POSデータクレンジングサービス：",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品データベースのお問い合わせ機能にチャットボットを追加 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.2 新商品の配荷と消化を把握し 迅速な販促・生産計画の立案に活用",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物の心理学 ～消費者の商品選択の決め手",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "『2024年秋冬 新製品カタログ』を発行 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラシエ株式会社様 基幹ＥＤＩ、商品データベース活用事例",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「商品データベース」リニューアル",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "検索・ダウンロードや商品登録に便利な機能を追加",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ＰＯＳデータクレンジングサービス」",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「POSデータクレンジングサービス」リリース",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「取扱店舗検索サービス」を提供 利便性向上と購入機会創出を図る",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社小久保工業所様 商品データベース活用事例",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「POSデータクレンジングサービス」を提供",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大の商品情報レジストリーを構築",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新製品情報サイトを「THE PRODUCT TIMES」に統合",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "EDIサービスの「全銀TCP/IP手順」サポート終了間近！ 他",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "訪日リピータの日本製品購買に関する意識など、各種",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用・登録状況",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサービス ロジスティクス",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "アシスタントマネージャー カスタマーサービス統括",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサービス カスタマーフェイシング",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "新会社「プロダクト・レジストリ・サービス」ほか",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの新サービス、追加機能のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "商品マスタ登録支援",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社商品が「どの店舗に、いくつ、いくらで」納品されているのか",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "画像識別に基づく特定チェーンの店舗属性調査に関する研究",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "年配男性ほど「配偶者・パートナー」に耳そうじしてほしい！",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "スーパー（実店舗）vs ネットスーパー、便利で得なのはどちら？",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～“実店舗のように商品が選べ、ネットスーパーのように配達してもらえる” が理想～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「LOGITERAS(ロジテラス)」のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「取扱店舗検索サービス」を提供 利便性向上と購入機会創出を図る",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.5 ASNのデータセット例のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.4 「入荷検収データ」のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル時代の消費の実像とリアル店舗の役割",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.1 「出荷予定データ」のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vol.4「販売レポートサービス」のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例紹介",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの新サービス、追加機能のご紹介",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "このページでは、玉生がこれまで執筆した書評のうち、主なものをご紹介いたします",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "ホワイトフランチャイズ",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "当社創業者・玉生の家に代々伝わる古文書、プラネット設立のエピソード、また日々の生活で気になったものなどをエッセイにしましたので、ご紹介いたします",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_essay",
+    "pass": 1
+   },
+   {
+    "quote": "このページでは、卸売業の重要性に関して玉生が執筆した書籍や文章、玉生への取材記事、対談での発言、決算説明会での説明資料のうち、主なものをご紹介いたします",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "この課題を解決するため、日用品・化粧品業界の有力メーカー8社が協力し、そこにシステム構築・運用のパートナーとして株式会社インテックが参画、1985年8月、業界共通の通信基盤（VAN）と電子データ交換（EDI）の共通基盤を構築することを目的として、株式会社プラネットが設立されました",
+    "url": "https://www.planet-van.co.jp/aboutus/ec.html",
+    "pass": 1
+   },
+   {
+    "quote": "（１）監査等委員会がその職務を補助する使用人を置くことを求めた場合、必要に応じて監査等委員会と取締役（監査等委員であるものを除く）が協議の上指名する",
+    "url": "https://www.planet-van.co.jp/aboutus/comp.html",
+    "pass": 1
+   },
+   {
+    "quote": "監査等委員会が要請する期間は指名された使用人の指揮・命令・考課の権限は監査等委員会に移譲される",
+    "url": "https://www.planet-van.co.jp/aboutus/comp.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・店舗紹介",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社がクライアントやパートナー企業からよく言われるのは、「スピードが早いですよね」ということです",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "私自身の今があり、様々なクライアントやパートナー企業、素晴らしい社員に出会えたこと、素晴らしい仕事に向き合えたのも、「運が良かった」からだと思っています",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "学生団体紹介",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "1・2年生でもできる！インターンシップの紹介",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社代表取締役の矢嶋健二によるツインプラネット紹介インタビュー第3弾！",
+    "url": "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "pass": 3
+   },
+   {
+    "quote": "“鈴⽊奈々”や“村重杏奈”・“ミチ”・“よしあき”・“⽮吹奈⼦”・“新しい学校のリーダーズ（共同マネジメント）”など、タレントからモデル・俳優・アーティストまでオールジャンルで活躍する⼈材のマネジメント事業を行うほか、「たべっ⼦どうぶつ」や「⼑剣乱舞」などのIPを活かしたイベント・店舗の企画や運営、Web3プロジェクトのプロデュース、コスメなどのプロダクトプロデュース、プロモーション・メディア展開まで、様々な形でサービスを実施しています",
+    "url": "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "True Dataとプラネットの強みを活かすビッグデータビジネス",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_essay",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_books",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※ P.4 「多頻度小ロットは日本の流通の強み」",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/ec.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/greeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/idea.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/charter.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/vision_slogan.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/comp.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/bcp.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/users.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/users_b_edi.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラネットの強み",
+    "url": "https://www.planet-van.co.jp/aboutus/users_b_edi_wh.html",
+    "pass": 1
+   },
+   {
+    "quote": "※２ 発注元である卸売業から在庫預託を受けた卸売業、拠点運営３PL、小売業センターを含む",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注 在庫引当 配車計画 車両積込ピッキング出荷指示",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "荷、在庫、売上等の修正処理を行う",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注 在庫引当 配車計画 車両積込ピッキング出荷指示",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その先の変化をいち早く予測し、先手で動き仕掛けられてきたというのが当社の強みだと考えています",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここも大きなが強みとなっています",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "在庫管理とか、受発注業務とか、仕組みがハッキリしていて、それぞれミッションが明確に決まっています",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は簡単に言うとガールズのエンタメコンテンツを作っている会社なので、そういった点に敏感でないと、強みは出せません",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "消費者視点としての敏感さを持っている社員がいるというのが当社の強みですし、それがなかったら当社に就職する意味ってないかも知れません",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社はマーケティング部署や、エンターテイメント部署、商品開発部署、イベント企画部署といくつかの部署で構成されてますが、これらの部署間が連動して仕事しているのも当社の強みです",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "：ツインプラネットは創業当時からガールズマーケティングを強みとしていて、フェムテック事業や美容系のアイテムの商品開発などの業務においては当然女性社員の比率が高いです",
+    "url": "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、女性男性関係なく、興味の対象はファッション・美容以外のコンテンツでも、イラストレーター・音楽・サブカルチャー・飲食・アート・ヘルスケアなど、色々なコンテンツを扱っていることが特徴の一つなので、何かのジャンルに強みがあって自分の言葉で語れることが一つでもあれば、ぜひジョインしてもらえたらと思っています",
+    "url": "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月人気ベスト5を掲載しました",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年7月期第3四半期決算短信〔日本基準〕(非連結)",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年消費増税前、最も買いだめされた日用品はやはりアレだった",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年もシーズン到来の花粉症を調査…必見の克服エピソードも！",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 日本経済展望 「実感を伴う景気回復」に向けて",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年、買物の未来",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年度電子帳簿保存法の改正概要",
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年以前",
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "pass": 1
+   },
+   {
+    "quote": "平成２６年７月期 第２四半期決算説明会にて",
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985 年8月1日",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日現在",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日現在",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年10月10日",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月11日",
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代、日本の日用品・化粧品業界において、メーカーと卸売業者間の受発注業務は各社独自の方法で行われており、業務の非効率が大きな課題となっていました",
+    "url": "https://www.planet-van.co.jp/aboutus/ec.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月",
+    "url": "https://www.planet-van.co.jp/aboutus/greeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "1959年8月2日",
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年 明治大学 工学部卒",
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年 富士ゼロックス株式会社（現富士フイルムビジネスイノベーション株式会社）入社",
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年 株式会社プラネット 社外取締役に就任",
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年より現職",
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月25日",
+    "url": "https://www.planet-van.co.jp/aboutus/comp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 10 月 6 日",
+    "url": "https://www.planet-van.co.jp/pdf/info/20231006.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年7月14日",
+    "url": "https://www.planet-van.co.jp/pdf/info/20230714.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "令和８年10 月",
+    "url": "https://www.planet-van.co.jp/pdf/info/20261023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年８月 • 初版発行（version1.0）",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月 • 入荷検収データの運用を追加（version２.0）",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月 • 出荷梱包番号１、２に設定するコード体系の定義を追加",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202512-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年１月 • 初版発行",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月 • ITFシンボル及びケアマークの表示位置、使用するケアマークの",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年５月に設立された「日用品サプライチェーン協議会」へと引き継がれており、",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1990年代より、一貫パレチゼーションを指向し、パレットの標準化を進めてき",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1996年の導入以来、納品伝票の業界標準形式として認識され、多くの",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年8月",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202308.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年、あと5年ほどあると思うのですが長期的に考えて取り組んでいるということでしょうか？",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Vol.161 サブスクリプションに関する意識調査",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "最も利用されているサブスクは、やはり〇〇〇〇〇〇〇",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "品薄になったトイレットペーパー、家庭でのストック数は増えた？",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "～災害時、実際に役に立つのは非常食より日常のストック～",
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションビジネス",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "商流と物流の一体化実現に向けて",
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※製配販連携協議会WG 商流･物流におけるコード体系標準化WG資料に加筆",
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202512-1.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プラネット の強み｜個人投資家の皆さまへ｜株式会社 プラネット — プラネット の強み｜個人投資家の皆さまへ｜株式会社 プラネット 株式会社プラネット https://www.planet-van.co.jp > strongpoint_01",
+    "url": "https://www.planet-van.co.jp/ir/strongpoint_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "【BTC投資】メタ プラネットビジネスモデル をGemini AIで ... — 【BTC投資】メタ プラネットビジネスモデル をGemini AIで ... note https://note.com > 投資・マネー > 仮想通貨",
+    "url": "https://note.com/shinao39/n/n6facf1706775",
+    "pass": 3
+   },
+   {
+    "quote": "メタ プラネット とは？ビットコイン投資戦略や株価推移 — メタ プラネット とは？ビットコイン投資戦略や株価推移 ダイヤモンド・オンライン https://diamond.jp > crypto > market > metaplanet",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 ｜株主・投資家向け情報 - プラネット — 決算説明 会 資料 ｜株主・投資家向け情報 - プラネット 株式会社プラネット https://www.planet-van.co.jp > resultslib",
+    "url": "https://www.planet-van.co.jp/ir/resultslib.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | ワンダー プラネット 株式会社 — IRライブラリー | ワンダー プラネット 株式会社 ワンダープラネット株式会社 https://wonderpla.net > library",
+    "url": "https://wonderpla.net/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家向け情報｜株式会社 プラネット — 株主・投資家向け情報｜株式会社 プラネット 株式会社プラネット https://www.planet-van.co.jp > ...",
+    "url": "https://www.planet-van.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 プラネット — 株式会社 プラネット 株式会社プラネット https://www.planet-van.co.jp",
+    "url": "https://www.planet-van.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜店舗DXを推進する【 プラネット 】 — 会社概要｜店舗DXを推進する【 プラネット 】 pnet.co.jp https://www.pnet.co.jp > planet > outline",
+    "url": "https://www.pnet.co.jp/planet/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 双日プラネット株式会社 — 会社概要 - 双日プラネット株式会社 双日プラネット株式会社 https://www.sojitz-planet.com > 双日プラネットとは",
+    "url": "https://www.sojitz-planet.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "プラネット について｜株式会社 プラネット — プラネット について｜株式会社 プラネット g-planet.com https://www.g-planet.com > about_us",
+    "url": "https://www.g-planet.com/about_us/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ツイン プラネット 矢嶋 社長 インタビュー 〜次世代の ... — 株式会社ツイン プラネット 矢嶋 社長 インタビュー 〜次世代の ... bizcampus.biz https://bizcampus.biz > for_students > interview_cxo",
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "pass": 3
+   },
+   {
+    "quote": "ツイン プラネット で活躍するために必要な要素とは？ - Wantedly — ツイン プラネット で活躍するために必要な要素とは？ - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.planet-van.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/from_planet/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/vanvan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/research/inbound/inbound.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/event_seminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/chairman_library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/chairman_essay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/chairman_books",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/shiru/yuyoron/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/ec.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/greeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/president_profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/idea.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/charter.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/vision_slogan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/comp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/bcp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/users.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/users_b_edi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/aboutus/users_b_edi_wh.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.planet-van.co.jp/pdf/info/20231006.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/info/20230714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/info/20261023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202512-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202308-1-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202503-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.planet-van.co.jp/pdf/research/guideline202308.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=vzdnt4oz4RU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://macbee-planet.com/ir/library/briefing_materials.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet.com/sheets/wef-2024/japan-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "プラネット",
+   "results": [
+    "https://www.planet-van.co.jp/",
+    "https://www.planet.com/sheets/wef-2024/japan-jp",
+    "https://www.pnet.co.jp/planet/",
+    "https://dentalx.jp/",
+    "https://www.rarejob.com/englishlab/column/20170327/",
+    "https://planet-system.net/planetcms/company/",
+    "https://www.planet-van.co.jp/ir/",
+    "https://www.g-planet.com/about_us/",
+    "https://ja.wikipedia.org/wiki/プラネット_(企業)",
+    "https://www.planet-van.co.jp/aboutus/outline.html"
+   ]
+  },
+  {
+   "query": "プラネット ビジネスモデル",
+   "results": [
+    "https://www.planet-van.co.jp/ir/strongpoint_01.html",
+    "https://www.youtube.com/watch?v=vzdnt4oz4RU",
+    "https://finance.logmi.jp/articles/381284",
+    "https://note.com/shinao39/n/n6facf1706775",
+    "https://diamond.jp/crypto/market/metaplanet/",
+    "http://macbee-planet.com/",
+    "https://abc-chain.com/crypto/column/metaplanet/",
+    "https://metaplanet.jp/ja/about",
+    "https://prtimes.jp/main/html/rd/p/000000016.000138235.html",
+    "https://note.com/soranome/n/n6c3165f2283a"
+   ]
+  },
+  {
+   "query": "プラネット 決算説明資料",
+   "results": [
+    "https://www.planet-van.co.jp/ir/resultslib.html",
+    "https://macbee-planet.com/ir/library/briefing_materials.html",
+    "https://wonderpla.net/ir/library/",
+    "https://metaplanet.jp/ja/disclosures",
+    "https://www.planet-van.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2391",
+    "https://finance.logmi.jp/articles/382603",
+    "https://www.wellnet.co.jp/pages/ir-library.html",
+    "https://www.release.tdnet.info/inbs/140120261009549009.pdf",
+    "https://irbank.net/2391/ir"
+   ]
+  },
+  {
+   "query": "プラネット 事業系統図",
+   "results": [
+    "https://www.planet-van.co.jp/",
+    "https://www.planet.com/sheets/wef-2024/japan-jp",
+    "https://www.pnet.co.jp/planet/outline/",
+    "https://www.sojitz-planet.com/about/company/",
+    "https://www.g-planet.com/about_us/",
+    "https://finance.logmi.jp/articles/381284",
+    "https://www.taiju-life.co.jp/planet/",
+    "https://planet-system.com/",
+    "https://www.planet-van.co.jp/ir/overview.html",
+    "https://donburi.accountant/report/?es=3793&t=3&dn=11"
+   ]
+  },
+  {
+   "query": "プラネット 社長 インタビュー",
+   "results": [
+    "https://bizcampus.biz/for_students/interview_cxo/3419.html",
+    "https://www.wantedly.com/companies/company_4434180/post_articles/394414",
+    "https://gendai.media/articles/-/163047",
+    "https://shachomeikan.jp/industry_article/2977",
+    "https://www.instagram.com/p/B-PH3YHhlSc/",
+    "https://twinplanet.co.jp/mood-makers_01/",
+    "https://cir.nii.ac.jp/crid/1522543656091152896",
+    "https://xtrend.nikkei.com/atcl/contents/18/00325/00032/",
+    "https://www.green-japan.com/company/3674/interview",
+    "https://hoitto-hc.com/5547/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部5頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部5頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部5頁・検索5回）"
+ }
+}
