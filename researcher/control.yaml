@@ -7,3 +7,4 @@ topics:
   jgs17_market: {run: false, shards: 10, per_run: 4}
   deal_size: {run: false, shards: 4, per_run: 3}
   bundle_bench: {run: false, shards: 3, per_run: 3}
+  ir1000: {run: false, shards: 12, per_run: 8}

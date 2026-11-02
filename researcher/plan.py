@@ -23,6 +23,10 @@ def main() -> int:
     for name, cfg in (ctl.get("topics") or {}).items():
         if not cfg or not cfg.get("run"):
             continue
+        b = load_topic(name).get("build")
+        if b and not (ROOT / "out" / name / "BUILD_DONE").exists():
+            total += 1  # list still being built: keep the loop alive, research nothing yet
+            continue
         left = remaining(name)
         total += left
         if left == 0:

@@ -21,14 +21,42 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  build:
+    # list-building step of switched-on topics (e.g. IR1000: screen all listed companies by margin)
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install -q pyyaml
+      - id: need
+        run: echo "todo=$(python -c 'from researcher.build import pending;print(len(pending()))')" >> "$GITHUB_OUTPUT"
+      - if: steps.need.outputs.todo != '0'
+        run: |
+          python -m pip install -q -r researcher/requirements.txt
+          python -m researcher.build
+      - if: always() && steps.need.outputs.todo != '0'
+        run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add researcher/out researcher/inputs
+          git diff --cached --quiet && exit 0
+          git commit -q -m "researcher: build lists $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
+
   plan:
+    needs: build
+    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 5
     outputs:
       matrix: ${{ steps.p.outputs.matrix }}
       remaining: ${{ steps.p.outputs.remaining }}
+      count: ${{ steps.p.outputs.count }}
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: python -m pip install -q pyyaml
@@ -38,10 +66,11 @@ jobs:
           echo "$J"
           echo "matrix=$(echo "$J" | python -c 'import json,sys;print(json.dumps({"include":json.load(sys.stdin)["include"]}))')" >> "$GITHUB_OUTPUT"
           echo "remaining=$(echo "$J" | python -c 'import json,sys;print(json.load(sys.stdin)["remaining"])')" >> "$GITHUB_OUTPUT"
+          echo "count=$(echo "$J" | python -c 'import json,sys;print(len(json.load(sys.stdin)["include"]))')" >> "$GITHUB_OUTPUT"
 
   research:
     needs: plan
-    if: needs.plan.outputs.remaining != '0'
+    if: needs.plan.outputs.count != '0'
     runs-on: ubuntu-latest
     timeout-minutes: 300
     strategy:
@@ -49,6 +78,7 @@ jobs:
       matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - name: Install readers (all free)
