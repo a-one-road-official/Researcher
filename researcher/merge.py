@@ -54,8 +54,32 @@ def main(argv=None) -> int:
             lines.append(f"- {k}：{v}")
         lines.append("")
     (base / "facts.md").write_text("\n".join(lines), encoding="utf-8")
+    if topic.get("sheet"):
+        write_sheet(topic, base, recs)
     print(f"merged {len(recs)}")
     return 0
+
+
+def write_sheet(topic: dict, base: Path, recs: list[dict]) -> None:
+    """One row per company for the person to finish by hand: for each slot, the quoted
+    lines (案) with their URLs, next to an empty column for his own final answer."""
+    slots = topic["sheet"]
+    head = ["社名", "公式URL", "文脈"]
+    for label, _ in slots:
+        head += [f"{label}（案・引用）", f"{label}（確定）"]
+    head += ["根拠URL", "記載なし"]
+    with open(base / "sheet.csv", "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f)
+        w.writerow(head)
+        for r in recs:
+            ev, urls = r.get("evidence", {}), []
+            row = [r.get("name"), r.get("official_url", ""), r.get("context", "")]
+            for _, cat in slots:
+                items = ev.get(cat, [])[:4]
+                urls += [i["url"] for i in items]
+                row += ["\n".join(f"「{i['quote'][:160]}」" for i in items), ""]
+            row += ["\n".join(dict.fromkeys(urls)), "／".join(r.get("missing", {}))]
+            w.writerow(row)
 
 
 def merge_market(topic_name: str, topic: dict, base: Path, recs: list[dict]) -> int:
