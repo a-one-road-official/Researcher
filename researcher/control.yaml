@@ -27,4 +27,5 @@ topics:
   mfg_hiring_seg: {run: true, shards: 8, per_run: 2}  # 2026-11-03 製造業の採用コストを規模（5区分）・職種・業種・地域に分けて取る（「中小製造業」で括らない）
   biz3_market: {run: true, shards: 7, per_run: 2}  # 2026-11-03 3つの選択肢（Yomi／卓上金属AMを担ぐ／WLソフトを受託開発会社へ）の市場の前提：売り先の数・単価・取り分・補助金・競合
   desktop_metal_makers: {run: true, shards: 4, per_run: 1}  # 2026-11-03 SnowXほか卓上金属AM 4社：価格・代理店条件・保守・ISO・創業年度・株主構成・売上
+  design_arch_count: {run: true, shards: 3, per_run: 2}  # 2026-11-04 デザイン事務所・建築設計事務所の数（規模別・都道府県別・瀬戸内）
   recruit_media_cos: {run: true, shards: 7, per_run: 2}  # 2026-11-03 採用媒体づくりの競合14社（売上・規模・創業年度・株主・料金・稼ぎ方）
