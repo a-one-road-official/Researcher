@@ -1,0 +1,41 @@
+品目,英語名,別名,文脈
+AM造形準備ソフト,additive manufacturing build preparation software,build prep software;3D print preparation;slicer for metal AM,wl-A AM
+AM造形シミュレーション,additive manufacturing simulation software,metal AM distortion simulation;AM process simulation,wl-A AM
+AM費用見積エンジン,additive manufacturing cost estimation engine,3D printing cost calculator API;AM costing software,wl-A AM
+AM部品選定（適性判定）,additive manufacturing part screening software,AM part identification;printability analysis;AM business case tool,wl-A AM
+ラティス・形状生成,lattice design software,lattice generation SDK;implicit modeling software,wl-A AM
+トポロジー最適化,topology optimization software,topology optimization SDK;structural optimization API,wl-A AM
+AM工程管理（MES）,additive manufacturing MES,AM workflow software;3D printing production management,wl-A AM
+金属AM品質監視,metal additive manufacturing process monitoring software,melt pool monitoring;in-situ monitoring AM,wl-A AM
+自然言語→CAD（API）,text to CAD API,AI CAD generation API;prompt to CAD,wl-C CAD
+ブラウザCAD（SDK）,browser based CAD SDK,web CAD platform;online CAD engine,wl-C CAD
+CADビューア（SDK）,3D CAD viewer SDK,web 3D viewer SDK;CAD visualization SDK,wl-C CAD
+CADデータ変換（API）,CAD file conversion API,CAD translation SDK;STEP conversion API,wl-C CAD
+形状カーネル（ライセンス）,geometric modeling kernel licensing,CAD kernel;3D modeling kernel OEM,wl-C CAD
+生成設計（API）,generative design API,AI generative design platform;design automation API,wl-C CAD
+クラウド構造解析,cloud simulation platform,cloud FEA;simulation as a service,wl-C CAE
+製造原価計算（Should costing）,manufacturing should costing software,product cost estimation software;cost engineering software,製造業
+製造性チェック（DFM）,design for manufacturing analysis software,DFM analysis API;manufacturability check,製造業
+調達・発注先探索,supplier sourcing platform manufacturing,manufacturing supplier discovery;procurement platform for manufacturers,製造業
+品質管理（QMS）,quality management software manufacturing,QMS software;nonconformance management,製造業
+外観検査AI,AI visual inspection software,machine vision inspection AI;defect detection software,製造業
+デジタルツイン基盤,digital twin platform manufacturing,factory digital twin software,製造業
+製造業向けAIエージェント,AI agents for manufacturing,industrial AI assistant;manufacturing copilot,製造業
+製造業向け採用サイト・求人,recruiting software for manufacturing companies,career site builder;applicant tracking for manufacturers,製造業
+製造業向けWeb集客・問い合わせ,lead generation software for manufacturers,industrial marketing platform;B2B inbound for manufacturers,製造業
+蓄電池管理（BMS）ソフト,battery management system software,BMS software;battery analytics,バッテリー
+VPP・発電所統合,virtual power plant platform,VPP software;DER management platform,バッテリー
+エネルギー管理（EMS）,energy management system software,EMS platform;building energy management,バッテリー
+蓄電池運用最適化,battery energy storage optimization software,BESS trading software;storage dispatch optimization,バッテリー
+太陽光・蓄電設計,solar and storage design software,PV design software;storage sizing tool,バッテリー
+水素プラント監視,hydrogen plant monitoring software,electrolyzer monitoring;hydrogen production software,燃料
+排出量算定（カーボン会計）,carbon accounting software,GHG accounting platform;emissions tracking SaaS,燃料・GX
+LCA算定,life cycle assessment software,LCA software;product carbon footprint software,燃料・GX
+CBAM対応,CBAM reporting software,carbon border adjustment software;embedded emissions reporting,燃料・GX
+マテリアルズインフォマティクス,materials informatics platform,materials AI platform;materials discovery software,素材
+材料データベース（API）,materials database API,material properties database licensing;material data API,素材
+試験・ラボ管理（LIMS）,laboratory information management system,LIMS software;materials testing data management,素材
+材料選定ソフト,materials selection software,material selection tool;materials engineering software,素材
+ドローン運用管理,drone fleet management software,drone operations platform;UAV fleet software,航空宇宙・防衛
+衛星データ解析基盤,satellite imagery analytics platform,earth observation platform;geospatial analytics SaaS,航空宇宙
+ロボット運用管理,robot fleet management software,robotics fleet platform;multi-robot orchestration,AI・ロボット
