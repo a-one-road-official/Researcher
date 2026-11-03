@@ -1,0 +1,37 @@
+# 本人の指示（2026-11-04）：商社として何から始めるかを絞り尽くす。手本（マクニカ・ディッカー・データ・コーンズ）がどう始まったかを事実だけ取る。
+# 最初に担いだ商材・創業年度・株主構成・売上と粗利率・在庫と運転資金の持ち方・技術支援(FAE)・仕入れ先との契約（独占か）を引用のまま。要約しない。
+title: 商社の手本3社 — 最初の商材・始まり方・粗利・運転資金
+input: researcher/inputs/trade_bench.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, 創立, Founded, Established, founded in]
+  株主: [株主, 大株主, Shareholders, substantial holders, Ownership]
+  従業員数: [従業員, Employees]
+  所在地: [本社, Headquarters]
+  売上高: [売上高, Revenue]
+  代表者: [代表, CEO, Founder]
+
+evidence:
+  最初の商材・始まり方: [創業, 設立当初, 最初, 第一号, 取り扱いを開始, 代理店契約, 輸入, 創業者, founded, first product, started as, began, history, 沿革]
+  創業年度: [年に設立, 年創業, founded in, established in]
+  株主構成: [大株主, 株主構成, 持株比率, substantial holder, shareholding]
+  売上・粗利率: [売上高, 売上総利益, 粗利率, 営業利益, gross margin, gross profit, revenue, EBITDA]
+  在庫・運転資金: [棚卸資産, 在庫, 運転資金, 売上債権, 買掛金, 回転日数, inventory, working capital, receivables, payables, credit]
+  技術支援: [FAE, フィールドアプリケーションエンジニア, 技術サポート, 技術商社, engineering support, technical support]
+  仕入れ先との契約: [総代理店, 独占, 販売代理店契約, 正規代理店, distribution agreement, exclusive, franchise, vendor]
+
+subpage_keywords: [history, 沿革, about, company, ir, investor, annual, 決算, 有価証券, founder, story]
+image_keywords: [history, 沿革]
+
+external_queries:
+  - "{name} 創業 歴史 最初の取扱"
+  - "{name} 沿革"
+  - "{name} 創業者 インタビュー"
+  - "{name} 粗利率 売上総利益"
+  - "{name} 棚卸資産 運転資金"
+  - "{name} history founded first product"
+  - "{name} annual report gross margin"
+  - "{name} 大株主 OR substantial holders"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 6, external_per_query: 4}

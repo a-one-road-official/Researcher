@@ -1,0 +1,25 @@
+# 本人の指示（2026-11-04）：湯川さんの助言「輸出もやった方がいい」を受け、日本→海外の商材候補を数字で取る（樹脂以外・ものづくり）。
+# 輸出額と伸び・主な仕向け先・海外での価格差・既存の輸出商社や越境ECの取り分・規制（輸出管理）を引用のまま。
+kind: market
+title: 日本から海外へ売る商材の候補 — 輸出額・伸び・仕向け先・取り分・規制
+input: researcher/inputs/export_cand.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  輸出額・伸び: [輸出額, 輸出金額, 前年比, 増加, 伸び, 億円, export value, exports grew, growth]
+  仕向け先: [仕向け先, 輸出先, 米国, 中国, 東南アジア, インド, 欧州, destination, buyers in]
+  価格差・需要: [海外では, 現地価格, 人気, 需要, 品薄, premium, demand, price in]
+  取り分・商流: [輸出商社, 代理店, 越境EC, 手数料, マージン, 仲介, exporter, distributor, commission]
+  規制: [輸出管理, 該非判定, 外為法, リスト規制, キャッチオール, export control]
+
+numeric: [輸出額・伸び]
+
+external_queries:
+  - "{name} 輸出額 推移"
+  - "{name} 輸出 増加 海外需要"
+  - "{name} 輸出商社 代理店"
+  - "{en} demand overseas buyers"
+  - "{name} 越境EC 手数料"
+  - "{name} 輸出管理 該非判定"
+
+limits: {pages: 45, external_per_query: 6, per_cat: 15}
