@@ -1,4 +1,295 @@
 {
  "name": "金属加工（切削・板金・溶接）の採用",
- "error": "AttributeError: 'int' object has no attribute 'lower'"
+ "en": "metalworking machining sheet metal hiring Japan",
+ "aliases": [
+  "金属加工 求人 採用難",
+  "板金 溶接 人手不足 採用"
+ ],
+ "context": "業種",
+ "kind": "market",
+ "researched_at": "2026-11-03T16:14:07.630780+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-112664",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kouse-kougyou.com/blog/72282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr-media.offers.jp/articles/a_268",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikekin.co.jp/column/10537/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sapporotax.com/insights-mfg-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.crefty.jp/industry/metal-processing-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plex-job.com/magazine/articles/4022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_oc__0441M/-op__44/-ha__100%2C0/-preBtn__3/-page__3/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%80%90%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%B5%8C%E9%A8%93%E8%80%85%E3%80%91-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.recruit.co.jp/wp-content/uploads/2025/07/20220427_hr_01.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0201S/-oc__044101S/-ne__3/-preBtn__2/-page__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001546623.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E8%A3%BD%E9%80%A0%E8%81%B7%E3%80%80%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%A9%9F%E6%A2%B0%E9%83%A8%E5%93%81%E3%81%AE%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://academia.hrog.net/report/2092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/sheet-metal-fabrication-101-a-basic-knowledge-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%9D%BF%E9%87%91%E3%83%97%E3%83%AC%E3%82%B9%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uenotekko.co.jp/2025/12/09/2484/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1104/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%28%E5%88%87%E5%89%8A%E6%9D%BF%E9%87%91%E6%BA%B6%E6%8E%A5%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsu-ri.net/articles/metal-processing-human-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jsimconf/80/0/80_187/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.rikunabi.com/company_jobs/1337717282/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/shingi/2009/09/dl/s0916-8l.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 採用単価 規模別",
+   "results": [
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-112664",
+    "https://kouse-kougyou.com/blog/72282",
+    "https://hr-media.offers.jp/articles/a_268",
+    "https://www.ikekin.co.jp/column/10537/",
+    "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%20%E8%A3%BD%E5%93%81%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://yicenprecision.com/ja/%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5%E3%82%B3%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89/",
+    "https://mitsu-ri.net/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 採用コスト 調査 万円",
+   "results": [
+    "https://www.sapporotax.com/insights-mfg-metal/",
+    "https://media.crefty.jp/industry/metal-processing-manufacturing/",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://www.plex-job.com/magazine/articles/4022/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__0441M/-op__44/-ha__100%2C0/-preBtn__3/-page__3/",
+    "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%80%90%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%B5%8C%E9%A8%93%E8%80%85%E3%80%91-%E6%B1%82%E4%BA%BA.html",
+    "https://newscast.jp/news/6404713",
+    "https://next.rikunabi.com/viewjob/jk45c5fc0c0ba17825/",
+    "https://jp.misumi-ec.com/service/large_order/?srsltid=AYCX9vIfhegDiK2x3ebMhQewxaaSfnf-ovs2lep-cjVaLSz_XkdZaynQ",
+    "https://xn--pckua2a7gp15o89zb.com/金属加工の仕事"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.recruit.co.jp/wp-content/uploads/2025/07/20220427_hr_01.pdf",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0201S/-oc__044101S/-ne__3/-preBtn__2/-page__2/",
+    "https://www.mhlw.go.jp/content/001546623.pdf",
+    "https://www.r-agent.com/job_search/kw/%E8%A3%BD%E9%80%A0%E8%81%B7%E3%80%80%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5/",
+    "https://jp.indeed.com/q-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%A9%9F%E6%A2%B0%E9%83%A8%E5%93%81%E3%81%AE%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "https://tenshoku.mynavi.jp/list/i02120/pg83/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 採用経路 割合 調査",
+   "results": [
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://academia.hrog.net/report/2092/",
+    "https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_07_08.pdf",
+    "https://www.plex-job.com/magazine/articles/4026/",
+    "https://www.rapiddirect.com/ja/blog/sheet-metal-fabrication-101-a-basic-knowledge-guide/",
+    "https://www.r-agent.com/job_search/kw/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%20%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5/",
+    "https://jp.indeed.com/q-%E6%9D%BF%E9%87%91%E3%83%97%E3%83%AC%E3%82%B9%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "https://eigyo-mfg.com/blog/9698/",
+    "https://www.mlit.go.jp/gobuild/content/001888816.pdf",
+    "https://doda.jp/keyword/金属加工/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.uenotekko.co.jp/2025/12/09/2484/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1104/",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144",
+    "https://ybxcw.fun/yosetsu-hitode/"
+   ]
+  },
+  {
+   "query": "金属加工（切削・板金・溶接）の採用 白書 採用",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%28%E5%88%87%E5%89%8A%E6%9D%BF%E9%87%91%E6%BA%B6%E6%8E%A5%29+%E7%99%BD%E6%9B%B8&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://mitsu-ri.net/articles/metal-processing-human-resources",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.jstage.jst.go.jp/article/jsimconf/80/0/80_187/_pdf/-char/ja",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://job.rikunabi.com/company_jobs/1337717282/",
+    "https://www.mhlw.go.jp/shingi/2009/09/dl/s0916-8l.pdf",
+    "https://doda.jp/keyword/金属加工/",
+    "https://hellowork.careers/金属加工関連のハローワーク求人",
+    "https://hello-work.info/金属加工関連の求人/"
+   ]
+  }
+ ],
+ "missing": {
+  "セグメント定義": "記載なし（読んだ36頁・検索6回）",
+  "採用単価": "記載なし（読んだ36頁・検索6回）",
+  "年間採用費": "記載なし（読んだ36頁・検索6回）",
+  "採用経路": "記載なし（読んだ36頁・検索6回）",
+  "充足・欠員": "記載なし（読んだ36頁・検索6回）",
+  "調査主体・時期": "記載なし（読んだ36頁・検索6回）"
+ }
 }

@@ -83,9 +83,14 @@
 - 文脈：
 - エラー：AttributeError: 'int' object has no attribute 'lower'
 
-## 金属加工（切削・板金・溶接）の採用
-- 文脈：
-- エラー：AttributeError: 'int' object has no attribute 'lower'
+## 金属加工（切削・板金・溶接）の採用（metalworking machining sheet metal hiring Japan）
+- 文脈：業種
+- セグメント定義：記載なし（読んだ36頁・検索6回）
+- 採用単価：記載なし（読んだ36頁・検索6回）
+- 年間採用費：記載なし（読んだ36頁・検索6回）
+- 採用経路：記載なし（読んだ36頁・検索6回）
+- 充足・欠員：記載なし（読んだ36頁・検索6回）
+- 調査主体・時期：記載なし（読んだ36頁・検索6回）
 
 ## 電子部品・半導体製造の採用（electronics semiconductor manufacturing hiring Japan）
 - 文脈：業種
