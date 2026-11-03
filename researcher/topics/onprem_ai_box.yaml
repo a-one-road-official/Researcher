@@ -1,0 +1,31 @@
+# 本人の指示（2026-11-03）：オンプレのAI端末（箱ごと置くハードウェア型）が世界にあるかを洗い尽くす。イスラエルを含め全地域。
+# 用途はYomi（町工場の過去メールを社内の箱だけで読ませ、見積・案件概算を答える）。サーバーは自社で作らず担ぐ前提。
+# 取るのは：製品名・提供企業・国・価格・1台の利用人数・オフライン/エアギャップ可否・更新方法（USB等）・ホワイトラベル/再販・日本での保守。引用のまま、要約しない。
+kind: market
+title: オンプレのAI端末（ハードウェア型・ネットから切り離して動くLLM箱）— 提供企業と条件
+input: researcher/inputs/onprem_ai_box.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  提供企業・製品名: [AI in a box, AI appliance, LLM appliance, private AI appliance, on-prem AI device, edge AI server, AI box, appliance, launches, introduces, unveils, providers, vendors, companies such as, startup, オンプレAI, AIアプライアンス, AIボックス]
+  国・所在地: [Israel, Israeli, Tel Aviv, headquartered, based in, founded in, イスラエル, 本社]
+  価格: [per month, /month, per node, price, priced at, costs, starting at, USD, $, €, 月額, 価格, 円]
+  利用人数・性能: [users, concurrent, per node, tokens per second, GPU, VRAM, parameters, 70B, 8B, 同時, 人まで]
+  オフライン・エアギャップ: [air-gapped, air gapped, offline, no internet, no cloud, on-premise, on-prem, local network, data never leaves, エアギャップ, オフライン, 閉域]
+  更新方法: [USB, update, firmware, quarterly, offline update, model updates, 更新, アップデート]
+  ホワイトラベル・再販: [white label, white-label, OEM, rebrand, reseller, distributor, channel partner, partner program, VAR, system integrator, 代理店, 再販, OEM提供]
+  日本・保守: [Japan, Japanese, 日本, support, warranty, maintenance, 保守, サポート]
+
+numeric: [価格]
+
+external_queries:
+  - "{en}"
+  - "{en} on-premise LLM appliance company"
+  - "{en} air-gapped AI box price"
+  - "{en} startup raises on-prem AI hardware"
+  - "{en} white label OEM reseller"
+  - "{en} Israel"
+  - "{en} Japan distributor"
+  - "{name}"
+
+limits: {pages: 60, external_per_query: 6, per_cat: 15}
