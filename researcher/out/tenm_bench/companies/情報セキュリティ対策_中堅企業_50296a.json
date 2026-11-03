@@ -1,0 +1,2011 @@
+{
+ "name": "情報セキュリティ対策（中堅企業）",
+ "en": "cybersecurity cost mid-size company Japan",
+ "aliases": [
+  "セキュリティ対策 費用 中堅",
+  "UTM 費用",
+  "セキュリティ 年間 費用"
+ ],
+ "context": "セキュリティ",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:53:31.711671+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "IPA（情報処理推進機構）の2024年度の調査では、情報セキュリティ対策に投資している中小企業の年間の投資額は、平均で約188万円（売上高の1.2%）でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "予算は「止まると困る業務」「取引先から求められる水準」「社内で担える範囲」の3つで決まり、費用を「人の時間・道具・外部サービス・事故への備え」の4つの箱に分けて見積もると、過不足が見えます",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、公的な統計から見える中小企業の投資の実態、相場だけで予算を決めてはいけない理由、4つの箱による見積もり方、見積もりを比べるときの確かめ方を、IPA・警察庁・経済産業省の公開資料をもとに整理します",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ調査の推計では、年間の投資額の平均は「分からない」を除く回答企業（3,862社）で約60万円（売上高の0.6%）、投資している企業（1,217社）だけでは約188万円（売上高の1.2%）でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は「人の時間」「道具」「外部サービス」「事故への備え」の4つの箱に分けて見積もると、抜けと重なりが見えます",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "投資している企業だけで見ると、年間の投資額の平均は約188万円で、企業の規模と業種によって大きく異なります",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "投資していないという回答が62.6%で最も多く、投資している場合も「3期で100万円未満」が20.4%と最も多い結果でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "101名以上の中小企業（295社）の3期の投資額は、100万円未満が19.3%、100万〜500万円未満が18.0%、500万〜1,000万円未満が12.9%、1,000万〜2,000万円未満が8.1%で、分からないという回答も16.6%ありました",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "「分からない」を除いた回答企業全体（3,862社）の平均は約60万円で売上高の0.6%、投資していると答えた企業（1,217社）だけでは約188万円で売上高の1.2%でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "投資している企業の平均を業種別に見ると、建設業と卸売業が約293万円、製造業が約208万円、小売業が約46万円と、業種によって数倍の開きがあります",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50人規模で年間150〜400万円、100人規模で年間300〜800万円が目安です（2026年9月時点）",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "内訳の大半はEDR・端末管理・バックアップといった1人あたり月額数百〜千数百円のライセンス費と、監視や運用を誰が担うかの人件費です",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり月額換算",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "60〜200万円",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "150〜400万円",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "300〜800万円",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "800〜2,500万円",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス費だけなら1人あたり月額1,000〜2,000円に収まりますが、アラートを見て対応する人がいなければ製品は機能しません",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "Basic / Standard 契約では別途 P1 が1人月額1,000円前後",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "Okta 等の専用IDaaSは1人月額1,000〜1,500円程度",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "2. デバイス（端末管理・EDR）：1人あたり月額300〜1,500円",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "単体や他社MDMは1台月額300〜1,200円程度",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "単体EDRは1台月額300〜1,500円程度",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ランサムウェア被害の平均復旧コストが約2,400万円（JPCERT/CC調べ）にのぼる現在、「何も起きていないから大丈夫」では済まない",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "50万〜100万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "4万〜8万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "50万〜400万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "4万〜33万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "5〜10億円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "150万〜500万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "12万〜42万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "10〜50億円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "300万〜2,500万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "25万〜208万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "0〜10万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "15万〜80万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "5万〜20万円",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がセキュリティ対策にかける平均費用は年間10～100万円",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用は幅がありますが、年間10～100万円程度が目安です",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "IPA（情報処理推進機構）のデータによると、過去3年間で中小企業が投じたセキュリティ対策費用の最多は「100万円未満」でした",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "100万円以上を投じる企業もある一方、過去3年間でまったく投資していない企業は約6割にものぼります",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用が50万円以上になるケースも少なくありません",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ教育の費用相場は年間で1〜10万円です",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "IPAによると、ランサムウェア攻撃による平均被害額は約2,386万円です",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティコンサルティングの費用相場【2026年版】サービス内容と比較",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティコンサルティングの費用相場と会社の選び方【2026年版】",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス種別別 費用相場一覧（2026年版）",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額 100〜300万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "週1回参加で月100万円前後が多い",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "100〜400万円／回",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "100〜500万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "300〜1,000万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "50〜300万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "50〜500万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "緊急対応は時間単価10〜30万円／日の場合も",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "50〜200万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "200〜1,000万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "100〜400万円",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたり年額3,000円台〜6,000円程度（税抜・契約数で逓減）",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "月額定額型は1台あたり月額750円前後",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "相場は「同じ規模の会社がどのくらい払っているか」の目安として使い、予算そのものは自社の事情から組み立てる、という分け方をおすすめします",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "プレラナは、費用を「人の時間」「道具」「外部サービス」「事故への備え」の4つの箱に分けて見積もることをおすすめしています",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "委託している業務（複数回答）は回答企業全体に対していずれも数%台で、比較的多かったのは情報セキュリティ・BCPのコンサルティング（6.8%）とウイルス監視（5.9%）です",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "含まれる範囲・契約の条件・自社に残る作業をそろえた比較表づくり",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの人材確保のガイドブックも、まず兼務でも1人は担当者を確保すること、社内で難しいことは付き合いのあるITベンダーや支援機関に相談することを勧めています",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365のMFA認証手段を比較",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "EDR製品の比較は",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "EDR比較【2026年版】",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "MDM製品比較",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員でセキュリティ担当を1名採用すると年間650〜900万円かかるため、100人未満の会社では外部委託のほうが安く収まるのが実情です（比較は",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれる理由と比較",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "優先投資先ランキングと年間予算計画テンプレート付き",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、売上規模別のセキュリティ予算の目安を示したうえで、限られた予算の中で何を優先すべきかを費用対効果の観点からランキング化する",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "優先投資先ランキング",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "予算が限られる中小企業が、最初に投資すべき対策を費用対効果の観点でランキング化した",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "小さな検証、要件定義、ベンダー比較、社内説明資料を作る",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "DX責任者や情シスは、既存システムとの接続、認証、権限、ログ、保守体制、外部ベンダーとの責任分界を確認します",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "既に検討したツール、ベンダー、見積、PoC結果",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "脆弱性管理、外部公開資産棚卸し、月次セキュリティ運用、インシデント対応の相談を入口に、要件定義、RFP、ベンダー比較、実装、運用改善まで接続できるかを確認します",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較の5項目を受け取る（無料）",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ記事",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "AIが侵入テストする時代の見積り比較｜時間課金・上限・再検証",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "RFP/ベンダー選定",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策に有効なWAFとは？仕組みや種類、おすすめ製品を紹介",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "近年、対策が比較的手薄になりがちな中小企業が、攻撃者の標的となるケースが増えています",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策には「Cloudbric WAF+」がおすすめ",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "コストを抑えながら堅実にセキュリティを強化したい企業には、Cloudbric WAF+がおすすめです",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティコンサルティングの費用相場【2026年版】サービス内容と比較",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "訓練ベンダーの選定支援まで担う場合もある",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファーム（Big4系・外資系）ではシニアが40〜60万円／日に達するケースもある",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "専業セキュリティコンサルティングファームや独立コンサルタントは同等のスキルでも15〜25万円程度と比較的リーズナブルなことが多い",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "規制・コンプライアンス対応コストとの比較",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業・公共機関との取引要件としてISO 27001認証やセキュリティ評価への対応を求めるケースが増えている",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを比較する際は価格だけでなく、以下の観点で評価する",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASMの仕組み・ツール比較・費用相場は",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（外部攻撃面管理）とは？仕組み・ツール比較・費用ガイド",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "専任CISO採用（年収1,500万円以上）と比較すれば費用対効果が出やすい",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス比較の記事一覧",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ノンバンク融資・カードローンの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ファクタリングサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "社債・CP発行支援の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "税理士・会計事務所（財務・資金調達支援）の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "銀行融資の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "融資型クラウドファンディングの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "購入型クラウドファンディングの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "IEO・INO支援の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "IPO支援の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "PEファンド・私募ファンド投資の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "売掛金・債権保証サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "株式投資型クラウドファンディングの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスローンの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "手形・でんさい割引の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれる理由と比較",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーから監視サービスやEDRの提案・見積もりを受けているが、自社にとって正しい順序かを見極めたい人",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "価格は製品と台数で幅があるため、複数見積もりで比較したい",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティの見積もりの読み方：ベンダー提案で最初に見る5点",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "基礎が固まると、次はEDR・監視・診断のベンダー選定になる",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "アラートを最初に見て判断するのは自社か、ベンダーか",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "塞がる経路を説明できないベンダーは、自社の売りたい製品から逆算して提案している可能性が高い",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、良いベンダーは「その前にVPNの更新とMFAを先にやってください、それはうちの商材ではありませんが必須です」と言えるものだ",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "見積もりを比べるときは、価格の前に、含まれる範囲・最低契約期間・解約の条件・報告の形・自社に残る作業を確かめます",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間は2年以内、端末1台から契約できること、途中解約の違約金を契約に明記することも要件です",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "：初期費用・月額・最低契約期間・途中解約の違約金・解約時の機器とデータの扱い",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用はなく、契約は初回3ヶ月から",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "成果物と検収条件",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "支払いに応じても完全に復旧できる保証はなく、二重に損失を被るケースも見られます",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "期間6〜18か月",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月一定の費用を支払い、継続的に専門家のサポートを受ける契約形態",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "関与工数（月10時間か40時間かなど）と契約期間（最低6か月・1年など）によって決まる",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約で割引が設定されることも多い",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズ1（3か月）",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズ2（3〜6か月）",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "給与前払いサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Entra IDは、P1プランが1ユーザー月額1,049円、P2プランが1,499円（いずれも年間契約・税抜）で、多要素認証とシングルサインオンを含みます",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "事故原因・被害範囲調査費用 300～400 万円／コールセンター費用 3 ヶ月の対応で 700～1,000 万円／システム復旧費用 対応規模等によって大きく異なるが、数百～数千万円のケースも／再発防止費用 対応規模等によって大きく異なるが、数百～数千万円のケースも／行政損害 個人情報保護法上の罰金は最大 1 億円",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートの被害組織アンケートでは、調査・復旧に総額1,000万円以上を要した組織が全体の5割を超え、1か月未満で復旧できた組織は5割強にとどまる",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "年商数億円の会社にとって、売上を1か月止められることは、セキュリティ予算をケチって浮かせた金額の何十倍もの痛手になる",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "「取っている」と「戻せる」の間には、事業停止1か月分の距離がある",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "VPN機器・ルーターのファームウェアを過去3か月以内に更新確認した",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "第1に被害時コスト：復旧に総額1,000万円以上を要した組織が5割超、1か月未満で復旧できたのは5割強という警察庁の一次データと、自社が1か月止まった場合の売上影響の対比",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "成果物と検収条件",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "第1段階：基礎固め（1-3ヶ月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/risk-management/yamazen/the-importance-of-security-measures",
+    "pass": 3
+   },
+   {
+    "quote": "第2段階：体制構築（3-6ヶ月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/risk-management/yamazen/the-importance-of-security-measures",
+    "pass": 3
+   },
+   {
+    "quote": "第3段階：継続的改善（6-12ヶ月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/risk-management/yamazen/the-importance-of-security-measures",
+    "pass": 3
+   },
+   {
+    "quote": "CISAが公開した制御システムの脆弱性情報（直近1ヶ月）",
+    "url": "https://www.ipa.go.jp/security/guide/sme/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "バックアップがなく復旧に2ヶ月",
+    "url": "https://www.c3index.co.jp/blog/blog_3200/",
+    "pass": 3
+   },
+   {
+    "quote": "復旧費用 約3,000万円＋2ヶ月の売上損失",
+    "url": "https://www.c3index.co.jp/blog/blog_3200/",
+    "pass": 3
+   },
+   {
+    "quote": "CISAが公開した制御システムの脆弱性情報（直近1ヶ月）",
+    "url": "https://www.ipa.go.jp/security/reports/sme/sme-survey2024.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業サイバーセキュリティ基本対策事業では、ウイルス対策ソフトやファイアウォールなどでは対応しきれない、不正アクセス・侵入に対する防御に有効なセキュリティ機器（UTM）やセキュリティソフトウェア（EDR）の導入に向けて、その機能を無償で3か月間程度体験できる機会を提供します",
+    "url": "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "UTM機器を最大３か月間無料体験でき、期間中はサポートデスクによる支援を実施",
+    "url": "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "EDRを最大３か月間無料体験でき、期間中はサポートデスクによる支援を実施",
+    "url": "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "UTMとEDRによるインシデント対応（3か月程度）",
+    "url": "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "（最大3か月）",
+    "url": "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月以内にやること",
+    "url": "https://syusodo.co.jp/blog/articles/sme-security-measures",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月以内にやること",
+    "url": "https://syusodo.co.jp/blog/articles/sme-security-measures",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間1ヶ月〜",
+    "url": "https://syusodo.co.jp/blog/articles/sme-security-measures",
+    "pass": 3
+   },
+   {
+    "quote": "復旧に要した期間についても、1か月未満で復旧できた組織は有効回答107件のうち5割強にとどまっています",
+    "url": "https://rpm.zeku.co.jp/column/information-security",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "見積もりを比べるときは、価格の前に、含まれる範囲・最低契約期間・解約の条件・報告の形・自社に残る作業を確かめます",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの同じ調査で、投資していないと答えた企業（2,623社）に一番の理由を尋ねると、「必要性を感じていない」が44.3%、「費用対効果が見えない」が24.2%、「コストがかかりすぎる」が21.7%でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "順番の高い業務に関わるシステムとデータから費用をかけます",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間は2年以内、端末1台から契約できること、途中解約の違約金を契約に明記することも要件です",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "：初期費用・月額・最低契約期間・途中解約の違約金・解約時の機器とデータの扱い",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が解決すべき課題",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "専門スタッフが貴社の課題に合わせたご提案をいたします",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "企業のIT課題を、プロの情シスチームが365日サポート",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "課題・悩み図鑑",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、売上規模別のセキュリティ予算の目安を示したうえで、限られた予算の中で何を優先すべきかを費用対効果の観点からランキング化する",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "予算が限られる中小企業が、最初に投資すべき対策を費用対効果の観点でランキング化した",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "月次で状況、課題、次の打ち手を説明できる",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "現在の課題を、売上機会、原価、工数、リスクのいずれかに分解しているか",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "業務一覧、システム一覧、課題一覧",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "本当に解くべき課題が、流行テーマではなく業務上の損失にひも付いているか",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "優先度、リスク、費用対効果、社内体制を整理する",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "短期的には、課題整理、現状棚卸し、優先順位付け、概算費用、実行計画をまとめます",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "中期的には、PoCや小規模実装を通じて、データ品質、権限、運用負荷、費用対効果を検証します",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "自社に近い失敗を選び、判断チェックを受け取る",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ別に、失敗条件・社内で使える判断軸・次の一手を1通1テーマで届けます",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "今いちばん避けたい失敗",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "よくある失敗：",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果試算シミュレーター",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "データベースのログ管理とは？必要性・課題から解決策まで徹底解説",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "WAF導入の完全ガイド｜種類やメリット、失敗しない選び方を解説",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "技術診断（脆弱性診断・ペネトレーションテスト）とは異なり、「どのような体制・ポリシー・プロセスを整えるか」という経営・管理レイヤーの課題を扱う点が特徴である",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "リスクアセスメントやポリシー策定など、特定の課題解決を目的とした期間限定の契約",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "実務では「最初にスポット型でリスクアセスメントを実施し、課題が明確になったところで顧問型に移行する」という段階的なアプローチが効果的だ",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体のセキュリティガバナンス統一、海外拠点対応、業界固有の規制対応（金融庁・厚労省・経産省ガイドライン等）が主な課題となる",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "高め（専門性要求が高い）",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の考え方",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を判断する際の考え方を整理する",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の基本的な考え方は「年間期待損失額（ALE: Annualized Loss Expectancy）」だ",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社課題を正確に理解した提案か、テンプレート流用ではないか",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "「技術診断で発見した課題をどう経営・運用レベルで解決するか」という一気通貫の支援が強みだ",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "専任CISO採用（年収1,500万円以上）と比較すれば費用対効果が出やすい",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の評価",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティコンサルティングは「費用をかければよい」ものではなく、自社の課題に合ったスコープと予算のバランスが重要だ",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の課題に応じた最適なサービスをご提案します",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の金融課題を解決したい",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "無理のない範囲で始め、優先度の高い対策から広げることが現実的です",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "経営者は、サイバーセキュリティリスクが自社のリスクマネジメントにおける重要課題であることを認識し、自らのリーダーシップのもとで対策を進めることが必要",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "何を守るかが定まらないまま製品を買うと、費用対効果が読めません",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を数字で示すことに加えて、社内で予算を実際に承認してもらうまでの進め方も、導入の現場では課題になります",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークの内部から月1回のペースで脆弱性を点検し、検出した問題点と対策案をレポートで提示したうえで、改善を伴走支援します",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "社内のセキュリティを強化したいものの、端末の保護から不正アクセス対策、情報漏えいの防止まで課題が広く、何から手をつければよいか判断がつかないという声は少なくありません",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社の規模や課題に合ったサービスを比較し、過不足のない対策予算を検討してください",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "GRCツールおすすめ26選を徹底比較｜ESG開示基準・委託先管理の動向と失敗しない選び方を解説",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "課題・悩み図鑑",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "順番を飛ばして高額な対策から入るのが、中小企業のセキュリティ投資で最も多い失敗である",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "すでにセキュリティ調査票を送ってくる取引先は珍しくないが、今後は「★3相当を満たしているか」がその共通言語になっていく可能性が高い",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "窃取された認証情報による侵入は主要な攻撃手口であり、費用対効果はすべての施策の中で最大級である",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "全端末一斉ではなく、サーバと管理者権限を持つ端末から入れると、予算内で防御効果の高い部分を先に覆える",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "：メール経由の初期侵入・ビジネスメール詐欺（10大脅威10位）への対策は、訓練の反復でしか定着しない",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "は、この「導入済み対策の外側に残る穴」を洗い出し、優先順位の高い対策から運用に落とすことを目的にしている",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "塞がる経路を説明できないベンダーは、自社の売りたい製品から逆算して提案している可能性が高い",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティで失敗するのは、たいてい「導入したが誰も運用していなかった」パターンであり、この5問はその落とし穴を発注前に可視化するためのものだ",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "自社に近い失敗を選び、判断チェックを受け取る",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ別に、失敗条件・社内で使える判断軸・次の一手を1通1テーマで届けます",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "今いちばん避けたい失敗",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "投資している企業の平均を業種別に見ると、建設業と卸売業が約293万円、製造業が約208万円、小売業が約46万円と、業種によって数倍の開きがあります",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの同じ調査で、投資していないと答えた企業（2,623社）に一番の理由を尋ねると、「必要性を感じていない」が44.3%、「費用対効果が見えない」が24.2%、「コストがかかりすぎる」が21.7%でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、IPAの「中小企業の情報セキュリティ対策ガイドライン」第4.0版が「情報セキュリティ6か条」として挙げるソフトウェアの更新、ウイルス対策、パスワードの強化、共有設定の見直し、バックアップなど、今ある道具の設定を見直すと、新たな費用をかけずに改善できる部分が見つかることがあります",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "現状をお伺いした上で、実際に成果が出た進め方をご提案します",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "「運用を誰がやるか」で人件費が数倍変わる",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "費用ゼロで最も効果が大きい領域です",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 運用・体制（横断領域）：ここで費用が数倍変わる",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "運用を社内の兼任者が担うか、外部に出すかで、年間費用は同じ規模でも2〜3倍変わります",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "既存契約に含まれるセキュリティ機能を使い切っていない状態で追加投資しても、効果が出ない",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "成果物の見本",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、売上規模別のセキュリティ予算の目安を示したうえで、限られた予算の中で何を優先すべきかを費用対効果の観点からランキング化する",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "DX/AI 投資の削減時間と金額、3 分で試算",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "人数・時給・業務時間・削減率から年間削減規模を概算します",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "予算が限られる中小企業が、最初に投資すべき対策を費用対効果の観点でランキング化した",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "四半期ごとに段階的に導入し、各施策の効果を検証しながら進める",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "GXOは単発診断よりも、月次の棚卸し、優先順位付け、証跡管理、改善実行までを運用化すべきだと見る",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "GXOは、脆弱性診断、インシデント対応、月次運用、開発保守の改善まで接続できる形で支援します",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "ツール導入や外注費だけが先行し、効果測定が曖昧になる",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "売上、工数削減、リスク低減の指標にひも付けられる",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "権限、ログ、教育、改善サイクルまで設計できる",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "導入・改善前のチェックリスト",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用だけでなく、保守、運用、教育、改善費用を見積もっているか",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "成功指標を、問い合わせ数、商談数、削減時間、停止リスクなどで定義しているか",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "記事のテーマを単なる情報収集で終わらせず、相談、診断、要件定義、実装、運用改善に接続することで、診断、監査、保守契約、月次レポート、緊急対応支援へ接続",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "正しい知識を身につけることで、危険を早期に察知して回避できるようになり、組織全体の意識向上にもつながります",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算や人員の中で効果的に対策を進めるためには、自社の状況に合ったソリューション選びが重要です",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 27001やNIST CSFなどのフレームワークに沿った評価レポートと改善ロードマップを成果物とすることが多い",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ教育・意識向上プログラムの設計",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果物（報告書・規程類など）が明確に定義される",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトの規模・期間・成果物の量によって100〜1,000万円超まで幅広い",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "実務では「最初にスポット型でリスクアセスメントを実施し、課題が明確になったところで顧問型に移行する」という段階的なアプローチが効果的だ",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の考え方",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティコンサルティングは目に見える成果物（報告書・規程類）が生まれる一方、「どれだけのリスクを低減できたか」を数値化しにくい",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を判断する際の考え方を整理する",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の基本的な考え方は「年間期待損失額（ALE: Annualized Loss Expectancy）」だ",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "ROIを高めるための発注の工夫",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果物を明確に定義する",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "：コンサルタントの作業をすべて外注するのではなく、自社担当者がドラフトを作成しコンサルタントがレビューする形にすることで工数を削減できる",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社のブランドよりも、実際に担当するメンバーのスキルが成果を左右する",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "3. 成果物の具体性と権利関係",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果物（報告書・規程類・ロードマップ）の著作権は発注者に帰属するか",
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算で効果を出すには、守るべき情報資産と、被害が起きたときの影響の大きさを基準に、取り組む順番を決めることが大切です",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "何を守るかが定まらないまま製品を買うと、費用対効果が読めません",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＴ導入補助金２０２５ 公募要領（セキュリティ対策推進枠）｜中小企業庁 サービス等生産性向上IT導入支援事業事務局",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を数字で示すことに加えて、社内で予算を実際に承認してもらうまでの進め方も、導入の現場では課題になります",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークの内部から月1回のペースで脆弱性を点検し、検出した問題点と対策案をレポートで提示したうえで、改善を伴走支援します",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "成果物の見本",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "金額表ではなく「順序と判断軸」で構成しているのは、同じ予算でも順番を間違えると効果がまるで変わるからだ",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "DX/AI 投資の削減時間と金額、3 分で試算",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "人数・時給・業務時間・削減率から年間削減規模を概算します",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "年商数億円の会社にとって、売上を1か月止められることは、セキュリティ予算をケチって浮かせた金額の何十倍もの痛手になる",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "窃取された認証情報による侵入は主要な攻撃手口であり、費用対効果はすべての施策の中で最大級である",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃者は最も守りの薄いアカウントを一つ見つければよいので、例外が一つあれば全体の効果が大きく削がれる",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "全端末一斉ではなく、サーバと管理者権限を持つ端末から入れると、予算内で防御効果の高い部分を先に覆える",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "月次棚卸、判定、改善実行まで継続支援",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "DX・業務改善・情シス",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "成果物と検収条件",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果試算シミュレーター",
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "pass": 3
+   },
+   {
+    "quote": "店舗内作業稼働の削減…",
+    "url": "https://business.ntt-west.co.jp/service/security/security_omakase/article/security.html",
+    "pass": 3
+   },
+   {
+    "quote": "点検コスト削減、維持管理…",
+    "url": "https://business.ntt-west.co.jp/service/security/security_omakase/article/security.html",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "情報セキュリティ対策の費用相場｜中小・中堅企業が「何に・いくら」かけるかの決め方 | 株式会社プレラナ",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業が「何に・いくら」かけるかの決め方",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPA（情報処理推進機構）の2024年度の調査では、情報セキュリティ対策に投資している中小企業の年間の投資額は、平均で約188万円（売上高の1.2%）でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、公的な統計から見える中小企業の投資の実態、相場だけで予算を決めてはいけない理由、4つの箱による見積もり方、見積もりを比べるときの確かめ方を、IPA・警察庁・経済産業省の公開資料をもとに整理します",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は、情報セキュリティ対策に実際いくらかけているのか？",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの2024年度調査（回答4,191社）では、直近過去3期に情報セキュリティ対策へ投資していない中小企業が62.6%でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員101名以上の中小企業では17.3%です",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ調査の推計では、年間の投資額の平均は「分からない」を除く回答企業（3,862社）で約60万円（売上高の0.6%）、投資している企業（1,217社）だけでは約188万円（売上高の1.2%）でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの2024年度調査では、直近過去3期に対策へ投資していない中小企業が6割を超えました",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "投資している企業だけで見ると、年間の投資額の平均は約188万円で、企業の規模と業種によって大きく異なります",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの「2024年度 中小企業における情報セキュリティ対策に関する実態調査」（報告書は2025年5月、回答4,191社）は、直近過去3期の情報セキュリティ対策の投資額（IT機器や社員への教育を含む）を尋ねています",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "規模による違いは大きく、同じ調査で「投資していない」と答えた割合は、小規模企業者で76.5%、従業員100名以下の中小企業で40.0%、101名以上の中小企業で17.3%でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "101名以上の中小企業（295社）の3期の投資額は、100万円未満が19.3%、100万〜500万円未満が18.0%、500万〜1,000万円未満が12.9%、1,000万〜2,000万円未満が8.1%で、分からないという回答も16.6%ありました",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "規模が大きいほど「投資していない」企業の割合は下がります（数字は本文でも説明しています）",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "「分からない」を除いた回答企業全体（3,862社）の平均は約60万円で売上高の0.6%、投資していると答えた企業（1,217社）だけでは約188万円で売上高の1.2%でした",
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策、費用の相場はいくら？規模別の年間目安と「何にいくら」の内訳 | 情シス365",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "規模・業種から探す",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズ（大企業・中堅企業）",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策、費用の相場はいくら？規模別の年間目安と「何にいくら」の内訳",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けサイバーセキュリティ対策 完全ガイド",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策の費用相場はいくらですか？",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50人規模で年間150〜400万円、100人規模で年間300〜800万円が目安です（2026年9月時点）",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "ひとつは同規模の会社がいくら使っているかという",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では前者を規模別に示したうえで、後者を自分で組み立てられるように「何にいくらかかるか」を分解します",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "結論：規模別の年間費用の目安",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド（Microsoft 365 または Google Workspace）を中心に使う一般的な中小企業で、基本対策を一通り整えた場合の年間費用です",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策、どこから手をつけるか",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員教育・標的型メール訓練",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "運用を社内の兼任者が担うか、外部に出すかで、年間費用は同じ規模でも2〜3倍変わります",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員100人でIT予算が年間2,000万円なら、300万円が目安です",
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先投資先 | GXO",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先投資先【売上比の計算式付き】",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用の目安は売上の0.5〜1%",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "「セキュリティ対策に年間いくら使うべきか」——この問いに明確な答えを持っている中小企業は少ない",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの調査によると、中小企業の約4割がセキュリティ対策の年間予算を「特に決めていない」と回答している",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、売上規模別のセキュリティ予算の目安を示したうえで、限られた予算の中で何を優先すべきかを費用対効果の観点からランキング化する",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ費用の目安：売上比の計算式",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模別の目安",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "売上の0.5〜1.0%",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "売上の0.5〜0.8%",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "売上の0.3〜0.5%",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "年間セキュリティ予算 = 年間売上 × 0.5%",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、ECサイト運営や個人情報を大量に扱う業種では、売上比1.0%以上が推奨される",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "日本の中小企業平均",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "米国中小企業平均",
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用はいくら？相場や重要性を解説 - ペンタPRO｜ペンタセキュリティ株式会社",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "> 中小企業のセキュリティ対策費用はいくら？相場や重要性を解説",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用はいくら？相場や重要性を解説",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "近年、企業や組織を狙ったサイバー攻撃が増加しており、その被害は大企業だけでなく中小企業にも及んでいます",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業も、従業員の個人情報や取引先の機密情報など、保護すべき重要なデータを保有しています",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、中小企業におけるセキュリティ対策の平均費用や相場をわかりやすく解説します",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がセキュリティ対策にかける平均費用は年間10～100万円",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用は幅がありますが、年間10～100万円程度が目安です",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "IPA（情報処理推進機構）のデータによると、過去3年間で中小企業が投じたセキュリティ対策費用の最多は「100万円未満」でした",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 中小企業における情報セキュリティ対策に関する実態調査",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のパソコンやシステムのサーバーなどにウイルス対策ソフトを導入すれば、不審なファイルやウイルスから端末を保護できます",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けのウイルス対策ソフトであれば、1ライセンスあたり年間5,000円が目安です",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、すべての端末にウイルス対策ソフトを導入する場合、従業員数や社内システムの規模が拡大するほど費用も膨らみます",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "このようなリスクを防ぐには、従業員へのセキュリティ教育が欠かせません",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   },
+   {
+    "quote": "狙われる中小企業、サイバー攻撃被害の実態とは",
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2024年度 中小 企業 における 情報セキュリティ対策 に関する ... — 2024年度 中小 企業 における 情報セキュリティ対策 に関する ... IPA 独立行政法人 情報処理推進機構 PDF https://www.ipa.go.jp > security > reports > sme",
+    "url": "https://www.ipa.go.jp/security/reports/sme/nl10bi000000fbvc-att/sme-chousa-report2024r1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年度 中小 企業 における 情報セキュリティ対策 に関する ... — 「2024年度 中小 企業 における 情報セキュリティ対策 に関する ... IPA 独立行政法人 情報処理推進機構 https://www.ipa.go.jp > reports > sme > sme-survey2024",
+    "url": "https://www.ipa.go.jp/security/reports/sme/sme-survey2024.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業 の セキュリティ対策 ｜ツール 導入 だけでは守れない ... — 中堅企業 の セキュリティ対策 ｜ツール 導入 だけでは守れない ... タナベコンサルティング https://www.tanabeconsulting.co.jp > column > detail150",
+    "url": "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail150.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年版】中小 企業 が今すぐできる 情報セキュリティ対策 5 ... — 【2025年版】中小 企業 が今すぐできる 情報セキュリティ対策 5 ... 串本町商工会 https://kushimoto-shokokai.com > archives",
+    "url": "https://kushimoto-shokokai.com/archives/10373",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-west.co.jp/service/security/security_omakase/article/security.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybersecurity-taisaku.metro.tokyo.lg.jp/know_more/mottosiritai14-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://listing-partners.com/gbiz/gbiz_column/sme-security-cost-and-budget-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saxa.co.jp/saxa-dx_navi/case-study/ca0012-security-u02-n003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/risk-management/yamazen/the-importance-of-security-measures",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ntt.com/business/services/security/security-management/wideangle/lp/lp13.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/guide/sme/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.c3index.co.jp/blog/blog_3200/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-west.co.jp/bizclip/articles/bcl00054-026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/library/report/cr_210909/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiqveone.co.jp/blog/ipa-guideline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eset-info.canon-its.jp/malware_info/special/detail/250603.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybersecurity-taisaku.metro.tokyo.lg.jp/basics/2026-%E3%83%AC%E3%83%99%E3%83%AB2-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2025/03/20260327002/20260327002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35250444/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/reports/sme/nl10bi000000fbvc-att/sme-chousa-report2024r1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail150.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/reports/sme/sme-survey2024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jtua.or.jp/ict/solution/security/measures-for-smes/202403_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/solution/qa/governance/Q1448.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viettelsecurity.com/ja/viettel-cyber-security-cyberzeal-ransomware-webinar/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jbcc.co.jp/casestudy/purpose/sec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbsvc.co.jp/casestudy/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kushimoto-shokokai.com/archives/10373",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syusodo.co.jp/blog/articles/sme-security-measures",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-shien.smrj.go.jp/applicant/subsidy/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rpm.zeku.co.jp/column/information-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leosecuretech.com/contents/csirt-info-security/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "情報セキュリティ対策（中堅企業） 費用 相場 万円",
+   "results": [
+    "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "https://aevus.jp/blog/security-consulting-cost-guide.html",
+    "https://catalog.monex.co.jp/article/?p=69547",
+    "https://abdi.co.jp/media/smb-security-costs",
+    "https://cybersecurity-taisaku.metro.tokyo.lg.jp/know_more/mottosiritai14-2/",
+    "https://www.solpac.co.jp/Column/Security/Internal_fraud_19/",
+    "https://security.pyuzou.com/セキュリティ投資中小企業いくらかければいいか/"
+   ]
+  },
+  {
+   "query": "情報セキュリティ対策（中堅企業） 製造業 導入 費用",
+   "results": [
+    "https://prerana.co.jp/blog/security-taisaku-hiyou-kimekata/",
+    "https://gxo.co.jp/column/sme-security-cost-priority-guide",
+    "https://business.ntt-west.co.jp/service/security/security_omakase/article/security.html",
+    "https://www.josis365.com/blog/sme-security-cost-benchmark/",
+    "https://cybersecurity-taisaku.metro.tokyo.lg.jp/know_more/mottosiritai14-2/",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-cost-and-budget-guide/",
+    "https://www.saxa.co.jp/saxa-dx_navi/case-study/ca0012-security-u02-n003.html",
+    "https://monoken.yamazen.co.jp/blog/articles/risk-management/yamazen/the-importance-of-security-measures",
+    "https://www.pentasecurity.co.jp/pentapro/entry/small-business-web-security",
+    "https://gxo.co.jp/column/mfg-mid-ciso-ot-security-annual-budget-2026q2"
+   ]
+  },
+  {
+   "query": "情報セキュリティ対策（中堅企業） 失敗 デメリット",
+   "results": [
+    "https://ntt.com/business/services/security/security-management/wideangle/lp/lp13.html",
+    "https://www.ipa.go.jp/security/guide/sme/about.html",
+    "https://www.c3index.co.jp/blog/blog_3200/",
+    "https://business.ntt-west.co.jp/bizclip/articles/bcl00054-026.html",
+    "https://www.murc.jp/library/report/cr_210909/",
+    "https://www.aiqveone.co.jp/blog/ipa-guideline/",
+    "https://www.itreview.jp/labo/archives/21491",
+    "https://japan.box.com/blog/information-security-guidelines",
+    "https://www.quest.co.jp/column/security-measures_company.html",
+    "https://ones.com/ja/blog/information-security-tool-pitfalls/"
+   ]
+  },
+  {
+   "query": "情報セキュリティ対策（中堅企業） 比較 主要企業",
+   "results": [
+    "https://eset-info.canon-its.jp/malware_info/special/detail/250603.html",
+    "https://www.murc.jp/library/report/cr_210909/",
+    "https://cybersecurity-taisaku.metro.tokyo.lg.jp/basics/2026-%E3%83%AC%E3%83%99%E3%83%AB2-1/",
+    "https://www.meti.go.jp/press/2025/03/20260327002/20260327002.html",
+    "https://japan.zdnet.com/article/35250444/",
+    "https://www.ipa.go.jp/security/reports/sme/nl10bi000000fbvc-att/sme-chousa-report2024r1.pdf",
+    "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail150.html",
+    "https://business.ntt-west.co.jp/bizclip/articles/bcl00163-050.html",
+    "https://www.ntt.com/bizon/security-threat.html",
+    "https://compalyze.co.jp/industry/IT-06"
+   ]
+  },
+  {
+   "query": "情報セキュリティ対策（中堅企業） 中堅企業 導入事例 効果",
+   "results": [
+    "https://www.ipa.go.jp/security/reports/sme/sme-survey2024.html",
+    "https://www.meti.go.jp/press/2025/03/20260327002/20260327002.html",
+    "https://www.c3index.co.jp/blog/blog_3200/",
+    "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail150.html",
+    "https://www.jtua.or.jp/ict/solution/security/measures-for-smes/202403_01/",
+    "https://www.murc.jp/library/report/cr_210909/",
+    "https://ntt.com/business/services/security/security-management/wideangle/lp/lp13.html",
+    "https://j-net21.smrj.go.jp/solution/qa/governance/Q1448.html",
+    "https://viettelsecurity.com/ja/viettel-cyber-security-cyberzeal-ransomware-webinar/",
+    "https://www.jbcc.co.jp/casestudy/purpose/sec/"
+   ]
+  },
+  {
+   "query": "情報セキュリティ対策（中堅企業） 導入期間",
+   "results": [
+    "https://www.ipa.go.jp/security/guide/sme/about.html",
+    "https://kushimoto-shokokai.com/archives/10373",
+    "https://kihontaisaku.metro.tokyo.lg.jp/",
+    "https://ntt.com/business/services/security/security-management/wideangle/lp/lp13.html",
+    "https://syusodo.co.jp/blog/articles/sme-security-measures",
+    "https://www.c3index.co.jp/blog/blog_3200/",
+    "https://www.murc.jp/library/report/cr_210909/",
+    "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail150.html",
+    "https://it-shien.smrj.go.jp/applicant/subsidy/security/",
+    "https://rpm.zeku.co.jp/column/information-security"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2094 @@
+{
+ "name": "社員研修（DX・AI）の年間費用",
+ "en": "corporate training DX AI cost Japan",
+ "aliases": [
+  "DX研修 費用",
+  "AI研修 費用",
+  "社員研修 年間 予算"
+ ],
+ "context": "研修",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:53:30.749264+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "中小企業では10人程度の社員を対象にした研修で、平均10万円から100万円程度が相場",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の場合、数十人から数百人の社員を対象とするため、費用は500万円以上",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修には主に「動画コンテンツ型」と「ハンズオン型」の2種類があり、それぞれ費用相場は異なります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり年間数千円から数万円程度が一般的",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン学習サービスでは、一人（ID）あたり年間2万円前後で利用できるプランもあります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模・基礎的な研修であれば1人あたり約数万円で済むこともありますが、本格的・実践的な内容であれば、総額で数十万円〜数百万円になるのが一般的です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "総額：約25万円～60万円",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "総額：50万円～100万円以上になることも",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり：約2万円～15万円",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "総額：約40万円〜80万円が一般的",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "数万円～50万円前後、1IDあたり月額制のものもあり",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "出資額50億円を獲得したノウハウを惜しみなくお伝えします",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "集合研修の費用は、一般的に25万円～60万円が相場で、10～20名規模の場合、総額40～80万円程度になるケースが多い",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン研修は、一般的に1人あたり年間数千円から数万円が相場で、企業向けプランでは月額制やライセンス数に応じた料金体系が採用されるケースが多い",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "eラーニング形式は「1IDあたりの料金」が基本で、コストを抑えながら継続的な学習環境を用意できる点が魅力です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "ハンズオン型の研修は、1回あたり数万円から数百万円が相場で、とくに10～20名規模の企業向けカスタマイズ研修では、1日あたり40万円～80万円程度が一般的",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2日間で10時間のマーケティングDX研修を対面で行った場合、1人44万円（税込）かかります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、助成金によって講座料金の30万円が経費助成、1時間960円＝9600円の賃金助成があるため、1人130,400円での受講が可能です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "費用は、1IDにつき月額1,650円（税抜）で利用できるため、低コストでDX人材の育成を進めたい企業にはおすすめになります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "200本以上の動画コンテンツが見放題で、月額最低1万円から気軽に導入できる",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】カフェのホームページの作り方|必須ページ・おしゃれなデザインのコツ・費用相場までやさしく解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "Schoo for Bussiness：1個のIDあたり月額1,650円",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "「invy」が「デジタル化・AI導入補助金2026」の補助対象に登録、補助率1/2で実負担およそ45万円から導入可能に",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "1日6時間10名 30万円~40万円（税抜き）",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "1日研修：6時間・44万円（税込）",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "半日（短縮版）：3時間・22万円（税込）～",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "2時間×6回（計12時間）5〜10名 165万円〜330万円（税抜）",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "※人材開発支援助成金（最大75%）活用時の実質負担：約41万円〜82万円",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "中央値で約20.8万円、価格帯は約16万円〜25.6万円",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "半日研修では15万〜30万円、1日研修では25万〜60万円が目安の範囲となります",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】社員研修の費用相場はいくら？独自調査から予算目安を解説",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "出資額50億円を獲得したノウハウを惜しみなくお伝えします",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "集合研修の費用は、一般的に25万円～60万円が相場で、10～20名規模の場合、総額40～80万円程度になるケースが多い",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン研修は、一般的に1人あたり年間数千円から数万円が相場で、企業向けプランでは月額制やライセンス数に応じた料金体系が採用されるケースが多い",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "eラーニング形式は「1IDあたりの料金」が基本で、コストを抑えながら継続的な学習環境を用意できる点が魅力です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "ハンズオン型の研修は、1回あたり数万円から数百万円が相場で、とくに10～20名規模の企業向けカスタマイズ研修では、1日あたり40万円～80万円程度が一般的",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2日間で10時間のマーケティングDX研修を対面で行った場合、1人44万円（税込）かかります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、助成金によって講座料金の30万円が経費助成、1時間960円＝9600円の賃金助成があるため、1人130,400円での受講が可能です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "費用は、1IDにつき月額1,650円（税抜）で利用できるため、低コストでDX人材の育成を進めたい企業にはおすすめになります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "200本以上の動画コンテンツが見放題で、月額最低1万円から気軽に導入できる",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】カフェのホームページの作り方|必須ページ・おしゃれなデザインのコツ・費用相場までやさしく解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修おすすめ12選をDX専門家が徹底比較！【2025年最新】料金・選び方・助成金活用も解説｜株式会社AIworker",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修おすすめ12選をDX専門家が徹底比較！【2025年最新】料金・選び方・助成金活用も解説",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "最低3-4社から提案を受け、内容・料金・サポート体制を比較検討する",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "通常100万円の研修が25万円で実施可能",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "1. DX人材育成初級プラン（30万円）",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "2. DX人材育成中級Aプラン（30万円）※初級受講者のみ受講できるコース",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "3. DX人材育成中級Bプラン（30万円）※初級受講者のみ受講できるコース",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "4. AI導入プラン（30万円）",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "5. 伴走育成プラン（60万円）",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "20人～50人程度が受講する会場型研修の場合、1日で50万円程度が相場",
+    "url": "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、これはあくまで目安であり、中には1日あたり20人の会場受講で150万円といった高額な研修も存在します",
+    "url": "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "pass": 3
+   },
+   {
+    "quote": "DX導入におすすめの研修を15選、口コミや料金も合わせて紹介",
+    "url": "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI研修の費用を比較｜公開料金3例・見積項目と社内工数",
+    "url": "https://career-survival.com/columns/seizougyou-dx-yosan/",
+    "pass": 3
+   },
+   {
+    "quote": "NotebookLM（Gemini Notebook）の使い方・料金【2026年11月】",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   },
+   {
+    "quote": "7. AI研修の費用相場と助成金",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   },
+   {
+    "quote": "10万円〜50万円程度",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   },
+   {
+    "quote": "30万円〜100万円程度",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜数百万円",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   },
+   {
+    "quote": "eラーニング型は数千円〜数万円/人、半日セミナー型は10万〜50万円程度、1日ハンズオン型は30万〜100万円程度、2日以上の実践型は100万円〜数百万円が目安です",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "🔳こんな人におすすめの記事です",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では社員数が少ないため、研修費用は比較的抑えられますが、大企業では対象者が多いため費用が高額になる傾向があります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "900社以上の導入実績、",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "動画コンテンツ型DX研修の費用相場は比較的安価で、",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修の費用負担を軽減するためには、助成金や補助金を活用するのがおすすめです",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金や補助金の詳しい解説は、「DX研修に使える助成金やおすすめ研修会社を徹底解説」をご覧ください",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金の種類や申請方法、おすすめの研修会社について詳しく解説しています",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのDX研修業者20選！実践しながら学べるkinton...",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修に使える助成金やおすすめ研修会社を徹底解説",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "システムエンジニアとプログラマーの違いって何？年収や将来性も比較して解説",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの自治体DX研修3選！研修の選び方や推進事例も解説",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "kintoneのプラグインとは？おすすめのプラグインも紹介！",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修会社おすすめ7選！内容や費用の比較も紹介！ | 企業研修ポータルルート",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修会社おすすめ7選！内容や費用の比較も紹介！",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "本コラムでは、数あるDX研修会社の中からおすすめの7社を厳選し、それぞれの特徴や内容、費用感を比較して紹介します",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "まずおすすめしたいのがアガルートのDX研修です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修会社おすすめ7選",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "以下に特におすすめできるAI研修会社7社をあげ、それぞれの強みや特徴をまとめました",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修の費用の比較",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "以下で費用を比較した表を見てみましょう",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "数時間～1日程度／比較的軽めの内容",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "数ある研修会社の中でも、幅広いテーマに対応し実践的なカリキュラムを提供するアガルートの法人研修は特におすすめです",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修でおすすめの会社もご紹介しますので、最後までご覧ください",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修でおすすめの会社18選！費用や特徴をご紹介",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX人材の育成なら「株式会社吉和の森」のマーケティングDX研修がおすすめ！",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、基本的なデジタルリテラシー研修は比較的安価ですが、実践的なプログラミング演習や専門性の高い内容を含む研修では費用が増加します",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "また、集合型研修と比較して会場費や交通費などの追加コストがかからないため、全体的にリーズナブルです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "短期集中型の研修は比較的安価である一方、長期間にわたる継続的な研修は総費用が高額になるのが一般的",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修でおすすめの会社は、主に以下の通りです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX人材の育成なら「株式会社吉和の森」のマーケティングDX研修がおすすめです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "費用は、1IDにつき月額1,650円（税抜）で利用できるため、低コストでDX人材の育成を進めたい企業にはおすすめになります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、AI人材の育成に力を入れている企業にはおすすめです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、新人のDX育成やITスキル習得のための研修を実施する場合は、インターネットアカデミーがおすすめです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、DXをはじめとした研修プログラムを導入したい企業はおすすめです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "ため、低コストで気軽にDX研修を実施したい企業におすすめです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "これからDX研修を実施して自社のDX化を推進したいと考えている企業は、自社に適したDX研修プログラムを提供している会社を選ぶのがおすすめです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティングとは？おすすめのコンサルティング会社一覧や選び方を解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "研修を比較する",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "テーマで研修を比較する",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばオンライン上で決まったカリキュラム内容を実施する研修は、比較的安い価格帯で提供される傾向にあります",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのPython研修一覧",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Python研修を提供しているおすすめの企業・法人を一覧で掲載しております",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのDX研修一覧",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修を提供しているおすすめの企業・法人を一覧で掲載しております",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのJava研修一覧",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Java研修を提供しているおすすめの企業・法人を一覧で掲載しております",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのJavaScript研修一覧",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "JavaScript研修を提供しているおすすめの企業・法人を一覧で掲載しております",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "コードキャンプの導入事例を見てみる デジタル課題に合わせて同社のビジネスモデルや、業務プロセスに特化したカリキュラムが用意されているかチェックすることがおすすめです",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "例えば研修の進捗状況をリアルタイムで確認できるツールや、システムが提供されているかチェックすることがおすすめです",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "QSアジアランキング2027",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "子供（小学生・中学生・高校生）がロボットやプログラミング言語を学ぶことができるオフラインからオンラインスクールを検索、比較することが可能です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】DX研修におすすめの会社22社を比較！実施の目的や種類、選び方なども解説 - KeySessionメディア",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修人気ランキング",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修会社人気ランキング",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】DX研修におすすめの会社22社を比較！実施の目的や種類、選び方なども解説",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修会社を比較する際は、以下の3点を軸に検討するのがおすすめです",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、KeySessionに登録された研修会社のなかから、DX研修に対応したおすすめの22社をご紹介します",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修会社選びに失敗したくないけれども、どこを選んだらよいかわからないなら研修領域に特化した比較サイトのKeysessionに相談してみませんか？",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修に限らないおすすめの研修会社については、以下の記事で紹介しています",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "多くのサービスでは、eラーニングの基本使用料や年間契約費用が別途必要になることもありますが、一度契約すれば複数の社員が視聴可能な場合もあります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "数時間～数ヶ月／ライセンス数やコンテンツの量による",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "長期（1ヶ月以上）",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "３ヶ月でIT担当者をつくる中小企業向け研修プログラム",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月でIT導入担当者を育成する中小企業向け研修プログラム",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員を対象に実施された、約9ヶ月間に及ぶ伴走型の個人課題探究・相互サポートプログラム「Personal Quest（パーソナルクエスト）研修」です",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験から最短1ヶ月で即戦力エンジニアに育成！助成金活用で安心受講、オンライン・対面（秋葉原）毎月開講",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "WEBエンジニア/Java2か月研修",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ1か月コース",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "：申請準備に1-2ヶ月程度必要",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "2ヶ月～6ヶ月",
+    "url": "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "pass": 3
+   },
+   {
+    "quote": "会場受講：6ヶ月など",
+    "url": "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "pass": 3
+   },
+   {
+    "quote": "研修直後は多くの社員が「使ってみよう」と思いますが、1週間、2週間、1ヶ月と経つと元の業務習慣に戻ってしまいます",
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Copilotエージェント試験導入ガイド！3か月で効果検証・失敗回避まで…",
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "この特性は導入期間や要望に応じた機能の実装に影響を及ぼします",
+    "url": "https://www.dga.co.jp/column/20230214-01/",
+    "pass": 3
+   },
+   {
+    "quote": "例として、クラウド版の場合、カスタマイズをせずに導入すると数日から数週間で可能ですが、カスタマイズをする場合は数週間から数か月の期間が必要になるでしょう",
+    "url": "https://www.dga.co.jp/column/20230214-01/",
+    "pass": 3
+   },
+   {
+    "quote": "単発の1日〜2日間の短期集中型講義（インプット）だけで終わらせず、その後の3〜6か月間で実際の業務改善プロジェクトを回す長期的な伴走型育成プログラム（OJT・ワークショップ）として設計することが、スキルの定着率を大幅に高めます",
+    "url": "https://www.linpress.co.jp/blog/c94",
+    "pass": 3
+   },
+   {
+    "quote": "研修受講後3か月以内に、自部署の業務改善施策（PoC企画書）を1件以上策定・提出する",
+    "url": "https://www.linpress.co.jp/blog/c94",
+    "pass": 3
+   },
+   {
+    "quote": "伴走型・長期育成プログラム（3〜6か月）：",
+    "url": "https://www.linpress.co.jp/blog/c94",
+    "pass": 3
+   },
+   {
+    "quote": "研修受講後3か月以内に、実際のDXプロジェクトへのアサインや、自部署での業務改善施策（PoC）を担当させることで、学びを実践力へ定着させます",
+    "url": "https://www.linpress.co.jp/blog/c94",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりで決まるものと、1回・1か月あたりで決まるものがある",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "前提知識ゼロだった社員が約3か月で、AIを使って塗装の膜厚を自動測定するアプリを開発・完成させた",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "前提知識ゼロから約3か月のAI道場を通じてアプリを開発するケースが生まれた",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "リコーがAI駆動開発プログラムを本格展開〜2か月の開発工程を3週間で完遂、プルリクエスト数2倍へ〜",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "導入後、2か月かかる見込みだったクラウド移行業務が約3週間で完了し、プルリクエスト数は従来の約2倍に増加した",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "2か月を要すると見込んでいたクラウド移行業務が約3週間で完遂",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "研修で習得したスキルも、実践しなければ2週間で50%、1ヶ月で80%忘れてしまうからです",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "選定業務で1ヶ月間のトライアル実施",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "研修後1ヶ月",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "研修後2ヶ月",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "研修後3ヶ月〜",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、研修前に受けたスキルアセスメントを3ヶ月後に再度受検し、スコアの伸びを定量的に確認します",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "リテラシー研修は数時間〜数日、実務活用型は数日〜数週間、エンジニア特化型は数ヶ月に及ぶこともあります",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "学んだ内容は実践しないと2週間で50%、1ヶ月で80%忘れるため、研修後すぐに業務へ組み込む設計が大切です",
+    "url": "https://soken.signate.jp/column/ai-training",
+    "pass": 3
+   },
+   {
+    "quote": "ご契約後、1~2ヶ月後から受講開始が一般的なスケジュールになります",
+    "url": "https://www.reefay.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "研修終了後も3ヶ月間の質問対応と24時間チャットサポートを継続いたします",
+    "url": "https://www.reefay.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 支払い方法は何に対応していますか？",
+    "url": "https://www.reefay.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "原則、研修開始日の6か月前から1か月前まで",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "研修終了日の翌日から2か月以内",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内職業能力開発計画、職業能力開発推進者の選任、賃金の適正な支払い、必要書類の整備・保存等、ほかにも要件があります",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際の支給額は、対象経費、1人あたり上限、実訓練時間、受講状況、所定労働時間、賃金の支払い、申請内容、審査結果等によって異なります",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "原則として、研修開始日の6か月前から1か月前までに、職業訓練実施計画届と必要書類を管轄労働局へ提出します",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "受講記録、出欠、訓練時間、教材、賃金台帳、支払い証憑等を整理します",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "対象経費は、支給申請までに申請事業主が負担・支払いを完了している必要があります",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "研修終了日の翌日から2か月以内に支給申請書と必要書類を提出します",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準学習時間10時間以上または標準学習期間1か月以上等の要件があり、賃金助成は対象外です",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "計画届は研修開始日の1か月前までに提出する必要があります",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "Javaプログラミング研修（2ヶ月）",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "Javaプログラミング研修（3ヶ月）",
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "*賃金要件等：訓練修了後に行う訓練受講者に係る賃金改定前後の賃金を比較して５％以上上昇している場合、又は、資格等手当の支払を就業規則等に規定した上で、訓練修了後に訓練受講者に対して当該手当を支払い、かつ、当該手当の支払い前後の賃金を比較して３％以上上昇している場合に、助成率等が加算される",
+    "url": "https://metaversesouken.com/ai/ai/ai-training-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "計画が策定されたら、訓練開始日の1か月前までに、労働局に計画届を提出します",
+    "url": "https://metaversesouken.com/ai/ai/ai-training-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "この申請は、訓練終了日の翌日から2か月以内に行う必要があります",
+    "url": "https://metaversesouken.com/ai/ai/ai-training-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、人材開発支援助成金の場合は、研修開始日の1か月前までに、計画届を労働局に提出し、承認を受けることが求められます",
+    "url": "https://metaversesouken.com/ai/ai/ai-training-subsidy/",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "演習や課題解決を通じて学んだ内容をすぐに実務で活用できるスキルが身につく点が特徴です",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "疑問点をその場で解決できるため、学習の定着度が高いのもメリットです",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "社員が自身の業務に即した課題を設定し、デジタル技術を活用して解決に取り組むことが主な内容です",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "初心者レベルの社員に対して難易度の高い研修を受けさせても、理解が追いつかず効果が薄れてしまいます",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "企業ごとにDX推進の目的や課題は異なるため、研修内容がカスタマイズできるかどうかも確認しましょう",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "・企業課題に合わせた柔軟なプログラム設計",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "各社の課題にあわせて",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "アガルートはDX研修で、人工知能や機械学習、ディープラーニングなどの基礎から演習課題を交えた実務スキルまでをカバーしています",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "シナプスは、生成AIプロンプトエンジニア基礎編や職種別AI活用研修など、実践に近いカリキュラムを長めの期間（4〜8週間など）で提供しており、自社の課題に合わせたオーダーメイド設計が可能です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用・AI研修では、実際にデータを分析し、業務課題の解決に活かすスキルを習得します",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修を選ぶ際には、単に有名な会社や低価格の研修を選ぶのではなく、自社の課題や受講対象者のレベルに合ったプログラムかどうかが重要です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "研修内容が自社の課題や目的に合っているか",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "研修内容が自社の中期計画や業務課題と一致していなければ、わざわざ学んだ知識も現場で活かされにくいため、目的に沿った設計を確認することが重要です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の課題や目的に合った研修を選ぶことで、DX推進の成果は大きく変わります",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "研修プログラムのカスタマイズ性は高いか",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、基本的なデジタルリテラシー研修は比較的安価ですが、実践的なプログラミング演習や専門性の高い内容を含む研修では費用が増加します",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "専門性が高い研修ほど高額になる傾向があり、とくに",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "専門性の高い研修で費用が高くなる理由は下記の通りです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "企業の業種や課題に合わせたオーダーメイドのカリキュラム作成が必要になる",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "社内講師制度では、自社の業務や課題に即した内容の研修を実施できるため、カスタマイズ費用がかかりません",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "年間に76万人以上の方が受講しており、オンライン受講生だけでも17万人を突破している高い実績と評判のある会社",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "東京でおすすめのWebマーケティング会社9選！サービスを活用するメリット・デメリットも解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "が不足しているという課題があります",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "総務省が2021年に公開している「デジタル・トランスフォーメーションにおける課題」では、",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "このようにデジタル人材不足の課題が根幹にあり、結果として企業が外部からDX人材を採用することも難しくなっているのが現状です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "一方、企業のニーズに合わせてカスタマイズできる研修や技術的に専門性の高い研修の場合、費用が高くなる傾向にあります",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "上記のカリキュラムから要望に沿ってカスタマイズし、各企業の課題に最適化した研修を提供できるのが特徴です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "研修内容が自社の具体的な課題やプロジェクトに合わせてカスタマイズできるかを確認します",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "自社のデジタル課題に合わせてカスタマイズできる企業からDX研修を受けることで、効果を最大化することが可能です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "コードキャンプの導入事例を見てみる デジタル課題に合わせて同社のビジネスモデルや、業務プロセスに特化したカリキュラムが用意されているかチェックすることがおすすめです",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "進捗が不透明だとちゃんとスキルが身に付いているのか確認しづらく、DX研修が失敗に終わる可能性があります",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "総務省. 「デジタル・トランスフォーメーションにおける課題」.",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の経営課題、61.9％が「実行に遅れ・未着手」",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "59.3％が人材・専門性不足で進捗に影響、最重要課題1位は「人材確保・育成」",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "扱うテーマ：データ分析・AI活用／業務プロセス改革／システム実装・ノーコード／DX戦略設計など、自社の優先課題に合うか",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修会社選びに失敗したくないけれども、どこを選んだらよいかわからないなら研修領域に特化した比較サイトのKeysessionに相談してみませんか？",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修では、最新のデジタル技術トレンド、データ駆動型意思決定、イノベーションを促進する組織文化の構築など、経営層が直面する課題に対応するための知識とスキルが提供されます",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "業務課題をその場で議論したり、部門横断でDX推進の方向性をすり合わせる場としても機能します",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "やアナログ作業の多さに課題を感じている企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "を通じて自社課題に即したDX導入プロセスを疑似体験できる",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "が不在で、デジタル化の計画立案・実行に課題を抱える企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "RPA導入の効果を経営層へ定量的に示せず課題を感じている企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "業種・課題別にカスタマイズ可能なDX研修カリキュラム",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "実務課題に即したオーダーシート作成",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの導入が形骸化し、活用が進まない現場課題",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "に課題感がある企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "に課題を感じている企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "、現場の抵抗感に課題を感じている企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "DX推進やデジタル技術の定着に課題を感じている企業",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "研修プログラムのカスタマイズ性は高いか",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、基本的なデジタルリテラシー研修は比較的安価ですが、実践的なプログラミング演習や専門性の高い内容を含む研修では費用が増加します",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "専門性が高い研修ほど高額になる傾向があり、とくに",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "専門性の高い研修で費用が高くなる理由は下記の通りです",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "企業の業種や課題に合わせたオーダーメイドのカリキュラム作成が必要になる",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "社内講師制度では、自社の業務や課題に即した内容の研修を実施できるため、カスタマイズ費用がかかりません",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "年間に76万人以上の方が受講しており、オンライン受講生だけでも17万人を突破している高い実績と評判のある会社",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "東京でおすすめのWebマーケティング会社9選！サービスを活用するメリット・デメリットも解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "【脱・映え】Threadsのメリット・デメリットを徹底比較！Xやインスタとの違い、ビジネス活用法まで解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "企業のAI研修選びで失敗しないための完全比較ガイド",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "その主な理由として「適切な研修会社の選び方がわからない」「投資対効果が見えない」といった課題があります",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "「DX研修の費用をなるべく削減したい」",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "効果的なDX研修の選び方",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化が進んでる現代で企業は、DX研修を通じて業務改善や新たなサービス開発に取り組む力を身につけていくことが求められています",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "実践を重視するため社員は研修後すぐに業務改善や新たなプロジェクトに取り組めるようになります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修では社員がデジタル技術を効果的に活用できるよう、段階ごとに必要なスキルを学んでいきます",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "データやDXツールを使った業務改善の方法や、業務フローをデジタル化するための手順などより実践的な内容が中心です",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "実践トレーニングによって社員は「学んだだけ」で終わらず、実際に業務改善や新たなプロジェクトに生かせる力を身につけられるのです",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "研修を選ぶ際には下記のポイントを考慮することで、効果的なDX研修を導入できます",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "初心者レベルの社員に対して難易度の高い研修を受けさせても、理解が追いつかず効果が薄れてしまいます",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、すでにデジタルツールを使いこなしている社員には、応用や実践スキルを高めるハンズオン型の研修が効果的です",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば製造業の場合はIoTやデータ活用に特化した内容、サービス業であればAIや顧客分析に特化した内容を組み込むと効果的です",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金や補助金の活用により、コストを抑えながら効果的なDX研修を実施できます",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "研修内容や費用のバランス、助成金や補助金の活用などポイントを押さえて効果的にDX研修を導入しましょう",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業DX】業務効率化・生産性向上のためのkintone基礎講座",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "「成果に繋がる研修を選びたい」や「できればコストも抑えたい」と考える方も多いのではないでしょうか",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "研修をやったことはあるが、中々効果が現れなかった",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "基礎理論の理解実践的な演習経験生成AIやChatGPTの業務利用ノウハウ自社業務への落とし込みのスキルAIリテラシーや企画力向上",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "プロンプト設計スキルリスク管理・AIガバナンスの理解業務適用力の向上認定証（または試験合格への備え）実務的フィードバックあり",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "組織としてのAIリテラシー向上や部門別研修も可能で、現場適用・実務活用を重視しています",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "組織全体のAIリテラシー向上初心者の基礎理解業務改善や新規企画でのAI活用促進現場への定着化",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "AI技術の基礎を理解し、AIを使って何ができるかを把握することビジネス文書など業務で使える応用を学ぶこと職種を問わずAIリテラシーを向上させること",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "業務改革・プロジェクト推進研修では、実際の業務プロセスを見直し、デジタル技術を取り入れて改善する手法を学びます",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的にはRPAによる定型業務の自動化、クラウド導入によるワークスタイル変革、アジャイル開発によるサービス改善などです",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルリテラシーの向上と全社的な意識改革",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析やAIの活用スキルを習得することで、現場レベルでは日常業務の自動化や改善が進み、経営層においては定量的なデータに基づいた戦略判断が可能となります",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "例えばRPAによる定型業務の削減、BIツールを用いたデータ可視化などが典型的な活用事例です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "研修によって社員が自発的にデータを扱えるようになると、組織全体の生産性と競争力が飛躍的に向上します",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修は、全社員のリテラシー向上を狙うのか、専門人材を育成するのかで選ぶべきプログラムが変わります",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "対象者ごとに適したレベルが揃っているかどうかが、研修効果を最大化するポイントです",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "成果創出から内製化までプロが伴走",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修の費用を抑える方法として、長期間利用可能なオンライン研修を導入するのが効果的です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "自社の社員が講師となり、社内で研修を実施するため、外部講師や研修会社への依頼に比べてコスト削減が期待",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "また、繰り返し実施可能な教材やプログラムを自社で保有すれば、長期的なコスト削減にもつながります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "そして研修によるスキルアップや効果を測定してスキルの可視化が可能",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、実績や評判の悪い会社の場合、レスポンスが遅く学習範囲も不十分などの問題がある場合があるため、コストに対して十分な効果が期待できない可能性があります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修を実施すると、社内全体でのDXリテラシーの向上やDX化に必要なIT人材の確保・育成になります",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、長期的に見ても社内に多くのノウハウが蓄積するため、業務効率化や顧客満足度向上も実現可能です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "◆SNSやったけど効果が見えない",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "Instagramのリーチとは？計測方法からリーチを増やす効果的な9つの方法を解説",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け業務改善研修",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けAndroid研修",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "したがってDX研修は企業がデジタル技術を効果的に活用し、競争力を高めるために不可欠な取り組みです",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "これらの問題を解消するためにも、社員のデジタル技術に関する理解とリテラシーの向上を図り、全社的なDXを推進することがDX研修の目的です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "企業・法人向けのDX研修では、実務に繋がるリスキリングでITレベルを向上させます",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば初級者向けであればDXやデジタル知識の基礎を中心とした研修になり、社員のデジタルリテラシーを向上させることが目的です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "自社のデジタル課題に合わせてカスタマイズできる企業からDX研修を受けることで、効果を最大化することが可能です",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "組織社員のAI活用を、企業全体の成果へ～PE-BANK 『経営者向けAI活用研修』提供を開始～モニター企業を募集",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "業務改善・効率化研修",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "スマホアプリ(iOS/Android)開発研修",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI業務実務適用研修 〜「目的定義」と「オーダーシート設計」による生産性向上プログラム〜",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "業務改善に関わるリーダー",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "日常業務の効率化・生産性向上を目指す一般社員から管理職層",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "現場から「忙しい」と言われても改善策が見えない",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "業務改善が“全社横断”で進まない",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "全社員一律の動画研修では現場に定着せず、業務改善につながらない",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "業務効率化ツールを活用し、部署内の生産性の低い作業を削減できる",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "効果がよくわからない階層別研修は“もったいない”",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修が組織にもたらす効果",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "行政担当者は政策立案、サービス提供の効率化、市民とのコミュニケーション方法の革新など、デジタル技術を活用して公共サービスの質を向上させる責務を担います",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、市民に対するより迅速かつ効果的なサービス提供が可能となり、行政のデジタルトランスフォーメーションを実現するための基盤が築かれます",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "DX研修の費用相場は？企業規模や一人当たりの研修費用を解説 – 伴走ナビ – DX人材の育成を実現するメディア",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修の費用相場は？企業規模や一人当たりの研修費用を解説",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の費用相場",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "DX化とは？中小企業がDX化するステップを具体的に解説！",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は企業の規模や研修の種類によって異なります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、企業規模ごとの費用相場と研修の種類ごとの費用について解説します",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模によってDX研修の費用は大きく異なります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では社員数が少ないため、研修費用は比較的抑えられますが、大企業では対象者が多いため費用が高額になる傾向があります",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では10人程度の社員を対象にした研修で、平均10万円から100万円程度が相場",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な研修や基本的な内容に特化することで、コストを抑えられます",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "1回あたり数万円から数百万円が相場で、個社向けにカスタマイズされた10名から20名規模の研修では1日あたり40万円から80万円程度が目安",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "システム機能だけではなく、社内業務コンサルとしての目線で中小企業のDX化を推進しています",
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模・基礎的な研修であれば1人あたり約数万円で済むこともありますが、本格的・実践的な内容であれば、総額で数十万円〜数百万円になるのが一般的です",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "規模・期間などの例",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模研修／全社対象／長期間",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "売上にインパクトをもたらす、SEOに強い集客できるサイトを作成",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "集合研修の費用は、一般的に25万円～60万円が相場で、10～20名規模の場合、総額40～80万円程度になるケースが多い",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "ハンズオン型の研修は、1回あたり数万円から数百万円が相場で、とくに10～20名規模の企業向けカスタマイズ研修では、1日あたり40万円～80万円程度が一般的",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模や目的に応じて適切な期間の研修を選ぶのが重要です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "「人材開発支援助成金」は職務関連スキル習得を目的とした研修を対象とし、中小企業では最大75%、大企業では最大60%の補助を受けられます",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "最初に、従業員のスキルやタイプを診断し、従業員ごとに最適な研修を提供します",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修を従業員に実施することでデジタル技術の基礎知識や",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "研修内容を理科して進むスピードは各従業員ごとにばらつきがあります",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT・Claude・Gemini をひとつの画面で、月1,500円から 中小企業向けAIワークスペース「AITUKAO （エーアイ・ツカオ）」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "pass": 3
+   },
+   {
+    "quote": "３ヶ月でIT担当者をつくる中小企業向け研修プログラム",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "ITに詳しくない中小企業経営者",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月でIT導入担当者を育成する中小企業向け研修プログラム",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入診断士がオンライン学習と対面実践を融合し、DX・業務効率化・マーケ戦略策定や最新ITトレンド共有セミナーで地域中小企業の持続的成長を伴走支援",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MAREMIでは、ITリテラシーの向上を目指す中小企業に寄り添ったDX研修を実施しています",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "IT業、製造業など幅広い業種での豊富な実績があり、大手から中小企業まで規模を問わず対応可能です",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中小企業の先進的なDX事例を多数紹介し、自社業務への応用イメージを具体的に掴める構成も魅力となっています",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "全従業員がDXを自分事として捉え、実業務に適用できる人材を育成することを目指しています",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業の高度化によって、売上や利益の上昇が見込めます",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "「従業員ファースト」の姿勢で取り組み、健全で安全な職場環境の実現を目指す",
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "pass": 3
+   },
+   {
+    "quote": "売上にインパクトをもたらす、SEOに強い集客できるサイトを作成",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "集合研修の費用は、一般的に25万円～60万円が相場で、10～20名規模の場合、総額40～80万円程度になるケースが多い",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "ハンズオン型の研修は、1回あたり数万円から数百万円が相場で、とくに10～20名規模の企業向けカスタマイズ研修では、1日あたり40万円～80万円程度が一般的",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模や目的に応じて適切な期間の研修を選ぶのが重要です",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "「人材開発支援助成金」は職務関連スキル習得を目的とした研修を対象とし、中小企業では最大75%、大企業では最大60%の補助を受けられます",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "最初に、従業員のスキルやタイプを診断し、従業員ごとに最適な研修を提供します",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "インスタ運用代行の相場は月額いくら？中小企業が損しない費用の見方と業者の選び方",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 企業規模・目的別の選定指針",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "：中小企業～中堅企業",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "：大企業・中堅企業",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "：全規模対応",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "：中小企業～大企業",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "：中堅企業～大企業",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な人材育成を計画している企業",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な全社研修を計画している企業",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模・目的別の選定指針",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の推奨パターン",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "大企業（従業員1,000名以上）",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "：大規模実績、体系的カリキュラム、継続サポート体制",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業（従業員100-999名）",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業（従業員100名未満）",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "自社と同規模・同業界での導入実績があるかを確認",
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "pass": 3
+   },
+   {
+    "quote": "最大75％の助成金で実現するDX推進＆生成AI導入！中小企業向け最先端AI研修プラン | | シャープライズ",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "最大75％の助成金で実現するDX推進＆生成AI導入！中小企業向け最先端AI研修プラン",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、企業規模や目的に合わせた5つのプランをご用意しております",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がAI研修を導入するメリット",
+    "url": "https://sharprise.jp/business/business_skillup",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【人事必見】 DX研修 の 費用相場 まとめ！3つの提供形態で 料金 ... — 【人事必見】 DX研修 の 費用相場 まとめ！3つの提供形態で 料金 ... SHIFT AI https://ai-keiei.shift-ai.co.jp > AI導入・推進のヒント",
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修 会社おすすめ7選！内容や 費用 の比較も紹介！ — DX研修 会社おすすめ7選！内容や 費用 の比較も紹介！ 新社会システム総合研究所（SSK） https://www.ssk21.co.jp > 企業研修ポータルルート",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修 に必要な 費用 はどれくらい？3つの 研修 内容別に 相場 を ... — DX研修 に必要な 費用 はどれくらい？3つの 研修 内容別に 相場 を ... yoshikazunomori.com https://yoshikazunomori.com > ... > デジタルマーケティング",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "pass": 3
+   },
+   {
+    "quote": "【人事必見】 DX研修 の 費用 相場まとめ！3つの提供形態で 料金 ... — 【人事必見】 DX研修 の 費用 相場まとめ！3つの提供形態で 料金 ... SHIFT AI https://ai-keiei.shift-ai.co.jp > AI導入・推進のヒント",
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修 に必要な 費用 はどれくらい？3つの 研修 内容別に相場を ... — DX研修 に必要な 費用 はどれくらい？3つの 研修 内容別に相場を ... yoshikazunomori.com https://yoshikazunomori.com > ... > デジタルマーケティング",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修 会社おすすめ7選！内容や 費用 の 比較 も紹介！ — DX研修 会社おすすめ7選！内容や 費用 の 比較 も紹介！ 新社会システム総合研究所（SSK） https://www.ssk21.co.jp > 企業研修ポータルルート",
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "【人事必見】 DX研修 の 費用 相場まとめ！3つの提供形態で料金 ... — 【人事必見】 DX研修 の 費用 相場まとめ！3つの提供形態で料金 ... SHIFT AI https://ai-keiei.shift-ai.co.jp > AI導入・推進のヒント",
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修 に必要な 費用 はどれくらい？3つの 研修 内容別に相場を ... — DX研修 に必要な 費用 はどれくらい？3つの 研修 内容別に相場を ... yoshikazunomori.com https://yoshikazunomori.com > ... > デジタルマーケティング",
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vJge9ErZIHTnB70wQaxxZ4-PSXyEFdd6i98juclUGecyPRo05HU",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://bansonavi.com/dx/dx-training-cost-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ssk21.co.jp/training/dx-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai__worker/n/n851b22464f36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharprise.jp/business/business_skillup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-survival.com/columns/seizougyou-dx-yosan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catorce.jp/st/knowledge-ai-training-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manebi.co.jp/column/t-011/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skillupai.com/blog/for-business/dx-hr-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dga.co.jp/column/20230214-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ardent.jp/rentoffice-consultation-center/costdown/ai-robot/ai-katuyoukensyu-meritto-demeritto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linpress.co.jp/blog/c94",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cyber-synapse.com/portal/corporate-training/dx-osusume/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liskul.com/dx-training-comparison-164865",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oproduct.ai/categories/9067842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soken.signate.jp/column/ai-training",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://oproduct.ai/articles/9329899",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yugenfuji.jp/dxlearning/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbrain.co.jp/cc/special/onlinekensyu/kensyu-howto/36542/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insource-da.co.jp/case/case_study.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/dx-training-employee/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reefay.jp/aitraining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vJge9ErZIHTnB70wQaxxZ4-PSXyEFdd6i98juclUGecyPRo05HU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icloud.co.jp/josei/career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metaversesouken.com/ai/ai/ai-training-subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/content/contents/001666972.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "社員研修（DX・AI）の年間費用 費用 相場 万円",
+   "results": [
+    "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "https://bansonavi.com/dx/dx-training-cost-price/",
+    "https://www.ssk21.co.jp/training/dx-comparison/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vKX44XRsrQkPjeU32RbxR2zSr9NFUoCTUdg4GcHXptvIT_I0axw",
+    "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "https://soken.signate.jp/column/ai-training",
+    "https://schoo.jp/biz/column/1859",
+    "https://www.gaiasystem.co.jp/human/column/training-cost01/",
+    "https://gyomu-ai.com/dx-support/shanai-ai-kenshu-hiyo-souba/"
+   ]
+  },
+  {
+   "query": "社員研修（DX・AI）の年間費用 製造業 導入 費用",
+   "results": [
+    "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "https://www.ssk21.co.jp/training/dx-comparison/",
+    "https://bansonavi.com/dx/dx-training-cost-price/",
+    "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vLQ1hHHIPsC41_OqpmcEV4WbPg79ZP6rJ2_w7twvl4OFUZu9ibM",
+    "https://note.com/ai__worker/n/n851b22464f36",
+    "https://sharprise.jp/business/business_skillup",
+    "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "https://career-survival.com/columns/seizougyou-dx-yosan/"
+   ]
+  },
+  {
+   "query": "社員研修（DX・AI）の年間費用 失敗 デメリット",
+   "results": [
+    "https://manebi.co.jp/column/t-011/",
+    "https://ai-keiei.shift-ai.co.jp/dx-training-guide/",
+    "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "https://www.skillupai.com/blog/for-business/dx-hr-development/",
+    "https://www.dga.co.jp/column/20230214-01/",
+    "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "https://ardent.jp/rentoffice-consultation-center/costdown/ai-robot/ai-katuyoukensyu-meritto-demeritto/",
+    "https://www.linpress.co.jp/blog/c94",
+    "https://soken.signate.jp/column/ai-training",
+    "https://nocode-sol.co.jp/blog/ai-training-disadvantages-small-businesses/"
+   ]
+  },
+  {
+   "query": "社員研修（DX・AI）の年間費用 比較 主要企業",
+   "results": [
+    "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "https://www.ssk21.co.jp/training/dx-comparison/",
+    "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "https://cyber-synapse.com/portal/corporate-training/dx-osusume/",
+    "https://bansonavi.com/dx/dx-training-cost-price/",
+    "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "https://liskul.com/dx-training-comparison-164865",
+    "https://oproduct.ai/categories/9067842",
+    "https://soken.signate.jp/column/ai-training"
+   ]
+  },
+  {
+   "query": "社員研修（DX・AI）の年間費用 中堅企業 導入事例 効果",
+   "results": [
+    "https://keysession.jp/media/recommended-companies-for-dx-training/",
+    "https://oproduct.ai/articles/9329899",
+    "https://trends.codecamp.jp/blogs/media/dx-training-cost",
+    "https://note.com/ai__worker/n/n851b22464f36",
+    "https://yugenfuji.jp/dxlearning/",
+    "https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/",
+    "https://www.sbrain.co.jp/cc/special/onlinekensyu/kensyu-howto/36542/",
+    "https://www.insource-da.co.jp/case/case_study.html",
+    "https://www.ssk21.co.jp/training/dx-comparison/",
+    "https://ai-keiei.shift-ai.co.jp/dx-training-employee/"
+   ]
+  },
+  {
+   "query": "社員研修（DX・AI）の年間費用 導入期間",
+   "results": [
+    "https://ai-keiei.shift-ai.co.jp/dx-training-cost/",
+    "https://www.ssk21.co.jp/training/dx-comparison/",
+    "https://sharprise.jp/business/business_skillup",
+    "https://www.reefay.jp/aitraining/",
+    "https://cad-kenkyujo.com/dx-dounyu-kensyu/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/dx-training-cost/?srsltid=AYCX9vJge9ErZIHTnB70wQaxxZ4-PSXyEFdd6i98juclUGecyPRo05HU",
+    "https://www.icloud.co.jp/josei/career.html",
+    "https://metaversesouken.com/ai/ai/ai-training-subsidy/",
+    "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/content/contents/001666972.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

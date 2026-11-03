@@ -1,0 +1,1783 @@
+{
+ "name": "CAD・CAE・PLMのライセンスと導入",
+ "en": "CAD CAE PLM license cost",
+ "aliases": [
+  "CAD ライセンス 費用",
+  "PLM 導入 費用",
+  "CAE 年間ライセンス"
+ ],
+ "context": "設計",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:50:41.983601+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "200人の設計者のケースで計算すると年間費用で120万円です",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "設計者が利用しいてるツール費用はCADを含めると一人当たり30〜50万円、CAEツールの場合でも人数割にすると同じくらいの費用が想定されます",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "200人x30万円＝6000万円に対して２％のOpenLM費用で、エンジニアリングソフトウェアの利用効率化で10%の効果が出たら600万円ー120万円＝480万円の節約効果という計算になります",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "購入金額の1/2（交付上限150万円）",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率1/2、最大150万円まで",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下、または従業員数300名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下、または従業員数900名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下、または従業員数100名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下、または従業員数50名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "６．確定している（申告済みの）直近過去３年分の各年又は各事業年度の課税所得の年平均額が15億円を超える",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資がPDMの1.5～3倍、数百万円から数千万円が相場",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどお伝えしたSOLIDWORKS PDM Professionalでは、導入価格の相場が年額35万円～85万円程度でした",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "FullWEB PDMのような大規模なシステムでも、サーバー初期費用が750万円から、といった具合に、PLMに比べて一般的に導入コストが低めです",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はシミュレーション主導のメリットに焦点を当て、CAEソフトウェア、サービス、HPCインフラストラクチャ、エンジニア向けのシミュレーショントレーニングに300,474ドル（4,500万円）を投資しました",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "初年度に2,777,845ドル（4憶1,600万円）の利益を実現し、2,477,371ドル（3億7,000万円）の純利益を達成しました",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "■Q1：PLMの見積もりで特に見落としやすいコストは何ですか？",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "オプション機能の追加料金、データ移行費用、ユーザー追加時のライセンス費用の3点が見落としやすいコストです",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "CAD：200万〜800万円",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE：500万〜1000万円",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業（年商20〜500億円）のCAD/CAE選定で候補に上がる代表4製品を、機能・価格・中堅適合度・実装期間の4軸で公開情報ベースに横並び比較する",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "年額目安（1ライセンス）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "30万〜80万円（保守・年）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "60万〜150万円（年）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "30万〜70万円（年）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "8万〜30万円（年）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "設計者数5〜30名規模、年額予算を抑えたい",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "：年額予算8万〜30万円/人ならFusion",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "30万〜80万円/人ならSOLIDWORKS Standard・Inventor",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業（年商20〜500億円）のCAD/CAE選定支援を100件以上経験した知見から、貴社の業種・設計者数・既存資産・予算に合わせた製品絞り込みをご提案します",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "このような仕組みを使って、営業シーン（お客様との仕様調整・見積もり）から、3Dモデルや図面、BOMの生成まで、一気通貫で流す仕組みが構築できる（",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Windchillの見積もりを取る流れを解説！ライセンス価格も紹介",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月契約を続けた場合より約37万円もお得",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "通常枠の場合、補助率は原則1/2、補助上限額は450万円です",
+    "url": "https://cad-junction.essencimo.co.jp/2025/07/04/plm%E3%81%A8cad%E7%B5%B1%E5%90%88%E3%81%AB%E3%82%88%E3%82%8B%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%BE%B9%E5%BA%95%E8%A7%A3/",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "ネットワークライセンスとフローティングライセンスの違い・主要管理システム比較",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の申請手続きは、IT導入支援事業者として登録されているベンダーが全面的にサポートし、補助金が採択されると",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ動画コンテンツ",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "このソフトの徹底解析＆比較を見る",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "このページで他のCADとの比較や無料ダウンロード方法、",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後はCAD / CAMベンダーで設計から加工まで幅広くソフトウェアの開発に携わった後、CADソフトを導入したお客様に効果的な運用を行っていただくためトレーニングを実施しています",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "図面・文書管理システムであるFullWEBの強化バージョンで、電機・機械・自動車業界を中心に400社以上の導入実績があります",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMとPLMは、どちらも製品開発において欠かせないシステムであり、しばしば比較の対象となります",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMとPLMの価格相場や機能面から、両者を比較",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025】PLMシステムの価格を徹底比較！価格別の選び方も紹介",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、両者の違いを記載した比較表です",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "比較的シンプル",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなPDMの適用範囲拡大に伴い、PDMをPLMとリブランディングするパッケージベンダーも増えてきました",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント④複数のベンダーから見積もりを取る",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMシステムを導入する際は、複数のベンダーから見積もりを取ることも重要です",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMシステムは同じ製品であっても、ベンダーによって販売価格やサービス内容が異なります",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、上で解説しました利用規模の精査も代行し、最適な価格を提示してくれるベンダーを選択すれば、",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMの価格は、種類や利用規模、利用するベンダーによって異なります",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "このケーススタディは、設計者CAEソフトウェアを通じて実現可能なシミュレーション主導の設計検討の利点を定量化し、従来のエンジニアリング設計手法やワークフローと比較した場合、設計段階でシミュレーションを実施する利点が大きいことを明確に示しました",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "シミュレータとスケジューラの違いと効果的な連携 製造領域での活用方法を比較!",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "人気記事ランキング",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けIT製品比較サイト",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "ランキングから探す",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "IT製品比較TOP",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "PLMの基本ライセンスは比較的リーズナブルに見える場合でも、実際の運用に必要な機能を揃えようとすると、オプション費用が積み上がることがあります",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な例として、特定のCADベンダーとのプラグインや双方向同期機能が有償オプションとなっているケースがあります",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "対策としては、自社が利用しているCADツールとの連携がライセンスに含まれるかどうかを、事前にベンダーへ明示的に質問することが重要です",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "PLMシステム比較おすすめ９選！機能・できること・目的別の選び方を解説",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを取る段階で、移行対象データの件数・形式・品質を正確に把握し、移行費用の上限を事前にベンダーや外注先と合意しておくことが重要です",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "移行作業をベンダーに依頼する場合も、検証プロセスが契約スコープに含まれているかを確認してください",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "3D CADデータは2Dの図面ファイルと比較してファイルサイズが大きく、製品数や改訂履歴が増えるにつれ、ストレージ使用量が急速に増加します",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "連携システムの数・頻度・データ量を事前に整理し、API利用量の上限や超過時の費用をベンダーに確認してください",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "ITトレンドでは、最新の製品・サービスを多数比較・掲載しています",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "まず資料を取り寄せて、さまざまな製品の機能や特徴を比較してみてください",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "浮いた時間で、じっくりと製品を比較検討し進めましょう",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "の製品を調べて比較 ／",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー統合",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "この際に重要なのは、単純な比較ではなく",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "別ベンダーのツールに変更する",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーのライセンス変更予定",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "最近は多くのソフトウェアベンダーが",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー契約レビュー",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカでボディー設計者として技術者としてのキャリアを開始したのち、CADベンダーにてコンサルタントとして多数の製造業のお客さまでのCAD/PLM導入および業務改革プロジェクトを支援",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内IT部門や社外ベンダーなどを巻き込んだチーム作りも考えなければいけません（このあたりは第8回のコラムで紹介します）",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめコンテンツ",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業向けCAD/CAE比較2026年Q2版 | GXO",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれる理由と比較",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業向けCAD/CAE比較2026年Q2版",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業のCAD選定で候補に上がる4製品を公開情報ベースで比較する",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業（年商20〜500億円）のCAD/CAE選定で候補に上がる代表4製品を、機能・価格・中堅適合度・実装期間の4軸で公開情報ベースに横並び比較する",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "比較対象4製品の概要",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "機能カバー範囲の比較",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "設計者展開期間の比較",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "CAE機能の比較",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業向けCAD/CAE比較2026年Q2版｜SOLIDWORKS・Inventor・Fusion・FreeCADの機能/価格/中堅適合度/実装期間に関する検討では、担当者だけで判断を閉じず、経営、現場、情シス、外部パートナーの役割を早い段階で分けることが重要です",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義、費用、開発体制、ベンダー選定、保守運用",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "検索で情報収集している段階でも、発注前に次の観点を整理しておくと、見積もりのブレ、手戻り、ベンダー依存を減らせます",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "自社責任者、現場担当、ベンダー、保守運用者をどう置くか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較できる粒度になっているか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較で、開発費だけでなく保守費、運用費、追加改修費を見たか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "1週間〜1か月で効果を体感いただけます",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "に分けられ、それぞれ価格、および支払い方式が異なります",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、利用期間は継続的に一定額の支払いを行わなくてはいけません",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "最初の1か月間、すべてのエンジニアを対象としたシミュレーショントレーニングが実施されました",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアが使いこなせるようになるまで数か月〜数年",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の概算費用・導入期間・役割分担マトリクスをその場で確認",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "価格はエディション・契約期間・販売店経由の割引で変動する",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "1〜3ヶ月（経験者）、3〜6ヶ月（初学者）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "2〜4ヶ月（クラウド前提に慣れ要）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6ヶ月（コミュニティ情報で自習）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業の設計部門全体（10〜100名）への展開は6〜18ヶ月の段階移行が標準的だ",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "検収条件を機能、性能、セキュリティ、ドキュメントで定義したか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "リリース後3ヶ月の改善運用と責任分界を決めたか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "概算費用・導入期間を先に提示",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ツールのトライアルを試したり、試しに数ヶ月導入してみたりしながら、最適なツールを探すことがおすすめです",
+    "url": "https://cad-kenkyujo.com/plm/",
+    "pass": 3
+   },
+   {
+    "quote": "決められた契約期間においてその製品を使い続けることができる購入方法",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月契約を続けた場合より約37万円もお得",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCADライセンスのお得な契約期間",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCADライセンスの契約期間は",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間は長い方が価格が割引になる",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月から使用できますし、1年間の契約や長期的に使用するなら最長3年間の使用期間が設定されています",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   },
+   {
+    "quote": "また、契約期間中は",
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "ライセンスマネジメントで解決する10の課題",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "でも...「OpenLM自体が高いのではないのか？」、「費用を削減するのにまた費用をかけるなんて本末転倒でしょ」",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "購入したら保守料金を減らせなくなるアプリケーションは追加購入時に費用対効果を見極める必要があります",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金とは、中小企業の皆さまが抱えられている経営課題の解決に向けたITツール導入を支援するための補助金制度です",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、設計ミスの頻発や製品の品質低下、納期遅延を招き、顧客からの信用失墜に陥るなど、多くの課題点をはらんでいたのです",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のように、PDMとPLMは、対象とする範囲や機能、スケーラビリティが異なるため、自社の製品開発における課題を明確にし、それらを解決できるシステムを選択することが重要です",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、PDMシステムは機能の範囲や導入形態、利用規模によって価格が違い、同時に運用方法、メリット・デメリットも異なるため、まずは自社のニーズに合わせて最適な方法で導入することが重要です",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】PLMを導入して失敗する？「徹底的に・大規模に」が失敗の原因",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE導入の効果は？費用対効果とROIについて事例を交えて紹介します | Trans Simulation",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAE導入の効果は？費用対効果とROIについて事例を交えて紹介します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAEの活用経験がない人にとっては、CAEが課題解決に繋がるというイメージを持たれにくく、導入初期費用やランニングコストが高いといった認識もまだまだあると言われています",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、CAEの導入によるメリット（費用対効果）およびROI（投資利益率）について具体的な事例を交えて紹介します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な事例CAEの導入によるメリット（費用対効果）",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、設計段階での問題点を早期に発見し、修正することが可能です",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAE活用効率最適化、高度なシミュレーション技術、最適なソリューションの組合せなどの課題に対してお困りの方はお問い合わせください",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAEの導入によるメリット（費用対効果）",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "設計者CAEの導入効果とは？業務改善事例・課題と問題点のご紹介",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "設計者CAEの導入は、製品開発の効率と品質向上に寄与する一方で、課題や問題点も存在します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "設計や解析などの様々な課題に対して、数値計算やシミュレーションを行うことができます",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "PLMの機能とメリットをわかりやすく解説！開発・品質・コストの課題を支援",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "PLMは一度導入すると長期にわたって利用することが多く、乗り換えや解約の際に想定外のコストや制約が発生するケースがあります",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "契約条件に「解約後のデータ提供に関する条項」が明記されているか確認してください",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、解約後にどの期間・どのフォーマットでデータを受け取れるか、移行支援サービスの有無と費用、などを事前に把握しておくことで、将来の選択肢を広げることができます",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレ型とSaaS型の総コスト比較で陥りやすい失敗",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、システムが現場に定着しない場合、投資回収ができないまま費用だけがかかり続けるリスクがあります",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "ITトレンド編集部では、読者がIT製品・サービスを比較検討する際に役立つ情報や、システムを活用した社内の課題解決のヒントになる情報を記事にして日々発信しています",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "PLM運用が失敗する本当の原因とは？稼働後に噴出する落とし穴と定着への処方箋",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスマネジメントで解決する10の課題",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス費用が高い",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートマニュファクチャリングソリューションで解決できる課題を、お悩み別やソリューション別でご提案します",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題・悩み図鑑",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "PDMなしの運用は版数管理ミス・データ消失リスクが高い",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "課題整理、現行確認、投資判断メモ",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "発注前に目的、対象業務、利用者、現行課題を1枚に整理したか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "社内稟議で費用対効果、リスク、ロードマップを説明する必要がある",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "GXOが、現状整理、RFP/要件定義、費用対効果、ベンダー比較、導入ロードマップまで実務目線で確認します",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "※ 初回相談では営業資料の説明よりも、現状・課題・判断材料の整理を優先します",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "自社に近い失敗を選び、判断チェックを受け取る",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ別に、失敗条件・社内で使える判断軸・次の一手を1通1テーマで届けます",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "今いちばん避けたい失敗",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "よくある失敗：",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果試算シミュレーター",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "良くある失敗は、業務を急ぐあまり、2D図面上で赤入れをして現場に図面を流しておいて、元となる3Dデータが最新化されておらず、次に参照・流用するときに、誤ったデータを元にしてしまうことである",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "繰り返しになるが、現在図面中心で業務をしている企業が、一足飛びにMBEの世界を目指すのはハードルが高い",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのパターンと、そのメリット/デメリットを",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで、PLMの概要、導入失敗事例、導入成功のコツ、導入の際のポイントなどを見てきた",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、導入側も、これまでのような一括の開発承認稟議を行い、ライセンスを購入し、開発に入る形ではなくなるため、どのような単位で費用や効果を説明していくかが課題となるだろう",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで、筆者の経験から、PLMとは何か、PLM導入の失敗事例、失敗しないPLM導入のコツ、PLM導入時の要件のポイント、将来に向けての提言などを記してきた",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "また、これまで多くのPLM導入において、多くの成功や失敗を共有してきたクライアントの皆さんにも、この場を借りて感謝の意を伝えたい",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "【前編】PLMとは？誰も書かなかったPLMの不都合な真実と失敗しないPLM導入のコツ",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "のメリット・デメリットにはどのようなものがあるでしょう？ また",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "の向いている業界メリット・デメリットを知っておこう",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "はどんな業界に向いており、どのようなメリットやデメリットがあるのでしょう？",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "を比較し、選定するために向いている業界とメリット・デメリットを知っておきましょう",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "【デメリット総括】",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "PLMはこのような業界に向いており、様々なメリットとデメリットがありました",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "のデメリットが解消されてきている製品も登場していると聞きます",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "PLMのデメリットであった「カスタマイズ開発が増え、導入コストがかかる」というポイントを電通総研社の豊富な導入実績から低減してくれます",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "PLMソフトウェアの「導入コストが高くなるデメリット」を解決するために、",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "のメリット・デメリットがご理解いただけたと思います",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "でも...「OpenLM自体が高いのではないのか？」、「費用を削減するのにまた費用をかけるなんて本末転倒でしょ」",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "200人x30万円＝6000万円に対して２％のOpenLM費用で、エンジニアリングソフトウェアの利用効率化で10%の効果が出たら600万円ー120万円＝480万円の節約効果という計算になります",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "＊エンジニアリングソフトウェアの金額は極めて低く見積もって計算していますので、もっと大きな成果が期待できます",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "👌早く導入すれば効果も早く出ます",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "購入したら保守料金を減らせなくなるアプリケーションは追加購入時に費用対効果を見極める必要があります",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 利用データに基づいた適正配置・コスト削減",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "使われていないライセンスの再配置や削減で、",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "「SolidWorksのライセンス不足が慢性化していましたが、OpenLM導入後は運用改善が進み、ライセンス追加なしで対応可能に",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "1週間〜1か月で効果を体感いただけます",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "高額な固定ライセンスの利用効率の改善",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスコスト削減の提案",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "高価なソフトウェア導入後のROI検証",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後はCAD / CAMベンダーで設計から加工まで幅広くソフトウェアの開発に携わった後、CADソフトを導入したお客様に効果的な運用を行っていただくためトレーニングを実施しています",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD図面や部品表など、製品設計に関わる様々なデータを一括で管理し、設計部門と他部署（営業部門など）との連携をスムーズにすることで、製品開発の効率化・品質向上に貢献します",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資がPDMの1.5～3倍、数百万円から数千万円が相場",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、製品のライフサイクルが短く、頻繁な設計変更が必要な場合、PLMの導入が効果を発揮します",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "「製品開発の効率化・品質向上を実現し、企業全体の競争力を強化したい」",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "設計データの管理に重点を置くことで、設計の効率化や品質向上を目指すという",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "WindchillはPLMの代表的な製品で、PDMで培われた設計データ管理のノウハウを基に、製品開発プロセス全体の最適化、製造現場の効率化・迅速化、そしてコスト削減を実現します",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、価格を抑えつつ効果的にシステムを導入するためのポイントを解説します",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、基本的なデータ管理機能だけで十分な場合は、シンプルな製品を選ぶことで初期費用を大幅に削減できます",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "無駄なコストを削減し、より効率的なシステム導入を実現",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間の短縮や品質向上に貢献",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトデザインから設計・製造までの工数を削減！Autodesk Fusion 年間ライセンスがどこよりもお得に",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE導入の効果は？費用対効果とROIについて事例を交えて紹介します | Trans Simulation",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAE導入の効果は？費用対効果とROIについて事例を交えて紹介します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAEは、製品開発プロセスをシミュレーション主導で進めることで、コスト削減や人件費削減に大きく寄与します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、CAEの導入によるメリット（費用対効果）およびROI（投資利益率）について具体的な事例を交えて紹介します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "特に製品開発の効率化と試作や実験の回数を減らすことで、コスト削減に大きな効果をもたらします",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減の効果",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "人件費削減の効果",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "投資利益率（ROI）の測定",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な事例CAEの導入によるメリット（費用対効果）",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAEの導入により、物理的な試作の回数が減少し、材料費や試作費用の削減が期待できます",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "また、シミュレーションを活用することで、設計の最適化が進み、製品の品質向上にも寄与します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、製品のリコールや修理費用の削減にもつながります",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "CAEの導入により、設計や解析にかかる時間が短縮されるため、エンジニアの労働時間を削減することができます",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、人件費の削減が実現します",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "また、シミュレーションを活用することで、エンジニアのスキル向上にもつながり、効率的な開発が可能となります",
+    "url": "https://x-simulation.jp/blog/112",
+    "pass": 3
+   },
+   {
+    "quote": "関係者全員が利用する前提でライセンス費用を試算することが、後からの追加費用を防ぐうえで効果的です",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "必要最小限の機能から始め、利用定着後に段階的に機能を拡張する進め方は、コスト管理と定着率の両面で効果が期待できます",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "不要なライセンス削減",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスを追加する前に既存ライセンスの再配置だけで改善できるケース",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスコストを削減できる場合があります",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアコスト削減",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・解析環境改善",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "高額な固定ライセンスの利用効率の改善",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスコスト削減の提案",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLMはコスト削減ツールではない",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLMによるエンジニアリングソフトウェア ROI 診断",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLMで変える―削減の可視化から、投資判断の可視化へ",
+    "url": "https://itraction.jp/openlm-20260316/",
+    "pass": 3
+   },
+   {
+    "quote": "- 実機試作にかかる費用の削減",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "- 実機製作後の設計のやり直しの削減 など",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、今回はどうしたらシミュレーション活用の効果を最大化できるのか？をPLM的観点から紹介していきたいと思います",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "MBDもCAEと同様に、ただ単にシミュレーションツール導入に留めるのではなくこのような製品データなどとの関連付けをしていくことができれば、開発プロセス全体でのやり直し削減に大きく貢献することができるようになります",
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果物の見本",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "現状棚卸し、業務改善、AI/DXロードマップ、実装優先順位を自社で進めるか、外部の専門家と整理するかを判断する材料として使えます",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "売上拡大、工数削減、リスク低減、顧客体験改善のどれを優先するか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "成果指標が曖昧になり、PoCや開発が終わっても投資判断できない",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "年間数百万円規模のコスト最適化が可能です",
+    "url": "https://itraction.jp/openlm_lp/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD・CAEツールの導入・増設をお考えの中小企業/小規模事業者さま必見！",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金とは、中小企業の皆さまが抱えられている経営課題の解決に向けたITツール導入を支援するための補助金制度です",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "各業務プロセスのデジタル化を目的として、ソフトウェアやシステムの導入による業務効率化・売上アップを推進します",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "交付対象となる企業の規模やその他条件は以下の通りです",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下、または従業員数300名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下、または従業員数900名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下、または従業員数100名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下、または従業員数50名以下",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "４．発行済株式の総数又は出資価格の総額を１～３に該当する中小企業・小規模事業者等が所有している",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "５．１～３に該当する中小企業・小規模事業者等の役員又は職員を兼ねている者が役員総数の全てを占めている",
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、PDMシステムの価格相場はソフトウェアの種類、導入形態（オンプレミス・クラウド）、機能の豊富さ、導入規模などによって大きく変動します",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "FullWEB PDMのような大規模なシステムでも、サーバー初期費用が750万円から、といった具合に、PLMに比べて一般的に導入コストが低めです",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模から中規模プロジェクト向け",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模プロジェクトやグローバル展開に対応",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "価格に影響を与える要因③利用規模",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMシステムの価格差を生じる要因の一つに、利用規模が挙げられます",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "利用規模とは、",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、PDMシステムは機能の範囲や導入形態、利用規模によって価格が違い、同時に運用方法、メリット・デメリットも異なるため、まずは自社のニーズに合わせて最適な方法で導入することが重要です",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容や規模の変化があった場合でも柔軟性を持って対応",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント③利用規模を精査する",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMシステムの価格を抑えるためには、利用規模を精査することも重要です",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMシステムの利用規模は、導入コストに大きく影響します",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "利用するユーザー数や管理するデータ量を正確に見積もり、必要十分な規模で導入する",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、上で解説しました利用規模の精査も代行し、最適な価格を提示してくれるベンダーを選択すれば、",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "PDMの価格は、種類や利用規模、利用するベンダーによって異なります",
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に作成した図面が数万枚規模になると、クレンジングと移行の外注費が高額になることがあります",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "また、大規模なカスタマイズを行うと、後のバージョンアップ時に追加費用が発生しやすいため、標準機能でどこまで対応できるかを評価段階で見極めることが求められます",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "大規模なオンプレ型PLMの代わりに、まずクラウド型PDM（製品データ管理）でスモールスタートする方法があります",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "また、オンプレ型とSaaS型ではコスト構造が異なるため、自社の規模・運用体制・将来の拡張計画に合わせた総コストで比較することをお勧めします",
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業（年商20〜500億円）のCAD/CAE選定で候補に上がる代表4製品を、機能・価格・中堅適合度・実装期間の4軸で公開情報ベースに横並び比較する",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "主たる対象規模",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "Excel限界から受発注システムへ、同規模の概算は？",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "アセンブリ（大規模）",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "設計者数10〜100名規模",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "機械・装置設計の中堅企業",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "設計者数5〜30名規模、年額予算を抑えたい",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "試作・治具・小規模製品の設計",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "高度なCAE（非線形、大規模FEM、CFD）は専用ソフトウェア（ANSYS、Abaqus、STAR-CCM+等）が必要なケースが多い",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業（年商20〜500億円）のCAD/CAE選定支援を100件以上経験した知見から、貴社の業種・設計者数・既存資産・予算に合わせた製品絞り込みをご提案します",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "売上拡大、工数削減、リスク低減、顧客体験改善のどれを優先するか",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "規模を選ぶだけで即表示",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "開発の規模感チェック",
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "大企業から中小企業、地方のスタートアップ企業まで、",
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "pass": 3
+   },
+   {
+    "quote": "3DEXPERIENCEプラットフォームは企業規模を問わず、製造業と製造業以外のビジネスのイノベーションを起こすためのプラットフォームであり、ダッソー・システムズ株式会社が提供しています",
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "pass": 3
+   },
+   {
+    "quote": "複数拠点での情報共有や変更管理が容易になり、大規模な業務効率化につなげることもできます",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "PLMシステムに必要な導入コストは、企業規模やシステムの複雑さによって大きく異なります",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "一方のクラウドベースのソリューションでは、初期投資が少なく月額料金制で利用できるため、中小企業にも導入しやすいというメリットがあります",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大規模製造業向けに最適化されているシステム",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本の中小企業向けに最適化されているPLMシステムとして、国内での人気も高くなっているのが現状です",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大規模製造業向けに最適化されており、",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "FullWEB-PDMは中小企業向けの製品データ管理システムで、",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】PLMを導入して失敗する？「徹底的に・大規模に」が失敗の原因",
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "pass": 3
+   },
+   {
+    "quote": "CADおよびPLMソフトウェア市場調査、規模、傾向、予測2037年",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   },
+   {
+    "quote": "世界のCADおよびPLMソフトウェア市場調査、規模、傾向のハイライト(予測2025-2037年)",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   },
+   {
+    "quote": "CADおよびPLMソフトウェア市場規模",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、CADおよびPLMソフトウェアの業界規模は179億米ドルに達すると見込まれています",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、これらのプラットフォームは、さまざまな規模と複雑さのプロジェクトに対応できるスケーラブルなソリューションを提供します",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（",
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.itreview.jp/categories/cad-plm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itraction.jp/openlm_lp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/pdm-kakaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x-simulation.jp/blog/112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/plm/article/13-7663",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sde.vn/ja/cad%E3%80%81cam%E3%80%81cae%E3%80%81plm%E3%81%A8%E3%81%AF%EF%BC%9F-%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itraction.jp/openlm-20260316/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/solution/monozukuri/article/column/cae_001/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.o2-inc.com/column/202308311530/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/siemens-teamcenter-resolving-common-plm-implementation-issues?srsltid=AYCX9vIFxpbKktlMMyVZV8ENbCt7ZJX6X8zf7rlJVIiKPvNMRrJWUI8H",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/plm-dounyu-shippai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/blogs/cad/what-is-cae-meaning-necessity-merit-basic-jp?srsltid=AYCX9vKMbw5yNtn36ca4RTbqPOLABxUtu70gsCy0hhJsA-uo-TIXuB8M",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx.genetec.co.jp/column/0011-plm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/plm-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/4960/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/38563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-technostar.com/useful/cad-cam-cae-cloud-on-premises/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/cad%E3%81%8A%E3%82%88%E3%81%B3plm%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B8%82%E5%A0%B4-107132",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/plm/column01/vol02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.presight.co.jp/glossary/post-1936/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/blogs/cad/what-is-cae-meaning-necessity-merit-basic-jp?srsltid=AYCX9vK-16PnpQ1wqxAQau6uu_mx-MmWYEOfZbLKH5gK-zKetplXPC3x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.dentsusoken.com/blog/detail/002372.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx.genetec.co.jp/column/0003-plm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-power-solutions.com/product/product-lifecycle/plm/software/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/plm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/solutions/autocad-subscription-faq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/autocad-license/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-junction.essencimo.co.jp/2025/07/04/plm%E3%81%A8cad%E7%B5%B1%E5%90%88%E3%81%AB%E3%82%88%E3%82%8B%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%BE%B9%E5%BA%95%E8%A7%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/plm-cad/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CAD・CAE・PLMのライセンスと導入 費用 相場 万円",
+   "results": [
+    "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "https://www.itreview.jp/categories/cad-plm",
+    "https://itraction.jp/openlm_lp/",
+    "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "https://cad-kenkyujo.com/pdm-kakaku/",
+    "https://x-simulation.jp/blog/112",
+    "https://www.cad100.jp/lineup/lineup_price.php?c=4&p=1",
+    "https://www.3dcad-productiontech.net/3dcad_point/cost.html",
+    "https://www.cadjapan.com/products/items/windchill/price.html",
+    "https://it-trend.jp/3d_cad/article/816-8857"
+   ]
+  },
+  {
+   "query": "CAD・CAE・PLMのライセンスと導入 製造業 導入 費用",
+   "results": [
+    "https://it-trend.jp/plm/article/13-7663",
+    "https://sde.vn/ja/cad%E3%80%81cam%E3%80%81cae%E3%80%81plm%E3%81%A8%E3%81%AF%EF%BC%9F-%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96/",
+    "https://www.cad-solutions.co.jp/it-hojo-2024/",
+    "https://itraction.jp/openlm-20260316/",
+    "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "https://gxo.co.jp/column/mfg-cad-cae-mid-solidworks-inventor-fusion-2026q2",
+    "https://www.cybernet.co.jp/solution/monozukuri/article/column/cae_001/index.html",
+    "https://x-simulation.jp/blog/112",
+    "https://www.fujifilm.com/fb/ja/solutions/industry/manufacturing/cad-license"
+   ]
+  },
+  {
+   "query": "CAD・CAE・PLMのライセンスと導入 失敗 デメリット",
+   "results": [
+    "https://www.o2-inc.com/column/202308311530/",
+    "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "https://industrialmonitordirect.com/ja/blogs/knowledgebase/siemens-teamcenter-resolving-common-plm-implementation-issues?srsltid=AYCX9vIFxpbKktlMMyVZV8ENbCt7ZJX6X8zf7rlJVIiKPvNMRrJWUI8H",
+    "https://it-trend.jp/plm/article/13-7663",
+    "https://sde.vn/ja/cad%E3%80%81cam%E3%80%81cae%E3%80%81plm%E3%81%A8%E3%81%AF%EF%BC%9F-%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96/",
+    "https://cad-kenkyujo.com/plm-dounyu-shippai/",
+    "https://mfg.dentsusoken.com/blog/detail/002303.php",
+    "https://www.ptc.com/ja/blogs/cad/what-is-cae-meaning-necessity-merit-basic-jp?srsltid=AYCX9vKMbw5yNtn36ca4RTbqPOLABxUtu70gsCy0hhJsA-uo-TIXuB8M",
+    "https://dx.genetec.co.jp/column/0011-plm/",
+    "https://it-trend.jp/cad/article/86-5311"
+   ]
+  },
+  {
+   "query": "CAD・CAE・PLMのライセンスと導入 比較 主要企業",
+   "results": [
+    "https://www.itreview.jp/categories/cad-plm",
+    "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "https://cad-kenkyujo.com/plm-system/",
+    "https://metoree.com/categories/4960/",
+    "https://www.aspicjapan.org/asu/article/38563",
+    "https://www.e-technostar.com/useful/cad-cam-cae-cloud-on-premises/",
+    "https://www.researchnester.jp/industry-reports/cad-and-plm-software-market/126",
+    "https://www.fortunebusinessinsights.com/jp/cad%E3%81%8A%E3%82%88%E3%81%B3plm%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B8%82%E5%A0%B4-107132",
+    "https://smart-factory-kenkyujo.com/plm-system/",
+    "https://www.itreview.jp/categories/plm"
+   ]
+  },
+  {
+   "query": "CAD・CAE・PLMのライセンスと導入 中堅企業 導入事例 効果",
+   "results": [
+    "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/plm/column01/vol02/",
+    "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "https://www.o2-inc.com/column/202308311530/",
+    "https://www.presight.co.jp/glossary/post-1936/",
+    "https://www.ptc.com/ja/blogs/cad/what-is-cae-meaning-necessity-merit-basic-jp?srsltid=AYCX9vK-16PnpQ1wqxAQau6uu_mx-MmWYEOfZbLKH5gK-zKetplXPC3x",
+    "https://www.cct-inc.co.jp/koto-online/archives/27",
+    "https://mfg.dentsusoken.com/blog/detail/002372.php",
+    "https://dx.genetec.co.jp/column/0003-plm/"
+   ]
+  },
+  {
+   "query": "CAD・CAE・PLMのライセンスと導入 導入期間",
+   "results": [
+    "https://www.openlm.jp/atricle/cad-cae-cam-plm%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%81%A8%E6%B5%81%E3%82%8C/",
+    "https://sde.vn/ja/cad%E3%80%81cam%E3%80%81cae%E3%80%81plm%E3%81%A8%E3%81%AF%EF%BC%9F-%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96/",
+    "https://itraction.jp/openlm-20260316/",
+    "https://www.hitachi-solutions.co.jp/smart-manufacturing/sp/column/detail23/index6.html",
+    "https://www.hitachi-power-solutions.com/product/product-lifecycle/plm/software/index.html",
+    "https://it-trend.jp/plm/article/13-7663",
+    "https://www.itreview.jp/categories/cad-plm",
+    "https://cad-kenkyujo.com/plm/",
+    "https://www.presight.co.jp/glossary/post-1936/",
+    "https://www.autodesk.com/jp/solutions/autocad-subscription-faq"
+   ]
+  }
+ ],
+ "missing": {}
+}

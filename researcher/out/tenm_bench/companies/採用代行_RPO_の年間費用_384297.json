@@ -1,0 +1,2180 @@
+{
+ "name": "採用代行（RPO）の年間費用",
+ "en": "RPO annual cost Japan",
+ "aliases": [
+  "採用代行 費用",
+  "RPO 料金",
+  "採用代行 月額"
+ ],
+ "context": "採用",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:52:33.772765+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "【2026年最新】採用代行（RPO／採用アウトソーシング）の費用相場は？料金体系比較と費用を抑えるポイント | 株式会社採用総研",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用代行（RPO／採用アウトソーシング）の費用相場は？料金体系比較と費用を抑えるポイント",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "月額5万円から選べるプランで、固定費を抑えつつ専門家のノウハウで即戦力活用",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "10万円〜100万円／年",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "5万円〜30万円／月",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "10万円〜40万円／月",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "5万円〜／月",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "（※基本料：10万円）",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用相場【2026年】｜月額型・成果報酬型・従量型の料金目安と総額シミュレーション ｜ 株式会社イノベル",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用相場【2026年】｜月額型・成果報酬型・従量型の料金目安と総額シミュレーション",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "結論：採用代行（RPO）の費用は「月額固定型」「従量課金型」「成果報酬型」の3方式に分かれ、月額固定型は月5万〜50万円程度、従量課金型はスカウト1通数百円・日程調整1件千円台から、成果報酬型は採用1名あたり数十万円〜年収の20〜35%が目安です",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円の人材を2名採用する場合、人材紹介（手数料35%）では約350万円かかるのに対し、月額15万円の採用代行を6ヶ月使うと90万円で済みます",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の3つの料金方式と、それぞれの費用相場",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の料金方式は3つ",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月5万〜50万円程度（業務範囲で変動）",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト1通300〜1,000円、日程調整1件1,000〜3,000円、求人原稿1本3万〜10万円程度",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用1名あたり30万〜100万円、または年収の20〜35%",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用をかけたくない／1名だけ採用したい",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月5万円前後のプランは媒体運用のみ、月15万円以上のプランは応募者対応や日程調整まで含むのが一般的です",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "は月額15万円（税抜）から、採用計画・求人原稿・媒体運用・スカウト・候補者対応・日程調整まで採用業務9項目のうち8項目を代行し、面接だけを企業側が行う設計です",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月 10〜50万円",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用1名あたり 30〜100万円",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト送信だけを切り出すなら月5〜10万円程度、候補者対応や面談調整まで含めると月10〜30万円、",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用戦略の設計から内定フォローまでフルで任せるRPOでは月30万円以上が目安です",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "月5〜10万円",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "月10〜30万円",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "月30万円〜",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が前提のため、中小企業には負担が大きくなりがちです",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用は料金体系や委託する業務範囲によって大きく異なり、月額5万円程度から100万円を超えるケースまで幅広く存在します",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の3つの料金体系と費用相場",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "5万～70万円",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "15万〜60万円",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "1万～30万円",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用｜月に5万～70万円",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "2．採用代行（RPO）の費用相場【料金体系別】",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "3．採用対象者の雇用形態や職種別の費用相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "4．採用代行会社に委託する範囲別の費用相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）サービスの料金体系は、大きく分けて以下の3つがあります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "2-1．月額固定型",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行(RPO)の費用相場はいくら？月額の分布・料金公開15社の一覧・見積書の見方【2026年10月更新】｜HeaR株式会社",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行(RPO)の費用相場はいくら？月額の分布・料金公開15社の一覧・見積書の見方【2026年10月更新】",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の月額費用は10〜20万円の回答が最多ですが、40万円以上も合計52.3%あり、中央値は40〜60万円の帯です（BOXIL Magazine 342人調査）",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "料金を公開している15社の一覧、初期費用と契約期間を含めた総額、人材紹介との損益分岐、見積書の実物まで採用代行会社HeaRが解説します",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "月10〜20万円",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "ただし40万円以上の回答も合計52.3%あり、回答を安い順に並べたときの真ん中（中央値）は40〜60万円の帯に入ります（BOXIL Magazineの342人調査を、HeaRが分布から集計）",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "HeaRが採用代行47社の公式サイトを調べ、料金の実額か下限の目安を公開している15社の金額を一覧にしました（2026年10月5日時点）",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "下限は月20万円台に集まっています",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は5〜10万円未満の回答が最多（17.7%）、年間の稼働期間は3か月が最多（20.7%）です",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "理論年収500万円・紹介手数料35%で試算すると、月30万円×6ヶ月の採用代行は、2名以上の採用で人材紹介より安くなります（媒体費を除いた比較）",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "見積書は「業務範囲」「工数」「単価」の3点が明記されているかで比較します",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【342人調査】採用代行(RPO)の費用相場は月額10〜20万円 料金表と25サービス一覧 - BOXIL Magazine（ボクシル マガジン）",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "【342人調査】採用代行(RPO)の費用相場は月額10〜20万円 料金表と25サービス一覧",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行(RPO)の月額相場(最多層)は10万円〜20万円",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "入力された3つの数値(初期費用・月額費用・委託期間)に基づいて自動計算しています",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "5万円から10万円未満",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "10万円から20万円未満",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用は依頼する業務範囲によって大きく変わりますが、一部業務の委託であれば月額10万～20万円程度が最も多い価格帯で、採用業務全般を委託する場合は月額40万円以上が目安です",
+    "url": "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系は大きく3種類",
+    "url": "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "pass": 3
+   },
+   {
+    "quote": "相場は月20万～80万円程度で、業務範囲が広いほど高額になる",
+    "url": "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "pass": 3
+   },
+   {
+    "quote": "月額5万～70万円",
+    "url": "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "【2026年最新】採用代行（RPO／採用アウトソーシング）の費用相場は？料金体系比較と費用を抑えるポイント | 株式会社採用総研",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用代行（RPO／採用アウトソーシング）の費用相場は？料金体系比較と費用を抑えるポイント",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "また、採用代行サービス5社の費用比較も行っているため、ぜひ参考にしてみてください",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO/採用アウトソーシング）の費用相場は？｜正社員・派遣社員雇用と比較",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・派遣社員雇用との比較",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "会社・サービス別｜採用代行（RPO/採用アウトソーシング）の費用比較",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、新卒採用・中途採用・アルバイト採用で比較した場合、一般的な相場は以下のようになります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用業務を専任で行う正社員を採用する場合、採用成功までの費用（求人媒体費など）に加え、給与・社会保険料・福利厚生費などの固定費が継続的に発生するため、比較的コスト高となります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは代表的な5社の費用を比較します",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用スカウト最新事情とおすすめスカウト代行サービス5選",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "複数社から見積もりと提案内容を取得し、サービス内容と費用のバランスを比較検討することで、費用対効果の高いパートナーを選定できます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用と正社員・派遣社員雇用にかかる費用を比較した場合、",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "費用は企業やサービス内容によって幅がありますが、依頼範囲の限定や複数社の比較検討といった工夫でコストを最適化できます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用コンサルティング比較10選！費用相場や選び方、失敗しないポイントを解説【2028卒最新】",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "【厳選！】大阪（関西）エリアに強い新卒マイナビ代理店5社徹底比較！",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・求人広告・自社採用との総額比較",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行のコストは高い？自社採用との費用対効果を数字で比較",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行・RPOの費用相場は？料金体系別の比較と抑え方｜アスカレッジ",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定型・成果報酬型・従量課金型の相場を比較し、",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が前提のため、中小企業には負担が大きくなりがちです",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "で比較してください",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用計画の人数と頻度で選ぶのがおすすめです",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が中心ですが、中小企業向けのRPOは月5〜30万円のレンジが主流",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "「見積もり比較シート」を無料配布中",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "3社比較メモ — 印刷してそのまま商談に持ち込めます",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "比較シートPDFをダウンロード",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と他の採用手法を比較",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月額の金額だけでなく「対応範囲」と「追加料金の条件」を比較する",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "短期間では十分な効果測定が難しいため、少なくとも3か月は継続することを前提に検討することをおすすめします",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用の費用相場は、新卒採用と比較するとやや高めに設定される傾向です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用対効果を正確に判断するには、他の採用手法と比較検討することが不可欠です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の年間採用計画と照らし合わせて比較検討することをおすすめします",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の採用代行会社から見積もりを取得する際は、月額の総額だけで比較するのは避けるべきです",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行を初めて導入する際は、最初から大規模な契約を結ぶのではなく、スモールスタートで始めることをおすすめします",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用計画における年間採用人数を基準に判断することをおすすめします",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、中には初期費用無料を打ち出している会社もあるため、複数社から見積もりを取って比較検討してみましょう",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "フリーランスの採用代行は、法人の代行サービスと比較して費用を抑えやすい傾向にあります",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "コストだけで判断するのではなく、自社の採用課題を明確にしたうえで、対応範囲や追加料金の条件まで含めて比較検討することが重要です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）比較7選、おすすめ企業と失敗しない選び方を徹底解説",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の相場は？依頼できる業務やおすすめのサービスを解説 | circusAGENT｜【採用担当者向け】人材紹介プラットフォーム",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の相場は？依頼できる業務やおすすめのサービスを解説 | circusAGENT｜【採用担当者向け】人材紹介プラットフォーム | circusAGENT｜【採用担当者向け】人材紹介プラットフォーム",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の相場は？依頼できる業務やおすすめのサービスを解説",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員採用と比較して選考プロセスが短く、マニュアル化しやすい定型業務が多いため、費用は比較的安価に設定されています",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）と人材紹介の違いとは？サービス内容・料金・選び方を徹底比較",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめは、コア業務は自社に残し、事務関連の業務を外部に任せる方法です",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "業者ごとの強みを見極める際は、以下の4つの視点で比較検討表を作成することがおすすめです",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの項目を整理して比較検討することで、ミスマッチを未然に防ぐことができます",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "各社の支援範囲や料金体系を横断して比較したい場合は、採用代行のメリット・デメリットと15社の特徴をまとめた「",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行とは？メリット10選・デメリット5選＆15社を比較！",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用成功には候補者との信頼関係構築が不可欠なため、特に判断を伴うコア業務を依頼する際は、一貫した対応が可能な「専任制」の有無を重視することをおすすめします",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用を加速させるならcircusAGENTがおすすめ",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の導入と並行して、より効率的に優秀な人材を集めたいと考えるなら、採用プラットフォーム「circusAGENT（サーカスエージェント）」がおすすめです",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "デザイナーの主な採用媒体は？おすすめの会社6選と選び方のコツも解説",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で使える採用媒体は？種類別の特徴とおすすめ6選を解説",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなご担当者様におすすめ！",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに、自社にノウハウが蓄積されていない場合、採用のプロであるRPOサービス提供会社へ代行依頼するのがおすすめです",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "人事部門の面接ノウハウや採用担当者の経験が足りない会社、多忙により面接官の時間が確保できない会社におすすめの委託領域です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用ターゲットが明確にあり、ターゲット以外の母集団を必要としない企業におすすめです",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "一方パート・アルバイト採用は、求める人材のハードルが下がるため、比較的安価な設定です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、事務職や一般営業職は採用における難易度が比較的低く、費用を抑えやすいです",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "契約期間は3ヶ月〜",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "稼働時間に応じたプラン選択が可能なほか、採用状況に応じて支援業務の組み合わせを1ヶ月単位で柔軟に変更することもできます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "最短1ヶ月から契約できる成長企業向けの採用代行サービスです",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間は3ヶ月",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円の人材を2名採用する場合、人材紹介（手数料35%）では約350万円かかるのに対し、月額15万円の採用代行を6ヶ月使うと90万円で済みます",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定型の採用代行（月15万円×6ヶ月）",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：3〜6ヶ月が一般的です",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月で解約できるプランは月額が高めに設定されている傾向があります",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が前提のため、中小企業には負担が大きくなりがちです",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間の縛りと解約条件",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間と、途中解約した場合の扱いを事前に確認します",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用や最低契約期間はありますか？",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間や条件は要件に応じてご相談のうえ決定します",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "他社と見積もりを比べるときは、月額とは別に初期費用・最低契約期間・解約条件が設定されていないかを必ず確認してください",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が中心ですが、中小企業向けのRPOは月5〜30万円のレンジが主流",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用と最低契約期間の目安",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "毎月一定額を支払い、契約範囲内の採用業務を包括的に委託できる料金体系",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間については、3か月〜6か月を設定している代行会社が主流です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "短期間では十分な効果測定が難しいため、少なくとも3か月は継続することを前提に検討することをおすすめします",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "契約前に初期費用の内訳と契約期間の条件を必ず確認しておきましょう",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは3か月程度の短期契約でノンコア業務の一部を委託し、効果を検証してみましょう",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、採用活動を行わない月があっても費用が発生するため、採用スケジュールと照らし合わせた契約期間を考慮しましょう",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "特に月額制の場合、進捗の遅れはそのまま「契約期間の延長（＝追加コスト）」に直結します",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "自社に必要な採用活動期間が明確でない場合や、最初から一時的な利用を検討している場合は、最低契約期間や利用条件を事前に確認する必要があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "料金を公開している15社の一覧、初期費用と契約期間を含めた総額、人材紹介との損益分岐、見積書の実物まで採用代行会社HeaRが解説します",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は5〜10万円未満の回答が最多（17.7%）、年間の稼働期間は3か月が最多（20.7%）です",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "理論年収500万円・紹介手数料35%で試算すると、月30万円×6ヶ月の採用代行は、2名以上の採用で人材紹介より安くなります（媒体費を除いた比較）",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "同じ料金体系でも金額に幅があるのは、委託する業務範囲の広さ・職種の難易度と希少性・採用人数と契約期間・担当者に求める専門性の4つが主な変動要因になるためです",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用・契約期間の記載",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "12ヶ月契約116,000円、6ヶ月契約136,000円、3ヶ月契約152,000円",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用10万円（税別）・最低3ヶ月",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用10万円（税別）・最短1ヶ月",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円・6ヶ月〜",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "スタンダード3ヶ月〜、プレミアム6ヶ月〜",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "12ヶ月契約で割引",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間1カ月〜",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用と契約期間を含めると、総額はいくら？",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は5〜10万円未満の回答が最多（17.7%）、年間の稼働期間は3か月の回答が最多（20.7%）で、6か月以内が74.1%です",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "月額25万円・初期費用10万円で6ヶ月契約なら、媒体費を除いて160万円になります",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "年間の稼働期間は3か月が最多（n=334）",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "・年間の稼働期間は3か月が最多、次に6か月が続く",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "最多が「3か月（20.7%）」",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "、次点に「6か月（16.1%）」「4か月（15.6%）」と続き、12か月継続して利用した企業は6.9%にとどまりました",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、スカウト代行だけ依頼する企業と、採用戦略設計から面接調整まで一括で依頼する企業では、必要な人員、稼働時間、契約期間が大きく変わります",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型は採用成功時のみ支払いが発生するため、初期費用を抑えたい企業に適しています",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "※算出根拠：BOXILアンケート(n=342)の初期費用・月額費用の最多層をベースに、年額費用=月額×12ヶ月、3年間総額=初期費用+月額×36ヶ月で算出",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "トライアル支援1か月～",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職率=入社3か月以内離職者 ÷ 採用者数",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "従量課金型の採用代行費用相場｜実施した業務量に応じて支払いが発生",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "Q.採用代行は何ヶ月契約？",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定型は、毎月定額の支払いで契約範囲内の業務を依頼でき、相場は月20万円～80万円程度です",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "採用成功時に支払い",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は、採用した人材の理論年収（月給×12ヶ月＋賞与）の20%～35%程度が一般的です",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載時に前払い",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣は、派遣社員の時給に派遣会社のマージンを上乗せした金額（時給の約30%がマージン）を継続的に支払います",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用が活発になる3ヶ月間だけ契約し、それ以外の期間は契約を停止するといった柔軟な活用が考えられます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約に比べてトータルの費用を大幅に削減できるだけでなく、必要な時期に必要なサポートだけを受けることができます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月または6ヶ月を最低契約期間として設定しているサービスが多く見られます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、1ヶ月単位で契約できる柔軟なプランを提供している会社もあります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "採用活動において、「工数がかかりすぎる」「業務が属人化してノウハウが蓄積されない」といった課題に直面していませんか",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題の解決策として「採用代行（RPO／採用アウトソーシング）の導入」がありますが、費用面が気になり一歩踏み出せないでいる企業もあるでしょう",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "近年、採用代行を導入する企業が増加している背景には、以下の課題があります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "これらの課題を解決し、採用活動の効率化と成果向上を図るために、採用代行は有効な手段となっています",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、工数削減と採用成果の達成を両立させるなら、採用代行の導入がリーズナブルになる可能性が高いといえます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行サービスは多様で、企業規模や採用課題に応じて料金体系が異なります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "複数社から見積もりと提案内容を取得し、サービス内容と費用のバランスを比較検討することで、費用対効果の高いパートナーを選定できます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行を導入するほうがリーズナブルになる可能性が高い",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用コンサルティング比較10選！費用相場や選び方、失敗しないポイントを解説【2028卒最新】",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月で解約できるプランは月額が高めに設定されている傾向があります",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "なら月額固定型が最も安くなる可能性が高い",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果はどう計算する？",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行のコストは高い？自社採用との費用対効果を数字で比較",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間の縛りと解約条件",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間と、途中解約した場合の扱いを事前に確認します",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "金額だけで比べると失敗します",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "他社と見積もりを比べるときは、月額とは別に初期費用・最低契約期間・解約条件が設定されていないかを必ず確認してください",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用相場はいくら？料金体系から費用対効果の高い選び方まで徹底解説｜オールイン株式会社",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用相場はいくら？料金体系から費用対効果の高い選び方まで徹底解説",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用課題に最適なサービスを選ぶためには、各料金体系の特徴と費用相場を正しく理解することが欠かせません",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、採用代行の料金体系を徹底解説するとともに、費用対効果を最大化するためのポイントや注意点もご紹介していきます",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "『求人広告完全攻略マニュアル』失敗しないため知っておきたい代理店や媒体の選び方から、広告の改善まで",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "「応募が集まらない」「広告費ばかりかさみ獲得単価が高騰している」「採用しても早期離職してしまう」という課題を、課題特定・媒体選定・原稿改善・選考体験までを一気通貫で最適化する「仕組み」の視点で解決する実践ガイドです",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用対効果を最大化する5つのポイント",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用課題を明確にしてから依頼範囲を決める",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用課題に合わせて最適な採用代行を選ぼう",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資を抑えたいスタートアップや、採用難易度の高いポジションに挑戦する企業に向いた選択肢ですが、1人あたりの採用コストが高くなりやすい点は考慮しておくべきでしょう",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定型だけでは成果への緊張感が薄れ、成果報酬型だけでは費用が高騰しやすいという課題を補える点がハイブリッド型の強みだといえます",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用難易度の高いポジションを採用したい企業",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単純なコストだけでなく定着率も含めた費用対効果を検討する必要があります",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用対効果を正確に判断するには、他の採用手法と比較検討することが不可欠です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用課題を分析し、最適な採用手法や体制の提案を受けられる点が魅力です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・中途それぞれの料金相場や、費用体系のメリット・デメリット",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "適正価格を正しく理解し、自社にとって最も費用対効果の高いサービスを選定するための判断材料としてお役立てください",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を最大化するための業者選定ポイント",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の課題が「工数の不足」なのか「戦略の不在」なのかを整理し、どこまで任せるかを事前に明確にしておきましょう",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用を抑えることも大切ですが、難易度の高い採用を成功させるためには、以下の業務にコストをかける価値が十分にあります",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "難易度の高い採用を成功させるポイント",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの仕組みやメリット・デメリットを正しく理解しておきましょう",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用対効果を最大化するための業者選びのポイント",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行サービスの導入を成功させるためには、費用対効果を考えて業者を選ぶことが大切です",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の課題解決に直結するパートナーを選ばなければ、コストをかけたにも関わらず十分な成果が得られない恐れがあります",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "業者選定に入る前に、まずは自社の採用課題を整理し、",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の要件と業者の強みが合致してはじめて、採用代行の費用対効果は最大化されます",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "各社の支援範囲や料金体系を横断して比較したい場合は、採用代行のメリット・デメリットと15社の特徴をまとめた「",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行とは？メリット10選・デメリット5選＆15社を比較！",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で専任の担当者がいる場合は、自社の社風や細かな採用基準への理解が深まり、より精度の高い運用が期待できます",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "・選考辞退や内定辞退に課題を感じている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用マーケットの動きや自社が抱える課題をふまえた採用計画の立案を依頼",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）のメリットデメリットとは？事例と解説",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用は採用要件とターゲットの経歴を照らし合わせて採用活動を進めなければいけない分、新卒採用よりも相場がやや高い傾向にあります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "難易度の高い職種として代表的なのは、エンジニアや幹部候補など、高度な専門知識やスキルが求められる職種や希少性が高い職種です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "知名度が高い大手の採用代行会社は、",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のように、費用は高くなる傾向にあるが、実績に裏付けされたサービスの質を選択するか、実績はないが安価で柔軟なサービスを選択するか、それぞれのメリット・デメリットをしっかりと確認し、自社のニーズにあった採用代行会社を選択する必要があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用課題を明確にし、その課題の何を解決するために採用代行を利用するのかを深く考えることで、採用代行会社に委託すべき業務の範囲を設定することができます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "また価格の安さだけで判断せず、自社のニーズに応えてくれそうか、信頼できる実績はあるかなど費用対効果を見極めることが重要です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動のプロである採用代行会社は、企業が抱える採用課題に合わせて最も効果的な採用手法を提案するため、",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "優秀でマッチ度の高い人材を確保できる確率が上がります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の安さだけで選んで失敗しないように、選び方のコツを押さえる必要があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行サービス導入後の費用対効果を示すために、",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "まとめ：採用代行は様々な工夫で工数とコストを削減できる",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用工数の削減：煩雑な業務を外部に委託し、担当者の負担を軽減する",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "これらの課題を解決し、採用活動の効率化と成果向上を図るために、採用代行は有効な手段となっています",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "単純作業の工数削減が目的なら即効性がありますが、採用戦略の立案といった高度な業務には対応できない可能性があります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、工数削減と採用成果の達成を両立させるなら、採用代行の導入がリーズナブルになる可能性が高いといえます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "設計から運用・改善まで幅広い業務を代行できる",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行をより効果的に活用するためには、コストを適切にコントロールすることが重要です",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、すべての採用業務を委託せず、ダイレクトリクルーティングでのスカウト代行や、説明会管理、面接日程調整など、時間がかかる業務に絞って依頼することで費用を削減することが可能です",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "複数社から見積もりと提案内容を取得し、サービス内容と費用のバランスを比較検討することで、費用対効果の高いパートナーを選定できます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "費用を抑えつつ成果を検証できます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "また、効果が確認できた段階で長期契約に切り替えたり、自社にノウハウを蓄積させたあと自社運用に戻すといった戦略も可能です",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行は、採用業務の属人化解消や工数削減、採用ノウハウの補完に有効な手段です",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "月額料金のなかで臨機応変に対応することで、貴社の採用成果の最大化を目指します",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用相場【2026年】｜月額型・成果報酬型・従量型の料金目安と総額シミュレーション ｜ 株式会社イノベル",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用相場【2026年】｜月額型・成果報酬型・従量型の料金目安と総額シミュレーション",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "結論：採用代行（RPO）の費用は「月額固定型」「従量課金型」「成果報酬型」の3方式に分かれ、月額固定型は月5万〜50万円程度、従量課金型はスカウト1通数百円・日程調整1件千円台から、成果報酬型は採用1名あたり数十万円〜年収の20〜35%が目安です",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：月額固定と言いながら採用決定時に成果報酬が発生するプランがあります",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "なら人材紹介または成果報酬型",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果はどう計算する？",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型は採用が決まらなければ費用は発生しませんが、人材紹介では早期退職時の返金規定を確認しておく必要があります",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用相場は、月額固定型で月5万〜50万円、成果報酬型で採用1名あたり30万〜100万円が目安です",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "年間2名以上を採用するなら月額固定型が最も安く、採用担当がいない会社ほど「応募者対応・日程調整まで含むプラン」を選ぶことで社内工数の削減効果が出ます",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行のコストは高い？自社採用との費用対効果を数字で比較",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定型・成果報酬型・従量課金型の相場を比較し、",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "AI採用代行で“1通あたりの成果”を高めて費用を抑える考え方を解説します",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型は1名あたりの単価が高くなりがちで、複数名採用では割高になることもあります",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬の1名あたり高額負担を避け、継続運用でノウハウを社内に蓄積",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "レポートと改善提案の頻度",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定型で月10〜50万円、成果報酬型で採用1名あたり30〜100万円が一般的な相場です",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型と月額固定型はどちらが得ですか？",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "継続的に複数名を採用したい場合は月額固定型が割安になりやすく、年に1〜2名のスポット採用なら成果報酬型が向きます",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "①月額固定型（月10〜50万円／継続採用向き）、②成果報酬型（採用1名あたり30〜100万円／スポット採用向き）、③従量課金型（スカウト1通数百円〜／小さく試したい場合）",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "要件が曖昧なまま運用を始めると、どの価格帯のRPOでも成果が出にくくなります",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "予算が限られる場合ほど、AIによる送信効率の改善で“1通あたりの成果”を高める工夫が効きます",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用相場はいくら？料金体系から費用対効果の高い選び方まで徹底解説｜オールイン株式会社",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用相場はいくら？料金体系から費用対効果の高い選び方まで徹底解説",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、採用代行の料金体系を徹底解説するとともに、費用対効果を最大化するためのポイントや注意点もご紹介していきます",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "『求人広告完全攻略マニュアル』失敗しないため知っておきたい代理店や媒体の選び方から、広告の改善まで",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "「応募が集まらない」「広告費ばかりかさみ獲得単価が高騰している」「採用しても早期離職してしまう」という課題を、課題特定・媒体選定・原稿改善・選考体験までを一気通貫で最適化する「仕組み」の視点で解決する実践ガイドです",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の深刻化や求職者の意識変化に伴い、従来の「掲載して応募を待つ」だけの手法が限界を迎える現実を見据え、自社が今優先して着手すべきボトルネックと改善策を提示",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告をこれまでの「掛け捨ての投資」や知名度だけに頼った採用で終わらせず、再現性高く狙った人材を獲得・定着させる「成果本位の採用体制」へと体質改善するためのポイントを凝縮しています",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型の特徴と費用相場",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド型（月額＋成果報酬）という選択肢",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用対効果を最大化する5つのポイント",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "短期契約でスモールスタートし効果検証してから拡大する",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月額制と成果報酬型はどちらを選ぶべきですか？",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用を抑えたい場合は、まずノンコア業務の委託から始めるのが効果的です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行を活用することで、結果的に採用スピードのアップとコスト削減を実現する企業が増えています",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、採用成果がゼロであっても費用が発生する点には注意が必要です",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "適正価格を正しく理解し、自社にとって最も費用対効果の高いサービスを選定するための判断材料としてお役立てください",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を最大化するための業者選定ポイント",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "完全成果報酬を採用しているため、初期・月額費用はかかりません",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "母集団形成から分析・改善までこれ1つ",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "期待できる効果",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "歩留まり改善、スピード向上",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プロのリクルーターが実務を担当するため、採用業務の質とスピードが同時に向上することも期待できる点もメリットです",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "形態②：成果報酬制",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "また、長期的な契約を前提とするため、自社独自の採用ノウハウを蓄積しやすく、中長期的な改善サイクルを回せるようになります",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "形態②｜成果報酬制",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型は、内定承諾や入社といった成果が発生した時点で費用が請求されるシステムです",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "特に中堅・中小企業では専任の採用担当者を置くのが難しく、経営層や人事担当者が多忙な業務の合間に採用活動を行っているケースも少なくありません",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用は、採用規模や依頼業務の量および範囲によって異なります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行サービスは多様で、企業規模や採用課題に応じて料金体系が異なります",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "多様な業界・業種・規模の支援実績があり、安心して利用できます",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用は、採用規模や依頼業務の量および範囲によって異なる",
+    "url": "https://www.ssen.co.jp/blog/232",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー・中小企業の採用伴走支援",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がコストを抑える方法",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "予算が読みやすく中小企業向き",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では、",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "まず小さく試したい中小企業向け",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が前提のため、中小企業には負担が大きくなりがちです",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けの選び方は",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用代行",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では予算が読みやすい月額固定型が選ばれやすい傾向にあります",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "大手向けRPOは月50万円以上・年間契約が中心ですが、中小企業向けのRPOは月5〜30万円のレンジが主流",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "以来13年にわたり中小企業の採用支援に従事し、",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用代行の選び方",
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行を初めて導入する際は、最初から大規模な契約を結ぶのではなく、スモールスタートで始めることをおすすめします",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "19歳で営業デビュー後、22歳で約2,000人規模の組織にて最短最年少で年間最優秀営業賞・新規王を受賞",
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の負担を減らすことで、以下のメリットを受けながら売上アップを目指せるでしょう",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "応募の取りこぼしによる機会損失を抑えて、拠点全体の稼働率と売上アップにつながります",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用スタイルや予算規模に合わせて最適なプランを選ぶ必要があります",
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "pass": 3
+   },
+   {
+    "quote": "最終的な料金は依頼業務や規模によって変動があるので、正確な費用を把握するためには細かい料金を示した見積り書を作成依頼をする必要があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で実績が少ない中小規模の採用代行会社は",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、中途採用にかかる平均予算は3〜50人規模の会社でも109万円というデータが出ています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のRPOの強みは、大手・中堅企業を中心とした支援実績に基づくデータ活用と、継続的な運用体制にあります",
+    "url": "https://www.w-court.com/column/recruitment-outsourcing-rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用規模や年間採用人数、構築する専任チームの規模によって相場は変動します",
+    "url": "https://www.w-court.com/column/recruitment-outsourcing-rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の採用規模や構築する専任チームの規模によって相場が変動するため、体制構築に必要な予算をあらかじめ見込んでおく必要があります",
+    "url": "https://www.w-court.com/column/recruitment-outsourcing-rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "調査の回答者は、どの企業規模・何職種分の契約かまでは分かれていません",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 中小企業でも使えますか？費用を抑える方法はありますか？",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業でも利用可能です",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の導入を検討する際、「自社の規模や依頼したい業務だと、どのくらいの費用がかかるのか」は最も気になるポイントです",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "自社と似た業種・規模での支援実績があるか確認する",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "工数削減から戦略的な採用支援まで、企業の課題や予算規模に合わせてサービス活用の多様化が進んでいる",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "・通年採用を行う中堅企業",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "アンケートでも月額40万円以上の回答が一定数あり、自社の採用規模や依頼内容次第ではこの試算を上回ることもあります",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント企業に割り当てられるサポート体制の規模",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "自社と同じ業種・企業規模・採用ターゲットでの支援実績",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "同業種・同規模の企業を支援した実績件数",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けのおすすめ採用代行（RPO）サービス",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け採用代行",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "年間300人以上の大規模採用から少人数のスポット依頼まで幅広く対応",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "コールセンターによる応募者呼び込み、SMS配信、就活生向けWebラジオなど、既存のツールに囚われない独自のアプローチで母集団形成を図るのが特徴で、少人数の採用から大規模採用まで幅広く対応可能です",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の状況に合わせてオーダーメイドでプランを設計し、新卒からアルバイトまで、事業拡大に伴う急な大規模採用や大量募集にも柔軟かつスピーディーに対応できるのが強みです",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "採用にかかる費用（採用単価）は、企業規模や採用手法によって異なりますが、",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模：51～100人",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "代行会社の規模によっては、応募が集中した際に対応しきれず、結果として自社での対応が必要になるケースもあります",
+    "url": "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 中小企業向けの低価格な採用代行サービスはありますか？",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模採用向け",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動の規模が小さい場合や、特定の業務だけをピンポイントで外注したい場合に適しています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "低コストでスピーディーに母集団形成を行いたいスタートアップや中小企業に適しています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "bサーチは、SaaS比較サイト「BOXIL」の「2025年下半期 資料請求ランキング」において、リードジェネレーション中小企業部門1位に選出されました",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "料金は依頼する業務範囲や採用規模に応じてカスタマイズされるため、個別見積もりとなりますが、大規模な採用プロジェクトや全国規模での採用活動にも対応できる体制が強みです",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "人事部門が小規模で、採用担当者が総務や労務など他の業務と兼任している企業は、採用代行の導入効果を大きく感じられます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "月額数万円から利用できるプランもあり、中小企業の予算に合わせた活用が可能です",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "採用戦略とは？中小企業が最初に決めるべき5つの要素",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "採用戦略とは？中小企業が最初に決めるべき5つの要素を解説",
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "pass": 3
+   },
+   {
+    "quote": "人事業務は多岐に渡るため分野ごとで振り分けできている場合が一般的ですが、中小企業や人事担当者が少ない企業では、少ないヘッドカウントで業務を回すこともあります",
+    "url": "https://mytalent.jp/lab/s_rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "ジョブローテーション制度や社内FA制度などの制度が未熟であったり、従業員が入社前と入社後で就業に対するギャップが生まれている場合は、従業員の離職の原因となりえます",
+    "url": "https://mytalent.jp/lab/s_rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行会社によって、得意とする採用職種や採用区分、採用規模、採用手法、対応できる業務範囲は異なります",
+    "url": "https://whom-hr.co.jp/column/rpo-demerit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用代行 の 費用相場 【2026年】｜月額型・成果報酬型・従量 ... — 採用代行 の 費用相場 【2026年】｜月額型・成果報酬型・従量 ... 株式会社イノベル https://innovel.jp > メディア",
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 ( RPO )の 費用 相場はいくら？月額の分布・ 料金 公開15 ... — 採用代行 ( RPO )の 費用 相場はいくら？月額の分布・ 料金 公開15 ... HeaR株式会社 https://www.hear.co.jp > 採用ノウハウ",
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【342人調査】 採用代行 ( RPO )の 費用 相場は月額10〜20万円 ... — 【342人調査】 採用代行 ( RPO )の 費用 相場は月額10〜20万円 ... BOXIL https://boxil.jp > mag",
+    "url": "https://boxil.jp/mag/a8409/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 の デメリット 7選｜ 失敗 を防ぐ対策やメリット ... — 採用代行 の デメリット 7選｜ 失敗 を防ぐ対策やメリット ... whom-hr.co.jp https://whom-hr.co.jp > column > rpo-demerit",
+    "url": "https://whom-hr.co.jp/column/rpo-demerit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）のメリット・ デメリット とは？ 失敗 を防ぐ ... — 採用代行 （ RPO ）のメリット・ デメリット とは？ 失敗 を防ぐ ... 株式会社アールナイン https://r09.jp > 人事ノウハウ",
+    "url": "https://r09.jp/columns/25530/",
+    "pass": 3
+   },
+   {
+    "quote": "RPO （ 採用代行 ）導入の教科書｜メリット・ 費用 ・成功事例を ... — RPO （ 採用代行 ）導入の教科書｜メリット・ 費用 ・成功事例を ... マルナゲカンリ https://marunagekanri.com > roumu > info_hr_1028",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 採用代行 （ RPO ）47社タイプ別で 比較 ！ 料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で 比較 ！ 料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）おすすめ45社を 比較 ！ 料金 相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を 比較 ！ 料金 相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 ( RPO ) 比較 48選 大手・人気ランキングとタイプ別 ... — 採用代行 ( RPO ) 比較 48選 大手・人気ランキングとタイプ別 ... BOXIL https://boxil.jp > mag",
+    "url": "https://boxil.jp/mag/a10093/",
+    "pass": 3
+   },
+   {
+    "quote": "中小 企業 に強い 採用代行 （ RPO ）おすすめ8選 — 中小 企業 に強い 採用代行 （ RPO ）おすすめ8選 株式会社アールナイン https://r09.jp > 人事ノウハウ",
+    "url": "https://r09.jp/columns/31292/",
+    "pass": 3
+   },
+   {
+    "quote": "RPO （ 採用代行 ） 導入 の教科書｜メリット・ 費用 ・成功 事例 を ... — RPO （ 採用代行 ） 導入 の教科書｜メリット・ 費用 ・成功 事例 を ... マルナゲカンリ https://marunagekanri.com > roumu > info_hr_1028",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "RPO導入事例 7選！業種別・課題別の成功例とメリット — RPO導入事例 7選！業種別・課題別の成功例とメリット ビジョン図鑑 https://vision-zukan.com > ブログ",
+    "url": "https://vision-zukan.com/blog/206/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！ 料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！ 料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）のメリット・デメリットと 導入事例 を 企業 ... — 採用代行 （ RPO ）のメリット・デメリットと 導入事例 を 企業 ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/rpo-merit-demerit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）の 費用 相場は？料金体系・業務別の料金と ... — 採用代行 （ RPO ）の 費用 相場は？料金体系・業務別の料金と ... 株式会社アールナイン https://r09.jp > 人事ノウハウ",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.ssen.co.jp/blog/232",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/rpo-pricing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asukare.com/saiyo-daiko-hiyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://allhero.co.jp/blog/rpo-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.w-court.com/column/recruitment-outsourcing-rpo-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hear.co.jp/recruit/rpo-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a8409/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mytalent.jp/lab/s_rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whom-hr.co.jp/column/rpo-demerit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r09.jp/columns/25530/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azu-rite.co.jp/clumn/rpo-merit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "status": "network_error:ReadTimeoutError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-meritdemerit-220427/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/employment-screening/article/432-0022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manpowergroup.jp/client/manpowerclip/employ/rpo-vendor-comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a10093/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rpo.mynavi-hikaku.com/rpo-cost-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cone-c-slide.com/liblog/rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r09.jp/columns/31292/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vision-zukan.com/blog/206/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/rpo-merit-demerit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ssen.co.jp/blog/149",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.chatwork.com/ja/column/recruitment/rpo15.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vollect.net/hrpedia/companies-using-rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r09.jp/columns/23601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spring-career.com/blog/rpo-toha",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.acejob.jp/article/rpo-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://achievehr.jp/column/rpo-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azu-rite.co.jp/clumn/rpo-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torutorukun.co.jp/column/recruitment-outsourcing-cost/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "採用代行（RPO）の年間費用 費用 相場 万円",
+   "results": [
+    "https://www.ssen.co.jp/blog/232",
+    "https://innovel.jp/rpo-pricing-guide/",
+    "https://asukare.com/saiyo-daiko-hiyo",
+    "https://allhero.co.jp/blog/rpo-cost/",
+    "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-agency-market-price/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "https://hokiraon.jp/column/rpo-cost-souba/",
+    "https://www.hear.co.jp/recruit/rpo-cost",
+    "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "https://azu-rite.co.jp/clumn/rpo-cost"
+   ]
+  },
+  {
+   "query": "採用代行（RPO）の年間費用 製造業 導入 費用",
+   "results": [
+    "https://www.ssen.co.jp/blog/232",
+    "https://www.w-court.com/column/recruitment-outsourcing-rpo-cost/",
+    "https://allhero.co.jp/blog/rpo-cost/",
+    "https://www.hear.co.jp/recruit/rpo-cost",
+    "https://boxil.jp/mag/a8409/",
+    "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "https://www.bsearch.co.jp/media/recruitment-agency-fee/",
+    "https://mytalent.jp/lab/s_rpo/",
+    "https://service.onecareer.jp/blog/rpo-cost"
+   ]
+  },
+  {
+   "query": "採用代行（RPO）の年間費用 失敗 デメリット",
+   "results": [
+    "https://whom-hr.co.jp/column/rpo-demerit/",
+    "https://r09.jp/columns/25530/",
+    "https://azu-rite.co.jp/clumn/rpo-merit",
+    "https://marunagekanri.com/roumu/info_hr_1028/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-meritdemerit-220427/",
+    "https://it-trend.jp/employment-screening/article/432-0022",
+    "https://service.r-4.co.jp/knowhow/recruiting/rpo-merit-demerit/",
+    "https://marugotoinc.jp/blog/rpomarketprice/",
+    "https://one-group.jp/humanresource/use/recruitment-outsourcing-cost.html",
+    "https://service.r-4.co.jp/knowhow/recruiting/rpo-demerit/"
+   ]
+  },
+  {
+   "query": "採用代行（RPO）の年間費用 比較 主要企業",
+   "results": [
+    "https://www.ssen.co.jp/blog/232",
+    "https://marugotoinc.jp/blog/rpo/",
+    "https://www.manpowergroup.jp/client/manpowerclip/employ/rpo-vendor-comparison.html",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "https://boxil.jp/mag/a10093/",
+    "https://asukare.com/saiyo-daiko-hiyo",
+    "https://rpo.mynavi-hikaku.com/rpo-cost-comparison-2026/",
+    "https://cone-c-slide.com/liblog/rpo/",
+    "https://www.hear.co.jp/recruit/rpo-cost",
+    "https://achievehr.jp/column/rpo-company-recommended/"
+   ]
+  },
+  {
+   "query": "採用代行（RPO）の年間費用 中堅企業 導入事例 効果",
+   "results": [
+    "https://r09.jp/columns/31292/",
+    "https://marunagekanri.com/roumu/info_hr_1028/",
+    "https://vision-zukan.com/blog/206/",
+    "https://marugotoinc.jp/blog/rpo/",
+    "https://service.r-4.co.jp/knowhow/recruiting/rpo-merit-demerit/",
+    "https://boxil.jp/mag/a8409/",
+    "https://azu-rite.co.jp/clumn/rpo-merit",
+    "https://www.ssen.co.jp/blog/149",
+    "https://go.chatwork.com/ja/column/recruitment/rpo15.html",
+    "https://vollect.net/hrpedia/companies-using-rpo/"
+   ]
+  },
+  {
+   "query": "採用代行（RPO）の年間費用 導入期間",
+   "results": [
+    "https://r09.jp/columns/23601/",
+    "https://www.ssen.co.jp/blog/232",
+    "https://spring-career.com/blog/rpo-toha",
+    "https://allhero.co.jp/blog/rpo-cost/",
+    "https://boxil.jp/mag/a8409/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-souba-251209/",
+    "https://www.hear.co.jp/recruit/rpo-cost",
+    "https://marugotoinc.jp/blog/rpo/",
+    "https://marunagekanri.com/roumu/info_hr_1028/",
+    "https://lp.acejob.jp/article/rpo-cost"
+   ]
+  }
+ ],
+ "missing": {}
+}

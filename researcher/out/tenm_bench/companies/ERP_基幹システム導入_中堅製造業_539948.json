@@ -1,0 +1,2115 @@
+{
+ "name": "ERP・基幹システム導入（中堅製造業）",
+ "en": "ERP implementation mid-size manufacturer Japan",
+ "aliases": [
+  "ERP 導入費用",
+  "基幹システム 刷新 費用"
+ ],
+ "context": "基幹",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:50:56.184866+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "ERP導入費用の相場【2026年版】11製品の価格一覧と業種別の目安 | ERPNextナレッジ",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用の相場【2026年版】11製品の価格一覧と業種別の目安",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用は、クラウドSaaSの5年TCOが約800万〜1,500万円、オープンソースERPで約200万〜500万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "SAP・Oracle・Odoo・kintoneなど11製品の価格一覧、IT・コンサル・制作・製造など業種別の費用目安、見積書に載らない5つの隠れコスト、予算超過を防ぐ15項目チェックリストを掲載します",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "400万〜3,500万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "680万〜2,900万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "12万〜800万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "約800万〜1,500万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "約1,200万〜2,000万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "約200万〜500万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "50万〜500万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "500万〜5,000万円",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム/ERP刷新の費用は、企業規模、選ぶ手法、保守や連携の範囲によって、3,000万円から数十億円まで変わります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "見積書を4つの層に分けると、費用項目を整理しやすくなります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業は3,000万円〜2億円が一般的で、大手企業は10億円を超え、数十億円に達する場合もあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "見積書は、次の4ブロックに分けて確認すると抜け漏れを防げます",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業向けのライセンスは、ユーザーあたり月1〜3万円です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：初期500万円〜3,000万円が目安",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：3,000万円〜2億円が一般的",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：10億円〜数十億円の投資規模",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "年間ライセンス費は500万円〜1,500万円です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理と原価管理まで含む製造業では、1億円超も珍しくありません",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "月額は小規模で数万〜数十万円、中小企業で数十万〜100万円超",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模（〜10億円）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業（10〜50億円）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "数百万〜1,000万円程度",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "数十万〜100万円超",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業（50〜400億円）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万〜数千万円",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円超〜数百万円",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業（400億円〜）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在の市場動向を踏まえた、一般的な費用相場を見ていきましょう",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "小規模（従業員30名未満）：10万円〜500万円程度",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中規模（従業員30〜300名）：500万円〜5,000万円程度",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模（従業員300名以上）：5,000万円〜数億円以上",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要20サービスの料金・機能を無料で一覧比較",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "主要22製品の機能・料金の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "比較した22製品のうち、初期費用または月額の実額を公式サイトで公開しているのは6製品です",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円〜（公式の目安）",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "年商100億円以上が主対象",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムの費用相場【2026年版】500万〜3億円の規模別目安を解説",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント1：見積もりの工数内訳を確認する",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント5：複数社から見積もりを取得する",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発の保守費用相場【2026年版】｜開発費15〜20%・年50〜800万円が目安・5項目で妥当性チェック",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発を依頼する流れ8ステップ｜依頼先の選び方・費用相場・契約で失敗しないポイント【2026年版】",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "500万〜2,000万円",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万〜8,000万円",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万〜3億円以上",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "500万〜5億円以上",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円のプロジェクトであれば、要件定義だけで200〜300万円、開発工程で600〜800万円というイメージです",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば中小企業のクラウド型では初期費用が50〜300万円ですが、カスタマイズや開発費を含めた総額は、数億〜数十億円規模になることもあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の中小企業では、クラウド型の初期費用が50〜300万円で、月額利用料は3〜20万円程度が目安です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型では、初期費用だけで500万〜3,000万円に達することもあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員200〜500名の中堅企業では、クラウドERPの初期費用が300〜1,500万円です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中堅企業のオンプレミス型では、3,000万〜1億円が一般的な相場帯です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：中小製造業（従業員 100 名以下）、IT 部門が薄い、迅速な導入を求める、SaaS 月額で予算管理したい",
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "主要20サービスの料金・機能を無料で一覧比較",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益の予想を150億円から110億円へ、40億円（約26.7%）引き下げています",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "（費用は都度見積もり・条件により0円）",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定費用は10万円で、導入実績は1,100社を超えています（2026年時点）",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "大手コンサルで企業再生・基幹システム刷新を多数経験後、2015年から OSS ERP の貢献・導入活動を開始",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、費用相場や製品比較の「一般論」を整理しています",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "結論 → 製品比較（§2） → 業種別（§5） → 隠れコスト（§7） → チェックリスト（§8）",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー依存度",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "2. 主要11製品の費用比較（30名製造業）",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "A. 大手ERP",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ERPNext vs Odoo 比較【2026年版】",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "当社の導入実績と §4 の規模別レンジから試算した目安",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "6. SAP・大手ERPとの費用差をどう見るか",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "「SAP 導入費用」のように大手ERPの金額を調べている方向けに、差がどこから出るかを整理します",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "それでも大手ERPが妥当なケース",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "原因はベンダーの見積書に書かれない「隠れコスト」です",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "一つでも「不明」があれば、契約前にベンダーへ回答を求めましょう",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "大手ERPの",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーロックイン",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "手法別（Fit to Standard vs フルスクラッチ）の費用比較",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業と大手企業では、投資の規模そのものが違います",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業は3,000万円〜2億円が一般的で、大手企業は10億円を超え、数十億円に達する場合もあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、大手向けのSAPでは、年間ライセンスが数千万円以上になることもあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の費用レンジ（中堅3,000万〜2億、大手10億〜数十億）",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員3,000人超の大手企業では、グローバル対応も必要になります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "メガバンクや大手小売では、100億円超の投資も公表されています",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "比較する際は、ブリッジSEを含めた実効単価を確認する必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "比較では、単純な総額だけでなく、10年TCOも見ておく必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージは、導入規模と年間TCOを合わせて比較する必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP S/4HANAは大手企業向けの事実上の標準で、ユーザーあたり年間ライセンス費は10万円〜30万円が目安です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "比較する際は、ライセンス費だけでなく年間TCOの売上高比率を見ると、判断材料になります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ベンダーへの問い合わせ対応と定期パッチ適用も対象です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ベンダーの技術負債も、保守費を押し上げる要因になります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：見積書の120時間/月との比較",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "導入形態で大きく変わる費用感：クラウドとオンプレミスの比較",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、ベンダーがインターネット経由で提供するサービスを利用する形態です",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーの提供するセキュリティポリシーに準拠する必要がある",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドERPとオンプレミスERPの比較",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーが実施",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーに依存",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "、オンプレミス型でも比較的小規模なパッケージであれば",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーのスキルや経験がプロジェクトの成否を左右する",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーによってライセンスの定義やカウント方法が異なるため、",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ベンダーのコンサルタントによる手厚い支援が必要不可欠となります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーによっては、導入費用全体の50%以上をこのコンサルティング費用が占める",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "この移行作業は専門的な知識を要するため、多くの場合ベンダーに依頼することになり、その作業費がかかります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "これには、法改正への対応やセキュリティパッチの提供、ベンダーのヘルプデスク利用権などが含まれます",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型ERPであれば、インフラの運用・管理はすべてベンダー側で行われるため、これらの費用は発生しません",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPとは? シェアや機能などをわかりやすく解説",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "比較・選定・導入",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド会計・ERP・基幹システムの比較——規模と成長段階で選ぶ、3つの違いと選び方",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "FDEとSES・コンサルの違いを比較——人手・提言・成果、どこまで踏み込むか",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムの比較ポイント",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーロックインとは？レガシーシステム脱却を阻む要因",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場を持つ企業や、複数工場・多品種少量生産を行う企業におすすめです",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ型であれば比較的安価（数十万円～数百万円）、スクラッチ開発や大規模カスタマイズを伴う場合は数千万円以上かかるケースもあります",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージとスクラッチ開発のコスト差は非常に大きいため、比較検討は必須です",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "複数社からの見積もり・比較検討",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム会社やベンダーごとに、提案内容や費用感は大きく異なります",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "必ず複数社から見積もりを取り、コストやサポート体制、納期、実績などを総合的に比較しましょう",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば小規模の企業ではリソースなどもが限られていることがあるため、簡便さやコスト効率に優れたシステムを選ぶことがおすすめです",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の場合は、多拠点での運用やグローバル対応が可能かなどの観点からシステムを選定することがおすすめといえます",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しないベンダー・開発会社の選び方",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "6ヶ月〜2年",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円の見積もりなら、最終的な支払いは1,500万〜2,000万円に膨らむ可能性があります",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間と中途解約のペナルティ",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "— 範囲は契約時の検収基準で文書化",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "また、Fit to Standardなら、6ヶ月〜1年で稼働まで進められます",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、SAPのS/4HANA移行では、ECC6.0のアドオンを洗い出す作業に数ヶ月かかる例があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "スルガ銀行（95億円白紙撤回）・ミッション・プロデュース（3ヶ月数億円損失）",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：3ヶ月に数億円の営業損失",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、発注者側の検収プロセスにも問題があったと指摘されています",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "導入までに数ヶ月から1年以上かかる場合がある",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "：稼働までに必要な費用（要件定義・設定・データ移行・受入テスト・教育）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：本番稼働日で契約が切れる見積は、その後の数ヶ月が手薄になりがちです",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型・オンプレミス型のERP構築は、12〜18ヶ月が目安とされてきました",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "NetSuiteのSuiteSuccessは、業種ごとの標準フローという「完成形」から始める仕組みで、標準的な導入で6〜9ヶ月が目安です",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働後の3〜6ヶ月が定着の勝負期間で、この時期に現場の疑問を素早く解消できるかで、ERPの活用度が大きく変わります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "12〜18ヶ月が目安",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "6〜9ヶ月が目安",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "定着 3〜6ヶ月",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで含めて「導入期間」と考える",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "標準に寄せると短くしやすく、どちらの進め方でも稼働後に3〜6ヶ月の定着期間が続きます",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型は12〜18ヶ月が目安ですが、標準に寄せる進め方なら6〜9ヶ月程度に短くしやすくなります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "どちらでも、稼働後に3〜6ヶ月の定着期間を見込んでください",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "給与前払いサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、生産管理に特化した製品と比べると現場の細かい運用に合わせ込むための設定量は増えやすく、導入期間と費用は大きくなる傾向があります",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "所要量計算の結果を発注につなぎ、入荷・検収・支払いまでを管理するのが購買機能です",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間の見通しが立たない製品は、機能が合っていても候補から外れます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理を含むERPの導入期間は、標準機能に業務を合わせる進め方でも数か月、作り込みを伴えば1年以上かかることがあります",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "公式に「最短6ヶ月、平均は2年前後」と目安を示している製品もあり、規模が大きいほど期間は延びます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理が標準機能かどうか、部品構成と製造原価をどこまで持てるか、提供形態と料金、対象とする企業規模と導入期間という、選定で差が出る項目を横並びにしました",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間の目安",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "（現状分析から本稼働までの6フェーズ）",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "最短6ヶ月・平均2年前後",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "提供形態はオンプレミスとAWS上のプライベート環境で、導入期間は最短3ヶ月とされています",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "保守期限などで稼働時期が先に決まっている中堅・中小の製造業にとっては、最短3ヶ月という導入期間の目安も判断材料になります",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "公式に示されている利用企業は中堅から大手で、導入期間の目安は最短で6ヶ月、平均は1年〜1年半とされています",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "平均1年〜1年半という導入期間を計画に織り込めることが、検討に入る前提です",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "対象は年商100億円以上の中堅〜大企業とFAQに明記されており、生産管理の導入期間も最短6ヶ月・平均2年前後とされています",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "長い（6ヶ月〜2年）",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "中（3ヶ月〜1年）",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 小規模（500万〜2,000万円）で6ヶ月〜1年、中規模（2,000万〜8,000万円）で1〜2年が目安です",
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "pass": 3
+   },
+   {
+    "quote": "データ移行の隠れコスト——商社E社の4ヶ月クレンジング事例",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "データクレンジングだけで4ヶ月かかり、当初の2週間を大きく超えました",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 1（3〜6 ヶ月）",
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 2（6〜12 ヶ月）",
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 3（12〜18 ヶ月）",
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 4（18 ヶ月以降）",
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 5（24 ヶ月以降）",
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "給与前払いサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "Fit to Standard（SaaS）で会計は最短約3ヶ月",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "マルウェブが要件定義〜本番稼働まで一貫",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マルウェブは Odoo の公認パートナーとして、要件定義から本番稼働まで一貫して支援します",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入の期間は企業規模や対象業務の広さによって大きく異なり、範囲を絞れば数か月、全社規模で業務改革を伴う場合は1年以上に及ぶことも珍しくありません",
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "pass": 3
+   },
+   {
+    "quote": "リリース後3〜6か月のヘルプデスク・研修コストを予算に組み込む",
+    "url": "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "pass": 3
+   },
+   {
+    "quote": "：手形・歩引・締め支払いの自動化が標準機能で対応できない",
+    "url": "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "pass": 3
+   },
+   {
+    "quote": "並行稼働を最低2-3ヶ月",
+    "url": "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP・AS/400（IBM i）・Access・FileMaker・SQL Server・Notes などで動く基幹業務の移行と刷新を、今の仕組みの棚卸しから、移し先の選び方、新旧の並行稼働まで支援します",
+    "url": "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "pass": 3
+   },
+   {
+    "quote": "今の仕組みの棚卸しから、移し先の選び方、新旧の並行稼働まで",
+    "url": "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "pass": 3
+   },
+   {
+    "quote": "デメリット・注意点2：長期にわたる導入期間",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/smile/smilev/column-erp-comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入には一般的には要件定義から本稼働まで半年〜1年半ほどかかることが多く、カスタマイズの範囲によってはさらに長期化する場合もあります",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/smile/smilev/column-erp-comparison.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間中は、システム部門だけでなく現場担当者も要件確認やテスト対応に関わるため、通常業務と並行して進める負担が生じます",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/smile/smilev/column-erp-comparison.html",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "最低契約期間と中途解約のペナルティ",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "12. 解約時のデータ返却方法と形式",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "③ PoCで「失敗コスト」をゼロにする",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "導入前に実データで検証するPoC（実証実験）を行えば、「導入してから合わなかった」という最も高くつく失敗を防げます",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "（特定ベンダーへの依存により、乗り換えが困難になる状態）に不満を持つ企業が増えています",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "SAPの導入費用はなぜ高いのですか？",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "失敗時の追加コスト（実名事例で学ぶ）",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "見積比率が高い場合は、アドオン数や技術スタックを精査する必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "統計上は、30〜70%が何らかの形で失敗するとされています",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗の事例では、要件定義、テスト、切替戦略の不足が、追加の損失につながっています",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "スルガ銀行はIBMとのシステム開発訴訟で知られる失敗事例です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗事例を踏まえると、段階契約、PM義務、撤退条項も準備しておく必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルによる高い要件定義力・システム設計力を活かし、事業成果の最大化に伴走します",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の開発における課題解決をサポートいたします",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入費用は導入形態や範囲で大きく変動するため、成功の鍵は表面的な価格だけでなく「費用対効果」を正しく見極めることにあります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ費用構造やメリット・デメリットが大きく異なるため、自社の経営戦略やIT方針に合わせて慎重に選択する必要があります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "デメリット：",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "高い（数百万円～数億円以上）",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは自社の課題を明確にし、どの導入形態が適しているか、どこまでの業務範囲をカバーしたいのかを具体的に検討することが、適切な予算感を把握するための第一歩となります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果（ROI）で考えるERPの真の価値",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "として、費用対効果（ROI）を多角的に捉えることが重要です",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "手作業が介在するため、入力ミスや転記ミスが発生するリスクが高い",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入は、前述のような課題を根本から解決し、企業経営に大きなプラスの効果をもたらします",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を最大化する最も重要なアプローチは、ERP導入を「業務改革の機会」と捉え、既存の業務プロセスそのものを見直すことです",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "一度に全部門・全業務へERPを導入する「ビッグバン導入」は、理想的に見える反面、初期投資が巨額になり、プロジェクトが複雑化・長期化することで失敗のリスクも高まります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、表面的な金額だけで判断するのではなく、経営課題を解決するための戦略的投資としてROI（費用対効果）の視点を持つことです",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム刷新を検討中の企業担当者に向け、最新の市場動向、導入メリット、失敗しないための選定基準を、現場視点のナレッジとして整理・発信しています",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "受発注管理システムとは？受注・発注それぞれのメリットや解決できる課題を解説",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "WMS（倉庫管理システム）とは？メリット・デメリットや選定ポイント",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入の費用はいくら？相場・期間・失敗しない段取りを中小企業向けに解説 | バーチャル経営ブログ",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入の費用はいくら？相場・期間・失敗しない段取りを中小企業向けに解説",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しないだろうか",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、お金と時間と失敗のリスクが見えないと、人は前に進めません",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しない段取りは、つまずく「だいたい同じ場所」を知ることから",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「失敗しないだろうか」",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入はなぜ失敗するのか",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "費用も、期間も、失敗も、「何で決まるか」が分かれば、漠然とした不安は具体的な問いに変わります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、特定の製品に誘導せず、自社の経営課題に合う進め方を一緒に考えられます",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "FDEの年収はなぜ高い？——”成果にコミットする人材”が示すAI時代の価値",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムのモダナイゼーションとは？手法・課題・成功のコツを解説",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム開発における失敗事例",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムのメリット・デメリット",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムの脱却でよくある失敗例",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステム脱却とは？意味・課題・進め方をやさしく解説",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステム再構築とは？進め方と失敗しないポイントを解説",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムの問題点とは？リスクと解決策をわかりやすく整理",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しない予算計画を立てるためのガイドとしてご活用ください",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しないベンダー・開発会社の選び方",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状の課題を整理する（要件定義の重要性）",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに、自社が抱えている課題の整理を行います",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムの導入によってどのような課題を解決したいのかという点を明らかにしておきます",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ強度の高い",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の金融課題を解決したい",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "導入前に押さえる注意点とありがちな失敗",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "解決したい課題が生産部門の中で完結するかどうか",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "工程の進捗が見えない、現場の実績が集まらないというように課題が生産部門で閉じているなら、生産管理パッケージのほうが投資も期間も小さく済みます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "在庫側では、倉庫別・ロット別の数量把握に加えて、有償支給や無償支給といった外注先への部材提供を扱えるかが、外注比率の高い現場では効いてきます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "一方、工場のネットワークが外部と分離されている、独自性の高い工程が多く標準機能では対応しきれない、といった条件がある場合はオンプレミスが現実的です",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "規模の合わない製品が候補に出ないため、22製品を絞り込む出発点として使えます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、どういう企業には合わないか、どういう企業なら候補に入るかも記載しました",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "3. 費用ではなく「投資対効果」で判断する",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ERPは在庫の適正化・リードタイム短縮・転記ミスの削減・原価の可視化といった業務改善をもたらします",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "改善効果はどの製品でもほぼ同等であるため、",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "リターンが同じなら、投資額が小さいほどROIは高くなります",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "💡 オープンソースERP（5年TCO 200万〜500万円）はライセンスコストがかからないため、業務改善による恩恵をそのまま投資回収に充てられます",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "該当しないなら、同じ業務改善をより小さい投資で実現できます",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "研修中の業務効率低下も含めると倍以上",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万〜500万円の削減効果",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "導入コンサル費は、Fit/Gap分析、業務設計、アドオン開発、データ移行を含むため、ライセンス費の2〜5倍に膨らむケースがあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ミッションクリティカル案件では、相場の1.2〜1.5倍の単価も提示されます",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：同じ時間で1.5〜2倍近く",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "インドの下落には、為替と、AIツール活用による生産性向上が影響しています",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：40〜60%削減",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、10年で初期費用の2倍以上に達することもあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：保守費を20〜30%削減",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "費用が見積金額の1.5倍〜3倍に膨らみ、計画そのものが頓挫するケースもあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP案件では、費用が見積金額の1.5倍〜3倍に膨らむケースも珍しくありません",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "費用が見積の1.5〜3倍に膨らむこともあるため、要件定義の合意を固め、契約を段階に分けておくことが防衛策になります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルによる高い要件定義力・システム設計力を活かし、事業成果の最大化に伴走します",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用を徹底解説｜中堅企業の相場から内訳、コスト削減のポイントまで | クラウドERP実践ポータル",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の相場から内訳、コスト削減のポイントまで",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用を徹底解説｜中堅企業の相場から内訳、コスト削減のポイントまで",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "BPR／業務改善",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入費用は導入形態や範囲で大きく変動するため、成功の鍵は表面的な価格だけでなく「費用対効果」を正しく見極めることにあります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "法改正や機能改善のアップデートが自動的に行われる",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "しながらERP導入の効果を検証できるメリットがあります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムの定着化と投資対効果の最大化のために、決して軽視できない費用",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果（ROI）で考えるERPの真の価値",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "単なるコスト削減という視点だけでなく、",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "として、費用対効果（ROI）を多角的に捉えることが重要です",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動連携により手作業が激減し、データの正確性と信頼性が向上",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入は、前述のような課題を根本から解決し、企業経営に大きなプラスの効果をもたらします",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務の属人化を防ぎ、組織全体の生産性を飛躍的に向上させる",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、データが一元管理され、誰がいつどのような操作を行ったかのログ（証跡）が記録されるため、データの透明性が向上します",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "この四つが動くと、同じ規模の会社でも投資額は数倍変わります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "見える化の成果物を、システム選定につなぐ——RFI・RFP・稟議",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの料金が「席」から「成果」へ——中小企業の”買い方”と”値付け”はどう変わるか",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "FDEの年収はなぜ高い？——”成果にコミットする人材”が示すAI時代の価値",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "FDEとSES・コンサルの違いを比較——人手・提言・成果、どこまで踏み込むか",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Devinによるレガシーマイグレーション｜AIで挑むシステム刷新とコスト削減",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムと運用コストの関係とは？削減事例と見直し方を解説",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "原材料の手配から工程の進捗、納期管理までを一元管理することで、納期遅延やロスの削減、現場の見える化が実現します",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、費用を抑えつつ、効果的なシステムを導入するためのコツや実践的な方法を紹介します",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義の段階で現場の声を集め、ムダや重複を省くことが費用削減の第一歩です",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準機能が豊富なパッケージソフトを選び、カスタマイズを最小限に抑えることでコストを大幅に削減できます",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略立案から老朽システムのクラウド刷新、大規模基幹統合まで対応し、データ活用経営とコスト削減を実現します",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社データセンターの廃止など、大幅なコスト削減",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円でコスト削減",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "掲載料無料・完全成果報酬でリード獲得",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "4つ目の場面に対応する効果です",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "工程の進捗と部材手配だけが課題で、会計・販売は現状で困っていないなら、生産管理単独パッケージのほうが投資対効果は高くなります",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "統合ERPの効果は、製造実績が入力されて初めて出ます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "在庫削減が目的なら、運用の見直し余地を先に確かめる",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・BOMのデータ移行・投資対効果の示し方など、導入を決める段で出てくる論点は、この後の",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が少なくても、受注情報を販売管理と生産管理の両方に入力し、原価を表計算ソフトで再集計している状態であれば、統合による効果は出ます",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "一方、拠点が1つで担当者も数名、課題が生産部門の中で完結するという場合は、統合ERPよりも生産管理単独のパッケージのほうが投資対効果は高くなります",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金は事務局に登録された支援事業者と登録ツールの組み合わせが対象で、ものづくり補助金は生産性向上のための設備投資とあわせてシステムを導入する場面が想定されています",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 製造業向けERPの投資対効果は、どのように試算すればよいですか？",
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "2024年に独立し、現在は ERPNext.JP／MY HATCH 代表として中堅・中小企業のDXを\"現場目線\"で支援",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "まず結論：30名規模の場合",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "従業員30名規模",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズが必要な中堅企業",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "導入規模や業務内容によって回収期間は異なりますが、ライセンス費ゼロという構造的な優位は変わりません",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "4. 企業規模別の費用相場",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "同じ30名規模でも、ここで必要な機能が変わり、金額が変わります",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "上表は従業員30名規模を前提に、",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "当社の導入実績と §4 の規模別レンジから試算した目安",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "典型額（30名規模）",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "SIer・IT企業の顧客導入事業には、導入支援メニューを個別にご用意しています（形態・規模に応じて個別にご相談ください）",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "30名規模の中小製造業で、クラウドSaaSの5年TCO（総保有コスト）が約800万〜1,500万円、オープンソースERPで約200万〜500万円が典型的な価格帯です",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "導入形態（クラウド／オンプレミス／オープンソース）と企業規模によって大きく変わるため、自社の条件に合わせた試算をおすすめします",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Odooが向くケースも明示した、中小企業の導入判断向けガイドです",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム/ERP刷新の費用は、企業規模、選ぶ手法、保守や連携の範囲によって、3,000万円から数十億円まで変わります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "費用の桁は、企業規模によって大きく変わります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業と大手企業では、投資の規模そのものが違います",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業は3,000万円〜2億円が一般的で、大手企業は10億円を超え、数十億円に達する場合もあります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業向けのライセンスは、ユーザーあたり月1〜3万円です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の費用レンジ（中堅3,000万〜2億、大手10億〜数十億）",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模と対象業務を並べて見ると、投資判断の材料がそろいます",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "：10億円〜数十億円の投資規模",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員100〜500人の中小企業では、クラウドERPが主流です",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員500〜3,000人の中堅企業では、業務固有の要件が発生します",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員3,000人超の大手企業では、グローバル対応も必要になります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "実例では、キングジムが約10億円規模のERP刷新を実施しました",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層へ上申する際は、この規模感を前提に稟議を組み立てる必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージは、導入規模と年間TCOを合わせて比較する必要があります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "比較する際は、ライセンス費だけでなく年間TCOの売上高比率を見ると、判断材料になります",
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用を徹底解説｜中堅企業の相場から内訳、コスト削減のポイントまで | クラウドERP実践ポータル",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の相場から内訳、コスト削減のポイントまで",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用を徹底解説｜中堅企業の相場から内訳、コスト削減のポイントまで",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、中堅企業の費用相場から詳細な内訳、コストを最適化する実践的なポイントまでを網羅的に解説",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入費用は、選択する製品や導入形態、企業の規模によって",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模・導入範囲別の費用相場",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入費用は、導入形態に加えて、企業の従業員数や売上規模、そしてERPをどの業務範囲まで適用するかによっても大きく変動します",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に中堅・中小企業で採用されることが多い方法です",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "、オンプレミス型でも比較的小規模なパッケージであれば",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "主に中堅企業から大企業で採用されます",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、複数の拠点や海外子会社へ展開する場合や、大規模なカスタマイズ、既存システムからの膨大なデータ移行が必要な場合は、プロジェクト全体の費用が大きくなる傾向にあります",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模・導入範囲別の費用相場（目安）",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・中堅企業",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業・大企業",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧システムからのデータ移行作業や、従業員への操作トレーニングにかかる費用",
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入の費用はいくら？相場・期間・失敗しない段取りを中小企業向けに解説 | バーチャル経営ブログ",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入の費用はいくら？相場・期間・失敗しない段取りを中小企業向けに解説",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月額は小規模で数万〜数十万円、中小企業で数十万〜100万円超",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入の費用はいくら？規模別の目安",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの費用は、会社の規模と「どの業務までつなぐか」で決まります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "まず業界の一般的な相場を、規模別に押さえておきましょう",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の費用相場",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模（年商）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模（〜10億円）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業（10〜50億円）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業（50〜400億円）",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "この四つが動くと、同じ規模の会社でも投資額は数倍変わります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ中小企業向けでも、製品ごとに費用の出発点は異なります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "利用するモジュール（機能範囲）・ユーザー数・オプションで変わり、中堅企業で複数モジュールを使う場合は月額数百万円規模になることもあります",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の相場を見たあとに押さえたいのが、費用を「ひとつの数字」で見ないことです",
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の基幹システム開発のポイント",
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ERP導入費用 の 相場 【2026年版】11製品の価格一覧と業種別 ... — ERP導入費用 の 相場 【2026年版】11製品の価格一覧と業種別 ... ERPNext.JP https://www.erpnext.jp > ナレッジ > 導入",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入費用 の相場【2026年版】11製品の価格一覧と業種別 ... — ERP導入費用 の相場【2026年版】11製品の価格一覧と業種別 ... ERPNext.JP https://www.erpnext.jp > ナレッジ > 導入",
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://losta.co.jp/labo/erp-implementation-support-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=45921",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/core-system-estimate/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.c3index.co.jp/blog/blog_3141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=56720",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clouderp.jp/blog/study-4-failure-cases-to-implementation-of-erp-in-smb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.digital.panasonic.co.jp/column/erp-failure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/erp-failure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venture-net.co.jp/netsuite/why-erp-implementations-fail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/smile/smilev/column-erp-comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/383",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=68701",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/6026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/2163/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/dx-consulting/erp-renewal-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quanz.co.jp/blog/modernization/3822/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=65287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/category/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intra-mart.jp/im-press/useful/erp-success-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikan-modern.com/case-study/manufacturing-industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloud-erp-guide.com/blog/15-erp-implementation-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloud-erp-guide.com/blog/erp-implementation-period",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aladdin-office.com/column/erp_column09",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandit.jp/support/introduction/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=65145",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ips.ne.jp/blog/sap-implementation-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calsoft.com/ja/how-long-does-an-erp-implementation-take/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ERP・基幹システム導入（中堅製造業） 費用 相場 万円",
+   "results": [
+    "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "https://www.ripla.co.jp/blog/dx-consulting/erp-overhaul-costs/",
+    "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "https://www.venture-net.co.jp/virtualblog/erp-implementation-guide/",
+    "https://losta.co.jp/labo/erp-implementation-support-cost/",
+    "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "https://catalog.monex.co.jp/article/?p=45921",
+    "https://www.c3index.co.jp/blog/blog_3141/",
+    "https://www.ec-cube.net/enterprise/btob/column/core-system-estimate/",
+    "https://it-trend.jp/erp/article/price"
+   ]
+  },
+  {
+   "query": "ERP・基幹システム導入（中堅製造業） 製造業 導入 費用",
+   "results": [
+    "https://www.erpnext.jp/knowledge/implementation/erp-cost-guide",
+    "https://catalog.monex.co.jp/article/?p=45921",
+    "https://losta.co.jp/labo/erp-implementation-support-cost/",
+    "https://www.ec-cube.net/enterprise/btob/column/core-system-estimate/",
+    "https://www.clouderp.jp/blog/implementation-cost-of-erp.html",
+    "https://www.c3index.co.jp/blog/blog_3141/",
+    "https://www.ripla.co.jp/blog/dx-consulting/erp-replacement-costs/",
+    "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "https://www.kikan-modern.com/basic-knowledge/cost.html",
+    "https://aurant-technologies.com/blog/erp-manufacturing-complete-guide-2026/"
+   ]
+  },
+  {
+   "query": "ERP・基幹システム導入（中堅製造業） 失敗 デメリット",
+   "results": [
+    "https://catalog.monex.co.jp/article/?p=56720",
+    "https://www.clouderp.jp/blog/study-4-failure-cases-to-implementation-of-erp-in-smb.html",
+    "https://service.digital.panasonic.co.jp/column/erp-failure",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/erp-failure.html",
+    "https://aurant-technologies.com/blog/erp-introduction-failure-sme/",
+    "https://www.venture-net.co.jp/netsuite/why-erp-implementations-fail/",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/kit3/column01/vol14/",
+    "https://www.ec-cube.net/enterprise/btob/column/core-system-cases-failure/",
+    "https://www.cloud-erp-guide.com/blog/manufacturing-erp",
+    "https://aurant-technologies.com/blog/erp-failure-case-studies-analysis-2026/"
+   ]
+  },
+  {
+   "query": "ERP・基幹システム導入（中堅製造業） 比較 主要企業",
+   "results": [
+    "https://www.otsuka-shokai.co.jp/erpnavi/smile/smilev/column-erp-comparison.html",
+    "https://www.cct-inc.co.jp/koto-online/archives/383",
+    "https://catalog.monex.co.jp/article/?p=68701",
+    "https://www.aspicjapan.org/asu/article/6026",
+    "https://metoree.com/categories/2163/",
+    "https://www.ripla.co.jp/blog/dx-consulting/erp-renewal-companies/",
+    "https://www.onamae.com/business/article/30392/",
+    "https://luvina.jp/top-8-erp-system-for-manufacturing/",
+    "https://www.ai-souken.com/sap-erp/introduce-erp-market-share",
+    "https://aurant-technologies.com/blog/erp-selection-comparison-guide-2026/"
+   ]
+  },
+  {
+   "query": "ERP・基幹システム導入（中堅製造業） 中堅企業 導入事例 効果",
+   "results": [
+    "https://quanz.co.jp/blog/modernization/3822/",
+    "https://catalog.monex.co.jp/article/?p=65287",
+    "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/category/manufacturing/",
+    "https://www.intra-mart.jp/im-press/useful/erp-success-story",
+    "https://www.kikan-modern.com/case-study/manufacturing-industry.html",
+    "https://www.cloud-erp-guide.com/blog/15-erp-implementation-case-studies",
+    "https://www.grandit.jp/showcase/industry/manufacturing/",
+    "https://www.cct-inc.co.jp/koto-online/archives/382",
+    "https://www.prodcontrol-manufacturing.com/case-study/large-companies.html",
+    "https://connectablue.com/column1/erp-smb-erp-implementation/"
+   ]
+  },
+  {
+   "query": "ERP・基幹システム導入（中堅製造業） 導入期間",
+   "results": [
+    "https://www.cloud-erp-guide.com/blog/erp-implementation-period",
+    "https://aladdin-office.com/column/erp_column09",
+    "https://www.grandit.jp/support/introduction/plan/",
+    "https://catalog.monex.co.jp/article/?p=65145",
+    "https://ips.ne.jp/blog/sap-implementation-process/",
+    "https://www.calsoft.com/ja/how-long-does-an-erp-implementation-take/",
+    "https://hnavi.co.jp/knowledge/blog/enterprise_system/",
+    "https://products.sint.co.jp/blog/erp-implementation",
+    "https://www.funaisoken.co.jp/dl-contents/smart-factory__00000601_S045",
+    "https://aurant-technologies.com/blog/erp-selection-comparison-guide-2026/"
+   ]
+  }
+ ],
+ "missing": {}
+}

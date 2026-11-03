@@ -1,0 +1,2109 @@
+{
+ "name": "設備保全・予知保全システム",
+ "en": "predictive maintenance system cost Japan",
+ "aliases": [
+  "予知保全 費用",
+  "設備保全システム 導入 費用"
+ ],
+ "context": "設備",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:52:52.300762+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "●AI予知保全開発費用は、小規模500万〜1,500万円、中規模1,500万〜5,000万円、大規模5,000万円〜1億円以上が目安です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "小規模なAI予知保全では、少数設備のデータ取込、簡易異常検知、ダッシュボード、アラート通知などに絞ることで、500万円〜1,500万円程度が目安になります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "中規模では、複数設備、センサーデータ連携、異常検知モデル、保全履歴管理、アラート、ダッシュボード、外部連携などを含み、1,500万円〜5,000万円程度が一般的です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な場合は、複数工場、全設備監視、高頻度データ、故障予測、保全計画連携、MES・SCADA連携、継続学習基盤などを含み、5,000万円〜1億円以上になるケースもあります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "保守運用は、月額で初期開発費の5〜15％程度が目安になります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用の目安は0円から数百万円以上必要となるものまで非常に幅広い",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額4,000円程度から利用できるシステムもありますが、10万円を超すものもあります",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本料金として月額4,000円〜10万円程度となることが一般的",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIとは？仕組み・導入5ステップ・費用相場・ROI算出法を体系解説【2026年版】 | OptiMax AI情報",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIとは？仕組み・導入5ステップ・費用相場・ROI算出法を体系解説【2026年版】",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIの定義から振動解析・電流解析・温度監視の仕組み、導入5ステップ、費用相場500万〜3,000万円の内訳、ROI算出方法まで体系的に解説",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "故障時の生産損失額が1回あたり数百万円を超えるか",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "1時間の計画外停止コストは自動車工場で平均2万ドル（約300万円）以上という試算があり、Deloitte Insights（2025年）も計画外ダウンタイムが製造業全体で年間500億ドルのコストを生んでいると報告しています",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "無線振動センサーが1台数千円〜数万円で入手でき、クラウドAIプラットフォームも月額数万円から利用可能になりました",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT予知保全とは｜センサー選定・エッジAI/クラウドAIの判断軸と費用相場【2026年最新】",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT予知保全の定義から、振動・温度・電流・音響センサーの選定基準、エッジAI vs クラウドAIの判断軸、IoTゲートウェイ→クラウド→AI推論→アラートの標準アーキテクチャ、PoC・本格導入の費用相場（50万円〜2,000万円）、JC-STAR/ISO 17359準拠の注意点、失敗パターンまで2026年の1次情報で解説します",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "無線振動センサーは1台5,000〜5万円で、設備を停止せずに既存設備への後付け設置が可能です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "CTセンサー1台2,000〜2万円と比較的安価で、小規模なパイロットに適しています",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "パイロット規模であれば500万円未満で開始可能です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "通信帯域設計も重要で、振動センサー1台が1日1.2GBを生成する前提でネットワーク容量を見積もる必要があります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修とは？費用相場・選び方・助成金・導入効果を徹底解説【2026年版】",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "センサーや既存システムとの連携範囲により、初期0万円から4,000万円以上まで幅があります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "公開価格と類似するCMMS・業務システム案件を組み合わせた目安では、クラウドCMMSの標準導入は初期0万〜30万円程度、月額3万〜20万円前後です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "個別開発は小規模で300万〜700万円程度、中規模で700万〜1,800万円程度です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な複数工場展開やスクラッチ開発では1,800万〜4,000万円以上が目安になります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "永久ライセンス基本構成（500カウンタ〜）400万円〜（税別）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "設備単位 月額36,000円、テナント単位 月額64,800円（2021年発売時の公表価格",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月からのスターターパック200万円〜（税別、公開している製品の例）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "年間保守120万円〜（税別、公開している製品の例）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "永久ライセンス400万円〜（税別・公表価格）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "テナント単位 月額64,800円／設備単位 月額36,000円（2021年発売時の公表価格）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型生産管理システム12選 機能・料金で徹底比較",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "【在庫管理システム】在庫管理のシステム化に成功！リアルタイムな在庫管理で年間100万円の在庫削減",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全システムの選び方｜比較ポイント・費用相場・導入事例を500工場調査で解説 – 八千代ソリューションズ株式会社",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全システムの選び方｜比較ポイント・費用相場・導入事例を500工場調査で解説",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 設備保全システムの費用相場と投資判断の考え方",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "数万〜50万円程度",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "3万〜10万円/月",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "50万〜200万円程度",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "10万〜30万円/月",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "脱エクセル・紙を実現する初期費用0円のクラウド保全管理システム",
+    "url": "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "保全現場の見える化を実現するクラウドサービス「MENTENA（メンテナ）」は初期費用0円から利用でき、無料トライアルも実施中！",
+    "url": "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：~ 1万円",
+    "url": "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：50万円 ~ 100万円",
+    "url": "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "月額の費用では安くても、5年間運用した場合をシミュレーションしてみると、100万円以上の差が付くケースもあります",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用 ＋ 月額費用 × 60カ月 で算出しています（税込）",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用・月額費用ともに抑えられており、5年間運用した場合の費用を想定すると、他サービスより数百万円～数千万円の差が生まれます",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：110,000円",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：55,000円（ライトプラン＠20ID）",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "5年間運用した場合の費用：約340万円",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：220,000円",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：353,000円（スタンダードプラン＠20ID）",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "5年間運用した場合の費用：約1,940万円",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名規模の自動車部品製造企業を例にすると、主力プレス機の突発故障により月1-2回の緊急停止が発生しているような場合、1回の停止で数百万円規模の機会損失が生じます",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本センサー設置：50-100万円",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ蓄積システム：30-50万円",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状分析・計画策定：20-30万円",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "高度な予測システム開発：200-500万円",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織変革支援・教育プログラム：50-100万円",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム運用・保守：年間50-100万円",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "AI予知保全では、製造現場、保全部門、設備担当、品質管理、情シス、経営層、外部ベンダーなど、複数の関係者が関わります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、少数設備のセンサーデータを取り込み、簡易的な異常検知を行うだけであれば比較的軽量です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、請負契約は準委任契約と比較して1.3〜1.5倍程度の費用になることがあります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "開発費用は、単純な金額比較だけでは判断できません",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "あなたへのおすすめ",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムの比較ポイント",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーロックインとは？レガシーシステム脱却を阻む要因",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型と比較すると初期費用を抑えられる",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手金融業・製造業企業の支援ノウハウあり",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "他社システムとの比較：圧倒的なコスト優位性",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、国内の大手化学会社様においては、業界標準である「AVEVA PI System」でのコナンエアー運用実績があります",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "他のエッジAIセンサーや高価な精密診断機と比較した際、コナンエアーの財務的な強みは「ランニングコスト（サブスクリプション費用）がゼロ」である点に尽きます",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、初期投資額と上記の削減効果を比較することで、決裁者を説得する強力な予知保全のROI（投資対効果）を証明することが可能です",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事内の金額や算出例、および他社製品との比較情報は2026年3月時点の目安です",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手製造業やプラントにおける無線振動計の導入実績と現場課題の解決事例",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wi-Fiセキュリティ仕様と大手企業様における社内ネットワーク導入実績",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIの仕組み｜振動解析・電流解析・温度監視の3大手法",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "状態基準保全の概念を深く理解したい方は、まずCBM（状態基準保全）とAIの仕組みから読み進めるのがおすすめです",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3つの保全方式を比較｜事後保全・予防保全・予知保全の使い分け",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "保全コスト比較",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の検討段階や知りたいテーマに合わせて、次のように読み進めるのがおすすめです",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "CTセンサー1台2,000〜2万円と比較的安価で、小規模なパイロットに適しています",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "設備の重要度ランキング作成（故障時の生産影響額で順位付け）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ある大手化学メーカーでは、無線振動センサーとAIを組み合わせたPoCで保全工数約30%削減を実証し、本格展開の予算承認を獲得しています",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修の費用相場（1日10〜50万円）、選び方の比較軸5つ、最大75%助成の人材開発支援助成金、導入事例の定量効果まで網羅",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ある大手化学メーカーでは、プラント内の回転機器に無線振動センサーを設置し、AIによるデータ解析で設備監視を自動化しました",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ある欧州の大手自動車メーカーは、プレス・溶接・塗装ラインにAIリアルタイム監視システムを導入し、計画外ダウンタイムを30%削減、設備稼働率を15%向上させました",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ある大手電子部品メーカーでは、工場の約1,800台の設備にIoTセンサーを設置し、AI予知保全システムを全社展開しました",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "検知手法は振動解析（回転機器）・電流解析（モーター・電気系統）・温度監視（炉・変圧器）の3大手法から設備特性に応じて選定し、500万円未満のパイロットから段階的に拡大するのが成功パターンです",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用だけでなく、毎月・毎年発生する費用を3年程度の総保有コストで比較します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "標準機能の優先と、複数社での同条件の比較",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "保守できる人材やベンダーも限られます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度だけでなく3年目までの総額を比較します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "停止1時間あたりの損失、故障時の復旧時間、現在の保全費が分かると、費用対効果を比較しやすくなります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "製品ベンダーとSIerが別の場合は、センサーやクラウド、アプリ、既存システムのうち、どこを誰が受け持つかを書面に残します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "費用の比較と導入計画は、重要設備と成果指標を基準に組み立てます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの予知保全システムを比較！基礎知識やできること、選び方までをわかりやすく解説！ | ITトレンド for 製造業",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの予知保全システムを比較！基礎知識やできること、選び方までをわかりやすく解説！",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全システムの主要10製品を、予知保全・品質管理・多拠点対応・中小適合のスコアで比較",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "異常検知型と故障予測型の違い、比較項目、企業の特徴別の選定ポイント、費用の内訳と公開価格の目安まで整理した比較記事です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の多くは見積もり制で、横並びの比較もしにくい分野です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全システムの比較項目",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "【比較表】予知保全システムのランキング",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめサービス",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス比較表",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "比較に入る前に、分析の型とデータの流れを押さえておきましょう",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "予兆が出たときの対応も含め、自社で回すのかベンダーの支援を受けるのかで向く製品が変わります",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "長く使ううえでは、この点も比較の観点です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "比較では、対象設備への強さが判断材料になります",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーの運用支援の範囲",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、CKDのFacilea / Facilea AIは比較対象から外しています",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "この正常モデルと、日々収集されるデータとの比較により、機器の異常を事前に検出します",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "MSPCを搭載したパッケージソフトウェアとして、約550件の導入実績があります",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外の業界にも、多数の導入実績があります",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "７. AI予知保全なら異常予兆検知システムの導入がおすすめ！",
+    "url": "https://www.uis-inf.co.jp/products/dins/column/column_maintenance.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム比較",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全とよく比較される設備保全方法に、",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "■予知保全と予防保全の比較",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "シミュレーションを依頼する前には、事前に自社の設備状況と対象設備の分析をしておくと、システムベンダーとの打ち合わせがスムーズになります",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "また、工場や設備データは機密性が高いため、権限管理、暗号化、ネットワーク制御、アクセスログ、バックアップも重要です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "最初は停止影響が大きい設備、故障頻度が高い設備、センサーデータが取得しやすい設備に絞ることで、初期費用を抑えながら効果検証ができます",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムのモダナイゼーションとは？手法・課題・成功のコツを解説",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム開発における失敗事例",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムのメリット・デメリット",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムの脱却でよくある失敗例",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステム脱却とは？意味・課題・進め方をやさしく解説",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステム再構築とは？進め方と失敗しないポイントを解説",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムの問題点とは？リスクと解決策をわかりやすく整理",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "また作業品質を一定にでき、誰もが一定品質で作業を実施できるようになるため、技術承継における課題解決にもつながります",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、それぞれのメリットやデメリットを確認しつつ、",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ強度の高い",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しない予知保全ガイド",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "振動センサー導入における費用対効果（ROI）の具体的な算出アプローチ",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "特許技術による高精度な異常検知（簡易診断・精密診断）を両立しており、決裁者（工場長や経営層）も即座に納得する圧倒的な費用対効果（ROI）を実現します",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "浮いた莫大な人件費と工数を、根本原因の解析や状態基準保全（CBM）の計画立案など、より付加価値の高い保全業務へシフトさせることが、最大のROI向上につながります",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "コナンエアーのような低コストの買い切り型センサーであれば、まずは「最も故障頻度の高い数台のポンプ」に限定したスモールスタート（PoC）が可能です",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手製造業やプラントにおける無線振動計の導入実績と現場課題の解決事例",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIの限界と失敗パターン｜導入前に知るべきリスク",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗事例から学んで、自社で同じ失敗を避けたい",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT予知保全の定義から、振動・温度・電流・音響センサーの選定基準、エッジAI vs クラウドAIの判断軸、IoTゲートウェイ→クラウド→AI推論→アラートの標準アーキテクチャ、PoC・本格導入の費用相場（50万円〜2,000万円）、JC-STAR/ISO 17359準拠の注意点、失敗パターンまで2026年の1次情報で解説します",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "対象設備の選定基準は「故障時の損失額が大きい」「故障頻度が高い」「センサー設置が物理的に可能」の3条件です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "横展開先の優先順位見直し：投資対効果が高い設備順に拡大",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "品質検査・予知保全・生産計画・サプライチェーンの導入効果とROI事例、失敗しない導入ステップまで網羅した実践ガイドです",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果が見合わないケース｜導入前に確認すべき3条件",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の3条件のいずれかに該当する場合、費用対効果が見合わない可能性があります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "重要度の高いポンプ20台に絞ってパイロット開始",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この章で扱う失敗パターンは次の3つで、いずれもPoC設計段階で対策を組み込めば回避できます",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AI導入で最も多い失敗原因は、データ品質の問題です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のXAI活用法｜品質向上と技術伝承を失敗させない秘訣",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "導入にあたっては、データ品質の検証をPoCの初月に行うこと、AIの判断を100%信頼せず人間との併用運用にすること、重要設備1〜3台からスモールスタートすることが失敗回避の鍵となります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "100社以上の相談実績から導き出した「失敗しないAI導入の7ステップ」をまとめたハンドブックを期間限定で無料プレゼント中です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全 費用対効果",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、無理に標準機能へ合わせて現場の入力が定着しないと、後から追加開発や運用改善の費用が発生します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "センサーを増やすほど月額の通信・保存・分析費も増えるため、重要度の高い設備から始めると費用対効果を確認しやすいです",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "一括で構築するより、業務標準化の失敗や不要なカスタマイズを早く見つけられます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果をMTTRや保守費で測る考え方の参考になります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "点検記録の電子化だけで改善できる課題と、状態監視が必要な課題を分けることも効果的です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "全面スクラッチは自由度が高い一方で、要件が膨らみやすい面があります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "追加開発や解約時のデータ返却の扱いも確認します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "停止1時間あたりの損失、故障時の復旧時間、現在の保全費が分かると、費用対効果を比較しやすくなります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルによる高い要件定義力・システム設計力を活かし、事業成果の最大化に伴走します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の開発における課題解決をサポートいたします",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "精度の高い予測ができる反面、学習用の故障データが要ります",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の型に当てはまる場合は、最も優先したい課題から考えてください",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "まず代表的な1拠点で運用の型を作り、そこから広げる進め方が失敗を避けやすくなります",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "製品は中小適合の高い順に並べています",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "投資対効果が見えにくい課題があるため、用途を絞ったスモールスタートが推奨される",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全システムの導入とその課題解決について | 富士電機",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全システムの導入とその課題解決について",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "このコラムでは、製造業の方々が予知保全システムを導入するにあたり、障壁となりうる課題とそれに対処する方法をご紹介いたします",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全のシステム構築における4つの課題",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全システム構築の課題を解決するには？",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "・費用対効果の理解を得るのが難しい",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような問題を解決するのが、事前に機器類の不具合を察知できる「予知保全」になるのですが、導入にあたって課題が無いわけではありません",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下に予知保全システムを導入する際に生じる、代表的な4つの課題をご紹介します",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題1 予知保全システム構築のためのデータが不足している",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、予知保全システムを構築するために必要なデータ量を確保できていないという課題が生じます",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "このデータ不足は、予知保全システム導入時に起こる、最も一般的な課題といえるかもしれません",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題2 故障に繋がるデータがない",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "●費用を抑えるには、効果が出やすい設備や故障影響が大きい設備に絞り、段階的に導入する進め方が有効です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "『事業成果の達成』",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "AI予知保全を導入することで、突発故障の削減、保全コストの最適化、設備稼働率の向上、現場負荷の軽減につなげやすくなります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集、IoT連携、異常検知、ダッシュボード、アラート、保全業務連携、運用改善をどこまで含めるかによって大きく変わる",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "導入して終わりではなく、運用しながら改善する前提のシステム",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "実際には、「対象設備を追加したい」「センサー項目を増やしたい」「アラート条件を変えたい」「モデル精度を改善したい」「保全履歴を分析に追加したい」といった要望が継続的に発生します",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "AI予知保全では、初期開発費だけでなく、継続的な改善費用を見込んでおくことが重要です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "現場はアラートの分かりやすさを重視し、保全部門は故障削減を重視し、経営層は設備稼働率や保全コストを重視します",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "AIエンジニアは、データ分析、特徴量設計、異常検知モデル、故障予測モデル、精度検証、モデル改善を担当します",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "AIエンジニアの経験によって、実現可能な精度、必要なデータ量、モデル改善の進め方が変わります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "安さだけで選ぶと、精度が出ない、現場で説明できない、運用改善できないといった問題が起きることがあります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "この規模では、単なる異常検知ではなく、企業全体の設備保全や生産性向上を支えるAI基盤としての役割を持つようになります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "精度改善、設備追加、モデル再学習、アラート調整、連携変更、障害対応などが含まれます",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "1.3〜1.5倍の係数がかかる考え方",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、請負契約は準委任契約と比較して1.3〜1.5倍程度の費用になることがあります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "Devinによるレガシーマイグレーション｜AIで挑むシステム刷新とコスト削減",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムと運用コストの関係とは？削減事例と見直し方を解説",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備の稼働率向上とダウンタイム削減",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、部品・消耗品の在庫管理についても精度が向上し、過剰在庫を削減が可能に",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な評価と改善",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な評価の実施とそれをもとに改善を続けていく",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略立案から老朽システムのクラウド刷新、大規模基幹統合まで対応し、データ活用経営とコスト削減を実現します",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社データセンターの廃止など、大幅なコスト削減",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円でコスト削減",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全の導入費用と予算化ガイド｜ROI算出と実践的なコスト削減",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全導入におけるROIの考え方と実践的なコスト削減アプローチ",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全システム導入の「予算の壁」を突破し、確実にROIを出すには？",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "巡回点検の自動化による人件費削減と、既存システム（AVEVA PI System等）への無償連携により、決裁者も納得する投資対効果を実現します",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "巡回点検の自動化（人手の置き換え）による劇的な工数削減",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンタイム削減による機会損失の回避",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "振動センサー導入における費用対効果（ROI）の具体的な算出アプローチ",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：コナンエアーが実現する圧倒的なROI",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "特許技術による高精度な異常検知（簡易診断・精密診断）を両立しており、決裁者（工場長や経営層）も即座に納得する圧倒的な費用対効果（ROI）を実現します",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IoTを活用した予知保全システムの導入を検討する際、経営層や工場長の決裁を得るために欠かせないのが「ROI（投資対効果）」の算出です",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、ワイヤレス振動計コナンエアーを導入した場合の実践的なコスト削減効果、人手不足を解消する巡回点検の自動化、そして既存システムとの連携による投資の最適化について解説します",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、これまで「1日1回」行っていた目視や聴診による点検を「1週間に1回」や「1ヶ月に1回」へと大幅に削減できます",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "浮いた莫大な人件費と工数を、根本原因の解析や状態基準保全（CBM）の計画立案など、より付加価値の高い保全業務へシフトさせることが、最大のROI向上につながります",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "コナンエアーによる早期検知でこれらの「機会損失」を未然に防ぐこと自体が、導入コストを瞬時に回収する強力な投資対効果となります",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "※免責事項：本記事に記載されたコスト削減効果やROIのフレームワークは一般的な指標です",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIとは？仕組み・導入5ステップ・費用相場・ROI算出法を体系解説【2026年版】 | OptiMax AI情報",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIとは？仕組み・導入5ステップ・費用相場・ROI算出法を体系解説【2026年版】",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIの定義から振動解析・電流解析・温度監視の仕組み、導入5ステップ、費用相場500万〜3,000万円の内訳、ROI算出方法まで体系的に解説",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIの費用相場とROI算出方法",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AI導入の成功事例｜業界別の効果実績",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "導入費用とROIの目安を具体的な数字で確認したい",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "状態基準保全（Condition Based Maintenance）にAIを組み合わせることで、製造業のダウンタイムを大幅削減し保全コストを最適化する方法を、ISO規格や市場データとともに紹介します",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "オムロンの保全ソリューション事例によると、予防保全から予知保全への移行で保全工数が約30%削減された実績があります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "両手法を組み合わせることで、単一手法より検出精度が15〜20%向上するとの報告もあります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "OxMaint社の技術レポートによれば、AI温度監視による故障予測精度は85〜95%で、電気系統の接触不良検知では従来手法の3倍以上の早期検出が可能です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "単一手法で始めてデータが蓄積されたら、2つ目の手法を追加するのがコストと効果のバランスが良い進め方です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "「小さく始めて、成果を見せてから広げる」",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "最も効果が見えやすい重要設備1〜3台からパイロットを実施し、ROIを実証した上で予算を確保するアプローチが、成果を出す企業の共通パターンとなっています（Japan IT Week、2026年調査）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 5: 全社展開と継続改善（6ヶ月〜）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンタイム削減率：30%以上",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "不要な機能を先に作るリスクを減らすため、発注前に対象範囲を3段階程度に分け、各段階の費用と効果を確認しておくとよいです",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、無理に標準機能へ合わせて現場の入力が定着しないと、後から追加開発や運用改善の費用が発生します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "センサーを増やすほど月額の通信・保存・分析費も増えるため、重要度の高い設備から始めると費用対効果を確認しやすいです",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小さな対象範囲で検証してから、効果を確かめつつ広げます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "対象設備を選び、PoCで現場運用と効果の両方を検証します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "PoC後は、管理項目と本番環境を用意し、展開範囲を段階に分けて効果を確かめます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "●AI予知保全開発費用は、小規模500万〜1,500万円、中規模1,500万〜5,000万円、大規模5,000万円〜1億円以上が目安です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "開発費用の相場｜大規模、中規模、小規模",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "小規模なAI予知保全では、少数設備のデータ取込、簡易異常検知、ダッシュボード、アラート通知などに絞ることで、500万円〜1,500万円程度が目安になります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "この規模は、まずPoCとして予知保全を試したい、特定設備の異常傾向を可視化したいケースに向いています",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "中規模では、複数設備、センサーデータ連携、異常検知モデル、保全履歴管理、アラート、ダッシュボード、外部連携などを含み、1,500万円〜5,000万円程度が一般的です",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "この規模になると、現場で継続利用できるAI予知保全システムになります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な場合は、複数工場、全設備監視、高頻度データ、故障予測、保全計画連携、MES・SCADA連携、継続学習基盤などを含み、5,000万円〜1億円以上になるケースもあります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "この規模では、単なる異常検知ではなく、企業全体の設備保全や生産性向上を支えるAI基盤としての役割を持つようになります",
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の基幹システム開発のポイント",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な刷新が必要な",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略立案から老朽システムのクラウド刷新、大規模基幹統合まで対応し、データ活用経営とコスト削減を実現します",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模開発の実績多数",
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "pass": 3
+   },
+   {
+    "quote": "数千万円規模の全社システムをいきなり導入し、想定したROIが出ずにプロジェクトが頓挫するケースは後を絶ちません",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "CTセンサー1台2,000〜2万円と比較的安価で、小規模なパイロットに適しています",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "パイロット規模であれば500万円未満で開始可能です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全AIの費用相場とは、IoTセンサー・エッジ機器・AIプラットフォーム・導入支援を含めた総コストのことで、工場規模によって500万〜3,000万円の幅があります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "以下に規模別の目安を示します",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模（設備10台）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "中規模（設備50台）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模（設備100台以上）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ある自動車部品メーカー（従業員200名・設備50台）の試算です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品製造｜1,800台規模のIoT展開で突発故障ゼロを達成",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "複数拠点・複数設備種別を同一プラットフォームで管理する大規模事例です",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模展開の鍵は、パイロット拠点で構築した運用フローを「他拠点が真似できるテンプレート」に落とし込んだ点にあります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "マルチエージェント・RAG・ファインチューニングを用いた大規模論文分析の研究に従事",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "予防保全システムの費用は、導入方式や設備・拠点の規模で変わります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "個別開発は小規模で300万〜700万円程度、中規模で700万〜1,800万円程度です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な複数工場展開やスクラッチ開発では1,800万〜4,000万円以上が目安になります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な個別開発では、1拠点の重要設備を対象にします",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "中規模では、複数ラインの設備階層や部品在庫に加えて、承認、権限、通知を含みます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な個別開発は2〜4か月、中規模は4〜9か月が目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "複数工場やAIを含む大規模開発は、9〜18か月以上が目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "設備規模と接続・運用要件をそろえると見積もり条件を比べやすくなります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "設備台数・拠点数・データ量による規模の違い",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "設備構成と拠点数、データ量が設計や運用の規模を左右します",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "費用の差は、設備台数や拠点数、データ量による規模と、連携やセキュリティ、可用性の要件から生じます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模に早く始める場合は、サーバー購入や運用担当を抑えやすいクラウドが有利になりやすいです",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "個別開発は小規模で300万〜700万円、中規模で700万〜1,800万円、大規模で1,800万〜4,000万円以上が目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は、設備や拠点の規模に加えて、センサーや連携、データ移行の条件で変わります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "中小規模で手軽に試すなら、ノーコードで使える予測分析ツール",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "多拠点をまとめたいなら、クラウドで統合できる大規模基盤",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "規模の大きい運用に向きます",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "専任の分析担当を置けない中小規模の工場",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "導入規模が大きくなりやすいのも、この層の特徴です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクの規模変動か、個別見積もりです",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "上から下へ向かうほど、想定する企業規模と導入の重さが上がります",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション（規模で変動）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模プロジェクト・見積もり制",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "AI予測を手軽に試したい中小企業や、専任の分析担当を置けない現場に向きます",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "価格はサブスクで、規模によって変わる形です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "：専門の運用体制が前提になりやすく、小規模な工場には機能が過剰です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "保全だけでなく生産全体のDXを大規模に進めたい大企業に向きます",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "設備の状態に加えて対処策まで示す処方的な保全と、多拠点での大規模実績を強みとします",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は大規模プロジェクトの見積もり制です",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "「導入効果が分からず、大規模な投資に踏み切れない」",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは生産ラインの中でターゲットを絞って、予知保全システムの取り組みを始め、大規模に展開しても効果が得られると分かった時点で、工場全体の導入を進めると良いのではないでしょうか",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は重電メーカーとして過去、何度もこのような生産設備に絡む大規模なインフラ導入を行った実績をもっています",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全は中小・中堅企業でも導入しやすくなりつつある",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "生産性向上による売上改善効果",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "特に、中小・中堅企業では、予知保全までできていない工場が多いのが現状です",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "たとえば、これまで「1日1回」行っていた目視や聴診による点検を「1週間に1回」や「1ヶ月に1回」へと大幅に削減できます",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "多くの汎用機械において、故障して設備が停止する「3?6ヶ月前」に異常の兆候（トレンドの変化）を検知できれば、部品の手配や計画的なメンテナンスに十分な余裕が生まれます",
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "pass": 3
+   },
+   {
+    "quote": "PoCから本番稼働まで6〜12ヶ月、全社展開まで含めると18〜24ヶ月が標準的なタイムラインとなります",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: 現状把握と対象設備の選定（1〜2ヶ月）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2: PoC設計とパイロット実施（2〜4ヶ月）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 3: 本番環境構築とシステム統合（2〜3ヶ月）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 4: 運用定着と人材育成（3〜6ヶ月）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 5: 全社展開と継続改善（6ヶ月〜）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PoCの期間は2〜4ヶ月が標準で、最初の1ヶ月でセンサー設置とデータ収集、残りの期間でAIモデルの学習と検証を行います",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "12〜18ヶ月で投資回収が可能",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "（投資回収期間: 約4ヶ月）",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "正常データ・故障データの蓄積が不足：AIモデル学習には最低3〜6ヶ月分の正常稼働データが必要",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から効果実感まで約6ヶ月、投資回収は14ヶ月で完了しました",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "現場オペレーターの教育に3ヶ月を投下",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "重要設備1〜3台のパイロットから開始：3〜6ヶ月でROIを実証してから展開",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PoCの最初の1ヶ月はデータ品質の検証に充てる",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "パイロット500万円未満から始めて12〜18ヶ月で投資回収を狙う",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は0円、1事業所あたり月額は12万円で、税抜・年間契約です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "同サービスのAI機能付きプロフェッショナルプランは、初期費用0円、1事業所あたり月額21万円で、税抜・年間契約として公開されています（出典: 設備保全総合研究所、2026年8月確認）",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間は、要件定義から受け入れまで2〜4か月程度です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP・MES・購買システムとのAPI連携まで含めると、700万〜1,800万円程度、4〜9か月程度が目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "履歴移行やBIに加えて、AIモデルや監査ログまで一体化すると、1,800万〜4,000万円以上、9〜18か月以上になる可能性があります",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "期間は3〜6か月程度で、画面表示や異常検知も検証の対象に含まれます",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な個別開発は2〜4か月、中規模は4〜9か月が目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "複数工場やAIを含む大規模開発は、9〜18か月以上が目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "重要設備数台を対象としたIoT・AIのPoCは、センサーやゲートウェイ、画面表示、分析を含めて300万〜800万円程度、3〜6か月程度が一つの目安です",
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月からのスターターパック200万円〜（税別、公開している製品の例）",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月から試せるスターターパックもあります",
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "5秒以上の設備エラーが月30件以上も発生していた ライン停止時間が1ヶ月に1時間半以上もでていた",
+    "url": "https://smartf-nexta.com/archives/1530",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、精度の最適化には導入後数ヶ月から1年以上の運用期間が必要な点は変わりません",
+    "url": "https://www.smartmat.io/column/production_management/8212",
+    "pass": 3
+   },
+   {
+    "quote": "また、運用開始後に故障診断やアラートの精度に課題が見つかるケースもあり、判明するまでに数ヶ月から1年以上かかることも少なくありません",
+    "url": "https://www.smartmat.io/column/production_management/8212",
+    "pass": 3
+   },
+   {
+    "quote": "日常点検や3ヶ月・半年・1年定期点検などがこれに該当する訳ですが、定期的にメンテナンスや部品交換を行うことで、重大な事故を未然に防ぐことができます",
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_04.html",
+    "pass": 3
+   },
+   {
+    "quote": "日常点検や3ヶ月、半年、1年などの定期点検などがあります",
+    "url": "https://www.techs-s.com/media/show/26",
+    "pass": 3
+   },
+   {
+    "quote": "第1ステップ（1〜3ヶ月）：設備台帳の整備",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "第2ステップ（3〜6ヶ月）：記録の習慣化",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "第3ステップ（6〜12ヶ月）：データ活用と改善サイクル",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "まず第1フェーズ（1〜3ヶ月）で設備台帳を整備し重要設備から登録します",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "次に第2フェーズ（3〜6ヶ月）で現場での記録入力を習慣化します",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に第3フェーズ（6〜12ヶ月）で蓄積データを活用した保全KPIの分析・改善サイクルを確立します",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な設備台帳の登録と点検記録の開始まで1〜3ヶ月が目安です",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "現場での記録入力が安定するまでに3〜6ヶ月、データを活用した改善サイクルが機能するまでに6〜12ヶ月を見込むと現実的です",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "pass": 3
+   },
+   {
+    "quote": "また契約期間も合わせてチェックしておきましょう",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "多くのサービスが最低契約期間を「1年」としています",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間が長いと途中で方針転換ができないので注意が必要です",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "長期的な費用がいくらになるのか、価格改定履歴・契約期間もしっかりとチェックしておきましょう",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "また最低契約期間半年、データを自由に管理・移行可能、毎月アップデートを実施など、ユーザーのためを思った運用を実施しています",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間：半年間",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間：1年間",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間：1年",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間：不明",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間：月単位",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間：非公開",
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "pass": 3
+   },
+   {
+    "quote": "：設備停止時間30%削減、保全コスト20%削減を12ヶ月以内に達成",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 1: 現状分析と基盤づくり（導入から3ヶ月）",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 2: データ蓄積と予兆パターン発見（4-9ヶ月）",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 3: 高度な予知保全システムの実装（10-12ヶ月）",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "短期効果（導入から6ヶ月）",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "中期効果（導入から12-18ヶ月）",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "ROI：333%（回収期間：3.6ヶ月）",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な効果は導入から3-6ヶ月程度で現れ始めます",
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "予知保全 AIとは？仕組み・導入5ステップ・ 費用相場 ・ROI ... — 予知保全 AIとは？仕組み・導入5ステップ・ 費用相場 ・ROI ... optimax.co.jp https://www.optimax.co.jp > predictive-maintenance-ai",
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ripla_business/n/na3192dffa11e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikan-modern.com/kind/cmms.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/10033/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.uis-inf.co.jp/products/dins/column/column_maintenance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/1530",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/equipment-maintenance-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartmat.io/column/production_management/8212",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/dx/column/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/column/detail/fa_04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eqptmainte-base.com/knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.nuro.jp/column/122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/365/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/equipment-maintenance-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/110215",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://setsubihozen-hikaku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/techtips/quick/4193/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thk.com/brand/omniedge/jp/useful/content_6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navida.ne.jp/snavi/101625_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://atfields.com/blog/yochihozen/13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.nuro.jp/column/116/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conexio-iot.jp/blog/34",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renue.co.jp/posts/equipment-maintenance-ai-predictive-anomaly-iot-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/predictive-maintenance-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.samsongroup.com/en/news/in-focus/details/news/ai/%E4%BA%88%E7%9F%A5%E4%BF%9D%E5%85%A8%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A8%E3%81%AF%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%84%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "設備保全・予知保全システム 費用 相場 万円",
+   "results": [
+    "https://note.com/ripla_business/n/na3192dffa11e",
+    "https://www.kikan-modern.com/kind/cmms.html",
+    "https://conanair.com/japan/predictive-maintenance-guide/roi-calculation.html",
+    "https://www.optimax.co.jp/ai-information/predictive-maintenance-ai/",
+    "https://www.ripla.co.jp/blog/system/predictive-maintenance-cost/",
+    "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "https://www.itreview.jp/categories/facility-maintenance-management",
+    "https://genbacompass.com/blog/plantear/003-low-cost-predictive-maintenance-guide",
+    "https://losta.co.jp/labo/ai-predictive-maintenance-cost/"
+   ]
+  },
+  {
+   "query": "設備保全・予知保全システム 製造業 導入 費用",
+   "results": [
+    "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "https://www.kikan-modern.com/kind/cmms.html",
+    "https://metoree.com/categories/10033/",
+    "https://www.uis-inf.co.jp/products/dins/column/column_maintenance.html",
+    "https://smartf-nexta.com/archives/1530",
+    "https://kaminashi.jp/media/equipment-maintenance-system",
+    "https://www.smartmat.io/column/production_management/8212",
+    "https://www.brains-tech.co.jp/impulse/blog/introduction-of-equipment-maintenance-system/",
+    "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://renue.co.jp/posts/equipment-maintenance-ai-predictive-anomaly-iot-guide"
+   ]
+  },
+  {
+   "query": "設備保全・予知保全システム 失敗 デメリット",
+   "results": [
+    "https://smartf-nexta.com/archives/1530",
+    "https://www.cybernet.co.jp/dx/column/04/",
+    "https://www.fujielectric.co.jp/about/column/detail/fa_04.html",
+    "https://www.eqptmainte-base.com/knowledge/",
+    "https://biz.nuro.jp/column/122/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/365/",
+    "https://www.uis-inf.co.jp/products/dins/column/column_maintenance.html",
+    "https://www.techs-s.com/media/show/26",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4032/",
+    "https://factory.star-sakurai.com/post/e-musen-20250328"
+   ]
+  },
+  {
+   "query": "設備保全・予知保全システム 比較 主要企業",
+   "results": [
+    "https://metoree.com/categories/10033/",
+    "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-hikaku/",
+    "https://kaminashi.jp/media/equipment-maintenance-system",
+    "https://mentena.biz/insight/equipment-maintenance-system/",
+    "https://mono.ipros.com/cg2/%E4%BF%9D%E5%85%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://www.aspicjapan.org/asu/article/110215",
+    "https://note.com/mirocrea/n/n9828bc2f7e42",
+    "https://setsubihozen-hikaku.com/"
+   ]
+  },
+  {
+   "query": "設備保全・予知保全システム 中堅企業 導入事例 効果",
+   "results": [
+    "https://manufacture.it-trend.jp/predictive-maintenance/article/yochi-hozen-jirei/",
+    "https://www.fsi.co.jp/techtips/quick/4193/",
+    "https://www.fujielectric.co.jp/about/column/detail/fa_05.html",
+    "https://data-insight.biz/blog/2025-08-01-predictive-maintenance-guide-manufacturing.html",
+    "https://www.eqptmainte-base.com/knowledge/",
+    "https://www.thk.com/brand/omniedge/jp/useful/content_6.html",
+    "https://www.navida.ne.jp/snavi/101625_1.html",
+    "https://atfields.com/blog/yochihozen/13",
+    "https://yachiyo-sol.com/library/setsubi-hozen-system-erabi/",
+    "https://monoscope-media.com/predictive-maintenance-applications/"
+   ]
+  },
+  {
+   "query": "設備保全・予知保全システム 導入期間",
+   "results": [
+    "https://www.uis-inf.co.jp/products/dins/column/column_maintenance.html",
+    "https://www.fujielectric.co.jp/about/column/detail/fa_04.html",
+    "https://biz.nuro.jp/column/116/",
+    "https://www.eqptmainte-base.com/knowledge/",
+    "https://www.smartmat.io/column/production_management/8212",
+    "https://www.cybernet.co.jp/dx/column/04/",
+    "https://www.thk.com/brand/omniedge/jp/useful/content_6.html",
+    "https://conexio-iot.jp/blog/34",
+    "https://genai-ai.co.jp/ai-kanri/blog/predictive-maintenance/",
+    "https://renue.co.jp/posts/equipment-maintenance-ai-predictive-anomaly-iot-guide"
+   ]
+  }
+ ],
+ "missing": {}
+}

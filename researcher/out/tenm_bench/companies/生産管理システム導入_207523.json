@@ -1,0 +1,2139 @@
+{
+ "name": "生産管理システム導入",
+ "en": "production management system implementation cost Japan",
+ "aliases": [
+  "生産管理システム 費用",
+  "生産管理システム 導入"
+ ],
+ "context": "基幹",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:51:01.379801+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "2.提供形態で考える生産管理システムの費用相場",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "233万円～",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000円～100万円",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "10～1,000万円",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発による独自構築では233万円以上、パッケージソフトではクラウド型が月額千円から100万円、オンプレミス型が10万円から1,000万円程度が費用相場です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムは、100万円未満のものから1,000万円以上のものまでさまざまです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "76製品の中でも750,000円から50,000,000と金額の幅が広く、装備する機能やカスタマイズの有無などによっても料金が異なることが分かります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型の相場は、2,000,000円、クラウド型の相場は、年間料金600,000円、パッケージ型の料金については公式サイト記載がなく見つかりませんでした",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、クラウド型では26万円台～5千万円までと金額の幅が広かったため、予算や用途に合わせてシステムを選ぶ必要があります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【調査】生産管理システム23サービスの費用・料金比較表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型7サービスの料金表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ／オンプレミス型16サービスの料金表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "〜100万円程度",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜1,000万円程度",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は500,000円程度、月額費用は50,000円程度",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は1,000,000円～3,000,000円程度、月額費用は30,000円程度",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "この目安は、ここまで調査した生産管理システム23サービスの料金を確認し、公開されている最も安い価格帯をもとに算出しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 製造業での生産管理システム導入の初期費用・選び方",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用36万円〜・月額5万円〜",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入費用が高額化する背景には、開発工数や保守体制など5つの主な要因があります",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "小さな機械でも1,000万円ほどかかってしまうのは、このプロセスがあるからですよね",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの人件費は低くても年収600〜1000万円クラス",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "例：基本システム500万円＋カスタマイズ300〜1000万円＝合計800〜1500万円",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "* サーバー100〜500万円",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク機器50〜200万円",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策100〜300万円",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "設置工事・設定費用50〜100万円 |",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "|ランニングコスト例 |* 電気代・設備費20〜50万円/年",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "保守費用 3〜5万円/月 |",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型の場合は0円〜30万円程度が目安",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "、オンプレミス型は300万円〜2,000万円程度が相場",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型では月額5,000円〜5万円程度が相場",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用の相場は無料〜30万円程度",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入費用と導入期間の目安【2026年版】｜Prevision 生産管理システム",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入費用と導入期間の目安【2026年版】",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期30万〜100万円程度／月額3万〜15万円程度",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期200万〜800万円程度／年間保守10万〜30万円程度",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜数億円（開発期間6ヶ月〜数年）",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員10〜30名で初期100万〜300万円程度、30〜50名で初期200万〜500万円程度",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりの前に、次の5点を整理しておくと検討が早く進みます",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 【提供形態別】生産管理システムの費用相場",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "0〜100万円程度",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "3万〜15万円程度",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "800万〜1500万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入費用の3割削減は十分に可能",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "150〜200万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "200〜500万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "200〜300万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "100〜200万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "50〜100万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "800〜1500万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "30〜80万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "20〜60万円",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、標準機能と自社業務のギャップをどう埋めるか、費用と回収をどう見積もるか、導入で陥りがちな5つの失敗パターンと回避策、クラウド型が中小製造業に向く理由まで網羅的に整理します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "この2つを混ぜると、本来カスタマイズが不要な項目まで見積書に載ってしまいます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "「カスタマイズに50万円かかる」という金額の絶対値ではなく、",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば手作業が月5時間残るのを50万円で解消するなら、時給2,000円換算で年12万円の削減に対して50万円の支出です",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型なら環境構築費20万円・月額3万円のスモールプランから始められ、運用負担もベンダー側が引き受けてくれます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "SaaSベンダーの方",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発会社やアプリ開発会社を探すなら比較・見積もりの【発注ナビ】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "海外展開におすすめの生産管理システム",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "確実に自社に合った生産管理システムを手に入れるなら、システム開発による導入が一番おすすめです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "十分な資金を持ち合わせていない企業や、初期コストを抑えたい企業におすすめです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のページでは生産管理システムでおすすめの開発会社を紹介しています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの開発でおすすめの開発会社10社【最新版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のシステム開発でおすすめの開発会社10社【最新版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援でおすすめのシステム開発会社10社【最新版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "のおすすめ企業はこちら",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ITコンサルティングでおすすめのシステム開発会社34社【2026年版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceの導入支援・改修でおすすめのシステム開発会社22社【2026年版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "RPA開発でおすすめのシステム開発会社17社【2026年版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "リバースエンジニアリングでおすすめのシステム開発会社4社【2026年版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のシステム開発でおすすめの開発会社15社【2026年版】",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ生産管理システム徹底比較",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【76社】生産管理システムを徹底比較",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【76製品】生産管理システムを徹底比較",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【76製品】生産管理システムを徹底比較_top",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムはベンダーから選ぶべき？選び方まとめ",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを徹底比較",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ2選を詳しく見る",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用を抑えるのであれば、クラウド型のパッケージソフトがおすすめです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【生産管理システム76製品比較】",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめシステム2選",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス比較",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "【比較表】生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの生産管理システムを価格帯別で紹介し、システムの費用対効果を高める方法もわかりやすく解説しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "【調査】生産管理システム23サービスの費用・料金比較表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "【比較の手間を軽減】この記事のおすすめサービス資料をまとめて見る",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、クラウド型サービスの発展により、中小企業でも比較的低コストで高機能なシステムを導入できるケースが増えています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、気になるサービスについては公式サイトから見積もりや相談を依頼することをおすすめします",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムには大きく2つの料金モデルがあり、それぞれおすすめの企業が異なります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型は、インターネット経由で利用する生産管理システムで、初期費用を抑えて導入できることが多く、月額料金も比較的安価に設定されています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "サーバー保守やアップデートを自社で行う必要がないため、運用負荷を軽減したい企業におすすめです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業におすすめの、100万円以内で導入できる生産管理システムを紹介します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "2026上半期 資料請求数ランキング1位",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "詳細を確認するためには、パッケージの導入とそのカスタマイズを組み合わせたプランを持っているシステムベンダーと相談することで明確になるでしょう",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスで独自システム構築を考えた場合は、開発の依頼はSIerやシステムベンダーと呼ばれる業者に行うことになります",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "比較検討の方へ",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "比較するほど際立つ12の理由",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "もっとも高額なのは、大手ベンダーが提供する統合型システムです",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な提供企業の一例として、SAPやOracleが挙げられます",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他、大手国産ベンダーの統合型システムもこれにあたります",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "中価格帯の生産管理システムは、中堅ベンダーが提供するパッケージ型が中心です",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績が豊富 |* 一部機能に制限がある",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー依存度が高い",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり段階で「導入時・運用中・解約時にかかる費用」をベンダーに具体的に確認しておけば、安心して契約を進められます",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型システムには、比較的安価な月額費用はかかり続けます",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした費用含めて比較すると、コスト面ではクラウド型システムが優位といえます",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用比較例（3年間）",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入時にコストを抑えるには、同じ要件を複数ベンダーに提示し、見積もりを比較します",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "隠れたコストも含めて比較",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "こんな方におすすめ",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムの比較ポイント",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーロックインとは？レガシーシステム脱却を阻む要因",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型の生産管理システムを導入する場合、オンプレミス型と比較すると初期費用の部分が大きく異なります",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、使用している間はずっと使用コストを支払い続けなければいけません",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "書類と役員情報の不適合、証明証は3ヶ月以内の発行ではないなどがミスと判断できます",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "●月額支払いで始めやすい",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "保守費用は年間契約となるケースが多く、追加のカスタマイズを行う場合は別途費用が発生します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドの生産管理システムを利用する場合、多くが期間・使用量・使用人数による課金制となっており、月額や年額といった単位で支払いを行います",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間が短い",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "契約解除料：中途解約に伴う違約金や残リース料の一括支払い",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間の短縮にもつながります",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入費用と導入期間の目安【2026年版】｜Prevision 生産管理システム",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入費用と導入期間の目安【2026年版】",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "の導入費用と導入期間の目安を、費用を左右する要因、標準的なスケジュール、補助金の活用、無料貸出サービスの順に解説します",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜数億円（開発期間6ヶ月〜数年）",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入期間の目安",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入は、検討開始から本格稼働まで",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6ヶ月程度",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "3〜4ヶ月目",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "5〜6ヶ月目",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "申請から採択まで1〜2ヶ月程度かかるため、スケジュールに余裕を持って準備してください",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を活用する場合は導入期間が通常より1〜2ヶ月長くなる場合があります",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間の目安は",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入費用は、利用人数・カスタマイズの範囲・オプション・データ移行の内容で決まり、導入期間は3〜6ヶ月程度が目安です",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月無料貸出サービスも実施中です",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Prevision／導入費用／導入期間／生産管理システム／受注生産／パッケージ型／デジタル化・AI導入補助金／無料貸出／中小製造業／導入スケジュール",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1〜3か月程度",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6か月程度",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "数か月〜1年以上",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用が高額になる理由は、要件定義から本番稼働まで複数のエンジニアが長期間関わるためです",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "交付決定前の契約・発注は対象外のため、2〜3か月の余裕が必要",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "外部コンサルが業務を理解するためには、ヒアリングだけで何ヶ月もかかります",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6ヶ月で成功事例ができれば、他部門への展開時の説得力が増します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "は環境構築費20万円と月額3万円×12ヶ月＝36万円で、合計56万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "このサイクルを6ヶ月〜1年継続すると、見積精度・案件採算・利益体質が改善に向かいます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6か月で成功事例ができれば、他部門へ展開するときの説得力が増します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入費用と導入期間の目安【2026年版】（Previsionでの費用感はこちら・smart-go.net）",
+    "url": "https://www.improbe.jp/column/seisan-kanri-hiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "対策は、稼働後の3か月を調整期間として工数を確保しておくことです",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働〜3か月",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "6〜12か月",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "6か月以降に現れる効果が、投資回収の本体です",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "集まらなければ粗利が出ず、前節の6か月以降の効果に到達できません",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月を調整期間",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "効果は時期によって現れる場所が違い、投資回収の本体である案件別の粗利把握は6か月以降に来ます",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働〜3か月で転記・探し物の削減と帳票発行の時間短縮、3〜6か月で進捗の見える化と納期回答の精度向上、6〜12か月で案件別の粗利把握と赤字案件の特定が現れます",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収の本体は6か月以降の効果なので、そこへ到達するまで現場の入力が続いていることが前提になります",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働から数か月経つと、品目、工程、標準時間、仕入単価が実態とずれ始めます",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "入力は、絞った範囲で現場が3か月続けられる粒度に下げる",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "3か月回ってから次の範囲を足す",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "3か月回して",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "絞った範囲が3か月回ってから、次の範囲を足す順番です",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けに、AI内製化（初期構築15万円＋月額10万円・90日）と、 そのあとのAI顧問（月額5万円・6ヶ月契約から）を提供しています",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月の伴走支援",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "製品を造るための材料や部品の購入・支払いを管理する機能",
+    "url": "https://it-trend.jp/production_management/article/comparison-system",
+    "pass": 3
+   },
+   {
+    "quote": "Excel工程表からの脱却を3〜6ヶ月で実感でき、効果が見えてから次のフェーズに進める段階的導入が可能です",
+    "url": "https://www.improbe.jp/column/chusho-ranking.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果と導入期間：",
+    "url": "https://evort.jp/categories/sme-production-management",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型のように初期投資や導入期間を抑えやすい提供形態もあるため、導入にかかる期間とあわせて比べます",
+    "url": "https://evort.jp/categories/sme-production-management",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間とコスト",
+    "url": "https://evort.jp/categories/sme-production-management",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型システムは導入期間の短縮化が図れる点で、有効な選択肢となっています",
+    "url": "https://evort.jp/categories/sme-production-management",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入から約3〜6か月を目処に、その効果を測定することをおすすめします",
+    "url": "https://smartf-nexta.com/archives/1550",
+    "pass": 3
+   },
+   {
+    "quote": "目的を定めず導入すること自体を目的としてしまうと、要件の抽出やシステム選定に多くの工数がかかり、コストの増加や導入期間の長期化を招きかねません",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "導入期間が短く、コストを抑えての導入が可能",
+    "url": "https://hnavi.co.jp/knowledge/blog/production_management_system/",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "商品の生産を効率良く行うために、生産管理システムを導入したものの、システムの機能が自社に合わないものだったというケースがあります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズ性の高い生産管理システム",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、カスタマイズ性に欠けるものが多いため、機能面を吟味して選ばないと失敗するリスクが高くなります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "それらのデメリットに対応できるなら、オンプレミス型のパッケージソフトを購入する方法も1つの手段です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニケーション能力が高いか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のシステム開発会社だと、エンジニアのレベルが高いケースが多く、高品質のシステムを作ってもらいやすいです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "同業界・業種での開発実績が多いシステム開発会社に依頼したほうが、失敗するリスクが低いです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "●コミュニケーション能力が高いか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "もしすり合わせの段階で自分たちの意図を相手が正確に汲み取ってくれなかったら、思ったものと違うシステムが完成するリスクが高いです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "依頼の話を持ちかける際に、相手の受け答えの仕方からコミュニケーション能力が高いかどうかで判断しましょう",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "不良率、ロス率が高い、ムラがある",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "どれか1つでも当てはまることがあれば、課題の解消を目的として、生産管理システムの導入を進めていきましょう",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "下請けを使わず自社開発を行っているか、中長期の保守に対応できる安定した経営状況か、同業界での実績が豊富か、そして窓口のコミュニケーション能力が高いかの4点です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに同業種での豊富な実績は開発の失敗を防ぎ、的確なコミュニケーションは要件の齟齬をなくします",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入の目的や必要とする機能を決めて、質の高いシステム開発ができる依頼先を選定していきましょう",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "＜配合業者向け＞失敗しないための生産管理システム選び",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜加工業者向け＞失敗しないための生産管理システム選び",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜組立業者向け＞失敗しないための生産管理システム選び",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムのメリットとデメリット",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入の失敗例｜成功するポイントは？",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入で失敗する製造業は多い？生産管理システムとどちらを選ぶべき？",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【部署別】製造業のよくある悩み・課題",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【部署別】製造業のよくある悩み・課題_top",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における設計部の課題",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における製造部の課題",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における営業の課題",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージは、その名の通りすでにできあがっているパッケージを導入することで、導入コストを抑えることはできますが追加コストがかかることが多いというデメリットがあります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスは、ハードウェアやソフトウェアを自社で用意する必要があるため、パッケージ・クラウドより初期費用が高いという特徴があります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "【課題別】生産管理システム",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入で失敗しないようにするには？",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの価格相場とは？価格を決める要素と費用対効果を高めるポイント",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの生産管理システムを価格帯別で紹介し、システムの費用対効果を高める方法もわかりやすく解説しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "導入の失敗を避けるためにも、まずは各サービスの資料をBOXILでまとめて用意しましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの費用対効果を高めるポイント",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "課題を明確にし、解決につながるシステムを洗い出す",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にとって費用対効果の高いシステムを選ぼう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業ごとの要望や課題によっては、別途見積もりが必要となる場合もあります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型は、自社でサーバーをはじめとするインフラから用意する必要があるため、初期費用が高いです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "ATWILL Platformは、ローコード開発と容易な外部連携により、高い俊敏性を実現します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "会計、販売、生産などの業務特化型、および卸売・建設などの業界特化型オファリングで多様な課題に対応可能です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを導入する際は、費用対効果を意識しましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "単に安いシステムを選ぶのではなく、投資に見合う効果を得られるシステムを選ぶことで、費用対効果を高められます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを導入する目的を明確化し、現状における課題を把握しましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、在庫管理の効率化、生産計画の精度向上、原価管理の徹底など、具体的な課題を洗い出します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、それらの課題解決に役立つ機能を備えたシステムを選びましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業によくある生産管理の課題解決に特化したシステムを、生産管理システムといいます",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムは、製造業における「モノの流れ」と「情報の流れ」を統合的かつ総合的に管理するシステムで、効率的かつ精度の高い生産管理を実現し、生産における業務フローを最適化します",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "1．自社の課題や導入目的を明確化する",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社にはどのような課題がありシステムではどの課題をどのように解決したいのかを、生産管理システムの選定をする前に整理しておかなければなりません",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題によっては、システムでは解決できないものもあるかもしれませんので、生産管理システムの豊富な種類の中から、どの機能を必要としているのかを明確にしておきましょう",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "ペーパーレス化システム導入のメリット・デメリットやツールの選び方",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "市販パッケージが会社の運用に合わない",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格の安さも大切ですが、お客様の要望を基に隠された問題点を引き出せなければ、価値のあるWebサイトは制作できません",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムの保守、運用に対するお客様の不安・不満があるかと思いますが、他社が開発したシステムでも、徹底的に分析し迅速に対応いたします",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "対応のスピードに不満がある",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの課題に合った使い方",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ高い？生産管理システムが高額になる5つの理由",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー依存度が高い",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "いつでも解約可能 |* カスタマイズが限定的",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "解約時のコスト",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "しかし、5年や10年もの月日が経つと、社会全体の流れが大きく変わり、それに合わせてシステムも機能改善やアップデートを施していく必要があります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、システム開発会社の業績によっては、将来的に機能改善やアップデートが難しくなることもあります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムとオペレーションズリサーチの相乗効果",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理における効果的な人材育成戦略",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金とは、中小企業・小規模事業者の生産性向上を目的とした補助金です",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の向上や働き方改革、賃上げ、インボイス制度対応など国の方針に積極的に取り組む企業に対し、課題やニーズに合ったITツールを導入するための経費の半分～2/3を国が補助します",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、改善するにはどうすればいいか具体的な問題意識を持つことが求められます",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "状況と課題の分析と将来計画について改善するために、ITツールを採用した場合どんな効果が期待できるのか？マッチしているのかなどを審査されるのです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITツールを導入した結果、生産性の向上が見込めるかどうかが審査のポイントです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金2023公募要領では、「労働生産性の伸び率の向上について、１年後の伸び率が３％以上及び３年後の伸び率が９％以上の実現可能かつ合理的な生産性向上を目標とした計画を作成すること",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、国が推進するクラウド導入への取り組み、生産性の向上や働き方改革、国が推進する関連事業への取り組みなどが認められたら加点されるのです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "申請内容が生産性向上に寄与すると認められない",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "申請理由が生産性向上につながらないと判断されると採択されません",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるのは「導入ツールでは生産性向上ができない」「事業計画に根拠がない」ケースです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金はITツールを導入することで生産性向上ができるかどうか厳しくチェックされます",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "申請書に「導入しないと生産性向上の改善は厳しい」とはっきり記載したほうがいいでしょう",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助を受けたら生産性や売上の向上は見込めるとしてどの程度になるか数字で伝えてください",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの価格相場とは？価格を決める要素と費用対効果を高めるポイント",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの生産管理システムを価格帯別で紹介し、システムの費用対効果を高める方法もわかりやすく解説しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの費用対効果を高めるポイント",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にとって費用対効果の高いシステムを選ぼう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "部品マスタの事前登録なしで運用できるほか、データ取り込み機能により、入力ミスや発注漏れ、手配ミスを削減できるほか、資材調達の入力工数も大幅に削減できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "マスタごと・受注ごとに関連資料を登録・管理できるため、情報の社内共有に役立つほか、社内の状況を可視化することで、業務改善と作業効率の向上を図ります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "業種や生産形態に特化した専用システムを選択し業務適合率を向上",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムとは？ 製造現場の複雑な業務を統合的に管理し、生産性の向上と無駄の削減を実現するツールとして注目されているのが生産管理システムです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを導入する際は、費用対効果を意識しましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "単に安いシステムを選ぶのではなく、投資に見合う効果を得られるシステムを選ぶことで、費用対効果を高められます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、在庫管理の効率化、生産計画の精度向上、原価管理の徹底など、具体的な課題を洗い出します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "すでに生産管理システムを導入している場合は、既存システムの使いづらい点を洗い出し、新しいシステムで改善できることを確認しましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "使いづらい点を改善することで、業務効率が向上し、費用対効果の向上も期待できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のシステムを比較検討し、自社にとって本当に費用対効果の高いシステムを見つけてください",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "kintone導入事例 経理の重複計上のリスクが大幅に低減し、確認作業に要する工数が従来の約10分の1に削減",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスで独自システム構築を行う場合にコストの削減を目指すのであれば、要件定義で必要な機能を決めることが大切です",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務効率化、ペーパーレス化などの業務改善支援",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後も拡大するであろうiPad、iPhone、Android搭載のスマートフォンは、あらゆる分野で活用されていくかと思います",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムはなぜ高額になるの？費用の内訳と削減方法 | エムネットくらうど",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場改善ノウハウ",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムはなぜ高額になるの？費用の内訳と削減方法",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "用途や効果のヒアリングから始まり、設計、部品の製造・検査、ユニットの組み立て・検査、全体の組み立て・検査、テスト……多くの工程を経て機械が完成します",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型ならこの部分を大きく削減できますが、代わりに月額料金が継続的にかかります",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準レポートを活用し、外部連携は最小限に抑えるといった工夫により、導入費用や保守費用を削減できる可能性が高まります",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして投資回収期間は、人件費削減や業務効率化の効果を考慮し、おおむね2〜3年以内に回収できるかを目安に判断します",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型で初期費用削減",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "Devinによるレガシーマイグレーション｜AIで挑むシステム刷新とコスト削減",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーシステムと運用コストの関係とは？削減事例と見直し方を解説",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの機能により、各工程での作業効率が向上し、",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の向上や生産過不足の改善、そして経営判断の迅速化",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、生産現場のデータが一元化されるため、人為的ミスの削減や、現場の改善ポイントを迅速に特定することが可能です",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：生産管理システム・基幹システムの効果的な導入のために",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "を選び、生産性の向上やコスト削減といった効果を最大限に引き出すことが重要です",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略立案から老朽システムのクラウド刷新、大規模基幹統合まで対応し、データ活用経営とコスト削減を実現します",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社データセンターの廃止など、大幅なコスト削減",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用0円でコスト削減",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場の入力工数削減の効果も大きいため、費用対効果で判断します",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Prevision導入で期待できる効果と投資回収",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入後に得られる効果と比較して費用対効果を判断",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの導入企業で見られた主な効果を挙げます",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な改善例",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "外注費の削減",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間外注費を最大20%削減した事例あり",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "中小企業向け（特定の業種や生産方式に対応）",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、特定の業種にしか対応していない中小企業向けのシステムを中堅以上の企業に導入すると、複雑な業務に対応できません",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模から中規模向け生産管理システム",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の規模や業務の複雑さ、導入目的に合わせて「中小企業向け」「中堅以上の企業向け」「ERP対応型」の3つのタイプから選ぶ必要があります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の業種や生産方式に特化した中小企業向けのタイプから、複数の業種・生産方式に対応できる中堅企業向け、 tender、そして全社的な基幹システムをカバーするERP対応型の中堅以上向けタイプが存在します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、既存のパッケージソフトを利用する場合は提供形態やユーザー規模によって導入コストが大きく変動します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞生産管理システム導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞導入事例_top",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜中小企業編＞",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業に生産管理システムは必要？メリットについて",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に価格は、システムを利用する人数や管理する製品数や売上高、使う現場の数に比例して高くなる傾向にあります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が100名以上で複数部署で使用する場合と、現場で少人数で使用する場合とでは全く価格帯が異なります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け生産管理システムの相場は？",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、長期間利用した場合や利用規模が大きい場合は結果的に安く済む場合も",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発工程はシステムの開発会社によって決められていることが多いですが、開発の規模に応じて工程を選定することもあります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金とは、中小企業・小規模事業者の生産性向上を目的とした補助金です",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポイントは発行済株式の総数や出資価格の総額などの条件に当てはまる中小企業や小規模事業者などです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、総額2分の1以上を同じ大企業が所有している中小企業や小規模事業者、総額3分の2以上を大企業が所有している中小企業や小規模事業者なども当てはまるのです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "その方が役員総数の2分の1以上を占めている中小企業や小規模事業者も対象外です",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "他にも、すでに申告した直近過去3年分の各年や各事業年度の課税所得の年平均15億円以上の中小企業や小規模事業者も対象外になります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの企業規模別の価格目安",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの価格相場は、企業規模や必要な機能によって大きく異なります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "次の表は、企業規模別の一般的な価格帯をまとめたものです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能、大規模カスタマイズ可能、複数拠点対応",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、クラウド型サービスの発展により、中小企業でも比較的低コストで高機能なシステムを導入できるケースが増えています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ／オンプレミス型生産管理システムは、自社サーバーにシステムを導入して運用するタイプで、大規模な製造業でも利用できる拡張性の高さが特徴です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は数十万円〜数百万円以上と高額になることが多いですが、その分カスタマイズ性が高く、大規模な製造業や複雑な管理プロセスが必要な企業に適しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "料金は、導入範囲、システム規模、カスタマイズ量、必要なモジュール数、保守サポートの内容などによって大きく変動します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業におすすめの、100万円以内で導入できる生産管理システムを紹介します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業におすすめの生産管理システムを紹介します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "専任サポートスタッフによる電話サポートのほかに、訪問・オンラインサポートや無料講習会も実施しており、中小・中堅企業におすすめのサービスです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "は、中堅・中小企業向けのクラウド型基幹システムとして、販売や生産、購買、在庫、原価まで一連の業務を統合管理する国産ERPです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "販売管理システムをただの請求書発行システムで終わらせることなく、売上、仕入、在庫システムの連動による素早い経営分析を行えるように御社に合わせたオーダーメイドシステムとして構築いたします",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入企業の分布・業種・規模",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、それぞれの価格帯ごとの特徴と、向いている企業規模や用途を解説します",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "中規模工場や特定業種に適しています",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な町工場に向いています",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社にとっての「適正価格」を見極めるには、企業規模や必要な機能、運用体制を踏まえて総合的に判断することが大切です",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の適正価格目安",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下は企業規模ごとのおおよその費用感です",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "小規模企業（従業員10名以下）",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "中規模企業（従業員11〜50名）",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模企業（従業員51名以上）",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「年商に対する1%」をデジタル化予算とする考え方もあります",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の人数や年商規模と照らし合わせながら参考にしてください",
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の基幹システム開発のポイント",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、それぞれの企業のニーズや導入規模によって大きく変動する部分であり、",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "となっており、利用人数の規模などに応じて変動します",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、適切なシステム選択が必要であり、自社の規模や業態に合ったシステムを導入しないと、初期コストや運用コストが無駄になるリスクがあります",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な刷新が必要な",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略立案から老朽システムのクラウド刷新、大規模基幹統合まで対応し、データ活用経営とコスト削減を実現します",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模開発の実績多数",
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員10〜30名で初期100万〜300万円程度、30〜50名で初期200万〜500万円程度",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用の内訳（ライセンス費・導入支援費・教育費・データ移行費・ハードウェア費）や規模別の相場、予算別のおすすめ構成は、",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Previsionの費用は、企業規模・利用人数・オプション内容によって変わります",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者がITツールを導入する際に、費用の一部を国が補助する制度です",
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "生産管理システム の 導入コスト は高すぎる？ 費用 を3割削減 ... — 生産管理システム の 導入コスト は高すぎる？ 費用 を3割削減 ... improbe.jp https://www.improbe.jp > seisan-kanri-cost-reduction",
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入 の 失敗 と対策｜つまずく7つの原因と ... — 生産管理システム導入 の 失敗 と対策｜つまずく7つの原因と ... Factory Advance https://factoryadvance.jp > ブログ",
+    "url": "https://factoryadvance.jp/blog/411/",
+    "pass": 3
+   },
+   {
+    "quote": "導入 前に知るべき！ 生産管理システム の デメリット 6つ【必要 ... — 導入 前に知るべき！ 生産管理システム の デメリット 6つ【必要 ... SmartF https://smartf-nexta.com > 生産管理",
+    "url": "https://smartf-nexta.com/archives/1544",
+    "pass": 3
+   },
+   {
+    "quote": "【 生産管理システム導入 の 失敗 例あるある】 失敗 しないための ... — 【 生産管理システム導入 の 失敗 例あるある】 失敗 しないための ... 船井総合研究所 https://smart-factory.funaisoken.co.jp > factorydx-4424",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-4424",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム 導入 失敗 の原因｜使われなくなる4段階 — 生産管理システム 導入 失敗 の原因｜使われなくなる4段階 株式会社SalesDock https://www.salesdock.jp > ブログ",
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入 手順｜中小製造業の失敗しない7 ... — 生産管理システム導入 手順｜中小製造業の失敗しない7 ... Factory Advance https://factoryadvance.jp > ブログ > 経営戦略",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入 のフロー。選定方法や注意点も解説 — 生産管理システム導入 のフロー。選定方法や注意点も解説 株式会社 日立ソリューションズ西日本 https://www.hitachi-solutions-west.co.jp > denno > vol02",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a9525/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mnet.netkojo.biz/blog/entry-305.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikan-modern.com/kind/production.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/4954/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.improbe.jp/column/seisan-kanri-hiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/production_management/article/failure_case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/411/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/1544",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-4424",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/production-management-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/production_management/article/comparison-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/8357",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iosi.co.jp/2026/01/05/comparison-of-production-management-system-2026-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.improbe.jp/column/chusho-ranking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/221110.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/categories/sme-production-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/1550",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/service/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/pms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextep.jp/column/production-management-chusho",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide026_seisan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/production_management_system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/210916.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/system/production-management-system-dev-period-schedule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/1557",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生産管理システム導入 費用 相場 万円",
+   "results": [
+    "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "https://boxil.jp/mag/a9525/",
+    "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "https://mnet.netkojo.biz/blog/entry-305.html",
+    "https://www.kikan-modern.com/kind/production.html",
+    "https://www.onamae.com/business/article/32949/",
+    "https://it-ranking.com/ranking/production-management-system/",
+    "https://saas.imitsu.jp/cate-production-management/article/l-2424",
+    "https://www.improbe.jp/column/seisan-kanri-hiyo.html"
+   ]
+  },
+  {
+   "query": "生産管理システム導入 製造業 導入 費用",
+   "results": [
+    "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "https://www.improbe.jp/advice/seisan-kanri-cost-reduction.html",
+    "https://boxil.jp/mag/a9525/",
+    "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "https://metoree.com/categories/4954/",
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.kikan-modern.com/kind/production.html",
+    "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "https://www.improbe.jp/column/seisan-kanri-hiyo.html"
+   ]
+  },
+  {
+   "query": "生産管理システム導入 失敗 デメリット",
+   "results": [
+    "https://it-trend.jp/production_management/article/failure_case",
+    "https://factoryadvance.jp/blog/411/",
+    "https://smartf-nexta.com/archives/1544",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-4424",
+    "https://kaminashi.jp/media/production-management-system",
+    "https://www.salesdock.jp/blog/manufacturing-production-system-failure",
+    "https://tetsujinkun.com/media/%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B0%8E%E5%85%A5%E5%A4%B1%E6%95%97%E3%81%AE%E5%88%9D%E6%9C%9F%E5%85%86%E5%80%99%E3%81%A8%E5%AF%BE%E5%87%A6%E6%B3%95/",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/failure.html",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/241003.html",
+    "https://it-trend.jp/production_management/article/problem"
+   ]
+  },
+  {
+   "query": "生産管理システム導入 比較 主要企業",
+   "results": [
+    "https://it-trend.jp/production_management/article/comparison-system",
+    "https://metoree.com/categories/4954/",
+    "https://www.aspicjapan.org/asu/article/8357",
+    "https://factoryadvance.jp/blog/1117/",
+    "https://www.iosi.co.jp/2026/01/05/comparison-of-production-management-system-2026-1",
+    "https://www.improbe.jp/column/chusho-ranking.html",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/221110.html",
+    "https://it-trend.jp/production_management/article/10-7089",
+    "https://boxil.jp/sc-production_control/",
+    "https://www.itmedia.co.jp/itselect/production-management/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入 中堅企業 導入事例 効果",
+   "results": [
+    "https://evort.jp/categories/sme-production-management",
+    "https://smartf-nexta.com/archives/1550",
+    "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/service/production/",
+    "https://mentena.biz/insight/pms/",
+    "https://www.nextep.jp/column/production-management-chusho",
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.kk-osk.co.jp/promotion/it_solutions/guide026_seisan.html",
+    "https://note.com/ripla_business/n/n39e81514b0ad",
+    "https://www.grandit.jp/erp/column/erp_differences/",
+    "https://www.prodcontrol-manufacturing.com/case-study/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入 導入期間",
+   "results": [
+    "https://www.smart-go.net/prevision/column/seisan-kanri-cost.html",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "https://hnavi.co.jp/knowledge/blog/production_management_system/",
+    "https://www.nisseicom.co.jp/growone-production/column/01.html",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/210916.html",
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.ripla.co.jp/blog/system/production-management-system-dev-period-schedule/",
+    "https://smartf-nexta.com/archives/1557",
+    "https://smartcraft.jp/blog/production-management-system-guide/"
+   ]
+  }
+ ],
+ "missing": {}
+}

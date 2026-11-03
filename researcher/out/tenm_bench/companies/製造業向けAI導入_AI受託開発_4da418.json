@@ -1,0 +1,2121 @@
+{
+ "name": "製造業向けAI導入・AI受託開発",
+ "en": "AI development outsourcing manufacturers cost Japan",
+ "aliases": [
+  "AI 受託開発 費用",
+  "AI 導入 費用 製造業",
+  "生成AI 導入支援 費用"
+ ],
+ "context": "AI",
+ "kind": "market",
+ "researched_at": "2026-11-03T17:51:02.740834+00:00",
+ "evidence": {
+  "価格帯": [
+   {
+    "quote": "最低で数百万円以上はかかるケースが多く、最も高いと数千万円～1億円近くにまで及ぶことも珍しくありません",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "月額60万～200万円",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "月額80万～200万円×人月",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "月額50万～200万円×人月",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング・要件定義にかかる費用（月額60万～200万円）",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトタイプ作成（PoC）にかかる費用（100万円～ ）",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIモデル開発にかかる費用（月額80万～200万円×人月）",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発にかかる費用（月額50万～200万円×人月）",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "＼10万円から試せる小規模検証を無料でご提案／",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "【結論】生成AIシステムの導入費用は100万円〜3,000万円以上",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "Chat GPTなどの生成AIを活用したシステムの導入費用は、最小規模で約100万円から、大規模なものだと3,000万円以上かかることもあります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜1,000万円",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円〜800万円",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアリング：0円、コンサルティング：約40万円〜200万円",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "PoC作成：約100万円〜数百万円",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "本開発：月額80万円〜250万円×人月",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "運用費：月額60万円〜200万円前後×人月",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング：40万円〜80万円",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "PoC（モックアップ開発）：200万円〜",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AIモデルの本開発：月額50万円〜600万円",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "初期契約費用：5万円〜10万円",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発費用は種類や規模によって大きく異なり、小規模なチャットボットなら50万円程度から始められる一方、高度な生成AIシステムでは3,000万円を超えることもあります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、AIチャットボット・画像認識・音声認識・生成AI・需要予測の5種類のAIシステム別に費用相場を解説",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～200万円",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～500万円",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～300万円",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "600万円～1,000万円",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～700万円",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "700万円～1,000万円以上",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～500万円",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け生成AIコンサルティング基本料金：300万円（税抜）〜",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した営業代行・サービス13選！費用相場・選び方・AIエージェント活用も解説",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】 AI受託開発会社おすすめ25選！費用相場から選び方まで徹底解説",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "PoC（概念実証）: 100万円〜500万円",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "小〜中規模のAIシステム開発: 500万円〜1,500万円",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "大規模・複雑なAIシステム開発: 1,500万円〜数千万円以上",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "⇒120,000円～（月額）",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "PoC：360万円〜／本開発：要件により個別見積",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用（システム導入費用）：100,000円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用（システム利用料）1/ID 〜 39/ID：19,800円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用（システム利用料）1/ID 〜 39/ID：39,800円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "月額10万円～",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの受託開発会社おすすめ37選！料金差・選び方を解説 - 起業LOG SaaS",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "AIの受託開発会社おすすめ37選！料金差・選び方を解説",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト不要でプロ3名の専属AIチームを月額制で即座にアサインし、専門人材や知見の不足を包括的に解消します",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "デジトラの料金プランは、初期費用0円の月額制で、企業のニーズに合わせて3つのプランが用意されています",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "AI類似図面検索システム17選を比較！料金・機能・選び方",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "pass": 3
+   },
+   {
+    "quote": "形状検索、AI-OCR、2D・3D CAD対応、クラウド・オンプレミス、料金を整理し、設計流用・見積...",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "pass": 3
+   },
+   {
+    "quote": "中規模プロジェクト（1,000万円前後）の費用内訳",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "」：コンサルティング月40万円〜",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "」：コンサルティング月80万円〜、プロトタイプ開発月120万〜160万円",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "」：企画検討100万円〜、プロトタイプ150万円〜、本格展開200万円〜",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "月40万円〜（コンサル）",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり120万円(税別)",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "企画検討：100万円〜",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトタイプ：150万円〜",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "IDC Japanの調査によると、2024年の国内AIシステム市場は前年比56.5%増の1兆3,412億円に達し、2029年には4兆1,873億円まで拡大する見込みです",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 生成AI開発の費用相場はどのくらいですか？",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   }
+  ],
+  "主な提供企業": [
+   {
+    "quote": "・既存ベンダーの開発チームと組み合わせながら、チームを構築したい",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "充分に仕様を満たす提案内容と他社と比較して最も安価な金額で入札提示したため",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "既存のAPIを利用するケース：比較的安価（API使用料は別途必要）",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なテキスト生成機能：比較的低コスト",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の開発会社から見積もりを取得し、費用感を比較しましょう",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、単純な金額比較だけでなく、以下の点も考慮する必要があります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり比較で注意したいポイント",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIシステムの導入費用が妥当かどうかは、期待されるリターンとの比較で判断すべきです",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIは比較的新しい技術であり、実績のある開発会社は限られています",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の候補から比較検討し、単に費用だけでなく、上記のポイントを総合的に評価することが重要です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを活用したシステムの開発を検討する際は、専門知識と豊富な実績を持つ開発会社に相談することをおすすめします",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発会社おすすめ比較",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI開発に強い会社おすすめ",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援・コンサルティング会社おすすめ",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIコンサルティング企業おすすめ",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "OCRシステム開発会社おすすめ",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析に強い会社おすすめ",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "DXを推進するAIポータルメディア「AIsmiley」｜ AI製品・サービスの比較・検索サイト",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースランキング",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の費用の目安を踏まえてから、導入の流れをイメージしていくことをおすすめします",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "数多く存在するAIサービスを比較検討できるカオスマップもお配りしていますので、AI導入をご検討の際はぜひお気軽にお問い合わせください",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTのGoogle Chrome拡張機能おすすめ6選",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTの要約おすすめサービス10選を紹介",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめAI企業",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AI・人工知能製品・サービスの比較検討資料",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースPVランキング",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "週間PVランキング",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発の費用相場を解説！費用を抑えるコツやおすすめの開発企業も紹介 | トッパジャパン株式会社",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発の費用相場を解説！費用を抑えるコツやおすすめの開発企業も紹介",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減策やAI開発会社の選び方、おすすめの開発会社も紹介するので、ぜひ参考にしてください",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのAI開発会社3選",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "既存システムへの組み込みなど比較的小規模な実装であればこの範囲の下限に近づき、大規模なシステム新規開発を伴う場合には上限を超えて費用が発生することもあります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発費用の負担を軽減できる補助金・助成金制度の利用もおすすめです",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "過去のプロジェクト事例を確認し、自社の業界や課題に近いAI導入実績があるかをチェックしましょう",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い業界（金融、製造、医療、アパレルなど）での導入実績",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発外注の費用相場・期間は？おすすめ開発会社を解説 - MatrixFlow",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発外注の費用相場・期間は？おすすめ開発会社を解説",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、AI開発に強いおすすめの外注先もご紹介するので、開発会社選びの参考にしてみてください",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "開発会社を選ぶ際は価格の安さで決めるのではなく、求めるAIの機能や過去の開発事例、競合との違いや強みを比較しながら決めましょう",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを外注すべきかどうか決めるには、自社内で開発するメリット・デメリットを比較する必要があります",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "外注にすべきかどうか悩む場合は、いくつかの外注先に見積もりをとってみるのがおすすめです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "以上の外注と自社開発のメリット・デメリットを比較した上で、求めるAIに応じた依頼先を決めましょう",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発を外注できるおすすめ開発会社",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発を外注できるおすすめの会社をご紹介します",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ得意なAIモデルも費用も違うため、どんなAIを求めているかイメージしながら比較してみてください",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "ホンダ、ANA、KDDIといった名だたる企業の導入実績も持っています",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "また、外注先によって費用や品質にバラツキがあるため、専門知識、実績、信頼性などを考慮して比較・選定することが必要です",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発にも外注にもそれぞれのメリット・デメリットがあるため、AI開発で重視する内容を明確にしてから開発会社を比較するのがおすすめです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "開発会社を選ぶ際には、価格だけでなく導入実績や事例も見ながら見積もりをとって判断しましょう",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "AI動画生成ツール徹底比較！Sora・Runway・Kling・Pika・Veo、2026年最強はどれ？",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けの生成AI受託会社はどこがおすすめ？",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI受託会社への依頼を検討している製造業の方は、おすすめの会社や選び方について知りたい",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事でおすすめする製造業向けの生成AI受託開発会社は、以下の10社です",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめの生成AI受託開発会社10選",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめの生成AI受託開発会社は、以下のとおりです",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめな方",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・大手製造業で、独自のカスタムAIを求める企業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "現場オペレーション支援に特化したリアルタイムAI解析ツールを提供し、即戦力となる導入実績多数",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "大手ならではの信頼性と先進技術を活かした、設備連携に強みのAIソリューションを提供",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な生産ラインを持つ大手製造業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   }
+  ],
+  "導入期間・支払い": [
+   {
+    "quote": "基本的には、全工程における費用総額の見積もりを受け取りまとめて支払うことになりますが、近年は毎月定額の料金を支払いながら開発を行う月額制の開発サービスを提供している企業もあります",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "人月単価80〜250万円というのはエンジニア1人あたり1ヶ月作業した場合の費用であり、実際の総費用は開発に携わる人数と期間によって積算されます​",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2〜3名のチームで数ヶ月開発を行う場合、数百万円〜数千万円規模のコストとなるケースもあります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、システムエンジニア2～3名で2ヶ月かけて実装を行う場合、数百万円規模の費用になる計算です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "人月とは、AI開発に必要な1か月間の人員の数を表したものです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "3人月であれば、1か月に3人のリソースが必要ということです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、小規模なAI開発プロジェクトでは数か月から数半年程度、大規模なプロジェクトでは数年かかることもあるようです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "・開発期間は数か月〜数年かかる場合も",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "比較的小規模なデータセットを使い、短期間（1〜3ヶ月程度）でAIモデルの実現可能性や精度を検証するフェーズです",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "AIに留まらず最新技術の知見を持ったコンサルタントが、事業の課題に応じた最適な解決策を1〜2ヶ月で提案・実施してくれます",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "し、PoCを含めた3か月サイクルでのアジャイル開発プロセスを推進",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月間定額でPoC環境を提供してくれるプランもあるため、",
+    "url": "https://kigyolog.com/service.php?id=514",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場では、検査記録・設備ログ・品質報告書などが紙台帳・Excel・基幹システムに分散して管理されているケースが多く、これらを統合・クレンジングするだけで数ヶ月を要することがあります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「外観検査工程の不良見逃し率を現在の0.3%から0.05%以下に3ヶ月で削減する」という形で目標を定量化しておくことで、PoC終了時に「継続・拡大・撤退」の判断基準が明確になります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "pass": 3
+   },
+   {
+    "quote": "需要予測AIでは、季節変動のパターンを学習するために数ヶ月のデータが必要なケースもあります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅製造業でも、最初の着手領域を正しく選び、データを整備し、現場を巻き込んだ設計を行えば、6ヶ月から1年以内に明確な効果を出している事例が国内でも増えています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "pass": 3
+   },
+   {
+    "quote": "2週間～1ヶ月",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型の導入は、一般的には約2週間〜1ヶ月で本格運用を開始できます",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば小売業の事例では、SaaS型の需要予測AIを6ヶ月間実施",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月間のインターン型研修で、社員が自ら開発・運用できるまで個別にフィードバック",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "1か月間にBOXILユーザーから資料請求されたサービスのランキング",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI AgentBuilder等を活用し、複雑な整合性チェックを1.5ヶ月の短期間で実装・自動化",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "全画像を目視判定していたため膨大な労力を要していたが、AIによるスクリーニングで1か月あたり100時間の工数削減を見込み、線路保全の省力化を達成",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングを1〜2か月の短い時間で行い、",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月間のインターン型研修を通じた、実務直結型の生成AI活用施策およびプロジェクト推進",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "最短1～2か月でプロトタイプ開発",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "本番は要件定義〜実装〜テストで3〜6か月以上を見込む",
+    "url": "https://boxil.jp/mag/a9758/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：基盤構築期（0〜6ヶ月）",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：能力向上期（6〜18ヶ月）",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3：自律運用期（18ヶ月〜）",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "：300万円〜1,000万円（2〜4ヶ月）",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "：数千万円〜数億円（6ヶ月〜1年以上）",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "完全な内製化には通常18〜24ヶ月程度かかります",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、段階的に進めることで、6ヶ月後には簡単な開発、12ヶ月後には中規模の開発が可能になります",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模なPoCを3ヶ月以内に開始する",
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "開発は3ヶ月と6ヶ月の2フェーズに分けたPoCとして進行中で、オーディオアップロード、日本語音声のテキスト化、3Dアバター生成などの基本機能から開始し、将来的には手話の表現の精度向上やリアルタイム処理の最適化を目指しています",
+    "url": "https://toppa-jp.com/column-glossary/ai-system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争が激化する市場で製品差別化のため、わずか6ヶ月という短期間でAIを活用した独自アプリを開発",
+    "url": "https://toppa-jp.com/column-glossary/ai-system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば株式会社テックスでは従来のチャットボットをFirstContactに置き換えることで運用コストを80%削減、株式会社レオックフーズでは問い合わせ対応の自動化により導入1ヶ月で500時間分の電話対応時間を削減しました",
+    "url": "https://toppa-jp.com/column-glossary/ai-system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "CRM入力まで自動化して、「営業が触らなくていい状態」にしないと、3ヶ月で誰も使わなくなります",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": ": SEO流入が3ヶ月で1.8倍",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "応対時間が平均22%短縮、新人の戦力化期間が3ヶ月→1ヶ月",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "8割の会社で3ヶ月後の利用率が10%以下になっています",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "「情報漏洩が怖い」で議論が3ヶ月止まる",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "実証実験を3ヶ月やって「成果が見えない」と撤退",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "CRMを導入して3ヶ月、現場は誰も入力しなくなった",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Liftbaseでは、初回ヒアリングから最短10営業日で現場稼働まで持ち込みます",
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "PoCの費用は50万〜300万円程度で、期間は2〜3ヶ月が目安です",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "期間は2〜3ヶ月が目安です",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "数か月単位で効果が感じられないから失敗だと判断するのは早計です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/02.html",
+    "pass": 3
+   },
+   {
+    "quote": "8-4. STEP4：1か月試す",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月後の判断",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "1か月で実感できる",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "センサー設置、数か月〜数年の稼働データ",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3年かけて達成したのか、3か月で達成したのか",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "着手前に対象業務の所要時間を記録し、3か月後に測り直します",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "順番どおりに進めれば、最初の1か月で効果が見える",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "④ 1か月試す",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月後の状態",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年分の図面を全部整理してから、と考えると数か月かかります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "：月額数千円〜の生成AIで1か月試す",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "pass": 3
+   }
+  ],
+  "不満・失敗": [
+   {
+    "quote": "人月単価による算出方法や、目的・課題の明確化など外注で失敗しないためのポイントも紹介する",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "今回はAI開発における費用相場を工程ごとに紹介すると共に、AI開発の外注で失敗しないためのポイントも詳しく解説します",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "最低で数百万円以上はかかるケースが多く、最も高いと数千万円～1億円近くにまで及ぶことも珍しくありません",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアリングを経て正式に開発を依頼すると、次はコンサルティングとして「自社が抱える現状の課題」や「その課題をAIでどのように解決するか」などを明確にしていきます",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIはすべての課題に対応できるわけではないため、現状の課題に対してどんな機能を搭載すれば良いか？その場合に望める費用対効果とは？などを開発会社と話し合いながら構想の実現化に向けて検討します",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "仮運用の際に見つかった課題や問題点に合わせて全体を整えつつ、ユーザーの使い勝手も考慮してシステム全体のUI・デザインも形作っていきます",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "目的・課題を明確にする",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にとって本当に必要なAIシステムを開発するには、なぜAIを活用するのか？どんな課題をAIで解決したいのか？といった目的・課題を明確にしておく必要があります",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "そのような事態を防ぐためにも、目的・課題の明確化が非常に重要です",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "目的・課題を明確にしたら、開発会社選びも慎重に行いましょう",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの技術力も会社によって異なるため、実績などを必ず確認のうえ自社の課題解決・目的の実現を可能にしてくれる開発会社へ依頼できるように心がけましょう",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "目的や課題と併せて、予算も事前に決めておきましょう",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりの依頼は、金額設定が相場よりも極端に低い、または極端に高い会社に当たった際にその理由を問い合わせるきっかけにもなります",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発に必要な技術や知識はプロである開発会社が長けていますが、自社の課題や製品・サービスなど本質的な事情までは完全に理解していません",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIシステムはあくまで自社の課題解決や目的を実現するための「手段」であり、導入そのものを目的とするべきものではありません",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "目的・課題を伺ったうえで、弊社から手堅く進める方法・お見積りをお伝えさせていただきます",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば要件定義・構想の段階では、課題の明確化や必要な機能の洗い出し、実現可能性の検討などを行います",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大規模言語モデル（LLM）を利用する場合、処理能力の高いGPUが必要となり、費用は月額20万円〜100万円以上になることもあります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大規模な学習データを扱う場合や、高精度な結果を求める場合は、高いコンピューティングリソースと専門的な知識を持ったエンジニアが必要となるため、費用は高額になります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "また、高度なセキュリティ対策やコンプライアンス要件が求められる場合も、専門性の高いエンジニアが必要となり、費用は増加します",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "解決したい業務課題は何か",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の視点で選定することが重要です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "曖昧な説明や不明瞭な項目が多い見積もりは、後から追加費用が発生するリスクが高いです",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "透明性の高い見積もりを提示する開発会社を選ぶことが重要です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、初期費用は安くても運用コストが高いシステムは、長期的には高コストになる可能性があります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "以上のポイントを踏まえて生成AIシステムの導入を検討することで、費用対効果の高いシステム開発が実現できます",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しない生成AIシステムの開発会社の選び方",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "課題・目的を踏まえて広い視野からご提案させていただきます",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果や",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットボットの失敗事例",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "目的・課題からAIを探す",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "現状の課題を明確にし、「その課題を解決するためにはどのようなAIを開発すべきなのか」という点を構想していきます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AIは、どのような課題にも柔軟に対応できるものではありません",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "決して万能な技術ではなく、「ある特定の問題を解決することに長けた技術」と考えるべきなので、「課題を解決するために搭載させるべき機能は何か」といった点を議論しながら、その構想が実現可能かどうかを検討していきます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、データを蓄積したAIが高い精度を出せるか、費用対効果に見合う処理スピードを実現できているか、出力に誤りがあった場合にオペレーションが正しく対応できるか、といった要素の検証も行われます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "精度の高いAIを開発するためには、より質の高いデータを大量に収集しなければなりません",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、一から自社の目的に合わせてAIの開発を行なっていくわけではないため、できることの幅が狭まってしまう点はデメリットといえるでしょう",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "JR東日本では、グループが提供するサービスを徹底的に見直したいという課題が浮かび上がっていたそうです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、これらの機器にもグレードがあるため、目的や課題によって料金は大幅に変化すると考えたほうがよいでしょう",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、校正業務のほとんどが人の目に依るものだったため、膨大な労力と時間を要しているのが課題となっていました",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、あるスポーツ競技場運営会社では、データの可視化を行ったり、1競技場での年間売上金額の予測を行ったりすることで、上記の課題を解決していくという対策を行ったそうです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、各競技における売上金額を高い精度で予測することが可能になり、予測対象を拡大したり、更なる精度改善施策を提案したりすることも可能になったそうです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発で失敗しないためのポイント3つ",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの開発で失敗を避けるためには、どのような点に注意すれば良いのでしょうか",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、AI開発において失敗しないためのポイントをご紹介していきます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義から運用保守まで、一連の流れには専門性の高い作業が連続し、それぞれに異なるコストが発生します",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義は解決すべき業務課題を整理し、どのようなAIシステムを開発すべきかを明確化する工程です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "自社内で要件をまとめることが難しい場合は、AI開発企業のコンサルタントと協力して現状課題の洗い出しや要件定義書の作成を行います​",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には 約40万円〜200万円 程度を見込むケースが多く、専門のコンサルタントに依頼することで課題整理や要件定義書作成の支援を受けられます​",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "この工程を通じて、モデルの精度や処理速度、運用時の課題を確認し、本開発に進む価値があるか評価します",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "過去のプロジェクト事例を確認し、自社の業界や課題に近いAI導入実績があるかをチェックしましょう",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム人エンジニアの高い技術力で、最先端AIから業務システムまで幅広く対応",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "特筆すべきは、ベトナム人開発者の高い技術力です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "単なる技術開発ではなく、業界特有の課題に最適なAIソリューションを提案する能力が特徴です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "現場密着のサポート体制や、豊富な実績・経験をもとにした幅広い対応力、国内外で実績を積んだ優秀なメンバーによる高いコストパフォーマンスで、お客様のニーズにお応えしています",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代のオフショア開発とは？活用メリットと失敗しない進め方",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発の外注にはメリット・デメリットがあるため、AI開発において重視する内容によって外注が最適かどうか変わってきます",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、AI開発を外注しようか検討している方に向けて、AI開発の外注にかかるコストやメリット・デメリットを解説します",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の人ほど、精度が高いAIを作成可能",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミングなしでAI開発ができるMatrixFlowなら、外注よりも費用を抑えて品質の高いAIが開発可能です",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   }
+  ],
+  "成果・効果": [
+   {
+    "quote": "もちろん上記にかかる費用だけではなく、場合によってはAIの精度を向上させるために教師データを作成する「アノテーション費用」、実装後のバグ対応や通信障害対応などを行う「運用費用」なども必要になります",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ開発費用はいくらかかる？費用の内訳やコスト削減方法などを解説 | ハイブリッドテクノロジーズ",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIはすべての課題に対応できるわけではないため、現状の課題に対してどんな機能を搭載すれば良いか？その場合に望める費用対効果とは？などを開発会社と話し合いながら構想の実現化に向けて検討します",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "この工程を自社で賄える場合は省略し、費用を削減することが可能です",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AIは業務フローがデジタル化されているほど得られる成果も大きくなるため、実質欠かすことはできない工程と考えて良いでしょう",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "外注によるAI開発で大きな成果を上げるには、いくつか注意をするべきポイントがあります",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "「とりあえずAIを使えば業務全体の改善につながりそう」「開発してから活用の場面を見つけたい」など、漠然としたビジョンのまま開発を進めると着地点が曖昧になり、結果として無駄な時間と費用を費やすことになりかねません",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発のプロジェクトに取り掛かる以上は期待通りの成果を収めたいものですが、必ずしも思い通りの結果になるとは限らないのが現実です",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで無理に成果を出そうと仕様変更や機能の追加を繰り返したり、納期を守ることを意識し過ぎたりすると工数やエンジニアの必要人数が増えることとなります",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、見守る方々の高齢化や地域コミュニティの変化により担い手は減少方向にあり、この需給ギャップを埋めるには、見守りの仕組みの生産性を大幅に向上させなければならない",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTを活用した見守りサービスのパイオニア企業として、見守り活動の生産性の飛躍的な向上に貢献するとともに、従来のサービスでは困難であった、多くの方々にご利用いただける料金体系を目指すこと",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に動くシステムを毎週見ていただくことで、開発進捗についての安心感やお客様も気がついていなかった新たな改善点がを発見でき、それを修正して再度デモンストレーションを行いました",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "・サービス名「THINK」：Twitter調査における既存システムの安定的かつ継続的な運用を維持しつつ、インフラコストを削減すること",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "Android",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、業務効率化による人件費削減など、ROIの見込みは高まります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIシステムの導入で業務効率化や顧客満足度向上を実現し、競争力を高めていきましょう",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "バグ修正・マイナー機能改善",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIシステムは継続的な改善が必要です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "UI/UXの改善：30万円〜200万円程度",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "新しいデータが蓄積されたり、AIの精度を向上させたりする際に必要となります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "特に専門分野（医療、法律、工学など）のデータを扱う場合、専門知識を持つアノテーターが必要となり、一般的なデータ処理と比べて2〜5倍のコストがかかることもあります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIシステムは特に、導入目的や期待する成果が曖昧になりがちなため、事前の要件定義や目標設定が重要です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIシステム開発において、導入目的や要件を明確にすることは費用削減の基本です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "期待する成果・KPIは何か",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の視点で選定することが重要です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI（投資対効果）の試算を行う",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば中国のdeepseekはChat GPTと大きな性能の差が無いのにもかかわらず、使用料金（API料金）はChat GPTよりも数倍安くなっています",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のような視点でROIを試算してみましょう",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "ROIの試算方法",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "AIリテラシーの向上サービス",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、データを蓄積したAIが高い精度を出せるか、費用対効果に見合う処理スピードを実現できているか、出力に誤りがあった場合にオペレーションが正しく対応できるか、といった要素の検証も行われます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、各競技における売上金額を高い精度で予測することが可能になり、予測対象を拡大したり、更なる精度改善施策を提案したりすることも可能になったそうです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果のバランスを考えながらAIを開発しなければ、開発費用以上の「成果」を得られずに損失を抱えてしまう可能性があるからです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、まずは自社の予算を算定し、その予算内で最大限成果を得られるAIの開発を行うことが大切になります",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの運用経験がない企業の場合、どのように導入・運用していくのが最も効果的なのか分からないケースもあるでしょう",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け・社内AIリテラシー向上",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減策やAI開発会社の選び方、おすすめの開発会社も紹介するので、ぜひ参考にしてください",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "回答精度向上のための学習データ量",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、機械学習を活用して回答精度を向上させる本格的なAIチャットボットでは、一般的に100万円から200万円程度の費用がかかります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "認識対象が複雑になるほど、学習データの準備や精度向上のためのチューニングに費用がかかる点に注意が必要です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AIシステム導入後は、安定稼働の維持と継続的な改善を目的として運用・保守フェーズに入ります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "一から独自開発をするのではなく、すでに提供されているAIエンジンやクラウド上のAIサービス（SaaSなど）を活用することでコスト削減が図れます",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、画像認識や自然言語処理など確立された技術であれば、クラウドAIサービスを利用することで開発費用を大幅に削減できるケースがあります​",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "開発工程の一部または全てを海外の開発会社に委託するオフショア開発も、コスト削減の有効策です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発にとどまらず、お客様企業のDX戦略に合わせた技術選定や開発テーマの発掘、導入効果の検証まで包括的にサポートします",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算でプロジェクトを成功させるには、アジャイル開発による小規模スタート、既存AIサービスの活用、補助金・助成金の利用、オフショア開発の採用といったコスト削減策を検討しましょう",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の要件や予算に合った開発手法と信頼できるパートナー選びこそが、効果的なAI導入のポイントです",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードAI開発ツールで開発期間・コストを削減",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "期日に間に合うようチーム全体の進捗確認を行ったりサポートに入る必要がないため、自社内で開発にかけるリソースを大幅に削減できます",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社内で感じた改善点もソースコードを持っている外注先が主導権を握る形になりやすく、時間がかかればかかるほどコストも高くなりやすいです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、自社内で開発する方が思い通りの開発がしやすく、開発後の修正や改善もしやすいです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、近年ではさまざまな領域において人間による作業の精度向上・効率化に役立てられています",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、データを効果的に活用できている企業はあまり多くありません",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、データドリブン経営とは何かを簡単に解説し、データドリブンで数字改善した成功事例をご紹介します",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "データを活用して売上を伸ばしたい、コスト改善したいと考えている方は、ぜひ参考にしてみてください",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "食品ロス削減",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせいただければ、業務改善や効率化につながるAIの使い方がきっと見つかるでしょう",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造プロセスの自動化・品質改善に積極的な企業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "実績豊富なデータ解析とAI活用で、製造現場の生産性向上に大きく貢献",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "データドリブンな改善を目指す先進的な製造業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "結果として自社内のニーズに応えられるシステムを作り上げることができず、導入しても従業員が上手く活用できなかったり課題の解決に至らなかったりします",
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "pass": 3
+   },
+   {
+    "quote": "規模や目的、機能、開発工程ごとの費用相場を明確にし、予算計画の参考になる情報をお届けします",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "＼10万円から試せる小規模検証を無料でご提案／",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "Chat GPTなどの生成AIを活用したシステムの導入費用は、最小規模で約100万円から、大規模なものだと3,000万円以上かかることもあります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": ": 小規模なMVP（最小限の機能を持つ製品）か、本格的な大規模システムか",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "規模ごとの導入費用相場",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "最小限の規模（MVP開発）",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "社内利用向け中規模システム",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "一般公開向け大規模システム",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "最小限の規模の開発では、基本的な機能のみを実装し、データ処理や学習機能を限定的にすることで費用を抑えられます",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "この規模は概念実証（PoC）やMVP開発に適しており、本格導入前の検証に役立ちます",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "社内利用向けの中規模システムでは、特定の業務に特化した機能と、自社データの活用が可能になります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "一般公開向けの大規模システムになると、セキュリティ強化やスケーラビリティの確保、多様なユーザーに対応するためのUIUX設計など、より高度な開発要素が求められます",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "運用保守費用は、システムの規模や複雑さによって大きく変動しますが、一般的に月額60万円〜200万円程度が相場です",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大規模言語モデル（LLM）を利用する場合、処理能力の高いGPUが必要となり、費用は月額20万円〜100万円以上になることもあります",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "新機能の追加：機能の規模により100万円〜500万円程度",
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "pass": 3
+   },
+   {
+    "quote": "LLM・大規模言語モデル",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、AI（人工知能）の導入を進めていく上で、あらかじめ「どれくらいの導入費用が必要になるのか」という点を把握しておかなければ、自社の予算規模に合う最適なAIを検討することも難しくなってしまいます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な外観検査システム：初期費用で約2000万円、要件定義～導入支援、教育の開発費用で1000万円、ライセンス費用として200～300万円",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜（大規模なシステムであれば1000万円以上）",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "開発するAIの機能や規模によって費用は大きく変化することを把握しておきましょう",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらもAIの機能や規模によって費用は大きく異なりますが、一般的な費用相場としては「月額60万円〜200万円前後×人月」となります",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば中小企業庁の「ものづくり補助金」では、上限1,000万円の補助金が交付されます",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率は中小企業が1/2、小規模は 2/3です",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツ競技場の運営会社の中には「投資判断の基準を設けるためにも、次年度の売上予測制度が必要」という声が多く、その売上予測制度を実現するためのシステムが必要とされていました",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、あるスポーツ競技場運営会社では、データの可視化を行ったり、1競技場での年間売上金額の予測を行ったりすることで、上記の課題を解決していくという対策を行ったそうです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "システムの導入にあたり、これまでに蓄積された競技場のデータやオープンデータを活用して日単位で売上を分析するとともに、機械学習を活用した高精度の予測モデルを作成していきました",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、各競技における売上金額を高い精度で予測することが可能になり、予測対象を拡大したり、更なる精度改善施策を提案したりすることも可能になったそうです",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "システムも、他のシステムと同じく導入費用の相場は数百万円以上、大規模なシステムであれば1000万円以上とされています",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "導入するAIの種類や規模によって費用は大きく異なりますが、いくつかのポイントに注意すれば導入費用を安く抑えられることがお分かりいただけたのではないでしょうか",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模言語モデル（LLM）とは？",
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発費用は種類や規模によって大きく異なり、小規模なチャットボットなら50万円程度から始められる一方、高度な生成AIシステムでは3,000万円を超えることもあります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "実際のところ、AI開発の費用は種類やシステムの規模によって異なります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模なチャットボットなら数十万円から始められる一方、高度な画像認識や生成AIシステムでは数千万円に達することも珍しくありません",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "最小規模の目安",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "中規模の目安",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模の目安",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な物体検出機能を持つ小規模システムであれば、50万円程度から開発可能です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIシステムは開発費用の幅が非常に広く、目的や規模によって大きく変動します",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "検証用の小規模プロトタイプであれば100万円から500万円程度で開発可能です",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、社内業務向けの実用的な中規模システムでは500万円から1,500万円程度が目安となります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "一般公開を想定した大規模システムや、独自データでチューニングした高度なモデルを実装する場合は1,500万円から3,000万円以上の費用がかかることもあります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の売上や在庫データをAIが学習して需要を予測する一般的なシステムでは、300万円から600万円程度が相場となっています",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "PoCに要する費用はプロジェクト規模によって幅がありますが、約100万円〜400万円 程度が一般的な目安です​",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な検証であれば数十万円台で済む場合もありますが、高度なAIモデルの試作や大量のデータを扱う場合は数百万円規模になることもあります",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "すでに十分なデータが揃っている場合は0円（追加費用なし）で済むケースもありますが、データ収集や大規模なアノテーションが必要な場合はその作業コストが発生します",
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "需要・在庫・売上予測",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "・売上予測、不良品検知など幅広いAIが開発できる",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、AI開発の外注費は数百万円から数千万円に及ぶことがありますが、特に複雑なモデルや大規模なプロジェクトの場合は数千万円から数億円にもなることもあるようです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、開発の規模や開発の複雑さ、開発チームの人数やスキルなどが影響します",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、小規模なAI開発プロジェクトでは数か月から数半年程度、大規模なプロジェクトでは数年かかることもあるようです",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発は開発の規模によって数十万円から数千万円まで幅広く、費用に応じて開発期間も変わってきます",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の売上や株価を予測することができれば、ビジネスや投資において非常に有利に動けます",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "データを活用して売上を伸ばしたい、コスト改善したいと考えている方は、ぜひ参考にしてみてください",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "予測分析機能を組み込んだソフトウェアが増えつつあり、これはあらゆる規模の組織体でユーザーにとって身近なものになっています",
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "pass": 3
+   },
+   {
+    "quote": "中小規模の製造業向けに低コストかつ高効率なAIソリューションを展開",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算でAI導入を検討する中小企業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "現場オペレーションの効率化を目指す中堅企業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な生産ラインを持つ大手製造業",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "」は、特に中小企業向けのAI導入支援に特化した、心強い味方となる会社です",
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年】 AI受託開発 会社おすすめ25選！ 費用 相場から ... — 【2026年】 AI受託開発 会社おすすめ25選！ 費用 相場から ... lion-ai.co.jp https://www.lion-ai.co.jp > ai-contract-development",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】 AI受託開発 会社おすすめ25選！費用相場から ... — 【2026年】 AI受託開発 会社おすすめ25選！費用相場から ... lion-ai.co.jp https://www.lion-ai.co.jp > ai-contract-development",
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】 製造業 の AI 活用 事例 と 導入 状況は？費用相場 ... — 【2026年】 製造業 の AI 活用 事例 と 導入 状況は？費用相場 ... 一般社団法人日本AI導入支援協会 https://j-aix.or.jp > journal",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matrixflow.net/case-study/101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyolog.com/service.php?id=514",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-failure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pro-d-use.jp/blog/manufacturing-industry-ai-success-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.feer-design.com/magazine/manufacture/49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nazca5edm.stec.co.jp/blog/info/a47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.kddi.com/content/column/smartwork/what-is-ai-proscons/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/LTS_Group/items/c4cf30e968afd5742bae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a9758/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-vendor-guide.net/industry-case/manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8347/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://toppa-jp.com/column-glossary/ai-system-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-aix.or.jp/journal/702/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/ai/basic/6920/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotbank.jp/ai%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/seizou-gyou-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/manufacturing-and-value-chains/protecting-jobs-and-boosting-productivity-when-deploying-ai-in-manufacturing-91d9e9c299",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/ai-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業向けAI導入・AI受託開発 費用 相場 万円",
+   "results": [
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://hybrid-technologies.co.jp/blog/knowhow/20230225_3/",
+    "https://neural-opt.com/generative-ai-fees/",
+    "https://aismiley.co.jp/ai_news/ai-development-price/",
+    "https://toppa-jp.com/column-glossary/ai-development-costs/",
+    "https://www.matrixflow.net/case-study/101/",
+    "https://www.galk-jp.com/blog/ai-development-budget/",
+    "https://jp.linkedin.com/pulse/what-does-ai-product-development-really-cost-techmenttechnology-zeksc?tl=ja",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://a-x.inc/blog/ai-development-cost-3/"
+   ]
+  },
+  {
+   "query": "製造業向けAI導入・AI受託開発 製造業 導入 費用",
+   "results": [
+    "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "https://aismiley.co.jp/category_page/manufacturing/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://neural-opt.com/generative-ai-fees/",
+    "https://kigyolog.com/service.php?id=514",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/generative-ai-usage-example/",
+    "https://www.matrixflow.net/case-study/101/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://www.ai-souken.com/article/manufacturing-ai-implementation-steps"
+   ]
+  },
+  {
+   "query": "製造業向けAI導入・AI受託開発 失敗 デメリット",
+   "results": [
+    "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-failure/",
+    "https://pro-d-use.jp/blog/manufacturing-industry-ai-success-story/",
+    "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail31",
+    "https://www.feer-design.com/magazine/manufacture/49",
+    "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "https://nazca5edm.stec.co.jp/blog/info/a47",
+    "https://biz.kddi.com/content/column/smartwork/what-is-ai-proscons/",
+    "https://www.cloud-for-all.com/blog/ai-for-factory.html",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-pros-cons/"
+   ]
+  },
+  {
+   "query": "製造業向けAI導入・AI受託開発 比較 主要企業",
+   "results": [
+    "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "https://aismiley.co.jp/category_page/manufacturing/",
+    "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "https://qiita.com/LTS_Group/items/c4cf30e968afd5742bae",
+    "https://boxil.jp/mag/a9758/",
+    "https://www.ai-vendor-guide.net/industry-case/manufacturing.html",
+    "https://rilarc.co.jp/ai-blog/recommended-ai-development-companies/",
+    "https://metoree.com/categories/8347/",
+    "https://toppa-jp.com/column-glossary/ai-system-development/",
+    "https://japan-ai.co.jp/media/5590/"
+   ]
+  },
+  {
+   "query": "製造業向けAI導入・AI受託開発 中堅企業 導入事例 効果",
+   "results": [
+    "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://liftbaseinc.com/column/generative-ai-use-cases",
+    "https://j-aix.or.jp/journal/702/",
+    "https://www.nisseicom.co.jp/growone-production/column/02.html",
+    "https://www.ai-vendor-guide.net/industry-case/manufacturing.html",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-seizougyou-ai/",
+    "https://biz.moneyforward.com/ai/basic/6920/",
+    "https://qiita.com/LTS_Group/items/c4cf30e968afd5742bae",
+    "https://www.lion-ai.co.jp/articles/manufacturing-industry-ai-companies"
+   ]
+  },
+  {
+   "query": "製造業向けAI導入・AI受託開発 導入期間",
+   "results": [
+    "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "https://www.robotbank.jp/ai%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA",
+    "https://www.lion-ai.co.jp/articles/ai-contract-development",
+    "https://cad-kenkyujo.com/seizou-gyou-ai/",
+    "https://www.ai-vendor-guide.net/industry-case/manufacturing.html",
+    "https://jp.weforum.org/stories/manufacturing-and-value-chains/protecting-jobs-and-boosting-productivity-when-deploying-ai-in-manufacturing-91d9e9c299",
+    "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597",
+    "https://aismiley.co.jp/category_page/ai-development/",
+    "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "https://www.ai-souken.com/article/manufacturing-ai-implementation-steps"
+   ]
+  }
+ ],
+ "missing": {}
+}
