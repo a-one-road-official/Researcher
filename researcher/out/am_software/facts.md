@@ -1,4 +1,4 @@
-# 3Dプリンターまわりのソフト（日本の代理店・再販制度・料金）（事実のみ・40品目）
+# 3Dプリンターまわりのソフト（日本の代理店・再販制度・料金）（事実のみ・52品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3713,3 +3713,1468 @@
 - 日本の代理店：記載なし（読んだ35頁・検索7回）
 - 料金：記載なし（読んだ35頁・検索7回）
 - 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## DigiFabster（DigiFabster）
+- 文脈：小さい加工会社向け：自動見積・受注（自社名で出せる）
+- 再販・パートナー制度：
+  - 「OEM Manufacturers」（https://digifabster.com/customers/）
+  - 「Software Provider Reseller Partnership Grants Enhanced Value to Complete 3D to Drive Revenue on Recurrent Basis」（https://digifabster.com/customers/）
+  - 「Resellers and Distributors」（https://digifabster.com/customers/）
+  - 「OEM Manufacturers」（https://digifabster.com/pricing/）
+  - 「We want to be your partner and help you grow your business, not ‘milk’ your business, so we don’t take commissions. This is the least costly way for you of the ones offered in the market, and we put measures in place to assist you with turning quoted parts into paid orders.」（https://digifabster.com/pricing/）
+  - 「Resellers and Distributors」（https://digifabster.com/pricing/）
+  - 「Printforge breaks down every cost component: material (with waste factor and support weight), machine time (depreciation, electricity, maintenance), labour (design, setup, post-processing, packing), and overhead. You can upload STL or G-code files and the calculator auto-fills weight and print time. This granular breakdown means you understand your margins on every job.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「You quote manually and want detailed cost breakdowns to understand your margins」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「OEM Manufacturers」（https://digifabster.com/company/）
+  - 「Resellers and Distributors」（https://digifabster.com/company/）
+  - 「OEM Manufacturers」（https://digifabster.com/product/）
+  - 「OEM Manufaturers」（https://digifabster.com/product/）
+  - 「OEM Manufacturers」（https://digifabster.com/faq/）
+  - 「Resellers and Distributors」（https://digifabster.com/faq/）
+  - 「OEM Manufacturers」（https://digifabster.com/contact/）
+- 料金：
+  - 「ZiggZagg Increased Sales For Over $1M USD in First Year With DigiFabster」（https://digifabster.com/customers/）
+  - 「DigiFabster Saved Up To $20.000 (USD) For Northern Layers On Web Development Costs」（https://digifabster.com/customers/）
+  - 「Starts at $990/mo, billed annually」（https://digifabster.com/pricing/）
+  - 「2 x 30 min marketing session per month」（https://digifabster.com/pricing/）
+  - 「DigiFabster vs Printforge: Pricing & Features (2026)」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「describes automated and internal quoting, order management, manufacturing CRM, invoicing and payment workflows. It supports several manufacturing processes, with pricing controls and RFQ intake tools. Features reviewed 8 October 2026.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Compare AutoQuote3D's quoting and order workflow with Printforge's costing, production and invoicing tools. Features and pricing checked October 2026.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Master CNC and 3D Printing Price Matching with DigiFabster」（https://mtdcnc.com/technical-corner/digifabster/take-your-machine-shop-to-the-next-level-with-digifabster-e-commerce/）
+  - 「$0.000010」（https://pitchbook.com/profiles/company/117345-16）
+  - 「Digifabster has raised $3.56M.」（https://pitchbook.com/profiles/company/117345-16）
+  - 「DigiFabster QuickQuote Pricing 2026: Real Costs, Fees & What Others Paid」（https://pricingnow.com/question/digifabsterquickquote-pricing/）
+  - 「$4,200」（https://pricingnow.com/question/digifabsterquickquote-pricing/）
+  - 「The Basic plan starts at $350. For the Pro and Enterprise plans, you need to contact sales to get a quote.」（https://pricingnow.com/question/digifabsterquickquote-pricing/）
+  - 「Starting from $19/month」（https://pricingnow.com/question/digifabsterquickquote-pricing/）
+  - 「DigiFabster Pricing 2026: Plans, Cost (Free Trial) | PulseSignal」（https://getpulsesignal.com/pricing/digifabster）
+- 無料体験：
+  - 「Video Demo」（https://digifabster.com/customers/）
+  - 「Video Demo」（https://digifabster.com/pricing/）
+  - 「Yes. You can start a 7-day Free Trial by simply registering, with minimum information from you and no credit card required. This gives you plenty of time to check out our solution at zero cost or risk to you.」（https://digifabster.com/pricing/）
+  - 「Start free trial」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Live Demo」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「14-day Pro trial」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Book a Demo」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Start Free Trial」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Free trial」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Free trial, no credit card required」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「7-day free trial, no credit card required」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Video Demo」（https://digifabster.com/company/）
+  - 「to start a free trial! DigiFabster are the leaders in online automated instant web-based quoting. Their manufacturing shop software can be used for internal quoting or for ecommerce online quoting, helping you win more business.」（https://mtdcnc.com/technical-corner/digifabster/take-your-machine-shop-to-the-next-level-with-digifabster-e-commerce/）
+  - 「Start your free trial now. No sales call required.」（https://digifabster.com/product/）
+  - 「Video Demo」（https://digifabster.com/faq/）
+- 会社の規模：
+  - 「Trusted By Over 250 Customers In 40 Countries」（https://digifabster.com/customers/）
+  - 「3DKfactory Uses DigiFabster to Save Time and Grow New Revenue」（https://digifabster.com/customers/）
+  - 「Software Provider Reseller Partnership Grants Enhanced Value to Complete 3D to Drive Revenue on Recurrent Basis」（https://digifabster.com/customers/）
+  - 「Trusted By Over 250 Customers In 40 Countries」（https://digifabster.com/pricing/）
+  - 「Printforge includes all of these. Job tracking on a 7-stage kanban board, drag-and-drop scheduling on a weekly Gantt calendar, material and consumable inventory with stock alerts, supplier management with part numbers and costs, invoicing with TAX INVOICE headers and GST, and dashboard analytics showing printer utilisation, revenue, and material insights.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Tempus Tools includes a built-in web store so customers can upload parts, receive quotes, and place orders. With simple pricing (0.5% for internal quotes and 2% for web store payments), shops can also offer online payments without the higher percentage fees charged by some platforms.」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「DigiFabster boasts a strong team of business professionals, with more than 50 years of experience in developing and implementing hi-tech software solutions for customers around the globe.」（https://digifabster.com/company/）
+  - 「Digifabster 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/117345-16）
+  - 「Digifabster was founded in 2014.」（https://pitchbook.com/profiles/company/117345-16）
+  - 「Digifabster has 16 total employees.」（https://pitchbook.com/profiles/company/117345-16）
+  - 「DigiFabster is built for shops that quote more than 3D printing. If you also machine parts or cut sheet metal, that is the main difference. AutoQuote3D is for print shops: a customer uploads a model, gets a price from your materials and rules, and pays. Quotes, orders, and customers stay in one dashboard.」（https://www.autoquote3d.com/compare/digifabster）
+  - 「DigiFabster Revenue 2024: $3M Est., $2.3M Raised」（https://getlatka.com/companies/digifabster）
+  - 「Founded 2014」（https://getlatka.com/companies/digifabster）
+  - 「DigiFabster is a Bid Management Software company based in Irvine, founded in 2014.」（https://getlatka.com/companies/digifabster）
+  - 「DigiFabster has not published its revenue. GetLatka estimates it at about $3M a year (October 2024).」（https://getlatka.com/companies/digifabster）
+- 小さい会社向け：
+  - 「Machine Shop Software Case Studies And Reviews | DigiFabster」（https://digifabster.com/customers/）
+  - 「Job Shops」（https://digifabster.com/customers/）
+  - 「See why thousands of machine shops and 3D printing service bureaus choose DigiFabster to help them manage their front-end workflows」（https://digifabster.com/customers/）
+  - 「CNC Machine Shops」（https://digifabster.com/customers/）
+  - 「3D Printing, Laser cutting And CNC Quoting Software for Machine Shop Manufacturers | DigiFabster」（https://digifabster.com/）
+  - 「Job Shops」（https://digifabster.com/pricing/）
+  - 「Best for small businesses」（https://digifabster.com/pricing/）
+  - 「2 x 30 min marketing session per month」（https://digifabster.com/pricing/）
+  - 「CNC Machine Shops」（https://digifabster.com/pricing/）
+  - 「Printforge is built for print farms, makers, Etsy sellers, Shopify stores and small businesses that need costing, quoting and production work connected.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Job Shops」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Machine Shops」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Work orders, labels, and production documents (built-in) 💡 Ideal for small shops」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「keep quoting simple, fast, and focused on real job shop requirements.」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+  - 「Job Shop Quoting Software」（https://tempustools.com/compare/tempus-tools-vs-digifabster）
+- 顧客・用途：
+  - 「We ♥ our customers」（https://digifabster.com/customers/）
+  - 「Trusted By Over 250 Customers In 40 Countries」（https://digifabster.com/customers/）
+  - 「This metal and plastic cutting shop serves a specific customer with the power of DigiFabster」（https://digifabster.com/customers/）
+  - 「DigiFabster Revolutionizes Quoting and Customer Experience for this Rapid Prototyping Service」（https://digifabster.com/customers/）
+  - 「DigiFabster Helps General Pattern Turn Orders in 2 Days or Less, Satisfying Customer Demand For Additive Manufacturing」（https://digifabster.com/customers/）
+  - 「Clients are more satisfied with our prompt response of quotations and the good management that is done so that the orders arrive quickly and with no detail made wrong, all this is thanks to Digifabster that with its great functions of use allows to realize these wonderful marketing strategies for customers to increase by our good name that is acquired.」（https://digifabster.com/customers/）
+  - 「DigiFabster has been a solution for our entire company, we have automated in the processes, in terms of quotation has been wonderful, the implementation of this product has reduced our operational costs, what has been to my liking is the customer service, this we have solved the problems quickly and efficiently, has a very good interface.」（https://digifabster.com/customers/）
+  - 「We are excited to announce a new partnership with Digifabster. This will enable a faster access to our instant quotes on additive manufacturing and CNC projects. DigiFabster is a software-as-a-service (SaaS) organisation that provides cloud-based tools that help manufacturing companies automate quoting, order entry and customer support.」（https://www.3ds.com/make/solutions/blog/digifabster-3dexperience-make-announce-their-new-partnership）
+  - 「Customer & Order Manager」（https://digifabster.com/pricing/）
+  - 「Orders/customers CSV Export」（https://digifabster.com/pricing/）
+  - 「Trusted By Over 250 Customers In 40 Countries」（https://digifabster.com/pricing/）
+  - 「It's designed for service bureaus that want a self-service storefront — think an online shop where customers configure and order parts without human interaction.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「Ask each provider which customer records, documents and model files can be exported and which backups are included. Confirm any deployment requirements directly with the vendor.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「DigiFabster is purpose-built for service bureaus with customer-facing e-commerce — companies where customers configure and order parts online. If you're running a manufacturing facility with walk-in quoting via your website, it's a solid choice.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「DigiFabster provides customer-facing and internal quoting with configurable pricing. Compare a representative job and your preferred costing method in both products.」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+- 検索結果の抜粋：
+  - 「DigiFabster & 3DExperience Make announce their new ... — DigiFabster & 3DExperience Make announce their new ... Dassault Systèmes https://www.3ds.com > ... > Blog」（https://www.3ds.com/make/solutions/blog/digifabster-3dexperience-make-announce-their-new-partnership）
+  - 「DigiFabster Reviews 2026: Details, Pricing, & Features - G2 — DigiFabster Reviews 2026: Details, Pricing, & Features - G2 G2 https://www.g2.com > reviews」（https://www.g2.com/products/digifabster/reviews）
+  - 「DigiFabster : 3D Printing, Laser cutting And CNC Quoting ... — DigiFabster : 3D Printing, Laser cutting And CNC Quoting ... DigiFabster https://digifabster.com」（https://digifabster.com/）
+  - 「DigiFabster Software Reviews, Demo & Pricing - 2026 — DigiFabster Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > di...」（https://www.softwareadvice.com/manufacturing/digifabsterquickquote-profile/）
+  - 「Printforge vs DigiFabster in 2026 — Pricing , Features, and ... — Printforge vs DigiFabster in 2026 — Pricing , Features, and ... crm.printforge.com.au https://crm.printforge.com.au > blog」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「DigiFabster : 3D Printing And CNC Quoting Software for Job ... — DigiFabster : 3D Printing And CNC Quoting Software for Job ... Netlify https://inspiring-basbousa-51a1f9.netlify.app」（https://inspiring-basbousa-51a1f9.netlify.app/）
+  - 「Printforge vs DigiFabster in 2026 — Pricing, Features, and ... — Printforge vs DigiFabster in 2026 — Pricing, Features, and ... crm.printforge.com.au https://crm.printforge.com.au > blog」（https://crm.printforge.com.au/blog/printforge-vs-digifabster-3d-printing-software）
+  - 「DigiFabster Revenue 2024: $3M Est., $2.3M Raised - GetLatka — DigiFabster Revenue 2024: $3M Est., $2.3M Raised - GetLatka GetLatka https://getlatka.com > digifabster」（https://getlatka.com/companies/digifabster）
+- 日本の代理店：記載なし（読んだ33頁・検索7回）
+- 日本語対応：記載なし（読んだ33頁・検索7回）
+
+## Paperless Parts（Paperless Parts）
+- 文脈：小さい加工会社向け：見積・受注
+- 日本の代理店：
+  - 「Tokyo 105-0001 JAPAN」（https://www.idaten.vc/post/%E6%B3%A8%E7%9B%AE%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9Apaperless-parts）
+- 再販・パートナー制度：
+  - 「Alliance Partner Program | Paperless Parts」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Alliance Partner Program」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Ecosystem Partner Program」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Part Buyers and OEMs」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Become a Partner」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Generous Referral Incentives」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「How the Referral Process Works」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「If so, submit your referral to Paperless Parts.」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Make a Referral」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「and our team will follow up with you to better understand your background and review the specific terms of our Alliance Partner Program.」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「What are the official terms of the Partner Program?」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「The official terms of the Alliance Partner Program are outlined in our Partner Agreement. Please reach out directly via」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「to become a Partner and review the terms with the Paperless Parts team.」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「with the subject line, “Partner Referral Program” with any referral-related questions. We’re happy to help!」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Alliance Partner Program」（https://www.paperlessparts.com/become-a-partner/）
+- 料金：
+  - 「no-brainer for anyone who works in a shop. The ability to throw a 3D model into the software and get a price out」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「pricing tiers are designed to meet the unique needs of any sized business. Whether you’re a 5-person shop or a 500-person enterprise, we help organizations like yours:」（https://www.paperlessparts.com/pricing/）
+  - 「“We had a part that cost us over $100K because we missed an EDM step. We put that part through Paperless and it caught it. That’s what makes it such a benefit; you are not going to make a huge mistake.”」（https://www.paperlessparts.com/pricing/）
+  - 「Series B & ~$33.5M raised」（https://mgmtboston.com/paperless-parts/）
+  - 「$150M – $300M (assuming they sold ~20% of the company in the $30M Series B )」（https://mgmtboston.com/paperless-parts/）
+  - 「The product is priced as a classic SaaS platform with a great memory too. With 2D & 3D CAD viewing and geometric search, Paperless Parts lets you view all file formats without having to pay for native CAD software licenses. Geometric search lets you know when you’ve made exact or similar parts in the past, reducing duplicate quoting efforts and increasing consistency across teams of estimators.」（https://mgmtboston.com/paperless-parts/）
+  - 「The custom-parts ordering process, so important for machine shops, was a burden for many reasons. CEO and co-founder Jason Ray and his partner created a cloud-based set of tools that automates and streamlines the process. Ray explains, “This is a $20B market in the U.S., and a lot of custom-parts manufacturing is for government and military applications – it has to be precision.”」（https://www.khoury.northeastern.edu/paperless-parts-makes-digital-parts-ordering-tools-for-u-s-machine-shops/）
+  - 「そんな中、2021年9月にシリーズBラウンドという位置付けで、Paperless Partsというアメリカのスタートアップが、3,000万ドル（≒35億円）の資金調達を成功させたという」（https://www.idaten.vc/post/%E6%B3%A8%E7%9B%AE%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9Apaperless-parts）
+  - 「Growthプランが月300ドル（≒3万円）、Professionalプランが月750ドル（≒8万円）、Enterpriseプランが要問い合わせ」（https://www.idaten.vc/post/%E6%B3%A8%E7%9B%AE%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9Apaperless-parts）
+  - 「Paperless Partsに似ているのですが、価格はPaperless PartsのGrowthプランの1/6で基本使用料金は月額5,000円」（https://www.idaten.vc/post/%E6%B3%A8%E7%9B%AE%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9Apaperless-parts）
+  - 「“We had a part that cost us over $100K because we missed an EDM step. We put that part through Paperless and it caught it. That’s what makes it such a benefit; you are not going to make a huge mistake.”」（https://www.paperlessparts.com/demo/）
+  - 「Paperless Parts pricing is estimated to start at $1,500/month with the actual cost varying based on the feature set required by your organization.」（https://softwarefinder.com/manufacturing-software/paperless-parts）
+  - 「Approximately $5,000–$15,000 one-time for connecting Paperless Parts with an existing ERP; complex custom API integrations can reach $15,000–$30,000+」（https://softwarefinder.com/manufacturing-software/paperless-parts）
+  - 「Around $5,000–$15,000 one-time for implementation, configuration, process setup, data preparation, and deployment」（https://softwarefinder.com/manufacturing-software/paperless-parts）
+  - 「Between $3,000–$10,000 one-time for configuring shop-specific costing formulas, machine rates, labor, materials, margins, approval workflows, and quoting rules」（https://softwarefinder.com/manufacturing-software/paperless-parts）
+- 無料体験：
+  - 「Demo Library」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Request a Demo」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「If they look like a good fit, we’ll schedule a demo.」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Demo Library」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Request a Demo」（https://www.paperlessparts.com/become-a-partner/）
+  - 「To learn more about the strategic alliance between ECI and Paperless Parts and to receive a demo, visit:」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「www.paperlessparts.com/demo-eci-partnership/」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Demo Library」（https://www.paperlessparts.com/pricing/）
+  - 「Demo Library」（https://www.paperlessparts.com/demos/featured-video-real-time-pricing-availability-of-purchased-components/）
+  - 「Request a Demo」（https://www.paperlessparts.com/demos/featured-video-real-time-pricing-availability-of-purchased-components/）
+  - 「Demo Library」（https://www.paperlessparts.com/manufacturers/）
+  - 「Request a Demo」（https://www.paperlessparts.com/manufacturers/）
+  - 「Book Free Demo »」（https://www.paperlessparts.com/manufacturers/）
+  - 「From our smartphones to the milk we drink, the partnership between government investment, academic research, and industry innovation has driven decades of technological progress and economic growth for the US. Learn how Khoury College is committed to playing a key role.」（https://www.khoury.northeastern.edu/paperless-parts-makes-digital-parts-ordering-tools-for-u-s-machine-shops/）
+  - 「Demo Library」（https://www.paperlessparts.com/products/）
+- 会社の規模：
+  - 「Series B & ~$33.5M raised」（https://mgmtboston.com/paperless-parts/）
+  - 「$150M – $300M (assuming they sold ~20% of the company in the $30M Series B )」（https://mgmtboston.com/paperless-parts/）
+  - 「Year Founded: 2017」（https://www.builtinboston.com/company/paperless-parts-inc）
+  - 「Paperless Parts, a Boston company founded in 2017, believes that, in manufacturing, geometry drives everything. With this belief, their team has created an advanced geometric analysis engines for 3D CAD […]」（https://www.khoury.northeastern.edu/paperless-parts-makes-digital-parts-ordering-tools-for-u-s-machine-shops/）
+  - 「Paperless Parts has 15 employees, including the co-op position. In filling staff positions, they look for mechanical and software engineers, as well as physics majors.」（https://www.khoury.northeastern.edu/paperless-parts-makes-digital-parts-ordering-tools-for-u-s-machine-shops/）
+  - 「そんな中、2021年9月にシリーズBラウンドという位置付けで、Paperless Partsというアメリカのスタートアップが、3,000万ドル（≒35億円）の資金調達を成功させたという」（https://www.idaten.vc/post/%E6%B3%A8%E7%9B%AE%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9Apaperless-parts）
+  - 「資料内では「アメリカの中小製造業」は従業員数500名以下、「日本の中小製造業」は従業員数300名以下、と定義されています」（https://www.idaten.vc/post/%E6%B3%A8%E7%9B%AE%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9Apaperless-parts）
+  - 「Paperless Parts has revolutionized quoting, bringing it into the 21st century. It has significantly improved both the speed and quality of our quoting process. This tool is incredibly powerful for communication with customers, vendors and internally. Our customers are thrilled with the convenience of submitting quotes easily and selecting order size and delivery time.」（https://softwarefinder.com/manufacturing-software/paperless-parts）
+  - 「Founded : 2017」（https://www.saasworthy.com/product/paperless-parts）
+  - 「Paperless Parts Announces $30M Series B Funding | Paperless Parts」（https://www.paperlessparts.com/press/paperless-parts-announces-30m-series-b-funding-led-by-openview-partners/）
+  - 「Paperless Parts Announces $30M Series B Funding Led by OpenView Partners」（https://www.paperlessparts.com/press/paperless-parts-announces-30m-series-b-funding-led-by-openview-partners/）
+  - 「Paperless Parts, the leading provider of estimating and quoting software for job shops and contract manufacturers announced a $30 million Series B funding round led by OpenView.」（https://www.paperlessparts.com/press/paperless-parts-announces-30m-series-b-funding-led-by-openview-partners/）
+  - 「Founded in 2017 with a mission to make manufacturing more accessible by providing the industry with modern software solutions, Paperless Parts now supports hundreds of manufacturing companies across the United States. Paperless Parts is the preferred software for some of the fastest-growing, contract manufacturing companies, including」（https://www.paperlessparts.com/press/paperless-parts-announces-30m-series-b-funding-led-by-openview-partners/）
+  - 「Paperless Parts, Inc. Revenue 2024: $5.5M Est.」（https://getlatka.com/companies/paperless-parts-inc）
+  - 「Founded 2017」（https://getlatka.com/companies/paperless-parts-inc）
+- 小さい会社向け：
+  - 「Marketing Solutions for Job Shops」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Job Shops」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「If they sign up with Paperless Parts, you’ll earn a percentage of the contract value.」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Marketing Solutions for Job Shops」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Job Shops」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Why Hundreds of Job Shops and Contract Manufacturers」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Job and machine shop management software for improved shop floor control and business insights.」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Job shop software offering real-time job costing and production insights (for existing customers).」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Integrated business management and ecommerce software for startup and small business supply dealers.」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Job Shops」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Machine Shops」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「See how we use practical AI to empower SMBs.」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Integration with ECI’s Manufacturing Business Management Solutions and Paperless Parts’ Estimating and Quoting Platform Further Streamlines Operations for Job Shops and Contract Manufacturers」（https://www.ecisolutions.com/news/eci-software-solutions-strategic-alliance-paperless-parts/）
+  - 「Marketing Solutions for Job Shops」（https://www.paperlessparts.com/pricing/）
+  - 「Job Shops」（https://www.paperlessparts.com/pricing/）
+- 顧客・用途：
+  - 「Customers」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Aerospace & Defense」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Medical Devices」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Customer Reviews」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Refer a Customer」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Customer Media Kit」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Customer Testimonials」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Customer Stories」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Customer Resources」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Have a conversation with your colleague/friend/customer—are they intrigued by Paperless Parts?」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Sales and Customer Relations Manager, Hillside Manufacturing」（https://www.paperlessparts.com/alliance-partner-program/）
+  - 「Customers」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Aerospace & Defense」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Medical Devices」（https://www.paperlessparts.com/become-a-partner/）
+  - 「Customer Reviews」（https://www.paperlessparts.com/become-a-partner/）
+- 検索結果の抜粋：
+  - 「Paperless Parts Pricing - G2 — Paperless Parts Pricing - G2 G2 https://www.g2.com > pricing」（https://www.g2.com/products/paperless-parts/pricing）
+  - 「Paperless Parts Software Pricing , Alternatives & More 2026 — Paperless Parts Software Pricing , Alternatives & More 2026 Capterra https://www.capterra.com > paperless...」（https://www.capterra.com/p/179259/paperlessPARTS/）
+  - 「Paperless Parts Software Reviews, Demo & Pricing - 2026 — Paperless Parts Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > cpq」（https://www.softwareadvice.com/cpq/paperless-parts-profile/）
+  - 「Paperless Parts Announces $30M Series B Funding — Paperless Parts Announces $30M Series B Funding Paperless Parts https://www.paperlessparts.com > press」（https://www.paperlessparts.com/press/paperless-parts-announces-30m-series-b-funding-led-by-openview-partners/）
+  - 「Paperless Parts , Inc. Revenue 2024: $5.5M Est. - GetLatka — Paperless Parts , Inc. Revenue 2024: $5.5M Est. - GetLatka GetLatka https://getlatka.com > companies > pa...」（https://getlatka.com/companies/paperless-parts-inc）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## CloudNC CAM Assist（CloudNC）
+- 文脈：小さい加工会社向け：AIで加工データ作成
+- 日本の代理店：
+  - 「工作機械メーカー、販売代理店、教育関係者、そして業界のリーダーの皆様です」（https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program）
+  - 「CloudNCは、北米の製造ソフトウェア販売代理店（Shopware、CAM SERVICES（CCCS）、In-House Solutionsを含む）に対し、同ソフトウェアの提供を開始します」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「CAM Mastercam をはじめとするCAM 向けに、www.cloudnc.comおよび指定販売代理店を通じてご利用いただけます」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「さらに、当社は地域の主要なCAM／DNC／工場管理システムプロバイダーや工作機械メーカー・販売代理店と連携し、統合ソリューションとサポートサービスを提供しています」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「2025年2月25日、マルチCAM対応AIアシストツール「CAM Assist」の国内販売開始」（https://www.datadesign.co.jp/cloudnc/）
+  - 「2025年2月25日、マルチCAM対応AIアシストツール「CAM Assist」の国内販売開始｜お知らせ&コラム｜AIベースCAMアシストツール CAM Assist」（https://www.datadesign.co.jp/cloudnc/news/3400/）
+  - 「2025年2月25日、マルチCAM対応AIアシストツール「CAM Assist」の国内販売開始」（https://www.datadesign.co.jp/cloudnc/news/3400/）
+  - 「株式会社データ・デザイン（愛知県名古屋市：代表取締役 岡村隆德）は、マルチCAMプラットフォームに対応したAIアシストツール「CAM Assist」（開発元：イギリス/CloudNC社）の国内販売を2月25日（火）より開始します」（https://www.datadesign.co.jp/cloudnc/news/3400/）
+  - 「テクニウム株式会社」（https://www.technium.co.jp/cam-assist/）
+- 再販・パートナー制度：
+  - 「How CloudNC Scaled Reseller Growth by 300% with Impartner PRM」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Referral Automation」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Become a Partner」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Scaling Success: How CloudNC Streamlined Reseller Growth with Impartner PRM」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「CloudNC boosted reseller growth by 300% in 6 months with Impartner PRM, automating onboarding, deal registration, and asset sharing for seamless operations and CRM integration.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Learn how Smartsheet replaced legacy workflows with Impartner's Orchestration Studio to automate certifications, streamline collaboration, and scale its 700+ partner program.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Learn how AvePoint transformed its partner program with Impartner and Microsoft, achieving streamlined operations, faster onboarding, and increased partner revenue.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Xerox implemented Impartner’s Google Ads for the Channel solution, successfully centralized Google Ads campaigns for all channel partners globally, and optimized them at scale.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh）
+  - 「Shopware社、CCCS社、In-House Solutions社を含む北米の製造ソフトウェア再販業者は、アメリカとカナダのMastercam ユーザーにソフトウェアを提供し、顧客ベースを拡大することになります」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「1992年に法人化されたShopware, Inc.は、中西部随一の製造技術パートナーであり、世界第3位のMastercam 再販業者です」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「For manufacturers aiming to gain a competitive edge through automation and AI, this integration is a game-changer. CAM Assist is now available as an add-on for Siemens NX through CloudNC’s website and selected resellers. For more details visit」（https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/）
+  - 「TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5）
+- 料金：
+  - 「Find out how efficy transformed its channel strategy and generated €2.5M in channel pipeline by implementing Impartner PRM.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Learn how Vertiv drove $800M worth of partner deal registrations through their Impartner PRM in this case study.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「$34.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$39.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$109.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$119.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$29.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$12,499.65」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$12,999.00」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「$34.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「$39.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「$109.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「$119.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「$29.95」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「$12,499.65」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+- 無料体験：
+  - 「デモを予約する」（https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program）
+  - 「その代わりとして、パートナーの皆様には、関連するデモ、トレーニング、コンサルティング業務、顧客との対話、またはイベントにおいて「CAM 」を積極的にご活用いただき、より迅速かつCAM 恩恵を受けられる企業へ、当社のソリューションをご紹介いただくようお願いいたします」（https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program）
+  - 「Request Demo」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「デモを予約する」（https://www.cloudnc.com/ja）
+  - 「、弊社チームメンバーによるCAM Assistのデモをお申し込みください」（https://www.cloudnc.com/ja）
+  - 「セキュリティに関する質問票のFAQの全文については、デモをご予約の際に担当のアカウントエグゼクティブにお問い合わせください」（https://www.cloudnc.com/ja）
+  - 「デモを予約する」（https://www.cloudnc.com/ja/about-us）
+  - 「デモを予約する」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「Academic and Future Workforce」（https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/）
+  - 「デモを予約する」（https://www.cloudnc.com/ja/fusion）
+  - 「、弊社チームメンバーによるCAM Assistのデモをお申し込みください」（https://www.cloudnc.com/ja/fusion）
+  - 「セキュリティに関する質問票のFAQの全文については、デモをご予約の際、担当のアカウントエグゼクティブにお問い合わせください」（https://www.cloudnc.com/ja/fusion）
+  - 「FANUC America Offers Free Trial of CNC Virtualization Platform」（https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users）
+  - 「Free plan available」（https://www.cloudnc.com/quote-agent）
+  - 「デモを予約する」（https://www.cloudnc.com/ja/other-packages）
+- 日本語対応：
+  - 「1/15（木）14:00～│【CAMAssist2.0日本語版リリースウェビナー】 AIがCAMオペレーションをアシストする ～CAMもAIを活用する時代に～⇒終了しました」（https://www.datadesign.co.jp/cloudnc/）
+  - 「Quote Agent supports US dollars (USD), euros (EUR), British pounds (GBP), Canadian dollars (CAD), Mexican pesos (MXN), Japanese yen (JPY), Chinese yuan (CNY), Indian rupees (INR), Australian dollars (AUD) and New Zealand dollars (NZD).」（https://www.cloudnc.com/quote-agent）
+- 会社の規模：
+  - 「2015年に設立されたCloudNCは、ロンドンの本社とチェルムスフォードの工場を拠点とし、コンピュータサイエンスと物理的な製造に関する専門知識を兼ね備えた世界クラスのチームで構成されています」（https://www.cloudnc.com/ja/about-us）
+  - 「同時期にCNC機械加工に触れ、プラスチック3Dプリンティングと同程度に自動化できれば破壊的な可能性があることに気づき、その機会を実現するためにCloudNC 共同設立した」（https://www.cloudnc.com/ja/about-us）
+  - 「「EventBox」を共同開発し、発売後12ヶ月でRealmac Softwareに買収される」（https://www.cloudnc.com/ja/about-us）
+  - 「1993年に設立された」（https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam）
+  - 「Our air-conditioned quality assurance department employs a complete range of measurement and gauging equipment from globally recognised suppliers including Hexagon, Mitutoyo, and Bowers and we have recently acquired an Absolute 85 Arm, which enables reverse engineering capabilities and also allows for laser scanning of profile surfaces and other details.」（https://www.cloudnc.com/manufacturing）
+  - 「2015年に設立されたCloudNCは、コンピューターサイエンスと物理的製造の専門知識を組み合わせた世界クラスのチームで構成され、ロンドンの本社とチェルムスフォードの工場を拠点としている」（https://www.cloudnc.com/ja/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining）
+  - 「U.K.-based manufacturing software startup CloudNC announced a $20 million Series B extension round on Wednesday, bringing its lifetime total amount raised to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch.」（https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/）
+  - 「Saville said more than 1,000 machine shops worldwide use CAM Assist, and 80% of the company’s customer base, which includes both manufacturers and companies, is in the U.S. With a team of 80 employees, the company’s biggest goal is scaling adoption.」（https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/）
+  - 「CloudNC has raised $68.0M across 4 funding rounds.」（https://startupintros.com/orgs/cloudnc）
+  - 「4 funding rounds」（https://startupintros.com/orgs/cloudnc）
+  - 「CloudNC has raised $68.0M in total across 4 funding rounds.」（https://startupintros.com/orgs/cloudnc）
+  - 「CloudNC has raised $68.0M across 4 funding rounds. Most recently, it raised $45.0M Series B in June 2022.」（https://startupintros.com/orgs/cloudnc）
+  - 「$68.0M raised」（https://startupintros.com/orgs/cloudnc）
+  - 「$45M Series B」（https://startupintros.com/orgs/cloudnc）
+  - 「$9M Series U」（https://startupintros.com/orgs/cloudnc）
+- 小さい会社向け：
+  - 「CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1）
+  - 「CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV）
+  - 「CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh）
+  - 「improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh）
+  - 「Pioneers: Startups from Dreams to Reality」（https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/）
+  - 「Xcelerator for Startups Videos」（https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/）
+  - 「CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5）
+  - 「improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.」（https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5）
+  - 「・CAM Assist Job Shop（3ユーザー）」（https://www.datadesign.co.jp/cloudnc/news/3400/）
+  - 「個人情報保護方針」（https://www.technium.co.jp/cam-assist/）
+  - 「Sign up for our eNewsletters」（https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users）
+  - 「Sign Up」（https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users）
+  - 「New CAM Expands Functions for Digitalizing Machine Shops」（https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users）
+- 顧客・用途：
+  - 「MSP ManufacturingCAM で航空宇宙生産を変革する方法」（https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program）
+  - 「Customer Success」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「See why customers and analysts choose us.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Customer Awards」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Customer」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「All Customer Content」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Our Customers」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Discover How Our Customers Succeed」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Case Study: Siemens + Impartner」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Case Study: Impartner + efficy」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Case Study: Impartner + Nintex」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Case Study: Impartner + Lookout」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Case Study: Impartner + Vertiv」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Learn how Vertiv drove $800M worth of partner deal registrations through their Impartner PRM in this case study.」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+  - 「Case Study: ComplyAdvantage + Impartner」（https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner）
+- 検索結果の抜粋：
+  - 「Cam Assist v2 | Practical Machinist — Cam Assist v2 | Practical Machinist Practical Machinist https://www.practicalmachinist.com > ...」（https://www.practicalmachinist.com/forum/threads/cam-assist-v2.442562/）
+  - 「Try the CloudNC CAM Assist Automation Add-in for Fusion 360 — Try the CloudNC CAM Assist Automation Add-in for Fusion 360 Autodesk https://www.autodesk.com > blog > cl...」（https://www.autodesk.com/products/fusion-360/blog/cloudnc-cam-assist-automation-add-in-fusion-360/）
+  - 「CAM Assist 2.0 - live in Japan and ready to use! - YouTube — CAM Assist 2.0 - live in Japan and ready to use! - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=mHOrVLggGkE）
+  - 「CloudNC raises $20m to expand AI tools for precision ... — CloudNC raises $20m to expand AI tools for precision ... CloudNC https://www.cloudnc.com > news-room」（https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining）
+  - 「CloudNC - 2026 Company Profile & Team - Tracxn — CloudNC - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/cloudnc/__P7pB3p7dAcJSVre3T84JsxNBUUQjmJcnkeTWo-2GpD0）
+  - 「CloudNC Raises $20M in Funding for AI-Powered ... - LinkedIn — CloudNC Raises $20M in Funding for AI-Powered ... - LinkedIn LinkedIn https://www.linkedin.com > posts」（https://www.linkedin.com/posts/tech-lens-media_techlensmedia-industrialai-manufacturing-activity-7503429074078490633-i5Uu）
+  - 「CloudNC raises $20M to automate manufacturing's most ... — CloudNC raises $20M to automate manufacturing's most ... TechCrunch https://techcrunch.com > 2026/09/08」（https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/）
+
+## Toolpath（Toolpath）
+- 文脈：小さい加工会社向け：AIで加工データ作成
+- 日本の代理店：
+  - 「サンドビック株式会社コロマントカンパニー」（https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path）
+  - 「販売店および専門家」（https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path）
+- 再販・パートナー制度：
+  - 「Distributors & Showrooms」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+- 料金：
+  - 「18 Months for the Price of 12」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「TRAK customers get a free 90-day trial of Toolpath AI. After that, the first subscription term is extended to 18 months at standard pricing, giving you more value from day one.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Transparent Pricing (as of June 2025)」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Fusion 360: $680/year per license」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Toolpath AI: $1,500 for the first 18 months, then $1,500/year」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「100 DFM analyses per month」（https://www.toolpath.com/pricing）
+  - 「10 estimates per month」（https://www.toolpath.com/pricing）
+  - 「500 DFM analyses per month」（https://www.toolpath.com/pricing）
+  - 「60 estimates per month」（https://www.toolpath.com/pricing）
+  - 「2,500 DFM analyses per month」（https://www.toolpath.com/pricing）
+  - 「400 estimates per month」（https://www.toolpath.com/pricing）
+  - 「月額1万円台から運用できる」（https://www.cadcam-z.com/cam-functionality-list/tool-pass.html）
+  - 「月額12,100円（税込）〜」（https://www.cadcam-z.com/cam-functionality-list/tool-pass.html）
+  - 「US$9.99」（https://designer.woodenren.com/en/cnc）
+  - 「NT$390 in Taiwan」（https://designer.woodenren.com/en/cnc）
+- 無料体験：
+  - 「Request Quote or Demo」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「(Compare this to the standard 14-day trial and 12-month term available elsewhere.)」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「We're already showcasing Toolpath at events like EASTEC, where live demos are running on a VMC2 in our booth. You'll start seeing webinars, videos, and other ways to learn about how this AI-powered tool fits into your workflow.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Start free trial」（https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1）
+  - 「Ready to revolutionize your manufacturing process with Toolpath? Contact our team of experts at DSI for a personalized demonstration, pricing information, or to discuss your specific needs.」（https://www.dsi-mfg.com/toolpath）
+  - 「Start with a free trial.」（https://www.toolpath.com/）
+  - 「Start free trial」（https://www.toolpath.com/）
+  - 「Tool Pathのアドインはコチラから（無料体験版もあるようです）」（https://note.com/merry_bobcat8659/n/n83632e269910）
+  - 「Free Trial〡Vectric」（https://www.vectric.com/free-trial/）
+  - 「Free Trial」（https://www.vectric.com/free-trial/）
+  - 「Our free trials allow you to test all the elements of the software with the exception of performing some export functions, saving the toolpaths and using gadgets.」（https://www.vectric.com/free-trial/）
+  - 「Choose the fully functional free trial that suits your needs」（https://www.vectric.com/free-trial/）
+  - 「Each tutorial comes with the free trial compatible project file so that you can test cut it on your CNC machine!」（https://www.vectric.com/free-trial/）
+  - 「5 Free Trial Projects」（https://www.vectric.com/free-trial/）
+  - 「8 Free Trial Projects」（https://www.vectric.com/free-trial/）
+- 日本語対応：
+  - 「日本 | 日本語」（https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path）
+- 会社の規模：
+  - 「TRAK customers get a free 90-day trial of Toolpath AI. After that, the first subscription term is extended to 18 months at standard pricing, giving you more value from day one.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「ToolPath's team is world-class and best positioned to win this market. ToolPath is led by CEO, Al Whatmough who led Fusion at AutoDesk for a decade prior to joining Toolpath. Justin Gray, CTO, is one of the best technologists we've met and co-founded ToolPath after close to 20 years as a NASA rocket scientist!」（https://leaders.vc/blog/our-investment-in-toolpath）
+  - 「The company was founded by Andy Powell who we met seven years ago when we invested in his previous Atlanta-based company, CallRail. He proved to be an entrepreneur who experienced a problem, then built a large and profitable business solving it. CallRail has since grown from a startup to $100M+ ARR and emerged as a leader in the marketing analytics space.」（https://leaders.vc/blog/our-investment-in-toolpath）
+- 小さい会社向け：
+  - 「Sign Up Now」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「What Happens After You Sign Up?」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「100 DFM analyses per month」（https://www.toolpath.com/pricing）
+  - 「10 estimates per month」（https://www.toolpath.com/pricing）
+  - 「500 DFM analyses per month」（https://www.toolpath.com/pricing）
+  - 「60 estimates per month」（https://www.toolpath.com/pricing）
+  - 「2,500 DFM analyses per month」（https://www.toolpath.com/pricing）
+  - 「400 estimates per month」（https://www.toolpath.com/pricing）
+  - 「Toolpath — AI-powered quoting & CAM automation for machine shops | Toolpath」（https://www.toolpath.com/）
+  - 「これらのCookieは、個人を一切直接特定しない方法で情報を収集します」（https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path）
+  - 「月額1万円台から運用できる」（https://www.cadcam-z.com/cam-functionality-list/tool-pass.html）
+  - 「月額12,100円（税込）〜」（https://www.cadcam-z.com/cam-functionality-list/tool-pass.html）
+  - 「Sign up for our newsletter to get the latest news, events and FREE projects.」（https://www.vectric.com/free-trial/）
+  - 「Sign up for our newsletter or follow us on our social channels to get the latest news, events and FREE projects.」（https://www.vectric.com/free-trial/）
+  - 「How to Sign Up for a Free Trial | Toolpath Docs」（https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial）
+- 顧客・用途：
+  - 「Customer Support」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「This isn’t just new technology—it’s a practical advantage for your shop. Through our collaboration with Toolpath Labs and DSI, TRAK customers now get early access to AI tools that simplify programming, quoting, and design review—so you can work faster and stay competitive.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Special Offer for TRAK Customers」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「That's why we're excited to introduce you to a new kind of partner: Toolpath Labs AI, now available to TRAK customers through a strategic collaboration with DSI and Toolpath Labs.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Impress Your Customers and Recruits」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Show customers, prospects, and new hires that your shop is investing in smart tools and a future-ready mindset.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「Special Access for TRAK Customers」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「TRAK customers get a free 90-day trial of Toolpath AI. After that, the first subscription term is extended to 18 months at standard pricing, giving you more value from day one.」（https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining）
+  - 「The Bottom Line: Toolpath equips you to be more responsive to your customers, prospects, and other stakeholders by helping you estimate and generate CNC programs more quickly and confidently.」（https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1）
+  - 「Customer Portal」（https://www.dsi-mfg.com/toolpath）
+  - 「Jon Caliguri, president of DSI, stated, “We are honored to be selected by Toolpath for this important role. Our team is committed to delivering exceptional service to both Toolpath and the market, bringing our expertise and dedication to every customer interaction.」（https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/）
+  - 「CoroPlus®ツールパスの成功事例」（https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path）
+  - 「PrimeTurning™ triples productivity in turning at Godrej Aerospace」（https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path）
+  - 「【業種・業界別】CAD/CAMソフト加工事例」（https://www.cadcam-z.com/cam-functionality-list/tool-pass.html）
+  - 「【業種・業界別】CAD/CAMソフト加工事例_top」（https://www.cadcam-z.com/cam-functionality-list/tool-pass.html）
+- 検索結果の抜粋：
+  - 「Any cheap/affordable or free 5 axis CAM software for tool path ... — Any cheap/affordable or free 5 axis CAM software for tool path ... Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/hobbycnc/comments/1me63yz/any_cheapaffordable_or_free_5_axis_cam_software/）
+  - 「1. What is Toolpath ? - YouTube — 1. What is Toolpath ? - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=wEod509g8pI）
+  - 「hyperMILL(使い方) 2021.1 New | Edit toolpath ツールパス 編集 — hyperMILL(使い方) 2021.1 New | Edit toolpath ツールパス 編集 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=lcEKLErzfHM）
+  - 「Toolpath expands with sales arm for AI machining - develop3d — Toolpath expands with sales arm for AI machining - develop3d develop3d https://develop3d.com > toolpath-exp...」（https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/）
+  - 「Toolpath Labs: A Machine Shop Game Changer? - Part 1 — Toolpath Labs: A Machine Shop Game Changer? - Part 1 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=RU7xXqJCe80）
+  - 「Toolpath 2026 Company Profile: Valuation, Funding & Investors — Toolpath 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/497540-71）
+  - 「Toolpath - 2026 Company Profile, Team, Funding & Competitors — Toolpath - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/toolpath/__UNrGKiTdnhgE6tesNiE7I9jgcvwwKybSwdEgRO3Fdn4）
+  - 「Toolpath Closes $10M Seed Round to Transform the ... — Toolpath Closes $10M Seed Round to Transform the ... Toolpath https://www.toolpath.com > blog > to...」（https://www.toolpath.com/blog/toolpath-closes-10m-seed-round-to-transform-the-machining-business-with-applied-ai）
+
+## ProShop ERP（ProShop ERP）
+- 文脈：小さい加工会社向け：生産管理
+- 再販・パートナー制度：
+  - 「—but we wanted to thrive. ProShop is helping us at B&W Machine Works, Inc. document those ‘tricks of the trade,’ eliminate waste, and revolutionize our profit margins. It’s one of the best decisions I’ve made. I thought it would be hard to learn, but this old dog is happily learning new tricks!」（https://proshoperp.com/product/erp/）
+  - 「Referral Program」（https://proshoperp.com/product/erp/）
+  - 「Referral Program」（https://proshoperp.com/proshoperp-video/proshop-short-overview/）
+  - 「Referral Program」（https://proshoperp.com/pricing/）
+  - 「Varies by implementation scope」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「ProShop ERP uses enterprise-level pricing that varies based on your organization's specific needs, user count, and required functionality.」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Pricing varies based on your specific requirements, number of users, and implementation scope. Get a personalized quote that fits your budget and needs.」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Implementation timelines vary, but most shops are up and running in a few weeks. Our team works closely with you to tailor the process to your needs and ensure a smooth transition.」（https://get.proshoperp.com/）
+  - 「OEMs & Contract Manufacturers」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「Independent Manufacturers & Specialized OEMs」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「ProShop is built around getting machine shops to AS9100 and keeping them there. StartProto is built for contract manufacturers and OEMs with repeat, make-to-order work. Here's how to tell which fits your shop.」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「Those are the two things we're best at. They matter most to contract manufacturers, OEMs with in-house manufacturing, and job shops with substantial repeat, make-to-order work, especially anyone building assemblies. If」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「contract manufacturers, OEMs with in-house manufacturing, and job shops with substantial repeat, make-to-order work, especially anyone doing assembly.」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「These products solve different problems for different shops. ProShop sells a method, with consultants behind it, to shops whose business runs on AS9100 compliance. StartProto is built for contract manufacturers and OEMs: software that fits the way you already run, and an AI that can actually operate it rather than talk about it.」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/503632-27）
+- 料金：
+  - 「ProShop ERP Receives $32 Million Growth Investment from Mainsail Partners - Mainsail Partners」（https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/）
+  - 「ProShop ERP Receives $32 Million Growth Investment from Mainsail Partners」（https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/）
+  - 「ProShop ERP Pricing Guide 2026 - Costs, Implementation & TCO」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Under $1 Million」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「$1 to 10 Million」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「$11 to 50 Million」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「$51 to 100 Million」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「$101 to 500 Million」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「$500 Million to $1 Billion」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Over $1 Billion」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「We also like to keep our pricing simple without having to add up a bunch of different packages to make it fully functional. When companies switch to ProShop, they typically will replace 3-8 other software packages with ProShop’s single integrated suite of tools. You’ve got to see it to understand how powerful and unique it is.」（https://get.proshoperp.com/）
+  - 「ProShop ERP has raised $32M.」（https://pitchbook.com/profiles/company/503632-27）
+  - 「TASC is a one-of-a-kind, two-day automation conference designed to drive efficiency, quality and scalability at U.S. job shops. Register now through July 11 to receive early-bird pricing and discover practical automation solutions tailored for small-and mid-sized shops.」（https://www.mmsonline.com/suppliers/proshop-usa）
+  - 「ProShop Pricing and Alternatives (2026) | WorkCell」（https://workcell.ai/compare/proshop）
+  - 「Published plans from $995 to $4,995 a month, unlimited users, with the implementation fee quoted up front.」（https://workcell.ai/compare/proshop）
+- 無料体験：
+  - 「ProShop software profile: Features, Pricing, Demo & more」（https://www.erpfocus.com/proshop-erp.html）
+  - 「Complete the form below to access a video demo of this software.」（https://www.erpfocus.com/proshop-erp.html）
+  - 「Free Demo」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「System Demo」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Request Free Demo」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「System Demo for ProShop ERP」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Demo Request」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Demos are provided to enterprises in the USA and Canada only.」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Book Demo」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「book a demo」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「Split down the middle? Demo both. Nobody has ever regretted spending two more hours on this decision.」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「See a demo of StartProto」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/503632-27）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/503632-27）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/503632-27）
+- 会社の規模：
+  - 「Medium Size (251-1000 Employees)」（https://www.erpfocus.com/proshop-erp.html）
+  - 「Small Business (1-250 Employees)」（https://www.erpfocus.com/proshop-erp.html）
+  - 「700+ customers」（https://get.proshoperp.com/）
+  - 「ProShop can be implemented either in the cloud on our servers or on-premises with your local servers. It is entirely up to you. This is a common question because the software is 100% web-based. What that means is your employees would access ProShop through a web browser rather than a desktop application. There is nothing to install on the computers accessing ProShop.」（https://get.proshoperp.com/）
+  - 「We do have AS9100 machine shops among our customers, for what it's worth. But the certification isn't what brought them to us. It was the shape of the work: high repeat volume, multi-level assemblies,」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「configure StartProto to your AS9100 manual with custom documents and fields, and customers do exactly that. But that's configuration work, not a compliance program handed to you with consultants attached. If you're starting from zero on AS9100, ProShop's playbook and their consultants are worth a serious look, and we'd tell you so on a call.」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「Lean management team, 10 to 100 employees」（https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software）
+  - 「ProShop ERP 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/503632-27）
+  - 「ProShop ERP was founded in 2016.」（https://pitchbook.com/profiles/company/503632-27）
+  - 「ProShop ERP has 100 total employees.」（https://pitchbook.com/profiles/company/503632-27）
+  - 「ProShop ERP has raised $32M.」（https://pitchbook.com/profiles/company/503632-27）
+  - 「Chiron Group is highlighting two of its five-axis machines: the compact Micro5 XL for small workpieces, and the 19 Series for larger parts.」（https://www.mmsonline.com/suppliers/proshop-usa）
+  - 「Air Turbine Technology Inc.'s Drill Tap Series offers governed constant speeds up to 90,000 rpm, ATC compatibility and 24/7 unattended operation for compact drill-tap machining centers.」（https://www.mmsonline.com/suppliers/proshop-usa）
+  - 「Okamoto Corp. provides a range of high-precision grinders, including the ACC-818Sa-iQ CNC surface grinder, the PRG-iQ precision rotary surface grinder, and the OGM-UNCiii series CNC cylindrical grinder.」（https://www.mmsonline.com/suppliers/proshop-usa）
+  - 「ERP and Process Changes Increase Shop’s Revenue 64% YoY」（https://www.mmsonline.com/suppliers/proshop-usa）
+- 小さい会社向け：
+  - 「Trusted by Hundreds of Machine Shops」（https://proshoperp.com/product/erp/）
+  - 「ProShop ERP enhances defense manufacturers’ operations with ITAR compliance, real-time scheduling, and integrated quality management that supports CMMC-ready machine shops.」（https://proshoperp.com/product/erp/）
+  - 「Can your small business afford an ERP?」（https://www.erpfocus.com/proshop-erp.html）
+  - 「Small Business (1-250 Employees)」（https://www.erpfocus.com/proshop-erp.html）
+  - 「Pricing Plans to Fit Your Machine Shop’s Needs」（https://proshoperp.com/pricing/）
+  - 「Trusted by Hundreds of Machine Shops」（https://proshoperp.com/pricing/）
+  - 「Job Shop / Machine Shop」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Why These are the Top 10 Small Business ERP Systems for 2026」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「small businesses, mid-market companies」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「Top ERP Systems for Small Business」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「ProShop is the ERP and AI that learns your machine shop. Built to capture your machine shop’s institutional knowledge, enforce compliance on the floor, and keep your best people’s expertise in the system.」（https://get.proshoperp.com/）
+  - 「The ERP for Manufacturing Machine Shops」（https://get.proshoperp.com/）
+  - 「Improve your efficiency AND cost savings with an ERP that’s specifically designed for machine shops and precision manufacturing! Make more money with the same machines and people by implementing the system that’s designed for your industry.」（https://get.proshoperp.com/）
+  - 「ProShop was originally built in-house to run a CNC machine shop - it’s designed by manufacturers, for manufacturers. With deep shop-floor insight and hands-on expertise, it’s become one of the most robust ERP tools available for modern manufacturing teams.」（https://get.proshoperp.com/）
+  - 「It’s purpose-built for job shops, machine shops, fabrication shops, and many other types of manufacturing shops - eliminating paper, silos, and manual processes so you can work faster, smarter, and more profitably.」（https://get.proshoperp.com/）
+- 顧客・用途：
+  - 「Aerospace」（https://proshoperp.com/product/erp/）
+  - 「Defense」（https://proshoperp.com/product/erp/）
+  - 「Medical」（https://proshoperp.com/product/erp/）
+  - 「Customers」（https://proshoperp.com/product/erp/）
+  - 「Customer Hub」（https://proshoperp.com/product/erp/）
+  - 「ProShop ERP is built for aerospace manufacturers—supporting AS9100, ITAR, and NADCAP compliance with full traceability and paperless shop management.」（https://proshoperp.com/product/erp/）
+  - 「ProShop ERP enhances defense manufacturers’ operations with ITAR compliance, real-time scheduling, and integrated quality management that supports CMMC-ready machine shops.」（https://proshoperp.com/product/erp/）
+  - 「ProShop ERP helps medical manufacturers streamline operations, improve compliance with FDA and ISO standards, and boost operational efficiency to meet industry demands.」（https://proshoperp.com/product/erp/）
+  - 「Customer Reviews」（https://proshoperp.com/product/erp/）
+  - 「The company’s robust platform, combined with established customer support, makes ProShop attractive for small to-medium sized manufacturers looking to streamline their operations.」（https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/）
+  - 「Aerospace」（https://proshoperp.com/proshoperp-video/proshop-short-overview/）
+  - 「Defense」（https://proshoperp.com/proshoperp-video/proshop-short-overview/）
+  - 「Medical」（https://proshoperp.com/proshoperp-video/proshop-short-overview/）
+  - 「Customers」（https://proshoperp.com/proshoperp-video/proshop-short-overview/）
+  - 「Customer Hub」（https://proshoperp.com/proshoperp-video/proshop-short-overview/）
+- 検索結果の抜粋：
+  - 「ProShop ERP Receives $32 Million Growth Investment from ... — ProShop ERP Receives $32 Million Growth Investment from ... Mainsail Partners https://mainsailpartners.com > prosho...」（https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/）
+  - 「ProShop ERP Pricing 2026 - Capterra — ProShop ERP Pricing 2026 - Capterra Capterra https://www.capterra.com > pricing」（https://www.capterra.com/p/155436/ProShop/pricing/）
+  - 「ProShop ERP Pricing & Cost Details — ProShop ERP Pricing & Cost Details top10erp.org https://www.top10erp.org > pricing」（https://www.top10erp.org/products/proshop-erp/pricing）
+  - 「ProShop Pricing 2026 — ProShop Pricing 2026 G2 https://www.g2.com > ... > ProShop」（https://www.g2.com/products/proshop/pricing）
+  - 「ProShop ERP 2026 Company Profile - PitchBook — ProShop ERP 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/503632-27）
+  - 「ProShop Pricing and Alternatives (2026) - WorkCell — ProShop Pricing and Alternatives (2026) - WorkCell workcell.ai https://workcell.ai > Compare」（https://workcell.ai/compare/proshop）
+  - 「ProShop ERP Software Reviews, Demo & Pricing - 2026 — ProShop ERP Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > erp」（https://www.softwareadvice.com/erp/proshop-profile/）
+  - 「ProShop ERP Software Pricing, Alternatives & More 2026 — ProShop ERP Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > ProShop」（https://www.capterra.com/p/155436/ProShop/）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Fulcrum（Fulcrum Pro）
+- 文脈：小さい加工会社向け：生産管理
+- 日本の代理店：
+  - 「Fulcrum Acoustic has announced the establishment of Fulcrum Acoustic Japan, which will serve as its dedicated distributor in the country. Based in Tokyo, Fulcrum Acoustic Japan will represent the brand’s complete portfolio of loudspeakers, amplifiers, processors and immersive systems. The team will provide localised sales, technical support and training to customers throughout the region.」（https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan）
+  - 「Fulcrum Technologies Opens Japan Office for Semiconductor Manufacturing」（https://www.fulcrum-tech.net/news）
+  - 「Fulcrum Technologies has expanded into the Asia-Pacific region with a new Japan office, strengthening local manufacturing and installation support for semiconductor fabrication facilities. The expansion reinforces Fulcrum’s role as the leading pedestal supplier for semiconductor fabs, delivering solutions from turnkey pedestals to highly engineered systems.」（https://www.fulcrum-tech.net/news）
+  - 「販売店を探す」（https://www.riogrande.co.jp/brand/12/）
+  - 「FULCRUM販売店を探す」（https://www.riogrande.co.jp/brand/12/）
+  - 「Kyoto in Tokyo」（https://www.funq.jp/bicycle-club/article/1020583/）
+  - 「2025年8月下旬より販売開始予定」（https://www.funq.jp/bicycle-club/article/1020583/）
+  - 「FULCRUMの日本総代理店であるカンパニョーロジャパンは、「Sharq 57は、妥協を求めないライダーにとって理想的なホイール」（https://www.funq.jp/bicycle-club/article/1020583/）
+  - 「日本国内限定のカスタムホイール 「Wind 42 CUSTOM」登場！先行販売店舗リストも公開｜FULCRUM」（https://www.funq.jp/bicycle-club/article/1020583/）
+  - 「同社の日本正規販売代理店を務めるカワシマサイクルサプライでは、そんな声に応えるべく各モデルをたっぷりと試せるレンタルプラン「FULCRUM GO」を実施している」（https://www.cyclowired.jp/microsite/node/363689）
+  - 「取扱商品や展示サンプルの有無、在庫状況などにつきましては直接販売店にご確認下さいませ」（https://mcollection.jp/dealers/）
+  - 「代表プロフィール | 株式会社フルクラム」（https://www.fulcrum5.co.jp/profile/index.html）
+- 再販・パートナー制度：
+  - 「Unlike most ERP companies, Fulcrum doesn’t use a value-added reseller or implementer. Instead, you get to work hand-in-hand with our」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「Fulcrum Introduces “Fulcrum Leverage” Partner Program | Fulcrum」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Fulcrum Introduces “Fulcrum Leverage” Partner Program」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「New Program Enables Strategic Technology Partners, Value Added Resellers, Managed Service Providers and Consultants to Drive Digital Transformation for Mobile Workforces」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「The Fulcrum Leverage partner program creates significant business opportunity for a range of candidate partners including:」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「VARs, resellers, and solution providers that generate new revenue streams by getting into the low-code application and safety and inspection market opportunities.」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Supports unlimited users with varying permission levels」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Small to mid-sized manufacturers and job shops with 1 to 200 employees. Designed for OEMs and made-to-order manufacturers in ever-changing, dynamic environments.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Fulcrum Pro caters to job shops, original equipment manufacturers (OEMs), and made-to-order manufacturers operating in fast-paced, constantly evolving settings. It’s ideal for businesses seeking growth but facing labor market constraints.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Fast, Accurate, and Flexible ERP for Manufacturers and Distributors」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Fulcrum Acoustic has announced the establishment of Fulcrum Acoustic Japan, which will serve as its dedicated distributor in the country. Based in Tokyo, Fulcrum Acoustic Japan will represent the brand’s complete portfolio of loudspeakers, amplifiers, processors and immersive systems. The team will provide localised sales, technical support and training to customers throughout the region.」（https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan）
+  - 「that facilitate user navigation and use of the various options or services offered by the web, such asas identifying a session, allowing access to certain areas, facilitating orders, purchases, filling out forms, registration, security, facilitating functionalities (videos, social networks, etc..).」（https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan）
+  - 「ガーミンVaria Vueの4K映像」（https://www.cyclowired.jp/microsite/node/363689）
+  - 「But the benefits of Fulcrum don’t stop there. You’ll also discover how you can view and edit data in a browser, generate customizable PDF reports, and export data in various formats, including JSON, CSV, and geospatial formats. Plus, you’ll learn how Fulcrum’s」（https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/）
+  - 「Sanjiv Kalevar」（https://fulcrumpro.com/grow）
+- 料金：
+  - 「Fulcrum Pro - 2025 Pricing + Reviews - For Manufacturers」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「. The starting price (if you have $0-$3M annual revenue) for the three tiers is as follows:」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「$6,000/year + $5,000 implementation fee」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「$12,000/year + $5,400 implementation fee」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「$18,000/year + $8,100 implementation fee」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「$6,000」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Annual revenue $1M-$10M」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「$43 US」（https://www.fulcrumapp.com/pricing/）
+  - 「$55 US」（https://www.fulcrumapp.com/pricing/）
+  - 「Fulcrum Pro Pricing and Alternatives (2026) | WorkCell」（https://workcell.ai/compare/fulcrum）
+  - 「Published plans from $995 to $4,995 a month, unlimited users, with the implementation fee quoted up front.」（https://workcell.ai/compare/fulcrum）
+  - 「Small job shops with 5-100 employees and revenue under $20 million.」（https://workcell.ai/compare/fulcrum）
+  - 「Built in 1969, Bethany First Church of Nazarene is a 1,650-seat mid-century modern cathedral with a large pipe organ as a backdrop for the stage. With a growing congregation, they reconfigured seating and expanded their programming. To support these changes, they desired a new sound system that could reinforce both their traditional services and contemporary band-driven worship.」（https://www.fulcrum-acoustic.com/）
+  - 「Restoration Church is a 500-seat house of worship in Whiteland, Indiana, used for contemporary services that feature a full band and up to eight vocalists. After a lightning strike damaged key components of the existing audio system, the church needed a reliable replacement that could be installed quickly while still delivering consistent, intelligible sound throughout the room.」（https://www.fulcrum-acoustic.com/）
+  - 「After their main campus reached capacity, Harvester Church expanded to a new worship center in O’Fallon, Missouri. The building, originally constructed as a bowling alley in the 1984, was renovated into a modern worship space seating about 350 people. The goal for the new sound system was to deliver clear, engaging sound for music and speech while keeping the system visually unobtrusive.」（https://www.fulcrum-acoustic.com/）
+- 無料体験：
+  - 「Free demo」（https://www.fulcrumapp.com/partners/）
+  - 「Free trial」（https://www.fulcrumapp.com/partners/）
+  - 「Request a demo」（https://www.fulcrumapp.com/partners/）
+  - 「Secure your spot for an in-person demo >」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「Schedule a Demo」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「Fulcrum ERP Vendor - ERP Pricing, Demo & Comparison Tool」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Free demo」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Free trial」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Request a demo」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Contractor foreman is an affordable construction management software for contractors with a free trial and prices starting at $49/month.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Free demo」（https://www.fulcrumapp.com/pricing/）
+  - 「Free trial」（https://www.fulcrumapp.com/pricing/）
+  - 「Yes. We offer a free trial for you to see if Fulcrum fits your needs before you decide to purchase.」（https://www.fulcrumapp.com/pricing/）
+  - 「Start your FREE trial now!」（https://www.fulcrumapp.com/pricing/）
+  - 「Request a demo」（https://www.fulcrumapp.com/pricing/）
+- 会社の規模：
+  - 「Fulcrum Series A2」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「Fulcrum was founded in 2015.」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Small to mid-sized manufacturers and job shops with 1 to 200 employees. Designed for OEMs and made-to-order manufacturers in ever-changing, dynamic environments.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「. The starting price (if you have $0-$3M annual revenue) for the three tiers is as follows:」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「11-50 employees」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Annual revenue $1M-$10M」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「My husband and I were each working 60 hours a week, and didn’t have the time we wanted to spend with our kids. Now, we’re only working 30 hours and our revenue continues to increase. I didn’t think it was possible!」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Small job shops with 5-100 employees and revenue under $20 million.」（https://workcell.ai/compare/fulcrum）
+  - 「Fulcrum Series A2」（https://fulcrumpro.com/）
+  - 「Fulcrum Series A2」（https://fulcrumpro.com/demo-fulcrum）
+  - 「Fulcrum Series A2」（https://fulcrumpro.com/product-update/builder-one-week-free-trial）
+  - 「Grow - Fulcrum’s $3.1 Million Funding」（https://fulcrumpro.com/grow）
+  - 「On August 25, 2020, we closed on a $3.1 million funding deal to help us grow into our big paws」（https://fulcrumpro.com/grow）
+  - 「Lauren co-founded and served as Managing Partner of Oxford Intelligence Partners, was a founding partner of Victory Networks, founded Sumo Capital and Budo Holdings, and currently serves as a mentor at startup accelerators 43North and Founders Institute.」（https://fulcrumpro.com/grow）
+  - 「Battery Ventures is a global, technology-focused investment firm pursuing the most prominent companies and ideas. Founded in 1983, our firm makes venture-capital and private equity investments from six offices around the world. We work hard, but humbly, and are guided by data-driven processes. We seek out extraordinary business leaders who operate the same way.」（https://fulcrumpro.com/grow）
+- 小さい会社向け：
+  - 「Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.」（https://www.fulcrumapp.com/partners/）
+  - 「Sign up」（https://www.fulcrumapp.com/partners/）
+  - 「Can your small business afford an ERP?」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Sign up」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「An ERP software for small to mid-sized manufacturers and job shops with modules for quoting, job scheduling, production tracking, and more.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Small to mid-sized manufacturers and job shops with 1 to 200 employees. Designed for OEMs and made-to-order manufacturers in ever-changing, dynamic environments.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Fulcrum Pro caters to job shops, original equipment manufacturers (OEMs), and made-to-order manufacturers operating in fast-paced, constantly evolving settings. It’s ideal for businesses seeking growth but facing labor market constraints.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Contractor foreman is an affordable construction management software for contractors with a free trial and prices starting at $49/month.」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.」（https://www.fulcrumapp.com/pricing/）
+  - 「Sign up」（https://www.fulcrumapp.com/pricing/）
+  - 「This page compares WorkCell and Fulcrum Pro for manufacturing operations. Fulcrum Pro has revenue-based pricing for job shops, while WorkCell has broader integrations and no-code reporting tools.」（https://workcell.ai/compare/fulcrum）
+  - 「WorkCell uses flat, published monthly plans instead of a revenue-based model, so costs don't rise automatically as your company grows.」（https://workcell.ai/compare/fulcrum）
+  - 「Small job shops with 5-100 employees and revenue under $20 million.」（https://workcell.ai/compare/fulcrum）
+  - 「WorkCell uses published, flat-rate monthly plans. Fulcrum Pro uses a revenue-based model with unlimited users, where the annual fee is tied to your company's annual revenue.」（https://workcell.ai/compare/fulcrum）
+- 顧客・用途：
+  - 「Your hub for Fulcrum thought leadership, events, customer success stories, and more」（https://www.fulcrumapp.com/partners/）
+  - 「Customer stories」（https://www.fulcrumapp.com/partners/）
+  - 「Adapt swiftly to new customer demands and shifting market dynamics.」（https://www.fulcrumapp.com/partners/）
+  - 「Customer story」（https://www.fulcrumapp.com/partners/）
+  - 「Customer Stories」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「Manufacturers, first, last, and always. Our software fits the needs of all types of manufacturers; as long as you have a production process for physical goods, we can help you get higher throughput and more on-time deliveries. While most of our customers fall into the small or medium category, we do have larger customers as well.」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「, and, soon, a powerful network of suppliers and customers all on the same platform.」（https://fulcrumpro.com/lp/manufacturing-software）
+  - 「CMMC Compliance: What Aerospace and Defense Manufacturers Need to Know」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Healthcare & Medical ERP」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Healthcare and medical ERP: major products and players」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Five things to consider when implementing a medical device ERP」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Automotive ERP Software」（https://www.erpfocus.com/fulcrum-pro.html）
+  - 「Your hub for Fulcrum thought leadership, events, customer success stories, and more」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「Customer stories」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+  - 「MSPs and ISVs that can license Fulcrum as a complement to managed services or software offerings without adding any hardware infrastructure to provide a cost effective solution for field team data collection across a broad number of use cases in multiple industries, including energy, construction, telecom, civil engineering and more.」（https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/）
+- 検索結果の抜粋：
+  - 「Fulcrum Pro - 2025 Pricing + Reviews - For Manufacturers — Fulcrum Pro - 2025 Pricing + Reviews - For Manufacturers Software Connect https://softwareconnect.com > reviews」（https://softwareconnect.com/reviews/fulcrum-pro/）
+  - 「Fulcrum Pro Pricing and Alternatives (2026) - WorkCell — Fulcrum Pro Pricing and Alternatives (2026) - WorkCell workcell.ai https://workcell.ai > Compare」（https://workcell.ai/compare/fulcrum）
+  - 「フルクラム 、波型リムの新型エアロホイール「Sharq 57」発表 ... — フルクラム 、波型リムの新型エアロホイール「Sharq 57」発表 ... funq.jp https://www.funq.jp > bicycle-club > article」（https://www.funq.jp/bicycle-club/article/1020583/）
+  - 「[Super Cheap] What's the deal with FULCRUM Racing3 ... — [Super Cheap] What's the deal with FULCRUM Racing3 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=lkgDES_k4dY）
+  - 「代表プロフィール - 株式会社フルクラム — 代表プロフィール - 株式会社フルクラム 株式会社フルクラム https://www.fulcrum5.co.jp > profile」（https://www.fulcrum5.co.jp/profile/index.html）
+  - 「2026 FULCRUM WHEEL （2026年 フルクラム ホイール） — 2026 FULCRUM WHEEL （2026年 フルクラム ホイール） Cozy Bicycle https://www.cozybicycle.com > fulcrum > fulcrumwheel」（https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF）
+  - 「Fulcrum Free Trial : 14 Days to Build and Test Field Apps — Fulcrum Free Trial : 14 Days to Build and Test Field Apps Fulcrum https://www.fulcrumapp.com > lps > f...」（https://www.fulcrumapp.com/lps/free-trial-general/）
+  - 「Fulcrum Software Reviews, Demo & Pricing - 2026 — Fulcrum Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > 32...」（https://www.softwareadvice.com/product/328655-Fulcrum-Pro/）
+  - 「Grow - Fulcrum's $3.1 Million Funding — Grow - Fulcrum's $3.1 Million Funding Fulcrum Pro https://fulcrumpro.com > grow」（https://fulcrumpro.com/grow）
+  - 「Fulcrum ( Business /Productivity Software) 2026 Company Profile — Fulcrum ( Business /Productivity Software) 2026 Company Profile PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/436028-14）
+  - 「US-based Fulcrum snaps $18M to connect manufacturers ... — US-based Fulcrum snaps $18M to connect manufacturers ... Tech Funding News https://techfundingnews.com > us-bas...」（https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/）
+  - 「Fulcrum Revenue 2020: $3.3M, $3.1M Raised - GetLatka — Fulcrum Revenue 2020: $3.3M, $3.1M Raised - GetLatka GetLatka https://getlatka.com > ... > ERP Systems」（https://getlatka.com/companies/fulcrum）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Steelhead（Steelhead Technologies）
+- 文脈：小さい加工会社向け：表面処理・熱処理の生産管理
+- 日本の代理店：
+  - 「2010年8月下旬に販売開始する」（https://it.impress.co.jp/articles/-/8327）
+  - 「株式会社インプレス」（https://it.impress.co.jp/articles/-/8327）
+- 再販・パートナー制度：
+  - 「Referral Program」（https://gosteelhead.com/）
+  - 「THE JOB SHOP ERP THAT POWERS MARGIN AND GROWTH.」（https://gosteelhead.com/）
+  - 「Together, the three industry leaders bring decades of heat treating expertise to one platform built for margin and growth」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「announced today the acquisitions of Visual Shop and Bluestreak, two longstanding providers of job shop management and QMS software. Customers of all three companies now have access to next-generation technology to help them get ahead: an all-in-one system built on a digital production floor, with automation and AI built in to power margin and growth.」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「Steelhead is the technology partner for heat treaters, metal finishers, and fabricators, providing an AI-powered ERP built to help job shops get ahead by powering margin and growth. Built with the production floor in mind, its ease of use enables real-time tracking of every process, giving management teams the data they need to make better decisions, faster. Learn more at gosteelhead.com.」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「Finishing shops, coating equipment manufacturers and pretreatment specialists are a crucial aspect of agricultural OEM supply chain and market success.」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「From exacting paint specs to strategies for avoiding powder coating edge failures, the November 2026 issue of Products Finishing explores how suppliers and OEMs are engineering finishes tough enough to survive the harshest jobsite and field conditions.」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「Referral Program」（https://gosteelhead.com/jobshopsoftware）
+  - 「With the new infusion of funds from Mainsail, the Calumet company will be able to expand the platform’s capabilities by investing in AI-driven tools that can help North American manufacturers achieve better efficiency, higher margins and greater scalability.」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「“Shops that want to scale need tools and partners that can scale with them,” says Jeff Halonen, co-founder and CEO of Steelhead. “Our customers are experiencing margin and revenue growth, as they finally have a system built to help drive these opportunities. With Mainsail’s investment, we hope to share it with thousands of more shops so they can get ahead — and stay ahead.”」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Finishing shops, coating equipment manufacturers and pretreatment specialists are a crucial aspect of agricultural OEM supply chain and market success.」（https://www.pfonline.com/news/visual-shop-bluestreak-join-forces-with-steelhead-technologies）
+  - 「From exacting paint specs to strategies for avoiding powder coating edge failures, the November 2026 issue of Products Finishing explores how suppliers and OEMs are engineering finishes tough enough to survive the harshest jobsite and field conditions.」（https://www.pfonline.com/news/visual-shop-bluestreak-join-forces-with-steelhead-technologies）
+  - 「The three industry partners are bringing decades of metal finishing and heat treating expertise to one platform built for margin and growth.」（https://www.pfonline.com/news/visual-shop-bluestreak-join-forces-with-steelhead-technologies）
+  - 「(Delafield, Wisconsin), two longstanding providers of job shop management and quality management system (QMS) software. Customers of all three companies now have access to an all-in-one system built on a digital production floor, with automation and AI built in to power margin and growth.」（https://www.pfonline.com/news/visual-shop-bluestreak-join-forces-with-steelhead-technologies）
+  - 「Referral Program」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+- 料金：
+  - 「Steelhead Technologies Announces $84M Growth Capital Investment from Mainsail Partners」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「$92.0M」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead Technologies has raised $92.0M across 3 funding rounds.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead Technologies has raised $92.0M in total across 3 funding rounds.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead Technologies has raised $92.0M across 3 funding rounds. Most recently, it raised $84.0M Other Equity in December 2025.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「$92.0M raised」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「$84M Venture Round」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「$6M Series A」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「$2M Seed」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead Technologies Receives $84 Million Growth Capital Investment | Products Finishing」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「AkzoNobel's Asia Divestment Complete in $1.35B Agreement」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「Steelhead Technologies Receives $84 Million Growth Capital Investment」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「(Calumet, Michigan), an all-in-one ERP software purpose-built for metal finishers, announces a $84 million growth investment from」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「Innovation in Calumet: Steelhead Technologies secures $84M Boost – UPword」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Innovation in Calumet: Steelhead Technologies secures $84M Boost」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+- 無料体験：
+  - 「Get Demo」（https://gosteelhead.com/）
+  - 「Schedule Demo」（https://gosteelhead.com/）
+  - 「Watch a demo」（https://gosteelhead.com/）
+  - 「SCHEDULE A DEMO」（https://gosteelhead.com/）
+  - 「Real-Time Job Tracking with Steelhead’s Digital Production Floor - Manufacturing ERP Demo」（https://gosteelhead.com/）
+  - 「Schedule a demo」（https://gosteelhead.com/）
+  - 「"Metal finishing job shops have been under decades of competitive pressure from offshoring, workforce challenges, and volatility in costs,” says Jeff Halonen, CEO/Co-Founder, Steelhead Technologies. “With demographic changes and AI completely changing the operational landscape, the challenges remain as tall as ever.”」（https://finishingandcoating.com/index.php/new-technology/2959-visual-shop-and-bluestreak-join-forces-with-steelhead-technologies）
+  - 「Get Demo」（https://gosteelhead.com/jobshopsoftware）
+  - 「Schedule Demo」（https://gosteelhead.com/jobshopsoftware）
+  - 「Schedule a demo」（https://gosteelhead.com/jobshopsoftware）
+  - 「Get Demo」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+  - 「Schedule Demo」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+  - 「Schedule a demo」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+  - 「REQUEST DEMO」（https://www.riverbed.com/products/steelhead/）
+  - 「SALE&アウトレット商品(デモロッド他）」（https://www.dorllyvarden.com/product/9777）
+- 会社の規模：
+  - 「Steelhead Technologies has raised $92.0M across 3 funding rounds.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「3 funding rounds」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead Technologies has raised $92.0M in total across 3 funding rounds.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead Technologies has raised $92.0M across 3 funding rounds. Most recently, it raised $84.0M Other Equity in December 2025.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「$92.0M raised」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「$6M Series A」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「: Combines CRM for sales pipelines and customer tracking, accounting tied directly to production for accurate cost/revenue visibility, and customer portals that reduce status inquiries by sharing quotes, invoices, and certifications instantly[2].」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「The potential of Steelhead’s system so impressed Mainsail Partners that the growth equity firm has awarded Steelhead $84 million in growth investment funding.」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Steelhead was founded in 2021. It is based in Calumet.」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Steelhead’s technology has enhanced the economy of its customers’ communities too. Customers have processed more than 1.6 billion parts on the platform, and their revenue trends indicate a 17% annual growth rate.」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Minnesota’s D&K Powdercoating tripled in revenue and size over four years since digitizing production with Steelhead, and Houston’s Precision Spray cut its average production cycle time from 35 days to seven.」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Steelhead Technologies Secures $12.5 Million Series B Funding: Transforming Job Shop Manufacturing with Next-Generation ERP Solution | Steelhead Technologies」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+  - 「Steelhead Technologies Secures $12.5 Million Series B Funding: Transforming Job Shop Manufacturing with Next-Generation ERP Solution」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+  - 「Funding Led by Innovius Capital, with Participation from Stage 2 Capital, TIA Ventures, C2 Ventures, and Calvary Ventures LLC. Proceeds to Drive Product Innovation, Team Expansion, and Enhanced Service for Job Shops.」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+  - 「Steelhead Technologies, a leading provider of integrated manufacturing management solutions for job shops, today announced the successful completion of a $12.5 million Series B funding round. This milestone brings Steelhead’s total funding to $23 million, underscoring its commitment to revolutionizing the job shop manufacturing industry with cutting-edge technology.」（https://gosteelhead.com/steelhead-technologies-secures-125-million-series-b-funding-transforming-job-shop-manufacturing）
+- 小さい会社向け：
+  - 「THE JOB SHOP ERP THAT POWERS MARGIN AND GROWTH.」（https://gosteelhead.com/）
+  - 「STEELHEAD IS THE ALL-IN-ONE JOB SHOP AND MANUFACTURING ERP THAT ENABLES YOU TO MOVE PARTS, NOT PAPER.」（https://gosteelhead.com/）
+  - 「The AI assistant built into your fully digital job shop.」（https://gosteelhead.com/）
+  - 「Steelhead Watch Tower is a real-time dashboard that gives job shops instant visibility into production progress, with the ability to save custom views based on your needs.」（https://gosteelhead.com/）
+  - 「Steelhead is built to adapt to the unique workflows of each job shop, you can configure the system to match your exact processes.」（https://gosteelhead.com/）
+  - 「Steelhead offers responsive, knowledgeable support from a Michigan based team that understands job shops and is dedicated to keeping your operation running smoothly.」（https://gosteelhead.com/）
+  - 「Trusted by Job Shops Across North America」（https://gosteelhead.com/）
+  - 「Elevating Job Shops | Optimizing the shop Floor」（https://gosteelhead.com/）
+  - 「Discover how Steelhead’s Job Shop ERP system helps manufacturers increase revenue, gain real-time visibility…」（https://gosteelhead.com/）
+  - 「announced today the acquisitions of Visual Shop and Bluestreak, two longstanding providers of job shop management and QMS software. Customers of all three companies now have access to next-generation technology to help them get ahead: an all-in-one system built on a digital production floor, with automation and AI built in to power margin and growth.」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「Steelhead is the technology partner for heat treaters, metal finishers, and fabricators, providing an AI-powered ERP built to help job shops get ahead by powering margin and growth. Built with the production floor in mind, its ease of use enables real-time tracking of every process, giving management teams the data they need to make better decisions, faster. Learn more at gosteelhead.com.」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「Steelhead Technologies: Funding, Team & Investors | Startup Intros」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Startup Intros, Inc.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Digital production management system for job shops and manufacturing.」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Startup」（https://startupintros.com/orgs/steelhead-technologies）
+- 顧客・用途：
+  - 「Customer Portal」（https://gosteelhead.com/）
+  - 「Customer Relationship Management」（https://gosteelhead.com/）
+  - 「Streamlines communication, track customer interactions, and manage sales pipelines—all within the Steelhead platform. With real-time visibility into quotes, orders, and customer history, Steelhead CRM helps teams stay organized, close more deals, and deliver exceptional service.」（https://gosteelhead.com/）
+  - 「Give your customers instant access to order updates, invoices, quotes, and certifications. You'll deliver an unmatched customer experience—while saving a ton of time.」（https://gosteelhead.com/）
+  - 「DOWNLOAD CASE STUDY」（https://gosteelhead.com/）
+  - 「announced today the acquisitions of Visual Shop and Bluestreak, two longstanding providers of job shop management and QMS software. Customers of all three companies now have access to next-generation technology to help them get ahead: an all-in-one system built on a digital production floor, with automation and AI built in to power margin and growth.」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「Customer Perspective」（https://mainsailpartners.com/visual-shop-and-bluestreak-join-forces-with-steelhead-technologies/）
+  - 「: Combines CRM for sales pipelines and customer tracking, accounting tied directly to production for accurate cost/revenue visibility, and customer portals that reduce status inquiries by sharing quotes, invoices, and certifications instantly[2].」（https://startupintros.com/orgs/steelhead-technologies）
+  - 「Steelhead says customers of all three companies now have access to its next-generation, all-in-one system built on a digital production floor, with automation and AI built in.」（https://finishingandcoating.com/index.php/new-technology/2959-visual-shop-and-bluestreak-join-forces-with-steelhead-technologies）
+  - 「The company says customers will benefit from access to the people who know metal finishing and heat treating best, drawing on the long-standing experience at Visual Shop and Bluestreak.」（https://finishingandcoating.com/index.php/new-technology/2959-visual-shop-and-bluestreak-join-forces-with-steelhead-technologies）
+  - 「automotive」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「Navigating the Shift: Trivalent Chromium Plating in the Automotive Steel Market」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「MKS Atotech details the path to success to adopting trivalent chromium plating for automotive steel bumpers and exterior components.」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「Automotive Coatings」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+  - 「GKN Aerospace Teams With Rösler on HPT Blade Mass Finishing, Shot Blasting」（https://www.pfonline.com/news/steelhead-technologies-receives-84-million-growth-capital-investment）
+- 検索結果の抜粋：
+  - 「Visual Shop and Bluestreak Join Forces with Steelhead ... — Visual Shop and Bluestreak Join Forces with Steelhead ... Finishing and Coating https://finishingandcoating.com > 295...」（https://finishingandcoating.com/index.php/new-technology/2959-visual-shop-and-bluestreak-join-forces-with-steelhead-technologies）
+  - 「Steelhead Software Reviews, Demo & Pricing - 2026 — Steelhead Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > ste...」（https://www.softwareadvice.com/manufacturing/steelhead-profile/）
+  - 「Innovation in Calumet: Steelhead Technologies secures $84M ... — Innovation in Calumet: Steelhead Technologies secures $84M ... Upword Michigan https://upwordmichigan.com > from-t...」（https://upwordmichigan.com/from-the-u-p-to-global-markets-steelhead-technologies-lands-84m-investment/）
+  - 「Built for Growth: Steelhead Technologies Announces $84M ... — Built for Growth: Steelhead Technologies Announces $84M ... Business Wire https://www.businesswire.com > home」（https://www.businesswire.com/news/home/20251211474355/en/Built-for-Growth-Steelhead-Technologies-Announces-%2484M-Growth-Capital-Investment-from-Mainsail-Partners）
+  - 「Norwegian Steelhead Trout – Omega-3 Rich - Wild Fork Foods — Norwegian Steelhead Trout – Omega-3 Rich - Wild Fork Foods Wild Fork Foods https://wildforkfoods.com > products」（https://wildforkfoods.com/products/norwegian-steelhead-trout/?srsltid=AYCX9vJsMXg2t3857Jt3EnrITnjRKKyXc4uwR-vmZIHev7N2DT8suk5P）
+  - 「Steelhead - Whole Fish, USA, 6 lbs - Pike Place Fish Market — Steelhead - Whole Fish, USA, 6 lbs - Pike Place Fish Market Goldbelly https://pikeplacefish.goldbelly.com > ...」（https://pikeplacefish.goldbelly.com/whole-fresh-steelhead）
+  - 「Steelhead Trout($22.99/lb) — FreshWay Fish — Steelhead Trout($22.99/lb) — FreshWay Fish FreshWay Fish https://www.freshwayfish.com > steel...」（https://www.freshwayfish.com/seafood/steelhead-trout）
+  - 「Airflo PolyLeader SALMON/ STEELHEAD 5ft(24lb) — Airflo PolyLeader SALMON/ STEELHEAD 5ft(24lb) ドリーバーデン https://www.dorllyvarden.com > ... > リーダー」（https://www.dorllyvarden.com/product/9777）
+  - 「初心者質問：Riverbed Steelhead cX570って何するもんなの？ — 初心者質問：Riverbed Steelhead cX570って何するもんなの？ Reddit https://www.reddit.com > networking > comments > noob...」（https://www.reddit.com/r/networking/comments/3npylm/noob_question_what_does_a_riverbed_steelhead/?tl=ja）
+  - 「Steelhead Technologies 36-Hour Manufacturing ERP ... - Vimeo — Steelhead Technologies 36-Hour Manufacturing ERP ... - Vimeo Vimeo https://vimeo.com > ... > Videos」（https://vimeo.com/881706018）
+  - 「Steelhead Technologies 2026 Company Profile - PitchBook — Steelhead Technologies 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/497887-93）
+  - 「Steelhead Technologies Raises $6M in Series a Funding — Steelhead Technologies Raises $6M in Series a Funding Steelhead Technologies https://gosteelhead.com > steelhead-te...」（https://gosteelhead.com/steelhead-technologies-raises-6m-series-funding）
+  - 「Steelhead Technologies - 2026 Company Profile - Tracxn — Steelhead Technologies - 2026 Company Profile - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/steelhead-technologies/__ZW9dbvLadki9WFYvOdVTzJKnjD3bPggVhLLui4VMrVY）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Shapr3D（Shapr3D）
+- 文脈：小さい会社向け：手軽な3D設計
+- 日本の代理店：
+  - 「今回、公式アンバサダーとして任命していただきましたが、実は私からShapr3Dの日本販売店であるGENIO solutions様へアプローチしました！！快くご快諾いただき、今に至るという感じです」（https://sibucho-laboratory.com/shapr3d-3/）
+  - 「※本記事は株式会社MAZINのプロモーションを含みます」（https://sibucho-laboratory.com/shapr3d-2/）
+- 再販・パートナー制度：
+  - 「Apply below and get a unique discount code once approved. We review every application within 5 business days.」（https://www.shapr3d.com/affiliate/program）
+  - 「20% commission」（https://www.shapr3d.com/affiliate/program）
+  - 「Your unique discount code gives your followers 10% off any Shapr3D plan, making it easier to convert.」（https://www.shapr3d.com/affiliate/program）
+  - 「No waiting. Commissions from the previous month land in your account on the 15th.」（https://www.shapr3d.com/affiliate/program）
+  - 「How does the 10% discount work?」（https://www.shapr3d.com/affiliate/program）
+  - 「You get a unique code to share with your audience. Anyone who uses it gets 10% off any Shapr3D plan, and you earn 20% commission on that sale.」（https://www.shapr3d.com/affiliate/program）
+  - 「Commissions from the previous month are paid on the 15th.」（https://www.shapr3d.com/affiliate/program）
+  - 「Privacy practices may vary, for example, based on the features you use or your age.」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「Do you offer discounts for education?」（https://www.shapr3d.com/pricing）
+  - 「Volume discounts:」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「No public volume discount tiers exist. Enterprise pricing requires direct sales engagement.」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Move away from strict CAD processes not built for exploring variations freely.」（https://www.shapr3d.com/）
+  - 「Real Results for Leading Automotive OEMs」（https://www.shapr3d.com/）
+  - 「Several of the world’s largest automotive OEMs, known for their high production volumes and rigorous demands, have turned to Shapr3D to streamline their workflows and optimize production. By enabling agile, on-site design and editing, these companies have seen:」（https://www.shapr3d.com/）
+  - 「Shapr3D reduces design times significantly, allowing teams to create, modify, and finalize designs on tight deadlines. One leading OEM reported cutting manufacturing by-products design cycles by more than half, enabling faster production and quicker response to market demands.」（https://www.shapr3d.com/）
+- 料金：
+  - 「Earn 20% on every subscription that converts through your code. Payments go out monthly.」（https://www.shapr3d.com/affiliate/program）
+  - 「Earn 20% on every paid subscription your audience converts to (monthly or annual plans)」（https://www.shapr3d.com/affiliate/program）
+  - 「$37.99」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「$59.99」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「$299.99」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「$499.99」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「$32.99」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「$249.99」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「Shapr3D Pricing」（https://www.shapr3d.com/pricing）
+  - 「$299 Billed annually, excluding VAT」（https://www.shapr3d.com/pricing）
+  - 「can create and edit team projects with all modeling tools. Can only be claimed with company email invites. Up to 2 seats per team.」（https://www.shapr3d.com/pricing）
+  - 「Only refunds requested within 14 days of the subscription start date can be fulfilled.」（https://www.shapr3d.com/pricing）
+  - 「Why is Shapr3D a subscription service?」（https://www.shapr3d.com/pricing）
+  - 「Shapr3D subscription plans – Shapr3D Help Center」（https://support.shapr3d.com/hc/en-us/articles/7871961422364-Shapr3D-subscription-plans）
+  - 「Shapr3D subscription plans」（https://support.shapr3d.com/hc/en-us/articles/7871961422364-Shapr3D-subscription-plans）
+- 無料体験：
+  - 「Congo, The Democratic Republic Of The」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「Lao People's Democratic Republic」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「Start 14-day free trial」（https://www.shapr3d.com/pricing）
+  - 「Get a reminder email that your free trial will end.」（https://www.shapr3d.com/pricing）
+  - 「How your free trial works」（https://www.shapr3d.com/pricing）
+  - 「Every Shapr3D license purchased on the website comes with a 14-day money-back guarantee.」（https://www.shapr3d.com/pricing）
+  - 「Shapr3D is compatible with all major CAD software (including but not limited to SolidWorks, AutoCAD, Rhino3D, Fusion360, and CATIA). You can export your Shapr3D designs in these file formats: X_T, STEP, IGES, OBJ (with colors), STL, DWG, and DXF. With a free plan, you can export low-res STL for 3D printing.」（https://www.shapr3d.com/pricing）
+  - 「Different software, different prices. Not everything costs the same, I get it. Still, having a lower-tier subscription would be great for anything beyond just testing the software, because in my opinion, the free tier of Shapr3D is nothing more than a very good demo.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「Most hobbyists don’t need the full professional feature set. We don’t run businesses, we don’t sell our designs, and we don’t need advanced enterprise-level tools. At the same time, the free version of Shapr3D is very limiting and feels more like a demo than a viable long-term option.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「But also, it would have been great to know up front just how useless shapr files would be. The few minor things I’ve made are neither portable nor usable- unless I pay (technically I could enroll in the free trial for pro and export steps). I understand the need for revenue-I’m not looking to freeload.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「I will say that I had tried the free version and liked it. I didn’t want to pay the subscription price because I couldn’t justify it. I had tried the free ones like fusion and even paid for the solidworks one, but they aren’t nearly as user friendly as this one. I purchased the yearly one and I’m fine with it. It does what I need, it is easy, and their feature set is great.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「Academic use only; no commercial projects」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Academic use only; commercial and revenue-generating projects are explicitly prohibited.」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「14-day money-back guarantee」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Free trial terms:」（https://checkthat.ai/brands/shapr3d/pricing）
+- 日本語対応：
+  - 「English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish」（https://app.sensortower.com/overview/1091675654?country=US）
+  - 「これ、一見日本語対応してるっぽいんですが、その先に飛んでいくと全部英語です」（https://sibucho-laboratory.com/shapr3d-3/）
+  - 「最近では日本語サポートも始まったみたいですが、まだまだ発展途上ですね」（https://sibucho-laboratory.com/shapr3d-3/）
+  - 「また、日本語の技術サポートも受けれるようになります」（https://sibucho-laboratory.com/shapr3d-3/）
+  - 「日本語とその他10言語」（https://apps.apple.com/jp/app/shapr3d-%E3%81%AE-cad-%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0/id1091675654）
+  - 「日本語、イタリア語、スペイン語、ドイツ語、フランス語、ポルトガル語、ロシア語、簡体字中国語、繁体字中国語、英語、韓国語」（https://apps.apple.com/jp/app/shapr3d-%E3%81%AE-cad-%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0/id1091675654）
+- 会社の規模：
+  - 「I would have subscribed months ago if there was a hobbyist version where the exports were usable. The current price is too much for us folks that have no plans to make revenue from shapr3d. It’s difficult for a hobbyist to justify $300.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「In 2014, Shapr3D was founded by István Csanády in Budapest, Hungary. He made a bet on Apple's (at the time rumored) iPad Pro, believing that Apple would reposition the iPad from a content consumption device to a content creation tool. This vision drove the founding of Shapr3D, combining his background in CAD with the emerging potential of professional tablet computing.」（https://en.wikipedia.org/wiki/Shapr3D）
+  - 「2021: The company reached approximately 100 employees.」（https://en.wikipedia.org/wiki/Shapr3D）
+  - 「, the mobile 3D CAD modeling company, today announced a collaboration with Siemens PLM Software and Tech Soft 3D to create the world’s first CAD system to run Siemens’ Parasolid® software and HOOPS Exchange natively on iOS, and specifically the iPad Pro. This announcement comes after securing a seed round of funding led by InReach Ventures in August of 2017.」（https://www.newswire.com/news/shapr3d-brings-powerful-3d-cad-modeling-to-ipad-pro-20099793）
+  - 「Shining3D Freescan Combo - Metrology Series」（https://www.digitmakers.ca/products/shapr3d-design-software-2-months-free-trial?srsltid=AYCX9vLKkieQRMa9ALjUiZNNLulJfXwZGXWbUCf63SStvIEPOsUcRNZL）
+  - 「Shapr3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/118263-34）
+  - 「Shapr3D Valuation & Funding」（https://pitchbook.com/profiles/company/118263-34）
+  - 「3. Early Stage VC (Series A)」（https://pitchbook.com/profiles/company/118263-34）
+  - 「To view Shapr3D’s complete valuation and funding history, request access »」（https://pitchbook.com/profiles/company/118263-34）
+  - 「When was Shapr3D founded?」（https://pitchbook.com/profiles/company/118263-34）
+  - 「Shapr3D was founded in 2015.」（https://pitchbook.com/profiles/company/118263-34）
+- 小さい会社向け：
+  - 「Sign up」（https://www.shapr3d.com/affiliate/program）
+  - 「Sign up」（https://www.shapr3d.com/pricing）
+  - 「Sign up to download」（https://www.shapr3d.com/pricing）
+  - 「Cancel anytime 24 hours before.」（https://www.shapr3d.com/pricing）
+  - 「Shapr3D is compatible with all major CAD software (including but not limited to SolidWorks, AutoCAD, Rhino3D, Fusion360, and CATIA). You can export your Shapr3D designs in these file formats: X_T, STEP, IGES, OBJ (with colors), STL, DWG, and DXF. With a free plan, you can export low-res STL for 3D printing.」（https://www.shapr3d.com/pricing）
+  - 「The Pro subscription is 25€ per month if billed yearly.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「Please consider a more affordable, hobby-focused subscription tier. It would mean a lot to a very large and passionate community.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「A hobby costs money. Cyclists often spend thousands of euros on a high-end racing bike, photographers invest heavily in cameras and lenses, and many other hobbies require expensive equipment. Nobody expects the premium products in those hobbies to be sold at “hobby prices.” If the top-end option is beyond your budget, you usually choose a more affordable alternative.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「with full Pro features. You'll need to add a credit card to activate. A reminder email arrives on day 12, and charges occur automatically on day 14. Cancel anytime up to 24 hours before to avoid billing.」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Plan7Architect offers perpetual-license architectural design software for small firms and DIY builders seeking affordable alternatives to subscription...」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Sign up」（https://www.shapr3d.com/）
+  - 「Sign up to download」（https://www.shapr3d.com/）
+  - 「Shapr3D has a free plan with most modeling features available, meaning you can download and get started modeling right away. Paid plans allow you to」（https://www.shapr3d.com/）
+  - 「Shapr3D is used to design 3D models for woodworking, 3D printing, furniture design, product design, industrial design, manufacturing, mechanical engineering, and equipment parts. It is used by solo designers and hobbyists, small businesses, consultants, and enterprises.」（https://www.shapr3d.com/）
+  - 「Shapr3D Cloud is a set of cloud-based features that are automatically enabled when you sign up f...」（https://support.shapr3d.com/hc/en-us）
+- 顧客・用途：
+  - 「Customer Support」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「I understand that I probably wasn’t the target audience originally for this application, but this might be an opportunity for Shapr to reach a growing new group of customers.」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「Customer Service」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Dassault Systèmes provides 3D design, simulation, and product lifecycle management software that creates digital twins for aerospace, automotive, manu...」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「CLIP STUDIO PAINT is digital art software specialized for manga, comics, illustration, and animation used by individual artists and small studios worl...」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Real Results for Leading Automotive OEMs」（https://www.shapr3d.com/）
+  - 「Several of the world’s largest automotive OEMs, known for their high production volumes and rigorous demands, have turned to Shapr3D to streamline their workflows and optimize production. By enabling agile, on-site design and editing, these companies have seen:」（https://www.shapr3d.com/）
+  - 「Shapr3D is used to design 3D models for woodworking, 3D printing, furniture design, product design, industrial design, manufacturing, mechanical engineering, and equipment parts. It is used by solo designers and hobbyists, small businesses, consultants, and enterprises.」（https://www.shapr3d.com/）
+  - 「Automotive materials (car paint, leather, textile, plastic)」（https://en.wikipedia.org/wiki/Shapr3D）
+  - 「Customer Stories」（https://www.newswire.com/news/shapr3d-brings-powerful-3d-cad-modeling-to-ipad-pro-20099793）
+  - 「Customer Success」（https://www.newswire.com/news/shapr3d-brings-powerful-3d-cad-modeling-to-ipad-pro-20099793）
+  - 「Shapr3Dは、デザイン分野やプライベーターでの利用事例が多く、」（https://sibucho-laboratory.com/shapr3d-3/）
+  - 「これは、プロのエンジニアが車や航空機を設計するソフトと同じ「心臓部」です」（https://note.com/ipadde3d/n/nf0bfdb276e17）
+  - 「米国国家規格協会(ANSI)によって策定・規格されたファイル形式で、自動車関連でよく使われています」（https://sibucho-laboratory.com/shapr3d-2/）
+  - 「Customer Services」（https://www.digitmakers.ca/products/shapr3d-design-software-2-months-free-trial?srsltid=AYCX9vLKkieQRMa9ALjUiZNNLulJfXwZGXWbUCf63SStvIEPOsUcRNZL）
+- 検索結果の抜粋：
+  - 「Shapr3D Partner Program — For Workshops, Studios ... — Shapr3D Partner Program — For Workshops, Studios ... Shapr3D https://www.shapr3d.com > de-de > p...」（https://www.shapr3d.com/de-de/partner-program）
+  - 「Affiliate Program – Shapr3D for Makers — Affiliate Program – Shapr3D for Makers Shapr3D https://www.shapr3d.com > program」（https://www.shapr3d.com/affiliate/program）
+  - 「Shapr3D | Collaborate in 3D. Solve problems together — Shapr3D | Collaborate in 3D. Solve problems together YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ExzGjjEA0SQ）
+  - 「r/3Dprinting - Considering Shapr 3D , advice or alternatives — r/3Dprinting - Considering Shapr 3D , advice or alternatives Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/3Dprinting/comments/17ndu1x/considering_shapr_3d_advice_or_alternatives/）
+  - 「Shapr 3D CAD modeling - App Store - Apple — Shapr 3D CAD modeling - App Store - Apple Apple https://apps.apple.com > app」（https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654）
+  - 「Big news! I'm now an official Shapr3D Affiliate Partner ! If you ... — Big news! I'm now an official Shapr3D Affiliate Partner ! If you ... Instagram https://www.instagram.com > DZMhP...」（https://www.instagram.com/p/DZMhPEhDbe6/）
+  - 「Shapr3D Pricing — Shapr3D Pricing Shapr3D https://www.shapr3d.com > pricing」（https://www.shapr3d.com/pricing）
+  - 「Hobby license ? : r/ Shapr3D - Reddit — Hobby license ? : r/ Shapr3D - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/Shapr3D/comments/1p3szo3/hobby_license/）
+  - 「Shapr3D subscription plans — Shapr3D subscription plans Shapr3D Help Center https://support.shapr3d.com > articles」（https://support.shapr3d.com/hc/en-us/articles/7871961422364-Shapr3D-subscription-plans）
+  - 「About Pricing - Feature requests - Shapr3D Community — About Pricing - Feature requests - Shapr3D Community Shapr3D Community https://discourse.shapr3d.com > about...」（https://discourse.shapr3d.com/t/about-pricing/40081）
+  - 「Shapr3D Pricing : Plans, Costs & What You'll Actually Pay — Shapr3D Pricing : Plans, Costs & What You'll Actually Pay CheckThat.ai https://checkthat.ai > Brands > Shapr3D」（https://checkthat.ai/brands/shapr3d/pricing）
+  - 「Shapr3D Pricing and Alternatives - Facebook — Shapr3D Pricing and Alternatives - Facebook Facebook https://www.facebook.com > fb-answers > shapr3d-pricin...」（https://www.facebook.com/fb-answers/shapr3d-pricing-and-alternatives/）
+  - 「Shapr3D : 3D Modeling software | Windows & Mac & iPad ... — Shapr3D : 3D Modeling software | Windows & Mac & iPad ... Shapr3D https://www.shapr3d.com」（https://www.shapr3d.com/）
+  - 「Shapr3D : CAD + 3D modeling (@shapr3d_official) - Instagram — Shapr3D : CAD + 3D modeling (@shapr3d_official) - Instagram Instagram https://www.instagram.com > shapr3d...」（https://www.instagram.com/shapr3d_official/）
+  - 「Shapr 3D CAD modeling - Overview - Apple App Store - US — Shapr 3D CAD modeling - Overview - Apple App Store - US Sensor Tower https://app.sensortower.com > overview」（https://app.sensortower.com/overview/1091675654?country=US）
+
+## Polycam（Polycam）
+- 文脈：小さい会社向け：スマホで3Dスキャン
+- 日本の代理店：
+  - 「Polycam Services in Tokyo, JP | Professional Gaussian Splatting & Neural Rendering | THE FUTURE 3D」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Tokyo, JP」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Professional Polycam gaussian splatting & neural rendering services throughout the Greater Tokyo. Serving Tokyo and greater Japan with expertise in precision engineering projects, commercial developments, and heritage preservation.」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Tokyo's construction sector uses precision 3D scanning for complex development projects.」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Get Free Tokyo Quote」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Tokyo at a Glance」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Greater Tokyo」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Why Choose Our Tokyo Polycam Services?」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Local Greater Tokyo Team」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Our Asia-Pacific team serves Tokyo and Shibuya, Shinjuku, Ginza with rapid project deployment. Request a quote and we typically respond within 1 hour.」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Tokyo's technology sector relies on accurate gaussian splatting & neural rendering. We understand local requirements and workflows.」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Contact us during business hours and we typically respond within 1 hour. Tokyo projects are always our priority.」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Polycam for Tokyo Projects」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Key Polycam Features for Tokyo」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「Polycam Applications in Tokyo」（https://www.thefuture3d.com/software/polycam/tokyo/）
+- 再販・パートナー制度：
+  - 「allows users to easily create detailed 3D models of real-world objects and spaces using just a smartphone or tablet. Whether it's scanning a room, capturing an object, or mapping out an entire building, Polycam transforms the physical world into accurate digital models that can be used in various applications with their intuitive LiDAR & 3D scanning technology.」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「L+R has been a longtime user of Polycam’s powerful technologies, utilizing them in projects ranging from LIDAR capture to room scans for various web, mobile, and spatial experiences. These tools have enabled L+R to deliver detailed digital representations of the real-world objects and environments.」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「* Fixed an issue where referral links didn’t take you to the business plan checkout」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「Privacy practices may vary, for example, based on the features you use or your age.」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「Do you offer any discounts?」（https://poly.cam/pricing）
+  - 「polycam account to subscribe to our mailing list and receive updates about special promotions and discounts.」（https://poly.cam/pricing）
+  - 「You can also save by choosing an annual plan, which provides a significant discount compared to monthly billing.」（https://poly.cam/pricing）
+  - 「Polycam Pro costs $26.99 per month or $199.99 per year when purchased through the App Store, with web pricing running around $150 per year billed annually. The Business plan costs approximately $400 per year per user, and Enterprise pricing is custom. Prices vary by platform and billing cycle.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「At THE FUTURE 3D, we own Polycam licenses. You get professional gaussian splatting & neural rendering deliverables without purchasing software yourself. Pricing varies by project scope—」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「● Effortlessly Create High-Quality 3D Models: Convert everyday photos into stunning 3D models with photogrammetry and Gaussian splats, perfect for capturing intricate objects and scenes. These 3D models can be exported to various computer graphics applications, including Blender and SketchUp, making them ideal for professional workflows. (Works on all iPhones and iPads)」（https://apps.apple.com/hr/app/polycam-3d-scanner-lidar-360/id1532482376）
+  - 「* Fixed an issue where referral links didn’t take you to the business plan checkout」（https://apps.apple.com/hr/app/polycam-3d-scanner-lidar-360/id1532482376）
+  - 「Privacy practices may vary based, for example, on the features you use or your age.」（https://apps.apple.com/hr/app/polycam-3d-scanner-lidar-360/id1532482376）
+  - 「* Fixed an issue where referral links didn’t take you to the business plan checkout」（https://apps.apple.com/jp/app/polycam-3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-%E9%96%93%E5%8F%96%E3%82%8A%E5%9B%B3/id1532482376）
+  - 「Request a Discount」（https://polycam.tenereteam.com/coupons）
+  - 「(Staff): discount code」（https://polycam.tenereteam.com/coupons）
+- 料金：
+  - 「$199.99」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「$26.99」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「$149.99」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「$29.99」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「$12.50 / month」（https://poly.cam/pricing）
+  - 「$33 / month per user」（https://poly.cam/pricing）
+  - 「Our Enterprise tier is for organizations deploying 3D capture at scale across teams and locations. You'll get dedicated account support, enterprise-grade security and compliance, custom integrations with your existing tools, volume pricing, and advanced administrative controls to manage users and projects across your organization.」（https://poly.cam/pricing）
+  - 「Is Polycam Free? Real Limits and Pricing From $26.99/Mo」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「The free tier exports GLTF only; Polycam Pro now costs $26.99/month or $199.99/year through the App Store, and georeferenced exports require a Business plan at approximately $400/year per user.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Free tier (GLTF export only). Pro: $26.99/month or $199.99/year (App Store). Business: approximately $400/year per user. Enterprise: custom.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Polycam Pro costs $26.99 per month or $199.99 per year when purchased through the App Store, with web pricing running around $150 per year billed annually. The Business plan costs approximately $400 per year per user, and Enterprise pricing is custom. Prices vary by platform and billing cycle.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「$26.99/month or $199.99/year (App Store); approximately $150/year billed annually on the web」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Approximately $400/year per user」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Polycam's pricing has climbed steadily — Pro launched years ago under $100 per year and now sits at roughly double that, with the most professional capabilities (georeferenced exports, floor plans, measurement tools) moved up into the Business tier. Current prices are listed on」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Device exclusivity is another friction point. Users on standard iPhones or Android devices are limited to Photo mode, which is slower and produces lower-quality results than LiDAR scanning. The requirement for a $1,000+ Pro-line iPhone to access the best features narrows the practical audience.」（https://www.skyebrowse.com/news/posts/polycam-review）
+- 無料体験：
+  - 「Book a demo」（https://poly.cam/）
+  - 「Congo, The Democratic Republic Of The」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「Lao People's Democratic Republic」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「Free plan」（https://poly.cam/pricing）
+  - 「Higher image limits (up to 2,000 images vs 150 on free plan)」（https://poly.cam/pricing）
+  - 「Do you offer a free trial?」（https://poly.cam/pricing）
+  - 「Free trials are exclusively available with」（https://poly.cam/pricing）
+  - 「for a demo.」（https://poly.cam/pricing）
+  - 「Polycam raises $18M to democratize 3D creation」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「, co-founder and CEO of Polycam, "yet the 3D creator tools of today, which have steep learning curves and tedious workflows, are ill-equipped to meet this demand. We are democratizing 3D creation by building Polycam from the ground-up to be AI-first, cloud-first, and collaboration-first."」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「デモをリクエスト」（https://app.sensortower.com/overview/1532482376?country=US）
+  - 「Demos / Samples」（https://www.thefuture3d.com/software/polycam/tokyo/）
+  - 「出張デモ依頼」（https://3d-scantech.jp/column/smartphone/）
+  - 「Congo, The Democratic Republic Of The」（https://apps.apple.com/hr/app/polycam-3d-scanner-lidar-360/id1532482376）
+  - 「Lao People's Democratic Republic」（https://apps.apple.com/hr/app/polycam-3d-scanner-lidar-360/id1532482376）
+- 日本語対応：
+  - 「English, Arabic, Czech, Danish, Dutch, Finnish, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Uzbek, Vietnamese」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「アメリカ合衆国 (日本語)」（https://play.google.com/store/apps/details?id=ai.polycam）
+  - 「Arabic, Czech, Danish, Dutch, English, Finnish, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Turkish, Ukrainian, Uzbek, Vietnamese」（https://app.sensortower.com/overview/1532482376?country=US）
+  - 「アメリカ合衆国 (日本語)」（https://play.google.com/store/apps/details?id=ai.polycam&hl=ja）
+  - 「English, Arabic, Czech, Danish, Dutch, Finnish, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Uzbek, Vietnamese」（https://apps.apple.com/hr/app/polycam-3d-scanner-lidar-360/id1532482376）
+  - 「日本語とその他26言語」（https://apps.apple.com/jp/app/polycam-3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-%E9%96%93%E5%8F%96%E3%82%8A%E5%9B%B3/id1532482376）
+  - 「日本語、アラビア語、イタリア語、インドネシア語、ウクライナ語、ウズベク語、オランダ語、スウェーデン語、スペイン語、タイ語、チェコ語、デンマーク語、トルコ語、ドイツ語、ノルウェー語 (ブークモール)、ヒンディー語、フィンランド語、フランス語、ベトナム語、ポルトガル語、ポーランド語、マレー語、ロシア語、簡体字中国語、繁体字中国語、英語、韓国語」（https://apps.apple.com/jp/app/polycam-3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-%E9%96%93%E5%8F%96%E3%82%8A%E5%9B%B3/id1532482376）
+  - 「アプリUIは日本語表示に対応」（https://aipicks.jp/mag/polycam-guide-2026）
+  - 「Matterport AI 代替7選｜無料・日本語・オープンソースで選ぶ (2026年版)」（https://aipicks.jp/mag/polycam-guide-2026）
+  - 「料金・無料枠・日本語を横並び」（https://aipicks.jp/mag/polycam-guide-2026）
+  - 「Polycamの日本語対応（UI・出力・サポートの3軸）」（https://aipicks.jp/tool/polycam/pricing）
+- 会社の規模：
+  - 「Polycam is a 3D scanning and photogrammetry application built primarily for iPhone and iPad. It offers two core capture modes: LiDAR mode, which uses Apple's hardware depth sensor for near-instant mesh generation, and Photo mode, which reconstructs geometry from a series of overlapping still photographs using standard photogrammetry techniques.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「paid subscribers, strong revenue growth and an enthusiastic user base, Polycam solidifies its position as the leader in easy-to-use 3D capture and editing.」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「Founded in 2019, Left Lane Capital is a」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「Polycam today announced that it closed an $18 million Series A round led by Left Lane Capital with participation from Adobe Ventures, Hurley and others. Chris Heinrich, Polycam’s co-founder and CEO, says that the capital will support new 3D editing and collaboration features, training AI models for rendering 3D objects and new market expansion.」（https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/）
+  - 「Polycam was founded in early 2021 by Heinrich and Elliott Spelman, who’d met while working together at Ubiquity6, a startup developing mobile 3D scanning and AR tech. Both Heinrich and Spelman believed that 3D capture, enabled by hardware like the lidar sensor on more recent iPhones, could unlock 3D content creation for the masses.」（https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/）
+  - 「Today, Polycam has nearly 100,000 paying customers, Heinrich tells me, and its iPhone and Android apps have been downloaded over 10 million times.」（https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/）
+  - 「“Polycam was cash flow positive for numerous months in 2023 and has strong revenue growth,” he added. “We’ve not been noticeably affected by the slowdown in tech, achieving strong revenue growth despite the difficult macro economic environment.”」（https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/）
+  - 「Polycam: 3D Creation Company Closes $18 Million In Funding」（https://pulse2.com/polycam-3d-creation-company-closes-18-million-in-funding/）
+  - 「With nearly 100k paid subscribers, strong revenue growth, and an enthusiastic user base, Polycam solidifies its position as the leader in easy-to-use 3D capture and editing.」（https://pulse2.com/polycam-3d-creation-company-closes-18-million-in-funding/）
+  - 「Polycam was founded three years ago by Chris Heinrich and Elliott Spelman, who spent two years working together at Ubiquity6, a startup ahead of its time working on 3D scanning and AR. And since its launch in late 2020, Polycam has become the go-to app for making 3D scans with the iPhone’s LiDAR scanner.」（https://pulse2.com/polycam-3d-creation-company-closes-18-million-in-funding/）
+  - 「This investment brings Polycam’s total funding to $22 million and will help Polycam hire engineers and researchers to expand their suite of creation tools and train AI foundation models for 3D reconstruction.」（https://pulse2.com/polycam-3d-creation-company-closes-18-million-in-funding/）
+- 小さい会社向け：
+  - 「Startups & New Ventures」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「Sign up for the L+R Newsletter」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「Sign Up」（https://poly.cam/pricing）
+  - 「Free plan」（https://poly.cam/pricing）
+  - 「Higher image limits (up to 2,000 images vs 150 on free plan)」（https://poly.cam/pricing）
+  - 「annual plans, where you can test the complete service for 7 days. During the trial, you'll have complete access to all the features of your chosen plan. You can cancel anytime during the trial period to avoid being charged. After your trial period, if you choose not to cancel, you will be automatically enrolled in an annual plan. Our」（https://poly.cam/pricing）
+  - 「annual plans, where you can test the complete service for 7 days. Monthly plans require payment upfront with no trial period.」（https://poly.cam/pricing）
+  - 「Sign up」（https://poly.cam/pricing）
+  - 「Polycam Pro costs $26.99 per month or $199.99 per year when purchased through the App Store, with web pricing running around $150 per year billed annually. The Business plan costs approximately $400 per year per user, and Enterprise pricing is custom. Prices vary by platform and billing cycle.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Polycam Pro costs $26.99 per month or $199.99 per year through the App Store, with web pricing around $150 per year billed annually. The Business plan runs approximately $400 per year per user and adds georeferenced exports, floor plans, and team libraries. Enterprise pricing is custom, but no tier adds compliance certifications or chain-of-custody controls.」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Small Business Services」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「位置情報、個人情報、デバイスまたはその他の ID」（https://play.google.com/store/apps/details?id=ai.polycam）
+  - 「Startups」（https://github.com/PolyCam/polyform）
+  - 「Sign up」（https://github.com/PolyCam/polyform）
+  - 「買い切りの場合は4,900円、月額課金の場合は450円です」（https://3d-scantech.jp/column/smartphone/）
+- 顧客・用途：
+  - 「Customer Experience Management」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「Customer Experience Design」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「Customer Journey Mapping」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「L+R is a global design and technology consulting firm specializing in Strategy Consulting, Design & Branding, Digital Product Development, Technology Enablement, Employee Experience Enhancement, and Customer Experience Management. With headquarters in Brooklyn, NY, and Barcelona, Spain, L+R delivers value through a balance of strategy and aesthetics for clients worldwide.」（https://www.levinriegner.com/news/polycam-etap/）
+  - 「Solar & Renewable Energy」（https://poly.cam/）
+  - 「Customer Stories」（https://poly.cam/）
+  - 「Solar & Renewable energy」（https://poly.cam/）
+  - 「Customer stories」（https://poly.cam/）
+  - 「Solar & Renewable Energy」（https://poly.cam/pricing）
+  - 「Customer Stories」（https://poly.cam/pricing）
+  - 「Dedicated customer success and support」（https://poly.cam/pricing）
+  - 「Solar & Renewable energy」（https://poly.cam/pricing）
+  - 「Customer stories」（https://poly.cam/pricing）
+  - 「Aerospace, Defense」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「Automotive」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+- 検索結果の抜粋：
+  - 「Polycam — AI 3D Scanning, Floor Plans & Reality Capture for ... — Polycam — AI 3D Scanning, Floor Plans & Reality Capture for ... Polycam https://poly.cam」（https://poly.cam/）
+  - 「Polycam 3D Scanner & Modeling - App Store - Apple — Polycam 3D Scanner & Modeling - App Store - Apple Apple https://apps.apple.com > app > polyca...」（https://apps.apple.com/us/app/polycam-3d-scanner-modeling/id1532482376）
+  - 「Polycam Review: A Fast 3D Scanner That Hits a Ceiling Quickly — Polycam Review: A Fast 3D Scanner That Hits a Ceiling Quickly SkyeBrowse https://www.skyebrowse.com > posts」（https://www.skyebrowse.com/news/posts/polycam-review）
+  - 「Polycam Pricing 2026 - TrustRadius — Polycam Pricing 2026 - TrustRadius TrustRadius https://www.trustradius.com > pricing」（https://www.trustradius.com/products/polycam/pricing）
+  - 「Why is Polycam the best iOS 3D Scanner app? - Medium — Why is Polycam the best iOS 3D Scanner app? - Medium Medium https://medium.com > why-is-polyca...」（https://medium.com/@willrarcher/why-is-polycam-the-best-ios-3d-scanner-app-ee63352b531e）
+  - 「Polycam raises $18M to democratize 3D creation - PR Newswire — Polycam raises $18M to democratize 3D creation - PR Newswire PR Newswire https://www.prnewswire.com > polyc...」（https://www.prnewswire.com/news-releases/polycam-raises-18m-to-democratize-3d-creation-302055587.html）
+  - 「Polycam : 3D Model Maker - Apps on Google Play — Polycam : 3D Model Maker - Apps on Google Play Google Play https://play.google.com > apps > details」（https://play.google.com/store/apps/details?id=ai.polycam）
+  - 「Polycam 3D Scanner & Modeling - Overview - Apple App Store — Polycam 3D Scanner & Modeling - Overview - Apple App Store Sensor Tower https://app.sensortower.com > overview」（https://app.sensortower.com/overview/1532482376?country=US）
+  - 「Polycam vs Scaniverse: Best 3D Scanning App 2026 — Polycam vs Scaniverse: Best 3D Scanning App 2026 SkyeBrowse https://www.skyebrowse.com > posts」（https://www.skyebrowse.com/news/posts/polycam-vs-scaniverse）
+  - 「3Dスキャンアプリ「 Polycam 」の使い方を解説！ - デジコン — 3Dスキャンアプリ「 Polycam 」の使い方を解説！ - デジコン digital-construction.jp https://digital-construction.jp > column」（https://digital-construction.jp/column/1033）
+  - 「‎ Polycam 3Dスキャン＆間取り図アプリ - App Store — ‎ Polycam 3Dスキャン＆間取り図アプリ - App Store Apple https://apps.apple.com > polycam-3dスキャン-間取り図」（https://apps.apple.com/jp/app/polycam-3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-%E9%96%93%E5%8F%96%E3%82%8A%E5%9B%B3/id1532482376）
+  - 「Business Trial 7 Day - Polycam — Business Trial 7 Day - Polycam Polycam https://poly.cam > business-trial-7-day」（https://poly.cam/promos/business-trial-7-day）
+  - 「Polycam - 2026 Company Profile, Funding & Competitors — Polycam - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/polycam/__dAnlbEUZ1WaNOvZedtx8UUnViMs06AAa4jHziGB8ASI）
+  - 「3D scanning app Polycam gets backing from YouTube co ... — 3D scanning app Polycam gets backing from YouTube co ... TechCrunch https://techcrunch.com > 2024/02/07」（https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/）
+  - 「Polycam : 3D Creation Company Closes $18 Million In Funding — Polycam : 3D Creation Company Closes $18 Million In Funding Pulse 2.0 https://pulse2.com > polycam-3d-crea...」（https://pulse2.com/polycam-3d-creation-company-closes-18-million-in-funding/）
+
+## Revopoint（Revopoint）
+- 文脈：小さい会社向け：安価な3Dスキャナーとソフト
+- 日本の代理店：
+  - 「Revopoint 3Dスキャナー・関連品｜日本正規代理店 SK本舗」（https://skhonpo.com/collections/revopoint）
+  - 「日本正規代理店」（https://skhonpo.com/collections/revopoint）
+  - 「Revopoint Japan株式会社 - ShareLab（シェアラボ）」（https://sharelab.jp/company/revopoint/）
+  - 「Revopoint Japan株式会社」（https://sharelab.jp/company/revopoint/）
+  - 「that offer capturing solutions for objects of all sizes, including MIRACO, RANGE 2, POP 3, and the newly released MINI 2 at Booth 3Q09, Tokyo Big Sight Hall 3, Tokyo, Japan from January 31」（https://www.revopoint3d.com/blogs/news/discover-revopoints-latest-3d-scanners-at-tct-japan-2024?srsltid=AYCX9vIaD6hblnoa4Gm3AdNhWCdqbvXUUnHF58q8m8-un1Co1kAbZq95）
+  - 「販売代理店になる」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「1. 研修およびテクニカルサポート販売代理店の担当者が製品の特徴、機能、操作方法を十分に理解できるよう、研修プログラムを提供します」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「加えて、販売代理店の技術的な問題解決をサポートするため、リモートサポートやトラブルシューティングなどのテクニカルサポートも提供します」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「これにより、販売代理店は顧客に満足度の高いアフターサービスを提供できるようサポートいたします」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「2.マーケティングおよび販売支援販売代理店による製品の販促活動やセールス活動を支援するために、各種マーケティング資料を提供いたします」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「3.チャネル管理と協業販売代理店との長期的な協力関係を構築することを歓迎しており、市場開拓に向けて共に取り組んでいきます」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「定期的に販売代理店との事業評価や計画立案を行い、市場情報の共有や販売戦略、協業の機会について議論していきます」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「Expert Material Laboratories株式会社」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「三協製薬株式会社」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「SK本舗、Revopoint POP2とMINI（3Dスキャナー）の取り扱い開始 | フェリデンシア・キャピタル株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000005.000076458.html）
+- 再販・パートナー制度：
+  - 「Commission」（https://ui.awin.com/merchant-profile/73435）
+  - 「8% commission」（https://ui.awin.com/merchant-profile/73435）
+  - 「Discount Program」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Earn a 8% commission for every sale」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「you a commission rate starting from」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Q: Will I get a commission if my referred friend buys a Revopoint from Amazon or other dealers?」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Special Discount Program」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「commission rate」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「– Real-time tracking of commissions and sales through the FlexOffers platform」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「, and have access to excellent resources to help boost your earning potential. So why wait? Seize the opportunity to earn attractive commissions while promoting quality, industry-leading 3D scanning and imaging products. Join the Revopoint Affiliate Program today!」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「various data delivery options, and」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「Discount Program」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「🎁This discount code is exclusive to existing 3D scanner customers.」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Variable fillets」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Special Discount Program」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+- 料金：
+  - 「$1,999.00」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「$3,789.00」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「$2,499.00」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「$4,999.00」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「Revo Measure combines powerful GD&T software capabilities, intelligent deviation analysis, and seamless Revopoint ecosystem integration at an accessible price — making professional 3D measurement faster, more visual, and more reliable than ever.」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「$540.00」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Revopoint launches its new Revopoint RANGE 3D scanner: Technical specifications and pricing - 3D Printing Industry」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Revopoint launches its new Revopoint RANGE 3D scanner: Technical specifications and pricing」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「, takes the performance of initial Revopoint 3D scanners and, as the name implies, expands the range. Early bird pricing will be available to crowdfunding backers. Following the campaign, the retail value of the Revopoint RANGE will vary between $700 and $1000.」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Creality unveils its new CR-Scan Ferret 3D scanner: Technical specifications and pricing」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「FREE, FAST Shipping on orders over $35 in the U.S.*」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+  - 「Free Shipping on +$35 orders in the U.S.*」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+  - 「¥331,400」（https://www.revopoint3d.jp/）
+- 無料体験：
+  - 「Join us in democratizing 3D scanning technology! Please visit」（https://ui.awin.com/merchant-profile/73435）
+  - 「Through the Revopoint Affiliate Program, your site visitors can shop innovative 3D-scanning technology. This program offers a 30-day」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「The move looks to build a seamless pipeline from scanning parts and processing them into usable 3D CAD files. Revopoint will bundle its scanning hardware with Quicksurface software to all its customers globally, including an initial 30-day free trial licence with purchase and upgrade options.」（https://develop3d.com/3d-scanning/revopoint-3d-and-kvs-partner-for-reverse-engineering/）
+  - 「30 Days Free Trial」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Free 30-Days Trial >」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「4. What are the requirements for applying for a Revo Design 30-day free trial code?」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「There are no requirements. Anyone can try the Revo Design for free using the 30-day trial.」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Free trial」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+  - 「A 15-day free trial is available from Revopoint」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+  - 「(例:製品デモンストレーション、テクニカルな仕様説明、アプリケーションの事例紹介など)」（https://www.revopoint3d.jp/pages/become-a-dealer）
+  - 「REVOPOINT 有償デモスキャンサービス」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「なお、弊社ショールームでは無償のデモを実施しております」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「3Dスキャナーをご検討のユーザー様のオフィスやご自宅などへ弊社スタッフがお伺いし、デモスキャン・使い方講習をさせていただく訪問サービスになりま...」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「REVOPOINT 有償デモスキャンサービス」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vL3i3KbWtr4R9ikg2wzIqZ5CBeKMdqYNd4lF76MEp4m16HtMahE）
+  - 「なお、弊社ショールームでは無償のデモを実施しております」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vL3i3KbWtr4R9ikg2wzIqZ5CBeKMdqYNd4lF76MEp4m16HtMahE）
+- 日本語対応：
+  - 「— Enjoy intuitive tools, multiple visualization modes (wireframe, mesh, solid), texture rendering, and support for 12 languages including English, German, French, Spanish, Japanese, and more.」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「購入前の機種選びや購入後の使い方は、日本語でご相談いただけます」（https://skhonpo.com/collections/revopoint）
+  - 「Polymaker 日本語安心データシート」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「Bambu Lab 日本語安心データシート」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vLsCtYuN8sND0ydhBUcCKbwGSdmVn_pZyeU2axntePHAxHq-oED）
+  - 「Polymaker 日本語安心データシート」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vL3i3KbWtr4R9ikg2wzIqZ5CBeKMdqYNd4lF76MEp4m16HtMahE）
+  - 「Bambu Lab 日本語安心データシート」（https://sunstella.co.jp/collections/revopoint?srsltid=AYCX9vL3i3KbWtr4R9ikg2wzIqZ5CBeKMdqYNd4lF76MEp4m16HtMahE）
+  - 「日本語対応の24時間体制でサポートを提供し、どんな時でも安心して」（https://www.revopoint3d.jp/products/all-in-one-3d-scanner-miracoplus）
+  - 「Anycubic 多色造形 3Dプリンター Kobra X、組み立て簡単、静音印刷、硬軟素材混合印刷、自動レベリング、AI 遠隔監視、日本語UI | ACE GEN 2 テクノロジー 2 倍速・2 倍省フィラメント、 LeviQ3.0自動レベリング、AI 遠隔監視、日本語UI、印刷サイズ：260×260×260mm」（https://unolaboratory.com/3dscanner-revopoint/）
+  - 「Bambu Lab A1mini 3D プリンター FDM 3D プリンター 初心者向け 家庭用 日本語UI対応 造形サイズ：180 * 180 * 180mm³＋PLAベーシック3D プリントフィラメント再利用可能なスプール付き AMSと使用可能 3Dプリント造形造形材料 1.75mm 1kg ブラック 組み合わせ買いセット」（https://unolaboratory.com/3dscanner-revopoint/）
+  - 「Bambu Lab P1S Combo 3Dプリンター, P1S 多色造形 3Dプリンター&AMS, 筐体付き, 高温材料対応, 4台AMSで16色造形可能, 高速CoreXY構造, 最高500mm/sの速度と20000 mm/s²の加速度, 自動ベッドレベリング, 組立不要, 日本語UI対応, 造形体積 256 x 256 x 256 mm³」（https://geekyfab.com/entry/3dscanner_miraco）
+  - 「English, Chinese, Traditional Chinese, French, German, Italian, Spanish, Japanese, Korean, Russian, Portuguese, Turkish.」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+  - 「アメリカ合衆国 (日本語)」（https://play.google.com/store/apps/details?id=com.revopoint3d.revoscan）
+  - 「·American and Japanese Subsidiaries Established .」（https://www.revopoint3d.com/pages/brand-story?srsltid=AYCX9vLJ5jfm4dRD0IWXkoXrXes4AcirOWh4XEI9YwiNDzXPAt5Prkgd）
+- 会社の規模：
+  - 「MetroX Series 3D Scanner」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「The move looks to build a seamless pipeline from scanning parts and processing them into usable 3D CAD files. Revopoint will bundle its scanning hardware with Quicksurface software to all its customers globally, including an initial 30-day free trial licence with purchase and upgrade options.」（https://develop3d.com/3d-scanning/revopoint-3d-and-kvs-partner-for-reverse-engineering/）
+  - 「“We recognise that 3D scanning is just the start of the process. As we expand further into engineering and manufacturing applications, our customers seek a full end-to-end solution to progress from the original part to manufacturable CAD,” said Vivian Li, Revopoint co-founder and head of 3D Scanner BU.」（https://develop3d.com/3d-scanning/revopoint-3d-and-kvs-partner-for-reverse-engineering/）
+  - 「MetroX Series 3D Scanner」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「🎁This discount code is exclusive to existing 3D scanner customers.」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「, takes the performance of initial Revopoint 3D scanners and, as the name implies, expands the range. Early bird pricing will be available to crowdfunding backers. Following the campaign, the retail value of the Revopoint RANGE will vary between $700 and $1000.」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「MetroX Series 3D Scanner」（https://www.revopoint3d.com/blogs/news/discover-revopoints-latest-3d-scanners-at-tct-japan-2024?srsltid=AYCX9vIaD6hblnoa4Gm3AdNhWCdqbvXUUnHF58q8m8-un1Co1kAbZq95）
+  - 「Solutionix D-Series 3D Scanner」（https://ultimate3dprintingstore.com/collections/revopoint-3d-scanners?srsltid=AYCX9vJBfckozQi7SttcQF5FMGgcPEPXfO9r1ryX5ONJtk9IuW9rlGuX）
+  - 「MetroX Series 3D Scanner」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+  - 「Revo Scan 6 is a professional next-generation 3D scanning and data processing software supporting point cloud acquisition, post-processing, and multi-model alignment.」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+  - 「Specialized 3D scanning and post-processing software for Trackit series 3D scanners.」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+  - 「POP Series / POP 4」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+  - 「1. The Mac version supports for new devices: INSPIRE, RANGE 2, MINI 2, POP 3, and MIRACO series.」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+  - 「3D scanner software is used to capture, process, align, and export 3D scan data from compatible scanners. Revopoint software supports workflows such as point cloud acquisition, mesh generation, post-processing, 3D measurement, and scan-to-CAD conversion.」（https://www.revopoint3d.com/pages/support-download?srsltid=AYCX9vKueGdbFLf9eMIRtiTpaQ86HY4TpxUN1XawvU8XkKjn-rOubZ30）
+- 小さい会社向け：
+  - 「Revo Measure Monthly Plan」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Pay Monthly. Cancel Anytime」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Sign up」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Sign up with」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Sign up for our Newsletters」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Sign Up」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「Publisher Sign Up」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「Advertiser Sign Up」（https://www.flexoffers.com/affiliate-programs/revopoint-affiliate-program/）
+  - 「Revo Measure Monthly Plan」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Pay Monthly. Cancel Anytime」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Sign up」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Sign up for our Newsletters」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Revo Measure 月額プラン」（https://www.revopoint3d.jp/）
+  - 「柔軟な月額プランで、いつでも解約できます」（https://www.revopoint3d.jp/）
+  - 「個人情報保護方針」（https://www.revopoint3d.jp/）
+- 顧客・用途：
+  - 「With robust R&D capabilities, we deliver innovations from micro-structured optical chips to advanced 3D algorithms. Our products are used in 150+ countries across industries like hardware, medical imaging, the Metaverse, 3D printing, VR/AR and more.」（https://ui.awin.com/merchant-profile/73435）
+  - 「customer@revopoint3d.com」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「The move looks to build a seamless pipeline from scanning parts and processing them into usable 3D CAD files. Revopoint will bundle its scanning hardware with Quicksurface software to all its customers globally, including an initial 30-day free trial licence with purchase and upgrade options.」（https://develop3d.com/3d-scanning/revopoint-3d-and-kvs-partner-for-reverse-engineering/）
+  - 「“We recognise that 3D scanning is just the start of the process. As we expand further into engineering and manufacturing applications, our customers seek a full end-to-end solution to progress from the original part to manufacturable CAD,” said Vivian Li, Revopoint co-founder and head of 3D Scanner BU.」（https://develop3d.com/3d-scanning/revopoint-3d-and-kvs-partner-for-reverse-engineering/）
+  - 「🎁This discount code is exclusive to existing 3D scanner customers.」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「customer@revopoint3d.com」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Aerospace」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Medical & Dental」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「The scanner is 210g and provides low energy consumption, enabling consumers to employ this highly portable scanner outdoors or indoors. To allow power and data ﬂows into the device, all users require is a single USB cable.」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Potential customers can」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「With a background in journalism, Ada has a keen interest in frontier technology and its application in the wider world. Ada reports on aspects of 3D printing ranging from aerospace and automotive to medical and dental.」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Customer Service」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+  - 「Exports PDF reports for customers and JSON for your own systems」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+- 検索結果の抜粋：
+  - 「Revopoint 3D Technologies Inc. Affiliate Program - Awin UI — Revopoint 3D Technologies Inc. Affiliate Program - Awin UI Awin https://ui.awin.com > merchant-profile」（https://ui.awin.com/merchant-profile/73435）
+  - 「Affiliate Program - Revopoint — Affiliate Program - Revopoint Revopoint 3D https://www.revopoint3d.com > pages」（https://www.revopoint3d.com/pages/affiliate-program?srsltid=AYCX9vI_Ll5Lo3vgEiiYsiuf3eP1BbQ6m3YWZMkT_Oi4lVJc2DhMrQMu）
+  - 「Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and ... — Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and ... 3dprinting.com https://3dprinting.com > News」（https://3dprinting.com/news/revopoint-fall-sale-2026/）
+  - 「Revopoint 3D and KVS partner for reverse engineering — Revopoint 3D and KVS partner for reverse engineering develop3d https://develop3d.com > revopoint-3d...」（https://develop3d.com/3d-scanning/revopoint-3d-and-kvs-partner-for-reverse-engineering/）
+  - 「A Kickstarter Project We Love: Revopoint POP 4 3D Scanner — A Kickstarter Project We Love: Revopoint POP 4 3D Scanner YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=tzAcLAPesKc）
+  - 「Revopoint Revo Measure License 3D Measurement Software — Revopoint Revo Measure License 3D Measurement Software Swing Design https://www.swingdesign.com > revo...」（https://www.swingdesign.com/products/revopoint-revo-measure-permanent-license-3d-measurement-and-gd-t-software?srsltid=AYCX9vJgbtIaUc5Sy4t-WCAxJzcB6RnPlCelSuvVtu8G4k9RdzmhXNZS）
+  - 「Software for 3D Reverse Engineering, Industrial Design & CAD — Software for 3D Reverse Engineering, Industrial Design & CAD Revopoint 3D https://www.revopoint3d.com > revo...」（https://www.revopoint3d.com/products/revodesign?srsltid=AYCX9vKZ8Kl6gDTlEdB3_-fA_94Jxm9DXfqJvlEiH6HaGn4uuuwV1IJt）
+  - 「Revopoint launches its new Revopoint RANGE 3D scanner — Revopoint launches its new Revopoint RANGE 3D scanner 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/revopoint-launches-its-new-revopoint-range-3d-scanner-technical-specifications-and-pricing-220812/）
+  - 「Revopoint Revo Measure Personal Edition (1 PC) 1-Year ... — Revopoint Revo Measure Personal Edition (1 PC) 1-Year ... MatterHackers https://www.matterhackers.com > store」（https://www.matterhackers.com/store/l/revopoint-revo-measure-professional-3d-measurement-and-gdt-software/sk/MGXA66KY?srsltid=AYCX9vK6OvGViVwTPbmmQQjhCLeIGdLjMBMAJBgZSmT-FCfFiaLjfOK1）
+  - 「Revopoint Handheld Professional 3D Scanners - Swing Design — Revopoint Handheld Professional 3D Scanners - Swing Design Swing Design https://www.swingdesign.com > revo...」（https://www.swingdesign.com/collections/revopoint-handheld-professional-3d-scanners?srsltid=AYCX9vIiRCqhwiY00JR8itE-5TBxQUYD6buSTTMWsJZuP0vX5IJtsXX6）
+  - 「Revopoint 3Dスキャナー — Revopoint 3Dスキャナー Revopoint 3D JP https://www.revopoint3d.jp」（https://www.revopoint3d.jp/）
+  - 「Revopoint 3Dスキャナー・関連品｜ 日本 正規代理店 SK本舗 — Revopoint 3Dスキャナー・関連品｜ 日本 正規代理店 SK本舗 SK本舗 https://skhonpo.com > collections > revopoint」（https://skhonpo.com/collections/revopoint）
+  - 「Discover Revopoint's Latest 3D Scanners at TCT Japan 2024 — Discover Revopoint's Latest 3D Scanners at TCT Japan 2024 Revopoint 3D https://www.revopoint3d.com > news」（https://www.revopoint3d.com/blogs/news/discover-revopoints-latest-3d-scanners-at-tct-japan-2024?srsltid=AYCX9vIaD6hblnoa4Gm3AdNhWCdqbvXUUnHF58q8m8-un1Co1kAbZq95）
+  - 「Revopoint Japan ・3Dスキャナー (@REVOPOINTJAPAN) / X — Revopoint Japan ・3Dスキャナー (@REVOPOINTJAPAN) / X X https://x.com > REVOPOINTJAPAN」（https://x.com/REVOPOINTJAPAN）
+  - 「Revopoint 3D Scanners - Ultimate 3D Printing Store — Revopoint 3D Scanners - Ultimate 3D Printing Store Ultimate 3D Printing Store https://ultimate3dprintingstore.com > ...」（https://ultimate3dprintingstore.com/collections/revopoint-3d-scanners?srsltid=AYCX9vJBfckozQi7SttcQF5FMGgcPEPXfO9r1ryX5ONJtk9IuW9rlGuX）
+
+## Autodesk Fusion（Autodesk Fusion）
+- 文脈：小さい会社向け：設計・加工データ一体
+- 日本の代理店：
+  - 「【2026】Autodesk Fusionの認定販売店は？購入方法やおすすめ認定販売店も紹介 | キャド研」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「【2026】Autodesk Fusionの認定販売店は？購入方法やおすすめ認定販売店も紹介」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「近年、Autodesk FusionをはじめとするAutodesk製品は、Autodesk認定販売店でのみ取り扱われるようになりました」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「しかし、「認定販売店」とはいったいどの店舗を指すのか分からず、購入先に迷ってしまう方もいるのではないでしょうか」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「を購入できる認定販売店について詳しく解説」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「おすすめの認定販売店5選もご紹介しますので、Autodesk Fusionの購入を検討している方はぜひ参考にしてください」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「2.Autodesk Fusionの認定販売店とは」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「3.おすすめのAutodesk Fusion認定販売店」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「4.Autodesk Fusionを認定販売店で購入する方法」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「5.Autodesk Fusion認定販売店を選ぶポイント」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「6.Autodesk Fusionの認定販売店についてまとめ」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「Autodesk Fusionの認定販売店とは」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「Autodesk Fusionの認定販売店とは、Autodeskと正式な契約を結び、製品の販売だけでなく、技術サポートや導入のアドバイスなども提供できる専門店のことです」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「AutoDesk製品は、Autodesk認定販売店のみで購入」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「Autodesk認定販売店一覧」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+- 再販・パートナー制度：
+  - 「Fusion 360の購入 Autodesk Japan公式法人販売パートナー」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「Find a reseller」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「再販形式とは、認定パートナーよりお客様にお見積書を提示する商談の形式を示します」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf）
+  - 「Find a reseller」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「東京都 SCSK株式会社 VAR (Mold Flow) プラチナ認定 135-8110 江東区豊洲3丁目2番20号 豊洲フロント 03-5859-3012 - http://www.scsk.jp/product/common/AutodeskSolution/index.html moldflow-sales@ml.scsk.jp ● ● ● ● ● ● ● ● ●」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf）
+  - 「愛知県 SCSK株式会社 中部 (VAR) プラチナ認定 460-0003 名古屋市中区錦2丁目16番26号 SC伏見BLDG. 9F 052-209-7005 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf）
+  - 「大阪府 応用技術 株式会社 営業部2課(VAR) ゴールド認定 530-0015 大阪市北区中崎西2-4-12 梅田センタービル - - http://www.apptec.co.jp - ● ● ● ● ● ● ● ● ● ●」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf）
+  - 「大阪府 SCSK株式会社 関西(VAR) プラチナ認定 541-0041 大阪市中央区北浜1-8-16 大阪証券取引所ビル 06-6223-6260 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf）
+  - 「広島県 SCSK株式会社 広島(VAR) プラチナ認定 730-0012 広島市 中区上八丁堀4-1 アーバンビューグランドタワー 082-511-6700 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf）
+  - 「福岡県 SCSK株式会社 九州(VAR) プラチナ認定 812-0011 福岡市博多区博多駅前3-30-23 管絃ビル5F 092-472-5800 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf）
+  - 「現在は「認定販売パートナー制度」に移行」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「「認定販売パートナー制度」に登録された代理店のみ」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「正式には「オートデスク認定販売パートナー」という名称で活動している企業のことであり、Autodeskの厳正な審査を経て登録されています」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「「認定販売パートナー検索」」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「認定販売パートナー検索を開く」（https://cad-kenkyujo.com/autocad-dairiten/）
+- 料金：
+  - 「【2026】Autodesk Fusionを無料で使う方法！有料版との違いや他CADとの価格を比較」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「100,100円/年」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「96,800円/年」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「88,000円/年」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「研修（100,000円/1日）」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「サポート（60,000円/1年）」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「858円/日」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「購入数に応じて1トークンあたりの価格が418円～429円で設定されています」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「, also now available in Japanese. Fusion 360 is $300/year (￥35,640), and is always free to students, educators, hobbyists and start-ups.*」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「subscription customers in Japan (and elsewhere) have free access to Fusion 360 as part of their subscription entitlements. * For full details on free Fusion 360 access for education and start-ups, please see」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「【2026】AutoCADの価格はいくら？費用対効果や他ソフトとの価格を徹底検証！」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「84,700円（税込）」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「・AutoCAD教育セミナー5,000円OFFクーポン」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「260,700円(税込)」（https://cad-kenkyujo.com/autocad-dairiten/）
+  - 「の5,000円OFFクーポンをプレゼント」（https://cad-kenkyujo.com/autocad-dairiten/）
+- 無料体験：
+  - 「Autodesk Fusionの無料体験版はこちら」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「To learn more and to download a free 30-day trial of Fusion 360, visit www.autodesk.com/fusion360.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「🖥️ Fusionオンラインデモ」（https://note.com/merry_bobcat8659/n/n6facd427a80e）
+  - 「実機の操作デモ」（https://note.com/merry_bobcat8659/n/n6facd427a80e）
+  - 「Fusionオンラインデモンストレーション」（https://note.com/merry_bobcat8659/n/n6facd427a80e）
+  - 「デモンストレーション」（https://note.com/merry_bobcat8659/n/n6facd427a80e）
+  - 「無料体験版ダウンロードの案内」（https://bizroad-svc.com/fusion360/）
+  - 「Autodesk Fusionの30日間の無料体験版を申し込む」（https://cad-kenkyujo.com/fusion-kakaku/）
+  - 「という場合には、30日間の無料体験版を利用するのがおすすめです」（https://cad-kenkyujo.com/fusion-kakaku/）
+  - 「無料体験版は、Autodesk Fusionに搭載されている機能を30日間だけ無料利用できるという仕組みであり、」（https://cad-kenkyujo.com/fusion-kakaku/）
+  - 「– Verifies entry-level skills in key Autodesk products. Designed for students and instructors who wish to demonstrate basic proficiency. Curriculum, courseware, and exams offered for independent study or institutional integration.」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「"Democratizing Design: Autodesk's CEO Carl Bass Announces 123D"」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「Autodesk Demos Netfabb AM Software」（https://en.wikipedia.org/wiki/Autodesk）
+- 日本語対応：
+  - 「Fusion 360 Now Available in Japanese | Autodesk News」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「Fusion 360 Now Available in Japanese」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「is now available in Japanese. Fusion 360 brings CAD, CAM, CAE, collaboration and data management together in the cloud. It’s an integrated, connected, and accessible product innovation platform built for the new ways products are being designed and made. The Japanese version of Fusion 360 includes」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「, also now available in Japanese. Fusion 360 is $300/year (￥35,640), and is always free to students, educators, hobbyists and start-ups.*」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「Autodesk to launch Fusion 360 in Japanese | Autodesk News」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Autodesk to launch Fusion 360 in Japanese」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Autodesk announces Japanese language version of Fusion 360 cloud-based CAD/CAM/CAE software at Maker Faire Tokyo」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「available in the Japanese language this fall.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Maker Faire showcases creators who are exploring new technologies and ways of making, and was the perfect venue to announce the upcoming Japanese version of Fusion 360. Fusion 360 provides a new approach to 3D CAD, enabling people of all skill levels to take their idea from concept to fabrication.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「A motorized prosthetic hand designed by the Japanese company Exiii, a current Fusion 360 customer.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「“Lowering the barriers of entry for the world of product development is something we are passionate about, our partners are passionate about, and our customers are passionate about. We could not be more excited about providing today’s and tomorrow’s Japanese makers, designers, engineers and manufacturers with Fusion 360,” added Schneider.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Availability of Fusion 360 in Japanese is planned for fall 2015. Fusion 360 is already available to the Japanese market in English. Fusion 360 is always FREE for students, hobbyists and startups. Autodesk believes that those learning to use the software or create a business should not have to pay for the ability to realize their ideas.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「(in Japanese)」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「Articles with Japanese-language sources (ja)」（https://en.wikipedia.org/wiki/Autodesk）
+- 会社の規模：
+  - 「subscription customers in Japan (and elsewhere) have free access to Fusion 360 as part of their subscription entitlements. * For full details on free Fusion 360 access for education and start-ups, please see」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「“Lowering the barriers of entry for the world of product development is something we are passionate about, our partners are passionate about, and our customers are passionate about. We could not be more excited about providing today’s and tomorrow’s Japanese makers, designers, engineers and manufacturers with Fusion 360,” added Schneider.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「The company was founded in 1982 by」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「The company was founded by John Walker, Daniel Drake, and 14 other programmers in April 1982, who invested $60,000.」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「AutoCAD went on sale in December 1982 and earned $1.4 million in revenue in its first year. Walker said in December 1984 that Autodesk was profitable from its first month and had not needed loans or outside investors. By then the company had about 10,000 AutoCAD systems installed; it was so successful that for a while Autodesk implied that AutoCAD was the company's name.」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「, a parametric building modeling application (acquired in 2002, from Massachusetts-based Revit Technologies for $133 million), and」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「Autodesk announced the largest lay off in its history on November 27, 2017, with the lay off of 1,150 jobs. This was in addition to the almost 1,000 job cuts announced in January 2016. The number of Autodesk employees decreased from approximately 9,200 to 7,200 in less than 2 years.」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「In 2025, Autodesk layoffs of 1,350 employees roughly 9% of its workforce as part of restructuring effort to focus on AI and cloud computing.」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「In 1992 Autodesk acquired Micro Engineering Solutions (MES) Inc., a developer and marketer of manufacturing CAD / CAM software.」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「In 1993 Autodesk acquired Ithaca Software, a 3D computer graphics company founded by Autodesk's former CEO Carl Bass and Garry Wiegand.」（https://en.wikipedia.org/wiki/Autodesk）
+- 小さい会社向け：
+  - 「個人による非商用目的の利用」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「Small business」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「Autodesk launches Support for Small Business and expands tools to help small teams save time, manage costs, and strengthen security」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「個人情報保護方針について」（https://todim.apptec.co.jp/solution/autodesk-fusion/）
+  - 「個人情報の取り扱いについて」（https://todim.apptec.co.jp/solution/autodesk-fusion/）
+  - 「Small business」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Fusion 360 brings CAD, CAM and CAE together in the cloud. It’s an integrated, connected, and accessible platform built for the new ways that products are being designed and made. From the beginning, its earliest adopters have been disruptive hardware startups and manufacturers who recognize that Fusion 360 is breaking down barriers and disrupting the CAD market.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Availability of Fusion 360 in Japanese is planned for fall 2015. Fusion 360 is already available to the Japanese market in English. Fusion 360 is always FREE for students, hobbyists and startups. Autodesk believes that those learning to use the software or create a business should not have to pay for the ability to realize their ideas.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Autodesk launches Support for Small Business and expands tools to help small teams save time, manage costs, and strengthen security」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「※商用ライセンスは、個人・法人問わずご購入いただけます」（https://bizroad-svc.com/fusion360/）
+  - 「Fusionライセンス 個人利用向け」（https://bizroad-svc.com/fusion360/）
+  - 「個人による非商用目的のデザインプロジェクト、または自宅での非商用目的の製造」（https://bizroad-svc.com/fusion360/）
+  - 「※以下の形式は、個人用以外のすべてのライセンスタイプでサポート」（https://bizroad-svc.com/fusion360/）
+  - 「SAT/SMT ファイル (.sab .sat .smb .smt)」（https://bizroad-svc.com/fusion360/）
+  - 「※以下の形式は、個人用以外のすべてのライセンス タイプでサポート」（https://bizroad-svc.com/fusion360/）
+- 顧客・用途：
+  - 「従来のCADとは一線を画す機能を備え、機械設計、航空宇宙、自動車、建築、電気・電子など、様々な分野で新しいものづくりの可能性を広げ続けています」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「CUSTOMER SERVICE」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「All customer service」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「subscription customers in Japan (and elsewhere) have free access to Fusion 360 as part of their subscription entitlements. * For full details on free Fusion 360 access for education and start-ups, please see」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「Autodesk Fusion活用事例」（https://todim.apptec.co.jp/solution/autodesk-fusion/）
+  - 「Additive Manufacturing技術、Generative Design、切削加工でのAutodesk Fusionの活用事例を紹介します」（https://todim.apptec.co.jp/solution/autodesk-fusion/）
+  - 「Autodesk Fusion 事例」（https://todim.apptec.co.jp/solution/autodesk-fusion/）
+  - 「CUSTOMER SERVICE」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「All customer service」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「A motorized prosthetic hand designed by the Japanese company Exiii, a current Fusion 360 customer.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「“Lowering the barriers of entry for the world of product development is something we are passionate about, our partners are passionate about, and our customers are passionate about. We could not be more excited about providing today’s and tomorrow’s Japanese makers, designers, engineers and manufacturers with Fusion 360,” added Schneider.」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「, is primarily used by architects, engineers, and structural designers to design, draft, and model buildings and other structures. Autodesk software has been used in many fields, and on projects from the」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「. Autodesk's collaboration with World Labs aims to advance physical-world AI via technical exploration inspired by customer desires and real-world outcomes. Additionally, World Labs」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「, with its automotive styling and digital content creation applications such as」（https://en.wikipedia.org/wiki/Autodesk）
+  - 「End 2012/Beginning 2013 Autodesk completed the acquisition of PI-VR GmbH, developer of realtime and offline visualization software VRED, heavily utilized in the automotive industry.」（https://en.wikipedia.org/wiki/Autodesk）
+- 検索結果の抜粋：
+  - 「Autodesk Fusion Design & Manufacturing Partners — Autodesk Fusion Design & Manufacturing Partners Autodesk https://www.autodesk.com > fusion-360」（https://www.autodesk.com/products/fusion-360/design-manufacturing-partners）
+  - 「Autodesk Fusion Technology Partner Ecosystem — Autodesk Fusion Technology Partner Ecosystem Autodesk https://www.autodesk.com > fusion-360」（https://www.autodesk.com/products/fusion-360/fusion-technology-partners）
+  - 「Autodesk Fusion for personal use vs. $50 SolidWorks for Makers — Autodesk Fusion for personal use vs. $50 SolidWorks for Makers Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/Fusion360/comments/1rrt8hk/autodesk_fusion_for_personal_use_vs_50_solidworks/）
+  - 「How much does Fusion 360 cost ? - Autodesk — How much does Fusion 360 cost ? - Autodesk Autodesk https://www.autodesk.com > blog > h...」（https://www.autodesk.com/products/fusion-360/blog/how-much-will-fusion-360-cost/）
+  - 「Fusion 360 Pricing 2026: Personal, Startup & Paid - Vagon — Fusion 360 Pricing 2026: Personal, Startup & Paid - Vagon Vagon https://vagon.io > fusion-360-pricing」（https://vagon.io/blog/fusion-360-pricing）
+  - 「【2026】 Autodesk Fusion の認定販売店は？購入方法や ... — 【2026】 Autodesk Fusion の認定販売店は？購入方法や ... キャド研 https://cad-kenkyujo.com > autodeskfusion-ninteihanbaiten」（https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/）
+  - 「Fusion 360 Now Available in Japanese - ADSK News — Fusion 360 Now Available in Japanese - ADSK News Autodesk News https://adsknews.autodesk.com > news」（https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/）
+  - 「Autodesk to launch Fusion 360 in Japanese - ADSK News — Autodesk to launch Fusion 360 in Japanese - ADSK News Autodesk News https://adsknews.autodesk.com > news」（https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/）
+  - 「Autodesk Fusion Japan (@Fusion360Japan) / X — Autodesk Fusion Japan (@Fusion360Japan) / X X https://x.com > Fusion360Japan」（https://x.com/Fusion360Japan）
+  - 「inventorとFusion360の購入について - Autodesk Community — inventorとFusion360の購入について - Autodesk Community Autodesk Community, Autodesk Forums, Autodesk Forum https://forums.autodesk.com > td-p」（https://forums.autodesk.com/t5/inventor-ri-ben-yuforamu/inventortofusion360no-gou-runitsuite/td-p/7658229）
+  - 「Autodesk Fusion | 3D CAD/CAM/CAE/PCB が1つに集約され ... — Autodesk Fusion | 3D CAD/CAM/CAE/PCB が1つに集約され ... Autodesk https://www.autodesk.com > fusion-360 > overview」（https://www.autodesk.com/jp/products/fusion-360/overview）
+  - 「【2026】 Autodesk Fusion の 価格 はいくら？個人向けの無料版 ... — 【2026】 Autodesk Fusion の 価格 はいくら？個人向けの無料版 ... キャド研 https://cad-kenkyujo.com > fusion-kakaku」（https://cad-kenkyujo.com/fusion-kakaku/）
+  - 「Fusion 360は本当に値段に見合う価値があるの？ - Reddit — Fusion 360は本当に値段に見合う価値があるの？ - Reddit Reddit https://www.reddit.com > BambuLabA1 > comments > is_...」（https://www.reddit.com/r/BambuLabA1/comments/1r3wqbq/is_fusion_360_really_worth_the_price_tag/?tl=ja）
+  - 「公式 Autodesk Fusion for Design の 価格 と購入 — 公式 Autodesk Fusion for Design の 価格 と購入 Autodesk https://www.autodesk.com > fusion-360 > fusion-for-design」（https://www.autodesk.com/jp/products/fusion-360/fusion-for-design）
+  - 「Fusion360 went into 30 Day trial - Reddit — Fusion360 went into 30 Day trial - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/Fusion360/comments/x96zg4/fusion360_went_into_30_day_trial/）
+
+## Onshape（Onshape）
+- 文脈：小さい会社向け：クラウド3D設計
+- 日本の代理店：
+  - 「Learn how Tokyo-based robotics company hibot transitioned from a research lab to a manufacturing operation by adopting PTC’s Onshape-Arena Connection, driving stronger engineering collaboration, change management, and product development.」（https://www.onshape.com/en/blog/understand-your-cad-plan）
+  - 「米 PTC（本社：米国マサチューセッツ州、社長兼 CEO：ジェームス・E・ヘプルマン、NASDAQ : PTC、以下 PTC ／日本法人 : PTC ジャパン株式会社、本社：東京都新宿区、代表取締役：桑原 宏昭）は本日、SaaS 型製品開発プラットフォームである、Onshape® の日本語版が完成し、日本市場での提供を販売代理店より本格的に開始すると発表しました」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「Onshape の日本語版は、 PTC の販売代理店より提供され、SB C&S と大塚商会より販売が開始されるほか、今後も多数の販売代理店経由で購入が可能になります」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「■SB C&S株式会社 取締役 常務執行役員 兼 ICT事業本部長 草川 和哉氏のコメント」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「■株式会社 大塚商会 のコメント」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「■ PTCジャパン株式会社 代表取締役 桑原 宏昭のコメント」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「PTCジャパン株式会社 広報室 [担当：中村]」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「PTC ジャパン株式会社、社長執行役員：神谷 知信）は、2026年10月21日 、人、製品情報、意思決定をつなぐ、クラウドかつAIネイティブの製品コラボレーションソリューション「PTC Jetstream™」 の提供開始を発表しました」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「PTC ジャパン株式会社、社長執行役員：神谷 知信）は本日、米国空軍（United States Air Force：USAF）が、ESCAPE (Enterprise Supply Chain Analysis, Planning, and Execution、総合サプライチェーン分析、計画、実行)プログラムの一環として、PTCのサービスサプライチェーン最適化ソリューション「Servigistics®」の利用契約を更新したことを発表しました」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「PTCジャパン株式会社（日本法人：東京都中央区、社長執行役員：神谷 知信、以下 PTC）は、DAP（デジタルアダプションプラットフォーム）を提供するテックタッチ株式会社（以下テックタッチ）と、テクノロジーパートナー契約を締結したことを発表しました」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「販売代理店から購入する」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「その際、Onshape日本語版は、複数の販売代理店を経由して提供されることになりました」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「よって、正規ルートでOnshape日本語版の利用を開始するには、まずはPTC社と代理店契約を結んでいる販売店にコンタクトをとる必要があります」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「販売代理店のサイトによると、Onshapeの購入に際しては、全部で3つの有料ライセンスが案内されています」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「この無償トライアルも、Onshapeの販売代理店経由で申し込みができるようになっています」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+- 再販・パートナー制度：
+  - 「Become a Partner」（https://www.onshape.com/en/startups/partners）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/startups/partners）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/lp/creator-program）
+  - 「Is there a referral program?」（https://www.onshape.com/en/startups/faq）
+  - 「Yes! Our referral program offers $25 for each accepted startup you refer. The applying startup must include your email under the “How did you hear about us” section in their application to qualify.*」（https://www.onshape.com/en/startups/faq）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/startups/faq）
+  - 「As an Onshape startup, take advantage of a 20% off discount on 3Dconnexion products.」（https://www.onshape.com/en/startups/）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/startups/）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/pricing）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/education/plans）
+  - 「121 Seaport Boulevard, Boston, MA 02210」（https://www.onshape.com/en/blog/understand-your-cad-plan）
+  - 「package. The questions are, can it get the job done? And how much does it cost? As simple as these questions may seem, they can be challenging to answer. This is especially true of course as most CAD software have different packages with different licensing options and varying prices. One such software is」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+  - 「Onshape Discounts and Free Products」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+  - 「The CAD features allow you to create complex parts and solids, build detailed and structured assemblies, and produce working drawings. You can also import and export data of various formats. In addition to these, the CAD features include standard content libraries.」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+  - 「Onshape is available on various devices (」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+- 料金：
+  - 「You will receive 5 seats of Onshape Professional or Onshape Government depending on eligibility, completely free.」（https://www.onshape.com/en/startups/faq）
+  - 「Yes! Our referral program offers $25 for each accepted startup you refer. The applying startup must include your email under the “How did you hear about us” section in their application to qualify.*」（https://www.onshape.com/en/startups/faq）
+  - 「Alternative Engineering transformed its custom-equipment business with Onshape, saving an estimated $1.25 M in annual productivity and slashing design time. FeatureScript automation and robust cloud performance empower rapid configuration and high-quality renders directly from CAD models.」（https://www.ptc.com/en/products/onshape?srsltid=AYCX9vJdfzuMPGkCmSN8WvF-o92EzXybDzcVa6po8yeaMBtCuIz0H5xV）
+  - 「5 seats of Onshape Professional or Onshape Government at no cost」（https://www.onshape.com/en/startups/）
+  - 「$1,500」（https://www.onshape.com/en/pricing）
+  - 「$2,500」（https://www.onshape.com/en/pricing）
+  - 「Included for 3+ Seat Accounts」（https://www.onshape.com/en/pricing）
+  - 「Standard: $1,500 per user, per year」（https://www.onshape.com/en/pricing）
+  - 「Professional: $2,500 per user, per year」（https://www.onshape.com/en/pricing）
+  - 「Comparable to the Onshape Standard Plan, valued at $1,500/year」（https://www.onshape.com/en/education/plans）
+  - 「Comparable to the Onshape Professional Plan, valued at $2500/year」（https://www.onshape.com/en/education/plans）
+  - 「Onshape Standard is the entry-level subscription level of Onshape that allows users to create and edit 3D models, and collaborate with others.」（https://www.onshape.com/en/blog/understand-your-cad-plan）
+  - 「Onshape Standard costs $1,500 per user, per year.」（https://www.onshape.com/en/blog/understand-your-cad-plan）
+  - 「Onshape Professional costs $2,500 per user, per year. However, Onshape is launching the」（https://www.onshape.com/en/blog/understand-your-cad-plan）
+  - 「How Much Does Onshape Cost? | Pricing Explained | Scan2CAD」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+- 無料体験：
+  - 「Fill in the form on this page and include links to examples of videos you’ve already created or something demonstrating your CAD/engineering skills.」（https://www.onshape.com/en/lp/creator-program）
+  - 「Free Plan」（https://www.onshape.com/en/pricing）
+  - 「Onshape also offers a Free plan for non-commercial projects, and a no cost Education plan for students and educators.」（https://www.onshape.com/en/pricing）
+  - 「Onshape offers a Free Plan for non-commercial use.」（https://www.onshape.com/en/pricing）
+  - 「When a student is no longer eligible for an Education plan (such as after graduation or leaving a school), their account may be transitioned to a Free plan or upgraded to a paid plan.」（https://www.onshape.com/en/education/plans）
+  - 「Onshape Free Plan vs. Paid Plans」（https://www.onshape.com/en/blog/understand-your-cad-plan）
+  - 「Onshape Free Trial」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+  - 「If you are not sure whether the software is suitable for you, you can get personal experience for free using Onshape’s 14-days trial period. The trial gives you free, unrestricted access to the Professional plan. At the end of the trial period, either you subscribe to a paid plan or get downgraded to a free plan.」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+  - 「Free Plan」（https://www.onshape.com/en/professional-trial）
+  - 「Existing customers on a paid plan are not eligible for the program. Existing Free Plan users are eligible for the Discovery Program if they use CAD professionally in any capacity.」（https://www.onshape.com/en/professional-trial）
+  - 「Downgrade to the Free plan where you can create and edit data in our public, open-source workspace. Your existing work will always remain private, view-only, and exportable unless you choose to make it public to continue editing it.」（https://www.onshape.com/en/professional-trial）
+  - 「If an instant FREE trial of Onshape is not tempting enough, here are a few more reasons to consider this limited-time opportunity:」（https://www.onshape.com/en/blog/free-cloud-cad-trial-for-teams）
+  - 「If you choose not to upgrade to a Professional plan, you are automatically returned to a Free or Standard subscription plan after the 14-day trial period.」（https://cad.onshape.com/help/Content/Plans/managing_your_onshape_professional_trial.htm）
+  - 「Downgrading to a Free plan」（https://cad.onshape.com/help/Content/Plans/managing_your_onshape_professional_trial.htm）
+  - 「If you wish to downgrade to a Free plan before the trial period is over:」（https://cad.onshape.com/help/Content/Plans/managing_your_onshape_professional_trial.htm）
+- 日本語対応：
+  - 「PTC、SaaS 型製品開発プラットフォーム「Onshape」 の本格販売に向け 日本語版の提供を開始 | PTC (JA)」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「PTC、SaaS 型製品開発プラットフォーム「 Onshape 」 の本格販売に向け 日本語版の提供を開始」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「米 PTC（本社：米国マサチューセッツ州、社長兼 CEO：ジェームス・E・ヘプルマン、NASDAQ : PTC、以下 PTC ／日本法人 : PTC ジャパン株式会社、本社：東京都新宿区、代表取締役：桑原 宏昭）は本日、SaaS 型製品開発プラットフォームである、Onshape® の日本語版が完成し、日本市場での提供を販売代理店より本格的に開始すると発表しました」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「Onshape の日本語版は、 PTC の販売代理店より提供され、SB C&S と大塚商会より販売が開始されるほか、今後も多数の販売代理店経由で購入が可能になります」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「今後は Onshapeの日本語版販売の拠点をさらに拡大させると共に、開発における一貫したクラウドサービス ソリューションの確立をめざします」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「この度、PTCよりOnshapeの日本語版が登場し、SaaSソリューションの提供に拍車がかかり、企業のDXの実現や、人々のリモート作業、新しい働き方の提案もご支援できればと思います」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「Onshapeを提供する米国のPTC社は、2021年より待望の日本語版の供給を日本市場で開始しています」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「その際、Onshape日本語版は、複数の販売代理店を経由して提供されることになりました」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「よって、正規ルートでOnshape日本語版の利用を開始するには、まずはPTC社と代理店契約を結んでいる販売店にコンタクトをとる必要があります」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「サイト上は日本語で表記されていますが、先述した通りPTC社は米国のソフトウェア提供会社であるため、取引時は海外からの商品購入という扱いになります」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「また、海外サイトからの購入の場合、Onshapeのユーザーインターフェースが日本語に未対応の可能性もあります」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「日本語化する方法が皆無というわけではないですが、サードパーティーの設定を介するなど非公式の手段に頼るケースも考えられます」（https://cad-kenkyujo.com/onshape-kounyuhouhou/）
+  - 「Onshape Hands-On Test Drive Japanese」（https://learn.onshape.com/courses/onshape-hands-on-test-drive-japanese）
+  - 「PTC、SaaS 型製品開発プラットフォーム「Onshape」 の本格販売に向け 日本語版の提供を開始 | PTC (JA)」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vLIryfsrcFPbv0EnumdgtzLfd_p9VlQGyPNiDFSQCb1_XpM5UvD）
+  - 「PTC、SaaS 型製品開発プラットフォーム「 Onshape 」 の本格販売に向け 日本語版の提供を開始」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vLIryfsrcFPbv0EnumdgtzLfd_p9VlQGyPNiDFSQCb1_XpM5UvD）
+- 会社の規模：
+  - 「1992年3月設立」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vIjh_iZJ7LBfS2EbEGtNR81cSxS2HfryMGHHNKppNPtRXKp_puk）
+  - 「1992年3月設立」（https://www.ptc.com/ja/news/2021/onshape-japan?srsltid=AYCX9vLIryfsrcFPbv0EnumdgtzLfd_p9VlQGyPNiDFSQCb1_XpM5UvD）
+  - 「1992年3月設立」（https://www.cybernet.co.jp/company/about/news/press/2021/20210826.html）
+  - 「Onshape（企業名）は、CAD業界のパイオニアとして知られるJon Hirschtick氏（元SOLIDWORKS CEO／共同創業者）、John McEleney氏（元SOLIDWORKS CEO）、Dave Corcoran氏らによって2012年に設立された」（https://monoist.itmedia.co.jp/mn/articles/2108/31/news045.html）
+  - 「2019年11月にSaaS戦略の強化に踏み切ったPTCによって買収され、現在に至る」（https://monoist.itmedia.co.jp/mn/articles/2108/31/news045.html）
+  - 「リモートワークをテーマとする分科会セッションでは、2019年11月に買収したOnshapeを活用した製品開発のアプローチとその有効性を紹介する講演が行われた」（https://monoist.itmedia.co.jp/mn/articles/2108/31/news045.html）
+  - 「Onshape was developed by a company with the same name. Founded in 2012, Onshape was based in」（https://en.wikipedia.org/wiki/Onshape）
+  - 「In November 2012, former SolidWorks CEOs Jon Hirschtick and John McEleney led six co-founders launching Belmont Technology, a placeholder name that was later changed to Onshape. The company’s first round of funding was $9 million from North Bridge Venture Partners and Commonwealth Capital.」（https://en.wikipedia.org/wiki/Onshape）
+  - 「In October 2019, Onshape agreed to be acquired by」（https://en.wikipedia.org/wiki/Onshape）
+  - 「The acquisition closed in November 2019 for $470 million.」（https://en.wikipedia.org/wiki/Onshape）
+  - 「(NEA) and North Bridge Venture Partners. Total venture funding amounted to $169 million.」（https://en.wikipedia.org/wiki/Onshape）
+  - 「"After 3 Years And $64M In Seed Funding, Onshape Launches The Mother Of All Products"」（https://en.wikipedia.org/wiki/Onshape）
+  - 「"Ex-SolidWorks execs reunite to take another swing at product design software, with $9 million in funding"」（https://en.wikipedia.org/wiki/Onshape）
+  - 「"Onshape's Cloud-Based CAD Tool Gets $80 Million in Funding"」（https://en.wikipedia.org/wiki/Onshape）
+- 小さい会社向け：
+  - 「Startups」（https://www.onshape.com/en/startups/partners）
+  - 「Sign up now」（https://www.onshape.com/en/startups/partners）
+  - 「Onshape for Startups」（https://www.onshape.com/en/startups/partners）
+  - 「Jumpstart growth with the only cloud-native CAD tool in the industry. Join the startup program, and get Onshape Professional or Onshape Government at no cost*.」（https://www.onshape.com/en/startups/partners）
+  - 「Accelerate Your Startups’ Time to Market」（https://www.onshape.com/en/startups/partners）
+  - 「The best hardware startups move fast. Onshape offers enterprise-grade design tools from day one—without installs, IT headaches, or delays.」（https://www.onshape.com/en/startups/partners）
+  - 「We work with top VCs, accelerators, and incubators to equip startups with design tools they need – for free.」（https://www.onshape.com/en/startups/partners）
+  - 「, each of your startups can receive:」（https://www.onshape.com/en/startups/partners）
+  - 「Onshape Startup Program Partners」（https://www.onshape.com/en/startups/partners）
+  - 「Refer Your Startups」（https://www.onshape.com/en/startups/partners）
+  - 「If your portfolio includes startups working on physical products, we’ll give them priority access to the Onshape Startup Program.」（https://www.onshape.com/en/startups/partners）
+  - 「We’re growing a global network of partners committed to helping startups bring better products to market, faster.」（https://www.onshape.com/en/startups/partners）
+  - 「Sign Up」（https://www.onshape.com/en/startups/partners）
+  - 「Sign Up」（https://www.onshape.com/en/lp/creator-program）
+  - 「Onshape for Startups | FAQ」（https://www.onshape.com/en/startups/faq）
+- 顧客・用途：
+  - 「Customer Home」（https://www.onshape.com/en/startups/partners）
+  - 「Discover how Onshape customers overcome common product design challenges.」（https://www.onshape.com/en/startups/partners）
+  - 「Watch videos on customer stories, product guidance, and more.」（https://www.onshape.com/en/startups/partners）
+  - 「Aerospace & Defense」（https://www.onshape.com/en/startups/partners）
+  - 「Automotive」（https://www.onshape.com/en/startups/partners）
+  - 「Energy」（https://www.onshape.com/en/startups/partners）
+  - 「Medical Devices」（https://www.onshape.com/en/startups/partners）
+  - 「*Special conditions and restrictions may apply. Onshape reserves the right to change or terminate this program. Please note, this program is only open to new customers.」（https://www.onshape.com/en/startups/partners）
+  - 「Customer Home」（https://www.onshape.com/en/startups/faq）
+  - 「Discover how Onshape customers overcome common product design challenges.」（https://www.onshape.com/en/startups/faq）
+  - 「Watch videos on customer stories, product guidance, and more.」（https://www.onshape.com/en/startups/faq）
+  - 「Aerospace & Defense」（https://www.onshape.com/en/startups/faq）
+  - 「Automotive」（https://www.onshape.com/en/startups/faq）
+  - 「Energy」（https://www.onshape.com/en/startups/faq）
+  - 「Medical Devices」（https://www.onshape.com/en/startups/faq）
+- 検索結果の抜粋：
+  - 「How Much Does Onshape Cost ? | Pricing Explained — How Much Does Onshape Cost ? | Pricing Explained Scan2CAD https://www.scan2cad.com > blog > cad」（https://www.scan2cad.com/blog/cad/onshape-pricing/）
+  - 「Onshape Pricing 2026 - TrustRadius — Onshape Pricing 2026 - TrustRadius TrustRadius https://www.trustradius.com > pricing」（https://www.trustradius.com/products/onshape/pricing）
+  - 「完全クラウド統合型3D CAD「 Onshape ®」販売開始のお知らせ — 完全クラウド統合型3D CAD「 Onshape ®」販売開始のお知らせ サイバネットシステム株式会社 https://www.cybernet.co.jp > ... > お知らせ > 2021年度」（https://www.cybernet.co.jp/company/about/news/press/2021/20210826.html）
+  - 「SaaS型製品開発プラットフォーム「 Onshape 」の販売・技術 ... — SaaS型製品開発プラットフォーム「 Onshape 」の販売・技術 ... MONOist https://monoist.itmedia.co.jp > articles > news045」（https://monoist.itmedia.co.jp/mn/articles/2108/31/news045.html）
+  - 「Onshape の 価格 は？無料と有料での違いや、他CADソフトと ... — Onshape の 価格 は？無料と有料での違いや、他CADソフトと ... キャド研 https://cad-kenkyujo.com > onshape-kakaku-2」（https://cad-kenkyujo.com/onshape-kakaku-2/）
+  - 「Onshape 「無料プラン」ユーザーの皆さんへ : r/3Dprinting — Onshape 「無料プラン」ユーザーの皆さんへ : r/3Dprinting Reddit https://www.reddit.com > psa_to_onshape_free_plan_users」（https://www.reddit.com/r/3Dprinting/comments/963ibv/psa_to_onshape_free_plan_users/?tl=ja）
+  - 「Onshape の 価格 （料金・費用） - ITreview — Onshape の 価格 （料金・費用） - ITreview ITreview https://www.itreview.jp > ... > 3DCADソフト > Onshape」（https://www.itreview.jp/products/onshape/price）
+  - 「6 month trial : r/ Onshape - Reddit — 6 month trial : r/ Onshape - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/Onshape/comments/1e50d0k/6_month_trial/）
+  - 「Get Started with Onshape Free for Up to 6 Months — Get Started with Onshape Free for Up to 6 Months Onshape https://www.onshape.com > ... > resource center > videos」（https://www.onshape.com/en/resource-center/videos/get-started-with-onshape-free-for-6-months）
+  - 「Onshape - 2026 Company Profile, Funding & Competitors — Onshape - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/onshape/__sCEV96Z2a1Ks0BuyOsteHImYtBNOv8yqrUem25q6ykE）
+  - 「Onshape 2026 Company Profile: Valuation, Investors ... — Onshape 2026 Company Profile: Valuation, Investors ... PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/55931-41）

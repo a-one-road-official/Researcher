@@ -1,0 +1,823 @@
+{
+ "name": "Toolpath",
+ "en": "Toolpath",
+ "aliases": [
+  "Toolpath CAM",
+  "ツールパス"
+ ],
+ "context": "小さい加工会社向け：AIで加工データ作成",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:50:09.597179+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "Distributors & Showrooms",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "18 Months for the Price of 12",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "TRAK customers get a free 90-day trial of Toolpath AI. After that, the first subscription term is extended to 18 months at standard pricing, giving you more value from day one.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Pricing (as of June 2025)",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360: $680/year per license",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath AI: $1,500 for the first 18 months, then $1,500/year",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "100 DFM analyses per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "10 estimates per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "500 DFM analyses per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "60 estimates per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "2,500 DFM analyses per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "400 estimates per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "月額1万円台から運用できる",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額12,100円（税込）〜",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "US$9.99",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "NT$390 in Taiwan",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "US$5.9",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "US$14.9",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "One-time (US$9.99 / NT$390) permanently unlocks this one tool. The Personal plan additionally includes every furniture template and the other interior tools, so it's much better value.",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "We’re excited to be leading a $10M seed financing in Toolpath, alongside Carl Bass (Former CEO of Autodesk), John Saunders (Saunders Machine Works), Tech Square Ventures, and BLH Venture Partners.",
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by Andy Powell who we met seven years ago when we invested in his previous Atlanta-based company, CallRail. He proved to be an entrepreneur who experienced a problem, then built a large and profitable business solving it. CallRail has since grown from a startup to $100M+ ARR and emerged as a leader in the marketing analytics space.",
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Request Quote or Demo",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "(Compare this to the standard 14-day trial and 12-month term available elsewhere.)",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "We're already showcasing Toolpath at events like EASTEC, where live demos are running on a VMC2 in our booth. You'll start seeing webinars, videos, and other ways to learn about how this AI-powered tool fits into your workflow.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to revolutionize your manufacturing process with Toolpath? Contact our team of experts at DSI for a personalized demonstration, pricing information, or to discuss your specific needs.",
+    "url": "https://www.dsi-mfg.com/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "Start with a free trial.",
+    "url": "https://www.toolpath.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://www.toolpath.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tool Pathのアドインはコチラから（無料体験版もあるようです）",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial〡Vectric",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Our free trials allow you to test all the elements of the software with the exception of performing some export functions, saving the toolpaths and using gadgets.",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose the fully functional free trial that suits your needs",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Each tutorial comes with the free trial compatible project file so that you can test cut it on your CNC machine!",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Free Trial Projects",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "8 Free Trial Projects",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "For test cutting, use one of our free trial compatible projects. The free trial does not allow you to cut files you have created.",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "7-day free trial",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "Start the 7-day free trial",
+    "url": "https://designer.woodenren.com/en/cnc",
+    "pass": 3
+   },
+   {
+    "quote": "How to Sign Up for a Free Trial | Toolpath Docs",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "How to Sign Up for a Free Trial",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Start with a 7-day free trial to explore Toolpath.",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "To start a 7 day free trial of Toolpath, please follow the directions below:",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": ", you will enter the Parts workspace in Toolpath and begin your 7 day free trial.",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "To get started with Toolpath, check out the sample parts and observe the results with the Default and Starter Demo Cut Configs. You can switch between cut configs in the upper right hand of Toolpath as shown below:",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Starter Demo Cut Config",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "represents tooling that is likely to live in machine tool changers - 1/16\" through 1/2\" standard end mills, a couple standard size drills, and chamfer tools. Use the Starter Demo Cut Config to determine \"could I make this part with the basic tools that I have in my machine now?\"",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "The example below includes geometry that Toolpath can not machine with the smaller Starter Demo Cut Config. This smaller library does not have the high L/D ratio tooling to machine the tight fillets in the central pockets, is missing some drills for the hole sizes, and does not include a keyseat cutter:",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re interested in checking out the product, see the demo",
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "Set up a web demonstration",
+    "url": "https://www.moduleworks.com/moduleworks-announces-strategic-investment-in-toolpath-labs-to-strengthen-ai-driven-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "TRAK customers get a free 90-day trial of Toolpath AI. After that, the first subscription term is extended to 18 months at standard pricing, giving you more value from day one.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "ToolPath's team is world-class and best positioned to win this market. ToolPath is led by CEO, Al Whatmough who led Fusion at AutoDesk for a decade prior to joining Toolpath. Justin Gray, CTO, is one of the best technologists we've met and co-founded ToolPath after close to 20 years as a NASA rocket scientist!",
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by Andy Powell who we met seven years ago when we invested in his previous Atlanta-based company, CallRail. He proved to be an entrepreneur who experienced a problem, then built a large and profitable business solving it. CallRail has since grown from a startup to $100M+ ARR and emerged as a leader in the marketing analytics space.",
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "pass": 3
+   }
+  ],
+  "小さい会社向け": [
+   {
+    "quote": "Sign Up Now",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "What Happens After You Sign Up?",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "100 DFM analyses per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "10 estimates per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "500 DFM analyses per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "60 estimates per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "2,500 DFM analyses per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "400 estimates per month",
+    "url": "https://www.toolpath.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath — AI-powered quoting & CAM automation for machine shops | Toolpath",
+    "url": "https://www.toolpath.com/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのCookieは、個人を一切直接特定しない方法で情報を収集します",
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "月額1万円台から運用できる",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額12,100円（税込）〜",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our newsletter to get the latest news, events and FREE projects.",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our newsletter or follow us on our social channels to get the latest news, events and FREE projects.",
+    "url": "https://www.vectric.com/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Sign Up for a Free Trial | Toolpath Docs",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "How to Sign Up for a Free Trial",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Sign Up",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by Andy Powell who we met seven years ago when we invested in his previous Atlanta-based company, CallRail. He proved to be an entrepreneur who experienced a problem, then built a large and profitable business solving it. CallRail has since grown from a startup to $100M+ ARR and emerged as a leader in the marketing analytics space.",
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Customer Support",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "This isn’t just new technology—it’s a practical advantage for your shop. Through our collaboration with Toolpath Labs and DSI, TRAK customers now get early access to AI tools that simplify programming, quoting, and design review—so you can work faster and stay competitive.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Special Offer for TRAK Customers",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "That's why we're excited to introduce you to a new kind of partner: Toolpath Labs AI, now available to TRAK customers through a strategic collaboration with DSI and Toolpath Labs.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Impress Your Customers and Recruits",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Show customers, prospects, and new hires that your shop is investing in smart tools and a future-ready mindset.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "Special Access for TRAK Customers",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "TRAK customers get a free 90-day trial of Toolpath AI. After that, the first subscription term is extended to 18 months at standard pricing, giving you more value from day one.",
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "pass": 3
+   },
+   {
+    "quote": "The Bottom Line: Toolpath equips you to be more responsive to your customers, prospects, and other stakeholders by helping you estimate and generate CNC programs more quickly and confidently.",
+    "url": "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal",
+    "url": "https://www.dsi-mfg.com/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Caliguri, president of DSI, stated, “We are honored to be selected by Toolpath for this important role. Our team is committed to delivering exceptional service to both Toolpath and the market, bringing our expertise and dedication to every customer interaction.",
+    "url": "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "CoroPlus®ツールパスの成功事例",
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "PrimeTurning™ triples productivity in turning at Godrej Aerospace",
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "【業種・業界別】CAD/CAMソフト加工事例",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種・業界別】CAD/CAMソフト加工事例_top",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙機器",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "掲載している導入事例、画像、動画などは当時のものを引用・参照しておりますが、経年により引用元・参照元で同じ事例や画像、動画が確認できない可能性がございます",
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to see Speeds & Feeds used by Toolpath",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "How is my data used by Toolpath?",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "If you have any questions through the trial period, please reach out to the Toolpath Customer Success team",
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": ". I understand that my entered data will be used by ModuleWorks for the purpose of contacting me and discussing my query. The information provided will not be shared with third parties or used for any other purposes.",
+    "url": "https://www.moduleworks.com/moduleworks-announces-strategic-investment-in-toolpath-labs-to-strengthen-ai-driven-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Any cheap/affordable or free 5 axis CAM software for tool path ... — Any cheap/affordable or free 5 axis CAM software for tool path ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/hobbycnc/comments/1me63yz/any_cheapaffordable_or_free_5_axis_cam_software/",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is Toolpath ? - YouTube — 1. What is Toolpath ? - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=wEod509g8pI",
+    "pass": 3
+   },
+   {
+    "quote": "hyperMILL(使い方) 2021.1 New | Edit toolpath ツールパス 編集 — hyperMILL(使い方) 2021.1 New | Edit toolpath ツールパス 編集 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=lcEKLErzfHM",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath expands with sales arm for AI machining - develop3d — Toolpath expands with sales arm for AI machining - develop3d develop3d https://develop3d.com > toolpath-exp...",
+    "url": "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Labs: A Machine Shop Game Changer? - Part 1 — Toolpath Labs: A Machine Shop Game Changer? - Part 1 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=RU7xXqJCe80",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath 2026 Company Profile: Valuation, Funding & Investors — Toolpath 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath - 2026 Company Profile, Team, Funding & Competitors — Toolpath - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/toolpath/__UNrGKiTdnhgE6tesNiE7I9jgcvwwKybSwdEgRO3Fdn4",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Closes $10M Seed Round to Transform the ... — Toolpath Closes $10M Seed Round to Transform the ... Toolpath https://www.toolpath.com > blog > to...",
+    "url": "https://www.toolpath.com/blog/toolpath-closes-10m-seed-round-to-transform-the-machining-business-with-applied-ai",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "サンドビック株式会社コロマントカンパニー",
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "販売店および専門家",
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "日本 | 日本語",
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolsgroup.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.toolpath.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dsi-mfg.com/toolpath",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/hobbycnc/comments/1me63yz/any_cheapaffordable_or_free_5_axis_cam_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.toolpath.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.ktc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/english/members-directory/directory-of-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mst-corp.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfgaxis.com/japan-usa-precision-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imse.iastate.edu/jdham/automated-toolpath-generation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/CNC/comments/x3nie8/tool_path_generation/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/jp/listing/1358468061/cnc-fairu-purojekuto-gaido-aggravation",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vectric.com/free-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://designer.woodenren.com/en/cnc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forum.onefinitycnc.com/t/can-t-save-toolpath-with-vcarve/13521",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saaskart.co/ai-agents/toolpath",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://leaders.vc/blog/our-investment-in-toolpath",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/toolpath/__UNrGKiTdnhgE6tesNiE7I9jgcvwwKybSwdEgRO3Fdn4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/toolpath",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moduleworks.com/moduleworks-announces-strategic-investment-in-toolpath-labs-to-strengthen-ai-driven-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Toolpath reseller partner program",
+   "results": [
+    "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "https://www.toolsgroup.com/partner-program/",
+    "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "https://www.reddit.com/r/msp/comments/15dtrsn/msp_partner_programs_software_providers_reseller/",
+    "https://partnershipleaders.com/post/build-reseller-program-strategic-alliances/",
+    "https://www.youtube.com/watch?v=wEod509g8pI",
+    "https://www.add-on.com/sales-partners/",
+    "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "https://directory.partner.io/dewalt-com"
+   ]
+  },
+  {
+   "query": "Toolpath pricing license",
+   "results": [
+    "https://www.toolpath.com/pricing",
+    "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "https://www.dsi-mfg.com/toolpath",
+    "https://www.youtube.com/watch?v=7UHyYFtVW2M",
+    "https://www.reddit.com/r/hobbycnc/comments/1me63yz/any_cheapaffordable_or_free_5_axis_cam_software/",
+    "https://www.toolpath.com/",
+    "https://www.leaders.vc/blog/our-investment-in-toolpath",
+    "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "https://toolpath.com/pricing"
+   ]
+  },
+  {
+   "query": "Toolpath Japan distributor",
+   "results": [
+    "https://en.ktc.jp/",
+    "https://www.jmtba.or.jp/english/members-directory/directory-of-products/",
+    "https://www.toolpath.com/",
+    "https://www.dsi-mfg.com/toolpath",
+    "https://www.mst-corp.co.jp/en/",
+    "https://www.youtube.com/watch?v=wEod509g8pI",
+    "https://mfgaxis.com/japan-usa-precision-tools/",
+    "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "https://japanprecision.us/",
+    "https://japanesedistributors.com/top-japanese-tools-distributors-importers/"
+   ]
+  },
+  {
+   "query": "Toolpath 代理店",
+   "results": [
+    "https://www.toolpath.com/",
+    "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "https://www.dsi-mfg.com/toolpath",
+    "https://www.youtube.com/watch?v=lcEKLErzfHM",
+    "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "https://www.youtube.com/watch?v=RU7xXqJCe80",
+    "https://www.facebook.com/toolpathlabs/",
+    "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "https://www.imse.iastate.edu/jdham/automated-toolpath-generation/"
+   ]
+  },
+  {
+   "query": "Toolpath 価格",
+   "results": [
+    "https://www.toolpath.com/pricing",
+    "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "https://www.toolpath.com/",
+    "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "https://www.sandvik.coromant.com/ja-jp/software/coroplus-tool-path",
+    "https://www.reddit.com/r/CNC/comments/x3nie8/tool_path_generation/?tl=ja",
+    "https://www.youtube.com/watch?v=rs2Jf-6fcDM",
+    "https://www.cadcam-z.com/cam-functionality-list/tool-pass.html",
+    "https://www.etsy.com/jp/listing/1358468061/cnc-fairu-purojekuto-gaido-aggravation",
+    "https://toolpath.com/pricing"
+   ]
+  },
+  {
+   "query": "Toolpath free trial",
+   "results": [
+    "https://www.toolpath.com/",
+    "https://www.southwesternindustries.com/articles/introducing-toolpath-ai-your-shortcut-to-smarter-machining",
+    "https://www.toolpath.com/pricing",
+    "https://www.vectric.com/free-trial/",
+    "https://designer.woodenren.com/en/cnc",
+    "https://forum.onefinitycnc.com/t/can-t-save-toolpath-with-vcarve/13521",
+    "https://saaskart.co/ai-agents/toolpath",
+    "https://marketplace.autodesk.com/apps/ee7fad7f-1e29-4c61-9e90-53880e6b86c1",
+    "https://docs.toolpath.com/faqs/how-to-sign-up-for-a-free-trial",
+    "https://toolpath.com/"
+   ]
+  },
+  {
+   "query": "Toolpath company founded employees funding",
+   "results": [
+    "https://pitchbook.com/profiles/company/497540-71",
+    "https://www.leaders.vc/blog/our-investment-in-toolpath",
+    "https://tracxn.com/d/companies/toolpath/__UNrGKiTdnhgE6tesNiE7I9jgcvwwKybSwdEgRO3Fdn4",
+    "https://www.crunchbase.com/organization/toolpath",
+    "https://www.moduleworks.com/moduleworks-announces-strategic-investment-in-toolpath-labs-to-strengthen-ai-driven-manufacturing/",
+    "https://www.toolpath.com/blog/toolpath-closes-10m-seed-round-to-transform-the-machining-business-with-applied-ai",
+    "https://www.digitalengineering247.com/article/ai-powered-cnc-startup-received-fresh-funding",
+    "https://adsknews.autodesk.com/en/?post_type=news&p=53795",
+    "https://develop3d.com/ai/toolpath-expands-with-sales-arm-for-ai-machining/",
+    "https://fundediq.co/toolpath-toolpath-com-funding/"
+   ]
+  }
+ ],
+ "missing": {}
+}

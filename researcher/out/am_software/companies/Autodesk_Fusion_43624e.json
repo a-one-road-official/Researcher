@@ -1,0 +1,1544 @@
+{
+ "name": "Autodesk Fusion",
+ "en": "Autodesk Fusion",
+ "aliases": [
+  "Fusion 360",
+  "フュージョン360"
+ ],
+ "context": "小さい会社向け：設計・加工データ一体",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:52:53.812256+00:00",
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Autodesk Fusion Design & Manufacturing Partners — Autodesk Fusion Design & Manufacturing Partners Autodesk https://www.autodesk.com > fusion-360",
+    "url": "https://www.autodesk.com/products/fusion-360/design-manufacturing-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion Technology Partner Ecosystem — Autodesk Fusion Technology Partner Ecosystem Autodesk https://www.autodesk.com > fusion-360",
+    "url": "https://www.autodesk.com/products/fusion-360/fusion-technology-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion for personal use vs. $50 SolidWorks for Makers — Autodesk Fusion for personal use vs. $50 SolidWorks for Makers Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Fusion360/comments/1rrt8hk/autodesk_fusion_for_personal_use_vs_50_solidworks/",
+    "pass": 3
+   },
+   {
+    "quote": "How much does Fusion 360 cost ? - Autodesk — How much does Fusion 360 cost ? - Autodesk Autodesk https://www.autodesk.com > blog > h...",
+    "url": "https://www.autodesk.com/products/fusion-360/blog/how-much-will-fusion-360-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 Pricing 2026: Personal, Startup & Paid - Vagon — Fusion 360 Pricing 2026: Personal, Startup & Paid - Vagon Vagon https://vagon.io > fusion-360-pricing",
+    "url": "https://vagon.io/blog/fusion-360-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 Autodesk Fusion の認定販売店は？購入方法や ... — 【2026】 Autodesk Fusion の認定販売店は？購入方法や ... キャド研 https://cad-kenkyujo.com > autodeskfusion-ninteihanbaiten",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 Now Available in Japanese - ADSK News — Fusion 360 Now Available in Japanese - ADSK News Autodesk News https://adsknews.autodesk.com > news",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk to launch Fusion 360 in Japanese - ADSK News — Autodesk to launch Fusion 360 in Japanese - ADSK News Autodesk News https://adsknews.autodesk.com > news",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion Japan (@Fusion360Japan) / X — Autodesk Fusion Japan (@Fusion360Japan) / X X https://x.com > Fusion360Japan",
+    "url": "https://x.com/Fusion360Japan",
+    "pass": 3
+   },
+   {
+    "quote": "inventorとFusion360の購入について - Autodesk Community — inventorとFusion360の購入について - Autodesk Community Autodesk Community, Autodesk Forums, Autodesk Forum https://forums.autodesk.com > td-p",
+    "url": "https://forums.autodesk.com/t5/inventor-ri-ben-yuforamu/inventortofusion360no-gou-runitsuite/td-p/7658229",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion | 3D CAD/CAM/CAE/PCB が1つに集約され ... — Autodesk Fusion | 3D CAD/CAM/CAE/PCB が1つに集約され ... Autodesk https://www.autodesk.com > fusion-360 > overview",
+    "url": "https://www.autodesk.com/jp/products/fusion-360/overview",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 Autodesk Fusion の 価格 はいくら？個人向けの無料版 ... — 【2026】 Autodesk Fusion の 価格 はいくら？個人向けの無料版 ... キャド研 https://cad-kenkyujo.com > fusion-kakaku",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360は本当に値段に見合う価値があるの？ - Reddit — Fusion 360は本当に値段に見合う価値があるの？ - Reddit Reddit https://www.reddit.com > BambuLabA1 > comments > is_...",
+    "url": "https://www.reddit.com/r/BambuLabA1/comments/1r3wqbq/is_fusion_360_really_worth_the_price_tag/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "公式 Autodesk Fusion for Design の 価格 と購入 — 公式 Autodesk Fusion for Design の 価格 と購入 Autodesk https://www.autodesk.com > fusion-360 > fusion-for-design",
+    "url": "https://www.autodesk.com/jp/products/fusion-360/fusion-for-design",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion360 went into 30 Day trial - Reddit — Fusion360 went into 30 Day trial - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Fusion360/comments/x96zg4/fusion360_went_into_30_day_trial/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "【2026】Autodesk Fusionの認定販売店は？購入方法やおすすめ認定販売店も紹介 | キャド研",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Autodesk Fusionの認定販売店は？購入方法やおすすめ認定販売店も紹介",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、Autodesk FusionをはじめとするAutodesk製品は、Autodesk認定販売店でのみ取り扱われるようになりました",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、「認定販売店」とはいったいどの店舗を指すのか分からず、購入先に迷ってしまう方もいるのではないでしょうか",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "を購入できる認定販売店について詳しく解説",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの認定販売店5選もご紹介しますので、Autodesk Fusionの購入を検討している方はぜひ参考にしてください",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "2.Autodesk Fusionの認定販売店とは",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "3.おすすめのAutodesk Fusion認定販売店",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "4.Autodesk Fusionを認定販売店で購入する方法",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "5.Autodesk Fusion認定販売店を選ぶポイント",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "6.Autodesk Fusionの認定販売店についてまとめ",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの認定販売店とは",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの認定販売店とは、Autodeskと正式な契約を結び、製品の販売だけでなく、技術サポートや導入のアドバイスなども提供できる専門店のことです",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoDesk製品は、Autodesk認定販売店のみで購入",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk認定販売店一覧",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "in Tokyo, the company announced that",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "【オートデスク正規代理店】Autodesk Fusion支援サービス - toDIMポータル｜応用技術株式会社",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "【オートデスク正規代理店】Autodesk Fusion支援サービス",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニック株式会社",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "京浜精密工業株式会社",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "瀬尾高圧工業株式会社",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "【オートデスク正規代理店】製造向けAutodesk総合支援サービス",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "応用技術 株式会社 プラチナ認定 取扱い可 取扱い可専任者有り 取扱い可",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大塚商会 プラチナ認定 取扱い可 取扱い可専任者有り 取扱い可",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ボーンデジタル プラチナ認定 取扱い可 取扱い可専任者有り 取扱い可",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 イマオコーポレーション ゴールド認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社シーキューブ ゴールド認定 取扱い可 取扱い可専任者有り 取扱い可",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダイキン工業 株式会社 ゴールド認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 電通総研 ゴールド認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Too ゴールド認定 取扱い可 取扱い可専任者有り -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ピーディーシステム ゴールド認定 取扱い可 取扱い可専任者有り 取扱い可 AutoCADArchitecture & Enginnering http://www.pdstk.co.jp/",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイスクウェアド シルバー認定 取扱い可 取扱い可専任者有り - AutoCADArchitecture & Enginnering https://www.isquared.co.jp/",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛和システムソリューションズ 株式会社 シルバー認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Arent シルバー認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 イズミコンサルティング シルバー認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 インディゾーン シルバー認定 取扱い可 取扱い可専任者有り - AutoCADMedia & Entertainment http://indyzone.jp",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インフィニティソリューションズ 株式会社 シルバー認定 取扱い可 - -",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk announces Japanese language version of Fusion 360 cloud-based CAD/CAM/CAE software at Maker Faire Tokyo",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "This past weekend at Maker Faire in Tokyo, Autodesk announced its commitment to bringing next-generation 3D CAD to Japan by making",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Maker Faire Tokyo",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "オートデスク認定販売店一覧 9",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県 販売店名 パートナー認定ステータス 郵便番号 住所 電話番号 FAX番号 URL メールアドレス Open AutoCAD BuildingArchitecture CivilInfrastructure",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "北海道 リコージャパン株式会社 販売事業本部北海道支社 リセラー認定 060-0807 札幌市北区北7条西2丁目8-1 札幌北ビル 011-700-5535 - http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県 リコージャパン株式会社 販売事業本部宮城支社 （東北地区担当） リセラー認定 980-0022 仙台市青葉区五橋1-5-3 アーバンネット五橋ビル 022-726-3333 - http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山形県 キューブワン情報株式会社 PSR 998-0102 山形県酒田市京田四丁目１番地10 0234-31-7191 - http://www.cube-one.com - ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "茨城県 リコージャパン株式会社 販売事業本部茨城支社 リセラー認定 310-0836 水戸市元吉田町1074-1 029-248-2120 - http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "茨城県 ヤトロ電子株式会社 PSR 300-3257 つくば市筑穂1-11-8 029-864-4484 - www.yatoro.co.jp tajima@yatoro.co.jp ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "栃木県 リコージャパン株式会社 販売事業本部栃木支社 リセラー認定 321-0911 宇都宮市問屋町3172-10 028-657-8828 028-656-5432 http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県 リコージャパン株式会社 販売事業本部群馬支社 リセラー認定 371-0846 前橋市元総社町527-3 027-251-1358 - http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県 リコージャパン株式会社 販売事業本部埼玉支社 リセラー認定 331-0812 さいたま市 北区宮原町2-45-1 048-664-2242 - http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "千葉県 リコージャパン株式会社 販売事業本部千葉支社 リセラー認定 261-7118 千葉市 美浜区中瀬2-6-1 043-299-2317 - http://www.ricoh.co.jp/ - ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 株式会社電通国際情報サービス ゴールド認定 108-0075 港区港南2-17-1 03-6713-7106 - http://www.isid.co.jp g-mfmarketing@group.isid.co.jp ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 株式会社 TOO ゴールド認定 105-0001 港区虎ノ門3-4-7 虎ノ門36森ビル 03-6757-3145 - http://www.too.com dms@too.co.jp ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 ダイキン工業 株式会社 ゴールド認定 108-0075 港区港南2-18-1 JR品川イーストビル10階 03-6716-0477 03-6716-0240 http://www.comtec.daikin.co.jp/DC/ info-dc.comtec@daikin.co.jp ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 株式会社 ピーディーシステム ゴールド認定 104-0031 中央区京橋2-13-11 宝町三清ビル 03-3567-8137 03-3567-8140 http://www.pdstk.co.jp/ - ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認定パートナーとして提携している「代理店（販売店）」での購入",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "①認定販売店・パートナー経由で購入する",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "なら、ゴールド認定パートナーとして提携しているSB C＆S株式会社がおすすめです",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社VOST",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社VOST",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Fusion 360の購入 Autodesk Japan公式法人販売パートナー",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "再販形式とは、認定パートナーよりお客様にお見積書を提示する商談の形式を示します",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 SCSK株式会社 VAR (Mold Flow) プラチナ認定 135-8110 江東区豊洲3丁目2番20号 豊洲フロント 03-5859-3012 - http://www.scsk.jp/product/common/AutodeskSolution/index.html moldflow-sales@ml.scsk.jp ● ● ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県 SCSK株式会社 中部 (VAR) プラチナ認定 460-0003 名古屋市中区錦2丁目16番26号 SC伏見BLDG. 9F 052-209-7005 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府 応用技術 株式会社 営業部2課(VAR) ゴールド認定 530-0015 大阪市北区中崎西2-4-12 梅田センタービル - - http://www.apptec.co.jp - ● ● ● ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府 SCSK株式会社 関西(VAR) プラチナ認定 541-0041 大阪市中央区北浜1-8-16 大阪証券取引所ビル 06-6223-6260 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "広島県 SCSK株式会社 広島(VAR) プラチナ認定 730-0012 広島市 中区上八丁堀4-1 アーバンビューグランドタワー 082-511-6700 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県 SCSK株式会社 九州(VAR) プラチナ認定 812-0011 福岡市博多区博多駅前3-30-23 管絃ビル5F 092-472-5800 - http://www.scsk.jp/product/common/AutodeskSolution/index.html acad-team@ml.scsk.jp ● ● ● ● ● ● ● ● ●",
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在は「認定販売パートナー制度」に移行",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "「認定販売パートナー制度」に登録された代理店のみ",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "正式には「オートデスク認定販売パートナー」という名称で活動している企業のことであり、Autodeskの厳正な審査を経て登録されています",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "「認定販売パートナー検索」",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "認定販売パートナー検索を開く",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を調べられる「認定販売パートナー検索」の画面では、フィルターをかけながら代理店を調べることも可能ですが、",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの購入 Autodesk Japan公式法人販売パートナー",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "), alleging that he was entitled to resell \"used\" copies of AutoCAD software on",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "giving rise to a right to resell the copy under the first-sale doctrine. As such, Autodesk could not pursue an action for copyright infringement against Vernor, who sought to resell used versions of its software on eBay. Autodesk appealed the decision to the",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ", a website and platform where users can share their ideas and collaborate with a variety of do-it-yourself projects.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ". The company's manufacturing software is used in various manufacturing segments, including industrial machinery, electro-mechanical, tool and die, industrial equipment, automotive components, and consumer products. The principal products are",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Revit variants",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD variants",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Securities and Exchange Commission",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Variety",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Re: Password for crispin shoemaker",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "【2026】Autodesk Fusionを無料で使う方法！有料版との違いや他CADとの価格を比較",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "100,100円/年",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "96,800円/年",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "88,000円/年",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "研修（100,000円/1日）",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート（60,000円/1年）",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "858円/日",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "購入数に応じて1トークンあたりの価格が418円～429円で設定されています",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": ", also now available in Japanese. Fusion 360 is $300/year (￥35,640), and is always free to students, educators, hobbyists and start-ups.*",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "subscription customers in Japan (and elsewhere) have free access to Fusion 360 as part of their subscription entitlements. * For full details on free Fusion 360 access for education and start-ups, please see",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】AutoCADの価格はいくら？費用対効果や他ソフトとの価格を徹底検証！",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "84,700円（税込）",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "・AutoCAD教育セミナー5,000円OFFクーポン",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "260,700円(税込)",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "の5,000円OFFクーポンをプレゼント",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "からAutoCADライセンスを購入すると、教育セミナーの5,000円OFFクーポンがもらえるので、これを使って受講するのもいいでしょう",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "29,700円〜",
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "pass": 3
+   },
+   {
+    "quote": "※6月7日時点の価格です",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "※6月7日時点の価格",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "※7月20日時点の価格です",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "45,100円(税込)",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "58,300円(税込)",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Autodesk Fusionの価格はいくら？個人向けの無料版も紹介 | キャド研",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Autodesk Fusionの価格はいくら？個人向けの無料版も紹介",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で利用されている3Dモデリングツール「Autodesk Fusion」について、価格がどれくらいなのかわからないとお悩みではないでしょうか",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "2.Autodesk Fusionの価格はいくら？",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "3.Autodesk Fusionの価格を気にせず無料で使う方法",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "4.Autodesk Fusionの有料版と個人用の無料版の価格別機能の違い",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "6.Autodesk Fusionの価格についてよくある質問",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "7.Autodesk Fusionの価格についてまとめ",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "14,300円/月",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "116,600円/年",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "（約9,717円/月）",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "350,900円/3年",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "これはAutodesk Fusion本体と、業務別に利用可能なExtensionのセットを割安に提供する製品で、Fusion本体とDesign Extension、Manage Extension、Simulation Extensionがセットの「Fusion 360 for Product Design」は、価格・パッケージ構成ともそのままに「Fusion for Design」へ改名",
+    "url": "http://bp-platinum.com/platinum/view/files/sps/trend/tr20240430-3/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion本体のサブスクリプション価格は、1年分で6万5,000円から8万8,000円へ、3年分で19万5,000円から26万4,000円へと、全般的に値上げされている",
+    "url": "http://bp-platinum.com/platinum/view/files/sps/trend/tr20240430-3/",
+    "pass": 3
+   },
+   {
+    "quote": "US$1.58",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "US$1.12",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "US$12.5",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "US$3.05",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by John Walker, Daniel Drake, and 14 other programmers in April 1982, who invested $60,000.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD went on sale in December 1982 and earned $1.4 million in revenue in its first year. Walker said in December 1984 that Autodesk was profitable from its first month and had not needed loans or outside investors. By then the company had about 10,000 AutoCAD systems installed; it was so successful that for a while Autodesk implied that AutoCAD was the company's name.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In 1989, Autodesk's sales grew to over $100,000,000 after just four operational years.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ", a parametric building modeling application (acquired in 2002, from Massachusetts-based Revit Technologies for $133 million), and",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, Autodesk announced its investment of $200 million in World Labs, an AI spatial intelligence company who specializes in multimodal",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In August 1998, Autodesk agreed to acquire Discreet Logic Inc. for about $520 million in stock.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "On December 17, 2008, Autodesk agreed to acquire ALGOR, Inc. for approximately $34 million.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "On July 14, 2020, Bridgit Inc. announced that Autodesk had raised $9.4 million in venture capital to take an ownership stake in the Canadian company which makes Bridgit Bench, an online construction work force and resource planning software.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2021, Autodesk announced that it would acquire Innovyze, a provider of smart water infrastructure modeling and simulation technology, for $1",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, Autodesk agreed to acquire MaintainX for approximately $3.6 billion in cash, expanding its presence in maintenance and operations software and advancing its AI-driven operations platform strategy.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Autodesk Fusionの無料体験版はこちら",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "To learn more and to download a free 30-day trial of Fusion 360, visit www.autodesk.com/fusion360.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "🖥️ Fusionオンラインデモ",
+    "url": "https://note.com/merry_bobcat8659/n/n6facd427a80e",
+    "pass": 3
+   },
+   {
+    "quote": "実機の操作デモ",
+    "url": "https://note.com/merry_bobcat8659/n/n6facd427a80e",
+    "pass": 3
+   },
+   {
+    "quote": "Fusionオンラインデモンストレーション",
+    "url": "https://note.com/merry_bobcat8659/n/n6facd427a80e",
+    "pass": 3
+   },
+   {
+    "quote": "デモンストレーション",
+    "url": "https://note.com/merry_bobcat8659/n/n6facd427a80e",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験版ダウンロードの案内",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの30日間の無料体験版を申し込む",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "という場合には、30日間の無料体験版を利用するのがおすすめです",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験版は、Autodesk Fusionに搭載されている機能を30日間だけ無料利用できるという仕組みであり、",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "– Verifies entry-level skills in key Autodesk products. Designed for students and instructors who wish to demonstrate basic proficiency. Curriculum, courseware, and exams offered for independent study or institutional integration.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "\"Democratizing Design: Autodesk's CEO Carl Bass Announces 123D\"",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Demos Netfabb AM Software",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ],
+  "小さい会社向け": [
+   {
+    "quote": "個人による非商用目的の利用",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "Small business",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk launches Support for Small Business and expands tools to help small teams save time, manage costs, and strengthen security",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護方針について",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報の取り扱いについて",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "Small business",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 brings CAD, CAM and CAE together in the cloud. It’s an integrated, connected, and accessible platform built for the new ways that products are being designed and made. From the beginning, its earliest adopters have been disruptive hardware startups and manufacturers who recognize that Fusion 360 is breaking down barriers and disrupting the CAD market.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Availability of Fusion 360 in Japanese is planned for fall 2015. Fusion 360 is already available to the Japanese market in English. Fusion 360 is always FREE for students, hobbyists and startups. Autodesk believes that those learning to use the software or create a business should not have to pay for the ability to realize their ideas.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk launches Support for Small Business and expands tools to help small teams save time, manage costs, and strengthen security",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "※商用ライセンスは、個人・法人問わずご購入いただけます",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusionライセンス 個人利用向け",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "個人による非商用目的のデザインプロジェクト、または自宅での非商用目的の製造",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "※以下の形式は、個人用以外のすべてのライセンスタイプでサポート",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "SAT/SMT ファイル (.sab .sat .smb .smt)",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "※以下の形式は、個人用以外のすべてのライセンス タイプでサポート",
+    "url": "https://bizroad-svc.com/fusion360/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Autodesk Fusionの価格はいくら？個人向けの無料版も紹介 | キャド研",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】Autodesk Fusionの価格はいくら？個人向けの無料版も紹介",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "4.Autodesk Fusionの有料版と個人用の無料版の価格別機能の違い",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けの機能がすべてそろっていることから、個人クリエイターのほか、製造系の中小企業など、多くの場所で活用されています",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、1年プランと3年プランでは、月額換算した額に違いはありません",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの個人用ライセンスは価格を気にせず利用できる",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "個人用ライセンスに登録してAutodesk Fusionを無料で利用することができます",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの有料版と個人用の無料版の価格別機能の違い",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionは、前述した個人用の無料版と、通常契約の有料版とでは次のポイントが異なります",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusionの個人用の無料版は基本的な設計機能のみ利用可能",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "初期導入や動作チェックで利用しやすいAutodesk Fusionの無料版ですが、個人用ライセンスの場合さまざまな制約がある点に注意しましょう",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "1年プラン・3年プランのほうが月額換算の価格がお得",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし非商用が条件であることから、個人や企業などAutodesk Fusionを無料で使い続けることはできません",
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "pass": 3
+   },
+   {
+    "quote": "(PC). This tool made it affordable for smaller design, engineering, and architecture companies to create detailed technical drawings. The program had been developed by",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "\"Autodesk Acquires Sequoia-Backed Software Design Startup PlanPlatform\"",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "\"Autodesk to Buy Construction Startup PlanGrid for $875 Million\"",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "従来のCADとは一線を画す機能を備え、機械設計、航空宇宙、自動車、建築、電気・電子など、様々な分野で新しいものづくりの可能性を広げ続けています",
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SERVICE",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "All customer service",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "subscription customers in Japan (and elsewhere) have free access to Fusion 360 as part of their subscription entitlements. * For full details on free Fusion 360 access for education and start-ups, please see",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion活用事例",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing技術、Generative Design、切削加工でのAutodesk Fusionの活用事例を紹介します",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion 事例",
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SERVICE",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "All customer service",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "A motorized prosthetic hand designed by the Japanese company Exiii, a current Fusion 360 customer.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“Lowering the barriers of entry for the world of product development is something we are passionate about, our partners are passionate about, and our customers are passionate about. We could not be more excited about providing today’s and tomorrow’s Japanese makers, designers, engineers and manufacturers with Fusion 360,” added Schneider.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ", is primarily used by architects, engineers, and structural designers to design, draft, and model buildings and other structures. Autodesk software has been used in many fields, and on projects from the",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ". Autodesk's collaboration with World Labs aims to advance physical-world AI via technical exploration inspired by customer desires and real-world outcomes. Additionally, World Labs",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ", with its automotive styling and digital content creation applications such as",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "End 2012/Beginning 2013 Autodesk completed the acquisition of PI-VR GmbH, developer of realtime and offline visualization software VRED, heavily utilized in the automotive industry.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ". The company's manufacturing software is used in various manufacturing segments, including industrial machinery, electro-mechanical, tool and die, industrial equipment, automotive components, and consumer products. The principal products are",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "include mechanical ventilation, external flow (wind loading), natural ventilation, and occupant comfort. Other energy applications include analysis for building energy, solar load, advanced energy and heating and cooling.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Quantity Takeoff Customer FAQ",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Constellation Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Diamondback Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Honeywell Aerospace",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Xcel Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Devon Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Expand Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Valero Energy",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Fusion 360 Now Available in Japanese | Autodesk News",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 Now Available in Japanese",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "is now available in Japanese. Fusion 360 brings CAD, CAM, CAE, collaboration and data management together in the cloud. It’s an integrated, connected, and accessible product innovation platform built for the new ways products are being designed and made. The Japanese version of Fusion 360 includes",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": ", also now available in Japanese. Fusion 360 is $300/year (￥35,640), and is always free to students, educators, hobbyists and start-ups.*",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk to launch Fusion 360 in Japanese | Autodesk News",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk to launch Fusion 360 in Japanese",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk announces Japanese language version of Fusion 360 cloud-based CAD/CAM/CAE software at Maker Faire Tokyo",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "available in the Japanese language this fall.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Maker Faire showcases creators who are exploring new technologies and ways of making, and was the perfect venue to announce the upcoming Japanese version of Fusion 360. Fusion 360 provides a new approach to 3D CAD, enabling people of all skill levels to take their idea from concept to fabrication.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "A motorized prosthetic hand designed by the Japanese company Exiii, a current Fusion 360 customer.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“Lowering the barriers of entry for the world of product development is something we are passionate about, our partners are passionate about, and our customers are passionate about. We could not be more excited about providing today’s and tomorrow’s Japanese makers, designers, engineers and manufacturers with Fusion 360,” added Schneider.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Availability of Fusion 360 in Japanese is planned for fall 2015. Fusion 360 is already available to the Japanese market in English. Fusion 360 is always FREE for students, hobbyists and startups. Autodesk believes that those learning to use the software or create a business should not have to pay for the ability to realize their ideas.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese)",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "subscription customers in Japan (and elsewhere) have free access to Fusion 360 as part of their subscription entitlements. * For full details on free Fusion 360 access for education and start-ups, please see",
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "“Lowering the barriers of entry for the world of product development is something we are passionate about, our partners are passionate about, and our customers are passionate about. We could not be more excited about providing today’s and tomorrow’s Japanese makers, designers, engineers and manufacturers with Fusion 360,” added Schneider.",
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded in 1982 by",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by John Walker, Daniel Drake, and 14 other programmers in April 1982, who invested $60,000.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "AutoCAD went on sale in December 1982 and earned $1.4 million in revenue in its first year. Walker said in December 1984 that Autodesk was profitable from its first month and had not needed loans or outside investors. By then the company had about 10,000 AutoCAD systems installed; it was so successful that for a while Autodesk implied that AutoCAD was the company's name.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": ", a parametric building modeling application (acquired in 2002, from Massachusetts-based Revit Technologies for $133 million), and",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk announced the largest lay off in its history on November 27, 2017, with the lay off of 1,150 jobs. This was in addition to the almost 1,000 job cuts announced in January 2016. The number of Autodesk employees decreased from approximately 9,200 to 7,200 in less than 2 years.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Autodesk layoffs of 1,350 employees roughly 9% of its workforce as part of restructuring effort to focus on AI and cloud computing.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In 1992 Autodesk acquired Micro Engineering Solutions (MES) Inc., a developer and marketer of manufacturing CAD / CAM software.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   },
+   {
+    "quote": "In 1993 Autodesk acquired Ithaca Software, a 3D computer graphics company founded by Autodesk's former CEO Carl Bass and Garry Wiegand.",
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.autodesk.com/products/fusion-360/design-manufacturing-partners",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partners/programs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/support/partners",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partners/partner-with-autodesk",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-become-an-Autodesk-reseller.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/fusion-360/personal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Fusion360/comments/1rrt8hk/autodesk_fusion_for_personal_use_vs_50_solidworks/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.autodesk.com/products/fusion-360/extensions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/campaigns/fusion-360/offerings",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/fusion-360/blog/how-much-will-fusion-360-cost/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forums.autodesk.com/t5/inventor-ri-ben-yuforamu/inventortofusion360no-gou-runitsuite/td-p/7658229",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/autocad-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_bobcat8659/n/n6facd427a80e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizroad-svc.com/fusion360/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/products/fusion-360/overview",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/BambuLabA1/comments/1r3wqbq/is_fusion_360_really_worth_the_price_tag/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.autodesk.com/jp/products/fusion-360/fusion-for-design",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://bp-platinum.com/platinum/view/files/sps/trend/tr20240430-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/fusion-360/free-trial",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/campaigns/fusion-360/new-trial-download",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Fusion360/comments/x96zg4/fusion360_went_into_30_day_trial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-sign-up-for-a-free-trial-of-Fusion-360.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-register-for-Fusion-360-for-Personal-Use.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Autodesk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/company",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-unveils-cloud-based-forge-initiative-transform-how",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Fusion360/comments/1abhqof/fusion_used_to_stick_it_to_solidworks_but/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Autodesk Fusion reseller partner program",
+   "results": [
+    "https://www.autodesk.com/products/fusion-360/design-manufacturing-partners",
+    "https://www.autodesk.com/partners/programs",
+    "https://www.autodesk.com/support/partners",
+    "https://www.autodesk.com/partners/partner-with-autodesk",
+    "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-become-an-Autodesk-reseller.html",
+    "https://www.autodesk.com/products/fusion-360/fusion-technology-partners",
+    "https://www.reddit.com/r/AutodeskInventor/comments/y8e22h/reseller_or_autodesk_direct_who_would_you_buy_from/",
+    "https://ketiv.com/autodesk-software/",
+    "https://www.autodesk.com/partners/programs/var",
+    "https://boards.autodesk.com/e3d723/partner-events"
+   ]
+  },
+  {
+   "query": "Autodesk Fusion pricing license",
+   "results": [
+    "https://www.autodesk.com/products/fusion-360/personal",
+    "https://www.reddit.com/r/Fusion360/comments/1rrt8hk/autodesk_fusion_for_personal_use_vs_50_solidworks/",
+    "https://www.autodesk.com/products/fusion-360/extensions",
+    "https://www.autodesk.com/campaigns/fusion-360/offerings",
+    "https://www.autodesk.com/products/fusion-360/blog/how-much-will-fusion-360-cost/",
+    "https://vagon.io/blog/fusion-360-pricing",
+    "https://forum.langmuirsystems.com/t/fusion-360-hobby-personal-use-license/41478",
+    "https://www.facebook.com/groups/Fusion360CAM/posts/2268752276807205/",
+    "https://www.autodesk.com/products/fusion-360/buy",
+    "https://www.g2.com/products/autodesk-fusion/pricing"
+   ]
+  },
+  {
+   "query": "Autodesk Fusion Japan distributor",
+   "results": [
+    "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "https://adsknews.autodesk.com/en/news/fusion-360-now-available-in-japanese-along-with-enhanced-a360-collaboration/",
+    "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "https://adsknews.autodesk.com/en/news/autodesk-to-launch-fusion-360-in-japanese/",
+    "https://x.com/Fusion360Japan",
+    "https://www.autodesk.com/products/fusion-360/overview",
+    "https://www.youtube.com/c/Fusion360Japan",
+    "https://en.wikipedia.org/wiki/Autodesk_Fusion",
+    "https://boards.autodesk.com/japandmsummary/items/オートデスク認定パートナー｜検索"
+   ]
+  },
+  {
+   "query": "Autodesk Fusion 代理店",
+   "results": [
+    "https://cad-kenkyujo.com/autodeskfusion-ninteihanbaiten/",
+    "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "https://todim.apptec.co.jp/solution/autodesk-fusion/",
+    "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner-locator-list-for-update-20220722.pdf",
+    "https://forums.autodesk.com/t5/inventor-ri-ben-yuforamu/inventortofusion360no-gou-runitsuite/td-p/7658229",
+    "https://cad-kenkyujo.com/autocad-dairiten/",
+    "https://note.com/merry_bobcat8659/n/n6facd427a80e",
+    "https://bizroad-svc.com/fusion360/",
+    "https://www.autodesk.com/jp/support/partners",
+    "https://boards.autodesk.com/japandmsummary/items/オートデスク認定パートナー｜検索"
+   ]
+  },
+  {
+   "query": "Autodesk Fusion 価格",
+   "results": [
+    "https://www.autodesk.com/jp/products/fusion-360/overview",
+    "https://www.autodesk.com/campaigns/fusion-360/offerings",
+    "https://cad-kenkyujo.com/fusion-kakaku/",
+    "https://www.autodesk.com/products/fusion-360/personal",
+    "https://www.reddit.com/r/BambuLabA1/comments/1r3wqbq/is_fusion_360_really_worth_the_price_tag/?tl=ja",
+    "https://www.autodesk.com/jp/products/fusion-360/fusion-for-design",
+    "http://bp-platinum.com/platinum/view/files/sps/trend/tr20240430-3/",
+    "https://www.zwsoft.co.jp/blog/autodesk-fusion-review/",
+    "https://xn--3dcad-op4dpc7h7l.com/cad/fusion360_price.html",
+    "https://cad-kenkyujo.com/fusion-360-kounyuhouhou/"
+   ]
+  },
+  {
+   "query": "Autodesk Fusion free trial",
+   "results": [
+    "https://www.autodesk.com/products/fusion-360/free-trial",
+    "https://www.autodesk.com/products/fusion-360/personal",
+    "https://www.autodesk.com/campaigns/fusion-360/new-trial-download",
+    "https://www.reddit.com/r/Fusion360/comments/x96zg4/fusion360_went_into_30_day_trial/",
+    "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-sign-up-for-a-free-trial-of-Fusion-360.html",
+    "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-register-for-Fusion-360-for-Personal-Use.html",
+    "https://www.autodesk.com/free-trials",
+    "https://www.facebook.com/groups/889882791637410/posts/1816574768968203/",
+    "https://help.autodesk.com/view/fusion360/ENU/?caas=caas/sfdcarticles/sfdcarticles/Do-I-qualify-for-free-use-of-Fusion-360.html",
+    "https://help.autodesk.com/view/fusion360/ENU/?caas=caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html"
+   ]
+  },
+  {
+   "query": "Autodesk Fusion company founded employees funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Autodesk",
+    "https://www.autodesk.com/company",
+    "https://www.autodesk.org/home",
+    "https://investors.autodesk.com/news-releases/news-release-details/autodesk-unveils-cloud-based-forge-initiative-transform-how",
+    "https://www.reddit.com/r/Fusion360/comments/1abhqof/fusion_used_to_stick_it_to_solidworks_but/",
+    "https://tracxn.com/d/companies/autodesk/__Kxu4Vt6UZ7eVfgRkhMvgWtudb5ZVezJ52v763sVyeK4",
+    "https://www.autodesk.com/products/fusion-360/startups",
+    "https://www.youtube.com/watch?v=qwCKdGwxOSU",
+    "https://theirstack.com/en/technology/autodesk-fusion-360",
+    "https://indexed.vc/companies/autodesk"
+   ]
+  }
+ ],
+ "missing": {}
+}

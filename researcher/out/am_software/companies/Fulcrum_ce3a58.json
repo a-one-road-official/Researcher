@@ -1,0 +1,1728 @@
+{
+ "name": "Fulcrum",
+ "en": "Fulcrum Pro",
+ "aliases": [
+  "Fulcrum ERP",
+  "フルクラム"
+ ],
+ "context": "小さい加工会社向け：生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:50:05.258251+00:00",
+ "evidence": {
+  "無料体験": [
+   {
+    "quote": "Free demo",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure your spot for an in-person demo >",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a Demo",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum ERP Vendor - ERP Pricing, Demo & Comparison Tool",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Free demo",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Contractor foreman is an affordable construction management software for contractors with a free trial and prices starting at $49/month.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Free demo",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. We offer a free trial for you to see if Fulcrum fits your needs before you decide to purchase.",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your FREE trial now!",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a Demo",
+    "url": "https://fulcrumpro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure your spot for an in-person demo >",
+    "url": "https://fulcrumpro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Free Trial: 14 Days to Build and Test Field Apps",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Free demo",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum free trial: Field-first software. Real-time results.",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "built for real field conditions can do. Start your free 14-day trial today.",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free 14-day trial",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "What’s included in a Fulcrum free trial",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum free trial FAQ",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "How long is the Fulcrum free trial?",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "The Fulcrum free trial is 14 days. You get a working Fulcrum account to build apps, invite your team, and collect field data before you choose a plan.",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "What’s included in the Fulcrum free trial?",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "The Fulcrum free trial mirrors Fulcrum’s Elite plan with a few limits: up to 25 users, 20 apps, 3 GB of media storage, and exports of up to 10,000 records. API access, webhooks, email and SMS workflows, single sign-on (SSO), and SCIM are not included.",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "What happens when my Fulcrum free trial ends?",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Your apps and data stay in your account when your Fulcrum free trial ends, but you won’t be able to open them on mobile or web until you upgrade to a paid plan. If you need more time,",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I see a demo of Fulcrum first before signing up for a free trial or upgrading my Fulcrum account?",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Software Demo - Manufacturing Cloud Software",
+    "url": "https://fulcrumpro.com/demo-fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a Demo",
+    "url": "https://fulcrumpro.com/demo-fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Don't see a calendar to schedule a demo?",
+    "url": "https://fulcrumpro.com/demo-fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Free demo",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Get a FREE trial",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Builder One-Week Free Trial- Oct 09, 2026",
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a Demo",
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Builder One-Week Free Trial",
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Want to try the Builder before committing? Companies without a plan can start a one-week free trial with unlimited apps and a generous token allowance.",
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a Demo",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Advising Software",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   }
+  ],
+  "小さい会社向け": [
+   {
+    "quote": "Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Can your small business afford an ERP?",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "An ERP software for small to mid-sized manufacturers and job shops with modules for quoting, job scheduling, production tracking, and more.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Small to mid-sized manufacturers and job shops with 1 to 200 employees. Designed for OEMs and made-to-order manufacturers in ever-changing, dynamic environments.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Pro caters to job shops, original equipment manufacturers (OEMs), and made-to-order manufacturers operating in fast-paced, constantly evolving settings. It’s ideal for businesses seeking growth but facing labor market constraints.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Contractor foreman is an affordable construction management software for contractors with a free trial and prices starting at $49/month.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "This page compares WorkCell and Fulcrum Pro for manufacturing operations. Fulcrum Pro has revenue-based pricing for job shops, while WorkCell has broader integrations and no-code reporting tools.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "WorkCell uses flat, published monthly plans instead of a revenue-based model, so costs don't rise automatically as your company grows.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Small job shops with 5-100 employees and revenue under $20 million.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "WorkCell uses published, flat-rate monthly plans. Fulcrum Pro uses a revenue-based model with unlimited users, where the annual fee is tied to your company's annual revenue.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護方針",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "個人的にはCULTベアリングの走りの素晴らしさに改めて気付かされました",
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "pass": 3
+   },
+   {
+    "quote": "個人的には2-WAY FITはすごくアリだなと思うんですよ",
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "pass": 3
+   },
+   {
+    "quote": "チームはレースではチューブラーモデルを使いますが、個人参戦しているシクロクロスでは今季からチューブレスタイヤを運用し始めたんです",
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "pass": 3
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://mcollection.jp/dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果リクルート社での個人、代理店事業共に当時の数々の記録を樹立しMVPなど受賞多数獲得し、営業セミナーなど講演多数行いました",
+    "url": "https://www.fulcrum5.co.jp/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護方針",
+    "url": "https://search.kakaku.com/%E3%83%95%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%A0%20%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護方針",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our monthly newsletter to stay in the know for all things Fulcrum and field operations management.",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "We have been successfully building and investing in startups since 2003. Our energy and inspiration comes from working with exceptional founders to build tomorrow's greatest companies.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Lauren co-founded and served as Managing Partner of Oxford Intelligence Partners, was a founding partner of Victory Networks, founded Sumo Capital and Budo Holdings, and currently serves as a mentor at startup accelerators 43North and Founders Institute.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "During law school, Trey clerked at a startup law firm where he represented early-stage startups. Prior to joining Motivate, Trey co-founded HSAD Network and then spent two years at NCT Ventures.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to joining Schematic, Michael served in the USMC as an Intelligence Specialist at a logistics battalion, and then worked on go-to-market and growth strategy for early stage startups while at 500 Startups in San Francisco.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan is a 3x Founder with 2 exits. He's a Former Managing Director for 3 Techstars Retail Accelerator programs, an Investor in 60+ companies, and a founder of Beta.mn and Twin Cities Startup Week.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Mary worked on the Google IPO, served as the founding director of Google for Startups, and worked as an investment partner at Revolution’s Rise of the Rest Seed Fund in a range of sectors including healthcare, enterprise software, and fintech.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Vitalize, Caroline worked for GE Ventures in San Francisco where she helped incubate and operate a startup in the drone space and completed GE’s Financial Management Program which involved rotating through various GE businesses.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Mike is also Managing Partner for Joyance Partner. Previously Mike served as Executive Editor of PC Magazine, Executive Vice President at Ziff Davis and CEO at many startups, including Olive Software, Inman News, and Zinio.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Rich’s first career was in finance, his second in sales, and startups are his third career. He’s engaged with thousands of startups in his work as a community leader and as the North America Manager for IBM and SoftLayer’s startup programs.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive insights, from emerging startups to global deal activity",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Stay ahead in the evolving world of VC, startups, and technology",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Startups News",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Face swap vs head swap: What startup founders should know before choosing an AI tool",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "20 DACH startups to watch, according to top European VCs",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "German mobility startup Wunder Mobility picks €12M funding",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Milan-based startup Bevy, which delivers water and everyday beverages, has raised $2 million pre-seed funding in a round…",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia Inception Startups",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Sell Your Startup",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Find startups founded after 2020",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Steal the Growth Tactics That Took These Startups from $0 to $50M",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Your hub for Fulcrum thought leadership, events, customer success stories, and more",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Adapt swiftly to new customer demands and shifting market dynamics.",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer story",
+    "url": "https://www.fulcrumapp.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers, first, last, and always. Our software fits the needs of all types of manufacturers; as long as you have a production process for physical goods, we can help you get higher throughput and more on-time deliveries. While most of our customers fall into the small or medium category, we do have larger customers as well.",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": ", and, soon, a powerful network of suppliers and customers all on the same platform.",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "CMMC Compliance: What Aerospace and Defense Manufacturers Need to Know",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare & Medical ERP",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare and medical ERP: major products and players",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Five things to consider when implementing a medical device ERP",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive ERP Software",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Your hub for Fulcrum thought leadership, events, customer success stories, and more",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs and ISVs that can license Fulcrum as a complement to managed services or software offerings without adding any hardware infrastructure to provide a cost effective solution for field team data collection across a broad number of use cases in multiple industries, including energy, construction, telecom, civil engineering and more.",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP is a software for aerospace contract manufacturers with estimating, maintenance, and compliance tools. View pros, cons, reviews, and key features.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Your hub for Fulcrum thought leadership, events, customer success stories, and more",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Assigned Customer Success Manager",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Acoustic has announced the establishment of Fulcrum Acoustic Japan, which will serve as its dedicated distributor in the country. Based in Tokyo, Fulcrum Acoustic Japan will represent the brand’s complete portfolio of loudspeakers, amplifiers, processors and immersive systems. The team will provide localised sales, technical support and training to customers throughout the region.",
+    "url": "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "“We are honoured to bring Fulcrum Acoustic’s innovative design philosophy and high-performance systems to Japan,” added Daiki Miyashita, managing director of Fulcrum Acoustic Japan. “Our team is dedicated to helping customers achieve consistent, precise sound across every project.”",
+    "url": "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://fulcrumpro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Quinn, Customer Success",
+    "url": "https://fulcrumpro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The company updates shared here reflect ongoing investments in people, processes, and facilities that enable us to meet evolving customer requirements. As technology advances, we continue adapting our capabilities to support next-generation tools and manufacturing environments.",
+    "url": "https://www.fulcrum-tech.net/news",
+    "pass": 3
+   },
+   {
+    "quote": "航空工学に基づいて、CAEシミュレーションや幾多の実験を繰り返し、",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙工学に基づく先進的な設計で、ロードバイク界をリードし続けています",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・バイク",
+    "url": "https://search.kakaku.com/%E3%83%95%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%A0%20%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "Your hub for Fulcrum thought leadership, events, customer success stories, and more",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer story",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading the way in customer satisfaction",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://fulcrumpro.com/demo-fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Your hub for Fulcrum thought leadership, events, customer success stories, and more",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "We have been successfully building and investing in startups since 2003. Our energy and inspiration comes from working with exceptional founders to build tomorrow's greatest companies.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Michael is involved in Battery’s investments in Mattermost and Vndly. Previously, he worked for JMI Equity in Baltimore, where he sourced software investments and helped lead the firm’s research in the software sectors of manufacturing, automotive and banking.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "During 10 years in the energy industry, Matt managed more than $1.4 billion of successful M&A transactions.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "\"Fulcrum addresses a significant pain point for their customers in a very large market. I'm very impressed by Sunny's leadership and think this is a key MN company to watch!\"",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "\"I have known Sunny for years and seen how much he cares about manufacturing and especially Fulcrum's customers. The culture Sunny has created has enabled Fulcrum to develop solutions that have a true, positive business impact for manufacturers, which is why I'm excited to support and be a part of their continued growth!\"",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Who are your customers?",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging tech research on AI, healthcare, energy, and more",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020, the company brings crucial live data and insights to manufacturing shops around the world. Fulcrum’s small and mid-sized customers annually produce $1.6 billion worth of precision parts, sheet metal structures, custom signage, wooden furniture, and much more. These businesses have higher throughput, lower scrap rates, and better margins by switching to Fulcrum.",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Service Software",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Unlike most ERP companies, Fulcrum doesn’t use a value-added reseller or implementer. Instead, you get to work hand-in-hand with our",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Introduces “Fulcrum Leverage” Partner Program | Fulcrum",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Introduces “Fulcrum Leverage” Partner Program",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "New Program Enables Strategic Technology Partners, Value Added Resellers, Managed Service Providers and Consultants to Drive Digital Transformation for Mobile Workforces",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The Fulcrum Leverage partner program creates significant business opportunity for a range of candidate partners including:",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "VARs, resellers, and solution providers that generate new revenue streams by getting into the low-code application and safety and inspection market opportunities.",
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports unlimited users with varying permission levels",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Small to mid-sized manufacturers and job shops with 1 to 200 employees. Designed for OEMs and made-to-order manufacturers in ever-changing, dynamic environments.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Pro caters to job shops, original equipment manufacturers (OEMs), and made-to-order manufacturers operating in fast-paced, constantly evolving settings. It’s ideal for businesses seeking growth but facing labor market constraints.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast, Accurate, and Flexible ERP for Manufacturers and Distributors",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Acoustic has announced the establishment of Fulcrum Acoustic Japan, which will serve as its dedicated distributor in the country. Based in Tokyo, Fulcrum Acoustic Japan will represent the brand’s complete portfolio of loudspeakers, amplifiers, processors and immersive systems. The team will provide localised sales, technical support and training to customers throughout the region.",
+    "url": "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "that facilitate user navigation and use of the various options or services offered by the web, such asas identifying a session, allowing access to certain areas, facilitating orders, purchases, filling out forms, registration, security, facilitating functionalities (videos, social networks, etc..).",
+    "url": "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "ガーミンVaria Vueの4K映像",
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "pass": 3
+   },
+   {
+    "quote": "But the benefits of Fulcrum don’t stop there. You’ll also discover how you can view and edit data in a browser, generate customizable PDF reports, and export data in various formats, including JSON, CSV, and geospatial formats. Plus, you’ll learn how Fulcrum’s",
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "pass": 3
+   },
+   {
+    "quote": "Sanjiv Kalevar",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Vitalize, Caroline worked for GE Ventures in San Francisco where she helped incubate and operate a startup in the drone space and completed GE’s Financial Management Program which involved rotating through various GE businesses.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020, the company brings crucial live data and insights to manufacturing shops around the world. Fulcrum’s small and mid-sized customers annually produce $1.6 billion worth of precision parts, sheet metal structures, custom signage, wooden furniture, and much more. These businesses have higher throughput, lower scrap rates, and better margins by switching to Fulcrum.",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Fulcrum Series A2",
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum was founded in 2015.",
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small to mid-sized manufacturers and job shops with 1 to 200 employees. Designed for OEMs and made-to-order manufacturers in ever-changing, dynamic environments.",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": ". The starting price (if you have $0-$3M annual revenue) for the three tiers is as follows:",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "11-50 employees",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue $1M-$10M",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "My husband and I were each working 60 hours a week, and didn’t have the time we wanted to spend with our kids. Now, we’re only working 30 hours and our revenue continues to increase. I didn’t think it was possible!",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Small job shops with 5-100 employees and revenue under $20 million.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Series A2",
+    "url": "https://fulcrumpro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Series A2",
+    "url": "https://fulcrumpro.com/demo-fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Series A2",
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "pass": 3
+   },
+   {
+    "quote": "Grow - Fulcrum’s $3.1 Million Funding",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "On August 25, 2020, we closed on a $3.1 million funding deal to help us grow into our big paws",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Lauren co-founded and served as Managing Partner of Oxford Intelligence Partners, was a founding partner of Victory Networks, founded Sumo Capital and Budo Holdings, and currently serves as a mentor at startup accelerators 43North and Founders Institute.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Ventures is a global, technology-focused investment firm pursuing the most prominent companies and ideas. Founded in 1983, our firm makes venture-capital and private equity investments from six offices around the world. We work hard, but humbly, and are guided by data-driven processes. We seek out extraordinary business leaders who operate the same way.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Bain Capital Ventures, Ajay led product and sales as an early employee at Trilogy, growing annual revenues to $300 million. Ajay has been named multiple times to the Forbes Midas List Top 100 Venture Capitalists.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "IrishAngels was founded in 2012 as an angel network affiliated with Notre Dame. In 2017, IrishAngels Ventures (rebranded VitalizeVC in 2019) was launched as a result of continued growth and investment appetite among the IrishAngels investor network. Today, VitalizeVC and IrishAngels leverage shared team resources and office space, though each entity has a discrete investment criteria and process.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Daren founded InboxDollars, an online consumer rewards program, as a Freshman in college in 2000. He led the company's growth to more than $25 million of annual revenues -- entirely bootstrapped -- and sold the business to a strategic acquirer in 2019. Daren is active in the MN Tech community as a mentor, advisor, and angel investor.",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum (Business/Productivity Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "2. Later Stage VC (Series A)",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum, based out of the US, is a cloud software for manufacturers. In a recent development, the company closed an $18 million Series A2 funding round led by Bessemer Venture Partners known for backing",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "With this, the total funding raised by Fulcrum to date accounts for $39.9 million. The new capital will be used to expand the depth of the existing feature set and work toward a lofty goal of connecting manufacturers up and down the supply chain to unlock the power of their collective craft.",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020, the company brings crucial live data and insights to manufacturing shops around the world. Fulcrum’s small and mid-sized customers annually produce $1.6 billion worth of precision parts, sheet metal structures, custom signage, wooden furniture, and much more. These businesses have higher throughput, lower scrap rates, and better margins by switching to Fulcrum.",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Fractile’s £577M Series C: Companies House shows UK chipmaker’s biggest raise yet",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "A fintech company headquartered in Argentine, Ualá, has secured $350 million in a Series D funding, which takes…",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "German mobility startup Wunder Mobility picks €12M funding",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Milan-based startup Bevy, which delivers water and everyday beverages, has raised $2 million pre-seed funding in a round…",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 Tech Funding News - All rights reserved.",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Revenue 2020: $3.3M, $3.1M Raised",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Founded 2015",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum is an ERP Systems company based in the United States, founded in 2015.",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum's annual revenue was $3.3M in September 2020 (source not recorded), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Founded 2015 at $0; every reading has its own bar",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum has raised $3.1M in one round, in September 2020.",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Fulcrum Pro - 2025 Pricing + Reviews - For Manufacturers",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": ". The starting price (if you have $0-$3M annual revenue) for the three tiers is as follows:",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "$6,000/year + $5,000 implementation fee",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "$12,000/year + $5,400 implementation fee",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "$18,000/year + $8,100 implementation fee",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "$6,000",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue $1M-$10M",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "$43 US",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$55 US",
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Pro Pricing and Alternatives (2026) | WorkCell",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Published plans from $995 to $4,995 a month, unlimited users, with the implementation fee quoted up front.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Small job shops with 5-100 employees and revenue under $20 million.",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "Built in 1969, Bethany First Church of Nazarene is a 1,650-seat mid-century modern cathedral with a large pipe organ as a backdrop for the stage. With a growing congregation, they reconfigured seating and expanded their programming. To support these changes, they desired a new sound system that could reinforce both their traditional services and contemporary band-driven worship.",
+    "url": "https://www.fulcrum-acoustic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Restoration Church is a 500-seat house of worship in Whiteland, Indiana, used for contemporary services that feature a full band and up to eight vocalists. After a lightning strike damaged key components of the existing audio system, the church needed a reliable replacement that could be installed quickly while still delivering consistent, intelligible sound throughout the room.",
+    "url": "https://www.fulcrum-acoustic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "After their main campus reached capacity, Harvester Church expanded to a new worship center in O’Fallon, Missouri. The building, originally constructed as a bowling alley in the 1984, was renovated into a modern worship space seating about 350 people. The goal for the new sound system was to deliver clear, engaging sound for music and speech while keeping the system visually unobtrusive.",
+    "url": "https://www.fulcrum-acoustic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Technologies, Inc. has been awarded a $150,000 grant from the State of Oregon to support its pursuit of AS9100 Certification",
+    "url": "https://www.fulcrum-tech.net/news",
+    "pass": 3
+   },
+   {
+    "quote": "482,900円（税込）",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "しかも料金は前者が6,000円、後者ですら11,000円（どちらもブレーキ調整/スプロケ着脱込み）と超格安で、サイクルイベントやヒルクライムレースで使うこともできるのだ",
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "pass": 3
+   },
+   {
+    "quote": "113,900円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "469,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "139,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "239,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "229,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "399,900円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "189,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "199,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "489,500円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "369,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "471,900円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "359,800円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "89,100円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "75,980円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "75,900円(税込)",
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "pass": 3
+   },
+   {
+    "quote": "昨年までは「FULCRUM」と「カンパニョーロ」は同じような性能と価格に合わせるように同グレードでホイールを発売してきましたが、2015年モデルからは「RACING ZERO」の値下げや「RACING ZERO CARBON」の発売等、「FULCRUM」はホイールブランドとして「カンパニョーロ」とは違う独自路線を歩みつつあります",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、グリスレスの「CULTセラミックベアリング」は驚くべき回転性能を誇り、「スチールベアリング」よりも9倍円滑に回転し、分速500回転で回した場合、47分以上も回転を続けます",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥55,440～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥64,240～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥80,960～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥107,360～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥167,200～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥249,920～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥212,960～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": ",販売価格￥234,960～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": ",販売価格￥175,120～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥177,760～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥296,560～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥325,600～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格￥344,960～",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜SPEED 55C AC3 RIM シマノフリー 11/12s対応 ホイールセット｜中古｜買取金額 83,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "83,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜RACING ZERO DB CMPTZN シマノフリー 11/12s対応 2WAYFIT クリンチャー チューブレス ホイールセット｜中古｜買取金額 58,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "58,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜RACING ZERO COMPETIZIONE シマノ11/12s対応 クリンチャー チューブレス 2WAYFIT CULT ホイールセット｜美品｜買取金額 52,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "52,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜RACING ZERO Competizione C17 シマノ11/12s対応 2WAYFIT クリンチャー チューブレス CULT ホイールセット｜中古｜買取金額 52,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜RACING ZERO CMPTZN DB シマノ 11/12s対応 クリンチャー CULT 2WAYFIT ホイールセット｜中古｜買取金額 74,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "74,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜SPEED 55T AC3 RIM シマノフリー 11/12s対応 チューブラー CULTハブ カーボンホイールセット｜中古｜買取金額 73,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "73,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM（フルクラム）｜RACING ZERO CMPTZN DB シマノ11/12s対応 クリンチャー チューブレス 2WAYFIT CULT ホイールセット｜中古｜買取金額 62,000円",
+    "url": "https://www.valley-works.com/fulcrum/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fulcrum Pro - 2025 Pricing + Reviews - For Manufacturers — Fulcrum Pro - 2025 Pricing + Reviews - For Manufacturers Software Connect https://softwareconnect.com > reviews",
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Pro Pricing and Alternatives (2026) - WorkCell — Fulcrum Pro Pricing and Alternatives (2026) - WorkCell workcell.ai https://workcell.ai > Compare",
+    "url": "https://workcell.ai/compare/fulcrum",
+    "pass": 3
+   },
+   {
+    "quote": "フルクラム 、波型リムの新型エアロホイール「Sharq 57」発表 ... — フルクラム 、波型リムの新型エアロホイール「Sharq 57」発表 ... funq.jp https://www.funq.jp > bicycle-club > article",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "[Super Cheap] What's the deal with FULCRUM Racing3 ... — [Super Cheap] What's the deal with FULCRUM Racing3 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=lkgDES_k4dY",
+    "pass": 3
+   },
+   {
+    "quote": "代表プロフィール - 株式会社フルクラム — 代表プロフィール - 株式会社フルクラム 株式会社フルクラム https://www.fulcrum5.co.jp > profile",
+    "url": "https://www.fulcrum5.co.jp/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026 FULCRUM WHEEL （2026年 フルクラム ホイール） — 2026 FULCRUM WHEEL （2026年 フルクラム ホイール） Cozy Bicycle https://www.cozybicycle.com > fulcrum > fulcrumwheel",
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Free Trial : 14 Days to Build and Test Field Apps — Fulcrum Free Trial : 14 Days to Build and Test Field Apps Fulcrum https://www.fulcrumapp.com > lps > f...",
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Software Reviews, Demo & Pricing - 2026 — Fulcrum Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > 32...",
+    "url": "https://www.softwareadvice.com/product/328655-Fulcrum-Pro/",
+    "pass": 3
+   },
+   {
+    "quote": "Grow - Fulcrum's $3.1 Million Funding — Grow - Fulcrum's $3.1 Million Funding Fulcrum Pro https://fulcrumpro.com > grow",
+    "url": "https://fulcrumpro.com/grow",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum ( Business /Productivity Software) 2026 Company Profile — Fulcrum ( Business /Productivity Software) 2026 Company Profile PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "pass": 3
+   },
+   {
+    "quote": "US-based Fulcrum snaps $18M to connect manufacturers ... — US-based Fulcrum snaps $18M to connect manufacturers ... Tech Funding News https://techfundingnews.com > us-bas...",
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Revenue 2020: $3.3M, $3.1M Raised - GetLatka — Fulcrum Revenue 2020: $3.3M, $3.1M Raised - GetLatka GetLatka https://getlatka.com > ... > ERP Systems",
+    "url": "https://getlatka.com/companies/fulcrum",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "Fulcrum Acoustic has announced the establishment of Fulcrum Acoustic Japan, which will serve as its dedicated distributor in the country. Based in Tokyo, Fulcrum Acoustic Japan will represent the brand’s complete portfolio of loudspeakers, amplifiers, processors and immersive systems. The team will provide localised sales, technical support and training to customers throughout the region.",
+    "url": "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Technologies Opens Japan Office for Semiconductor Manufacturing",
+    "url": "https://www.fulcrum-tech.net/news",
+    "pass": 3
+   },
+   {
+    "quote": "Fulcrum Technologies has expanded into the Asia-Pacific region with a new Japan office, strengthening local manufacturing and installation support for semiconductor fabrication facilities. The expansion reinforces Fulcrum’s role as the leading pedestal supplier for semiconductor fabs, delivering solutions from turnkey pedestals to highly engineered systems.",
+    "url": "https://www.fulcrum-tech.net/news",
+    "pass": 3
+   },
+   {
+    "quote": "販売店を探す",
+    "url": "https://www.riogrande.co.jp/brand/12/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUM販売店を探す",
+    "url": "https://www.riogrande.co.jp/brand/12/",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoto in Tokyo",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月下旬より販売開始予定",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "FULCRUMの日本総代理店であるカンパニョーロジャパンは、「Sharq 57は、妥協を求めないライダーにとって理想的なホイール",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内限定のカスタムホイール 「Wind 42 CUSTOM」登場！先行販売店舗リストも公開｜FULCRUM",
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の日本正規販売代理店を務めるカワシマサイクルサプライでは、そんな声に応えるべく各モデルをたっぷりと試せるレンタルプラン「FULCRUM GO」を実施している",
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "pass": 3
+   },
+   {
+    "quote": "取扱商品や展示サンプルの有無、在庫状況などにつきましては直接販売店にご確認下さいませ",
+    "url": "https://mcollection.jp/dealers/",
+    "pass": 3
+   },
+   {
+    "quote": "代表プロフィール | 株式会社フルクラム",
+    "url": "https://www.fulcrum5.co.jp/profile/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fulcrumapp.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulcrumpro.com/lp/manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.practicalmachinist.com/forum/threads/how-is-fulcrum-pro-erp.432690/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpfocus.com/fulcrum-pro.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrumapp.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workcell.ai/compare/fulcrum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/188636/Fulcrum-Pro/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ERP/comments/po2fra/fulcrum_erp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.prosoundweb.com/fulcrum-acoustic-expands-into-japan-with-dedicated-distribution-team/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrum-acoustic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulcrumpro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrum-tech.net/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riogrande.co.jp/brand/12/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funq.jp/bicycle-club/article/1020583/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyclowired.jp/microsite/node/363689",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mcollection.jp/dealers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrum5.co.jp/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yodobashi.com/maker/5000006583/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://search.kakaku.com/%E3%83%95%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%A0%20%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valley-works.com/fulcrum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulcrumpro.com/demo-fulcrum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softwareadvice.com/product/328655-Fulcrum-Pro/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulcrumpro.com/grow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/fulcrumpro",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/436028-14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/fulcrum",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fulcrum Pro reseller partner program",
+   "results": [
+    "https://www.fulcrumapp.com/partners/",
+    "https://fulcrumpro.com/lp/manufacturing-software",
+    "https://www.youtube.com/channel/UC2NWIkasAAa9dB-oK-cfxsg",
+    "https://www.practicalmachinist.com/forum/threads/how-is-fulcrum-pro-erp.432690/",
+    "https://www.erpfocus.com/fulcrum-pro.html",
+    "https://www.fulcrumapp.com/newsroom/introducing-fulcrum-leverage-partner-program/",
+    "https://www.youtube.com/watch?v=XBlxWnYzy6M",
+    "https://workcell.ai/compare/fulcrum",
+    "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "https://fulcrumpro.com/"
+   ]
+  },
+  {
+   "query": "Fulcrum Pro pricing license",
+   "results": [
+    "https://fulcrumpro.com/lp/manufacturing-software",
+    "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "https://www.practicalmachinist.com/forum/threads/how-is-fulcrum-pro-erp.432690/",
+    "https://www.fulcrumapp.com/pricing/",
+    "https://www.erpfocus.com/fulcrum-pro.html",
+    "https://workcell.ai/compare/fulcrum",
+    "https://www.capterra.com/p/188636/Fulcrum-Pro/",
+    "https://www.reddit.com/r/ERP/comments/po2fra/fulcrum_erp/",
+    "https://fulcrumpro.com/",
+    "https://www.g2.com/products/fulcrum/pricing"
+   ]
+  },
+  {
+   "query": "Fulcrum Pro Japan distributor",
+   "results": [
+    "https://www.prosoundweb.com/fulcrum-acoustic-expands-into-japan-with-dedicated-distribution-team/",
+    "https://www.proavl-asia.com/details/79216-fulcrum-acoustic-sets-up-dedicated-distribution-team-in-japan",
+    "https://www.fulcrum-acoustic.com/",
+    "https://fulcrumpro.com/",
+    "https://www.fulcrum-tech.net/news",
+    "https://www.erpfocus.com/fulcrum-pro.html",
+    "https://www.linkedin.com/products/fulcrumpro-fulcrum-manufacturing-cloud-erp-mrp-mes-and-more/",
+    "https://www.ecisolutions.com/products/jobboss2/jobboss2-vs-fulcrum/",
+    "https://www.inter-bee.com/ja/forvisitors/exhibitor_info/detail/detail.php?id=464",
+    "https://www.fulcrum-acoustic.jp/about"
+   ]
+  },
+  {
+   "query": "Fulcrum 代理店",
+   "results": [
+    "https://www.riogrande.co.jp/brand/12/",
+    "https://www.funq.jp/bicycle-club/article/1020583/",
+    "https://www.cyclowired.jp/microsite/node/363689",
+    "https://mcollection.jp/dealers/",
+    "https://www.youtube.com/watch?v=lkgDES_k4dY",
+    "https://www.fulcrum5.co.jp/profile/index.html",
+    "https://www.cyclo.co.jp/496elan/fulcrum/top_top.htm",
+    "https://www.longride.org/fulcrum-racing3456-review/",
+    "https://www.fulcrum-acoustic.jp/about",
+    "https://www.fulcrum-acoustic.com/news/fulcrum-acoustic-expands-into-japan-with-dedicated-distribution-team"
+   ]
+  },
+  {
+   "query": "Fulcrum 価格",
+   "results": [
+    "https://fc-field.com/?srsltid=AYCX9vJXvPo2j3mgxfREItNNn2dOGeMxl8T95vOkKKRmYy0kdddUf4AM",
+    "https://www.cozybicycle.com/jouhou/parts/fulcrum/fulcrumwheel.html?srsltid=AYCX9vL_-o37j9qKSWagVS0kZVG40mg45fdwGyTZ6nL2lzInFPKZYMfF",
+    "https://www.yodobashi.com/maker/5000006583/",
+    "https://search.kakaku.com/%E3%83%95%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%A0%20%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/",
+    "https://www.valley-works.com/fulcrum/",
+    "https://www.riogrande.co.jp/brand/12/",
+    "https://cyclehack.jp/235",
+    "https://www.cypara.com/p/search?keyword=FULCRUM&page=1&sort=keyword",
+    "https://search.rakuten.co.jp/search/mall/fulcrum+フルクラム/",
+    "https://search.kakaku.com/自転車用ホイール+FULCRUM+クリンチャー/"
+   ]
+  },
+  {
+   "query": "Fulcrum Pro free trial",
+   "results": [
+    "https://www.fulcrumapp.com/lps/free-trial-general/",
+    "https://fulcrumpro.com/demo-fulcrum",
+    "https://www.youtube.com/watch?v=4YrVejCMyNw",
+    "https://www.fulcrumapp.com/pricing/",
+    "https://www.softwareadvice.com/product/328655-Fulcrum-Pro/",
+    "https://www.fulcrumapp.com/resources/video/fast-fulcrum-walkthrough/",
+    "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "https://fulcrumpro.com/product-update/builder-one-week-free-trial",
+    "https://www.capterra.com/p/188636/Fulcrum-Pro/",
+    "https://fulcrumpro.com/"
+   ]
+  },
+  {
+   "query": "Fulcrum Pro company founded employees funding",
+   "results": [
+    "https://fulcrumpro.com/grow",
+    "https://www.crunchbase.com/organization/fulcrumpro",
+    "https://www.linkedin.com/company/fulcrumpro",
+    "https://pitchbook.com/profiles/company/436028-14",
+    "https://techfundingnews.com/us-based-fulcrum-snaps-18m-to-connect-manufacturers-digitally/",
+    "https://getlatka.com/companies/fulcrum",
+    "https://vcnewsdaily.com/fulcrum/venture-capital-funding/yqsdjccrck",
+    "https://softwareconnect.com/reviews/fulcrum-pro/",
+    "https://tracxn.com/d/companies/fulcrum/__YX3kZruekyXdQ37Q3fXP861dp28U9wwRLals3PBP9iA"
+   ]
+  }
+ ],
+ "missing": {
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}

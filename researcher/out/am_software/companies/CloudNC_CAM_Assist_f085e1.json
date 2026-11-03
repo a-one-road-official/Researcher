@@ -1,0 +1,1479 @@
+{
+ "name": "CloudNC CAM Assist",
+ "en": "CloudNC",
+ "aliases": [
+  "CAM Assist",
+  "クラウドNC"
+ ],
+ "context": "小さい加工会社向け：AIで加工データ作成",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:50:12.382159+00:00",
+ "evidence": {
+  "日本の代理店": [
+   {
+    "quote": "工作機械メーカー、販売代理店、教育関係者、そして業界のリーダーの皆様です",
+    "url": "https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNCは、北米の製造ソフトウェア販売代理店（Shopware、CAM SERVICES（CCCS）、In-House Solutionsを含む）に対し、同ソフトウェアの提供を開始します",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "CAM Mastercam をはじめとするCAM 向けに、www.cloudnc.comおよび指定販売代理店を通じてご利用いただけます",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社は地域の主要なCAM／DNC／工場管理システムプロバイダーや工作機械メーカー・販売代理店と連携し、統合ソリューションとサポートサービスを提供しています",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月25日、マルチCAM対応AIアシストツール「CAM Assist」の国内販売開始",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月25日、マルチCAM対応AIアシストツール「CAM Assist」の国内販売開始｜お知らせ&コラム｜AIベースCAMアシストツール CAM Assist",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月25日、マルチCAM対応AIアシストツール「CAM Assist」の国内販売開始",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社データ・デザイン（愛知県名古屋市：代表取締役 岡村隆德）は、マルチCAMプラットフォームに対応したAIアシストツール「CAM Assist」（開発元：イギリス/CloudNC社）の国内販売を2月25日（火）より開始します",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "テクニウム株式会社",
+    "url": "https://www.technium.co.jp/cam-assist/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "その代わりとして、パートナーの皆様には、関連するデモ、トレーニング、コンサルティング業務、顧客との対話、またはイベントにおいて「CAM 」を積極的にご活用いただき、より迅速かつCAM 恩恵を受けられる企業へ、当社のソリューションをご紹介いただくようお願いいたします",
+    "url": "https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "、弊社チームメンバーによるCAM Assistのデモをお申し込みください",
+    "url": "https://www.cloudnc.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティに関する質問票のFAQの全文については、デモをご予約の際に担当のアカウントエグゼクティブにお問い合わせください",
+    "url": "https://www.cloudnc.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "Academic and Future Workforce",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja/fusion",
+    "pass": 3
+   },
+   {
+    "quote": "、弊社チームメンバーによるCAM Assistのデモをお申し込みください",
+    "url": "https://www.cloudnc.com/ja/fusion",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティに関する質問票のFAQの全文については、デモをご予約の際、担当のアカウントエグゼクティブにお問い合わせください",
+    "url": "https://www.cloudnc.com/ja/fusion",
+    "pass": 3
+   },
+   {
+    "quote": "FANUC America Offers Free Trial of CNC Virtualization Platform",
+    "url": "https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja/other-packages",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 体験版をダウンロード",
+    "url": "https://www.cloudnc.com/ja/other-packages",
+    "pass": 3
+   },
+   {
+    "quote": "Download Free Trial",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "デモを予約する",
+    "url": "https://www.cloudnc.com/ja/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "MSP ManufacturingCAM で航空宇宙生産を変革する方法",
+    "url": "https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "See why customers and analysts choose us.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Awards",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Customer",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "All Customer Content",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Our Customers",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Discover How Our Customers Succeed",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Siemens + Impartner",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Impartner + efficy",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Impartner + Nintex",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Impartner + Lookout",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Impartner + Vertiv",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Vertiv drove $800M worth of partner deal registrations through their Impartner PRM in this case study.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ComplyAdvantage + Impartner",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Impartner + Yokoy",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "製品エキスパートが最新の料金オプションをご説明し、お客様のようなショップがどのように迅速なROIを達成しているかについて、具体的な事例を共有いたします",
+    "url": "https://www.cloudnc.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "CAM Assist 、当社の工場において航空宇宙、宇宙、石油・ガス、原子力、自動車、防衛など、多岐にわたる分野の部品を毎日製造するためにAssist",
+    "url": "https://www.cloudnc.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Academy",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "テオは製造・機械エンジニア（ウォーリック大学工学修士）であり、防衛、ウォーリック・マニュファクチャリング・グループでのレーザーベースの金属3Dプリンティング研究、営業の経歴を持つ",
+    "url": "https://www.cloudnc.com/ja/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Academy",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Academy",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "今回のリリースにより、CAM ソリューションの利点が、航空宇宙、自動車、エネルギー分野に供給するMastercam、より多くのグローバルユーザーに提供されます",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドNCの最高経営責任者兼共同創設者であるテオ・サヴィル氏は次のように述べた：「Mastercam 航空宇宙や自動車産業といった専門分野向けの工作機械の専門家や作業場において深い市場浸透Mastercam 、当社の調査によれば、世界中のCAM 10％以上がMastercamを利用可能です",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは医療機器から自動車、産業用ロボット、最先端のレーザー技術まで、多岐にわたる産業界に高精度な部品を提供しています",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのお客様は、主に医療、自動車、産業機械といった、極めて高い精度が求められるハイテク分野の企業様です",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "アライン・プレシジョン社が実現した防衛・航空宇宙部品の超高速加工",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは米国アラバマ州を拠点に、極めて高い精度が要求される航空宇宙・防衛分野向けの精密製造を展開しています",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野のお客様をパートナーとして、精密部品の製造を行っています",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNCの導入事例",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "8/7（木）14:00～15:00｜AIアシスタントがCAM作業を革新、海外導入事例もご紹介！！ 「最新バージョン CAM Assist for AutodeskFusionウェビナー」のご案内⇒終了しました",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Transportation",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Utilities",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices & Pharmaceuticals",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Transformation Podcast",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "On the Move: A Siemens Automotive Podcast",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Talking Aerospace Today Podcast",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "We are committed to delivering innovative solutions that help our customers accelerate the part manufacturing process using breakthrough technologies. Enabling our customers to use CloudNC’s technology to automate CNC programming in NX CAM exemplifies our dedication to continuous advancements.”",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens collaboration with CloudNC also underscores the openness of the Siemens Xcelerator platform, a vibrant partner ecosystem that fosters seamless integration with specialized solutions from technology partners. This open ecosystem approach allows Siemens customers to continually expand their capabilities by adopting the most advanced solutions without disruption.",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Academy",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "製品エキスパートが最新の料金オプションをご説明し、お客様のようなショップがどのように迅速なROIを達成しているかについて、具体的な事例を共有いたします",
+    "url": "https://www.cloudnc.com/ja/fusion",
+    "pass": 3
+   },
+   {
+    "quote": "これまでに三次元曲面加工向け加工プログラムの自動化ソリューションを提供していましたが、今回は航空宇宙、造船、半導体、建設機械、エネルギーインフラなど付加価値の高い部品加工に特化したCAM自動化ソリューションとして取り扱いを始めました",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "事例(CloudNC⧉)",
+    "url": "https://www.technium.co.jp/cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "米国政府機関や防衛産業向けの厳格なセキュリティ要件に準拠したクラウド環境で、機密性・安全性が極めて高いのが特徴です",
+    "url": "https://www.technium.co.jp/cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Academy",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Turn RFQs into customer-ready quotes",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "A clear workflow for quoting teams: upload, review manufacturability, edit the quote, and send it to your customer.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Upload CAD files and drawings, or forward customer RFQs to your Quote Agent inbox.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Send to your customer",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Customers often send RFQs to multiple machine shops. The faster you can review parts and return a quote, the more opportunities you can compete for.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Generate professional quotes and share with customers.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Edit the draft quote before anything goes to your customer",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Customer-ready PDF quote available",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "largely because we got back to the customer within an hour.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent helps me get a fair price back to customers quickly.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent helps you review parts, identify potential issues, and generate a draft quote. You remain in control of the final quote and can review, edit, and adjust pricing before anything is sent to your customer.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "No. Quote Agent is built to help skilled estimators work faster. It reduces manual review, highlights potential issues earlier, and gives your team a stronger starting point. Your estimators still review, edit, and approve quotes before they go to customers.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "At this time, Quote Agent is a cloud-based service and we do not recommend uploading export-controlled data. Customers should ensure any data uploaded complies with their own security and contractual requirements",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "How CloudNC Scaled Reseller Growth by 300% with Impartner PRM",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Automation",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Partner",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling Success: How CloudNC Streamlined Reseller Growth with Impartner PRM",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC boosted reseller growth by 300% in 6 months with Impartner PRM, automating onboarding, deal registration, and asset sharing for seamless operations and CRM integration.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Smartsheet replaced legacy workflows with Impartner's Orchestration Studio to automate certifications, streamline collaboration, and scale its 700+ partner program.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how AvePoint transformed its partner program with Impartner and Microsoft, achieving streamlined operations, faster onboarding, and increased partner revenue.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Xerox implemented Impartner’s Google Ads for the Channel solution, successfully centralized Google Ads campaigns for all channel partners globally, and optimized them at scale.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "Shopware社、CCCS社、In-House Solutions社を含む北米の製造ソフトウェア再販業者は、アメリカとカナダのMastercam ユーザーにソフトウェアを提供し、顧客ベースを拡大することになります",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "1992年に法人化されたShopware, Inc.は、中西部随一の製造技術パートナーであり、世界第3位のMastercam 再販業者です",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "For manufacturers aiming to gain a competitive edge through automation and AI, this integration is a game-changer. CAM Assist is now available as an add-on for Siemens NX through CloudNC’s website and selected resellers. For more details visit",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent was developed and tested in CloudNC's own production machine shop, which manufactures high-mix, low-volume precision parts across a variety of industries. It helps estimators build accurate quotes faster, while still letting your team review, edit, and approve every quote before it is sent.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Mazak Variaxis I-500 x 1",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Mazak Variaxis J-600 x 1",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "We use exclusive innovative technology to turn a wide variety of materials into components of your exact specification and within schedule.",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "we may earn a small commission",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "Invariant AI",
+    "url": "https://www.joinef.com/portfolio/?company=cloudnc",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Find out how efficy transformed its channel strategy and generated €2.5M in channel pipeline by implementing Impartner PRM.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Vertiv drove $800M worth of partner deal registrations through their Impartner PRM in this case study.",
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "pass": 3
+   },
+   {
+    "quote": "$34.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$39.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$109.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$119.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$29.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$12,499.65",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$12,999.00",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "$34.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$39.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$109.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$119.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$29.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$12,499.65",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$12,999.00",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "$34.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$39.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$109.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$119.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$29.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$12,499.65",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$12,999.00",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "$34.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "$39.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "$109.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "$119.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "$29.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "$12,499.65",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "$12,999.00",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "⇒初年度：300万円、次年度以降：240万円",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "⇒初年度：130万円、次年度以降：100万円",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "$34.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "$39.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "$109.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "$119.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "$29.95",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "$12,499.65",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "$12,999.00",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "Generate 3 AI-powered quotes per month",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "$2.50 per part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Overage $3.75 per part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "$2.40 per part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Overage $3.60 per part",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "from just $99 per month",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC raises $20M to automate manufacturing's most pressing bottlenecks | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "U.K.-based manufacturing software startup CloudNC announced a $20 million Series B extension round on Wednesday, bringing its lifetime total amount raised to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "$68.0M",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC has raised $68.0M across 4 funding rounds.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC has raised $68.0M in total across 4 funding rounds.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC has raised $68.0M across 4 funding rounds. Most recently, it raised $45.0M Series B in June 2022.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$68.0M raised",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$45M Series B",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$9M Series U",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$12M Series A",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$2M Seed",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   }
+  ],
+  "小さい会社向け": [
+   {
+    "quote": "CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "pass": 3
+   },
+   {
+    "quote": "Pioneers: Startups from Dreams to Reality",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Xcelerator for Startups Videos",
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "pass": 3
+   },
+   {
+    "quote": "・CAM Assist Job Shop（3ユーザー）",
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護方針",
+    "url": "https://www.technium.co.jp/cam-assist/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our eNewsletters",
+    "url": "https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users",
+    "pass": 3
+   },
+   {
+    "quote": "Sign Up",
+    "url": "https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users",
+    "pass": 3
+   },
+   {
+    "quote": "New CAM Expands Functions for Digitalizing Machine Shops",
+    "url": "https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC CAM Assist makes CNC programming more efficient by using advanced AI to generate milling strategies in seconds. Built for machinists, programmers, and fast-paced job shops, it removes repetitive CAM steps so teams can focus on tooling, strategy, and cutting metal. Integrated directly inside your CAM software, CAM Assist supports everyday parts without changing your workflow.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "improves CNC programming efficiency by using advanced AI to produce milling strategies in seconds. Designed for machinists, programmers, and fast-paced job shops, it reduces repetitive CAM steps while keeping programmers in control of tooling, strategy, and machining decisions.",
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Quoting Software for Machine Shops | Try it Free",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Quoting Software for Machine Shops",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Generate 3 AI-powered quotes per month",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Customers often send RFQs to multiple machine shops. The faster you can review parts and return a quote, the more opportunities you can compete for.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Developed and tested in CloudNC's own production machine shop.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "For individual estimators and small machine shops.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "For growing teams and multi-user job shops.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Go Man Machine Shop",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent was developed and tested in CloudNC's own production machine shop, which manufactures high-mix, low-volume precision parts across a variety of industries. It helps estimators build accurate quotes faster, while still letting your team review, edit, and approve every quote before it is sent.",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for waitlist now",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "from just $99 per month",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Battlefield",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "U.K.-based manufacturing software startup CloudNC announced a $20 million Series B extension round on Wednesday, bringing its lifetime total amount raised to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "Saville said more than 1,000 machine shops worldwide use CAM Assist, and 80% of the company’s customer base, which includes both manufacturers and companies, is in the U.S. With a team of 80 employees, the company’s biggest goal is scaling adoption.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "The premise behind Quote Agent, which targets manufacturers, is similar to CAM Assist. It helps shops assess the estimated cost and risk of a new project so they can move faster to accept — or reject — new work. He tied this somewhat back to geopolitics, pointing to, for example, how machine shops in the U.S. are looking to",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "“Machine shops need to quote faster, program faster, and deliver more with the people and machines they already have,” he said, adding that Quote Agent is set to launch next month.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC: Funding, Team & Investors | Startup Intros",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Intros, Inc.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "AI software company developing AI-powered CAM software to automate CNC machining operations for machine shops and manufacturers globally.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "Startup",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cam Assist v2 | Practical Machinist — Cam Assist v2 | Practical Machinist Practical Machinist https://www.practicalmachinist.com > ...",
+    "url": "https://www.practicalmachinist.com/forum/threads/cam-assist-v2.442562/",
+    "pass": 3
+   },
+   {
+    "quote": "Try the CloudNC CAM Assist Automation Add-in for Fusion 360 — Try the CloudNC CAM Assist Automation Add-in for Fusion 360 Autodesk https://www.autodesk.com > blog > cl...",
+    "url": "https://www.autodesk.com/products/fusion-360/blog/cloudnc-cam-assist-automation-add-in-fusion-360/",
+    "pass": 3
+   },
+   {
+    "quote": "CAM Assist 2.0 - live in Japan and ready to use! - YouTube — CAM Assist 2.0 - live in Japan and ready to use! - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=mHOrVLggGkE",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC raises $20m to expand AI tools for precision ... — CloudNC raises $20m to expand AI tools for precision ... CloudNC https://www.cloudnc.com > news-room",
+    "url": "https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC - 2026 Company Profile & Team - Tracxn — CloudNC - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/cloudnc/__P7pB3p7dAcJSVre3T84JsxNBUUQjmJcnkeTWo-2GpD0",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC Raises $20M in Funding for AI-Powered ... - LinkedIn — CloudNC Raises $20M in Funding for AI-Powered ... - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/tech-lens-media_techlensmedia-industrialai-manufacturing-activity-7503429074078490633-i5Uu",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC raises $20M to automate manufacturing's most ... — CloudNC raises $20M to automate manufacturing's most ... TechCrunch https://techcrunch.com > 2026/09/08",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "2015年に設立されたCloudNCは、ロンドンの本社とチェルムスフォードの工場を拠点とし、コンピュータサイエンスと物理的な製造に関する専門知識を兼ね備えた世界クラスのチームで構成されています",
+    "url": "https://www.cloudnc.com/ja/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "同時期にCNC機械加工に触れ、プラスチック3Dプリンティングと同程度に自動化できれば破壊的な可能性があることに気づき、その機会を実現するためにCloudNC 共同設立した",
+    "url": "https://www.cloudnc.com/ja/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "「EventBox」を共同開発し、発売後12ヶ月でRealmac Softwareに買収される",
+    "url": "https://www.cloudnc.com/ja/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "1993年に設立された",
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "pass": 3
+   },
+   {
+    "quote": "Our air-conditioned quality assurance department employs a complete range of measurement and gauging equipment from globally recognised suppliers including Hexagon, Mitutoyo, and Bowers and we have recently acquired an Absolute 85 Arm, which enables reverse engineering capabilities and also allows for laser scanning of profile surfaces and other details.",
+    "url": "https://www.cloudnc.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に設立されたCloudNCは、コンピューターサイエンスと物理的製造の専門知識を組み合わせた世界クラスのチームで構成され、ロンドンの本社とチェルムスフォードの工場を拠点としている",
+    "url": "https://www.cloudnc.com/ja/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining",
+    "pass": 3
+   },
+   {
+    "quote": "U.K.-based manufacturing software startup CloudNC announced a $20 million Series B extension round on Wednesday, bringing its lifetime total amount raised to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "Saville said more than 1,000 machine shops worldwide use CAM Assist, and 80% of the company’s customer base, which includes both manufacturers and companies, is in the U.S. With a team of 80 employees, the company’s biggest goal is scaling adoption.",
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC has raised $68.0M across 4 funding rounds.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "4 funding rounds",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC has raised $68.0M in total across 4 funding rounds.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "CloudNC has raised $68.0M across 4 funding rounds. Most recently, it raised $45.0M Series B in June 2022.",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$68.0M raised",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$45M Series B",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$9M Series U",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   },
+   {
+    "quote": "$12M Series A",
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "1/15（木）14:00～│【CAMAssist2.0日本語版リリースウェビナー】 AIがCAMオペレーションをアシストする ～CAMもAIを活用する時代に～⇒終了しました",
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "pass": 3
+   },
+   {
+    "quote": "Quote Agent supports US dollars (USD), euros (EUR), British pounds (GBP), Canadian dollars (CAD), Mexican pesos (MXN), Japanese yen (JPY), Chinese yuan (CNY), Indian rupees (INR), Australian dollars (AUD) and New Zealand dollars (NZD).",
+    "url": "https://www.cloudnc.com/quote-agent",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.cloudnc.com/ja/blog/join-the-cam-assist-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rackspace.com/partner/cloud-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.salesforce.com/pdx/s/learn/article/salesforce-cloud-reseller-program-MCLSFKLQ4EUJAZPPQQ7LYXLOIVPA?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudnc.partner-experience.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/CNC/comments/1j331mz/nc_cloud_cam_assist_pricing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.practicalmachinist.com/forum/threads/cam-assist-v2.442562/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/fusion-360/blog/cloudnc-cam-assist-automation-add-in-fusion-360/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plasma-cloud.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alkira.com/alkira-selects-nissho-electronics-as-first-distributor-in-japan-for-network-cloud/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japancloud.jp/en/companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/cloudnc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja/fusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/CNC/comments/1j331mz/nc_cloud_cam_assist_pricing/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technium.co.jp/cam-assist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/quote-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja/other-packages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudnc.com/ja/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/cloudnc/__P7pB3p7dAcJSVre3T84JsxNBUUQjmJcnkeTWo-2GpD0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/cloudnc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.joinef.com/portfolio/?company=cloudnc",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CloudNC reseller partner program",
+   "results": [
+    "https://www.cloudnc.com/blog/join-the-cam-assist-partner-program",
+    "https://www.rackspace.com/partner/cloud-reseller",
+    "https://partners.salesforce.com/pdx/s/learn/article/salesforce-cloud-reseller-program-MCLSFKLQ4EUJAZPPQQ7LYXLOIVPA?language=en_US",
+    "https://impartner.com/resources/case-study/cloudnc-streamlined-reseller-growth-with-impartner",
+    "https://cloudnc.partner-experience.com/",
+    "https://www.alibabacloud.com/en/partner/programs",
+    "https://www.tencentcloud.com/partner/becomeapartner",
+    "https://www.cloudnc.com/news-room/cadline-an-arkance-company-to-sell-cloudncs-cam-assist-ai-software-to-uk-cad-cam-programmers",
+    "https://cloudasys.com/partner-program",
+    "https://cloudnc.partner-experience.com/login"
+   ]
+  },
+  {
+   "query": "CloudNC pricing license",
+   "results": [
+    "https://www.cloudnc.com/",
+    "https://www.reddit.com/r/CNC/comments/1j331mz/nc_cloud_cam_assist_pricing/",
+    "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vJMtjEe3lNRP0lFMcddiVefULX2KNhdr8AwGqSj1WOOZOJWWGk1",
+    "https://www.practicalmachinist.com/forum/threads/cam-assist-v2.442562/",
+    "https://www.autodesk.com/products/fusion-360/blog/cloudnc-cam-assist-automation-add-in-fusion-360/",
+    "https://www.youtube.com/watch?v=cNbgIg48dhw",
+    "https://www.cloudnc.com/fusion",
+    "https://machinetoolnews.ai/cloudnc-20m-ai-cnc-machining-quote-agent/",
+    "https://www.swooshtech.com/siemens-nx-cam-software/cloudnc/",
+    "https://cloudncsupport.zendesk.com/hc/en-us/categories/5081064265119-Licencing-Billing-and-Plans"
+   ]
+  },
+  {
+   "query": "CloudNC Japan distributor",
+   "results": [
+    "https://www.cloudnc.com/about-us",
+    "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKLBa2p9F0ToI1ei5pwA14V4scWDljv6_Mr9MSYQddDRSe6nReV",
+    "https://www.plasma-cloud.com/distributors/",
+    "https://www.alkira.com/alkira-selects-nissho-electronics-as-first-distributor-in-japan-for-network-cloud/",
+    "https://japancloud.jp/en/companies/",
+    "https://www.cloudnc.com/",
+    "https://www.datadesign.co.jp/cloudnc/",
+    "https://www.cloud-clone.com/links.html",
+    "https://cloudnavi.co.jp/about/partners",
+    "https://www.cloudnc.com/ja/about-us"
+   ]
+  },
+  {
+   "query": "CloudNC CAM Assist 代理店",
+   "results": [
+    "https://www.cloudnc.com/ja",
+    "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vKZLDUsUIzkRXPM4rw-SiG7i6teYJZPjWh5bqDYMBBBAmz1l2Xh",
+    "https://www.cloudnc.com/ja/news-room/cam-assist-the-first-ai-plug-in-for-cam-is-now-available-for-mastercam",
+    "https://www.youtube.com/watch?v=mHOrVLggGkE",
+    "https://www.datadesign.co.jp/cloudnc/",
+    "https://www.youtube.com/watch?v=BDHk4VfTXBM",
+    "https://blogs.sw.siemens.com/nx-manufacturing/the-future-of-ai-cnc-programming-siemens-nx-cam-integrates-ai-powered-cam-assist/",
+    "https://aiforjobshops.com/compare/cloudnc-cam-assist-vs-limitless-cam-agent/",
+    "https://www.technium.co.jp/cam-assist/",
+    "https://www.cloudnc.com/"
+   ]
+  },
+  {
+   "query": "CloudNC CAM Assist 価格",
+   "results": [
+    "https://www.cloudnc.com/ja",
+    "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vLkiTSU6l3qPFnadwGSdSx2FdAF_sE8RRv8jp8U5NVIR84zxpW5",
+    "https://www.cloudnc.com/ja/fusion",
+    "https://www.reddit.com/r/CNC/comments/1j331mz/nc_cloud_cam_assist_pricing/?tl=ja",
+    "https://www.datadesign.co.jp/cloudnc/news/3400/",
+    "https://www.practicalmachinist.com/forum/threads/cam-assist-v2.442562/",
+    "https://www.autodesk.com/products/fusion-360/blog/cloudnc-cam-assist-automation-add-in-fusion-360/",
+    "https://www.technium.co.jp/cam-assist/",
+    "https://www.nikkan.co.jp/releases/view/188814",
+    "https://www.cloudnc.com/"
+   ]
+  },
+  {
+   "query": "CloudNC free trial",
+   "results": [
+    "https://www.cloudnc.com/",
+    "https://www.reddit.com/r/CNC/comments/1j331mz/nc_cloud_cam_assist_pricing/",
+    "https://www.autodesk.com/products/fusion-360/blog/cloudnc-cam-assist-automation-add-in-fusion-360/",
+    "https://www.newequipment.com/product-news/software-computers/news/55304031/cloudnc-cloudnc-makes-soft-jaw-designer-free-for-autodesk-fusion-and-mastercam-users",
+    "https://www.youtube.com/watch?v=cip7kSVzXv8",
+    "https://titansofcnc.com/products/cloudnc-cam-assist?srsltid=AYCX9vIV2h88OixTE63S_QCjQRDQ308gqHnFRRu_dLN3jY1TGFOoDmsH",
+    "https://www.cloudnc.com/quote-agent",
+    "https://www.cloudnc.com/other-packages",
+    "https://www.cloudnc.com/manufacturing",
+    "https://www.cloudnc.com/fusion"
+   ]
+  },
+  {
+   "query": "CloudNC company founded employees funding",
+   "results": [
+    "https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining",
+    "https://tracxn.com/d/companies/cloudnc/__P7pB3p7dAcJSVre3T84JsxNBUUQjmJcnkeTWo-2GpD0",
+    "https://www.linkedin.com/posts/tech-lens-media_techlensmedia-industrialai-manufacturing-activity-7503429074078490633-i5Uu",
+    "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "https://startupintros.com/orgs/cloudnc",
+    "https://www.joinef.com/companies/cloudnc/",
+    "https://www.vestbee.com/insights/articles/cloud-nc-raises-20-m",
+    "https://www.crunchbase.com/organization/cloudnc",
+    "https://www.cloudnc.com/about-us",
+    "https://fundediq.co/cloudnc-cloudnc-com-funding/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1798 @@
+{
+ "name": "ProShop ERP",
+ "en": "ProShop ERP",
+ "aliases": [
+  "ProShop",
+  "プロショップ"
+ ],
+ "context": "小さい加工会社向け：生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:50:15.872586+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "—but we wanted to thrive. ProShop is helping us at B&W Machine Works, Inc. document those ‘tricks of the trade,’ eliminate waste, and revolutionize our profit margins. It’s one of the best decisions I’ve made. I thought it would be hard to learn, but this old dog is happily learning new tricks!",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by implementation scope",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP uses enterprise-level pricing that varies based on your organization's specific needs, user count, and required functionality.",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies based on your specific requirements, number of users, and implementation scope. Get a personalized quote that fits your budget and needs.",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation timelines vary, but most shops are up and running in a few weeks. Our team works closely with you to tailor the process to your needs and ensure a smooth transition.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs & Contract Manufacturers",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Independent Manufacturers & Specialized OEMs",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop is built around getting machine shops to AS9100 and keeping them there. StartProto is built for contract manufacturers and OEMs with repeat, make-to-order work. Here's how to tell which fits your shop.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Those are the two things we're best at. They matter most to contract manufacturers, OEMs with in-house manufacturing, and job shops with substantial repeat, make-to-order work, especially anyone building assemblies. If",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "contract manufacturers, OEMs with in-house manufacturing, and job shops with substantial repeat, make-to-order work, especially anyone doing assembly.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "These products solve different problems for different shops. ProShop sells a method, with consultants behind it, to shops whose business runs on AS9100 compliance. StartProto is built for contract manufacturers and OEMs: software that fits the way you already run, and an AI that can actually operate it rather than talk about it.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "A geometric model of chip thickness variation, from entry angle to chatter-free parameters.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Last Chance for the TASC Early-Bird Discount!",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Lewis has spent his entire life on 380 acres in Cox's Creek, Kentucky — farming it, raising a family on it, and building a precision CNC shop that now machines die inserts for major automotive OEMs. This is how all three things ended up in the same place.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Tour Video: Lean Manufacturing for Measurement and Metrology",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "How can a facility that requires manual work for some long-standing parts be made more efficient? Join us as we look inside The L. S. Starrett Company’s headquarters in Athol, Massachusetts, and see how this long-established OEM is updating its processes.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Map today's biggest fabrication challenges — supply volatility, labor gaps and custom demand — to their real impact on shop floor throughput and margins.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Manufacturing Experience 2018: Kairos Manufacturing Solutions, reseller of ProShop software from Adion Systems, will be sharing insights into the benefits and value of ERP for manufacturing management.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "CHANNEL PARTNERS",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Zero-defect processes backed by a system that learns from every job. When the tolerance is measured in microns, ProShop ensures the margin for documented human error is zero.",
+    "url": "https://proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Switch from ProShop ERP | Built for Contract Manufacturers & OEMs",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs & Contract Manufacturers",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Independent Manufacturers & Specialized OEMs",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Why contract manufacturers and OEMs switch",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers who require integrations with a variety of other software tools.",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop does not have its own accounting module and requires integration with an external system like QuickBooks. WorkCell has a modern API that allows for more flexible integrations with various accounting platforms.",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop implementation is managed by their internal team and typically takes 2 to 4 months. WorkCell's implementation timeline varies based on complexity but is often shorter due to its user-friendly design.",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise 21 ERP, by TGI, serves small to mid-sized manufacturers and distributors with integrated business solutions. It offers unique customization, eliminating the need for external modules. For manufacturers, it provides robust tracking and compliance features; for distributors, it enhances warehouse management.",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "White label packaging",
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/product/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost can vary depending on implementation, data transfer, custom integration setup, and premium support, as well as the complexity of workflows",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Disclaimer: Pricing references are based on publicly available third-party information and industry benchmarks. Actual costs may vary.",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Proshop ERP’s subscription covers software access, but setup services like implementation, data migration, training, and integration are typically priced separately. Costs vary depending on shop size, workflow complexity, and connected systems.",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Shops can pick cloud hosting to lower IT overhead or on-premise deployment for full control over data and regulatory compliance. Pricing can vary based on which option you select.",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/news/investment-from-mainsail-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://proshoperp.com/proshoperp-video/revenue-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard University",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Apps Resellers and SIs",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   }
+  ],
+  "小さい会社向け": [
+   {
+    "quote": "Trusted by Hundreds of Machine Shops",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP enhances defense manufacturers’ operations with ITAR compliance, real-time scheduling, and integrated quality management that supports CMMC-ready machine shops.",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Can your small business afford an ERP?",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small Business (1-250 Employees)",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing Plans to Fit Your Machine Shop’s Needs",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Hundreds of Machine Shops",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Job Shop / Machine Shop",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Why These are the Top 10 Small Business ERP Systems for 2026",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "small businesses, mid-market companies",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Top ERP Systems for Small Business",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop is the ERP and AI that learns your machine shop. Built to capture your machine shop’s institutional knowledge, enforce compliance on the floor, and keep your best people’s expertise in the system.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The ERP for Manufacturing Machine Shops",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve your efficiency AND cost savings with an ERP that’s specifically designed for machine shops and precision manufacturing! Make more money with the same machines and people by implementing the system that’s designed for your industry.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop was originally built in-house to run a CNC machine shop - it’s designed by manufacturers, for manufacturers. With deep shop-floor insight and hands-on expertise, it’s become one of the most robust ERP tools available for modern manufacturing teams.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s purpose-built for job shops, machine shops, fabrication shops, and many other types of manufacturing shops - eliminating paper, silos, and manual processes so you can work faster, smarter, and more profitably.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine & Job Shops",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop is built around getting machine shops to AS9100 and keeping them there. StartProto is built for contract manufacturers and OEMs with repeat, make-to-order work. Here's how to tell which fits your shop.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Those are the two things we're best at. They matter most to contract manufacturers, OEMs with in-house manufacturing, and job shops with substantial repeat, make-to-order work, especially anyone building assemblies. If",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop is a paperless ERP/MES/QMS built by machinists for machine shops, most specifically shops operating under AS9100. The most important thing to understand about ProShop is that it isn't really selling you software. It's selling you a way to run your shop.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "contract manufacturers, OEMs with in-house manufacturing, and job shops with substantial repeat, make-to-order work, especially anyone doing assembly.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "We do have AS9100 machine shops among our customers, for what it's worth. But the certification isn't what brought them to us. It was the shape of the work: high repeat volume, multi-level assemblies,",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive insights, from emerging startups to global deal activity",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "Stay ahead in the evolving world of VC, startups, and technology",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Suppliers Showroom | Modern Machine Shop",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "The Strategy Gap: Why U.S. Job Shops Must Close It From the Ground Up",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Modern Machine Shop was early to cover CNC when others weren’t. Now, as AI pushes into programming, optimization and robotics, we need to separate production-ready tools from overpromised tech.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "TASC is a one-of-a-kind, two-day automation conference designed to drive efficiency, quality and scalability at U.S. job shops. Register now through July 11 to receive early-bird pricing and discover practical automation solutions tailored for small-and mid-sized shops.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Lessons That Matter for the Future of Automated Job Shops",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "The Automated Shop Conference (TASC, August 12–13) is designed for job shop leaders looking to implement automation in practical, high-impact ways — from lights-out machining to AI-driven programming and front-office integration. Here are 10 standout sessions led by shop owners, engineers and innovators who are pushing automation forward without massive budgets or unrealistic expectations.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "He Built a Machine Shop on a Working Cattle Farm (Video)",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Inside a Next-Gen Aerospace Machine Shop Running 24/7 Lights-Out | Shop Tour",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "The latest episode “Made in the USA” podcast explores a company that uses collaborative robots, one of the key tools helping US machine shops and other manufacturers compete with lower cost countries by automating production.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "What separates the top-performing machine shops from the rest? The 2026 Top Shops data points to productivity, workforce performance and speed in winning new work. Meet this year’s 36 Top Shops and four Honorees.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "CMMC for Machine Shops: Who Does What and What You Do Next",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "As Seen On Modern Machine Shop",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Setting Up a Small Shop for Big Growth",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Job Shops Can’t Do Everything, And That’s OK",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop is the AI that learns your machine shop. Built to capture your shop’s institutional knowledge, enforce compliance on the floor, and keep your best people’s expertise in the system.",
+    "url": "https://proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop surveyed 144 precision machine shops and found the industry splitting in two. At Cutting Edge, we’ll show you what the shops pulling ahead are doing differently.",
+    "url": "https://proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Hundreds of Machine Shops",
+    "url": "https://proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Both auditors said, ‘I don’t know why any machine shop doesn’t use this.’ Half an hour in, they said ‘this won’t even take a day.’",
+    "url": "https://proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine & Job Shops",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop was built rigidly for machine shops making individual parts. You build assemblies, from parts you make and parts you buy.",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Quote only. Priced on users, with standard and government (CMMC) options. SelectHub lists a starting price of $500 per month, quote-based",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Precision CNC machine shops with 5 to 300 employees.",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Job Shop / Machine Shop",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Why These are the Top 10 Small Business ERP Systems for 2026",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP is a paperless, web-based ERP/MES/QMS built for small and midsize machine shops. It offers 30+ integrated modules, full traceability, AS9100/ISO 9001 support, and Chip, an AI layer for shop-floor insights and faster audits.",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Top ERP Systems for Small Business",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Want to see how you can save money and time with ProShop? Watch this video to learn how VistaPrint Corporate Solutions makes it simple, fast and affordable for your company to order custom print materials for your business.",
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "pass": 3
+   },
+   {
+    "quote": "Factors such as shop size, number of users, and process coverage can influence the setup for both small shops and high-volume manufacturing operations",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Small Shop",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "On September 28, 2026, Biossil announced that it raised US$153 million in an all-equity financing led by the OpenAI Startup Fund, with participation from Founders Fund, Quiet Capital, Modern Capital, Golden Ventures, Panache Ventures, Duke University’s endowment fund and the Abu Dhabi Investment...",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2019, Diversified Manufacturing Technologies implemented ProShop ERP, a Manufacturing ERP solution. The implementation was undertaken at a 19 employee Pacific Northwest machine shop that had moved toward tighter operational focus under owners TJ Quale and Seth Tromburg, and the ProShop ERP deployment was aligned with that shift toward disciplined shop controls and customer selection.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "In 2019, Frey & Weiss Precision Manufacturing Inc implemented ProShop ERP to consolidate shop floor and back office functions. The single-site Chicago area precision machine shop, operating with about 42 employees and ISO 9001 certification, had relied on Epicor Express for over a decade but continued to perform many functions outside the ERP, creating significant administrative overhead.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using ProShop ERP range from small businesses with 0-100 employees - 71.43%, to mid-sized firms with 101-1,000 employees - 14.29%, large organizations with 1,001-10,000 employees - 14.29%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Hub",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP is built for aerospace manufacturers—supporting AS9100, ITAR, and NADCAP compliance with full traceability and paperless shop management.",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP enhances defense manufacturers’ operations with ITAR compliance, real-time scheduling, and integrated quality management that supports CMMC-ready machine shops.",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP helps medical manufacturers streamline operations, improve compliance with FDA and ISO standards, and boost operational efficiency to meet industry demands.",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://proshoperp.com/product/erp/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s robust platform, combined with established customer support, makes ProShop attractive for small to-medium sized manufacturers looking to streamline their operations.",
+    "url": "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Hub",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "CMMC Compliance: What Aerospace and Defense Manufacturers Need to Know",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare & Medical ERP",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare and medical ERP: major products and players",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Five things to consider when implementing a medical device ERP",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive ERP Software",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Suitability",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Hub",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://proshoperp.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Relationship Management",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Relationship Management for ProShop ERP",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ERP Case Study Library",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "700+ customers",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Speed up and save costs! As a result of using ProShop ERP, customers report up to:",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Save time and paper by kicking those old, manual processes to the curb, and go paperless with Proshop! Customers report:",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intuitively and easily manage your processes with Proshop. Most customers report up to:",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Here's what our Customers say about us.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time, accessible data. Data is at one’s fingertips! Job status can easily be reviewed and reported back to the customer with confidence.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re in aerospace, defense, medical, or space manufacturing,",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "You’ll have access to our customer support team, self-guided learning through ProShop Academy, and a dedicated customer portal - everything you need to succeed, right at your fingertips. ProShop also has an in-app chat directly to our support team. This flexible model ensures you only pay for the access your team needs.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Software and Digital Solutions > Software, Customer Relationship Management Software, CRM",
+    "url": "https://directory.imts.com/8_0/exhibitor/00075368/ProShop-ERP",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense Manufacturing",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Ram Precision case study",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Read case study",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Resources",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Refer a Customer",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "StartProto and ProShop ERP were built around different customers.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "If you know which customer you are, this decision gets easy. So let's figure that out.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop's Flying Start package is a prescriptive, end-to-end method for running a shop, backed by a team of AS9100 consultants who implement it with you. If you have no quality manual, no documented processes, and a customer telling you to get certified, that combination is genuinely hard to beat. Someone hands you the structure and walks you through it.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-stage precision machining processes, first article inspection, and the nitty-gritty records regulated customers demand.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "We do have AS9100 machine shops among our customers, for what it's worth. But the certification isn't what brought them to us. It was the shape of the work: high repeat volume, multi-level assemblies,",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "their customers demand, and automation they wanted to build themselves against our API and MCP connector.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "configure StartProto to your AS9100 manual with custom documents and fields, and customers do exactly that. But that's configuration work, not a compliance program handed to you with consultants attached. If you're starting from zero on AS9100, ProShop's playbook and their consultants are worth a serious look, and we'd tell you so on a call.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "ProShop ERP Receives $32 Million Growth Investment from Mainsail Partners - Mainsail Partners",
+    "url": "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Receives $32 Million Growth Investment from Mainsail Partners",
+    "url": "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Pricing Guide 2026 - Costs, Implementation & TCO",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Under $1 Million",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$1 to 10 Million",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$11 to 50 Million",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$51 to 100 Million",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$101 to 500 Million",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$500 Million to $1 Billion",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Over $1 Billion",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "We also like to keep our pricing simple without having to add up a bunch of different packages to make it fully functional. When companies switch to ProShop, they typically will replace 3-8 other software packages with ProShop’s single integrated suite of tools. You’ve got to see it to understand how powerful and unique it is.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP has raised $32M.",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "TASC is a one-of-a-kind, two-day automation conference designed to drive efficiency, quality and scalability at U.S. job shops. Register now through July 11 to receive early-bird pricing and discover practical automation solutions tailored for small-and mid-sized shops.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop Pricing and Alternatives (2026) | WorkCell",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Published plans from $995 to $4,995 a month, unlimited users, with the implementation fee quoted up front.",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Quote only. Priced on users, with standard and government (CMMC) options. SelectHub lists a starting price of $500 per month, quote-based",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Under $1 Million",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$1 to 10 Million",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$11 to 50 Million",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$51 to 100 Million",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$101 to 500 Million",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$500 Million to $1 Billion",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Over $1 Billion",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Get 2 Free Demos & Price Quotes",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$30K - $75K",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000/mo",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Does ERP Cost in 2026? Complete Pricing Guide for All Business Sizes",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$99 / yr",
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "pass": 3
+   },
+   {
+    "quote": "Free shipping on orders over $50",
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShopERP Pricing Guide 2026 | Softwarefinder - 2026",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP price is estimated to start around $500 – $715/month, with a 12-month agreement and billing structured as an annual subscription",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$500 – $715",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$800 – $1,800",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$2,000 – $4,000+",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$20,000 – $150,000+",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000 – $50,000+",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Receives $32 Million Growth Investment from Mainsail Partners",
+    "url": "https://proshoperp.com/news/investment-from-mainsail-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP (Adion Systems Inc.) in its C$42-million growth investment from Mainsail Partners",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "On July 19, 2023, ProShop ERP announced the closing of their C$42-million growth equity investment from Mainsail Partners. The company plans to utilize the funding to expedite product development and market expansion.",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Mainsail Partners, based in Austin and San Francisco, is a growth equity firm that focuses on bootstrapped SaaS companies. Mainsail has raised over US$2.2 billion in committed capital and invested in more than 70 companies.",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "$42 million",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cura in its US$10-million financing",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "On September 17, 2026, Cura announced that it closed US$10 million in financing led by Zacua Ventures, with participation from Sandpiper Ventures, Vantage Futures, Amplify Capital, the University of Calgary’s UCeed fund, Mount Rundle Club and Sebastian Becker. Cura plans on utilizing the...",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "US$10 million",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Biossil in its US$153-million financing",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "On September 28, 2026, Biossil announced that it raised US$153 million in an all-equity financing led by the OpenAI Startup Fund, with participation from Founders Fund, Quiet Capital, Modern Capital, Golden Ventures, Panache Ventures, Duke University’s endowment fund and the Abu Dhabi Investment...",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "US$153 million",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 2000 employees and revenues of $200.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 150 employees and revenues of $20.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 42 employees and revenues of $11.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a Australia based Manufacturing organisation with 90 employees and revenues of $11.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 25 employees and revenues of $4.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$0M to $100M",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$100M to $1B",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$1B to $10B",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "$16.6B",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of ProShop ERP include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "ProShop software profile: Features, Pricing, Demo & more",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Complete the form below to access a video demo of this software.",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Free Demo",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "System Demo",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Request Free Demo",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "System Demo for ProShop ERP",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Request",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Demos are provided to enterprises in the USA and Canada only.",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Book Demo",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "book a demo",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Split down the middle? Demo both. Nobody has ever regretted spending two more hours on this decision.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "See a demo of StartProto",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Demos",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Omax Demonstrates Waterjet Cutting’s Versatility",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Interactive demonstrations, virtual reality and more guide visitors through the process by which real-time signals become real manufacturing outcomes.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Zeiss’ IMTS 2026 booth includes hardware to tackle many metrology needs, software to connect them and demonstrations to help users use them to their full extent.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "See AI in action with hands-on CAMWorks demonstrations that accelerate programming and automate repetitive tasks.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "If you demonstrate how well your machining process fits inside the tolerances, customers can stop inspecting every part and trust the process as volume increases.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Showcases Customer-Led Demos and New Features at IMTS 2024",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "This year at IMTS, ProShop is featuring customer-led demos in the company’s booth.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Book Demo",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Directly compare select ERP software systems side by side including costs per user, costs to implement, customer retention rates and other key features and capabilities. Get Demos and customized Price quotes for these products in one simple step by selecting the request button below.",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Get 2 Free Demos & Price Quotes",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Free Demo",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Request",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Demos are provided to enterprises in the USA and Canada only.",
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Fill in the fields to see how easy it is to customize your business cards, signage, and marketing materials with our sample demo card creator tool. Once you establish your templates, you can expect to see the same functionality in your company’s own ProShop account as you can in our demo tool below.",
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "pass": 3
+   },
+   {
+    "quote": "Watch Demo",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Watch Free Demo!",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Watch Free Demo",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Does ProShop ERP offer a free trial or demo?",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "The platform offers demos to potential clients, but it does not offer a public free trial.",
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Get a Demo",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule A Demo",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Medium Size (251-1000 Employees)",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small Business (1-250 Employees)",
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "pass": 3
+   },
+   {
+    "quote": "700+ customers",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop can be implemented either in the cloud on our servers or on-premises with your local servers. It is entirely up to you. This is a common question because the software is 100% web-based. What that means is your employees would access ProShop through a web browser rather than a desktop application. There is nothing to install on the computers accessing ProShop.",
+    "url": "https://get.proshoperp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We do have AS9100 machine shops among our customers, for what it's worth. But the certification isn't what brought them to us. It was the shape of the work: high repeat volume, multi-level assemblies,",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "configure StartProto to your AS9100 manual with custom documents and fields, and customers do exactly that. But that's configuration work, not a compliance program handed to you with consultants attached. If you're starting from zero on AS9100, ProShop's playbook and their consultants are worth a serious look, and we'd tell you so on a call.",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "Lean management team, 10 to 100 employees",
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP was founded in 2016.",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP has 100 total employees.",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP has raised $32M.",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "Chiron Group is highlighting two of its five-axis machines: the compact Micro5 XL for small workpieces, and the 19 Series for larger parts.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Air Turbine Technology Inc.'s Drill Tap Series offers governed constant speeds up to 90,000 rpm, ATC compatibility and 24/7 unattended operation for compact drill-tap machining centers.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Okamoto Corp. provides a range of high-precision grinders, including the ACC-818Sa-iQ CNC surface grinder, the PRG-iQ precision rotary surface grinder, and the OGM-UNCiii series CNC cylindrical grinder.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "ERP and Process Changes Increase Shop’s Revenue 64% YoY",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Implementing ProShop has led to a massive process overhaul at Marzilli Machine. From 2020 to 2021, revenue increased 64% without capital investment.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Deciding to narrow down its jobs and customers was a turning point for 2023 Top Shops Business Strategies honoree Manda Machine that has led to improvements in the front office and on the shop floor.",
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Your customers each write their own requirements, and you work to all of them. A structure built for AS9100's answers means linking material to parts by hand and absorbing the difference.",
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Precision CNC machine shops with 5 to 300 employees.",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "Best suited for mid market to enterprise level business with 10+ employees who order print and promo products often.",
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "pass": 3
+   },
+   {
+    "quote": "On July 19, 2023, ProShop ERP announced the closing of their C$42-million growth equity investment from Mainsail Partners. The company plans to utilize the funding to expedite product development and market expansion.",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Mainsail Partners, based in Austin and San Francisco, is a growth equity firm that focuses on bootstrapped SaaS companies. Mainsail has raised over US$2.2 billion in committed capital and invested in more than 70 companies.",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "On September 28, 2026, Biossil announced that it raised US$153 million in an all-equity financing led by the OpenAI Startup Fund, with participation from Founders Fund, Quiet Capital, Modern Capital, Golden Ventures, Panache Ventures, Duke University’s endowment fund and the Abu Dhabi Investment...",
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Talent Acquisition",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 2000 employees and revenues of $200.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 150 employees and revenues of $20.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 42 employees and revenues of $11.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a Australia based Manufacturing organisation with 90 employees and revenues of $11.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 25 employees and revenues of $4.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using ProShop ERP, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the ERP Financial Management software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   },
+   {
+    "quote": "In 2019, Frey & Weiss Precision Manufacturing Inc implemented ProShop ERP to consolidate shop floor and back office functions. The single-site Chicago area precision machine shop, operating with about 42 employees and ISO 9001 certification, had relied on Epicor Express for over a decade but continued to perform many functions outside the ERP, creating significant administrative overhead.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ProShop ERP Receives $32 Million Growth Investment from ... — ProShop ERP Receives $32 Million Growth Investment from ... Mainsail Partners https://mainsailpartners.com > prosho...",
+    "url": "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Pricing 2026 - Capterra — ProShop ERP Pricing 2026 - Capterra Capterra https://www.capterra.com > pricing",
+    "url": "https://www.capterra.com/p/155436/ProShop/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Pricing & Cost Details — ProShop ERP Pricing & Cost Details top10erp.org https://www.top10erp.org > pricing",
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop Pricing 2026 — ProShop Pricing 2026 G2 https://www.g2.com > ... > ProShop",
+    "url": "https://www.g2.com/products/proshop/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP 2026 Company Profile - PitchBook — ProShop ERP 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop Pricing and Alternatives (2026) - WorkCell — ProShop Pricing and Alternatives (2026) - WorkCell workcell.ai https://workcell.ai > Compare",
+    "url": "https://workcell.ai/compare/proshop",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Software Reviews, Demo & Pricing - 2026 — ProShop ERP Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > erp",
+    "url": "https://www.softwareadvice.com/erp/proshop-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "ProShop ERP Software Pricing, Alternatives & More 2026 — ProShop ERP Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > ProShop",
+    "url": "https://www.capterra.com/p/155436/ProShop/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://proshoperp.com/product/erp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpfocus.com/proshop-erp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Machinists/comments/1say40f/thoughts_on_proshoperp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://proshoperp.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Machinists/comments/1de5wa6/erp_systems_for_smallmedium_sized_shop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://crozdesk.com/software/proshop-erp/pricing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/155436/ProShop/pricing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.top10erp.org/products/proshop-erp/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.proshoperp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://directory.imts.com/8_0/exhibitor/00075368/ProShop-ERP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/503632-27",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mmsonline.com/suppliers/proshop-usa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proshoperp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startproto.com/compare/proshop-erp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workcell.ai/compare/proshop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crozdesk.com/software/proshop-erp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://bricolage-jp.com/news/1453/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.ca/software/155436/proshop",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softwareadvice.com/erp/proshop-profile/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vistaprintcorporate.com/proshop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proshoperp.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/155436/ProShop/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proshoplv.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proshop.dk/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proshop.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://proshoperp.com/news/investment-from-mainsail-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/proshop-usa-inc/383578888",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proshoperp.com/proshoperp-video/revenue-growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ProShop ERP reseller partner program",
+   "results": [
+    "https://proshoperp.com/product/erp/",
+    "https://www.linkedin.com/company/proshoperp",
+    "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "https://www.erpfocus.com/proshop-erp.html",
+    "https://www.reddit.com/r/Machinists/comments/1say40f/thoughts_on_proshoperp/",
+    "https://www.youtube.com/watch?v=f-82EsJGzHY",
+    "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "https://www.capterra.com/p/155436/ProShop/",
+    "https://proshoperp.com/"
+   ]
+  },
+  {
+   "query": "ProShop ERP pricing license",
+   "results": [
+    "https://proshoperp.com/pricing/",
+    "https://www.reddit.com/r/Machinists/comments/1de5wa6/erp_systems_for_smallmedium_sized_shop/",
+    "https://crozdesk.com/software/proshop-erp/pricing",
+    "https://www.capterra.com/p/155436/ProShop/pricing/",
+    "https://www.top10erp.org/products/proshop-erp/pricing",
+    "https://www.g2.com/products/proshop/pricing",
+    "https://proshoperp.com/proshoperp-video/proshop-short-overview/",
+    "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp",
+    "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "https://proshoperp.com/"
+   ]
+  },
+  {
+   "query": "ProShop ERP Japan distributor",
+   "results": [
+    "https://get.proshoperp.com/",
+    "https://www.linkedin.com/company/proshoperp",
+    "https://www.reddit.com/r/Machinists/comments/1say40f/thoughts_on_proshoperp/",
+    "https://directory.imts.com/8_0/exhibitor/00075368/ProShop-ERP",
+    "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "https://pitchbook.com/profiles/company/503632-27",
+    "https://www.mmsonline.com/suppliers/proshop-usa",
+    "https://www.instagram.com/proshoperp/",
+    "https://proshoperp.com/"
+   ]
+  },
+  {
+   "query": "ProShop ERP 代理店",
+   "results": [
+    "https://proshoperp.com/",
+    "https://mainsailpartners.com/proshop-erp-receives-32-million-growth-investment-from-mainsail-partners/",
+    "https://www.startproto.com/compare/proshop-erp",
+    "https://pitchbook.com/profiles/company/503632-27",
+    "https://workcell.ai/compare/proshop",
+    "https://get.proshoperp.com/",
+    "https://crozdesk.com/software/proshop-erp",
+    "https://bricolage-jp.com/news/1453",
+    "https://mainsailpartners.com/company/proshop/",
+    "https://vistaprintcorporate.com/proshop/"
+   ]
+  },
+  {
+   "query": "ProShop ERP 価格",
+   "results": [
+    "https://proshoperp.com/pricing/",
+    "https://www.erpfocus.com/proshop-erp.html",
+    "https://www.capterra.ca/software/155436/proshop",
+    "https://www.softwareadvice.com/erp/proshop-profile/",
+    "https://www.startproto.com/blog/startproto-vs-proshop-manufacturing-erp-software",
+    "https://www.top10erp.org/erp-software-comparison/by-product/enterprise-21-erp_vs_proshop-erp",
+    "https://get.proshoperp.com/",
+    "https://pitchbook.com/profiles/company/503632-27",
+    "https://crozdesk.com/software/proshop-erp/pricing",
+    "https://proshoperp.com/"
+   ]
+  },
+  {
+   "query": "ProShop ERP free trial",
+   "results": [
+    "https://www.softwareadvice.com/erp/proshop-profile/",
+    "https://www.erpfocus.com/proshop-erp.html",
+    "https://www.reddit.com/r/Machinists/comments/1say40f/thoughts_on_proshoperp/",
+    "https://www.youtube.com/watch?v=iRqVdSxuRk4",
+    "https://get.proshoperp.com/",
+    "https://www.capterra.com/p/155436/ProShop/",
+    "https://www.youtube.com/c/ProShopERP",
+    "https://softwarefinder.com/enterprise-resource-planning-software/proshop-erp/pricing",
+    "https://proshoperp.com/",
+    "https://vistaprintcorporate.com/proshop/"
+   ]
+  },
+  {
+   "query": "ProShop ERP company founded employees funding",
+   "results": [
+    "https://pitchbook.com/profiles/company/503632-27",
+    "https://proshoperp.com/news/investment-from-mainsail-partners/",
+    "https://www.linkedin.com/company/proshoperp",
+    "https://www.zoominfo.com/c/proshop-usa-inc/383578888",
+    "https://www.osler.com/en/about-us/representative-work/proshop-erp/",
+    "https://proshoperp.com/proshoperp-video/revenue-growth/",
+    "https://www.appsruntheworld.com/customers-database/products/view/proshop-erp",
+    "https://www.glassdoor.com/Overview/Working-at-ProShop-ERP-EI_IE9760707.11,22.htm",
+    "https://tracxn.com/d/companies/proshop/__O0wMy9gL4P6TP2IQxeDUpsWlfvPaAli8emqpQj8Tprg",
+    "https://proshoperp.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本の代理店": "記載なし（読んだ35頁・検索7回）",
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}
