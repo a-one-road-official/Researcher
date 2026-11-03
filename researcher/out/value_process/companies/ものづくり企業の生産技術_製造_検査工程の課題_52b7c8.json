@@ -1,0 +1,1946 @@
+{
+ "name": "ものづくり企業の生産技術・製造・検査工程の課題",
+ "en": "production engineering inspection process issues manufacturers",
+ "aliases": [
+  "生産技術 課題",
+  "検査工程 課題",
+  "品質保証 工数"
+ ],
+ "context": "工程",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:29:58.707596+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "工程管理では、製造工程を適切に監視・調整し、作業手順の遵守を徹底させることで、製品の品質を維持します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "この工程管理においては、検査内容、検査頻度、担当者、品質判定基準、異常時の対応方法などを記載したQC工程表を活用します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業手順の標準化（マニュアル化）は非常に重要",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業手順や工程が工場や従業員によって異なる場合、不良品が発生する可能性が高まります",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準化によって、誰が作業を担当しても同じ品質を維持できる仕組みを構築します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品が所定の品質基準を満たしているか、また機能が正常に発揮されているかを確認するプロセス",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "検査は、受け入れ時・工程内・完成時・出荷時など各段階で行われますが、作業者のスキルや経験によるばらつきを防ぐためにも、検査手順の標準化が大切です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "工程FMEAは、製造工程におけるリスク要因を事前に洗い出し、設備・人・材料・作業手順などが原因となり得る故障やトラブルを未然に防ぐ対策を講じるものです",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、品質改善の過程で得られた知見は、生産技術部門や開発部門へフィードバックされ、製造プロセスのさらなる効率化や品質向上に寄与します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、標準化された手順や基準が不足していることが原因です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "このようなリスクを軽減するためには、作業手順や基準の標準化が必要不可欠です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "・清潔：清掃を維持するための管理や手順を整えること",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定の担当者が不在になっても作業が滞らないように、作業内容を明文化し、誰でも同じレベルで対応できる仕組みを作ることが重要",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全てを一気に導入するのは現実的に難しい場合が多いため、まずはマクロ機能の活用やSaaS管理ツールの導入といった取り組みやすい部分から段階的に進めることをおすすめします",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、以下の方法を活用することで業務の効率化が図れます",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "【現状認識（仮説）および実態調査と方策検討の流れ】",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "検査は、 品質管理の一環として行われるもので、 段階的検査によって、 製造工程を適",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "改善したい点 阻害要因・問題点 とデータの活用方法",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "N=74 (％) （データの活用方法）",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "検査員の訓練、 手順の見直しや検査環境の整備が必要となる中、新たな検査手法・手",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "順の導入や検査環境・器具などを改善する手段・方法の見極めが難しいこと、 検査管理",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、７割弱は、目視検査を中心に、検査の手法・手順や組織・体制等に関する",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な手段･方法に関",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "適切な手段･方法を見極め",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "検査手順の整備･見直し",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定し、そのハンドリング方法なども検討した上で、画像検査の場合は検証",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の手法・手順や組織・体制",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "っている企業・工程を対象として、検査手法・手順や環境整備等に関する情報発信・交",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支援方策については、 既存の制度・仕組みなどを活用してすぐに実施でき、 原則とし",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "検査手法・手順や環境整備",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、官民による製造業の品質保証体制の強化に向けた対応策である、「製造業の品質保証体制の強化に向けて」の中で言及されている、①民間主導による自主点検の徹底、②Connected Industriesの推進による品質確保の仕組みの構築、③ガバナンスの実効性向上など（品質担当役員の設置などの企業の取組、CGS研究会（コーポレート・ガバナンス・システム研究会）における検討、JIS法の改正）の３点について、具体的な取組事例や経済産業省が実施している取組も交えながら論じる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "②Connected Industriesの推進による品質確保の仕組みの構築",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証体制を強化していくにあたっては、デジタル技術の積極的な導入や品質データの共有など、ウソのつけない仕組みを構築することが重要であり、昨年10月以降に発覚した一連の事案も、このような取組を行っていれば、未然に防止することができた面もあると考えられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、以下では、（ア）製品出荷前検査状況のデータ化なども含めた検査工程の自動化などを柱とした、人の手を介さないウソのつけない仕組みの導入、（イ）製品の個体管理によるトレーサビリティの導入、（ウ）品質データなどのサプライチェーン間での共有などについて先進事例を概観する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（ア）検査工程の自動化などによる、ウソのつけない仕組みの導入",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうした検査工程を試験検査の実施から結果報告までの各プロセスにおいて自動化することで、人為的なミスや不正を排除することも可能となる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、試験検査データの信頼性向上については、試験検査の実施から結果報告までの各プロセスにおける自動化を推し進め、人が介在する余地を減らしていくことに取り組んでいる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、同社では、試験検査のプロセスを以下の７つに区分し、それぞれのプロセスが現状において自動なのか手動なのかを把握し、自動化の可能性を順次検討している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、上記２つの試験検査以外にも多種多様の試験検査を実施しており、それらの中には手動のプロセスがあるもの、人の目視で判定するなどの測定原理自体自動化することが難しいものなど、様々であった",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、今後も、これらの手動プロセスが含まれる試験検査に関して、測定頻度や改ざん・間違いリスクなどを勘案しながら、優先順位をつけて引き続き自動化を推進していくという",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場力×AIの新結合で現場力を向上させることを目的として、同社はすべての現場のプロセスに「×AI」の可能性を考えている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種パラメーターなどの情報を大量に蓄積することで、不良品が発生する際の共通点などを見出すことができ、製品や製造プロセスの改良、ひいては不良率の低減にもつなげることも期待できる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、このトレーサビリティシステムにより、鋳造データ（金型温度、加圧波形など）と各工程における品質データが製品個別に確認でき、検査工程で発見された不良品と紐づけることで、製造プロセスが正しかったのかどうかを振り返ることが可能となる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "万一、不良品が出た場合、２時間以内に問題のあるロットがどこで発生したのかを遡って特定できる仕組みとなっている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "この点、日本国内での取組はまだほとんど取組例が存在しないと考えられるが、海外では、第３節におけるコラムでも紹介している通り、イスラエルのOptimal、Plus社のデータ連携の仕組みを活用して、ヨーロッパの自動車業界のTier1企業とその上流のサプライヤー企業が品質データの共有及びそれによるトレーサビリティを実現しているなど、サードパーティのサービスを利用したデータ共有の取組も進んできている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入までの流れ",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "つまり「結果の管理」ではなく、「プロセスの管理」が本質です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "工程管理は、製造プロセスが安定して稼働しているかを継続的に監視し、異常を早期に検知・対応する活動です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "品質検証は、製品が規格を満たしているかを確認するための重要なプロセスです",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "不具合や不良の原因を分析し、再発防止策を講じるとともに、さらなる品質向上を目指して工程や管理方法を見直します",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマンエラーは完全に排除することが難しいため、仕組みとしてミスを防ぐ仕掛け（ポカヨケ）やデジタル化による自動化が重要となります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "このような課題を解決するためには、部門横断で情報を共有できる仕組みの構築が重要です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における品質管理の課題を解決するためには、単に個別の業務を改善するのではなく、業務全体を俯瞰したうえでの仕組みづくりが重要です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "作業手順や判断基準が人によって異なる状態では、品質にばらつきが生じる原因となります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、検査手順や判定基準を明確に定義し、マニュアルとして整備することが重要です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスプロセスサービス",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "不良品の発生を抑えるため、作業手順の設定やヒューマンエラーを防ぐ治具の準備といった環境の構築にも携わります",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "作成時にはできるだけ詳細に手順を書くほか、工程ごとの意味も合わせて伝えましょう",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理システム（QMS：Quality Management System）とは、広い意味では製品やサービスの品質を継続的に改善していく仕組みを指すほか、デジタル技術を活用した品質管理システムを指すこともあります",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "工程が多いほどミスが発生する機会が増えるので、業務の中で自動化できるものを自動化したり、無駄な業務を省いたりして手順をできる限り減らしましょう",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "しかし、現場では標準化の遅れや人手不足、技術継承の停滞など、さまざまな課題が品質管理の安定性を阻んでいます",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質のばらつきや属人化といった課題を解決するため製造業の現場では様々な施策が用いられています",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務標準化を進める際の例としては、まず現場のヒアリングを通じて業務を洗い出し、それぞれの工数や難易度を数値化します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現場では品質の不安定さ、作業の属人化、人手不足、DX導入の遅れといった課題に直面しています",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり企業の生産現場における",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にもかかわらず、最新の検査技術が 、ものづくり現場に普及が進まない 要",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査機器導入に対するニーズは高い",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機関等に対して実施したアンケート及び ヒアリング調査は 、本調査の根幹をなしてお",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくり企業の生産現場にお ける検査の自動化促進可能性調査」委員会",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくり企業の生産現場における検査の自動化促進可能性調査」",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年、 ものづくり企業の生産現場では、 「労働力不足」 「競争力強化に向けたさらなる",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．ものづくり企業の生産現場における製品等の検査に関する基礎調査",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり企業の生産現場における検査の自動化促進可能性調査 〔要約〕",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ものづくり企業の生産現場における製品",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等の検査の現状とニーズ・課題",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）検査自動化のニーズ",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同様なセミナー開催や改善事例紹介を希望する企業が多く、 指導人材育成や現場指導へ",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社の検査現場",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "検査機器メーカー・大学等へのヒアリングから、 以下の通り、 検査機器インテグレー",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1部第1章第2節 人手不足が進む中での生産性向上の実現に向け、「現場力」を再構築する「経営力」の重要性：2018年版ものづくり白書（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2節 人手不足が進む中での生産性向上の実現に向け、「現場力」を再構築する「経営力」の重要性",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節においても記述のとおり、昨年末に経済産業省にてアンケート調査を実施し、「製造の現場力の強み」及び「製造の現場力の維持・向上に関する課題」を尋ねたところ、昨年10月以降、製造業における製品検査データの書換えなどの不正事案が相次いだにもかかわらず、「品質管理」を「現場力の強み」と回答する企業が多かった（（再掲）114-16）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "その一方、「製造の現場力の維持・向上に関する課題」として、「品質管理」を課題として捉えている企業は、2016年末に類似の質問を実施した際の結果と比べて増加しており、上位の回答となっている（（再掲）図114-17）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）図114-16 製造の現場力の強み",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）図114-17 製造の現場力の維持・向上に関する課題",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "Control）に代表される徹底したカイゼンや擦り合わせ活動を通じて、顧客ニーズに即した高品質な製品を追求してきた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような現場の努力の下で、世界からも、日本の製品は非常に高品質であるとして、強い支持・評価を受けてきた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "引き続き、多くの日本企業の製品は、世界で高い信頼を得ているところではあるが、現場を支える技能人材などの人手不足や第四次産業革命の進展などによって、我が国製造業を取り巻く環境変化が顕在化する中で、品質管理を含めたものづくりの在り方そのものも変化しつつある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような背景の中で、2017年10月以降、多くの製造業が現場力の強みとして認識している「品質管理」の分野において、製品検査データの書換えなどの不正事案が複数発覚した",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このガイドラインには、主に①品質保証のマネジメント強化（品質担当役員の設置、品質保証部門の独立性担保、現場と経営層での品質管理に関する課題共有体制の構築など）、②顧客との取り決め内容の明確化や自社の品質・技術レベルとの整合性確保、③人の手の介在しない検査・記録システム構築の推進、品質データの共有化の検討、などが盛り込まれている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような取組の足下での進捗として、昨年末に実施したアンケート調査において、各企業における足下の取組状況を尋ねると、出荷前検査状況のデータ化・検査工程の自動化などにすでに取り組んでいる企業は製造業全体の１割弱にとどまる一方で、約半数の企業が「可能であれば実施したい」と回答しており、まだ全体として導入が進んでいないが、多くの企業がニーズを持っているということがうかがえる（図125-２）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、仕様スペックが決まっている工業製品と異なり、個体ごとの揺らぎの大きい食品原料の世界では、良品・不良品の検査・仕分けを人力に頼らざるを得ず、現場に大きな負担がかかっていた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIの活用は大きなチャレンジだったが、「創意工夫」を理念に掲げる同社には「挑戦することを良しとする」社風があったことで、経営陣の理解やバックアップが得られ、１年半を経て試作機の現場実証検証までこぎ着けた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社が目指す“活人化”とは現場力を高めることでもある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、製造業における品質管理の基本的な考え方や重要性をはじめ、現場でよくある課題やその解決策、業務改善・効率化のポイントについて詳しく解説します",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "また近年では、品質管理は単なる現場業務ではなく、企業の競争力を左右する経営課題としても位置付けられるようになっています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における品質管理は重要な取り組みである一方で、現場ではさまざまな課題が顕在化しています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "特に検査工程では熟練した人材が求められるケースが多く、若手人材の不足や高齢化により、現場の負担が増加しています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理の現場では、熟練者の経験や勘に依存した判断が行われるケースが多く見られます",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造現場では、品質データが十分に活用されていないという問題があります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、蓄積されたデータをダッシュボードなどで可視化することで、現場の状況を一目で把握できるようになります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、現場では人手不足や属人化、アナログ管理といった課題が存在しており、従来のやり方だけでは限界が見え始めています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "現場では、以下のような課題が多く見られます",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要望や導入規模に応じて、最適な構成と概算費用をご提案する無料お見積サービスを承っています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "VOC（顧客の声）分析",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には「QC七つ道具（チェックシート、パレート図、管理図、ヒストグラム、特性要因図、散布図、層別）」を用いてデータの収集や分析を行い、現場の問題点を見える化します",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化や職業の人気の偏りなどによって、製造現場では人手不足が進んでいます",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理部門は問題が発生すると現場に伝え、改善を指導する必要があります",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "現場の工数を低減する",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "現場の工程を見直してできるだけ無駄を省き、工数削減を図りましょう",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "RICOH SC-10Aと同等の機能を有しており、さらにタッチパネルモニターが導入できるので、マウスやキーボードもなく現場で使用しやすいモデルです",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "異常が発生するリスクを未然に防ぐためには、現場の監視システムの導入が有効です",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みを通じて、現場の能力を強化し、品質向上を目指しましょう",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "製造業DXを推進する製造現場へのロボットの導入を解説",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の見える化",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減／製造現場の見える化／作業支援カメラシステム",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "結論からお伝えすると、現場のばらつきやトラブルを減らすためには、工程や検査、改善活動を仕組み化し、ITや標準書を使って情報を見える化することが必要です",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読むことで、現場で起きている小さな不良やなんとなく気づいている問題を、根本から見直すヒントが見つかるはずです",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "品質を安定させ、現場をもっと効率よくしたいと考えている方は、ぜひ最後まで読んでみてください",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "現場では測定値を記録し、設定値から外れたら直ちにラインを止めて原因を調べる体制を整えましょう",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   }
+  ],
+  "できる・できない": [
+   {
+    "quote": "また、従業員教育が不十分だと、導入したシステムを十分に活用できないこともあります",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "適用範囲等について適切なアドバイスが必要である",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、画像処理等の限界・制約を踏まえ、自動検査によ",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み合わせる能力）の制約で自動化できていない企業・工程を対象として、 検査機器・技",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る機器・技術面の制約（精度・スピードや汎用性・融通性の不足など）で自動化できて",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調達、製造、検査、出荷、販売、使用に至る全段階に及ぶ品質管理の適用範囲の一つ",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が自動化には向いている",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◇自動化できることはやり尽くし、今はできないところが残っているという状況だと思う",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単に製品が機能するだけでなく、安定した品質を継続的に提供できることが、顧客からの信頼を獲得する大きな要因となります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "「はたらく」をもっと快適に、リコーの複合機がお手伝いできること",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "工数を削減するとそこにかかるコストや手間が削減できることに加え、ミスの発生機会が減らせるので品質管理の面でも役立ちます",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "非破壊検査のメリットは、完成品をそのままの状態で検査できることにあり、高価な部品や一品物の検査に特に適しています",
+    "url": "https://tebiki.jp/genba/useful/quality-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "子どもの入学式や親の通院の付き添いなど、それぞれの事情に応じて休みを取ったり、勤務時間を調整したりできることも、今の働きやすさにつながっています",
+    "url": "https://www.goodstory.jp/astemo-st10/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型品質管理の課題とDX導入で解決できること",
+    "url": "https://www.nomura-system.co.jp/contents/quality-management/",
+    "pass": 3
+   },
+   {
+    "quote": "万一の回収対応時に、対象範囲を最小化できることは経営リスクの軽減にも直結します",
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "自社内のデータ整備が、外部との連携や新規取引獲得の前提条件になる時代が来ているという認識を持っておくことが大切です",
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "これらをタブレット入力や、PLCからの自動取得、IoTゲートウェイ経由のクラウド連携などに置き換えることが、データ活用の前提条件となります",
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "これにより、不良品の削減はもちろん、製品品質の安定化や生産性の向上も可能になります",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "DXの導入が進まない",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員教育が不十分だと、導入したシステムを十分に活用できないこともあります",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "効果的な戦略が必要です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、作業環境の改善だけでなく、従業員の意識改革にも効果的なのが5Sの特徴です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質維持・向上には、品質管理エンジニア（QAエンジニア）の採用が非常に効果的です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "DXの導入により、業務を自動化することで、人手不足などの課題を解消することが可能",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全てを一気に導入するのは現実的に難しい場合が多いため、まずはマクロ機能の活用やSaaS管理ツールの導入といった取り組みやすい部分から段階的に進めることをおすすめします",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "・SaaS管理ツールの導入",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "・RPA（ロボティック・プロセス・オートメーション）の導入",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "RPAを導入することで、在庫管理や注文処理などの定型業務を自動化し、単純作業や繰り返し作業の効率化が可能です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのような場合、転職エージェントの活用が効果的です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現場では品質の不安定さ、作業の属人化、人手不足、DX導入の遅れといった課題に直面しています",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "うという機運が高まっており、ロボットや自動機械の導入により製造・生産工程にお",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査機器導入に対するニーズは高い",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの問題の改善策として、 検査機器の導入による検査の自動化とともに、 人による",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品等の検査に関わる現状と課題について調査し、 検査機器導入による自動化の可能性",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○検査機器導入の可能性と促進方策",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○既存の検査機器の導入により自動化は可",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の導入が進んでいない",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たな検査技術の導入などの取り組みはあ",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、その目的は、検査品質向上（見逃し削減、品質保証強化） 、効率",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化（検査スピード向上） 、コストダウン（人件費等のコスト削減）が主である",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "虚報(過剰検出)の削減",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "見逃しの削減",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費等のコストの削減",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の設備投資費",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのまま導入",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証体制を強化していくにあたっては、デジタル技術の積極的な導入や品質データの共有など、ウソのつけない仕組みを構築することが重要であり、昨年10月以降に発覚した一連の事案も、このような取組を行っていれば、未然に防止することができた面もあると考えられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、今回のような品質管理に関わる事案や品質欠陥が生じた場合に、紙管理に比べて迅速なトレーサビリティ管理を実現し、リコールなどの被害を迅速かつ最小限にとどめるようにするために、個別の製品に紐づいた各種データをもとにその原因の特定を実施できるようなトレーサビリティシステムを導入・構築することも有効な対応策となってくる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような取組の足下での進捗として、昨年末に実施したアンケート調査において、各企業における足下の取組状況を尋ねると、出荷前検査状況のデータ化・検査工程の自動化などにすでに取り組んでいる企業は製造業全体の１割弱にとどまる一方で、約半数の企業が「可能であれば実施したい」と回答しており、まだ全体として導入が進んでいないが、多くの企業がニーズを持っているということがうかがえる（図125-２）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、以下では、（ア）製品出荷前検査状況のデータ化なども含めた検査工程の自動化などを柱とした、人の手を介さないウソのつけない仕組みの導入、（イ）製品の個体管理によるトレーサビリティの導入、（ウ）品質データなどのサプライチェーン間での共有などについて先進事例を概観する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（ア）検査工程の自動化などによる、ウソのつけない仕組みの導入",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、前工程にAI検査装置を導入することで、従来の２倍の速度で原料検査のラインを動かすことができるようになり、高度な検品チェックも可能となってきた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラインオペレーター（作業が中心のワーカー）からラインマネージャー（生産価値を考えるクリエーター）へと“活人化”を図ることで、働き方変革にもつなげていくことを目指している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 生産ラインにAI原料検査装置を導入（実証試験運転中）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（イ）製品の個体管理によるトレーサビリティシステムの導入",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に、RFIDや画像認識技術などを活用した、一貫した個体管理システム導入によるトレーサビリティ管理の実現の事例を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような個体管理のトレーサビリティシステムを導入することで、何らか製品に不具合が発生した際の原因究明を迅速に、かつ損失を最小限に行うことが可能になる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は東松山工場のNI法専用工場化を機に、既に自動化されていた刻印、鋳造データ記録に品質情報も加えたトレーサビリティシステムの導入に踏み切った",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社が導入しているトレーサビリティシステムそのものは決して特別なものではないが、同社はトレーサビリティの結果と鋳造条件を紐づけて設計や製造の現場にフィードバックし、良品をつくるためにはどうするか、どういう条件にすれば不良を出さないかといった具合に、不良品の低減に結びつけている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "図１ トレーサビリティシステムを導入している東松山工場",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような自動化システムやトレーサビリティシステムを導入していくにあたっては、一定の設備投資が必要となり、導入コストが企業にとって大きな負担となる可能性がある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入までの流れ",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減と利益向上",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理はコスト削減の観点からも極めて重要です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、品質管理を徹底し不良率を低減できれば、歩留まりが向上し、無駄なコストを削減することが可能です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "このように、品質管理はコスト削減と収益改善の両面に寄与する重要な施策です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "工程管理と組み合わせることで、より効果的な品質保証体制を構築することが重要です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "これらの手法を活用することで、問題の本質をデータに基づいて把握し、効果的な改善策を導き出すことが可能です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理の効率化において、最も効果が大きいのがIT化・デジタル化の推進です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、品質管理システムやタブレット入力、IoT機器との連携を導入することで、データをリアルタイムに収集・管理することが可能になります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、測定機器からのデータを自動で取り込むことで、手入力の手間を削減すると同時に、ヒューマンエラーの防止にもつながります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、検査結果の記録や帳票作成を自動化することで、作業時間を削減できるだけでなく、記録の抜け漏れや入力ミスを防ぐことが可能です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "また、画像認識技術を活用した外観検査や、センサーによる自動測定などを導入することで、人による判断のばらつきを抑え、検査精度の向上にもつながります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "基準が明確であるほど、問題点の特定や改善効果の評価が容易になるため、継続的な品質向上につながります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "特に試験業務では、データの正確性やトレーサビリティの確保が求められるため、LIMSの導入は有効な手段です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "従来は紙やExcelによる管理が中心で、転記ミスやデータ分散といった課題がありましたが、LIMSを導入することで、分析機器との連携によるデータ自動取得や、試験ワークフローの一元管理が可能になります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "パソコン導入・運用支援",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "製造業の品質管理｜業務内容や重要性、課題と解決策を解説－転職ノウハウ |エンジニアの転職ならメイテックネクスト",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・メーカー・ITのエンジニア転職なら",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の品質管理｜業務内容や重要性、課題と解決策を解説",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業における品質管理の詳細な業務内容や業務で直面する課題、それに対する具体的な改善策について解説します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における品質管理の重要性",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の品質管理に求められる業務要素",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が品質管理で抱える課題",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の課題解決策",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品が規定された基準を満たすように検査・調整を行う業務",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業において、",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "JIS（日本産業規格）やISO（国際規格）といった業界規格を遵守することも、製造業における競争力を維持するうえで欠かせません",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の検査や調整業務を通じて、企業の競争力を支える重要な業務",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理（QC）とは？品質保証（QA）との違いや手法、求められるスキルを紹介",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質を確保するために欠かせない製造業の品質管理について、具体的な業務内容について解説します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "工程管理では、製造工程を適切に監視・調整し、作業手順の遵守を徹底させることで、製品の品質を維持します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "検査の自動化促進可能性調査",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うという機運が高まっており、ロボットや自動機械の導入により製造・生産工程にお",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にロボット市場を製造分野で現在 の 2 倍、 サービスなど非製造分野で20 倍に拡大する",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ことが明記されており、製造分野におけるロボットイノベーションが実現すれば、新",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、不良品を出さない製造設備は存在しないといっても過言ではない",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うことは、現実には困難であり、検査工程によって不良品の発生・流出を防ぐことが",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の社会問題化は、検査工程の重要性を再認識させる結果となった",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産性を向上させるためには、製造・生産工程だけでなく、検査工程の自動化を進",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、現状の検査工程では人間の検査員の五感、",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけ視覚に頼った検査を行っているところ が多い",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業では、検査の自動化があまり進んでいない 一方、技術力を支えてきた技能者の高",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "齢化や労働人口の減少が進む中で、検査人材の確保は、企業にとって重要な経営課題",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最近の画像処理技術やコンピュータ性能の向上により、 自動検査技術も急速に進歩",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にもかかわらず、最新の検査技術が 、ものづくり現場に普及が進まない 要",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、完全自動化が困難な検査作業の場合、人による検",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造基盤白書（ものづくり白書）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節においても記述のとおり、昨年末に経済産業省にてアンケート調査を実施し、「製造の現場力の強み」及び「製造の現場力の維持・向上に関する課題」を尋ねたところ、昨年10月以降、製造業における製品検査データの書換えなどの不正事案が相次いだにもかかわらず、「品質管理」を「現場力の強み」と回答する企業が多かった（（再掲）114-16）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "その一方、「製造の現場力の維持・向上に関する課題」として、「品質管理」を課題として捉えている企業は、2016年末に類似の質問を実施した際の結果と比べて増加しており、上位の回答となっている（（再掲）図114-17）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、以下では、我が国製造業における品質保証体制に関わる一連の事案とその強化に向けた対応策を概観する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）図114-16 製造の現場力の強み",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）図114-17 製造の現場力の維持・向上に関する課題",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）我が国製造業の品質管理上の問題の顕在化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "冒頭の「総論」でも述べた通り、我が国製造業は、TQC（Total Quality",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "引き続き、多くの日本企業の製品は、世界で高い信頼を得ているところではあるが、現場を支える技能人材などの人手不足や第四次産業革命の進展などによって、我が国製造業を取り巻く環境変化が顕在化する中で、品質管理を含めたものづくりの在り方そのものも変化しつつある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような背景の中で、2017年10月以降、多くの製造業が現場力の強みとして認識している「品質管理」の分野において、製品検査データの書換えなどの不正事案が複数発覚した",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、今回の一連の事案を踏まえ、産業界は、品質保証体制の強化が、企業の競争力に直結する経営問題であることを強く認識する必要がある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、企業がいかに信頼性の高い品質保証体制の構築に向けて取り組むか、経営トップの強いリーダーシップが求められている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（２）品質保証体制の強化に向けた対応策",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記の問題意識の下、経済産業省は、品質保証体制の強化に向けた産業界による具体的なアクションを多面的に後押しすべく、2017年12月に「製造業の品質保証体制の強化に向けて」を公表した（図125-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "図125-1 製造業の品質保証体制の強化に向けて（2017年12月22日公表）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の品質管理の課題や業務改善・効率化のポイントをくわしく解説 | お役立ち情報",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の品質管理の課題や業務改善・効率化のポイントをくわしく解説",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業において品質管理は欠かせない重要な業務ですが、「人手不足や属人化が進んでいる」「アナログ管理に限界を感じている」といった課題を抱えている企業も多いのではないでしょうか",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、製造業における品質管理の基本的な考え方や重要性をはじめ、現場でよくある課題やその解決策、業務改善・効率化のポイントについて詳しく解説します",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の品質管理とは",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における品質管理の重要性",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における品質管理の課題",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における品質管理とは、顧客に提供する製品の品質を一定の基準に保ち、不良品の発生を未然に防ぐための体系的な活動を指します",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "英語ではQC（Quality Control）と呼ばれ、製造業における基本的かつ最も重要な業務の一つです",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程全体を通じて品質を安定させ、継続的に改善することで、顧客満足度の向上と企業利益の最大化を実現する点にあります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "原材料の受入検査",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程内での検査・監視",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "完成品の最終検査",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "試験結果や検査記録の管理",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理は、製造業において企業の信頼性や収益性を支える基盤となる重要な取り組みです",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "リコールが発生すれば、企業は多大な費用を負担するだけでなく、信頼の失墜や売り上げ減少といった深刻なリスクにも直面します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "リアルタイムで作業員の稼働状況や作業時間をデータ化し、遅れが発生しやすい工程を改善し、生産スケジュールを調整することで、効率的な生産体制を確保",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務標準化を進める際の例としては、まず現場のヒアリングを通じて業務を洗い出し、それぞれの工数や難易度を数値化します",
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "pass": 3
+   },
+   {
+    "quote": "化（検査スピード向上） 、コストダウン（人件費等のコスト削減）が主である",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実働時間の拡大",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費等のコストの削減",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンスコスト",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◇製造設備と違って売り上げを生まないコスト（マイナスの売り上げ）と考",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コスト低減）",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "検査の高度化とコストダウンを図りつつ、 リスクを低減し労働力を有効活用する",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目的は省力化によるコスト削減にあり、 機械化によるスピードアップや正確性・精度",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "へたに機械化し人手を排除すると、逆にコストアップになり、100％の保証も難",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○国内で生産を続けるにはコスト的にも人材確保難の点 からも自動化は必要であり、検査に",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 「コストダ",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウンによる競争力強化の必要性」（44％）も多く、コストダウンのために検査効率化",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コストダウンによる競争力強化の必要性",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る企業・工場では「コストダウンによる競争力強化の必要性」が多く、人により検査",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の改善を重要視する企業 ・工場ではコストダウンよりも「ものづくり技能継承の必要",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経験が浅い者が熟練者と同じ作業をできるようになるまでには時間を要し、人材確保の点においても難しい状況に置かれている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ製で１台数千万円もする大型の検査装置はあるが、コストもスペースもかかる上に取りこぼしがあり、装置を入れても、なお多くの人手が必要という状態にあった",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化や経済環境の変化を背景に、「不良品流出ゼロ」「止まらない」「変種変量生産に強い」「グローバル規模での経営資源の最適化」が可能なスマートファクトリーとして、“24時間365日無人稼働”することができる工場を目指している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）アーレスティ（愛知県豊橋市）はダイカスト（金型に溶融した金属を高速、高圧で充填することにより高精度の鋳物を短時間に大量に生産する鋳造方式）メーカーで、二次合金（アルミ合金）を用いて自動車のエンジン部品やトランスミッション部品などをメインに製造しているが、同社の東松山工場では足回りに特化した部品の製造を行っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "万一、不良品が出た場合、２時間以内に問題のあるロットがどこで発生したのかを遡って特定できる仕組みとなっている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような自動化システムやトレーサビリティシステムを導入していくにあたっては、一定の設備投資が必要となり、導入コストが企業にとって大きな負担となる可能性がある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社全体としてのリソース配分や、事業を行う上での優先順位の決定を行うのは経営層であり、経営層が現場に任せきりとせず、経営層による品質管理上の方針の明示や意志決定や正しい状況の把握があった上で、厳しい納期やコスト競争にさらされる現場において、初めて万全の体制を整えることができると言えよう",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "「SLQDC」とは、それぞれ、安全･健康（Safety）、法律遵守（Law）、品質（Quality）、納期（Delivery）、そして最後にコスト（Cost）を表す",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は品質と信頼性による企業価値の最大化を掲げる中で、コストよりも安全、法の遵守や品質が優先だということを、経営トップが自ら現場の社員に直接伝え続けている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場の社員が「社長はコストのことしか言わない」と考えてしまったら、品質は疎かになる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITの仕組の自前主義など、間接業務の非効率な部分の改革と余分なコストを取り除いた上で、事業の選択と集中を徹底して固定費を改革し、ビジネスモデルで先行して現場力勝負に持ち込めば競争に勝つことができるはずだと信じている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質トラブルは企業の信頼低下やコスト増加に直結するため、早急な対策が求められています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減と利益向上",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製品リコールや事故が発生した場合、回収や補償といった直接的なコストだけでなく、顧客離れや取引停止といった間接的な損失も発生します",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理はコスト削減の観点からも極めて重要です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "不良品が発生すると、再加工や廃棄、原因調査、クレーム対応など、さまざまな追加コストが発生します",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "これらは「見えにくいコスト」として蓄積され、企業の収益を圧迫する要因となります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、品質管理を徹底し不良率を低減できれば、歩留まりが向上し、無駄なコストを削減することが可能です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "このように、品質管理はコスト削減と収益改善の両面に寄与する重要な施策です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "また、エラーが発生した場合でも、原因の特定に時間がかかるケースが多く、対応が遅れることも少なくありません",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "また、情報の共有や集計にも時間がかかり、迅速な意思決定を妨げる要因となります",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、検査結果の記録や帳票作成を自動化することで、作業時間を削減できるだけでなく、記録の抜け漏れや入力ミスを防ぐことが可能です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "LIMSのカスタマイズ依頼で失敗しないポイント｜費用膨張を防ぎ自社業務にフィットさせる選定・発注の極意",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "手作業や記載ミスを削減、QCチェック工数も短縮",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "製品やサービスに関するご質問やご相談、より詳しい資料のご希望、進め方や導入費用の確認など、お気軽にご連絡ください",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要望や導入規模に応じて、最適な構成と概算費用をご提案する無料お見積サービスを承っています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "コストの削減",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "現場の工数を低減する",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "現場の工程を見直してできるだけ無駄を省き、工数削減を図りましょう",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "工数を削減するとそこにかかるコストや手間が削減できることに加え、ミスの発生機会が減らせるので品質管理の面でも役立ちます",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "部品のシリアルナンバーや作業時間などの実績、作業結果の画像を記録できるので、トレーサビリティーが可能になり作業分析にも役立ちます",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "作業工数の削減とは？手順やアイデア・成功事例をわかりやすく説明",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "作業工数の効率化",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "物流／デジタル化（DX推進）／コスト削減／無人搬送",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減／製造現場の見える化／作業支援カメラシステム",
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング費用",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "＼ 自社に合わせた具体的な費用が知りたい方へ ／",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "品質不良の原因特定に時間がかかる",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "(2)品質不良の原因特定に時間がかかる",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "品質不良が発生した際に、その原因を特定するまでに時間がかかると、対応が遅れるだけでなく、同じ不良がくり返されるリスクがあります",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現場での記録が紙ベースであったり、情報がバラバラに管理されていたりすると、確認に多くの時間がかかってしまうでしょう",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用や運用コストがかかるため、予算の確保が必要",
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "(品質基準･価格設定など)",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "らの品質管理への要請」（68％）や「信頼性向上・高付加価値化による競争力強化の",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "信頼性向上・高付加価値化による競争力強化の必要性",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値化",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◇付加価値を生まないという考えから、これまで最終検査工程は自 動化が先送りされてき",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たが、今後はビッグデータの活用など検査の付加価値を向上させて「守りの検査」から",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○費用対効果の面で中止、また技術的に画像処理が難しい",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○費用対効果",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（価格・費用）",
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、負担感の強い単純作業の繰り返しから従業員を解放することにより、より付加価値の高い仕事へ労働力をシフトすることが可能となる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "pass": 3
+   },
+   {
+    "quote": "特にグローバル市場においては、価格競争が激化する一方で、品質に対する要求も高まっています",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、高品質を維持できる企業は、単なる価格競争に巻き込まれることなく差別化を図ることが可能です",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、自動化によって生まれた余力を、分析や改善といった付加価値の高い業務に振り向けることができる点も大きなメリットです",
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "pass": 3
+   },
+   {
+    "quote": "学生時代から品質に関心を持ち、「良い製品を手ごろな価格で届けたい」と考えてきた",
+    "url": "https://www.goodstory.jp/astemo-st10/",
+    "pass": 3
+   },
+   {
+    "quote": "この経験が、故障が少なく安心して使えるような製品を作りたい、品質の高い製品を手ごろな価格で届けられる仕事に携わりたいと考える原点になりました",
+    "url": "https://www.goodstory.jp/astemo-st10/",
+    "pass": 3
+   },
+   {
+    "quote": "「良い品質のものを適正な価格で届けたい」という思いを、まさに実現できる業務でした",
+    "url": "https://www.goodstory.jp/astemo-st10/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗6：投資対効果（ROI）を測定せずプロジェクトが頓挫する",
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "ROIを語れるプロジェクトだけが、組織内で生き残り、横展開のチャンスを得られます",
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型のBIツールやIoTセンサーが低価格化しており、月額数万円規模からスタートできる時代になっています",
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 製造業におけるDXは、個社が提供する付加価値のQCD向上（①エンジニアリングチェーン/ECの最適化、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_kojo/pdf/006_03_00.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/2529/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/manufacture-technology/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://labinformatics.jp/media/column/quality_control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tebiki.jp/genba/useful/quality-inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://division.nagase.co.jp/plaplat/sustainable_solution/manufacturing-process/quality-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article13.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ccreb-gateway.jp/reports/industry-trends-2026-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-company-profile22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/07/column07_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sts-sakae.co.jp/p_recruitment/interview/interview_02.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodstory.jp/astemo-st10/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachicm.com/tierra/ja/recruit/interview/production_engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.murata.com/ja-jp/member/interview/007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-system.co.jp/contents/quality-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/manufacturing-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/63",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/smart-factorygiken/manufacturing-dx-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_kojo/pdf/006_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tradeaiders.com/common-mistakes-to-avoid-in-manufacturing-inspection-processes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gesrepair.com/common-manufacturing-mistakes-inspection-quality-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goaudits.com/blog/manufacturing-inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deltek.com/resources/articles/quality-inspection-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://harmoni.io/feeds/blog/quality-checks-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hqts.com/initial-product-inspection/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ものづくり企業の生産技術・製造・検査工程の課題",
+   "results": [
+    "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/2529/",
+    "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-technology/",
+    "https://labinformatics.jp/media/column/quality_control",
+    "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "https://www.ise-ics.co.jp/column/?id=inspection-process-efficiency",
+    "https://www.fiweek.jp/hub/ja-jp/blog/article01-issue.html",
+    "https://ccreb-gateway.jp/reports/industry-trends-2026-manufacturing/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の生産技術・製造・検査工程の課題 仕組み 解説",
+   "results": [
+    "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/2529/",
+    "https://labinformatics.jp/media/column/quality_control",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-technology/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "https://tebiki.jp/genba/useful/quality-inspection/",
+    "https://division.nagase.co.jp/plaplat/sustainable_solution/manufacturing-process/quality-control",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article13.html"
+   ]
+  },
+  {
+   "query": "ものづくり企業の生産技術・製造・検査工程の課題 インタビュー",
+   "results": [
+    "https://lefixea.jp/mfg/articles/manufacturing-company-profile22",
+    "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/07/column07_01.html",
+    "https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html",
+    "https://ninsho-partner.com/iso9001/column/manufacturing-industry_0807/",
+    "https://www.sts-sakae.co.jp/p_recruitment/interview/interview_02.html",
+    "https://www.goodstory.jp/astemo-st10/",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-technology/",
+    "https://www.hitachicm.com/tierra/ja/recruit/interview/production_engineering/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の生産技術・製造・検査工程の課題 事例",
+   "results": [
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-technology/",
+    "https://www.nomura-system.co.jp/contents/quality-management/",
+    "https://www.m-next.jp/knowledge/occupation/1360.html",
+    "https://data-viz-lab.com/manufacturing-industry",
+    "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail16",
+    "https://www.cct-inc.co.jp/koto-online/archives/63",
+    "https://tebiki.jp/genba/useful/quality-inspection/",
+    "https://monoken.yamazen.co.jp/blog/articles/smart-factorygiken/manufacturing-dx-cases",
+    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_kojo/pdf/006_03_00.pdf",
+    "https://ccreb-gateway.jp/reports/industry-trends-2026-manufacturing/"
+   ]
+  },
+  {
+   "query": "production engineering inspection process issues manufacturers",
+   "results": [
+    "https://www.tradeaiders.com/common-mistakes-to-avoid-in-manufacturing-inspection-processes.html",
+    "https://gesrepair.com/common-manufacturing-mistakes-inspection-quality-control/",
+    "https://goaudits.com/blog/manufacturing-inspection/",
+    "https://www.deltek.com/resources/articles/quality-inspection-manufacturing/",
+    "https://harmoni.io/feeds/blog/quality-checks-manufacturing",
+    "https://www.linkedin.com/top-content/engineering/engineering-challenges-in-manufacturing/common-engineering-issues-in-manufacturing-processes/",
+    "https://www.hqts.com/initial-product-inspection/",
+    "https://www.qima.com/blog/inspection/manufacturing-production-monitoring",
+    "https://checklistguro.com/blog/manufacturing-quality-inspection-workflow",
+    "https://www.conro.com/Blog/Inspection-in-manufacturing-processes/"
+   ]
+  }
+ ],
+ "missing": {}
+}

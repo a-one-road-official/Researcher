@@ -1,0 +1,2094 @@
+{
+ "name": "キーエンスの付加価値の値付けと粗利",
+ "en": "Keyence value pricing gross margin",
+ "aliases": [
+  "キーエンス 付加価値",
+  "キーエンス 値付け",
+  "キーエンス 粗利率",
+  "キーエンス 営業利益率"
+ ],
+ "context": "高付加価値",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:27:37.912494+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "経営管理についてのノウハウやZaimo.aiの活用方法",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "価格決定、商品企画基準、P&L構造、時間あたり付加価値",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "購買部門が値段の絶対値だけで判断できない構造を、営業プロセスの中に組み込んでいるのだ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "2. 粗利80%未満の商品は「作らない」─企画段階で利益を確定させる",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "商品を企画する段階で利益率の基準が設けられている",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "それは商品企画段階での『粗利80%』である",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "利益は結果ではなく、企画段階で確定させるものだ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタの「原価企画」が「目標売価 − 目標利益 ＝ 許容原価」で設計段階からコストを作り込むのに対し、キーエンスは",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "この基準は、商品開発だけでなく営業プロセスにも影響を与えている",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "さらに重要なのは、直販によって顧客の「困りごと」を営業が直接把握し、それを商品企画・開発にフィードバックするサイクルが回ることだ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの管理会計には、もう一つ独特な仕組みがある",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "で算出され、チームとしての生産性を管理する仕組みだった",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "この仕組みが意味するのは、キーエンスでは",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "この理念を全社員が毎日の業務で体感する仕組みとして、時間チャージは設計されている",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "管理会計とは、利益を最大化するために「何を、どの段階で、どう管理するか」を設計する技術だ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "その経営の根底に流れるのは性善説でも性悪説でもない、「…",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "「カネ」は血液、「金利」は血圧 国を守る「資金の流れ」を読む",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "有料会員の皆様へ 大切なお知らせ（ご継続時の期間・料金のご案内方法変更）",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスで学んだ高収益営業の仕組み",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし掘り下げると、「ラインが止まって生産性が落ちている」「ミスが出荷後に発覚してクレームになっている」「品質管理の仕組み全体を見直したい」という本質的な課題が見えてくる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "「確認作業を速くする機器」ではなく、「ライン停止を解消し、クレームをゼロにする仕組み」として提案できる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスに学んだ仕組みの核心は、目標設計にある",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "これらはすべて、組織として設計し、全員が実践できる仕組みにできる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "再現性を生むマネジメントの技術」をテーマに、組織として成果を出し続ける仕組みを解説する",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "相手が本当に困っているのは工期なのか、品質トラブルの再発なのか、それとも社内の承認プロセスなのか",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の文脈に置き換えるなら、図面が固まる前の段階で施主の意思決定構造に入り込めているか、ということに尽きます",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "着工後に「言った言わない」で揉める現場ほど、実は営業段階で相手の裏のニーズを聞けていないものです",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "コメントにあった評価制度の設計とも重なりますが、優秀な一人の営業に依存する状態こそが最大のリスクであり、仕組みに落として初めて高収益は持続するのだと感じます",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "「決める」ための調査設計・段階別の調べ方",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "仕組み・見極め",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "6つの評価軸とGO/STOPの判断手順",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業の仕組み・組織設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "やめる/続けるを決められる仕組みに",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "店頭で「選ばれる」仕組み",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "仕組みをつくる",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "LP・広告・MA/CRMで引き合いが来る仕組み",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "属人営業を仕組みで再現可能に",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "強み・方法論",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "強み・方法論トップ",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "引き合いが来る仕組み",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この1985年の二つの設立が、後年「ファブレス経営」と呼ばれる仕組みの土台になっている",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "同サイトによれば、この社名変更は上場を翌年に控えた段階で、直販・標準品・付加価値価格という三原則のもとで株式公開の準備を進める区切りでもあった",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "ファブレス経営の実態——工場を持たず、企画・開発に資源を集中する仕組み",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの核となる商品は企画段階から汎用性を重視し、営業もテリトリー制とすることで、構造的に分散された収益基盤を構築しています",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスが商品企画や投資判断において、あらかじめ予算枠や上限を設けないのは、「会社を永続させる」という経営理念のもと、環境変化や技術革新、顧客課題の変化に対して、その時々で最も合理的な選択を積み重ねることこそが、長期的な付加価値の最大化、ひいては企業価値の最大化につながると考えているためです",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの場合、その本質は、“価格競争に巻き込まれない仕組み”にあるといえそうです",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "オービックの営業利益率はなぜ高い？｜65.7％を実現する高収益の仕組みを分析",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキの好決算の理由とは？｜食品強化とM&Aから成長の仕組みを分析",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この思想が後述するすべての仕組みの根幹になっています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与（ボーナス）は年に4回支給される業績連動型で、会社全体の利益が上がれば全員の給与に還元される仕組みを採用しています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "販売方法についても、キーエンスは独自のスタイルを持っています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "営業グループの役割｜コンサルティング営業とニーズカード",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、営業担当者は製造業の工程・顧客のビジネスモデル・機械の仕組み・検査工程の流れなど、幅広い知識を徹底的に学びます",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "この実演方法はまるでテレビショッピングのような「ジャパネット劇場」と表現されるほど、分かりやすく・印象的に設計されています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業担当者には「ニーズカード」の提出が義務付けられています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "これは顧客が「こういうことに困っている」「こういうものがあれば便利なのに」といった声を記録して社内に共有するための仕組みです",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "このニーズカードが、新商品開発のスタート地点になります",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、商品の説明方法・デモの実演手順・顧客ごとのビジネスモデルの解説・成功事例の共有・台本の作成など、営業に必要なすべての知識とスキルを提供します",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発グループは、営業が持ち帰ったニーズカードの情報をもとに開発をスタートします",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "カリスマではなく、仕組みで強くなる組織",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "1. 原価から価格を決めない─「顧客の困りごと」に値段をつける",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ごとに「困りごと」の経済価値が異なるため、価格も顧客ごとに異なる",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "さらに重要なのは、直販によって顧客の「困りごと」を営業が直接把握し、それを商品企画・開発にフィードバックするサイクルが回ることだ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "この「営業が顧客の現場で拾ったニーズ → 開発が世界初の製品を作る → 粗利80%以上で販売 → 営業がさらに深いニーズを拾う」というサイクルが、直販でなければ回らない",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の「困りごと」の経済価値を算出し、そこから価格を設計する",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズてんこ盛りで高コストの罠 キーエンス流「引き算」企画に転換を",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "現場のチカラが経営を動かす",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の現場に入る前に、あなたは何を準備しているだろうか？",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "現場察知が、提案の起点になる！",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ニーズの裏のニーズを掘り下げる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "答えは、顧客の現場だ",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "現場から始まる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "現場に入ったとき、まず",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "この観察の中に、顧客が言葉にできていない困りごとが滲み出ている",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "現場のオペレーターの作業に異変を感じたことはないだろうか",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある製造現場で作業者が特定の検査工程で何度も立ち止まっているのに気づいたとする",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし現場を知っている営業は違う",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "訪問前の「素振り」が、観察の質を上げる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、現場で異変に気づくためには、意識して見なければ見えない",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "現場に入る前に、何を見るべきかを準備しているだろうか",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスに学んだ準備とは、訪問前にメンバーや先輩・上司に相談することだ",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "「同じ業種・同じ規模の会社で、どんな提案が響いたか」「この顧客の現場では、どんなポイントを見ればいいか」を確認する",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "1,400件超・大手企業と歩んだ調査力と、現場に足を運ぶ実査力",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭訪問・行動観察",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府大阪市に本社を置く株式会社キーエンスは、自動車・半導体・食品・医薬品など「あらゆる業界の生産現場」で使うセンサーや画像処理機器、測定器を手がけるFA（ファクトリーオートメーション）機器メーカーである",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の決算短信は、企画開発面で製造現場向け3Dプリンタやライン型シリンダセンサ＆スマートバルブ等の新商品開発を進めたことを増収要因の一つとして挙げており、ファブレス体制が最新の製品開発サイクルにも直結していることを示している",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、キーエンスの製品は半導体・電子デバイスだけでなく、自動車・食品・医薬品・物流など「あらゆる業界」の生産現場を対象にしており、成長17分野の中では「AI・半導体」の裾野の一つという位置づけに過ぎない点は本文で明示しておく必要がある",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "現場でまず直したい理解——キーエンスは「センサーだけ」でも「代理店経由」でもない",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つは「代理店を通じて買う会社」だという誤解で、実際にはキーエンスは世界各国で代理店を介さない直販営業（グローバルダイレクトセールス）を展開しており、商品特性を熟知した技術営業が顧客の現場に直接足を運び、潜在ニーズを聞き出すコンサルティング営業を行う",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先が35万社を超える背景には、単一製品ではなく生産現場全体の課題解決を提案する体制があることを理解しておく必要がある",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "警備業の数字｜業者1万社超でも、現場は小規模と高齢化",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、キーエンスは、現場の課題やニーズを聞き取り、これらに対しFAを活用した解決策を提案する、というビジネスモデルになっています",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスは世界46ヵ国250拠点で事業を展開していますが、専門知識を持った営業担当者が顧客の製造現場に直に足を運び、抱えている課題やニーズをくみ取り課題解決に当たるという直販体制を貫いています",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "ファブレス経営は、商品開発において、特定の会社の製造技術や特徴に制限を受けることなく、顧客ニーズへの対応の幅を広げることを可能にします",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者が顧客現場を細かく分析し、",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり顧客は、キーエンスの商品を買っているというよりも、「生産現場の改善策を買っている」状態に近いのです",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "「Key of Science（科学の鍵）」という英語を組み合わせてつくられた社名で、その名のとおり製造現場の課題を「科学の力で解決する」というコンセプトを持っています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスはお客様の「困りごと」を徹底的に集め、その本質的なニーズを掘り下げることで、誰も作っていなかった商品を生み出し続けています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "営業グループの役割｜コンサルティング営業とニーズカード",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の工場を訪問し、生産ライン全体を把握した上で「ここを改善すれば年間これだけの利益が出ます」と提案する、コンサルタントとしての役割を担っています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業担当者には「ニーズカード」の提出が義務付けられています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "このニーズカードが、新商品開発のスタート地点になります",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズを深く理解した上で開発企画に参加し、「本当に売れる商品かどうか」という視点からアイデアを出します",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発グループは、営業が持ち帰ったニーズカードの情報をもとに開発をスタートします",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "開発担当者も顧客の工場に直接足を運び、現場を観察しながら「何が本当の問題なのか」を考え続けます",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の工場はそれぞれ異なる設備・工程・環境を持っているため、顧客側は「うちの設備に合わせたカスタム品を作ってほしい」と要望しがちです",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "利益は役員に集中させるのではなく、現場の社員にまで広く還元されます",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズを聞いて商品を作る、営業が現場を知って提案する、データを蓄積して共有する——これらはどれも、ほとんどの会社が「大事だ」と分かっていることです",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の「潜在ニーズ」をえぐり出す商品開発力",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つの大きな柱が、問屋や代理店を一切通さずに、自社の営業マンが顧客（工場などの現場）に直接販売する",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "自社営業マンが直接顧客の現場へ訪問",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "現場の生きた情報（一次情報）を直接獲得！",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "顕在化しているニーズ（すでに欲しいと分かっているモノ）を作れば価格競争になります",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、顧客が「そんなことができるなんて考えたこともなかった！」と驚く潜在ニーズを満たす商品を開発すれば、競合がいません",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "世界中でFA（自動化）や省人化のニーズが高まっており、活躍の場は広がっています",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "で中間マージンを排除し、現場の生の声を拾い上げる",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "顧客すら気づいていない潜在ニーズを満たす",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を介さないダイレクトセールスの形態をとっていることもあり、取引先の潜在ニーズを営業担当者が直接捉え、それを自社の商品企画、商品開発部門にフィードバックしてモノづくりにつなげている",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "営業は、取引先の工場で検査機器を使用しており、製品の良さが分かる現場担当者を見つけて張り付く",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "導入の前と後での生産性の違い、機械の老朽化による品質低下・安定稼働リスク、相見積もり先の製品名と効果の差など、キーエンスの製品の良さを決裁権を持つ人に理解してもらい、現場の担当者に機械を利用してもらえるよう、手厚くフォローする",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計 読み込まれました",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率51.9%",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率83.8%",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業の平均営業利益率が5%前後であることを考えれば、キーエンスの数字は「異常値」だ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期に売上高は初めて1兆円を突破し、なお営業利益率50%超を維持している",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "「利益率が高くなるように、価格の決め方そのものを設計している」",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造業は「原価＋利益＝価格」で値段を決める",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "工数の削減、不良率の低下、ラインの停止時間の短縮、を算出し、その価値の一部を価格にする",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "この「バリューベース・プライシング」が、粗利率83.8%を支える最大の要因だと考えられる",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "価格決定、商品企画基準、P&L構造、時間あたり付加価値",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "1. 原価から価格を決めない─「顧客の困りごと」に値段をつける",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの価格決定は、製造業の常識を覆している",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なメーカーは「原価＋利益＝価格」というコストプラス方式で値段を決める",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "【経営】キーエンスの秘密②付加価値と価格｜Michio Osaki【新商品 企画開発コンサルタント】",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "【経営】キーエンスの秘密②付加価値と価格",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "\"付加価値\"",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "\"価格決定\"",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも付加価値って？",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値ってなんでしょう？ 文字を読むと",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の場合は、場所やお店の雰囲気、提供時間（早い！とか）も付加価値になると思います",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値（利益・粗利） = 売上（お客さんの支払い） - 原材料",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "つまり粗利率は70-60%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "→ 売上(100%) - 原材料(15%) = 粗利率 85%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "→ 粗利率(85%) - 販売管理費(30%) = 営業利益率 55%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な電気メーカの営業利益率は3-5%ですから、驚異的な数字です",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "価格を自社で決定できる",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争に巻き込まれない商品を販売する",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "このような場合、サービスがマネされ価格競争に陥ります",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "までのお申し込み限定価格",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率約50％を誇り、国内製薬トップ級の時価総額に上り詰めた中外製薬",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "日経ビジネス 価格改定のお知らせ",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値型営業の構造",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値型営業は、個人技ではない",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしその瞬間から、営業は価格競争の土俵に乗っている",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "機能が似ていれば、あとは価格の話になる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "価格ではなく、",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "予算の都合なのか、競合の価格が見えているのか、社内の購買ルールなのか",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "価格が同じなら、価値で選ばれる状態をつくっておく",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで述べてきた付加価値型営業の構造を、改めて整理したい",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "では、この付加価値型営業を組織全体で再現するためのマネジメントとは何か",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "「現場力」こそが付加価値提案の土台だ",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "そこを掘り下げないまま見積を出すから、最後は価格でしか戦えなくなる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "そう考えると、付加価値営業はそのまま収益改善の起点になるのだと思います",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "現場察知・ニーズの裏のニーズ・キーマンへのファンづくり、この三つが揃ったとき、営業は価格競争の土俵から降りられます",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスとは何の会社か｜「直接販売」と製品戦略が支える営業利益率51%｜セルウェル",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "中期計画・ポートフォリオ・価格・営業戦略——重い意思決定を事実で支えます",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "価格改定・値上げの戦略",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "価格・受容性の検証",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスとは何の会社か｜「直接販売」と製品戦略が支える営業利益率51%",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "センサーや測定機器、画像処理機器などを世界46カ国・250拠点で展開し、直販体制・当日出荷・ファブレス経営を組み合わせた独自のビジネスモデルにより、製造業として異例の高い営業利益率を長期的に維持している",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期、営業利益率51.0%",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "同期営業利益率｜",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この時すでに、原価ではなく顧客が導入によって得る効果（コスト削減額）で値付けるという、後年「付加価値価格」と呼ばれる価格戦略の原型が据えられていた",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "1982年、営業利益率20%の祖業を切り捨ててセンサー事業に集中投資した決断",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ業界解説サイトによれば、滝崎武光氏は当時の主力事業だった自動線材切断機（営業利益率20%）を、新たに立ち上げていたセンサー事業（営業利益率40%）と比較し、「利益率が低い」という理由だけで他社へ譲渡した",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "1986年10月、社名変更と「直販・標準品・付加価値価格」という三原則の確立",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "同サイトによれば、この社名変更は上場を翌年に控えた段階で、直販・標準品・付加価値価格という三原則のもとで株式公開の準備を進める区切りでもあった",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "土地・建物・生産設備への投資を抑えることで、キーエンスは同じ売上規模の製造業に比べて従業員数・固定費が少なく済む構造を持つ（日本経済新聞によれば2026年3月期の売上高総利益率＝粗利率は83%、すなわち原価率は17%程度で、FA製品分野で競合するファナック（38%）・三菱電機（32%）の粗利率を大きく上回る）",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "2025年3月期に売上高は初めて1兆円を突破し、なお営業利益率50%超を維持している",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "顧客がその製品を導入することで得られる経済的な利益、",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "工数の削減、不良率の低下、ラインの停止時間の短縮、を算出し、その価値の一部を価格にする",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "「今の検査業務に何時間かかっているか」「キーエンスの製品を導入するとそれがどう短縮されるか」",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "を計算し、その「効果」を徹底的に売り込む",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "価格ではなく、効果で勝負する",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者は、導入前と導入後での生産性の違い、機械の老朽化による品質低下リスク、相見積もり先の製品との効果の差を整理し、「この製品を導入する経済合理性」を稟議書レベルで提示する",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "「持たない」PLの構造効果",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスのファブレスは単なるコスト削減策ではない",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスは平均年間給与2,039万円と日本企業トップクラスの報酬を支払っているが、それでも営業利益率50%超を維持できるのは、粗利率83.8%という圧倒的な「バッファ」があるからだ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス 2025年3月期決算短信：",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の従業員1人あたり営業利益は約1億7,000万円（営業利益5,497億円 ÷ 単体従業員3,205名）",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス 2025年3月期有価証券報告書：",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "導入を相談する",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "しかもこの価格設定が絶妙で、導入することで、その会社の不良率が下がったり、人件費が削減できたりします",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、費用対効果がハッキリするのです",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "AIを全社変革のエンジンに、マニュライフ生命の挑戦",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、廃エアコンからレアアース回収 再資源化で新規調達35％削減",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "中期計画・ポートフォリオ・価格・営業戦略——重い意思決定を事実で支えます",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "中期計画・事業ポートフォリオ",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この時すでに、原価ではなく顧客が導入によって得る効果（コスト削減額）で値付けるという、後年「付加価値価格」と呼ばれる価格戦略の原型が据えられていた",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "1985年3月にはアメリカ現地法人KEYENCE CORPORATION OF AMERICAを設立し、同年9月には大阪府高槻市に製造子会社クレポ株式会社（現・キーエンスエンジニアリング株式会社）を設立して、自社で工場を持たずに生産機能を子会社・協力会社に委ねる体制を敷いた",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この1985年の二つの設立が、後年「ファブレス経営」と呼ばれる仕組みの土台になっている",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月24日発表の2026年3月期（2025年3月21日〜2026年3月20日）決算短信〔日本基準〕（連結）によれば、売上高は1兆1,692億8,900万円（前期比+10.4%）、営業利益は5,957億5,900万円（同+8.4%、営業利益率51.0%）、経常利益は6,357億5,600万円（同+13.3%）、親会社株主に帰属する当期純利益は4,451億8,500万円（同+11.7%）だった",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "同じデータは、マシンビジョン世界大手の米Cognex（2025年通期売上USD9.94億）と比較して、キーエンスの米州事業規模がその2倍近くに達すると分析している",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスが2026年6月15日に開示した2026年3月期の有価証券報告書（第57期）によれば、平均年間給与は2,178万3,259円（平均年齢35.0歳、平均勤続年数11.3年）で、前期（2025年3月期・第56期、2,039万1,138円）から139万円増加し、5年連続で2,000万円を超えた",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞によれば、過去最高だった2023年3月期（2,279万円）には及ばないものの過去3番目の水準で、年間給与は10年前に比べて401万円増加している",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、PROVE DataLakeの海外市場データは、キーエンスのFY2024（2025年3月期）実績として売上約1兆円・営業利益率50%超・海外売上比率60%超をすでに記録しており、本稿はこの数値を起点に、上記の2026年3月期一次資料で最新の実績へ更新した",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に就任した名誉会長職は、取締役退任後も継続する",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "社長職は先に交代しており、2025年12月22日付で中野鉄也氏（当時44歳、2004年入社、2023年から海外事業強化部長）が代表取締役社長に昇格し、キーエンスにとって5代目の社長となった",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "直近の分割は2019年11月21日（1株を2株に）が最後で、2024年・2025年・2026年の株主総会でも具体的な実施予定は示されなかった",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場を持たない「ファブレス経営」で固定費を抑え、代理店を介さない「直販営業（グローバルダイレクトセールス）」で中間マージンを排除し、原価ではなく顧客が得る導入効果で値付ける「付加価値価格」を採用しているためです",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月12日開催の定時株主総会をもって取締役を退任しましたが、2015年に就任した名誉会長職は継続しており、経営陣への考え方の伝授は続けるとしています",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "INFORICHのキャッシュフロー5年推移｜成長企業のフェーズ変化を解説",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも製造業の工場が喜んで購入する理由は、その商品を導入することで工場側が「商品代金を大幅に上回る利益」を得られるからです",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "仮にキーエンスの商品を導入することで工場が年間1億円の利益を得られるなら、商品が2000万円でも「安い買い物」と判断されます",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の財布の紐は固いと言われますが、費用対効果（費やしたコストに対してどれだけのリターンがあるか）が明確であれば、高額でも決断するのです",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の工場を訪問し、生産ライン全体を把握した上で「ここを改善すれば年間これだけの利益が出ます」と提案する、コンサルタントとしての役割を担っています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "固定費の大幅な削減：",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の工場に足を運び、「このセンサーを使えば、不良品率が下がり年間〇〇万円のコスト削減になりますよ」と具体的なソリューションを提案します",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "5年後の予想株価",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間成長率 10%",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間成長率 5%",
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "pass": 3
+   },
+   {
+    "quote": "定価を決めずに徹底的に効果を売り込む姿勢、「1位にならないものは作らない」という独自の方針は、そのすべてが強気な価格設定を支える根拠となる",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "価格で売らずに効果を売る",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今の検査業務に何時間かかっているか、キーエンスの製品を導入するとそれがどう短縮されるかを計算し、その「効果」を徹底的に売り込むのだ",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、必ずしも取引先の要件が既製品では完全に満たせなくても専用開発は行わず、営業が既製品で出せる効果とコストパフォーマンスを取引先と握り、契約に結び付ける",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先に値段を提示するときには、前述の「効果」がよりどころとなる",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、今は品質検査に３時間かかっているが、キーエンスの機械を導入すると30分で済む",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "2時間半の作業がなくなり、その分、労務費が削減できる",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "その効果を見込めば、2000万円の機械は何年でペイする、といった具合だ",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの効果のストーリーを軸に、なぜキーエンスの製品を今購入する必要があるかを分かりやすく整理する",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "導入の前と後での生産性の違い、機械の老朽化による品質低下・安定稼働リスク、相見積もり先の製品名と効果の差など、キーエンスの製品の良さを決裁権を持つ人に理解してもらい、現場の担当者に機械を利用してもらえるよう、手厚くフォローする",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "購買部門も現場の担当者の意向を無視することはできず、しかも稟議書が分かりやすく、導入のメリットが受け入れられれば、価格の絶対値が高いか安いかは大きな問題にならないのだ",
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の有価証券報告書では、単体の平均年間給与は2178万3259円、従業員数は3306人、平均年齢は35.0歳でした",
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとっては、装置価格よりも、不良削減や停止時間の短縮、検査精度の向上によって得られる便益が購買判断の中心になり得ます",
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争だけで選ばれる製品ではなく、導入後に現場の成果へつながる商品を増やせるかどうかが、粗利率を左右します",
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "pass": 3
+   },
+   {
+    "quote": "平均年間給与2178万円は、同じ分母で計算した1人当たり粗利の約10.7％に相当します",
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの平均年間給与は、前期の2039万1138円から約6.8％上昇しました",
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の親会社株主に帰属する当期純利益は4452億円、年間配当金総額は1334億円でした",
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計 読み込まれました",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業の平均営業利益率が5%前後であることを考えれば、キーエンスの数字は「異常値」だ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "「利益率が高くなるように、価格の決め方そのものを設計している」",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造業は「原価＋利益＝価格」で値段を決める",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの価格決定は、製造業の常識を覆している",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "日経BOOKプラスの分析によれば、キーエンスの営業担当者は顧客の工場に入り込み、",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "「今の検査業務に何時間かかっているか」「キーエンスの製品を導入するとそれがどう短縮されるか」",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者には売上目標はなく、利益目標しかない」",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者は、導入前と導入後での生産性の違い、機械の老朽化による品質低下リスク、相見積もり先の製品との効果の差を整理し、「この製品を導入する経済合理性」を稟議書レベルで提示する",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "購買部門が値段の絶対値だけで判断できない構造を、営業プロセスの中に組み込んでいるのだ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "これは管理会計の根幹に関わる設計だ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格から製造原価を引いた粗利が80%なければ、それは『価値の低い商品』を意味し、市場に出すことは許されない」とされている",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なメーカーでは、商品を開発し、製造し、販売してから「利益が出たかどうか」を確認する",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "では、製造業のお客さんにセンサや測定器（電機機器）を販売するキーエンスの利益率はどのくらいでしょうか？",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "原材料（製造費含む） 15%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "管理部門こそ「ストーリーとしての競争戦略」を描け",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、廃エアコンからレアアース回収 再資源化で新規調達35％削減",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "地銀がサイバー防衛で共同戦線 九州など13行、システム調達で協力",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある製造現場で作業者が特定の検査工程で何度も立ち止まっているのに気づいたとする",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "商品説明型営業なら、「では弊社の検査装置はこういう機能があります」と始める",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの検査工程の例で言えば、表面のニーズは「確認作業に時間がかかる」だ",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし掘り下げると、「ラインが止まって生産性が落ちている」「ミスが出荷後に発覚してクレームになっている」「品質管理の仕組み全体を見直したい」という本質的な課題が見えてくる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "だから相見積もりをされない",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスに学んだ仕組みの核心は、目標設計にある",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "価値訴求せざるを得ない状態が、目標設計によって自然と生まれているのだ",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "予算の都合なのか、競合の価格が見えているのか、社内の購買ルールなのか",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "これらはすべて、組織として設計し、全員が実践できる仕組みにできる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "そこを掘り下げないまま見積を出すから、最後は価格でしか戦えなくなる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "値引き要求が来てから対応するのではなく、値引きが不要な状態を事前に設計するというのは、まさに現場起点経営の発想だと感じます",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "営業・設計・施工をバラバラの個別最適で回すのではなく、受注前の一言が施工の利益率まで貫く統合最適化として捉え直す",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "コメントにあった評価制度の設計とも重なりますが、優秀な一人の営業に依存する状態こそが最大のリスクであり、仕組みに落として初めて高収益は持続するのだと感じます",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、横展開せざる負えない評価制度の設計が大事なのかもしれません",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "「決める」ための調査設計・段階別の調べ方",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "参入戦略・売り出し方の設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業の仕組み・組織設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい価値を生む、人と組織の設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "市場と顧客の事実から、新商品・ブランド・施策の勝ち筋を設計します",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "刺さる理由を事実で設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・設計・指揮はSellwell、実装はグループのUDX",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "事業の文脈からデジタルを設計します",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル戦略の設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "リードエンジン設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "診断・Web装置の企画設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・設計＝",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "問いの設計と実現に価値が寄る",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "「決める」ための調査設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "人と組織の設計",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスは「製造業」というより「コンサル業」に近い",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な製造業は、生産性を高め、大量に販売し、利益を確保するというビジネスモデルです",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単なる製造業というより、“課題解決型コンサル企業”が本質とみることができます",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業では、営業利益率は",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業の平均的な粗利率は20％程度であり、キーエンスはまったく別次元の水準です",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "一般の製造業は、商品の開発・設計・製造に特化しており、商品販売は販売会社や代理店が行うため、製造業とエンドユーザーには距離が生じてしまいます",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスは世界46ヵ国250拠点で事業を展開していますが、専門知識を持った営業担当者が顧客の製造現場に直に足を運び、抱えている課題やニーズをくみ取り課題解決に当たるという直販体制を貫いています",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスは、自社で大規模な製造ラインを持たない「ファブレス経営」を採用しています",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "ファブレス経営は、商品開発において、特定の会社の製造技術や特徴に制限を受けることなく、顧客ニーズへの対応の幅を広げることを可能にします",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "また、これにより、キーエンス自体は商品の企画、開発、設計に経営資源を集中することができます",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者が顧客現場を細かく分析し、",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計 読み込まれました",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率51.9%",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率83.8%",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業の平均営業利益率が5%前後であることを考えれば、キーエンスの数字は「異常値」だ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期に売上高は初めて1兆円を突破し、なお営業利益率50%超を維持している",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆるコストプラス方式だ",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "工数の削減、不良率の低下、ラインの停止時間の短縮、を算出し、その価値の一部を価格にする",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "この「バリューベース・プライシング」が、粗利率83.8%を支える最大の要因だと考えられる",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "価格決定、商品企画基準、P&L構造、時間あたり付加価値",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なメーカーは「原価＋利益＝価格」というコストプラス方式で値段を決める",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "価格は常に「コスト」に引きずられる",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "「今の検査業務に何時間かかっているか」「キーエンスの製品を導入するとそれがどう短縮されるか」",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "ASSIGNメディア「営業利益率50%キーエンスの戦略」：",
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の場合は、場所やお店の雰囲気、提供時間（早い！とか）も付加価値になると思います",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "厳密には、ここに場所代や開発費、人件費などが加わります",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "飲食の場合、一般的に原価率は30-40%程度といわれます",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "つまり粗利率は70-60%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、ここから家賃、人件費、広告宣伝費がかかり、最終の営業利益は数%になるようです",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "カード決済手数料が3%などかかるだけで、最終の営業利益がなくなってしまうためです",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "原材料（製造費含む） 15%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "→ 売上(100%) - 原材料(15%) = 粗利率 85%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "販売管理費（人件費含む） 30%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "→ 粗利率(85%) - 販売管理費(30%) = 営業利益率 55%",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な電気メーカの営業利益率は3-5%ですから、驚異的な数字です",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "しかもこの価格設定が絶妙で、導入することで、その会社の不良率が下がったり、人件費が削減できたりします",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、費用対効果がハッキリするのです",
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズてんこ盛りで高コストの罠 キーエンス流「引き算」企画に転換を",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "pass": 3
+   },
+   {
+    "quote": "聴いてみると「この確認作業、毎回時間がかかって困っている」と言う",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "「なぜ時間がかかっているのか」を掘り下げる",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの検査工程の例で言えば、表面のニーズは「確認作業に時間がかかる」だ",
+    "url": "https://newspicks.com/news/16823489/body/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスとは何の会社か｜「直接販売」と製品戦略が支える営業利益率51%｜セルウェル",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "費用目安・ご依頼",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスとは何の会社か｜「直接販売」と製品戦略が支える営業利益率51%",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期、営業利益率51.0%",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場を持たない「ファブレス経営」、代理店を通さない「直販営業」、注文当日に商品を届ける「全商品当日出荷」という三つの独自モデルが、上場企業平均（7%前後）の7倍を超える利益率を生み出している",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期売上高（前期比+10.4%）｜",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この時すでに、原価ではなく顧客が導入によって得る効果（コスト削減額）で値付けるという、後年「付加価値価格」と呼ばれる価格戦略の原型が据えられていた",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "1982年、営業利益率20%の祖業を切り捨ててセンサー事業に集中投資した決断",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ業界解説サイトによれば、滝崎武光氏は当時の主力事業だった自動線材切断機（営業利益率20%）を、新たに立ち上げていたセンサー事業（営業利益率40%）と比較し、「利益率が低い」という理由だけで他社へ譲渡した",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "土地・建物・生産設備への投資を抑えることで、キーエンスは同じ売上規模の製造業に比べて従業員数・固定費が少なく済む構造を持つ（日本経済新聞によれば2026年3月期の売上高総利益率＝粗利率は83%、すなわち原価率は17%程度で、FA製品分野で競合するファナック（38%）・三菱電機（32%）の粗利率を大きく上回る）",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の生産ラインは、センサーや測定器の欠品が起きると数時間の停止だけで大きな損失につながる",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "この「顧客の時間を守る」投資こそが、価格競争ではなく提案力で選ばれる関係を築く土台になっている",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期、売上1兆1,692億円・営業利益率51.0%という5期連続の最高益",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月24日発表の2026年3月期（2025年3月21日〜2026年3月20日）決算短信〔日本基準〕（連結）によれば、売上高は1兆1,692億8,900万円（前期比+10.4%）、営業利益は5,957億5,900万円（同+8.4%、営業利益率51.0%）、経常利益は6,357億5,600万円（同+13.3%）、親会社株主に帰属する当期純利益は4,451億8,500万円（同+11.7%）だった",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "国内売上高は3,900億6,600万円（+4.6%）、海外売上高は7,792億2,200万円（+13.5%）で、海外売上高比率は前期比1.8ポイント高い66.6%まで上昇した",
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率とは、売上高から製品の直接的な原価を差し引いた「粗利」が売上高に対してどの程度あるかの割合を示すものであり、「どれだけ高付加価値で販売できているか」を測ることができます",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、人件費をはじめとする販管費が増加していることが原因ですが、人材投資は、キーエンスの高収益維持に必要不可欠な先行投資という側面もあります",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスとは何の会社？｜平均年収2000万・営業利益率50%超の秘密を初心者向けに解説",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収は2000万円以上、営業利益率は50%超、原価率はわずか20%——いずれも日本の製造業の常識をはるかに超えた数字です",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ原価率20%・粗利80%という驚異的な数字を実現できているのか",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "海外売上比率は約60%に達しており、グローバルな企業でもあります",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの数字｜原価率20%・粗利80%とはどういう意味か",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの財務的な特徴として特に目立つのが、原価率20%・粗利80%という数字です",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "「原価率」とは、商品を販売したときに、その商品を作るのにかかったコスト（原材料費・製造費など）が売上に対して何%を占めるかを示す指標です",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば10万円で売れる商品の原価が2万円なら、原価率は20%になります",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の原価率は一般的に60〜70%程度が相場です",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばトヨタや本田技研の場合、売上に占める製造コストは60〜70%程度とされています",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスはその3分の1以下、わずか20%です",
+    "url": "https://forwit.jp/company/keyence_1/",
+    "pass": 3
+   }
+  ],
+  "できる・できない": [
+   {
+    "quote": "商品の特性とマッチした技術、生産ラインを持つ工場を協力会社のなかから選択し、顧客課題に最適化した商品を柔軟且つ素早く投入できることが強みです",
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、意識が将来に向いていない状態です",
+    "url": "https://plus.jmca.jp/kenbun/kenbun2402.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした事態を招かないように注意しつつ、お客様の課題を解決できることこそが、「キーエンスの営業力の高さ」に繋がっているのではないかと思います",
+    "url": "https://jbpress.ismedia.jp/articles/jir-print/75571",
+    "pass": 3
+   },
+   {
+    "quote": "土曜の海外企業分析は今後の定例対象外です",
+    "url": "https://note.com/hr793/n/nb3de8687ef54",
+    "pass": 3
+   },
+   {
+    "quote": "開発、営業、物流、サポート、組織設計が同じ方向を向いている必要があります",
+    "url": "https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、拡張には制約もあります",
+    "url": "https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ここが成長の制約になります",
+    "url": "https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「試した」「効果が出た」「納期リスクが低い」「サポートがある」「失敗時の損失を避けられる」と説明できることが重要です",
+    "url": "https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "高 付加価値 経営とは｜ キーエンス の 利益 率51％の理由 — 高 付加価値 経営とは｜ キーエンス の 利益 率51％の理由 株式会社オムニモスーク https://www.omnimosouq.jp > high-value-added-manage...",
+    "url": "https://www.omnimosouq.jp/high-value-added-management/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/michy0803/n/n4e33a45028d7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/16823489/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellwell.jp/column/marketing/keyence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/company/keyence_1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shisan-invest.com/entry/keyence2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newshub.jp/articles/keyence-salary-gross-profit-productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://napoblog.com/%E3%82%AD%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B9%E3%81%AE%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%AF%EF%BC%9F%E5%BC%B7%E3%81%95%E3%81%AE%E7%A7%98%E5%AF%86%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plus.jmca.jp/kenbun/keyence01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizhint.jp/report/912217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plus.jmca.jp/kenbun/kenbun2402.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/78594",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jbpress.ismedia.jp/articles/jir-print/75571",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omnimosouq.jp/high-value-added-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence-jobs.jp/about/numbers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hr793/n/nb3de8687ef54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alphaquery.com/stock/KYCCF/fundamentals/annual/gross-margin",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.macrotrends.net/stocks/charts/KYCCF/keyence/gross-margin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morningstar.com/company-reports/1219908-keyence-earnings-record-gross-margin-from-value-added-solutions-amid-macro-headwinds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investing.com/equities/keyence-ratios",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/KYCCF/key-statistics/",
+    "status": "http_404",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キーエンスの付加価値の値付けと粗利",
+   "results": [
+    "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "https://note.com/michy0803/n/n4e33a45028d7",
+    "https://www.youtube.com/watch?v=XD9cE-J0-IU",
+    "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "https://newspicks.com/news/16823489/body/",
+    "https://sellwell.jp/column/marketing/keyence/",
+    "https://www.keyence.co.jp/investor/philosophy/",
+    "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "https://www.keyence-jobs.jp/about/numbers/",
+    "https://napoblog.com/キーエンスの付加価値とは？強さの秘密を徹底解/"
+   ]
+  },
+  {
+   "query": "キーエンスの付加価値の値付けと粗利 仕組み 解説",
+   "results": [
+    "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "https://www.youtube.com/watch?v=XD9cE-J0-IU",
+    "https://newspicks.com/news/16823489/body/",
+    "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "https://forwit.jp/company/keyence_1/",
+    "https://note.com/michy0803/n/n4e33a45028d7",
+    "https://www.youtube.com/watch?v=eXcGz-8ycUY",
+    "https://sellwell.jp/column/marketing/keyence/",
+    "https://www.keyence.co.jp/investor/philosophy/",
+    "https://shisan-invest.com/entry/keyence2026"
+   ]
+  },
+  {
+   "query": "キーエンスの付加価値の値付けと粗利 インタビュー",
+   "results": [
+    "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "https://www.youtube.com/watch?v=XD9cE-J0-IU",
+    "https://note.com/michy0803/n/n4e33a45028d7",
+    "https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/",
+    "https://plus.jmca.jp/kenbun/keyence01.html",
+    "https://www.youtube.com/watch?v=eXcGz-8ycUY",
+    "https://www.keyence.co.jp/investor/business-model/",
+    "https://www.financial-statements.site/financial-analysis-of-keyence/",
+    "https://bizhint.jp/report/912217",
+    "https://www.youtube.com/watch?v=CumA6QIJSYk"
+   ]
+  },
+  {
+   "query": "キーエンスの付加価値の値付けと粗利 事例",
+   "results": [
+    "https://lp.zaimo.ai/knowledge/keieikannri0407",
+    "https://www.youtube.com/watch?v=XD9cE-J0-IU",
+    "https://www.omnimosouq.jp/high-value-added-management/",
+    "https://note.com/michy0803/n/n4e33a45028d7",
+    "https://newspicks.com/news/16823489/body/",
+    "https://bookplus.nikkei.com/atcl/column/110200315/110200002/",
+    "https://www.youtube.com/watch?v=eXcGz-8ycUY",
+    "https://www.keyence.co.jp/investor/philosophy/",
+    "https://www.keyence-jobs.jp/about/numbers/",
+    "https://shisan-invest.com/entry/keyence2026"
+   ]
+  },
+  {
+   "query": "Keyence value pricing gross margin",
+   "results": [
+    "https://www.alphaquery.com/stock/KYCCF/fundamentals/annual/gross-margin",
+    "https://www.macrotrends.net/stocks/charts/KYCCF/keyence/gross-margin",
+    "https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en",
+    "https://www.morningstar.com/company-reports/1219908-keyence-earnings-record-gross-margin-from-value-added-solutions-amid-macro-headwinds",
+    "https://www.investing.com/equities/keyence-ratios",
+    "https://finance.yahoo.com/quote/KYCCF/key-statistics/",
+    "https://www.youtube.com/watch?v=FDWzNuS8Ihw",
+    "https://www.gurufocus.com/stock/KYCCF/summary",
+    "https://www.keyence.co.jp/investor/en/business-model/",
+    "https://www.investing.com/pro/OTCPK:KYCC.F/explorer/gp_margin"
+   ]
+  }
+ ],
+ "missing": {}
+}

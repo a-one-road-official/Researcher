@@ -1,0 +1,2278 @@
+{
+ "name": "ものづくり企業の見積・調達工程の時間と費用",
+ "en": "quotation procurement process time manufacturers",
+ "aliases": [
+  "見積業務 工数",
+  "調達 購買 業務 時間",
+  "見積 作成 時間"
+ ],
+ "context": "工程",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:30:26.868093+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "【コラム】【保存版】製造業の見積方法を理解し、精度と効率を高める｜製造業向けソリューション GrowOneSupreme",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】製造業の見積方法を理解し、精度と効率を高める",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積り業務のスピードアップだけでなく、最適なコスト管理と適正な利益確保を行うための方法を学び、業務改善",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 見積りの基本プロセスを押さえよう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.1. 図面から工数を計算する方法",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積りの正確さは、顧客の安心感や信頼につながる面が大きく、見積段階での誤差が後々のトラブルやコスト超過につながる可能性もあるのです",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "確実なプロセスを身につけましょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "この段階で情報を正確に収集しないと、後続のプロセスで何度も手戻りが発生してしまいます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "全体的な工程の流れを理解していれば、部品選定などもスムーズに行え、抜け漏れを防ぎやすくなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの作業プロセスが標準化されていれば、属人化も防ぎやすくなり、見積りを担当する人が変わっても精度を保ちやすくなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、見積りのプロセスを一元管理することで、過去の実績データから改善点を抽出しやすくなるのも大きなメリットです",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした仕組みを整備すれば、担当者が変わっても一貫性の高い見積りが行え、企業全体のノウハウの蓄積と共有が進むでしょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "図面ベースの見積りでは、形状や寸法に加えて仕上げ方法などの情報も重要な要素となります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、切削加工から塗装まで一連の工程を含む場合、全体の流れを正しく把握したうえで各工程のコストを積み上げる必要があります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価計算をしっかり行うと、見積り段階での価格設定だけでなく、プロジェクト完了後の収支分析にも役立ちます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における見積業務の効率化をお考えではありませんか？多くの製造業者にとって、見積業務は受注の可否を左右する重要なプロセスでありながら、同時に大きな時間と労力を要する課題でもあります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務とは、取引先からの依頼に基づいて製品やサービスの価格を算出し、見積書を作成して提出するまでの一連のプロセスを指します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における見積業務は、主に以下の4つの段階で構成されています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "これらの段階を確実に実行することで、効率的かつ効果的な見積業務が実現できます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、見積業務のプロセス改善や、デジタル化による効率化など、継続的な取り組みが求められています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "個人の暗黙知に依存した業務プロセスは、新しい担当者への引き継ぎに多大な時間と労力を要します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "また、見積書の承認プロセスの遅延は、ビジネスチャンスを逃す原因となる可能性があります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "これは、承認プロセス全体の遅延を引き起こす主要因の一つです",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、アナログな業務や管理方法が原因で、見積書の発行プロセスが非効率性になることも、多くの製造業企業が直面している問題です",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "・手動プロセスの非効率性",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "これらの問題を解決するためには、デジタル技術の活用やプロセスの標準化、そして社内の情報共有体制の改善が不可欠です",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が直面する見積業務の煩雑さや時間的制約を解決するための最も効果的な方法として、システムの導入が挙げられます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "・一元化された見積プロセス",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "システムの導入により、見積書の作成から承認までの全プロセスをデジタル環境で完結させることが可能になります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "・承認プロセスの迅速化",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり金額や工期が自社の要望と合致していれば、発注するという流れになります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "また、リピートする場合は、初期製作の時点で1ロット余分に製作して在庫としておき、リピート発注の都度在庫から納入する事で、双方ともに納期に追われなくて済むという方法も考えられます",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "コストを抑えたいのであれば、しっかりと相手に誠意をもって伝え、一緒にコストダウンの方法を考えてもらう方が双方にとって生産的な姿勢と言えます",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの詳細や相談方法は公式サイトへ",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "複数の少量生産工場の見積書を比較する際の実務手順",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "同じ図面と数量で複数の工場に見積もりを依頼しても、材料調達の範囲、検査方法、二次加工の有無、梱包や輸送の扱いによって、提示される内容は異なります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "調達担当者、設計担当者、生産管理担当者が実務で活用できるように、確認する理由、見落としやすい条件、工場への具体的な確認方法まで紹介します",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "工場探しの段階から見積条件の透明性を確認しておくことで、発注側と工場側が共通の認識を持ち、安定した取引につなげやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、試作段階では少数だけ製造し、評価が完了した後に追加で発注するケースがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "発注側が複数回の納入を希望する場合、工場が一括製造して保管する方法と、納入のたびに製造する方法では負担が異なります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、同じ部品名称であっても、材質、寸法公差、表面粗さ、幾何公差、熱処理条件などによって必要な加工方法や検査内容が変わります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "見積時にその要求が十分に伝わっていなければ、後から加工方法の見直しが必要になる可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "薄肉形状、深い穴、細長い部品、変形しやすい材料などは、加工条件や保持方法に制約が生じることがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "製造開始後に特殊な保持方法や追加工程が必要と判明すると、当初の見積条件から変更される場合があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば、見積段階で加工上の懸念点を工場から提示してもらうことが有効です",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "特に、初回製作では加工方法の検討や加工プログラムの作成、工具選定などに時間が必要になる場合があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "製品形状や加工条件によっては、汎用的な固定方法では対応できず、専用治具を準備する必要があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "見積段階では既存治具の使用を想定していても、実際に製造条件を確認した結果、新たな治具が必要になる場合があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定とは？調達・購買業務における査定の方法やプロセスの全体像を解説",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "調達購買業務における見積査定は、適正価格の設定や品質確保、企業の競争力向上に不可欠なプロセスです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーから提出された見積書の価格や条件を精査し、適正な取引を実現するために、査定の手法やプロセスを理解することが重要です",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "「見積査定プロセスのあるべき姿とは」資料ダウンロードはこちら",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定とは、調達・購買担当者がサプライヤーから提出された見積書の内容を精査し、適正価格かどうかを判断するプロセスです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定は、調達・購買担当者が適正価格で製品を調達するための重要なプロセスです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定のステップ",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定のステップを図式化すると、下記図のように複数のステップを経て進められることがわかります",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定プロセスの全体像",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりには様々な目的があり、初期段階の検討から発注先選定のためのもの、量産品の変更など、その目的に応じた適切な対応を行う必要があります",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "新規部品 検討段階",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "製品化未決定の段階での見積",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "製造業は取引先の仕様や要望を詳細に反映する必要があるため、見積りは単なる価格提示だけではなく、品質や納期の考慮も含む包括的な情報を示します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "図面を正しく読み取るスキルが要求されるため、現場経験が豊富な担当者のノウハウ蓄積が大切です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場における不確定要素をどこまで考慮に入れるかも重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "運用が現場と乖離していると、せっかく導入しても定着せず、結果的に現場が手作業に戻ってしまうケースもあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、導入後のサポート体制や操作性も含め、現場での使いやすさを最優先に検討しましょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、スクラッチ開発は自社の細かなニーズに合わせてシステムを構築できますが、開発期間や保守コストが高くなる可能性もあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "多様化する顧客ニーズやコスト変動に柔軟に対応するには、常に最新の情報を取り込み、改善を繰り返しながら見積りプロセスを進化させていくことが重要になります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の見積業務を見直す第一歩として、「GrowOneSupreme」の活用をご検討ください",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場・経営に役立つ資料を厳選！",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場での課題解決や業務効率化のヒント、生産性向上にお役立ていただけることを目指し、情報発信していきます！",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "蓄積されたデータを分析することで、価格戦略の最適化や顧客ニーズの把握など、ビジネス戦略の立案に活用することができます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積原価とは？製造原価との違いや現場とのズレを解消する方法",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "【第19回 東京開催】TECHSユーザー企業様限定！現場のリアルがつながる、学びと交流の一日 「てくのわ交流会」",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "【第20回 岡山開催】TECHSユーザー企業様限定！現場のリアルがつながる、学びと交流の一日 「てくのわ交流会」",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり金額や工期が自社の要望と合致していれば、発注するという流れになります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "見積依頼の仕方によっては、本来は不要なやり取りが発生したり、認識の不一致によって要望とは異なるものができてしまったりといったトラブルも発生しがちです",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "希望する仕上がり具合など図面だけでは伝わりにくい要望があれば、",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場から褒められる部品設計の秘訣",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026.07.17 書籍出版 経済の現場から統計データで見る インフレ日本の安い賃金",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、工場の選定や製造設備の設置を伴う案件では、見積書や図面による条件確認に加えて、現場の状況を記録し、関係者が同じ情報を共有できる環境を整えることも有効です",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、工場設備の設置場所、搬入経路、施工状況、現地確認時に発見した課題などを写真や位置情報とともに記録しておけば、後から現場条件を確認する際の参考になります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "現場写真・位置情報・施工記録を管理するLRTK Phoneは、このような現場情報の記録と整理に活用できるツールです",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場を探す際には、見積書の数字だけでなく、製造条件、追加費用の発生条件、現場で確認すべき事項まで整理し、発注後の認識違いを防げる体制を整えていきましょう",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "また、加工方法や現場を理解した上で現実的なチャレンジ目標を作成し、さらなるコスト削減に挑むのもサプライヤー間の競争を加速させる良い手法です",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場で起こる業務課題を整理し、実務に取り入れやすい形で分かりやすく伝えることを大切にしています",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の現場「プラポート」から生まれたSellBOTの誕生背景",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに合う製品構成を一人では判断できず、技術担当者に確認する",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "という絞ったやり方が、現場の負担を最小限にしながら効果を出しやすい方法です",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "見積りに時間を取られると、新規のお客様への訪問や既存のお客様へのフォローに使える時間が減ります",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "本来の営業活動（訪問・提案・関係構築）に使えるはずの時間が見積り作業に消えていく構図が、気づいたら当たり前になってしまっています",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場事例でご紹介します",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者の顧客訪問回数：月平均15回 → 月平均22回（47%増加）",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "見積りにかかる時間が減ったことで、営業担当者がお客様訪問に使える時間が増え、受注率も上がったという“良い連鎖”です",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "4つのAI機能の組み合わせで、製造業の見積り現場を変える",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "SellBOTは当社グループ会社・株式会社プラポート（樹脂精密加工）の現場課題から生まれたツールです",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "「図面を読んで見積りを出す」作業を毎日やってきた製造業の現場感覚が設計に入っています",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工の見積り現場でよく聞く話です",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "【事例あり】現場の課題を解決！ 製造業における属人化解消の方法とは？",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "これらを読んで「まさにウチの現場のことだ…」と感じる企業様もいらっしゃるのではないでしょうか",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場での課題解決や業務効率化のヒント、生産性向上にお役立ていただけることを目指し、情報発信していきます！",
+    "url": "https://www.techs-s.com/media/show/132",
+    "pass": 3
+   },
+   {
+    "quote": "見積原価とは？製造原価との違いや現場とのズレを解消する方法",
+    "url": "https://www.techs-s.com/media/show/132",
+    "pass": 3
+   },
+   {
+    "quote": "【第19回 東京開催】TECHSユーザー企業様限定！現場のリアルがつながる、学びと交流の一日 「てくのわ交流会」",
+    "url": "https://www.techs-s.com/media/show/132",
+    "pass": 3
+   },
+   {
+    "quote": "【第20回 岡山開催】TECHSユーザー企業様限定！現場のリアルがつながる、学びと交流の一日 「てくのわ交流会」",
+    "url": "https://www.techs-s.com/media/show/132",
+    "pass": 3
+   },
+   {
+    "quote": "鋼材、アルミ、ステンレス、銅、真鍮などの材料に対応し、単品試作、小ロットから量産まで、図面とご要望を確認したうえで加工工程を検討します",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "宝栄工業では、図面とご要望を確認し、部品ごとに必要な加工工程を検討します",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに寄り添い、確かな技術と誠実なものづくりで信頼を築いています",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "また生産や検査、出荷など他部門との橋渡し役として現場が円滑に動くようサポートできる点も魅力です",
+    "url": "https://asahi-gp.com/interviews/interview-purchase/",
+    "pass": 3
+   },
+   {
+    "quote": "多文化の現場で力を磨く",
+    "url": "https://asahi-gp.com/interviews/interview-purchase/",
+    "pass": 3
+   },
+   {
+    "quote": "公式FAQでは、課題や要望を聞いたうえでプラン・料金を案内するとしています",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "調達現場100社へのヒアリングと、20問のセルフチェックを収録しています",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "成形ケミカル・現場ツール・保全",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "現場保安用品",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "現場内事務・照明用品",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "現場事務備品・家具",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "現場内事務・照明用品のカテゴリを全て見る",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "現場清掃用品",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ロボット溶接、大型品の切削加工などの加工技術や、塗装・表面処理などの加飾技術まで幅広くカバーし、お客さまのさまざまな要望に応えることを心がけています",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミをご利用いただく中で、便利に感じてらっしゃることやご要望はございますか？",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "久保寺さま：ミスミに対しての要望としましては、大きく分けて二つございます",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "例えばパンチ、ボタンダイはもっと径の大きいもののニーズがあります",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "正確なコスト把握と適切な価格設定が、企業の収益力強化につながります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は取引先の仕様や要望を詳細に反映する必要があるため、見積りは単なる価格提示だけではなく、品質や納期の考慮も含む包括的な情報を示します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとっては価格だけでなく、どの程度の期間でどのような品質水準が実現できるかも重要な比較基準になります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との交渉時には、価格だけでなく納期や仕様変更など、多面的な調整が必要になります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、競合他社との価格競争において、過度に安い価格を提示して赤字を招くリスクや、高すぎる価格設定による受注機会の損失も最小限に抑えられます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価計算をしっかり行うと、見積り段階での価格設定だけでなく、プロジェクト完了後の収支分析にも役立ちます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年は海外取引や原材料の国際価格変動などが激しく、リアルタイムにコストを監視していかないと、利益率を確保しにくい状況が起きやすくなっています",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたテクノロジーと連携することで、価格交渉や納期設定もより現実的かつ柔軟に行えるようになります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムと人的判断をうまく組み合わせることで、費用対効果の高い見積りプロセスを確立できるでしょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務を単なる「価格を出す作業」から、利益を生み出すための仕組みへ",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務とは、取引先からの依頼に基づいて製品やサービスの価格を算出し、見積書を作成して提出するまでの一連のプロセスを指します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の要求仕様に基づき、原材料費、人件費、諸経費などを考慮して適切な価格を算出し、見積書を作成します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "適切な価格設定と素早い対応は、競合他社との差別化要因となり、ビジネスチャンスを逃さない重要な要素となります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "これは、一貫性のある価格設定を困難にし、企業の信頼性にも影響を与える可能性があります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "蓄積されたデータを分析することで、価格戦略の最適化や顧客ニーズの把握など、ビジネス戦略の立案に活用することができます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務の効率化は、単なるコスト削減だけでなく、迅速な顧客対応や正確な価格設定を通じて、ビジネスチャンスの拡大にも寄与します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "以前のように価格据え置きの商習慣ではなくなりつつありますし、材料費や、工程もその都度変化する場合があります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争を繰り返してきたような受託製造業者ほど淘汰が進み、高付加価値化を目指す企業が増えてきたのも特徴的です",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の付加価値経営",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "調達：企業経営と値付けの関係",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "調達購買業務における見積査定は、適正価格の設定や品質確保、企業の競争力向上に不可欠なプロセスです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーから提出された見積書の価格や条件を精査し、適正な取引を実現するために、査定の手法やプロセスを理解することが重要です",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、査定の基本的な進め方、価格の評価基準、交渉ポイントなど、調達・購買業務における査定の全体像を分かりやすく解説します",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定とは、調達・購買担当者がサプライヤーから提出された見積書の内容を精査し、適正価格かどうかを判断するプロセスです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "査定では、材質・加工工程・工数・品質・納期などを基に、価格の妥当性を評価します",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定は、調達・購買担当者が適正価格で製品を調達するための重要なプロセスです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "適正価格での査定を通じて、公正かつ合理的な取引を実現し、双方にとってメリットのある契約を締結することが求められます",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため調達・購買担当者には、価格の妥当性を判断するスキルを持ち、品質や納期といった価格だけにとらわれない総合的な判断力と交渉力が必要とされます",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積とは、契約合意に必要な価格や条件が記載された書面やデータを指します",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーから提出される見積書の価格はあくまで見積値であり、サプライヤーの原価そのものではありません",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "調達購買担当者は、その価格が妥当であるか、材質・加工工程・工数・品質・納期などの観点から査定を行い、適正な価格交渉を実施する必要があるため、価格の妥当性を見極めるスキルが問われます",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "候補サプライヤーを選定するが、価格合意までは行わない",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "価格合意がバイヤーの腕の見せ所となる",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "材料建値や為替の変動を量産価格に織り込むために行う見積",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "図面や品質、数量の前提条件が異なる場合は価格に影響するため、即サプライヤーに差し戻し、再見積を依頼します",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業やBtoB企業では、取り扱う製品やサービスの種類が多岐にわたり、それぞれに細かい仕様や価格体系が存在します",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "製品コードや価格の検索、割引率の確認、過去の類似案件の照会…",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "見積書は単なる価格を伝える書類ではなく、会社の姿勢と能力を見せる最初の機会でもあります",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用ポンプメーカー（従業員300名・製品2,000種類）では、製品選定→仕様確認→価格計算→技術確認で平均5日かかっていた見積りが、作成の仕組みを改善したことで",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "「過去データを参照できる仕組み」と「価格計算の自動化」にあります",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "「削減率90%が達成できたら月8.4万円・年間100万円以上が戻ってくる」という形で出せば、費用対効果の議論ができます",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "原材料費や在庫状況などの最新のデータを常に管理しておくことで、顧客との価格交渉も効率化が可能になります",
+    "url": "https://www.techs-s.com/media/show/132",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の見積もりはなぜ会社ごとに違う？材料費・加工時間・数量・公差で価格差が出る理由 | 宝栄工業株式会社｜広島市の金属加工・NC旋盤・マシニング対応",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の見積もりはなぜ会社ごとに違う？材料費・加工時間・数量・公差で価格差が出る理由",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "材料費だけでなく、使用する設備、加工工程、段取り時間、製作数量、要求される公差、検査方法など、さまざまな条件が価格に影響するためです",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金属加工の見積もりを構成する費用、会社によって価格差が生じる理由、品質を保ちながらコストを見直すポイントを解説します",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "価格差は、加工会社の良し悪しだけでなく、その案件と設備・技術の相性によっても生じます",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "同じステンレスやアルミでも、鋼種や合金番号が異なれば価格や調達性は同じではありません",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の価格を左右する7つの条件",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "材料そのものの価格だけでなく、削りやすさ、工具への負担、変形のしやすさも加工費に影響します",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "材質を変更できる場合でも、価格だけで決めてはいけません",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "数量を増やせば1個当たりの価格は安くなりますか？",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム作成や初回段取りの費用を分散できるため、数量が増えると1個当たりの価格を抑えやすくなります",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを比較するときは、価格だけで判断せず、材料規格、加工範囲、検査内容、納期などの条件がそろっているか確認しましょう",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "初期段階でしっかりと費用対効果がでたので、まずはやってみようとスムーズに導入を進めることができました",
+    "url": "https://leaner.jp/usecase/showaglove",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務の一部における業務工数の削減効果は、約65％に達しました",
+    "url": "https://leaner.jp/usecase/showaglove",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、見積承認を求められた際、「この価格交渉はきちんと行われたのかな？」といった疑問を持ったとしても、チャットの履歴を見れば、どのような会話や確認がなされたのかをわざわざ担当者に聞かなくても自分で把握できるため、安心して承認作業を進めることができます",
+    "url": "https://leaner.jp/usecase/showaglove",
+    "pass": 3
+   },
+   {
+    "quote": "価格・納期・回答条件の比較",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに加工品を調達し、過去に似た部品をどこへ依頼したか、どの価格で発注したかを調べる機会が多い企業に向いています",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "3. ニトエル見積｜見積データの蓄積から、価格の査定・分析まで支援",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   }
+  ],
+  "できる・できない": [
+   {
+    "quote": "生産管理システムでできること",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が、リアルタイムでの見積書承認ができないことを課題として認識しています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が直面する見積業務の煩雑さや時間的制約を解決するための最も効果的な方法として、システムの導入が挙げられます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目1：見積数量と生産ロットの前提条件を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で最初に確認したいのが、見積数量と生産ロットの前提条件です",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、穴加工やねじ加工が別工程として扱われている場合、見積書に記載された加工名称だけでは、その作業が含まれているか判断できないことがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "薄肉形状、深い穴、細長い部品、変形しやすい材料などは、加工条件や保持方法に制約が生じることがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "一方、同じ製品を再発注する場合は、過去の製造条件を再利用できることがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "設備の使用予定や材料調達の状況によっては、通常の工程では対応できないことがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "図面の改訂番号、要求数量、材料条件、検査内容、希望納期、納入条件などが工場ごとに異なると、見積結果の違いが工場の能力によるものなのか、前提条件の違いによるものなのか判断しにくくなります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "対象範囲が異なる場合は、見積条件をそろえた再見積もりを依頼するか、見積対象外の作業を明確に区分したうえで比較します",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "情報が不足していては依頼をかけることはできず、もし前提条件が大きく異なる場合、サプライヤーは見積をやり直すこととなります",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "a. 前提条件誤り",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "図面や品質、数量の前提条件が異なる場合は価格に影響するため、即サプライヤーに差し戻し、再見積を依頼します",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "互換性・技術的な制約を確認するために技術部門へ都度問い合わせる",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "完成品の重量だけでは、実際に必要な材料費を判断できないことがあります",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータだけでは、公差、表面粗さ、ねじ規格などの要求が判断できないことがあります",
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "・紙ベースの承認業務により、時間と場所の制約があった",
+    "url": "https://leaner.jp/usecase/showaglove",
+    "pass": 3
+   },
+   {
+    "quote": "また、今はまだ情報の蓄積を進めている段階ですが、2年後、3年後の将来、過去の見積を見返した際に、「当時はこういう交渉をしていたんだ」という経緯を容易に確認できることは、非常に大きな効果を生むのではないかと期待しています",
+    "url": "https://leaner.jp/usecase/showaglove",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け見積管理システム4選｜特徴・機能・向いている企業を比較",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの特徴と向いている業務を比較し、自社で検討する候補を選べるように整理しました",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "「向いている企業」は機能をもとにした編集部の見解です",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "向いている企業",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "購買依頼、見積依頼、比較・交渉、承認・選定までの業務を一つの流れで管理できること",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "取引先が従来どおりメールで回答できること",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "DigiKey APIでできること",
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "pass": 3
+   },
+   {
+    "quote": "Internet Explorer 11は、2022年6月15日マイクロソフトのサポート終了にともない、当サイトでは推奨環境の対象外とさせていただきます",
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "pass": 3
+   },
+   {
+    "quote": "比較ポイント1：見積もりの前提条件と対象範囲が一致しているか",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "特に、新規の協力工場を紹介してもらう場面では、各工場が異なる前提条件で見積もりを作成していることも珍しくありません",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "加工費の見積もり差を確認する際、最初に見るべきなのは見積もりの前提条件です",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "最初の段階で前提条件を整理しておけば、発注後に必要な作業が見積もりに含まれていなかったという問題も防ぎやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、設備を保有していることと、その設備を対象部品に効率的に活用できることは同じではありません",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備の能力、材料調達、作業者の配置、検査能力、保管場所などに制約がある場合、一定の数量を超えると追加の設備や作業体制が必要になることもあります",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "見積書を受領した後は、まず対象範囲と前提条件を確認します",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "協力工場紹介で複数の見積もりを取得した際には、提示された内容をそのまま比較するのではなく、見積もりの前提条件と対象範囲を確認することが重要です",
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "pass": 3
+   },
+   {
+    "quote": "これまでベテランの営業担当や設計者が個々に行ってきた仕様確定の手順、組合せ制約、技術計算といった",
+    "url": "https://www.fleacia.jp/post/manufacturing-quote-automation",
+    "pass": 3
+   },
+   {
+    "quote": "製品仕様の選択ルールや組み合わせ制約をあらかじめシステム上で定義し、それに基づいて製品構成や価格を自動算出します",
+    "url": "https://www.fleacia.jp/post/manufacturing-quote-automation",
+    "pass": 3
+   },
+   {
+    "quote": "既存システムへの連携を含めて 1 つの流れにすることが、現場に定着させる前提条件でした",
+    "url": "https://fixit.co.jp/works/manufacturing-quote-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "工程が増えるほど前提条件が相互に影響し、見積の難易度は増していきました",
+    "url": "https://takumi-force.jp/case-study/fukunetsu",
+    "pass": 3
+   },
+   {
+    "quote": "今は、備考欄に見積の前提条件や注意事項を明確に残せるため、「この内容で合っていましたよね？」と確認する手間が激減しました",
+    "url": "https://takumi-force.jp/case-study/fukunetsu",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、インプット情報とマスターから、どのように計算するのかを細かくヒアリングし、明確にすることで、このプロセスを分解できることは確かです",
+    "url": "https://gemba-c.co.jp/quotation-standardization/",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "6. 見積り効率化のためのシステム導入のポイント",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造コスト削減の全貌 ～効果的なアプローチと成功へのカギ～",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI類似図面検索システムを導入すれば、図面データベースの中から形状や寸法が近い事例を瞬時に抽出できるため、繰り返し作業のミスを減らすことが可能です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロスやムダを削減するだけでなく、品質向上や納期短縮にも結びつく改善活動を生むことができるでしょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積りに関する膨大な情報を効率よく管理し、スピードと精度を同時に高めるには、適切なシステムの導入が不可欠です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムを導入することで、材料費や工数などの見積り要素をデータベース化し、再利用性や検索性を高められます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入の際には、業務フローとの親和性や将来的な拡張性にも目を向けることが大切です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "運用が現場と乖離していると、せっかく導入しても定着せず、結果的に現場が手作業に戻ってしまうケースもあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入コストやカスタマイズ性、サポート体制など多角的な視点から検討して、企業の実情に合った最適解を目指す必要があります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、導入後のサポート体制や操作性も含め、現場での使いやすさを最優先に検討しましょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが学習データをもとに自動で最適な見積りを算出できれば、大幅な人的コスト削減と業務効率化が期待できます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "類似図面検索や需要予測機能を備えたシステムを導入すれば、見積り担当者が行っていた細かな手計算や推定作業をシステム側に任せられます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、電子承認システムを導入すると、在宅勤務や海外拠点からでも即座に承認作業が可能になり、リードタイムを大幅に短縮できます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージソフトは導入コストや導入期間を抑えられる利点があり、基本的な機能が標準装備されているケースが多いです",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場の生産性向上などAI導入のメリットを解説",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入による業務効率化",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "これらの段階を確実に実行することで、効率的かつ効果的な見積業務が実現できます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "精度の高い見積りを迅速に提出することは、取引先との信頼関係構築に繋がり、成約率を高める効果があります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が直面する見積業務の煩雑さや時間的制約を解決するための最も効果的な方法として、システムの導入が挙げられます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "システムの導入により、見積書の作成から承認までの全プロセスをデジタル環境で完結させることが可能になります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "これは、特に複数の承認者が必要な場合や、遠隔地にいる承認者がいる場合に大きな効果を発揮します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "・作業時間の大幅削減",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "手動での入力作業や紙ベースでのやり取りが削減されることで、見積業務にかかる時間を大幅に短縮できます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "次に、システム導入は、見積業務におけるデータ管理と活用の面でも大きな改善をもたらします",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "システムの導入により、過去の見積書や関連文書の検索性が飛躍的に向上します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "適切なシステムの選択と導入、そして従業員のトレーニングを通じて、見積業務の革新的な改善を実現することができます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "『AI類似図面検索』などのシステム導入は、見積業務の標準化にも貢献します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "※『AI類似図面検索』の導入事例",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "特に、AIを活用した類似図面検索システムの導入は、見積業務の革新的な効率化をもたらします",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務の効率化は、単なるコスト削減だけでなく、迅速な顧客対応や正確な価格設定を通じて、ビジネスチャンスの拡大にも寄与します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "当然ですが、ロット数が多いほど量産効果が働き単価は低くなります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、年間の使用予定数量をまとめて伝えている場合は、実際の発注単位との違いに注意が必要です",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "年間の使用予定数量が決まっていても、毎回の注文数量が少なければ、工場は都度段取りを行う必要があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "見積書が年間数量を一括製造する条件で作成されていると、実際の分割発注では条件が変わる可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "発注の取り消しや数量削減についても、確認しておきたい事項です",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "調達・購買部門にとって、コスト削減や品質確保の観点から重要な業務の一つです",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "単にコスト削減を目的とするのではなく、サプライヤーにとっても適正な利益を確保し、健全な取引関係を構築するために不可欠です",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "また、加工方法や現場を理解した上で現実的なチャレンジ目標を作成し、さらなるコスト削減に挑むのもサプライヤー間の競争を加速させる良い手法です",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "目標値や査定内容、今後のコスト削減アイテム等、サプライヤー間の比較を行い、どのサプライヤーでどの価格にしたいか、自らの意思を示します",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "見積査定プロセスを強化することで、適正価格を見極めるスキルが向上し、コスト削減だけでなく企業の競争力向上にも繋がります",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、過剰なコストを削減し、品質を維持しつつ、競争力のある価格設定が可能となります",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "調達購買業務改革",
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "【事例あり】見積り作成時間を90%削減！製造業の詰まりを改善するには？",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "90%削減事例",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "【事例から学ぶ】仕組みを変えて「見積り時間90%削減」した改善例",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "という絞ったやり方が、現場の負担を最小限にしながら効果を出しやすい方法です",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "『過去にクラウド見積りシステムを導入したけど変わらなかったから…』",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "年間では144万円が見積り作業に消えているコストになります",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "「削減率90%が達成できたら月8.4万円・年間100万円以上が戻ってくる」という形で出せば、費用対効果の議論ができます",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "「見積りが遅れたことで受注を逃した件数」も加味すると、コスト削減より損失防止の数字の方が大きくなることも多いです",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "✦ 3年間の試算を1枚で見せる",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "「導入費用÷月間削減コスト＝回収にかかる月数」",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "なお当社が展開する「SellBOT」はデジタル化・AI導入補助金2026の対象ITツールでもあります",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "【コラム】【保存版】製造業の見積方法を理解し、精度と効率を高める｜製造業向けソリューション GrowOneSupreme",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けソリューション GrowOneSupreme",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けコラム",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】製造業の見積方法を理解し、精度と効率を高める",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けの製販一体型システム「GrowOneSupreme」",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は多種多様な製品や工程を扱うため、見積りの難易度が非常に高くなっていますが、正確な見積りを行うことが、事業成長の要となります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業において見積りの精度を高め、効率的に作業を進めるためのポイントを網羅的に解説します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積り業務のスピードアップだけでなく、最適なコスト管理と適正な利益確保を行うための方法を学び、業務改善",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の見積りでは、精度を高めながら、作成にかかる時間や担当者ごとのばらつきを抑えることも重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積り業務の効率化・標準化を検討されている方は、",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "お役立ち資料「3分でわかる 製造業の営業部門/設計部門向け 見積コンフィグレータ」",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積り業務をシステム化する際の参考資料として、ぜひご活用ください",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 製造業における見積りの重要性とは",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.1. なぜ精度の高い見積りが求められるのか",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.2. 見積り精度が事業収益に与える影響",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務を効率化したい！製造業でよくある課題や改善のための解決策をご紹介｜ものづくりコラム Techno WA!｜中小製造業様向け DXソリューション・生産管理システムのテクノア",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業様向け DXソリューション・生産管理システムのテクノア",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務を効率化したい！製造業でよくある課題や改善のための解決策をご紹介",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "1.ビジネス上の重要業務の一つ「見積業務」とは？",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務とは？",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスにおいて見積業務が重要な理由",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "2.製造業の見積業務においてよくある課題",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積書の発行に時間がかかる",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "3.手間のかかる見積業務を効率的に行う解決策",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "4.テクノアの「AI類似図面検索」で見積業務をスピードアップ！",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "『AI類似図面検索』で見積業務の時間短縮を図る",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "5.製造業の見積業務効率化：AI活用で競争力強化と成長を実現",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における見積業務の効率化をお考えではありませんか？多くの製造業者にとって、見積業務は受注の可否を左右する重要なプロセスでありながら、同時に大きな時間と労力を要する課題でもあります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業の見積業務における一般的な問題点と、その効率化のための具体的な解決策をご紹介します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "製造業において、見積業務は非常に重要な役割を果たしています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "調達：見積もり依頼を成功させるコツ | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "検査・品質保証",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・装置の設計・開発支援",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器の製造・バフ研磨・溶接加工",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "三次元測定機による精密検査",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "製造まめ知識",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "調達：見積もり依頼を成功させるコツ",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "受託製造業への見積依頼のポイントをご紹介します",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 受託製造業への見積依頼とは",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 見積依頼のポイント",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 見積依頼を成功させるポイント",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの場合、メーカー(発注企業)は外注したい製品・部品の図面を受託製造業に提示し見積もりを依頼します",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり金額や工期が自社の要望と合致していれば、発注するという流れになります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "発注企業=調達側からすれば、品質の良いものが、なるべく安く、早く手に入るに越したことはありません",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、受託製造業=供給側からすれば、品質に応じた適正な対価が必要となります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で追加費用を見逃さない7つのチェック項目 | レフィクシア株式会社",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "製造業技術記事",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で追加費用を見逃さない7つのチェック項目",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "加工・製造の協力先探し",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で追加費用が発生しやすい理由",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目1：見積数量と生産ロットの前提条件を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目3：材料調達と支給材に関する費用条件を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目5：検査・品質保証・証明書発行の範囲を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "複数の少量生産工場の見積書を比較する際の実務手順",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "見積書の確認後に工場へ質問しておきたい事項",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産に対応できる工場を探す際、見積書に記載された金額だけで発注先を決めてしまうと、製造開始後に想定外の追加費用が発生することがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "特に少量生産では、段取り替えや専用治具の準備、材料の小口調達、検査工程などの固定的な負担が製品数量に対して大きくなりやすく、見積条件の違いが発注後の総負担に影響します",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "同じ図面と数量で複数の工場に見積もりを依頼しても、材料調達の範囲、検査方法、二次加工の有無、梱包や輸送の扱いによって、提示される内容は異なります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "見積書に含まれていない作業が後から必要になれば、当初の想定を超える負担につながる可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、少量生産の工場探しでは、見積書の金額だけでなく、何が含まれ、何が含まれていないのかを明確にすることが重要です",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "見積り業務のスピードアップだけでなく、最適なコスト管理と適正な利益確保を行うための方法を学び、業務改善",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の見積りでは、精度を高めながら、作成にかかる時間や担当者ごとのばらつきを抑えることも重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. 工数・人件費の見積もり",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.1. 図面から工数を計算する方法",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.1. ギャップ分析によるコスト最適化",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "正確なコスト把握と適切な価格設定が、企業の収益力強化につながります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積りの正確さは、顧客の安心感や信頼につながる面が大きく、見積段階での誤差が後々のトラブルやコスト超過につながる可能性もあるのです",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、見積り業務は正しいコスト把握や利益管理の指標となるため、経営判断にも直接影響します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積りを通して、材料費や工数、設備稼働に要する諸経費など全体のコスト構造を把握し、それをもとに事業計画を策定することができます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、精度の高い見積りを行うことは、受注チャンスの拡大とコスト管理の両面で極めて重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "精度の高い見積りは、製造業においてコストの過剰発生や不足を防ぐために欠かせない要素です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "細部まで計画的に見積りを行えば、コスト面のみならず納期遵守と品質保持も実現しやすくなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積りの精度が低いと、受注後に想定以上のコストが発生してしまい、利益率が大幅に下がるケースがあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、材料費の高騰に気づかずに原価を甘く見積もったり、想定外の作業工数が必要になったりすると、追加コストを吸収できずに収益を圧迫してしまいます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造コスト削減の全貌 ～効果的なアプローチと成功へのカギ～",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "承認に時間がかかる",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積書の発行に時間がかかる",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "『AI類似図面検索』で見積業務の時間短縮を図る",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における見積業務の効率化をお考えではありませんか？多くの製造業者にとって、見積業務は受注の可否を左右する重要なプロセスでありながら、同時に大きな時間と労力を要する課題でもあります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の要求仕様に基づき、原材料費、人件費、諸経費などを考慮して適切な価格を算出し、見積書を作成します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "個人の暗黙知に依存した業務プロセスは、新しい担当者への引き継ぎに多大な時間と労力を要します",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "過去の見積書や関連情報の検索に時間がかかることも多く、効率的な業務遂行の妨げとなっています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "承認に時間がかかる原因として、ここでは2つのポイントを見てみます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "紙の見積書を使用している場合、チェックや修正に多くの時間と労力が必要となります",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "見積書のファイルをPDF化したり、スキャンするなどの作業に時間がかかることが多く、迅速な顧客対応の妨げとなっています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業では、見積書の作成から発行までの過程に手動の作業が多く含まれており、これが全体的な処理時間の増加につながっています",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が直面する見積業務の煩雑さや時間的制約を解決するための最も効果的な方法として、システムの導入が挙げられます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "・作業時間の大幅削減",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "手動での入力作業や紙ベースでのやり取りが削減されることで、見積業務にかかる時間を大幅に短縮できます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "過去の類似案件を簡単に参照できるようになることで、新規見積りの作成時間を短縮し、精度を向上させることができます",
+    "url": "https://www.techs-s.com/media/show/194",
+    "pass": 3
+   },
+   {
+    "quote": "また、見積依頼のやり取りだけで何往復もコミュニケーションに時間が割かれるのももったいないですね",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "お互いに時間がない中で、できるだけ短いやり取りで過不足の無い依頼を済ませたいものです",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用が必要となる分、1回の発注当たりのコストを抑えるご提案も可能となります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産品の場合は在庫のコストは膨大となりますが、多品種少量生産の場合は有効なオプションとなります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "社内的な手続きなどで時間がかかる場合は、メールなどで発注を内示し、材料手配などの製作準備を先行して進めるなどの対処もありますので、積極的に相談してみると良いと思います",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん費用を知りたいから見積依頼するわけですが、既に製作実績があったり、予算の決まっている依頼品であれば、希望単価を積極的に開示した方が、双方にとってメリットが大きい事になります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "コストを抑えたいのであれば、しっかりと相手に誠意をもって伝え、一緒にコストダウンの方法を考えてもらう方が双方にとって生産的な姿勢と言えます",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "「見積はタダ」ではなくなりつつあり、少なくとも受託製造業者側の工数は発生している事は踏まえておくと良いと思います",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート品の場合は、治工具の製作費、NCプログラムの作成費、CADデータの作成費、金型の製作費用などの初期費用をどのように処理するかを提示する事が重要です",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・部品の材料費や製作・加工費が重視されがちですが、洗浄や梱包、配送費用なども取引条件としては重要です",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大物の場合は、梱包、配送費用も大きな金額となります",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "場合によっては保管にも費用がかかる場合もありますね",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "再製作となった場合の費用、納期をどのように設定するかは大きな問題となりますので、見積もり時にあらかじめ明確にしておいた方が良いでしょう",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所のスキマ時間にながめる経済データ",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "調達：大量生産と少量生産のコストの違い",
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で追加費用を見逃さない7つのチェック項目 | レフィクシア株式会社",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で追加費用を見逃さない7つのチェック項目",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産工場の見積書で追加費用が発生しやすい理由",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目3：材料調達と支給材に関する費用条件を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目4：段取り・治具・初回製作に必要な費用を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目6：二次加工・梱包・輸送に関する費用を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "チェック項目7：仕様変更・追加発注・納期変更時の費用条件を確認する",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：少量生産工場は追加費用の発生条件まで確認して選ぶ",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産に対応できる工場を探す際、見積書に記載された金額だけで発注先を決めてしまうと、製造開始後に想定外の追加費用が発生することがあります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "追加費用が発生する条件を事前に整理しておけば、工場ごとの提案を公平に比較しやすくなり、発注後の認識違いも減らせます",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産では、製品を製造するための準備作業が、生産数量に対して大きな割合を占める場合があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、追加費用が発生すること自体を問題と考えるのではなく、発生条件が事前に明確になっているかを確認することです",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "必要な作業に対する合理的な費用と、確認不足によって発生する想定外の費用は区別して考える必要があります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "数量変更による追加費用の発生条件を明確にしておけば、少量生産から継続生産へ移行する際にも、調達計画を立てやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   },
+   {
+    "quote": "材料調達は、少量生産の見積もりで追加費用が発生しやすい領域の一つです",
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【事例あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... — 【事例あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... sellbot.jp https://www.sellbot.jp > お役立ちコラム > DX",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   },
+   {
+    "quote": "【 事例 あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... — 【 事例 あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... sellbot.jp https://www.sellbot.jp > お役立ちコラム > DX",
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ss-net.com/monodukuri/column/20111031_160/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/194",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monodukuri.com/jirei/article/360",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nakasa.co.jp/plan/2982",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sellbot.jp/column/dx/p5898/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/132",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/14191/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/design-manufacture-assembly18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/st/115910",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://asahi-gp.com/interviews/interview-purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leaner.jp/usecase/showaglove",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fleacia.jp/post/manufacturing-quote-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fixit.co.jp/works/manufacturing-quote-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-force.jp/case-study/fukunetsu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ilink-corp.co.jp/9570.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gemba-c.co.jp/quotation-standardization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sievo.com/blog/the-simple-request-for-quotation-rfq-process-for-procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/procurement/comments/1o9odpi/how_long_do_you_wait_for_supplier_quotes_before/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.iit.edu/procurement-services/purchasing/purchasing-guidance/quoting-bidding-and-rfp-processes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.symtrax.com/understanding-procurement-processes-from-rfq-to-quotation-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zetwerk.com/blog/contract-manufacturing/rfq-process-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.procuredesk.com/manufacturing-procurement-process/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ものづくり企業の見積・調達工程の時間と費用",
+   "results": [
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://ss-net.com/monodukuri/column/20111031_160/",
+    "https://www.techs-s.com/media/show/194",
+    "https://ogawa-tech.jp/manufacturing-outsourcing-estimation/",
+    "https://www.monodukuri.com/jirei/article/360",
+    "https://nakasa.co.jp/plan/2982",
+    "https://www.agency-assist.co.jp/column/1273/",
+    "https://estman.affordance.co.jp/blog/kumitatemitsumori",
+    "https://www.nanjyo.co.jp/pickup/blog-machining-estimate/",
+    "https://monoscope-media.com/procurement-workflow/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の見積・調達工程の時間と費用 仕組み 解説",
+   "results": [
+    "https://lefixea.jp/mfg/articles/small-batch-factory-search36",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://up-cycle.jp/blog/what-is-quotation-assessment/",
+    "https://www.sellbot.jp/column/dx/p5898/",
+    "https://www.techs-s.com/media/show/132",
+    "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "https://www.agency-assist.co.jp/column/14191/",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/koubaikanri/column01/vol05/",
+    "https://www.fleacia.jp/post/manufacturing-quote-automation",
+    "https://note.com/quiet_viola6854/n/n567c34836eab"
+   ]
+  },
+  {
+   "query": "ものづくり企業の見積・調達工程の時間と費用 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=3ZsbIXMVHS0",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://www.techs-s.com/media/show/132",
+    "https://lefixea.jp/mfg/articles/design-manufacture-assembly18",
+    "https://www.sellbot.jp/column/dx/p5898/",
+    "https://www.sbbit.jp/article/st/115910",
+    "https://asahi-gp.com/interviews/interview-purchase/",
+    "https://leaner.jp/usecase/showaglove",
+    "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "https://jp.misumi-ec.com/pr/misumi_evolution/user_interview/article_002/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の見積・調達工程の時間と費用 事例",
+   "results": [
+    "https://www.sellbot.jp/column/dx/p5898/",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://lefixea.jp/mfg/articles/partner-factory-introduction29",
+    "https://www.techs-s.com/media/show/132",
+    "https://www.fleacia.jp/post/manufacturing-quote-automation",
+    "https://www.monodukuri.com/jirei/article/360",
+    "https://fixit.co.jp/works/manufacturing-quote-automation/",
+    "https://houeihiroshima.com/column/metal-processing-estimate/",
+    "https://takumi-force.jp/case-study/fukunetsu",
+    "https://ilink-corp.co.jp/9570.html"
+   ]
+  },
+  {
+   "query": "quotation procurement process time manufacturers",
+   "results": [
+    "https://sievo.com/blog/the-simple-request-for-quotation-rfq-process-for-procurement",
+    "https://www.reddit.com/r/procurement/comments/1o9odpi/how_long_do_you_wait_for_supplier_quotes_before/",
+    "https://www.iit.edu/procurement-services/purchasing/purchasing-guidance/quoting-bidding-and-rfp-processes",
+    "https://blog.symtrax.com/understanding-procurement-processes-from-rfq-to-quotation-management/",
+    "https://www.zetwerk.com/blog/contract-manufacturing/rfq-process-manufacturing/",
+    "https://www.procuredesk.com/manufacturing-procurement-process/",
+    "https://procurement.gwu.edu/glossary-procurement-terms",
+    "https://www.linkedin.com/pulse/procurement-rfq-processing-time-here-why-you-should-track-lalibert%C3%A9",
+    "https://www.teamprocure.com/blog/rfq-process",
+    "https://manufyn.com/resources/quality-purchasing/rfq-process-for-manufacturing/"
+   ]
+  }
+ ],
+ "missing": {}
+}

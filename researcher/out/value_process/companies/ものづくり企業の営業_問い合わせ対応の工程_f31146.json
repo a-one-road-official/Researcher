@@ -1,0 +1,2141 @@
+{
+ "name": "ものづくり企業の営業・問い合わせ対応の工程",
+ "en": "sales inquiry handling process manufacturers",
+ "aliases": [
+  "製造業 問い合わせ対応 工数",
+  "製造業 営業 プロセス",
+  "引き合い 対応 時間"
+ ],
+ "context": "工程",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:29:01.379168+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "サービスの詳細や相談方法は公式サイトへ",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "営業効率を改善するための具体的な実践手順",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小製造業では、技術者や経営者が営業を兼務するケースもあり、限られた人員で効率よく商談を進める仕組みが求められます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングは、製造を依頼したい企業と、加工・設計・組立などの技術を提供できる企業を結び付ける仕組みです",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、ビジネスマッチングを単なる新規顧客の紹介手段としてではなく、営業活動全体を改善する仕組みとして運用することです",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "加工会社、部品メーカー、装置メーカー、設計会社などの実務担当者が、実際の営業活動に取り入れやすい判断基準や運用方法を紹介します",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングには、オンライン上で企業や案件を検索できる仕組み、地域の産業支援機関による紹介、商談会を通じた企業間交流など、複数の方法があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ対象企業や案件の特徴が異なるため、自社の営業目的に合った方法を選ぶ必要があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "この方法は信頼関係を築きやすい反面、取引先の業界や地域が固定され、新しい市場に進出しにくい場合があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "営業効率を改善するためには、まず自社に合った案件を見極め、その後の対応を無駄なく進められる仕組みを整える必要があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、試作品や少量生産に強みがある企業であれば、設計変更への柔軟な対応や、開発段階での加工方法の相談に対応できる点が特徴になります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "実績を紹介するときには、守秘義務に配慮しながら、加工対象の種類、対応工程、技術上の課題、解決方法などを整理します",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の案件では、加工方法が一致しているだけでは受発注が成立しません",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "案件情報が不足している状態で商談を進めると、後から重要な条件が判明し、見積もりのやり直しや製造方法の再検討が必要になる場合があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、設備能力だけでなく、実際に対応した加工内容や品質管理の方法を説明すると、情報の信頼性を高めやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤー企業の新市場開拓をWebマーケティングにより実現する方法",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が持つ自社技術の用途開発をWebマーケティングにより実現する方法",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "仕様変更の提案ができない量産段階では、価格競争になりやすくなるため、試作段階で課題を抱えている見込み顧客へターゲットを絞りました",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "協力工場とともに試作段階からの案件を獲得できる仕組みを作ることで、",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "このスピーディーな見積もり回答を実現するために、外注先の見積もり待ち時間を省き、自社で迅速に見積もりを行う仕組みを独自で考案することで、",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社を圧倒的に凌ぐ見積もり回答スピードを実現するための仕組みを、社外（外注）も巻き込みながら構築",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカー営業のコツとは？課題を解決する5ステップ",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、産業機械メーカーの営業が成果を出すためのコツを、固有の5大課題と解決の5ステップに分けて解説します",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、それらを解決するために明日から動ける手順に落とし込みます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカー営業の課題を解決する5ステップ",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客の要求が自社の技術で実現できるかを早い段階で見極め、社内の設計・技術部門と握っておく必要があります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が抱える営業の課題、営業力を高める方法を解説",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業課題とは？解決方法を探るヒントも解説！",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "5大課題は、商談の見える化から受注予測まで5つのステップで順に手を打つことで、組織として解いていけます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "各ステップのチェックリストを参考に、自社の現状と照らし合わせながら読み進めてみてください",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "「初回ヒアリング→仕様提案→技術検討→見積→社内稟議→発注」のように自社の商談プロセスを定義し、各案件を必ずいずれかのフェーズに置きます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の商談プロセスを5〜7段階のフェーズに分けて言語化する",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店任せにせず、最終顧客の情報を意図的に集める仕組みを作ります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "これら5ステップは、案件・顧客・活動の情報を一元的に扱える基盤があってこそ回ります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "5ステップを回し続けるコツは、案件・顧客・活動の情報を一元的に扱えるデータ基盤を整え、入力負担と移動の無駄を減らすことです",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "仕組みは作って終わりではなく、現場が無理なく続けられて初めて成果につながります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "関東製作所が実践する2つのコンテンツ制作方法",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "売上を創出する仕組み",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "部門間連携の具体的な方法として、特に効果的なのが「",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "関東製作所では、技術者の知見をコンテンツ化する方法として、2つのパターンを実施しています",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "この方法により、",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "を作りつつ、技術的な正確性も担保できる仕組みになっています",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な流れ",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "②情報が揃った段階で営業へ引き継ぎ",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせの件数が増えてくると、この方法が非常に効率的です",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者は、必要な情報が揃った段階から関わるため、",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "会社について知りたい段階",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "」という段階であれば、マーケティング担当のみが参加して、下記のようなことを説明します",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "・基本的な製造プロセスの理解",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "初期段階の問い合わせを効率的にさばく",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "次回の第5弾では、「自社サイトを”製造業の営業マン”に育てる方法」をテーマに、Webサイトやオウンドメディアをどのように運用していくか、具体的な方法について解説します",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "では、”視座の高さを変えながら流れを見よう”と述べました",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、全体最適の視点で流れを良くする改善を進めることで商売繫盛に結びつくとしました",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "工場長といった役回りがある会社では、工場内全体を見渡しての流れ改善が進めやすいです",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "両立に向けた仕組みを構築している代表格が自動車産業の製販システムです",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの工場での生産体制から、ディーラーで取付けるオプションの設定まで、顧客要望バリエーションを効率良く適えるための仕組みがあります",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "素晴らしい仕組みですがなお進化し続けています",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当は、自社の工場内の「物と情報の流れ」「共通する部品」「工程の汎用性」の概要、更には「規格品／特注品の部品・工程の共通点と違い」を理解すると役に立ちます",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり中小企業向けに、改善活動の推進や売上利益拡大の仕組みを作る支援を行っています",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "「ベテラン社員の経験と勘に頼った営業スタイルを変えたいけれど、良い方法が見つからない…」",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "受注可能な数量や対応時期を定期的に確認し、営業担当者と製造現場で認識を共有しておくことが重要です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者が案件内容を確認し、技術担当者が製造可能性を判断し、必要に応じて製造現場や品質管理部門へ相談する流れが一般的です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "初回の製造案件が完了した後に、納品物の使用状況や改善要望を適切な時期に確認することで、次の案件に必要な情報を得られる場合があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせを増やそうとして対応範囲を広く設定しすぎると、自社で対応できない案件や、受注しても製造現場への負担が大きい案件が集まりやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者が受注の可能性だけを重視し、現場の製造能力を考慮せずに対応を約束すると、実際の製造段階で問題が発生するおそれがあります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "技術担当者や製造現場、品質管理部門が必要な情報を共有することで、発注企業への回答精度や商談対応の効率が高まりやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "特に装置製作や設備工事、現地設置を伴う案件では、製造現場や施工現場の状況を正確に共有することが、商談や技術確認の円滑化につながります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "こうした現場情報の管理を支援する手段として、LRTK Phoneの活用も選択肢になります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "LRTK Phoneは、現場写真や位置情報、施工記録を管理するための自社プロダクトです",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "位置情報と関連付けた現場記録を整理することで、現地の状況を関係者に共有しやすくなり、設備設置や施工を伴う案件の情報確認に活用できます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングによって獲得した商談を確実な取引につなげるには、営業情報だけでなく、技術情報や現場情報も適切に管理することが大切です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客の獲得から受注後の対応までを一つの流れとして捉え、ビジネスマッチングと現場情報管理の両面を改善していくことが、製造業における継続的な営業効率向上につながります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業への訪問実績3000件を超える",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "上述したターゲットからの引き合いを受注するためには、見込み顧客の多種多様な要望に応えるための、異業種を中心とした協力工場ネットワークを構築する必要がありました",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "独自の協力工場ネットワークを形成し、異素材対応を可能にし顧客ニーズに応えた",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "精密板金加工業を営む共栄精機は、精密板金業界における見込み顧客の最大のニーズはスピード対応であると考え、「すぐに欲しいものが手に入る」ことをなぞらえて",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、短納期対応にニーズを持っているメーカーや同業者からの受注を多く獲得しています",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとっての一番のニーズは、見積もり回答が早いことであるという仮説",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "「短納期対応」という顧客ニーズに焦点を当てホームページをブランディング",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせの中には、立体造形物を作ってほしいという要望も多く見られました",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "立体造形物はどちらかというと工業より工芸に近い分野でしたが、そのような要望にも低コストで対応できるよう、",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "■アクセスキーワードの中から見込み顧客の新たなニーズを定期的に発見していますか？",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "■失注した場合にその理由をヒアリングできていますか？",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "購入のタイミングやニーズがある際に顧客からの問い合わせが得られ、営業の労力を大幅に軽減できます",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、営業側は売上や顧客信頼を重視し、多くの案件を受けようとしますが、現場ではそれが受け入れられないこともあります",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "「自社技術が他のどの業界にニーズがあるのかわからない」と回答する方が51.2％",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページを活用し、自社技術の新たな用途ニーズを持つ見込み顧客側から問い合わせを獲得する取り組みは、自社技術の用途開拓と見込み顧客獲得を並行して実現することのできる良策であるのではないでしょうか",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "SFAが定着しない5つの理由とは？営業職370名への調査でわかった現場の本音",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "求められるスキル（製品知識・ヒアリング・部門連携）",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "移動・訪問の非効率をなくす（広域・代理店訪問の最適化）",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーの営業とは、自社で設計・製造した機械を顧客の生産現場に導入してもらう、技術と商談を橋渡しする役割です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "午前は顧客工場での仕様すり合わせ、午後は別の顧客や代理店を訪問、夕方に社内で技術部門と提案を詰める、といった広域移動を伴うスタイルが一般的です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたりの商談単価が大きいぶん、訪問1回の密度が成果を左右します",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "現場で「既存ラインのどこがボトルネックか」を一度の訪問で正確に拾えるかが、その後の提案精度を決めます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーの営業に求められるのは、製品知識・ヒアリング力・部門連携の3つを束ねる力です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、顧客が言語化できていない現場の困りごとを引き出すヒアリング力が要ります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械はそうした生産現場を支える立場にあるため、営業も顧客の構造課題を踏まえた提案が求められます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "誰がどの機械をどう使っているかが見えなければ、買い替えや増設のタイミングも現場の不満も掴めません",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "「初回ヒアリング→仕様提案→技術検討→見積→社内稟議→発注」のように自社の商談プロセスを定義し、各案件を必ずいずれかのフェーズに置きます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "同行訪問・納入立ち会い・保守の問い合わせ対応は、エンドユーザーに直接触れられる貴重な接点です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで得た「どの現場で・どの機械を・どう使っているか」を記録に残せば、代理店経由でも最終顧客が見えてきます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "地図ベースで顧客の所在を把握できれば、近隣の代理店とエンドユーザーをまとめて訪問計画に組み込めます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の求めることや市場ニーズを把握したうえで、それに合わせたPRを行うことが重要です",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "」という声を、営業や技術の現場から聞くことがあります",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、市場ニーズを調査する時間は限られており、実施できたとしても既存顧客からのヒアリング程度で、情報に偏りが生じやすいです",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的に製造現場や技術解説の動画をYouTubeで発信",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "しているため、営業担当者が顧客を訪問した際に「YouTubeを見ています」と言われることも多くなりました",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "製造部門が顧客と関わる時間は限られており、市場ニーズまで把握するのは難しいです",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズとのズレ",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、製造業の一般的な指標であるQCD（品質、コスト、納期）で考えると、製造現場としては品質に絶対的な自信があり、そこを徹底的に追及していたとしても、市場が「安く、早く」を求めている場合には、ニーズとの乖離が発生してしまいます",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の技術や工程をコンテンツ化しておくことで、新人が入社した際の",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の知識を組織の資産として蓄積",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "技術者が実際に経験した事例や、現場での工夫を語ることで、コンテンツに「",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "などは、熟練者本人が執筆した方が、細かいニュアンスや現場の工夫が正確に伝わります",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場では当たり前の言葉でも、顧客には伝わらない場合があるため、専門用語が出た際は必要に応じて",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "この役割分担により、顧客のニーズに応じた柔軟な対応が可能になります",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング担当が定期的に製造現場へ足を運んで自動機を撮影し、顧客にわかりやすい形に動画編集して提供したところ、部門から高い評価をいただきました",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "「工場の５S」「トヨタ生産方式」「設備保全」等の用語からは、工場の生産現場の改善というニュアンスが感じられます",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "事実、多くの製造業で生産現場の改善は活発に行われ、成果を上げてきました",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "顧客要望通りの納期では出来ない、顧客のいろいろな要望にきめ細かく応えていたら手間ばかり掛かってしまう、高い工場原価（顧客要求価格と掛け離れたレベル）である、挙句の果てには納品物の品質が顧客要望に合わない事態が発生・・・・・",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   }
+  ],
+  "できる・できない": [
+   {
+    "quote": "案件ごとに受注可能な条件を確認し、技術的に難しい部分や納期上の制約があれば、早い段階で関係者と共有することが重要です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "試作から量産時においてトラブルなく良心的なコストで移行できることを価値として訴求できています",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、保有設備の限界により、需要があっても必ずしも受注できないことがあります",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "繁忙期には、営業活動を通じて案件を獲得しても、製造能力の制約で対応できないことが少なくありません",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "「パターン①技術者自身がコンテンツを執筆」が向いているケース",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "「パターン②マーケティング担当が執筆」が向いているケース",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "「景気が上向いているとはいえ、受注が安定せず、将来の売上予測が立てられない…」",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "特に受注状況と生産計画が直結しやすい製造業の営業にとって、リアルタイムで工場の稼働状況を把握できることは大きな強みです",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "強みを伝える際は、「対応できること」「役立つ用途」「確認できる根拠」「対応条件」を組み合わせます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "検査項目、記録の管理方法、不具合発生時の対応、取得している認証の適用範囲",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりには、価格に加えて、仕様、数量、納期、検査範囲などの前提条件を示します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "FA装置メーカー15社を、対応工程、設計・製作範囲、向いている案件で比較",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、新規開拓に向いている営業手法や、戦略を成果につなげるポイントも紹介します",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の新規開拓に向いている営業手法6選",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業戦略が抱える課題は、製品価値の伝え方、人材の確保、生産能力の制約、部門間の対立の4つです",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の新規開拓に向いている営業手法は、コンテンツの改善、テレアポ、紹介営業、展示会、オープン調達、DMの6つです",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "手法ごとに向いている製造業が異なるため、自社の製品特性やターゲットに合わせて組み合わせることで、特定の取引先への依存を減らせます",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツの改善は、Webサイトからの問い合わせや営業資料への反応が弱い製造業に向いている手法です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "テレアポは、狙うターゲット企業が明確で、短期間で多くの企業と接点を持ちたい製造業に向いている手法です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けの場合、1日の目安は約60件で、これは営業時間の制約やトーク時間が長くなる傾向があるためです",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介営業は、既存顧客との信頼関係が厚く、品質や実績で評価されてきた製造業に向いている手法です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会は、実物を見せることで価値が伝わる製品や、技術的な質問が多い製品を扱う製造業に向いている手法です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "また、業界全体の動向を把握し、競合他社の情報を収集できることも大きなメリットです",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "オープン調達は、大手企業が求める部材や加工技術を提供できる製造業に向いている手法です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "購買側のニーズが明確であり、直接アプローチできること",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "DMは、決裁者に直接情報を届けたい製造業や、製品の詳細をじっくり読んでもらいたい製造業に向いている手法です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "生産部門を営業戦略の制約ではなく、受注すべき案件を一緒に見極める相手として位置づけることが大切です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "そのため、ビジネスマッチングを導入するときには、案件数の増加だけでなく、案件の適合性、商談化率、見積もり作業時間、受注率、継続取引の可能性まで意識することが大切です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "そのような場合には、不足情報を一度に確認できる質問項目を用意しておくと効果的です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり前の技術相談についても、営業担当者だけで判断できる範囲と、技術担当者の確認が必要な範囲を分けておくと効果的です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせが増えたという印象だけで効果を判断すると、実際に営業効率が改善しているのか分かりません",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "こうした小さな改善を継続することで、ビジネスマッチングをより効果的に活用できる体制へ近づけます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングは新しい取引先を探すための有効な手段になり得ますが、導入方法によっては営業負担が増加する場合もあります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで紹介した5つの改善策を実際の業務に取り入れるには、導入前の準備と運用開始後の見直しを段階的に進めることが重要です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例記事",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のWebマーケティング支援を15年以上",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "・Webリニューアルが逆効果に？ 問い合わせを減らさない製造業のサイト改革（MONOist）",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーの営業とは、自社で設計・製造した機械を顧客の生産現場に導入してもらう、技術と商談を橋渡しする役割です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "最大の違いは、自社で製造しているがゆえに、提案した仕様の妥当性や導入後の性能まで自社が責任を負う点です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "導入メリットや成功事例がまるわかり！",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "ー 導入の流れ",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "一つの部門だけでは「技術の専門性」「顧客の課題理解」「効果的な情報発信」の3つを同時に実現することはできないからです",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツ化の効果",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング単体での活動では十分な効果を発揮できず、各部門を繋ぐ「ハブ（橋渡し役）」としての役割も担う必要があります",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "効果的な情報発信",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "営業が新規開拓に費やす時間を削減でき、より質の高い商談に集中できます",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "Webサイト経由の問い合わせが年間500件以上に増加",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "部門間連携の具体的な方法として、特に効果的なのが「",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "を選定し、コンテンツのたたき台（大見出しや導入部分など）を作成しておきます",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "社長が定期的にマーケティングの重要性や実際の効果を説明",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "半年間継続して成果が見えてきたところで、営業部門からの情報収集も追加しました",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "75年以上の歴史",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "年間500件以上の問い合わせをWeb経由で獲得",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "ただしゼロからの構築は効果の刈り取りまでに時間が掛かります",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "リアルとオンラインを適宜組み合わせながらのハイブリッドでのコミュニケーションは効果的かつ効率的です",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニケーションツールの導入",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "管理システムの導入",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入の意義",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入なら『TECHS-S NOA（テックス・エス・ノア）』",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業には、モノを売るだけでなく、顧客が抱える製造プロセスやコスト削減などの課題を理解し、それに合わせたソリューションを提案する役割が求められます",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、具体的な解決策と導入によるメリットを掘り下げます",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "顧客や案件情報を統合管理できるCRM（顧客管理システム）、SansanやSales CloudなどのSFA（営業支援）ツールを導入すれば、営業の進捗状況をリアルタイムで把握し、適切なアクションをタイムリーに行うことが可能となります",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "営業管理ツールには、マーケティングオートメーション支援、顧客管理、営業活動管理等、様々な種類があるため、社内で管理が必要な情報を整理して導入しましょう",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "営業管理ツールの導入により、正確な売上予測が可能になり、将来の収益計画を立てやすくなるため、経営の安定感を高めることに寄与します",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "前章で紹介したコミュニケーションツールや管理システムの導入に加え、リード獲得から受注までの流れを円滑にするには、見積書作成機能や原価管理機能などを搭載した生産管理システムの導入も効果的です",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを導入すると、在庫状況や生産スケジュール、進捗などを一元管理できます",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "▶【関連コラム】生産管理システムを導入するメリット・デメリット｜選び方やおすすめ",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "【導入のメリット】",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業力を真の意味で高めるには、単にツールを導入するだけでなく、組織全体の意識改革やプロセスの見直しも重要です",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "また、コミュニケーションツールや生産管理システムといった基幹システムを活用することで、製造業の営業戦略を効果的に支え、組織のパフォーマンス向上に寄与し、営業効率と精度の向上に繋がります",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "解決したい課題、必要な仕様、予算、導入時期、次の確認事項を共有できているか",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、試作・評価や設備導入を伴う取引では、技術確認や社内承認の進捗も追う必要があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "チラー装置メーカー15社を用途・温調特性・導入目的で比較",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "製品がもたらす価値やベネフィットを伝えるためには、効果的なコンテンツがないと営業パーソンの口頭説明に頼ることになってしまいます",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "【製造業調査】約7割が情報収集段階で本命導入商品を決める",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "▶ショールームなどの常設展示を効果的に活用する",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "企業のショールームについて、効果的な事例を交えた解説ブログを公開中！",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "3階建の施設はオフィススペースだけでなく、製品の導入を検討しているお客様をご案内し、企業理解を深める展示や製品のデモをご覧いただけます",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "導入前にお客様と共に試作を行ったり、お客様に直接体験いただく施設製品のデモや機械操作講習を行ったりするスペースも併設しているショールームです",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "ショールームとは？ 定義や目的、効果について解説！事例あり",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "企業ミュージアムの定義や役割、効果とは？",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "イベントプロモーションとは？実施する効果と事例を紹介",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "キャククル｜【製造業調査】約7割が情報収集段階で本命導入商品を決める",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "効果的な営業目標設定のポイントは以下の通りとなります",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "短期、中期、長期の目標をバランスよく設け、各フェーズに応じた戦略を立てる",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "中期目標：2年以内に新規顧客シェアを15%拡大",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "長期目標：5年後までに海外売上比率を30%達成",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "製造業のビジネスマッチング活用で営業効率を上げる5つの改善策 | レフィクシア株式会社",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業技術記事",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のビジネスマッチング活用で営業効率を上げる5つの改善策",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "加工・製造の協力先探し",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるビジネスマッチングと営業効率の関係",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "改善策3：問い合わせ対応と見積もり業務を標準化する",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のビジネスマッチングで失敗しないための注意点",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業活動では、新規顧客の開拓に時間がかかる、問い合わせがあっても受注につながらない、自社の技術を必要とする企業に出会えないといった課題が生じやすくなっています",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小製造業では、技術者や経営者が営業を兼務するケースもあり、限られた人員で効率よく商談を進める仕組みが求められます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題への対応策として注目されるのが、製造業向けビジネスマッチングの活用です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングは、製造を依頼したい企業と、加工・設計・組立などの技術を提供できる企業を結び付ける仕組みです",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "自社の対応範囲を整理せずに案件へ応募したり、問い合わせ対応を担当者任せにしたりすると、見積もり作業ばかり増えて受注につながらない状況も起こります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "案件の選定から初回対応、見積もり、商談管理、受注後の関係構築までを見直すことで、限られた営業資源を有効に活用しやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業のビジネスマッチングを活用して営業効率を高める5つの改善策を解説します",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "加工会社、部品メーカー、装置メーカー、設計会社などの実務担当者が、実際の営業活動に取り入れやすい判断基準や運用方法を紹介します",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が営業活動を成功させる秘訣を5つの事例から考察 | テクノポート株式会社",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マーケティングなら",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業ライターの一覧",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が営業活動を成功させる秘訣を5つの事例から考察",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のWebマーケティング支援を15年以上",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業への訪問実績3000件を超える",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い加工知識と市場調査をもとに、製造業の新規顧客開拓の支援を行う",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 × 企画コンサルティングスキル × Webスキル（SEO中心）",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "・Webリニューアルが逆効果に？ 問い合わせを減らさない製造業のサイト改革（MONOist）",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "・新規顧客が集まらない製造業のWebサイト、活用を阻む3つの壁（MONOist）",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、製造業者の営業活動を成功に導くための秘訣を、5つの成功事例を通じて考察します",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業活動にとって必要不可欠なホームページを、自社の営業戦略にうまく組み込み、大きな成果を挙げたこれらの事例から、成功の秘訣を探求していきます",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "自動車製造業のEV普及に関する意識調査レポート",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が持つ自社技術の用途開発をWebマーケティングにより実現する方法",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の新市場開拓に",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "自社製造ゆえに技術責任まで負う立場ならではの難しさがあり、長期商談・技術提案・代理店経由・保守更新・受注予測の課題があります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーで働く営業担当者と、その組織を率いるマネージャーの方必見です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "求められるスキル（製品知識・ヒアリング・部門連携）",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "技術提案の属人化と部門間情報分断",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "保守・アフターの機会取りこぼし",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "Step4 保守・更新提案を機会として先回り管理する",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "Q:保守・アフターの更新提案を取りこぼさないために、まず何をすべきですか？",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーの営業とは、自社で設計・製造した機械を顧客の生産現場に導入してもらう、技術と商談を橋渡しする役割です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "ここに自社製造ならではの重みがあります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーの営業は、社内では設計・技術・生産管理・保守部門と連携し、社外では顧客の生産技術部門・購買部門、そして代理店・特約店と関わります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "午前は顧客工場での仕様すり合わせ、午後は別の顧客や代理店を訪問、夕方に社内で技術部門と提案を詰める、といった広域移動を伴うスタイルが一般的です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "最大の違いは、自社で製造しているがゆえに、提案した仕様の妥当性や導入後の性能まで自社が責任を負う点です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客の要求が自社の技術で実現できるかを早い段階で見極め、社内の設計・技術部門と握っておく必要があります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メーカーの営業に求められるのは、製品知識・ヒアリング力・部門連携の3つを束ねる力です",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、引き出した要件を設計・技術・保守の各部門に渡し、組織として提案をまとめ上げる連携力が欠かせません",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業・技術・製造が連携するマーケティング体制の作り方【関東製作所式 製造業マーケティング実践講座#4】 | MFG Hack",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "営業・技術・製造が連携するマーケティング体制の作り方【関東製作所式 製造業マーケティング実践講座#4】",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "「マーケティングは専門の担当者に任せておけばいい」",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "そう考えている製造業の経営者は少なくありません",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、製造業のマーケティングを成功させるには、",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "営業・技術・製造の各部門が連携してこそ成果が生まれます",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "一つの部門だけでは「技術の専門性」「顧客の課題理解」「効果的な情報発信」の3つを同時に実現することはできないからです",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、部門間連携によるマーケティング体制の作り方を、関東製作所の実例とともに解説します",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造業では部門間連携が重要なのか",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マーケティングに必要な3つの視点",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "各部門がマーケティングに関わるメリット",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "営業部門のメリット",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製造部門のメリット",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング担当者が窓口になる体制づくり",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "③各部門と日常的に交流して関係を深める",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "製造業の営業活動では、新規顧客の開拓に時間がかかる、問い合わせがあっても受注につながらない、自社の技術を必要とする企業に出会えないといった課題が生じやすくなっています",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "多くの問い合わせを獲得できても、条件が合わない案件ばかりでは、技術確認や見積もりに多くの時間を費やしてしまいます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "営業効率は、営業活動に投入した時間や人的資源に対して、どれだけ有望な商談や受注成果を得られたかという視点で考える必要があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ビジネスマッチングを導入するときには、案件数の増加だけでなく、案件の適合性、商談化率、見積もり作業時間、受注率、継続取引の可能性まで意識することが大切です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "実現可能性の低い案件に時間を費やすことを防ぎ、得意領域の商談に集中するための判断材料になります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "この過程が担当者ごとの経験や判断に依存していると、同じ種類の案件でも確認内容や対応時間にばらつきが生じます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単純な案件件数だけではなく、商談の進み方や投入した作業時間も含めて評価する必要があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "次に確認したいのは、見積もり提出から受注に至る割合です",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業効率を評価するうえでは、見積もり作業に要した時間も重要な指標になります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、同じ受注件数であっても、問い合わせ対応や社内確認に必要な時間が減少していれば、営業活動の効率が改善している可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "案件ごとの作業時間を記録すると、どの工程に負担が集中しているのかを把握しやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "図面確認に時間がかかっている場合は、必要資料の受領方法を改善することが考えられます",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "発注企業からの追加情報を待っているのか、社内の技術検討に時間がかかっているのか、見積もり提出後の回答待ちなのかによって、取るべき対応は異なります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "大型装置の製造委託や共同開発などでは、商談開始から受注判断までに時間がかかる場合があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "相手の検討段階を把握しないまま詳細な見積もりを繰り返すと、社内の工数が増える可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "pass": 3
+   },
+   {
+    "quote": "試作から量産時においてトラブルなく良心的なコストで移行できることを価値として訴求できています",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "のもと、同業他社が数日かけて提出する見積もりを最短1時間以内に提出しています",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "このスピーディーな見積もり回答を実現するために、外注先の見積もり待ち時間を省き、自社で迅速に見積もりを行う仕組みを独自で考案することで、",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "立体造形物はどちらかというと工業より工芸に近い分野でしたが、そのような要望にも低コストで対応できるよう、",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "市場が変わることで競合する相手も変わったが、それに対し自社のコア技術であった工業化によるコストダウンで対抗",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "似た案件が来たとき過去のナレッジを引き当てられれば、検討時間を大きく圧縮できます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに訪問頻度や提案からの経過日数を重ねると、止まっている案件と本当に進んでいる案件を見分けられます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "空いた時間を提案の質を高める方向に振り向けられれば、1社あたりの商談密度も上がります",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに訪問頻度や提案からの経過日数といった活動データを重ねると、進んでいる案件と止まっている案件を見分けられます",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "※受付時間：10:00〜17:00（土日祝、年末年始を除く）",
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "pass": 3
+   },
+   {
+    "quote": "営業が新規開拓に費やす時間を削減でき、より質の高い商談に集中できます",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、市場ニーズを調査する時間は限られており、実施できたとしても既存顧客からのヒアリング程度で、情報に偏りが生じやすいです",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "製造部門が顧客と関わる時間は限られており、市場ニーズまで把握するのは難しいです",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、製造業の一般的な指標であるQCD（品質、コスト、納期）で考えると、製造現場としては品質に絶対的な自信があり、そこを徹底的に追及していたとしても、市場が「安く、早く」を求めている場合には、ニーズとの乖離が発生してしまいます",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "関東製作所では、月に1回、各事業部ごとにコンテンツに関する会議の時間を設けています",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "・マーケ担当者のインタビュー時間が不要",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "工数（執筆時間）が必要",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "・インタビュー+執筆で時間がかかる",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "技術者にコンテンツ執筆を依頼しながら、マーケティング担当者もインタビューの時間を設けてコンテンツを執筆しています",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "・技術者が多忙で執筆時間を確保できない",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "特にYouTube運用に注力し、2024年10月にはチャンネル登録者数1,000人・総再生時間4,000時間を達成し、収益化を実現",
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "pass": 3
+   },
+   {
+    "quote": "段取り時間短縮、外段取り化、多能工化、ムダ取り、スムーズでフレキシブルなレイアウト編成、変種変量型生産・・・・・",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "ただしゼロからの構築は効果の刈り取りまでに時間が掛かります",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＴ利活用というと、費用面だけでなく、それなりのスキルを有する情報システム担当の配置を考慮する必要がありました",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "ところが費用面、運用面（スキル、工数）においてわずかな負担で手が届くようになってきたのです",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "このように複雑な要素が絡み合うため、営業担当が行うべき重要なタスクが漏れたり、判断に時間を要したりしやすいのが現状です",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業には、モノを売るだけでなく、顧客が抱える製造プロセスやコスト削減などの課題を理解し、それに合わせたソリューションを提案する役割が求められます",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "見積や受注、売上データなどがバラバラで管理されていると、営業担当者ごとに資料作りに多くの時間を割かなければならず、ミスも発生しやすくなります",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程とコストの双方を管理しやすくなり、リアルタイムで生産状況を把握できるため、全体を可視化することで、営業が最新情報を踏まえた提案や価格交渉に集中しやすくなります",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "製品の納期やコストについて自信を持って提案できるため、顧客の要望にタイムリーに応えられる体制が整います",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "このように、納期短縮やコストダウンなど、製造業の顧客が重視するポイントをスピーディーに提供できる体制づくりにおいて、生産管理システムは大きな後押しとなるでしょう",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "特に、生産管理システムの「TECHS-S NOA（テックス・エス・ノア）」のようなツールを取り入れることで、在庫管理やスケジュール調整をスムーズに行い、顧客に対して納期やコストを明確に提示できる体制をつくることが可能です",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "調達コストを削減するには？調達業務の課題とコストを削減する方法",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "新規開拓と既存顧客への提案は、目標や担当時間を分けて管理すると、どちらかが後回しになる状態を把握しやすくなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり提出後の失注が多いなら、価格・納期などの条件差、提案の根拠、回答までの時間を確認します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "コストリーダーシップ",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "（複数回答）」（n=104）と質問したところ、「商品の資料請求・ダウンロード」が60.6%、「商品のサービスサイト」が53.8%、「商品の比較サイト」が46.2%という回答があったというデータがあります",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "結果をみると、製品を購入する前にサービスサイトや関連サイトなどで情報を集めている割合が高いことがわかります",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、企業名や製品名を認知していない顧客に向けては、短い時間で社名ロゴや製品の特徴が理解できるようなコンテンツを打ち出す場合もありますし、関係性が構築されている顧客に向けては、直接ヒアリングできる相談会などの場をつくるといったこともあるでしょう",
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "pass": 3
+   },
+   {
+    "quote": "本記事でも、案件の停滞箇所を可視化して売上前年比120%を達成した産業用機器メーカーなど、製造業2社の支援事例を紹介しています",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器メーカー：製品説明を顧客課題起点の提案に変え、受注率が10%から20%へ",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用機器メーカー：案件の停滞箇所を可視化し、パイプライン2倍・売上前年比120%",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "キャククルの調査によれば、54.9%の回答者が「条件に合う商品が見つけづらい」と答えています",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査によれば、製造業の中小企業の46.6%が「若年ものづくり人材の確保が困難」と回答",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "時間軸の設定",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "仕様変更の提案ができない量産段階では、価格競争になりやすくなるため、試作段階で課題を抱えている見込み顧客へターゲットを絞りました",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、汎用プラスチック分野では競争が激しく、高付加価値の仕事を獲得するのが難しいとの判断から、",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "競争を避けるために付加価値の高い分野にターゲットを絞る",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "コミディティ化した技術に対し、市場（用途）を変えることで新たな付加価値を創出",
+    "url": "https://techport.co.jp/archives/29804",
+    "pass": 3
+   },
+   {
+    "quote": "顧客要望通りの納期では出来ない、顧客のいろいろな要望にきめ細かく応えていたら手間ばかり掛かってしまう、高い工場原価（顧客要求価格と掛け離れたレベル）である、挙句の果てには納品物の品質が顧客要望に合わない事態が発生・・・・・",
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程とコストの双方を管理しやすくなり、リアルタイムで生産状況を把握できるため、全体を可視化することで、営業が最新情報を踏まえた提案や価格交渉に集中しやすくなります",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "『TECHS-S NOA』で収集した原価データや過去の作業実績情報は、取引先との価格交渉はもちろん、精度の高い見積作成が実現します",
+    "url": "https://www.techs-s.com/media/show/265",
+    "pass": 3
+   },
+   {
+    "quote": "対応できる仕様、数量、納期、価格、取引条件は何か",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "価格・納期・品質などの条件差に加え、自社を選ぶ根拠や見積もり回答の速度を確認しているか",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "失注理由を「価格が高かった」で終わらせず、競合との条件差や、相手が重視していた点を記録します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "価格差が実際の原因なら、原価や取引条件の検討も必要です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "また、購買担当者には価格・供給条件、設計担当者には仕様への適合、品質保証担当者には検査や管理体制など、確認したい情報が異なる場合があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりには、価格に加えて、仕様、数量、納期、検査範囲などの前提条件を示します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "条件が揃わないまま価格だけを比較されると、提案内容の違いが伝わりません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり提出後の失注が多いなら、価格・納期などの条件差、提案の根拠、回答までの時間を確認します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "pass": 3
+   },
+   {
+    "quote": "【経営者・営業責任者向け】製造業の営業戦略の立て方｜価格勝負から抜け出す6ステップ | CLF PARTNERS株式会社",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "【経営者・営業責任者向け】製造業の営業戦略の立て方｜価格勝負から抜け出す6ステップ",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "「技術力には自信があるのに、最後は相見積もりの価格で負けてしまう」",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "価格勝負に陥るのは技術が劣っているからではなく、その技術で顧客の不良率や納期がどう変わるのかを伝えきれていないことに原因があります",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "累計400社以上の営業支援を手がけてきたCLF PARTNERSの独自メソッド「QDRモデル」も使いながら、製造業が抱える営業戦略の課題と、価格勝負から抜け出すための立て方6ステップを解説",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "価格比較で負ける原因を「量・深さ・応答」で切り分ける",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "価値が伝わらないままでは、顧客は仕様と価格だけで比較するようになり、技術力があっても価格勝負に巻き込まれてしまいます",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "「営業担当者を採用したのに、新規の取引先が一向に増えない」「技術力には自信があるはずなのに、結局は価格でしか比較さ…",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "翻訳されないまま提案すれば、顧客は仕様と価格を並べて比べるしかなく、最後は価格勝負に陥ります",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "価格比較で負ける原因は製品力とは限らず、営業担当者の実行力のどこかが弱いケースが少なくありません",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "課題が浅いまま出した提案は、他社の見積もりと横並びになり、仕様と価格でしか比べられなくなります",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "仕様が固まってからでは比較の軸が価格と納期に絞られますが、設計段階から関われば価格以外で選ばれる余地が生まれます",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "価格勝負に陥る原因は技術力の不足ではなく、技術の価値が顧客の言葉で伝わっていないことにあります",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "特に重要なのは、技術を顧客の数字の変化に翻訳すること、受注前に営業と生産部門で判断基準をそろえること、価格で負けたときに営業個人の量・深さ・応答のどこが弱いかを切り分けることの3点です",
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "に渡るため、取り扱い商材も幅広く、お客様とメーカーの間に立って、価格や納期などの様々な交渉を行っていきます",
+    "url": "https://www.kakuta.co.jp/blog/interview02",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で「良いものを作っているのに、提案が価格勝負になる」という悩みは少なくありません",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "パンフレット（営業資料）が“製品紹介”中心になり、価格比較に巻き込まれる",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ営業が「価格商談」に陥るのか",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その情報が“製品スペック”に寄ると、顧客の頭の中では比較表が作られ、結果として価格交渉に引きずられます",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "最初にサービスや製品を並べてしまうと、顧客は「結局いくらか」「他社と何が違うか」を価格軸で判断しやすくなります",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "すると、提案の主戦場が“価値”ではなく“単価”になり、価格商談に陥ります",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ4：事例を数値化する（削減効果を“納品物”にする）",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "事例が数値化されると、パンフレットの説得力が上がり、価格勝負になりにくくなります",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "工程上のリスク（破損、手戻り、クレーム、店頭展開遅れ）を減らせることを価値として提示すると、価格以外の評価軸が生まれます",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "もし、現在の営業資料が「製品紹介」中心になっていて価格商談が増えている場合は、資料の文章を直す前に、ターゲットと提案ストーリーの骨格から整えることをおすすめします",
+    "url": "https://yokonoyama.com/?p=5132",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争だけでなく、品質や納期、サービス面での差別化が求められています",
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "pass": 3
+   },
+   {
+    "quote": "価格以外の価値提供",
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の紹介や技術セミナーの案内、特別価格での提案など、さまざまな用途で活用できます",
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の計算方法",
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "pass": 3
+   },
+   {
+    "quote": "抽象的な表現（「高品質」「低価格」など根拠がない）",
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果 (7)",
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場での競争が激化し、価格競争が激しくなっているため、顧客からのニーズを正確に把握して、付加価値の高い製品を提供する必要がある",
+    "url": "https://techport.co.jp/archives/30587",
+    "pass": 3
+   },
+   {
+    "quote": "ROI in Days",
+    "url": "https://www.canals.ai/products/manufacturer-inquiry-handling",
+    "pass": 3
+   },
+   {
+    "quote": "How the ABCs Drive ROI With Manufacturing Inventory",
+    "url": "https://www.industryweek.com/supply-chain/customer-relationships/article/22007257/using-inquiries-to-increase-sales",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/29804",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upward.jp/weblog/industrial-machinery-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://decentralizedpro.io/ai-usecase/case-120/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/marketing/11620/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/265",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/35933",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.strarts.co.jp/marketing-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gosho-jp.com/recruitment-information/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sts-sakae.co.jp/p_recruitment/interview/interview_02.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/manufacturing-company-profile14",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-note.jp/hioki/recruit/people/sales2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kakuta.co.jp/blog/interview02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maruni-ind.co.jp/journal/journal-949/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yokonoyama.com/?p=5132",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.value-fax.com/blog/archives/1325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prm-japan.com/blog/sales-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/30587",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/29804",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/1246/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://conga.com/resources/blog/inquiry-to-order-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canals.ai/products/manufacturer-inquiry-handling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esker.com/solutions/customer-inquiry-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/supply-chain/customer-relationships/article/22007257/using-inquiries-to-increase-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morebusiness.com/streamline-sales-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monday.com/blog/crm-and-sales/most-efficient-ai-for-handling-sales-inquiries/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ものづくり企業の営業・問い合わせ対応の工程",
+   "results": [
+    "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "https://techport.co.jp/archives/29804",
+    "https://upward.jp/weblog/industrial-machinery-sales/",
+    "https://decentralizedpro.io/ai-usecase/case-120/",
+    "https://mfg-hack.com/marketing/11620/",
+    "https://note.com/monozukuri_d_lab/n/nce3b7ee596f0",
+    "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-sales-support/",
+    "https://www.techs-s.com/media/show/265",
+    "https://marketing.techport.co.jp/archives/42644/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の営業・問い合わせ対応の工程 仕組み 解説",
+   "results": [
+    "https://techport.co.jp/archives/29804",
+    "https://lefixea.jp/mfg/articles/manufacturing-business-matching13",
+    "https://www.techs-s.com/media/show/265",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/",
+    "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "https://mfg-hack.com/marketing/11620/",
+    "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "https://newswitch.jp/p/35933",
+    "https://marketing.strarts.co.jp/marketing-001/",
+    "https://fazom.ai/blog/sales-ai-dx/response-method-xd7c92/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の営業・問い合わせ対応の工程 インタビュー",
+   "results": [
+    "https://www.gosho-jp.com/recruitment-information/interview/",
+    "https://www.sts-sakae.co.jp/p_recruitment/interview/interview_02.html",
+    "https://mfg-hack.com/marketing/11620/",
+    "https://techport.co.jp/archives/29804",
+    "https://lefixea.jp/mfg/articles/manufacturing-company-profile14",
+    "https://www.i-note.jp/hioki/recruit/people/sales2.html",
+    "https://www.kakuta.co.jp/blog/interview02",
+    "https://maruni-ind.co.jp/journal/journal-949/",
+    "https://press-c.co.jp/recruit-top/interview/interview01/",
+    "https://recruit.murata.com/ja-jp/member/interview/010/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の営業・問い合わせ対応の工程 事例",
+   "results": [
+    "https://techport.co.jp/archives/29804",
+    "https://lefixea.jp/mfg/articles/manufacturing-company-profile14",
+    "https://decentralizedpro.io/ai-usecase/case-120/",
+    "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_eigyousenryaku",
+    "https://yokonoyama.com/?p=5132",
+    "https://clfpartners.co.jp/column/manufacturing-sales-strategy/",
+    "https://web.value-fax.com/blog/archives/1325",
+    "https://mfg-hack.com/marketing/11620/",
+    "https://www.prm-japan.com/blog/sales-success/",
+    "https://marketing.techport.co.jp/archives/30587/"
+   ]
+  },
+  {
+   "query": "sales inquiry handling process manufacturers",
+   "results": [
+    "https://conga.com/resources/blog/inquiry-to-order-process",
+    "https://www.canals.ai/products/manufacturer-inquiry-handling",
+    "https://www.esker.com/solutions/customer-inquiry-management/",
+    "https://www.industryweek.com/supply-chain/customer-relationships/article/22007257/using-inquiries-to-increase-sales",
+    "https://www.morebusiness.com/streamline-sales-process/",
+    "https://www.linkedin.com/top-content/sales/sales-process-optimization/connecting-customer-inquiries-to-sales-workflow/",
+    "https://monday.com/blog/crm-and-sales/most-efficient-ai-for-handling-sales-inquiries/",
+    "https://www.leadsquared.com/learn/sales/enquiry-management-system/",
+    "https://herothemes.com/blog/handle-customer-inquiries/",
+    "https://growthprofessionals.com/effective-sales-process-in-manufacturing/"
+   ]
+  }
+ ],
+ "missing": {}
+}

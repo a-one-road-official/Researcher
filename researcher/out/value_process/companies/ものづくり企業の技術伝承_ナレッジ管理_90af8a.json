@@ -1,0 +1,1946 @@
+{
+ "name": "ものづくり企業の技術伝承・ナレッジ管理",
+ "en": "knowledge transfer manufacturers",
+ "aliases": [
+  "技術伝承 課題",
+  "ナレッジ管理 製造業",
+  "属人化 製造業"
+ ],
+ "context": "工程",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:29:26.975905+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "業務プロセス改革",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略のプロセス・手法",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品のコストダウンを実現するバリューエンジニアリング（VE）の本質的な活用方法",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングまでの流れ",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "業務プロセスの改善や問題解決を迅速に行うことができ、生産性の向上やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ共有のプロセス、暗黙知から形式知への流れを表すSECIモデルでは、Socialization（共同化）、Externalization（表出化）、Combination（連結化）、Internalization（内面化）の4つのフェーズでナレッジの活用を考えます",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "手順をまとめるマニュアル化もナレッジマネジメントの一つ",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "マニュアル化は、情報共有のための一般的で有効な方法の一つです",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "業務の手順や作業方法をまとめて従業員間で共有することで、業務の効率化や品質管理を行うもので、ナレッジマネジメントの一環といえます",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄積した過去のデータを分析したり検索したりして活用すれば、より効率的な業務プロセスを作っていけるでしょう",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用を成功させる導入の手順",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用の導入を成功させるには、ステップを踏み、経営層のサポートや社内文化の醸成も意識しましょう",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用へのステップ",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用の方法や事例",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用には、社内SNSやチャットツール、社内Wiki、FAQデータベース、オンライン研修、人材マッチングプラットフォームなど、さまざまな方法があります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "有効なツールの種類、活用方法を説明していきます",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの自己学習機能により精度が向上するため、企業の意思決定や業務プロセスの改善に役立てることができます",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "匠KIBITは、熟練技術者の保有するガラス製造の知見をグループ内の技術者が簡単に引き出すことが可能で、自律的にデータベースを拡充できる仕組みを持っています",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントとは、企業内に存在するナレッジを戦略的に管理・活用するプロセスです",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、次にそのナレッジを効果的に共有・活用できる仕組みを構築します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の不具合事例や解決策、ベストプラクティス（最善の方法）を体系的に蓄積・共有することで、品質問題の再発防止や早期発見が可能になります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造プロセスの各段階で得られたナレッジを他のプロセスに展開して継続的な品質改善も期待できます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "生産プロセスの最適化による作業効率の向上",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントを活用すれば、生産プロセスの最適化と作業効率の大幅な向上も期待できます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "マネジメント層からの継続的なメリットの説明や、提供社員へのインセンティブ、ナレッジ共有が簡単に行える仕組みの検討が必要です",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "SECIモデルは、 経営学者の野中郁次郎氏が提唱したナレッジマネジメントの基本理論で、暗黙知と形式知の相互変換を4つのプロセスで説明しています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "SECIモデルの4つのプロセスが効果的に作用するには、それぞれが行われる場を用意する必要があります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれのプロセスの意味と相当する場は以下のようになります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "共同化は暗黙知から暗黙知に変換するプロセスです",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "表出化は暗黙知を形式知へ変換するプロセスです",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "この表出化のプロセスでは、しっかりと暗黙知を他人に伝わる形式知に変換できるように対話の場を設けることが重要です",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業にとって効果的なマニュアル作成とは？ 作成の手順とポイントを解説",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの記事では、マニュアル作成が必要な理由や実際に作成する際の流れを確認し、マニュアルを作成・運用する際に押さえるべきポイントを解説します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、技術伝承を成功させるためのノウハウ蓄積の方法と実践的なアプローチを解説します",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ノウハウ蓄積と活用のための実践ステップ",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ノウハウ蓄積と活用の評価方法と継続的改善",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメント（Knowledge Management）とは、企業内で得られた知識やノウハウを戦略的に管理し、活用するプロセスを指します",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に設計開発部門では、蓄積された技術ノウハウが次世代の製品開発の基盤となるため、効果的なナレッジ蓄積の仕組みが不可欠です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジの共有・活用の仕組み",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "退職や転職によって知識が流出する前に、組織的なナレッジ蓄積の仕組みを構築することが急務となっているのです",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "→ 作業手順の裏にある判断基準を可視化",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業では、ナレッジ蓄積の仕組みを導入しても、実際にノウハウが集まらないという問題に悩まされています",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの対策を組み合わせることで、組織内でのノウハウ蓄積の流れを作ることができます",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "理論を理解したら、次は実際にナレッジマネジメントを導入するための具体的なステップを見ていきましょう",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "目的の明確化から評価・改善までの流れを把握することで、効果的なノウハウ蓄積システムを構築できます",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のステップに沿って準備を進めましょう",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "業務プロセスへの組み込みと定着化",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の方法で業務プロセスへの組み込みを進めましょう",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承が進まない背景・阻害要因を整理し、暗黙知を形式知へ変換するプロセスと、マニュアル・動画・ITツールを活用した実践手法を経営者・人事責任者向けに解説します",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず「見える化」から始め、「経営の仕組み」にしましょう",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "後継者が確保できなければ、伝承の仕組みを整えても機能しません",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "暗黙知を形式知へ変換するプロセス",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承を推進するうえで中核となるのが、「暗黙知」を「形式知」（言語・図表・映像など、他者と共有・活用しやすい形に表現された知識）へ変換するプロセスです",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "①共同化→②表出化→③連結化→④内面化という4つのプロセスを循環させることで、組織全体の知識を高めていく考え方です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業しながら「今、何を見ていますか」と問いかける再現インタビュー、本人に映像を見せて判断点を後追いで説明してもらう動画の見返し、成功より失敗事例を起点にする方法などが、現場で実績を上げています",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承が進んでいる企業とそうでない企業の分かりやすい差は、「人に仕事が付いているか、仕事に仕組みが付いているか」 です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業手順の文書化は形式知化の基本です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "「代替要員がいない技術」「品質に直結する作業」「退職リスクが近い熟練者の保有技能」など、重要度と緊急度に基づいて伝承すべき技術を絞り込み、段階的に取り組むことが現実的です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "②仕組みとしての継続性",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準書・動画の更新責任者と頻度を決め、技能習得をキャリア要件に接続することで、技術伝承は「キャンペーン」ではなく「経営の仕組み」になります",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "組織人材・現場人材の育成・活性化",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業の企業幹部の方から、技術伝承・技能伝承に関する課題や問題など“お困りごと”として、下記のようなことをよくお聞きします",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承・技能伝承の課題や問題“お困りごと”の背景",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "また、団塊の世代が退職してしまい、これまで培ってきた技術・技能に対する伝承、情報の共有が不十分で、現場が弱体化しているということも考えられます",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "海外のコンサルの現場から",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "主な機能として、文書の共有・編集、タスク管理、プロジェクト管理やチャット機能などがあり、社内での情報共有やコミュニケーションを強化し、ビジネスの現場を改善する存在となっています",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、たとえば転職してきた人材の早期戦力化ニーズを解決するためにも、ナレッジマネジメントの重要性が高まっています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、顧客ニーズや市場トレンドに関する情報を企業全体で共有して、市場ニーズに合致した革新的な製品やサービスの開発につながります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの現場で人材不足を感じることが多く、一人が長期に抜けることで現場が立ち行かなくなる状況に不安を覚えている方は多いのではないでしょうか",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の優秀な社員が持っていたナレッジや現場での改善活動を共有し、会社全体のスキル向上につなげます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "営業部門やカスタマーサポート部門で収集された顧客ニーズ、クレーム情報、過去の対応履歴、商品改善要望などを一元管理し、製品開発やサービス改善に活かします",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層から現場まで一貫した理解がなければ、継続的なナレッジ共有は難しくなります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "入力のしやすさ、検索性、運用負担の少なさなど、現場目線の仕組みづくりが成功の鍵です",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "防災時の対応は、現場にいなければ情報が把握できない、あるいは判断が現場に任されるケースが多く、重要な情報が暗黙知として蓄積されやすい傾向がありました",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで製造現場の技能伝承では集合研修やOJTが中心でしたが、ベテラン社員の作業動画や詳細な手順書をデジタル化し、若手社員がスマートフォンやタブレットで学習できる環境を整備しました",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の安全確保に向けたスキルデータの活用",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル対応で現場からもアクセス可能に",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "形式知と暗黙知の違いとは？現場で活かすポイントと具体例",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造現場は“属人化”から抜け出せないのか｜ナレッジマネジメントで解決する方法",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の現場にフィットする外国人材を発掘・育成し、お客様の現場に最適な人材をご提案します",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり現場の人が統計学を使わない3つの理由｜熊野コミチの「ものづくり統計学」【第1回】",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業や専門職の現場では、熟練者が長年かけて培った技術・ノウハウを次世代へ引き継ぐ「技術伝承」が、経営上の重要課題として位置づけられています",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし支援現場では、「必要性は理解しているが、経営課題として優先順位づけできていない」企業が大半を占めます",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "「今は受注が多く、教育に人を割けない」「ベテランを外すと現場が回らない」という声は典型的です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業しながら「今、何を見ていますか」と問いかける再現インタビュー、本人に映像を見せて判断点を後追いで説明してもらう動画の見返し、成功より失敗事例を起点にする方法などが、現場で実績を上げています",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "形骸化の主因は「作ることが目的化」「現場の業務フローに組み込まれていない」「更新責任者がいない」ことです",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承の成否は、現場の善意ではなく、経営の設計力で決まります",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "定量的な分析と現場視点のノウハウを融合させ、企業の持続的な成長を「HR」の側面から多角的にサポートする",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場定着まで伴走する",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "いま製造現場で起きている「静かな損失」",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "営業と見積もりの現場はもっと切実です",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "現場の技能継承も同じ構図です",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、現場で本当に困っているのは言葉の違いではありません",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "現場に残業の余力がなくなれば、OJTや若手育成に割ける時間も削られていきます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "設計変更や工程改善のたびに直すはずが、忙しさのなかで放置され、いつのまにか現場の実態とずれていきます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "OJTの時間が取れない現場でも、伝承の一部を仕組みで肩代わりできます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "現場に「AIは使えない」という空気が残ってしまい、次の一歩が踏み出せない",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "現場で困るのはどちらも同じで、ベテランの判断を組織に残せるかどうかが本質です",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "小さな成功体験が現場の空気を変える",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "まずは1枚の図面、ひとつの困りごとから始めてみてください",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のDX・AI活用を、現場の痛点から逆算して整理した実践ガイドです",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "暗黙知は、その人の長年の経験や現場での試行錯誤から得られるため、具体的な数値やトレーニングマニュアルに落とし込むのが難しい特徴があります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程や使用材料の変更があっても、マニュアルが古いまま放置されると、現場とのギャップが生じ、さらに属人化を招く恐れがあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように形式知が充実している現場ほど、新人教育や業務の引き継ぎがスムーズに進む傾向があります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売やマーケティングからのフィードバックと製造技術が結びつきやすくなり、顧客ニーズに即した改良や新製品開発もしやすくなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に忙しい現場では、暗黙知を言語化してマニュアル化することの重要性を痛感するケースが多くなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場での仕事の流れを可視化し、その中でどの部分に熟練のノウハウが潜んでいるかを明らかにするステップが大切です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、従業員同士が常にコミュニケーションを取れる環境が整っていると、日々の雑談から新しい知見が生まれ、現場でのトラブル解決策が共有されやすくなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、現場での業務手順を詳細に分析し、各フェーズで熟練者がどのように独自の判断を下しているかを把握することが重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業工程をプロセスマップに変換したり、インタビューや現場観察を通じて専門家の思考プロセスを明確にすることで、暗黙知を引き出しやすくなります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場においては、暗黙知と形式知のギャップを埋め、技術伝承を円滑にするための枠組みとして有効に機能します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場では、実際に手を動かしながらリアルタイムで学びを得るケースが多いため、このモデルの活用は取り入れやすい側面があるでしょう",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "共同化の段階では、言葉で表現しづらいノウハウを対面や現場の見学を通じて伝えることが中心です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "マニュアルや動画で得た情報を現場で活用することで、徐々に個人の暗黙知として蓄積されていきます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、検索機能が充実しているツールを活用すれば、必要な情報をすぐに見つけられるため、生産現場のスピード感を維持できます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内SNSやチャットツールでは、リアルタイムでのやり取りが可能であるため、現場から直接フィードバックを受けながら、知識を高めることができるメリットがあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承が「重要だが緊急ではない」課題として後回しになる構造は、多くの現場に共通しています",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "現場の熟練者が「今日は何も指導できなかった」と感じながら帰宅する状況が続いているなら、それは仕組みの問題として捉える必要があります",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "「技術は見て盗め」という考え方が根強い現場では、体系的なOJTプログラムが存在しないまま「なんとなく先輩の背中を見て学ぶ」形式が続いています",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承の重要性は現場レベルで認識されていても、短期の業績目標や目前の生産計画と優先順位が競合すると、伝承活動は押し出されてしまいます",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "調達・購買コスト削減",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "ロスコスト削減",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術を活用した業務改革（DX）～第１回 2030年問題に備えるためのDX～",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術を活用した業務改革（DX）",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年「経営人財育成塾」交流イベント",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年「経営人財育成塾」第２回講演より",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入支援サービス",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・実績",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "業務プロセスの改善や問題解決を迅速に行うことができ、生産性の向上やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "企業内で共有し、活用することで生産性の向上やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントは、直訳すると知識管理という意味で、企業に蓄積したナレッジを効果的に管理し、活用することを指します",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用ができれば、過去の問い合わせ事例やFAQなどの情報を蓄積し、自動化やAI技術を活用することで、問い合わせ対応の工数を削減でき、人的リソースの有効活用やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用を成功させる導入の手順",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用の導入を成功させるには、ステップを踏み、経営層のサポートや社内文化の醸成も意識しましょう",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用の導入には、現状の課題の洗い出し、目的や効果の明確化、システムの導入、社員の教育や意識改革、運用ルールの策定などが必要です",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、SECIモデルを用いた理論的背景から、導入課題、成功のポイントまでを実例とともに解説します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "個人や部門が持つ専門知識、経験、ノウハウを企業全体の資産として捉え、効果的に共有・活用して、業務効率の向上や競争力の強化を図ります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、次にそのナレッジを効果的に共有・活用できる仕組みを構築します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、データベースの整備、社内SNSの導入、定期的な勉強会の開催などが挙げられます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、総務省統計局の2023年の調査結果によると、就業者のうち転職者（前職のある者で、過去１年間に離職を経験した者）は325万人で前年より増加、また転職等希望者は1,035万人で過去最多の人数となっています（出典：総務省統計局労働⼒⼈⼝統計室「",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業ではナレッジマネジメントを導入することで、多くのメリットが得られます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2002年から2021年までの20年間で日本の総労働人口は増加しているにも関わらず、製造業においては157万人も減少しています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントでは、このような技術・技能伝承の難しい情報を若手社員が学びやすい形で共有して、技術の継承をスムーズに行う効果があります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに現在では、デジタルツールを活用した教育コンテンツの作成や、VR・AR技術を用いた実践的な訓練により、効率的かつ効果的な技術・技能伝承が促進されます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ベストプラクティスや改善事例の共有と他の工程への水平展開は、ムダの削減や作業時間の短縮につながります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントの導入は、人材の流動性が高まる現代において、企業力を強化する有効な手段にもなります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "人材配置の自由度が高まれば、適材適所の人材活用と効果的なキャリア開発が実現し、企業全体の競争力向上につながるでしょう",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントを効果的に行うには下記の課題を解決する必要があります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントの効果を適切に評価するのは難しいため、導入や継続的な取り組みの障害となるケースも散見されます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化と人材の流動化が進む今、組織の知識資産を効果的に管理・活用するナレッジマネジメントの重要性はますます高まっています",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に設計開発部門では、蓄積された技術ノウハウが次世代の製品開発の基盤となるため、効果的なナレッジ蓄積の仕組みが不可欠です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "効果的なナレッジマネジメントを実現するためには、以下の基本要素を理解し、実践することが大切です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントを通じたノウハウ蓄積は、以下のような効果をもたらします",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントによる主な効果",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足対策から品質管理の向上、イノベーション促進まで、幅広い効果が期待できます",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、特に設計開発部門では広範な知識や複雑な技術が求められ、これらを効果的に伝承することが大きな課題です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承の効果を高めるためのポイント：",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理におけるノウハウ蓄積の効果",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、開発期間の短縮やコスト削減にもつながります",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業では、ナレッジ蓄積の仕組みを導入しても、実際にノウハウが集まらないという問題に悩まされています",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "その主な原因と効果的な対策を紹介します",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "効果的な対策",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "– 簡易入力フォームの導入",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ノウハウを集めることができても、それが効果的に活用されないケースも少なくありません",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、いきなり「言語化してください」と求めることは逆効果です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、話させるより「やってもらいながら止めて聞く」アプローチが効果的です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "単独で最も効果が出やすいのはスキルマップです",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "作成の際は、要点を絞った短い動画を複数用意し、項目別に整理することが効果的です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、導入直後は盛り上がっても形骸化するケースは多く見られます",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ人材育成を見直す必要があるのか？効果的な人材育成の見直し方",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "効果的な人材育成計画の立て方とは？人材育成における3つのポイント",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "効果的な人材育成ロードマップの作成方法とは？作成におけるポイントや方法を解説",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間で大企業から中堅企業まで約200業種、22,100社以上に経営コンサルティングを実施してまいりました",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織診断×変革エンゲージ開発",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI×業務改革で",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入診断",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "導入でつまずかないための勘所とツール選定",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入でお悩みですか？",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ZEROCKの導入事例と活用方法をまとめた資料をご用意しています",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "設計・開発改革",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・生産管理",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "調達・購買コスト削減",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "調達・物流改革",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業の企業幹部の方から、技術伝承・技能伝承に関する課題や問題など“お困りごと”として、下記のようなことをよくお聞きします",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "□開発・設計や生産技術等、自社の技術・技能の中核を担う人材が育っていない",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "事例としては、IT企業では技術情報の共有、製造業では生産ラインの改善、営業企業では顧客情報の共有など、業種や目的に合わせた活用が行われています",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "AGC株式会社と株式会社FRONTEOが、自然言語解析AIエンジン「KIBIT」を活用したガラス製造AI Q&Aシステム「匠KIBIT」を共同開発し、AGCの国内ガラス製造拠点で運用を開始しました",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "匠KIBITは、熟練技術者の保有するガラス製造の知見をグループ内の技術者が簡単に引き出すことが可能で、自律的にデータベースを拡充できる仕組みを持っています",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、世界中のAGCのガラス製造拠点に展開する予定です",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "『熟練のガラス製造技術を次世代へ 創業113年のガラス製造企業が挑むAIによる技術・技能伝承』",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントとは？ 製造業で重要な理由・SECIモデル・成功のポイントをわかりやすく解説",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のためのスキルマネジメントシステム",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、言語化の難しいベテランの従業員が持つコツやノウハウを伝承する「技術・技能伝承」や「人手不足」の解決策として注目されています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "個人や部門が持つ専門知識、経験、ノウハウを企業全体の資産として捉え、効果的に共有・活用して、業務効率の向上や競争力の強化を図ります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるナレッジマネジメントのメリット",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業ではナレッジマネジメントを導入することで、多くのメリットが得られます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、今後、人手不足の深刻化が予想されています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2002年から2021年までの20年間で日本の総労働人口は増加しているにも関わらず、製造業においては157万人も減少しています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造業で人手不足が深刻化しているのか？データから原因・影響・対策を徹底解説",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では経済産業省の「ものづくり白書」などで示されたデータを中心に製造業の人手不足の実態と理由、対策について解説します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は、各職種において広範な知識や複雑な技術が求められるため、技術・技能伝承が難しい業界です",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアであれば材料や製造工程、顧客や市場の情報が必要です",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造部門でもベテラン社員の勘や経験、技術といった言語化しにくい技能伝承が求められます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業など、ものづくりに関わる企業を中心に「技術伝承」という用語が使われています",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、技術伝承の概要に加えて、製造業で技術伝承が重要視される理由、実際に技術伝承を進めていく際の課題と対策を紹介します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "設計開発部門の技術伝承とは？ノウハウ共有・可視化を進める実践ポイント | BREXA Technology",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "設計補助派遣",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子設計",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体設計・評価",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "設計開発部門の技術伝承とは？ノウハウ共有・可視化を進める実践ポイント",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業において技術やノウハウの蓄積と継承は長年の課題です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に設計開発部門では、熟練技術者の経験や知識をいかに次世代に引き継ぐかが企業の競争力を左右します",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるノウハウ蓄積のメリット",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "個人や特定部門が持つ暗黙知を企業全体の資産として捉え、業務効率化や競争力強化に役立てることが主な目的です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に設計開発部門では、蓄積された技術ノウハウが次世代の製品開発の基盤となるため、効果的なナレッジ蓄積の仕組みが不可欠です",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を取り巻く環境変化により、組織的なノウハウ蓄積と技術伝承の重要性が高まっています",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業では、団塊世代の大量退職にともない、長年培われてきた技術やノウハウの喪失が深刻な問題となっています",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足と生産性向上の必要性",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では深刻な人手不足が続いています",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業でナレッジマネジメントを実践し、ノウハウを組織的に蓄積することで、様々なメリットが生まれます",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・人事部門のためのHR戦略サイト",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業や専門職の現場では、熟練者が長年かけて培った技術・ノウハウを次世代へ引き継ぐ「技術伝承」が、経営上の重要課題として位置づけられています",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、真因は個人の表現力ではなく、組織として暗黙知を引き出す設計がないことにあります",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年版ものづくり白書」では、製造業の61.8%が「指導する人材が不足している」、46.1%が「人材育成を行う時間がない」と回答しています",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "配属初日・段取り替え前・不良発生後など、「見るべきタイミング」を設計し、確認テストや成果指標と紐づけることが継続の鍵です",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承の成否は、現場の善意ではなく、経営の設計力で決まります",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "フルックスグループ様（流通、食品製造業・関西・グループ総計1,010名）：管理職向け研修 ご支援事例",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営人材の見極めと育成―次期経営体制づくりに向けた、判断軸の再設計―",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の技術伝承をAIで",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ベテランの退職で図面が読める人・見積もりが出せる人が消える",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の技術伝承と技能継承がなぜ進まないのかを一次情報で整理し、図面AIや技術伝承ナレッジベースでベテランの暗黙知を組織資産に変える実践策を、設計・営業・生産技術の実務目線でまとめます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "いま製造現場で起きている「静かな損失」",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "営業は客先から届いた図面を見ても工数が読めず、見積もりの回答が出せない",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "こうした場面を、私たちは製造業のお客様から何度も伺ってきました",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、技術伝承と技能継承がなぜ製造業でこれほど進まないのかを一次情報で整理したうえで、図面AIや技術伝承ナレッジベースといったAIの打ち手で、ベテランの知見をどう組織資産に変えられるのかを、設計や営業、生産技術の実務目線でまとめます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "放置すると図面判断や見積もりが属人化したまま退職で失われます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "図面そのものをAIが読み、似た過去図面や不良履歴、見積もり根拠を引き出せる状態にすると、若手や営業でも判断を進められます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば設計です",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "若手は図面を渡されても数字を読むだけで、設計思想までは読み解けない",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "調達・購買コスト削減",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "ロスコスト削減",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品のコストダウンを実現するバリューエンジニアリング（VE）の本質的な活用方法",
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "pass": 3
+   },
+   {
+    "quote": "業務プロセスの改善や問題解決を迅速に行うことができ、生産性の向上やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "企業内で共有し、活用することで生産性の向上やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "専門性が高いエキスパート人材には、日々社内から問い合わせが寄せられ、その対応の積み重ねが本来業務の時間を圧迫しています",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "また、業務推進に必要な情報を探そうとしても、誰に聞くか、どこを探すかがわからず、情報にたどり着くまでに時間を費やしてしまうことも多いのではないでしょうか",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせ対応に工数がかかる",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "同じような問い合わせを何度も受けるような場合、対応に多大な時間や人的リソースが必要となります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ活用ができれば、過去の問い合わせ事例やFAQなどの情報を蓄積し、自動化やAI技術を活用することで、問い合わせ対応の工数を削減でき、人的リソースの有効活用やコスト削減につながります",
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントでは、社内のナレッジを体系化し効率的に共有して、在籍している社員の戦力強化を図り、新人の教育・育成にかかる時間を短縮できるため早期戦力化も実現します",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "ベストプラクティスや改善事例の共有と他の工程への水平展開は、ムダの削減や作業時間の短縮につながります",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "広い意味では、業務時間外の雑談なども含まれます",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "社員は時間や場所を問わず必要な研修コンテンツにアクセスできるようになり、技術や知識の伝承の効率化に成功しました",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、契約検討業務（過去データの調査・収集、交渉戦略の検討、契約文言の作成）の作業時間が40%短縮できました",
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "pass": 3
+   },
+   {
+    "quote": "新人教育の効率化（教育時間の短縮）",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "原因特定や対処の時間を大幅に短縮",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、開発期間の短縮やコスト削減にもつながります",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "「設計時間を20%短縮」「新人の技術習得期間を半減」といった具体的な指標を設けると良いでしょう",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "問題解決時間の短縮率",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "知識検索時間",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "必要情報を見つけるまでの平均時間",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "類似設計の所要時間",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年版ものづくり白書」では、製造業の61.8%が「指導する人材が不足している」、46.1%が「人材育成を行う時間がない」と回答しています",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、属人業務を棚卸しし、退職リスク者と保有技能を可視化し、代替不能業務を洗い出し、教育不足による損失（不良コスト・立上がり期間・残業・機会損失）を経営数値に翻訳して示すことが、経営層を動かす最も有効なアプローチです",
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業は客先から届いた図面を見ても工数が読めず、見積もりの回答が出せない",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "こうした「探す時間」と「描き直す時間」は、日報にも載らないまま静かに積み上がっていきます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "客先から図面が届いても、営業は工数も相場も読めません",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "一人前になるまで数年かかるのに、教える側のベテランは多忙で時間が取れず、そもそも教わる若手がなかなか採用できない",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "働き方改革関連法による時間外労働の上限規制が物流や建設などで2024年4月から適用され、物流の制約はサプライチェーン全体に波及しました",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "現場に残業の余力がなくなれば、OJTや若手育成に割ける時間も削られていきます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "教える時間がないのに、教わる相手も採れない",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "図面を見ても工数が読めず、回答に2〜3日",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "OJTの時間が取れない現場でも、伝承の一部を仕組みで肩代わりできます",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "当社が精密部品メーカーのお客様（技術部門を含む従業員約800名）を支援した事例では、技術者が情報検索に1日あたり平均1時間15分を費やしていました",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "単純計算で一人あたり年間およそ300時間、全社では年間24万時間に相当します",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ZEROCK導入後、この検索時間を約80%削減できました",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "これは自社事例の値であり業界一般の平均ではありませんが、探す時間の削減がどれほど大きいかは伝わると思います",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "なお、コスト面が不安な場合は公的支援も検討する価値があります",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "図面の判断も見積もりの勘も、いちど失われれば取り戻すコストは跳ね上がります",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 人材育成・教育コストの削減（技術伝承）",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.1. 人材の教育に時間がかかる",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "暗黙知に比べて共有が容易であり、操作ミスを減らせますが、作成や更新にはコストと手間がかかる面もあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、形式知として整備されたノウハウは、時間が経過しても再利用が容易であり、組織全体のレベルアップを継続的に支えます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン社員が個別に教える負担が減り、研修にかかる時間やコストを削減できるという大きなメリットがあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、教育に時間や手間がかかることでコスト増にもつながります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、実際にツールを活用して暗黙知を見える化すると、時間や場所の制約を超えてスキルを伝えることができるようになります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "によれば、製造業の人材育成上の問題点として「指導する人材が不足している」を挙げた企業が61.8%と最多であり、技術を伝える側の確保自体が課題となっています",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日常業務に追われて伝承の時間を確保できない",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "に引用）によると、製造業では34歳以下の若年就業者の割合が2002年比で6.9ポイント減少する一方、65歳以上の高齢就業者は2002年の58万人から2023年には88万人（全体の8.3%）に増加しています",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承が難しいのは、この暗黙知の割合が大きいためです",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "では、製造業の人材育成上の問題点として「指導する人材が不足している」が61.8%と最も高い割合を占めています",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "によれば、能力開発や人材育成に問題があると答えた事業所は79.9%にのぼります",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "日常業務に追われて伝承の時間を確保できない",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "本来であれば彼らが技術伝承の担い手となるべきですが、高齢化が進むほど「指導できる時間的な余裕」は限られていきます",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "製造業全体で若年就業者の割合が減少している中、伝える側と受け取る側が同時に不足する「両側からの縮小」が起きています",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "によれば退職者の再雇用による指導者活用を行っている企業が70.5%と最多です",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "熟練者に業務が集中しているほど、その人は毎日の生産対応に追われ、後進を指導する時間を確保しにくくなります",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "属人化した業務は担当者一人に集中し、伝承の時間が取れない結果さらに属人化が進みます",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   },
+   {
+    "quote": "伝承の時間を意図的に確保するには、業務分担の見直しや伝承専任時間の設定など、組織レベルの意思決定が不可欠です",
+    "url": "https://notepm.jp/blog/22415",
+    "pass": 3
+   }
+  ],
+  "できる・できない": [
+   {
+    "quote": "特に設計開発部門では、過去の設計ミスや改良点を参照できることで、新規設計時の品質リスクを大幅に低減できます",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTとは？仕組みやできること、活用例をわかりやすく解説",
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "pass": 3
+   },
+   {
+    "quote": "ZEROCKができること",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承がうまくいかない最大の理由は、価値の高い判断ほど暗黙知の側にあり、そのままでは検索も共有もできないことにあります",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "働き方改革関連法による時間外労働の上限規制が物流や建設などで2024年4月から適用され、物流の制約はサプライチェーン全体に波及しました",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "5. 暗黙知を形式知化できないことによる課題",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、実際にツールを活用して暗黙知を見える化すると、時間や場所の制約を超えてスキルを伝えることができるようになります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、サラリーマンと起業家の違いや、それぞれに向いている人の特...",
+    "url": "https://6sense-science-talk.blog/technology-transfer-manufacturing-industry-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "日立の事例は、「言語化しにくい身体的な技能」であっても、センシングと画像解析を組み合わせることでデジタル化できることを実証しています",
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "pass": 3
+   },
+   {
+    "quote": "技術伝承AIでできること",
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジDB構築のメリットとは、属人化していた知見を組織の資産に変え、技術伝承・トラブル対応・教育の3領域で効率を底上げできることです",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "退職後では文書の文脈や前提条件が補完できず、価値が大きく下がります",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、向いていないケースや失敗パターンを含めて正直に整理します",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIが技術伝承で支援できること",
+    "url": "https://techaide.jp/blog/manufacturing-knowledge-transfer-dx-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "FMEAに生成AIを活用する方法｜できること・進め方・プロンプト例",
+    "url": "https://techaide.jp/blog/manufacturing-knowledge-transfer-dx-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、過去に採用しなかった案の理由や、同種製品で発生した不具合と対策、設計上の制約条件などをまとめて参照できれば、検討時の出発点を揃えやすくなります",
+    "url": "https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/",
+    "pass": 3
+   },
+   {
+    "quote": "PoCによって早期に実務的な手応えを確認し、現場のフィードバックを得ながら徐々に適用範囲を拡大していくことが、リスクを抑えつつ成功確率を高める道筋となります",
+    "url": "https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/",
+    "pass": 3
+   },
+   {
+    "quote": "実証実験の結果、10秒以内に90%以上の精度で、設備故障の原因と対策を回答できることを確認しました",
+    "url": "https://rimo.app/blogs/_knowledge",
+    "pass": 3
+   },
+   {
+    "quote": "会議や商談の記録だけでは、判断の背景まで把握できないことがあります",
+    "url": "https://rimo.app/blogs/_knowledge",
+    "pass": 3
+   },
+   {
+    "quote": "時間的な制約から、伝承したい技術のすべてを教育研修の中で伝えきることが難しい場合があります",
+    "url": "https://skillnote.jp/knowledge/gijyutsudensho-1/",
+    "pass": 3
+   },
+   {
+    "quote": "もう1つが、デジタル技術の適用範囲を適正化することです",
+    "url": "https://skillnote.jp/knowledge/gijyutsudensho-1/",
+    "pass": 3
+   },
+   {
+    "quote": "動画マニュアルでは、一度では理解できないことも繰り返し学習することができます",
+    "url": "https://skillnote.jp/knowledge/gijyutsudensho-1/",
+    "pass": 3
+   },
+   {
+    "quote": "VR技術でのメリットは、視覚的に体験・経験を共有できること",
+    "url": "https://kaizen-navi.biz/production-control/inherit-technology-issue",
+    "pass": 3
+   },
+   {
+    "quote": "ため工場内などの機械が並んでいて、熟練工の横について作業を学ぶのが危ない場合にも有効に活用できることが考えられます",
+    "url": "https://kaizen-navi.biz/production-control/inherit-technology-issue",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "ROI計算ツール",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "原価計算にいたってはベテランの勘が頼りで、積算の根拠が残っていないため、本人が休むと「この価格で本当に利益が出るのか」を誰も判断できなくなります",
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県燕市は金属加工の産地として知られていますが、海外との価格競争や国内需要の減少により、下請け中心のビジネスモデルに限界が見えていました",
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "pass": 3
+   },
+   {
+    "quote": "「iPod」のステンレス鏡面仕上げを手がけるなど、高付加価値案件を獲得",
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 投資対効果（ROI）はどのように測定すればよいですか？",
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジマネジメントのROI算出方法については、今後公開予定の記事で詳しく解説する予定です",
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のAI活用ガイド｜業務領域別の導入効果とROI事例を徹底解説【2026年版】",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "品質検査・予知保全・生産計画・サプライチェーンの導入効果とROI事例、失敗しない導入ステップまで網羅した実践ガイドです",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "推進体制の属人化とROIが見合わないケース",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ナレッジDBが向かない・費用対効果が見合いにくいケースもあります",
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI in Manufacturing: How to Drive ROI and Manage Risks?",
+    "url": "https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/",
+    "pass": 3
+   },
+   {
+    "quote": "この目標に対し、まずは小規模なPoC（概念実証）を通じて投資対効果（ROI）を検証することが重要です",
+    "url": "https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/",
+    "pass": 3
+   },
+   {
+    "quote": "How generative AI drives innovation and ROI in manufacturing",
+    "url": "https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/",
+    "pass": 3
+   },
+   {
+    "quote": "その後も利用は拡大し、同社が公表している2024年の削減効果は年間44.8万時間、利用回数は240万回に達しています",
+    "url": "https://rimo.app/blogs/_knowledge",
+    "pass": 3
+   },
+   {
+    "quote": "急激な為替変動や資源価格の高騰、人材不足など外部環境の変化により、製造業にとって厳しい状況が続いています",
+    "url": "https://skillnote.jp/knowledge/gijyutsudensho-1/",
+    "pass": 3
+   },
+   {
+    "quote": "Book a consultation with an AI expert. We’re here to help you speed up your time to AI ROI.",
+    "url": "https://www.seekr.com/resource/knowledge-transfer-in-manufacturing-operations/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/knowlege-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://notepm.jp/blog/22415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6sense-science-talk.blog/technology-transfer-manufacturing-industry-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowhow-ai.app/blog/knowledge-management-success-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ldcube.jp/blog/technology_inheritance319",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/1205/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowhow-ai.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anomaly-inc.com/blog/sme-manufacturing-knowledge-management-generative-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techaide.jp/blog/manufacturing-knowledge-transfer-dx-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rimo.app/blogs/_knowledge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/skill-succession.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/gijyutsudensho-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizen-navi.biz/production-control/inherit-technology-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enterprise-knowledge.com/knowledge-capture-amp-knowledge-transfer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aem.org/news/why-knowledge-transfer-is-so-important-%E2%80%93-and-how-to-encourage-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tuck.dartmouth.edu/news/articles/the-nuances-of-knowledge-transfer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asme.org/topics-resources/content/the-transfer-of-knowledge-is-more-important-than-ever",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibaset.com/how-ai-is-solving-knowledge-transfer-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seekr.com/resource/knowledge-transfer-in-manufacturing-operations/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ものづくり企業の技術伝承・ナレッジ管理",
+   "results": [
+    "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "https://skillnote.jp/knowledge/knowlege-management/",
+    "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "https://www.youtube.com/watch?v=sQsjaZedD9k",
+    "https://start-link.jp/hubspot-ai/management/tacit-knowledge-sharing/manufacturing-skill-transfer-guide",
+    "https://knowhow-ai.app/blog/knowledge-management-success-cases"
+   ]
+  },
+  {
+   "query": "ものづくり企業の技術伝承・ナレッジ管理 仕組み 解説",
+   "results": [
+    "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "https://skillnote.jp/knowledge/knowlege-management/",
+    "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "https://www.youtube.com/watch?v=dk9NRCfLIXI",
+    "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "https://notepm.jp/blog/22415",
+    "https://6sense-science-talk.blog/technology-transfer-manufacturing-industry-tools/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の技術伝承・ナレッジ管理 インタビュー",
+   "results": [
+    "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "https://skillnote.jp/knowledge/knowlege-management/",
+    "https://www.tanabeconsulting.co.jp/hr/eye/detail421.html",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2025/1205/",
+    "https://knowhow-ai.app/",
+    "https://www.youtube.com/watch?v=sQsjaZedD9k",
+    "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "https://anomaly-inc.com/blog/sme-manufacturing-knowledge-management-generative-"
+   ]
+  },
+  {
+   "query": "ものづくり企業の技術伝承・ナレッジ管理 事例",
+   "results": [
+    "https://www.jemco.co.jp/comm/202501knowledge01/",
+    "https://kibit.fronteo.com/solution/knowledge-mgt/",
+    "https://skillnote.jp/knowledge/knowlege-management/",
+    "https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/",
+    "https://timewell.jp/columns/manufacturing-skill-succession-ai",
+    "https://rimo.app/blogs/_knowledge",
+    "https://www.nisseicom.co.jp/growone-production/column/17.html",
+    "https://www.keyence.co.jp/ss/general/manufacture-tips/skill-succession.jsp",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2025/1205/",
+    "https://knowhow-ai.app/blog/knowledge-management-success-cases"
+   ]
+  },
+  {
+   "query": "knowledge transfer manufacturers",
+   "results": [
+    "https://enterprise-knowledge.com/knowledge-capture-amp-knowledge-transfer/",
+    "https://www.aem.org/news/why-knowledge-transfer-is-so-important-%E2%80%93-and-how-to-encourage-it",
+    "https://tuck.dartmouth.edu/news/articles/the-nuances-of-knowledge-transfer",
+    "https://www.asme.org/topics-resources/content/the-transfer-of-knowledge-is-more-important-than-ever",
+    "https://www.ibaset.com/how-ai-is-solving-knowledge-transfer-challenges/",
+    "https://www.seekr.com/resource/knowledge-transfer-in-manufacturing-operations/",
+    "https://www.emerson.com/en/corporate/industries/life-sciences/advanced-therapy-medicinal-products/knowledge-transfer",
+    "https://nsflow.com/blog/11-examples-of-knowledge-transfer-in-industry",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0278612520301965",
+    "https://www.f6s.com/companies/knowledge-transfer/mo"
+   ]
+  }
+ ],
+ "missing": {}
+}

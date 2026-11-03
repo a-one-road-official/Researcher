@@ -1,0 +1,1641 @@
+{
+ "name": "ものづくり企業の設計工程の時間と費用",
+ "en": "engineering design process time cost manufacturers",
+ "aliases": [
+  "設計 工数 割合",
+  "設計業務 時間 内訳",
+  "構想設計 詳細設計 工数"
+ ],
+ "context": "工程",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:28:45.762788+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "サービスの詳細や相談方法は公式サイトへ",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "コツ4：材料・加工方法・設備の制約を事前に確認する",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、最初から正確な時間を予測しようとすることではなく、作業内容を明確にして、不確実な部分を段階的に減らすことです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "製作工程の整理方法、作業時間と待ち時間の違い、試作段階で見落としやすい作業、外注先との情報共有まで、実際の業務に役立つ考え方を紹介します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "詳細な図面がない段階でも、手書きのスケッチや参考写真、必要な機能をまとめた資料があれば、初期検討を進める手がかりになります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "未確定の事項を確定済みとして扱うと、設計変更や加工方法の見直しが発生した際に、計画全体へ影響する可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "部品の形ができた段階を完成とするのか、組立と動作確認まで終了した段階を完成とするのか、検査記録の整理や引き渡しまで含めるのかを明確にします",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "図面が完成している場合は、加工方法の検討、材料準備、機械の段取り、加工、検査などが主な作業になります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "開始点については、構想段階から取り組むのか、設計が完了した状態から製作を始めるのかを整理します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "作業時間を短縮したい場合は、単純に工程を減らすのではなく、製作目的に対して必要な作業と、現段階では省略できる作業を区別することが重要です",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "評価方法が決まっていれば、検査に必要な設備や作業時間も見積もりに含めやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "工程を分解する際は、まず大まかな流れを整理します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な部品製作であれば、仕様確認から設計、材料準備、加工準備、加工、仕上げ、検査、必要に応じた組立や引き渡しまでの流れを考えます",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、新しい形状の金属部品を製作する際には、材料の固定方法を検討し、工具を選定し、加工手順を決める必要があります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "一方、同じ仕様の部品を再び製作する場合には、前回の加工手順や検査記録を利用できる可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発とは？量産までのプロセスと成功させるためのポイントを紹介 | WILL ONE | 日本国内のEMS・受託製造",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発とは？量産までのプロセスと成功させるためのポイントを紹介",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "「ローマは一日にして成らず」ということわざがあるように、この製品開発もまた様々なプロセスを経て実現します",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "そのプロセスを深く理解することは、企業の成長のために非常に重要な要素です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、製品開発における基本的な流れと、各プロセスにおける考え方、取り組み方、および成功させるためのポイントを解説します",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・開発工程の重要性—品質とコストの8割は、設計段階で決まる",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発の流れ",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：企画・要件定義",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：設計",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3：試作・評価",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ4：量産化",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の企画から量産に至るまでのプロセスを指す、非常に付加価値の高い活動です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "単に「自社の技術で何ができるか」を考えるだけでなく、事業戦略やマーケティング、市場分析を含めて「どのような価値を誰に」「どの手順で」届けられるかまでを多角的に考えることが不可欠です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "常に市場の声や技術トレンドを取り入れ、顧客課題の解決と他社との差別化を目指しながら、開発の流れを全体最適化する",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品が完成していても、量産体制や品質保証、部材調達、コスト、検査方法などが整っていなければ、安定して提供できる製品とはいえません",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術部門は、製品開発～量産のプロセスの中で、量産立ち上げ段階から＜狙いのQCDへの達成貢献＞が期待されている",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術部門は、設計完了時点で図面を受け取り、試作の段階で作りにくい点などを抽出して、設計にフィードバックをする",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは製品開発のプロセスがバトンリレー型になっているからである",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品企画が終わって設計がスタート、設計が終わってから生産準備がスタートというように、前の工程が終わらないと次の工程が始まらない仕組みになっている",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "この仕組みでは、後工程で前工程の問題に気づいた場合フィードバックをかけることになるが、前工程はそれに対応すると、手戻り・やり直しが発生してしまうこともあり、フィードバックされたことがなかなか実施されない",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "この問題を解決するには、前工程と後工程が重なり合いながら（オーバーラップ）仕事を進め、相互に知恵を出し合うプロセスに変えることがポイントになる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、より効率的な生産体制（生産拠点と生産品目など）、生産方法（生産システム、工法など）にするための構想を行う",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産体制や生産方法から見て、何をどのように共通化すれば、効率の良い作り方が出来るかなどの提案をすることが必要になる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "の局面は、個々の製品を開発するプロセスの中で、製品設計と生産準備をオーバーラップさせることである",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、開発の早い段階から生産技術が製品設計に、単に要望を言うということにとどまらず、製品設計業務と生産準備業務をほぼ同時に進めることがポイントになる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "構想設計段階では、製品の構造や構成を検討する中で、生産ラインは＜組み立てに部品を集めて長めの工程で組んだ方がよい＞のか、＜モジュール単位で生産を行って、短めの組立ラインにするような生産方式の方がよい＞のかなどについて、両部門のやり取りを通じて検討することになる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "以降の各設計段階でも同様に進めていく",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・モジュールの構造と組立順序の検討、部品図の段階では、各寸法や公差などと設備仕様を踏まえた作りやすさなどの検討も行っていく",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "オーバーラップ型開発プロセスは製品設計と生産技術が開発初期段階から連携して、よりよい製品設計と生産方法を見い出していくという側面の他、図表を見ても分かるように、製品設計業務と生産準備業務を並行で取り組むことになるので、開発期間短縮の効果も大きい",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "バトンリレー型・フィードバックのプロセスで、製品設計がなかなか言うことを聞いてくれないと愚痴を言っているだけの状態では、何も前に進まない",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、製品の品質とコストの８割は、設計段階で決まると言われてきた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、仕様変更の自由度が高い設計段階で、製品の品質とコストの８割程度が決まることになるのである",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため、できるだけ開発の初期段階であるエンジニアリングチェーンに資源を集中的に投入すること（「フロントローディング」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計初期の段階に負荷を掛け、作業を前倒しで進めること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、このような事態に対しては、仕様変更の自由度が高い設計段階において対応せざるを得ず、しかも可能な限り迅速に対応することが重要である",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、工程設計力が「低下している」と回答した企業についても同様にその要因を確認すると、「ベテラン技術者の減少（79.4％）」、「製造現場との連携不足（30.9％）」、「属人的な設計プロセス（25.0％）」、「間接部門の人員削減（19.1％）」が上位に挙がっている（図132-８）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、製造部門から、原価実績情報も含めた製造情報を設計部門にフィードバックすることで、設計段階で精度の高い原価企画やシミュレーションを行うことも可能になる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "この定義を突き詰めると、アジャイルの本質は「より良い方法を探し続けるマインド」であることが分かる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "スクラムは顧客の要求事項の中から最も優先順位の高い要求を実現するプロダクトを漸進的に開発し、提供し続ける事でビジネス価値を高めていくプロセスである",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "要求事項の優先順位を決める役割を「プロダクトオーナー」、プロダクトの開発を行う役割を「開発チーム」、スクラムプロセスがうまく回るように支援する役割を「スクラムマスター」と呼ぶ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、プラクティスを鵜呑みにして実施するのではなく、自社の状況を踏まえて小さな実験を繰り返しながら少しずつ取り入れて改善を続けていく行為がアジャイルの本質である「より良い方法を探し続けるマインド」を体現しているといえる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "知財としてのデータの送信先において、データの保存、修正、削除を、CIOFが取引契約に基づき監視し、かつ利用の実績を必要に応じて照会することで、取引先との高い信頼関係に裏付けられた生産プロセスの共有を可能とする",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような検査結果をデータ化し、CIOFにより関連する複数拠点で共有し、問題発見に活用することで、適正な品質管理を現場サイドと経営サイドが一体となって管理できる仕組みとする",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産プロセスの一部を担う中小製造業は、比較的規模が小さく、現場のオペレーションと経営とが一体である場合が多い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場と現場をつなぐための仕組みであるCIOFは、図２に示すように、インターネット上に連携サーバーと辞書サーバーをもち、各現場に配置された連携ターミナルと通信する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "しかし、現場での取付位置確認や既存設備との干渉確認まで含める場合は、現地調査や取付作業の時間も必要です",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造現場で使用する簡単な位置決め治具を製作する場合を例に、作業時間をどのように見積もればよいか考えてみます",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "特に、現場で使用する治具や設備部品、施工に関係する部材を製作する場合には、設計や加工だけでなく、実際の設置場所や使用条件を確認する作業も重要になります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "このような現場情報の共有には、写真と位置情報を関連付けて記録する方法が役立ちます",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "設置予定場所や周辺構造物、施工中の状況を記録しておけば、後から現場条件を確認する際の手がかりになります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "現場写真や位置情報、施工記録を整理する方法として、LRTK Phoneの活用も選択肢の一つです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "LRTK Phoneを使用して現場の位置情報と写真を関連付けて記録することで、設置場所の確認や現場状況の共有を進めやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "要求精度や現場条件に応じて、適切な測量や実測を組み合わせることが重要です",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりを円滑に進めるには、机上の設計情報だけでなく、現場で確認した事実を正確に共有することが欠かせません",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "市場や顧客ニーズをもとに「どのような商品を、誰に、どのように提供するか」を考える活動",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "設計フェーズでどれだけ精度の高い検討やリスク洗い出しができているかが、後の試作・生産現場での手戻りを大幅に減らすポイント",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場で作業性や品質が安定するように図面や工程を最適化、標準化",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が以前より様々なモノや情報を手に入れるようになった結果、ニーズが多様化し、その移り変わりも激しくなっています",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ニーズの掘り下げとペルソナ設計、定量・定性調査をバランスよく活用することで、ズレの無い製品コンセプトの確立が実現します",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "市場ニーズの変化が速い中では、開発サイクルを短く回し、品質・コスト・納期のバランスを見ながら製品化まで進めることが重要です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品の卸売やODM/EMSサービスを提供するデバイス販売テクノと、照明メーカーであるホタルクスが、お客様や自社の製品を設計・開発する中で培ってきた技術や経験をもとに、市場やお客様のニーズに合った製品開発をご提案いたします",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "「人間力」を磨き現場を動かす 大変革時代の経営者の条件",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくりは人づくりから」をモットーに、現場力・改善力の向上を人材育成面から支援します",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "を各企業のニーズに合わせ展開しています",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備管理や現場改善に役立つ情報を提供する",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場の「ここが変だよ！」",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、開発の早い段階から生産技術が製品設計に、単に要望を言うということにとどまらず、製品設計業務と生産準備業務をほぼ同時に進めることがポイントになる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "成果実現～更なるレベルアップまで、1社で長い期間（5～10年程度）支援することが多く、経営成果に貢献をすると共に、トップマネジメントから現場までの実態と革新リーディングを熟知している",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "信頼と実績のJMACが、貴社の現状と課題をヒアリングし、解決策をご提案します",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "「生産現場の「ここが変だよ！」」一覧を見る",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりを俯瞰で見られる生産技術者へ チャレンジを許容する 生産現場に未来が訪れる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場の人、設備、材料、製造方法とマネジメントシステムを改善して生産性向上をはかります",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場は製品特性や製法により多種多様の特性を持つ複雑系です",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため私たちは、現場でじっくり見て聞いて、フィットする特別な改善プログラムを作ることから仕事を始めます",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "少しだけ時間はかかりますが、そのことは現場力を高め、現場の一人ひとりが成長を感じられる魅力的な職場になることを知っているからです",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "お困りごと or キーワード",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "工程設計力が「向上している」と回答した企業に対してその要因を確認したところ、「生産技術、製造、調達といった他部門との連携強化」と回答した企業が最も多く79.2％を占め、「営業、アフターサービスなどから顧客ニーズのフィードバックを強化（26.5％）」「デジタル人材の育成、確保（22.5％）」が続いている（図132-７）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、工程設計力が「低下している」と回答した企業についても同様にその要因を確認すると、「ベテラン技術者の減少（79.4％）」、「製造現場との連携不足（30.9％）」、「属人的な設計プロセス（25.0％）」、「間接部門の人員削減（19.1％）」が上位に挙がっている（図132-８）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業工程・設備・治工具などの製造現場の情報が設計仕様に反映できないために製造現場に過度な負担が掛かる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、設計変更による製造現場への影響範囲を確認しながら設計を行ったり、あるいは生産管理を変更したりすることが容易になる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、製造業の現場にも膨大なデータがあるが、それらは、個別の状況に依存し、複雑な因果関係に基づいているため、共有するよりは、むしろ個々の事情を深く分析し、モデルを常に精査していくことで価値を生み出す“ディープデータ”である",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業オープン連携フレームワーク（CIOF）は、生産現場の複雑で奥深い知的活動をデータを介してつなぐことで、バリューチェーンをより強く柔軟なものとする",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場に存在するディープデータの特徴を踏まえ、それぞれの現場の知財を守りつつ、自律的で個性的なつながる現場を支援するフレームワークとなっている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような検査結果をデータ化し、CIOFにより関連する複数拠点で共有し、問題発見に活用することで、適正な品質管理を現場サイドと経営サイドが一体となって管理できる仕組みとする",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産プロセスの一部を担う中小製造業は、比較的規模が小さく、現場のオペレーションと経営とが一体である場合が多い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場のデータをクラウド上に置くことには抵抗があるなかで、CIOFにより、エッジサイドで分散管理された一次データを、AIによる学習モデルに応じて収集し、それによって得られた成果を契約に基づき共有する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場と現場をつなぐための仕組みであるCIOFは、図２に示すように、インターネット上に連携サーバーと辞書サーバーをもち、各現場に配置された連携ターミナルと通信する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "① 辞書機能・・・複数の異なる現場の独自性の高い情報を相互につなげるための個別辞書を、共通辞書と関係づけて定義する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで同社は、IoTの現場データやPLM（製品ライフサイクルマネジメント）の製品データと基幹システムの原価データなどを相互に連携させ、経営指標を生成してトップダウンの意思決定を強化するとともに、活動指標を現場に浸透させて全体最適につながる改善や改革を促すことで、デジタル技術を活用したビジネスモデル変革を支援している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社が提供するERPパッケージであるmcframe（エムシーフレーム）は、生産・販売・原価管理といった基幹業務を、PLMを中心とするエンジニアリングチェーン、そして製造現場と相互連携させることで、製品の企画・設計・生産・販売・保守に至るまでのプロセスをITで一元的に管理し、データ駆動経営を具現化させている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "図 現場データの経営指標化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ],
+  "できる・できない": [
+   {
+    "quote": "コツ4：材料・加工方法・設備の制約を事前に確認する",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "4つ目のコツは、材料、加工方法、使用設備などの制約を事前に確認し、実際に製作可能な条件をもとに作業時間を見積もることです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "経験者への聞き取りをもとに見積もった場合も、対象とした作業範囲や前提条件を残しておくことが重要です",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "仕様の不明確さ、材料調達の遅れ、設備の制約、工程間の情報不足など、さまざまな要因が関係します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、材料や加工設備の制約、検査や手戻りの可能性を事前に確認し、見積もりと実績を比較することで、計画の精度を段階的に改善できます",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "同時に要件定義として、「どのような機能や性能が必要で、その実現のためにどんな技術や部材が必要か」「法規制やコスト、納期の制約は何か」といった条件をひとつひとつ言語化します",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "当然ながら、部門ごとにそれぞれの立場に応じた“要求値”や“制約”があります",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "その上、近年、グローバル化、顧客の製品機能要求の高度化・多様化、環境制約・資源制約の先鋭化といった傾向が高まっている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品に対する機能要求が高まる一方で、制約条件が厳しくなるのであれば、製品は一層複雑化することにならざるを得ない",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム選定に当たっては、複合企業特有の多様な業務に対応できること、同社製品のライフサイクルの長さに対応した使用寿命であること、自社内でシステムの追加修正ができること、といった点に配慮した",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "DFMによる設計の自由度を活かし、最終製品だけでなく、レバー、スイッチ、ファン、バネ等の多様な部材へと適用範囲を広げている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "これらを加工時間にまとめてしまうと、次回製作時にどの作業を削減できるのか分かりにくくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "試作や検査の時間を計画に組み込む際には、不具合が起きることを前提に作業を無制限に追加するのではなく、どの段階で何を確認し、問題が見つかった場合にどのように判断するかを整理しておくことが効果的です",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "また、材料や加工方法について希望がある場合には、その理由も伝えると効果的です",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "下のグラフは国勢調査の職業小分類別小計をデータであり、製造技術者および情報処理・情報通信技術者の人数の、1985年から2020年までの推移を示しています",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理・情報通信技術者は、近年のIoT、AI技術、DXなどデジタル社会の進展に伴って、労働者数が32万人から125万人と35年間で290%増加しているのに対し、製造技術者の数は84万人から93万人と同期間で10%しか増加していません",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "「5年後技術者が不足すると予想される」と回答した企業数の割合（全90分野のうち上位5つをピックアップ）",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "単なるコスト削減ではなく、顧客体験、満足度を高めながら利益を確保することが本質です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度厚生労働省委託事業製造請負優良適正事業者の認定を更新しました",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "業務改革・システム化",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人間力」を磨き現場を動かす 大変革時代の経営者の条件",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチンの効果の裏に 不断の改善の積み重ね",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、設計部門は「効果が分からない」などの理由で、設計変更に応じないことが多い",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品設計と生産技術が連携し、オーバーラップさせることで効果のある局面は大きく２つある",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、製品戦略を構想すると同時に、その製品をどこでどのように作るかなどの生産体制を構想する、中期計画の局面である",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品マスタープランは、製品戦略で向こう3年間どのような機種を市場投入するかを計画する中で、製品基本構造（プラットフォーム）と構成するモジュールなどの機種間の共通性を軸に、構想する",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "オーバーラップ型開発プロセスは製品設計と生産技術が開発初期段階から連携して、よりよい製品設計と生産方法を見い出していくという側面の他、図表を見ても分かるように、製品設計業務と生産準備業務を並行で取り組むことになるので、開発期間短縮の効果も大きい",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術者が製品設計と生産方法の関連などの知識を習得することや、作りやすい設計とは何かを組織的に追求していくことなどで初めて、製品設計との連携効果を最大限発揮することができる",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "リードタイム短縮・在庫削減",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入・リプレース",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務改革・改善",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aビジネスモデル変革",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1部第1章第3節 製造業の企業変革力を強化するデジタルトランスフォーメーション（DX）の推進：2020年版ものづくり白書（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1部第1章第3節 製造業の企業変革力を強化するデジタルトランスフォーメーション（DX）の推進",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3節 製造業の企業変革力を強化するデジタルトランスフォーメーション（DX）の推進",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、2015年９月の国連サミットにおいて「持続可能な開発目標（SDGs）」が採択されたことで、企業が果たすべき社会的役割に注目が集まり、我が国製造業企業にも対応が求められている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月に国内製造業に対して実施されたアンケートによれば、エンジニアリングチェーンの上流に当たる製品設計力のここ５年間での変化の状況について、約４割が向上していると答えたものの、半数以上が「あまり変化は無い」と回答している（図132-３）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内製造業に対して工程設計（生産技術）力のここ５年間での変化について尋ねたところ、36.9％が「向上している」、58.8%が「あまり変化はない」、4.3％が「低下している」と回答した（図132-６）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、工程設計力が「低下している」と回答した企業についても同様にその要因を確認すると、「ベテラン技術者の減少（79.4％）」、「製造現場との連携不足（30.9％）」、「属人的な設計プロセス（25.0％）」、「間接部門の人員削減（19.1％）」が上位に挙がっている（図132-８）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、設計部門と製造部門が、それぞれ異なるITベンダーから異なるITシステムを導入しているため、両部門のシステムの連携が必ずしもうまくいっていないという場合もある",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、部門を超えたデータ連携により部門間の連携が強化されることで、品質不良の削減につながり、ひいては我が国製造業における品質保証体制強化と生産性向上の両立を実現することが期待される",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "F35は総開発費が1.5兆ドルだったのに対して、スクラムを導入した結果、SAABの戦闘機開発費は140億ドルに抑えられた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業においてDXへの取組がなかなか進まない背景として、同社は、日本企業の役員層に設計・生産双方での知見や経験を兼ね備えた人材が少ないこと、また、デジタル化によるコスト削減効果が見えづらいことなどが、経営者のデジタル化へ向けた投資判断や意思決定を妨げているためと分析する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで同社は、IoTの現場データやPLM（製品ライフサイクルマネジメント）の製品データと基幹システムの原価データなどを相互に連携させ、経営指標を生成してトップダウンの意思決定を強化するとともに、活動指標を現場に浸透させて全体最適につながる改善や改革を促すことで、デジタル技術を活用したビジネスモデル変革を支援している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、想定販売量や利益、設備稼働率、設備の投資回収状況などを割り出し、製品ごとの投資回収進捗や見通しを管理する経営判断ツールとしての活用も可能になるという",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、上記のようなPLMと原価に注目した経営管理の手法などを活用して、コスト削減効果や利益創出の観点で経営陣が意思決定し易い仕組みを整えるなど、様々な取組が考えられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセルが知的生産システムを導入するきっかけとなったのは、1990年代のベテラン人材の大量退職に伴う技能伝承の問題や、各工場の歴史的な出自の異なりを受けて個別最適化されていた部門・工場ごとの多様な生産性向上の取組を、全体最適化・標準化した生産方法へ移行する必要性が高まったためであった",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ | レフィクシア株式会社",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "製造業技術記事",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "加工・製造の協力先探し",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "コツ5：試作・検査・手戻りの時間を計画に組み込む",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "コツ6：見積もりの根拠を記録して計画を更新する",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "実践例：簡単な治具を製作する場合の作業時間の見積もり方",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "特に、初めて試作品を製作する場合や、社内で新しい製品開発を担当する場合は、必要な工程を把握できず、作業時間の見積もりが難しくなりがちです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりでは、材料を加工する時間だけでなく、仕様の整理、設計、材料調達、加工準備、組立、検査、修正など、さまざまな作業が発生します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ものづくりの経験が少なくても、作業工程を適切に分解し、それぞれの作業時間を見積もることで、現実的な製作計画を立てやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ものづくりを何から始めればよいか迷っている実務担当者に向けて、完成までの作業時間を見積もる6つのコツを解説します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "作業時間を見積もる前に、目的、製作条件、完成の判断基準という3つの前提を整理しておくと、その後の計画が立てやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "未確定の事項を確定済みとして扱うと、設計変更や加工方法の見直しが発生した際に、計画全体へ影響する可能性があります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "部品の形ができた段階を完成とするのか、組立と動作確認まで終了した段階を完成とするのか、検査記録の整理や引き渡しまで含めるのかを明確にします",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "完成までの作業時間を見積もる最初のコツは、製作するものの完成条件を明確にし、どこまでの作業を見積もり対象に含めるか決めることです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発とは？量産までのプロセスと成功させるためのポイントを紹介 | WILL ONE | 日本国内のEMS・受託製造",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発・設計",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "設計から製造まで戦略的なものづくりで、製品競争力を高めるサポート",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・開発工程の重要性—品質とコストの8割は、設計段階で決まる",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：設計",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "部門間連携を強化する",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "量産化を見据えた戦略的な設計開発で、お客様の商品競争力を最大限に高めるサポート",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "⇒当社グループの設計ソリューションを見る",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品が完成していても、量産体制や品質保証、部材調達、コスト、検査方法などが整っていなければ、安定して提供できる製品とはいえません",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発は、企画・要件定義から設計、試作、評価、量産化を経て、製品化へつなげる一連のプロセス",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業では、早い段階から量産性や調達性、品質管理まで考慮し、事業として成立する形で市場に届けることが重要です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「ものづくり白書」では、「製品の品質とコストの8割は、設計段階で決まる」として、設計・開発工程の重要性を説いています",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "同報告書内で紹介されているのが、下図に示す「設計変更の自由度と品質・コストの確定度」の相関関係を表したグラフです",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "開発プロセスが進行すると、大幅な設計変更は難しくなります",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製造設備などが確定したあとに設計を変更するとなれば、多大なコストと時間が必要です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "第16回 設計に踏み込まない生産技術｜コラム｜日本能率協会コンサルティング（JMAC）",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "調達・物流・SCM",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "を通じて製造業をサポートしています",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "第16回 設計に踏み込まない生産技術",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術の仕事は、製品設計が終わってからでないと始まらない？",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術部門は、製品開発～量産のプロセスの中で、量産立ち上げ段階から＜狙いのQCDへの達成貢献＞が期待されている",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術部門は、設計完了時点で図面を受け取り、試作の段階で作りにくい点などを抽出して、設計にフィードバックをする",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、設計部門は「効果が分からない」などの理由で、設計変更に応じないことが多い",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、作りにくい工程が出来上がり、品質問題や余分な製造工数が掛かるなどの問題が発生している",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの問題解決のために、改めて設計変更を要求し、工程変更・改善を実施するなど、量産立ち上げ間際～立ち上げ後しばらくは問題対応に追われてしまっている",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品設計にフィードバックすることが、生産技術の仕事と考えている",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品企画が終わって設計がスタート、設計が終わってから生産準備がスタートというように、前の工程が終わらないと次の工程が始まらない仕組みになっている",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品設計と生産技術がオーバーラップしながら進めることで解決を図る",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品設計と生産技術が連携し、オーバーラップさせることで効果のある局面は大きく２つある",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、製品マスタープランで抽出された技術課題の中で、製品技術だけでなく、どんな生産技術（工法等）を同時に開発すれば、よりパフォーマンスの高い製品やモジュール、部品が実現できるかなどの検討を行う",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1部第1章第3節 製造業の企業変革力を強化するデジタルトランスフォーメーション（DX）の推進：2020年版ものづくり白書（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造基盤白書（ものづくり白書）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1部第1章第3節 製造業の企業変革力を強化するデジタルトランスフォーメーション（DX）の推進",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2．設計力強化戦略",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3節 製造業の企業変革力を強化するデジタルトランスフォーメーション（DX）の推進",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）品質・コストの８割は設計で決まる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、製品の品質とコストの８割は、設計段階で決まると言われてきた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発が進むに従って製造設備などが確定していくため、仕様変更の自由度は低下し、設計が完了した後の仕様変更の余地は極めて限定的なものとなる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、仕様変更の自由度が高い設計段階で、製品の品質とコストの８割程度が決まることになるのである",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "日野三十四『実践 エンジニアリング・チェーン・マネジメント：IoTで設計開発革新』（2017年、日刊工業新聞社）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料：日野三十四「実践 エンジニアリング・チェーン・マネジメント：IoTで設計開発革新」P.14図0-4を参考に、経済産業省作成",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計初期の段階に負荷を掛け、作業を前倒しで進めること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、2015年９月の国連サミットにおいて「持続可能な開発目標（SDGs）」が採択されたことで、企業が果たすべき社会的役割に注目が集まり、我が国製造業企業にも対応が求められている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち、製品の複雑化が進めば進むほどに、それに対応できるエンジニアリング能力の高さこそが、製造業の競争力を左右するといえる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "藤本隆宏編『「人工物」複雑化の時代：設計立国日本の産業競争力』（2013年、有斐閣）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ | レフィクシア株式会社",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "コツ2：製作工程を分解して作業時間と待ち時間を区別する",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "コツ5：試作・検査・手戻りの時間を計画に組み込む",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "実践例：簡単な治具を製作する場合の作業時間の見積もり方",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりの作業時間が想定より長くなる原因と対策",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりを始めたいと考えたとき、「何から手をつければよいのか」「完成までにどれくらいの時間がかかるのか」と悩む方は少なくありません",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "特に、初めて試作品を製作する場合や、社内で新しい製品開発を担当する場合は、必要な工程を把握できず、作業時間の見積もりが難しくなりがちです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりでは、材料を加工する時間だけでなく、仕様の整理、設計、材料調達、加工準備、組立、検査、修正など、さまざまな作業が発生します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ものづくりの経験が少なくても、作業工程を適切に分解し、それぞれの作業時間を見積もることで、現実的な製作計画を立てやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、最初から正確な時間を予測しようとすることではなく、作業内容を明確にして、不確実な部分を段階的に減らすことです",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ものづくりを何から始めればよいか迷っている実務担当者に向けて、完成までの作業時間を見積もる6つのコツを解説します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "製作工程の整理方法、作業時間と待ち時間の違い、試作段階で見落としやすい作業、外注先との情報共有まで、実際の業務に役立つ考え方を紹介します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "作業時間を見積もる前に、目的、製作条件、完成の判断基準という3つの前提を整理しておくと、その後の計画が立てやすくなります",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、当初予定していなかった作業時間が発生します",
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "pass": 3
+   },
+   {
+    "quote": "設計・開発工程の重要性—品質とコストの8割は、設計段階で決まる",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "既存製品の代替部品選定・再評価に工数がかかる",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "コストダウンが進まない",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品が完成していても、量産体制や品質保証、部材調達、コスト、検査方法などが整っていなければ、安定して提供できる製品とはいえません",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「ものづくり白書」では、「製品の品質とコストの8割は、設計段階で決まる」として、設計・開発工程の重要性を説いています",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "同報告書内で紹介されているのが、下図に示す「設計変更の自由度と品質・コストの確定度」の相関関係を表したグラフです",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "製造設備などが確定したあとに設計を変更するとなれば、多大なコストと時間が必要です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "高い品質とコストの最適化を実現するためには、企画や製品設計の段階で適切な仕様を固めることが重要",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に要件定義として、「どのような機能や性能が必要で、その実現のためにどんな技術や部材が必要か」「法規制やコスト、納期の制約は何か」といった条件をひとつひとつ言語化します",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "この時点で抜けや曖昧さを残すと、後工程で余分な手戻りやコストが発生しやすくなるため、関係部門のメンバーと十分にすり合わせることが重要です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の価値観、市場リサーチ、技術トレンド、社内の強みや業界標準規格といった観点を網羅した要件定義書を作成することが、のちの設計・製造品質やコスト抑制、スピード向上につながります",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "量産フェーズまで何度も実施されることが一般的であり、基本の動作・仕様検証から安全性、コストなど様々な観点で行なわれます",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "量産開始後にこうした問題が露呈すると、大量の不良品が発生し、再度設計からやり直すこととなり、企業にとっては費用面でも時間面でも非常に大きな損失となります",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、試作段階で製品の問題点を発見・修正できれば、こうしたコストや時間を最小限に抑えることができます",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理・情報通信技術者は、近年のIoT、AI技術、DXなどデジタル社会の進展に伴って、労働者数が32万人から125万人と35年間で290%増加しているのに対し、製造技術者の数は84万人から93万人と同期間で10%しか増加していません",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、作りにくい工程が出来上がり、品質問題や余分な製造工数が掛かるなどの問題が発生している",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、例えば「製品マスタープランでの共通性構想と連動して、共通性の高いものは１拠点集中生産、量産工法適用によりコストダウンを図る」といったような検討をする",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "トータルで掛かる工数や各種投資を最少にするために、計画全体を見渡して最適な答えを見いだしていくことが肝要である",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "少しだけ時間はかかりますが、そのことは現場力を高め、現場の一人ひとりが成長を感じられる魅力的な職場になることを知っているからです",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "リードタイム短縮・在庫削減",
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）品質・コストの８割は設計で決まる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、製品の品質とコストの８割は、設計段階で決まると言われてきた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "図132-１は、仕様変更の自由度と品質・コストの確定度を示したものである",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、仕様変更の自由度が高い設計段階で、製品の品質とコストの８割程度が決まることになるのである",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "図132-１ 仕様変更の自由度と品質・コストの確定度",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品設計のリードタイムに関しても同様で、約４割が短くなっていると回答した一方で、半数以上が「あまり変わらない」としている（図132-４）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品設計のリードタイム短縮を図るための取組として重視しているものを確認すると、半数以上が「生産技術、製造、調達といった他部門との連携促進」と回答しており、設計力の強化に向けては他部門との連携が重視されている（図132-５）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "図132-４ 製品設計のリードタイムの５年前に比べての変化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "図132-５ 製品設計のリードタイム短縮を図るための取組として重視しているもの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内製造業に対して工程設計（生産技術）力のここ５年間での変化について尋ねたところ、36.9％が「向上している」、58.8%が「あまり変化はない」、4.3％が「低下している」と回答した（図132-６）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「あまり連携がとれていない」もしくは「連携がとれていない」と回答し、部門間連携に課題を感じている企業に対して、それにより生じる課題や問題を聞くと、「品質不良が発生する（55.5％）」「設計変更が製造に伝わらないことがある（42.8%）」「正確なコスト予測ができない（39.4％）」といった回答が上位に挙がった（図132-10）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計部門のデータと製造部門のデータの変換処理に膨大な工数や処理時間が掛かる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "当初見込まれなかった製造や調達のコストや作業などの情報が設計側に反映されない",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業においてDXへの取組がなかなか進まない背景として、同社は、日本企業の役員層に設計・生産双方での知見や経験を兼ね備えた人材が少ないこと、また、デジタル化によるコスト削減効果が見えづらいことなどが、経営者のデジタル化へ向けた投資判断や意思決定を妨げているためと分析する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、上記のようなPLMと原価に注目した経営管理の手法などを活用して、コスト削減効果や利益創出の観点で経営陣が意思決定し易い仕組みを整えるなど、様々な取組が考えられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "製品の企画から量産に至るまでのプロセスを指す、非常に付加価値の高い活動です",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "販売戦略や価格、ブランド、顧客体験まで含めて検討されることが多く、マーケティング寄りの意味合いを持つ",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな価格競争や短納期化への対応が迫られる現代において、設計・開発工程の重要性はさらに増しており、企業の競争力を左右するものとなっています",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "企業にとって付加価値の高い重要な領域である一方で、製品開発を取り巻く環境は深刻な課題がいくつかあります",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "既存製品のマイナーチェンジやEOL対応などのノンコアな領域の設計業務を外部に委託することで、自社の限られた人員を、より付加価値の高い新製品の開発に割くことができます",
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "pass": 3
+   },
+   {
+    "quote": "＜カテゴリー２：品質データ管理による高付加価値経営＞",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、ブロックチェーン技術を利用して、品質データの正当性を保証し、高品質を強みとして製造業を高付加価値化する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業においてDXへの取組がなかなか進まない背景として、同社は、日本企業の役員層に設計・生産双方での知見や経験を兼ね備えた人材が少ないこと、また、デジタル化によるコスト削減効果が見えづらいことなどが、経営者のデジタル化へ向けた投資判断や意思決定を妨げているためと分析する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、上記のようなPLMと原価に注目した経営管理の手法などを活用して、コスト削減効果や利益創出の観点で経営陣が意思決定し易い仕組みを整えるなど、様々な取組が考えられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、機械化に対する製造担当者からの懸念も発生したため、同社はベテランの製造担当者をより付加価値の高い業務専従とする棲み分けを実施することにより、現場の理解を得たうえでIWSの展開を進めた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、データの集約が可能になったことにより、設計部門の部品手配等の付帯作業が減少したことに加え、カンパニーIT部門のベンダー管理等の業務が減少したことで、各部門が付加価値向上業務により注力できるという効果が見られた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後同社は、経営方針として、競争力強化のために付加価値の高い業務（マーケティング・企画・アフターサービスなど）にシフトすることを掲げている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造を表すモデルの名称で、バリューチェーンの上流工程（商品企画や部品製造）と下流工程（流通・サービス・保守）の付加価値が高く、中間工程（組立・製造工程）の付加価値は低いという考え方を示す",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techno-rise.co.jp/sekkei-souba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichidai.jp/column/638/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suns-emp.com/column/811",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanshin.co.jp/column/odm_oem/electronic-development-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brainpad.co.jp/doors/contents/wp_on_manufacturing_industries_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.willtecgroup-ems.jp/column/product-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alert_hyssop1862/n/n98fd41a5842f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoigk.co.jp/column/process-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichidai.jp/column/638/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekkei-tech.com/2026/08/13/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E8%A8%88%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E3%81%AE%E8%80%83%E3%81%88%E6%96%B9-%E6%99%82%E9%96%93%E5%8D%98%E4%BE%A1%E3%81%A8%E6%9D%90%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onda.co.jp/saiyo/interview/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/interview/automation/koshin/automation-frontier",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/st/115910",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solomakers.co.jp/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toshik_note/n/n2a6c8b2ae9a6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fullheart.co.jp/manufacturing-cost-reduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/products/marker/housing-design/process/planning-concept.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jss1.jp/column/column_061/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E7%A8%8B%E8%A8%AD%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ilink-corp.co.jp/9570.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cameronmfg.com/the-importance-of-an-engineering-design-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appliedengineering.com/blog/design-for-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/blog/digital-manufacturing-design-engineering-the-secret-to-cutting-cost/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.modusadvanced.com/resources/blog/design-for-manufacturing-cost-reduction-strategic-decisions-that-transform-bottom-lines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ChemicalEngineering/comments/doqqmz/what_is_the_engineering_design_process_like_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://galorath.com/cost/design-to-cost/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ものづくり企業の設計工程の時間と費用",
+   "results": [
+    "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "https://techno-rise.co.jp/sekkei-souba/",
+    "https://www.nichidai.jp/column/638/",
+    "https://suns-emp.com/column/811",
+    "https://www.sanshin.co.jp/column/odm_oem/electronic-development-design/",
+    "https://www.brainpad.co.jp/doors/contents/wp_on_manufacturing_industries_2/",
+    "https://www.kinryo-works.co.jp/technology/procedure.html",
+    "https://www.keyence.co.jp/ss/products/marker/housing-design/process/planning-concept.jsp",
+    "https://note.com/ripla_business/n/n173bc65df76f",
+    "https://ja.wikipedia.org/wiki/工程設計"
+   ]
+  },
+  {
+   "query": "ものづくり企業の設計工程の時間と費用 仕組み 解説",
+   "results": [
+    "https://www.nichidai.jp/column/638/",
+    "https://www.sanshin.co.jp/column/odm_oem/electronic-development-design/",
+    "https://www.youtube.com/watch?v=0By9DzrXtv4",
+    "https://suns-emp.com/column/811",
+    "https://www.brainpad.co.jp/doors/contents/wp_on_manufacturing_industries_2/",
+    "https://lefixea.jp/mfg/articles/how-to-start-making58",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article10.html",
+    "https://www.willtecgroup-ems.jp/column/product-development/",
+    "https://note.com/alert_hyssop1862/n/n98fd41a5842f",
+    "https://aoigk.co.jp/column/process-design/"
+   ]
+  },
+  {
+   "query": "ものづくり企業の設計工程の時間と費用 インタビュー",
+   "results": [
+    "https://www.brainpad.co.jp/doors/contents/wp_on_manufacturing_industries_2/",
+    "https://www.onda.co.jp/saiyo/interview/04.html",
+    "https://monoken.yamazen.co.jp/blog/interview/automation/koshin/automation-frontier",
+    "https://www.nichidai.jp/column/638/",
+    "https://www.sbbit.jp/article/st/115910",
+    "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "https://www.youtube.com/watch?v=WOSxC-zFFqk",
+    "https://solomakers.co.jp/interview/",
+    "https://sekkei-tech.com/2026/08/13/機械設計の見積もりの考え方-時間単価と材料/",
+    "https://note.com/toshik_note/n/n2a6c8b2ae9a6"
+   ]
+  },
+  {
+   "query": "ものづくり企業の設計工程の時間と費用 事例",
+   "results": [
+    "https://www.nichidai.jp/column/638/",
+    "https://suns-emp.com/column/811",
+    "https://techno-rise.co.jp/sekkei-souba/",
+    "https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html",
+    "https://www.brainpad.co.jp/doors/contents/wp_on_manufacturing_industries_2/",
+    "https://www.fullheart.co.jp/manufacturing-cost-reduction/",
+    "https://www.keyence.co.jp/ss/products/marker/housing-design/process/planning-concept.jsp",
+    "https://jss1.jp/column/column_061/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html",
+    "https://ja.wikipedia.org/wiki/工程設計"
+   ]
+  },
+  {
+   "query": "engineering design process time cost manufacturers",
+   "results": [
+    "https://www.cameronmfg.com/blog/the-importance-of-an-engineering-design-process",
+    "https://www.appliedengineering.com/blog/design-for-manufacturing",
+    "https://www.apriori.com/blog/digital-manufacturing-design-engineering-the-secret-to-cutting-cost/",
+    "https://www.modusadvanced.com/resources/blog/design-for-manufacturing-cost-reduction-strategic-decisions-that-transform-bottom-lines",
+    "https://www.reddit.com/r/ChemicalEngineering/comments/doqqmz/what_is_the_engineering_design_process_like_in/",
+    "https://galorath.com/cost/design-to-cost/",
+    "https://simutecra.com/blogs/how-engineering-design-service-reduce-development-time-cost",
+    "https://www.youtube.com/watch?v=yP6IWIfLQ3s",
+    "https://www.arigs.com/blog/from-design-to-development-navigating-the-engineering-design-process-in-manufacturing-logistics/",
+    "https://en.wikipedia.org/wiki/Engineering_design_process"
+   ]
+  }
+ ],
+ "missing": {}
+}

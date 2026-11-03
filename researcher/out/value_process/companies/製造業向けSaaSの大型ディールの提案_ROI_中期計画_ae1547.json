@@ -1,0 +1,1052 @@
+{
+ "name": "製造業向けSaaSの大型ディールの提案（ROI・中期計画）",
+ "en": "enterprise manufacturing SaaS ROI proposal",
+ "aliases": [
+  "エンタープライズ営業 製造業 ROI",
+  "製造業 DX 投資対効果 提案",
+  "製造業 SaaS 大型受注"
+ ],
+ "context": "大型ディール",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:27:50.641766+00:00",
+ "evidence": {
+  "仕組み・プロセス": [
+   {
+    "quote": "IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資・DX・SaaS導入のROIを測定するための計算方法・KPI設定・評価フレームワークを解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "DX・SaaS導入の費用対効果を数値化する方法を解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "業務別コスト削減の数値化方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：導入前のベースライン測定",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：KPIの設定",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3：四半期ごとの追跡・報告",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "上の基本計算式に、ステップ1で測った自社の業務時間と、見積もりの総コスト（TCO）を当てはめて出してください",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「経営層に投資効果を説明する必要があるが、効果を金額に翻訳する方法がわからない」",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "開発の見積もりがまだ無く、投資額そのものが決まっていない段階なら、ROIの計算より先に、社内で出せる上限を決める材料（いま手作業にかけている時間、今のシステムの保守費、使う年数）を集めます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "説得力のある稟議は、3〜5年スパンで段階的に効果が積み上がる絵を描きます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "定量化の方法は業務によって違うため、典型的な3パターンで考え方を整理します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "3年間の効果カーブを段階的に示しているか（1年目で全効果を出す前提になっていないか）",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "12ヶ月後の ROI 振り返りプロセスを設計しているか",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略とは？3ステップ策定法とROI算出【2026年版】 | Saas マガジン | Saas事業者のための実践メディア",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略とは？経営目標と連動させる3ステップの策定法とROI算出まで完全解説",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "本記事ではIT戦略の定義から、現状分析・あるべき姿の設定・ロードマップ策定の3ステップ、ROI算出やシャドーIT対策、経産省デジタルガバナンス・コード3.0までを実務に直結する形で体系的に解説します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略を策定・推進する3ステップ",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：現状（As-Is）の可視化と課題抽出",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：あるべき姿（To-Be）の定義とフレームワーク活用",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ3：ギャップを埋めるロードマップ策定と実行判断",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "5. シャドーIT対策と継続的な改善プロセスを構築する",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "の3ステップ、ROI・TCO算出の具体的な計算例、シャドーIT対策、経済産業省「デジタルガバナンス・コード3.0」が示すDX経営の要諦まで網羅的に解説します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "企業が持続的に成長するためには、最新のテクノロジーを活用して業務プロセスを根本から見直すデジタルトランスフォーメーション（DX）の推進が不可欠です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "「競合他社が導入しているから」「最新の技術だから」という理由でシステムを選定すると、自社の業務プロセスに適合せず投資がムダに終わります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "「入力項目が増えてかえって手間がかかる」「以前のやり方のほうが早かった」といった不満は、システム導入の初期段階で必ず発生します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "現場の反発を防ぐためには、戦略策定の段階から現場のキーパーソンを巻き込むことが重要です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "新しいIT環境がもたらす作業時間の短縮やミスの削減といったメリットを丁寧に説明し、理解を得るプロセスが不可欠です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、具体的な3つの手順と実践におけるポイントを解説します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   }
+  ],
+  "ニーズの集め方": [
+   {
+    "quote": "例えば、「(1) 既存業務と並行運用する3ヶ月の現場負荷増、対策として残業代予算 +200万円を確保",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner・IDC・JUAS（日本情報システム・ユーザー協会）の調査から、現場で参考にできる目安を整理します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【事例】レガシー改修で調査と下書きが速くなった現場の記録",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "現場と本社の情報を一元化し、発注漏れを防いだ工事・建設業界の導入の裏側",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の抵抗を乗り越えるチェンジマネジメント",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "「IT投資をしているのに業績が改善しない」「DXを推進しようとしても現場が動かない」——そう感じている経営層・情シス担当者は少なくありません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "経営と現場の乖離や人材不足を打破するには、経営陣が自らIT戦略に関与し、全社的な課題として取り組む姿勢が求められます",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "優れたIT戦略を策定しても、現場の業務に定着しなければ絵に描いた餅に終わります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "現場の抵抗とチェンジマネジメントの壁",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "新しいシステムやツールの導入は、これまでの慣れ親しんだ業務フローを変化させるため、現場の従業員から反発を招くことが多くあります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "現場の反発を防ぐためには、戦略策定の段階から現場のキーパーソンを巻き込むことが重要です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "現在稼働しているシステム群の構成や維持管理にかかっているコスト、現場の業務フローにおけるボトルネックを洗い出します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "この際、情報システム部門の視点だけでなく、各事業部門へのヒアリングを通じて、システムの老朽化（技術的負債）や、現場が独自に導入して管理が行き届いていないSaaS（シャドーIT）の有無など、多角的な視点で現状を評価することが重要です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、多額の予算を投じたにもかかわらず、システムが現場で使われない、あるいは期待した業務効率化が実現しないといった失敗ケースは後を絶ちません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期開発費用やライセンス費用といった直接的なコストだけでなく、導入後の保守・運用費用、現場の学習コストなど、総所有コスト（TCO）を総合的に見積もる必要があります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "特に、現場が独自に導入する「シャドーIT」は情報漏洩リスクとコスト肥大化を招くため、承認済みのSaaSリストを社内ポータルで共有するなどの運用ルール策定が求められます",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "現場からのフィードバックを収集し、システムの改修や業務フローの見直しにスピーディに反映させる仕組みを整えることで、IT戦略は企業成長の原動力として定着します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT部門だけで作ると経営戦略と乖離し、経営層だけで作ると現場運用が破綻します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "これより短いと現場ヒアリングが不足して机上の空論になり、これより長いと環境変化に追いつけません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   }
+  ],
+  "値付け・付加価値": [
+   {
+    "quote": "IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資・DX・SaaS導入のROIを測定するための計算方法・KPI設定・評価フレームワークを解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層への報告に使えるROI算出の実践ガイドです",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資ROI測定ガイド【2026年版】",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "DX・SaaS導入の費用対効果を数値化する方法を解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層への報告に使えるROI算出フレームワークと実例を紹介します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜIT投資のROI測定が重要か",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入前の数字がなければ、ROIは後から正確に説明できません",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資のROIを定量的に把握することで、継続投資の意思決定・追加予算の獲得・改善施策の優先順位付けが可能になります",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資ROIの基本計算式",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI（%）＝（IT投資による利益増加額 ÷ IT投資総コスト）× 100",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI測定のKPI設計フレームワーク",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "この「before」データがなければROIを算出できないため、導入決定と同時にベースライン測定を開始してください",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS別のROIは自社の数字で出す",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略とは？3ステップ策定法とROI算出【2026年版】 | Saas マガジン | Saas事業者のための実践メディア",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略とは？経営目標と連動させる3ステップの策定法とROI算出まで完全解説",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "本記事ではIT戦略の定義から、現状分析・あるべき姿の設定・ロードマップ策定の3ステップ、ROI算出やシャドーIT対策、経産省デジタルガバナンス・コード3.0までを実務に直結する形で体系的に解説します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "4. ROIとTCOの両面から投資対効果をシミュレーションする",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "の3ステップ、ROI・TCO算出の具体的な計算例、シャドーIT対策、経済産業省「デジタルガバナンス・コード3.0」が示すDX経営の要諦まで網羅的に解説します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "投資対効果（ROI）とリスクの明確化",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "実行に移す際は、システム調達の手段として「自社開発（Build）」か「外部サービス導入（Buy）」かを判断し、投資対効果（ROI）を見極めます",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "投資対効果（ROI）の算出基準を明確に設定することも欠かせません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "策定においては、現状分析（As-Is）→あるべき姿（To-Be）→ロードマップという3ステップを体系的に踏み、ROIとTCOの両面で投資対効果を可視化することが不可欠です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "ABM（アカウントベースドマーケティング）はITSMAが2003年に定義したBtoB戦略で、Forrester 2024調査では99%の実践企業が「従来比でROIが向上」と回答しています",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   }
+  ],
+  "導入・変革": [
+   {
+    "quote": "IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資・DX・SaaS導入のROIを測定するための計算方法・KPI設定・評価フレームワークを解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "DX・SaaS導入の費用対効果を数値化する方法を解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「kintoneを導入したが、本当に効果があったのか分からない」「DX投資の経営判断をするための数字が出せない」という課題を抱える企業は多くあります",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入前の数字がなければ、ROIは後から正確に説明できません",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・外注を検討している方へ",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "利益増加額は「売上増加分 ＋ コスト削減分」で構成されます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "業務別コスト削減の数値化方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：導入前のベースライン測定",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入前の業務時間・エラー率・処理件数を記録します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "この「before」データがなければROIを算出できないため、導入決定と同時にベースライン測定を開始してください",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "定量KPI（時間削減・コスト削減・売上増加）と定性KPI（従業員満足度・顧客満足度）の両方を設定します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "定量KPIのみに偏ると重要な効果を見逃すリスクがあります",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後3ヶ月・6ヶ月・12ヶ月時点で測定し、経営会議で報告します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル変革",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画への組み込みは過半数まで進展",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "4. ROIとTCOの両面から投資対効果をシミュレーションする",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略とは、企業の経営目標（売上拡大・コスト削減・競争優位性確立）を情報技術でどう実現するかを定めた中長期的な方針です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "単なるシステム導入計画ではなく、経営戦略と表裏一体で運用すべき経営アジェンダです",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "単なるシステムの導入計画ではありません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの変革や競争優位性の確立を目的とした、経営戦略と表裏一体の重要な柱です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「DXレポート」（2018年公表）は、老朽化した既存システム（レガシーシステム）を放置した場合、2025年以降に最大で年間12兆円の経済損失が生じると試算しました",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆる「2025年の崖」問題です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "「競合他社が導入しているから」「最新の技術だから」という理由でシステムを選定すると、自社の業務プロセスに適合せず投資がムダに終わります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "売上拡大やコスト削減など、経営が目指すゴールに対して、ITがどのように貢献するのかを論理的に紐づける必要があります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "投資対効果（ROI）とリスクの明確化",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期の開発・導入費用だけでなく、運用保守にかかるランニングコスト（TCO）も含めて採算性を評価しなければなりません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "新しいシステムやツールの導入は、これまでの慣れ親しんだ業務フローを変化させるため、現場の従業員から反発を招くことが多くあります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "「入力項目が増えてかえって手間がかかる」「以前のやり方のほうが早かった」といった不満は、システム導入の初期段階で必ず発生します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   }
+  ],
+  "工程・担当": [
+   {
+    "quote": "IT投資総コスト（TCO）には「初期費用 ＋ 月額ライセンス料 ＋ 保守費用 ＋ 社内対応工数」を含めます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI測定のKPI設計フレームワーク",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "上の基本計算式に、ステップ1で測った自社の業務時間と、見積もりの総コスト（TCO）を当てはめて出してください",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT 投資の稟議を書く段になって、ROI を計算しなければならなくなった担当者がつまずきやすいのは、",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "開発の見積もりがまだ無く、投資額そのものが決まっていない段階なら、ROIの計算より先に、社内で出せる上限を決める材料（いま手作業にかけている時間、今のシステムの保守費、使う年数）を集めます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "という保守シナリオを併記すると、経営層のリスク認識が下がります",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後の「ROI 振り返り」をセットで設計する",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入12ヶ月後に「稟議で書いた効果は本当に出たか」を振り返る場を、最初から設計しておく",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "AI自動化の効果測定設計はありますか？",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Code 導入支援は、セキュアな権限設計から kintone・Salesforce 等のSaaS連携、業務自動化の定着までを一貫して支援するサービスです",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "✓ セキュアな権限設計",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "権限設計から定着まで伴走",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "権限設計・SaaS連携・業務自動化",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "これから稟議を書く担当者が、提出前に自分で確認できるチェック項目を5つ挙げます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "12ヶ月後の ROI 振り返りプロセスを設計しているか",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「IT投資をしているのに業績が改善しない」「DXを推進しようとしても現場が動かない」——そう感じている経営層・情シス担当者は少なくありません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "しかし現状を見ると、経営層とIT部門の間で認識の乖離が生じているケースが少なくありません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "経営層が「AIやクラウドを使って業務を効率化しろ」と抽象的な指示を出す一方で、IT部門は既存システムの維持・保守に追われています",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期の開発・導入費用だけでなく、運用保守にかかるランニングコスト（TCO）も含めて採算性を評価しなければなりません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "この際、情報システム部門の視点だけでなく、各事業部門へのヒアリングを通じて、システムの老朽化（技術的負債）や、現場が独自に導入して管理が行き届いていないSaaS（シャドーIT）の有無など、多角的な視点で現状を評価することが重要です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばある中堅製造業では、基幹システムが老朽化する一方で、各部門が個別にExcelマクロや無料クラウドツールを導入し、データが社内で分断されている状態（サイロ化）でした",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの製造業の例では、経営目標である「受注から納品までのリードタイム30%短縮」を実現するために、EAフレームワークを活用しました",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "実行に移す際は、システム調達の手段として「自社開発（Build）」か「外部サービス導入（Buy）」かを判断し、投資対効果（ROI）を見極めます",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "また、一斉導入による混乱を避けるため、特定の部門に絞ってスモールスタートを切り、実際の運用を通じてアジャイルに定着化させていくアプローチが効果的です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "経営層は「売上を10%向上させる」「業務コストを20%削減する」といった明確なビジネス目標を提示し、IT部門はその目標を達成するための技術的なアプローチを設計することが不可欠です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "この判断をベンダーの提案や担当者の直感に頼るのではなく、IT戦略フレームワークを活用して客観化することが重要です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期開発費用やライセンス費用といった直接的なコストだけでなく、導入後の保守・運用費用、現場の学習コストなど、総所有コスト（TCO）を総合的に見積もる必要があります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用 + 年間ライセンス料 + 運用保守人件費",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "も合わせて確認し、ガバナンス設計に組み込んでください",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT企画部門と事業部門の合同チーム",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   }
+  ],
+  "工程の時間と費用": [
+   {
+    "quote": "IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "DX・SaaS導入の費用対効果を数値化する方法を解説",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムについて、進め方と、費用が何で決まるかを、御社の状況に合わせてお伝えします",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "費用感だけのご相談でも構いません",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI（%）＝（IT投資による利益増加額 ÷ IT投資総コスト）× 100",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "利益増加額は「売上増加分 ＋ コスト削減分」で構成されます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT投資総コスト（TCO）には「初期費用 ＋ 月額ライセンス料 ＋ 保守費用 ＋ 社内対応工数」を含めます",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "業務別コスト削減の数値化方法",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "作成時間×時給×対象人数",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1時間/日×2,500円×10人×250日＝625万円/年",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "転記時間×時給×頻度",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "待機時間×案件数×機会損失",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "対応時間×件数×時給",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "導入前の業務時間・エラー率・処理件数を記録します",
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略とは、企業の経営目標（売上拡大・コスト削減・競争優位性確立）を情報技術でどう実現するかを定めた中長期的な方針です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人情報処理推進機構（IPA）の「DX動向2024」では、DXを推進する人材が「大幅に不足している」と回答した企業の割合が",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "売上拡大やコスト削減など、経営が目指すゴールに対して、ITがどのように貢献するのかを論理的に紐づける必要があります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "IT戦略の実行には多額の費用と時間がかかります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期の開発・導入費用だけでなく、運用保守にかかるランニングコスト（TCO）も含めて採算性を評価しなければなりません",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "新しいIT環境がもたらす作業時間の短縮やミスの削減といったメリットを丁寧に説明し、理解を得るプロセスが不可欠です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "東証上場企業およびそれに準ずる企業4,500社を対象にした調査（2024年12月〜2025年1月実施）によれば、中期経営計画にIT戦略を盛り込んでいる企業の割合は",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "現在稼働しているシステム群の構成や維持管理にかかっているコスト、現場の業務フローにおけるボトルネックを洗い出します",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "このステップで全社的なシステム棚卸しを行った結果、月間約200時間の無駄なデータ転記作業が発生していることが可視化されました",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの製造業の例では、経営目標である「受注から納品までのリードタイム30%短縮」を実現するために、EAフレームワークを活用しました",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "経営層は「売上を10%向上させる」「業務コストを20%削減する」といった明確なビジネス目標を提示し、IT部門はその目標を達成するための技術的なアプローチを設計することが不可欠です",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期開発費用やライセンス費用といった直接的なコストだけでなく、導入後の保守・運用費用、現場の学習コストなど、総所有コスト（TCO）を総合的に見積もる必要があります",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用 + 年間ライセンス料 + 運用保守人件費",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "月間残業削減 100時間 × 人件費換算 月30万円 × 12ヶ月",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   },
+   {
+    "quote": "2年目以降は初期費用が消えるため利益幅が拡大",
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://boomi.com/ja/blog/measure-saas-for-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.josys.com/jp/article/article-saas-management-maximizing-roi-on-saas-investments-a-step-by-step-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/setsubi-toshi-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/saas%E3%81%AEroi%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-bell.com/knowledge/roi-return-on-investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/optim-support-and-growth-portal/blog/saas-tool-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-nexa.com/blog/2026-08-24-btob-roi-proposal-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.josys.com/jp/blog/saas-roi-calculation-frameworks-and-practical-steps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.projection-ai.com/dkq0tl4p5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itcompass.lanitech.jp/blog/saas-roi-evaluation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://btobmarketing-textbook.com/b2b-content-roi-simulation-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isz.co.jp/circular/column/2035/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sol.ferret-one.com/blog/manufacturing-btob-marketing-strategy-roi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/jp/ja/ir/library/meeting/pdf/ja_233_4q_chukei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wheat-biz.com/fp/saas-ma-jirei-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/zaimu/shoukei/pamphlet/ma-jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://boomi.com/blog/measure-saas-for-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://payproglobal.com/how-to/write-saas-proposal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qorusdocs.com/blog/it-saas-proposal-trends-7-insights-for-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/blog-posts/saas-proposal-template-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/saas-growth/enterprise-sales-motion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/In-Enterprise-SaaS-sales-once-you-send-over-the-formal-proposal-what-can-you-do-to-help-increase-the-chances-of-the-deal-closing",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業向けSaaSの大型ディールの提案（ROI・中期計画）",
+   "results": [
+    "https://boomi.com/ja/blog/measure-saas-for-roi/",
+    "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "https://www.josys.com/jp/article/article-saas-management-maximizing-roi-on-saas-investments-a-step-by-step-guide",
+    "https://yachiyo-sol.com/library/setsubi-toshi-roi/",
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/saas%E3%81%AEroi%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "https://it-bell.com/knowledge/roi-return-on-investment/",
+    "https://www.doit.com/ja/blog/rule-of-40",
+    "https://japan.zdnet.com/article/35218344/",
+    "https://itcompass.lanitech.jp/blog/saas-roi-evaluation/",
+    "https://smartcodes.jp/education/articles/manufacturing-dx-roi-metrics/"
+   ]
+  },
+  {
+   "query": "製造業向けSaaSの大型ディールの提案（ROI・中期計画） 仕組み 解説",
+   "results": [
+    "https://www.optim.co.jp/optim-support-and-growth-portal/blog/saas-tool-roi/",
+    "https://boomi.com/ja/blog/measure-saas-for-roi/",
+    "https://it-bell.com/knowledge/roi-return-on-investment/",
+    "https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/",
+    "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "https://yachiyo-sol.com/library/setsubi-toshi-roi/",
+    "https://sales-nexa.com/blog/2026-08-24-btob-roi-proposal-guide/",
+    "https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/",
+    "https://www.josys.com/jp/blog/saas-roi-calculation-frameworks-and-practical-steps"
+   ]
+  },
+  {
+   "query": "製造業向けSaaSの大型ディールの提案（ROI・中期計画） インタビュー",
+   "results": [
+    "https://boomi.com/ja/blog/measure-saas-for-roi/",
+    "https://www.josys.com/jp/blog/saas-roi-calculation-frameworks-and-practical-steps",
+    "https://www.youtube.com/watch?v=2U71MNBM_-E",
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/saas%E3%81%AEroi%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "https://it-bell.com/knowledge/roi-return-on-investment/",
+    "https://blog.projection-ai.com/dkq0tl4p5",
+    "https://itcompass.lanitech.jp/blog/saas-roi-evaluation/",
+    "https://saas-magazine.com/what-is-it-strategy-and-framework",
+    "https://btobmarketing-textbook.com/b2b-content-roi-simulation-industry/"
+   ]
+  },
+  {
+   "query": "製造業向けSaaSの大型ディールの提案（ROI・中期計画） 事例",
+   "results": [
+    "https://btobmarketing-textbook.com/b2b-content-roi-simulation-industry/",
+    "https://boomi.com/ja/blog/measure-saas-for-roi/",
+    "https://www.isz.co.jp/circular/column/2035/",
+    "https://itcompass.lanitech.jp/blog/saas-roi-evaluation/",
+    "https://sol.ferret-one.com/blog/manufacturing-btob-marketing-strategy-roi",
+    "https://www.josys.com/jp/blog/saas-roi-calculation-frameworks-and-practical-steps",
+    "https://www.mitsui.com/jp/ja/ir/library/meeting/pdf/ja_233_4q_chukei.pdf",
+    "https://wheat-biz.com/fp/saas-ma-jirei-finance/",
+    "https://www.chusho.meti.go.jp/zaimu/shoukei/pamphlet/ma-jirei.pdf"
+   ]
+  },
+  {
+   "query": "enterprise manufacturing SaaS ROI proposal",
+   "results": [
+    "https://boomi.com/blog/measure-saas-for-roi/",
+    "https://payproglobal.com/how-to/write-saas-proposal/",
+    "https://www.qorusdocs.com/blog/it-saas-proposal-trends-7-insights-for-2026",
+    "https://www.inventive.ai/blog-posts/saas-proposal-template-examples",
+    "https://resources.rework.com/libraries/saas-growth/enterprise-sales-motion",
+    "https://www.quora.com/In-Enterprise-SaaS-sales-once-you-send-over-the-formal-proposal-what-can-you-do-to-help-increase-the-chances-of-the-deal-closing",
+    "https://qwilr.com/blog/enterprise-saas-sales/",
+    "https://www.maxio.com/blog/mastering-the-enterprise-saas-business-model",
+    "https://www.anygen.io/showcase/enterprise-saas-proposal-template/index.html"
+   ]
+  }
+ ],
+ "missing": {
+  "できる・できない": "記載なし（読んだ25頁・検索5回）"
+ }
+}

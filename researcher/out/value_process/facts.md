@@ -1,0 +1,1078 @@
+# 高付加価値の作り方と大型ディールの型・ものづくり企業の工程ごとの置き換え余地（事実のみ・10品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## キーエンスのニーズカードと商品企画（Keyence needs card product planning）
+- 文脈：高付加価値
+- 仕組み・プロセス：
+  - 「顧客ニーズに基づいた独自性の高い商品開発やソリューション提案を続ける仕組み、ファブレス経営といった取り組みの根底に流れるキーエンスの思想とは何なのか」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「「ニーズカードの仕組みをつくったがうまくいかなかった」」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「書籍やビジネス誌、ウェブなどの情報から「キーエンスはニーズカードを作って運用している」という情報を入手し、ならば「自社でもやってみよう」とトライした結果とのこと」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「簡単に解説をすると、ニーズカードとは、営業担当者が定期的に開発部門などに顧客のニーズを定型化された形式で提出する仕組みを指す」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「顧客志向が叫ばれる中、顧客ニーズを収集・集約する「ニーズカード」が気になるのはよく分かる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「うまくいかない企業は、これまでの連載で取り上げてきたケースと同様、キーエンスが徹底する性弱説視点ではなく、性善説視点で仕組みをつくってしまっているケースが多い」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「一部の顧客からアンケート形式でニーズを収集する仕組みで集めた総数は約200件」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「少しぶっきらぼうな対応だったため理由を尋ねたところ、「そんなことは開発段階から分かっている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「つまり開発担当者としては、企画段階からこのような反応が来ることは折り込み済み」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「つまり、ニーズカードの仕組みを導入して200件のニーズを集めたものの、新しい製品に生かせそうなニーズはほとんど集められなかった」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「それは性善説視点でニーズカードの仕組みを構築・運用したからに他ならない」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「繰り返しになるが、キーエンスはニーズカードの仕組みを構築する際に、「顧客は自分の見える範囲、イメージできる範囲のことしか言語化できない」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「このような視点に立つと、ニーズカードの役割はあくまでも「ヒント」という扱いにとどまる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「筆者の経験では、キーエンス時代のニーズカードも前出の事例と同様に、大多数は「折り込み済み」「クレーム」といった内容だった」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「また、他の企業でニーズ収集の仕組みを導入した際もおおむね同じような結果が出ている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+- ニーズの集め方：
+  - 「キーエンス流・ニーズ収集の要諦 顧客の意見はほぼ役に立たない | 日経BOOKプラス」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「キーエンス流・ニーズ収集の要諦 顧客の意見はほぼ役に立たない」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「顧客ニーズに基づいた独自性の高い商品開発やソリューション提案を続ける仕組み、ファブレス経営といった取り組みの根底に流れるキーエンスの思想とは何なのか」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「「ニーズカードの仕組みをつくったがうまくいかなかった」」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「最近、訪問先企業でよく聞く顧客の悩みだ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「書籍やビジネス誌、ウェブなどの情報から「キーエンスはニーズカードを作って運用している」という情報を入手し、ならば「自社でもやってみよう」とトライした結果とのこと」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「簡単に解説をすると、ニーズカードとは、営業担当者が定期的に開発部門などに顧客のニーズを定型化された形式で提出する仕組みを指す」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「顧客志向が叫ばれる中、顧客ニーズを収集・集約する「ニーズカード」が気になるのはよく分かる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「タブレット型パソコンを製造するA社が集めたニーズを見てみよう」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「一部の顧客からアンケート形式でニーズを収集する仕組みで集めた総数は約200件」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「より幅広いニーズを拾うため、回答は選択式ではなく自由記述式にした」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「よく見ると、ニーズと言えばニーズだが、見方によってはクレームのような内容も含まれている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「問題は、これらのニーズをどう扱うかだ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「開発担当者に見てもらったところ、「画面が指紋で汚れやすい」「重たい」「音が良くない」の最初の3つのニーズについては、「参考にします」との返答だった」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「「画面が指紋で汚れやすい」というニーズについても同様だった」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+- 値付け・付加価値：
+  - 「今回の製品は低価格を売りにしている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「集めたニーズに対応して「画面が指紋で汚れにくく」「軽く」「音質もいい」製品を低価格で販売できれば、顧客ニーズに沿ったいい製品になるだろう」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「性能をある程度犠牲にしてでも低価格を実現した製品に対して「もっと品質を向上せよ、ただし同等品より安く」という無理難題を求めているのがこれらのニーズなのだ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「だから顧客ニーズを収集しても、製品の付加価値向上に役立つ情報はほとんど得られない」という前提に立っている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「また、導入した際のコスト削減効果が見込めるため、導入を進める合理的理由がある」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「打ち合わせの場面では、顧客の使用状況やメリットにつながる情報を聞き出したり、価格情報などのヒントも得たりしなければならない」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「退職後、新規事業や新製品開発、ビジネスの付加価値向上などの分野において、大企業から中小企業まで幅広い業種・企業の指導に携わる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「最小の資本で最大の付加価値の提供」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「最小の資本と人で最大の付加価値の提供」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「キーエンスの強さは、経営理念である「最小の資本と人で、最大の付加価値をあげる」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「価格競合を回避する高付加価値の提案」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「製品の機能や性能の比較は、最終的に「それで商品はいくらなの？」という価格競争に陥ります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「しかし、キーエンスのように「この設備投資によって、年間〇〇万円の人件費が削減でき、わずか〇ヶ月で投資回収が可能です」といった経済的メリットを明確に提示できれば、顧客の判断基準は、価格から投資対効果へと変わります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「価格以外のポイントにフォーカスすることで、競合商品と比較されない提案が可能です」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「これを商談の武器とすることで、価格以外の価値で勝負する営業スタイルへと転換できます」（https://service.grandcentral.jp/column/keyence-sales-system）
+- できる・できない：
+  - 「Grand Centralができること」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「その立場になってからでないと経験できないことを、」（https://www.keyence-jobs.jp/about/system/）
+  - 「まず強みを考えるうえで前提条件となる組織図を見ていただきたいです」（https://corp.linkers.net/blog/openwithlinkers/12117/）
+  - 「これらが、キーエンスの強みを考えるための前提条件となります」（https://corp.linkers.net/blog/openwithlinkers/12117/）
+  - 「Q6. 中小企業がキーエンスから真似できることはありますか？」（https://comtri.jp/keyence/）
+  - 「一見すると当たり前で、やろうと思えば他社が真似もできること」（https://note.com/core_trinity/n/n8607b5a5176e）
+  - 「行政・防衛現場の制約を突破する 官公庁の業務能率改革」（https://jbpress.ismedia.jp/articles/-/96170）
+- 導入・変革：
+  - 「つまり、ニーズカードの仕組みを導入して200件のニーズを集めたものの、新しい製品に生かせそうなニーズはほとんど集められなかった」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「また、他の企業でニーズ収集の仕組みを導入した際もおおむね同じような結果が出ている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「昨今、遠隔で無人店舗を案内できるようなサービスが増えているが、導入には監視カメラが必要となる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「そこで、タブレットに内蔵しているカメラを質問してくる人に向けることができれば、監視カメラを導入せず遠隔で案内できる」」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「また、導入した際のコスト削減効果が見込めるため、導入を進める合理的理由がある」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「リードと呼ばれる見込み客に対して製品を説明し、導入メリットを解説し、見積書や提案書を提出し、時には競合との差異化を図り、売り上げへとつなげていく」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「経営者と比べ、現場が「5年後10年後を見据えてニーズを集める」という意識が低くなるのは、ある意味で当然だ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「そのためには、何らかのインセンティブの付与は効果的だ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「ニーズカードの仕組みを導入した企業を見てみると、定着化が課題となっているケースが目立つ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「インセンティブやペナルティーを導入すればいいのだが、「現状の人事評価制度と整合性が取れない」といった理由で、定着化のための工夫ができないのだ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「これでは有用なヒントを得られる可能性は低く、効果が出ないことを理由にさらに集まらなくなる悪循環に陥る」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「実際キーエンスでは、ニーズカードの運用にインセンティブを導入し、KPIにも組み入れている」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「真に大切なのは、導入した仕組みを機能させ、定着させる方法だ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「まずは商談の前に、数分間は「この顧客が自社の製品を導入してくれる最大の理由は何か？」「本質的な課題は何か」という仮説を各自で立て、共有する場を設けてみましょう」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「キーエンスの提案は、その製品を導入することで、顧客のビジネスが具体的にどのような利点があるのかという経済合理性を、誰が見てもわかる数字で示すことを徹底しています」（https://service.grandcentral.jp/column/keyence-sales-system）
+- 工程・担当：
+  - 「簡単に解説をすると、ニーズカードとは、営業担当者が定期的に開発部門などに顧客のニーズを定型化された形式で提出する仕組みを指す」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「タブレット型パソコンを製造するA社が集めたニーズを見てみよう」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「開発担当者に見てもらったところ、「画面が指紋で汚れやすい」「重たい」「音が良くない」の最初の3つのニーズについては、「参考にします」との返答だった」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「つまり開発担当者としては、企画段階からこのような反応が来ることは折り込み済み」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「ましてや、インターネットを使った簡単なアンケートのように回答時間が短い場合、あまり深く考えずに答えてしまうし、担当者が内容について回答者に確認することもできないため、これらが含まれるリスクはさらに高くなる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「なぜならこのニーズは、開発担当者も含めて「折り込み済み」の情報ではないからだ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「そのためには、性弱説視点に立って仕組みを設計しないといけない」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「また、営業担当者に顧客ニーズをヒアリングしてきてもらう際も注意が必要だ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「本来、営業担当者の仕事は製品の販売だ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「リードと呼ばれる見込み客に対して製品を説明し、導入メリットを解説し、見積書や提案書を提出し、時には競合との差異化を図り、売り上げへとつなげていく」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「従って、担当者の善意に任せていてはほとんど集まらない」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「その根底には、徹底した行動量の管理、情報収集力の高さ、そして努力を正当に評価する制度設計があります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「日々の活動量は担当者の裁量に委ねられる」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「ヒアリングの深さが担当者のスキルに左右される」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「これにより、担当者は「今日やるべきこと」が明確で、迷いなく行動に移せます」（https://service.grandcentral.jp/column/keyence-sales-system）
+- 工程の時間と費用：
+  - 「ましてや、インターネットを使った簡単なアンケートのように回答時間が短い場合、あまり深く考えずに答えてしまうし、担当者が内容について回答者に確認することもできないため、これらが含まれるリスクはさらに高くなる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「監視カメラを設置すると、機器の設置費用と毎月の利用料が発生し、高額になる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「また、導入した際のコスト削減効果が見込めるため、導入を進める合理的理由がある」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「こういった作業は非常に手間と時間がかかる」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「その中で、商談とは直接的に関係ない新たなニーズを聞き出すのは、時間的にも労力的も一苦労だ」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「はじめに：『親子の「折り合い」の見つけ方 限りある時間の中で心をつなげる』」（https://bookplus.nikkei.com/atcl/column/012300465/030700007/）
+  - 「社内で取り入れる場合は、評価項目に「成果60%・行動30%・組織貢献10%」といった評価の比率を設定します」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「営業組織にとって最小の資本とは、いうまでもなく、営業担当者の有限な時間です」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「しかし、キーエンスのように「この設備投資によって、年間〇〇万円の人件費が削減でき、わずか〇ヶ月で投資回収が可能です」といった経済的メリットを明確に提示できれば、顧客の判断基準は、価格から投資対効果へと変わります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「貴社の主力製品について、顧客のコスト削減額や生産性向上による利益増を試算できるシンプルなシミュレーションシートをExcel等で作成し、チームで共有する習慣をつけましょう」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「週次ミーティングの議題に「今週の改善提案」を数分でも設け、現場メンバーが意見を出せる時間を確保しましょう」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「仮に成功までの道筋を描き、自信があったとしても、形になるまでに膨大な時間とリソースがかかり、費用対効果が合わない場合もあります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「プロジェクト継続率は95%を超えています」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「「何から手をつけるべきか議論が進まない」「仕組み作りに必要な知見や時間が不足している」「現場の抵抗が強く、改革が前に進まない」といった課題をひとつでも抱えている営業責任者の方は、ぜひ一度お気軽にご相談ください」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「これまで累計650社以上（2026年7月時点）の支援を行っており、プロジェクト継続率は95%です」（https://service.grandcentral.jp/column/keyence-sales-system）
+
+## キーエンスの付加価値の値付けと粗利（Keyence value pricing gross margin）
+- 文脈：高付加価値
+- 仕組み・プロセス：
+  - 「経営管理についてのノウハウやZaimo.aiの活用方法」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「価格決定、商品企画基準、P&L構造、時間あたり付加価値」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「購買部門が値段の絶対値だけで判断できない構造を、営業プロセスの中に組み込んでいるのだ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「2. 粗利80%未満の商品は「作らない」─企画段階で利益を確定させる」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「商品を企画する段階で利益率の基準が設けられている」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「それは商品企画段階での『粗利80%』である」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「利益は結果ではなく、企画段階で確定させるものだ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「トヨタの「原価企画」が「目標売価 − 目標利益 ＝ 許容原価」で設計段階からコストを作り込むのに対し、キーエンスは」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「この基準は、商品開発だけでなく営業プロセスにも影響を与えている」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「さらに重要なのは、直販によって顧客の「困りごと」を営業が直接把握し、それを商品企画・開発にフィードバックするサイクルが回ることだ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスの管理会計には、もう一つ独特な仕組みがある」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「で算出され、チームとしての生産性を管理する仕組みだった」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「この仕組みが意味するのは、キーエンスでは」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「この理念を全社員が毎日の業務で体感する仕組みとして、時間チャージは設計されている」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「管理会計とは、利益を最大化するために「何を、どの段階で、どう管理するか」を設計する技術だ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+- ニーズの集め方：
+  - 「1. 原価から価格を決めない─「顧客の困りごと」に値段をつける」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「顧客ごとに「困りごと」の経済価値が異なるため、価格も顧客ごとに異なる」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「さらに重要なのは、直販によって顧客の「困りごと」を営業が直接把握し、それを商品企画・開発にフィードバックするサイクルが回ることだ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「この「営業が顧客の現場で拾ったニーズ → 開発が世界初の製品を作る → 粗利80%以上で販売 → 営業がさらに深いニーズを拾う」というサイクルが、直販でなければ回らない」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「顧客の「困りごと」の経済価値を算出し、そこから価格を設計する」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「顧客ニーズてんこ盛りで高コストの罠 キーエンス流「引き算」企画に転換を」（https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/）
+  - 「現場のチカラが経営を動かす」（https://business.nikkei.com/atcl/seminar/21nv/00021/093000030/）
+  - 「顧客の現場に入る前に、あなたは何を準備しているだろうか？」（https://newspicks.com/news/16823489/body/）
+  - 「現場察知が、提案の起点になる！」（https://newspicks.com/news/16823489/body/）
+  - 「ニーズの裏のニーズを掘り下げる」（https://newspicks.com/news/16823489/body/）
+  - 「答えは、顧客の現場だ」（https://newspicks.com/news/16823489/body/）
+  - 「現場から始まる」（https://newspicks.com/news/16823489/body/）
+  - 「現場に入ったとき、まず」（https://newspicks.com/news/16823489/body/）
+  - 「この観察の中に、顧客が言葉にできていない困りごとが滲み出ている」（https://newspicks.com/news/16823489/body/）
+  - 「現場のオペレーターの作業に異変を感じたことはないだろうか」（https://newspicks.com/news/16823489/body/）
+- 値付け・付加価値：
+  - 「Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計 読み込まれました」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「営業利益率51.9%」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「粗利率83.8%」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「日本の製造業の平均営業利益率が5%前後であることを考えれば、キーエンスの数字は「異常値」だ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「2025年3月期に売上高は初めて1兆円を突破し、なお営業利益率50%超を維持している」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「「利益率が高くなるように、価格の決め方そのものを設計している」」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「多くの製造業は「原価＋利益＝価格」で値段を決める」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「工数の削減、不良率の低下、ラインの停止時間の短縮、を算出し、その価値の一部を価格にする」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「この「バリューベース・プライシング」が、粗利率83.8%を支える最大の要因だと考えられる」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「価格決定、商品企画基準、P&L構造、時間あたり付加価値」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「1. 原価から価格を決めない─「顧客の困りごと」に値段をつける」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスの価格決定は、製造業の常識を覆している」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「一般的なメーカーは「原価＋利益＝価格」というコストプラス方式で値段を決める」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+- できる・できない：
+  - 「商品の特性とマッチした技術、生産ラインを持つ工場を協力会社のなかから選択し、顧客課題に最適化した商品を柔軟且つ素早く投入できることが強みです」（https://www.financial-statements.site/financial-analysis-of-keyence/）
+  - 「つまり、意識が将来に向いていない状態です」（https://plus.jmca.jp/kenbun/kenbun2402.html）
+  - 「こうした事態を招かないように注意しつつ、お客様の課題を解決できることこそが、「キーエンスの営業力の高さ」に繋がっているのではないかと思います」（https://jbpress.ismedia.jp/articles/jir-print/75571）
+  - 「土曜の海外企業分析は今後の定例対象外です」（https://note.com/hr793/n/nb3de8687ef54）
+  - 「開発、営業、物流、サポート、組織設計が同じ方向を向いている必要があります」（https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en）
+  - 「ただし、拡張には制約もあります」（https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en）
+  - 「ここが成長の制約になります」（https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en）
+  - 「「試した」「効果が出た」「納期リスクが低い」「サポートがある」「失敗時の損失を避けられる」と説明できることが重要です」（https://note.com/kachi_case/n/nb5a54d1ac3e1?hl=en）
+- 導入・変革：
+  - 「2025年3月期に売上高は初めて1兆円を突破し、なお営業利益率50%超を維持している」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「顧客がその製品を導入することで得られる経済的な利益、」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「工数の削減、不良率の低下、ラインの停止時間の短縮、を算出し、その価値の一部を価格にする」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「「今の検査業務に何時間かかっているか」「キーエンスの製品を導入するとそれがどう短縮されるか」」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「を計算し、その「効果」を徹底的に売り込む」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「価格ではなく、効果で勝負する」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「営業担当者は、導入前と導入後での生産性の違い、機械の老朽化による品質低下リスク、相見積もり先の製品との効果の差を整理し、「この製品を導入する経済合理性」を稟議書レベルで提示する」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「「持たない」PLの構造効果」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスのファブレスは単なるコスト削減策ではない」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスは平均年間給与2,039万円と日本企業トップクラスの報酬を支払っているが、それでも営業利益率50%超を維持できるのは、粗利率83.8%という圧倒的な「バッファ」があるからだ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンス 2025年3月期決算短信：」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「2025年3月期の従業員1人あたり営業利益は約1億7,000万円（営業利益5,497億円 ÷ 単体従業員3,205名）」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンス 2025年3月期有価証券報告書：」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「導入を相談する」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「しかもこの価格設定が絶妙で、導入することで、その会社の不良率が下がったり、人件費が削減できたりします」（https://note.com/michy0803/n/n4e33a45028d7）
+- 工程・担当：
+  - 「Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計 読み込まれました」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「日本の製造業の平均営業利益率が5%前後であることを考えれば、キーエンスの数字は「異常値」だ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「「利益率が高くなるように、価格の決め方そのものを設計している」」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「多くの製造業は「原価＋利益＝価格」で値段を決める」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスの価格決定は、製造業の常識を覆している」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「日経BOOKプラスの分析によれば、キーエンスの営業担当者は顧客の工場に入り込み、」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「「今の検査業務に何時間かかっているか」「キーエンスの製品を導入するとそれがどう短縮されるか」」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「営業担当者には売上目標はなく、利益目標しかない」」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「営業担当者は、導入前と導入後での生産性の違い、機械の老朽化による品質低下リスク、相見積もり先の製品との効果の差を整理し、「この製品を導入する経済合理性」を稟議書レベルで提示する」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「購買部門が値段の絶対値だけで判断できない構造を、営業プロセスの中に組み込んでいるのだ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「これは管理会計の根幹に関わる設計だ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「販売価格から製造原価を引いた粗利が80%なければ、それは『価値の低い商品』を意味し、市場に出すことは許されない」とされている」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「一般的なメーカーでは、商品を開発し、製造し、販売してから「利益が出たかどうか」を確認する」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+- 工程の時間と費用：
+  - 「Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「Zaimo.ai | キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計 読み込まれました」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「キーエンスに学ぶ管理会計─営業利益率50%を「設計する」、価格決定の管理会計」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「営業利益率51.9%」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「粗利率83.8%」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「日本の製造業の平均営業利益率が5%前後であることを考えれば、キーエンスの数字は「異常値」だ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「2025年3月期に売上高は初めて1兆円を突破し、なお営業利益率50%超を維持している」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「いわゆるコストプラス方式だ」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「工数の削減、不良率の低下、ラインの停止時間の短縮、を算出し、その価値の一部を価格にする」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「この「バリューベース・プライシング」が、粗利率83.8%を支える最大の要因だと考えられる」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「価格決定、商品企画基準、P&L構造、時間あたり付加価値」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「一般的なメーカーは「原価＋利益＝価格」というコストプラス方式で値段を決める」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「価格は常に「コスト」に引きずられる」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「「今の検査業務に何時間かかっているか」「キーエンスの製品を導入するとそれがどう短縮されるか」」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+  - 「ASSIGNメディア「営業利益率50%キーエンスの戦略」：」（https://lp.zaimo.ai/knowledge/keieikannri0407）
+- 検索結果の抜粋：
+  - 「高 付加価値 経営とは｜ キーエンス の 利益 率51％の理由 — 高 付加価値 経営とは｜ キーエンス の 利益 率51％の理由 株式会社オムニモスーク https://www.omnimosouq.jp > high-value-added-manage...」（https://www.omnimosouq.jp/high-value-added-management/）
+
+## キーエンスのコンサルティング営業（Keyence consultative sales）
+- 文脈：高付加価値
+- 仕組み・プロセス：
+  - 「2019年にスタートした新規事業である機械学習を活用したサブスクリプションサービスを立ち上げており、事業立ち上げメンバーとして、商品を通じた課題解決方法の提案、活用支援ができるコンサルティングセールス組織の中核メンバーを探しています」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・現場定着・ハンズオン支援：プロジェクト推進（PMO）、営業プロセスの標準化、新規事業立ち上げ」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「(4) 直近の転職先から理想のなりたい姿までのプロセスを具体化します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「■ 今後の流れについて」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「(4)直近の転職先から理想のなりたい姿までのプロセスを具体化します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「■今後の流れについて」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・自身で課題を設定し、プロセスを工夫して数値目標を達成・改善した経験」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「【東京／法人営業】未経験OK／新規開拓／障害者雇用支援／経営者向け／スピード感あるキャリアステップ◎」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「優秀な成果を挙げた社員は、新規事業の責任者に抜擢したり、海外部門の責任者やグループ会社の社長など、非常に魅力的かつスピード感のあるキャリアステップを進む事が可能です」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「【東京／法人営業】未経験OK／人材コンサルタント／経営者向け／スピード感のあるキャリアステップ◎」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・営業KPIの設計、営業プロセスの構築・仕組み化」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「キーエンスの営業の仕組み｜再現する3つの実践プロセスを徹底解説」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「キーエンスの営業組織は、個々の才能に頼らず、仕組みと文化によって高い成果を生み出す点で、多くの企業が参考にすべきモデルといえます」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「本記事では、キーエンスの営業の強さを徹底解剖し、仕組みづくりで大切にしていることを解説します」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「ここでは、その仕組みについて以下の3つの観点から解説します」（https://service.grandcentral.jp/column/keyence-sales-system）
+- ニーズの集め方：
+  - 「✓経営層やCxOクラスへの課題ヒアリング」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓製造現場における繁閑に合わせた人員体制の最適化」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「一般的な「レポート納品で終わる」支援とは異なり、顧客の現場に深く入り込み、売上拡大や組織変革などの数値成果にコミットするスタイルを確立しています」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「今回は未経験歓迎の積極採用を行っており、これまでの現場感や業界知見を活かして経営視点を身につけられる絶好の機会です」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「戦略立案から現場への定着・成果創出までを一気通貫で伴走します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・現状分析・課題特定：経営陣・現場へのヒアリング、事業データ分析、本質的課題の抽出」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・現場定着・ハンズオン支援：プロジェクト推進（PMO）、営業プロセスの標準化、新規事業立ち上げ」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・成果創出型の実践力：現場を巻き込んで数字を動かすため、将来どこでも通用する推進力が身につきます」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「新卒で東大阪市消防局に入局し、市民の生命を守る現場で責任感と現場対応力を培いました」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「あらゆる業界でDXの取り組みが加速しており、中でもCRM領域のDX強化には欠かせないクラウドソリューションとしてSalesforceのニーズが高まっています」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「同社では、将来的な海外へのビジネス本格展開に向け、国内のSalesforce活用ニーズに対応すべく、新たにSalesforce領域でのビジネス展開を本格的に開始いたしました」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「市民の生命と財産を守る現場に勤務し、強い責任感とリスク管理能力、どのような状況下でも迅速に対応する現場力を培いました」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・経営層・事業責任者への課題ヒアリング、ニーズの特定」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・顧客ニーズや現場の声を開発チームへ共有し、プロダクト改善に貢献」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「※ご経験、ご要望によっては、サービスをご提供できない場合がございます」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+- 値付け・付加価値：
+  - 「最小の資本で最大の付加価値の提供」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「最小の資本と人で最大の付加価値の提供」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「キーエンスの強さは、経営理念である「最小の資本と人で、最大の付加価値をあげる」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「価格競合を回避する高付加価値の提案」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「製品の機能や性能の比較は、最終的に「それで商品はいくらなの？」という価格競争に陥ります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「しかし、キーエンスのように「この設備投資によって、年間〇〇万円の人件費が削減でき、わずか〇ヶ月で投資回収が可能です」といった経済的メリットを明確に提示できれば、顧客の判断基準は、価格から投資対効果へと変わります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「価格以外のポイントにフォーカスすることで、競合商品と比較されない提案が可能です」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「これを商談の武器とすることで、価格以外の価値で勝負する営業スタイルへと転換できます」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「仮に成功までの道筋を描き、自信があったとしても、形になるまでに膨大な時間とリソースがかかり、費用対効果が合わない場合もあります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「展示会の費用対効果（ROI）とは？計算式と目安を解説」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「50％を超える高い営業利益率」（https://buddy-contents.com/）
+  - 「一般的な製造業の営業利益率は3〜5%が平均的ですが、キーエンスはその10倍以上の51.2%を記録しています」（https://buddy-contents.com/）
+  - 「キーエンスは、営業利益率50%超という非常に高い数字を何十年も維持し続け、従業員一人あたりの売上高は約1.8億円（2024年実績）という生産性を誇っています」（https://buddy-contents.com/）
+  - 「3. コンサルティング型営業による高付加価値提案」（https://buddy-contents.com/）
+  - 「特に、製造業でありながら極めて高い営業利益率と市場評価を実現している点が注目されます」（https://buddy-contents.com/）
+- できる・できない：
+  - 「・顧客の課題を聞き、投資対効果や保有しているデータ、当社の商品で実現できることを考えながらサービスを提案します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「Grand Centralができること」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「当社は従業員30名ほどの小さな会社ですが、このマニュアルに書かれている営業の仕組みづくりや手法は、規模を問わず十分に活用できることがわかりました！特に営業活動の「見える化」と「数値管理」の部分は目から鱗でした」（https://buddy-contents.com/）
+  - 「特に、新規事業や予算制約のある企業に最適な選択肢となっています」（https://note.com/onomatsu_kenta/n/nb17884d0523a）
+  - 「新規開拓の営業の方法やコツ解説！つらいと言われる理由・向いている人はどんな人？」（https://urumap.com/blog/124）
+- 導入・変革：
+  - 「・顧客の課題を聞き、投資対効果や保有しているデータ、当社の商品で実現できることを考えながらサービスを提案します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・製品の提案、導入、導入後の活用、定着までを支援する役割を担っていただきます」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「※年間休日128日（GW・夏季・冬季 各8～9連休）（2025年度）」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓物流・製造領域における業務変革の課題解決提案」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓サービス導入後の継続的な利用最大化の伴走」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓大手物流企業への多拠点一括導入戦略の実行」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓課題解決型法人営業またはコンサル経験5年以上」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓大手ホテルチェーンへの多拠点一括導入戦略推進」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「今回は、大手企業から急成長ベンチャーまで幅広く変革を牽引する、株式会社リブ・コンサルティングの【経営コンサルタント】ポジションをご紹介したくご連絡いたしました」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「一般的な「レポート納品で終わる」支援とは異なり、顧客の現場に深く入り込み、売上拡大や組織変革などの数値成果にコミットするスタイルを確立しています」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「※支援領域：新規事業開発、マーケ＆セールス変革、組織変革、モビリティ／住宅／IT・SaaS等」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「《CRM構築知見×独立資本リソース》エンタープライズ顧客基盤の変革／上限3000万の新事業特命枠」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「ソリューション導入におけるIT構想策定から導入・展開・定着化までを一気通貫でサービス提供し、顧客企業のCRM領域の業務改革を推進します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「2021年7月の創業以来、最速でARR15.4億円を達成し、国内外のエンタープライズ企業を含む約400社以上の導入実績を誇ります」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・主査代理（入社4年目）/小売出身、入社当時 社会人経験5年目」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+- 工程・担当：
+  - 「・圧倒的な利益率を誇る当社のデータ分析ノウハウをAIを活用しパッケージ化、ソフトウェアサービスとして企業のビジネス戦略、マーケティング、経営企画部門を対象に展開します」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「SCM/生産管理/購買/物流」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓物流・製造領域における業務変革の課題解決提案」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「✓製造現場における繁閑に合わせた人員体制の最適化」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・戦略策定：競合ベンチマークを踏まえた事業／マーケ戦略の立案、KPI・評価設計」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「(2) 理想のなりたい姿から逆算したキャリアプラン設計をします」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「アーキテクチャ策定、業務要件定義、システム要件定義から設計、開発、テストまで幅広いフェーズを担当していただきます」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「(2)理想のなりたい姿から逆算したキャリアプラン設計をします」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・顧客や社内の経営層・部門責任者に対し、直接の提案や折衝を行った経験」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「優秀な成果を挙げた社員は、新規事業の責任者に抜擢したり、海外部門の責任者やグループ会社の社長など、非常に魅力的かつスピード感のあるキャリアステップを進む事が可能です」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「中途入社後、法人向けコンサルティング営業部門配属→入社6ヶ月後、係長に昇進→入社6年後、課長職に昇格後、ニューヨーク支社の責任者に抜擢」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「【ユニヴィスグループ】営業本部 資金調達（補助金）コンサルタント／東京・虎ノ門」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「中小企業や成長企業に対し、補助金を活用した資金調達支援を中心に、経営課題の解決に向けたコンサルティングを行います」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「数百万円〜数千万円規模の資金調達に貢献でき、自身の仕事が顧客企業の成長・存続につながる実感を得られます」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「2024年度に代表直下で立ち上げた資金調達支援事業は、順調に売上を拡大しています」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+- 工程の時間と費用：
+  - 「時間外手当、地域住宅補助、通勤手当 等」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「所要時間はオンラインで30〜40分程度ですが、15分前後のお電話対応も可能です（早朝・夜間も柔軟に承ります）」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「所用時間は基本オンラインで30分から40分ですが、15分前後のお電話対応も可能です」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「・土日休み、残業月20時間以下、転勤なし」（https://directscout.recruit.co.jp/job_descriptions/7419733）
+  - 「社内で取り入れる場合は、評価項目に「成果60%・行動30%・組織貢献10%」といった評価の比率を設定します」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「営業組織にとって最小の資本とは、いうまでもなく、営業担当者の有限な時間です」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「しかし、キーエンスのように「この設備投資によって、年間〇〇万円の人件費が削減でき、わずか〇ヶ月で投資回収が可能です」といった経済的メリットを明確に提示できれば、顧客の判断基準は、価格から投資対効果へと変わります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「貴社の主力製品について、顧客のコスト削減額や生産性向上による利益増を試算できるシンプルなシミュレーションシートをExcel等で作成し、チームで共有する習慣をつけましょう」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「週次ミーティングの議題に「今週の改善提案」を数分でも設け、現場メンバーが意見を出せる時間を確保しましょう」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「仮に成功までの道筋を描き、自信があったとしても、形になるまでに膨大な時間とリソースがかかり、費用対効果が合わない場合もあります」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「プロジェクト継続率は95%を超えています」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「「何から手をつけるべきか議論が進まない」「仕組み作りに必要な知見や時間が不足している」「現場の抵抗が強く、改革が前に進まない」といった課題をひとつでも抱えている営業責任者の方は、ぜひ一度お気軽にご相談ください」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「これまで累計650社以上（2026年7月時点）の支援を行っており、プロジェクト継続率は95%です」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「展示会の費用対効果（ROI）とは？計算式と目安を解説」（https://service.grandcentral.jp/column/keyence-sales-system）
+  - 「一般的な製造業の営業利益率は3〜5%が平均的ですが、キーエンスはその10倍以上の51.2%を記録しています」（https://buddy-contents.com/）
+- 検索結果の抜粋：
+  - 「キーエンス の 営業 手法を徹底解剖！1日5件訪問・外報の 仕組み ... — キーエンス の 営業 手法を徹底解剖！1日5件訪問・外報の 仕組み ... minority.works https://minority.works > ブログ > 営業マネジメント」（https://minority.works/blog/sales-management/keyence-sales-method/）
+
+## 製造業向けSaaSの大型ディールの提案（ROI・中期計画）（enterprise manufacturing SaaS ROI proposal）
+- 文脈：大型ディール
+- 仕組み・プロセス：
+  - 「IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資・DX・SaaS導入のROIを測定するための計算方法・KPI設定・評価フレームワークを解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「DX・SaaS導入の費用対効果を数値化する方法を解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「業務別コスト削減の数値化方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ステップ1：導入前のベースライン測定」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ステップ2：KPIの設定」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ステップ3：四半期ごとの追跡・報告」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「上の基本計算式に、ステップ1で測った自社の業務時間と、見積もりの総コスト（TCO）を当てはめて出してください」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「「経営層に投資効果を説明する必要があるが、効果を金額に翻訳する方法がわからない」」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「開発の見積もりがまだ無く、投資額そのものが決まっていない段階なら、ROIの計算より先に、社内で出せる上限を決める材料（いま手作業にかけている時間、今のシステムの保守費、使う年数）を集めます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「説得力のある稟議は、3〜5年スパンで段階的に効果が積み上がる絵を描きます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「定量化の方法は業務によって違うため、典型的な3パターンで考え方を整理します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「3年間の効果カーブを段階的に示しているか（1年目で全効果を出す前提になっていないか）」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「12ヶ月後の ROI 振り返りプロセスを設計しているか」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+- ニーズの集め方：
+  - 「例えば、「(1) 既存業務と並行運用する3ヶ月の現場負荷増、対策として残業代予算 +200万円を確保」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「Gartner・IDC・JUAS（日本情報システム・ユーザー協会）の調査から、現場で参考にできる目安を整理します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「【事例】レガシー改修で調査と下書きが速くなった現場の記録」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「現場と本社の情報を一元化し、発注漏れを防いだ工事・建設業界の導入の裏側」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「現場の抵抗を乗り越えるチェンジマネジメント」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「「IT投資をしているのに業績が改善しない」「DXを推進しようとしても現場が動かない」——そう感じている経営層・情シス担当者は少なくありません」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「経営と現場の乖離や人材不足を打破するには、経営陣が自らIT戦略に関与し、全社的な課題として取り組む姿勢が求められます」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「優れたIT戦略を策定しても、現場の業務に定着しなければ絵に描いた餅に終わります」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「現場の抵抗とチェンジマネジメントの壁」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「新しいシステムやツールの導入は、これまでの慣れ親しんだ業務フローを変化させるため、現場の従業員から反発を招くことが多くあります」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「現場の反発を防ぐためには、戦略策定の段階から現場のキーパーソンを巻き込むことが重要です」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「現在稼働しているシステム群の構成や維持管理にかかっているコスト、現場の業務フローにおけるボトルネックを洗い出します」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「この際、情報システム部門の視点だけでなく、各事業部門へのヒアリングを通じて、システムの老朽化（技術的負債）や、現場が独自に導入して管理が行き届いていないSaaS（シャドーIT）の有無など、多角的な視点で現状を評価することが重要です」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「しかし、多額の予算を投じたにもかかわらず、システムが現場で使われない、あるいは期待した業務効率化が実現しないといった失敗ケースは後を絶ちません」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+  - 「初期開発費用やライセンス費用といった直接的なコストだけでなく、導入後の保守・運用費用、現場の学習コストなど、総所有コスト（TCO）を総合的に見積もる必要があります」（https://saas-magazine.com/what-is-it-strategy-and-framework）
+- 値付け・付加価値：
+  - 「IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資・DX・SaaS導入のROIを測定するための計算方法・KPI設定・評価フレームワークを解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「経営層への報告に使えるROI算出の実践ガイドです」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資ROI測定ガイド【2026年版】」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「DX・SaaS導入の費用対効果を数値化する方法を解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「経営層への報告に使えるROI算出フレームワークと実例を紹介します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「なぜIT投資のROI測定が重要か」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入前の数字がなければ、ROIは後から正確に説明できません」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資のROIを定量的に把握することで、継続投資の意思決定・追加予算の獲得・改善施策の優先順位付けが可能になります」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資ROIの基本計算式」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ROI（%）＝（IT投資による利益増加額 ÷ IT投資総コスト）× 100」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ROI測定のKPI設計フレームワーク」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「この「before」データがなければROIを算出できないため、導入決定と同時にベースライン測定を開始してください」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「SaaS別のROIは自社の数字で出す」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+- 導入・変革：
+  - 「IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資・DX・SaaS導入のROIを測定するための計算方法・KPI設定・評価フレームワークを解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「DX・SaaS導入の費用対効果を数値化する方法を解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「「kintoneを導入したが、本当に効果があったのか分からない」「DX投資の経営判断をするための数字が出せない」という課題を抱える企業は多くあります」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入前の数字がなければ、ROIは後から正確に説明できません」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入・外注を検討している方へ」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「利益増加額は「売上増加分 ＋ コスト削減分」で構成されます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「業務別コスト削減の数値化方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ステップ1：導入前のベースライン測定」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入前の業務時間・エラー率・処理件数を記録します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「この「before」データがなければROIを算出できないため、導入決定と同時にベースライン測定を開始してください」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「定量KPI（時間削減・コスト削減・売上増加）と定性KPI（従業員満足度・顧客満足度）の両方を設定します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「定量KPIのみに偏ると重要な効果を見逃すリスクがあります」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入後3ヶ月・6ヶ月・12ヶ月時点で測定し、経営会議で報告します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+- 工程・担当：
+  - 「IT投資総コスト（TCO）には「初期費用 ＋ 月額ライセンス料 ＋ 保守費用 ＋ 社内対応工数」を含めます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ROI測定のKPI設計フレームワーク」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「上の基本計算式に、ステップ1で測った自社の業務時間と、見積もりの総コスト（TCO）を当てはめて出してください」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT 投資の稟議を書く段になって、ROI を計算しなければならなくなった担当者がつまずきやすいのは、」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「開発の見積もりがまだ無く、投資額そのものが決まっていない段階なら、ROIの計算より先に、社内で出せる上限を決める材料（いま手作業にかけている時間、今のシステムの保守費、使う年数）を集めます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「という保守シナリオを併記すると、経営層のリスク認識が下がります」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入後の「ROI 振り返り」をセットで設計する」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入12ヶ月後に「稟議で書いた効果は本当に出たか」を振り返る場を、最初から設計しておく」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「AI自動化の効果測定設計はありますか？」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「Claude Code 導入支援は、セキュアな権限設計から kintone・Salesforce 等のSaaS連携、業務自動化の定着までを一貫して支援するサービスです」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「✓ セキュアな権限設計」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「権限設計から定着まで伴走」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「権限設計・SaaS連携・業務自動化」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「これから稟議を書く担当者が、提出前に自分で確認できるチェック項目を5つ挙げます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「12ヶ月後の ROI 振り返りプロセスを設計しているか」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+- 工程の時間と費用：
+  - 「IT投資ROI測定ガイド2026｜DX・SaaS導入の費用対効果を数値化する方法 | Aurant」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資ROI測定ガイド【2026年版】DX・SaaS導入の費用対効果を数値化する方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「DX・SaaS導入の費用対効果を数値化する方法を解説」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「基幹システムについて、進め方と、費用が何で決まるかを、御社の状況に合わせてお伝えします」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「費用感だけのご相談でも構いません」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「ROI（%）＝（IT投資による利益増加額 ÷ IT投資総コスト）× 100」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「利益増加額は「売上増加分 ＋ コスト削減分」で構成されます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「IT投資総コスト（TCO）には「初期費用 ＋ 月額ライセンス料 ＋ 保守費用 ＋ 社内対応工数」を含めます」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「業務別コスト削減の数値化方法」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「作成時間×時給×対象人数」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「1時間/日×2,500円×10人×250日＝625万円/年」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「転記時間×時給×頻度」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「待機時間×案件数×機会損失」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「対応時間×件数×時給」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+  - 「導入前の業務時間・エラー率・処理件数を記録します」（https://aurant-technologies.com/blog/it-investment-roi-measurement-guide/）
+- できる・できない：記載なし（読んだ25頁・検索5回）
+
+## キャディの公開情報（事業・決算・採用ページ）（CADDi public information business）
+- 文脈：大型ディール
+- 仕組み・プロセス：
+  - 「【PR TIMESノウハウ】PR TIMESのプレスキット機能の使い方や活用方法は？メディア向け素材を簡単に共有しよう」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「メディアリスト用に媒体選定する7つの方法・観点とは？6つのポイントとピックアップ時によくある質問に回答」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「媒体研究の方法は？現役広報が教える調査項目と3つのポイント」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「【弁護士監修】AI画像はプレスリリースに使ってもいい？使用するリスク・注意点と効果的な活用方法を解説」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「：創業のきっかけは、「製造業界の各企業が自社の強みを活かした製品の製造・販売に注力できる仕組みをつくる」という、代表の加藤の決意からでした」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「設備や仕組みが整っておらず、マンパワーで頑張りすぎている企業も少なくありません」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「現段階でここまで採用数を増やしている背景はなんでしょうか？」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「求職者がホームページを見る段階で、どのような情報を欲しているか？」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「1,000人規模の会社ともなると、多様で規模の大きい組織を運営していくための新しい仕組みやカルチャーの適合など多くのことが必要となるでしょう」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「「採用はワイシャツの第一ボタン」と言われるように、入り口（採用）の段階で間違えると、後から修正することはとても難しくなります」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「登録申請方法」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「採用ブログとは？10のネタ・始め方から運営方法のポイント・事例まで紹介」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「アサーションとは？仕事で実践する3つのポイント・トレーニング方法の具体例を解説」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「採用ブランディングとは？方法や進め方、成功させる3つのポイントを解説【事例あり】」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「広報担当者の採用方法は？採用戦略と成功させる3つのポイントを解説」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+- ニーズの集め方：
+  - 「現場起点で年間250本のプレスリリース｜株式会社温泉道場」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「この場合、取引先の要望を全て満たすことが最優先事項となり、自社が強くない領域の製造も請け負うことになり、更に他の町工場に外注を重ねることで結果として高コストな構造に繋がっています」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「現場と一体となって進める「草の根DX」で目指す、人材の活人化」（https://caddi.com/ja-jp/case-studies/）
+  - 「【キャディ製造業調査】AI活用の次のステージは「専門業務」専門業務・現場工程への浸透は、17.2%」（https://kaijiwire.jp/companies/6010001187623）
+  - 「【キャディ製造業調査】経営層の7割が感じるコスト危機、現場は4割--中東情勢が露わにした日系製造業の「情報断絶」」（https://kaijiwire.jp/companies/6010001187623）
+- 値付け・付加価値：
+  - 「未上場企業には市場価格がないため、本来の「時価総額」は存在せず、登記から逆算できる」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「これは登記情報からの推定値であり、公正価値評価や実際の取引価格、上場時の市場評価とは異なる場合があります」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「●損益計算書では、売上高・収益、営業利益、経常利益・税引前利益、純利益、営業利益率、粗利益率（売上総利益率）、売上原価率を表示」（https://gurafu.net/jpn/caddi）
+  - 「Android Jobs」（https://japan-dev.com/companies/caddi）
+- 導入・変革：
+  - 「PR TIMESでプレスリリースが審査指摘される主な原因は？取り下げにならないための対処法【2025年版】」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「【PR TIMESノウハウ】プレスリリース配信後に見るべきデータと効果改善のポイント」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「【弁護士監修】AI画像はプレスリリースに使ってもいい？使用するリスク・注意点と効果的な活用方法を解説」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「現場起点で年間250本のプレスリリース｜株式会社温泉道場」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2017年創業のキャディ株式会社（以下、キャディ）は、「モノづくり産業のポテンシャルを解放する」をミッションに掲げ、コストダウンや調達工数の削減など、製造業界の課題に大きな変革をもたらしてきました」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2005年にマクロミル株式会社に入社後、営業企画、新規事業開発室長などを担当」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「実際に採用面では効果は感じられましたか？」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「プレスリリースや各メンバーのSNSによる採用効果はあったと感じています」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「今後3年間で1,000人体制の企業づくり」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「今後3年間で1,000人体制の企業づくりに取り組むキャディ」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「【基礎知識】コーチングとは？会社のマネジメントで技術を活用する効果・必要なスキル・注意点を紹介」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「プレスセミナーとは？広報効果・内容例・流れ・成功させる7つのポイントを解説」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「集客方法30選｜すぐ実践できる効果的なアイデアや成功事例からわかる施策のコツを紹介」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2025年4月の追加ラウンド（C種＋CC種）時点の全株式数を基準にした時価総額は約706億円」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「直近ラウンド（2025年4月）時点の全株式数を基準にした時価総額の試算」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+- 工程・担当：
+  - 「プレスリリース配信サービスのおすすめは？初めてでも安心！最適なプランや選び方を現役広報PR担当者が徹底解説」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「製造・メーカー」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2017年創業のキャディ株式会社（以下、キャディ）は、「モノづくり産業のポテンシャルを解放する」をミッションに掲げ、コストダウンや調達工数の削減など、製造業界の課題に大きな変革をもたらしてきました」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2021年8月にはシリーズBラウンドにおいて、80.3億円の資金調達に成功」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「歴史ある製造業界のポテンシャルを解放するキャディ株式会社」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「：創業のきっかけは、「製造業界の各企業が自社の強みを活かした製品の製造・販売に注力できる仕組みをつくる」という、代表の加藤の決意からでした」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「現在の製造業界では、見積りや納期管理業務など、必ずしも人がやらなくてもいい業務に追われているケースが多くあります」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「製造業を営む町工場の9割が零細企業」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「そこに工数を取られていることで製造や技術の研鑽に注力できず、本来のポテンシャルを発揮できていない企業や人材がいるのが現状です」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「製造業界では、製造を行う町工場が取引先（メーカー）から発注された商品をつくる、いわゆる下請けピラミッドの構造が根付いています」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「この場合、取引先の要望を全て満たすことが最優先事項となり、自社が強くない領域の製造も請け負うことになり、更に他の町工場に外注を重ねることで結果として高コストな構造に繋がっています」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「キャディがメーカーと町工場の間に入り、受発注に纏わるあらゆる業務をサポートすることで、様々な取引コストを下げ、顧客への過度な依存を防ぐリスク分散、強みを活かした製品の製造による利益率の向上などを実現してきました」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「また、今後は受発注業務を起点に、製造業が抱える様々な課題解決につながる新しい事業も展開していきます」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「その内訳としては、エンジニア採用担当者2名、ビジネスサイド担当が5名、残り2名がオペレーションを担当しています」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2021年8月に80.3億円の資金調達を成功した際、」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+- 工程の時間と費用：
+  - 「広報PRと宣伝の違いとは？目的・手法・費用など5つの観点で徹底比較」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「時間をかけて理解を育てる｜サラヤ株式会社」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「2017年創業のキャディ株式会社（以下、キャディ）は、「モノづくり産業のポテンシャルを解放する」をミッションに掲げ、コストダウンや調達工数の削減など、製造業界の課題に大きな変革をもたらしてきました」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「そこに工数を取られていることで製造や技術の研鑽に注力できず、本来のポテンシャルを発揮できていない企業や人材がいるのが現状です」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「この場合、取引先の要望を全て満たすことが最優先事項となり、自社が強くない領域の製造も請け負うことになり、更に他の町工場に外注を重ねることで結果として高コストな構造に繋がっています」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「キャディがメーカーと町工場の間に入り、受発注に纏わるあらゆる業務をサポートすることで、様々な取引コストを下げ、顧客への過度な依存を防ぐリスク分散、強みを活かした製品の製造による利益率の向上などを実現してきました」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「けれども、現時点ではまだ1%にも届いていません」（https://prtimes.com/magazine/caddi-recruitment-interview/）
+  - 「返信までお時間をいただく場合があります」（https://catr.jp/companies/b2815/60523）
+  - 「総資産92億／負債80億／純資産12億／自己資本比率13.2%」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「100.0%」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「登記の払込金額に基づくこの試算値は、各ラウンドで公表されている調達額（A種10.2億、B種・BB種80.3億、C種118億、直近40億）との照合がすべて誤差±5%以内に収まっている」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「2年2ヶ月で324人の増加（+63%）」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「調達の半分が運転資金・人件費・投資として消費されている」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「これは上場時には解除される性質の構造であり、現時点でこのルーティンが継続していること自体が、「最終局面に入っているが、まだ上場一歩前ではない」という時間軸を示している」（https://compalyze.co.jp/journal/caddi-fy2024-pivot）
+  - 「CADDi導入が、各部門でバラバラだった「課題感」統一のきっかけに 製造業AIデータプラットフォームCADDiで実現したパワープレー脱却と、調達・原価企画主導での数千万円のコスト適正化」（https://caddi.com/ja-jp/case-studies/）
+- できる・できない：記載なし（読んだ29頁・検索5回）
+
+## ものづくり企業の設計工程の時間と費用（engineering design process time cost manufacturers）
+- 文脈：工程
+- 仕組み・プロセス：
+  - 「サービスの詳細や相談方法は公式サイトへ」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「コツ4：材料・加工方法・設備の制約を事前に確認する」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「重要なのは、最初から正確な時間を予測しようとすることではなく、作業内容を明確にして、不確実な部分を段階的に減らすことです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「製作工程の整理方法、作業時間と待ち時間の違い、試作段階で見落としやすい作業、外注先との情報共有まで、実際の業務に役立つ考え方を紹介します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「詳細な図面がない段階でも、手書きのスケッチや参考写真、必要な機能をまとめた資料があれば、初期検討を進める手がかりになります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「未確定の事項を確定済みとして扱うと、設計変更や加工方法の見直しが発生した際に、計画全体へ影響する可能性があります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「部品の形ができた段階を完成とするのか、組立と動作確認まで終了した段階を完成とするのか、検査記録の整理や引き渡しまで含めるのかを明確にします」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「図面が完成している場合は、加工方法の検討、材料準備、機械の段取り、加工、検査などが主な作業になります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「開始点については、構想段階から取り組むのか、設計が完了した状態から製作を始めるのかを整理します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「作業時間を短縮したい場合は、単純に工程を減らすのではなく、製作目的に対して必要な作業と、現段階では省略できる作業を区別することが重要です」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「評価方法が決まっていれば、検査に必要な設備や作業時間も見積もりに含めやすくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「工程を分解する際は、まず大まかな流れを整理します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「一般的な部品製作であれば、仕様確認から設計、材料準備、加工準備、加工、仕上げ、検査、必要に応じた組立や引き渡しまでの流れを考えます」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「例えば、新しい形状の金属部品を製作する際には、材料の固定方法を検討し、工具を選定し、加工手順を決める必要があります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「一方、同じ仕様の部品を再び製作する場合には、前回の加工手順や検査記録を利用できる可能性があります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+- ニーズの集め方：
+  - 「しかし、現場での取付位置確認や既存設備との干渉確認まで含める場合は、現地調査や取付作業の時間も必要です」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ここでは、製造現場で使用する簡単な位置決め治具を製作する場合を例に、作業時間をどのように見積もればよいか考えてみます」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「特に、現場で使用する治具や設備部品、施工に関係する部材を製作する場合には、設計や加工だけでなく、実際の設置場所や使用条件を確認する作業も重要になります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「このような現場情報の共有には、写真と位置情報を関連付けて記録する方法が役立ちます」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「設置予定場所や周辺構造物、施工中の状況を記録しておけば、後から現場条件を確認する際の手がかりになります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「現場写真や位置情報、施工記録を整理する方法として、LRTK Phoneの活用も選択肢の一つです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「LRTK Phoneを使用して現場の位置情報と写真を関連付けて記録することで、設置場所の確認や現場状況の共有を進めやすくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「要求精度や現場条件に応じて、適切な測量や実測を組み合わせることが重要です」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりを円滑に進めるには、机上の設計情報だけでなく、現場で確認した事実を正確に共有することが欠かせません」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「市場や顧客ニーズをもとに「どのような商品を、誰に、どのように提供するか」を考える活動」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「設計フェーズでどれだけ精度の高い検討やリスク洗い出しができているかが、後の試作・生産現場での手戻りを大幅に減らすポイント」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「生産現場で作業性や品質が安定するように図面や工程を最適化、標準化」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「顧客が以前より様々なモノや情報を手に入れるようになった結果、ニーズが多様化し、その移り変わりも激しくなっています」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「ニーズの掘り下げとペルソナ設計、定量・定性調査をバランスよく活用することで、ズレの無い製品コンセプトの確立が実現します」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「市場ニーズの変化が速い中では、開発サイクルを短く回し、品質・コスト・納期のバランスを見ながら製品化まで進めることが重要です」（https://www.willtecgroup-ems.jp/column/product-development/）
+- 値付け・付加価値：
+  - 「製品の企画から量産に至るまでのプロセスを指す、非常に付加価値の高い活動です」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「販売戦略や価格、ブランド、顧客体験まで含めて検討されることが多く、マーケティング寄りの意味合いを持つ」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「グローバルな価格競争や短納期化への対応が迫られる現代において、設計・開発工程の重要性はさらに増しており、企業の競争力を左右するものとなっています」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「企業にとって付加価値の高い重要な領域である一方で、製品開発を取り巻く環境は深刻な課題がいくつかあります」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「既存製品のマイナーチェンジやEOL対応などのノンコアな領域の設計業務を外部に委託することで、自社の限られた人員を、より付加価値の高い新製品の開発に割くことができます」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「＜カテゴリー２：品質データ管理による高付加価値経営＞」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「また、ブロックチェーン技術を利用して、品質データの正当性を保証し、高品質を強みとして製造業を高付加価値化する」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「日本の製造業においてDXへの取組がなかなか進まない背景として、同社は、日本企業の役員層に設計・生産双方での知見や経験を兼ね備えた人材が少ないこと、また、デジタル化によるコスト削減効果が見えづらいことなどが、経営者のデジタル化へ向けた投資判断や意思決定を妨げているためと分析する」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「具体的には、上記のようなPLMと原価に注目した経営管理の手法などを活用して、コスト削減効果や利益創出の観点で経営陣が意思決定し易い仕組みを整えるなど、様々な取組が考えられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「一方で、機械化に対する製造担当者からの懸念も発生したため、同社はベテランの製造担当者をより付加価値の高い業務専従とする棲み分けを実施することにより、現場の理解を得たうえでIWSの展開を進めた」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「また、データの集約が可能になったことにより、設計部門の部品手配等の付帯作業が減少したことに加え、カンパニーIT部門のベンダー管理等の業務が減少したことで、各部門が付加価値向上業務により注力できるという効果が見られた」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「今後同社は、経営方針として、競争力強化のために付加価値の高い業務（マーケティング・企画・アフターサービスなど）にシフトすることを掲げている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「収益構造を表すモデルの名称で、バリューチェーンの上流工程（商品企画や部品製造）と下流工程（流通・サービス・保守）の付加価値が高く、中間工程（組立・製造工程）の付加価値は低いという考え方を示す」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+- できる・できない：
+  - 「コツ4：材料・加工方法・設備の制約を事前に確認する」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「4つ目のコツは、材料、加工方法、使用設備などの制約を事前に確認し、実際に製作可能な条件をもとに作業時間を見積もることです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「経験者への聞き取りをもとに見積もった場合も、対象とした作業範囲や前提条件を残しておくことが重要です」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「仕様の不明確さ、材料調達の遅れ、設備の制約、工程間の情報不足など、さまざまな要因が関係します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「さらに、材料や加工設備の制約、検査や手戻りの可能性を事前に確認し、見積もりと実績を比較することで、計画の精度を段階的に改善できます」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「同時に要件定義として、「どのような機能や性能が必要で、その実現のためにどんな技術や部材が必要か」「法規制やコスト、納期の制約は何か」といった条件をひとつひとつ言語化します」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「当然ながら、部門ごとにそれぞれの立場に応じた“要求値”や“制約”があります」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「その上、近年、グローバル化、顧客の製品機能要求の高度化・多様化、環境制約・資源制約の先鋭化といった傾向が高まっている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「製品に対する機能要求が高まる一方で、制約条件が厳しくなるのであれば、製品は一層複雑化することにならざるを得ない」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「システム選定に当たっては、複合企業特有の多様な業務に対応できること、同社製品のライフサイクルの長さに対応した使用寿命であること、自社内でシステムの追加修正ができること、といった点に配慮した」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+  - 「DFMによる設計の自由度を活かし、最終製品だけでなく、レバー、スイッチ、ファン、バネ等の多様な部材へと適用範囲を広げている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/101031_2.html）
+- 導入・変革：
+  - 「これらを加工時間にまとめてしまうと、次回製作時にどの作業を削減できるのか分かりにくくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「試作や検査の時間を計画に組み込む際には、不具合が起きることを前提に作業を無制限に追加するのではなく、どの段階で何を確認し、問題が見つかった場合にどのように判断するかを整理しておくことが効果的です」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「また、材料や加工方法について希望がある場合には、その理由も伝えると効果的です」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「下のグラフは国勢調査の職業小分類別小計をデータであり、製造技術者および情報処理・情報通信技術者の人数の、1985年から2020年までの推移を示しています」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「情報処理・情報通信技術者は、近年のIoT、AI技術、DXなどデジタル社会の進展に伴って、労働者数が32万人から125万人と35年間で290%増加しているのに対し、製造技術者の数は84万人から93万人と同期間で10%しか増加していません」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「「5年後技術者が不足すると予想される」と回答した企業数の割合（全90分野のうち上位5つをピックアップ）」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「単なるコスト削減ではなく、顧客体験、満足度を高めながら利益を確保することが本質です」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「2025年度厚生労働省委託事業製造請負優良適正事業者の認定を更新しました」（https://www.willtecgroup-ems.jp/column/product-development/）
+  - 「業務改革・システム化」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+  - 「「人間力」を磨き現場を動かす 大変革時代の経営者の条件」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+  - 「ワクチンの効果の裏に 不断の改善の積み重ね」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+  - 「しかし、設計部門は「効果が分からない」などの理由で、設計変更に応じないことが多い」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+  - 「製品設計と生産技術が連携し、オーバーラップさせることで効果のある局面は大きく２つある」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+  - 「は、製品戦略を構想すると同時に、その製品をどこでどのように作るかなどの生産体制を構想する、中期計画の局面である」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+  - 「製品マスタープランは、製品戦略で向こう3年間どのような機種を市場投入するかを計画する中で、製品基本構造（プラットフォーム）と構成するモジュールなどの機種間の共通性を軸に、構想する」（https://www.jmac.co.jp/column/detail/kokoga_hendayo_16.html）
+- 工程・担当：
+  - 「ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ | レフィクシア株式会社」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「製造業技術記事」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「加工・製造の協力先探し」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「コツ5：試作・検査・手戻りの時間を計画に組み込む」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「コツ6：見積もりの根拠を記録して計画を更新する」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「実践例：簡単な治具を製作する場合の作業時間の見積もり方」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「特に、初めて試作品を製作する場合や、社内で新しい製品開発を担当する場合は、必要な工程を把握できず、作業時間の見積もりが難しくなりがちです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりでは、材料を加工する時間だけでなく、仕様の整理、設計、材料調達、加工準備、組立、検査、修正など、さまざまな作業が発生します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「一方、ものづくりの経験が少なくても、作業工程を適切に分解し、それぞれの作業時間を見積もることで、現実的な製作計画を立てやすくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「この記事では、ものづくりを何から始めればよいか迷っている実務担当者に向けて、完成までの作業時間を見積もる6つのコツを解説します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「作業時間を見積もる前に、目的、製作条件、完成の判断基準という3つの前提を整理しておくと、その後の計画が立てやすくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「未確定の事項を確定済みとして扱うと、設計変更や加工方法の見直しが発生した際に、計画全体へ影響する可能性があります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「部品の形ができた段階を完成とするのか、組立と動作確認まで終了した段階を完成とするのか、検査記録の整理や引き渡しまで含めるのかを明確にします」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「完成までの作業時間を見積もる最初のコツは、製作するものの完成条件を明確にし、どこまでの作業を見積もり対象に含めるか決めることです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+- 工程の時間と費用：
+  - 「ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ | レフィクシア株式会社」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりは何から始める？完成までの作業時間を見積もる6つのコツ」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「コツ2：製作工程を分解して作業時間と待ち時間を区別する」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「コツ5：試作・検査・手戻りの時間を計画に組み込む」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「実践例：簡単な治具を製作する場合の作業時間の見積もり方」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりの作業時間が想定より長くなる原因と対策」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりを始めたいと考えたとき、「何から手をつければよいのか」「完成までにどれくらいの時間がかかるのか」と悩む方は少なくありません」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「特に、初めて試作品を製作する場合や、社内で新しい製品開発を担当する場合は、必要な工程を把握できず、作業時間の見積もりが難しくなりがちです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「ものづくりでは、材料を加工する時間だけでなく、仕様の整理、設計、材料調達、加工準備、組立、検査、修正など、さまざまな作業が発生します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「一方、ものづくりの経験が少なくても、作業工程を適切に分解し、それぞれの作業時間を見積もることで、現実的な製作計画を立てやすくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「重要なのは、最初から正確な時間を予測しようとすることではなく、作業内容を明確にして、不確実な部分を段階的に減らすことです」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「この記事では、ものづくりを何から始めればよいか迷っている実務担当者に向けて、完成までの作業時間を見積もる6つのコツを解説します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「製作工程の整理方法、作業時間と待ち時間の違い、試作段階で見落としやすい作業、外注先との情報共有まで、実際の業務に役立つ考え方を紹介します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「作業時間を見積もる前に、目的、製作条件、完成の判断基準という3つの前提を整理しておくと、その後の計画が立てやすくなります」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+  - 「結果として、当初予定していなかった作業時間が発生します」（https://lefixea.jp/mfg/articles/how-to-start-making58）
+
+## ものづくり企業の見積・調達工程の時間と費用（quotation procurement process time manufacturers）
+- 文脈：工程
+- 仕組み・プロセス：
+  - 「【コラム】【保存版】製造業の見積方法を理解し、精度と効率を高める｜製造業向けソリューション GrowOneSupreme」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「【保存版】製造業の見積方法を理解し、精度と効率を高める」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積り業務のスピードアップだけでなく、最適なコスト管理と適正な利益確保を行うための方法を学び、業務改善」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「2. 見積りの基本プロセスを押さえよう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「3.1. 図面から工数を計算する方法」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積りの正確さは、顧客の安心感や信頼につながる面が大きく、見積段階での誤差が後々のトラブルやコスト超過につながる可能性もあるのです」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「確実なプロセスを身につけましょう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「この段階で情報を正確に収集しないと、後続のプロセスで何度も手戻りが発生してしまいます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「全体的な工程の流れを理解していれば、部品選定などもスムーズに行え、抜け漏れを防ぎやすくなります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「これらの作業プロセスが標準化されていれば、属人化も防ぎやすくなり、見積りを担当する人が変わっても精度を保ちやすくなります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「また、見積りのプロセスを一元管理することで、過去の実績データから改善点を抽出しやすくなるのも大きなメリットです」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「こうした仕組みを整備すれば、担当者が変わっても一貫性の高い見積りが行え、企業全体のノウハウの蓄積と共有が進むでしょう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「図面ベースの見積りでは、形状や寸法に加えて仕上げ方法などの情報も重要な要素となります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「例えば、切削加工から塗装まで一連の工程を含む場合、全体の流れを正しく把握したうえで各工程のコストを積み上げる必要があります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「原価計算をしっかり行うと、見積り段階での価格設定だけでなく、プロジェクト完了後の収支分析にも役立ちます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+- ニーズの集め方：
+  - 「製造業は取引先の仕様や要望を詳細に反映する必要があるため、見積りは単なる価格提示だけではなく、品質や納期の考慮も含む包括的な情報を示します」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「図面を正しく読み取るスキルが要求されるため、現場経験が豊富な担当者のノウハウ蓄積が大切です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造現場における不確定要素をどこまで考慮に入れるかも重要です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「運用が現場と乖離していると、せっかく導入しても定着せず、結果的に現場が手作業に戻ってしまうケースもあります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「また、導入後のサポート体制や操作性も含め、現場での使いやすさを最優先に検討しましょう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「一方で、スクラッチ開発は自社の細かなニーズに合わせてシステムを構築できますが、開発期間や保守コストが高くなる可能性もあります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「多様化する顧客ニーズやコスト変動に柔軟に対応するには、常に最新の情報を取り込み、改善を繰り返しながら見積りプロセスを進化させていくことが重要になります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造現場の見積業務を見直す第一歩として、「GrowOneSupreme」の活用をご検討ください」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業の現場・経営に役立つ資料を厳選！」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「生産現場での課題解決や業務効率化のヒント、生産性向上にお役立ていただけることを目指し、情報発信していきます！」（https://www.techs-s.com/media/show/194）
+  - 「蓄積されたデータを分析することで、価格戦略の最適化や顧客ニーズの把握など、ビジネス戦略の立案に活用することができます」（https://www.techs-s.com/media/show/194）
+  - 「見積原価とは？製造原価との違いや現場とのズレを解消する方法」（https://www.techs-s.com/media/show/194）
+  - 「【第19回 東京開催】TECHSユーザー企業様限定！現場のリアルがつながる、学びと交流の一日 「てくのわ交流会」」（https://www.techs-s.com/media/show/194）
+  - 「【第20回 岡山開催】TECHSユーザー企業様限定！現場のリアルがつながる、学びと交流の一日 「てくのわ交流会」」（https://www.techs-s.com/media/show/194）
+  - 「見積もり金額や工期が自社の要望と合致していれば、発注するという流れになります」（https://ogawa-tech.jp/manufacturing-outsourcing-estimation/）
+- 値付け・付加価値：
+  - 「正確なコスト把握と適切な価格設定が、企業の収益力強化につながります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業は取引先の仕様や要望を詳細に反映する必要があるため、見積りは単なる価格提示だけではなく、品質や納期の考慮も含む包括的な情報を示します」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「顧客にとっては価格だけでなく、どの程度の期間でどのような品質水準が実現できるかも重要な比較基準になります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「顧客との交渉時には、価格だけでなく納期や仕様変更など、多面的な調整が必要になります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「さらに、競合他社との価格競争において、過度に安い価格を提示して赤字を招くリスクや、高すぎる価格設定による受注機会の損失も最小限に抑えられます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「原価計算をしっかり行うと、見積り段階での価格設定だけでなく、プロジェクト完了後の収支分析にも役立ちます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「また、近年は海外取引や原材料の国際価格変動などが激しく、リアルタイムにコストを監視していかないと、利益率を確保しにくい状況が起きやすくなっています」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「こうしたテクノロジーと連携することで、価格交渉や納期設定もより現実的かつ柔軟に行えるようになります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「システムと人的判断をうまく組み合わせることで、費用対効果の高い見積りプロセスを確立できるでしょう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積業務を単なる「価格を出す作業」から、利益を生み出すための仕組みへ」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積業務とは、取引先からの依頼に基づいて製品やサービスの価格を算出し、見積書を作成して提出するまでの一連のプロセスを指します」（https://www.techs-s.com/media/show/194）
+  - 「取引先の要求仕様に基づき、原材料費、人件費、諸経費などを考慮して適切な価格を算出し、見積書を作成します」（https://www.techs-s.com/media/show/194）
+  - 「適切な価格設定と素早い対応は、競合他社との差別化要因となり、ビジネスチャンスを逃さない重要な要素となります」（https://www.techs-s.com/media/show/194）
+  - 「これは、一貫性のある価格設定を困難にし、企業の信頼性にも影響を与える可能性があります」（https://www.techs-s.com/media/show/194）
+  - 「蓄積されたデータを分析することで、価格戦略の最適化や顧客ニーズの把握など、ビジネス戦略の立案に活用することができます」（https://www.techs-s.com/media/show/194）
+- できる・できない：
+  - 「生産管理システムでできること」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「多くの企業が、リアルタイムでの見積書承認ができないことを課題として認識しています」（https://www.techs-s.com/media/show/194）
+  - 「多くの企業が直面する見積業務の煩雑さや時間的制約を解決するための最も効果的な方法として、システムの導入が挙げられます」（https://www.techs-s.com/media/show/194）
+  - 「チェック項目1：見積数量と生産ロットの前提条件を確認する」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「少量生産工場の見積書で最初に確認したいのが、見積数量と生産ロットの前提条件です」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「例えば、穴加工やねじ加工が別工程として扱われている場合、見積書に記載された加工名称だけでは、その作業が含まれているか判断できないことがあります」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「薄肉形状、深い穴、細長い部品、変形しやすい材料などは、加工条件や保持方法に制約が生じることがあります」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「一方、同じ製品を再発注する場合は、過去の製造条件を再利用できることがあります」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「設備の使用予定や材料調達の状況によっては、通常の工程では対応できないことがあります」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「図面の改訂番号、要求数量、材料条件、検査内容、希望納期、納入条件などが工場ごとに異なると、見積結果の違いが工場の能力によるものなのか、前提条件の違いによるものなのか判断しにくくなります」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「対象範囲が異なる場合は、見積条件をそろえた再見積もりを依頼するか、見積対象外の作業を明確に区分したうえで比較します」（https://lefixea.jp/mfg/articles/small-batch-factory-search36）
+  - 「情報が不足していては依頼をかけることはできず、もし前提条件が大きく異なる場合、サプライヤーは見積をやり直すこととなります」（https://up-cycle.jp/blog/what-is-quotation-assessment/）
+  - 「a. 前提条件誤り」（https://up-cycle.jp/blog/what-is-quotation-assessment/）
+  - 「図面や品質、数量の前提条件が異なる場合は価格に影響するため、即サプライヤーに差し戻し、再見積を依頼します」（https://up-cycle.jp/blog/what-is-quotation-assessment/）
+  - 「互換性・技術的な制約を確認するために技術部門へ都度問い合わせる」（https://www.sellbot.jp/column/dx/p5898/）
+- 導入・変革：
+  - 「6. 見積り効率化のためのシステム導入のポイント」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造コスト削減の全貌 ～効果的なアプローチと成功へのカギ～」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「AI類似図面検索システムを導入すれば、図面データベースの中から形状や寸法が近い事例を瞬時に抽出できるため、繰り返し作業のミスを減らすことが可能です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「ロスやムダを削減するだけでなく、品質向上や納期短縮にも結びつく改善活動を生むことができるでしょう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積りに関する膨大な情報を効率よく管理し、スピードと精度を同時に高めるには、適切なシステムの導入が不可欠です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「システムを導入することで、材料費や工数などの見積り要素をデータベース化し、再利用性や検索性を高められます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「システム導入の際には、業務フローとの親和性や将来的な拡張性にも目を向けることが大切です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「運用が現場と乖離していると、せっかく導入しても定着せず、結果的に現場が手作業に戻ってしまうケースもあります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「導入コストやカスタマイズ性、サポート体制など多角的な視点から検討して、企業の実情に合った最適解を目指す必要があります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「また、導入後のサポート体制や操作性も含め、現場での使いやすさを最優先に検討しましょう」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「AIが学習データをもとに自動で最適な見積りを算出できれば、大幅な人的コスト削減と業務効率化が期待できます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「類似図面検索や需要予測機能を備えたシステムを導入すれば、見積り担当者が行っていた細かな手計算や推定作業をシステム側に任せられます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「さらに、電子承認システムを導入すると、在宅勤務や海外拠点からでも即座に承認作業が可能になり、リードタイムを大幅に短縮できます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「パッケージソフトは導入コストや導入期間を抑えられる利点があり、基本的な機能が標準装備されているケースが多いです」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「工場の生産性向上などAI導入のメリットを解説」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+- 工程・担当：
+  - 「【コラム】【保存版】製造業の見積方法を理解し、精度と効率を高める｜製造業向けソリューション GrowOneSupreme」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業向けソリューション GrowOneSupreme」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業向けコラム」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「【保存版】製造業の見積方法を理解し、精度と効率を高める」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業向けの製販一体型システム「GrowOneSupreme」」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業は多種多様な製品や工程を扱うため、見積りの難易度が非常に高くなっていますが、正確な見積りを行うことが、事業成長の要となります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業において見積りの精度を高め、効率的に作業を進めるためのポイントを網羅的に解説します」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積り業務のスピードアップだけでなく、最適なコスト管理と適正な利益確保を行うための方法を学び、業務改善」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業の見積りでは、精度を高めながら、作成にかかる時間や担当者ごとのばらつきを抑えることも重要です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積り業務の効率化・標準化を検討されている方は、」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「お役立ち資料「3分でわかる 製造業の営業部門/設計部門向け 見積コンフィグレータ」」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積り業務をシステム化する際の参考資料として、ぜひご活用ください」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「1. 製造業における見積りの重要性とは」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「1.1. なぜ精度の高い見積りが求められるのか」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「1.2. 見積り精度が事業収益に与える影響」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+- 工程の時間と費用：
+  - 「見積り業務のスピードアップだけでなく、最適なコスト管理と適正な利益確保を行うための方法を学び、業務改善」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造業の見積りでは、精度を高めながら、作成にかかる時間や担当者ごとのばらつきを抑えることも重要です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「2.2. 工数・人件費の見積もり」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「3.1. 図面から工数を計算する方法」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「5.1. ギャップ分析によるコスト最適化」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「正確なコスト把握と適切な価格設定が、企業の収益力強化につながります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積りの正確さは、顧客の安心感や信頼につながる面が大きく、見積段階での誤差が後々のトラブルやコスト超過につながる可能性もあるのです」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「さらに、見積り業務は正しいコスト把握や利益管理の指標となるため、経営判断にも直接影響します」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積りを通して、材料費や工数、設備稼働に要する諸経費など全体のコスト構造を把握し、それをもとに事業計画を策定することができます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「したがって、精度の高い見積りを行うことは、受注チャンスの拡大とコスト管理の両面で極めて重要です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「精度の高い見積りは、製造業においてコストの過剰発生や不足を防ぐために欠かせない要素です」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「細部まで計画的に見積りを行えば、コスト面のみならず納期遵守と品質保持も実現しやすくなります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「見積りの精度が低いと、受注後に想定以上のコストが発生してしまい、利益率が大幅に下がるケースがあります」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「たとえば、材料費の高騰に気づかずに原価を甘く見積もったり、想定外の作業工数が必要になったりすると、追加コストを吸収できずに収益を圧迫してしまいます」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+  - 「製造コスト削減の全貌 ～効果的なアプローチと成功へのカギ～」（https://www.nisseicom.co.jp/growone-production/column/11.html）
+- 検索結果の抜粋：
+  - 「【事例あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... — 【事例あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... sellbot.jp https://www.sellbot.jp > お役立ちコラム > DX」（https://www.sellbot.jp/column/dx/p5898/）
+  - 「【 事例 あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... — 【 事例 あり】 見積り 作成 時間 を90%削減！製造業の詰まりを ... sellbot.jp https://www.sellbot.jp > お役立ちコラム > DX」（https://www.sellbot.jp/column/dx/p5898/）
+
+## ものづくり企業の生産技術・製造・検査工程の課題（production engineering inspection process issues manufacturers）
+- 文脈：工程
+- 仕組み・プロセス：
+  - 「工程管理では、製造工程を適切に監視・調整し、作業手順の遵守を徹底させることで、製品の品質を維持します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「この工程管理においては、検査内容、検査頻度、担当者、品質判定基準、異常時の対応方法などを記載したQC工程表を活用します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「作業手順の標準化（マニュアル化）は非常に重要」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「作業手順や工程が工場や従業員によって異なる場合、不良品が発生する可能性が高まります」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「標準化によって、誰が作業を担当しても同じ品質を維持できる仕組みを構築します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製品が所定の品質基準を満たしているか、また機能が正常に発揮されているかを確認するプロセス」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「検査は、受け入れ時・工程内・完成時・出荷時など各段階で行われますが、作業者のスキルや経験によるばらつきを防ぐためにも、検査手順の標準化が大切です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「工程FMEAは、製造工程におけるリスク要因を事前に洗い出し、設備・人・材料・作業手順などが原因となり得る故障やトラブルを未然に防ぐ対策を講じるものです」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「また、品質改善の過程で得られた知見は、生産技術部門や開発部門へフィードバックされ、製造プロセスのさらなる効率化や品質向上に寄与します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「これは、標準化された手順や基準が不足していることが原因です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「このようなリスクを軽減するためには、作業手順や基準の標準化が必要不可欠です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「・清潔：清掃を維持するための管理や手順を整えること」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「特定の担当者が不在になっても作業が滞らないように、作業内容を明文化し、誰でも同じレベルで対応できる仕組みを作ることが重要」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「ただし、全てを一気に導入するのは現実的に難しい場合が多いため、まずはマクロ機能の活用やSaaS管理ツールの導入といった取り組みやすい部分から段階的に進めることをおすすめします」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「具体的には、以下の方法を活用することで業務の効率化が図れます」（https://www.m-next.jp/knowledge/occupation/1360.html）
+- ニーズの集め方：
+  - 「しかし、現場では標準化の遅れや人手不足、技術継承の停滞など、さまざまな課題が品質管理の安定性を阻んでいます」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「品質のばらつきや属人化といった課題を解決するため製造業の現場では様々な施策が用いられています」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「業務標準化を進める際の例としては、まず現場のヒアリングを通じて業務を洗い出し、それぞれの工数や難易度を数値化します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「しかし、現場では品質の不安定さ、作業の属人化、人手不足、DX導入の遅れといった課題に直面しています」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「ものづくり企業の生産現場における」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「にもかかわらず、最新の検査技術が 、ものづくり現場に普及が進まない 要」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「査機器導入に対するニーズは高い」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「機関等に対して実施したアンケート及び ヒアリング調査は 、本調査の根幹をなしてお」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「「ものづくり企業の生産現場にお ける検査の自動化促進可能性調査」委員会」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「「ものづくり企業の生産現場における検査の自動化促進可能性調査」」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「近年、 ものづくり企業の生産現場では、 「労働力不足」 「競争力強化に向けたさらなる」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「１．ものづくり企業の生産現場における製品等の検査に関する基礎調査」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「ものづくり企業の生産現場における検査の自動化促進可能性調査 〔要約〕」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「○ものづくり企業の生産現場における製品」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「等の検査の現状とニーズ・課題」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+- 値付け・付加価値：
+  - 「(品質基準･価格設定など)」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「らの品質管理への要請」（68％）や「信頼性向上・高付加価値化による競争力強化の」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「信頼性向上・高付加価値化による競争力強化の必要性」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「高付加価値化」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「◇付加価値を生まないという考えから、これまで最終検査工程は自 動化が先送りされてき」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「たが、今後はビッグデータの活用など検査の付加価値を向上させて「守りの検査」から」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「○費用対効果の面で中止、また技術的に画像処理が難しい」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「○費用対効果」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「（価格・費用）」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「また、負担感の強い単純作業の繰り返しから従業員を解放することにより、より付加価値の高い仕事へ労働力をシフトすることが可能となる」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/mobile/honbun_mb/101025_mb.html）
+  - 「特にグローバル市場においては、価格競争が激化する一方で、品質に対する要求も高まっています」（https://labinformatics.jp/media/column/quality_control）
+  - 「その中で、高品質を維持できる企業は、単なる価格競争に巻き込まれることなく差別化を図ることが可能です」（https://labinformatics.jp/media/column/quality_control）
+  - 「さらに、自動化によって生まれた余力を、分析や改善といった付加価値の高い業務に振り向けることができる点も大きなメリットです」（https://labinformatics.jp/media/column/quality_control）
+  - 「学生時代から品質に関心を持ち、「良い製品を手ごろな価格で届けたい」と考えてきた」（https://www.goodstory.jp/astemo-st10/）
+  - 「この経験が、故障が少なく安心して使えるような製品を作りたい、品質の高い製品を手ごろな価格で届けられる仕事に携わりたいと考える原点になりました」（https://www.goodstory.jp/astemo-st10/）
+- できる・できない：
+  - 「また、従業員教育が不十分だと、導入したシステムを十分に活用できないこともあります」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「適用範囲等について適切なアドバイスが必要である」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「一方、画像処理等の限界・制約を踏まえ、自動検査によ」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「み合わせる能力）の制約で自動化できていない企業・工程を対象として、 検査機器・技」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「る機器・技術面の制約（精度・スピードや汎用性・融通性の不足など）で自動化できて」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「調達、製造、検査、出荷、販売、使用に至る全段階に及ぶ品質管理の適用範囲の一つ」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「が自動化には向いている」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「◇自動化できることはやり尽くし、今はできないところが残っているという状況だと思う」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「単に製品が機能するだけでなく、安定した品質を継続的に提供できることが、顧客からの信頼を獲得する大きな要因となります」（https://labinformatics.jp/media/column/quality_control）
+  - 「「はたらく」をもっと快適に、リコーの複合機がお手伝いできること」（https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23）
+  - 「工数を削減するとそこにかかるコストや手間が削減できることに加え、ミスの発生機会が減らせるので品質管理の面でも役立ちます」（https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail23）
+  - 「非破壊検査のメリットは、完成品をそのままの状態で検査できることにあり、高価な部品や一品物の検査に特に適しています」（https://tebiki.jp/genba/useful/quality-inspection/）
+  - 「子どもの入学式や親の通院の付き添いなど、それぞれの事情に応じて休みを取ったり、勤務時間を調整したりできることも、今の働きやすさにつながっています」（https://www.goodstory.jp/astemo-st10/）
+  - 「従来型品質管理の課題とDX導入で解決できること」（https://www.nomura-system.co.jp/contents/quality-management/）
+  - 「万一の回収対応時に、対象範囲を最小化できることは経営リスクの軽減にも直結します」（https://data-viz-lab.com/manufacturing-industry）
+- 導入・変革：
+  - 「これにより、不良品の削減はもちろん、製品品質の安定化や生産性の向上も可能になります」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「DXの導入が進まない」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「また、従業員教育が不十分だと、導入したシステムを十分に活用できないこともあります」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「効果的な戦略が必要です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「このように、作業環境の改善だけでなく、従業員の意識改革にも効果的なのが5Sの特徴です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製品の品質維持・向上には、品質管理エンジニア（QAエンジニア）の採用が非常に効果的です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「DXの導入により、業務を自動化することで、人手不足などの課題を解消することが可能」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「ただし、全てを一気に導入するのは現実的に難しい場合が多いため、まずはマクロ機能の活用やSaaS管理ツールの導入といった取り組みやすい部分から段階的に進めることをおすすめします」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「・SaaS管理ツールの導入」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「・RPA（ロボティック・プロセス・オートメーション）の導入」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「RPAを導入することで、在庫管理や注文処理などの定型業務を自動化し、単純作業や繰り返し作業の効率化が可能です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「そのような場合、転職エージェントの活用が効果的です」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「しかし、現場では品質の不安定さ、作業の属人化、人手不足、DX導入の遅れといった課題に直面しています」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「うという機運が高まっており、ロボットや自動機械の導入により製造・生産工程にお」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「査機器導入に対するニーズは高い」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+- 工程・担当：
+  - 「製造業の品質管理｜業務内容や重要性、課題と解決策を解説－転職ノウハウ |エンジニアの転職ならメイテックネクスト」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製造業・メーカー・ITのエンジニア転職なら」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製造業の品質管理｜業務内容や重要性、課題と解決策を解説」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「本記事では、製造業における品質管理の詳細な業務内容や業務で直面する課題、それに対する具体的な改善策について解説します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製造業における品質管理の重要性」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製造業の品質管理に求められる業務要素」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製造業が品質管理で抱える課題」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製造業の課題解決策」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製品が規定された基準を満たすように検査・調整を行う業務」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「特に製造業において、」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「JIS（日本産業規格）やISO（国際規格）といった業界規格を遵守することも、製造業における競争力を維持するうえで欠かせません」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製品の検査や調整業務を通じて、企業の競争力を支える重要な業務」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「品質管理（QC）とは？品質保証（QA）との違いや手法、求められるスキルを紹介」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「製品の品質を確保するために欠かせない製造業の品質管理について、具体的な業務内容について解説します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「工程管理では、製造工程を適切に監視・調整し、作業手順の遵守を徹底させることで、製品の品質を維持します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+- 工程の時間と費用：
+  - 「リコールが発生すれば、企業は多大な費用を負担するだけでなく、信頼の失墜や売り上げ減少といった深刻なリスクにも直面します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「リアルタイムで作業員の稼働状況や作業時間をデータ化し、遅れが発生しやすい工程を改善し、生産スケジュールを調整することで、効率的な生産体制を確保」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「業務標準化を進める際の例としては、まず現場のヒアリングを通じて業務を洗い出し、それぞれの工数や難易度を数値化します」（https://www.m-next.jp/knowledge/occupation/1360.html）
+  - 「化（検査スピード向上） 、コストダウン（人件費等のコスト削減）が主である」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「実働時間の拡大」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「人件費等のコストの削減」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「メンテナンスコスト」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「◇製造設備と違って売り上げを生まないコスト（マイナスの売り上げ）と考」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「コスト低減）」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「検査の高度化とコストダウンを図りつつ、 リスクを低減し労働力を有効活用する」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「目的は省力化によるコスト削減にあり、 機械化によるスピードアップや正確性・精度」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「へたに機械化し人手を排除すると、逆にコストアップになり、100％の保証も難」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「○国内で生産を続けるにはコスト的にも人材確保難の点 からも自動化は必要であり、検査に」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「また、 「コストダ」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+  - 「ウンによる競争力強化の必要性」（44％）も多く、コストダウンのために検査効率化」（https://bsys.hiroshima-u.ac.jp/wordpress/wp-content/uploads/2020/06/h27-2.pdf）
+
+## ものづくり企業の営業・問い合わせ対応の工程（sales inquiry handling process manufacturers）
+- 文脈：工程
+- 仕組み・プロセス：
+  - 「サービスの詳細や相談方法は公式サイトへ」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「営業効率を改善するための具体的な実践手順」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「特に中小製造業では、技術者や経営者が営業を兼務するケースもあり、限られた人員で効率よく商談を進める仕組みが求められます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「ビジネスマッチングは、製造を依頼したい企業と、加工・設計・組立などの技術を提供できる企業を結び付ける仕組みです」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「重要なのは、ビジネスマッチングを単なる新規顧客の紹介手段としてではなく、営業活動全体を改善する仕組みとして運用することです」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「加工会社、部品メーカー、装置メーカー、設計会社などの実務担当者が、実際の営業活動に取り入れやすい判断基準や運用方法を紹介します」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「ビジネスマッチングには、オンライン上で企業や案件を検索できる仕組み、地域の産業支援機関による紹介、商談会を通じた企業間交流など、複数の方法があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「それぞれ対象企業や案件の特徴が異なるため、自社の営業目的に合った方法を選ぶ必要があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「この方法は信頼関係を築きやすい反面、取引先の業界や地域が固定され、新しい市場に進出しにくい場合があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「営業効率を改善するためには、まず自社に合った案件を見極め、その後の対応を無駄なく進められる仕組みを整える必要があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「例えば、試作品や少量生産に強みがある企業であれば、設計変更への柔軟な対応や、開発段階での加工方法の相談に対応できる点が特徴になります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「実績を紹介するときには、守秘義務に配慮しながら、加工対象の種類、対応工程、技術上の課題、解決方法などを整理します」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業の案件では、加工方法が一致しているだけでは受発注が成立しません」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「案件情報が不足している状態で商談を進めると、後から重要な条件が判明し、見積もりのやり直しや製造方法の再検討が必要になる場合があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「そのため、設備能力だけでなく、実際に対応した加工内容や品質管理の方法を説明すると、情報の信頼性を高めやすくなります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+- ニーズの集め方：
+  - 「受注可能な数量や対応時期を定期的に確認し、営業担当者と製造現場で認識を共有しておくことが重要です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「営業担当者が案件内容を確認し、技術担当者が製造可能性を判断し、必要に応じて製造現場や品質管理部門へ相談する流れが一般的です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「初回の製造案件が完了した後に、納品物の使用状況や改善要望を適切な時期に確認することで、次の案件に必要な情報を得られる場合があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「問い合わせを増やそうとして対応範囲を広く設定しすぎると、自社で対応できない案件や、受注しても製造現場への負担が大きい案件が集まりやすくなります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「営業担当者が受注の可能性だけを重視し、現場の製造能力を考慮せずに対応を約束すると、実際の製造段階で問題が発生するおそれがあります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「技術担当者や製造現場、品質管理部門が必要な情報を共有することで、発注企業への回答精度や商談対応の効率が高まりやすくなります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「特に装置製作や設備工事、現地設置を伴う案件では、製造現場や施工現場の状況を正確に共有することが、商談や技術確認の円滑化につながります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「こうした現場情報の管理を支援する手段として、LRTK Phoneの活用も選択肢になります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「LRTK Phoneは、現場写真や位置情報、施工記録を管理するための自社プロダクトです」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「位置情報と関連付けた現場記録を整理することで、現地の状況を関係者に共有しやすくなり、設備設置や施工を伴う案件の情報確認に活用できます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「ビジネスマッチングによって獲得した商談を確実な取引につなげるには、営業情報だけでなく、技術情報や現場情報も適切に管理することが大切です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「新規顧客の獲得から受注後の対応までを一つの流れとして捉え、ビジネスマッチングと現場情報管理の両面を改善していくことが、製造業における継続的な営業効率向上につながります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業への訪問実績3000件を超える」（https://techport.co.jp/archives/29804）
+  - 「上述したターゲットからの引き合いを受注するためには、見込み顧客の多種多様な要望に応えるための、異業種を中心とした協力工場ネットワークを構築する必要がありました」（https://techport.co.jp/archives/29804）
+  - 「独自の協力工場ネットワークを形成し、異素材対応を可能にし顧客ニーズに応えた」（https://techport.co.jp/archives/29804）
+- 値付け・付加価値：
+  - 「仕様変更の提案ができない量産段階では、価格競争になりやすくなるため、試作段階で課題を抱えている見込み顧客へターゲットを絞りました」（https://techport.co.jp/archives/29804）
+  - 「ただし、汎用プラスチック分野では競争が激しく、高付加価値の仕事を獲得するのが難しいとの判断から、」（https://techport.co.jp/archives/29804）
+  - 「競争を避けるために付加価値の高い分野にターゲットを絞る」（https://techport.co.jp/archives/29804）
+  - 「コミディティ化した技術に対し、市場（用途）を変えることで新たな付加価値を創出」（https://techport.co.jp/archives/29804）
+  - 「顧客要望通りの納期では出来ない、顧客のいろいろな要望にきめ細かく応えていたら手間ばかり掛かってしまう、高い工場原価（顧客要求価格と掛け離れたレベル）である、挙句の果てには納品物の品質が顧客要望に合わない事態が発生・・・・・」（https://note.com/monozukuri_d_lab/n/nce3b7ee596f0）
+  - 「製造工程とコストの双方を管理しやすくなり、リアルタイムで生産状況を把握できるため、全体を可視化することで、営業が最新情報を踏まえた提案や価格交渉に集中しやすくなります」（https://www.techs-s.com/media/show/265）
+  - 「『TECHS-S NOA』で収集した原価データや過去の作業実績情報は、取引先との価格交渉はもちろん、精度の高い見積作成が実現します」（https://www.techs-s.com/media/show/265）
+  - 「対応できる仕様、数量、納期、価格、取引条件は何か」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「価格・納期・品質などの条件差に加え、自社を選ぶ根拠や見積もり回答の速度を確認しているか」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「失注理由を「価格が高かった」で終わらせず、競合との条件差や、相手が重視していた点を記録します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「価格差が実際の原因なら、原価や取引条件の検討も必要です」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「また、購買担当者には価格・供給条件、設計担当者には仕様への適合、品質保証担当者には検査や管理体制など、確認したい情報が異なる場合があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「見積もりには、価格に加えて、仕様、数量、納期、検査範囲などの前提条件を示します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「条件が揃わないまま価格だけを比較されると、提案内容の違いが伝わりません」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「見積もり提出後の失注が多いなら、価格・納期などの条件差、提案の根拠、回答までの時間を確認します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+- できる・できない：
+  - 「案件ごとに受注可能な条件を確認し、技術的に難しい部分や納期上の制約があれば、早い段階で関係者と共有することが重要です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「試作から量産時においてトラブルなく良心的なコストで移行できることを価値として訴求できています」（https://techport.co.jp/archives/29804）
+  - 「製造業では、保有設備の限界により、需要があっても必ずしも受注できないことがあります」（https://techport.co.jp/archives/29804）
+  - 「繁忙期には、営業活動を通じて案件を獲得しても、製造能力の制約で対応できないことが少なくありません」（https://techport.co.jp/archives/29804）
+  - 「「パターン①技術者自身がコンテンツを執筆」が向いているケース」（https://mfg-hack.com/marketing/11620/）
+  - 「「パターン②マーケティング担当が執筆」が向いているケース」（https://mfg-hack.com/marketing/11620/）
+  - 「「景気が上向いているとはいえ、受注が安定せず、将来の売上予測が立てられない…」」（https://www.techs-s.com/media/show/265）
+  - 「特に受注状況と生産計画が直結しやすい製造業の営業にとって、リアルタイムで工場の稼働状況を把握できることは大きな強みです」（https://www.techs-s.com/media/show/265）
+  - 「強みを伝える際は、「対応できること」「役立つ用途」「確認できる根拠」「対応条件」を組み合わせます」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「検査項目、記録の管理方法、不具合発生時の対応、取得している認証の適用範囲」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「見積もりには、価格に加えて、仕様、数量、納期、検査範囲などの前提条件を示します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「FA装置メーカー15社を、対応工程、設計・製作範囲、向いている案件で比較」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/sales-strategy-digital-marketing/）
+  - 「あわせて、新規開拓に向いている営業手法や、戦略を成果につなげるポイントも紹介します」（https://clfpartners.co.jp/column/manufacturing-sales-strategy/）
+  - 「製造業の新規開拓に向いている営業手法6選」（https://clfpartners.co.jp/column/manufacturing-sales-strategy/）
+  - 「製造業の営業戦略が抱える課題は、製品価値の伝え方、人材の確保、生産能力の制約、部門間の対立の4つです」（https://clfpartners.co.jp/column/manufacturing-sales-strategy/）
+- 導入・変革：
+  - 「そのため、ビジネスマッチングを導入するときには、案件数の増加だけでなく、案件の適合性、商談化率、見積もり作業時間、受注率、継続取引の可能性まで意識することが大切です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「そのような場合には、不足情報を一度に確認できる質問項目を用意しておくと効果的です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「見積もり前の技術相談についても、営業担当者だけで判断できる範囲と、技術担当者の確認が必要な範囲を分けておくと効果的です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「問い合わせが増えたという印象だけで効果を判断すると、実際に営業効率が改善しているのか分かりません」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「こうした小さな改善を継続することで、ビジネスマッチングをより効果的に活用できる体制へ近づけます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「ビジネスマッチングは新しい取引先を探すための有効な手段になり得ますが、導入方法によっては営業負担が増加する場合もあります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「ここまで紹介した5つの改善策を実際の業務に取り入れるには、導入前の準備と運用開始後の見直しを段階的に進めることが重要です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「導入事例記事」（https://techport.co.jp/archives/29804）
+  - 「製造業のWebマーケティング支援を15年以上」（https://techport.co.jp/archives/29804）
+  - 「・Webリニューアルが逆効果に？ 問い合わせを減らさない製造業のサイト改革（MONOist）」（https://techport.co.jp/archives/29804）
+  - 「産業機械メーカーの営業とは、自社で設計・製造した機械を顧客の生産現場に導入してもらう、技術と商談を橋渡しする役割です」（https://upward.jp/weblog/industrial-machinery-sales/）
+  - 「最大の違いは、自社で製造しているがゆえに、提案した仕様の妥当性や導入後の性能まで自社が責任を負う点です」（https://upward.jp/weblog/industrial-machinery-sales/）
+  - 「導入メリットや成功事例がまるわかり！」（https://upward.jp/weblog/industrial-machinery-sales/）
+  - 「ー 導入の流れ」（https://upward.jp/weblog/industrial-machinery-sales/）
+  - 「一つの部門だけでは「技術の専門性」「顧客の課題理解」「効果的な情報発信」の3つを同時に実現することはできないからです」（https://mfg-hack.com/marketing/11620/）
+- 工程・担当：
+  - 「製造業のビジネスマッチング活用で営業効率を上げる5つの改善策 | レフィクシア株式会社」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業技術記事」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業のビジネスマッチング活用で営業効率を上げる5つの改善策」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「加工・製造の協力先探し」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業におけるビジネスマッチングと営業効率の関係」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「改善策3：問い合わせ対応と見積もり業務を標準化する」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業のビジネスマッチングで失敗しないための注意点」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「製造業の営業活動では、新規顧客の開拓に時間がかかる、問い合わせがあっても受注につながらない、自社の技術を必要とする企業に出会えないといった課題が生じやすくなっています」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「特に中小製造業では、技術者や経営者が営業を兼務するケースもあり、限られた人員で効率よく商談を進める仕組みが求められます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「こうした課題への対応策として注目されるのが、製造業向けビジネスマッチングの活用です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「ビジネスマッチングは、製造を依頼したい企業と、加工・設計・組立などの技術を提供できる企業を結び付ける仕組みです」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「自社の対応範囲を整理せずに案件へ応募したり、問い合わせ対応を担当者任せにしたりすると、見積もり作業ばかり増えて受注につながらない状況も起こります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「案件の選定から初回対応、見積もり、商談管理、受注後の関係構築までを見直すことで、限られた営業資源を有効に活用しやすくなります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「本記事では、製造業のビジネスマッチングを活用して営業効率を高める5つの改善策を解説します」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「加工会社、部品メーカー、装置メーカー、設計会社などの実務担当者が、実際の営業活動に取り入れやすい判断基準や運用方法を紹介します」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+- 工程の時間と費用：
+  - 「製造業の営業活動では、新規顧客の開拓に時間がかかる、問い合わせがあっても受注につながらない、自社の技術を必要とする企業に出会えないといった課題が生じやすくなっています」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「多くの問い合わせを獲得できても、条件が合わない案件ばかりでは、技術確認や見積もりに多くの時間を費やしてしまいます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「営業効率は、営業活動に投入した時間や人的資源に対して、どれだけ有望な商談や受注成果を得られたかという視点で考える必要があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「そのため、ビジネスマッチングを導入するときには、案件数の増加だけでなく、案件の適合性、商談化率、見積もり作業時間、受注率、継続取引の可能性まで意識することが大切です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「実現可能性の低い案件に時間を費やすことを防ぎ、得意領域の商談に集中するための判断材料になります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「この過程が担当者ごとの経験や判断に依存していると、同じ種類の案件でも確認内容や対応時間にばらつきが生じます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「そのため、単純な案件件数だけではなく、商談の進み方や投入した作業時間も含めて評価する必要があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「次に確認したいのは、見積もり提出から受注に至る割合です」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「また、営業効率を評価するうえでは、見積もり作業に要した時間も重要な指標になります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「例えば、同じ受注件数であっても、問い合わせ対応や社内確認に必要な時間が減少していれば、営業活動の効率が改善している可能性があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「案件ごとの作業時間を記録すると、どの工程に負担が集中しているのかを把握しやすくなります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「図面確認に時間がかかっている場合は、必要資料の受領方法を改善することが考えられます」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「発注企業からの追加情報を待っているのか、社内の技術検討に時間がかかっているのか、見積もり提出後の回答待ちなのかによって、取るべき対応は異なります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「大型装置の製造委託や共同開発などでは、商談開始から受注判断までに時間がかかる場合があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+  - 「相手の検討段階を把握しないまま詳細な見積もりを繰り返すと、社内の工数が増える可能性があります」（https://lefixea.jp/mfg/articles/manufacturing-business-matching13）
+
+## ものづくり企業の技術伝承・ナレッジ管理（knowledge transfer manufacturers）
+- 文脈：工程
+- 仕組み・プロセス：
+  - 「業務プロセス改革」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「成長戦略のプロセス・手法」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「新製品のコストダウンを実現するバリューエンジニアリング（VE）の本質的な活用方法」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「コンサルティングまでの流れ」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「業務プロセスの改善や問題解決を迅速に行うことができ、生産性の向上やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ共有のプロセス、暗黙知から形式知への流れを表すSECIモデルでは、Socialization（共同化）、Externalization（表出化）、Combination（連結化）、Internalization（内面化）の4つのフェーズでナレッジの活用を考えます」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「手順をまとめるマニュアル化もナレッジマネジメントの一つ」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「マニュアル化は、情報共有のための一般的で有効な方法の一つです」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「業務の手順や作業方法をまとめて従業員間で共有することで、業務の効率化や品質管理を行うもので、ナレッジマネジメントの一環といえます」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「蓄積した過去のデータを分析したり検索したりして活用すれば、より効率的な業務プロセスを作っていけるでしょう」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用を成功させる導入の手順」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用の導入を成功させるには、ステップを踏み、経営層のサポートや社内文化の醸成も意識しましょう」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用へのステップ」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用の方法や事例」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用には、社内SNSやチャットツール、社内Wiki、FAQデータベース、オンライン研修、人材マッチングプラットフォームなど、さまざまな方法があります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+- ニーズの集め方：
+  - 「組織人材・現場人材の育成・活性化」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「特に製造業の企業幹部の方から、技術伝承・技能伝承に関する課題や問題など“お困りごと”として、下記のようなことをよくお聞きします」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「技術伝承・技能伝承の課題や問題“お困りごと”の背景」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「また、団塊の世代が退職してしまい、これまで培ってきた技術・技能に対する伝承、情報の共有が不十分で、現場が弱体化しているということも考えられます」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「海外のコンサルの現場から」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「主な機能として、文書の共有・編集、タスク管理、プロジェクト管理やチャット機能などがあり、社内での情報共有やコミュニケーションを強化し、ビジネスの現場を改善する存在となっています」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「このように、たとえば転職してきた人材の早期戦力化ニーズを解決するためにも、ナレッジマネジメントの重要性が高まっています」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「さらに、顧客ニーズや市場トレンドに関する情報を企業全体で共有して、市場ニーズに合致した革新的な製品やサービスの開発につながります」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「多くの現場で人材不足を感じることが多く、一人が長期に抜けることで現場が立ち行かなくなる状況に不安を覚えている方は多いのではないでしょうか」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「特定の優秀な社員が持っていたナレッジや現場での改善活動を共有し、会社全体のスキル向上につなげます」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「営業部門やカスタマーサポート部門で収集された顧客ニーズ、クレーム情報、過去の対応履歴、商品改善要望などを一元管理し、製品開発やサービス改善に活かします」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「経営層から現場まで一貫した理解がなければ、継続的なナレッジ共有は難しくなります」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「入力のしやすさ、検索性、運用負担の少なさなど、現場目線の仕組みづくりが成功の鍵です」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「防災時の対応は、現場にいなければ情報が把握できない、あるいは判断が現場に任されるケースが多く、重要な情報が暗黙知として蓄積されやすい傾向がありました」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「これまで製造現場の技能伝承では集合研修やOJTが中心でしたが、ベテラン社員の作業動画や詳細な手順書をデジタル化し、若手社員がスマートフォンやタブレットで学習できる環境を整備しました」（https://skillnote.jp/knowledge/knowlege-management/）
+- 値付け・付加価値：
+  - 「ROI計算ツール」（https://timewell.jp/columns/manufacturing-skill-succession-ai）
+  - 「原価計算にいたってはベテランの勘が頼りで、積算の根拠が残っていないため、本人が休むと「この価格で本当に利益が出るのか」を誰も判断できなくなります」（https://timewell.jp/columns/manufacturing-skill-succession-ai）
+  - 「新潟県燕市は金属加工の産地として知られていますが、海外との価格競争や国内需要の減少により、下請け中心のビジネスモデルに限界が見えていました」（https://knowhow-ai.app/blog/knowledge-management-success-cases）
+  - 「「iPod」のステンレス鏡面仕上げを手がけるなど、高付加価値案件を獲得」（https://knowhow-ai.app/blog/knowledge-management-success-cases）
+  - 「Q3. 投資対効果（ROI）はどのように測定すればよいですか？」（https://knowhow-ai.app/blog/knowledge-management-success-cases）
+  - 「ナレッジマネジメントのROI算出方法については、今後公開予定の記事で詳しく解説する予定です」（https://knowhow-ai.app/blog/knowledge-management-success-cases）
+  - 「製造業のAI活用ガイド｜業務領域別の導入効果とROI事例を徹底解説【2026年版】」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「品質検査・予知保全・生産計画・サプライチェーンの導入効果とROI事例、失敗しない導入ステップまで網羅した実践ガイドです」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「推進体制の属人化とROIが見合わないケース」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「さらに、ナレッジDBが向かない・費用対効果が見合いにくいケースもあります」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「Generative AI in Manufacturing: How to Drive ROI and Manage Risks?」（https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/）
+  - 「この目標に対し、まずは小規模なPoC（概念実証）を通じて投資対効果（ROI）を検証することが重要です」（https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/）
+  - 「How generative AI drives innovation and ROI in manufacturing」（https://media.emuniinc.jp/2026/01/28/manufacturing-genai-knowledge-management/）
+  - 「その後も利用は拡大し、同社が公表している2024年の削減効果は年間44.8万時間、利用回数は240万回に達しています」（https://rimo.app/blogs/_knowledge）
+  - 「急激な為替変動や資源価格の高騰、人材不足など外部環境の変化により、製造業にとって厳しい状況が続いています」（https://skillnote.jp/knowledge/gijyutsudensho-1/）
+- できる・できない：
+  - 「特に設計開発部門では、過去の設計ミスや改良点を参照できることで、新規設計時の品質リスクを大幅に低減できます」（https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/）
+  - 「ChatGPTとは？仕組みやできること、活用例をわかりやすく解説」（https://engineering-technology.brexa.com/blog/technavi/design-knowledge-transfer/）
+  - 「ZEROCKができること」（https://timewell.jp/columns/manufacturing-skill-succession-ai）
+  - 「技術伝承がうまくいかない最大の理由は、価値の高い判断ほど暗黙知の側にあり、そのままでは検索も共有もできないことにあります」（https://timewell.jp/columns/manufacturing-skill-succession-ai）
+  - 「働き方改革関連法による時間外労働の上限規制が物流や建設などで2024年4月から適用され、物流の制約はサプライチェーン全体に波及しました」（https://timewell.jp/columns/manufacturing-skill-succession-ai）
+  - 「5. 暗黙知を形式知化できないことによる課題」（https://www.nisseicom.co.jp/growone-production/column/17.html）
+  - 「このように、実際にツールを活用して暗黙知を見える化すると、時間や場所の制約を超えてスキルを伝えることができるようになります」（https://www.nisseicom.co.jp/growone-production/column/17.html）
+  - 「この記事では、サラリーマンと起業家の違いや、それぞれに向いている人の特...」（https://6sense-science-talk.blog/technology-transfer-manufacturing-industry-tools/）
+  - 「日立の事例は、「言語化しにくい身体的な技能」であっても、センシングと画像解析を組み合わせることでデジタル化できることを実証しています」（https://knowhow-ai.app/blog/knowledge-management-success-cases）
+  - 「技術伝承AIでできること」（https://knowhow-ai.app/blog/knowledge-management-success-cases）
+  - 「ナレッジDB構築のメリットとは、属人化していた知見を組織の資産に変え、技術伝承・トラブル対応・教育の3領域で効率を底上げできることです」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「退職後では文書の文脈や前提条件が補完できず、価値が大きく下がります」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「ここでは、向いていないケースや失敗パターンを含めて正直に整理します」（https://www.optimax.co.jp/ai-information/manufacturing-knowledge-db/）
+  - 「生成AIが技術伝承で支援できること」（https://techaide.jp/blog/manufacturing-knowledge-transfer-dx-ai/）
+  - 「FMEAに生成AIを活用する方法｜できること・進め方・プロンプト例」（https://techaide.jp/blog/manufacturing-knowledge-transfer-dx-ai/）
+- 導入・変革：
+  - 「調達・購買コスト削減」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「ロスコスト削減」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「デジタル技術を活用した業務改革（DX）～第１回 2030年問題に備えるためのDX～」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「デジタル技術を活用した業務改革（DX）」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「2025年「経営人財育成塾」交流イベント」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「2025年「経営人財育成塾」第２回講演より」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「AI導入支援サービス」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「導入事例・実績」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「業務プロセスの改善や問題解決を迅速に行うことができ、生産性の向上やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「企業内で共有し、活用することで生産性の向上やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジマネジメントは、直訳すると知識管理という意味で、企業に蓄積したナレッジを効果的に管理し、活用することを指します」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用ができれば、過去の問い合わせ事例やFAQなどの情報を蓄積し、自動化やAI技術を活用することで、問い合わせ対応の工数を削減でき、人的リソースの有効活用やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用を成功させる導入の手順」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用の導入を成功させるには、ステップを踏み、経営層のサポートや社内文化の醸成も意識しましょう」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用の導入には、現状の課題の洗い出し、目的や効果の明確化、システムの導入、社員の教育や意識改革、運用ルールの策定などが必要です」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+- 工程・担当：
+  - 「設計・開発改革」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「製造・生産管理」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「調達・購買コスト削減」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「調達・物流改革」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「特に製造業の企業幹部の方から、技術伝承・技能伝承に関する課題や問題など“お困りごと”として、下記のようなことをよくお聞きします」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「□開発・設計や生産技術等、自社の技術・技能の中核を担う人材が育っていない」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「事例としては、IT企業では技術情報の共有、製造業では生産ラインの改善、営業企業では顧客情報の共有など、業種や目的に合わせた活用が行われています」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「AGC株式会社と株式会社FRONTEOが、自然言語解析AIエンジン「KIBIT」を活用したガラス製造AI Q&Aシステム「匠KIBIT」を共同開発し、AGCの国内ガラス製造拠点で運用を開始しました」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「匠KIBITは、熟練技術者の保有するガラス製造の知見をグループ内の技術者が簡単に引き出すことが可能で、自律的にデータベースを拡充できる仕組みを持っています」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「今後は、世界中のAGCのガラス製造拠点に展開する予定です」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「『熟練のガラス製造技術を次世代へ 創業113年のガラス製造企業が挑むAIによる技術・技能伝承』」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジマネジメントとは？ 製造業で重要な理由・SECIモデル・成功のポイントをわかりやすく解説」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「製造業のためのスキルマネジメントシステム」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「製造業では、言語化の難しいベテランの従業員が持つコツやノウハウを伝承する「技術・技能伝承」や「人手不足」の解決策として注目されています」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「個人や部門が持つ専門知識、経験、ノウハウを企業全体の資産として捉え、効果的に共有・活用して、業務効率の向上や競争力の強化を図ります」（https://skillnote.jp/knowledge/knowlege-management/）
+- 工程の時間と費用：
+  - 「調達・購買コスト削減」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「ロスコスト削減」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「新製品のコストダウンを実現するバリューエンジニアリング（VE）の本質的な活用方法」（https://www.jemco.co.jp/comm/202501knowledge01/）
+  - 「業務プロセスの改善や問題解決を迅速に行うことができ、生産性の向上やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「企業内で共有し、活用することで生産性の向上やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「専門性が高いエキスパート人材には、日々社内から問い合わせが寄せられ、その対応の積み重ねが本来業務の時間を圧迫しています」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「また、業務推進に必要な情報を探そうとしても、誰に聞くか、どこを探すかがわからず、情報にたどり着くまでに時間を費やしてしまうことも多いのではないでしょうか」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「問い合わせ対応に工数がかかる」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「同じような問い合わせを何度も受けるような場合、対応に多大な時間や人的リソースが必要となります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジ活用ができれば、過去の問い合わせ事例やFAQなどの情報を蓄積し、自動化やAI技術を活用することで、問い合わせ対応の工数を削減でき、人的リソースの有効活用やコスト削減につながります」（https://kibit.fronteo.com/solution/knowledge-mgt/）
+  - 「ナレッジマネジメントでは、社内のナレッジを体系化し効率的に共有して、在籍している社員の戦力強化を図り、新人の教育・育成にかかる時間を短縮できるため早期戦力化も実現します」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「ベストプラクティスや改善事例の共有と他の工程への水平展開は、ムダの削減や作業時間の短縮につながります」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「広い意味では、業務時間外の雑談なども含まれます」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「社員は時間や場所を問わず必要な研修コンテンツにアクセスできるようになり、技術や知識の伝承の効率化に成功しました」（https://skillnote.jp/knowledge/knowlege-management/）
+  - 「その結果、契約検討業務（過去データの調査・収集、交渉戦略の検討、契約文言の作成）の作業時間が40%短縮できました」（https://skillnote.jp/knowledge/knowlege-management/）
