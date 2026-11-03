@@ -1,0 +1,3260 @@
+{
+ "name": "nTop",
+ "aliases": [
+  "nTopology",
+  "nTop Inc"
+ ],
+ "context": "wl-A DfAM（AM向け形状生成）",
+ "researched_at": "2026-11-03T11:16:06.516367+00:00",
+ "official_url": "https://www.ntop.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Employees",
+    "value": "119",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$ 281,724 $ 245,122 15%",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 120,810  $ 106,820 13%",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 106,265  $ 87,464 21%",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 54,649  $ 50,838 7%",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 281,724  $ 245,122 15%",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue:",
+    "value": "",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 247,442  $ 219,790",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 120,810  $ 106,820  $ 94,151",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 106,265  $ 87,464  $ 72,944",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 54,649  $ 50,838  $ 44,820",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 281,724  $ 245,122  $ 211,915",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "Move through every design phase faster, backed by the evidence to decide with confidence.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're backed by leading investors across aerospace, defense, and deep including:",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "This is what DoW actually buys: options backed by analysis. Not theoretical trades in a PowerPoint. Real configurations with simulated performance and cost breakdowns.",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "株主数 18,720名",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株主名 持株数 （千株） 持株比率 （%）",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日東富士製粉持株会 120 1.3",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２. 持株比率",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大株主（上位10名）",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域社会への貢献社員エンゲージメント 強化 株主 ・ 株式市場からの 共感 商 品・サ ー ビ ス を 通 じ た 顧客満足の向上",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "務レバレッジを効かせ、 成長投資と株主還元をしっかり",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお株主還元に関しては、 特に長期保",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有の株主様にしっかり と報いるという意味合いを込め、",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元の強化",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益 自己資本比率 ・ 純資産",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要視するのが 「株主還元の強化」 です",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "込まれ、 それを 「株主還元の強化」 に充てていきたいと考え",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株主ファンづくりを促してまいりたいと考えております",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た併せて、 これからの新しい資本政策の中では株主様との",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Shareholder Letter",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to Shareholder Letter",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dear shareholders, colleagues, customers, and partners:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We believe our server products provide customers with advantages in performance, total costs of ownership, and productivity by delivering superior applications, development tools, compatibility with a broad base of hardware and software applications, security, and manageability.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "During fiscal years 2025 and 2024, our Board of Directors declared dividends totaling $24.7 billion and $22.3 billion, respectively. We intend to continue returning capital to shareholders in the form of dividends, subject to declaration by our Board of Directors. Refer to Note 15 – Stockholders’ Equity of the Notes to Financial Statements.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net income available for common shareholders (A)",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The 2025 Annual Shareholders Meeting will be held as a virtual-only meeting",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": ". Any shareholder can join the Annual Meeting, while shareholders of record as of September 30 2025, will be able to vote and submit questions during the meeting.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Virtual Shareholder Meeting:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "www.virtualshareholdermeeting.com/MSFT25",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Registered Shareholder Services",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Computershare, our transfer agent, can help you with a variety of shareholder related services including:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shareholders can sign up for electronic alerts to access the annual report and proxy statement online. The service gets you the information you need faster and also gives you the power and convenience of online proxy voting. To sign up for this free service, visit the Annual Report site on the Investor Relations website at:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership Status",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Funding",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Investors",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We're backed by leading investors across aerospace, defense, and deep including:",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "in Funding",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.",
+    "url": "https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Using simulation data, Lockheed engineers trained neural network and FNO models capable of both scalar and full-field predictions. These models provided high accuracy with millisecond evaluation times ideal for optimization.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 45,000+ founders, operators, and investors.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Our dedicated investor and financial portal",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investors Overview",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor FAQs",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Email Alerts",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Contacts",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "InvestorRelations@novanta.com",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "To opt-in for investor email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in order to complete your subscription. You can sign up for additional alert options at any time.",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "At Novanta, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below. If you experience any issues with this process, please contact us for further assistance.",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "By providing your email address below, you are providing consent to Novanta to send you the requested Investor Email Alert updates.",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Alert Options",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": ", willing to experiment, guided by evaluations, and committed to continuous improvement. I am continually impressed by how our people do just that.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "$100 invested on 6/30/20 in stock or index, including reinvestment of dividends. Fiscal year ending June 30.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our Internet address is www.microsoft.com. At our Investor Relations website, www.microsoft.com/investor, we make available free of charge a variety of information for investors. Our goal is to maintain the Investor Relations website as a portal through which investors can easily find or navigate to pertinent information about us, including:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Information on our business strategies, financial results, and metrics for investors.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Announcements of investor conferences, speeches, and events at which our executives talk about our product, service, and competitive strategies. Archives of these events are also available.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other news and announcements that we may post from time to time that investors might find useful or interesting.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating expenses increased $3.8 billion or 6% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating expenses increased $1.1 billion or 4% driven by investments in cloud and AI engineering and commercial sales.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating expenses increased $1.5 billion or 7% driven by investments in cloud and AI engineering.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Research and development expenses increased $3.0 billion or 10% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and marketing expenses increased $1.2 billion or 5% driven by investments in commercial sales and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net recognized losses on investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cash, Cash Equivalents, and Investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Impairment of Investment Securities",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our fixed-income portfolio is diversified and consists primarily of investment-grade securities. We manage credit exposures relative to broad-based indices to facilitate portfolio diversification.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Securities held in our equity investments portfolio are subject to price risk.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Foreign currency – Investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net change related to investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Short-term investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Total cash, cash equivalents, and short-term investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Equity and other investments",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "nTop 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Find investment opportunities and active investors faster",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Validate investment decisions with verified company and financial data",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Explore investor track records and activity",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Access timely lending and investment data",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the go-to workflow hub for every investment stage",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Preview our company and investor data",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Insights into deal flow, valuations, and market drivers",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Track how AI is transforming industries and tech investment",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation trends and news for dealmakers",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "News, analysis, and data driving industry and technology investment",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Change input parameters to generate new geometric variants within your design space, without breaking the model or rebuilding it by hand.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop changes how engineering gets done. Our technology collapses months of iteration into hours, letting teams explore thousands of variants instead of settling for the first option.",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop's geometry stays robust under extreme parametric variation, so the model keeps up without a person driving every change by hand.",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that our team members around the world should enjoy similar perks and benefits as our US employees — no matter where they are located. In addition to a competitive salary, a fantastic vacation plan, and home office and professional reimbursements, we offer benefits to our international employees that vary by country but match the spirit of the benefits our US employees receive.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Run complete multi-objective trade studies, from parametric geometry through multi-physics results, by connecting nTop's watertight variant generation directly to Ansys solvers and optimization tools.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore thousands of design variants in real time by connecting nTop's parametric geometry directly to PhysicsX's physics AI surrogate models, trained and validated inside a single pipeline.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Move hundreds of design variants generated in nTop directly into Flexcompute's simulation workflow, compressing requirements-driven design cycles from months to weeks.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Each machine runs one engine, so a cluster with 20 engines works through 20 variants at a time instead of one. A design of experiments on an airframe can cover the parameter range at the resolution the problem calls for. When a payload or thermal requirement changes late in a program, the team can rerun the whole study rather than a hand-picked subset.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "The work happens on the cluster, so an engineer's workstation stays free for the next problem. Results come back organized by variant, with the inputs, outputs, and logs for each, so a failed or surprising case is easy to trace.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven at scale: valid geometry for every variant",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "generated 2,400 drone geometry variants and evaluated each at five angles of attack",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": ", for 12,000 CFD simulations run across 280 NVIDIA RTX Pro 6000 Blackwell GPUs. Every one of those 2,400 variants produced valid geometry, with zero geometry failures across the full run.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "Conceptual aircraft design often involves a frustrating bottleneck: traditional CAD tools are too rigid to evaluate dozens of geometric variations programmatically, while low-fidelity aerodynamic tools lack the geometric feedback needed for structural integration and manufacturing.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/",
+    "pass": 1
+   },
+   {
+    "quote": "Throughout these 3 months of designing and building various remote-controlled planes, I learned more about the core principles of aircraft design – not just theory, but how to materialize that knowledge into tangible RC UAVs.",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Gained a working understanding of parametric computational design, going from beginner nTop Learn tutorials to complex master files that flex with a variety of inputs",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "The existing model exposed variables controlling the planform, center body, duct position, and inlet geometry. nTop Automate generated the candidate population, and each parameter set was evaluated against the notebook’s primary conditions before it could proceed to additional validation or RCS analysis.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "8 airframe, engine, and complete system packaging variants designs created and analyzed in 5 days",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Regeneratively cooled combustors use fuel flowing through small channels in the combustor wall to cool the structure before burning. The channel geometry is complex: hundreds of parallel channels, varying cross-sections, precise wall thicknesses. It's a heat exchanger that also has to survive hypersonic flight loads.",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional parametric CAD forces a choice: hand-craft every variant (too slow) or build parametric models that collapse under variation.",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin set out to optimize the design of a dual-fluid heat exchanger featuring a gyroid-based TPMS core. The engineering goal was straightforward but technically challenging: maximize heat transfer while minimizing pressure drop all under varied inlet flow conditions and within additive manufacturing constraints.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Exploring design variants",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "The team believed the final component would feature Voronoi ribbing at the top layer to keep the skin strong, a gyroid-based lattice core, and an aluminum wrap. With nTop, the team was able to determine how the Voronoi ribbing impacted performance at a specific mass penalty. This helped them quickly iterate on a variety of configurations of ribbing structures and lattice networks.",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance and mass characteristics of design variants evaluated for the project",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "Each iteration took about five minutes to develop, then was simulated in a separate ANSYS software platform, which is widely used in aerospace for validation. The NASA team appreciated the fact that nTop allowed them to build workflows knowing what variables they intended to change. They could copy the workflow and change the variables, knowing the model would update parametrically.",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "To hit that mark, blueflite used advanced design strategies to quickly reduce the mass of the fuselage. While CAD worked well to create aerodynamic surfaces, it was slow to manually model the variably shelled components, and it couldn’t generate the lattice infills and sophisticated ribbing needed for structural rigidity.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "First, they imported Class A surfaces designed in CAD into nTop and ‌generated a variable-thickness skin. Then they applied a lattice infill and structural support with isogrid ribbing. Next, they optimized key design parameters with field-driven design.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/bradley-rothenberg/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/joel-bejar/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/valerie-chianuri/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/kevin-chlan/",
+    "pass": 1
+   },
+   {
+    "quote": "Parametric models that never break, so you can explore thousands of design variants in parallel.",
+    "url": "https://www.ntop.com/team/jason-gordon/",
+    "pass": 1
+   },
+   {
+    "quote": "ran 2,400 drone planform geometry variants across five angles of attack for a total of 12,000 simulations. One engineer set it up and walked away while 280 NVIDIA GPUs on CoreWeave were fully saturated for the entire run without any geometry failures.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "Parameters used to produce geometric variants of group 3 UAS.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "That's what makes autonomous execution possible. The pipeline does not need to be managed because every one of the 2,400 variants generated a valid geometry. Where jobs failed, the failures were solver-side and recoverable, not geometry failures, and everything else ran to completion.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional CFD requires a body-fitted mesh — a volume discretization that conforms to the surface of the geometry being analyzed. Generating that mesh is a manual, iterative process when geometry changes and requires a trained analyst to repair before the next simulation can run. In a parametric study of 2,400 variants, that step would make autonomous execution impossible.",
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI used variable shelling and latticing to reduce the original design’s weight.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Since the DMG MORI engineers couldn’t alter the external form of the part, the results of topology optimization could not be used as the final design. However, they could use them to vary the thickness of the outer shell. This helped the team leverage some of the structural benefits of topology optimization without changing the part’s exterior.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "The topology optimization result drives the thickness of the variable shelling operation.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-section of the combustion engine cylinder showing the internal variations of the lattice.",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "The redesigned microturbine generator housing. It features a conformal cooling channel created using variable shelling and automated smoothening.",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱商事㈱と総代理店契約を締結",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and information services, spanning a variety of devices and platforms. This segment primarily comprises:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows faces competition from various software products and from alternative platforms and devices. Microsoft Defender for Endpoint competes with endpoint security solution providers.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our server products face competition from a wide variety of server operating systems and applications offered by companies with a range of market approaches. Vertically integrated computer manufacturers offer their own versions of the Unix operating system preinstalled on server hardware and nearly all computer manufacturers offer server hardware for the Linux operating system.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing changes and promotions, pricing variation that occurs when the mix of devices manufactured shifts from local and regional system builders to large multinational OEMs, and different pricing of Windows versions licensed.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows faces competition from various software products and from alternative platforms and devices. We believe Windows competes effectively by giving customers choice, value, flexibility, security, an easy-to-use interface, and compatibility with a broad range of hardware and software applications, including those that enable productivity.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Devices face competition from various computer, tablet, and hardware manufacturers who offer a unique combination of high-quality industrial design and innovative technologies across various price points. Many of these manufacturers are also current or potential partners and customers, including our Windows OEMs.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors and Resellers",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our Dynamics business solutions are also licensed to enterprises through a global network of channel partners providing vertical solutions and specialized services.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Microsoft Cloud Solution Provider Program offers customers an easy way to license the cloud services they need in combination with the value-added services offered by their systems integrator, managed services provider, or cloud reseller partner. Partners in this program can easily package their own products and services to directly provision, manage, and support their customer subscriptions.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our Internet address is www.microsoft.com. At our Investor Relations website, www.microsoft.com/investor, we make available free of charge a variety of information for investors. Our goal is to maintain the Investor Relations website as a portal through which investors can easily find or navigate to pertinent information about us, including:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We publish a variety of reports and resources related to our Corporate Social Responsibility programs and progress on our Reports Hub website, www.microsoft.com/corporate-responsibility/reports-hub, including reports on responsible AI, sustainability, responsible sourcing, accessibility, digital trust, and public policy engagement.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Due to the various benefits from and the nature of our SA program, judgment is required to assess the pattern of delivery, including the exercise pattern of certain benefits across our portfolio of customers.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Certain options and forwards not designated as hedging instruments are also used to manage the variability in foreign exchange rates on certain balance sheet amounts and to manage other foreign currency exposures.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Assets are not allocated to segments for internal reporting presentations. A portion of amortization and depreciation is included with various other costs in an overhead allocation to each segment. It is impracticable for us to separately identify the amount of amortization and depreciation by segment that is included in the measure of segment profit or loss.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly Building a Parametric Aircraft Model",
+    "url": "https://www.ntop.com/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "What all of these have in common is that they need nTop running, and that's what the engine model provides. The nTop GUI is one way to drive it, and the command line interface, a notebook authoring API (currently in development), and agents are others. A team licenses the engines it needs and puts them to work however its programs demand.",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "pass": 1
+   },
+   {
+    "quote": "We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.",
+    "url": "https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation • nTop",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop Drives Rapid UAV Innovation",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping Case Study",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "We went through a rapid build-and-test pipeline that proved how fast computational workflows facilitate speedy production. The ultimate payoff was at the airfield where we determined how well our digital models could actually fly, and pinpointed key areas for design iteration.",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "\"By being able to rapidly go from designs to performances, we can explore the design space and meet or exceed current system ranges at a fraction of the cost, enabling affordable mass without compromising performance.\"",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin accelerates design with AI and embedded simulation",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded simulation meets AI-driven inverse design",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers at nTop created a fully parametric heat exchanger model using implicit geometry. This enabled high design flexibility while maintaining geometric robustness under rapid iteration – a requirement for AI-driven iteration, where dozens of changes can happen in seconds.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Lockheed Martin and nTop are exploring the potential of simulation-driven, AI-enabled engineering. By embedding simulation into modeling and combining it with intelligent surrogate modeling, the team has made early progress toward proving that engineering teams can move faster, explore more, and trust the results.",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid iteration",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop’s rapid iteration capabilities allowed Puntozero’s engineers to quickly target the main opportunities for optimization and, after multiple rapid design iteration cycles, develop a final cold plate heat sink design that could hold up to race track conditions.",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Venture Capital",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded optomechatronics for life science systems",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Human Capital Resources",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing Options",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Through SFI, we have dedicated the equivalent of 34,000 full-time engineers to our highest-priority security work. We strengthened identity protections, secured our networks and systems, enhanced threat detection and response, and embedded secure-by-design practices across everything we build.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our skilling initiatives will help 20 million people earn AI credentials over the next two years, from foundational fluency to advanced technical training. And to support our work with deeper research and policy insights, our new AI Economy Institute will explore how AI is reshaping education and work, helping us bridge the gap between technological innovation and societal impact.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Responsible business practices are embedded across our operations and supply chain. Following the UN Guiding Principles on Business and Human Rights, we’ve strengthened our due diligence processes, expanded stakeholder engagement, and launched new governance mechanisms to ensure accountability. Our",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Amid this rapid progress, our culture is more important than ever. The AI platform shift is reshaping not just our products and business models, but how we work.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "“Medical knowledge has become ambient, embedded in clinical workflows”",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows and Devices, including Windows OEM licensing (Windows Pro and non-Pro licenses sold through the OEM channel) and Devices, comprising Surface and PC accessories.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Changes in inventory levels in the OEM channel.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing changes and promotions, pricing variation that occurs when the mix of devices manufactured shifts from local and regional system builders to large multinational OEMs, and different pricing of Windows versions licensed.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Devices face competition from various computer, tablet, and hardware manufacturers who offer a unique combination of high-quality industrial design and innovative technologies across various price points. Many of these manufacturers are also current or potential partners and customers, including our Windows OEMs.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "HUMAN CAPITAL RESOURCES",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We distribute our products and services through OEMs that pre-install our software on new devices and servers they sell. The largest component of the OEM business is the Windows operating system pre-installed on devices. OEMs also sell devices pre-installed with other Microsoft products and services, including applications such as Office and the capability to subscribe to Microsoft 365 Consumer.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "LICENSING OPTIONS",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Software Assurance (“SA”) conveys rights to new software and upgrades for perpetual licenses released over the contract period. It also provides support, tools, training, and other licensing benefits to help customers deploy and use software efficiently. SA is required to be purchased with certain volume licensing agreements and is an optional purchase with others.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Volume Licensing Programs",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows OEM and Devices revenue increased 3%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows OEM and Devices revenue growth",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel and sales of first-party Devices, including Surface and PC accessories",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows and Devices revenue increased $288 million or 2%. Windows OEM and Devices revenue increased 3% driven by growth in Windows OEM, offset in part by a decline in Devices.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "LIQUIDITY AND CAPITAL RESOURCES",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "If our customers choose to license cloud-based versions of our products and services rather than licensing transaction-based products and services, the associated revenue will shift from being recognized at the time of the transaction to being recognized over the subscription period or upon consumption, as applicable. Refer to Note 12 – Unearned Revenue of the Notes to Financial Statements.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "During fiscal years 2025 and 2024, our Board of Directors declared dividends totaling $24.7 billion and $22.3 billion, respectively. We intend to continue returning capital to shareholders in the form of dividends, subject to declaration by our Board of Directors. Refer to Note 15 – Stockholders’ Equity of the Notes to Financial Statements.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other Planned Uses of Capital",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Common stock and paid-in capital – shares authorized 24,000; outstanding",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Connect our data to your systems with the PitchBook API and Data feed",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how PitchBook is shaping the future of finance",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Venture Capital",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "News, analysis, and data shaping private markets",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Data-driven private capital research from our experts",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Data-driven overview of the trends defining US venture capital",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Definitive research on the forces shaping US private equity",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Definitive research on key trends shaping private equity",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Developments and trends shaping private credit",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "News, analysis, and data shaping the venture capital industry",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Expert analysis of trends defining the venture capital landscape",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Customers",
+    "url": "https://www.ntop.com/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Index • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Featured Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers using nTop",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers using nTop",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping Case Study",
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Scalability is also key. blueflite customers won’t need just one drone—they’ll need a whole fleet.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop enables blueflite to meet tight deadlines when customizing drones for customers.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "Thermal management case study from RICOH and nTop • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the Best",
+    "url": "https://www.ntop.com/request-a-demo/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: DMG MORI Redesigns Robotic End-Effector • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.ntop.com/resources/case-studies/aerojet-rocketdyne-low-cost-quad-thruster/",
+    "pass": 1
+   },
+   {
+    "quote": "case Study",
+    "url": "https://www.ntop.com/resources/case-studies/aerojet-rocketdyne-low-cost-quad-thruster/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例03",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY FOR THE BREAD",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新たに累進配当を導入いたしました",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "280円を下限とする累進配当を導入いたしました",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を導入しております",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 45,000+ founders, operators, and investors.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Dear shareholders, colleagues, customers, and partners:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Across the company, we are accelerating our pace of innovation and adapting to both a new tech stack and a new way of working. We are delivering our current platforms at scale while building the next generation, always striving to create more value for our customers, our partners, and the world.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Financially, it was a year of record performance. Revenue was $281.7 billion, up 15 percent. Operating income grew 17 percent to $128.5 billion. And Azure surpassed $75 billion in revenue for the first time, up 34 percent. These results reflect the growing demand for our platform and the trust customers are placing in us. We take neither for granted.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "is helping customers find the perfect look for any occasion, thanks to a new conversational shopping experience.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "(SFI) and Quality Excellence Initiative (QEI), but we recognize our work here is never done. We must continuously raise the bar for ourselves and our customers.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "is becoming the unified platform for the AI era. It is now our fastest-growing analytics product ever, with 25,000 paid customers. OneLake spans all databases and clouds, including Power BI semantic models, making it the best foundation for building enterprise AI applications.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": ", a platform to design, customize, and run powerful AI apps and agents. Foundry includes access to more than 11,000 models from partners like OpenAI, Cohere, DeepSeek, Meta, Mistral, xAI, and others, ensuring our customers can choose from the best frontier and open models in one place. Already, 80 percent of the Fortune 500 use Foundry for their AI workloads.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "highlighted our work to build and deploy AI responsibly. This includes developing new AI tools and resources to help our customers innovate within evolving regulatory requirements.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1975, we develop and support software, services, devices, and solutions that deliver new value for customers and help people and businesses realize their full potential.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We offer an array of services, including cloud-based solutions that provide customers with software, services, platforms, and content, and we provide solution support and consulting services. We also deliver relevant online advertising to a global audience.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Digital transformation and adoption of AI continues to revolutionize more business workstreams for organizations in every sector across the globe. For enterprises, digital technology empowers employees, optimizes operations, engages customers, and in some cases, changes the very core of products and services.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We prioritize security above all else and we offer our customers integrated AI-driven products addressing security, compliance, identity, management, and privacy across customers’ multi-cloud, application, and device assets.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Build the intelligent cloud and intelligent edge platform to provide a foundation for our customers’ digital workloads including hybrid consistency, developer productivity, data and AI capabilities, and trusted security and compliance.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We believe our server products provide customers with advantages in performance, total costs of ownership, and productivity by delivering superior applications, development tools, compatibility with a broad base of hardware and software applications, security, and manageability.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our More Personal Computing segment consists of products and services that put customers at the center of the experience with our technology. This segment primarily comprises:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows faces competition from various software products and from alternative platforms and devices. We believe Windows competes effectively by giving customers choice, value, flexibility, security, an easy-to-use interface, and compatibility with a broad range of hardware and software applications, including those that enable productivity.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Devices face competition from various computer, tablet, and hardware manufacturers who offer a unique combination of high-quality industrial design and innovative technologies across various price points. Many of these manufacturers are also current or potential partners and customers, including our Windows OEMs.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We also sell commercial and consumer products and services directly to customers, such as cloud services, search, and gaming, through our digital marketplaces and online stores. Additionally, our Microsoft Experience Centers are designed to facilitate deeper engagement with our partners and customers across industries.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Software Assurance (“SA”) conveys rights to new software and upgrades for perpetual licenses released over the contract period. It also provides support, tools, training, and other licensing benefits to help customers deploy and use software efficiently. SA is required to be purchased with certain volume licensing agreements and is an optional purchase with others.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Customer Agreements are simplified purchase agreements presented, accepted, and stored through a digital experience. Microsoft Customer Agreements are non-expiring agreements that are designed to support all customers over time, whether purchasing through a partner or directly from Microsoft.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Online Subscription Agreements are designed for small and medium organizations that want to subscribe to, activate, provision, and maintain cloud services seamlessly and directly via the web. These agreements allow customers to acquire monthly or annual subscriptions for cloud-based services.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Products and Services Agreements are designed for medium and large organizations that want to license cloud services and on-premises software as needed, with no organization-wide commitment, under a single, non-expiring agreement. Organizations purchase perpetual licenses or subscribe to licenses. SA is optional for customers that purchase perpetual licenses.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Microsoft Cloud Solution Provider Program offers customers an easy way to license the cloud services they need in combination with the value-added services offered by their systems integrator, managed services provider, or cloud reseller partner. Partners in this program can easily package their own products and services to directly provision, manage, and support their customer subscriptions.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "SVP, Sales and Customer Success",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "This staged approach made it possible to explore broadly without using the highest analysis fidelity everywhere. It also revealed an important lesson: a coarse mean value can rank a population efficiently, but it cannot fully characterize narrow signature peaks. The final validation therefore mattered just as much as the initial screening.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "This study established the pattern that shaped the rest of my RCS work: generate broadly, reject invalid configurations before expensive analysis, screen the valid population efficiently, and reserve greater fidelity for the best candidates. I then carried that architecture forward into a more complex aircraft model.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "We've learned, and I think a lot is down to using nTop, that we can print the entire drone without an underlying carrying structure. And that's kind of revolutionary.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop’s ability to create reliable, complex geometries efficiently allowed RICOH to develop and evaluate several structures for the camera cover before arriving at an optimal solution. The resulting design met their thermal management requirements and demonstrated the capabilities of RICOH's aluminum binder jetting technology.",
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "pass": 1
+   },
+   {
+    "quote": "連結売上高 − 56,544百万円 59,340百万円 69,540百万円 72,598百万円",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■売上高 ■営業利益 （百万円）",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 営業利益 経常利益",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高構成比",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ セグメ ン ト別売上高には、セグメ ン ト間取引額を含んでおります",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「製粉及び食品事業」 につきましては、 売上高は値上げ期間の小麦粉",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "び袋物製品の配送数量が減少したこ ともあり、 売上高は前年同期比",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "長等により、 売上高は前年同期比10.6%増の110億8千9百万円、 営業利",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Revenue 2024: $17.9M Est.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop has not published its revenue. GetLatka estimates it at about $17.9M a year (June 2024).",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is nTop's revenue?",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates nTop's revenue at about",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "SalesTech",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tiny Team Giant Revenue",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Tools",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "REVENUE, BOOKINGS, AND BOOK-TO-BILL BY SEGMENT",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "REVENUE, BOOKINGS, AND BOOK-TO-BILL BY SEGMENT - PDF",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "REVENUE, BOOKINGS, AND BOOK-TO-BILL BY SEGMENT - EXCEL",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Organic Revenue (Non-GAAP)",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Organic Revenue Growth",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Organic Revenue Growth - PDF",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Organic Revenue Growth - Excel",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Distribution, Sales & Marketing",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unearned Revenue",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Financially, it was a year of record performance. Revenue was $281.7 billion, up 15 percent. Operating income grew 17 percent to $128.5 billion. And Azure surpassed $75 billion in revenue for the first time, up 34 percent. These results reflect the growing demand for our platform and the trust customers are placing in us. We take neither for granted.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Run a full analysis on this sales data set. I want to understand some important insights to help me make decisions about my business. Make it visual",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "More broadly, we continue to expand our reach with consumers. LinkedIn is now home to 1.2 billion members, and we are bringing AI agents into the core workflows of sales, hiring, and learning. And across gaming, we have 500 million monthly active users across platforms and devices.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "In July, after we reported our earnings results—including surpassing $75 billion in annual Azure revenue for the first time—I shared a reflection with all employees. Fifteen years ago, when we set out on our cloud journey, we had a bold vision, and we persisted through all the ups and downs.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We offer an array of services, including cloud-based solutions that provide customers with software, services, platforms, and content, and we provide solution support and consulting services. We also deliver relevant online advertising to a global audience.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our future growth depends on our ability to transcend current product category definitions, business models, and sales motions.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our Search and news advertising business competes with search engines, and a wide array of websites, social platforms, and portals that provide content and online offerings to end users.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "DISTRIBUTION, SALES, AND MARKETING",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Cloud revenue increased 23% to $168.9 billion.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 Commercial products and cloud services revenue increased 14% driven by Microsoft 365 Commercial cloud revenue growth of 15%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn revenue increased 9%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 34%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Windows OEM and Devices revenue increased 3%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Xbox content and services revenue increased 16%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Search and news advertising revenue excluding traffic acquisition costs increased 20%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our revenue fluctuates quarterly and is generally higher in the fourth quarter of our fiscal year. Fourth quarter revenue is driven by a higher volume of multi-year contracts executed during the period.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Cloud revenue and revenue growth",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of LinkedIn, and Dynamics 365",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 Commercial cloud revenue growth",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Secondary market analysis of GP-led transactions and LP stake sales",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Offices closed for the winter holiday",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Search and news advertising revenue excluding traffic acquisition costs increased 20%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from search and news advertising excluding traffic acquisition costs (“TAC”) paid to Bing Ads network publishers and news partners",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating expenses increased $3.8 billion or 6% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gaming revenue increased $2.0 billion or 9% driven by growth in Xbox content and services, offset in part by a decline in Xbox hardware. Xbox content and services revenue increased 16% driven by the impact of the Activision Blizzard acquisition and Xbox Game Pass. Xbox hardware revenue decreased 25% driven by lower volume of consoles sold.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Search and news advertising revenue increased $1.6 billion or 13%. Search and news advertising revenue excluding traffic acquisition costs increased 20% driven by higher search volume and higher revenue per search.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating expenses increased $1.3 billion or 9% driven by Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Research and development expenses increased $3.0 billion or 10% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and marketing expenses increased $1.2 billion or 5% driven by investments in commercial sales and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "General and administrative expenses decreased $386 million or 5% driven by Gaming, including the impact of the Activision Blizzard acquisition.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition of companies, net of cash acquired and divestitures, and purchases of intangible and other assets",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The allocation of the purchase price to the assets acquired and liabilities assumed was completed as of September 30, 2024. The major classes of assets and liabilities to which we have allocated the purchase price were as follows:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Following are the details of the purchase price allocated to the intangible assets acquired:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fair value of intangible assets acquired",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Following are the supplemental consolidated financial results of Microsoft Corporation on an unaudited pro forma basis, as if the acquisition had been consummated on July 1, 2022:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The measurement periods for the valuation of assets acquired and liabilities assumed end as soon as information on the facts and circumstances that existed as of the acquisition dates becomes available, but do not exceed 12 months. Adjustments in purchase price allocations may require a change in the amounts allocated to goodwill during the periods in which the adjustments are determined.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The components of intangible assets acquired during the periods presented were as follows:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The valuation allowance disclosed in the table above relates to the foreign net operating loss carryforwards, federal capital loss carryforwards, and other net deferred tax assets that may not be realized.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The latest data for closed-end fund returns across strategies",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Liquidation",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "nTop’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "To view nTop’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Cloudfluid, a specialist in computational fluid dynamics (CFD) software, has been acquired by nTop, in a move it describes as revolutionising how engineers design high-performance products.",
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Recently Acquired E-Commerce Companies with More Than $10M in Revenue",
+    "url": "https://about.crunchbase.com/blog/competitive-analysis-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Build a List of Acquired Companies With Specific Revenue",
+    "url": "https://about.crunchbase.com/blog/competitive-analysis-tools",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Running the highest-fidelity analysis on every concept would have been inefficient. Instead, I reused the staged method established in the tube-and-wing study.",
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2018, blueflite designs and manufactures advanced drone systems and software that provide an integrated approach to faster, more cost-effective cargo delivery.",
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "pass": 1
+   },
+   {
+    "quote": "設立 1914年3月25日",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㈱として設立",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Nitto-Fuji International Vietnam Co., Ltd.を設立",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（Thailand） Co., Ltd.を設立",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日東富士製粉株式会社は本年、 創業110周年を迎えたの",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業110周年を迎えたのを機に、 私たち日東富士製粉は社会における",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お陰様をもちまして当社は2024年3月に創立110周年",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現経営ト ップとして当社創業",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業111年目に突入した日東富士製粉",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nTop (formerly nTopology) was founded in 2015 with the belief that engineers’ ability to innovate shouldn’t be limited by their design software.",
+    "url": "https://www.youtube.com/c/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "nTopは、エンジニアや設計者がどんなに複雑な形状でも作成し、高性能な製品要件を満たすことができるようにするために、2015年に設立されました",
+    "url": "https://www.youtube.com/c/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Since 1998",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop is a 3D Design Software company based in New York, founded in 2015.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1975, we develop and support software, services, devices, and solutions that deliver new value for customers and help people and businesses realize their full potential.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of June 30, 2025, based on criteria established in",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have served as the Company’s auditor since 1983.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have audited the internal control over financial reporting of Microsoft Corporation and subsidiaries (the “Company”) as of June 30, 2025, based on criteria established in",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of June 30, 2025, based on criteria established in",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "nTop was founded in 2015.",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2013 by Bradley Rothenberg, nTopology has gained a reputation for developing advanced software that looks to solve some of the most challenging, geometric-led design challenges we face.",
+    "url": "https://develop3d.com/reviews/review-ntop-platform-2-4/",
+    "pass": 3
+   },
+   {
+    "quote": "Hostingsolutions.it was founded in 1999 as a registered trade-mark of Genesys Informatica S.r.l., a",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "company operating since 1983 in the ICT. Today hostingsolutions.it is one of the major Italian Hosting",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ・ニューヨークに本社を置く2015年創業のエンジニアリングソフトウェア企業で、2019年に「nTopology」をリリース",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "の新中計では最終年度の業績目標として連結純利益45",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中に基礎収益 （ ［営業利益−配合飼料用副産物損益］ ×",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結純利益 4,000百万円 3,536百万円 3,714百万円 3,963百万円 4,238百万円",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 基礎収益の定義： ［営業利益-配合飼料用副産物損益］× （1-実効税率） +事業投資損益 （持分利益）",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結純利益 40億円 42.3億円 45億円 +2.7億円",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） ■基礎収益 ■その他 ●連結純利益",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■売上高 ■営業利益 （百万円）",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 営業利益 経常利益",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益 自己資本比率 ・ 純資産",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "千4百万円となりましたが、 営業利益は人件費等営業費用の増加に伴",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.4%減の20億2百万円、 営業利益も前年同期比11.6%減の1億3千",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Education and No-Profit",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidated Statements of Operations (GAAP) and Adjusted EBITDA (Non-GAAP)",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA and Adjusted EBITDA Margin",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidated Statement of Operations & Adjusted EBITDA - PDF",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidated Statement of Operations & Adjusted EBITDA - Excel",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Free Cash Flow and Free Cash Flow as a Percentage of Net Income.",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Gross Profit and Adjusted Gross Profit Margin (Non-GAAP)",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Gross Profit & Adjusted Gross Profit Margin (Non-GAAP) - PDF",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Gross Profit & Adjusted Gross Profit Margin (Non-GAAP) - Excel",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Operating Income and Adjusted Operating Margin",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Net Income",
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Financially, it was a year of record performance. Revenue was $281.7 billion, up 15 percent. Operating income grew 17 percent to $128.5 billion. And Azure surpassed $75 billion in revenue for the first time, up 34 percent. These results reflect the growing demand for our platform and the trust customers are placing in us. We take neither for granted.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "But it is not some far off vision—we are already seeing what’s possible when AI reaches the frontlines of human potential, helping small businesses become more productive, multinationals more competitive, nonprofits more effective, governments more efficient, and improving healthcare and education outcomes.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our employees also continue to find ways to bring their purpose and passion to the causes and communities they care deeply about. This year, they volunteered over 1.2 million hours and gave $263 million (including company match) to 37,000 nonprofit organizations in 110 countries.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating income",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net income",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating income increased $19.1 billion or 17% with growth across each of our segments.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating Income",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating income increased $10.1 billion or 17%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating income increased $6.8 billion or 18%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating income increased $2.2 billion or 18%.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net losses on derivatives",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adjustments to reconcile net income to net cash from operations:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Net income available for common shareholders (A)",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Changes in Fair Value Recorded in Net Income",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Segment revenue, cost of revenue, operating expenses, and operating income were as follows during the periods presented:",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Assets are not allocated to segments for internal reporting presentations. A portion of amortization and depreciation is included with various other costs in an overhead allocation to each segment. It is impracticable for us to separately identify the amount of amortization and depreciation by segment that is included in the measure of segment profit or loss.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Increased Profit Margins",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": By cutting out third-party branding or licensing fees, you can retain more of the revenue generated from each product sale, boosting your profitability.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "(or profit and loss statement) shows your revenues and expenses over a period, revealing your profitability. The",
+    "url": "https://www.finoptimal.com/resources/financial-reporting-tools-accountants",
+    "pass": 3
+   },
+   {
+    "quote": "uses key ratios to assess profitability, liquidity, and solvency. Funds flow analysis examines the movement of funds within a business. Cash flow analysis clarifies how your business generates and uses cash. These tools, as noted by",
+    "url": "https://www.finoptimal.com/resources/financial-reporting-tools-accountants",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本マスター ト ラス ト信託銀行株式会社 （信託口）373 4.1",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本カス トディ銀行 （信託口）132 1.5",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食生活の根幹と もいえる小麦粉を日々供給しています",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食を支える企業と しての誇りを胸に、 今後も成長していきます",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食を支える04",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SUPPORT JAPANESE FOOD SUPPLY",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は幾多の経済恐慌を乗り越え、 日本",
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "grandmother in Japan,",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors and Resellers",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign currency exposures daily to maximize the economic effectiveness of our foreign currency positions, including hedges. Principal currency exposures include the Euro, Japanese yen, British pound, Canadian dollar, and Australian dollar.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": ": Once established, move into retail or work with distributors to expand reach.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Mountain View, Andover, Washington D.C. (USA), Tokyo (Japan), Seoul (South Korea) and São Paulo",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Distributors",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": ". (Japan)",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "ご導入後すぐにご活用いただけるよう、日本語での有償トレーニングをご用意しております",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "操作方法がわからない、やりたい事がうまくできない、といったお困りごとについても当社のnTopologyエキスパートが日本語でご対応いたします",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のnTopologyエキスパートが、次々と搭載される新機能について、当社Webサイト上で日本語にてご説明しております",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About - nTop — About - nTop nTop https://www.ntop.com > about",
+    "url": "https://www.ntop.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - YouTube — nTop - YouTube YouTube https://www.youtube.com > ntopology",
+    "url": "https://www.youtube.com/c/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "The Company - Ntop — The Company - Ntop ntop.org https://www.ntop.org > the-company",
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - 2026 Company Profile, Team, Funding & Competitors — nTop - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "pass": 3
+   },
+   {
+    "quote": "nTop 2026 Company Profile: Valuation, Funding & Investors — nTop 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Secures $65M in Series D Funding — nTop Secures $65M in Series D Funding nTop https://www.ntop.com > blog > ntopo...",
+    "url": "https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Revenue 2024: $17.9M Est. - GetLatka — nTop Revenue 2024: $17.9M Est. - GetLatka GetLatka https://getlatka.com > companies > ntop",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - Overview, News & Similar companies | ZoomInfo.com — nTop - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > ntopolo...",
+    "url": "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - 2026 Company Profile , Team, Funding & Competitors — nTop - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "pass": 3
+   },
+   {
+    "quote": "Ntop - Crunchbase Company Profile & Funding — Ntop - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > ntop-1...",
+    "url": "https://www.crunchbase.com/organization/ntop-1d38",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology Raises $65M for its Next Generation Engineering ... — nTopology Raises $65M for its Next Generation Engineering ... AlleyWatch https://www.alleywatch.com > 2021/11",
+    "url": "https://www.alleywatch.com/2021/11/ntopology-engineering-design-software-advanced-manufacturing-bradley-rothenberg/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Acquires cloudfluid to Advance the Design‑to ... — nTop Acquires cloudfluid to Advance the Design‑to ... nTop https://www.ntop.com > blog > ntop-...",
+    "url": "https://www.ntop.com/resources/blog/ntop-acquires-cloudfluid-to-advance-computational-design/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop acquires Cloudfluid GPU-native CFD software - develop3d — nTop acquires Cloudfluid GPU-native CFD software - develop3d develop3d https://develop3d.com > cad > ntop-a...",
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Closed -loop AI design pipeline in production with nTop and ... — Closed -loop AI design pipeline in production with nTop and ... LinkedIn https://www.linkedin.com > posts > ntopology_tomorrow-...",
+    "url": "https://www.linkedin.com/posts/ntopology_tomorrow-ntop-and-physicsx-show-what-a-closed-loop-activity-7475628325961654273--Taa",
+    "pass": 3
+   },
+   {
+    "quote": "How to label parts - nTop Support — How to label parts - nTop Support nTop Support https://support.ntop.com > articles > 1...",
+    "url": "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "pass": 3
+   },
+   {
+    "quote": "nTop 4.0 UI Changes — nTop 4.0 UI Changes nTop Support https://support.ntop.com > articles > 1...",
+    "url": "https://support.ntop.com/hc/en-us/articles/16113964927635-nTop-4-0-UI-Changes",
+    "pass": 3
+   },
+   {
+    "quote": "nTop launches nTop 5 with new integration partners — nTop launches nTop 5 with new integration partners VoxelMatters https://www.voxelmatters.com > ntop...",
+    "url": "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Platform 2.4 Review - DEVELOP3D — nTop Platform 2.4 Review - DEVELOP3D develop3d https://develop3d.com > reviews > re...",
+    "url": "https://develop3d.com/reviews/review-ntop-platform-2-4/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Platform — vendor profile | Atlas — nTop Platform — vendor profile | Atlas Verdantix https://atlas.verdantix.com > vendors",
+    "url": "https://atlas.verdantix.com/vendors/ntop-platform",
+    "pass": 3
+   },
+   {
+    "quote": "What is your software licensing model? - Ntop — What is your software licensing model? - Ntop ntop.org https://www.ntop.org > faq > what-is-...",
+    "url": "https://www.ntop.org/faq/what-is-your-software-licensing-model/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Partners — nTop Partners nTop https://www.ntop.com > partners",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners – ntop — Partners – ntop ntop.org https://www.ntop.org > about-us > pa...",
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquiring an nTop license : r/Ntopology - Reddit — Acquiring an nTop license : r/Ntopology - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Ntopology/comments/1ft3zew/acquiring_an_ntop_license/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers - Ntop — Resellers - Ntop ntop.org https://www.ntop.org > resellers",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop /nTopology – 3Dプリンタの可能性を限界まで高める ... — nTop /nTopology – 3Dプリンタの可能性を限界まで高める ... ntop.jp https://ntop.jp",
+    "url": "https://ntop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "엔탑(N.TOP) (@official_ntop) / X — 엔탑(N.TOP) (@official_ntop) / X X https://x.com > official_ntop",
+    "url": "https://x.com/official_ntop",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター向けのソフトウェア / nTop — 3Dプリンター向けのソフトウェア / nTop 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > ntopology",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "ntopng Multilanguage Support: EN, IT, DE and JP – ntop — ntopng Multilanguage Support: EN, IT, DE and JP – ntop ntop.org https://www.ntop.org > Announce",
+    "url": "https://www.ntop.org/ntopng-multilanguage-support-en-it-de-and-jp/",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "“Access to millions of agents powered by orders of magnitude larger models”",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft is a technology company committed to making digital technology and artificial intelligence (“AI”) available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. We create platforms and tools, powered by AI, that deliver innovative solutions that meet the evolving needs of our customers.",
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build Your Own Brand Products: A 7-Step Guide",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Manufacturing Services to Launch and Scale Premium Product Lines",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Supplement Manufacturing for Fast Growth Nutrition Brands",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Skin Care Manufacturing with Custom Formulation and Fast Turnaround",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Hair Product Manufacturing for Salon Grade and Retail Brands",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Beauty Product Manufacturing for Modern DTC and Retail Brands",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Cosmeceutical Manufacturing for Clinical Grade Skincare Brands",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Gummy Manufacturing with High Demand Nutraceutical Formulations",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "35+ Private Label ProductsYou Can Sell in2026",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Clean at Sephora: What It Means and How Your Brand Can Qualify",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build Your Own Brand Products: A 7-Step Guide to Turn Ideas into Market-Ready Products",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "The Benefits of Starting Your Own Brand: Why Now Is the Right Time",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Step-by-Step Guide to Build Your Own Brand Products",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate Your Brand with Expert Manufacturing Solutions",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Building your own brand doesn’t require owning a factory or managing every aspect of production. Many brand leaders believe they must design, manufacture, and oversee every detail themselves, but that’s not the case.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "In reality, the right manufacturing partner can handle the complexities of product development, freeing up time and resources to focus on growing your brand. Whether it's skincare, dietary supplements, or any other product, turning your idea into a market-ready brand is all about strategic partnerships and a clear, actionable plan.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": Your brand’s foundation starts with clearly defining its purpose, identifying your niche in the market, and understanding your target audience.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": Determine whether to develop custom formulations for uniqueness or go with private label manufacturing for faster, more cost-efficient production.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": Establish a strong brand identity by defining your core values, creating a unique visual identity, and positioning your brand in the market.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": Focus on obtaining critical certifications like cGMP, organic certifications, and adhering to safety standards to protect your brand, maintain consumer trust, and remain compliant in the personal care and supplement markets.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Starting your own brand offers a unique opportunity to control your product's story and shape your market presence. For those already in the business, outsourcing manufacturing can relieve the burden of day-to-day operations. Here’s why building your own brand and partnering with the right manufacturing team is crucial for growth:",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "Full Control Over Your Brand",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": Owning your brand allows you to shape the product, messaging, and customer experience. It gives you the power to make strategic decisions that align with your vision.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": Outsourcing manufacturing to a trusted partner allows you to offload the complexities like R&D, safety, quality testing, innovation, and more, so you can focus on growing your brand.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": ": As your brand grows, outsourcing manufacturing allows you to scale quickly without the overhead of owning a factory, so that you can keep up with demand without compromising quality.",
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "pass": 3
+   },
+   {
+    "quote": "AI and machine learning are transforming how we analyze data and make predictions. These technologies can sift through massive datasets to identify patterns and anomalies, offering insights that would be impossible to uncover manually. Think fraud detection, risk assessment, and even predictive forecasting—all powered by AI. This shift towards AI-driven insights is highlighted in",
+    "url": "https://www.finoptimal.com/resources/financial-reporting-tools-accountants",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ntop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-engines-orchestrate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-interns-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/replacing-spacecraft-supermaterial-with-high-performance-lattice-OG/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/bradley-rothenberg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/joel-bejar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/valerie-chianuri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/kevin-chlan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/team/jason-gordon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/contact-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/blog/ntop-coreweave-nasa-2030-grand-challenge-in-cfd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/request-a-demo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/cold-plate-automotive-power-electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/cobra-aero-multiphysics-simulation-drone-engine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/aerojet-rocketdyne-low-cost-quad-thruster/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/411152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckgroup.com.tw/storage/app/uploads/public/694/4ca/dc7/6944cadc7b1cd997129434.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://investor.iconplc.com/stock-information/ownership-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iese.edu/insight/articles/common-shareholders-rival-companies-threat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/10/owners-of-the-world-s-listed-companies_6f8bda93/ed7ca2f3-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/ValueInvesting/comments/t79pkv/what_does_it_mean_when_a_business_refers_to_the/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/c/ntopology",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/ntop.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.intapp.com/financials/quarterly-results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000012/a2025annualreport.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/ntop-1d38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://support.ntop.com/hc/en-us/articles/16113964927635-nTop-4-0-UI-Changes",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/reviews/review-ntop-platform-2-4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usadrop.com/best-private-label-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.numerator.com/private-label-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=opwm3VkZtNc&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ntop.org/faq/what-is-your-software-licensing-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/partners-and-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=jPzwiuOQIwQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otb.net/en/financial-statement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workday.com/en-us/perspectives/finance/top-financial-reports-small-businesses.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.finoptimal.com/resources/financial-reporting-tools-accountants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ntop.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/official_ntop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/p/DQG3zpjAaOu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/ntop-1d38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://about.crunchbase.com/blog/competitive-analysis-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dealroom-co",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "nTop 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://shikiho.toyokeizai.net/news/0/411152",
+    "https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.ckgroup.com.tw/storage/app/uploads/public/694/4ca/dc7/6944cadc7b1cd997129434.pdf",
+    "https://www.nttdata-xam.com/",
+    "https://id.ndl.go.jp/bib/6429152",
+    "https://www.nid.co.jp/media/2025/02/56kabutsuu.pdf",
+    "https://www.ags.co.jp/ir/library/securities/report_20180213_3q.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YK99.pdf",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "nTop shareholders ownership investors parent company",
+   "results": [
+    "https://investor.iconplc.com/stock-information/ownership-profile/",
+    "https://www.iese.edu/insight/articles/common-shareholders-rival-companies-threat/",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/10/owners-of-the-world-s-listed-companies_6f8bda93/ed7ca2f3-en.pdf",
+    "https://www.reddit.com/r/ValueInvesting/comments/t79pkv/what_does_it_mean_when_a_business_refers_to_the/",
+    "https://www.mdpi.com/1911-8074/19/5/304",
+    "https://investor.hasbro.com/stock-information/ownership-profile",
+    "https://www.investopedia.com/terms/s/shareholder.asp",
+    "https://video.training.refinitiv.com/elearning_video/Documents/Eikon_QRC/Eikon%20Quick%20Reference%20Card%20-%20Ownership%20Summary.pdf",
+    "https://www.cambridge.org/core/journals/business-and-politics/article/hidden-power-of-the-big-three-passive-index-funds-reconcentration-of-corporate-ownership-and-new-financial-risk/30AD689509AAD62F5B677E916C28C4B6",
+    "https://pitchbook.com/profiles/company/153371-89"
+   ]
+  },
+  {
+   "query": "nTop 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.ntop.com/about/",
+    "https://www.youtube.com/c/ntopology",
+    "https://www.ntop.org/about-us/the-company/",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://pitchbook.com/profiles/company/153371-89",
+    "https://learn.ntop.com/230/",
+    "https://www.youtube.com/watch?v=fxXv67A3n8M",
+    "https://builtin.com/company/ntop/faq/stability-growth",
+    "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "nTop revenue profitable",
+   "results": [
+    "https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/",
+    "https://getlatka.com/companies/ntop.com",
+    "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://www.ntop.org/about-us/the-company/",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://equityzen.com/company/ntop1d38/",
+    "https://pitchbook.com/profiles/company/153371-89",
+    "https://www.data-mania.com/blog/most-profitable-revenue-models-startups/",
+    "https://techlist.ai/ntop.com"
+   ]
+  },
+  {
+   "query": "nTop EBITDA net income annual report",
+   "results": [
+    "https://investors.novanta.com/financials/financial-tables/default.aspx",
+    "https://investors.intapp.com/financials/quarterly-results/default.aspx",
+    "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "https://www.sec.gov/Archives/edgar/data/40987/000004098726000012/a2025annualreport.pdf",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://us.pg.com/annualreport2026/",
+    "https://www.integer.net/news-and-events/news-details/2025/Integer-Holdings-Corporation-Reports-Results-for-Fourth-Quarter-and-Full-Year-2024/default.aspx",
+    "https://www.kamada.com/news/kamada-reports-record-top-and-bottom-line-2025-financial-results-and-affirms-2026-guidance-representing-continued-double-digit-organic-profitable-growth/",
+    "https://ir.enterpriseproducts.com/financials",
+    "https://investors.netapp.com/financials/annual-reports/default.aspx"
+   ]
+  },
+  {
+   "query": "nTop funding raised",
+   "results": [
+    "https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/",
+    "https://pitchbook.com/profiles/company/153371-89",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://www.alleywatch.com/2021/11/ntopology-engineering-design-software-advanced-manufacturing-bradley-rothenberg/",
+    "https://www.insightpartners.com/ideas/ntopology-announces-40m-series-c-funding-led-by-insight-partners/",
+    "https://multiples.vc/private-comps/ntopology",
+    "https://startupintros.com/orgs/ntopology",
+    "https://www.linkedin.com/posts/ntopology_ntopology-secures-65m-in-series-d-funding-activity-6867099072243765248-dXV7",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU/funding-and-investors"
+   ]
+  },
+  {
+   "query": "nTop acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.ntop.com/resources/blog/ntop-acquires-cloudfluid-to-advance-computational-design/",
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://develop3d.com/cad/ntop-acquires-cloudfluid-gpu-native-cfd-software/",
+    "https://www.ntop.org/about-us/the-company/",
+    "https://www.linkedin.com/posts/ntopology_tomorrow-ntop-and-physicsx-show-what-a-closed-loop-activity-7475628325961654273--Taa",
+    "https://builtin.com/company/ntop/faq/stability-growth",
+    "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://www.youtube.com/watch?v=YOzMuYuWnR8",
+    "https://support.ntop.com/hc/en-us/articles/4405144691603-Can-I-turn-a-closed-curve-into-a-profile"
+   ]
+  },
+  {
+   "query": "nTop white label",
+   "results": [
+    "https://support.ntop.com/hc/en-us/articles/18683788336531-How-to-label-parts",
+    "https://support.ntop.com/hc/en-us/articles/16113964927635-nTop-4-0-UI-Changes",
+    "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "https://develop3d.com/reviews/review-ntop-platform-2-4/",
+    "https://atlas.verdantix.com/vendors/ntop-platform",
+    "https://www.voxelmatters.directory/company/ntopology/",
+    "https://www.youtube.com/watch?v=P2j7Pq8El8I",
+    "https://www.thefabricator.com/additivereport/product/additive/ntop-platform-20-from-ntopology-delivers-computational-modeling",
+    "https://www.ntop.com/",
+    "https://learn.ntop.com/courses/recorded-training-serialization/"
+   ]
+  },
+  {
+   "query": "nTop rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://usadrop.com/best-private-label-manufacturers/",
+    "https://www.numerator.com/private-label-trends/",
+    "https://www.respectmanufacturing.com/feeds/blog/make-brand-products",
+    "https://www.youtube.com/watch?v=opwm3VkZtNc&vl=ja",
+    "https://blankabrand.com/blogs/beyond-the-brand-beauty-blog/behind-the-scenes-how-private-label-beauty-and-wellness-products-work?srsltid=AYCX9vJUPQHVDSGMUpdnZjhdr6BQOFp7-iHJLes4oTZcoe3uP6oIOAtq",
+    "https://auroracos.com/10-top-private-label-skincare-manufacturers-in-the-us-europe-2026-version/",
+    "https://arisecosmetic.com/top-mistakes-when-starting-out-with-private-labelling/",
+    "https://www.sttark.com/blog/top-private-label-cosmetic-companies?srsltid=AYCX9vKnz57CChmucVufAddOwK2OYj6P4Vifb3m_3AbN3586hB7u1rkG",
+    "https://www.linkedin.com/top-content/marketing/brand-growth-and-development/private-label-strategies-for-brand-growth/",
+    "https://newtropin.com/services/private-labeling"
+   ]
+  },
+  {
+   "query": "nTop OEM SDK licensing partners",
+   "results": [
+    "https://www.ntop.org/faq/what-is-your-software-licensing-model/",
+    "https://www.ntop.com/partners/",
+    "https://www.voxelmatters.com/ntop-launches-ntop-5-with-new-integration-partners/",
+    "https://www.ntop.org/about-us/partners-and-resellers/",
+    "https://www.reddit.com/r/Ntopology/comments/1ft3zew/acquiring_an_ntop_license/",
+    "https://www.youtube.com/watch?v=5QNcaujXbQg",
+    "https://www.imeche.org/news/news-article/webinar-create-transformative-parts-with-an-edu-ntop-license-for-your-team",
+    "https://www.insightpartners.com/ideas/behind-the-investment-ntopology-engineering-software-designed-for-advanced-manufacturing/",
+    "https://www.linkedin.com/posts/ntopology_today-were-introducing-ntop-engines-a-activity-7514076064952786944-ojmY",
+    "https://support.ntop.com/hc/en-us/articles/6022955299091-nTop-Licensing-Options"
+   ]
+  },
+  {
+   "query": "nTop reseller partner program",
+   "results": [
+    "https://www.ntop.org/about-us/resellers/",
+    "https://www.ntop.com/partners/",
+    "https://www.ntop.org/about-us/partners-and-resellers/",
+    "https://www.youtube.com/watch?v=jPzwiuOQIwQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.n-able.com/partnerships/reseller-program",
+    "https://www.reddit.com/r/PureWhiteLabel/comments/1lo63jq/top_software_reseller_programs_for_2025_which_one/",
+    "https://www.cloudeagle.ai/blogs/software-reseller-programs",
+    "https://www.siptrunk.com/blog/saas-reseller-programs-compared/",
+    "https://www.ntop.org/faq/what-is-the-procedure-for-becoming-resellers/"
+   ]
+  },
+  {
+   "query": "nTop Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "https://www.otb.net/en/financial-statement",
+    "https://www.workday.com/en-us/perspectives/finance/top-financial-reports-small-businesses.html",
+    "https://www.finoptimal.com/resources/financial-reporting-tools-accountants",
+    "https://totalenergies.com/investors/publications-and-regulated-information/regulated-information/annual-financial-reports",
+    "https://conseroglobal.com/resources/get-good-financial-reporting/",
+    "https://www.nitto.com/us/en/ir/library/result/",
+    "https://global.canon/en/ir/library/annual.html",
+    "https://www.toare.co.jp/english/keiei/settlement.html",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "nTop Japan",
+   "results": [
+    "https://ntop.jp/",
+    "https://x.com/official_ntop",
+    "https://www.instagram.com/p/DQG3zpjAaOu/",
+    "https://www.nttdata-xam.com/ntopology/",
+    "https://www.ntop.org/ntopng-multilanguage-support-en-it-de-and-jp/",
+    "https://mau.run/ntop_releaseevent_jp/",
+    "https://learn.ntop.com/courses/101-ntop%E3%81%AE%E3%82%B3%E3%82%A2%E6%A9%9F%E8%83%BD%E3%81%A8%E6%93%8D%E4%BD%9C/",
+    "https://www.t-sol.co.jp/product/ntopology/",
+    "https://www.instagram.com/p/DV8PeHygW5F/",
+    "https://ja.wikipedia.org/wiki/NTT_JAPAN_RUGBY_LEAGUE_ONE"
+   ]
+  },
+  {
+   "query": "nTop employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://about.crunchbase.com/blog/competitive-analysis-tools",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://getlatka.com/companies/dealroom",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://www.crunchbase.com/",
+    "https://dealroom.co/companies/ntopology/",
+    "https://www.tax.nd.gov/home",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）"
+ }
+}

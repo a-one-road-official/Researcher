@@ -1,0 +1,2571 @@
+{
+ "name": "Tech Soft 3D",
+ "aliases": [
+  "TechSoft3D",
+  "HOOPS"
+ ],
+ "context": "wl-C 3D CAD（組込み用CADエンジン）",
+ "researched_at": "2026-11-03T11:16:16.762257+00:00",
+ "official_url": "https://www.techsoft3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "OEM・組込み": [
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Developer Toolkits",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our SDKs offer unparalleled momentum and reliability to your next engineering application.",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore SDKs",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "development toolkits",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", including our HOOPS SDKs, equip engineering applications with ready-made modeling, visualization, simulation, and data-exchange capabilities, helping you reach the market faster and with lower risk. Our",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "“Integrated Product” means an Integrator Product with which the TS3D Software is embedded or combined.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "“Integrator Product” means each software program developed or licensed by Integrator that is set forth and described in Exhibit A to the Technology Partnership Agreement, including any related user documentation, and any release, version or enhancement thereto, which will be combined with the TS3D Software or in which the TS3D Software will be embedded, as permitted under this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Licensee is granted a nonexclusive license to use the Integrated Product for a period set forth in the License Agreement with a prohibition against transferring or further sublicensing of the Integrated Products to any third party;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "12.10 Government Licensing.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "”) between Tech Soft 3D and Customer (as defined in the Agreement). Capitalized terms used in this Addendum A and not otherwise defined below shall have the meanings given to such terms in the Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "”) between Tech Soft 3D and Customer (as defined in the Agreement). Capitalized terms used in this Addendum B and not otherwise defined below shall have the meanings given to such terms in the Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/legal/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/legal/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/legal/security/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/legal/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/legal/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/legal/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/legal/credits/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/legal/credits/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/legal/credits/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM | Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKs for Developers",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast-track Development with the AutoCAD OEM Platform",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Build powerful CAD applications and grow your business with AutoCAD OEM. Start with the world’s most trusted CAD platform, customize it with your unique features and branding, and bring your product to market faster.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Autocad Oem",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk AutoCAD OEM",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "AutoCAD OEM is the white label version of Autodesk AutoCAD. This proven CAD platform enables software developers to quickly build CAD functionality into their next development project. Based on the incredibly successful and widely used AutoCAD engine, AutoCAD OEM contains a comprehensive set of tools to quickly get your customized application to market.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of unique CAD applications have been successfully built and marketed with AutoCAD OEM.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Benefits",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a customized look-and-feel through one-of-a-kind images, splash screens, icons, drop-down menus, licensing, naming, and branding. Your product may be built on AutoCAD OEM, but the customer will experience an application uniquely yours.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a technical overview and explanation of the AutoCAD OEM development platform for software developers. See the toolkit components and workflow used to create your unique CAD application easily.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Development Toolkit",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "2 wizards that can be used to configure and customize your OEM application",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Specific OEM documentation",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Support for Object ARX with C++, .NET, ActiveX, VBA, AutoLISP and Java Script APIs",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "AutoCAD OEM Platform",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Use a no-license-required version of AutoCAD OEM for debugging and quick testing",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Make Wizard",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Installer Wizard",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "What platforms can I target with AutoCAD OEM?",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "AutoCAD OEM is Windows only (x64), and is not available on additional platforms.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I load my plug-in into OEM?",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, as a developer, you can integrate your custom functionality (plug-ins) with the standalone end-user OEM product. However, third-party plug-ins cannot be loaded at run-time.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "What languages does AutoCAD OEM support?",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Distributor” means a third party to whom Integrator grants the right to demonstrate, market, distribute, sublicense and support the Integrated Products.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "“Subdistributors” means third parties to whom Distributors grant the right to demonstrate, market, distribute, sublicense and support the Integrated Products.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "2.2 Appointment of Distributors.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator may sublicense and provide maintenance for an unlimited number of licensed copies of the TS3D Software in the Integrated Products, to Licensees, Distributors and Subdistributors in accordance with the terms of this Agreement;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "3.2 License Grant (Distributors/Subdistributors).",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "any unauthorized use, reproduction, or distribution of the TS3D Product by Integrator, Distributors, Subdistributors, or the agents of any of them,",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "the breach of any of the provisions of this Agreement by Integrator or its Distributors or Subdistributors; and",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "the negligent act or omission or breach of Integrator or its Distributors or Subdistributors of any obligations under this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall cause its Distributors and Subdistributors to comply with the provisions of this Section.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Immediately after complying with the terms of this Section 10.3, Integrator shall deliver to TS3D sworn written confirmation that Integrator and its Distributors and Subdistributors have complied with such requirements.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Acceptance of Terms and Conditions. Customer acknowledges and agrees to abide by the terms and conditions applicable to all Products and Services of Tech Soft 3D, including but not limited to, as applicable, all terms and conditions applicable to any Customers who are also resellers, distributors, sublicensees or users of other Tech Soft 3D Products and services.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/credits/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/developers/resources/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/developers/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/developers/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/enterprise/resources/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/enterprise/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/enterprise/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Resellers | Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "Find Resellers",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D partners with a global network of accredited resellers to help support our international market. Below you will find a list of verified Tech Soft 3D channel partners around the world.",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "Showing 46 of 46 resellers",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "FAQs about Tech Soft 3D Resellers",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I become a Tech Soft 3D Reseller?",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "What if there isn’t a reseller in my country?",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "When there is no local reseller, our team will be pleased to help you directly. Please send an email to",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Reseller",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy-fr/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/legal/international-privacy-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/case-studies/striker-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "ETAP’s software simplifies electrical design for customers tackling a wide variety of projects, including new and existing residential buildings, commercial facilities, airports, cruise ships, tunnels, street lighting, and other aspects of infrastructure.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/case-studies/tenado/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Launches Integration Partner Program",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about Tech Soft's Partner Program",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "When you get to know Tech Soft 3D, you’ll find a team of seriously talented industry veterans who have retained the energy, drive and dynamism of a start-up. In the years since our company was founded in 1996, we have been singularly focused on helping software development teams succeed by leveraging our technology and expertise. We’re still invigorated by that same mission today.",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "is an Australian family-owned business that has created software for the scaffolding industry since 1989. They support nearly every aspect of the market, from design and quotations to rental management and invoicing. Scaffolding Software offers a trio of core software tools (",
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D is the leading provider of engineering software development toolkits and industrial applications for CAD & CAE data conversion, visualization, and simulation. Established in 1996 and headquartered in Bend, Oregon, Tech Soft 3D has additional offices in the USA, France, England, Japan, Germany and Norway.",
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D was founded in 1996.",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D is the leading global provider of software development kits (SDKs). The company provides SDKs for developers and engineers who need to visualize products in various domains and helps them deliver successful applications. Established in 1996 and headquartered in Bend, Oregon, Tech Soft 3D also has offices in California, France, Norway, England, and Japan.",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Our commitment to help others rise to the top started the day our organization was born. As a four-person, self-funded start-up, we needed to provide value for our partners. Industry leaders of the day, including Computervision, SDRC and RASNA, relied on our HOOPS Visualize graphics engine.",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Sales Manager",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Revenue Sharing Fee” means the distribution, subscription, royalty, and any other license fee to be paid by Integrator to TS3D, as more specifically set forth in Exhibit B to the Technology Partnership Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Use of the Integrated Product is limited to the Licensee’s internal business purposes, and the Licensee shall have no rights to distribute the Integrated Product to, or use it on behalf of, others or to make the Integrated Product available to any third party, whether as part of any hosted or SaaS solution or time-sharing or service bureau arrangement or otherwise;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "5.4 Sales Notices.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Section 7. WARRANTIES AND DISCLAIMERS",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "7.1 Performance Warranty.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "7.2 Open Source Warranty.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall pay all Recurring Fee and Revenue Sharing Fee payments due TS3D up to the effective date of termination or expiration and shall continue to pay all sums which accrue to TS3D after termination or expiration during the Sunset Period (if any).",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall continue to provide Revenue Sharing Fee Reports to TS3D, pursuant to the Technology Partnership Agreement, if applicable, until all transactions under this Agreement have been completed.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals and Blocked Persons, List of Specially Designated Terrorists or List of Specially Designated Narcotics Traffickers or the U.S. Commerce Department’s Table of Deny Orders, Denied Persons (or Parties) List, Unverified Parties List, Entities List, or the U.S. State Department’s list of Debarred Parties, or",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Obligations and Warranties.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed of Software. Customer understands and accepts that network service, including wired, wireless, cellular, and satellite communication services, is provided by a third-party carrier (or carriers). Tech Soft 3D accepts no responsibility or liability for performance issues due to third party network-related disruption or malfunction.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Authority to Sign. Customer warrants that the person accepting this Agreement has the requisite authority to act on behalf of Customer, including the specific authority to bind Customer to this Agreement and all its terms and conditions.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Warranty.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty Period",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "”), will at its sole option and expense to repair or replace the non-conforming Software, provided, however, that Customer promptly notifies Tech Soft 3D of the first occurrence of the deficiency in writing within the applicable Warranty Period, and the Software has been demonstrated to be defective. Tech Soft 3D does not guarantee that all errors will be corrected.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": ". In connection with a business transaction such as a merger or bankruptcy, to comply with any applicable legal obligations (including to respond to subpoenas, search warrants and similar requests), to enforce any applicable terms of service or policies, and to protect or defend the Services, our rights, and the rights of our users or others.",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Opt-out of personal data processing for targeted advertising and sales.",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Nevada provides its residents with a limited right to opt-out of certain personal information sales. Residents who wish to exercise this sale opt-out right may submit a request using the contact details provided below. However, please know we do not currently sell data triggering that statute’s opt-out requirements.",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "You through Sales inquiries and Employment Application processes",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal Information Sales and Share Opt-Out. We do not sell your Personal Information. You have the right to direct us not to share your Personal Information at any time (the “Right to Opt-Out”). Please see the “Managing Your Information Preferences” section of this Privacy Policy above for additional information.",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Regular vulnerability scans are carried out on Tech Soft 3D’s systems, with identified issues systematically tracked and remediated in line with our IT policy requirements.",
+    "url": "https://www.techsoft3d.com/legal/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Darren Simpson",
+    "url": "https://www.techsoft3d.com/legal/credits/",
+    "pass": 1
+   },
+   {
+    "quote": "Typically, a royalty-based model is applied to the revenue generated by the AutoCAD OEM-based product.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Typically, a royalty-based model is applied to the revenue generated by the Inventor OEM-based product.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Lees",
+    "url": "https://www.techsoft3d.com/developers/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Lees",
+    "url": "https://www.techsoft3d.com/enterprise/resources/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "sales.applications@techsoft3d.com",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 1
+   },
+   {
+    "quote": "The scaffolding industry poses distinct challenges for both software developers and their clients. Unlike many rental markets where customers rent a few items, a scaffolding bill of materials involves managing, arranging, and returning hundreds or thousands of individual parts in a timely and organized manner. This is where Scaffolding Software products come into play.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Sales and Marketing, Striker Systems",
+    "url": "https://www.techsoft3d.com/resources/case-studies/striker-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "“When people think of metal fabrication, the first thing that comes to mind tends to be milling or turning,” said Mike Boggs, VP of Sales and Marketing at Striker Systems. “Sheet metal is kind of a smaller niche within the overall metal fabrication industry, and that’s who we’re focused on with our products and solutions.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/striker-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "specializes in providing advanced manufacturing solutions to improve efficiency and processes across a wide array of industries. Michael Spellman, CEO and CTO, summarized the scope of the company’s specialties well: “Magestic Technologies has a long history in the manufacturing space for the production of composites, composite materials, heavy plate and sheet metal.\"",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Working across such a wide array of new, fast-changing, and complex markets, Magestic Technologies looks to constantly develop its products to the needs of their customers. Matt Thorn explained, “We're getting into genetic algorithms and leveraging things like machine learning and artificial intelligence to kind of bring a new era of solutions into the market with this brand new technology.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk is a global leader in CAD, supporting a vast array of industries with their powerful, polished products. Inventor OEM is an Autodesk software development platform, resold through Tech Soft 3D. It provides developers with the stability and performance of Autodesk Inventor as a foundation for their product.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Secondary market analysis of GP-led transactions and LP stake sales",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tech Soft 3D’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tech Soft 3D is",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Added Satoshi Harris-Koizumi, vice president at Battery: “As every company becomes a software company, we think demand for Tech Soft 3D’s products will only increase—and we look forward to partnering with the company to penetrate new markets and expand, both organically and through acquisitions.”",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Battery General Partner Morad Elhafed and Vice President Satoshi Harris-Koizumi will join the Tech Soft 3D board of directors.",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Added Satoshi Harris-Koizumi, vice president at Battery: “As every company becomes a software company, we think demand for Tech Soft 3D’s products will only increase—and we look forward to partnering with the company to penetrate new markets and expand, both organically and through acquisitions.”",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "issue arrives in your Inbox with valuable content you can’t find anywhere else.",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Issue #1 arrived on March 3, 2019. Issue #53 was our first quarterly issue, arriving in June 2025. Web versions and archives are available and easy to navigate. Enjoy!",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Satoshi Harris-Koizumi",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sales",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "pass": 3
+   },
+   {
+    "quote": "At this time, CAD Exchanger has suspended new sales of their SDKs. They do intend to continue to support and renew existing licenses. You can read their statement about it on their",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Exchanger previously added and subsequently removed transparent pricing from their core website. They have suspended sales of new SDK licenses to new customers. While they still will support custom development projects, per their statement on the issue, this means that new customers should keep an eye on their website, but probably consider other options.",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sales",
+    "url": "https://developer.techsoft3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sales",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vKbQ-bnHVWHoAcwLptlv9Gsf_uqNx0ccO-ndPpNt5ZEvipCQPAd",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sales",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Yokohama, Japan",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Distributor” means a third party to whom Integrator grants the right to demonstrate, market, distribute, sublicense and support the Integrated Products.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "“Subdistributors” means third parties to whom Distributors grant the right to demonstrate, market, distribute, sublicense and support the Integrated Products.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "2.2 Appointment of Distributors.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator may sublicense and provide maintenance for an unlimited number of licensed copies of the TS3D Software in the Integrated Products, to Licensees, Distributors and Subdistributors in accordance with the terms of this Agreement;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "3.2 License Grant (Distributors/Subdistributors).",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "any unauthorized use, reproduction, or distribution of the TS3D Product by Integrator, Distributors, Subdistributors, or the agents of any of them,",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "the breach of any of the provisions of this Agreement by Integrator or its Distributors or Subdistributors; and",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "the negligent act or omission or breach of Integrator or its Distributors or Subdistributors of any obligations under this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator shall cause its Distributors and Subdistributors to comply with the provisions of this Section.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Immediately after complying with the terms of this Section 10.3, Integrator shall deliver to TS3D sworn written confirmation that Integrator and its Distributors and Subdistributors have complied with such requirements.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Acceptance of Terms and Conditions. Customer acknowledges and agrees to abide by the terms and conditions applicable to all Products and Services of Tech Soft 3D, including but not limited to, as applicable, all terms and conditions applicable to any Customers who are also resellers, distributors, sublicensees or users of other Tech Soft 3D Products and services.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Option to develop in nine languages (English, French, German, Italian, Japanese, Simplified Chinese, Korean, Portuguese and Spanish) using the native fonts",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Option to develop in four languages (English, German, Chinese, and Japanese) using the native fonts.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Yokohama, Japan",
+    "url": "https://www.techsoft3d.com/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D is the leading provider of engineering software development toolkits and industrial applications for CAD & CAE data conversion, visualization, and simulation. Established in 1996 and headquartered in Bend, Oregon, Tech Soft 3D has additional offices in the USA, France, England, Japan, Germany and Norway.",
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D serves its partners from offices in the USA, U.K., France and Japan.",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D is the leading global provider of software development kits (SDKs). The company provides SDKs for developers and engineers who need to visualize products in various domains and helps them deliver successful applications. Established in 1996 and headquartered in Bend, Oregon, Tech Soft 3D also has offices in California, France, Norway, England, and Japan.",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "“Integrator Materials” means all information, documents, items, materials, techniques, know-how, software, materials (regardless of the form or medium in which they are disclosed or stored) and any other intellectual property rights owned by or licensed to Integrator, whether before or after the date of this Agreement, which, subject to this Agreement, are used in connection with this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "“TS3D Software” means the software owned by or licensed to TS3D as identified and described in Exhibit A to the Technology Partnership Agreement, including Standard Releases, that is provided to Integrator by TS3D in object code form pursuant to this Agreement, and any copies thereof.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Title to and ownership of the Integrated Product shall not be transferred by virtue of the License Agreement; Licensee is obligated to retain and not remove or obscure any and all copyright, trademark, and proprietary notices and legends contained on the Integrated Products and on all copies thereof;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "5.1 Ownership.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": ",” when used with respect to any Person, means direct or indirect ownership of at least fifty percent (50%) of the voting stock, shares, or other equity interest in the controlled Person and possession of the power to direct or cause the direction of the management and policies of the controlled Person.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Intellectual Property Ownership.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "In just a few weeks, you can bring your unique, branded application to market, powered by Autodesk Inventor and backed by flexible licensing that gives you the margins to grow.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D is backed by investment firm Battery Ventures. For more information, please contact press@techsoft3d.com, fill out the",
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "Ownership Status",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D intends to continue to maintain and support Theorem’s existing customers that are using its CADTranslate, CADPublish and TheoremXR offerings. Details of the acquisition are not disclosed. Tech Soft 3D is backed by global, technology-focused investment firm Battery Ventures.",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Integrator may distribute (and/or host and make available on a SaaS basis) and sublicense a reasonable number of copies of the TS3D Software in the Integrated Products to potential Licensees for the purpose of evaluation, subject to the terms of Section 3.5; and",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "3.5 Evaluation Licenses.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Information about your computer to ensure compliance with the Tech Soft 3D license usage requirements, during evaluation only, to collect: IP address, MAC address, Tech Soft 3D License and product usage information",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Informations sur votre ordinateur pour assurer la conformité aux exigences d'utilisation de la licence Tech Soft 3D, uniquement pendant l'évaluation, pour collecter : adresse IP, adresse MAC, informations sur la licence Tech Soft 3D et l'utilisation du produit",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy-fr/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D is backed by investment firm Battery Ventures. For more information, please contact press@techsoft3d.com, fill out the",
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Soft 3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Find investment opportunities and active investors faster",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Validate investment decisions with verified company and financial data",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Explore investor track records and activity",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Access timely lending and investment data",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the go-to workflow hub for every investment stage",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Preview our company and investor data",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Insights into deal flow, valuations, and market drivers",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Track how AI is transforming industries and tech investment",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation trends and news for dealmakers",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "News, analysis, and data driving industry and technology investment",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Track the latest trends driving AI investment",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Monitor the latest fintech investment developments",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings of investors, managers, and lenders across asset classes",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Investments",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation/",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Total Raised",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Post Valuation",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Investors",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Name",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Announces Significant Investment From Global Investment Firm Battery Ventures |",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Announces Significant Investment From Global Investment Firm Battery Ventures",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Funding will fuel growth for Tech Soft 3D, the strategic technology partner to engineering software-development companies worldwide",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "growth funding",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "investment",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "CAD News: Tech Soft 3D Obtains Significant Investment from Battery Ventures",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Funding will fuel growth for Tech Soft 3D, the strategic technology partner for engineering software development companies worldwide.",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D, the leading provider of software development toolkits (SDKs) for companies that develop software for the MCAD and AEC industries, this week announced a major investment from global, technology-focused investment firm Battery Ventures.",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D obtains capital investment by major investment firm, Battery Ventures. The company’s HOOPS-branded software toolkits are used worldwide by",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D intends to continue to maintain and support Theorem’s existing customers that are using its CADTranslate, CADPublish and TheoremXR offerings. Details of the acquisition are not disclosed. Tech Soft 3D is backed by global, technology-focused investment firm Battery Ventures.",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Our investment staff works together as a single, global unit to evaluate and support potential investments.",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Partners",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Team",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluation Downloads",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "As discussed in the HOOPS Exchange section, CAD Exchanger does not offer public roadmaps or visibility regarding upcoming formats. When making an investment in an SDK, many companies are planning for the next 5-10 years, and this lack of transparency can be an issue. Support of different formats can be inconsistent across different versions.",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "INVESTORS",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "“Integrator Materials” means all information, documents, items, materials, techniques, know-how, software, materials (regardless of the form or medium in which they are disclosed or stored) and any other intellectual property rights owned by or licensed to Integrator, whether before or after the date of this Agreement, which, subject to this Agreement, are used in connection with this Agreement.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "to impose confidentiality restrictions upon the parties to whom any Confidential Information is disclosed that are not less restrictive than those set forth in this Agreement;",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "to refrain from using the Confidential Information for any purpose other than the purposes for which that Confidential Information was disclosed as set forth in clause (a) above.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrator becomes insolvent, makes a general assignment for the benefit of creditors, suffers or permits the appointment of a receiver for its business or assets, becomes subject to any proceeding under any bankruptcy or insolvency laws, or has liquidated all or a substantial portion of its assets, voluntarily or otherwise.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Bankruptcy or Insolvency. Either party shall have the right to terminate this Agreement and any Order Form by giving written notice of termination to the other in the event of the insolvency or bankruptcy of such other, whether voluntary or involuntary, or the appointment of a trustee, receiver, or similar agent to take charge of or sell any material portion of such other’s property or business.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": ". In connection with a business transaction such as a merger or bankruptcy, to comply with any applicable legal obligations (including to respond to subpoenas, search warrants and similar requests), to enforce any applicable terms of service or policies, and to protect or defend the Services, our rights, and the rights of our users or others.",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared or Disclosed to Third Parties?",
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "The latest data for closed-end fund returns across strategies",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D will use the additional capital to fuel growth by investing in product development, scaling the company’s global reach and increasing its product offerings through acquisitions. The company also expects to further expand its portfolio of partners.",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Added Satoshi Harris-Koizumi, vice president at Battery: “As every company becomes a software company, we think demand for Tech Soft 3D’s products will only increase—and we look forward to partnering with the company to penetrate new markets and expand, both organically and through acquisitions.”",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Ventures has over a decade of experience helping scale platform companies in product lifecycle management. Its portfolio companies in this area include manufacturing-software company SigmaTEK Systems* and Vero Software,* one of the largest vendors in the CAM market that was acquired by Hexagon AB in 2014.",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Added Satoshi Harris-Koizumi, vice president at Battery: “As every company becomes a software company, we think demand for Tech Soft 3D’s products will only increase—and we look forward to partnering with the company to penetrate new markets and expand, both organically and through acquisitions.”",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Ventures has over a decade of experience helping scale platform companies in product lifecycle management (PLM). It’s portfolio companies in this area include manufacturing software company SigmaTEK Systems and Vero Software, one of the largest vendors in the CAM market that was acquired by Hexagon AB in 2014.",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Comments for this story are closed",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D completes acquisition of Theorem Solutions",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": ", the leading provider of engineering software development toolkits, has announced that it has acquired",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "This acquisition is in line with the company’s plans to fuel growth by investing in product development, scaling the company’s global reach and increasing its product offerings through acquisitions.",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D intends to continue to maintain and support Theorem’s existing customers that are using its CADTranslate, CADPublish and TheoremXR offerings. Details of the acquisition are not disclosed. Tech Soft 3D is backed by global, technology-focused investment firm Battery Ventures.",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D's current add-on acquisitions include Ceetron AS and Visual Kinematics.",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Strengthens Portfolio with Acquisition of Actify SpinFire Business",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.",
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "pass": 1
+   },
+   {
+    "quote": "Acceptance of Terms and Conditions. Customer acknowledges and agrees to abide by the terms and conditions applicable to all Products and Services of Tech Soft 3D, including but not limited to, as applicable, all terms and conditions applicable to any Customers who are also resellers, distributors, sublicensees or users of other Tech Soft 3D Products and services.",
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your customers to interact with your application via a desktop application, through a child window, Microsoft Windows .NET, or a web page",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Add specialized features tailored to your target customers",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Use a simple-to-use wizard to easily customize and brand your product to your customers’ needs.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your application simple and easy to use by including only the features your customers need.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "DNV's Use of HOOPS SDKs Empowers Their Customers' Structural & Hydrodynamic Analysis",
+    "url": "https://www.techsoft3d.com/developers/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "HOOPS Toolkits Help Proplanner Solve Decades-Old Data Management Challenge For Manufacturing Customers",
+    "url": "https://www.techsoft3d.com/developers/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Case Study: How Flex-N-Gate Uses SpinFire Insight",
+    "url": "https://www.techsoft3d.com/enterprise/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Case Study: How Mayco Uses SpinFire Insight",
+    "url": "https://www.techsoft3d.com/enterprise/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The scaffolding industry poses distinct challenges for both software developers and their clients. Unlike many rental markets where customers rent a few items, a scaffolding bill of materials involves managing, arranging, and returning hundreds or thousands of individual parts in a timely and organized manner. This is where Scaffolding Software products come into play.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "pass": 1
+   },
+   {
+    "quote": "The comprehensive nature of their software is a cornerstone of what makes Scaffolding Software products so valuable to their customers. Andrew said, “It's not just design, it's not just estimating, but also the ability to generate quotations, reports, and inventory. All at the touch of a few buttons.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "pass": 1
+   },
+   {
+    "quote": "The foundation provided by AutoCAD OEM was a key part of Scaffolding Software’s ability to meet their customers' needs. “Tech Soft 3D and AutoCAD OEM are extremely important to us,” said Andrew. “Being an OEM Partner allows us to have the product as one integrated, user-friendly experience by having our software sit on top of AutoCAD to provide the interface to draw the scaffold.\"",
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - Striker Systems & Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/resources/case-studies/striker-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Initially, Striker Systems addressed this market need with a custom AutoCAD plug-in called FAB Professional that put more editing functionality into customers’ hands. While this was an ideal solution for customers who already used AutoCAD, it prevented Striker Systems from reaching customers who did not use AutoCAD as their primary CAD tool. “",
+    "url": "https://www.techsoft3d.com/resources/case-studies/striker-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - ETAP & Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "helps us reach both the customers who traditionally use AutoCAD, and those who don’t\"",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "ETAP’s software simplifies electrical design for customers tackling a wide variety of projects, including new and existing residential buildings, commercial facilities, airports, cruise ships, tunnels, street lighting, and other aspects of infrastructure.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "Historically, it was difficult for customers to get an end-to-end solution for their electrical design needs that touched all these areas.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "Developing Caneco Implantation on AutoCAD OEM offered ETAP several important advantages. For starters, it allows ETAP to appeal to customers that have existing workflows that revolve around AutoCAD, providing those customers with a familiar environment.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Caneco Implantation, we can give customers enhanced electrical engineering functionality without requiring them to learn a completely new type of software or make a sharp break with the way they currently operate,” said Gueler. “This gives them a smooth transition from a product they already know, to an enhanced level of electrical engineering – with minimal disruption.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "At the same time, developing their own, unique application with the AutoCAD OEM platform allows ETAP to reach customers that aren’t traditionally AutoCAD shops or who use a different CAD system as their standard.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "Designing electrical installations requires specifiers and contractors to use several different applications for electrical calculation and design. Non-integrated software environment forces customers to enter same information multiple times in different software packages. Strong 2D and 3D design necessary for proper implantation of wiring, cabling, and other electrical elements.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - Magestic & Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Working across such a wide array of new, fast-changing, and complex markets, Magestic Technologies looks to constantly develop its products to the needs of their customers. Matt Thorn explained, “We're getting into genetic algorithms and leveraging things like machine learning and artificial intelligence to kind of bring a new era of solutions into the market with this brand new technology.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Issues are inevitable, and the capable support network of Inventor OEM is essential in helping both Magestic and its customers. Michael explained their satisfaction, “Whenever we have an issue arise, place a ticket or an email and we typically get a very fast response, and we appreciate that.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "Overall, Magestic’s decision to leverage Inventor OEM from Tech Soft 3D is built on a shared commitment to constantly improve what is possible for their customers. Michael said, “Tech Soft 3D wants to push the boundaries as well. They want to work with us and bring new features and new functionality, and they really care about what our customers need and how they can make their solutions better.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "pass": 1
+   },
+   {
+    "quote": "“With HOOPS AI, we can give engineering agents access to the geometric intelligence they need to understand CAD models, search for similar designs, and support more informed actions inside our customers’ engineering processes.”",
+    "url": "https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our customers work with CAD data from many different systems, and our previous solution of importing IGES, JT, and STEP files was very limiting,” said",
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "Read about how our clients succeed with PitchBook",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of software development toolkits intended to serve software development teams. The company offers computer-aided design data translation, three-dimensional (3D) modeling and a hoops platform, enabling clients to succeed by leveraging technology and expertise.",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D intends to continue to maintain and support Theorem’s existing customers that are using its CADTranslate, CADPublish and TheoremXR offerings. Details of the acquisition are not disclosed. Tech Soft 3D is backed by global, technology-focused investment firm Battery Ventures.",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest selling point of CAD Exchanger is the price because their tiered pricing has historically offered customers the potential of picking and choosing specific features for their needs. Currently, there are some important caveats to consider.",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Exchanger previously added and subsequently removed transparent pricing from their core website. They have suspended sales of new SDK licenses to new customers. While they still will support custom development projects, per their statement on the issue, this means that new customers should keep an eye on their website, but probably consider other options.",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "pass": 3
+   },
+   {
+    "quote": "This new program also serves as a platform to enable Tech Soft 3D partners to expand their business by reaching new customers looking to create more sophisticated digital applications.",
+    "url": "https://www.newswire.com/news/tech-soft-3d-launches-integration-partner-program-21547513",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   },
+   {
+    "quote": "The team saves 24 business days a year thanks to ZoneBilling. They no longer worry about manually sending invoices, tracking payments, missing fee increases, or updating contract terms. David and his team simply set up subscriptions once and ZoneBilling takes care of the rest. Contracted fee increases are automated complete with email alerts to customers.",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   },
+   {
+    "quote": ", and preferences. They can see which customers are growing, which ones are not, in which quarters they had higher or lower royalty distribution, what products need more focus, and so on. This enables their marketing and sales team to tailor their outreach and support strategies and to address any issues or opportunities with their customers.",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   },
+   {
+    "quote": "“ZoneBilling solved our biggest problem of forecasting revenue in the future. It gave us insights into something we had no insight into before–which [customers] are growing, which ones are not, and which products need more focus.”",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   },
+   {
+    "quote": "Download case study",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   },
+   {
+    "quote": "ZoneUnplugged: ZoneReconcile customers, meet your new AI agents",
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "AutoCAD OEM is the white label version of Autodesk AutoCAD. This proven CAD platform enables software developers to quickly build CAD functionality into their next development project. Based on the incredibly successful and widely used AutoCAD engine, AutoCAD OEM contains a comprehensive set of tools to quickly get your customized application to market.",
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "In just a few weeks, you can bring your unique, branded application to market, powered by Autodesk Inventor and backed by flexible licensing that gives you the margins to grow.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Inventor OEM is the white label version of Autodesk’s mechanical CAD application, Autodesk Inventor. The platform provides a development environment for software developers looking to create a specialized 3D mechanical CAD product. Inventor OEM includes a full 3D modelling kernel, user interface, and ability to do parametric-based designs.",
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI",
+    "url": "https://www.techsoft3d.com/developers/resources/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI",
+    "url": "https://www.techsoft3d.com/enterprise/resources/news/",
+    "pass": 1
+   },
+   {
+    "quote": "AutoCAD OEM lets you build a custom, branded CAD application on the same platform that powers AutoCAD. You choose which commands and features to include, configure your own UI, and ship under your own brand. It supports Object ARX, .NET, ActiveX, and JavaScript APIs, with options for multiple deployment targets and multiple languages.",
+    "url": "https://www.techsoft3d.com/oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI",
+    "url": "https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", powered by Tech Soft 3D’s HOOPS AI, alongside the release of",
+    "url": "https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Every day, millions of engineers use software powered by Tech Soft 3D component technology,” said Morad Elhafed, general partner at Battery Ventures. “The company’s reach is extremely impressive, and its products are fueling innovation at large and small companies undergoing digital transformation. We are excited to partner with Tech Soft 3D to help the company grow.”",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "“Every day, millions of engineers use software powered by Tech Soft 3D component technology,” said Morad Elhafed, general partner at Battery Ventures. “The company’s reach is extremely impressive, and its products are fueling innovation at large and small companies undergoing digital transformation. We are excited to partner with Tech Soft 3D to help the company grow.”",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tech Soft 3D 2026 Company Profile - PitchBook — Tech Soft 3D 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Announces Significant Investment From Global ... — Tech Soft 3D Announces Significant Investment From Global ... newswire.com https://www.newswire.com > news > t...",
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "pass": 3
+   },
+   {
+    "quote": "Company | Tech Soft 3D — Company | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > company",
+    "url": "https://www.techsoft3d.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD News: Tech Soft 3D Obtains Significant Investment from ... — CAD News: Tech Soft 3D Obtains Significant Investment from ... Architosh https://architosh.com > 2020/02 > cad...",
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - Crunchbase Company Profile & Funding — Tech Soft 3D - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > tech-s...",
+    "url": "https://www.crunchbase.com/organization/tech-soft-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Names Robbie Payne Chief Executive Officer — Tech Soft 3D Names Robbie Payne Chief Executive Officer TechSoft3D https://www.techsoft3d.com > news",
+    "url": "https://www.techsoft3d.com/resources/news/tech-soft-3d-names-robbie-payne-chief-executive-officer/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - LinkedIn — Tech Soft 3D - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/tech-soft-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Tech Soft 3D | Glassdoor — Working at Tech Soft 3D | Glassdoor Glassdoor https://www.glassdoor.com > Overview",
+    "url": "https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Bend-based Tech Soft 3D names new CEO | The Bulletin — Bend-based Tech Soft 3D names new CEO | The Bulletin bendbulletin.com https://bendbulletin.com > 2025/11/06",
+    "url": "https://bendbulletin.com/2025/11/06/bend-based-tech-soft-3d-names-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - Overview, News & Similar companies - ZoomInfo — Tech Soft 3D - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > tech-sof...",
+    "url": "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D : Revenue , Competitors, Alternatives - Growjo — Tech Soft 3D : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Tech_Soft_3D",
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D's Competitors, Revenue , Number of Employees ... — Tech Soft 3D's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > techsoft3d",
+    "url": "https://www.owler.com/company/techsoft3d",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D | Building Leading Engineering Applications with ... — Tech Soft 3D | Building Leading Engineering Applications with ... TechSoft3D https://www.techsoft3d.com",
+    "url": "https://www.techsoft3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Wrapped 2025: Our Year in Numbers — Tech Soft 3D Wrapped 2025: Our Year in Numbers TechSoft3D https://www.techsoft3d.com > blog",
+    "url": "https://www.techsoft3d.com/resources/blog/tech-soft-3d-wrapped-2025-our-year-in-numbers/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - Battery Ventures — Tech Soft 3D - Battery Ventures Battery Ventures https://www.battery.com > tech-soft-3d",
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Completes Acquisition of Theorem Solutions — Tech Soft 3D Completes Acquisition of Theorem Solutions Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20240604961979/en/Tech-Soft-3D-Completes-Acquisition-of-Theorem-Solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Product Consolidation FAQs — Tech Soft 3D Product Consolidation FAQs TechSoft3D https://www.techsoft3d.com > blog",
+    "url": "https://www.techsoft3d.com/resources/blog/tech-soft-3d-product-consolidation-faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D completes acquisition of Theorem Solutions — Tech Soft 3D completes acquisition of Theorem Solutions The Manufacturer https://www.themanufacturer.com > t...",
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Completes Acquisition of Redway3D — Tech Soft 3D Completes Acquisition of Redway3D PR Newswire https://www.prnewswire.com > tech-s...",
+    "url": "https://www.prnewswire.com/news-releases/tech-soft-3d-completes-acquisition-of-redway3d-301619580.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - Facebook — Tech Soft 3D - Facebook Facebook https://www.facebook.com > TechSoft3D",
+    "url": "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D | Technology partners - Chaos — Tech Soft 3D | Technology partners - Chaos Chaos https://www.chaos.com > tech-soft-3d",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "pass": 3
+   },
+   {
+    "quote": "HOOPS Envision | CAE Visualization SDK | Tech Soft 3D — HOOPS Envision | CAE Visualization SDK | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > products",
+    "url": "https://www.techsoft3d.com/developers/products/hoops-envision/",
+    "pass": 3
+   },
+   {
+    "quote": "HOOPS Exchange Vs. CAD Exchanger - Tech Soft 3D — HOOPS Exchange Vs. CAD Exchanger - Tech Soft 3D Netlify https://rebrand--ts3d-site.netlify.app > ...",
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Developer Zone — Tech Soft 3D Developer Zone TechSoft3D https://developer.techsoft3d.com",
+    "url": "https://developer.techsoft3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D | Technology partners - Chaos — Tech Soft 3D | Technology partners - Chaos Chaos https://www.chaos.com > tech-soft-3d",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vKbQ-bnHVWHoAcwLptlv9Gsf_uqNx0ccO-ndPpNt5ZEvipCQPAd",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D | Ansys Technology Partner - Synopsys — Tech Soft 3D | Ansys Technology Partner - Synopsys Ansys https://ansys.synopsys.com > tech-soft...",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "pass": 3
+   },
+   {
+    "quote": "An Introduction to Tech Soft 3D HOOPS Products - YouTube — An Introduction to Tech Soft 3D HOOPS Products - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=WAinm-avcK8",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D | Technology partners - Chaos — Tech Soft 3D | Technology partners - Chaos Chaos https://www.chaos.com > tech-soft-3d",
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJJWihyQgbD99Y_RZ4l4tZ7zX0yHOBgy3wBfGjSf8iUzPFvKTBZ",
+    "pass": 3
+   },
+   {
+    "quote": "Global Resellers | Tech Soft 3D — Global Resellers | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > resellers",
+    "url": "https://www.techsoft3d.com/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Launches Integration Partner Program | Newswire — Tech Soft 3D Launches Integration Partner Program | Newswire newswire.com https://www.newswire.com > news > t...",
+    "url": "https://www.newswire.com/news/tech-soft-3d-launches-integration-partner-program-21547513",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - YouTube — Tech Soft 3D - YouTube YouTube https://www.youtube.com > user > Te...",
+    "url": "https://www.youtube.com/user/TechSoft3D",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D - LinkedIn — Tech Soft 3D - LinkedIn LinkedIn https://jp.linkedin.com > company > tech-soft-3d",
+    "url": "https://jp.linkedin.com/company/tech-soft-3d",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | Tech Soft 3D — お問い合わせ | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > ja-jp > contact",
+    "url": "https://www.techsoft3d.com/ja-jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Information - RocketReach — Tech Soft 3D Information - RocketReach RocketReach https://rocketreach.co > tech-soft-3d-...",
+    "url": "https://rocketreach.co/tech-soft-3d-profile_b5cab1eef42e0bd9",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.techsoft3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/tpa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/tpa-apps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/privacy-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/impressum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/credits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/autocad-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/inventor-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/realdwg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/developers/resources/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/developers/resources/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/developers/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/enterprise/resources/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/enterprise/resources/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/enterprise/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/privacy-policy-de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/privacy-policy-fr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/legal/international-privacy-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/scaffolding-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/striker-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/etap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/tenado/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/magestic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://a-us.storyblok.com/f/1023536/1440x1080/f7c9ed333e/ts3d-team-in-the-mountains.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://a-us.storyblok.com/f/1023536/1339x1004/152ed8257c/eng_team_scotland_2025-12.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://a-us.storyblok.com/f/1023536/963x722/94a209434e/ts3d-uk-team-bowling.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.fsi.co.jp/company/news/20230328_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dipartners.com/wp-content/uploads/Fujisoft-presentation-on-corporate-value-enhancement-plan-jp-202209-v4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/YVYILPSLRZI2TDOFUWJXZ6NLUM-2023-03-29/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/bostoncareer/n/n3f05238058d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tech-soft-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/techsoft3d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tech-soft-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1089638/000114420411012902/v213173_10k.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tech-soft-3d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tech-soft-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20240604961979/en/Tech-Soft-3D-Completes-Acquisition-of-Theorem-Solutions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.battery.com/company/tech-soft-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/124476-04",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DWknMboExiO/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.canva.com/create/3d-logos/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://developer.techsoft3d.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vKbQ-bnHVWHoAcwLptlv9Gsf_uqNx0ccO-ndPpNt5ZEvipCQPAd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tech-soft-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJJWihyQgbD99Y_RZ4l4tZ7zX0yHOBgy3wBfGjSf8iUzPFvKTBZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newswire.com/news/tech-soft-3d-launches-integration-partner-program-21547513",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tech-soft-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/user/TechSoft3D",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tech-soft-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tech-soft-3d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/tech-soft-3d-profile_b5cab1eef42e0bd9",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Tech_Soft_3D",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tech Soft 3D 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.fsi.co.jp/company/news/20230328_3.html",
+    "https://www.3dipartners.com/wp-content/uploads/Fujisoft-presentation-on-corporate-value-enhancement-plan-jp-202209-v4.pdf",
+    "https://www.reuters.com/jp/markets/japan/YVYILPSLRZI2TDOFUWJXZ6NLUM-2023-03-29/",
+    "https://note.com/bostoncareer/n/n3f05238058d1",
+    "https://www.bloomberg.co.jp/news/articles/2024-01-10/S70N5VT0AFB400",
+    "https://the-shashi.com/shareholder-engagement/3d/2329/",
+    "https://www.nikkei.com/article/DGXZQOUC079330X00C26A9000000/",
+    "https://www.buffett-code.com/shareholder/0464ff7d3e695429072e5b5e3404eda4",
+    "https://kyodonewsprwire.jp/release/202512080554",
+    "https://ja.wikipedia.org/wiki/株主"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D shareholders ownership investors parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "https://www.techsoft3d.com/company/",
+    "https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/",
+    "https://www.crunchbase.com/organization/tech-soft-3d",
+    "https://www.businesswire.com/news/home/20240604961979/en/Tech-Soft-3D-Completes-Acquisition-of-Theorem-Solutions",
+    "https://www.clairfield.com/transaction/theorem-solutions-sold-to-tech-soft-3d-backed-by-battery-ventures/",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "https://ecosystem.andorra-startup.com/companies/tech_soft_3d",
+    "https://mergr.com/company/tech-soft-3d/ownership"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.techsoft3d.com/resources/news/tech-soft-3d-names-robbie-payne-chief-executive-officer/",
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm",
+    "https://bendbulletin.com/2025/11/06/bend-based-tech-soft-3d-names-new-ceo/",
+    "https://www.battery.com/company/tech-soft-3d/",
+    "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "https://www.youtube.com/user/TechSoft3D",
+    "https://xtech.nikkei.com/dm/article/NEWS/20110902/197941/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D revenue profitable",
+   "results": [
+    "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "https://growjo.com/company/Tech_Soft_3D",
+    "https://www.owler.com/company/techsoft3d",
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm",
+    "https://www.techsoft3d.com/resources/blog/tech-soft-3d-wrapped-2025-our-year-in-numbers/",
+    "https://rocketreach.co/tech-soft-3d-profile_b5cab1eef42e0bd9",
+    "https://www.battery.com/company/tech-soft-3d/",
+    "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "https://incfact.com/company/techsoft3d-berkeley-ca/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D EBITDA net income annual report",
+   "results": [
+    "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "https://www.techsoft3d.com/",
+    "https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1089638/000114420411012902/v213173_10k.htm",
+    "https://vectorshift.ai/research/companies/3d-systems/financials",
+    "https://finance.yahoo.com/technology/articles/tech-soft-3d-unveils-independent-130000117.html",
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.3dsystems.com/press-releases/3d-systems-reports-second-quarter-2026-financial-results-0",
+    "https://rocketreach.co/tech-soft-3d-profile_b5cab1eef42e0bd9",
+    "https://incfact.com/company/techsoft3d-bend-or/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D funding raised",
+   "results": [
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.techsoft3d.com/resources/blog/tech-soft-3d-wrapped-2025-our-year-in-numbers/",
+    "https://www.crunchbase.com/organization/tech-soft-3d",
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://www.battery.com/company/tech-soft-3d/",
+    "https://schnitgercorp.com/2020/02/21/tech-soft-3d-secures-backing-from-battery-ventures/",
+    "https://www.owler.com/company/techsoft3d",
+    "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vIqV3g7hK8lYWIgVY9AO-TOEaJsNG5HS-BlGUHvd9q8s7E3M0Rd",
+    "https://tracxn.com/d/companies/techsoft/__LkdL2IPKoyX8eAFNvVgbAMDmi8RHL88a3QSk80M-l8g"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.businesswire.com/news/home/20240604961979/en/Tech-Soft-3D-Completes-Acquisition-of-Theorem-Solutions",
+    "https://www.techsoft3d.com/resources/blog/tech-soft-3d-product-consolidation-faqs/",
+    "https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/",
+    "https://www.battery.com/company/tech-soft-3d/",
+    "https://www.prnewswire.com/news-releases/tech-soft-3d-completes-acquisition-of-redway3d-301619580.html",
+    "https://www.linkedin.com/posts/tech-soft-3d_breaking-news-we-are-pleased-to-announce-activity-7191430911194710016-1UR7",
+    "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "https://find-and-update.company-information.service.gov.uk/company/05797254",
+    "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "https://pitchbook.com/profiles/company/124476-04"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D white label",
+   "results": [
+    "https://www.techsoft3d.com/",
+    "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJ28Aj5RGYRsD7YLgX1lqQMET3Diontv3hl5mjcQfxqZcYckUzN",
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://www.designworldonline.com/tech-soft-3d-enables-custom-3d-printing-software-development/",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "https://develop3dlive.com/exhibitor/tech-soft-3d-2026/",
+    "https://www.youtube.com/watch?v=UhTppTeaprY",
+    "https://www.techsoft3d.com/oem/autocad-oem/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.techsoft3d.com/developers/products/hoops-envision/",
+    "https://rebrand--ts3d-site.netlify.app/resources/blog/hoops-exchange-versus-cad-exchanger/",
+    "https://www.instagram.com/reel/DWknMboExiO/",
+    "https://www.canva.com/create/3d-logos/",
+    "https://www.instagram.com/p/DMxFnE6yTrf/",
+    "https://www.facebook.com/studiosamo/videos/ecco-il-prompttransform-this-logo-into-a-soft-3d-fluffy-object-use-the-exact-col/630602222783987/",
+    "https://www.facebook.com/BranditGraphix/videos/make-your-logo-stand-out-literally3d-puff-cap-embroidery-adds-a-raised-bold-fini/927479827015317/",
+    "https://www.linkedin.com/posts/bree-johnson-8b2bb681_yesterday-we-made-the-team-do-a-rebrand-activity-7521695845730287617-M3rt",
+    "https://www.instagram.com/reel/DIMFmQTNqnv/",
+    "https://3dlogomaker.com/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D OEM SDK licensing partners",
+   "results": [
+    "https://developer.techsoft3d.com/",
+    "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vKbQ-bnHVWHoAcwLptlv9Gsf_uqNx0ccO-ndPpNt5ZEvipCQPAd",
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "https://www.youtube.com/watch?v=WAinm-avcK8",
+    "https://www.newswire.com/news/tech-soft-3d-hoops-platforms-2020-optimize-manufacturing-processes-and-21105988",
+    "https://www.techsoft3d.com/resources/blog/tech-soft-3d-product-consolidation-faqs/",
+    "https://www.prnewswire.com/news-releases/tech-soft-3d-completes-acquisition-of-redway3d-301619580.html",
+    "https://www.autodesk.com/partner-program/oem-software",
+    "https://www.techsoft3d.com/oem/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D reseller partner program",
+   "results": [
+    "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vJJWihyQgbD99Y_RZ4l4tZ7zX0yHOBgy3wBfGjSf8iUzPFvKTBZ",
+    "https://www.techsoft3d.com/resellers/",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "https://www.newswire.com/news/tech-soft-3d-launches-integration-partner-program-21547513",
+    "https://www.facebook.com/TechSoft3D.HOOPS/",
+    "https://techsoft3d.atlassian.net/wiki/x/FID0w",
+    "https://www.youtube.com/watch?v=IUq33fYYUDY",
+    "https://www.razorleaf.com/partners/tech-soft-3d/",
+    "https://tetra4d.com/tech-soft-3d-acquires-tetra4d/",
+    "https://www.techsoft3d.com/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://www.techsoft3d.com/",
+    "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling",
+    "https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832",
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.battery.com/company/tech-soft-3d/",
+    "https://finance.yahoo.com/technology/articles/tech-soft-3d-unveils-independent-130000117.html",
+    "https://develop3dlive.com/exhibitor/tech-soft-3d-2026/",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D Japan",
+   "results": [
+    "https://www.techsoft3d.com/",
+    "https://www.youtube.com/user/TechSoft3D",
+    "https://jp.linkedin.com/company/tech-soft-3d",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/tech-soft-3d",
+    "https://www.techsoft3d.com/ja-jp/contact/",
+    "https://www.cadjapan.com/news/2025/w202544_01.html",
+    "https://develop3dlive.com/exhibitor/tech-soft-3d-2026/",
+    "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "https://www.chaos.com/technology-partners/tech-soft-3d?srsltid=AYCX9vI8IpnhWsc_WepVy9lwJQMHS_IwG3A8ClSamikqbqnns4eiyILu",
+    "https://www.techsoft3d.com/ja-jp/company/"
+   ]
+  },
+  {
+   "query": "Tech Soft 3D employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/tech-soft-3d",
+    "https://rocketreach.co/tech-soft-3d-profile_b5cab1eef42e0bd9",
+    "https://www.zoominfo.com/c/tech-soft-3d-inc/239681746",
+    "https://growjo.com/company/Tech_Soft_3D",
+    "https://pitchbook.com/profiles/company/124476-04",
+    "https://www.linkedin.com/company/tech-soft-3d",
+    "https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm",
+    "https://www.techsoft3d.com/resources/blog/tech-soft-3d-wrapped-2025-our-year-in-numbers/",
+    "https://www.owler.com/company/techsoft3d",
+    "https://dealroom.co/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）"
+ }
+}

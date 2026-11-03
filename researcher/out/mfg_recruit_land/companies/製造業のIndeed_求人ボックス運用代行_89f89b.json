@@ -1,0 +1,319 @@
+{
+ "name": "製造業のIndeed・求人ボックス運用代行",
+ "en": "Indeed management agency manufacturing Japan",
+ "aliases": [
+  "Indeed 運用代行 製造業",
+  "求人ボックス 運用代行 工場"
+ ],
+ "context": "運用代行",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:16:18.330298+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairiten-lab.com/ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinbox-indeed-231024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyujin-dairiten-navi.com/ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://probel.jp/promaga/b/6528/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buddy-data.co.jp/indeed-management-outsourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.o-bokul.com/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.three-count.jp/recruit/indeed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents%E2%80%90kyuzinbox-dairiten-0219/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://listing-partners.com/indeed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axia-ag.co.jp/indeed-info/kyujinbox-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/kyujinbox-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.three-count.jp/advice/indeed-publication-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-indeeddaiko_231012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://listing-partners.com/indeed/hr_column/indeed_partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/service/recruit-media/indeed-plus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naito.jp/knowledge/jobad/3400/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boater.jp/article/7238",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-kakaricho.com/wp/kyujinbox_operation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aggregate.eole.co.jp/column/column076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/indeed-jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adva-webteam.com/indeed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/recruit/4450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gs-partners.co.jp/post-3289/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dym.asia/services/hr-tech/indeed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-indeed%E9%81%8B%E7%94%A8%E4%BB%A3%E8%A1%8C-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://crosslink.jp.net/kyujinnavi/blog/indeed-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/indeed-agency-kansai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/kyujinbox-agency.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shuuumatu-worker.jp/projects/19038",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cone-c-slide.com/liblog/indeed-outsourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.joblink.co.jp/blog/blog-1044/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digireka-hr.jp/indeed-corporate/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://rpm.zeku.co.jp/column/indeed-operation-agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kai-ketsu.net/kaiketsu/column/kyujin-box-operation-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neton.co.jp/indeed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aggregate.eole.co.jp/column/column057/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webhub-media.com/column/kyujinbox-ad-agency-guide/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 比較 ランキング",
+   "results": [
+    "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "https://dairiten-lab.com/ranking/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinbox-indeed-231024/",
+    "https://kyujin-dairiten-navi.com/ranking/",
+    "https://probel.jp/promaga/b/6528/",
+    "https://buddy-data.co.jp/indeed-management-outsourcing/",
+    "https://dym.asia/services/hr-tech/indeed/",
+    "https://saiyo-kakaricho.com/wp/kyujinbox_operation/",
+    "https://www.three-count.jp/recruit/indeed/",
+    "https://boater.jp/article/7238"
+   ]
+  },
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 会社一覧 運営会社",
+   "results": [
+    "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "https://www.o-bokul.com/list/",
+    "https://www.three-count.jp/recruit/indeed/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents%E2%80%90kyuzinbox-dairiten-0219/",
+    "https://listing-partners.com/indeed/",
+    "https://axia-ag.co.jp/indeed-info/kyujinbox-2/",
+    "https://www.tracom.co.jp/tralog/kyujinbox-agency/",
+    "https://cone-c-slide.com/liblog/indeed-outsourcing/",
+    "https://saiyo-kakaricho.com/wp/kyujinbox_operation/"
+   ]
+  },
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 料金 成果報酬 OR 月額 OR 掲載料",
+   "results": [
+    "https://www.three-count.jp/advice/indeed-publication-fee/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-indeeddaiko_231012/",
+    "https://listing-partners.com/indeed/hr_column/indeed_partner/",
+    "https://service.r-4.co.jp/service/recruit-media/indeed-plus/",
+    "https://www.naito.jp/knowledge/jobad/3400/",
+    "https://boater.jp/article/7238",
+    "https://www.tracom.co.jp/tralog/kyujinbox-agency/",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/%E4%BE%A1%E6%A0%BC",
+    "https://www.o-bokul.com/what/price.html"
+   ]
+  },
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 売上高 OR 取引社数 OR 導入社数",
+   "results": [
+    "https://www.three-count.jp/recruit/indeed/",
+    "https://saiyo-kakaricho.com/wp/kyujinbox_operation/",
+    "https://aggregate.eole.co.jp/column/column076/",
+    "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents%E2%80%90kyuzinbox-dairiten-0219/",
+    "https://www.tracom.co.jp/tralog/indeed-jirei/",
+    "https://www.adva-webteam.com/indeed/",
+    "https://www.bsearch.co.jp/recruit/4450/",
+    "https://gs-partners.co.jp/post-3289/",
+    "https://www.itreview.jp/categories/recruitment-management"
+   ]
+  },
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 業界 シェア 大手",
+   "results": [
+    "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "https://dym.asia/services/hr-tech/indeed/",
+    "https://dairiten-lab.com/ranking/",
+    "https://axia-ag.co.jp/indeed-info/kyujinbox-2/",
+    "https://listing-partners.com/indeed/",
+    "https://jp.indeed.com/q-indeed%E9%81%8B%E7%94%A8%E4%BB%A3%E8%A1%8C-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%82%E4%BA%BA.html",
+    "https://crosslink.jp.net/kyujinnavi/blog/indeed-agency/",
+    "https://www.three-count.jp/recruit/indeed/",
+    "https://www.tracom.co.jp/tralog/indeed-agency-kansai/"
+   ]
+  },
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 小規模 ニッチ 特化",
+   "results": [
+    "https://one-group.jp/humanresource/use/kyujinbox-agency.html",
+    "https://www.three-count.jp/recruit/indeed/",
+    "https://shuuumatu-worker.jp/projects/19038",
+    "https://cone-c-slide.com/liblog/indeed-outsourcing/",
+    "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "https://probel.jp/promaga/b/6528/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-indeeddaiko_231012/",
+    "https://listing-partners.com/indeed/",
+    "https://corp.joblink.co.jp/blog/blog-1044/",
+    "https://digireka-hr.jp/indeed-corporate/"
+   ]
+  },
+  {
+   "query": "製造業のIndeed・求人ボックス運用代行 設立 株主 親会社",
+   "results": [
+    "https://probel.jp/promaga/b/6528/",
+    "https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/",
+    "https://one-group.jp/humanresource/use/kyujinbox-agency.html",
+    "https://crosslink.jp.net/kyujinnavi/blog/indeed-agency/",
+    "https://axia-ag.co.jp/indeed-info/kyujinbox-2/",
+    "https://dym.asia/services/hr-tech/indeed/",
+    "https://www.three-count.jp/recruit/indeed/",
+    "https://www.tracom.co.jp/tralog/kyujinbox-agency/",
+    "https://buddy-data.co.jp/indeed-management-outsourcing/",
+    "https://rpm.zeku.co.jp/column/indeed-operation-agency"
+   ]
+  }
+ ],
+ "missing": {
+  "プレイヤー": "記載なし（読んだ38頁・検索7回）",
+  "料金体系": "記載なし（読んだ38頁・検索7回）",
+  "規模": "記載なし（読んだ38頁・検索7回）",
+  "創業年度": "記載なし（読んだ38頁・検索7回）",
+  "株主構成": "記載なし（読んだ38頁・検索7回）",
+  "製造業の採用の困りごと": "記載なし（読んだ38頁・検索7回）"
+ }
+}

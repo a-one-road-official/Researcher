@@ -1,0 +1,607 @@
+# 製造業向け採用支援の競合ランドスケープ（区分ごとのプレイヤー・料金体系・規模）（事実のみ・12品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 製造業特化の求人サイト・求人媒体（manufacturing job board Japan）
+- 文脈：求人媒体
+- プレイヤー：
+  - 「製造業におすすめの転職エージェント・転職サイト15社をピックアップ！サービス選びのポイントも紹介 | 株式会社ライズ・スクウェア」（https://www.rise-square.jp/archives/10228）
+  - 「製造業におすすめの転職エージェント・転職サイト15社をピックアップ！サービス選びのポイントも紹介」（https://www.rise-square.jp/archives/10228）
+  - 「さらにやっかいなのが、応募したときに雇用契約を結ぶ相手が、応募先企業なのか運営元となのかがサービスによって変わることです」（https://www.rise-square.jp/archives/10228）
+  - 「当記事では、製造業におすすめの転職エージェント・転職サイト15社をピックアップ」（https://www.rise-square.jp/archives/10228）
+  - 「製造業におすすめの転職エージェント・転職サイト15社をピックアップ！」（https://www.rise-square.jp/archives/10228）
+  - 「【大手メーカーを本命に考えている方向け】タイズ」（https://www.rise-square.jp/archives/10228）
+  - 「製造業の職種別｜おすすめ転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「生産技術・製造技術へ進みたい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「機械設計・電気設計へ進みたい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「研究開発・材料開発へ進みたい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「製造オペレーター・検査で働きたい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「製造業の転職ニーズ別｜おすすめ転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「未経験から製造業に転職したい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「寮に入って住み込みで働きたい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+  - 「希望のエリアで働きたい人におすすめの転職エージェント・転職サイト」（https://www.rise-square.jp/archives/10228）
+- 料金体系：
+  - 「利点②寮や赴任にかかる費用をまとめて比べられる」（https://www.rise-square.jp/archives/10228）
+  - 「赴任旅費の支給や引っ越し費用の補助がある求人を扱う」（https://www.rise-square.jp/archives/10228）
+  - 「寮費無料の求人を検索条件の先頭に置いていて、赴任の旅費や引っ越し費用の補助もそろえているからです」（https://www.rise-square.jp/archives/10228）
+  - 「住まいを移すところから始める方でも、初期費用を抑えて仕事を決められます」（https://www.rise-square.jp/archives/10228）
+  - 「社宅費用が全額補助で、敷金・礼金や仲介手数料もかからない」（https://www.rise-square.jp/archives/10228）
+  - 「住まいについても社宅費用が全額補助され、敷金や礼金、仲介手数料もかからない案内になっています」（https://www.rise-square.jp/archives/10228）
+  - 「寮の間取りや費用の負担は配属先によって変わるため、応募する前に希望のエリアの寮がどのタイプかを確かめてみてください」（https://www.rise-square.jp/archives/10228）
+  - 「寮や赴任にかかる費用をまとめて比べられる」（https://www.rise-square.jp/archives/10228）
+  - 「寮や赴任にかかる費用は、検索の段階でまとめて比べられます」（https://www.rise-square.jp/archives/10228）
+  - 「工場の求人サイトには、寮費や赴任費用が検索条件として用意されているからです」（https://www.rise-square.jp/archives/10228）
+  - 「赴任の交通費や引っ越し費用の補助があるか」（https://www.rise-square.jp/archives/10228）
+  - 「引っ越しを伴うなら、初期費用がいくら残るかまで計算してみてください」（https://www.rise-square.jp/archives/10228）
+  - 「寮や赴任費用の補助、資格取得の支援といった制度も、この場合は人材会社のものが適用されます」（https://www.rise-square.jp/archives/10228）
+  - 「採用が決まったときに企業から支払われる手数料や、求人の掲載料で運営されているためです」（https://www.rise-square.jp/archives/10228）
+  - 「スカウト型のサービスには一部に有料の機能もありますが、自分で申し込まない限り料金は発生しないと案内されています」（https://www.rise-square.jp/archives/10228）
+- 規模：
+  - 「工場・製造業を専門とする求人サイトの中で求人数No.1としている（※）」（https://www.rise-square.jp/archives/10228）
+  - 「（※）「工場・製造業求人数No.1」は同社による自己公表で、工場・製造業を専門とする求人サイト28サービスの公開求人件数の比較によるものです」（https://www.rise-square.jp/archives/10228）
+  - 「日本国内に92拠点（※）」（https://www.rise-square.jp/archives/10228）
+  - 「日本国内に92の拠点があり、直接会って登録する方法も残されているからです（※）」（https://www.rise-square.jp/archives/10228）
+  - 「全国（国内92拠点）」（https://www.rise-square.jp/archives/10228）
+  - 「ワークポートは全国47都道府県に拠点があり、面談で希望を聞いたうえで非公開求人を紹介する流れです」（https://www.rise-square.jp/archives/10228）
+  - 「全国47都道府県に拠点があり、面談を受けた方に非公開求人を紹介しています」（https://www.rise-square.jp/archives/10228）
+  - 「エッセンシャルワーカーに特化した採用支援サービス「プレックスジョブ」累計登録者数が200万人、利用事業所数が6万事業所を突破」（https://www.plex-job.com/magazine/articles/4075/）
+  - 「工場・製造業の求人数No1の製造業専門の求人サイト」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「全国38か所に拠点」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「・大手メーカー40社以上の優良期間工求人のみを取り扱っていて求人数も豊富」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「2007年に設立され、全国に46拠点を展開しています」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「求人数200万件以上」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「50代以上の方が求人サイトを使って工場系のお仕事を探す際は、全体求人数が豊富で、かつ「50代活躍中」などの条件で求人を絞り込めるサイトを優先して利用するとよいでしょう」（https://career-vision.or.jp/koujyou-osusumeranking）
+- 創業年度：
+  - 「2005年の創業からメーカー専門で転職支援を続けている転職エージェント」（https://www.rise-square.jp/archives/10228）
+  - 「1971年創業の日総工産が、請け負っている工場の仕事を集めたサイト」（https://www.rise-square.jp/archives/10228）
+  - 「2005年創業で、20年以上のサービス運営実績があります」（https://www.plex-job.com/magazine/articles/4075/）
+  - 「2007年に設立され、全国に46拠点を展開しています」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「一般社団法人キャリアビジョン協会は、少子高齢化社会による生産人口低下の課題に取り組むため、雇用、キャリアに関する様々な課題に取り組むことを目的とし設立しました」（https://career-vision.or.jp/koujyou-osusumeranking）
+- 株主構成：
+  - 「技術者派遣のメイテックグループの一員」（https://www.rise-square.jp/archives/10228）
+  - 「株式会社メイテックネクスト（メイテックグループ）」（https://www.rise-square.jp/archives/10228）
+  - 「UTグループが運営する工場・製造業の求人サイト（旧称はJOBPAL）」（https://www.rise-square.jp/archives/10228）
+  - 「働いた時間に応じてポイントが積み上がり、条件を満たすとUTグループの株式を受け取れる」（https://www.rise-square.jp/archives/10228）
+  - 「働いた時間に応じてポイントが積み上がり、条件を満たすとUTグループの株式を受け取れる制度も特徴です」（https://www.rise-square.jp/archives/10228）
+  - 「UTグループ株式会社」（https://www.rise-square.jp/archives/10228）
+  - 「貯まるワークは派遣先の企業へ転籍する仕組みと、グループ内の別の職場へ異動を申し込む制度の両方を持っています」（https://www.rise-square.jp/archives/10228）
+  - 「派遣先の企業へ転籍する仕組みと、グループ内の職場へ異動できる制度の両方があります」（https://www.rise-square.jp/archives/10228）
+  - 「同じ人が同じ組織単位（課やグループ）で働ける期間も3年が限度になります」（https://www.rise-square.jp/archives/10228）
+  - 「私自身もこちらで有名企業の子会社(非公開求人)を紹介頂き転職しました」（https://www.plex-job.com/magazine/articles/4075/）
+  - 「短期の派遣だけでなく、JOBPAL運営元の「UTグループ」正社員として派遣先が決まらない間も給与支給される「無期雇用派遣」、派遣先に直接雇用される前提の「紹介予定派遣」があります」（https://www.plex-job.com/magazine/articles/4075/）
+  - 「JOBPAL（ジョブパル）とは？口コミ・評判・実態を解説！UTグループってやばい？」（https://www.plex-job.com/magazine/articles/4075/）
+  - 「5位：UTグループ」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「UTグループ」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「UTグループの良い評判」（https://career-vision.or.jp/koujyou-osusumeranking）
+- 製造業の採用の困りごと：
+  - 「入社後の定着率は94%」（https://www.plex-job.com/magazine/articles/4075/）
+  - 「人材業界トップクラスの定着率を誇っているので、しっかりと安定して働きたい方は一度相談してみてはいかがでしょうか」（https://career-vision.or.jp/koujyou-osusumeranking）
+  - 「一般社団法人キャリアビジョン協会は、少子高齢化社会による生産人口低下の課題に取り組むため、雇用、キャリアに関する様々な課題に取り組むことを目的とし設立しました」（https://career-vision.or.jp/koujyou-osusumeranking）
+
+## 製造業の人材派遣・請負（大手）（manufacturing staffing companies Japan）
+- 文脈：派遣・請負
+- プレイヤー：
+  - 「【エリア別】おすすめの製造業派遣会社一覧」（https://www.manufacturing-hr.com/company/）
+  - 「【エリア別】おすすめの製造業派遣会社一覧_TOP」（https://www.manufacturing-hr.com/company/）
+  - 「エヌエス・テック株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「ビジネス・コンサート株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社ワイズ関西の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社MINの実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社ネクスト・ワンの実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「KGMビジネスネットワーク株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「キャリアリンクファクトリー株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「群馬総合スタッフ株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「WITプラス株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「東洋ワーク株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「三陽工業株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社マンキャピタルの実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「アデコ株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+- 料金体系：
+  - 「人材派遣の人件費や派遣料金の内訳」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：5,000万円（グループ資本金 合計 1億4,800万円）」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：5,000万円」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：20億1600万円（2022年3月31日現在）」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：716億9700万円(2022年3月期)」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：4,500万円」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：4億8,365万4千円（2019年12月31日時点）」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：6億8000万円（2021年9月30日現在）」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：1151億3100万円（2021年）」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：1億円」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：1,000万円」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：4,000万円」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：1億1600万円」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：1,010万円」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：56億円（2021年3月）」（https://www.manufacturing-hr.com/company/）
+- 規模：
+  - 「売上高：716億9700万円(2022年3月期)」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：14,563名（2021年12月現在）」（https://www.manufacturing-hr.com/company/）
+  - 「外国人エンジニアも在籍し、従業員国籍数は約40ヵ国とグローバルな環境になっています」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：1151億3100万円（2021年）」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：1億円」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：102名（2022年6月7日時点）」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：478名（2021年4月1日現在）」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：1,400名 （2021年3月）」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：56億円（2021年3月）」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：234名（内アルバイト19名、平成30年3月31日現在）」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：12.9億円（平成29年度実績）」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：8,895名（2021年6月末の限定正社員及び契約社員を加えたグループ総数／海外含）」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：230億円（グループ売上高、令和3年6月期）」（https://www.manufacturing-hr.com/company/）
+  - 「従業員数：18,700名（グループ41社全体）」（https://www.manufacturing-hr.com/company/）
+  - 「売上高：575億円（グループ売上高：907億円）」（https://www.manufacturing-hr.com/company/）
+- 創業年度：
+  - 「創業：1962年」（https://www.manufacturing-hr.com/company/）
+  - 「設立：1981年」（https://www.manufacturing-hr.com/company/）
+  - 「創業：1971年」（https://www.manufacturing-hr.com/company/）
+  - 「創業以来、モノづくり一筋で製造業を行ってきた会社で、プロ集団による半導体製造が主力事業です」（https://www.manufacturing-hr.com/company/）
+  - 「創業：1970年」（https://www.manufacturing-hr.com/company/）
+  - 「設立：2014年」（https://www.manufacturing-hr.com/company/）
+  - 「設立：2004年」（https://www.manufacturing-hr.com/company/）
+  - 「創業から派遣社員の無期雇用を実施しており、派遣先内でのローテーションで可能性を探るなど、長期的に考えた人材育成を行っています」（https://www.manufacturing-hr.com/company/）
+  - 「創業：1995年」（https://www.manufacturing-hr.com/company/）
+  - 「創業：1985年」（https://www.manufacturing-hr.com/company/）
+  - 「創業：1986年」（https://www.manufacturing-hr.com/company/）
+  - 「設立：2001年」（https://www.manufacturing-hr.com/company/）
+  - 「創立：1967年」（https://www.manufacturing-hr.com/company/）
+  - 「創業：2002年」（https://www.manufacturing-hr.com/company/）
+  - 「創立：2009年」（https://www.manufacturing-hr.com/company/）
+- 株主構成：
+  - 「日本テクニカルグループの実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「日総工産株式会社（日総グループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社ワールドインテック（ワールドホールディングス グループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社アウトソーシングテクノロジー（アウトソーシング グループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「UTグループ株式会社の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「日本マニュファクチャリングサービス株式会社（nmsホールディングス グループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社ジャパンクリエイト（株式会社ジャパンクリエイトグループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社P.C.HD（パワーキャストグループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社イカイアウトソーシング（イカイグループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社エイジェック（エイジェックグループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社ウィルオブ・ワーク（ウィルグループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「株式会社綜合キャリアオプション（綜合キャリアグループ）の実績と導入事例」（https://www.manufacturing-hr.com/company/）
+  - 「資本金：5,000万円（グループ資本金 合計 1億4,800万円）」（https://www.manufacturing-hr.com/company/）
+  - 「日総工産株式会社（日総グループ）」（https://www.manufacturing-hr.com/company/）
+  - 「日総工産株式会社（日総グループ）について詳しく見る」（https://www.manufacturing-hr.com/company/）
+- 製造業の採用の困りごと：
+  - 「派遣定着率とは？」（https://www.manufacturing-hr.com/company/）
+  - 「1週間後面談・1カ月後面談を実施するなどして定着を促している点が特徴です」（https://www.manufacturing-hr.com/company/）
+  - 「三陽工業株式会社は、定着率92％を誇る製造派遣事業に取り組んでいます」（https://www.manufacturing-hr.com/company/）
+  - 「確実に覚えられるまでしっかりとサポートしてもらえるフォロー体制を構築しているため、人材が定着しやすいといえるでしょう」（https://www.manufacturing-hr.com/company/）
+  - 「人手不足で困っている」（https://www.fullcastholdings.co.jp/magazine/koujou_haken/）
+  - 「急な受注増加によって人手が足りない、なかなか人材の採用ができないなど、人手不足で困っている場合は人材派遣の利用がおすすめです」（https://www.fullcastholdings.co.jp/magazine/koujou_haken/）
+  - 「スイスを拠点とするアデコグループは、1985年に日本法人「アデコジャパン」を設立し、40年の歴史をもつ老舗人材派遣企業として国内市場に定着しています」（https://www.b-stylejob.jp/column/21521/）
+  - 「この充実した教育環境により、スキル向上に意欲的な人材が多く登録しており、単なる人手不足解消だけでなく、組織の生産性向上や業務改善にも貢献できる人材の獲得が期待できます」（https://www.b-stylejob.jp/column/21521/）
+  - 「製造業の採用難易度は年々上がっており、従来の求人広告や人材派遣だけでは、定着する人材の確保が難しくなっています」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「「コストをかけても応募が来ない、採用してもすぐ辞める……」」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「・メーカー専門の転職エージェント・合格率よりも定着率を重視したマッチング」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「単にスキルが合うかだけでなく、企業の社風や働き心地まで考慮して紹介するため、入社後の定着率が高いことで知られています」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「多くの若手・ポテンシャル層に会いたいが、ミスマッチは防ぎたい企業にとって、バランスの良いサービスと言えます」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「「日本人の若手が全く集まらない」と頭を抱える経営者にとって、現実的かつ強力な打開策を提示してくれるパートナーです」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「ポイント③｜日本人若手以外の引き出しがあるか」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+- 検索結果の抜粋：
+  - 「大手人材派遣 会社9社を 比較 ｜マージン率や対応職種 — 大手人材派遣 会社9社を 比較 ｜マージン率や対応職種 しゅふJOBスタッフィング https://www.b-stylejob.jp > 家 > 人材派遣の基本」（https://www.b-stylejob.jp/column/21521/）
+  - 「労働 派遣 法改正などにより 大手 にチャンス【2023年7月更新】 — 労働 派遣 法改正などにより 大手 にチャンス【2023年7月更新】 KEPPLE https://kepple.co.jp > articles」（https://kepple.co.jp/articles/ybcfum58mec）
+  - 「大手人材派遣 会社9社を比較｜マージン率や対応職種 — 大手人材派遣 会社9社を比較｜マージン率や対応職種 しゅふJOBスタッフィング https://www.b-stylejob.jp > 家 > 人材派遣の基本」（https://www.b-stylejob.jp/column/21521/）
+  - 「人材業界 ランキング！ 大手 企業の 売上高 や平均年収【2026年】 — 人材業界 ランキング！ 大手 企業の 売上高 や平均年収【2026年】 mersenne.co.jp https://www.mersenne.co.jp > 企業ランキング」（https://www.mersenne.co.jp/jinzai-company）
+  - 「製造業の人材派遣請負( 大手 ) 業界 シェア 大手 の求人情報をすべて見る （542,127件） — 製造業の人材派遣請負( 大手 ) 業界 シェア 大手 の求人情報をすべて見る （542,127件） スタンバイ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%9D%90%E6%B4%BE%E9%81%A3%E8%AB%8B%E8%B2%A0%28%E5%A4%A7%E6%89%8B%29+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「製造業の人材派遣請負(大手) 小規模 ニッチ 特化 の求人情報をすべて見る （135,417件） — 製造業の人材派遣請負(大手) 小規模 ニッチ 特化 の求人情報をすべて見る （135,417件） スタンバイ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%9D%90%E6%B4%BE%E9%81%A3%E8%AB%8B%E8%B2%A0%28%E5%A4%A7%E6%89%8B%29+%E5%B0%8F%E8%A6%8F%E6%A8%A1+%E3%83%8B%E3%83%83%E3%83%81+%E7%89%B9%E5%8C%96&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+
+## 製造業エンジニアの人材紹介
+- 文脈：
+- エラー：ValueError: netloc '＃人材業界の上場企業の平均年収トップ3' contains invalid characters under NFKC normalization
+
+## 製造業エンジニアの技術者派遣（engineering staffing Japan）
+- 文脈：派遣・請負
+- プレイヤー：
+  - 「シェア 大手 業界 製造業エンジニアの技術者派遣の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「製造業エンジニアの技術者派遣 業界 シェア 大手」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手企業内でのカウンセラー業務」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社パソナ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手企業内でのカウンセラー業務】◇従業員へのカウンセリング（日本語・英語）◇産業医・保健師との連携、復職支援、面談調整◇ストレスチェックの運営、高ストレス者フォロー、職場改善提案◇メンタルヘルス研修やE-learningコンテンツの企画・作成◇ニュースレター、社内ポータルの更新・運営◇休職者データの管理・分析、英訳対応、事務サポート◎ランチ無料（日替わり♪手作り♪メニューも豊富！）◎公認心理師・臨床心理士の資格を活かせる◎英語でのカウンセリング経験を存分に発揮できる」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手企業での産業保健師」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手企業での産業保健師】・健康診断の実施補佐、事後措置、特定保健指導（外注）の調整・長時間健診の実施、疲労度チェックなど・ストレスチェックの実施運営・体調不良者および療養者の支援（健康相談、就業措置面談）・急病人、けが人の初期対応◎時短勤務のご相談可能！◎完全土日祝休み♪残業少なめ車通勤可能」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「伊丹空港 大手航空会社ラウンジ内での業務」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【伊丹空港 大手航空会社ラウンジ内での業務】＜ラウンジ内でのパントリー業務＞・ラウンジ内の食品・飲み物の補充・お客様が退席された後の片づけ・室内の清掃・美化・食器類の洗浄（食器洗浄機・手洗い）シフトパターン：A）5:30～14:00、B）5:45～14:15、C）12:30～21:00、D）13:00～21:30※A）B）勤務の場合は無料タクシーがお迎えにあがります（帰りは公共交通機関）☆空港勤務希望の方必見！☆未経験の方もぜひ！応募お待ちしています」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手工場での簡単ピッキング作業／パートタイム／西条市」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「アビリティーセンター株式会社」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手放送局のお仕事」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「パーソルマーケティング株式会社」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社グラスト 博多オフィス」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手グループ企業での事務サポートのお仕事」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 料金体系：
+  - 「月給45.5万円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給26.6万円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,600円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月収例：240,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,150円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,750円 / 交通費支給」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「30～50代活躍中／時給1750円／契約の手続き確認スタッフ募集／日払いOK！ ＼地域を歩き、状況確認業務！コツコツ巡回できる方にピッタリ／ ・未経験から始められるお仕事！同行して教えてもらえます！ ・高時給1750円！月収27万以上可！ ・訪問先はリストで事前に情報が把握できるため、計画的に回訪できる！ ・話す内容はマニュアルに沿って進めればOK」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,700円 / 交通費支給」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,350円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ企業での事務サポートのお仕事です】◆注文依頼の受付◆配送業者の選定・手配◆依頼書、注文書の作成◆見積書作成の依頼◆PDF書類の作成・送付◆精算対応◆メール・電話での確認連絡◆その他サポート業務＜おすすめポイント＞＊事務経験を活かせる＊メール中心で進めやすいお仕事＊同業務の方が2名いて安心＊レクチャー体制あり＊ゆくゆく直接雇用も検討＊車通勤OK 月収例：216,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,410円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手メーカーでの健康診断サポートなどの事務】～社員さんの健康管理を支えるサポート事務～・健康診断の準備や結果の集計・受診票配布・資料作成、データ入力・スケジュール調整・備品準備 など■開始日：12月1日■就業時刻 8:00～16:30 休憩60分■残業なし■休日：土日祝（企業カレンダーあり）■職場環境・部署人数：36名・男女比 ６：４・キレイなオフィス・服装：オフィスカジュアル・ネイル：ビジネスネイルＯＫ・無料駐車場あり＼専門知識不要周りの方に教えていただきながらスタートできます／ 月収例：212,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ物流企業での人事労務事務サポート】 ≪年末調整や総務労務経験のある方に≫半年～1年程度地元優良企業で働ける♪人間関係も◎な環境■福山市南部エリア■土日祝休み・年間休日：125日■車通勤可・無料駐車場あり■オフィスカジュアル≪お仕事内容≫年末調整サポート・給与計算◆書類チェック・修正依頼など◆データ入力・年税額計算：給与ソフト◆給与、賞与での過不足計算◆事後手続き・書類交付◆従業員への源泉徴収票の交付◆来客、電話対応 など★0120-944-333 月収例：216,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,270円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ企業でのデータ入力などの事務補助】≪早島エリア≫◎2月3月だけの期間限定！短期間でしっかり働く高時給1,270円！2名同時募集人間関係もよく、パソナスタッフさんもいらっしゃるので安心◆事務社員さんのサポートのお仕事です・システムへのデータ入力や各種帳票の出力 ・配送計画を専用システムへ登録 ・お客様へのお届け時間の電話案内※同部署：事務員さん7名◎適性やスキルを考慮し業務をお任せします◎専用ソフト使用なので 入力（文字と数字）と電話応対に抵抗がなければOK★お問合せ：0120-921-333 月収例：204,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 規模：
+  - 「【大手グループ物流企業での人事労務事務サポート】 ≪年末調整や総務労務経験のある方に≫半年～1年程度地元優良企業で働ける♪人間関係も◎な環境■福山市南部エリア■土日祝休み・年間休日：125日■車通勤可・無料駐車場あり■オフィスカジュアル≪お仕事内容≫年末調整サポート・給与計算◆書類チェック・修正依頼など◆データ入力・年税額計算：給与ソフト◆給与、賞与での過不足計算◆事後手続き・書類交付◆従業員への源泉徴収票の交付◆来客、電話対応 など★0120-944-333 月収例：216,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「技術者派遣業界の過去の業界規模の推移をはじめ、技術者派遣大手4社の売上高推移、2022-2023年の動向とIT人材不足に向けた各社の取り組みなどをご紹介しています」（https://gyokai-search.com/3-g-haken.html）
+  - 「技術者派遣大手4社の売上高の推移」（https://gyokai-search.com/3-g-haken.html）
+  - 「技術者派遣大手4社の売上高の推移（出所：各社有価証券報告書、グラフは業界動向サーチが作成）」（https://gyokai-search.com/3-g-haken.html）
+  - 「技術者派遣業界 売上トップ5（2022-2023年）」（https://gyokai-search.com/3-g-haken.html）
+  - 「2021-2022年の技術者派遣業界の売上高ランキングを見ますと、首位がアウトソーシング、2位がテクノオプロ・HD、3位がオープンアップグループ(旧夢真ビーネックスグループ)、メイテック、AKKODiSコンサルティングと続きます」（https://gyokai-search.com/3-g-haken.html）
+  - 「上位4社は売上高が均衡しランキングの入れ替えが起きていましたが、トップのアウトソーシング首位が2位以下を引き離し始めています」（https://gyokai-search.com/3-g-haken.html）
+  - 「技術者派遣業界 売上高ランキング(2022-2023年)」（https://gyokai-search.com/3-g-haken.html）
+  - 「技術者派遣業界 売上高&シェアランキング（2022年-2023年）」（https://gyokai-search.com/3-g-haken.html）
+  - 「技術者派遣 売上高ランキング(2022-23)」（https://gyokai-search.com/3-g-haken.html）
+- 株主構成：
+  - 「大手グループ企業での事務サポートのお仕事」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ企業での事務サポートのお仕事です】◆注文依頼の受付◆配送業者の選定・手配◆依頼書、注文書の作成◆見積書作成の依頼◆PDF書類の作成・送付◆精算対応◆メール・電話での確認連絡◆その他サポート業務＜おすすめポイント＞＊事務経験を活かせる＊メール中心で進めやすいお仕事＊同業務の方が2名いて安心＊レクチャー体制あり＊ゆくゆく直接雇用も検討＊車通勤OK 月収例：216,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手グループ物流企業での人事労務事務サポート」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ物流企業での人事労務事務サポート】 ≪年末調整や総務労務経験のある方に≫半年～1年程度地元優良企業で働ける♪人間関係も◎な環境■福山市南部エリア■土日祝休み・年間休日：125日■車通勤可・無料駐車場あり■オフィスカジュアル≪お仕事内容≫年末調整サポート・給与計算◆書類チェック・修正依頼など◆データ入力・年税額計算：給与ソフト◆給与、賞与での過不足計算◆事後手続き・書類交付◆従業員への源泉徴収票の交付◆来客、電話対応 など★0120-944-333 月収例：216,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手グループ企業でのデータ入力などの事務補助」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ企業でのデータ入力などの事務補助】≪早島エリア≫◎2月3月だけの期間限定！短期間でしっかり働く高時給1,270円！2名同時募集人間関係もよく、パソナスタッフさんもいらっしゃるので安心◆事務社員さんのサポートのお仕事です・システムへのデータ入力や各種帳票の出力 ・配送計画を専用システムへ登録 ・お客様へのお届け時間の電話案内※同部署：事務員さん7名◎適性やスキルを考慮し業務をお任せします◎専用ソフト使用なので 入力（文字と数字）と電話応対に抵抗がなければOK★お問合せ：0120-921-333 月収例：204,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「大手グループ企業での一般事務」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【大手グループ企業での一般事務】人気の9:00～16:00勤務大手グループ企業の総務部門で社員の皆さんを支える事務の募集ですデータ入力や書類作成だけでなく社内イベントの準備や社員の入社手続きのサポートなど人と関わりながら進めるお仕事です総務事務が初めての方でもPC入力ができればご応募いただけます職場について・勤怠チェック・備品発注と管理・社内イベントや行事の準備（お弁当や備品の手配）・入社される方の受入れ準備・親会社への書類や物品の受け渡しの外出適度に動きのある環境です★お問い合せ0120-944‐333 月収例：202,000 円」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「東証一部上場企業」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「会社情報：東証一部上場の大手物流会社 サランラップ製品の入出庫作業！ 旭化成鈴鹿工場内の物流センターです サランラップなどフィルム製品全般の入出庫作業をお願いします」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「オープンアップグループ」（https://gyokai-search.com/3-g-haken.html）
+  - 「2021-2022年の技術者派遣業界の売上高ランキングを見ますと、首位がアウトソーシング、2位がテクノオプロ・HD、3位がオープンアップグループ(旧夢真ビーネックスグループ)、メイテック、AKKODiSコンサルティングと続きます」（https://gyokai-search.com/3-g-haken.html）
+  - 「グループ全体の技術者のうち」（https://gyokai-search.com/3-g-haken.html）
+  - 「また、2020年3月には、AI学習支援企業「アイデミー」に出資し、AI+αの」（https://gyokai-search.com/3-g-haken.html）
+  - 「オープンアップグループ(旧夢真ビーネックスグループ)でも、」（https://gyokai-search.com/3-g-haken.html）
+- 製造業の採用の困りごと：
+  - 「2022年の技術者派遣はIT人材が好調 DX、人手不足が追い風に」（https://gyokai-search.com/3-g-haken.html）
+  - 「デジタル化や人手不足、経済再開などの動きなどを背景に好調に推移」（https://gyokai-search.com/3-g-haken.html）
+  - 「デジタル化や人手不足など社会的なニーズは高く、」（https://gyokai-search.com/3-g-haken.html）
+  - 「現在の日本では、「人手不足」と「生産性」の向上が喫緊の課題で、これを担う人材が大きく不足しています」（https://gyokai-search.com/3-g-haken.html）
+- 検索結果の抜粋：
+  - 「製造業エンジニアの技術者派遣 業界 シェア 大手 の求人情報をすべて見る （539,305件） — 製造業エンジニアの技術者派遣 業界 シェア 大手 の求人情報をすべて見る （539,305件） スタンバイ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「製造業エンジニアの技術者派遣 小規模 ニッチ 特化 の求人情報をすべて見る （133,638件） — 製造業エンジニアの技術者派遣 小規模 ニッチ 特化 の求人情報をすべて見る （133,638件） スタンバイ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%B4%BE%E9%81%A3+%E5%B0%8F%E8%A6%8F%E6%A8%A1+%E3%83%8B%E3%83%83%E3%83%81+%E7%89%B9%E5%8C%96&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 創業年度：記載なし（読んだ41頁・検索7回）
+
+## 製造業の採用代行（RPO）（recruitment process outsourcing manufacturing Japan）
+- 文脈：採用代行
+- プレイヤー：
+  - 「採用代行（RPO）おすすめ45社を比較！料金相場・選び方【2026年版】」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行（RPO）を比較して選ぶなら、まず業務範囲の違いで4つのタイプに分け、自社の課題に合うタイプから絞り込むのが近道です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「その他、料金体系の見方や、比較で失敗しやすい注意点、問い合わせ時に確認したい質問リストもまとめています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「【45社比較表付き】採用代行の選定ガイド」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「2. 採用代行（RPO）サービス提供会社カオスマップ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「3. 採用代行（RPO）サービス提供会社45社の比較表」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「4. 採用代行サービス提供会社の4つの種類と選び方」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「5. 【比較の軸】料金体系・契約期間で見る違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「7. 比較検討時にチェックすべき質問リスト」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「8. 採用代行（RPO）サービス提供会社45社の詳細」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「10. 複数社に同時見積もりを取る際の比較のコツ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「そのため、まずは各社の対応範囲や特徴を比較しながら、自社の課題に合った依頼先を検討することが重要です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「まずは全体像を把握し、自社の課題に近いタイプを絞り込むことで、比較検討をスムーズに進められます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+- 料金体系：
+  - 「採用代行（RPO）おすすめ45社を比較！料金相場・選び方【2026年版】」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「その他、料金体系の見方や、比較で失敗しやすい注意点、問い合わせ時に確認したい質問リストもまとめています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「5. 【比較の軸】料金体系・契約期間で見る違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「6. 料金や知名度だけで選ぶと失敗する？採用代行選びの「3つの注意点」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「料金体系の傾向」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「委託内容に応じた委託料（月額/従量/成果報酬）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「成功報酬型（年収の30%前後が相場）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・採用代行の導入に伴う費用の概算」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・料金プランや詳細を確認したい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「月額14万円～（ニーズに合わせてお見積り）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・ライトプラン（月額税込」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「12万5,400円」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・ベーシックプラン（月額税込10万8,900円）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+- 規模：
+  - 「東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「従業員規模：51～100人」（https://boxil.jp/mag/a10093/）
+  - 「従業員規模：31～50人」（https://boxil.jp/mag/a10093/）
+  - 「従業員規模：1000人以上」（https://boxil.jp/mag/a10093/）
+  - 「【2026年最新】採用代行（RPO）の導入事例16選｜業種・従業員規模別に課題と成果を紹介」（https://marugotoinc.jp/blog/rpo/）
+  - 「国内5拠点の大型コールセンターを保有」（https://marugotoinc.jp/blog/rpo/）
+  - 「世界80カ国、日本国内で144拠点展開」（https://marugotoinc.jp/blog/rpo/）
+  - 「世界80カ国、日本国内で144拠点を展開」（https://marugotoinc.jp/blog/rpo/）
+  - 「全国6拠点体制」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「トラコム株式会社は、全国6拠点に展開する総合求人広告代理店です」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「全国6拠点体制、約35,000社以上の支援実績、Indeedプラチナムパートナー」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「最短1週間で運用を開始できるスピード感があり、上場企業や専門職採用における難易度の高い案件にも対応しています」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「「Recboo」は、85社を超えるVC/CVCと提携しながらスタートアップや上場ベンチャー企業を対象としたHRコンサルティング事業（採用コンサル〜採用代行の一気通貫型サービス）です」（https://service.r-4.co.jp/knowhow/recruiting/rpo-recommendedcompanies/）
+  - 「初期スタートアップ（約60%）〜中小・大企業（売上500億円超含む）」（https://service.r-4.co.jp/knowhow/recruiting/rpo-recommendedcompanies/）
+  - 「2024年10月のリリースから累計30社以上を支援し、初期スタートアップから売上500億円超の企業まで幅広く対応します」（https://service.r-4.co.jp/knowhow/recruiting/rpo-recommendedcompanies/）
+- 創業年度：
+  - 「1973年創業と業界内でも老舗企業で、採用に関するノウハウが豊富」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「2004年創業以来、パートや契約社員など有期雇用スタッフ採用において、年間900名規模の採用実績を持つ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「2011年創立以来、業種・職種問わず累計12,000社以上の採用支援実績を誇る」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「のパソナは、1976年創業の総合人材サービス企業で、派遣・紹介・アウトソーシング・コンサルティングなど幅広い人材ソリューションを提供しています」（https://boxil.jp/mag/a10093/）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/rpo/）
+  - 「1966年設立で、採用代行サービスの提供企業としては老舗」（https://marugotoinc.jp/blog/rpo/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/rpo/）
+  - 「マンパワーグループは、1966年設立の人材会社で、」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「採用がうまくいかない優良企業向けに、戦略・運用に特化した採用コンサルティングファーム「株式会社アズライト」を創業」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「・1966年創立、老舗RPO企業として多業種・多職種に対応」（https://service.onecareer.jp/blog/graduate_recruitment_rpo）
+  - 「マンパワーグループは、1966年創立以来の実績をもとに、あらゆる業種・職種の採用課題を解決してきたRPOの老舗企業です」（https://service.onecareer.jp/blog/graduate_recruitment_rpo）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「採用がうまくいかない優良企業向けに、戦略・運用に特化した採用コンサルティングファーム「株式会社アズライト」を創業」（https://azu-rite.co.jp/clumn/rpo-cost）
+  - 「累計200社以上の支援実績に基づき、現在は株式会社採用総研の常務取締役として、東京オフィスの設立やWebマーケティング部門の立ち上げを牽引」（https://www.ssen.co.jp/blog/149）
+- 株主構成：
+  - 「マンパワーグループ株式会社」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「グループ年間採用支援企業15,000社以上！」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「総合人材グループとしての強固なインフラ体制を活かし、急な増員計画にともなう大量採用や、複数あるグループ会社の採用実務を一括で一元管理・運用するプランなど、他社では対応が難しい大規模かつ複雑な採用プロジェクトであっても実務の現場を強力にサポート可能です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「マンパワーグループ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「マンパワーグループの採用代行・採用コンサルティングサービス」（https://boxil.jp/mag/a10093/）
+  - 「「マンパワーグループ」」（https://boxil.jp/mag/a10093/）
+  - 「採用代行サービスの大手はリクルートやパソナ、マイナビ、アデコ、パーソル、マンパワーグループ、ネオキャリア」（https://boxil.jp/mag/a10093/）
+  - 「のパーソルは「はたらいて、笑おう」をグループビジョンに掲げ、幅広い人材サービスを提供する総合HR企業です」（https://boxil.jp/mag/a10093/）
+  - 「マンパワーグループの」（https://boxil.jp/mag/a10093/）
+  - 「のマンパワーグループは世界各地で人材派遣・紹介・アウトソーシングなど総合HRサービスを展開するグローバル人材企業です」（https://boxil.jp/mag/a10093/）
+  - 「マンパワーグループの採用代行・採用コンサルティングサービスは、採用戦略立案から応募者対応、選考運用まで企業の採用業務を幅広く支援します」（https://boxil.jp/mag/a10093/）
+  - 「株式会社ツナググループ・ホールディングス」（https://marugotoinc.jp/blog/rpo/）
+  - 「マンパワーグループ株式会社」（https://marugotoinc.jp/blog/rpo/）
+  - 「テクノロジー領域を中心に、東証一部上場企業からスタートアップ・ベンチャーまで幅広い企業に対応」（https://marugotoinc.jp/blog/rpo/）
+  - 「株式会社ツナググループ・ホールディングスのサイトはこちら」（https://marugotoinc.jp/blog/rpo/）
+- 製造業の採用の困りごと：
+  - 「採用から定着まで「人」に関する課題を一気通貫で解決」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「新卒採用支援、中途採用支援、組織強化支援、離職防止支援、CI・広告制作など、それぞれの領域でノウハウとスキルを蓄積したスペシャリストが多数在籍」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「将来の定着度までを見据えた離職者分析やサイト運用、説明会で使用する動画やパンフレット作成など」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用難易度の高い職種でも、的確なアプローチが可能になりました」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用工数の圧迫、母集団形成、採用難易度の高い職種の採用」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「特殊なハードウェアエンジニアという採用難易度の高い職種でも、的確なターゲティングとスカウト文面の提案を受けられるようになり、実務から解放されたことで採用活動の幅も広がっています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「アールナインとは株式会社アールナインは、採用・育成・定着といった”人”に関する課題解決をトータルで支援する企業です」（https://boxil.jp/mag/a10093/）
+  - 「定着につながる人材を獲得可能」（https://boxil.jp/mag/a10093/）
+  - 「勤務地やフリーワード検索を軸に、求職者の希望と企業ニーズを的確にマッチングし、採用後も定着しやすい人材を集められます」（https://boxil.jp/mag/a10093/）
+  - 「設計から定着まで一気通貫で支援」（https://boxil.jp/mag/a10093/）
+  - 「入社後の定着、活躍まで視野に入れた支援が強みです」（https://boxil.jp/mag/a10093/）
+  - 「戦略策定から定着まで一気通貫で支援」（https://boxil.jp/mag/a10093/）
+  - 「メイクコアのRPOは、採用戦略の立案から入社後の育成計画策定、定着フォロー面談まで一気通貫でサポートする業務代行サービスです」（https://boxil.jp/mag/a10093/）
+  - 「採用代行の中でもエンジニア、ベンチャー向け、新卒・若手採用向けなど得意領域をもつタイプです」（https://boxil.jp/mag/a10093/）
+  - 「求人広告や検索エンジンの運用、スカウト代行、HP作成、採用SNS・オウンドメディアの運用、人事評価制度の策定、定着支援、オフラインイベントの実施など幅広くサポートします」（https://boxil.jp/mag/a10093/）
+- 検索結果の抜粋：
+  - 「採用代行 （ RPO ）おすすめ45社を 比較 ！料金相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を 比較 ！料金相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行 ( RPO ) 比較 48選 大手・人気 ランキング とタイプ別 ... — 採用代行 ( RPO ) 比較 48選 大手・人気 ランキング とタイプ別 ... BOXIL https://boxil.jp > mag」（https://boxil.jp/mag/a10093/）
+  - 「【2026年最新】 採用代行 （ RPO ）47社タイプ別で 比較 ！料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で 比較 ！料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo/）
+  - 「【2026年最新】 採用代行 ( RPO )のおすすめ企業50社を 比較 ... — 【2026年最新】 採用代行 ( RPO )のおすすめ企業50社を 比較 ... 株式会社アズライト https://azu-rite.co.jp > 採用ノウハウ > 採用代行」（https://azu-rite.co.jp/clumn/rpo-recomend）
+  - 「【2026年】 採用代行 （ RPO ）のおすすめ54社を ... - ITreview — 【2026年】 採用代行 （ RPO ）のおすすめ54社を ... - ITreview ITreview https://www.itreview.jp > ... > その他パートナー > BPO」（https://www.itreview.jp/categories/rpo）
+  - 「【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo/）
+  - 「採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「RPO （ 採用代行 ） 会社 おすすめ13選！ 企業 一覧と選び方を解説 — RPO （ 採用代行 ） 会社 おすすめ13選！ 企業 一覧と選び方を解説 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/rpo-recommendedcompanies/）
+  - 「比較表つき｜ 採用代行 ( RPO )おすすめ44社を解説！費用や特徴 ... — 比較表つき｜ 採用代行 ( RPO )おすすめ44社を解説！費用や特徴 ... ワンキャリア https://service.onecareer.jp > コラム」（https://service.onecareer.jp/blog/graduate_recruitment_rpo）
+  - 「【2026年】 採用代行 ・採用アウトソーシング( RPO )のサービス ... — 【2026年】 採用代行 ・採用アウトソーシング( RPO )のサービス ... BOXIL https://boxil.jp > sc-recruiting_agent」（https://boxil.jp/sc-recruiting_agent/）
+  - 「採用代行 （ RPO ）おすすめ45社を比較！ 料金 相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！ 料金 相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「料金 公開されている 採用代行 （ RPO ）10社比較！の費用相場 ... — 料金 公開されている 採用代行 （ RPO ）10社比較！の費用相場 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「【社名あり】 採用代行 （ RPO ）の導入事例10選｜ 業界 ・課題 ... — 【社名あり】 採用代行 （ RPO ）の導入事例10選｜ 業界 ・課題 ... 株式会社アールナイン https://r09.jp > 人事ノウハウ」（https://r09.jp/columns/23420/）
+  - 「【2026年最新】 採用代行 （ RPO ）の導入事例16選 — 【2026年最新】 採用代行 （ RPO ）の導入事例16選 まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo-usage/）
+  - 「採用代行 ( RPO )の選び方と14の比較ポイントを徹底解説 — 採用代行 ( RPO )の選び方と14の比較ポイントを徹底解説 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko-erabikata-220414/）
+
+## 製造業のIndeed・求人ボックス運用代行（Indeed management agency manufacturing Japan）
+- 文脈：運用代行
+- プレイヤー：記載なし（読んだ38頁・検索7回）
+- 料金体系：記載なし（読んだ38頁・検索7回）
+- 規模：記載なし（読んだ38頁・検索7回）
+- 創業年度：記載なし（読んだ38頁・検索7回）
+- 株主構成：記載なし（読んだ38頁・検索7回）
+- 製造業の採用の困りごと：記載なし（読んだ38頁・検索7回）
+
+## 製造業の採用ブランディング・採用広報・採用動画（recruitment branding manufacturing Japan）
+- 文脈：採用広報
+- プレイヤー：記載なし（読んだ38頁・検索7回）
+- 料金体系：記載なし（読んだ38頁・検索7回）
+- 規模：記載なし（読んだ38頁・検索7回）
+- 創業年度：記載なし（読んだ38頁・検索7回）
+- 株主構成：記載なし（読んだ38頁・検索7回）
+- 製造業の採用の困りごと：記載なし（読んだ38頁・検索7回）
+
+## 高卒採用支援（high school graduate recruitment support Japan）
+- 文脈：高卒
+- プレイヤー：
+  - 「高卒採用支援サービス比較 — 6社の特徴・対象地域・高校ネットワークを徹底比較【2026年版】 | ゆめスタ | ゆめスタ」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「高卒採用支援サービス比較」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「— 6社の特徴を徹底比較【2026年版】」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「ジョブドラフト・ハリケンナビ・高チャレ・COURSE・カケハシ・ゆめマガの6社を、対象地域・高校ネットワーク・特徴で客観的に比較し、自社に合ったサービスの選び方を解説します」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「2. 6社比較表」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「以下は、各社の公式サイトで公開されている情報に基づいた比較です」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: 株式会社ジンジブ（東証グロース上場）」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: 株式会社ハリアー研究所」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: 株式会社COFFISO」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: nps株式会社」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: 株式会社Puravida」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: 株式会社ゆめスタ」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営する株式会社ゆめスタは、教育委員会と連携し、高校の授業を直接受け持っています」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「大手企業は知名度だけで応募が集まりますが、中小企業は「知られていない」ことが最大の課題です」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「最も重視すべきは「自社がターゲットとする高校に、そのサービスが実際に届いているか」です」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+- 料金体系：
+  - 「料金や詳細な条件は各社に直接お問い合わせください」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「基本情報のみ掲載の無料プランがあり、費用を抑えて始めたい企業の入口になります」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「まず費用を抑えて始めたい」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「高卒採用支援サービスの費用相場はどのくらいですか？」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「高卒採用支援サービスの費用は、無料プランから月額数十万円まで幅広いです」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「ジョブドラフトは基本情報のみ掲載の無料プランがあり、情報誌型のサービスは掲載費用が発生するのが一般的です」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「具体的な金額は各社に問い合わせが必要ですが、大卒採用の求人広告（1回50〜100万円以上）と比べると低コストで始められるケースが多いです」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「ジョブドラフトの無料プランなら費用をかけずに始めることも可能です」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「料金・サービス内容は変更される場合があります」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「■掲載料が無料」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「中途採用の費用対効果が、以前と比べ3倍になった事例をご紹介！」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「当社担当後は、中途採用の費用対効果が、以前と比べ3倍になりました」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「・中途採用の費用対効果が、以前と比べ3倍になった」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+- 規模：
+  - 「■従業員数：12名」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「『20万人以上の外国人登録者数と月平均応募数15名の求人媒体』を活かし、人手不足と採用コスト削減を同時に実現するサービス」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「新型コロナ感染拡大の影響で飲食や宿泊業など求人数が激減する一方、2021年3月卒の新卒高校生に対する有効求人倍率は2.64倍に上ります」（https://www.harikennabi.jp/lp_biz/）
+  - 「（従業員80名）」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「（従業員60名）」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「税抜・月額は従業員規模による（10万円〜）」（https://saiyo.runland.co.jp/price/）
+  - 「従業員規模による月額（1〜20名）」（https://saiyo.runland.co.jp/price/）
+  - 「2024年3月、東証グロース市場に上場」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「従業員約30名、高卒採用は初めてだったS社」（https://sales-adventure.jp/）
+- 創業年度：
+  - 「高卒就職支援を専業に創業以来、1500社を超える企業の新卒高校生の採用をお手伝いしてきました」（https://www.harikennabi.jp/lp_biz/）
+  - 「ミライズ株式会社の創業期に参画し、初めは高校の現場で先生方と協力しながら、高校生の就職活動の支援を担当」（https://www.wantedly.com/companies/company_2219765/post_articles/1102331）
+  - 「創業以来、ずっと中途採用しかしていなかった企業も、高卒者に注目しはじめていますし、実際に高卒採用した会社からは非常に高い評価を得ています」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「求人広告会社での営業経験を経て起業し、1998年に広告宣伝業を創業」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「2015年に株式会社ジンジブを設立し、高卒就職支援サービス「ジョブドラフト」を開始」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「2003年の創業以来、一環として企業様の高卒採用を支援してまいりました」（https://www.hrier.jp/）
+- 株主構成：
+  - 「上場企業の信頼性、無料プランあり」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「運営: 株式会社ジンジブ（東証グロース上場）」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「■29種類の在留資格は2つのグループに分けられる」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「【東証一部上場企業抜粋】」（https://www.harikennabi.jp/lp_biz/）
+  - 「UTグループ株式会社」（https://www.harikennabi.jp/lp_biz/）
+  - 「基盤サービスは東証グロース上場の株式会社ジンジブ、窓口は岐阜の専任担当が務めます」（https://saiyo.runland.co.jp/price/）
+  - 「SMBCグループ×ジンジブが取り組む、高校生キャリア支援 | DX-link（ディークロスリンク）- 三井住友フィナンシャルグループ」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「SMBCグループ×ジンジブが取り組む、高校生キャリア支援」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「こうした社会課題に対し、SMBCグループでは、社会的価値創造を目的としたグループ内の提案制度を起点に、高校生のキャリア支援をテーマとした取り組みを進めています」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「検討を進める中で、グループ子会社である」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「そうした問題意識のもと、SMBCグループ内にある「社会的価値創造ミーティング（通称：シャカカチMTG）」という仕組みの中で、高校生のキャリア形成と企業の人材課題を掛け合わせ、何か新しい取り組みができないか検討を始めました」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「グループが掲げるマテリアリティ「日本の再成長」を考えても、次世代を担う人材への投資は欠かせないテーマだと感じています」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「さらに、より多くの企業が高卒採用に取り組みやすい環境を整えるため、グループ会社であるプラリタウンとジンジブさまとの間で業務提携を結びました」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「SMBCグループとの連携によって、より多くの企業が求人情報を電子化し、求人サイトへ掲載していくことで、高校生が企業を知る機会も増やせます」（https://www.smfg.co.jp/dx_link/article/0229.html）
+  - 「SMBCグループとして社会的価値の創造を掲げている中で、本業のビジネスにも寄与する成功事例をどんどんつくり、発信していきたいと考えています」（https://www.smfg.co.jp/dx_link/article/0229.html）
+- 製造業の採用の困りごと：
+  - 「求人サイト「ジョブドラフトNavi」、合同企業説明会「ジョブドラフトFes」、キャリア教育プログラム「ジョブドラフトCareer」、入社後の定着支援「ルーキーズクラブ」など、採用の入口から出口まで一気通貫でサービスを提供しています」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「近畿地方の高等学校431校（約60%）にシステムが導入されており、学校の就職指導インフラとして定着しています」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「誌面は「企業インタビュー」「ライフワークトレンド（社会人のライフスタイル特集）」「若手スタッフインタビュー」の3コンテンツで構成されており、高校生が社会人になることへの期待を高めるアプローチが特徴です」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「応募が来ない」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+  - 「当社では、新入社員・若手社員を対象としたビジネスパーソンに求められる」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■リファラル採用の活動量と定着度を見える化」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■人手不足解決」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「大卒、中途の採用難が続く中、高校新卒を求める企業がここ数年急激に」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■若手優秀層に特化したデータベース」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「教育や、福利厚生等を充実させ、定着する会社作りを目指すことが可能です」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「2016年頃から有効求人倍率が高くなり、売り手市場になったことで」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「・2016年頃から有効求人倍率が高くなり、売り手市場になったことで」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「応募が来ない・少ない場合や会社の求める人材(スキル等)がわからず」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■応募が来ない・少ないの解決策」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「『20万人以上の外国人登録者数と月平均応募数15名の求人媒体』を活かし、人手不足と採用コスト削減を同時に実現するサービス」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+- 検索結果の抜粋：
+  - 「高卒採用支援 サービス 比較 — 6社の特徴を徹底 比較 【2026年版】 — 高卒採用支援 サービス 比較 — 6社の特徴を徹底 比較 【2026年版】 ゆめスタ https://yumesuta.com > 高卒採用」（https://yumesuta.com/kosotsusaiyo/recruitment-service-comparison）
+
+## 外国人材（特定技能・技能実習）の採用支援（製造業）（foreign worker recruitment manufacturing Japan specified skilled worker）
+- 文脈：外国人材
+- プレイヤー：
+  - 「【26年版】登録支援機関ランキング｜15社の特徴比較や採用事例、費用まで | 株式会社スタッフ満足」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「【26年版】登録支援機関ランキング｜15社の特徴比較や採用事例、費用まで」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「株式会社スタッフ満足 新井 宏典」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「おすすめの登録支援機関15社を比較表で一覧化」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「主要の登録支援機関15社を比較」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「機関の数が多いぶん、何を基準に絞り込むかを決めておくと比較が早く進みます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「この記事で比較する機関はごく一部にすぎません」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「全国に対応している機関が他県の住所で載っていることもあるため、対応エリアは比較表や問い合わせで確かめてください」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「費用を比較するときは、」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「たとえば当社を「株式会社スタッフ満足」で引くと、登録番号19登-003102、登録年月日2019年11月21日の行が見つかります」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「番号を照らしたうえで、これまでの支援件数と、自社が採用する業種・国籍での支援経験を問い合わせのときに聞いておくと、手続きの遅延やノウハウ不足のリスクを減らせます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「まずは登録支援機関15社の特徴や支援内容などを比較していきます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「各社の特徴をつかんだうえで、月額費用・対応言語・対応エリア・支援実績を並べた比較表で全体像を確認してください」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「なお、競合各社の数値・料金は各社が公開している情報を基にまとめています」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「最新の内容は各社の公式サイトで確認することをおすすめします」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+- 料金体系：
+  - 「【26年版】登録支援機関ランキング｜15社の特徴比較や採用事例、費用まで | 株式会社スタッフ満足」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「【26年版】登録支援機関ランキング｜15社の特徴比較や採用事例、費用まで」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「費用・対応言語・対応エリア・支援実績」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「とくに費用は、月額の安さではなく、」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「月額に含まれる支援範囲と年間の総額で見ることが、契約後の想定外を防ぐ鍵」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「し、委託できる支援の範囲、失敗しない選び方、月額の安さだけで選んだときの落とし穴までを解説します」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「低価格＆一律料金で必要な支援をすべて提供します」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「登録支援機関にかかる費用相場」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「ここでは、費用体系・対応言語・支援実績・行政処分履歴という具体的な判断軸を紹介します」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「月額に含まれる支援範囲と追加費用の条件」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「費用を比較するときは、」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「月額の金額だけでなく、その月額にどこまでの支援が含まれるかを確認してください」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「義務的支援10項目を月額内でカバーしているか、義務的支援以外を依頼すると別途費用が発生するのか、初期費用はかかるのかまで見ておくと、契約後の想定外を防げます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「毎月のランニングコストが安く見えても、支援を依頼するたびに費用が積み上がる料金体系の機関もあります」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「人材紹介と登録支援を別々の機関に分けると、採用後にトラブルが起きたときに責任の所在があいまいになりやすく、やり取りの手間や費用交渉の負担も増えがちです」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+- 規模：
+  - 「株式会社スーパー・コートは、大阪を中心に有料老人ホームを47施設運営する従業員数2,661人（令和7年4月時点）の介護事業者です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「大江戸温泉物語ホテルズ＆リゾーツ株式会社が運営する「大江戸温泉物語 Premium伊勢志摩」は、英虞湾を望む絶景露天風呂と海の幸バイキングが自慢の温泉宿で、従業員数は1,758人（2025年3月時点）です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「株式会社和なかは、大阪・なんばに本店を構える人気たこ焼店「たこ焼道楽わなか」を運営する従業員数50人（2025年4月時点）の飲食企業です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「外国人採用の実績は5,000名以上、特定技能外国人の採用支援における取引社数は200社を突破いたしました！外国人採用、特定技能に関するご相談はぜひスタッフ満足まで！」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「日本全国39拠点保有しています」（http://www.tokuteiginou-compare.com/）
+  - 「【従業員数】 3,084人 （うち１号特定技能外国人が53人（国籍：インドネシア、タイ、ベトナム、中国、フィリピン））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 132人 （うち１号特定技能外国人が7人（国籍：ベトナム））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 20人 （うち1号特定技能外国人が７人（国籍：インドネシア、タイ））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 18人 （うち１号特定技能外国人が１人（国籍：ベトナム））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 146人 （うち１号特定技能外国人が5人（国籍：タイ））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 104人 （うち１号特定技能外国人が8人（国籍：中国、ベトナム、インドネシア））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 674人 （うち１号特定技能外国人が3人（国籍：ベトナム３人））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 ３８人 （うち１号特定技能外国人が１１人（国籍：インドネシア・中国））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「【従業員数】 163人 （うち１号特定技能外国人が37人（国籍：ベトナム））」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「⚫ 年１回、自社及び協力会社の従業員と家」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+- 創業年度：
+  - 「比較的新しい会社であるため（2018年創業）、実績と情報が少ないです」（http://www.tokuteiginou-compare.com/）
+  - 「⚫ 登録支援機関を別会社で設立しているこ」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「創業40年以上の実績が支える安定した基盤」（https://gaikokusaiyo.com/agency_business/factory/）
+  - 「2015年、スタートアップを共同創業」（https://www.jinzaiplus.jp/posts/5）
+  - 「2021年に株式会社ジンザイベースを創業」（https://www.jinzaiplus.jp/posts/5）
+  - 「グループ持株会社（1951年創業）」（https://www.cstm-careersupport.com/industry/manufacturing/）
+  - 「【2025年6月設立】新団体「工業製品製造技能人材機構」の設立と役割」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「さらに2025年には、特定技能の対象分野拡大や新団体が設立され、今後も採用は加速する見込みです」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「2025年6月に、新たに 「工業製品製造技能人材機構」 が設立されました」（https://aidemglobal.jp/column/qualifications/foreign-worker-manufacturing/）
+  - 「関係省庁の厳正な審査を経て認可・設立された」（https://apico.or.jp/lp/）
+  - 「比較的創業が新しい企業ですが、支援実績は700名を超えます」（https://aidemglobal.jp/column/recruitment-know-how/tokyo-manufacturing-specified-skilled-worker/）
+- 株主構成：
+  - 「株式会社スタッフ満足は、ビジネスホテルを展開するスーパーホテルグループを母体とし、外国人の採用から雇用後の定着支援まで一気通貫でサポートする人材紹介会社・登録支援機関です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「グループの介護施設やホテルで2012年から」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「多くの登録支援機関が支援業務を専門とするなか、スタッフ満足はグループ企業のスーパー・コート（介護施設運営）やスーパーホテルで、」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「株式会社スタッフ満足（スーパーホテルグループ）」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「マイナビグループの株式会社マイナビグローバルが展開している登録支援機関サービスです」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「株式会社USEN-NEXT HOLDINGSのグループ会社です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「ビザ申請（更新）書類の作成を、グループ事務所の行政書士アーバン国際法務事務所へ一任できることが特徴です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「ベトナムから来日し、スタッフ満足のグループ会社スーパー・コートで介護福祉士として働くティエンさんは、日本を選んだ理由を「日本の介護技術と福祉の制度は世界の中の評価が高くて、自分ももっと勉強したいという思いがあって、だから日本に来ました」と話します」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「スーパーホテルグループとして外国人を雇用してきた経験をもとにつくられた」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「技能実習満了者や特定技能候補者を、OSグループ海外現地法人やアセアン地域提携先との強固なネットワークで、国内外における優秀な人材の確保可能」（http://www.tokuteiginou-compare.com/）
+  - 「グループと提携している海外のトレーニングセンターにて日本語、技能のトレーニングを終え特定技能の資格を取得した人材を紹介します」（http://www.tokuteiginou-compare.com/）
+  - 「は、特定技能外国人の募集から面接、入国前準備、入国後の生活・就業支援までを自社グループ内で一貫対応しています」（https://www.grop.co.jp/outsourcingpro/specific-skills-difference/）
+  - 「数名のグループで製品を」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「グループの就業時間やオペレーション」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「1名は元・グループ会」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+- 製造業の採用の困りごと：
+  - 「採用する外国人の母国語に対応できる担当者が在籍していないと、コミュニケーション不足から早期離職につながりやすくなります」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「紹介から支援までを同じ機関にまとめて依頼できると、採用から定着まで一貫した対応を受けやすく、管理の負担を抑えられます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「採用準備〜定着まで対応」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「株式会社スタッフ満足は、ビジネスホテルを展開するスーパーホテルグループを母体とし、外国人の採用から雇用後の定着支援まで一気通貫でサポートする人材紹介会社・登録支援機関です」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「人材紹介から登録支援、就労後の定着までをワンストップで担えるため、「初めての外国人採用で何から手をつければよいか分からない」という企業にとって、相談から運用まで一括で任せることができます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「現場で何につまずき、どんなサポートがあれば外国人が定着するのかを、当事者として経験している」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「特徴3：採用から定着までワンストップのトータルサポート」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「来日前に現地で接客やマナーの研修を行い、入社後も母国語で相談できる体制を整えるなど、採用から定着までを一つの窓口で支えます」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「採用後の早期離職に備えられる点は、初めて外国人を受け入れる企業の安心材料になります」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「外国人の採用・育成・定着支援 外国人人材紹介の株式会社スタッフ満足」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「現地スタッフとの連携で早期入社を目指すとともに、24時間対応の通訳とサポートで定着率を高めています」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「独自のサービスを実施して、定着率の向上を目指している点が強みです」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「経験豊富なスタッフが、外国人人材のメンタルサポートまで対応しているため、早期離職リスクも抑えられるでしょう」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「母国語で相談できる第三者が入ることで、外国人が悩みを打ち明けやすくなり、文化の違いから生じるトラブルの早期発見や早期離職の防止にもつながります」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+  - 「少子高齢化で働き手が減る一方、介護を必要とする人は増え続け、新型コロナの影響も重なって現場の人手不足は深刻化していました」（https://www.global.staff-manzoku.co.jp/blog/registered-support-organization-ranking）
+- 検索結果の抜粋：
+  - 「製造業 の 特定技能 ・ 外国人 人材 会社 おすすめ10選 — 製造業 の 特定技能 ・ 外国人 人材 会社 おすすめ10選 ケアエンタープライズ株式会社 https://tokutei.c-ep.jp > お知らせ > 人材紹介会社」（https://tokutei.c-ep.jp/news/tokuteiginou-osusume-seizogyo/）
+  - 「【愛知】 製造業 の 外国人採用 ｜3制度の使い分けと費用の目安 — 【愛知】 製造業 の 外国人採用 ｜3制度の使い分けと費用の目安 CSTMキャリアサポート https://www.cstm-careersupport.com > 業種別ガイド」（https://www.cstm-careersupport.com/industry/manufacturing/）
+  - 「特定技能 の 製造業 は17区分に拡大｜業務区分と産業分類で対象 ... — 特定技能 の 製造業 は17区分に拡大｜業務区分と産業分類で対象 ... Leverages Global https://leverages-global.com > お役立ち記事 > 在留資格」（https://leverages-global.com/media/expiration-status-of-residence/specified-skilled-workers-manufacturing/）
+  - 「③ 製造業 における 特定技能外国人材 受入れ事例の紹介 Part2 — ③ 製造業 における 特定技能外国人材 受入れ事例の紹介 Part2 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=C2gDXXQN6wQ）
+  - 「工業製品 製造業 分野でおすすめの登録 支援 機関10社｜ 特定技能 ... — 工業製品 製造業 分野でおすすめの登録 支援 機関10社｜ 特定技能 ... global.staff-manzoku.co.jp https://www.global.staff-manzoku.co.jp > blog > registrati...」（https://www.global.staff-manzoku.co.jp/blog/registration-support-organization-industrial-products）
+
+## 製造業のダイレクトリクルーティング・スカウト（direct recruiting engineers Japan）
+- 文脈：スカウト
+- プレイヤー：記載なし（読んだ41頁・検索7回）
+- 料金体系：記載なし（読んだ41頁・検索7回）
+- 規模：記載なし（読んだ41頁・検索7回）
+- 創業年度：記載なし（読んだ41頁・検索7回）
+- 株主構成：記載なし（読んだ41頁・検索7回）
+- 製造業の採用の困りごと：記載なし（読んだ41頁・検索7回）
+
+## 地方の製造業向けUIJターン・移住採用支援（UIJ turn recruitment regional manufacturers）
+- 文脈：地方
+- プレイヤー：記載なし（読んだ35頁・検索7回）
+- 料金体系：記載なし（読んだ35頁・検索7回）
+- 規模：記載なし（読んだ35頁・検索7回）
+- 創業年度：記載なし（読んだ35頁・検索7回）
+- 株主構成：記載なし（読んだ35頁・検索7回）
+- 製造業の採用の困りごと：記載なし（読んだ35頁・検索7回）
+
+## 製造業の採用SaaS（応募管理・採用サイト作成）（recruiting SaaS for manufacturers Japan）
+- 文脈：採用SaaS
+- プレイヤー：記載なし（読んだ42頁・検索7回）
+- 料金体系：記載なし（読んだ42頁・検索7回）
+- 規模：記載なし（読んだ42頁・検索7回）
+- 創業年度：記載なし（読んだ42頁・検索7回）
+- 株主構成：記載なし（読んだ42頁・検索7回）
+- 製造業の採用の困りごと：記載なし（読んだ42頁・検索7回）

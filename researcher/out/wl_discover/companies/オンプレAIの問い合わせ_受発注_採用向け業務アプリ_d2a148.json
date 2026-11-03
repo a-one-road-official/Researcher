@@ -1,0 +1,348 @@
+{
+ "name": "オンプレAIの問い合わせ・受発注・採用向け業務アプリ",
+ "en": "on-premise AI assistant for customer inquiries and orders",
+ "aliases": [
+  "on-prem AI chatbot",
+  "self-hosted AI customer service",
+  "local AI agent for business"
+ ],
+ "context": "オンプレAI",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:16:19.948997+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://autocalls.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/blog/white-label-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-ai-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ils3gb/white_label_ai_sales_agent/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/white-label-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/blog/ai-agents-for-brand-building/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chatbase.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.open.cx/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/ai-native-saas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalvoicedirect.com/white-label-ai-phone-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/white-label-SaaS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/ai-assistants/on-premise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/my-ai-front-desk-white-label-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aissist.io/insights/white-label-ai-customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b4g.ai/partners/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/blogs/exploring-white-label-ai-voice-agents-what-you-need-to-know",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-ai-software-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/conversational-ai/on-premise/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label on-premise AI assistant for customer inquiries and orders",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://trillet.ai/blogs/whitelabel-guide",
+    "https://lety.ai/",
+    "https://vida.io/blog/white-label-ai",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.mirrorfly.com/conversational-ai/industries/customer-support/",
+    "https://www.mirrorfly.com/conversational-ai/voice-agent/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white-label",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "https://lety.ai/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://vida.io/blog/white-label-ai",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://asyntai.com/white-label-ai-assistant/",
+    "https://botpress.com/blog/white-label-chatbot-platform"
+   ]
+  },
+  {
+   "query": "best white label on-premise AI assistant for customer inquiries and orders providers",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "https://worldmetrics.org/best/white-label-ai-software/",
+    "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white label reseller agency",
+   "results": [
+    "https://lety.ai/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/AI_Agents/comments/1ils3gb/white_label_ai_sales_agent/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.vendasta.com/blog/white-label-ai-agents/",
+    "https://www.youtube.com/watch?v=6weNaVTUmQQ",
+    "https://worldmetrics.org/best/white-label-ai-software/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders rebrand your logo own brand",
+   "results": [
+    "https://www.lyzr.ai/blog/ai-agents-for-brand-building/",
+    "https://webchatagent.com/enterprise-white-label",
+    "https://asyntai.com/white-label-solutions/",
+    "https://sierra.ai/",
+    "https://autocalls.ai/white-label",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.youtube.com/watch?v=WlvUUo9UMYg",
+    "https://www.chatbase.co/",
+    "https://www.reamaze.com/blog/ai-chatbot-for-customer-support/",
+    "https://sourceforge.net/software/conversational-ai/on-premise/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders private label SaaS",
+   "results": [
+    "https://www.youtube.com/watch?v=kOIaPGMFje4",
+    "https://lety.ai/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://autocalls.ai/white-label",
+    "https://www.open.cx/whitelabel",
+    "https://www.vendasta.com/blog/ai-native-saas/",
+    "https://globalvoicedirect.com/white-label-ai-phone-assistant/",
+    "https://stammer.ai/white-label-SaaS",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://sourceforge.net/software/ai-assistants/on-premise/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white label partner program pricing",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "https://trillet.ai/blogs/my-ai-front-desk-white-label-alternative",
+    "https://aissist.io/insights/white-label-ai-customer-support",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.open.cx/whitelabel",
+    "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "https://www.unite.ai/best-white-label-ai-tools/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white label company profitable",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://vida.io/blog/white-label-ai",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.reddit.com/r/AI_Agents/comments/1ils3gb/white_label_ai_sales_agent/",
+    "https://www.youtube.com/watch?v=kOIaPGMFje4",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://lety.ai/",
+    "https://www.myaifrontdesk.com/blogs/exploring-white-label-ai-voice-agents-what-you-need-to-know",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  }
+ ],
+ "missing": {
+  "提供企業": "記載なし（読んだ40頁・検索8回）",
+  "自社名で出せる条件": "記載なし（読んだ40頁・検索8回）",
+  "再販制度": "記載なし（読んだ40頁・検索8回）",
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）",
+  "売上": "記載なし（読んだ40頁・検索8回）",
+  "価格": "記載なし（読んだ40頁・検索8回）"
+ }
+}

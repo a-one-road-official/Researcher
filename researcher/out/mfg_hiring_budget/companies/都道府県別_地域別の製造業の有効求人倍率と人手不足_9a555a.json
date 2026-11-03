@@ -1,0 +1,303 @@
+{
+ "name": "都道府県別・地域別の製造業の有効求人倍率と人手不足",
+ "en": "manufacturing job openings to applicants ratio by prefecture",
+ "aliases": [
+  "有効求人倍率 製造 都道府県",
+  "人手不足 製造業 地方",
+  "生産工程 有効求人倍率"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:17:57.336069+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20141119_009151.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chihososei-journal.jp/feature/10853/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neri.or.jp/050/research/member/column/iida_kaoru/360/20250530sakura.pdf?251651",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metro.tokyo.lg.jp/information/press/2025/06/2025062501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/hataraku-ronten/detail038.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enterprise.matcher.jp/recruiting-knowledge/jobs-to-applicants-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/googlehome/answer/9232573?hl=en-GB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/chrome/thread/46143810/i-want-to-install-google-chrome-on-a-pc-that-has-no-internet-connection?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baitoru.com/solution/column/effective-job-offers-ratio-ranking/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kankeijinko.jp/data/ranking/job-openings-ratio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stats47.jp/blog/unemployment-structure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funjob.jp/zenkoku-kyujinbairitsu/bairitsu-lank/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Grocery_store",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/eshuyo/e0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/b67a128a-7c36-4c33-aa23-fabb795d862e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/1246267/japan-job-openings-to-applicants-ratio/?srsltid=AYCX9vLeWkriihNv-iRbVrZnGgzGzrKWIA8aCafXwyUNEKvfPBf8flQS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nam.org/manufacturing-job-openings-rise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/japannews/comments/1r1i45e/the_jobtoapplicant_ratio_in_japan_is_now_so_high/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 調査 万円",
+   "results": [
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.dir.co.jp/report/research/economics/japan/20141119_009151.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.mh5.jp/announce_97505.html",
+    "https://mundobordado.com/puntos-de-bordado/punto-atras/"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 平均 2025",
+   "results": [
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.neri.or.jp/050/research/member/column/iida_kaoru/360/20250530sakura.pdf?251651",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "https://note.com/ecareerfa/n/ne89edf6580ab",
+    "https://fujiarte.co.jp/dlc_cont/03/",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 中小企業 アンケート 結果",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.metro.tokyo.lg.jp/information/press/2025/06/2025062501",
+    "https://www.nhsinform.scot/care-support-and-rights/health-rights/access/nhs-scotland-waiting-times/"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 就職白書 OR マイナビ OR リクルート 調査",
+   "results": [
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "https://www.works-i.com/column/hataraku-ronten/detail038.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://enterprise.matcher.jp/recruiting-knowledge/jobs-to-applicants-ratio",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 商工会議所 OR 信用金庫 OR 県 調査",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://support.google.com/googlehome/answer/9232573?hl=en-GB"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 都道府県 地方 比較",
+   "results": [
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.baitoru.com/solution/column/effective-job-offers-ratio-ranking/",
+    "https://kankeijinko.jp/data/ranking/job-openings-ratio/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://stats47.jp/blog/unemployment-structure",
+    "https://funjob.jp/zenkoku-kyujinbairitsu/bairitsu-lank/",
+    "https://en.m.wikipedia.org/wiki/Grocery_store"
+   ]
+  },
+  {
+   "query": "manufacturing job openings to applicants ratio by prefecture",
+   "results": [
+    "https://www.jil.go.jp/english/estatis/eshuyo/e0210.html",
+    "https://finance.biggo.com/news/b67a128a-7c36-4c33-aa23-fabb795d862e",
+    "https://www.statista.com/statistics/1246267/japan-job-openings-to-applicants-ratio/?srsltid=AYCX9vLeWkriihNv-iRbVrZnGgzGzrKWIA8aCafXwyUNEKvfPBf8flQS",
+    "https://nam.org/manufacturing-job-openings-rise/",
+    "https://www.reddit.com/r/japannews/comments/1r1i45e/the_jobtoapplicant_ratio_in_japan_is_now_so_high/",
+    "https://hardestmarket.com/job-market/",
+    "https://tradingeconomics.com/japan/jobs-to-applications-ratio",
+    "https://www.bls.gov/news.release/jolts.t01.htm",
+    "https://keizai-marumie.com/en/japan/jobs-to-applicants-ratio/",
+    "https://en.wikipedia.org/wiki/Manufacturing"
+   ]
+  }
+ ],
+ "missing": {
+  "採用予算・採用費": "記載なし（読んだ34頁・検索7回）",
+  "1人あたり採用単価": "記載なし（読んだ34頁・検索7回）",
+  "調査対象": "記載なし（読んだ34頁・検索7回）",
+  "採用経路": "記載なし（読んだ34頁・検索7回）",
+  "人手不足": "記載なし（読んだ34頁・検索7回）",
+  "補助金": "記載なし（読んだ34頁・検索7回）",
+  "料金": "記載なし（読んだ34頁・検索7回）"
+ }
+}

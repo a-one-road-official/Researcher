@@ -1,0 +1,292 @@
+{
+ "name": "製造業の新卒・高卒採用1人あたり費用",
+ "en": "cost per hire new graduates manufacturing Japan",
+ "aliases": [
+  "新卒採用 1人あたり 製造業",
+  "高卒採用 費用 製造業",
+  "就職白書 採用費 製造業"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:16:07.602617+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crexgroup.com/ja/shukatsu/preparation/new-grad-hiring-cost-average/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/dsmagazine/pages/474/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lab.jinjib.co.jp/archives/2139/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hamamatsu-cci.or.jp/news/show/1817",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6611/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.connect-mktg.com/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E7%9B%B8%E5%A0%B4%E3%81%AF%EF%BC%9F%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%81%A6%E4%BA%BA%E3%82%92%E9%9B%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hr-brew.com/stories/world-of-hr-just-19-of-large-companies-in-japan-plan-to-hire-new-graduates-next-year",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readytohire.com/blog/manufacturing-talent-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getleadline.com/blog/cost-per-hire-in-manufacturing-what-you-need-to-know/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Simultaneous_recruiting_of_new_graduates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hireborderless.com/post/how-much-does-it-cost-to-hire-an-employee-in-japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 調査 万円",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://lab.jinjib.co.jp/archives/2139/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://campus.doda.jp/enterprise/column/c35",
+    "https://vollect.net/hrpedia/hiring-cost-guide/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 平均 2025",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://crexgroup.com/ja/shukatsu/preparation/new-grad-hiring-cost-average/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 中小企業 アンケート 結果",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://ds-b.jp/dsmagazine/pages/474/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://go.taxita.com/column/outsourcing006/",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://note.com/fujii_raise/n/n2ce7f88aff9f"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 就職白書 OR マイナビ OR リクルート 調査",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://lab.jinjib.co.jp/archives/2139/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "https://innovel.jp/cost-per-hire-2026/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 商工会議所 OR 信用金庫 OR 県 調査",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.hamamatsu-cci.or.jp/news/show/1817",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://lab.jinjib.co.jp/archives/2139/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://mizusaki-inc.com/knowledge/article22",
+    "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 都道府県 地方 比較",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://lab.jinjib.co.jp/archives/6536/",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://mizusaki-inc.com/knowledge/article22",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://megdai.jp/markebatake/saiyou/6611/",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "cost per hire new graduates manufacturing Japan",
+   "results": [
+    "https://www.hr-brew.com/stories/world-of-hr-just-19-of-large-companies-in-japan-plan-to-hire-new-graduates-next-year",
+    "https://www.readytohire.com/blog/manufacturing-talent-costs/",
+    "https://getleadline.com/blog/cost-per-hire-in-manufacturing-what-you-need-to-know/",
+    "https://www.linkedin.com/posts/scottscofield_japanrecruitment-japanbusiness-laborshortage-activity-7515735281900134400-z-tv",
+    "https://en.wikipedia.org/wiki/Simultaneous_recruiting_of_new_graduates",
+    "https://www.hireborderless.com/post/how-much-does-it-cost-to-hire-an-employee-in-japan",
+    "https://www.globalization-partners.com/blog/guide-to-hiring-in-japan/",
+    "https://japan-dev.com/blog/the-anatomy-of-the-new-graduate-hiring-process-in-japan",
+    "https://www.usemultiplier.com/japan/cost-of-employment",
+    "https://www.saiyouteam.com/en/playbook/hiring-toolkit/cost-per-hire-calculator/"
+   ]
+  }
+ ],
+ "missing": {
+  "採用予算・採用費": "記載なし（読んだ32頁・検索7回）",
+  "1人あたり採用単価": "記載なし（読んだ32頁・検索7回）",
+  "調査対象": "記載なし（読んだ32頁・検索7回）",
+  "採用経路": "記載なし（読んだ32頁・検索7回）",
+  "人手不足": "記載なし（読んだ32頁・検索7回）",
+  "補助金": "記載なし（読んだ32頁・検索7回）",
+  "料金": "記載なし（読んだ32頁・検索7回）"
+ }
+}

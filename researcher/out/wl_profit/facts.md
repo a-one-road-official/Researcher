@@ -1,4 +1,4 @@
-# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・6社）
+# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・9社）
 
 ## 3YOURMIND
 - 公式URL：https://www.3yourmind.com（given）
@@ -731,3 +731,425 @@
 - 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
 - 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
+
+## Tech Soft 3D
+- 公式URL：https://www.techsoft3d.com（given）
+- 株主構成：
+  - 「“Integrator Materials” means all information, documents, items, materials, techniques, know-how, software, materials (regardless of the form or medium in which they are disclosed or stored) and any other intellectual property rights owned by or licensed to Integrator, whether before or after the date of this Agreement, which, subject to this Agreement, are used in connection with this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「“TS3D Software” means the software owned by or licensed to TS3D as identified and described in Exhibit A to the Technology Partnership Agreement, including Standard Releases, that is provided to Integrator by TS3D in object code form pursuant to this Agreement, and any copies thereof.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Title to and ownership of the Integrated Product shall not be transferred by virtue of the License Agreement; Licensee is obligated to retain and not remove or obscure any and all copyright, trademark, and proprietary notices and legends contained on the Integrated Products and on all copies thereof;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「5.1 Ownership.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「,” when used with respect to any Person, means direct or indirect ownership of at least fifty percent (50%) of the voting stock, shares, or other equity interest in the controlled Person and possession of the power to direct or cause the direction of the management and policies of the controlled Person.」（https://www.techsoft3d.com/legal/tpa-apps/・1回目）
+  - 「Intellectual Property Ownership.」（https://www.techsoft3d.com/legal/tpa-apps/・1回目）
+  - 「In just a few weeks, you can bring your unique, branded application to market, powered by Autodesk Inventor and backed by flexible licensing that gives you the margins to grow.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
+  - 「Tech Soft 3D is backed by investment firm Battery Ventures. For more information, please contact press@techsoft3d.com, fill out the」（https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/・1回目）
+  - 「Ownership Status」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Tech Soft 3D intends to continue to maintain and support Theorem’s existing customers that are using its CADTranslate, CADPublish and TheoremXR offerings. Details of the acquisition are not disclosed. Tech Soft 3D is backed by global, technology-focused investment firm Battery Ventures.」（https://www.themanufacturer.com/articles/tech-soft-3d-completes-acquisition-of-theorem-solutions/・3回目）
+- 創業年度：
+  - 「When you get to know Tech Soft 3D, you’ll find a team of seriously talented industry veterans who have retained the energy, drive and dynamism of a start-up. In the years since our company was founded in 1996, we have been singularly focused on helping software development teams succeed by leveraging our technology and expertise. We’re still invigorated by that same mission today.」（https://www.techsoft3d.com/company/・1回目）
+  - 「is an Australian family-owned business that has created software for the scaffolding industry since 1989. They support nearly every aspect of the market, from design and quotations to rental management and invoicing. Scaffolding Software offers a trio of core software tools (」（https://www.techsoft3d.com/resources/case-studies/scaffolding-software/・1回目）
+  - 「Tech Soft 3D is the leading provider of engineering software development toolkits and industrial applications for CAD & CAE data conversion, visualization, and simulation. Established in 1996 and headquartered in Bend, Oregon, Tech Soft 3D has additional offices in the USA, France, England, Japan, Germany and Norway.」（https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/・1回目）
+  - 「Tech Soft 3D was founded in 1996.」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Tech Soft 3D is the leading global provider of software development kits (SDKs). The company provides SDKs for developers and engineers who need to visualize products in various domains and helps them deliver successful applications. Established in 1996 and headquartered in Bend, Oregon, Tech Soft 3D also has offices in California, France, Norway, England, and Japan.」（https://www.zoneandco.com/case-studies/how-tech-soft-3d-freed-up-one-month-of-accounts-receivable-work-with-zonebilling・3回目）
+- 黒字・収益性：
+  - 「Our commitment to help others rise to the top started the day our organization was born. As a four-person, self-funded start-up, we needed to provide value for our partners. Industry leaders of the day, including Computervision, SDRC and RASNA, relied on our HOOPS Visualize graphics engine.」（https://www.techsoft3d.com/company/・1回目）
+  - 「EBITDA」（https://pitchbook.com/profiles/company/124476-04・3回目）
+- 売上：
+  - 「Sales Manager」（https://www.techsoft3d.com/company/・1回目）
+  - 「“Revenue Sharing Fee” means the distribution, subscription, royalty, and any other license fee to be paid by Integrator to TS3D, as more specifically set forth in Exhibit B to the Technology Partnership Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Use of the Integrated Product is limited to the Licensee’s internal business purposes, and the Licensee shall have no rights to distribute the Integrated Product to, or use it on behalf of, others or to make the Integrated Product available to any third party, whether as part of any hosted or SaaS solution or time-sharing or service bureau arrangement or otherwise;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「5.4 Sales Notices.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Section 7. WARRANTIES AND DISCLAIMERS」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「7.1 Performance Warranty.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「7.2 Open Source Warranty.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator shall pay all Recurring Fee and Revenue Sharing Fee payments due TS3D up to the effective date of termination or expiration and shall continue to pay all sums which accrue to TS3D after termination or expiration during the Sunset Period (if any).」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator shall continue to provide Revenue Sharing Fee Reports to TS3D, pursuant to the Technology Partnership Agreement, if applicable, until all transactions under this Agreement have been completed.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals and Blocked Persons, List of Specially Designated Terrorists or List of Specially Designated Narcotics Traffickers or the U.S. Commerce Department’s Table of Deny Orders, Denied Persons (or Parties) List, Unverified Parties List, Entities List, or the U.S. State Department’s list of Debarred Parties, or」（https://www.techsoft3d.com/legal/tpa/・1回目）
+- 資金調達：
+  - 「Integrator may distribute (and/or host and make available on a SaaS basis) and sublicense a reasonable number of copies of the TS3D Software in the Integrated Products to potential Licensees for the purpose of evaluation, subject to the terms of Section 3.5; and」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「3.5 Evaluation Licenses.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Information about your computer to ensure compliance with the Tech Soft 3D license usage requirements, during evaluation only, to collect: IP address, MAC address, Tech Soft 3D License and product usage information」（https://www.techsoft3d.com/legal/privacy-policy/・1回目）
+  - 「Informations sur votre ordinateur pour assurer la conformité aux exigences d'utilisation de la licence Tech Soft 3D, uniquement pendant l'évaluation, pour collecter : adresse IP, adresse MAC, informations sur la licence Tech Soft 3D et l'utilisation du produit」（https://www.techsoft3d.com/legal/privacy-policy-fr/・1回目）
+  - 「Tech Soft 3D is backed by investment firm Battery Ventures. For more information, please contact press@techsoft3d.com, fill out the」（https://www.techsoft3d.com/resources/news/oasys-ls-dyna-environment-uses-hoops-exchange/・1回目）
+  - 「Tech Soft 3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Follow capital flows across investors, deals, and industry trends」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Find investment opportunities and active investors faster」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Validate investment decisions with verified company and financial data」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Investors」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Explore investor track records and activity」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Access timely lending and investment data」（https://pitchbook.com/profiles/company/124476-04・3回目）
+- 存続：
+  - 「“Integrator Materials” means all information, documents, items, materials, techniques, know-how, software, materials (regardless of the form or medium in which they are disclosed or stored) and any other intellectual property rights owned by or licensed to Integrator, whether before or after the date of this Agreement, which, subject to this Agreement, are used in connection with this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「to impose confidentiality restrictions upon the parties to whom any Confidential Information is disclosed that are not less restrictive than those set forth in this Agreement;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「to refrain from using the Confidential Information for any purpose other than the purposes for which that Confidential Information was disclosed as set forth in clause (a) above.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator becomes insolvent, makes a general assignment for the benefit of creditors, suffers or permits the appointment of a receiver for its business or assets, becomes subject to any proceeding under any bankruptcy or insolvency laws, or has liquidated all or a substantial portion of its assets, voluntarily or otherwise.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Bankruptcy or Insolvency. Either party shall have the right to terminate this Agreement and any Order Form by giving written notice of termination to the other in the event of the insolvency or bankruptcy of such other, whether voluntary or involuntary, or the appointment of a trustee, receiver, or similar agent to take charge of or sell any material portion of such other’s property or business.」（https://www.techsoft3d.com/legal/tpa-apps/・1回目）
+  - 「. In connection with a business transaction such as a merger or bankruptcy, to comply with any applicable legal obligations (including to respond to subpoenas, search warrants and similar requests), to enforce any applicable terms of service or policies, and to protect or defend the Services, our rights, and the rights of our users or others.」（https://www.techsoft3d.com/legal/privacy-policy/・1回目）
+  - 「Shared or Disclosed to Third Parties?」（https://www.techsoft3d.com/legal/privacy-policy/・1回目）
+  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Acquisitions」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Corporate Backed or Acquired」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Tech Soft 3D will use the additional capital to fuel growth by investing in product development, scaling the company’s global reach and increasing its product offerings through acquisitions. The company also expects to further expand its portfolio of partners.」（https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832・3回目）
+  - 「Added Satoshi Harris-Koizumi, vice president at Battery: “As every company becomes a software company, we think demand for Tech Soft 3D’s products will only increase—and we look forward to partnering with the company to penetrate new markets and expand, both organically and through acquisitions.”」（https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832・3回目）
+- ホワイトラベル明言：
+  - 「AutoCAD OEM is the white label version of Autodesk AutoCAD. This proven CAD platform enables software developers to quickly build CAD functionality into their next development project. Based on the incredibly successful and widely used AutoCAD engine, AutoCAD OEM contains a comprehensive set of tools to quickly get your customized application to market.」（https://www.techsoft3d.com/oem/autocad-oem/・1回目）
+  - 「In just a few weeks, you can bring your unique, branded application to market, powered by Autodesk Inventor and backed by flexible licensing that gives you the margins to grow.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
+  - 「Inventor OEM is the white label version of Autodesk’s mechanical CAD application, Autodesk Inventor. The platform provides a development environment for software developers looking to create a specialized 3D mechanical CAD product. Inventor OEM includes a full 3D modelling kernel, user interface, and ability to do parametric-based designs.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
+  - 「Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI」（https://www.techsoft3d.com/developers/resources/news/・1回目）
+  - 「Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI」（https://www.techsoft3d.com/enterprise/resources/news/・1回目）
+  - 「AutoCAD OEM lets you build a custom, branded CAD application on the same platform that powers AutoCAD. You choose which commands and features to include, configure your own UI, and ship under your own brand. It supports Object ARX, .NET, ActiveX, and JavaScript APIs, with options for multiple deployment targets and multiple languages.」（https://www.techsoft3d.com/oem/・1回目）
+  - 「Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI」（https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/・1回目）
+  - 「, powered by Tech Soft 3D’s HOOPS AI, alongside the release of」（https://www.techsoft3d.com/resources/news/synera-releases-advanced-ai-add-in-powered-by-tech-soft-3d-s-hoops-ai/・1回目）
+  - 「“Every day, millions of engineers use software powered by Tech Soft 3D component technology,” said Morad Elhafed, general partner at Battery Ventures. “The company’s reach is extremely impressive, and its products are fueling innovation at large and small companies undergoing digital transformation. We are excited to partner with Tech Soft 3D to help the company grow.”」（https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832・3回目）
+  - 「“Every day, millions of engineers use software powered by Tech Soft 3D component technology,” said Morad Elhafed, general partner at Battery Ventures. “The company’s reach is extremely impressive, and its products are fueling innovation at large and small companies undergoing digital transformation. We are excited to partner with Tech Soft 3D to help the company grow.”」（https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/・3回目）
+- OEM・組込み：
+  - 「SDKs for Developers」（https://www.techsoft3d.com/・1回目）
+  - 「Developer Toolkits」（https://www.techsoft3d.com/・1回目）
+  - 「Our SDKs offer unparalleled momentum and reliability to your next engineering application.」（https://www.techsoft3d.com/・1回目）
+  - 「Explore SDKs」（https://www.techsoft3d.com/・1回目）
+  - 「development toolkits」（https://www.techsoft3d.com/・1回目）
+  - 「, including our HOOPS SDKs, equip engineering applications with ready-made modeling, visualization, simulation, and data-exchange capabilities, helping you reach the market faster and with lower risk. Our」（https://www.techsoft3d.com/・1回目）
+  - 「Autodesk AutoCAD OEM」（https://www.techsoft3d.com/・1回目）
+  - 「Autodesk Inventor OEM」（https://www.techsoft3d.com/・1回目）
+  - 「SDKs for Developers」（https://www.techsoft3d.com/company/・1回目）
+  - 「Autodesk AutoCAD OEM」（https://www.techsoft3d.com/company/・1回目）
+  - 「Autodesk Inventor OEM」（https://www.techsoft3d.com/company/・1回目）
+  - 「SDKs for Developers」（https://www.techsoft3d.com/legal/tpa/・1回目）
+- 再販制度：
+  - 「Resellers」（https://www.techsoft3d.com/・1回目）
+  - 「Resellers」（https://www.techsoft3d.com/company/・1回目）
+  - 「“Distributor” means a third party to whom Integrator grants the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「“Subdistributors” means third parties to whom Distributors grant the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「2.2 Appointment of Distributors.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator may sublicense and provide maintenance for an unlimited number of licensed copies of the TS3D Software in the Integrated Products, to Licensees, Distributors and Subdistributors in accordance with the terms of this Agreement;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「3.2 License Grant (Distributors/Subdistributors).」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「any unauthorized use, reproduction, or distribution of the TS3D Product by Integrator, Distributors, Subdistributors, or the agents of any of them,」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+- 日本対応：
+  - 「Yokohama, Japan」（https://www.techsoft3d.com/company/・1回目）
+  - 「“Distributor” means a third party to whom Integrator grants the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「“Subdistributors” means third parties to whom Distributors grant the right to demonstrate, market, distribute, sublicense and support the Integrated Products.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「2.2 Appointment of Distributors.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「TS3D consents to the sublicense by Integrator to Distributors, and to their sublicense to Subdistributors, of the right to market, distribute, sublicense and provide support for the TS3D Software to Licensees within the Territory only when embedded within the Integrated Products, for installation and use exclusively within the Territory, in accordance with the terms of this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator may sublicense and provide maintenance for an unlimited number of licensed copies of the TS3D Software in the Integrated Products, to Licensees, Distributors and Subdistributors in accordance with the terms of this Agreement;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「3.2 License Grant (Distributors/Subdistributors).」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Integrator shall not and shall cause Distributors and Subdistributors to not make any representations, warranties or guarantees to Licensees concerning the TS3D Software that are inconsistent with or in addition to those made in this Agreement.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「any unauthorized use, reproduction, or distribution of the TS3D Product by Integrator, Distributors, Subdistributors, or the agents of any of them,」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「any breach of the representations or warranties made by Integrator or its Distributors and Subdistributors to Licensees in regard to the Integrated Products;」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「the breach of any of the provisions of this Agreement by Integrator or its Distributors or Subdistributors; and」（https://www.techsoft3d.com/legal/tpa/・1回目）
+- 顧客：
+  - 「compliance with the specifications, designs or requirements of Integrator or its authorized agents or contractors or of Distributors, Subdistributors, Licensees, or other customers.」（https://www.techsoft3d.com/legal/tpa/・1回目）
+  - 「Acceptance of Terms and Conditions. Customer acknowledges and agrees to abide by the terms and conditions applicable to all Products and Services of Tech Soft 3D, including but not limited to, as applicable, all terms and conditions applicable to any Customers who are also resellers, distributors, sublicensees or users of other Tech Soft 3D Products and services.」（https://www.techsoft3d.com/legal/tpa-apps/・1回目）
+  - 「Enable your customers to interact with your application via a desktop application, through a child window, Microsoft Windows .NET, or a web page」（https://www.techsoft3d.com/oem/autocad-oem/・1回目）
+  - 「Add specialized features tailored to your target customers」（https://www.techsoft3d.com/oem/autocad-oem/・1回目）
+  - 「Use a simple-to-use wizard to easily customize and brand your product to your customers’ needs.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
+  - 「Make your application simple and easy to use by including only the features your customers need.」（https://www.techsoft3d.com/oem/inventor-oem/・1回目）
+  - 「DNV's Use of HOOPS SDKs Empowers Their Customers' Structural & Hydrodynamic Analysis」（https://www.techsoft3d.com/developers/resources/case-studies/・1回目）
+  - 「HOOPS Toolkits Help Proplanner Solve Decades-Old Data Management Challenge For Manufacturing Customers」（https://www.techsoft3d.com/developers/resources/case-studies/・1回目）
+  - 「Video Case Study: How Flex-N-Gate Uses SpinFire Insight」（https://www.techsoft3d.com/enterprise/resources/case-studies/・1回目）
+  - 「Video Case Study: How Mayco Uses SpinFire Insight」（https://www.techsoft3d.com/enterprise/resources/case-studies/・1回目）
+  - 「The scaffolding industry poses distinct challenges for both software developers and their clients. Unlike many rental markets where customers rent a few items, a scaffolding bill of materials involves managing, arranging, and returning hundreds or thousands of individual parts in a timely and organized manner. This is where Scaffolding Software products come into play.」（https://www.techsoft3d.com/resources/case-studies/scaffolding-software/・1回目）
+  - 「The comprehensive nature of their software is a cornerstone of what makes Scaffolding Software products so valuable to their customers. Andrew said, “It's not just design, it's not just estimating, but also the ability to generate quotations, reports, and inventory. All at the touch of a few buttons.”」（https://www.techsoft3d.com/resources/case-studies/scaffolding-software/・1回目）
+- 検索結果の抜粋：
+  - 「Tech Soft 3D 2026 Company Profile - PitchBook — Tech Soft 3D 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/124476-04・3回目）
+  - 「Tech Soft 3D Announces Significant Investment From Global ... — Tech Soft 3D Announces Significant Investment From Global ... newswire.com https://www.newswire.com > news > t...」（https://www.newswire.com/news/tech-soft-3d-announces-significant-investment-from-global-investment-21098832・3回目）
+  - 「Company | Tech Soft 3D — Company | Tech Soft 3D TechSoft3D https://www.techsoft3d.com > company」（https://www.techsoft3d.com/company/・3回目）
+  - 「CAD News: Tech Soft 3D Obtains Significant Investment from ... — CAD News: Tech Soft 3D Obtains Significant Investment from ... Architosh https://architosh.com > 2020/02 > cad...」（https://architosh.com/2020/02/cad-news-tech-soft-3d-obtains-significant-investment-from-battery-ventures/・3回目）
+  - 「Tech Soft 3D - Crunchbase Company Profile & Funding — Tech Soft 3D - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > tech-s...」（https://www.crunchbase.com/organization/tech-soft-3d・3回目）
+  - 「Tech Soft 3D Names Robbie Payne Chief Executive Officer — Tech Soft 3D Names Robbie Payne Chief Executive Officer TechSoft3D https://www.techsoft3d.com > news」（https://www.techsoft3d.com/resources/news/tech-soft-3d-names-robbie-payne-chief-executive-officer/・3回目）
+  - 「Tech Soft 3D - LinkedIn — Tech Soft 3D - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/tech-soft-3d・3回目）
+  - 「Working at Tech Soft 3D | Glassdoor — Working at Tech Soft 3D | Glassdoor Glassdoor https://www.glassdoor.com > Overview」（https://www.glassdoor.com/Overview/Working-at-Tech-Soft-3D-EI_IE357720.11,23.htm・3回目）
+  - 「Bend-based Tech Soft 3D names new CEO | The Bulletin — Bend-based Tech Soft 3D names new CEO | The Bulletin bendbulletin.com https://bendbulletin.com > 2025/11/06」（https://bendbulletin.com/2025/11/06/bend-based-tech-soft-3d-names-new-ceo/・3回目）
+  - 「Tech Soft 3D - Overview, News & Similar companies - ZoomInfo — Tech Soft 3D - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > tech-sof...」（https://www.zoominfo.com/c/tech-soft-3d-inc/239681746・3回目）
+  - 「Tech Soft 3D : Revenue , Competitors, Alternatives - Growjo — Tech Soft 3D : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Tech_Soft_3D」（https://growjo.com/company/Tech_Soft_3D・3回目）
+  - 「Tech Soft 3D's Competitors, Revenue , Number of Employees ... — Tech Soft 3D's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > techsoft3d」（https://www.owler.com/company/techsoft3d・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+
+## nTop
+- 公式URL：https://www.ntop.com（given）
+- 従業員数：119（https://getlatka.com/companies/ntop.com・3回目）
+- 売上高：$ 281,724 $ 245,122 15%（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+- 売上高：$ 120,810  $ 106,820 13%（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+- 売上高：$ 106,265  $ 87,464 21%（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+- 株主構成：
+  - 「Move through every design phase faster, backed by the evidence to decide with confidence.」（https://www.ntop.com/・1回目）
+  - 「We're backed by leading investors across aerospace, defense, and deep including:」（https://www.ntop.com/about/・1回目）
+  - 「This is what DoW actually buys: options backed by analysis. Not theoretical trades in a PowerPoint. Real configurations with simulated performance and cost breakdowns.」（https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/・1回目）
+  - 「株主数 18,720名」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「株主名 持株数 （千株） 持株比率 （%）」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「日東富士製粉持株会 120 1.3」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「２. 持株比率」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「大株主（上位10名）」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「地域社会への貢献社員エンゲージメント 強化 株主 ・ 株式市場からの 共感 商 品・サ ー ビ ス を 通 じ た 顧客満足の向上」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「務レバレッジを効かせ、 成長投資と株主還元をしっかり」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「なお株主還元に関しては、 特に長期保」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「有の株主様にしっかり と報いるという意味合いを込め、」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+- 創業年度：
+  - 「Running the highest-fidelity analysis on every concept would have been inefficient. Instead, I reused the staged method established in the tube-and-wing study.」（https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/・1回目）
+  - 「Founded in 2018, blueflite designs and manufactures advanced drone systems and software that provide an integrated approach to faster, more cost-effective cargo delivery.」（https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/・1回目）
+  - 「設立 1914年3月25日」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「㈱として設立」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「Nitto-Fuji International Vietnam Co., Ltd.を設立」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「（Thailand） Co., Ltd.を設立」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「日東富士製粉株式会社は本年、 創業110周年を迎えたの」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「創業110周年を迎えたのを機に、 私たち日東富士製粉は社会における」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「お陰様をもちまして当社は2024年3月に創立110周年」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「現経営ト ップとして当社創業」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「創業111年目に突入した日東富士製粉」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「nTop (formerly nTopology) was founded in 2015 with the belief that engineers’ ability to innovate shouldn’t be limited by their design software.」（https://www.youtube.com/c/ntopology・3回目）
+- 黒字・収益性：
+  - 「の新中計では最終年度の業績目標として連結純利益45」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「の中に基礎収益 （ ［営業利益−配合飼料用副産物損益］ ×」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「連結純利益 4,000百万円 3,536百万円 3,714百万円 3,963百万円 4,238百万円」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「※ 基礎収益の定義： ［営業利益-配合飼料用副産物損益］× （1-実効税率） +事業投資損益 （持分利益）」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「連結純利益 40億円 42.3億円 45億円 +2.7億円」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「（百万円） ■基礎収益 ■その他 ●連結純利益」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「■売上高 ■営業利益 （百万円）」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「売上高 営業利益 経常利益」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「親会社株主に帰属する当期純利益 自己資本比率 ・ 純資産」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「千4百万円となりましたが、 営業利益は人件費等営業費用の増加に伴」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「1.4%減の20億2百万円、 営業利益も前年同期比11.6%減の1億3千」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「Education and No-Profit」（https://www.ntop.org/about-us/the-company/・3回目）
+- 売上：
+  - 「SVP, Sales and Customer Success」（https://www.ntop.com/about/・1回目）
+  - 「Chief Revenue Officer」（https://www.ntop.com/about/・1回目）
+  - 「This staged approach made it possible to explore broadly without using the highest analysis fidelity everywhere. It also revealed an important lesson: a coarse mean value can rank a population efficiently, but it cannot fully characterize narrow signature peaks. The final validation therefore mattered just as much as the initial screening.」（https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/・1回目）
+  - 「This study established the pattern that shaped the rest of my RCS work: generate broadly, reject invalid configurations before expensive analysis, screen the valid population efficiently, and reserve greater fidelity for the best candidates. I then carried that architecture forward into a more complex aircraft model.」（https://www.ntop.com/resources/blog/closing-the-loop-on-rcs-aware-design/・1回目）
+  - 「We've learned, and I think a lot is down to using nTop, that we can print the entire drone without an underlying carrying structure. And that's kind of revolutionary.」（https://www.ntop.com/resources/case-studies/4-hours-of-design-time-instead-of-4-weeks-how-blueflite-reduced-fuselage-mass-25-in-a-fraction-of-the-time-with-ntop/・1回目）
+  - 「nTop’s ability to create reliable, complex geometries efficiently allowed RICOH to develop and evaluate several structures for the camera cover before arriving at an optimal solution. The resulting design met their thermal management requirements and demonstrated the capabilities of RICOH's aluminum binder jetting technology.」（https://www.ntop.com/resources/case-studies/designing-a-cooler-camera-housing/・1回目）
+  - 「連結売上高 − 56,544百万円 59,340百万円 69,540百万円 72,598百万円」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「■売上高 ■営業利益 （百万円）」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「売上高 営業利益 経常利益」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「売上高構成比」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「※ セグメ ン ト別売上高には、セグメ ン ト間取引額を含んでおります」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「「製粉及び食品事業」 につきましては、 売上高は値上げ期間の小麦粉」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+- 資金調達：
+  - 「Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.」（https://www.ntop.com/・1回目）
+  - 「Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.」（https://www.ntop.com/・1回目）
+  - 「in Funding」（https://www.ntop.com/about/・1回目）
+  - 「Our Investors」（https://www.ntop.com/about/・1回目）
+  - 「We're backed by leading investors across aerospace, defense, and deep including:」（https://www.ntop.com/about/・1回目）
+  - 「in Funding」（https://www.ntop.com/careers/・1回目）
+  - 「We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.」（https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/・1回目）
+  - 「Using simulation data, Lockheed engineers trained neural network and FNO models capable of both scalar and full-field predictions. These models provided high accuracy with millisecond evaluation times ideal for optimization.」（https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/・1回目）
+  - 「Trusted by 45,000+ founders, operators, and investors.」（https://getlatka.com/companies/ntop.com・3回目）
+  - 「Investors」（https://investors.novanta.com/financials/financial-tables/default.aspx・3回目）
+  - 「Our dedicated investor and financial portal」（https://investors.novanta.com/financials/financial-tables/default.aspx・3回目）
+  - 「Investors Overview」（https://investors.novanta.com/financials/financial-tables/default.aspx・3回目）
+- 存続：
+  - 「Offices closed for the winter holiday」（https://www.ntop.com/careers/・1回目）
+  - 「Search and news advertising revenue excluding traffic acquisition costs increased 20%.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Revenue from search and news advertising excluding traffic acquisition costs (“TAC”) paid to Bing Ads network publishers and news partners」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Operating expenses increased $3.8 billion or 6% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Gaming revenue increased $2.0 billion or 9% driven by growth in Xbox content and services, offset in part by a decline in Xbox hardware. Xbox content and services revenue increased 16% driven by the impact of the Activision Blizzard acquisition and Xbox Game Pass. Xbox hardware revenue decreased 25% driven by lower volume of consoles sold.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Search and news advertising revenue increased $1.6 billion or 13%. Search and news advertising revenue excluding traffic acquisition costs increased 20% driven by higher search volume and higher revenue per search.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Operating expenses increased $1.3 billion or 9% driven by Gaming, including the impact of the Activision Blizzard acquisition.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Research and development expenses increased $3.0 billion or 10% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Sales and marketing expenses increased $1.2 billion or 5% driven by investments in commercial sales and Gaming, including the impact of the Activision Blizzard acquisition.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「General and administrative expenses decreased $386 million or 5% driven by Gaming, including the impact of the Activision Blizzard acquisition.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Acquisition of companies, net of cash acquired and divestitures, and purchases of intangible and other assets」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「The allocation of the purchase price to the assets acquired and liabilities assumed was completed as of September 30, 2024. The major classes of assets and liabilities to which we have allocated the purchase price were as follows:」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+- ホワイトラベル明言：
+  - 「“Access to millions of agents powered by orders of magnitude larger models”」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Microsoft is a technology company committed to making digital technology and artificial intelligence (“AI”) available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. We create platforms and tools, powered by AI, that deliver innovative solutions that meet the evolving needs of our customers.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「How to Build Your Own Brand Products: A 7-Step Guide」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Manufacturing Services to Launch and Scale Premium Product Lines」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Supplement Manufacturing for Fast Growth Nutrition Brands」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Skin Care Manufacturing with Custom Formulation and Fast Turnaround」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Hair Product Manufacturing for Salon Grade and Retail Brands」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Beauty Product Manufacturing for Modern DTC and Retail Brands」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Cosmeceutical Manufacturing for Clinical Grade Skincare Brands」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Private Label Gummy Manufacturing with High Demand Nutraceutical Formulations」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「35+ Private Label ProductsYou Can Sell in2026」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Clean at Sephora: What It Means and How Your Brand Can Qualify」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+- OEM・組込み：
+  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/・1回目）
+  - 「Rapidly Building a Parametric Aircraft Model」（https://www.ntop.com/resources/blog/・1回目）
+  - 「Lockheed Martin accelerates design with AI and embedded simulation」（https://www.ntop.com/resources/case-studies/・1回目）
+  - 「What all of these have in common is that they need nTop running, and that's what the engine model provides. The nTop GUI is one way to drive it, and the command line interface, a notebook authoring API (currently in development), and agents are others. A team licenses the engines it needs and puts them to work however its programs demand.」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
+  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
+  - 「We will also cover nTop’s native meshless flow analysis capabilities for rapid external aerodynamics evaluation, as well as conjugate heat transfer (CHT) analysis for thermal systems.」（https://www.ntop.com/resources/webinars/ntop-for-student-design-teams/・1回目）
+  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/closing-the-loop-between-implicit-geometry-and-flight-physics/・1回目）
+  - 「nTop Drives Rapid UAV Innovation • nTop」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
+  - 「nTop Drives Rapid UAV Innovation」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
+  - 「Rapid Prototyping Case Study」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
+  - 「Rapid Prototyping」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
+  - 「We went through a rapid build-and-test pipeline that proved how fast computational workflows facilitate speedy production. The ultimate payoff was at the airfield where we determined how well our digital models could actually fly, and pinpointed key areas for design iteration.」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
+- 再販制度：
+  - 「Parametric models that never break, so you can explore thousands of design variants in parallel.」（https://www.ntop.com/・1回目）
+  - 「Change input parameters to generate new geometric variants within your design space, without breaking the model or rebuilding it by hand.」（https://www.ntop.com/・1回目）
+  - 「Every geometry variant flows automatically into analysis, using your solvers of choice or Physics AI, so the full design-to-evaluation pipeline runs lights-out.」（https://www.ntop.com/・1回目）
+  - 「Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.」（https://www.ntop.com/・1回目）
+  - 「nTop changes how engineering gets done. Our technology collapses months of iteration into hours, letting teams explore thousands of variants instead of settling for the first option.」（https://www.ntop.com/about/・1回目）
+  - 「nTop's geometry stays robust under extreme parametric variation, so the model keeps up without a person driving every change by hand.」（https://www.ntop.com/about/・1回目）
+  - 「We believe that our team members around the world should enjoy similar perks and benefits as our US employees — no matter where they are located. In addition to a competitive salary, a fantastic vacation plan, and home office and professional reimbursements, we offer benefits to our international employees that vary by country but match the spirit of the benefits our US employees receive.」（https://www.ntop.com/careers/・1回目）
+  - 「Run complete multi-objective trade studies, from parametric geometry through multi-physics results, by connecting nTop's watertight variant generation directly to Ansys solvers and optimization tools.」（https://www.ntop.com/partners/・1回目）
+  - 「Explore thousands of design variants in real time by connecting nTop's parametric geometry directly to PhysicsX's physics AI surrogate models, trained and validated inside a single pipeline.」（https://www.ntop.com/partners/・1回目）
+  - 「Move hundreds of design variants generated in nTop directly into Flexcompute's simulation workflow, compressing requirements-driven design cycles from months to weeks.」（https://www.ntop.com/partners/・1回目）
+  - 「Each machine runs one engine, so a cluster with 20 engines works through 20 variants at a time instead of one. A design of experiments on an airframe can cover the parameter range at the resolution the problem calls for. When a payload or thermal requirement changes late in a program, the team can rerun the whole study rather than a hand-picked subset.」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
+  - 「The work happens on the cluster, so an engineer's workstation stays free for the next problem. Results come back organized by variant, with the inputs, outputs, and logs for each, so a failed or surprising case is easy to trace.」（https://www.ntop.com/resources/blog/ntop-engines-orchestrate/・1回目）
+- 日本対応：
+  - 「日本マスター ト ラス ト信託銀行株式会社 （信託口）373 4.1」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「株式会社日本カス トディ銀行 （信託口）132 1.5」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「日本の食生活の根幹と もいえる小麦粉を日々供給しています」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「日本の食を支える企業と しての誇りを胸に、 今後も成長していきます」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「日本の食を支える04」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「SUPPORT JAPANESE FOOD SUPPLY」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「当社は幾多の経済恐慌を乗り越え、 日本」（https://www.nittofuji.co.jp/ir/library/CR2024_1018.pdf・3回目）
+  - 「grandmother in Japan,」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Distributors and Resellers」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign currency exposures daily to maximize the economic effectiveness of our foreign currency positions, including hedges. Principal currency exposures include the Euro, Japanese yen, British pound, Canadian dollar, and Australian dollar.」（https://www.microsoft.com/investor/reports/ar25/index.html・3回目）
+  - 「: Once established, move into retail or work with distributors to expand reach.」（https://www.respectmanufacturing.com/feeds/blog/make-brand-products・3回目）
+  - 「Mountain View, Andover, Washington D.C. (USA), Tokyo (Japan), Seoul (South Korea) and São Paulo」（https://www.ntop.org/about-us/partners-and-resellers/・3回目）
+- 顧客：
+  - 「Customers」（https://www.ntop.com/resources/blog/・1回目）
+  - 「Case Study Index • nTop」（https://www.ntop.com/resources/case-studies/・1回目）
+  - 「Customers」（https://www.ntop.com/resources/case-studies/・1回目）
+  - 「Featured Case Study」（https://www.ntop.com/resources/case-studies/・1回目）
+  - 「case Study」（https://www.ntop.com/resources/case-studies/・1回目）
+  - 「Customers using nTop」（https://www.ntop.com/about/・1回目）
+  - 「Customers using nTop」（https://www.ntop.com/careers/・1回目）
+  - 「Rapid Prototyping Case Study」（https://www.ntop.com/resources/blog/ntop-drives-rapid-uav-innovation/・1回目）
+  - 「Case Study」（https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/・1回目）
+  - 「case Study」（https://www.ntop.com/resources/case-studies/how-specter-aerospace-accelerates-hypersonic-design-with-ntop/・1回目）
+  - 「Case Study」（https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/・1回目）
+  - 「case Study」（https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/・1回目）
+- 検索結果の抜粋：
+  - 「About - nTop — About - nTop nTop https://www.ntop.com > about」（https://www.ntop.com/about/・3回目）
+  - 「nTop - YouTube — nTop - YouTube YouTube https://www.youtube.com > ntopology」（https://www.youtube.com/c/ntopology・3回目）
+  - 「The Company - Ntop — The Company - Ntop ntop.org https://www.ntop.org > the-company」（https://www.ntop.org/about-us/the-company/・3回目）
+  - 「nTop - 2026 Company Profile, Team, Funding & Competitors — nTop - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU・3回目）
+  - 「nTop 2026 Company Profile: Valuation, Funding & Investors — nTop 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/153371-89・3回目）
+  - 「nTop Secures $65M in Series D Funding — nTop Secures $65M in Series D Funding nTop https://www.ntop.com > blog > ntopo...」（https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/・3回目）
+  - 「nTop Revenue 2024: $17.9M Est. - GetLatka — nTop Revenue 2024: $17.9M Est. - GetLatka GetLatka https://getlatka.com > companies > ntop」（https://getlatka.com/companies/ntop.com・3回目）
+  - 「nTop - Overview, News & Similar companies | ZoomInfo.com — nTop - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > ntopolo...」（https://www.zoominfo.com/c/ntopology-inc/420972350・3回目）
+  - 「nTop - 2026 Company Profile , Team, Funding & Competitors — nTop - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU・3回目）
+  - 「Ntop - Crunchbase Company Profile & Funding — Ntop - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > ntop-1...」（https://www.crunchbase.com/organization/ntop-1d38・3回目）
+  - 「nTopology Raises $65M for its Next Generation Engineering ... — nTopology Raises $65M for its Next Generation Engineering ... AlleyWatch https://www.alleywatch.com > 2021/11」（https://www.alleywatch.com/2021/11/ntopology-engineering-design-software-advanced-manufacturing-bradley-rothenberg/・3回目）
+  - 「nTop Acquires cloudfluid to Advance the Design‑to ... — nTop Acquires cloudfluid to Advance the Design‑to ... nTop https://www.ntop.com > blog > ntop-...」（https://www.ntop.com/resources/blog/ntop-acquires-cloudfluid-to-advance-computational-design/・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部50頁・検索14回）
+
+## simus systems
+- 公式URL：https://www.simus-systems.com（given）
+- 株主構成：
+  - 「lower cost of ownership」（https://www.siemens.com/ja-jp/ecosystem/simus-systems-gmbh/・3回目）
+  - 「ownership culture」（https://www.siemens.com/ja-jp/ecosystem/simus-systems-gmbh/・3回目）
+  - 「lower cost of ownership」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
+  - 「ownership culture」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
+  - 「Premium + Ownership & Flags Add-on」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Gesellschafter und Investoren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Originaldokument: »Liste der Gesellschafter«」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+- 創業年度：
+  - 「同社は 2002 年、カールスルーエ大学からのスピンオフとして設立されました」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
+- 黒字・収益性：
+  - 「So begleiten wir Unternehmen auf dem Weg zu einer profitableren, nachhaltigeren und damit zukunftsfähigen Organisation.」（https://www.simus-systems.com/・1回目）
+  - 「„Das frühe Kostenwissen in der Konzeptphase bringt bei neuen Projekten ein halbes Jahr Zeitgewinn.」（https://www.simus-systems.com/・1回目）
+  - 「Profitieren Sie von kompaktem Expertenwissen, Best Practices aus Kundenprojekten und konkreten Tipps für Ihre tägliche Arbeit.」（https://www.simus-systems.com/whitepaper/・1回目）
+  - 「Digitalisieren Sie Ihren Angebotsprozess und gewinnen Sie wertvolle Zeit im Wettbewerb」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
+  - 「Daten der Produktentwicklung gewinnbringend einsetzen (01.07.2022)」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
+  - 「Sehen Sie anhand konkreter Anwendungsbeispiele, wie Unternehmen bereits von strukturierten Daten profitieren.」（https://www.simus-systems.com/whitepaper-fit-for-ai-ki-erfolg-maschinenbau/・1回目）
+  - 「Profitieren Sie von kompaktem Expertenwissen, Best Practices aus Kundenprojekten und konkreten Tipps für Ihre tägliche Arbeit.」（https://www.simus-systems.com/whitepaper/?s=・1回目）
+  - 「Daten der Produktentwicklung gewinnbringend einsetzen (01.07.2022)」（https://www.simus-systems.com/referenzen/pressestimmen/?s=・1回目）
+  - 「Sehen Sie anhand konkreter Anwendungsbeispiele, wie Unternehmen bereits von strukturierten Daten profitieren.」（https://www.simus-systems.com/whitepaper-fit-for-ai-ki-erfolg-maschinenbau/?s=・1回目）
+  - 「Gewinn」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Gewinn CAGR」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Gewinn-Angaben sind bei dieser Firma nur für Kunden」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+- 売上：
+  - 「Karriere」（https://www.simus-systems.com/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/whitepaper/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/aktuelles/newsletter/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/referenzen/partner/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/aktuelles/presse/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/unternehmen/impressum/・1回目）
+  - 「USt-IdNr. gemäß § 27a Umsatzsteuergesetz: DE223057120」（https://www.simus-systems.com/unternehmen/impressum/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/whitepaper-fit-for-ai-ki-erfolg-maschinenbau/・1回目）
+  - 「Karriere」（https://www.simus-systems.com/whitepaper/?s=・1回目）
+  - 「Boost your sales process with our quick ‘n easy cost check for turned, milled and sheet metal parts.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+- 資金調達：
+  - 「Request an evaluation」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Request an Evaluation」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Gesellschafter und Investoren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+- 存続：
+  - 「Coreform was poised to make a real impact on the CAE world. By integrating specific Spatial SDKs customized to their needs, Coreform closed the circle on its revolutionary software.」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Liquidation」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Aktualisierung Insolvenzverfahren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Eröffnung Insolvenzverfahren」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+  - 「Merger/Acquisition」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+- ホワイトラベル明言：
+  - 「costing24 white label for contract manufacturer」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Prototek IQ, empowered by Spatial components allow instant quoting for 3D models. It saves customers’ time, alleviates administrative tasks, and opens new opportunities in digital manufacturing.」（https://www.spatial.com/case-studies/simus-systems・3回目）
+- OEM・組込み：
+  - 「– im Unterschied zu Schätzungen mit Stift und Papier oder Kalkulationen in Excel, die oft einen erheblichen Aufwand an Datenrecherche und Rückfragen verursachen.」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
+  - 「Einbindung per Schnittstelle (API)」（https://www.simus-systems.com/costing24/white-label-auftragsfertiger/・1回目）
+  - 「Embedded in your website!」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Embedding as a service in the own website」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Why you should embed costing24 in your website」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Embedding in iFrame」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Embedding by iFrame is as easy as integrating a YouTube video on your website: To integrate a short HTML code on your website is enough to “pull in“ the application. The costing24 application remains entirely on our server. There is no exchange between your website and server when performing calculations for a part and there is no additional work and only little cost for you.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Minimal effort – as easy as embedding a video」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Use via Interface (API)」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「APIを使用してイノベーションを起こす」（https://www.siemens.com/ja-jp/ecosystem/simus-systems-gmbh/・3回目）
+  - 「川崎重工業がSpatialの統合型3D SDKスイートを活用してneoROSETの開発を加速させ、トレーニングコストを削減した方法をご覧ください」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
+  - 「スペイシャルSDKを統合した後、Simus Systems社は」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
+- 再販制度：
+  - 「simus systems unterstützt Forschungsprojekt zur Fertigungsprogrammvarianz (04.06.2024)」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
+  - 「simus systems fördert Forschungsprojekt zur Variantenreduzierung (04.06.2024)」（https://www.simus-systems.com/referenzen/pressestimmen/・1回目）
+  - 「Konstrukteure stehen unter Druck: Hersteller müssen individuellere Produkte mit immer mehr Varianten in kürzerer Zeit zu niedrigeren Kosten entwickeln. Doch einen guten Teil ihrer Arbeitszeit verwenden sie auf die Suche nach Daten, Bauteilen und Normalien sowie die Pflege von Stammdaten. Die patentierte Software classmate CAD von simus systems entlastet wirkungsvoll davon.」（https://www.simus-systems.com/aktuelles/presse/・1回目）
+  - 「simus systems unterstützt Forschungsprojekt zur Fertigungsprogrammvarianz (04.06.2024)」（https://www.simus-systems.com/referenzen/pressestimmen/?s=・1回目）
+  - 「simus systems fördert Forschungsprojekt zur Variantenreduzierung (04.06.2024)」（https://www.simus-systems.com/referenzen/pressestimmen/?s=・1回目）
+  - 「Potenzialen und Maßnahmen zur Reduzierung der Fertigungsprogramm-Varianz」（https://www.simus-systems.com/category/presse/・1回目）
+  - 「Konstrukteure stehen unter Druck: Hersteller müssen individuellere Produkte mit immer mehr Varianten in kürzerer Zeit zu niedrigeren Kosten entwickeln. Doch einen guten Teil ihrer Arbeitszeit verwenden sie auf die Suche nach Daten, Bauteilen und Normalien sowie die Pflege von Stammdaten. Die patentierte Software classmate CAD von simus systems entlastet wirkungsvoll davon.」（https://www.simus-systems.com/category/presse/・1回目）
+  - 「distributors」（https://www.siemens.com/ja-jp/ecosystem/simus-systems-gmbh/・3回目）
+  - 「distributors」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
+  - 「Förderung (174.213 €): Gestaltung innovativer Baukasten- und Wertschöpfungsstrukturen (GiBWert), Teilprojekt: Varianzsensitivität, konstituierende Produktmerkmale und softwaretechnische Umsetzung」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+- 日本対応：
+  - 「distributors」（https://www.siemens.com/ja-jp/ecosystem/simus-systems-gmbh/・3回目）
+  - 「distributors」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
+- 顧客：
+  - 「Price quotes in seconds for satisfied customers」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「With a simple integration of the powerful online calculation costing24 into your own website, your customers will immediately receive a technically sound price information for their inquiry. Your own technical requirements, parameters and surcharges can be taken into account. The result of the calculation can be transferred directly into a shopping cart.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「Providing instant online quotes helps shops accommodate their customers’ changing needs. Reduce your request for quote (RFQ) response time to minutes or offer online quotes and orders 24/7 on your site with costing24 machine shop quoting software.」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・1回目）
+  - 「" ‘Can‘t be done’ doesn’t exist. In developing our software, we put our customers at the heart of everything we do."」（https://www.simus-systems.com/en/company/about-us/・1回目）
+  - 「What Customers Think」（https://www.simus-systems.com/en/news/・1回目）
+  - 「Simus System社は3D InterOpライブラリを導入しました」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
+  - 「モデリングと可視化技術の導入が不可欠でした」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
+  - 「Simus Case Study | Spatial」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「InnovMetric Case Study」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Case Study / Metrology, Manufacturing」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Discover how InnovMetric streamlined CAD model-based dimensional inspection for 26,000 customers with Spatial's 3D InterOp SDK.」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Simus Systems Case Study」（https://www.spatial.com/case-studies/simus-systems・3回目）
+- 検索結果の抜粋：
+  - 「simus systems GmbH | Siemens — simus systems GmbH | Siemens Siemens https://www.siemens.com > Home > Ecosystem」（https://www.siemens.com/ja-jp/ecosystem/simus-systems-gmbh/・3回目）
+  - 「simus systems - Adding structure to your data — simus systems - Adding structure to your data simus systems GmbH https://www.simus-systems.com > ...」（https://www.simus-systems.com/en/・3回目）
+  - 「Simus Systems 社 事例紹介｜スペイシャル - Spatial Corp — Simus Systems 社 事例紹介｜スペイシャル - Spatial Corp Spatial Corp https://www.spatial.com > case-studies > simus-systems」（https://www.spatial.com/ja/case-studies/simus-systems・3回目）
+  - 「About Us - Simus Systems — About Us - Simus Systems simus systems GmbH https://www.simus-systems.com > abo...」（https://www.simus-systems.com/en/company/about-us/・3回目）
+  - 「SIMUS CASE STUDY - Spatial Corp — SIMUS CASE STUDY - Spatial Corp Spatial Corp PDF https://www.spatial.com > Simus Systems Case Study」（https://www.spatial.com/hubfs/Simus%20Systems%20Case%20Study.pdf・3回目）
+  - 「Simus Systems Case Study - Spatial Corp — Simus Systems Case Study - Spatial Corp Spatial Corp https://www.spatial.com > case-studies」（https://www.spatial.com/case-studies/simus-systems・3回目）
+  - 「Success Stories and User Reports simus systems — Success Stories and User Reports simus systems simus systems GmbH https://www.simus-systems.com > suc...」（https://www.simus-systems.com/en/references/success-stories/・3回目）
+  - 「simus systems • Stammdaten und CAD-Daten für die ... — simus systems • Stammdaten und CAD-Daten für die ... LinkedIn https://de.linkedin.com > company」（https://de.linkedin.com/company/simus-systems-gmbh・3回目）
+  - 「simus systems GmbH | Siemens — simus systems GmbH | Siemens Siemens https://www.siemens.com > ecosystem」（https://www.siemens.com/en-us/ecosystem/simus-systems-gmbh/・3回目）
+  - 「costing24 white label for contract manufacturer - Simus Systems — costing24 white label for contract manufacturer - Simus Systems simus systems GmbH https://www.simus-systems.com > whi...」（https://www.simus-systems.com/en/products/costing24-calculate-production-costs-online/white-label/・3回目）
+  - 「Partners - Simus Systems — Partners - Simus Systems simus systems GmbH https://www.simus-systems.com > part...」（https://www.simus-systems.com/en/references/partners/・3回目）
+  - 「simus systems GmbH, Karlsruhe - North Data — simus systems GmbH, Karlsruhe - North Data North Data https://www.northdata.de > simus syst...」（https://www.northdata.de/simus%20systems%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20109936・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）

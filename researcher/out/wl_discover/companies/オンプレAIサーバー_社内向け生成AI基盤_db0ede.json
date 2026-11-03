@@ -1,0 +1,495 @@
+{
+ "name": "オンプレAIサーバー（社内向け生成AI基盤）",
+ "en": "on-premise AI server appliance",
+ "aliases": [
+  "on-prem LLM server",
+  "private AI appliance",
+  "local LLM hardware for business",
+  "オンプレ 生成AI サーバー"
+ ],
+ "context": "オンプレAI",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:16:19.425042+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Best Copilot Alternatives",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Best ChatGPT Alternatives",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Top AI Companies in Austin",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks the leading private and turnkey AI appliances — from foundational GPU platforms like NVIDIA DGX to co-engineered AI factories from Dell, HPE, Lenovo, Supermicro, and Cisco, plus software-led and desktop options. These are the engines of modern enterprise AI, and many are part of the same ecosystem we build on.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "How the leading on-prem and turnkey AI platforms compare at a glance",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Full NVIDIA AI stack on the desktop",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven leading on-premise, air-gapped, and turnkey AI platforms — evaluated on performance, security, and speed-to-production for business buyers.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop personal AI supercomputers for private local development",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Full NVIDIA AI stack on the desktop; pairs with NVIDIA NemoClaw and OpenShell",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop-class systems for development and small workloads, not data-center training",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Ships with 2,800+ preconfigured workflows and a complete software stack, so teams go live in weeks rather than the 6-18 months Iternal cites for typical enterprise AI alternatives.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "A private AI appliance runs inference, fine-tuning, and data processing inside your own data center or facility rather than a public cloud. Data never leaves your control, which is essential for regulated sectors. Options range from foundational GPU platforms like NVIDIA DGX to complete preconfigured appliances such as",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Security and governance embedded into AI infrastructure from day one",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller and less established than the OEM leaders, with fewer public reference customers and benchmarks",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "AI Partner Program",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly $300K-$500K per system (reseller estimates)",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller estimates place it at roughly $300K-$500K per system",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Significant CapEx; reseller estimates put systems at roughly $300K-$500K",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "DGX Spark retails around ~$4,699 MSRP; street price varies",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Supermicro AI Factory SuperClusters deliver exceptional density in 42U/48U/52U air- or liquid-cooled racks, integrating 72 NVIDIA B300 GPUs per rack and supporting NVIDIA HGX B300. Liquid-cooled 256-GPU (5 racks) and 768-GPU (9 racks) scalable units arrive cluster-level L12 tested before shipment. At COMPUTEX 2026 (June 1) Supermicro introduced DCBBS Blueprints for NVIDIA Vera Rubin NVL72.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner vTECH io generated $5M in revenue within 12 months bundling AirgapAI with Intel NPU-accelerated AI PCs.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Perpetual license from $697 one-time per user",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "Perpetual licensing starts from $697 one-time per user. Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected and $20M+ for Palantir AIP.",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely by form factor. Reseller estimates place an NVIDIA DGX B200 at roughly $300K-$500K, while desktop systems like the NVIDIA DGX Spark retail around ~$4,699 MSRP. Iternal Turnkey AI uses perpetual licensing from $697 one-time per user; Iternal's published comparison puts 4-year enterprise TCO at ~$50K versus $2M+ for Azure OpenAI Disconnected. Use our",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   },
+   {
+    "quote": "ships the hardware, the AirgapAI local inference app and the Blockify accuracy engine as one system, with perpetual licensing from $697 one-time per user. If the purchase replaces aging infrastructure, size the payback first with the",
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/best-private-ai-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.spectrocloud.com/blog/on-premise-ai-is-back-the-server-is-the-easy-part",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://locailabs.com/on-prem-ai-appliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/ai/local-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://powerbiconsultingservices.com/top-private-on-premise-ai-server-consultants-usa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLx2l4Lld4H1zr9oCC1uncOvYcQFeia56eKfAz1u-HDLxE_Gz9w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://devxt.com/ai-appliance/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onprem.ai/en/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vILsbz7Y5SgkmdWLaSq8ZrtTrE1-lv4RE9NYeH4GEHDqYUqrMyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soca.ai/products/appliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onpremise-ai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zanusai.com/pages/private-ai-servers-and-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.select-interactive.com/news/what-does-on-premise-ai-actually-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1min.ai/white-label-ai-for-small-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vKQUthHnLhaQB8W9LInTJrtygxtB-fJG_HbfoLkQUhdSLKKQ37V",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.optimagpt.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickurai.ai/ai-use-cases/on-premise-ai-server-guide-best-machines-amazon-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label on-premise AI server appliance",
+   "results": [
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://www.spectrocloud.com/blog/on-premise-ai-is-back-the-server-is-the-easy-part",
+    "https://www.onesourcecloud.net/cms/on-prem-ai-servers-cost-control-enterprise-deployment.html",
+    "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "https://soca.ai/products/appliance"
+   ]
+  },
+  {
+   "query": "on-premise AI server appliance white-label",
+   "results": [
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://www.spectrocloud.com/blog/on-premise-ai-is-back-the-server-is-the-easy-part",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1g2oc3e/any_such_thing_as_a_presetup_physical_ai_server/",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://www.qualcomm.com/internet-of-things/solutions/ai-on-prem-appliance",
+    "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://locailabs.com/on-prem-ai-appliance"
+   ]
+  },
+  {
+   "query": "best white label on-premise AI server appliance providers",
+   "results": [
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.truefoundry.com/blog/on-premises-generative-ai",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://powerbiconsultingservices.com/top-private-on-premise-ai-server-consultants-usa/",
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "https://www.onprem.ai/en/platform/",
+    "https://wz-it.com/en/blog/on-premise-ai-solutions-comparison/"
+   ]
+  },
+  {
+   "query": "on-premise AI server appliance white label reseller agency",
+   "results": [
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "https://vida.io/partners",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://whitelabelitsolutions.com/colocation-services/managed-colocation/ai-server-hosting/",
+    "https://skyswitch.com/blog/guide-to-white-label-cloud-solutions/",
+    "https://xcloud.host/docs/deploy-ai-agents-platforms-with-xcloud-reseller-hosting-program/",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  },
+  {
+   "query": "on-premise AI server appliance rebrand your logo own brand",
+   "results": [
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vLx2l4Lld4H1zr9oCC1uncOvYcQFeia56eKfAz1u-HDLxE_Gz9w",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://www.youtube.com/watch?v=WlvUUo9UMYg",
+    "https://www.compute-market.com/blog/local-ai-server-for-business-2026",
+    "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "https://devxt.com/ai-appliance/",
+    "https://zanusai.com/products/zanus-ai-prime-private-ai-server",
+    "https://onpremise-ai.com/"
+   ]
+  },
+  {
+   "query": "on-premise AI server appliance private label SaaS",
+   "results": [
+    "https://www.truefoundry.com/blog/on-premise-ai-platform",
+    "https://www.onprem.ai/en/platform/",
+    "https://cloudian.com/guides/ai-infrastructure/on-prem-ai-3-key-components-use-cases-best-practices/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vILsbz7Y5SgkmdWLaSq8ZrtTrE1-lv4RE9NYeH4GEHDqYUqrMyo",
+    "https://soca.ai/products/appliance"
+   ]
+  },
+  {
+   "query": "on-premise AI server appliance white label partner program pricing",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.select-interactive.com/news/what-does-on-premise-ai-actually-cost",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.agentz.ai/partners",
+    "https://onpremise-ai.com/pricing/"
+   ]
+  },
+  {
+   "query": "on-premise AI server appliance white label company profitable",
+   "results": [
+    "https://www.spectrocloud.com/blog/on-premise-ai-is-back-the-server-is-the-easy-part",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.zylon.ai/resources/blog/why-private-ai-and-on-premise-ai-are-pulling-enterprise-workloads-back-from-the-cloud",
+    "https://www.setechnical.net/ai/local-ai/",
+    "https://whitelabelitsolutions.com/ai-server-hosting/",
+    "https://1min.ai/white-label-ai-for-small-businesses",
+    "https://vrlatech.com/on-premise-ai-for-small-business-in-2026-is-it-time-to-own-your-infrastructure/?srsltid=AYCX9vKQUthHnLhaQB8W9LInTJrtygxtB-fJG_HbfoLkQUhdSLKKQ37V",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://iternal.ai/best-private-ai-appliances",
+    "https://www.buildmvpfast.com/blog/on-premises-ai-appliances-air-gapped-enterprise-llm-2026"
+   ]
+  }
+ ],
+ "missing": {
+  "黒字・収益性": "記載なし（読んだ40頁・検索8回）"
+ }
+}

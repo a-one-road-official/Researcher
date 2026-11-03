@@ -1,0 +1,302 @@
+{
+ "name": "自治体・国の採用支援の補助金（地方の製造業向け）",
+ "en": "government hiring subsidies regional manufacturers Japan",
+ "aliases": [
+  "採用 補助金 中小企業 地方",
+  "人材確保 助成金 製造業",
+  "UIJターン 採用 補助金"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:18:17.883070+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/2061/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seichotoushi-hojo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/follow-up/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://4d2.jiam.jp/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tameni.mynavi.jp/recruitment/law/4639/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.joho-shimane.or.jp/files/original/20250514174040396dca46cb7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smart-hojokin.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_kaseguchikara/004/002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seisansei.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-shinkin.co.jp/profile/files/docs/local_r05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jilc.or.jp/pages/261/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jyoseikin-support.net/subsidy_column/%E5%9B%BD%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91-vs-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%EF%BD%9C5000%E4%B8%87%E5%86%86%E6%8A%95%E8%B3%87%E3%81%A7%E6%9C%AC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forval-shoukei.jp/shokuhin_lp/column/hojokin-shurui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojimachi-capital.com/subsidy-implementing-organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/ajw/articles/16337156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grants.dorado-group.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sr-verse.jp/services/founding-support-subsidies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 調査 万円",
+   "results": [
+    "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "https://hojyokin-portal.jp/",
+    "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "https://hojokin-agent.jp/subsidy",
+    "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "https://www.brother.co.jp/product/machine/speedio-navi/articles/a0066/",
+    "https://www.sme-support.co.jp/column/p1242/",
+    "https://www.jilc.or.jp/pages/261/",
+    "https://expact.jp/mono-hojyo/",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 平均 2025",
+   "results": [
+    "https://www.sme-support.co.jp/column/p1242/",
+    "https://hojokin-joseikin.com/2061/",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "https://seichotoushi-hojo.jp/",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7020/",
+    "https://hojyokin-portal.jp/columns/hojyokin-chusho-summary",
+    "https://baie-amalfi.com/202%EF%BC%95%E5%B9%B4%E7%89%88%EF%BC%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E8%A3%9C%E5%8A%A9%E9%87%91%E4%B8%80%E8%A6%A7/",
+    "https://edenred.jp/article/hr-recruiting/318/",
+    "https://hojokin-db.jp/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 中小企業 アンケート 結果",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/follow-up/index.html",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.jiam.jp/journal/pdf/127-02-01.pdf",
+    "https://mirasapo-plus.go.jp/",
+    "https://j-net21.smrj.go.jp/",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://www.tokyo-kst.jp/repo28.html?srsltid=AYCX9vIiB8_NV1vLBAcNN_Ot_8FHaW4ep4o7wm-eoZd8quZ4SHVxY1gQ",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://local-mp.co.jp/media/columns/subsidy-map-2026/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 就職白書 OR マイナビ OR リクルート 調査",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/",
+    "https://tameni.mynavi.jp/recruitment/law/4639/",
+    "https://local-syukatsu.mhlw.go.jp/support/",
+    "https://saponet.mynavi.jp/",
+    "https://www.joho-shimane.or.jp/files/original/20250514174040396dca46cb7.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/07/2026-saiyojyokatsudo.pdf",
+    "https://www.pref.shimane.lg.jp/industry/employ/koyo_syugyo/shien/saiyo.data/R8shienguide.pdf",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/about-employment-subsidy",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local02/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 商工会議所 OR 信用金庫 OR 県 調査",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "https://hojokin-joseikin.com/2061/",
+    "https://www.smart-hojokin.jp/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_kaseguchikara/004/002.pdf",
+    "https://seisansei.smrj.go.jp/",
+    "https://hojokin-agent.jp/subsidy",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://hojyokin-portal.jp/",
+    "https://www.sk-shinkin.co.jp/profile/files/docs/local_r05.pdf"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 都道府県 地方 比較",
+   "results": [
+    "https://www.jilc.or.jp/pages/261/",
+    "https://jyoseikin-support.net/subsidy_column/%E5%9B%BD%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91-vs-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%EF%BD%9C5000%E4%B8%87%E5%86%86%E6%8A%95%E8%B3%87%E3%81%A7%E6%9C%AC/",
+    "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "https://forval-shoukei.jp/shokuhin_lp/column/hojokin-shurui.html",
+    "https://hojokin-agent.jp/subsidy",
+    "https://kojimachi-capital.com/subsidy-implementing-organization/",
+    "https://hojyokin-portal.jp/columns/hello-world",
+    "https://www.smart-hojokin.jp/",
+    "https://www.onamae.com/business/article/302884/",
+    "https://hojokin-db.jp/"
+   ]
+  },
+  {
+   "query": "government hiring subsidies regional manufacturers Japan",
+   "results": [
+    "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "https://www.asahi.com/ajw/articles/16337156",
+    "https://grants.dorado-group.jp/",
+    "https://www.facebook.com/vietnamtodayinternational/posts/the-japanese-government-will-be-launching-a-subsidy-program-to-encourage-firms-t/567160287553442/",
+    "https://sr-verse.jp/services/founding-support-subsidies/",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://www.eu-japan.eu/taxes-accounting/tax-incentives-subsidies",
+    "https://sr-dsg.or.jp/column/foreign-employment/808/",
+    "https://scalingyourcompany.com/guide-to-subsidies-in-japan/",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/government_initiatives.html"
+   ]
+  }
+ ],
+ "missing": {
+  "採用予算・採用費": "記載なし（読んだ34頁・検索7回）",
+  "1人あたり採用単価": "記載なし（読んだ34頁・検索7回）",
+  "調査対象": "記載なし（読んだ34頁・検索7回）",
+  "採用経路": "記載なし（読んだ34頁・検索7回）",
+  "人手不足": "記載なし（読んだ34頁・検索7回）",
+  "補助金": "記載なし（読んだ34頁・検索7回）",
+  "料金": "記載なし（読んだ34頁・検索7回）"
+ }
+}
