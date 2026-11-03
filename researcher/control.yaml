@@ -30,4 +30,5 @@ topics:
   design_arch_count: {run: true, shards: 3, per_run: 2}  # 2026-11-04 デザイン事務所・建築設計事務所の数（規模別・都道府県別・瀬戸内）
   trade_bench: {run: true, shards: 3, per_run: 1}  # 2026-11-04 商社の手本3社（マクニカ・ディッカー・データ・コーンズ）の始まり方・粗利・運転資金
   export_cand: {run: true, shards: 3, per_run: 2}  # 2026-11-04 日本→海外の商材候補（輸出額・伸び・仕向け先・取り分・規制）
+  tenm_bench: {run: true, shards: 7, per_run: 2}  # 2026-11-04 ものづくり企業が年1,000万円以上を払う外部サービス14品目：価格帯・提供企業・導入期間・不満（大野式4軸の材料）
   recruit_media_cos: {run: true, shards: 7, per_run: 2}  # 2026-11-03 採用媒体づくりの競合14社（売上・規模・創業年度・株主・料金・稼ぎ方）
