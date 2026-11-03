@@ -1,4 +1,4 @@
-# wl-A DfAM・wl-B 図面読み取り・wl-C 3D CAD の3枠（wl-D 即時見積窓口は自作）で、世界中のホワイトラベル（自社名で再販・OEM・組込み）ソフトを洗い出し、
+# wl-A DfAM・wl-C 3D CAD の2枠（wl-B 図面読み取りは前職と同じ仕事なので外す。wl-D は自作）で、世界中のホワイトラベル（自社名で再販・OEM・組込み）ソフトを洗い出し、
 # 提供企業が黒字か（利益・EBITDA・損益分岐・自己資金経営）と売上の行をそのまま引用する。
 # 本人の条件（自然言語入力→n8n→「A1はn円で受けられる」と答える問い合わせフォームの部品）：ホワイトラベルで儲かっていて黒字の製品のみ。黒字の記載がない提供企業は第2段（会社ごとの三重確認）で確かめる。
 # 数字は引用行のまま。要約・順位づけはしない。
@@ -31,5 +31,7 @@ external_queries:
   - "{en} vendors Europe Israel Germany"
   - "{en} pricing API"
   - "{name} 日本 代理店"
+  - "{en} alternatives to CASTOR Oqton 3YOURMIND Materialise AMFG nTop"
+  - "{en} SDK license OEM partners list"
 
 limits: {pages: 60, external_per_query: 5, per_cat: 15}
