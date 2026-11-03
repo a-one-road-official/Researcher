@@ -1,0 +1,1039 @@
+{
+ "name": "3YOURMIND",
+ "aliases": [
+  "3YOURMIND GmbH"
+ ],
+ "context": "wl-A DfAM（AM部品の適性判定）",
+ "researched_at": "2026-11-03T09:55:50.553663+00:00",
+ "official_url": "https://www.3yourmind.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "売上": [
+   {
+    "quote": "Minimize 75% of lost sales",
+    "url": "https://www.3yourmind.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking the 3D Printing Barrier for the Ordinary",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "In an exclusive interview with 3YOURMIND, Meltwerk the Berlin based company founded in 2015 under the brand Trinckle3D, explain the reasons behind their production decisions that support their main mission, to break the barrier between ordinary people and 3D Printing.",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "How 3D printing technology is adapted for use in space? \"Made In Space is working on expanding this technology to other realms of on-orbit manufacturing, including the construction of large-scale structures in free space by Archinaut.\" During an exclusive interview with 3YOURMIND Made in Space's Product Strategist, Harrison Pitman gave us insight into Zero Gravity production.",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "“We wanted to educate engineers on new possibilities to maximize their efficiency so they could obtain parts much faster using new technology,” says Ciszek. “And we thought one way to do that was to give them tools to increase access and reduce barriers to understanding the technology.”",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Pictured: William Cuervo, 3YOURMIND's VP of Sales North America, presented at the Marine Corps Base Camp Pendleton in California in 2023.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Encosa offers an end-to-end solution that allows their customers to lower their costs via energy saving strategies, while also generating revenues by trading excess capacity on the energy markets.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "resulting in fewer stocked parts and less tied-up capital.",
+    "url": "https://www.3yourmind.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". OEMs, operating companies, and contract manufacturers can create digital inventories of qualified parts to",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Implemented streamlined API payloads, browser caching headers, and optimized thumbnail generation for high-density tables.",
+    "url": "https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production",
+    "pass": 1
+   },
+   {
+    "quote": "A primary breakthrough of the exercise was the collaborative engagement between the EDA and the NATO Support and Procurement Agency (NSPA). Both bodies actively explored shared interests in the RAPID-e repository, uncovering vast potential for a unified, secure digital backbone across allied nations.",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "True Allied Interoperability (RAPiD-e):",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "This causes shifting part quality and discourages OEMs from sharing their assets",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "This removes human error for field operators and delivers the precise digital traceability OEMs demand",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "The success at AM Village 2026 is just the beginning. As 3YOURMIND wraps up additional military exercises—including NATO’s CWIX and the massive RIMPAC 2026 exercise in Hawaii—the focus is rapidly shifting toward scaling these distributed manufacturing capabilities across dozens of global production sites.",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "Polymers for Apium's FFF 3D Printing",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "In this interview with Apium, learn how high-performance polymers can be applied in various industrial applications in the fields of prototyping, R&D, individual parts, and small batches.",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "EOS North America and 3YOURMIND Launch Rapid Part Identifier Program",
+    "url": "https://www.3yourmind.com/news/topic/category_news",
+    "pass": 1
+   },
+   {
+    "quote": "3YOURMIND champions the future of advanced manufacturing, actively driving education, standardization, and global awareness in additive manufacturing. As members of leading organizations worldwide, we’re committed to shaping a more innovative and connected manufacturing industry.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "3YOURMIND Authorized Resellers",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Authorized Reseller of 3YOURMIND",
+    "url": "https://www.3yourmind.com/hs-fs/hubfs/Partners.png?width=1200&height=630&name=Partners.png",
+    "pass": 2
+   },
+   {
+    "quote": "3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Our sophisticated investors include visionary family offices, leading wealth managers, institutions, founders, and senior executives. These individuals and organizations are all committed to shaping the next generation of innovation.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 Verve Capital Partners AG, Uetlibergstrasse 132, 8045 Zürich, Switzerland",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Verve Capital Partners is a licensed Securities Firm under the direct and continuous supervision of FINMA.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "1.1. Verve Capital Partners AG (\"VERVE\") respects Users’ privacy. This Privacy Policy explains (i) what",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.3yourmind.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See Our Customers",
+    "url": "https://www.3yourmind.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "3YOURMIND Customers",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "What Our Customers Say",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue\".",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The flagship office in Berlin handles product development and operations, leveraging the city's tech hub and collaborating with clients in the energy and railway sectors, such as",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "3YOURMIND's global network of partners and clients is supported by a diverse team speaking over 10 languages, ready to assist with your digital manufacturing needs.",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production",
+    "pass": 1
+   },
+   {
+    "quote": "This release focuses on simplifying complex order coordination, speeding up shop-floor execution, and improving platform performance even in low-bandwidth environments. By combining enhanced visibility with stronger operational controls, teams can now optimize machine utilization and keep customers updated at every stage of production.",
+    "url": "https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production",
+    "pass": 1
+   },
+   {
+    "quote": "This release is currently being rolled out to our SaaS customers. Updates should be available within the next few days.",
+    "url": "https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/use-ai-to-support-part-assessment",
+    "pass": 1
+   },
+   {
+    "quote": "This release is currently being rolled out to our SaaS customers. If you don't see updates immediately, they should be available within the next few days.",
+    "url": "https://www.3yourmind.com/news/use-ai-to-support-part-assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/use-ai-to-support-part-assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "pass": 1
+   },
+   {
+    "quote": "<p>This release focuses on simplifying complex order coordination, speeding up shop-floor execution, and improving platform performance even in low-bandwidth environments. By combining enhanced visibility with stronger operational controls, teams can now optimize machine utilization and keep customers updated at every stage of production.</p>",
+    "url": "https://www.3yourmind.com/news/rss.xml",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/imprint",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_casestudies",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_casestudies",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: U.S. Marine Corps. Identifies Part for AM",
+    "url": "https://www.3yourmind.com/news/topic/category_casestudies",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, learn how the United States Marine Corps leverages software to organize technical data and identify part candidates for additive manufacturing.",
+    "url": "https://www.3yourmind.com/news/topic/category_casestudies",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Case Study: Spectroplast",
+    "url": "https://www.3yourmind.com/news/topic/category_casestudies",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_customer",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_customer",
+    "pass": 1
+   },
+   {
+    "quote": "Creabis Empowers Customers to Order Parts 24/7, 365",
+    "url": "https://www.3yourmind.com/news/topic/category_customer",
+    "pass": 1
+   },
+   {
+    "quote": "Read case studies to see how 3YOURMIND customers are leveraging additive manufacturing for the railway industry.",
+    "url": "https://www.3yourmind.com/news/topic/category_customer",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Case Study: Spectroplast",
+    "url": "https://www.3yourmind.com/news/topic/category_customer",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_news",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_news",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_product",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_product",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/category_video",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/category_video",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "With the name secured and the platform developed, 3YOURMIND began gaining clients immediately. But it wasn’t until EOS founder Hans Langer invested in the company that 3YOURMIND started to gain momentum.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/product-updates",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/product-updates",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/topic/defense",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/topic/defense",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: U.S. Marine Corps. Identifies Part for AM",
+    "url": "https://www.3yourmind.com/news/topic/defense",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, learn how the United States Marine Corps leverages software to organize technical data and identify part candidates for additive manufacturing.",
+    "url": "https://www.3yourmind.com/news/topic/defense",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/de/impressum",
+    "pass": 1
+   },
+   {
+    "quote": "want to secure our technology leadership in part identification and digitization of AM processes and expand our business internationally.” Today, 3YOURMIND’s customers include Deutsche Bahn, Erpro, Bosch, and other international companies operating in",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "\"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue\".",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Information, pursuant to any applicable law, regulation or order, e.g. in case of merger, sale or acquisition,",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "in case of bankruptcy and liquidation, if applicable.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Pictured: Material check now offers more granular assessment results, including substitute material support and material compatibility evaluations.",
+    "url": "https://www.3yourmind.com/news/use-ai-to-support-part-assessment",
+    "pass": 1
+   },
+   {
+    "quote": "The two young men sparked a conversation about the exciting and newly accessible subject of 3D printing. Like a seed, the conversation grew, and not long after, Kühr relocated to Berlin to start looking for more ways to gain knowledge about 3D printing. At that time, Ciszek began seriously considering what a future with 3D printing might look like.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "“After I finished my studies, all of my peers were going to companies at consulting firms and investment banks, and I realized I didn’t really want to do that,” says Ciszek. “I was more fascinated by hands-on things and the entrepreneurial spirit. So, for that reason, I was thinking, what else can we do?”",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "With grant funding secured, now things were getting more serious.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Shortly after, Kühr traveled to Munich to pitch the marketplace platform to investors and industry leaders.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "“Afterward, one of the investment guys comes up to me and say, ‘Hey, I’ve hardly ever seen someone bold enough to do a live demo at a pitch,’” laughs Kühr.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "“He told me he’s never seen a 3D printing workflow that can do file upload, printability analysis, pricing, and material selection in just a minute or two,” says Kühr. “He was extremely impressed and became one of our first investors.”",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "With grant funding secured and new investors knocking on their door, Ciszek and Kühr needed to find a name for their project. The two entrepreneurs were attending a startup accelerator and were workshopping possibilities when they finally settled on the now-recognizable name.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Ciszek and Kühr recognized that for 3YOURMIND to scale, it would need to enter the market that understood the risks and rewards of early investment into innovative technology: the United States.",
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, software provider in additive manufacturing, raises $12.4M in a continued series A+ round. The funding will fuel the company’s ambition to advance end-to-end production processes digitization.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "which resulted in September 2020 to the amount of $5.5M USD. This expanded financing round accumulates to a total of 12.4M USD. Existing investors UVC Partners, TRUMPF Venture, coparion and AM Ventures participated in this financing round.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "“The original investment made by EnBW New Ventures supports 3YOURMIND’s growth in the energy sector while the latest investment enables the company to further invest in building a Digital Qualified Inventory”, says 3YOURMIND co-founder Stephan Kühr. “We",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "“The ability to produce parts on demand is a crucial advantage for companies who wish to control their production value chain.” says Aleksander Ciszek, co-founder of 3YOURMIND. “With this investment, we will extend our international footprint and further support our customers who wish to implement additive technologies into their production process.”",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Our sophisticated investors include visionary family offices, leading wealth managers, institutions, founders, and senior executives. These individuals and organizations are all committed to shaping the next generation of innovation.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "EUR 2.8m seed round",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-Time Monitoring of Bioprocesses: IRUBIS closes EUR 2.8m seed round led by HTGF, Verve Ventures and Ventura BioMed Investors.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Login Investor Clients",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to become an Investor",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "(ix) Know Your Client (KYC) data, such as wealth, income, indebtedness capacity, education, past investment",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "(iii) when Investors submit an inquiry about a startup or Entrepreneur of their interest;",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "(iv) when Entrepreneurs submit an inquiry about an Investor of their interest;",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "provide notably a meeting place for Entrepreneurs of early stage ventures and Investors and enabling Investors",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "(ii) Investors, with respect to Entrepreneurs and vice versa;",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3YOURMIND 2025: Where We've Been and Where We're Going — 3YOURMIND 2025: Where We've Been and Where We're Going 3YOURMIND https://www.3yourmind.com > news",
+    "url": "https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND raises USD 12.4 to fuel its growth - verve.vc — 3YOURMIND raises USD 12.4 to fuel its growth - verve.vc verve.vc https://www.verve.vc > blog > 3your...",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - LinkedIn — 3YOURMIND - LinkedIn LinkedIn https://www.linkedin.com > 3yourmind",
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - 2026 Company Profile & Team - Tracxn — 3YOURMIND - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories - 3YOURMIND — Customer Success Stories - 3YOURMIND 3YOURMIND https://www.3yourmind.com > custo...",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Raises $12M to Transform Industrial 3D Printing — 3YOURMIND Raises $12M to Transform Industrial 3D Printing 3YOURMIND https://www.3yourmind.com > news",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND | Identify and Produce Parts On-Demand — 3YOURMIND | Identify and Produce Parts On-Demand 3YOURMIND https://www.3yourmind.com",
+    "url": "https://www.3yourmind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - World Economic Forum — 3YOURMIND - World Economic Forum World Economic Forum https://www.weforum.org > 3yourmind",
+    "url": "https://www.weforum.org/organizations/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND GmbH - LinkedIn — 3YOURMIND GmbH - LinkedIn LinkedIn https://de.linkedin.com > 3yourmind",
+    "url": "https://de.linkedin.com/company/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - AM Ventures — 3YOURMIND - AM Ventures AM Ventures https://amventures.com > 3yourmind",
+    "url": "https://amventures.com/company-portfolios/3yourmind/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners - 3YOURMIND — Partners - 3YOURMIND 3YOURMIND https://www.3yourmind.com > partners",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "EOS North America and 3YOURMIND Launch Rapid Part ... — EOS North America and 3YOURMIND Launch Rapid Part ... EOS GmbH https://www.eos.info > ... > 2023 ...",
+    "url": "https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "pass": 3
+   },
+   {
+    "quote": "About 3YOURMIND — About 3YOURMIND 3YOURMIND https://www.3yourmind.com > about-us",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.3yourmind.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/use-ai-to-support-part-assessment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/rss.xml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/imprint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_casestudies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_customer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/category_video",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/product-updates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/topic/defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/de/impressum",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.3yourmind.com/hs-fs/hubfs/Partners.png?width=1200&height=630&name=Partners.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.3yourmind.com/hs-fs/hubfs/3YD_Team_/2017%20Photo%20Shoot/Felix_Max_2937@1200.jpg?width=1200&height=795&name=Felix_Max_2937@1200.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.3yourmind.com/hs-fs/hubfs/01-2022_new%20partner%20page-1.png?width=960&height=539&name=01-2022_new%20partner%20page-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.3yourmind.com/hs-fs/hubfs/partners-organizations-2024.png?width=1300&height=722&name=partners-organizations-2024.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://investors.3m.com/financials/sec-filings/content/0000066740-26-000155/0000066740-26-000155.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.annualreports.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.weforum.org/organizations/3yourmind",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://simplyprint.io/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://printago.io/solutions/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.weforum.org/organizations/3yourmind",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3YOURMIND revenue profitable",
+   "results": [
+    "https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going",
+    "https://www.verve.vc/blog/3yourmind-series-a/",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "https://www.3yourmind.com/customers",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://www.youtube.com/watch?v=CBzVih4Kb_8&vl=ja",
+    "https://pitchbook.com/profiles/company/169025-59"
+   ]
+  },
+  {
+   "query": "3YOURMIND EBITDA net income annual report",
+   "results": [
+    "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going",
+    "https://investors.3m.com/financials/sec-filings/content/0000066740-26-000155/0000066740-26-000155.pdf",
+    "https://www.annualreports.com/",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://ir.mind-technology.com/static-files/ccc88c82-f820-4909-b84c-d0182108af65",
+    "https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf",
+    "https://www.3i.com/media/cxwbwcdw/3i-group-annual-report-2025-interactive.pdf",
+    "https://investor.3dsystems.com/financials/quarterly-results/default.aspx",
+    "https://pitchbook.com/profiles/company/169025-59"
+   ]
+  },
+  {
+   "query": "3YOURMIND funding raised",
+   "results": [
+    "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "https://www.verve.vc/blog/3yourmind-series-a/",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.3yourmind.com/",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "https://www.facebook.com/3yourmind/",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://www.thecompanycheck.com/company/b/3yourmind/swcpkvb898pnrnetv"
+   ]
+  },
+  {
+   "query": "3YOURMIND acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.3yourmind.com/",
+    "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://de.linkedin.com/company/3yourmind",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "https://www.4additive.com/en/3d-printing-companies-closing-usa-3deo-fusion3/",
+    "https://www.3yourmind.com/customers",
+    "https://www.voxelmatters.com/3deo-intellectual-property-assets-go-up-for-sale-in-insolvency-auction/",
+    "https://www.bloomberg.com/news/articles/2025-07-28/desktop-metal-files-bankruptcy-after-lawyers-demand-unpaid-fees"
+   ]
+  },
+  {
+   "query": "3YOURMIND white label partner OEM",
+   "results": [
+    "https://www.3yourmind.com/partners",
+    "https://simplyprint.io/oem",
+    "https://printago.io/solutions/oem",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "https://www.3yourmind.com/news/3yourmind-joins-forces-with-carbon-to-optimize-am-value-chain",
+    "https://www.verve.vc/blog/3yourmind-series-a/",
+    "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "https://www.solutionbuggy.com/blog/best-labeling-models-to-start-manufacturing",
+    "https://whitelabelpartner.com/"
+   ]
+  },
+  {
+   "query": "3YOURMIND Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.3yourmind.com/",
+    "https://de.linkedin.com/company/3yourmind",
+    "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://www.sec.gov/Archives/edgar/data/1091223/000110465926047676/tm261057d2_ex99-1.pdf",
+    "https://active-re-web-back-bhgdggh3b4amhsa0.eastus-01.azurewebsites.net/assets/c76b6c56-2296-40d9-82fb-4c1fed5ba5cb",
+    "https://www.3yourmind.com/about-us",
+    "https://en.wikipedia.org/wiki/Income_statement"
+   ]
+  },
+  {
+   "query": "3YOURMIND Japan",
+   "results": [
+    "https://www.3yourmind.com/",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://www.3yourmind.com/about-us",
+    "https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "https://www.facebook.com/3yourmind/",
+    "https://www.youtube.com/c/3YOURMIND_DE",
+    "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "https://www.3yourmind.com/partners"
+   ]
+  },
+  {
+   "query": "3YOURMIND employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/3d-systems",
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://www.3yourmind.com/",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://www.crunchbase.com/organization/norden-logic-germany",
+    "https://www.crunchbase.com/organization/3yourmind-gmbh"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）",
+  "所在地": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）",
+  "日本対応": "記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）"
+ }
+}

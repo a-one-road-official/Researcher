@@ -1,0 +1,1736 @@
+{
+ "name": "Oqton",
+ "aliases": [
+  "Oqton 3DXpert"
+ ],
+ "context": "wl-A DfAM・AM製造OS（3D Systems傘下）",
+ "researched_at": "2026-11-03T09:55:55.267761+00:00",
+ "official_url": "https://oqton.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$ 95.5   $ 94.5",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "label": "Revenue:",
+    "value": "",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "$ 95.5  $ 94.5",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "自社名で出せる条件": [
+   {
+    "quote": "Open platform for all Hardware OEMs in AM",
+    "url": "https://oqton.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3DXpert is the best solution to support the disruptive shift from rapid prototyping to serial AM production.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive documentation is embedded in 3DXpert; you can access it quickly by pressing F1. This works context sensitive and will open the relevant chapter for what you are working on. If you can’t find what you are looking for, you can submit a case to our support team.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve quality, reduce scrap, and cut costs through rapid root cause analysis.",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "Open API’s to connect with your ERP, PLM and other infrastructure",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with any 3D Printer OEM",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "AMVero is a printer agnostic solution, supports any metal 3D printer OEM.",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s talk additive at RAPID+TCT 2023",
+    "url": "https://oqton.com/category/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing (AM) is not just the future of factories, it’s already here, taking efficiency and innovation to new heights. And there’s no place like RAPID+TCT to see inspiring applications and the latest developments in the world of additive. Everything you...",
+    "url": "https://oqton.com/category/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s talk additive at RAPID+TCT 2023",
+    "url": "https://oqton.com/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing (AM) is not just the future of factories, it’s already here, taking efficiency and innovation to new heights. And there’s no place like RAPID+TCT to see inspiring applications and the latest developments in the world of additive. Everything you...",
+    "url": "https://oqton.com/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s talk additive at RAPID+TCT 2023 | Oqton",
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s talk additive at RAPID+TCT 2023",
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "pass": 1
+   },
+   {
+    "quote": "And there’s no place like RAPID+TCT to see inspiring applications and the latest developments in the world of additive.",
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "pass": 1
+   },
+   {
+    "quote": "At RAPID+TCT our experts will tell you all about our offering, including:",
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "pass": 1
+   },
+   {
+    "quote": "At RAPID+TCT, you’ll be able to pick the brains of our 3D scanning experts about:",
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "pass": 1
+   },
+   {
+    "quote": "services. The company’s production site in Westfield, Indiana, uses 3DXpert as its primary setup and slicing software, generating build files for multiple machine OEMs.",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "San Francisco, USA & Ghent, Belgium, Sept. 7, 2021 – Oqton, a global SaaS company, has joined the GrabCAD Software Partner Program as a thought leading global software provider, with their state-of-the art manufacturing operating system. Oqton provides users with...",
+    "url": "https://oqton.com/category/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "HP certifies Oqton as a member of the 3D API partner program",
+    "url": "https://oqton.com/category/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers interested in taking advantage of this ground-breaking solution to transform their business can visit Oqton in booth #2435 and Xact Metal in booth #4836 at RAPID+TCT 2023 to be held May 2-4 at McCormick Place – West Building, Chicago, Illinois, or they can contact an expert",
+    "url": "https://oqton.com/oqton-partners-with-xact-metal-to-deliver-new-metal-am-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Company Data API",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "License our Company Data API",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys expands GrabCAD partner program with Oqton and ...",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io API Pricing",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "portfolio, and Additive Works’ Amphyon™ - as optional add-ons to the Oqton MOS platform. With 3D Systems’ continued investment in these market-leading additive manufacturing tools, the company is confident they can be instrumental in advancing the use of AM across all markets, to the benefit of all stakeholders in this rapidly evolving industry.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Additional paid-in capital",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Fortino Capital",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton embedded AI proven effective with broad range of OEM production equipment and materials",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...",
+    "url": "https://oqton.com/category/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...",
+    "url": "https://oqton.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...",
+    "url": "https://oqton.com/category/blog/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...",
+    "url": "https://oqton.com/blog/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "GAAP EPS loss narrowed to $(0.03), or $(0.01) on a non-GAAP basis, while Adjusted EBITDA improved to $2.1 million, reflecting the benefits of higher sales volumes and continued execution of cost reduction initiatives.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Amid ongoing global risks, the Company remains focused on building top-line momentum in key markets over the coming quarters, while maintaining disciplined cost management to achieve our goal of full-year break-even Adjusted EBITDA.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit margin",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss attributable to 3D Systems Corporation",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Non-GAAP gross profit margin",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit margin increased to 35.9% compared to 34.6% in the prior year period. Non-GAAP gross profit margin increased to 36.1% compared to 35.0% in the prior year period. Adjusting for software divestitures, non-GAAP gross profit margin increased by 600 basis points.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss attributable to 3D Systems Corporation decreased by $32.6 million to $4.4 million compared to the prior year period. The improvement was primarily driven by lower operating expenses, higher sales volume, and favorable revenue mix.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA turned positive, improving by $25.9 million to $2.1 million compared to the prior year period, driven by strong sales, favorable revenue mix, and the impact of prior cost reduction actions. Adjusting for software divestitures, Adjusted EBITDA improved $28.2 million.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA:",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Non-operating income (loss):",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Total non-operating income",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss before income taxes",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss before redeemable non-controlling interest",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Less: net loss attributable to redeemable non-controlling interest",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss per common share:",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjustments to reconcile net loss to net cash used in operating activities:",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA, defined as net income, plus income tax (provision) benefit, interest and other income (expense), net, stock-based compensation expense, amortization of intangible assets, depreciation expense, and other non-GAAP adjustments, all as described above, is used by management to evaluate performance and helps measure financial performance period-over-period.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Non-GAAP Gross Profit and Gross Profit Margin",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit Margin",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit (GAAP)",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit (Non-GAAP)",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit excluding software divestitures (Non-GAAP)",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "GAAP EPS loss narrowed to $(0.03), or $(0.01) on a non-GAAP basis, while Adjusted EBITDA improved to $2.1 million, reflecting the benefits of higher sales volumes and continued execution of cost reduction initiatives.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Amid ongoing global risks, the Company remains focused on building top-line momentum in key markets over the coming quarters, while maintaining disciplined cost management to achieve our goal of full-year break-even Adjusted EBITDA.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit margin increased to 35.9% compared to 34.6% in the prior year period. Non-GAAP gross profit margin increased to 36.1% compared to 35.0% in the prior year period. Adjusting for software divestitures, non-GAAP gross profit margin increased by 600 basis points.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss attributable to 3D Systems Corporation decreased by $32.6 million to $4.4 million compared to the prior year period. The improvement was primarily driven by lower operating expenses, higher sales volume, and favorable revenue mix.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA turned positive, improving by $25.9 million to $2.1 million compared to the prior year period, driven by strong sales, favorable revenue mix, and the impact of prior cost reduction actions. Adjusting for software divestitures, Adjusted EBITDA improved $28.2 million.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA:",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA, defined as net income, plus income tax (provision) benefit, interest and other income (expense), net, stock-based compensation expense, amortization of intangible assets, depreciation expense, and other non-GAAP adjustments, all as described above, is used by management to evaluate performance and helps measure financial performance period-over-period.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "3DXpert can help you handle any challenge AM throws at you. When faced with repetitive tasks, or part types that re-occur in your trays, 3DXpert can carry a lot of your load for you. By capturing your knowledge into scripts and using AI to group similar parts together and apply solutions to them, you are free to focus on more value-added tasks.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Orient, nest, support, arrange, slice, and optimize",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Arrange Build Platform",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Load AMVero results into 3DXPert Build Inspection enabling engineers to dive deep and carry out root cause analysis",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "Planning and scheduling for additive manufacturing at a factory scale opens up an incredible array of possibilities, but also corresponding challenges. At the top of those challenges is the fact that AM – or colloquially 3D printing – tends to get hung up on a single, time-consuming step.",
+    "url": "https://oqton.com/whitepaper/large-scale-production-planning-whitepaper/",
+    "pass": 1
+   },
+   {
+    "quote": "“Lower cost-per-part and new revenue from impossible geometries.”",
+    "url": "https://oqton.com/meltcontrol/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hextall",
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "pass": 1
+   },
+   {
+    "quote": "productions are seeking ways to optimise their entire workflow, we asked our Senior Sales Director, Mark McGarry, to give an overview of the MES capabilities of Oqton’s platform, the Manufacturing OS.",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "Oqton: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Mark McGarry",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "VP, Enterprise Sales",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Terms",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Q1 2026 revenue of $95.5 million increased 1% year-over-year, or 11% excluding the impact of divestitures, driven by strong performance in the Healthcare business and double‑digit growth across key markets, including Dental, Med Tech, and Aerospace & Defense.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "GAAP EPS loss narrowed to $(0.03), or $(0.01) on a non-GAAP basis, while Adjusted EBITDA improved to $2.1 million, reflecting the benefits of higher sales volumes and continued execution of cost reduction initiatives.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Early success of recently launched products in Dental and Aerospace & Defense markets, including advanced printing systems for monolithic dentures and high‑performance metal components, is expected to support sustained long‑term revenue growth.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue increased 1% to $95.5 million compared to the prior year period. Adjusting for software divestitures completed in 2025, including Geomagic, 3DXpert and Oqton, total revenue increased by 11%.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare Solutions revenue increased approximately 21% to $50.1 million compared to the prior year period.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Solutions revenue decreased approximately 15% to $45.4 million compared to the prior year period. Adjusting for divestitures, Industrial Solutions revenue increased 2% year over year.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss attributable to 3D Systems Corporation decreased by $32.6 million to $4.4 million compared to the prior year period. The improvement was primarily driven by lower operating expenses, higher sales volume, and favorable revenue mix.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA turned positive, improving by $25.9 million to $2.1 million compared to the prior year period, driven by strong sales, favorable revenue mix, and the impact of prior cost reduction actions. Adjusting for software divestitures, Adjusted EBITDA improved $28.2 million.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue:",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Customer deposits and deferred revenue",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Cost of sales:",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Total cost of sales",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Deferred revenue and customer deposits",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted Revenue (Unaudited)",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted revenue (Non-GAAP)",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated as non-GAAP gross profit as a percentage of total revenue.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Terms",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton’s Co-Founder and CEO, Ben Schrauwen, said: “We are keen to have new investors on board who can help us scale globally, with both a direct and indirect sales approach.",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact sales",
+    "url": "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Terms",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Q1 2026 revenue of $95.5 million increased 1% year-over-year, or 11% excluding the impact of divestitures, driven by strong performance in the Healthcare business and double‑digit growth across key markets, including Dental, Med Tech, and Aerospace & Defense.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "GAAP EPS loss narrowed to $(0.03), or $(0.01) on a non-GAAP basis, while Adjusted EBITDA improved to $2.1 million, reflecting the benefits of higher sales volumes and continued execution of cost reduction initiatives.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Early success of recently launched products in Dental and Aerospace & Defense markets, including advanced printing systems for monolithic dentures and high‑performance metal components, is expected to support sustained long‑term revenue growth.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Total revenue increased 1% to $95.5 million compared to the prior year period. Adjusting for software divestitures completed in 2025, including Geomagic, 3DXpert and Oqton, total revenue increased by 11%.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare Solutions revenue increased approximately 21% to $50.1 million compared to the prior year period.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Solutions revenue decreased approximately 15% to $45.4 million compared to the prior year period. Adjusting for divestitures, Industrial Solutions revenue increased 2% year over year.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Net loss attributable to 3D Systems Corporation decreased by $32.6 million to $4.4 million compared to the prior year period. The improvement was primarily driven by lower operating expenses, higher sales volume, and favorable revenue mix.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA turned positive, improving by $25.9 million to $2.1 million compared to the prior year period, driven by strong sales, favorable revenue mix, and the impact of prior cost reduction actions. Adjusting for software divestitures, Adjusted EBITDA improved $28.2 million.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue:",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Terms",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "The cooling and shrinking that occurs after each layer is printed may cause the metal to rise above the powder bed level. These raised tips can damage the re-coater or even cause the roller to stop its motion.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the typical Return on Investment (ROI) for an MES for Additive Manufacturing?",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "The last decade has seen manufacturing change at a staggering rate. Production series are shrinking, product lifespans are shortening, and custom designs are becoming the norm. This trend is challenging conventional manufacturing planning software to unprecedented...",
+    "url": "https://oqton.com/category/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "The last decade has seen manufacturing change at a staggering rate. Production series are shrinking, product lifespans are shortening, and custom designs are becoming the norm. This trend is challenging conventional manufacturing planning software to unprecedented...",
+    "url": "https://oqton.com/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Tom Gabriel, R&D Manager for Additive Manufacturing at Emerson Automation Solutions, also praised collaboration with the software development team in his customer presentation.",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "'s total funding is",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Casting Patterns",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Patterns for Investment Casting",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "portfolio, and Additive Works’ Amphyon™ - as optional add-ons to the Oqton MOS platform. With 3D Systems’ continued investment in these market-leading additive manufacturing tools, the company is confident they can be instrumental in advancing the use of AM across all markets, to the benefit of all stakeholders in this rapidly evolving industry.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "via the Investor Relations page on the 3D Systems website.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Menu",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Calculator",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor FAQs",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Email Alerts",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "www.3dsystems.com/investor",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Contact:",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "investor.relations@3dsystems.com",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Loss on equity method investments, net of income taxes",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Gain on disposal of investment",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Loss on equity method investment, net of taxes",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions and other investments, net of cash acquired",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Loss on equity method investment, net of tax",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Loss on equity method investment and other",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "To opt-in for investor email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in order to complete your subscription. You can sign up for additional alert options at any time.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "At 3D System Corporation, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below. If you experience any issues with this process, please contact us for further assistance.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "By providing your email address below, you are providing consent to 3D System Corporation to send you the requested Investor Email Alert updates.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Alert Options",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton investors raise $40M Series A funding, includes Sandvik - DEVELOP3D",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton investors raise $40M Series A funding, includes Sandvik",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton, and its AI-powered solutions for additive manufacturing, has raised over $40M in Series A funding, including investment from engineering group Sandvik, which continues to make bold moves into digital manufacturing technology.",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton has already established partnerships with EOS, Sisma, Trumpf, Prodways and Sandvik, but it is the latter that has turned investor as part of a ‘strategic agenda’ to broaden its offering in the sector.",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton investors for this Series A funding round was led by Belgian pair",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading B2B software investor, and PMV, the regional Flemish investment fund, as well as Sandvik.",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton’s Co-Founder and CEO, Ben Schrauwen, said: “We are keen to have new investors on board who can help us scale globally, with both a direct and indirect sales approach.",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "This funding round coincides with the announcement that Ben Schrauwen, Oqton’s CTO, will be taking over as CEO. Samir Hanna, Oqton’s Co-Founder and leaving CEO, will become executive chairman.",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Casting Patterns",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Patterns for Investment Casting",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Casting Patterns",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Patterns for Investment Casting",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Listen via webcast: www.3dsystems.com/investor",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "A replay of the webcast will be available approximately two hours after the live presentation at www.3dsystems.com/investor.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems Japan 77回視聴 4 年前",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Japan",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "見逃し配信！JIMTOF2024セミナー 富士高周波工業(株)様【Mastercam/日本のモノづくりを支える会社/ジェービーエムエンジニアリング】",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "【日本人だけがハマる】コレ知らないと英語は聞こえないまま...英会話教室は教えないリスニングの仕組み",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "ヒュンダイ「トヨタ超えたわｗ」→結果、日本撤退で崩壊寸前の手遅れに【海外の反応】",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "【衝撃！真っ直ぐ作れと大炎上】中国は直線、日本はぐにゃぐにゃ…「遠回りだ」と罵られた日本の線路が開業後に大絶賛されたワケ",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "粋な日本、他 3 チャンネル",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Handle every file format your customers send with parametric, automation-ready build preparation and Supportless enabling strategies.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Customers Across Many Industries",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a look at how successful our customers are",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce costly mistakes caused by manual, disconnected processes and ensure part and material quality",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce costly mistakes caused by manual disconnected processes",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly access your catalogued products. Allow your customers and internal teams to easily find, request, and order approved parts directly from the digital catalogue. Connects with approved suppliers who can fulfill the request and share all necessary quality reports directly through the platform.",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a look at how successful our customers are",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "streamlining the entire workflow from order to shipment enables you to deliver parts to customers faster.",
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "pass": 1
+   },
+   {
+    "quote": "For our existing 3DXpert Build Inspection Customers",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "For our existing MOS Customers",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a look at how successful our customers are",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "giving customers flexibility based on their operational requirements.",
+    "url": "https://oqton.com/amvero/",
+    "pass": 1
+   },
+   {
+    "quote": "Allow customers to easily request and order catalog items",
+    "url": "https://oqton.com/manufacturing-os/",
+    "pass": 1
+   },
+   {
+    "quote": ": Connect you with suppliers, manufacturers, internal and external customers",
+    "url": "https://oqton.com/manufacturing-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly access your catalogued products. Allow your customers and internal teams to easily find, request, and order approved parts directly from the digital catalogue. Connects with approved suppliers who can fulfill the request and share all necessary quality reports directly through the platform.",
+    "url": "https://oqton.com/manufacturing-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboratively manage requests, capture requirements, communicate with customers, exchanges quotes and create actual productions orders.",
+    "url": "https://oqton.com/manufacturing-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a look at how successful our customers are",
+    "url": "https://oqton.com/manufacturing-os/",
+    "pass": 1
+   },
+   {
+    "quote": "New 3DXpert user meeting strengthens collaboration with customers",
+    "url": "https://oqton.com/category/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "2021 was a special year for Oqton. Overcoming challenges and creating new opportunities, we learned valuable lessons and expanded our vision for future growth. We are grateful to partners, customers, and employees for making all our goals happen and being with us...",
+    "url": "https://oqton.com/category/blog/page/3/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "New 3DXpert user meeting strengthens collaboration with customers",
+    "url": "https://oqton.com/blog/page/2/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "2021 was a special year for Oqton. Overcoming challenges and creating new opportunities, we learned valuable lessons and expanded our vision for future growth. We are grateful to partners, customers, and employees for making all our goals happen and being with us...",
+    "url": "https://oqton.com/blog/page/3/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "New 3DXpert user meeting strengthens collaboration with customers | Oqton",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "New 3DXpert user meeting strengthens collaboration with customers",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "No matter how innovative, new features and platforms are only valuable if they have a practical application. That’s why the Additive User Group meeting focused on how manufacturers are using 3DXpert in production to achieve significant productivity gains. With this in mind, two of our customers with extensive hands-on experience took the stage and shared their insights.",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "Oqton Build Quality seamlessly integrates with EOSCONNECT Core library for in-situ IoT and image analysis Software is available to EOS customers and promises to help achieve higher print quality, trace and monitor each part during the build Oqton Build Quality...",
+    "url": "https://oqton.com/category/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "Xact Metal Solutions: includes a range of metal AM products to create solutions from entry-level to large-scale at affordable prices. On average, Xact Metal solutions are one-third of the price of other available printers with similar build volumes and capabilities. Each solution is built on a similar architecture which allows customers to scale their solutions as demand increases.",
+    "url": "https://oqton.com/oqton-partners-with-xact-metal-to-deliver-new-metal-am-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "As a result of this partnership, Xact Metal customers can address more applications using the in-depth features and built-in automation of Oqton’s 3DXpert and Manufacturing OS. Through the expansion of Oqton’s ecosystem on a new printing platform, the company’s customers are able to more easily adopt metal AM through a solution that meets their unique manufacturing requirements.",
+    "url": "https://oqton.com/oqton-partners-with-xact-metal-to-deliver-new-metal-am-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Oqton will operate as independent organization and solution platform company, ensuring data security and confidentiality for customers",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "The combination allows customers to accelerate adoption and productivity of additive manufacturing in existing production environments",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA, defined as net income, plus income tax (provision) benefit, interest and other income (expense), net, stock-based compensation expense, amortization of intangible assets, depreciation expense, and other non-GAAP adjustments, all as described above, is used by management to evaluate performance and helps measure financial performance period-over-period.",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“We believe that our relationship with Oqton will give us further opportunities to define and reduce waste throughout the entire manufacturing process. We share the same desire to automate workflows and make our customers more efficient.”",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers across our industrial and healthcare segments are accelerating the adoption of additive manufacturing into production environments. They have increasingly identified the need for a manufacturing software platform that can easily and intelligently incorporate not only the printers themselves but all digital production systems and key enterprise software.",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted EBITDA, defined as net income, plus income tax (provision) benefit, interest and other income (expense), net, stock-based compensation expense, amortization of intangible assets, depreciation expense, and other non-GAAP adjustments, all as described above, is used by management to evaluate performance and helps measure financial performance period-over-period.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments. Our top...",
+    "url": "https://oqton.com/category/blog/page/3/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments. Our top...",
+    "url": "https://oqton.com/blog/page/3/?et_blog",
+    "pass": 1
+   },
+   {
+    "quote": "We closed the day with a presentation about simplifying quoting and payments with DigiFabster. The web-based solution is helping manufacturers process quotes in minutes, generating instant quotes and orders 24/7 online. This is another step towards full automation of additive production.",
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton",
+    "url": "https://oqton.com/category/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton | 3D Systems",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "With the acquisition of Oqton and the commitment to continue its focus on transforming and optimizing digital manufacturing systems, 3D Systems will also expand availability to the entire additive manufacturing industry and customer base its most advanced software platforms - 3DXpert",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Acquisition of Oqton Conference Call Details",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions and other investments, net of cash acquired",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "amortization of intangible assets, a non-cash expense, as 3D Systems’ intangible assets were primarily acquired in connection with business combinations;",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "costs incurred in connection with acquisitions and divestitures, such as legal, consulting and advisory fees;",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition and divestiture-related expense",
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Sandvik has acquired CGTech",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems acquired Oqton, Inc. for $188.168 million ($107.471M cash + ~$80.697M stock), a transaction completed in November 2021, structured as Stock/asset acquisition, cash and stock.",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Stock/asset acquisition, cash and stock",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Closed",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Advisory firms were not disclosed for this transaction.",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling from a startup to acquisition in five years",
+    "url": "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This way of working helped Oqton go from startup to being acquired by 3D Systems for $180 million in 4 years. Valentijn see’s Figma having played a role in that outcome.",
+    "url": "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Ratio of lifetime-value to customer-acquisition-cost of over five demonstrates value creation through Oqton adoption",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "amortization of intangible assets, a non-cash expense, as 3D Systems’ intangible assets were primarily acquired in connection with business combinations;",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "costs incurred in connection with acquisitions and divestitures, such as legal, consulting and advisory fees;",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Oqton raises 40M Series A financing round — Oqton raises 40M Series A financing round Oqton https://oqton.com > Press Release",
+    "url": "https://oqton.com/oqton-raises-40m-series-a-financing-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton : Revenue , Competitors, Alternatives - Growjo — Oqton : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Oqton",
+    "url": "https://growjo.com/company/Oqton",
+    "pass": 3
+   },
+   {
+    "quote": "How to succeed with additive manufacturing? - Oqton — How to succeed with additive manufacturing? - Oqton Oqton https://oqton.com > Blog",
+    "url": "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton Uses AI And ML To Automate Manufacturing Workflows — Oqton Uses AI And ML To Automate Manufacturing Workflows Forbes https://www.forbes.com > 2023/11/29",
+    "url": "https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton investors raise $40M Series A funding , includes Sandvik — Oqton investors raise $40M Series A funding , includes Sandvik develop3d https://develop3d.com > oqton-invest...",
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems acquires Oqton , Inc. — deal terms - VectorShift — 3D Systems acquires Oqton , Inc. — deal terms - VectorShift VectorShift https://vectorshift.ai > Research > Deals",
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton : Manufacturing Software Solutions - 3DXpert, MOS ... — Oqton : Manufacturing Software Solutions - 3DXpert, MOS ... Oqton https://oqton.com",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our History - Oqton — Our History - Oqton Oqton https://oqton.com > history",
+    "url": "https://oqton.com/history/",
+    "pass": 3
+   },
+   {
+    "quote": "How Oqton is disrupting manufacturing software with AI and ... — How Oqton is disrupting manufacturing software with AI and ... Figma https://www.figma.com > customers",
+    "url": "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Hubb to acquire 3D Systems' Oqton and 3DXpert software ... — Hubb to acquire 3D Systems' Oqton and 3DXpert software ... Metal Additive Manufacturing magazine https://www.metal-am.com > hubb-to...",
+    "url": "https://www.metal-am.com/hubb-to-acquire-3d-systems-oqton-and-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton AI-Driven Software for Dental Labs Integrates Additive ... — Oqton AI-Driven Software for Dental Labs Integrates Additive ... 3D Systems https://www.3dsystems.com > oqton-a...",
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton | LinkedIn — Oqton | LinkedIn LinkedIn https://kr.linkedin.com > oqton",
+    "url": "https://kr.linkedin.com/company/oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Software Terms & Conditions - Oqton — Software Terms & Conditions - Oqton Oqton https://oqton.com > terms-and-conditi...",
+    "url": "https://oqton.com/terms-and-conditions/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton - Overview, News & Similar companies | ZoomInfo.com — Oqton - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > oqton",
+    "url": "https://www.zoominfo.com/c/oqton/443427970",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton | LinkedIn — Oqton | LinkedIn LinkedIn https://jp.linkedin.com > company > oqton",
+    "url": "https://jp.linkedin.com/company/oqton",
+    "pass": 3
+   },
+   {
+    "quote": "OQTON リバースエンジニアリングセミナーVol2 - 3D Systems — OQTON リバースエンジニアリングセミナーVol2 - 3D Systems 3D Systems https://ja.3dsystems.com > events > oqton-vol2",
+    "url": "https://ja.3dsystems.com/events/oqton-vol2",
+    "pass": 3
+   },
+   {
+    "quote": "技術、品質管理の方必見！【関西DMS】 OQTON ブースを実況 ... — 技術、品質管理の方必見！【関西DMS】 OQTON ブースを実況 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems to divest Oqton & 3DXpert software platforms — 3D Systems to divest Oqton & 3DXpert software platforms TCT Magazine https://www.tctmagazine.com > 3d-sy...",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton - LinkedIn — Oqton - LinkedIn LinkedIn https://www.linkedin.com > oqton",
+    "url": "https://www.linkedin.com/company/oqton",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://oqton.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/category/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/whitepapers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/manufacturing-os-mes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/amvero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/manufacturing-os/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/category/blog/page/2/?et_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/category/blog/page/3/?et_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/whitepaper/oqton-demonstrates-simulation-capabilities-for-large-and-complex-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/whitepaper/knauf-industries-additive-validates-new-thermo-mechanical-simulation-in-3dxpert-for-high-accuracy-printing-less-waiting-times-higher-dimensional-accuracy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/whitepaper/additive-manufacturing-in-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/whitepaper/large-scale-production-planning-whitepaper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/meltcontrol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/webinar/powering-precision-the-validated-partnership-of-nikon-slm-solutions-and-oqton-3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/powering-precision-the-validated-partnership-of-nikon-slm-solution-and-oqton-3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/manufacturing-os/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/blog/page/2/?et_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/blog/page/3/?et_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/oqton-at-rapidtct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/additive-user-group-launch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/category/blog/?et_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/category/press-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2026/02/large-scale-production-planning-whitepaper.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/blog/?et_blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2026/02/download.svg?utm_source=blog&utm_id=banner",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/oqton-partners-with-xact-metal-to-deliver-new-metal-am-solutions/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://oqton.com/wp-content/uploads/2026/02/manufacturing-os-mes-produciton-partner-arrows-scaled.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2026/02/production-partner-digital-catalog.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2026/02/production-partner-digital-product-definition.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2026/02/production-partner-order-management.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2024/07/xact-1-1080x628.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://oqton.com/wp-content/uploads/2024/07/oqton-announces-strategic-partnership-with-castor-1080x627.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://growjo.com/company/Oqton",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.enterpriseproducts.com/financials",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://oq.com/en/investors/financial-statements-and-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kr.linkedin.com/company/oqton",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/oqton/443427970",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oq.com/en/investors/financial-statements-and-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/oqton",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.3dsystems.com/events/oqton-vol2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Oqton",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/oqton/443427970",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/oqton",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oqton revenue profitable",
+   "results": [
+    "https://oqton.com/oqton-raises-40m-series-a-financing-round/",
+    "https://growjo.com/company/Oqton",
+    "https://oqton.com/how-to-succeed-with-additive-manufacturing/",
+    "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "https://www.youtube.com/watch?v=nREyXLx5rrE",
+    "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "https://getlatka.com/companies/oqton"
+   ]
+  },
+  {
+   "query": "Oqton EBITDA net income annual report",
+   "results": [
+    "https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+    "https://ir.enterpriseproducts.com/financials",
+    "https://oq.com/en/investors/financial-statements-and-reports",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://investors.customtruck.com/financials/quarterly-results/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/1964789/000110465926049721/tm2534221d3_ars.pdf",
+    "https://www.annualreports.com/",
+    "https://s2.q4cdn.com/714858690/files/doc_financials/2025/ar/2024-Annual-Report-Final.pdf",
+    "https://oqbi.om/wp-content/uploads/2026/04/AnnualReportEng2025.pdf",
+    "https://investor.okta.com/financials/annual-reports/default.aspx"
+   ]
+  },
+  {
+   "query": "Oqton funding raised",
+   "results": [
+    "https://oqton.com/oqton-raises-40m-series-a-financing-round/",
+    "https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/",
+    "https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/",
+    "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "https://oqton.com/",
+    "https://www.linkedin.com/posts/stevelokam_hubb-global-holdings-acquires-oqton-manufacturing-activity-7391145550730907648-YevM",
+    "https://www.fabbaloo.com/news/oqton-raises-us40m",
+    "https://www.voxelmatters.com/category/money/",
+    "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "https://funding.tech.eu/companies/oqton-1fb22029"
+   ]
+  },
+  {
+   "query": "Oqton acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://oqton.com/history/",
+    "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "https://vectorshift.ai/research/deals/3d-systems-oqton-2021",
+    "https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/",
+    "https://www.metal-am.com/hubb-to-acquire-3d-systems-oqton-and-3dxpert-software-platforms/",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://www.linkedin.com/posts/stevelokam_hubb-global-holdings-acquires-oqton-manufacturing-activity-7391145550730907648-YevM",
+    "https://www.zoominfo.com/c/oqton/443427970",
+    "https://www.home.sandvik/en/news-and-media/news/2021/01/sandvik-invests-in-leading-ai-powered-manufacturing-software-provider-oqton/",
+    "https://oqton.com/company/"
+   ]
+  },
+  {
+   "query": "Oqton white label partner OEM",
+   "results": [
+    "https://oqton.com/",
+    "https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://kr.linkedin.com/company/oqton",
+    "https://www.microlit.com/oem-and-white-label-explained-their-definitions-and-operational-mechanisms/",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://www.thermofisher.com/blog/oempowered/nine-questions-oem-partner/",
+    "https://www.eplus3d.com/oqton-eplus-3d-enter-strategic-partnership-to-transform-digital-workflows.html",
+    "https://kurationai.com/guides/how-to-choose-an-oem-partner",
+    "https://www.oemtechnologypartnerships.com/"
+   ]
+  },
+  {
+   "query": "Oqton Jahresabschluss OR financial statements",
+   "results": [
+    "https://oqton.com/terms-and-conditions/",
+    "https://www.zoominfo.com/c/oqton/443427970",
+    "https://www.3dsystems.com/press-releases/3d-systems-reports-first-quarter-2026-financial-results",
+    "https://oq.com/en/investors/financial-statements-and-reports",
+    "https://www.otb.net/en/financial-statement",
+    "https://www.first-quantum.com/investors/results-and-reports/",
+    "https://investor.voxeljet.com/financials/annual-reports/default.aspx",
+    "https://finance.yahoo.com/quote/DDD/",
+    "https://www.sec.gov/edgar/browse/?CIK=1612630",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Oqton Japan",
+   "results": [
+    "https://oqton.com/",
+    "https://jp.linkedin.com/company/oqton",
+    "https://ja.3dsystems.com/events/oqton-vol2",
+    "https://www.youtube.com/watch?v=fBI3eAj0INA",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://oqton.com/freeform-technologies-selects-oqton-manufacturing-os-3dxpert-to-automate-production-workflow/",
+    "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition",
+    "https://www.cadjapan.com/news/2025/d20251007_03.html",
+    "https://oqton.com/company/"
+   ]
+  },
+  {
+   "query": "Oqton employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://growjo.com/company/Oqton",
+    "https://www.zoominfo.com/c/oqton/443427970",
+    "https://www.linkedin.com/company/oqton",
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/dreduce-ai",
+    "https://dealroom.co/",
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://getlatka.com/companies/dealroom",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）"
+ }
+}

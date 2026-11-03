@@ -1,0 +1,1109 @@
+{
+ "name": "Werk24",
+ "aliases": [
+  "Werk24 GmbH"
+ ],
+ "context": "wl-B 図面読み取り（2D図面AI解析・API）",
+ "researched_at": "2026-11-03T09:56:08.045714+00:00",
+ "official_url": "https://werk24.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "売上": [
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We match your ERP or PLM schema, extract precisely the data you need — and typically write it straight back into your system (SAP, Salesforce, …).",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Write-back included — results land directly in SAP, Salesforce or your PLM",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "Every field carries confidence + source coordinates",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "In most shops today, quoting is still based on estimates and intuition. Actual costs are only reviewed much later by cost control, meaning valuable insights arrive too late to improve the next quote.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail, Salesforce or",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate the solution into your existing workflows (e.g., Salesforce, SAP S/4HANA).",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a narrow scope (e.g., fasteners or turned parts) and a single ERP entity. Prove touchless rates & accuracy, then expand coverage.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "Every incoming RFQ needed a cost estimate before sales could reply. Senior engineers read each drawing by hand, squeezed between their real engineering work. Quotes took hours on a good day and days on a normal one.",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "The moment a drawing arrives, a three-stage pipeline runs end to end and writes the estimate straight into the customer’s CRM. Werk24 reads the drawing; Saphirion prices the part.",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "an RFQ arrives with a 2D drawing — PDF or TIFF, exactly as suppliers send them",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/case-studies/saphirion-process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Injection-molded parts arrive with diverse drawings: mixed units, varying tolerance policies, and finish notes buried in PDFs. Manual reading slowed intake and created quality exposure — tight tolerances, special finishes, or threads were occasionally missed, becoming costly NCRs later.",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every drawing is encrypted at rest under a Werk24-managed key; this is how narrowly the key is scoped beyond that. End-to-end, one key opens one drawing and only you hold it, so after the read we cannot open the drawing or the result files. You can still allow unreadable strings and feature crops in the data settings; they are taken during the read.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/documentation",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/blog/dimanex-and-werk24-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Per product — published, no sales call required.",
+    "url": "https://werk24.io/imprint",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24’s artificial intelligence changes that and provides the necessary information within seconds – even if the drawing was made in ink and arrived by fax.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Sales reps spend less than 30% of their time actually selling. The rest goes to preparation, note-taking, CRM maintenance, visit reports and follow-up emails. The CRM is incomplete. The CRM tells only half the story. Bliro completes it.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Every sales rep gets a personal AI assistant that handles the entire workflow – before, during and after every customer meeting. Meeting preparation directly from the CRM. Automatic transcripts – on-site, online or by phone. And after the meeting simply from the car: “Hey Vicky, write the visit report and update Salesforce.” Done before the next customer arrives.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Sales reps sell. Bliro handles the rest.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Native integration with SAP, Salesforce, HubSpot, Zoom, Teams and many more. GDPR-compliant, ISO 27001 and SOC 2 certified. Servers in Frankfurt.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Get an API key — €1.25/page",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality teams — suppliers & OEMs",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "01 · Werk24 API",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "REST API, webhooks & a Python client",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the API",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers auto-balloon drawings and certify AS9102 / FAIR reports in minutes. OEMs request them across their supplier base and collect approved, tamper-evident results in one place.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sheet rebranding — anonymize & restyle drawings to your template",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivered over the same API and infrastructure",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the title block and body, then create the material master automatically — part number, material, raw-stock size, net weight and routing hints — written straight back via BAPI.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Same engine behind the API and Studio.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "One API-first extraction engine. Send a drawing, ask for the depth you need, and get clean, typed JSON back in seconds — no model training, no templates.",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "REST API, webhooks & an official Python client",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "Sheet rebranding",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "Strip identifying marks and re-style incoming drawings to your own template — useful for RFQs, supplier sharing and archival standardization. Anonymizing is in the API; restyling to your template is on a contract.",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "Register for the API",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Create your API account",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "API to auto‑price RFQs",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Werkflow is a free online demo where you can upload your own drawings and see Werk24's structured extraction output in real time — no API key or signup required.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Get a production API key, €1.25 per page.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Pay as You Go gives you full production access today: no monthly fee, no term, cancel anytime. Move to Production when your volume makes it cheaper, and keep the same API key.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Get an API key",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Create your API account",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Alongside the JSON API output, you can request annotated PDFs that highlight each violation and propose feasible alternatives. Attach them directly to your RFQ workflow.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Get a production API key, €1.25 per page.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Pay as You Go gives you full production access today: no monthly fee, no term, cancel anytime. Move to Production when your volume makes it cheaper, and keep the same API key.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Get an API key",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Create your API account",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Sync RFQ logs, quotes, wins/losses, PO prices, and supplier roster with capabilities and certifications. Imports via API, SFTP, or mailbox.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Use the API to push invitations, track responses, and write back selections to ERP/CPQ/CRM. Mailbox workflows are supported.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Get a production API key, €1.25 per page.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Pay as You Go gives you full production access today: no monthly fee, no term, cancel anytime. Move to Production when your volume makes it cheaper, and keep the same API key.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Get an API key",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Create your API account",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Connect ingestion (mailbox/SFTP/API) and write-back (REST/ODBC/BAPI). Configure authentication, roles, and regions.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Get a production API key, €1.25 per page.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Pay as You Go gives you full production access today: no monthly fee, no term, cancel anytime. Move to Production when your volume makes it cheaper, and keep the same API key.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Get an API key",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 API",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "API pricing",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "API reference and integration guides for developers.",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "Clean APIs, predictable JSON, confidence scores, and webhooks. Go from PDF to production in hours, not weeks.",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "werk24 init # Get your API key: Pay as You Go, no minimum",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Laserhub case study",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/product",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Read the case study →",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Triage of incoming drawings is still manual in many shops. Engineers read PDFs, decode tolerances, check threads and materials, and then call customers to renegotiate. It is slow, inconsistent, and expensive — and the worst RFQs steal time from the winnable ones.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "% of suggestions accepted by customers.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "Pin suppliers for specific customers or categories. Pinned invites still include reason codes.",
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Werk24 × Saphirion",
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "pass": 1
+   },
+   {
+    "quote": "Saphirion Case Study: Drawing Process Automation | Werk24",
+    "url": "https://werk24.io/case-studies/saphirion-process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/case-studies/saphirion-process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "customers demanded faster RFQ turnaround without quality trade-offs",
+    "url": "https://werk24.io/case-studies/saphirion-process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Plastics Case Study: CNC Feasibility Automation | Werk24",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Customers expected",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Laserhub Case Study: Drawing Data Extraction | Werk24",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan includes Inspect, Compare, change workflows with your customers and suppliers, unlimited users, an encryption key of your own and hosting in the EU.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/documentation",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/blog/dimanex-and-werk24-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership equips DiManEx customers with two liberating advantages: (i) they receive swift and scalable feedback on thousands of PDF/TIF drawings, and (ii) their involvement of the internal engineering teams is reduced to a minimum, freeing up valuable engineering capacity.",
+    "url": "https://werk24.io/blog/dimanex-and-werk24-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How our customers use Werk24",
+    "url": "https://werk24.io/imprint",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Pluno does more than just deflect routine inquiries. It streamlines escalation processes, automates workflows, and fosters seamless collaboration between teams, all while ensuring exceptional customer interactions. From startups to enterprises, we empower businesses worldwide to work smarter, resolve issues faster, and keep customers happier.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "From our humble beginnings to becoming a trusted partner for customer success, our mission remains clear: to build tools that make your work easier and your customers’ experiences better.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Track the signals that show quoting is not only faster, but also more predictable, competitive, and profitable.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Filter out non-winnable RFQs and prioritize profitable ones.",
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "A closed loop changes that. Every finished job delivers hard data — machine time, tooling, QA, even scrap — which flows directly back into your pricing model. The system self‑calibrates continuously, so each new part makes the next quote more accurate.",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   },
+   {
+    "quote": "Closed‑loop pricing: quote → production → measured cost → learning",
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "pass": 1
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "— primary process tags to seed work centers or templates.",
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 raised its sheet limit from A2 to A1 in July 2026, and has since raised it to A0 (841 × 1189 mm).",
+    "url": "https://werk24.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Interviews with founders and investors",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Funding Types",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of all funding options",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "The central startup platform for Munich's startup ecosystem and the region. Locally rooted, globally ambitious. We connect founders, investors and companies and foster innovation in the region.",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Werk24 vs Generalist Solutions: Why AI-Based… — Werk24 vs Generalist Solutions: Why AI-Based… Werk24 https://werk24.io > Blog",
+    "url": "https://werk24.io/blog/werk24-vs-generalist-solutions-why-ai-based-specialization-in-engineering-drawings-wins",
+    "pass": 3
+   },
+   {
+    "quote": "Werk24 - 2026 Company Profile, Team & Competitors - Tracxn — Werk24 - 2026 Company Profile, Team & Competitors - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "pass": 3
+   },
+   {
+    "quote": "Werk24 | Munich Startup Platform — Werk24 | Munich Startup Platform Munich Startup https://www.munich-startup.de > wer...",
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing | Werk24 — PMI Extraction & RFQ Feasibility — Pricing | Werk24 — PMI Extraction & RFQ Feasibility Werk24 https://werk24.io > pricing",
+    "url": "https://werk24.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Werk24 (@ werk24 .gmbh) - Facebook — Werk24 (@ werk24 .gmbh) - Facebook Facebook https://www.facebook.com > ... > Management Service",
+    "url": "https://www.facebook.com/werk24.gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Jochen Mattes – CEO and Owner @ WERK24 - LinkedIn — Dr. Jochen Mattes – CEO and Owner @ WERK24 - LinkedIn LinkedIn https://de.linkedin.com > jochenmattes",
+    "url": "https://de.linkedin.com/in/jochenmattes",
+    "pass": 3
+   },
+   {
+    "quote": "Werk24 API Documentation | PMI Extraction & RFQ Feasibility — Werk24 API Documentation | PMI Extraction & RFQ Feasibility Werk24 https://werk24.io > documentation",
+    "url": "https://werk24.io/documentation",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy | Werk24 — Privacy Policy | Werk24 Werk24 https://werk24.io > privacy-policy",
+    "url": "https://werk24.io/privacy-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Werk24 Python Client - PyPI — Werk24 Python Client - PyPI PyPI https://pypi.org > project > werk24",
+    "url": "https://pypi.org/project/werk24/",
+    "pass": 3
+   },
+   {
+    "quote": "API V2 Documentation: Home - Werk24 — API V2 Documentation: Home - Werk24 Werk24 https://v2.docs.werk24.io",
+    "url": "https://v2.docs.werk24.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Werk24 Significantly Accelerates Data Extrac… — Werk24 Significantly Accelerates Data Extrac… Werk24 https://werk24.io > Blog",
+    "url": "https://werk24.io/blog/werk24-significantly-accelerates-data-extraction-from-technical-drawings-a-behind-the-scenes-look",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://werk24.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/use-cases/accelerated-quoting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/use-cases/feasibility-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/use-cases/supplier-matching",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/use-cases/erp-data-entry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/case-studies/precision-components-cost-estimation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/case-studies/saphirion-process-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/case-studies/laserhub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/documentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/blog/dimanex-and-werk24-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/imprint",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://isaiprofitable.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/commentary/reuters-open-interest/can-ai-labs-ever-turn-profit-joachim-klement-2026-10-07/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926049721/tm2534221d3_ars.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://filecache.investorroom.com/mr5ir_genuineparts/978/2024%20Annual%20Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://assets.contenthub.wolterskluwer.com/api/public/content/3210406-wolters-kluwer-2025-annual-report-pdf-8bb01b4e47?v=ddef685b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.wsp.com/-/media/investors/reports/annual/en/2024/wsp-2024-annual-report---en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/monthly-funding-recap-may-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/werk24.gmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://de.linkedin.com/in/jochenmattes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.inworkglobal.com/services/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makeitfuture.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viasocket.com/discovery/blog/lwxnj3/7-white-label-automation-platforms-agencies-need",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wolterskluwer.com/en/investors/financials/annual-reports",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://wikimediafoundation.org/who-we-are/financial-reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wuerthfinance.net/web/wuerth-finance/investor-relations/financial-results/financial-reports-WFG/financial-reports-WFG.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pypi.org/project/werk24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2.docs.werk24.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plattform-i40.de/IP/Redaktion/EN/Use-Cases/544-werk24/article-werk24.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/werk24.gmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.crunchbase.com/blog/competitive-analysis-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Werk24 revenue profitable",
+   "results": [
+    "https://werk24.io/blog/werk24-vs-generalist-solutions-why-ai-based-specialization-in-engineering-drawings-wins",
+    "https://isaiprofitable.com/",
+    "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "https://www.reuters.com/commentary/reuters-open-interest/can-ai-labs-ever-turn-profit-joachim-klement-2026-10-07/",
+    "https://www.youtube.com/watch?v=mvu4dD4Trqk",
+    "https://www.instagram.com/reel/DWsQO7vAcEi/",
+    "https://www.facebook.com/groups/126206908009357/posts/2069026280394067/",
+    "https://www.noahpinion.blog/p/who-will-actually-profit-from-the",
+    "https://doctorow.medium.com/https-pluralistic-net-2025-06-30-accounting-gaffs-artificial-income-aff55b5655bf",
+    "https://www.cbinsights.com/company/werk24/financials"
+   ]
+  },
+  {
+   "query": "Werk24 EBITDA net income annual report",
+   "results": [
+    "https://www.sec.gov/Archives/edgar/data/1964789/000110465926049721/tm2534221d3_ars.pdf",
+    "https://filecache.investorroom.com/mr5ir_genuineparts/978/2024%20Annual%20Report.pdf",
+    "https://assets.contenthub.wolterskluwer.com/api/public/content/3210406-wolters-kluwer-2025-annual-report-pdf-8bb01b4e47?v=ddef685b",
+    "https://www.wsp.com/-/media/investors/reports/annual/en/2024/wsp-2024-annual-report---en.pdf",
+    "https://s2.q4cdn.com/714858690/files/doc_financials/2025/ar/2024-Annual-Report-Final.pdf",
+    "https://home.quakerhoughton.com/investor-annual-report/",
+    "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf",
+    "https://live.euronext.com/sites/default/files/company_press_releases/attachments/2025/02/20/cpr03_lesechos_16165_1316261_accountsfyresults2024.pdf",
+    "https://www.reports.merckgroup.com/en/annualreport/2024/_assets/downloads/entire-merck-ar24.pdf",
+    "https://www.annualreports.com/"
+   ]
+  },
+  {
+   "query": "Werk24 funding raised",
+   "results": [
+    "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "https://werk24.io/blog/werk24-vs-generalist-solutions-why-ai-based-specialization-in-engineering-drawings-wins",
+    "https://www.munich-startup.de/en/startups-and-ecosystem/werk24",
+    "https://news.crunchbase.com/venture/monthly-funding-recap-may-2024/",
+    "https://multiversecomputing.com/resources/multiverse-computing-announces-series-c-fundraising-targeting-up-to-usd570m-eur500m-to-power",
+    "https://www.finsmes.com/2026/05/viktor-raises-75m-series-a-funding.html",
+    "https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-6-1-26/",
+    "https://dealroom.co/news/129071-viktor-raises-75m-series-a-to-put-ai-coworkers-in-slack-and-teams/",
+    "https://superpowerdaily.com/signals/funding",
+    "https://www.crunchbase.com/organization/werk24"
+   ]
+  },
+  {
+   "query": "Werk24 acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://werk24.io/pricing",
+    "https://www.facebook.com/werk24.gmbh/",
+    "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "https://de.linkedin.com/in/jochenmattes",
+    "https://werk24.io/documentation",
+    "https://aitools.inc/tools/werk24",
+    "https://www.saphirion.com/files/press_release_saphirion_werk24_en.pdf",
+    "https://cdncases.alixpartners.com/experience/insolvency-cases",
+    "https://live.deutsche-boerse.com/equities/insolvencies",
+    "https://globalrestructuringreview.com/regions/germany"
+   ]
+  },
+  {
+   "query": "Werk24 white label partner OEM",
+   "results": [
+    "https://www.inworkglobal.com/services/white-label",
+    "https://www.makeitfuture.com/white-label",
+    "https://viasocket.com/discovery/blog/lwxnj3/7-white-label-automation-platforms-agencies-need",
+    "https://resources.rework.com/libraries/partnership-management/oem-partnership",
+    "https://blog.bicomsystems.com/oem-and-white-label/",
+    "https://monobot.ai/whitelabel/",
+    "https://werk24.io/partners",
+    "https://www.workato.com/the-connector/white-label-integration/",
+    "https://axeautomation.co/white-label-ai-agency",
+    "https://werk24.io/"
+   ]
+  },
+  {
+   "query": "Werk24 Jahresabschluss OR financial statements",
+   "results": [
+    "https://werk24.io/privacy-policy",
+    "https://www.wolterskluwer.com/en/investors/financials/annual-reports",
+    "https://wikimediafoundation.org/who-we-are/financial-reports/",
+    "https://www.wuerthfinance.net/web/wuerth-finance/investor-relations/financial-results/financial-reports-WFG/financial-reports-WFG.php",
+    "https://www.kpluss.com/en-us/investor-relations/publications/annual-report/",
+    "https://www.more.com/werealize_financial_statements_2022",
+    "https://www.who.int/about/accountability/financial-statements",
+    "https://www.publikations-plattform.de/redirect/start_new?global_data.designmode=pp&global_data.language=en&page.navid=to_knowledgeable_how-work_annual_terms&dest=wexsservlet",
+    "https://live.euronext.com/sites/default/files/company_press_releases/attachments/2025/02/20/cpr03_lesechos_16165_1316261_accountsfyresults2024.pdf",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets"
+   ]
+  },
+  {
+   "query": "Werk24 Japan",
+   "results": [
+    "https://pypi.org/project/werk24/",
+    "https://v2.docs.werk24.io/",
+    "https://www.plattform-i40.de/IP/Redaktion/EN/Use-Cases/544-werk24/article-werk24.html",
+    "https://www.facebook.com/werk24.gmbh/",
+    "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "https://werk24.io/careers",
+    "https://aitools.inc/tools/werk24",
+    "https://de.linkedin.com/in/jochenmattes",
+    "https://werk24.io/pricing",
+    "https://werk24.io/"
+   ]
+  },
+  {
+   "query": "Werk24 employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/",
+    "https://about.crunchbase.com/blog/competitive-analysis-tools",
+    "https://www.owler.com/company/crunchbase",
+    "https://werk24.io/blog/werk24-significantly-accelerates-data-extraction-from-technical-drawings-a-behind-the-scenes-look",
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8",
+    "https://www.crunchbase.com/organization/workforce-ai",
+    "https://www.reveliolabs.com/companies/crunchbase/employees",
+    "https://dealroom.co/our-data/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）",
+  "日本対応": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）"
+ }
+}

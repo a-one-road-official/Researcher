@@ -1,0 +1,476 @@
+# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・6社）
+
+## 3YOURMIND
+- 公式URL：https://www.3yourmind.com（given）
+- 売上：
+  - 「Minimize 75% of lost sales」（https://www.3yourmind.com/・1回目）
+  - 「Breaking the 3D Printing Barrier for the Ordinary」（https://www.3yourmind.com/news/topic/category_interview・1回目）
+  - 「In an exclusive interview with 3YOURMIND, Meltwerk the Berlin based company founded in 2015 under the brand Trinckle3D, explain the reasons behind their production decisions that support their main mission, to break the barrier between ordinary people and 3D Printing.」（https://www.3yourmind.com/news/topic/category_interview・1回目）
+  - 「How 3D printing technology is adapted for use in space? "Made In Space is working on expanding this technology to other realms of on-orbit manufacturing, including the construction of large-scale structures in free space by Archinaut." During an exclusive interview with 3YOURMIND Made in Space's Product Strategist, Harrison Pitman gave us insight into Zero Gravity production.」（https://www.3yourmind.com/news/topic/category_interview・1回目）
+  - 「“We wanted to educate engineers on new possibilities to maximize their efficiency so they could obtain parts much faster using new technology,” says Ciszek. “And we thought one way to do that was to give them tools to increase access and reduce barriers to understanding the technology.”」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「Pictured: William Cuervo, 3YOURMIND's VP of Sales North America, presented at the Marine Corps Base Camp Pendleton in California in 2023.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「Encosa offers an end-to-end solution that allows their customers to lower their costs via energy saving strategies, while also generating revenues by trading excess capacity on the energy markets.」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+- 資金調達：
+  - 「Pictured: Material check now offers more granular assessment results, including substitute material support and material compatibility evaluations.」（https://www.3yourmind.com/news/use-ai-to-support-part-assessment・1回目）
+  - 「The two young men sparked a conversation about the exciting and newly accessible subject of 3D printing. Like a seed, the conversation grew, and not long after, Kühr relocated to Berlin to start looking for more ways to gain knowledge about 3D printing. At that time, Ciszek began seriously considering what a future with 3D printing might look like.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「“After I finished my studies, all of my peers were going to companies at consulting firms and investment banks, and I realized I didn’t really want to do that,” says Ciszek. “I was more fascinated by hands-on things and the entrepreneurial spirit. So, for that reason, I was thinking, what else can we do?”」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「With grant funding secured, now things were getting more serious.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「Shortly after, Kühr traveled to Munich to pitch the marketplace platform to investors and industry leaders.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「“Afterward, one of the investment guys comes up to me and say, ‘Hey, I’ve hardly ever seen someone bold enough to do a live demo at a pitch,’” laughs Kühr.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「“He told me he’s never seen a 3D printing workflow that can do file upload, printability analysis, pricing, and material selection in just a minute or two,” says Kühr. “He was extremely impressed and became one of our first investors.”」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「With grant funding secured and new investors knocking on their door, Ciszek and Kühr needed to find a name for their project. The two entrepreneurs were attending a startup accelerator and were workshopping possibilities when they finally settled on the now-recognizable name.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「Ciszek and Kühr recognized that for 3YOURMIND to scale, it would need to enter the market that understood the risks and rewards of early investment into innovative technology: the United States.」（https://www.3yourmind.com/news/looking-back-at-10-years-of-3yourmind-an-oral-history・1回目）
+  - 「Investors」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「3YOURMIND, software provider in additive manufacturing, raises $12.4M in a continued series A+ round. The funding will fuel the company’s ambition to advance end-to-end production processes digitization.」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+- 存続：
+  - 「"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue".」（https://www.3yourmind.com/customers・1回目）
+  - 「3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「Information, pursuant to any applicable law, regulation or order, e.g. in case of merger, sale or acquisition,」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「in case of bankruptcy and liquidation, if applicable.」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+- 自社名で出せる条件：
+  - 「resulting in fewer stocked parts and less tied-up capital.」（https://www.3yourmind.com/・1回目）
+  - 「. OEMs, operating companies, and contract manufacturers can create digital inventories of qualified parts to」（https://www.3yourmind.com/about-us・1回目）
+  - 「Implemented streamlined API payloads, browser caching headers, and optimized thumbnail generation for high-density tables.」（https://www.3yourmind.com/news/central-order-coordination-for-decentralized-production・1回目）
+  - 「A primary breakthrough of the exercise was the collaborative engagement between the EDA and the NATO Support and Procurement Agency (NSPA). Both bodies actively explored shared interests in the RAPID-e repository, uncovering vast potential for a unified, secure digital backbone across allied nations.」（https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened・1回目）
+  - 「True Allied Interoperability (RAPiD-e):」（https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened・1回目）
+  - 「This causes shifting part quality and discourages OEMs from sharing their assets」（https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened・1回目）
+  - 「This removes human error for field operators and delivers the precise digital traceability OEMs demand」（https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened・1回目）
+  - 「The success at AM Village 2026 is just the beginning. As 3YOURMIND wraps up additional military exercises—including NATO’s CWIX and the massive RIMPAC 2026 exercise in Hawaii—the focus is rapidly shifting toward scaling these distributed manufacturing capabilities across dozens of global production sites.」（https://www.3yourmind.com/news/we-went-to-am-village-2026-heres-what-happened・1回目）
+  - 「Polymers for Apium's FFF 3D Printing」（https://www.3yourmind.com/news/topic/category_interview・1回目）
+  - 「In this interview with Apium, learn how high-performance polymers can be applied in various industrial applications in the fields of prototyping, R&D, individual parts, and small batches.」（https://www.3yourmind.com/news/topic/category_interview・1回目）
+  - 「EOS North America and 3YOURMIND Launch Rapid Part Identifier Program」（https://www.3yourmind.com/news/topic/category_news・1回目）
+  - 「3YOURMIND champions the future of advanced manufacturing, actively driving education, standardization, and global awareness in additive manufacturing. As members of leading organizations worldwide, we’re committed to shaping a more innovative and connected manufacturing industry.」（https://www.3yourmind.com/partners・1回目）
+- 顧客：
+  - 「Customers」（https://www.3yourmind.com/・1回目）
+  - 「Trusted by Industry Leaders」（https://www.3yourmind.com/・1回目）
+  - 「See Our Customers」（https://www.3yourmind.com/・1回目）
+  - 「Case Study」（https://www.3yourmind.com/・1回目）
+  - 「Customers」（https://www.3yourmind.com/customers・1回目）
+  - 「3YOURMIND Customers」（https://www.3yourmind.com/customers・1回目）
+  - 「What Our Customers Say」（https://www.3yourmind.com/customers・1回目）
+  - 「"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue".」（https://www.3yourmind.com/customers・1回目）
+  - 「Case Study」（https://www.3yourmind.com/customers・1回目）
+  - 「Customers」（https://www.3yourmind.com/news・1回目）
+  - 「Case Study」（https://www.3yourmind.com/news・1回目）
+  - 「Customers」（https://www.3yourmind.com/about-us・1回目）
+- 検索結果の抜粋：
+  - 「3YOURMIND 2025: Where We've Been and Where We're Going — 3YOURMIND 2025: Where We've Been and Where We're Going 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/3yourmind-2025-where-weve-been-where-were-going・3回目）
+  - 「3YOURMIND raises USD 12.4 to fuel its growth - verve.vc — 3YOURMIND raises USD 12.4 to fuel its growth - verve.vc verve.vc https://www.verve.vc > blog > 3your...」（https://www.verve.vc/blog/3yourmind-series-a/・3回目）
+  - 「3YOURMIND - LinkedIn — 3YOURMIND - LinkedIn LinkedIn https://www.linkedin.com > 3yourmind」（https://www.linkedin.com/company/3yourmind・3回目）
+  - 「3YOURMIND - 2026 Company Profile & Team - Tracxn — 3YOURMIND - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w・3回目）
+  - 「Customer Success Stories - 3YOURMIND — Customer Success Stories - 3YOURMIND 3YOURMIND https://www.3yourmind.com > custo...」（https://www.3yourmind.com/customers・3回目）
+  - 「3YOURMIND Raises $12M to Transform Industrial 3D Printing — 3YOURMIND Raises $12M to Transform Industrial 3D Printing 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/series-a-closed-with-12m・3回目）
+  - 「3YOURMIND | Identify and Produce Parts On-Demand — 3YOURMIND | Identify and Produce Parts On-Demand 3YOURMIND https://www.3yourmind.com」（https://www.3yourmind.com/・3回目）
+  - 「3YOURMIND - World Economic Forum — 3YOURMIND - World Economic Forum World Economic Forum https://www.weforum.org > 3yourmind」（https://www.weforum.org/organizations/3yourmind・3回目）
+  - 「3YOURMIND GmbH - LinkedIn — 3YOURMIND GmbH - LinkedIn LinkedIn https://de.linkedin.com > 3yourmind」（https://de.linkedin.com/company/3yourmind・3回目）
+  - 「3YOURMIND - AM Ventures — 3YOURMIND - AM Ventures AM Ventures https://amventures.com > 3yourmind」（https://amventures.com/company-portfolios/3yourmind/・3回目）
+  - 「Partners - 3YOURMIND — Partners - 3YOURMIND 3YOURMIND https://www.3yourmind.com > partners」（https://www.3yourmind.com/partners・3回目）
+  - 「EOS North America and 3YOURMIND Launch Rapid Part ... — EOS North America and 3YOURMIND Launch Rapid Part ... EOS GmbH https://www.eos.info > ... > 2023 ...」（https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023・3回目）
+- 設立：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+- 所在地：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+- 黒字・収益性：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+- 日本対応：記載なし（3回確認済み：公式21頁／PDF・画像4件／外部21頁・検索8回）
+
+## Citrine Informatics
+- 公式URL：https://citrine.io（given）
+- 設立：2013（https://startupintros.com/orgs/citrine-informatics・3回目）
+- 従業員数：68（https://getlatka.com/companies/Citrine_Informatics・3回目）
+- 従業員数：10000+（https://startupintros.com/orgs/citrine-informatics・3回目）
+- 所在地：Redwood City, CA, USA（https://startupintros.com/orgs/citrine-informatics・3回目）
+- 黒字・収益性：
+  - 「Where Does EBITDA Come From?」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Where EBITDA Typically Comes From」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Per-product-group EBITDA projections, tied to your own cost structure, project volume, and success rates. We can help.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「News Daily: Profitable Strategic Report On Global Artificial Intelligence In Manufacturing Market By 2025:- Siemens AG, Intel Corporation」（https://citrine.io/media-type/news/・1回目）
+  - 「June 14, 2017 The World Economic Forum, the global nonprofit foundation whose annual meeting in Davos is attended by global leaders from business and politics, has published a list of...」（https://citrine.io/media-type/news/・1回目）
+  - 「This white paper examines how the Citrine Platform leverages advanced artificial intelligence to help polymer manufacturers meet sustainability challenges while maintaining performance and profitability.」（https://citrine.io/resources/white-papers/・1回目）
+  - 「Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.」（https://getlatka.com/companies/Citrine_Informatics・3回目）
+- 売上：
+  - 「84% reduction in formulation time, 30%+ revenue increase」（https://citrine.io/・1回目）
+  - 「Tends to arrive」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「arrives on a timeline that matters」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「REVENUE INCREASE」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Knowledge stays inside the operating system rather than inside individual tenure — making the platform more resilient to talent turnover.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「By Marco Annunziata The convergence of mind and matter, of digital and physical technologies lies at the heart of the fourth industrial revolution. The marriage of Artificial Intelligence (A.I.)...」（https://citrine.io/media-type/news/・1回目）
+  - 「Citrine Informatics Sets New ARR and Customer Acquisition Records in Q2 2022」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「Citrine Informatics Continues Rapid Growth in Q1 2022, Reports 52% Sequential Quarter ARR Growth and Record Research Funding」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「Citrine Informatics Appoints New CTO and VP of Global Sales」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「Citrine Informatics Hires Senior Global Sales Leaders」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「REDWOOD CITY, CA (BUSINESS WIRE) – Citrine Informatics, the chemicals and materials artificial intelligence (AI) platform, today announced the expansion of its sales organization through the appointment of two seasoned...」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「The Next Barrier for AI in Materials Development is Adoption」（https://citrine.io/resources/blog/・1回目）
+- 資金調達：
+  - 「Evaluation」（https://citrine.io/・1回目）
+  - 「› Investors」（https://citrine.io/・1回目）
+  - 「EVALUATION」（https://citrine.io/・1回目）
+  - 「How to Calculate Return on Investment in AI」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Evaluation」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「› Investors」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「The numbers, timelines, and value profile behind AI investment in product development.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Determining whether the investment case is durable enough to justify commitment now.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Timing is where many AI investments lose credibility. The question is not simply whether value exists, but whether it」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Example return on investment in year one of platform deployment.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「than the cost of investment, but not necessarily smaller. Four pressures tend to compound while companies wait.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「The question is not whether these pressures exist. It is whether your organization will absorb them reactively or get ahead of them with a deliberate investment decision made now.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+- 存続：
+  - 「June 8, 2017 Citrine Informatics, a Redwood City, Calif.-based chemicals and materials artificial intelligence (AI) platform, closed a $7.6m Series A funding. The round was led by Eric Schmidt’s...」（https://citrine.io/media-type/news/・1回目）
+  - 「Citrine Informatics closed a $16M round of Series C funding to further accelerate the growth and development of Citrine's AI-driven materials and chemical design platform.」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「Citrine Informatics Sets New ARR and Customer Acquisition Records in Q2 2022」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「In the rapidly evolving world of AI within materials and chemicals industries, Bayesian optimization (BO) has re-emerged as a powerful tool. In this blog post, we will explore why...」（https://citrine.io/resources/blog/・1回目）
+  - 「Reducing time and cost of closed-cell polyurethane foam development」（https://citrine.io/revolutionizing-the-use-of-fire-tests/・1回目）
+  - 「Reducing time and cost of closed-cell polyurethane foam development」（https://citrine.io/wp-content/uploads/2025/09/Case-Study-Huntsman-PU-Fire-Testing.pdf・2回目）
+  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/85331-80・3回目）
+  - 「Acquisitions」（https://pitchbook.com/profiles/company/85331-80・3回目）
+  - 「Liquidation」（https://pitchbook.com/profiles/company/85331-80・3回目）
+  - 「See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.」（https://pitchbook.com/profiles/company/85331-80・3回目）
+- 自社名で出せる条件：
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/・1回目）
+  - 「to stand up in a capital allocation discussion.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Evonik Venture Capital」（https://citrine.io/company/・1回目）
+  - 「XSeed Capital」（https://citrine.io/company/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/company/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/careers/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/company/partners/・1回目）
+  - 「that allows educators to rapidly integrate AI and machine learning into existing courses or develop new ones—all while supporting ABET accreditation requirements.」（https://citrine.io/company/education/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/company/education/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/company/research/・1回目）
+  - 「Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.」（https://citrine.io/company/research/patents/・1回目）
+- 日本対応：
+  - 「SCSK distributes the Citrine Platform in Japan. Their Citrine Platform experts support companies in adopting AI for materials and chemicals.」（https://citrine.io/company/partners/・1回目）
+  - 「Japan Chemical Daily: Citrine Informatics Halves Materials Development Period for Clients」（https://citrine.io/media-type/news/・1回目）
+  - 「Japan Chemical Daily: Panasonic Set to Optimize Development With Materials Informatics」（https://citrine.io/media-type/news/・1回目）
+  - 「Citrine Co-Founder and CEO Presents to Stanford Silicon Valley-New Japan Project」（https://citrine.io/media-type/news/・1回目）
+  - 「Citrine co-founder and CEO Greg Mulholland shared lessons about working with Japan as a Silicon Valley startup and why the Japan market is well suited to the adoption of...」（https://citrine.io/media-type/news/・1回目）
+  - 「SCSK AND CITRINE INFORMATICS PARTNER TO PROVIDE AI-DRIVEN PRODUCT DEVELOPMENT TO CLIENTS IN JAPAN」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「SCSK has entered an agreement with Citrine Informatics to distribute the Citrine Platform to enable customers in Japan to leverage Citrine's award-winning AI-driven product development platform.」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「Citrine Informatics Expands Business Operations to Japan」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「June 4, 2020 – Citrine Informatics, a leader in AI for materials and chemicals product development – is expanding its operations to Japan with the opening of a Tokyo...」（https://citrine.io/media-type/press-releases/・1回目）
+  - 「Japan expansion push for US industrial AI pioneer - Intralink | Intralink」（https://www.intralinkgroup.com/latest/news/may-2020/japan-expansion-push-for-us-industrial-ai-pioneer・3回目）
+  - 「Japan expansion push for US industrial AI pioneer」（https://www.intralinkgroup.com/latest/news/may-2020/japan-expansion-push-for-us-industrial-ai-pioneer・3回目）
+  - 「The initiative fits our specialisation in the industrial and software sectors — and follows hot on the heels of the start of our sales programme in Japan and Korea for」（https://www.intralinkgroup.com/latest/news/may-2020/japan-expansion-push-for-us-industrial-ai-pioneer・3回目）
+- 顧客：
+  - 「Case Study」（https://citrine.io/・1回目）
+  - 「I want more application data to drive deeper conversations around subjects our customers care about.”」（https://citrine.io/・1回目）
+  - 「Citrine Informatics is an enterprise SaaS platform company that leverages generative artificial intelligence (AI) and materials science to help customers to improve materials and chemicals development.」（https://citrine.io/・1回目）
+  - 「because cycle-time compression shows up before broader organizational change does. Customers have reported:」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Dorfner case study demonstrating top-line growth driven by AI-accelerated formulation.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Citrine Informatics is an enterprise SaaS platform company that leverages generative artificial intelligence (AI) and materials science to help customers to improve materials and chemicals development.」（https://citrine.io/resources/the-business-case-for-ai-in-product-development/・1回目）
+  - 「Citrine provides the best in class AI platform for product development, that will be used by everyone in your organization, and supported by an experienced team of experts with 10 years’ pedigree helping customers take AI to scale.」（https://citrine.io/company/・1回目）
+  - 「Citrine Informatics is the creator of the Citrine Platform, the best-in-class AI platform for data-driven materials and chemicals development. The platform is designed to be used by everyone in your organization, and it is supported by an experienced team of experts with 10 years’ pedigree helping customers take artificial intelligence to scale.」（https://citrine.io/company/・1回目）
+  - 「In our work and our company culture, we rely on certain core values to shape the way we work and treat our colleagues and customers. These include:」（https://citrine.io/company/・1回目）
+  - 「(being tirelessly committed to creating value for our customers)」（https://citrine.io/company/・1回目）
+  - 「Citrine Informatics is an enterprise SaaS platform company that leverages generative artificial intelligence (AI) and materials science to help customers to improve materials and chemicals development.」（https://citrine.io/company/・1回目）
+  - 「Citrine Informatics is an enterprise SaaS platform company that leverages generative artificial intelligence (AI) and materials science to help customers to improve materials and chemicals development.」（https://citrine.io/careers/・1回目）
+- 検索結果の抜粋：
+  - 「Citrine Informatics Revenue 2024: $12.1M - GetLatka — Citrine Informatics Revenue 2024: $12.1M - GetLatka GetLatka https://getlatka.com > companies > Cit...」（https://getlatka.com/companies/Citrine_Informatics・3回目）
+  - 「Citrine Informatics Continues Growth Records — Citrine Informatics Continues Growth Records Citrine Informatics https://citrine.io > Media Post」（https://citrine.io/media-post/citrine-informatics-continues-growth-records/・3回目）
+  - 「Citrine Informatics : Revenue , Competitors, Alternatives - Growjo — Citrine Informatics : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Citri...」（https://growjo.com/company/Citrine_Informatics・3回目）
+  - 「Citrine Informatics - Overview, News & Similar companies — Citrine Informatics - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > citrine-i...」（https://www.zoominfo.com/c/citrine-informatics-inc/403413169・3回目）
+  - 「Greg Mulholland — Citrine Informatics Founder, $75M Raised — Greg Mulholland — Citrine Informatics Founder, $75M Raised Startup Fundraising https://startupfundraising.com > articles」（https://startupfundraising.com/library/articles/greg-mulholland・3回目）
+  - 「Citrine Informatics : Chemicals & Materials Development Platform — Citrine Informatics : Chemicals & Materials Development Platform Citrine Informatics https://citrine.io」（https://citrine.io/・3回目）
+  - 「Citrine Informatics - Valuation, Funding & Investors - PitchBook — Citrine Informatics - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/85331-80・3回目）
+  - 「Citrine Informatics Raises $16M in Series C Financing — Citrine Informatics Raises $16M in Series C Financing Citrine Informatics https://citrine.io > Media Post」（https://citrine.io/media-post/citrine-informatics-raises-series-c-funding-round/・3回目）
+  - 「Citrine Informatics : Funding , Team & Investors | Startup Intros — Citrine Informatics : Funding , Team & Investors | Startup Intros Startup Intros https://startupintros.com > orgs > citri...」（https://startupintros.com/orgs/citrine-informatics・3回目）
+  - 「Citrine Informatics - Crunchbase Company Profile & Funding — Citrine Informatics - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > citrine...」（https://www.crunchbase.com/organization/citrine-informatics・3回目）
+  - 「Citrine Informatics - TomKat Center for Sustainable Energy — Citrine Informatics - TomKat Center for Sustainable Energy TomKat Center https://tomkat.stanford.edu > citrine-i...」（https://tomkat.stanford.edu/innovation-transfer/citrine-informatics・3回目）
+  - 「Citrine Informatics - 2026 Funding Rounds & List of Investors — Citrine Informatics - 2026 Funding Rounds & List of Investors Tracxn https://tracxn.com > citrine-informatics」（https://tracxn.com/d/companies/citrine-informatics/__OVyUkPfdQiRY9SN1pP739S6CyJuGZZOKcSBuZbZuKgA/funding-and-investors・3回目）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部24頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部24頁・検索8回）
+
+## Enektri
+- 公式URL：https://enektri.com（given）
+- 売上：
+  - 「Presales консултации по имейл и телефон」（https://enektri.com/partners/・1回目）
+- 自社名で出せる条件：
+  - 「Използване на батерии от OEM производители」（https://enektri.com/・1回目）
+  - 「Модули от водещи OEM производители с доказана надеждност.」（https://enektri.com/・1回目）
+  - 「Собствено производство с модули от водещи OEM производители.」（https://enektri.com/・1回目）
+  - 「(white-label) за всичките ви клиенти и собствена EMS услуга с арбитраж и цялостна поддръжка.」（https://enektri.com/partners/・1回目）
+  - 「Софтуерни / white-label партньори」（https://enektri.com/partners/・1回目）
+  - 「(white-label) ги следите всичките от едно място и участвате в приходите.」（https://enektri.com/partners/・1回目）
+  - 「EMS / white-label възможности」（https://enektri.com/partners/・1回目）
+  - 「Собствен BMS · OEM клетки」（https://enektri.com/about-us/・1回目）
+  - 「ENEKTRI Cloud White-Label - вашата марка, нашата технология | ENEKTRI」（https://enektri.com/enektri-cloud-white-label/・1回目）
+  - 「ENEKTRI Cloud · White-Label · За инсталаторски фирми」（https://enektri.com/enektri-cloud-white-label/・1回目）
+  - 「iOS и Android приложение с вашата марка - като част от white-label пакета.」（https://enektri.com/enektri-cloud-white-label/・1回目）
+  - 「White-label до край」（https://enektri.com/enektri-cloud-white-label/・1回目）
+- 検索結果の抜粋：
+  - 「ENEKTRI Cloud White-Label - your brand, our technology — ENEKTRI Cloud White-Label - your brand, our technology ENEKTRI https://enektri.com > enektri-cloud-w...」（https://enektri.com/en/enektri-cloud-white-label/・3回目）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 黒字・収益性：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 資金調達：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 存続：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 日本対応：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+- 顧客：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索8回）
+
+## Inion Software
+- 公式URL：https://inionsoftware.com/（search:yahoo_jp:Inion Software）
+- 設立：2018（https://www.cventures.vc/founder/inion-software/・3回目）
+- 所在地：Lithuania（https://www.cventures.vc/founder/inion-software/・3回目）
+- 代表者：Sarunas Stanaitis, Robertas Janickas, Mindaugas Lubys（https://www.cventures.vc/founder/inion-software/・3回目）
+- 黒字・収益性：
+  - 「Green Business Norway (GBN) is a non-for-profit member organisation for the Norwegian Circular Economy and Renewable Energy Industry. With our 17 years of experience and a strong research base our contribution to the project are best practices and innovative research on modelling and forecasting tools and expertise related to planning, operations and optimisation of renewable energy production.」（https://inionsoftware.com/・1回目）
+  - 「Non Profits」（https://www.annualreports.com/Companies・3回目）
+- 売上：
+  - 「Over 15 years of experience in B2B sales, product management, marketing and project management.」（https://inionsoftware.com/about/・1回目）
+  - 「Fields: industry, healthcare, system integrators. Worked in Schneider Electric international sales and management team. Experience in PLC programming.」（https://inionsoftware.com/about/・1回目）
+  - 「More than 10 years of experience in B2B sales.」（https://inionsoftware.com/about/・1回目）
+  - 「Earlier on international sales teams of Schneider Electric and Philips. 4 years management experience as CEO.」（https://inionsoftware.com/about/・1回目）
+  - 「Dispone de más de 10 años de experiencia en los entornos de gestión y software, ejerciendo su labor como desarrollador de software y hardware.」（https://inionsoftware.com/es/about/・1回目）
+  - 「22% revenue increase」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「€592,000 in sales」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「A.G. Barr」（https://www.annualreports.com/Companies・3回目）
+  - 「Array Technologies, Inc.」（https://www.annualreports.com/Companies・3回目）
+  - 「Arricano Real Estate PLC」（https://www.annualreports.com/Companies・3回目）
+  - 「ARRIS Group, Inc.」（https://www.annualreports.com/Companies・3回目）
+  - 「ArriVent BioPharma, Inc.」（https://www.annualreports.com/Companies・3回目）
+- 資金調達：
+  - 「UAB Inion LT is implementing the project “R&D investments in the development of an innovative solar power plant generation management system”, No. 13.1.1-LVPA-K-856-01-0080, financed by the European Regional Development Fund (project budget – 957.453,68 EUR, allocated funding – 592.296,81 EUR).」（https://inionsoftware.com/・1回目）
+  - 「The project “Solar-park financial management model implementation is receiving funding support from the 2014-2021 Norwegian Financial Mechanism ‘Business Development, Innovation and SMEs’ Call for Proposals under ICT Focus Area.」（https://inionsoftware.com/・1回目）
+  - 「A1 Investments & Resources Ltd」（https://www.annualreports.com/Companies・3回目）
+  - 「Aberdeen Emerging Markets Investment Company Limited」（https://www.annualreports.com/Companies・3回目）
+  - 「Aberdeen Japan Investment Trust plc」（https://www.annualreports.com/Companies・3回目）
+  - 「AG Mortgage Investment Trust Inc」（https://www.annualreports.com/Companies・3回目）
+  - 「AGNC Investment Corp」（https://www.annualreports.com/Companies・3回目）
+  - 「Alberta Investment Management Corporation」（https://www.annualreports.com/Companies・3回目）
+  - 「Allied Properties Real Estate Investment Trust」（https://www.annualreports.com/Companies・3回目）
+  - 「American Equity Investment Life Holding Co.」（https://www.annualreports.com/Companies・3回目）
+  - 「American Strategic Investment Co.」（https://www.annualreports.com/Companies・3回目）
+  - 「Apartment Investment and Management Company」（https://www.annualreports.com/Companies・3回目）
+- 存続：
+  - 「Inion IoT solutions provide secure connectivity between field devices and energy management systems. The platform supports industry-standard communication protocols and enables reliable real-time data acquisition across renewable energy assets.」（https://inionsoftware.com/・1回目）
+  - 「Inion Software closed the first half of the year with impressive results」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「, a Lithuanian developer of renewable energy management solutions, closed the first half of 2025 with a」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「8i Enterprises Acquisition Corp」（https://www.annualreports.com/Companies・3回目）
+  - 「Acamar Partners Acquisition Corp.」（https://www.annualreports.com/Companies・3回目）
+  - 「Alberton Acquisition Corporation」（https://www.annualreports.com/Companies・3回目）
+  - 「Big Rock Partners Acquisition Corp.」（https://www.annualreports.com/Companies・3回目）
+  - 「Far Point Acquisition Corporation」（https://www.annualreports.com/Companies・3回目）
+  - 「FinServ Acquisition Corp.」（https://www.annualreports.com/Companies・3回目）
+  - 「Closed-End Fund - Equity」（https://www.annualreports.com/Companies・3回目）
+  - 「Haymaker Acquisition Corp. II」（https://www.annualreports.com/Companies・3回目）
+  - 「Iris Acquisition Corp II」（https://www.annualreports.com/Companies・3回目）
+- 自社名で出せる条件：
+  - 「highlights that demand for solar and wind power plants, coupled with the rapid adoption of smart energy storage systems, continues to drive growth both in Lithuania and across Europe. Strengthened」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「Capital Markets」（https://www.annualreports.com/Companies・3回目）
+  - 「Advanced Flower Capital」（https://www.annualreports.com/Companies・3回目）
+  - 「Albion Venture Capital Trust PLC」（https://www.annualreports.com/Companies・3回目）
+  - 「All Active Asset Capital Limited」（https://www.annualreports.com/Companies・3回目）
+  - 「Annaly Capital Management Inc.」（https://www.annualreports.com/Companies・3回目）
+  - 「APi Group Corporation」（https://www.annualreports.com/Companies・3回目）
+  - 「Apiam Animal Health Limited」（https://www.annualreports.com/Companies・3回目）
+  - 「Arch Capital Group Limited」（https://www.annualreports.com/Companies・3回目）
+  - 「Ares Capital Corporation」（https://www.annualreports.com/Companies・3回目）
+  - 「Armadale Capital PLC」（https://www.annualreports.com/Companies・3回目）
+  - 「Associated Capital Group, Inc.」（https://www.annualreports.com/Companies・3回目）
+- 日本対応：
+  - 「Aberdeen Japan Investment Trust plc」（https://www.annualreports.com/Companies・3回目）
+  - 「AVI Japan Opportunity Trust Plc」（https://www.annualreports.com/Companies・3回目）
+  - 「Japan Tobacco Inc.」（https://www.annualreports.com/Companies・3回目）
+- 顧客：
+  - 「Inion Software’s systems are already trusted by large-scale projects in Lithuania and abroad. Recently, together with partners, the company completed the largest energy storage system in Lithuania for Švyturys–Utenos alus brewery. The company is also actively expanding in Italy, working with local partners to integrate its storage control technologies.」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「Customers Bancorp Inc」（https://www.annualreports.com/Companies・3回目）
+- 検索結果の抜粋：
+  - 「Inion software - LinkedIn Lithuania — Inion software - LinkedIn Lithuania LinkedIn Lithuania https://lt.linkedin.com > inion-software」（https://lt.linkedin.com/company/inion-software・3回目）
+  - 「The start-up Inion Software : sales break company records — The start-up Inion Software : sales break company records inionsoftware.com https://inionsoftware.com > blog > the...」（https://inionsoftware.com/blog/the-start-up-inion-software-sales-break-company-records/・3回目）
+  - 「Inion Software closed the first half of the ... - Cleantech Lithuania — Inion Software closed the first half of the ... - Cleantech Lithuania cleantechlithuania.lt https://www.cleantechlithuania.lt > ini...」（https://www.cleantechlithuania.lt/en/naujienos/inion-software-22-augimas-per-pirmaji-pusmeti・3回目）
+  - 「Inion - 2026 Company Profile , Team, Funding & Competitors — Inion - 2026 Company Profile , Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg・3回目）
+  - 「Inion Software — Inion Software inionsoftware.com https://inionsoftware.com」（https://inionsoftware.com/・3回目）
+  - 「Inion - 2026 Company Profile, Team, Funding & Competitors — Inion - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/inion/__tqlEtJn4ySobtV2aC78HpykMNh5YODGFGIrSA99FQHg・3回目）
+  - 「Inion (@inionsoftware) - Facebook — Inion (@inionsoftware) - Facebook Facebook https://www.facebook.com > inionsoftware」（https://www.facebook.com/inionsoftware/・3回目）
+  - 「IniOn Software - Contrarian Ventures — IniOn Software - Contrarian Ventures Contrarian Ventures https://www.cventures.vc > founder」（https://www.cventures.vc/founder/inion-software/・3回目）
+  - 「Inion LT Ltd, Vilnius - company details, code, address — Inion LT Ltd, Vilnius - company details, code, address vz.lt https://rekvizitai.vz.lt > inion_lt」（https://rekvizitai.vz.lt/en/company/inion_lt/・3回目）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索9回）
+
+## Oqton
+- 公式URL：https://oqton.com（given）
+- 売上高：$ 95.5   $ 94.5（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+- 売上高：（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+- 売上高：$ 95.5  $ 94.5（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+- 黒字・収益性：
+  - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/category/blog/・1回目）
+  - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/blog/・1回目）
+  - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/category/blog/?et_blog・1回目）
+  - 「Achieving profitability with 3D printing is a longstanding challenge in industrial manufacturing. Whether you're a part of a small service bureau or a multinational organization with an inventory of thousands of parts, you already know that 3D printing only makes...」（https://oqton.com/blog/?et_blog・1回目）
+  - 「GAAP EPS loss narrowed to $(0.03), or $(0.01) on a non-GAAP basis, while Adjusted EBITDA improved to $2.1 million, reflecting the benefits of higher sales volumes and continued execution of cost reduction initiatives.」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Amid ongoing global risks, the Company remains focused on building top-line momentum in key markets over the coming quarters, while maintaining disciplined cost management to achieve our goal of full-year break-even Adjusted EBITDA.」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Gross profit」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Gross profit margin」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Net loss attributable to 3D Systems Corporation」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Non-GAAP gross profit margin」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Adjusted EBITDA」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Gross profit margin increased to 35.9% compared to 34.6% in the prior year period. Non-GAAP gross profit margin increased to 36.1% compared to 35.0% in the prior year period. Adjusting for software divestitures, non-GAAP gross profit margin increased by 600 basis points.」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+- 売上：
+  - 「3DXpert can help you handle any challenge AM throws at you. When faced with repetitive tasks, or part types that re-occur in your trays, 3DXpert can carry a lot of your load for you. By capturing your knowledge into scripts and using AI to group similar parts together and apply solutions to them, you are free to focus on more value-added tasks.」（https://oqton.com/3dxpert/・1回目）
+  - 「Orient, nest, support, arrange, slice, and optimize」（https://oqton.com/3dxpert/・1回目）
+  - 「Arrange Build Platform」（https://oqton.com/3dxpert/・1回目）
+  - 「Load AMVero results into 3DXPert Build Inspection enabling engineers to dive deep and carry out root cause analysis」（https://oqton.com/amvero/・1回目）
+  - 「Planning and scheduling for additive manufacturing at a factory scale opens up an incredible array of possibilities, but also corresponding challenges. At the top of those challenges is the fact that AM – or colloquially 3D printing – tends to get hung up on a single, time-consuming step.」（https://oqton.com/whitepaper/large-scale-production-planning-whitepaper/・1回目）
+  - 「“Lower cost-per-part and new revenue from impossible geometries.”」（https://oqton.com/meltcontrol/・1回目）
+  - 「Harry Hextall」（https://oqton.com/oqton-at-rapidtct/・1回目）
+  - 「productions are seeking ways to optimise their entire workflow, we asked our Senior Sales Director, Mark McGarry, to give an overview of the MES capabilities of Oqton’s platform, the Manufacturing OS.」（https://oqton.com/additive-user-group-launch/・1回目）
+  - 「Oqton: Revenue, Competitors, Alternatives」（https://growjo.com/company/Oqton・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Oqton・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
+- 資金調達：
+  - 「The cooling and shrinking that occurs after each layer is printed may cause the metal to rise above the powder bed level. These raised tips can damage the re-coater or even cause the roller to stop its motion.」（https://oqton.com/3dxpert/・1回目）
+  - 「What is the typical Return on Investment (ROI) for an MES for Additive Manufacturing?」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「The last decade has seen manufacturing change at a staggering rate. Production series are shrinking, product lifespans are shortening, and custom designs are becoming the norm. This trend is challenging conventional manufacturing planning software to unprecedented...」（https://oqton.com/category/blog/page/2/?et_blog・1回目）
+  - 「The last decade has seen manufacturing change at a staggering rate. Production series are shrinking, product lifespans are shortening, and custom designs are becoming the norm. This trend is challenging conventional manufacturing planning software to unprecedented...」（https://oqton.com/blog/page/2/?et_blog・1回目）
+  - 「Tom Gabriel, R&D Manager for Additive Manufacturing at Emerson Automation Solutions, also praised collaboration with the software development team in his customer presentation.」（https://oqton.com/additive-user-group-launch/・1回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
+  - 「Total Funding」（https://growjo.com/company/Oqton・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Oqton・3回目）
+  - 「's total funding is」（https://growjo.com/company/Oqton・3回目）
+  - 「Valuation」（https://growjo.com/company/Oqton・3回目）
+  - 「Investor Relations」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+  - 「Investment Casting Patterns」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+- 存続：
+  - 「Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments. Our top...」（https://oqton.com/category/blog/page/3/?et_blog・1回目）
+  - 「Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments. Our top...」（https://oqton.com/blog/page/3/?et_blog・1回目）
+  - 「We closed the day with a presentation about simplifying quoting and payments with DigiFabster. The web-based solution is helping manufacturers process quotes in minutes, generating instant quotes and orders 24/7 online. This is another step towards full automation of additive production.」（https://oqton.com/additive-user-group-launch/・1回目）
+  - 「3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton」（https://oqton.com/category/press-release/・1回目）
+  - 「3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton | 3D Systems」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+  - 「3D Systems to Drive Adoption of Additive Manufacturing in Production Environments with the Acquisition of Oqton」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+  - 「With the acquisition of Oqton and the commitment to continue its focus on transforming and optimizing digital manufacturing systems, 3D Systems will also expand availability to the entire additive manufacturing industry and customer base its most advanced software platforms - 3DXpert」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+  - 「3D Systems Acquisition of Oqton Conference Call Details」（https://www.3dsystems.com/press-releases/3d-systems-drive-adoption-additive-manufacturing-production-environments-acquisition・3回目）
+  - 「Acquisitions and other investments, net of cash acquired」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「amortization of intangible assets, a non-cash expense, as 3D Systems’ intangible assets were primarily acquired in connection with business combinations;」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「costs incurred in connection with acquisitions and divestitures, such as legal, consulting and advisory fees;」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+  - 「Acquisition and divestiture-related expense」（https://investor.3dsystems.com/news/news-details/2026/3D-Systems-Reports-First-Quarter-2026-Financial-Results/default.aspx・3回目）
+- 自社名で出せる条件：
+  - 「Open platform for all Hardware OEMs in AM」（https://oqton.com/・1回目）
+  - 「3DXpert is the best solution to support the disruptive shift from rapid prototyping to serial AM production.」（https://oqton.com/3dxpert/・1回目）
+  - 「Comprehensive documentation is embedded in 3DXpert; you can access it quickly by pressing F1. This works context sensitive and will open the relevant chapter for what you are working on. If you can’t find what you are looking for, you can submit a case to our support team.」（https://oqton.com/3dxpert/・1回目）
+  - 「Improve quality, reduce scrap, and cut costs through rapid root cause analysis.」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「Open API’s to connect with your ERP, PLM and other infrastructure」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「Works with any 3D Printer OEM」（https://oqton.com/amvero/・1回目）
+  - 「AMVero is a printer agnostic solution, supports any metal 3D printer OEM.」（https://oqton.com/amvero/・1回目）
+  - 「Let’s talk additive at RAPID+TCT 2023」（https://oqton.com/category/blog/page/2/?et_blog・1回目）
+  - 「Additive manufacturing (AM) is not just the future of factories, it’s already here, taking efficiency and innovation to new heights. And there’s no place like RAPID+TCT to see inspiring applications and the latest developments in the world of additive. Everything you...」（https://oqton.com/category/blog/page/2/?et_blog・1回目）
+  - 「Let’s talk additive at RAPID+TCT 2023」（https://oqton.com/blog/page/2/?et_blog・1回目）
+  - 「Additive manufacturing (AM) is not just the future of factories, it’s already here, taking efficiency and innovation to new heights. And there’s no place like RAPID+TCT to see inspiring applications and the latest developments in the world of additive. Everything you...」（https://oqton.com/blog/page/2/?et_blog・1回目）
+  - 「Let’s talk additive at RAPID+TCT 2023 | Oqton」（https://oqton.com/oqton-at-rapidtct/・1回目）
+- 日本対応：
+  - 「3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.」（https://oqton.com/3dxpert/・1回目）
+  - 「3D Systems Japan 77回視聴 4 年前」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+  - 「3D Systems Japan」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+  - 「見逃し配信！JIMTOF2024セミナー 富士高周波工業(株)様【Mastercam/日本のモノづくりを支える会社/ジェービーエムエンジニアリング】」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+  - 「【日本人だけがハマる】コレ知らないと英語は聞こえないまま...英会話教室は教えないリスニングの仕組み」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+  - 「ヒュンダイ「トヨタ超えたわｗ」→結果、日本撤退で崩壊寸前の手遅れに【海外の反応】」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+  - 「【衝撃！真っ直ぐ作れと大炎上】中国は直線、日本はぐにゃぐにゃ…「遠回りだ」と罵られた日本の線路が開業後に大絶賛されたワケ」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+  - 「粋な日本、他 3 チャンネル」（https://www.youtube.com/watch?v=fBI3eAj0INA・3回目）
+- 顧客：
+  - 「Handle every file format your customers send with parametric, automation-ready build preparation and Supportless enabling strategies.」（https://oqton.com/3dxpert/・1回目）
+  - 「Trusted by Customers Across Many Industries」（https://oqton.com/3dxpert/・1回目）
+  - 「Have a look at how successful our customers are」（https://oqton.com/3dxpert/・1回目）
+  - 「Reduce costly mistakes caused by manual, disconnected processes and ensure part and material quality」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「Reduce costly mistakes caused by manual disconnected processes」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「Seamlessly access your catalogued products. Allow your customers and internal teams to easily find, request, and order approved parts directly from the digital catalogue. Connects with approved suppliers who can fulfill the request and share all necessary quality reports directly through the platform.」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「Have a look at how successful our customers are」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「streamlining the entire workflow from order to shipment enables you to deliver parts to customers faster.」（https://oqton.com/manufacturing-os-mes/・1回目）
+  - 「For our existing 3DXpert Build Inspection Customers」（https://oqton.com/amvero/・1回目）
+  - 「For our existing MOS Customers」（https://oqton.com/amvero/・1回目）
+  - 「Have a look at how successful our customers are」（https://oqton.com/amvero/・1回目）
+  - 「giving customers flexibility based on their operational requirements.」（https://oqton.com/amvero/・1回目）
+- 検索結果の抜粋：
+  - 「Oqton raises 40M Series A financing round — Oqton raises 40M Series A financing round Oqton https://oqton.com > Press Release」（https://oqton.com/oqton-raises-40m-series-a-financing-round/・3回目）
+  - 「Oqton : Revenue , Competitors, Alternatives - Growjo — Oqton : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Oqton」（https://growjo.com/company/Oqton・3回目）
+  - 「How to succeed with additive manufacturing? - Oqton — How to succeed with additive manufacturing? - Oqton Oqton https://oqton.com > Blog」（https://oqton.com/how-to-succeed-with-additive-manufacturing/・3回目）
+  - 「Oqton Uses AI And ML To Automate Manufacturing Workflows — Oqton Uses AI And ML To Automate Manufacturing Workflows Forbes https://www.forbes.com > 2023/11/29」（https://www.forbes.com/sites/jimvinoski/2023/11/29/oqton-uses-ai-and-ml-to-automate-manufacturing-workflows/・3回目）
+  - 「Oqton investors raise $40M Series A funding , includes Sandvik — Oqton investors raise $40M Series A funding , includes Sandvik develop3d https://develop3d.com > oqton-invest...」（https://develop3d.com/3d-printing/oqton-investors-40m-series-a-funding-includes-sandvik/・3回目）
+  - 「3D Systems acquires Oqton , Inc. — deal terms - VectorShift — 3D Systems acquires Oqton , Inc. — deal terms - VectorShift VectorShift https://vectorshift.ai > Research > Deals」（https://vectorshift.ai/research/deals/3d-systems-oqton-2021・3回目）
+  - 「Oqton : Manufacturing Software Solutions - 3DXpert, MOS ... — Oqton : Manufacturing Software Solutions - 3DXpert, MOS ... Oqton https://oqton.com」（https://oqton.com/・3回目）
+  - 「Our History - Oqton — Our History - Oqton Oqton https://oqton.com > history」（https://oqton.com/history/・3回目）
+  - 「How Oqton is disrupting manufacturing software with AI and ... — How Oqton is disrupting manufacturing software with AI and ... Figma https://www.figma.com > customers」（https://www.figma.com/customers/how-oqton-is-disrupting-manufacturing-software/・3回目）
+  - 「Hubb to acquire 3D Systems' Oqton and 3DXpert software ... — Hubb to acquire 3D Systems' Oqton and 3DXpert software ... Metal Additive Manufacturing magazine https://www.metal-am.com > hubb-to...」（https://www.metal-am.com/hubb-to-acquire-3d-systems-oqton-and-3dxpert-software-platforms/・3回目）
+  - 「Oqton AI-Driven Software for Dental Labs Integrates Additive ... — Oqton AI-Driven Software for Dental Labs Integrates Additive ... 3D Systems https://www.3dsystems.com > oqton-a...」（https://www.3dsystems.com/press-releases/oqton-ai-driven-software-dental-labs-integrates-additive-manufacturing-workflow・3回目）
+  - 「Oqton | LinkedIn — Oqton | LinkedIn LinkedIn https://kr.linkedin.com > oqton」（https://kr.linkedin.com/company/oqton・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部25頁・検索8回）
+
+## Werk24
+- 公式URL：https://werk24.io（given）
+- 黒字・収益性：
+  - 「Track the signals that show quoting is not only faster, but also more predictable, competitive, and profitable.」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+  - 「Filter out non-winnable RFQs and prioritize profitable ones.」（https://werk24.io/use-cases/feasibility-analysis・1回目）
+- 売上：
+  - 「Per product — published, no sales call required.」（https://werk24.io/・1回目）
+  - 「We match your ERP or PLM schema, extract precisely the data you need — and typically write it straight back into your system (SAP, Salesforce, …).」（https://werk24.io/・1回目）
+  - 「Write-back included — results land directly in SAP, Salesforce or your PLM」（https://werk24.io/・1回目）
+  - 「Per product — published, no sales call required.」（https://werk24.io/product・1回目）
+  - 「Every field carries confidence + source coordinates」（https://werk24.io/product・1回目）
+  - 「Per product — published, no sales call required.」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+  - 「In most shops today, quoting is still based on estimates and intuition. Actual costs are only reviewed much later by cost control, meaning valuable insights arrive too late to improve the next quote.」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+  - 「Per product — published, no sales call required.」（https://werk24.io/use-cases/feasibility-analysis・1回目）
+  - 「E-mail, Salesforce or」（https://werk24.io/use-cases/feasibility-analysis・1回目）
+  - 「Per product — published, no sales call required.」（https://werk24.io/use-cases/supplier-matching・1回目）
+  - 「Integrate the solution into your existing workflows (e.g., Salesforce, SAP S/4HANA).」（https://werk24.io/use-cases/supplier-matching・1回目）
+  - 「Per product — published, no sales call required.」（https://werk24.io/use-cases/erp-data-entry・1回目）
+- 資金調達：
+  - 「— primary process tags to seed work centers or templates.」（https://werk24.io/use-cases/erp-data-entry・1回目）
+  - 「Werk24 raised its sheet limit from A2 to A1 in July 2026, and has since raised it to A0 (841 × 1189 mm).」（https://werk24.io/blog・1回目）
+  - 「Interviews with founders and investors」（https://www.munich-startup.de/en/startups-and-ecosystem/werk24・3回目）
+  - 「Funding Types」（https://www.munich-startup.de/en/startups-and-ecosystem/werk24・3回目）
+  - 「Overview of all funding options」（https://www.munich-startup.de/en/startups-and-ecosystem/werk24・3回目）
+  - 「Investors」（https://www.munich-startup.de/en/startups-and-ecosystem/werk24・3回目）
+  - 「The central startup platform for Munich's startup ecosystem and the region. Locally rooted, globally ambitious. We connect founders, investors and companies and foster innovation in the region.」（https://www.munich-startup.de/en/startups-and-ecosystem/werk24・3回目）
+- 存続：
+  - 「A closed loop changes that. Every finished job delivers hard data — machine time, tooling, QA, even scrap — which flows directly back into your pricing model. The system self‑calibrates continuously, so each new part makes the next quote more accurate.」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+  - 「Closed‑loop pricing: quote → production → measured cost → learning」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+- 自社名で出せる条件：
+  - 「Werk24 API」（https://werk24.io/・1回目）
+  - 「API pricing」（https://werk24.io/・1回目）
+  - 「API reference and integration guides for developers.」（https://werk24.io/・1回目）
+  - 「Get an API key — €1.25/page」（https://werk24.io/・1回目）
+  - 「Quality teams — suppliers & OEMs」（https://werk24.io/・1回目）
+  - 「01 · Werk24 API」（https://werk24.io/・1回目）
+  - 「REST API, webhooks & a Python client」（https://werk24.io/・1回目）
+  - 「Explore the API」（https://werk24.io/・1回目）
+  - 「Suppliers auto-balloon drawings and certify AS9102 / FAIR reports in minutes. OEMs request them across their supplier base and collect approved, tamper-evident results in one place.」（https://werk24.io/・1回目）
+  - 「Sheet rebranding — anonymize & restyle drawings to your template」（https://werk24.io/・1回目）
+  - 「Delivered over the same API and infrastructure」（https://werk24.io/・1回目）
+  - 「Read the title block and body, then create the material master automatically — part number, material, raw-stock size, net weight and routing hints — written straight back via BAPI.」（https://werk24.io/・1回目）
+- 顧客：
+  - 「How our customers use Werk24」（https://werk24.io/・1回目）
+  - 「Read the Laserhub case study」（https://werk24.io/・1回目）
+  - 「How our customers use Werk24」（https://werk24.io/product・1回目）
+  - 「How our customers use Werk24」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+  - 「Read the case study →」（https://werk24.io/use-cases/accelerated-quoting・1回目）
+  - 「How our customers use Werk24」（https://werk24.io/use-cases/feasibility-analysis・1回目）
+  - 「Triage of incoming drawings is still manual in many shops. Engineers read PDFs, decode tolerances, check threads and materials, and then call customers to renegotiate. It is slow, inconsistent, and expensive — and the worst RFQs steal time from the winnable ones.」（https://werk24.io/use-cases/feasibility-analysis・1回目）
+  - 「% of suggestions accepted by customers.」（https://werk24.io/use-cases/feasibility-analysis・1回目）
+  - 「How our customers use Werk24」（https://werk24.io/use-cases/supplier-matching・1回目）
+  - 「Pin suppliers for specific customers or categories. Pinned invites still include reason codes.」（https://werk24.io/use-cases/supplier-matching・1回目）
+  - 「How our customers use Werk24」（https://werk24.io/use-cases/erp-data-entry・1回目）
+  - 「How our customers use Werk24」（https://werk24.io/case-studies/precision-components-cost-estimation・1回目）
+- 検索結果の抜粋：
+  - 「Werk24 vs Generalist Solutions: Why AI-Based… — Werk24 vs Generalist Solutions: Why AI-Based… Werk24 https://werk24.io > Blog」（https://werk24.io/blog/werk24-vs-generalist-solutions-why-ai-based-specialization-in-engineering-drawings-wins・3回目）
+  - 「Werk24 - 2026 Company Profile, Team & Competitors - Tracxn — Werk24 - 2026 Company Profile, Team & Competitors - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/werk24/__HWzBU-AhyeonILx5jgIv2GwF5uDYtdLAyec4ZcNpQV8・3回目）
+  - 「Werk24 | Munich Startup Platform — Werk24 | Munich Startup Platform Munich Startup https://www.munich-startup.de > wer...」（https://www.munich-startup.de/en/startups-and-ecosystem/werk24・3回目）
+  - 「Pricing | Werk24 — PMI Extraction & RFQ Feasibility — Pricing | Werk24 — PMI Extraction & RFQ Feasibility Werk24 https://werk24.io > pricing」（https://werk24.io/pricing・3回目）
+  - 「Werk24 (@ werk24 .gmbh) - Facebook — Werk24 (@ werk24 .gmbh) - Facebook Facebook https://www.facebook.com > ... > Management Service」（https://www.facebook.com/werk24.gmbh/・3回目）
+  - 「Dr. Jochen Mattes – CEO and Owner @ WERK24 - LinkedIn — Dr. Jochen Mattes – CEO and Owner @ WERK24 - LinkedIn LinkedIn https://de.linkedin.com > jochenmattes」（https://de.linkedin.com/in/jochenmattes・3回目）
+  - 「Werk24 API Documentation | PMI Extraction & RFQ Feasibility — Werk24 API Documentation | PMI Extraction & RFQ Feasibility Werk24 https://werk24.io > documentation」（https://werk24.io/documentation・3回目）
+  - 「Privacy Policy | Werk24 — Privacy Policy | Werk24 Werk24 https://werk24.io > privacy-policy」（https://werk24.io/privacy-policy・3回目）
+  - 「Werk24 Python Client - PyPI — Werk24 Python Client - PyPI PyPI https://pypi.org > project > werk24」（https://pypi.org/project/werk24/・3回目）
+  - 「API V2 Documentation: Home - Werk24 — API V2 Documentation: Home - Werk24 Werk24 https://v2.docs.werk24.io」（https://v2.docs.werk24.io/・3回目）
+  - 「Werk24 Significantly Accelerates Data Extrac… — Werk24 Significantly Accelerates Data Extrac… Werk24 https://werk24.io > Blog」（https://werk24.io/blog/werk24-significantly-accelerates-data-extraction-from-technical-drawings-a-behind-the-scenes-look・3回目）
+- 設立：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）
+- 所在地：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）
+- 日本対応：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部27頁・検索8回）
