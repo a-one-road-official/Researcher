@@ -5,11 +5,15 @@ input: researcher/inputs/material_traders.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
 profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
   設立: [設立, 創業, founded, established, since]
   従業員数: [従業員, 社員数, employees]
   売上高: [売上高, 売上収益, revenue, net sales]
 
 evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
   ビジネスモデル: [ビジネスモデル, 収益構造, 事業系統図, 商流, 口銭, 仲介, 在庫販売, 直送, business model, how we make money, value-added]
   誰に: [顧客, 取引先, 販売先, 主要顧客, 需要家, 顧客数, 取引社数, customers, end markets]
   何を: [製品, 商品, 取扱, 鋼材, 非鉄, アルミ, ステンレス, 銅, チタン, レアメタル, products, metals]
@@ -22,6 +26,9 @@ evidence:
 subpage_keywords: [IR, 投資家, 決算説明, 有価証券報告書, 統合報告, ビジネスモデル, 事業紹介, 会社概要, 沿革, 中期経営計画, investor, about, history, how it works, pricing, membership, franchise, subscription]
 
 external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} shareholders ownership investors parent company"
+  - "{name} 設立 OR 創業 OR founded"
   - "{name} ビジネスモデル 収益構造"
   - "{name} 決算説明資料 セグメント"
   - "{name} 社長 インタビュー"

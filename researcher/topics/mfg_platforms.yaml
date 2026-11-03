@@ -5,11 +5,15 @@ input: researcher/inputs/mfg_platforms.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
 profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
   設立: [設立, 創業, founded, established, since]
   従業員数: [従業員, 社員数, employees, staff]
   売上高: [売上, revenue, turnover]
 
 evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
   誰から払われるか: [発注者, 受注企業, 加工会社, 会員企業, 掲載企業, 出展, 買い手, 売り手, buyers, suppliers, manufacturers, shops, members, customers]
   お金の形: [月額, 年会費, 会費, 有料会員, プレミアム, 手数料, 成約手数料, 掲載料, 広告, 課金, subscription, membership, fee, commission, take rate, listing, advertising, per month, per year, pricing, plan]
   規模: [会員数, 登録企業, 登録社数, 利用企業, 社が登録, 件数, 案件数, ユーザー数, members, registered, suppliers, users, orders, GMV, 流通額]
@@ -20,6 +24,9 @@ evidence:
 subpage_keywords: [料金, 価格, プラン, 会員, 会社概要, 沿革, 企業情報, about, pricing, plans, membership, company, history, press, news, 採用]
 
 external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} shareholders ownership investors parent company"
+  - "{name} 設立 OR 創業 OR founded"
   - "{name} 会員数 料金 ビジネスモデル"
   - "{name} 売上 従業員 創業"
   - "{name} 社長 インタビュー 創業のきっかけ"

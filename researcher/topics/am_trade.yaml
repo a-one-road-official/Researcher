@@ -5,6 +5,8 @@ columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
 # 会社概要の表から、見出しの言い方ごとに拾う
 profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
   資本金: [資本金]
   従業員数: [従業員, 社員数, 従業者, 人員]
   設立: [設立, 創業, 創立]
@@ -20,6 +22,8 @@ profile_keys:
 
 # 文章のうち、この言葉を含む行をそのまま引用する
 evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
   輸入: [輸入, 総代理店, 日本代理店, 正規代理店, 販売代理店, 独占販売, 国内販売権, 代理店契約, distributor, import]
   輸出: [輸出, 海外販売, 海外向け, 海外売上, 海外営業, 貿易, export, overseas, 海外拠点, 現地法人]
   採用: [採用実績, 採用人数, 新卒採用, 中途採用, 募集職種, 名採用, 名入社, 職種, 初任給, 募集要項]
@@ -41,6 +45,9 @@ image_keywords: [組織, soshiki, organization, organisation, chart, 採用, rec
 
 # 3回目：公式以外の情報源（名前の表記ゆれは自動で当てる）
 external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} shareholders ownership investors parent company"
+  - "{name} 設立 OR 創業 OR founded"
   - "{name} 会社概要 資本金 従業員"
   - "{name} 採用 新卒 中途 採用実績"
   - "{name} 社長 インタビュー"

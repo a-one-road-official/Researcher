@@ -19,4 +19,4 @@ topics:
   field6_gap: {run: true, shards: 8, per_run: 4}  # 2026-11-03 対象6分野33小区分：国内規模・参入社数・需給の差・法律・国の予算
   wl_field6: {run: true, shards: 8, per_run: 3}  # 2026-11-03 対象6分野33小区分の買い手向けホワイトラベルソフト（世界）と提供企業の黒字の証拠。第2段で会社ごとに黒字を三重確認
   wl_abc: {run: true, shards: 8, per_run: 1}  # 2026-11-03 問い合わせフォーム用 wl-A DfAM／wl-B 図面読み取り／wl-C 3D CAD（wl-Dは自作）の世界のホワイトラベルソフトと黒字の証拠
-  wl_profit: {run: true, shards: 6, per_run: 1}  # 2026-11-03 第2段：ホワイトラベル候補の提供企業の黒字・売上・存続を1社ずつ三重確認
+  wl_profit: {run: true, shards: 6, per_run: 1}  # 2026-11-03 第2段：ホワイトラベル候補9社の可否・黒字・売上・存続・創業年度・株主構成を三重確認

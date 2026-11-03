@@ -6,6 +6,8 @@ input: researcher/inputs/wl_profit.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
 profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
   設立: [Founded, Established, founded in, 設立, 創業]
   従業員数: [Employees, Team size, employees, 従業員]
   所在地: [Headquarters, Location, HQ, 所在地]
@@ -13,6 +15,8 @@ profile_keys:
   代表者: [CEO, Founder, Co-founder, 代表]
 
 evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
   黒字・収益性: [profitable, profitability, profit, EBITDA, net income, net loss, operating income, cash-flow positive, cash flow positive, break-even, breakeven, bootstrapped, self-funded, Jahresüberschuss, Gewinn, Verlust, pelnas, nuostolis, 黒字, 赤字, 営業利益, 純利益]
   売上: [revenue, ARR, turnover, sales, Umsatz, pajamos, 売上]
   資金調達: [raised, funding, Series A, Series B, seed, investment, investor, valuation, 資金調達]
@@ -27,6 +31,9 @@ subpage_keywords: [about, company, team, partner, partners, reseller, white, oem
 image_keywords: [team, about, partner]
 
 external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} shareholders ownership investors parent company"
+  - "{name} 設立 OR 創業 OR founded"
   - "{name} revenue profitable"
   - "{name} EBITDA net income annual report"
   - "{name} funding raised"

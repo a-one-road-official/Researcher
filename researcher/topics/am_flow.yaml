@@ -5,6 +5,8 @@ input: researcher/inputs/am_trade.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
 profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
   設立: [設立, 創業, 創立]
   従業員数: [従業員, 社員数, 従業者]
   売上高: [売上高, 売上, 年商]
@@ -12,6 +14,8 @@ profile_keys:
   取引先: [主要取引先, 取引先, 仕入先, 販売先, 納入先]
 
 evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
   誰から: [総代理店, 日本代理店, 正規代理店, 販売代理店, 代理店契約, 独占販売, 国内販売権, 輸入, 取扱メーカー, 取扱ブランド, 提携, 自社開発, 自社製, 製造元, 開発元, distributor, reseller, partner]
   何をする: [輸入販売, 販売, 受託, 造形サービス, 受託造形, 試作, レンタル, リース, 保守, 技術サポート, 教育, トレーニング, 講習, セミナー, コンサル, 開発支援, 設計]
   誰に: [顧客, お客様, 納入実績, 導入実績, 導入事例, 導入先, 取引先, 販売先, 業界, ユーザー]
@@ -32,6 +36,9 @@ subpage_keywords: [会社概要, 会社案内, 企業情報, 事業, 製品, 取
 image_keywords: [料金, 価格, price, 事例, case, 取引, 実績, 沿革, history]
 
 external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} shareholders ownership investors parent company"
+  - "{name} 設立 OR 創業 OR founded"
   - "{name} 代理店 契約"
   - "{name} 導入事例"
   - "{name} 価格 OR 料金"

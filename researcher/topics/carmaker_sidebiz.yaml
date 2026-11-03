@@ -5,11 +5,15 @@ input: researcher/inputs/carmaker_sidebiz.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
 profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
   設立: [founded, established, since, 設立, 創業]
   従業員数: [employees, staff, people, 従業員]
   売上高: [revenue, turnover, sales, 売上]
 
 evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
   他社向けサービス: [engineering services, consulting, consultancy, contract, for OEMs, for clients, our clients, customers include, on behalf of, development partner, white label, turnkey, design services, 受託, 開発支援]
   部品・技術の供給: [supply, supplier, supplies, component, components, systems, battery, powertrain, chassis, structure, structures, monocoque, composite, carbon fibre, carbon fiber, casting, additive, printed, production for]
   ライセンス・ブランド: [license, licence, licensing, licensed, royalty, IP, patent, brand, merchandise, lifestyle, collaboration, partnership]
@@ -23,6 +27,9 @@ evidence:
 subpage_keywords: [engineering, services, consulting, technology, technologies, solutions, about, history, company, capabilities, industries, clients, partners, case, projects, aerospace, defence, news, press]
 
 external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} shareholders ownership investors parent company"
+  - "{name} 設立 OR 創業 OR founded"
   - "{name} engineering services clients other industries"
   - "{name} revenue turnover employees"
   - "{name} supplies components to OEM"
