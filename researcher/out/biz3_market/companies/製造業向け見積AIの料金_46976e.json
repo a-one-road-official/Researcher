@@ -1,0 +1,330 @@
+{
+ "name": "製造業向け見積AIの料金",
+ "en": "quotation AI for manufacturers Japan pricing",
+ "aliases": [
+  "見積AI",
+  "見積もり自動化 製造業",
+  "AI見積 料金"
+ ],
+ "context": "①Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:05:57.664736+00:00",
+ "evidence": {
+  "競合": [
+   {
+    "quote": "AI見積書作成・見積自動化とは？製造業・建設業のAI見積もりツール比較と導入効果を解説【2026年版】 | 株式会社renue",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI見積書作成・見積自動化とは？製造業・建設業のAI見積もりツール比較と導入効果を解説【2026年版】",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業のAI見積書作成ツールを比較",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "renueが社内で運用しているシステムをサービス化したものです",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "何ができるか、どう動くかをサービスページでご覧ください",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "発表時は一部利用者に限定した提供で、担当者による確認・調整を前提としています",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ガミのサービス",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI図面解析ツールとは区別して比較",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な案件で正解の見積と比較し、項目の漏れ・数量・単価・総額の誤差を分けて評価し、人間が最終確認してください",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AIチャットボットの費用比較｜料金の単位・総費用と効果の確かめ方",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "記事一覧へ戻る",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "renueの実装支援サービス",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "同種の課題を抱えている場合は、関連サービスをご検討ください",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "この記事に特に関連するサービス",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "全サービスを見る",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "主に、見積作成時間の大幅削減（手作業で長時間かかる作業を短時間化し営業リードタイムを劇的に短縮）、属人化の解消（ベテラン依存を脱しデータに基づき標準化、誰が作っても一定品質）、赤字案件の防止（過去利益率の分析で赤字リスクを事前にアラート）、提案力の強化（初回商談で概算見積を即提示し顧客信頼感を向上）、です",
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://metoree.com/categories/7965/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abkss.jp/blog/250",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jet-mfg.com/dx/quotation-management-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-force.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caddi.com/ja-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://connected-base.jp/blog/ai-sekisan-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizmowa.com/jp/media/seizou_ai_hiyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koromo.io/blog/ai-development-manufacturing-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uravation.com/media/ai-introduction-cost-guide-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E8%A6%8B%E7%A9%8D%E3%82%BD%E3%83%95%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fleacia.jp/post/manufacturing-quote-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://connected-base.jp/blog/mitsumori-satei-ai-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digifabster.com/product/replace-repetition-with-intelligence-the-power-of-ai-in-manufacturing-quoting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealhub.io/glossary/ai-quoting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threekit.com/blog/7-ai-quoting-tools-for-manufacturers-in-2026-ranked-by-field-quote-speed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uipath.com/solutions/industry/manufacturing-automation/agentic-commercial-pricing/quote-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Machinists/comments/1kfivgk/is_anyone_using_ai_for_quoting/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amfg.ai/post/real-time-quoting-with-ai-advancing-manufacturing-competitiveness",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業向け見積AIの料金",
+   "results": [
+    "https://metoree.com/categories/7965/",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://www.abkss.jp/blog/250",
+    "https://jet-mfg.com/dx/quotation-management-system/",
+    "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "https://www.youtube.com/watch?v=y037jXkE7UI",
+    "https://takumi-force.jp/",
+    "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://bizmowa.com/jp/media/seizou_ai_hiyou/"
+   ]
+  },
+  {
+   "query": "製造業向け見積AIの料金 料金 相場",
+   "results": [
+    "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://www.abkss.jp/blog/250",
+    "https://takumi-force.jp/",
+    "https://metoree.com/categories/7965/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html",
+    "https://www.youtube.com/watch?v=y037jXkE7UI",
+    "https://caddi.com/ja-jp/"
+   ]
+  },
+  {
+   "query": "製造業向け見積AIの料金 規模別 社数",
+   "results": [
+    "https://metoree.com/categories/7965/",
+    "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://www.abkss.jp/blog/250",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://takumi-force.jp/",
+    "https://caddi.com/ja-jp/",
+    "https://go.orixrentec.jp/rentecinsight/it/article-619",
+    "https://connected-base.jp/blog/ai-sekisan-hikaku/"
+   ]
+  },
+  {
+   "query": "製造業向け見積AIの料金 比較 一覧",
+   "results": [
+    "https://egghead.co.jp/blog/ljr8oub5vwt",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://metoree.com/categories/7965/",
+    "https://takumi-force.jp/",
+    "https://caddi.com/ja-jp/",
+    "https://mono.ipros.com/cg2/%E8%A6%8B%E7%A9%8D%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html",
+    "https://aismiley.co.jp/category_page/manufacturing/",
+    "https://jet-mfg.com/dx/quotation-management-system/",
+    "https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026"
+   ]
+  },
+  {
+   "query": "quotation AI for manufacturers Japan pricing",
+   "results": [
+    "https://digifabster.com/product/replace-repetition-with-intelligence-the-power-of-ai-in-manufacturing-quoting/",
+    "https://dealhub.io/glossary/ai-quoting-software/",
+    "https://www.threekit.com/blog/7-ai-quoting-tools-for-manufacturers-in-2026-ranked-by-field-quote-speed",
+    "https://www.uipath.com/solutions/industry/manufacturing-automation/agentic-commercial-pricing/quote-pricing",
+    "https://www.reddit.com/r/Machinists/comments/1kfivgk/is_anyone_using_ai_for_quoting/",
+    "https://www.amfg.ai/post/real-time-quoting-with-ai-advancing-manufacturing-competitiveness",
+    "https://worksbuddy.ai/blogs/what-is-the-best-quotation-software-for-manufacturing-companies",
+    "https://www.japan.go.jp/kizuna/2025/01/ai_in_manufacturing.html",
+    "https://www.taskade.com/blog/ai-quoting-software",
+    "https://book.st-hakky.com/en/business/japan-ai-product-comparison-pricing"
+   ]
+  },
+  {
+   "query": "製造業向け見積AIの料金 2025 OR 2026",
+   "results": [
+    "https://metoree.com/categories/7965/",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://mono.ipros.com/cg2/%E8%A6%8B%E7%A9%8D%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/250422.html",
+    "https://takumi-force.jp/",
+    "https://www.abkss.jp/blog/250",
+    "https://jet-mfg.com/dx/quotation-management-system/",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://go.orixrentec.jp/rentecinsight/it/article-619"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ26頁・検索6回）",
+  "単価・価格": "記載なし（読んだ26頁・検索6回）",
+  "取り分・マージン": "記載なし（読んだ26頁・検索6回）",
+  "市場規模・台数": "記載なし（読んだ26頁・検索6回）",
+  "補助金": "記載なし（読んだ26頁・検索6回）"
+ }
+}

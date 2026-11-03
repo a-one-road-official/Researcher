@@ -1,0 +1,640 @@
+{
+ "name": "Metal-Base",
+ "aliases": [
+  "Metal 1.0",
+  "Metal Base"
+ ],
+ "context": "卓上金属AM（Aone_131 検証順位7位）",
+ "researched_at": "2026-11-03T15:05:44.894949+00:00",
+ "official_url": "https://www.metal-base.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "装置価格": [
+   {
+    "quote": "True LPBF under €10k",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3DPOD 310:Metal LPBF Under $10k with Tom Bakker, Metal-Base",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "\"Metal Base & Scrap Labs Usher in an Ultra-Low-Cost Sub-$10,000 Metal LPBF Evolution\"",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "\"MetalBase: An Engineer's €10,000 LPBF Machine\"",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "\"Metal-Base pre-launches sub-€10,000 LPBF metal 3D printer on Kickstarter\"",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Metal 3D Printing for Under €10k: Meet The Metal 1.0",
+    "url": "https://www.youtube.com/@Metal-Base-sp4hb",
+    "pass": 3
+   }
+  ],
+  "消耗品・粉末": [
+   {
+    "quote": "Print dense 316L stainless steel with a compact, floor‑standing LPBF system built for labs, startups, enthusiast makers, and R&D teams. Standard power, straightforward install.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "316L stainless, Inconel 718, bronze (CuSn); copper in development",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inert gas",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nitrogen",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "316L turbine",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "316L boaty",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thin layer of powder across the plate.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Depowder",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recover powder; reveal parts.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LPBF involves laser and fine metal powder. Metal‑Base is designed with interlocks and an inert nitrogen atmosphere, and ships with clear handling procedures. Operators must follow local standards and wear appropriate PPE.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "316L stainless — production‑grade results",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Experiencing true LPBF metal 3D printing in person makes all the difference. Reading specifications is essential, but witnessing the Metal 1.0 live and handling dense samples tells the full story. Come find our booth at these upcoming events to observe the machine printing live, examine our verified 316L and SS CX test samples, and discuss how compact LPBF can fit into your lab or workshop.",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "We brought one of our first production systems to the AM for Production event to showcase its mechanics in action. Running live dry-run print cycles directly on the exhibition floor, we demonstrated the precise coordination of the XY gantry, the recoater, and the dual-piston powder supply working seamlessly under continuous load.",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "We had a blast at Maker Faire Hannover! 🎉 The Metal 1.0 ran live for three days straight without a single problem, printing solid stainless steel 316L parts like Pikachu and Rocky from Project Hail Mary.",
+    "url": "https://www.youtube.com/@Metal-Base-sp4hb",
+    "pass": 3
+   }
+  ],
+  "日本対応・保守": [
+   {
+    "quote": "Bronze (CuSn) — 94+% density supported",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   }
+  ],
+  "認証": [
+   {
+    "quote": "Process",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See recent builds →",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Klipper‑based motion and open‑source slicing for a familiar workflow.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Specs at a glance",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Near‑full Stainless steel and Inconel, High density Bronze",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Klipper; open‑source slicing using OrcaSlicer",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LPBF involves laser and fine metal powder. Metal‑Base is designed with interlocks and an inert nitrogen atmosphere, and ships with clear handling procedures. Operators must follow local standards and wear appropriate PPE.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full safety guide",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "316L stainless — production‑grade results",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inconel 718 — production-grade results",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "Experiencing true LPBF metal 3D printing in person makes all the difference. Reading specifications is essential, but witnessing the Metal 1.0 live and handling dense samples tells the full story. Come find our booth at these upcoming events to observe the machine printing live, examine our verified 316L and SS CX test samples, and discuss how compact LPBF can fit into your lab or workshop.",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "The absolute pinnacle of additive manufacturing. We are bringing the Metal 1.0 to Formnext this year to show the industrial AM world what affordable, accessible LPBF looks like.",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "Congress Centrum (HCC), Hannover, Germany",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "We brought the Metal 1.0 to one of the biggest Maker Faires in Europe. It was fantastic to show attendees how we’ve packaged industrial-grade additive manufacturing into a footprint designed for the serious DIY engineer and local workshop. We ran live printing continuously throughout the event, and attendees got hands-on testing the mechanical strength of our parts directly in a vice.",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "\"Metal Base & Scrap Labs Usher in an Ultra-Low-Cost Sub-$10,000 Metal LPBF Evolution\"",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "Process",
+    "url": "https://www.metal-base.com/contact",
+    "pass": 1
+   }
+  ],
+  "安全": [
+   {
+    "quote": "Inert gas",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety & responsibilities",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LPBF involves laser and fine metal powder. Metal‑Base is designed with interlocks and an inert nitrogen atmosphere, and ships with clear handling procedures. Operators must follow local standards and wear appropriate PPE.",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full safety guide",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "The Metal-Base Kickstarter page is now live!",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Metal 1.0 Kickstarter has finished, follow the progress!",
+    "url": "https://www.metal-base.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Metal-Base Kickstarter page is now live!",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "All of our production capacity is currently dedicated to manufacturing our initial Kickstarter batch. You can follow along with our machine development, testing data, and shipping progress on our update pages.",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "Kickstarter Updates",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "\"Metal-Base pre-launches sub-€10,000 LPBF metal 3D printer on Kickstarter\"",
+    "url": "https://www.metal-base.com/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "The Metal-Base Kickstarter page is now live!",
+    "url": "https://www.metal-base.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "The Metal 1.0: True affordable LPBF Metal 3D Printing | Kickstarter Launch & Tech Deep Dive",
+    "url": "https://www.youtube.com/@Metal-Base-sp4hb",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Metal - Base - YouTube — Metal - Base - YouTube YouTube https://www.youtube.com > @Metal-...",
+    "url": "https://www.youtube.com/@Metal-Base-sp4hb",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metal-base.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-base.com/news-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-base.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-base.com/contact",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kitco.com/price/base-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dailymetalprice.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miningideas.com/index-price_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/markets/commodities/futures/metals",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1hhfbqm/anyone_else_have_catastrophically_bad_desktop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://all3dp.com/1/3d-metal-3d-printer-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintboard.com/showthread.php?46833",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://top3dshop.com/blog/anycubic-4max-metal-3d-printer-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metal-america.com/distributor-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metalmangear.com/become-a-metal-man-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/sales-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://d7metals.com/distributor-benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://policycommons.net/artifacts/42740980/base-metal-flows-and-securing-mineral-resources-in-japan/43640037/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://store.diarge.com/blogs/journal/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%ABbase-metal%E3%81%A8%E3%81%AF?srsltid=AYCX9vLns7UAP2ZC70aq4sm7_I5z4rRfYXOkD55kKR4QLxiPmCxMP-Sl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=6AZnsJTGdvk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://glosbe.com/en/ja/base%20metal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/taylorlowe11_ai-startup-metal-raises-5-million-to-transform-activity-7371184098087714816-0d_0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.metal.ai/blog/seed-fundraise-announcement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/metal-6dfc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://castleplacement.com/metals-minerals-and-mining-capital-raises-and-investors-in-the-u-s-april-1st-may-31st-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DR9qXmvktnZ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getmetal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://revenuebase.ai/companies/metal-building-manufacturers/united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/profile/company/0176277D:UH",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blackadvtech.com/iso-9001-quality-assurance-sheet-metal-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iso.org/certification.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.daysteel.co.uk/news/iso-9001-certification-for-metal-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meadmetals.com/blog/what-exactly-is-iso-certified-and-what-does-it-mean",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/strategic-value-installed-base-penetration-stephen-goulbourne-xwlle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eaglecarports.com/blog/starting-and-marketing-a-metal-building-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buildingsguide.com/metal-building-prices/?srsltid=AYCX9vKHESqS1yV40V5EIQjzeiUpiLqe9kAqkok5faOewU0QklpV6ukf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=jYQRjXJlBzw&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/@Metal-Base-sp4hb",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.metal.so/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/taylorlowe11_ai-startup-metal-raises-5-million-to-transform-activity-7371184098087714816-0d_0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stonex.com/en/business/commodities/base-metals/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metal-Base price USD",
+   "results": [
+    "https://www.kitco.com/price/base-metals",
+    "https://www.dailymetalprice.com/",
+    "https://www.miningideas.com/index-price_en.html",
+    "https://www.bloomberg.com/markets/commodities/futures/metals",
+    "https://www.focus-economics.com/commodities/base-metals/",
+    "https://www.bls.gov/regions/mid-atlantic/data/producerpriceindexmetals_us_table.htm",
+    "https://www.terrastudio.biz/metal-prices-lt/",
+    "https://www.lme.com/",
+    "https://www.cmegroup.com/markets/metals.html",
+    "https://metalprices.live/base-metals"
+   ]
+  },
+  {
+   "query": "Metal-Base desktop metal 3D printer review",
+   "results": [
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1hhfbqm/anyone_else_have_catastrophically_bad_desktop/",
+    "https://all3dp.com/1/3d-metal-3d-printer-metal-3d-printing/",
+    "https://3dprintboard.com/showthread.php?46833",
+    "https://top3dshop.com/blog/anycubic-4max-metal-3d-printer-review",
+    "https://www.desktopmetal.com/",
+    "https://markforged.com/3d-printers/metal-x",
+    "https://www.youtube.com/watch?v=cZpvWyRwGPU",
+    "https://jlc3dp.com/blog/best-metal-3d-printers",
+    "https://www.print3dindex.com/blog/best-desktop-metal-3d-printers",
+    "https://boundbyflame.com/best-desktop-metal-3d-printers/"
+   ]
+  },
+  {
+   "query": "Metal-Base reseller distributor program",
+   "results": [
+    "https://metal-america.com/distributor-program/",
+    "https://metalmangear.com/become-a-metal-man-distributor/",
+    "https://www.desktopmetal.com/sales-partner/",
+    "https://d7metals.com/distributor-benefits/",
+    "https://www.worldwidesteelbuildings.com/contact/dealer-inquiry/",
+    "https://casterhq.com/pages/reseller-program?srsltid=AYCX9vItXXMzUsF97NL642yTRqNWxibNs6PgJ5jhO6iw5mWabanPJRKl",
+    "https://www.versatube.com/our-story-dealers?srsltid=AYCX9vLpbrJCK3vYhb-CMBIMhCyYhTeoF-G7k4lycaTi553_2eeiDCY_",
+    "https://sunstonemp.com/affiliate",
+    "https://info.mcelroymetal.com/become-a-distributor-contractor",
+    "https://www.metal-base.com/"
+   ]
+  },
+  {
+   "query": "Metal-Base Japan",
+   "results": [
+    "https://policycommons.net/artifacts/42740980/base-metal-flows-and-securing-mineral-resources-in-japan/43640037/",
+    "https://store.diarge.com/blogs/journal/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%ABbase-metal%E3%81%A8%E3%81%AF?srsltid=AYCX9vLns7UAP2ZC70aq4sm7_I5z4rRfYXOkD55kKR4QLxiPmCxMP-Sl",
+    "https://www.youtube.com/watch?v=6AZnsJTGdvk",
+    "https://glosbe.com/en/ja/base%20metal",
+    "https://www.linkedin.com/pulse/japan-base-metal-mining-market-global-industry-3bn9f",
+    "https://www.material-expo.jp/hub/en-gb/about/metal.html",
+    "https://www.indexbox.io/store/japan-base-metal-mining-market-analysis-forecast-size-trends-and-insights/",
+    "https://www.reddit.com/r/japanesemusic/comments/17k2l2s/any_good_japanese_metal_bands/",
+    "https://en.wikipedia.org/wiki/Base_metal",
+    "https://www.metal-base.com/"
+   ]
+  },
+  {
+   "query": "Metal-Base funding raised investors",
+   "results": [
+    "https://www.linkedin.com/posts/taylorlowe11_ai-startup-metal-raises-5-million-to-transform-activity-7371184098087714816-0d_0",
+    "https://www.metal.ai/blog/seed-fundraise-announcement",
+    "https://www.crunchbase.com/organization/metal-6dfc",
+    "https://castleplacement.com/metals-minerals-and-mining-capital-raises-and-investors-in-the-u-s-april-1st-may-31st-2026/",
+    "https://venturebeat.com/technology/a-i-startup-metal-raises-usd5-million-to-transform-private-equity-deal",
+    "https://tracxn.com/d/companies/metal/__hvHttkiSkruYAkkuJQKdeMdnUqRsIYhoQaG7x9663X8",
+    "https://www.youtube.com/watch?v=3d8hBSMSAls",
+    "https://www.finsmes.com/2025/09/metal-raises-5m-in-funding.html",
+    "https://startupintros.com/orgs/metal",
+    "https://fundediq.co/metal-metal-so-funding/"
+   ]
+  },
+  {
+   "query": "Metal-Base founded company employees",
+   "results": [
+    "https://www.instagram.com/p/DR9qXmvktnZ/",
+    "https://www.linkedin.com/company/getmetal",
+    "https://revenuebase.ai/companies/metal-building-manufacturers/united-states",
+    "https://www.bloomberg.com/profile/company/0176277D:UH",
+    "https://www.facebook.com/susancollins/posts/it-was-a-pleasure-to-join-american-steel-aluminum-employees-and-company-leaders-/1609288233891459/",
+    "https://www.zippia.com/industrial-metal-supply-careers-1885458/",
+    "https://gerbermetal.com/about-us/",
+    "https://www.mpvent.com/60-metallic-products-history/",
+    "https://www.crunchbase.com/organization/metal-6dfc",
+    "https://www.crunchbase.com/organization/metal-base"
+   ]
+  },
+  {
+   "query": "Metal-Base ISO 9001 CE certification",
+   "results": [
+    "https://blackadvtech.com/iso-9001-quality-assurance-sheet-metal-fabrication/",
+    "https://www.iso.org/certification.html",
+    "https://www.daysteel.co.uk/news/iso-9001-certification-for-metal-fabrication/",
+    "https://www.meadmetals.com/blog/what-exactly-is-iso-certified-and-what-does-it-mean",
+    "https://eurocalder.com/en/news/certification-iso-9001-manufacturing-industrial-equipment/",
+    "https://asq.org/quality-resources/iso-9001?srsltid=AYCX9vJ7hQ39EfG1isesOZFuK1tGnFpuwCizSYw9p8El9I7YZVzoFQn5",
+    "https://metalcomp.us/about-us/iso/",
+    "https://www.nsf.org/management-systems/quality-management/iso-9001",
+    "https://gsforgings.com/blog/what-is-the-iso-9001/",
+    "https://seller.alibaba.com/blogs/2026/southeast-asia/metals-minerals/ce-iso9001-certification-guide-alibaba-b2b"
+   ]
+  },
+  {
+   "query": "Metal-Base units sold customers installations",
+   "results": [
+    "https://www.linkedin.com/pulse/strategic-value-installed-base-penetration-stephen-goulbourne-xwlle",
+    "https://www.eaglecarports.com/blog/starting-and-marketing-a-metal-building-business",
+    "https://www.buildingsguide.com/metal-building-prices/?srsltid=AYCX9vKHESqS1yV40V5EIQjzeiUpiLqe9kAqkok5faOewU0QklpV6ukf",
+    "https://www.youtube.com/watch?v=jYQRjXJlBzw&vl=ja",
+    "https://alansfactoryoutlet.com/metal-building-prices/?srsltid=AYCX9vKZybdJzmkDpjc43b73_7myfE1aoXenUTlKyJGqrqduBxtcJxrq",
+    "https://www.vulcansteel.com/2026/06/21/metal-is-an-easy-sell/",
+    "https://www.oncor.com/content/dam/oncorwww/documents/electric-service-guidelines/Electric%20Service%20Guidelines%202021.pdf",
+    "https://metal-america.com/complete-guide-to-metal-shop-buildings/",
+    "https://www.worldwidesteelbuildings.com/blog/how-to-start-a-metal-building-business/",
+    "https://en.wikipedia.org/wiki/Installed_base"
+   ]
+  },
+  {
+   "query": "Metal-Base 融资 OR 投资",
+   "results": [
+    "https://www.youtube.com/@Metal-Base-sp4hb",
+    "https://www.metal.so/",
+    "https://www.linkedin.com/posts/taylorlowe11_ai-startup-metal-raises-5-million-to-transform-activity-7371184098087714816-0d_0",
+    "https://www.stonex.com/en/business/commodities/base-metals/",
+    "https://www.youtube.com/watch?v=7HN4BBENHB8",
+    "https://www.ventec-group.com/zh/products/all-products/",
+    "https://home.quakerhoughton.com/",
+    "https://www.hkex.com.hk/-/media/HKEX-Market/News/Research-Reports/HKEx-Research-Papers/2020/CCEO_Warehouse_e_202005.pdf",
+    "https://venturebeat.com/technology/a-i-startup-metal-raises-usd5-million-to-transform-private-equity-deal",
+    "https://www.itjuzi.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "販売台数・導入先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "代理店条件": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "株主構成": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "売上": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）",
+  "存続": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）"
+ }
+}

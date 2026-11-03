@@ -1,0 +1,399 @@
+{
+ "name": "卓上金属3Dプリンターの価格",
+ "en": "desktop metal 3D printer price",
+ "aliases": [
+  "卓上 金属3Dプリンター 価格",
+  "小型 金属3Dプリンター",
+  "desktop SLM price"
+ ],
+ "context": "②卓上金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:05:44.460145+00:00",
+ "evidence": {
+  "単価・価格": [
+   {
+    "quote": "：約20万円～",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "：約10万円",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "：約150万円～",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "電動モーターを\"丸ごと\"3Dプリント｜MITが実現した「材料費75円・3時間…",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "補助金活用ガイド",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "ブランド別製品一覧",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "比較・導入相談",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "製品を比較する",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "お申込み・サービス",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "学生支援・導入事例",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "寄贈事業導入事例集",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ商品一覧",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "アカウントサービス",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "比較的簡単に",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "もセットで提供されており、本格的な金属部品の製造が可能！",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "外部サービス",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "BASF Ultrafuse焼結サービス",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "なら、家庭でも比較的簡単に",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】3Dプリンターフィラメント完全比較ガイド｜素材・用途別の選び方を正規代理店が解説",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】おすすめ3Dプリンター比較ガイド｜FDM・光造形方式の最新機種12選",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "家庭で使える小型 金属3Dプリンター 完全ガイド - SK本舗 — 家庭で使える小型 金属3Dプリンター 完全ガイド - SK本舗 SK本舗 https://skhonpo.com > 【3Dプリンター】業界ニュース",
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anm7242.net/pingye.sakura.ne.jp/metal-3d-printing-for-individuals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/16fafbp/what_is_the_cheapest_and_affordable_3d_metal/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://smart-factory-kenkyujo.com/3dprinter-kinzoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/blog/blog10/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/what",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/metal-3d-printer-s1-5188.html?srsltid=AYCX9vKamh7VGi9lNWQsnQtMPfTnLauqIIi0KwtZECrW2QOrLfAc9Mg8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crexgroup.com/ja/manufacturing/digital/metal-3d-printer-price-selection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.copyki-gmen.com/ink/7834",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikai-hikaku.com/2077",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5523/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nssngt.com/16-market-3dprinter-metal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/blog/3dprinter/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-modely.com/blog/3d-printer/3d-printer-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jet-mfg.com/category/other/metal-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/3dprinter-5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/products/studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/a30-metal-3d-printer/?srsltid=AYCX9vI7mQbi7FXypU28HxehZ6w4aK7bnhG2qn_0y0AIYE-o1HnCFG1B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/16fafbp/what_is_the_cheapest_and_affordable_3d_metal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://starcona.com/collections/metal-3d-printers?srsltid=AYCX9vLASHUsPeVW_zj-8dfaMoLXInHxSIMwJmjtEl5c9Foqm6eI7bpI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/the-most-affordable-metal-3d-printers-in-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/news/scrap-labs-scrap-1-metal-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.directindustry.com/ja/prod/desktop-metal/product-212297-2163397.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "卓上金属3Dプリンターの価格",
+   "results": [
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://anm7242.net/pingye.sakura.ne.jp/metal-3d-printing-for-individuals/",
+    "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "https://www.reddit.com/r/3Dprinting/comments/16fafbp/what_is_the_cheapest_and_affordable_3d_metal/?tl=ja",
+    "https://smart-factory-kenkyujo.com/3dprinter-kinzoku/",
+    "https://i-maker.jp/blog/metal-3d-printer-s1-5188.html?srsltid=AYCX9vI666IW3JgON2VgEdgPZuiMl3gMm6C7nfGEjM8cXsJd8yKLSmGX",
+    "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99+%E9%87%91%E5%B1%9E+3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
+    "https://crexgroup.com/ja/manufacturing/digital/metal-3d-printer-price-selection/",
+    "https://www.copyki-gmen.com/ink/7834"
+   ]
+  },
+  {
+   "query": "卓上金属3Dプリンターの価格 料金 相場",
+   "results": [
+    "https://anm7242.net/pingye.sakura.ne.jp/metal-3d-printing-for-individuals/",
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://www.reddit.com/r/3Dprinting/comments/16fafbp/what_is_the_cheapest_and_affordable_3d_metal/?tl=ja",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99+%E9%87%91%E5%B1%9E+3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
+    "https://i-maker.jp/blog/metal-3d-printer-s1-5188.html?srsltid=AYCX9vKamh7VGi9lNWQsnQtMPfTnLauqIIi0KwtZECrW2QOrLfAc9Mg8",
+    "https://smart-factory-kenkyujo.com/3dprinter-kinzoku/"
+   ]
+  },
+  {
+   "query": "卓上金属3Dプリンターの価格 規模別 社数",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://metoree.com/categories/5523/",
+    "https://www.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://blog.rflocus.com/3dpriner-recommend/",
+    "https://crexgroup.com/ja/manufacturing/digital/metal-3d-printer-price-selection/"
+   ]
+  },
+  {
+   "query": "卓上金属3Dプリンターの価格 比較 一覧",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://nssngt.com/16-market-3dprinter-metal.html",
+    "https://make.dmm.com/blog/3dprinter/price/",
+    "https://metoree.com/categories/5523/",
+    "https://unolaboratory.com/",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-metal/",
+    "https://jet-mfg.com/category/other/metal-3d-printer/",
+    "https://smart-factory-kenkyujo.com/3dprinter-kinzoku/",
+    "https://www.copyki-gmen.com/ink/7834"
+   ]
+  },
+  {
+   "query": "desktop metal 3D printer price",
+   "results": [
+    "https://www.desktopmetal.com/products/studio",
+    "https://additiveplus.com/product/a30-metal-3d-printer/?srsltid=AYCX9vI7mQbi7FXypU28HxehZ6w4aK7bnhG2qn_0y0AIYE-o1HnCFG1B",
+    "https://www.reddit.com/r/3Dprinting/comments/16fafbp/what_is_the_cheapest_and_affordable_3d_metal/",
+    "https://starcona.com/collections/metal-3d-printers?srsltid=AYCX9vLASHUsPeVW_zj-8dfaMoLXInHxSIMwJmjtEl5c9Foqm6eI7bpI",
+    "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "https://all3dp.com/1/the-most-affordable-metal-3d-printers-in-2024/",
+    "https://jiga.io/3d-printing/metal-3d-printer-cost-expensive/",
+    "https://makers101.com/studio-3e8-mesa-1-desktop-metal-3d-printer/",
+    "https://www.youtube.com/watch?v=D0gA_MKt7ko",
+    "https://mtxlaser.com/how-much-does-a-metal-3d-printer-cost"
+   ]
+  },
+  {
+   "query": "卓上金属3Dプリンターの価格 2025 OR 2026",
+   "results": [
+    "https://news.sharelab.jp/study/price/",
+    "https://fabscene.com/new/news/scrap-labs-scrap-1-metal-3d-printer/",
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://metoree.com/categories/5523/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "https://make.dmm.com/blog/3dprinter/price/",
+    "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99+%E9%87%91%E5%B1%9E+3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
+    "https://www.directindustry.com/ja/prod/desktop-metal/product-212297-2163397.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ34頁・検索6回）",
+  "取り分・マージン": "記載なし（読んだ34頁・検索6回）",
+  "市場規模・台数": "記載なし（読んだ34頁・検索6回）",
+  "導入期間・キャッシュ": "記載なし（読んだ34頁・検索6回）"
+ }
+}

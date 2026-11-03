@@ -1,0 +1,1802 @@
+{
+ "name": "省力化投資補助金（一般型）の補助率と上限",
+ "en": "shoryokuka subsidy Japan rate cap",
+ "aliases": [
+  "省力化投資補助金 一般型",
+  "省力化補助金 補助率",
+  "省力化投資補助金 上限"
+ ],
+ "context": "①Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:06:05.937116+00:00",
+ "evidence": {
+  "単価・価格": [
+   {
+    "quote": "最大1億円を",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "750万円（1,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円（2,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円（4,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円（6,500万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金上限は最大1億円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "●補助上限額がアップする【大幅賃上げ特例】の適用を受ける場合は、①給与支給総額の年平均成長率+6.0%以上増加 ②事業場内最低賃金が事業実施都道府県における最低賃金+50円以上の水準とする必要があります（最低賃金引上げ特例事業者、各申請枠の上限額に達していない場合は除く",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金額1,500万円までが引き上げ対象）",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、従業員数が5人以下の場合、上限200万円（大幅賃上げ要件を満たす場合は300万円）",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ型より高く、従業員数が5人以下の場合、上限750万円（大幅賃上げ要件を満たす場合は1,000万円）",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "750万円（1,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円（2,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円（4,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円（6,500万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所内最低賃金が事業実施都道府県における最低賃金+30円以上の水準",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "5人以下 750万円（1,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "6~20人 1,500万円（2,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "21~50人 3,000万円（4,000万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "51~100人 5,000万円（6,500万円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "101人以上 8,000万円（1億円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例（補助上限額を250~2,000万円上乗せ （上記カッコ内の金額は特例適用後の上限額",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所内最低賃金が事業実施都道府県における最低賃金+50円以上の水準",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "しかも最大で補助金額は1億円！ 当社も平成19年に設立以来、数多くの補助金申請を支援しておりますが、このような使い勝手の良い補助金は滅多に見ることができません",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "※補助金額が25万円未満となる場合は申請できません",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "その事業場がある都道府県の最低賃金＋45円以上",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "税抜き単価50万円以上の機械装置・システム等の設備投資いずれかが必須",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "7,000万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化にかかる経費総額（税抜き）は3,900万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "よって補助上限額は3,000万円まで",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に貰える補助金額は1,950万円",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "「省力化補助金とは？2類型の違い・最大1億円・締切【2026年】」",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "：補助上限額は従業員数で決まり、5人以下750万円、6〜20人1,500万円、21〜50人3,000万円、51〜100人5,000万円、101人以上8,000万円です",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例を使うと最大1億円まで上がります",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜8,000万円（大幅賃上げ特例で1,000万円〜1億円）",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "500万〜1,000万円（賃上げ特例で750万〜1,500万円）",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例を使うと、従業員規模ごとに250万〜2,000万円が上乗せされます",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "最大1億円を",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金上限は最大1億円",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "101人以上 8,000万円（1億円）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "しかも最大で補助金額は1億円！ 当社も平成19年に設立以来、数多くの補助金申請を支援しておりますが、このような使い勝手の良い補助金は滅多に見ることができません",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "「省力化補助金とは？2類型の違い・最大1億円・締切【2026年】」",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例を使うと最大1億円まで上がります",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜8,000万円（大幅賃上げ特例で1,000万円〜1億円）",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業に当たるかどうかは業種ごとの資本金・常勤従業員数で決まります（例：製造業・建設業・運輸業は資本金3億円以下または常勤従業員300人以下）",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円を目指す製造業へ：成長加速化補助金で実現する大規模投資",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "補助金上限は最大1億円",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "101名以上：補助上限8,000万円（1億円） （）内は大幅賃上げ特例の要件を満たす場合",
+    "url": "https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数に応じて250万円〜2,000万円（最大1億円）",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員101人以上の場合は、8,000万円から1億円へ引き上げられます",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 認定経営革新等支援機関（ID: 109813002812）である当社の代表として、補助金申請支援（補助金申請件数累計約277件・補助金額累計約167.6億円・全補助金の平均採択率約96.1%（2026年8月4日現在））を統括",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "最大 1億円",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例の適用で 最大 1億円",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業・運輸業：資本金3億円以下または従業員300人以下",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業：資本金1億円以下または従業員100人以下",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10億円未満の法人（従業員数500人以下）",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金（一般型）の補助金額は最大1億円、補助率は1/2~2/3",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円・補助率最大2/3と高水準の支援が受けられ、IoT・ロボット・DX機器などを活用した",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "累計1,500社以上・200億円超",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://hojosapo.com/growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "本制度は、 IoT・ロボット・AIなどを活用した省力化設備の導入を対象に、 最大1億円・ 補助率最大2/3 の支援を受けられる補助金です",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金10億円未満の法人（従業員数500人以下）の一部の中堅企業（特定事業者）も補助対象となります",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業・運輸業：資本金3億円以下または従業員300人以下",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業：資本金1億円以下または従業員100人以下",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10億円未満の法人で、常勤従業員数が業種により以下のいずれか以下（製造業・建設業・運輸業：500人／卸売業：400人／サービス業・小売業（ソフトウェア業等除く）：300人／その他：500人）",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金〈一般型〉は、補助上限額が最大1億円であり、人手不足・業務効率化に悩む中小企業・小規模事業者にとって、Iot・ロボット・DX導入を通じて自社の省力化・自動化を実現する大きなチャンスです",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "累計1,500社以上・200億円超",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "750万円～8,000万円（大幅賃上げ時は最大1億円）",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は従業員規模に応じて750万円～8,000万円（大幅賃上げ時は最大1億円）で、補助率は中小企業が1/2、小規模企業者・小規模事業者・再生事業者が2/3です",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模に応じて750万円～8,000万円（大幅賃上げ特例適用時は1,000万円～1億円）",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "最大8,000万円（大幅賃上げ特例適用時は最大1億円）",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）常勤従業員数が一定の基準以下となる会社または個人であり、資本金の額または出資の総額が10億円未満である事業者",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "直接または間接の構成員の2/3以上が、常時300人（卸売業を主たる事業とする事業者は400人）以下の従業員を使用し、かつ資本金の額または出資の総額が10億円未満であるもの",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "直接または間接の構成員の2/3以上が、常時500人（酒類卸売業者は400人）以下の従業員を使用し、かつ資本金の額または出資の総額が10億円未満であるもの",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "直接または間接の構成員たる内航海運事業を営む者の2/3以上が常時500人以下の従業員を使用し、かつ資本金の額または出資の総額が10億円未満であるもの",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "・応募申請時点において、確定している（申告済みの）直近過去3年間の各年または各事業年度の課税所得の年平均額が15億円を超える中小企業者等",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 認定経営革新等支援機関（ID: 109813002812）である当社の代表として、補助金申請支援（補助金申請件数累計約277件・補助金額累計約167.6億円・全補助金の平均採択率約96.1%（2026年8月4日現在））を統括",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は最大1億円と大規模で、個別のニーズに合わせて柔軟に活用できます",
+    "url": "https://canon.jp/biz/solution/smb/list/theme/subsidy/shoryokuka/general",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数に応じて、最大1億円までの補助が受けられます",
+    "url": "https://canon.jp/biz/solution/smb/list/theme/subsidy/shoryokuka/general",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省大型補助金の支援総額 驚愕の270億円以上！",
+    "url": "https://hojokin-joseikin.com/3302/",
+    "pass": 3
+   },
+   {
+    "quote": "この他、大規模成長投資補助金では60億円以上の調達にも貢献",
+    "url": "https://hojokin-joseikin.com/3302/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円の補助を受けながら、自社の課題に合わせたオーダーメイドの省力化投資を実現できるこの制度は、直近の第4回公募で",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円（賃上げ特例時）",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金（一般型）は、最大1億円という手厚い支援を受けながら、自社の課題に合わせたオーダーメイドの省力化投資を実現できる非常に魅力的な制度です",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業成長加速化補助金（１社５億円）",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度の予算として3,000億円が計上されているためかなり余裕はありますが、予算が尽きてしまった場合はその時点で公募終了になるケースが多くあります",
+    "url": "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の中小企業省力化投資補助金の予算は「3,000億円」で組まれています",
+    "url": "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "pass": 3
+   },
+   {
+    "quote": "得意分野は補助金関係で、採択額は大小合わせて1億円を超える",
+    "url": "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "pass": 3
+   },
+   {
+    "quote": "補助額：750万円～1億円",
+    "url": "https://shoryokuka.jp/subsidy/shoryokukaippan/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員101人以上：最大8,000万円（特例1億円）",
+    "url": "https://mono-support.com/shoujinka/shoryokuka-hojokin-ippangata-saitakuryou/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化補助金一般型の補助上限額は1億円",
+    "url": "https://hojyokin-concierge.com/media/2025/01/20/2025_shouryokuka_hojyokin_hojyoritu",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（1億円）",
+    "url": "https://hojyokin-concierge.com/media/2025/01/20/2025_shouryokuka_hojyokin_hojyoritu",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は補助金申請のサポートを行っており、これまでに70億円以上の申請総額、2,000件以上の申請実績があります",
+    "url": "https://hojyokin-concierge.com/media/2025/01/20/2025_shouryokuka_hojyokin_hojyoritu",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "トップページ（一般型）｜中小企業省力化投資補助金",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "投資補助金（一般型）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金（一般型）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "本事業へ応募申請・交付申請中の事業者及び交付決定を受け事務局からの補助金支払が完了していない事業者は申請できませんので、ご注意ください",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "採択結果の公表について",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "本事業に採択された場合、申請者名・住所（市区町村まで）・法人番号・事業計画名・支援機関名等を本ホームページにて公表することとしますので、ご了承ください",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例の適用時、（）内の補助上限額に引き上げ",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "最低賃金引き上げ特例の適用時、（）内の補助率に引き上げ",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "設備導入・システム構築等の多様な省力化投資を支援する補助金です",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁担当者に聞く 「より活用しやすく! 中小企業省力化投資補助金のポイント」 | 経済産業省 中小企業庁",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・総合支援サイト",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金等チラシ",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を探す",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "地域の補助金・助成金を探す",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "人気の補助金",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金チラシ",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にあった補助金を選ぶ",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金について知る",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金活用事例「事例ナビ」",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金についてチャットに相談する",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "動画でわかる補助金情報",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金等チラシ",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を活用したい",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁担当者に聞く 「より活用しやすく! 中小企業省力化投資補助金のポイント」",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "一般型とは｜中小企業省力化投資補助金",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、中小企業等の付加価値額や生産性向上を図り、賃上げにつなげることを目的とした補助金です",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率および補助上限額について",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な賃上げを行う場合、（）内の値に補助上限額を引き上げ",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "事業概要・基本要件・補助率等",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "基本要件②が未達の場合、達成率に応じて補助金を返還",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "基本要件③が未達の場合、「補助金額／計画年数」で補助金を返還",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大幅賃上げ特例（補助上限額を250~2,000万円上乗せ （上記カッコ内の金額は特例適用後の上限額",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "上記①、②のいずれか一方でも未達の場合、各申請枠の従業員規模区分別の補助上限額との差額について補助金を返還",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "最低賃金引上げ特例 （補助率を2/3に引上げ （小規模 再生事業者は除く",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "交付決定日から18か月以内（採択発表日から20か月以内）",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金（一般型）を活用する中小企業等の皆様にとって、",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金とは？ | 東京中央経営株式会社｜公的融資・補助金・助成金活用まで",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『省力化投資補助金』とは？ | 東京中央経営株式会社｜公的融資・補助金・助成金活用まで",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "東京中央経営｜公的融資・補助金・助成金を活用した事業資金調達をサポートします",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "今年度狙える補助金",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『ものづくり補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『事業承継・M&A補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『小規模事業者持続化補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『成長加速化補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『新事業進出・ものづくり商業サービス補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『新事業進出補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "『省力化投資補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "東京中央経営による補助金申請支援",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金に関する支援",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金あるある",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度から、人手不足を解消するための「省力化」を後押しする「省力化投資補助金」が大きく変わりました",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化補助金 一般型とは？採択率65.6%・従業員別の上限額・締切",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金申請支援",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金締切DB",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金〈一般型〉とは？申請方法・採択のポイントを解説",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金〈一般型〉（以下、一般型）は、人手不足に悩む中小企業が、自社の現場や業務に合わせて設計した設備やシステムを導入するときに、その費用の一部を国が補助する制度です",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、第8回公募要領と中小機構・中小企業庁の公表資料（2026年10月17日に確認）をもとに、一般型の補助上限額・要件・スケジュール・採択率・事業計画書のポイントを整理します",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "「省力化補助金とは？2類型の違い・最大1億円・締切【2026年】」",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化補助金 一般型の要点（2026年10月17日時点）",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "：補助上限額は従業員数で決まり、5人以下750万円、6〜20人1,500万円、21〜50人3,000万円、51〜100人5,000万円、101人以上8,000万円です",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "※GビズIDやSNSアカウントをお使いの場合は、各々のサービスでパスワードを変更ください",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の申請サポート、導入後のアフターサービスも安心感が増すのではないでしょうか",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "●新事業進出・ものづくり商業サービス補助金との違い",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "「新事業進出・ものづくり商業サービス補助金」の目的が「革新的な新製品・新サービス開発」「既存事業とは異なる新市場・高付加価値事業への進出」等であるのに対して、中小企業省力化投資補助金［一般型］は",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "「カタログ注文型」と［一般型］を比較",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの特徴についてまとめ、比較してみました",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金「カタログ注文型」と［一般型］の比較",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "機械装置・システム構築費（必須）、技術導入費、専門家経費、運搬費、クラウドサービス利用費、外注費、知的財産権等関連経費が補助対象経費となります",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス補助金",
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "pass": 3
+   },
+   {
+    "quote": "生産・業務プロセス、サービス提供方法の省力化を行う者",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "３～５年の事業計画期間内に、補助事業において、設備投資前と比較して付加価値額が増加する事業計画を策定すること",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "機械装置・システム構築費（必須）、技術導入費、 専門家経費、運搬費、クラウドサービス利用費、外注費、知的財産権等関連経費",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "『新事業進出・ものづくり商業サービス補助金』とは？",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス利用費",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ注文型との比較や制度全体の説明は、",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ注文型との違い【比較表】",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "「設備投資に使える補助金2026｜中小企業向け制度一覧と選び方」",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス利用費",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "専ら補助事業のために使うクラウドサービスの利用料",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "他者に有償で提供するシステム・サービスの開発、太陽光発電などの発電設備",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "応募申請の必要書類の一覧は",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "成長加速マッチングサービス",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が第1回〜第6回の採択者一覧（7,684者）の事業計画名を集計したところ、多かった語は「自動化」1,130件、「システム」1,022件、「AI」453件、「DX」365件、「検査」307件、「ロボット」294件でした",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、顧客に有償で提供しているソフトウェア製品そのものの開発・改良は、一般型の対象外です",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス・飲食",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "シェアードサービス",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス業海外出店コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング関連サービス",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン一覧",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー特選講演録一覧",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ一覧",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース一覧はこちら",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報・サービス",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解消に向けて、デジタル技術等を活用した専用設備（オーダーメイド設備）の導入等により、革新的な生産プロセス・サービス提供方法の効率化・高度化を図る取り組みに必要な設備・システム投資等を支援するものです",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画期間において毎年、申請時と比較して労働生産性を年 平均成長率（CAGR）4.0％以上向上させる事業計画を策定し、採択を受けた場合はそれに取り組まなければなりません",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "建設業・不動産業における廃石膏ボード処理自動化ラインの構築、自動分析機能導入による不動産仲介業の戦略立案省力化、清掃・調査・修繕サービスのデジタルプラットフォームの整備、管理サービス事業拡大に向けたシステム投資",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業における業務用マットクリーニング業務の自動化ライン新設計画、大規模言語モデルAIを活用した特許出願資料作成システムの構築、クレジット明細作成の自動化、AIクローリングによる顧客別営業活動支援システムの構築、革新的調査機械の導入",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "※GビズIDやSNSアカウントをお使いの場合は、各々のサービスでパスワードを変更ください",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金等の補助金と同様に、",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "●省力化投資補助金「カタログ注文型」と[一般型]の比較",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金[一般型]は、新事業進出・ものづくり商業サービス補助金が「革新的な新製品・サービスの開発」や「新事業進出」等を目的とするのに対して、",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス補助金",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "他の補助金と比較した場合の早見表です",
+    "url": "https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続力強化計画/成長加速マッチングサービス/省力化ナビ",
+    "url": "https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金における当社のサービス内容について、詳しく知りたい方はこちらのページをご覧ください",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "基準年度と事業計画の最終年度を比較して判定されます",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "申請時と補助事業実施期間の終了時点を比較し、次の水準まで引き上げる必要があります",
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "pass": 3
+   },
+   {
+    "quote": "／ 新事業進出・ものづくり商業サービス補助金、省力化補助金等 経営に直結する補助金に強いシェアビジョン",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "申請支援サービス",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "累計支援実績・その他サービスを含む",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "登録製品から選び、比較的シンプルに設備を導入",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス利用費",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業に必要なクラウドサービスの利用料",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "「省力化投資補助金」「新事業進出・ものづくり商業サービス補助金」をはじめ、各種補助金の申請に対応",
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "事業計画上の投資回収期間を根拠資料とともに提出すること",
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金が入金されるまでに、事業計画に沿った全ての経費（設備投資、開発・・・）を使った上で、正しい資料（仕様書、注文書、納品書、検収書、通帳コピー・・・）を完璧に提出する必要があります",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 投資回収期間",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化にかかる経費総額をどれだけの期間で回収できるかを数値で示す",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "「投資回収期間」",
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか、省力化指数を計算した計画であること、投資回収期間を根拠資料とともに示すこと、事業計画期間内に付加価値額が増えること、オーダーメイド設備を導入する計画であることも求められます",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化指数・投資回収期間と審査の4つの観点",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間と付加価値額の計算方法",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間＝投資額÷（削減工数×年間稼働日数×人件費単価＋増加した付加価値額）",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間が短い取組であることと、その算出根拠が妥当か",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "審査のどの観点で評価が低かったかを見直し、省力化指数や投資回収期間の根拠、賃上げ計画を補強してから次の公募回に申請しましょう",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "着手金0円・成功報酬で、一般型では事業計画書の作成支援と、省力化指数・投資回収期間・付加価値額の算出根拠の整理を一緒に進めます",
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "回収期間が合理的な範囲であること（できれば3〜5年以内）を説明",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画上の投資回収期間を根拠資料とともに提出すること",
+    "url": "https://hojosapo.com/growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間:投資回収期間の計算方法が「投資額／（削減工数×人件費単価+増加した付加価値額）」から、「投資額／（削減工数×年間稼働日数×人件費単価+増加した付加価値額）」に変更になりました",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "執行・納品・検収・支払い完了",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "・省力化指数が高いか、投資回収期間が短いか",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間の計算式",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間の計算式に",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間の提出",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "：事業計画上の投資回収期間を根拠資料とともに提出すること",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "この期間内に、機械装置・システム等の契約（発注）・納品・検収・支払等のすべての手続きを完了させる必要があります",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "・納品書または運搬報告書・検収書",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "技術面では、省力化指数、投資回収期間、付加価値額、オーダーメイド設備の4つの観点から評価されます",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間が短い取り組みであり、算出根拠が妥当であるか",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間計算シートの書き方",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "「（別紙3）投資回収期間計算シート」では、設備投資の回収期間を算出します",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間が短いほど審査で高く評価されます",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば、設備投資をした部門単位での投資回収期間も算出する",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間の算出根拠が不十分",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間計算シートの各数値（投資総額、削減工数、人件費単価等）を記載したか",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "（ただし採択発表日から20か月後の日まで）に、設備の発注・納品・検収・支払いのすべてを完了させます",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化指数の高さ、投資回収期間の短さ、付加価値額の成長率、オーダーメイド設備の活用度",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "☐ 事業計画書を作成する（省力化指数、投資回収期間、付加価値額を具体的に記載）",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間とその根拠資料を提出する",
+    "url": "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "pass": 3
+   },
+   {
+    "quote": "上記の条件の中で特に大切なのは「省力化指数」と「投資回収期間」です",
+    "url": "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "pass": 3
+   },
+   {
+    "quote": "省力化効果や投資の回収計画を説明する必要あり",
+    "url": "https://office-akasaki.com/blog/entry-201-shoryokuka-ippan-vs-catalog.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ 投資回収期間を明確にし、根拠資料を準備する",
+    "url": "https://office-akasaki.com/blog/entry-201-shoryokuka-ippan-vs-catalog.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間、労働生産性の成長率（年平均4％以上）、給与総額の増加など、",
+    "url": "https://mono-support.com/shoujinka/shoryokuka-hojokin-ippangata-saitakuryou/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画上の投資回収期間を根拠資料とともに提出すること",
+    "url": "https://hojokin-joseikin.com/4540/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「①省力化指数の計算」「②投資回収期間の計算」「③付加価値額の増加」については、毎年3月末の報告において、達成状況の報告が求められます",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "②投資回収期間の計算",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間が短い事業計画を策定し、達成に向けて事業に取り組むこと",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "補助対象となる経費は、補助事業実施期間内に契約・発注・納品・検収・支払の全ての工程を行ったものに限られます",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "技術面（省力化指数・投資回収期間・付加価値額の目標が適切か、デジタル技術を活用したオーダーメイド設備の導入であるか）",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業実施期間の最終日までに、補助事業の発注、納品、検収、支払に加えて、後述する報告作業も全て完了する必要があります",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   },
+   {
+    "quote": "・発注書、納品書、検収書、請求書等の契約・支払の証憑を揃える",
+    "url": "https://gandn.co.jp/column/1771/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "省力化投資補助金 （ 一般型 ）徹底解説！ものづくり ... - 船井総研 — 省力化投資補助金 （ 一般型 ）徹底解説！ものづくり ... - 船井総研 船井総合研究所 https://www.funaisoken.co.jp > shoryoku-i_703_S087",
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度 中小企業 省力化投資補助金 ［ 一般型 ］ - ミラサポPlus — 令和8年度 中小企業 省力化投資補助金 ［ 一般型 ］ - ミラサポPlus 中小企業庁 ミラサポplus https://mirasapo-plus.go.jp > hint",
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金 （ 一般型 ） - 東京経営サポーター — 省力化投資補助金 （ 一般型 ） - 東京経営サポーター 東京経営サポーター https://www.tokyo-kst.jp > service102",
+    "url": "https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4",
+    "pass": 3
+   },
+   {
+    "quote": "【第3回公募】 省力化投資補助金 一般型 とは？概要・対象 ... — 【第3回公募】 省力化投資補助金 一般型 とは？概要・対象 ... 株式会社Planbase https://planbase.co.jp > コラム",
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 — 【2026年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 株式会社Planbase https://planbase.co.jp > コラム",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業 省力化投資補助金 一般型 の第6回公募を解説 — 中小企業 省力化投資補助金 一般型 の第6回公募を解説 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム",
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】 省力化投資補助金 （ 一般型 ）とカタログ型の違いを ... — 【解説】 省力化投資補助金 （ 一般型 ）とカタログ型の違いを ... 赤崎行政書士事務所 https://office-akasaki.com > blog > entry-201-shoryokuka...",
+    "url": "https://office-akasaki.com/blog/entry-201-shoryokuka-ippan-vs-catalog.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 2026 年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 — 【 2026 年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 株式会社Planbase https://planbase.co.jp > コラム",
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "pass": 3
+   }
+  ],
+  "売り先の数": [
+   {
+    "quote": "過去5年支援企業数 1,600社以上！",
+    "url": "https://hojokin-joseikin.com/3302/",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. 従業員規模別の補助上限額",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "表2：従業員規模別の補助上限額",
+    "url": "https://baie-amalfi.com/9925-2/",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年支援企業数 1,600社以上！",
+    "url": "https://hojokin-joseikin.com/4540/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/hint/27807/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/hint/33912/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p8212/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://svltd.co.jp/syouryokukahojo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojosapo.com/growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r6/shoryokuka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p1240/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/solution/smb/list/theme/subsidy/shoryokuka/general",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/3302/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baie-amalfi.com/9925-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://office-akasaki.com/blog/entry-201-shoryokuka-ippan-vs-catalog.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka.jp/subsidy/shoryokukaippan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono-support.com/shoujinka/shoryokuka-hojokin-ippangata-saitakuryou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-concierge.com/media/2025/01/20/2025_shouryokuka_hojyokin_hojyoritu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creast-co.com/hojyokin_menu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.breakingviews.com/ddb76cfb4026/columns/considered-view/japan-petrol-subsidy-cut-could-mark-fiscal-limit-2026-11-03/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://english.kyodonews.net/articles/-/83042",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/economy/policy/articles/japans-govt-finalises-19-billion-234750288.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.kantei.go.jp/ongoingtopics/sogokeizaitaisaku2025/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/4540/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gandn.co.jp/column/1771/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka-catalog.zeroplus-consul.co.jp/useful_info/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%9C%81%E5%8A%9B%E5%8C%96%E6%8A%95%E8%B3%87%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E6%B3%A8%E6%96%87%E5%9E%8B%E3%80%802026%E5%B9%B43/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "省力化投資補助金（一般型）の補助率と上限",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/ippan/",
+    "https://mirasapo-plus.go.jp/hint/27807/",
+    "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "https://www.tokyo-cm.co.jp/saving/",
+    "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "https://hojosapo.com/growth.html",
+    "https://gandn.co.jp/column/1771/",
+    "https://zenoncreates.com/shoryokuka_ippan/",
+    "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+   ]
+  },
+  {
+   "query": "省力化投資補助金（一般型）の補助率と上限 料金 相場",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "https://mirasapo-plus.go.jp/hint/33912/",
+    "https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4",
+    "https://www.sme-support.co.jp/column/p8212/",
+    "https://svltd.co.jp/syouryokukahojo/",
+    "https://planbase.co.jp/column/shoryokuka-subsidy/",
+    "https://hojosapo.com/growth.html",
+    "https://ichidokiri.co.jp/column/syoryokuka_202504/",
+    "https://innovales.jp/csth202502/",
+    "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+   ]
+  },
+  {
+   "query": "省力化投資補助金（一般型）の補助率と上限 規模別 社数",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "https://mirasapo-plus.go.jp/hint/33912/",
+    "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r6/shoryokuka.pdf",
+    "https://www.sme-support.co.jp/column/p1240/",
+    "https://canon.jp/biz/solution/smb/list/theme/subsidy/shoryokuka/general",
+    "https://hojokin-joseikin.com/3302/",
+    "https://baie-amalfi.com/9925-2/",
+    "https://ichidokiri.co.jp/column/investment-subsidy-selection/",
+    "https://shoryokuka.smrj.go.jp/ippan/"
+   ]
+  },
+  {
+   "query": "省力化投資補助金（一般型）の補助率と上限 比較 一覧",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/ippan/about/",
+    "https://mirasapo-plus.go.jp/hint/27807/",
+    "https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087",
+    "https://shacho-no-komon.net/column/sme-laborsaving-investment-subsity-overview",
+    "https://office-akasaki.com/blog/entry-201-shoryokuka-ippan-vs-catalog.html",
+    "https://shoryokuka.jp/subsidy/shoryokukaippan/",
+    "https://mono-support.com/shoujinka/shoryokuka-hojokin-ippangata-saitakuryou/",
+    "https://hojyokin-concierge.com/media/2025/01/20/2025_shouryokuka_hojyokin_hojyoritu",
+    "https://creast-co.com/hojyokin_menu",
+    "https://note.com/transtep/n/nd86cf33f2323"
+   ]
+  },
+  {
+   "query": "shoryokuka subsidy Japan rate cap",
+   "results": [
+    "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "https://www.breakingviews.com/ddb76cfb4026/columns/considered-view/japan-petrol-subsidy-cut-could-mark-fiscal-limit-2026-11-03/",
+    "https://english.kyodonews.net/articles/-/83042",
+    "https://finance.yahoo.com/economy/policy/articles/japans-govt-finalises-19-billion-234750288.html",
+    "https://japan.kantei.go.jp/ongoingtopics/sogokeizaitaisaku2025/index.html",
+    "https://shoryokuka.smrj.go.jp/",
+    "https://esgnews.com/japan-launches-1-34-billion-subsidy-plan-for-clean-energy-demand/",
+    "https://www.reuters.com/business/energy/japan-pm-takaichi-says-government-raise-target-gasoline-price-reduce-subsidies-2026-10-29/",
+    "https://www.reccessary.com/en/news/japan-clean-energy-subsidy-nuclear",
+    "https://hojokin-dx.com/articles/shoryokuka-hojokin-2026-complete-hub-guide/"
+   ]
+  },
+  {
+   "query": "省力化投資補助金（一般型）の補助率と上限 2025 OR 2026",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/ippan/",
+    "https://mirasapo-plus.go.jp/hint/33912/",
+    "https://planbase.co.jp/column/shoryokuka-ippan/",
+    "https://hojokin-joseikin.com/4540/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r6/shoryokuka.pdf",
+    "https://gandn.co.jp/column/1771/",
+    "https://shoryokuka-catalog.zeroplus-consul.co.jp/useful_info/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%9C%81%E5%8A%9B%E5%8C%96%E6%8A%95%E8%B3%87%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E6%B3%A8%E6%96%87%E5%9E%8B%E3%80%802026%E5%B9%B43/",
+    "https://baie-amalfi.com/9925-2/",
+    "https://shoryokuka.smrj.go.jp/ippan/about/"
+   ]
+  }
+ ],
+ "missing": {
+  "取り分・マージン": "記載なし（読んだ33頁・検索6回）"
+ }
+}

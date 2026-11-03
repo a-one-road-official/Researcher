@@ -1,0 +1,512 @@
+# 3つの選択肢の市場の前提 — 売り先の数・単価・取り分・補助金・競合（事実のみ・14品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 試作・受託開発の町工場の数（従業員規模別）（number of prototyping job shops Japan by size）
+- 文脈：①Yomi
+- 売り先の数：
+  - 「イ 工業統計にみる喜多方市の製造業の特徴・・・・・・・・・・・・・・・・・ 9」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「勢調査3」 「工業統計調査4」 「経済センサス5」などの調査結果を用いて表しました」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「4 工業統計調査…経済産業省が実施する、産業政策、中小企業政策など、国や都道府県などの地方公共団体の行政施」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「策のための基礎資料を得るとともに、経済センサス-活動調査の中間における経済構造統計を作成することを目的」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「5 経済センサス…事業所及び企業の経済活動の状態を明らかにし、我が国における包括的な産業構造を明らかにする」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「③ 市内の産業別事業所数」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「市内の産業別事業所数の推移では、第 2 次産業は第 3 次産業と同様に平成 18 年と」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「(資料： 「事業所統計」及び「経済センサス」)」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「本市における産業別事業所数の推移（単位：社）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「イ 工業統計にみる喜多方市の製造業の特徴」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「性に欠けますが、本市における製造業の事業所数は減少傾向にあります」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「(資料：福島県工業統計調査」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「本市における製造業事業所数の推移（単位：社）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「従業員規模別事業所数を見ると従業員数4～9 人が全体の約4 割を占め、 最も多くな」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「(資料： 「経済センサス」)」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+- 単価・価格：
+  - 「資本金1,000万円、従業員数は本社・各営業所含め約52名」（https://mokei-hikaku.com/）
+  - 「株式会社アートウインズ（ARTWINDS Co., Ltd.）は、1995年設立、資本金1,000万円」（https://mokei-hikaku.com/）
+  - 「株式会社松田モデルは、1973年設立、資本金3,000万円」（https://mokei-hikaku.com/）
+  - 「資本金9,000万円」（https://mokei-hikaku.com/）
+  - 「資本金1億円、従業員数は約43名（2022年時点）」（https://mokei-hikaku.com/）
+  - 「創業は1916年、従業員数は約60名、資本金1,000万円」（https://mokei-hikaku.com/）
+  - 「2,000万円」（https://mokei-hikaku.com/）
+  - 「1,000万円」（https://mokei-hikaku.com/）
+  - 「3,000万円」（https://mokei-hikaku.com/）
+  - 「2,300万円」（https://mokei-hikaku.com/）
+  - 「5,000万円」（https://mokei-hikaku.com/）
+  - 「どの部素材不足に始まり、原材料価格の高騰や今後はカーボンニュートラル1への取り組み、」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「近年の本市の業種別総生産をみると、ほぼ1,400 億円前半で安定的に推移していま」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「300 億円前半で推移しています」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「本市における製造品出荷額等8の推移（単位：億円）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+- 市場規模・台数：
+  - 「資本金1億円、従業員数は約43名（2022年時点）」（https://mokei-hikaku.com/）
+  - 「近年の本市の業種別総生産をみると、ほぼ1,400 億円前半で安定的に推移していま」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「300 億円前半で推移しています」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「本市における製造品出荷額等8の推移（単位：億円）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「製造品出荷額は500 億円台後半から700 億円台前半の間を推移しており、令和2 年」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「度は76 億円程度落ち込み、 令和3 年度には109 億円上昇しました」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「ついては、概ね50 億円から100 億円で推移しています」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「産業中分類別製造品出荷額等を見ると、最も多いのが非鉄金属製造業の 172 億円」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「(23％)、次いで金属製品製造業の148 億円(20％)、生産用機械器具製造業の104 億円」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「最後に付加価値額を見ると、 最も多いのが非鉄金属製造業の62 億円(20％)、 次いで」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「生産用機械器具製造業の42 億円(14％)、輸送用機械器具製造業の42 億円(14％)とな」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「比較すると、 総額では22 億円の増加となっています」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「機械器具製造業で17 億円増、 輸送用機械器具製造業で9 億円増などがあります」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+- 補助金：
+  - 「⑯ 補助金の申請実績（過去3 年）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「補助金の申請実績を見ると、5 年前の調査と比較すると若干の伸びが見られるものの、」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「補助金の申請実績（過去３年）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+- 競合：
+  - 「全国の試作メーカー比較！主要12社の特徴と強みを徹底解析！モックアップやプロトタイプを手掛ける試作メーカーを地域別に紹介」（https://mokei-hikaku.com/）
+  - 「試作メーカ比較サイト」（https://mokei-hikaku.com/）
+  - 「試作メーカー比較」（https://mokei-hikaku.com/）
+  - 「短納期・低コストで様々な業界に試作品を提供」（https://mokei-hikaku.com/）
+  - 「プロダクトデザイン、筐体設計、3Dプリント、ワーキングモデル、真空注型、部品加工、各種表面処理を一貫提供」（https://mokei-hikaku.com/）
+  - 「同社は自動車を中心とした工業製品における企画・デザイン・機構設計からモデリング、モデル製作、検査治具の開発・製造までを内製で一貫して提供する総合開発支援企業です」（https://mokei-hikaku.com/）
+  - 「試作品・開発支援を主軸に、金属・プラスチック切削加工、板金、3D設計、光造形、真空注型、金型製作、塗装・印刷など多彩な技術を内製で提供」（https://mokei-hikaku.com/）
+  - 「三次元CAD/CAMを用いた設計・モデリングから、検査治具、試作モデル、試作金型、量産治具、光造形品、非接触三次元測定、リバースエンジニアリングまで一貫して製造支援を提供」（https://mokei-hikaku.com/）
+  - 「新製品開発に関するトータルサービス」（https://mokei-hikaku.com/）
+  - 「50年以上の歴史を誇る東大阪の試作専門企業で、創業以来デザイナー視点に立つ「デザイナーのサポーターたれ」の精神で、精巧なデザイン・ワーキングモデルを提供しています」（https://mokei-hikaku.com/）
+  - 「特徴３ 先端設備と匠の技術が融合したトータルモデル提供」（https://mokei-hikaku.com/）
+  - 「先端技術と匠の手加工技を融合したトータルモデル提供が可能です」（https://mokei-hikaku.com/）
+  - 「3次元CAD設計や加工、塗装・印刷などにも対応し、各部門の連携により品質・納期・コストを最適化し、迅速かつ安定したプロトタイプ提供を実現しています」（https://mokei-hikaku.com/）
+  - 「「高品質・実績」に自信があり、三次元測定機などによる厳格な品質管理で信頼性の高い製品を提供しています」（https://mokei-hikaku.com/）
+  - 「これにより、単なる試作だけでなく、設計改善や最適化も含めた価値提供が可能です」（https://mokei-hikaku.com/）
+- 導入期間・キャッシュ：
+  - 「短納期・低コストで様々な業界に試作品を提供」（https://mokei-hikaku.com/）
+  - 「ISO9001認証取得、医療機器製造業許可も保有し、高品質・短納期対応を掲げるものづくり企業です」（https://mokei-hikaku.com/）
+  - 「自動車、航空機分野を中心に、高品質・短納期・コスト制御を強みに展開」（https://mokei-hikaku.com/）
+  - 「3次元CAD設計や加工、塗装・印刷などにも対応し、各部門の連携により品質・納期・コストを最適化し、迅速かつ安定したプロトタイプ提供を実現しています」（https://mokei-hikaku.com/）
+  - 「特徴３ 見積から出荷まで迅速化された短納期対応プロセスを確立」（https://mokei-hikaku.com/）
+  - 「全工程の密な連携と迅速な見積り対応により、「短納期」「全国対応」「緊急依頼対応」といったニーズに応えるスピードが強みです」（https://mokei-hikaku.com/）
+  - 「設計から製造・納品まで、小ロット・短納期・コスト削減など、顧客の多様な要望に柔軟に対応可能な体制」（https://mokei-hikaku.com/）
+  - 「特徴５ 高速アクセス立地で物流効率と納期短縮を実現」（https://mokei-hikaku.com/）
+  - 「東九州自動車道「西都IC」から車10分、JR日向新富駅から車20分という好アクセスにより、物流効率と納期短縮に優れた立地を活かしています」（https://mokei-hikaku.com/）
+  - 「特徴４ 中小規模でも高精度・短納期対応」（https://mokei-hikaku.com/）
+  - 「コスト効率・納期短縮・現地市場への迅速供給力を確保しています」（https://mokei-hikaku.com/）
+  - 「・アンケート…郵送にて調査票を送付、回収」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「・アンケート…令和6 年1 月29 日～2 月20 日（この後も随時回収）」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「経営上の強みについて、 品質管理や小ロット生産・試作、 量産体制、 短納期対応等があげ」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+  - 「14 リーン生産方式…生産工程の「ムダ」を徹底的に排除することで、多品種大量生産、かつ短納期・高品質・低コ」（https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf）
+- 検索結果の抜粋：
+  - 「全国の 試作 メーカー 比較 ！主要12社の特徴と強みを徹底解析 ... — 全国の 試作 メーカー 比較 ！主要12社の特徴と強みを徹底解析 ... mokei-hikaku.com https://mokei-hikaku.com」（https://mokei-hikaku.com/）
+- 取り分・マージン：記載なし（読んだ33頁・検索6回）
+
+## 製造業向け見積AIの料金（quotation AI for manufacturers Japan pricing）
+- 文脈：①Yomi
+- 競合：
+  - 「AI見積書作成・見積自動化とは？製造業・建設業のAI見積もりツール比較と導入効果を解説【2026年版】 | 株式会社renue」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「AI見積書作成・見積自動化とは？製造業・建設業のAI見積もりツール比較と導入効果を解説【2026年版】」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「製造業・建設業のAI見積書作成ツールを比較」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「renueが社内で運用しているシステムをサービス化したものです」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「何ができるか、どう動くかをサービスページでご覧ください」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「発表時は一部利用者に限定した提供で、担当者による確認・調整を前提としています」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「株式会社ガミのサービス」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「AI図面解析ツールとは区別して比較」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「代表的な案件で正解の見積と比較し、項目の漏れ・数量・単価・総額の誤差を分けて評価し、人間が最終確認してください」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「AIチャットボットの費用比較｜料金の単位・総費用と効果の確かめ方」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「記事一覧へ戻る」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「renueの実装支援サービス」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「同種の課題を抱えている場合は、関連サービスをご検討ください」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「この記事に特に関連するサービス」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+  - 「全サービスを見る」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+- 導入期間・キャッシュ：
+  - 「主に、見積作成時間の大幅削減（手作業で長時間かかる作業を短時間化し営業リードタイムを劇的に短縮）、属人化の解消（ベテラン依存を脱しデータに基づき標準化、誰が作っても一定品質）、赤字案件の防止（過去利益率の分析で赤字リスクを事前にアラート）、提案力の強化（初回商談で概算見積を即提示し顧客信頼感を向上）、です」（https://renue.co.jp/posts/ai-estimate-quote-automation-manufacturing-guide-2026）
+- 売り先の数：記載なし（読んだ26頁・検索6回）
+- 単価・価格：記載なし（読んだ26頁・検索6回）
+- 取り分・マージン：記載なし（読んだ26頁・検索6回）
+- 市場規模・台数：記載なし（読んだ26頁・検索6回）
+- 補助金：記載なし（読んだ26頁・検索6回）
+
+## 製造業向けナレッジAI・過去案件検索AIの料金（knowledge AI past project search manufacturers Japan）
+- 文脈：①Yomi
+- 売り先の数：記載なし（読んだ31頁・検索6回）
+- 単価・価格：記載なし（読んだ31頁・検索6回）
+- 取り分・マージン：記載なし（読んだ31頁・検索6回）
+- 市場規模・台数：記載なし（読んだ31頁・検索6回）
+- 補助金：記載なし（読んだ31頁・検索6回）
+- 競合：記載なし（読んだ31頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ31頁・検索6回）
+
+## 中小企業向けオンプレ生成AI導入の費用（on-premise generative AI SMB Japan cost）
+- 文脈：①Yomi
+- 売り先の数：記載なし（読んだ35頁・検索6回）
+- 単価・価格：記載なし（読んだ35頁・検索6回）
+- 取り分・マージン：記載なし（読んだ35頁・検索6回）
+- 市場規模・台数：記載なし（読んだ35頁・検索6回）
+- 補助金：記載なし（読んだ35頁・検索6回）
+- 競合：記載なし（読んだ35頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ35頁・検索6回）
+
+## 省力化投資補助金（一般型）の補助率と上限（shoryokuka subsidy Japan rate cap）
+- 文脈：①Yomi
+- 売り先の数：
+  - 「過去5年支援企業数 1,600社以上！」（https://hojokin-joseikin.com/3302/）
+  - 「2-1. 従業員規模別の補助上限額」（https://baie-amalfi.com/9925-2/）
+  - 「表2：従業員規模別の補助上限額」（https://baie-amalfi.com/9925-2/）
+  - 「過去5年支援企業数 1,600社以上！」（https://hojokin-joseikin.com/4540/）
+- 単価・価格：
+  - 「最大1億円を」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「750万円（1,000万円）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「1,500万円（2,000万円）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「3,000万円（4,000万円）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「5,000万円（6,500万円）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「8,000万円（1億円）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「1,000万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「1,500万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「補助金上限は最大1億円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「2,000万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「3,000万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「4,000万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「5,000万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「6,500万円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「8,000万円」（https://mirasapo-plus.go.jp/hint/27807/）
+- 市場規模・台数：
+  - 「最大1億円を」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「8,000万円（1億円）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「補助金上限は最大1億円」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「8,000万円（1億円）」（https://shoryokuka.smrj.go.jp/ippan/about/）
+  - 「101人以上 8,000万円（1億円）」（https://shoryokuka.smrj.go.jp/ippan/about/）
+  - 「しかも最大で補助金額は1億円！ 当社も平成19年に設立以来、数多くの補助金申請を支援しておりますが、このような使い勝手の良い補助金は滅多に見ることができません」（https://www.tokyo-cm.co.jp/saving/）
+  - 「「省力化補助金とは？2類型の違い・最大1億円・締切【2026年】」」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「大幅賃上げ特例を使うと最大1億円まで上がります」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「750万〜8,000万円（大幅賃上げ特例で1,000万円〜1億円）」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「中小企業に当たるかどうかは業種ごとの資本金・常勤従業員数で決まります（例：製造業・建設業・運輸業は資本金3億円以下または常勤従業員300人以下）」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「売上100億円を目指す製造業へ：成長加速化補助金で実現する大規模投資」（https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087）
+  - 「補助金上限は最大1億円」（https://mirasapo-plus.go.jp/hint/33912/）
+  - 「101名以上：補助上限8,000万円（1億円） （）内は大幅賃上げ特例の要件を満たす場合」（https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4）
+  - 「従業員数に応じて250万円〜2,000万円（最大1億円）」（https://www.sme-support.co.jp/column/p8212/）
+  - 「従業員101人以上の場合は、8,000万円から1億円へ引き上げられます」（https://www.sme-support.co.jp/column/p8212/）
+- 補助金：
+  - 「トップページ（一般型）｜中小企業省力化投資補助金」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「投資補助金（一般型）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「中小企業省力化投資補助金（一般型）」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「本事業へ応募申請・交付申請中の事業者及び交付決定を受け事務局からの補助金支払が完了していない事業者は申請できませんので、ご注意ください」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「採択結果の公表について」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「本事業に採択された場合、申請者名・住所（市区町村まで）・法人番号・事業計画名・支援機関名等を本ホームページにて公表することとしますので、ご了承ください」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「大幅賃上げ特例の適用時、（）内の補助上限額に引き上げ」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「最低賃金引き上げ特例の適用時、（）内の補助率に引き上げ」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「設備導入・システム構築等の多様な省力化投資を支援する補助金です」（https://shoryokuka.smrj.go.jp/ippan/）
+  - 「中小企業庁担当者に聞く 「より活用しやすく! 中小企業省力化投資補助金のポイント」 | 経済産業省 中小企業庁」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「補助金・総合支援サイト」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「補助金・助成金等チラシ」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「補助金を探す」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「地域の補助金・助成金を探す」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「人気の補助金」（https://mirasapo-plus.go.jp/hint/27807/）
+- 競合：
+  - 「※GビズIDやSNSアカウントをお使いの場合は、各々のサービスでパスワードを変更ください」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「補助金の申請サポート、導入後のアフターサービスも安心感が増すのではないでしょうか」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「●新事業進出・ものづくり商業サービス補助金との違い」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「「新事業進出・ものづくり商業サービス補助金」の目的が「革新的な新製品・新サービス開発」「既存事業とは異なる新市場・高付加価値事業への進出」等であるのに対して、中小企業省力化投資補助金［一般型］は」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「「カタログ注文型」と［一般型］を比較」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「それぞれの特徴についてまとめ、比較してみました」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「省力化投資補助金「カタログ注文型」と［一般型］の比較」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「機械装置・システム構築費（必須）、技術導入費、専門家経費、運搬費、クラウドサービス利用費、外注費、知的財産権等関連経費が補助対象経費となります」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「サービス補助金」（https://mirasapo-plus.go.jp/hint/27807/）
+  - 「生産・業務プロセス、サービス提供方法の省力化を行う者」（https://shoryokuka.smrj.go.jp/ippan/about/）
+  - 「３～５年の事業計画期間内に、補助事業において、設備投資前と比較して付加価値額が増加する事業計画を策定すること」（https://shoryokuka.smrj.go.jp/ippan/about/）
+  - 「機械装置・システム構築費（必須）、技術導入費、 専門家経費、運搬費、クラウドサービス利用費、外注費、知的財産権等関連経費」（https://shoryokuka.smrj.go.jp/ippan/about/）
+  - 「『新事業進出・ものづくり商業サービス補助金』とは？」（https://www.tokyo-cm.co.jp/saving/）
+  - 「クラウドサービス利用費」（https://www.tokyo-cm.co.jp/saving/）
+  - 「サービス内容」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+- 導入期間・キャッシュ：
+  - 「事業計画上の投資回収期間を根拠資料とともに提出すること」（https://shoryokuka.smrj.go.jp/ippan/about/）
+  - 「補助金が入金されるまでに、事業計画に沿った全ての経費（設備投資、開発・・・）を使った上で、正しい資料（仕様書、注文書、納品書、検収書、通帳コピー・・・）を完璧に提出する必要があります」（https://www.tokyo-cm.co.jp/saving/）
+  - 「2. 投資回収期間」（https://www.tokyo-cm.co.jp/saving/）
+  - 「省力化にかかる経費総額をどれだけの期間で回収できるかを数値で示す」（https://www.tokyo-cm.co.jp/saving/）
+  - 「「投資回収期間」」（https://www.tokyo-cm.co.jp/saving/）
+  - 「このほか、省力化指数を計算した計画であること、投資回収期間を根拠資料とともに示すこと、事業計画期間内に付加価値額が増えること、オーダーメイド設備を導入する計画であることも求められます」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「省力化指数・投資回収期間と審査の4つの観点」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「投資回収期間と付加価値額の計算方法」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「投資回収期間＝投資額÷（削減工数×年間稼働日数×人件費単価＋増加した付加価値額）」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「投資回収期間」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「投資回収期間が短い取組であることと、その算出根拠が妥当か」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「審査のどの観点で評価が低かったかを見直し、省力化指数や投資回収期間の根拠、賃上げ計画を補強してから次の公募回に申請しましょう」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「着手金0円・成功報酬で、一般型では事業計画書の作成支援と、省力化指数・投資回収期間・付加価値額の算出根拠の整理を一緒に進めます」（https://ichidokiri.co.jp/column/syoryokuka_202504/）
+  - 「投資回収期間」（https://planbase.co.jp/column/shoryokuka-subsidy/）
+  - 「回収期間が合理的な範囲であること（できれば3〜5年以内）を説明」（https://planbase.co.jp/column/shoryokuka-subsidy/）
+- 検索結果の抜粋：
+  - 「省力化投資補助金 （ 一般型 ）徹底解説！ものづくり ... - 船井総研 — 省力化投資補助金 （ 一般型 ）徹底解説！ものづくり ... - 船井総研 船井総合研究所 https://www.funaisoken.co.jp > shoryoku-i_703_S087」（https://www.funaisoken.co.jp/solution/shoryoku-i_703_S087）
+  - 「令和8年度 中小企業 省力化投資補助金 ［ 一般型 ］ - ミラサポPlus — 令和8年度 中小企業 省力化投資補助金 ［ 一般型 ］ - ミラサポPlus 中小企業庁 ミラサポplus https://mirasapo-plus.go.jp > hint」（https://mirasapo-plus.go.jp/hint/33912/）
+  - 「省力化投資補助金 （ 一般型 ） - 東京経営サポーター — 省力化投資補助金 （ 一般型 ） - 東京経営サポーター 東京経営サポーター https://www.tokyo-kst.jp > service102」（https://www.tokyo-kst.jp/service102.html?srsltid=AYCX9vIDPOd23V-i538P6vodWaYAOaU9hcikfl-j72jrDNpvrpV3CKE4）
+  - 「【第3回公募】 省力化投資補助金 一般型 とは？概要・対象 ... — 【第3回公募】 省力化投資補助金 一般型 とは？概要・対象 ... 株式会社Planbase https://planbase.co.jp > コラム」（https://planbase.co.jp/column/shoryokuka-subsidy/）
+  - 「【2026年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 — 【2026年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 株式会社Planbase https://planbase.co.jp > コラム」（https://planbase.co.jp/column/shoryokuka-ippan/）
+  - 「中小企業 省力化投資補助金 一般型 の第6回公募を解説 — 中小企業 省力化投資補助金 一般型 の第6回公募を解説 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム」（https://www.sme-support.co.jp/column/p1240/）
+  - 「【解説】 省力化投資補助金 （ 一般型 ）とカタログ型の違いを ... — 【解説】 省力化投資補助金 （ 一般型 ）とカタログ型の違いを ... 赤崎行政書士事務所 https://office-akasaki.com > blog > entry-201-shoryokuka...」（https://office-akasaki.com/blog/entry-201-shoryokuka-ippan-vs-catalog.html）
+  - 「【 2026 年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 — 【 2026 年最新】 省力化投資補助金 〈 一般型 〉を徹底解説 株式会社Planbase https://planbase.co.jp > コラム」（https://planbase.co.jp/column/shoryokuka-ippan/）
+- 取り分・マージン：記載なし（読んだ33頁・検索6回）
+
+## ものづくり補助金の補助率と上限（monodzukuri subsidy rate cap）
+- 文脈：②③共通
+- 単価・価格：
+  - 「ものづくり補助金の補助額は最大3,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「+1,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「1,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「1,500万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「1,250万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「8,000万円（最大）」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「＋最大1,000万円上乗せ」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「最大8,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「従業員 5人以下→最大 750万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「従業員 6人〜20人→最大 1,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「従業員 21人以上→最大 1,250万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「例）従業員15人の中小企業（補助率1/2）が、2,400万円の設備投資をする場合」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「まず補助率で計算→2,400万円 × 1/2 ＝ 1,200万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「上限額を確認→従業員15人の上限は 1,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「実際の支給額→低い方の 1,000万円 が支給される」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+- 補助金：
+  - 「ものづくり補助金の補助額はどれくらい？上限や条件を詳しく解説 | みんなの補助金コンシェルジュ」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助金・助成金・給付金相談・活用のプラットフォームなら」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「みんなの補助金コンシェルジュ」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助金AIレコメンド」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「ものづくり補助金」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「ものづくり補助金の補助額はどれくらい？上限や条件を詳しく解説」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「ものづくり補助金の補助額は最大3,000万円」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「枠や事業規模により異なり、補助率は中小企業1/2、小規模事業者は2/3が基本」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「【無料】御社に合った補助金・助成金を診断！」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「ものづくり補助金の補助額や上限はどのくらい？」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「【2026年最新版】ものづくり補助金の補助額・上限額の仕組み」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助上限額は従業員数で決まる？」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助率は企業の規模で決まる？」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助金獲得の成功事例には何がある？」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助額がいくらになるかは補助率による」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+- 競合：
+  - 「関連コラム一覧」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「ランキングを見る」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「製品・サービス開発（高付加価値化枠）」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「補助上限額一覧（目安）」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「製品・サービス高付加価値化枠」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「を解消するロボット導入や、革新的な新サービス開発などの初期投資を強力にバックアップすることを目的としています」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「製品・サービス高付加価値化枠（通常類型）」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「革新的なサービスや製品開発であればかなり幅広い業種が対象となり、ユニークな事例が採択されています」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「北海道のIT企業が開発した飲食店が狩猟者にジビエを発注できるwebサービス」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「愛媛県の農業資材を扱う企業が提案したドローンによる農薬散布サービス」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「製品やサービスを高めるための枠では、補助率が」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「では、2025年以前と比較して劇的に上限額が引き上げられています」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「製品やサービスがどれだけ革新的かがみられます」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「ものづくり補助金の申請は競争率が高いですから、他の事業者や製品と比較していかに斬新な技術や発想を取り入れているか、アピールしましょう」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+  - 「自社の製品やサービスが、競合他社に比べてどのような」（https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku）
+- 売り先の数：記載なし（読んだ34頁・検索6回）
+- 取り分・マージン：記載なし（読んだ34頁・検索6回）
+- 市場規模・台数：記載なし（読んだ34頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ34頁・検索6回）
+
+## 卓上金属3Dプリンターの価格（desktop metal 3D printer price）
+- 文脈：②卓上金属AM
+- 単価・価格：
+  - 「：約20万円～」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「：約10万円」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「：約150万円～」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「電動モーターを"丸ごと"3Dプリント｜MITが実現した「材料費75円・3時間…」（https://skhonpo.com/blogs/blog/3dmetal2025）
+- 補助金：
+  - 「補助金活用ガイド」（https://skhonpo.com/blogs/blog/3dmetal2025）
+- 競合：
+  - 「ブランド別製品一覧」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「比較・導入相談」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「製品を比較する」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「お申込み・サービス」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「学生支援・導入事例」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「寄贈事業導入事例集」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「おすすめ商品一覧」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「アカウントサービス」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「比較的簡単に」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「もセットで提供されており、本格的な金属部品の製造が可能！」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「外部サービス」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「BASF Ultrafuse焼結サービス」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「なら、家庭でも比較的簡単に」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「【2026年版】3Dプリンターフィラメント完全比較ガイド｜素材・用途別の選び方を正規代理店が解説」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「【2026年版】おすすめ3Dプリンター比較ガイド｜FDM・光造形方式の最新機種12選」（https://skhonpo.com/blogs/blog/3dmetal2025）
+- 検索結果の抜粋：
+  - 「家庭で使える小型 金属3Dプリンター 完全ガイド - SK本舗 — 家庭で使える小型 金属3Dプリンター 完全ガイド - SK本舗 SK本舗 https://skhonpo.com > 【3Dプリンター】業界ニュース」（https://skhonpo.com/blogs/blog/3dmetal2025）
+- 売り先の数：記載なし（読んだ34頁・検索6回）
+- 取り分・マージン：記載なし（読んだ34頁・検索6回）
+- 市場規模・台数：記載なし（読んだ34頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ34頁・検索6回）
+
+## 日本の金属3Dプリンター市場規模と出荷台数（Japan metal 3D printer market size units）
+- 文脈：②卓上金属AM
+- 単価・価格：
+  - 「金属AM市場、2034年に9兆円規模へ！VoxelMattersが最新市場レポートを公開」（https://news.sharelab.jp/3dp-news/report/）
+  - 「アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業務用3Dプリンター市場、2026年に約6,300億円に成長見込み」（https://news.sharelab.jp/3dp-news/report/）
+  - 「材料の性能やプリント速度、コストといった課題は残るものの、その市場は2025年には約60兆円にまで成長すると見込まれて…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/report/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/report/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/report/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/report/）
+- 市場規模・台数：
+  - 「世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「3Dプリンティング金属市場の現在の市場規模はどのくらいですか？」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「ルビジウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「アンチモン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「世界の3Dプリント市場規模予測、2025年に250億ドルに達する見込み」（https://news.sharelab.jp/3dp-news/report/）
+  - 「市場調査会社のSmarTech Analysis社は、グローバルでの3Dプリント市場規模が2050年に約250億ドルに達する見込みであることを発表した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業界全体の市場規模は前年同期比27%…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業務用3Dプリンター市場、2026年に約6,300億円に成長見込み」（https://news.sharelab.jp/3dp-news/report/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/report/）
+- 補助金：
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/3dp-news/report/）
+- 競合：
+  - 「鉱業サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「医療サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「専門サービスおよび商業サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「商業サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「専門サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「消費者向けおよびB2C向けサービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「ソフトウェア＆サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「製造サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「電気機器およびサービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「自動車サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「金融サービス業界」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「保険サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「金融サービス」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「4つ以上のレーザーを搭載した最新の産業用金属プリンターは、シングルレーザー構成と比較して造形生産性を向上させる能力を備えている」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「チタン、ニッケル合金、ステンレス鋼、コバルトクロムといった材料は、強度、耐熱性、耐腐食性といった様々な特性の組み合わせを必要とする部品の製造において、メーカーに多様な選択肢を提供します」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+- 売り先の数：記載なし（読んだ31頁・検索6回）
+- 取り分・マージン：記載なし（読んだ31頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ31頁・検索6回）
+
+## 3Dプリンター販売代理店のマージン（3D printer reseller margin）
+- 文脈：②卓上金属AM
+- 売り先の数：記載なし（読んだ35頁・検索6回）
+- 単価・価格：記載なし（読んだ35頁・検索6回）
+- 取り分・マージン：記載なし（読んだ35頁・検索6回）
+- 市場規模・台数：記載なし（読んだ35頁・検索6回）
+- 補助金：記載なし（読んだ35頁・検索6回）
+- 競合：記載なし（読んだ35頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ35頁・検索6回）
+
+## 日本の金属3Dプリンター販売代理店（metal 3D printer distributors Japan）
+- 文脈：②卓上金属AM
+- 売り先の数：記載なし（読んだ34頁・検索6回）
+- 単価・価格：記載なし（読んだ34頁・検索6回）
+- 取り分・マージン：記載なし（読んだ34頁・検索6回）
+- 市場規模・台数：記載なし（読んだ34頁・検索6回）
+- 補助金：記載なし（読んだ34頁・検索6回）
+- 競合：記載なし（読んだ34頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ34頁・検索6回）
+
+## 金属3Dプリンターの導入先（大学・デザイン事務所・建築）（metal 3D printer adopters universities design studios Japan）
+- 文脈：②卓上金属AM
+- 売り先の数：記載なし（読んだ33頁・検索6回）
+- 単価・価格：記載なし（読んだ33頁・検索6回）
+- 取り分・マージン：記載なし（読んだ33頁・検索6回）
+- 市場規模・台数：記載なし（読んだ33頁・検索6回）
+- 補助金：記載なし（読んだ33頁・検索6回）
+- 競合：記載なし（読んだ33頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ33頁・検索6回）
+
+## 日本の受託開発・設計受託会社の数（規模別）（number of contract development design firms Japan）
+- 文脈：③WL
+- 売り先の数：
+  - 「システム開発の費用・相場【2026年版】｜内訳と規模別事例」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「規模別の費用相場（スクラッチ開発の場合）」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「規模別・技術スタック別の詳しい費用内訳や、工程ごとの費用比率、発注前に確認すべきチェックリストは」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「総務省の日本標準産業分類において、システム開発事業は「」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「日本標準産業分類では、ソフトウェア業(システム開発業)は、以下の4つに分類されます」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「日本標準産業分類 大分類Ｇ－情報通信業(総務省)」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「企業価値算定の3つの方法、業種・規模別の相場観、売却価格を高めるポイントを解説します」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「各方法の仕組みとメリット・デメリット、規模別の使い分けを図解でわかりやすく解説します」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「事業所数 １万５２４９ 事業所」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+  - 「(1) 事業所数」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+  - 「平成２ 1 年の ソフトウェア 業の事業所数は、 1 万 5249 事業所 となっている」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+  - 「① 経営組織別事業所数」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+  - 「第１－１ 表 経営組織別事業所数」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+  - 「② 単独事業所・本社・支社別事業所数」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+  - 「第１－２ 表 単独事業所・本社・支社別事業所数」（https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf）
+- 単価・価格：
+  - 「受託開発の費用相場は、小規模（〜20画面）で500〜1,200万円、中規模（〜60画面）で2,000〜6,000万円、大規模（100画面超）で6,000万円〜が目安です（2026年9月時点・税別）」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「〜20画面をチームで新規開発（500〜1,200万円）」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「画面数10未満の単機能ツール（100〜300万円）」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「単一業務の置き換え（100〜300万円）」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「既存の単機能ツールを置き換えるなら100〜300万円、複数画面の業務システムを新規に請け負う場合は500万円以上、と読み分けてください」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「500〜1,200万円」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「100〜180万円」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「2,000〜6,000万円」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「150〜220万円」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「6,000万円〜1.5億円超」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「180〜250万円」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「たとえば中規模を20人月・単価180万円で見積もると 20 × 180 ＝ 3,600万円です」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「大規模の例で10名 × 12か月と計算すると120人月・2億円超になりますが、実際にはPM・設計者・テスト担当が工程ごとに入れ替わり、全員がフル稼働するわけではありません」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「開発会社にチーム体制で請け負ってもらう場合、小規模（〜20画面）で500〜1,200万円、中規模（〜60画面）で2,000〜6,000万円、大規模（100画面超）で6,000万円〜が目安です（税別、運用保守費を除く）」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「既存のAccess・Excelなど単機能ツールの置き換えなら100〜300万円程度に収まることが多く、この場合は」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+- 取り分・マージン：
+  - 「Sales & Margin Trend」（https://compalyze.co.jp/industry/IT-02）
+- 市場規模・台数：
+  - 「6,000万円〜1.5億円超」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「大規模の例で10名 × 12か月と計算すると120人月・2億円超になりますが、実際にはPM・設計者・テスト担当が工程ごとに入れ替わり、全員がフル稼働するわけではありません」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「はじめに、システム開発・受託開発の業務内容や2024年最新の市場規模、現状・今後の動向を解説します」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「システム開発・受託開発業界の市場規模（2024年最新版）」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「総務省および経済産業省が公表している「経済構造実態調査」によると、2019年から2023年までのソフトウェア業の市場規模(年間売上高)の推移は以下のとおりです(千万円以下は四捨五入)」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「2019年：24兆6586億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「2020年：26兆0876億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「2022年：30兆5,922億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「2023年：32兆3,056億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「2019年以降、市場規模が右肩上がりで拡大し続けていることが分かります」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「譲渡金額：4億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「譲渡金額：6億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「譲渡金額：5億円」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「譲渡金額：2億円(純資産額を基準に算定)[8]」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「譲渡金額：約37億円[15]」（https://ma-succeed.jp/content/knowledge/post-6613）
+- 補助金：
+  - 「それぞれの流れとメリット、事業承継税制・補助金など2026年時点の支援制度、かかる税金を図解で解説します」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「さらに、スタートアップや中小企業向けには、デジタルプロダクト開発における資金調達の課題を解決するため、「ものづくり補助金」をはじめとする補助金申請コンサルティングサービスも提供し、資金面からもクライアントをサポートしています」（https://compalyze.co.jp/industry/IT-02）
+  - 「同社は2020年にMicrosoft for Startupsへ採択され、代表者はMicrosoft MVP for IoTとして紹介されている」（https://compalyze.co.jp/industry/IT-02）
+  - 「特にエネルギー事業においては25年以上の実績を持ち、販売管理、修理点検管理、熱源機器診断支援、ガス警報器、定期保安巡回、ガス・検針請求管理、都市・産業エネルギー営業支援、選択約款・大口契約業務支援、電力販売管理、各種補助金申請、エネルギー施設建設・管理、エネルギー施設収支管理、電力販売・料金計算、電力発電機器・在庫管理など、多岐にわたる業務支援システムを40名以上のチーム体制でサポートしています」（https://compalyze.co.jp/industry/IT-02）
+  - 「国や自治体の補助金を使う場合は、開発会社が登録事業者でないと申請できない制度もあるため、問い合わせの段階で対象になるかを確認しておきます」（https://cone-c-slide.com/liblog/system-development/）
+- 競合：
+  - 「画面数: 一覧・詳細・登録・帳票など、機能ごとの画面を1本と数えた本数」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「既存のAccess・ExcelをWeb化する当社サービスの費用」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「見積書を受け取ったら、金額の合計ではなく次の4点を確認すると、費用構造を比較できます」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「相見積もりの比較や、要件の切り分けだけのご相談でも構いません」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「← 技術情報・コラム一覧に戻る」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「CTO顧問サービス」（https://www.siainc.jp/topic/outsourced-development-cost-factors-2025）
+  - 「一覧を見る →」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「本記事では一括請負・準委任・ラボ型・オフショアの契約形態を比較し、費用相場と失敗しないベンダー選定の判断軸をわかりやすく整理します」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「網羅的な知識よりも、発注判断に直結する比較軸が欲しいというのが、多くの発注担当者の本音です」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「本記事では、受託開発の定義をシンプルに整理したうえで、一括請負・準委任・ラボ型・オフショアという4つの契約形態を比較し、規模・技術スタック別の費用相場、そして失敗しないベンダー選定のチェックリストまでを一気通貫で解説します」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「受託開発とよく比較されるのが「内製開発」と「SES（客先常駐）」です」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「SESは技術者の労働力を提供する契約で、指揮命令権は発注者側にあり、成果物の完成責任を負わないのが特徴です」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「次の章では、代表的な4つの契約形態を比較しながら、自社プロジェクトにどれが合うかを判断する軸を整理します」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「ローコード・ノーコードツールを活用する場合は初期費用を抑えられますが、月額ライセンス費が継続的に発生するため、5年程度のトータルコストで比較するとスクラッチ開発と大きく変わらないケースもあります」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「以下のチェックリストを、見積もり依頼前・比較検討時の判断材料として活用してください」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+- 導入期間・キャッシュ：
+  - 「仕様が固まっており、予算と納期を確定させたいプロジェクトには一括請負が向いています」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「最低契約期間1ヶ月〜」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「要件が明確で予算・納期を固定したいなら一括請負」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「「予算と納期を固定したい」場合は請負、「優先度を見直しながら改善を続けたい」場合は準委任、を判断の軸にすると選びやすくなります」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「システムの目的・予算感・希望納期・現状の業務フローをまとめたRFP（提案依頼書）を準備するのが最優先です」（https://syusodo.co.jp/blog/articles/contracted-software-development）
+  - 「ゲーム会社の売却は、市場規模が拡大している現状において有用な戦略であり、投資資金の回収などを実現できます」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「M&Aによるイグジットとは、株式売買によって投資資金の回収を図ることです」（https://ma-succeed.jp/content/knowledge/post-6613）
+  - 「成長手段ではfonfunが黒字事業・5年回収を基準に累計11件のDXロールアップM&Aを実行済みで、第二次中計でオフショア拡大と子会社DXバリューアップへ移行する」（https://compalyze.co.jp/industry/IT-02）
+  - 「累計11件DXロールアップM&A（黒字・5年回収基準）で時価総額100億円達成、第二次中計でオフショア拡大へ」（https://compalyze.co.jp/industry/IT-02）
+  - 「株式会社BearsSystemは、業務システム開発を中核に、WEBシステム開発、ホームページ作成、システムコンサルティング、パソコン回収、ECサイトの管理・運営を手掛ける」（https://compalyze.co.jp/industry/IT-02）
+  - 「パソコン回収は非対面受け取りにも対応していたが、2025年1月に業務を一時休止している」（https://compalyze.co.jp/industry/IT-02）
+  - 「代金回収サービスは全国または北海道内の金融機関ネットワークを使って口座振替を実施し、回収代金を北洋銀行の指定口座へまとめて入金する契約・従量課金型の事業である」（https://compalyze.co.jp/industry/IT-02）
+  - 「Web口振受付サービスでは、利用者がパソコンやスマートフォンから口座登録でき、紙書類の回収や確認、郵送を省力化する」（https://compalyze.co.jp/industry/IT-02）
+  - 「さらに、HSDダイレクトによる全銀協フォーマットの請求データ送受信、口振工房による請求情報作成、コンビニ収納代行、電子バーコード「PAYSLE」を組み合わせ、口座登録から請求、回収結果の確認までを支える点に特徴がある」（https://compalyze.co.jp/industry/IT-02）
+  - 「ソフトウェア開発では、製造業の生産工程・受発注・原価管理、流通業の販売・物流・貨物追跡、金融機関の勘定系・代金回収、公共分野の介護保険・水道料金管理など、業種別の業務システムを受託開発する」（https://compalyze.co.jp/industry/IT-02）
+
+## 受託開発会社の営業・問い合わせ対応の予算（sales inquiry budget contract development firms Japan）
+- 文脈：③WL
+- 売り先の数：記載なし（読んだ35頁・検索6回）
+- 単価・価格：記載なし（読んだ35頁・検索6回）
+- 取り分・マージン：記載なし（読んだ35頁・検索6回）
+- 市場規模・台数：記載なし（読んだ35頁・検索6回）
+- 補助金：記載なし（読んだ35頁・検索6回）
+- 競合：記載なし（読んだ35頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ35頁・検索6回）
+
+## ホワイトラベルSaaSの再販マージン（white label SaaS reseller margin）
+- 文脈：③WL
+- 売り先の数：記載なし（読んだ36頁・検索6回）
+- 単価・価格：記載なし（読んだ36頁・検索6回）
+- 取り分・マージン：記載なし（読んだ36頁・検索6回）
+- 市場規模・台数：記載なし（読んだ36頁・検索6回）
+- 補助金：記載なし（読んだ36頁・検索6回）
+- 競合：記載なし（読んだ36頁・検索6回）
+- 導入期間・キャッシュ：記載なし（読んだ36頁・検索6回）

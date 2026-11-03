@@ -1,0 +1,808 @@
+{
+ "name": "試作・受託開発の町工場の数（従業員規模別）",
+ "en": "number of prototyping job shops Japan by size",
+ "aliases": [
+  "試作 受託開発 町工場",
+  "金属製品製造業 事業所数 規模別",
+  "生産用機械器具製造業 事業所数",
+  "試作メーカー"
+ ],
+ "context": "①Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:05:52.481216+00:00",
+ "evidence": {
+  "単価・価格": [
+   {
+    "quote": "資本金1,000万円、従業員数は本社・各営業所含め約52名",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アートウインズ（ARTWINDS Co., Ltd.）は、1995年設立、資本金1,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松田モデルは、1973年設立、資本金3,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金9,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円、従業員数は約43名（2022年時点）",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "創業は1916年、従業員数は約60名、資本金1,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2,300万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "どの部素材不足に始まり、原材料価格の高騰や今後はカーボンニュートラル1への取り組み、",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年の本市の業種別総生産をみると、ほぼ1,400 億円前半で安定的に推移していま",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300 億円前半で推移しています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本市における製造品出荷額等8の推移（単位：億円）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額は500 億円台後半から700 億円台前半の間を推移しており、令和2 年",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度は76 億円程度落ち込み、 令和3 年度には109 億円上昇しました",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ついては、概ね50 億円から100 億円で推移しています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別製造品出荷額等を見ると、最も多いのが非鉄金属製造業の 172 億円",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(23％)、次いで金属製品製造業の148 億円(20％)、生産用機械器具製造業の104 億円",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最後に付加価値額を見ると、 最も多いのが非鉄金属製造業の62 億円(20％)、 次いで",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産用機械器具製造業の42 億円(14％)、輸送用機械器具製造業の42 億円(14％)とな",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比較すると、 総額では22 億円の増加となっています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "資本金1億円、従業員数は約43名（2022年時点）",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の本市の業種別総生産をみると、ほぼ1,400 億円前半で安定的に推移していま",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300 億円前半で推移しています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本市における製造品出荷額等8の推移（単位：億円）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額は500 億円台後半から700 億円台前半の間を推移しており、令和2 年",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度は76 億円程度落ち込み、 令和3 年度には109 億円上昇しました",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ついては、概ね50 億円から100 億円で推移しています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別製造品出荷額等を見ると、最も多いのが非鉄金属製造業の 172 億円",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(23％)、次いで金属製品製造業の148 億円(20％)、生産用機械器具製造業の104 億円",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最後に付加価値額を見ると、 最も多いのが非鉄金属製造業の62 億円(20％)、 次いで",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産用機械器具製造業の42 億円(14％)、輸送用機械器具製造業の42 億円(14％)とな",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比較すると、 総額では22 億円の増加となっています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械器具製造業で17 億円増、 輸送用機械器具製造業で9 億円増などがあります",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "全国の試作メーカー比較！主要12社の特徴と強みを徹底解析！モックアップやプロトタイプを手掛ける試作メーカーを地域別に紹介",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "試作メーカ比較サイト",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "試作メーカー比較",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期・低コストで様々な業界に試作品を提供",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトデザイン、筐体設計、3Dプリント、ワーキングモデル、真空注型、部品加工、各種表面処理を一貫提供",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は自動車を中心とした工業製品における企画・デザイン・機構設計からモデリング、モデル製作、検査治具の開発・製造までを内製で一貫して提供する総合開発支援企業です",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品・開発支援を主軸に、金属・プラスチック切削加工、板金、3D設計、光造形、真空注型、金型製作、塗装・印刷など多彩な技術を内製で提供",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "三次元CAD/CAMを用いた設計・モデリングから、検査治具、試作モデル、試作金型、量産治具、光造形品、非接触三次元測定、リバースエンジニアリングまで一貫して製造支援を提供",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品開発に関するトータルサービス",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "50年以上の歴史を誇る東大阪の試作専門企業で、創業以来デザイナー視点に立つ「デザイナーのサポーターたれ」の精神で、精巧なデザイン・ワーキングモデルを提供しています",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特徴３ 先端設備と匠の技術が融合したトータルモデル提供",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "先端技術と匠の手加工技を融合したトータルモデル提供が可能です",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元CAD設計や加工、塗装・印刷などにも対応し、各部門の連携により品質・納期・コストを最適化し、迅速かつ安定したプロトタイプ提供を実現しています",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「高品質・実績」に自信があり、三次元測定機などによる厳格な品質管理で信頼性の高い製品を提供しています",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、単なる試作だけでなく、設計改善や最適化も含めた価値提供が可能です",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "１ 前回策定時との比較・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 24",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "内や近隣自治体との比較も行いながら、本市の工業が置かれている現状や特徴などを「国",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比較し3 割ほど減少していることがわかります",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 次産業については平成2 年と比較すると半分程度となっています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "運輸・郵便業 宿泊・飲食サービス業",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業 専門・科学技術、業務支援サービス業",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保健衛生・社会事業 その他のサービス",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成26 年の調査と比較す",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを平成 26 年の調査と比較すると、中分類別の比率に大きな変化はありませんが、",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比較すると、 総額では22 億円の増加となっています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 会津地区の他市町村との比較",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 県内 13 市との比較",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "県内の 13 市で工業関係指標を比較すると、事業所数・従業員数はいわき市、郡山",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・アンケート…業種、企業規模等を考慮して選定した市内主要企業121 社",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 前回策定時（平成30 年度 計画期間：2019 年～2023 年）との比較",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "短納期・低コストで様々な業界に試作品を提供",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001認証取得、医療機器製造業許可も保有し、高品質・短納期対応を掲げるものづくり企業です",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、航空機分野を中心に、高品質・短納期・コスト制御を強みに展開",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元CAD設計や加工、塗装・印刷などにも対応し、各部門の連携により品質・納期・コストを最適化し、迅速かつ安定したプロトタイプ提供を実現しています",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特徴３ 見積から出荷まで迅速化された短納期対応プロセスを確立",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "全工程の密な連携と迅速な見積り対応により、「短納期」「全国対応」「緊急依頼対応」といったニーズに応えるスピードが強みです",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "設計から製造・納品まで、小ロット・短納期・コスト削減など、顧客の多様な要望に柔軟に対応可能な体制",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特徴５ 高速アクセス立地で物流効率と納期短縮を実現",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東九州自動車道「西都IC」から車10分、JR日向新富駅から車20分という好アクセスにより、物流効率と納期短縮に優れた立地を活かしています",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特徴４ 中小規模でも高精度・短納期対応",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト効率・納期短縮・現地市場への迅速供給力を確保しています",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・アンケート…郵送にて調査票を送付、回収",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・アンケート…令和6 年1 月29 日～2 月20 日（この後も随時回収）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営上の強みについて、 品質管理や小ロット生産・試作、 量産体制、 短納期対応等があげ",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 リーン生産方式…生産工程の「ムダ」を徹底的に排除することで、多品種大量生産、かつ短納期・高品質・低コ",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期対応となっており、品質の高さが本市工業の特徴となっています",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット生産、短納期に強いことは受注の幅を広げ、企業の安定性に貢献していると",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・市内企業121 社へ送付、回収51 社",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "全国の 試作 メーカー 比較 ！主要12社の特徴と強みを徹底解析 ... — 全国の 試作 メーカー 比較 ！主要12社の特徴と強みを徹底解析 ... mokei-hikaku.com https://mokei-hikaku.com",
+    "url": "https://mokei-hikaku.com/",
+    "pass": 3
+   }
+  ],
+  "売り先の数": [
+   {
+    "quote": "イ 工業統計にみる喜多方市の製造業の特徴・・・・・・・・・・・・・・・・・ 9",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "勢調査3」 「工業統計調査4」 「経済センサス5」などの調査結果を用いて表しました",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 工業統計調査…経済産業省が実施する、産業政策、中小企業政策など、国や都道府県などの地方公共団体の行政施",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "策のための基礎資料を得るとともに、経済センサス-活動調査の中間における経済構造統計を作成することを目的",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 経済センサス…事業所及び企業の経済活動の状態を明らかにし、我が国における包括的な産業構造を明らかにする",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 市内の産業別事業所数",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市内の産業別事業所数の推移では、第 2 次産業は第 3 次産業と同様に平成 18 年と",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(資料： 「事業所統計」及び「経済センサス」)",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本市における産業別事業所数の推移（単位：社）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 工業統計にみる喜多方市の製造業の特徴",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "性に欠けますが、本市における製造業の事業所数は減少傾向にあります",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(資料：福島県工業統計調査",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本市における製造業事業所数の推移（単位：社）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別事業所数を見ると従業員数4～9 人が全体の約4 割を占め、 最も多くな",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(資料： 「経済センサス」)",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "⑯ 補助金の申請実績（過去3 年）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の申請実績を見ると、5 年前の調査と比較すると若干の伸びが見られるものの、",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の申請実績（過去３年）",
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://smallfactory.net/story007smallfactory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://machikouba.net/2022/03/machikouba1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prnagoya.jp/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%80%8C%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8C%E5%A4%9A%E3%81%84%E3%80%8D%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B8%82%E5%8C%BA%E7%94%BA%E6%9D%91%E3%83%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8550/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2021_all",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/na0d9e56770e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-fabhub.com/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%B2%BB%E7%94%A8%E3%82%92%E7%9F%A5%E3%82%8B%EF%BC%93%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.town.taketoyo.lg.jp/cgi-list/download.cgi?category=170&text=&group=0&sort=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gender.go.jp/kaigi/senmon/kihon/kihon_eikyou/pdf/02_2_chosakai_todoufuken.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mokei-hikaku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hilant.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E9%9B%86%E7%A9%8D%E5%9C%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004028802",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanhousela.com/exhibitions/prototyping-in-tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyofabhub.com/manufacturing-prototypes-tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/rapid-prototyping-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-government-portal.com/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%AB%B6%E4%BA%89%E5%8A%9B%E5%BC%B7%E5%8C%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001496473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "試作・受託開発の町工場の数（従業員規模別）",
+   "results": [
+    "https://smallfactory.net/story007smallfactory.html",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://machikouba.net/2022/03/machikouba1/",
+    "https://prnagoya.jp/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%80%8C%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8C%E5%A4%9A%E3%81%84%E3%80%8D%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B8%82%E5%8C%BA%E7%94%BA%E6%9D%91%E3%83%A9/",
+    "https://metoree.com/categories/8550/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://mokei-hikaku.com/",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://hilant.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E9%9B%86%E7%A9%8D%E5%9C%B0/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "試作・受託開発の町工場の数（従業員規模別） 料金 相場",
+   "results": [
+    "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://metoree.com/categories/8550/",
+    "https://note.com/ripla_business/n/na0d9e56770e7",
+    "https://tokyo-fabhub.com/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%B2%BB%E7%94%A8%E3%82%92%E7%9F%A5%E3%82%8B%EF%BC%93%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-2/",
+    "https://www.town.taketoyo.lg.jp/cgi-list/download.cgi?category=170&text=&group=0&sort=2",
+    "https://sewing-biz.sakuraweb.com/lingeriesewing-factory-small-lot/",
+    "https://techno-rise.co.jp/sekkei-souba/",
+    "https://koromo.io/blog/contract-development-estimate-market-rate/"
+   ]
+  },
+  {
+   "query": "試作・受託開発の町工場の数（従業員規模別） 規模別 社数",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.gender.go.jp/kaigi/senmon/kihon/kihon_eikyou/pdf/02_2_chosakai_todoufuken.pdf",
+    "https://smallfactory.net/story007smallfactory.html",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/064/739/shiryo.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "試作・受託開発の町工場の数（従業員規模別） 比較 一覧",
+   "results": [
+    "https://metoree.com/categories/8550/",
+    "https://mokei-hikaku.com/",
+    "https://smallfactory.net/story007smallfactory.html",
+    "https://mono.ipros.com/cg1/%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://machikouba.net/2022/03/machikouba1/",
+    "https://compalyze.co.jp/industry/IT-02",
+    "https://hilant.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E9%9B%86%E7%A9%8D%E5%9C%B0/",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "number of prototyping job shops Japan by size",
+   "results": [
+    "https://www.japanhousela.com/exhibitions/prototyping-in-tokyo/",
+    "https://tokyofabhub.com/manufacturing-prototypes-tokyo/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.linkedin.com/pulse/japan-laser-job-shop-services-professional-pii9c",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.precedenceresearch.com/rapid-prototyping-market",
+    "https://www.protolabs.com/",
+    "https://blog.lewagon.com/career/japan-tech-job-market-2025-2026/",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ]
+  },
+  {
+   "query": "試作・受託開発の町工場の数（従業員規模別） 2025 OR 2026",
+   "results": [
+    "https://smallfactory.net/story007smallfactory.html",
+    "https://ai-government-portal.com/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%AB%B6%E4%BA%89%E5%8A%9B%E5%BC%B7%E5%8C%96/",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://machikouba.net/2022/03/machikouba1/",
+    "https://metoree.com/categories/8550/",
+    "https://www.mhlw.go.jp/content/001496473.pdf",
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.city.kitakata.fukushima.jp/uploaded/attachment/47813.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ]
+  }
+ ],
+ "missing": {
+  "取り分・マージン": "記載なし（読んだ33頁・検索6回）"
+ }
+}

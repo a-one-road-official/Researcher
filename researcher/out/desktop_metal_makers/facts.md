@@ -1,0 +1,430 @@
+# 卓上金属3Dプリンターのメーカー — 価格・代理店条件・保守・認証・会社の実体（事実のみ・4社）
+
+## Metal-Base
+- 公式URL：https://www.metal-base.com（given）
+- 装置価格：
+  - 「True LPBF under €10k」（https://www.metal-base.com/・1回目）
+  - 「3DPOD 310:Metal LPBF Under $10k with Tom Bakker, Metal-Base」（https://www.metal-base.com/news-events・1回目）
+  - 「"Metal Base & Scrap Labs Usher in an Ultra-Low-Cost Sub-$10,000 Metal LPBF Evolution"」（https://www.metal-base.com/news-events・1回目）
+  - 「"MetalBase: An Engineer's €10,000 LPBF Machine"」（https://www.metal-base.com/news-events・1回目）
+  - 「"Metal-Base pre-launches sub-€10,000 LPBF metal 3D printer on Kickstarter"」（https://www.metal-base.com/news-events・1回目）
+  - 「Industrial Metal 3D Printing for Under €10k: Meet The Metal 1.0」（https://www.youtube.com/@Metal-Base-sp4hb・3回目）
+- 消耗品・粉末：
+  - 「Print dense 316L stainless steel with a compact, floor‑standing LPBF system built for labs, startups, enthusiast makers, and R&D teams. Standard power, straightforward install.」（https://www.metal-base.com/・1回目）
+  - 「316L stainless, Inconel 718, bronze (CuSn); copper in development」（https://www.metal-base.com/・1回目）
+  - 「Inert gas」（https://www.metal-base.com/・1回目）
+  - 「Nitrogen」（https://www.metal-base.com/・1回目）
+  - 「316L turbine」（https://www.metal-base.com/・1回目）
+  - 「316L boaty」（https://www.metal-base.com/・1回目）
+  - 「Thin layer of powder across the plate.」（https://www.metal-base.com/・1回目）
+  - 「Depowder」（https://www.metal-base.com/・1回目）
+  - 「Recover powder; reveal parts.」（https://www.metal-base.com/・1回目）
+  - 「LPBF involves laser and fine metal powder. Metal‑Base is designed with interlocks and an inert nitrogen atmosphere, and ships with clear handling procedures. Operators must follow local standards and wear appropriate PPE.」（https://www.metal-base.com/・1回目）
+  - 「316L stainless — production‑grade results」（https://www.metal-base.com/・1回目）
+  - 「Experiencing true LPBF metal 3D printing in person makes all the difference. Reading specifications is essential, but witnessing the Metal 1.0 live and handling dense samples tells the full story. Come find our booth at these upcoming events to observe the machine printing live, examine our verified 316L and SS CX test samples, and discuss how compact LPBF can fit into your lab or workshop.」（https://www.metal-base.com/news-events・1回目）
+- 日本対応・保守：
+  - 「Bronze (CuSn) — 94+% density supported」（https://www.metal-base.com/・1回目）
+- 認証：
+  - 「Process」（https://www.metal-base.com/・1回目）
+  - 「See recent builds →」（https://www.metal-base.com/・1回目）
+  - 「Klipper‑based motion and open‑source slicing for a familiar workflow.」（https://www.metal-base.com/・1回目）
+  - 「Specs at a glance」（https://www.metal-base.com/・1回目）
+  - 「Near‑full Stainless steel and Inconel, High density Bronze」（https://www.metal-base.com/・1回目）
+  - 「Klipper; open‑source slicing using OrcaSlicer」（https://www.metal-base.com/・1回目）
+  - 「LPBF involves laser and fine metal powder. Metal‑Base is designed with interlocks and an inert nitrogen atmosphere, and ships with clear handling procedures. Operators must follow local standards and wear appropriate PPE.」（https://www.metal-base.com/・1回目）
+  - 「Read the full safety guide」（https://www.metal-base.com/・1回目）
+  - 「316L stainless — production‑grade results」（https://www.metal-base.com/・1回目）
+  - 「Inconel 718 — production-grade results」（https://www.metal-base.com/・1回目）
+  - 「Process」（https://www.metal-base.com/news-events・1回目）
+  - 「Experiencing true LPBF metal 3D printing in person makes all the difference. Reading specifications is essential, but witnessing the Metal 1.0 live and handling dense samples tells the full story. Come find our booth at these upcoming events to observe the machine printing live, examine our verified 316L and SS CX test samples, and discuss how compact LPBF can fit into your lab or workshop.」（https://www.metal-base.com/news-events・1回目）
+- 安全：
+  - 「Inert gas」（https://www.metal-base.com/・1回目）
+  - 「Safety & responsibilities」（https://www.metal-base.com/・1回目）
+  - 「LPBF involves laser and fine metal powder. Metal‑Base is designed with interlocks and an inert nitrogen atmosphere, and ships with clear handling procedures. Operators must follow local standards and wear appropriate PPE.」（https://www.metal-base.com/・1回目）
+  - 「Read the full safety guide」（https://www.metal-base.com/・1回目）
+- 資金調達：
+  - 「The Metal-Base Kickstarter page is now live!」（https://www.metal-base.com/・1回目）
+  - 「The Metal 1.0 Kickstarter has finished, follow the progress!」（https://www.metal-base.com/・1回目）
+  - 「The Metal-Base Kickstarter page is now live!」（https://www.metal-base.com/news-events・1回目）
+  - 「All of our production capacity is currently dedicated to manufacturing our initial Kickstarter batch. You can follow along with our machine development, testing data, and shipping progress on our update pages.」（https://www.metal-base.com/news-events・1回目）
+  - 「Kickstarter Updates」（https://www.metal-base.com/news-events・1回目）
+  - 「"Metal-Base pre-launches sub-€10,000 LPBF metal 3D printer on Kickstarter"」（https://www.metal-base.com/news-events・1回目）
+  - 「The Metal-Base Kickstarter page is now live!」（https://www.metal-base.com/contact・1回目）
+  - 「The Metal 1.0: True affordable LPBF Metal 3D Printing | Kickstarter Launch & Tech Deep Dive」（https://www.youtube.com/@Metal-Base-sp4hb・3回目）
+- 検索結果の抜粋：
+  - 「Metal - Base - YouTube — Metal - Base - YouTube YouTube https://www.youtube.com > @Metal-...」（https://www.youtube.com/@Metal-Base-sp4hb・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 販売台数・導入先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 代理店条件：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 売上：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+- 存続：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索9回）
+
+## SnowX
+- 公式URL：https://3dwithus.com/（search:yahoo_jp:SnowX）
+- 装置価格：
+  - 「Snapmaker’s U1 campaign has already made history, raising over $20.6 million from 20,680 backers and becoming the most […]」（https://3dwithus.com/3d-news・1回目）
+  - 「Price and Availability」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「Price: From $1,599」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「Compare the Prices & Bundles:」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「, with a regular retail price of」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「$1,699 / £1,399 / €1,699」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「$1,599 / £1,319 / €1,599」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「a 3D printing bureau service based in Bow, London specialising in high quality SLS prints of your 3D models produced at super competitive prices.」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「In the video, they also break down the costs, noting a base price of $23.15 for the featured part, with additional charges for shipping and VAT, bringing the total to around $53 when shipped via DHL. The speaker also praised Justway’s responsive customer support and fast turnaround time, which is about a week.」（https://3dwithus.com/justway-3d-printing-cnc-and-other-manufacturing-services・1回目）
+  - 「Snapmaker’s U1 campaign has already made history, raising over $20.6 million from 20,680 backers and becoming the most funded 3D printer project […]」（https://3dwithus.com/pcbway-cnc-and-3d-printing-services・1回目）
+  - 「The FLSUN T1 Max will be available during an early access period at a discounted price of」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「(regular price: $549). This offer runs from 25 June to 25 July 2025.」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+- 消耗品・粉末：
+  - 「, although the usable range depends on the selected scanning mode and conditions. The company also says the scanner can capture black and metallic surfaces without coating powder. Those are particularly interesting claims for practical scanning, and we look forward to testing them with real objects.」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「, ProtoSoon provides SLM, which builds fully dense metal components by fusing powdered metals layer by layer using a high-powered laser. This technology is well-suited for complex geometries and high-performance industrial parts.」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「316L Stainless Steel, 17-4PH」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「Powder-Safe」（https://www.snowx.com/en-US・3回目）
+  - 「Powder System」（https://www.snowx.com/en-US・3回目）
+  - 「Enclosed Powder Management」（https://www.snowx.com/en-US・3回目）
+  - 「Sealed cartridges load directly into the build chamber — no loose powder handling. A transfer box keeps the part enclosed during retrieval, so you never reach in bare-handed. Dual HEPA 13/14 filtration runs continuously, with PM2.5 monitoring that holds the chamber sealed until the air is clear.」（https://www.snowx.com/en-US・3回目）
+  - 「Pre-assembled cartridges and the sealed build chamber keep powder from leaking out.」（https://www.snowx.com/en-US・3回目）
+  - 「Realize touchless part retrieval and fast powder curing with safe processing.」（https://www.snowx.com/en-US・3回目）
+  - 「Powder Recovery」（https://www.snowx.com/en-US・3回目）
+  - 「A built-in recovery cartridge captures unprinted powder after every cycle — 90%+ recovery rate per print, so your material cost drops the more you use it.」（https://www.snowx.com/en-US・3回目）
+  - 「Open the cover, twist the cartridge — no tools, no manual needed. Swap powder in seconds and get straight back to printing.」（https://www.snowx.com/en-US・3回目）
+- 販売台数・導入先：
+  - 「Customers can use 3DCompare.com to find, fast and easy 3D printing companies to print your products and projects.」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「offers a bespoke service to its clients, no matter the size or budget. Each of our customers receive a professional and friendly service - this is because we care about what you think, and we care about what we do.」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「These technologies allow customers to choose the most appropriate method based on performance requirements, material properties, and project goals.」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「With customers in over」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「In the video, they also break down the costs, noting a base price of $23.15 for the featured part, with additional charges for shipping and VAT, bringing the total to around $53 when shipped via DHL. The speaker also praised Justway’s responsive customer support and fast turnaround time, which is about a week.」（https://3dwithus.com/justway-3d-printing-cnc-and-other-manufacturing-services・1回目）
+  - 「All customers who have previously purchased a FLSUN 3D printer are guaranteed a loyalty discount during the presale period, no application or approval required. Simply contact official support with proof of purchase.」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「Customers can choose between air shipping for faster delivery (with an additional charge) or sea shipping, which is free but has a longer transit time.」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「We’ve listened to our customer’s feedback from our first offering and now we’re excited to offer our customers more flexibility and creative potential with this upgraded machine,” said Matt Stultz, Head of Community at Cocoa Press. “Cocoa Press 2.0 takes chocolate 3D printing to new heights, combining ease of use with professional-grade precision.」（https://3dwithus.com/cocoa-press-2-the-next-evolution-in-3d-chocolate-printing・1回目）
+  - 「. Please be aware that buying and selling Snowflake tokenized stock (xStock) involves high risks.You should always do your own research and make sure you understand the risks associated with Snowflake tokenized stock (xStock) trading before you begin.」（https://www.coincarp.com/currencies/snowflake-tokenized-stock-xstock/・3回目）
+  - 「Research」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「Research & Education」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+- 代理店条件：
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts …」（https://3dwithus.com/・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/justway-3d-printing-cnc-and-other-manufacturing-services・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/pcbway-cnc-and-3d-printing-services・1回目）
+  - 「The FLSUN T1 Max will be available during an early access period at a discounted price of」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「Loyalty Discount:」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「All customers who have previously purchased a FLSUN 3D printer are guaranteed a loyalty discount during the presale period, no application or approval required. Simply contact official support with proof of purchase.」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「continues to stand out as one of the few manufacturers still actively evolving delta 3D printing technology. While many brands have focused exclusively on Cartesian or CoreXY architectures, FLSUN has remained committed to the speed and mechanical efficiency of delta systems, bringing them into the modern era with meaningful upgrades.」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+  - 「3D Printer, 3D Scanner, CNC & Laser Deals 2026: Discounts and Coupons」（https://3dwithus.com/flsun-t1-max-production-workflow・1回目）
+- 日本対応・保守：
+  - 「Services」（https://3dwithus.com/・1回目）
+  - 「At the SnowX booth at TCT Shenzhen, I tried removing supports from a metal print. A staff member […]」（https://3dwithus.com/・1回目）
+  - 「3DWithUs is supported by its audience. Purchases via some links may earn us a small commission at no extra cost to you. This helps us to continue bringing you high-quality content. Our guides and reviews remain unbiased and independent.」（https://3dwithus.com/・1回目）
+  - 「3D Printing Services」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「Services」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「3D printing services is a fast-growing area. It includes 3D design, 3D scanning services, 3D printing on demand, tutorials and training.」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「List of Local 3D Printing Services, Hubs & Online Platforms」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「Please feel free to contact us if you would like to add a service here or publish your review.」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「ProtoSoon is a China-based manufacturer offering on-demand services such as 3D printing, CNC machining, vacuum casting, and injection […]」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「JUSTWAY: 3D Printing, CNC and Other Manufacturing Services」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「How PCBWay’s 3D Printing and CNC Services Are Shaping the …」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「3D printing services is a fast-growing area. It includes 3D design, 3D scanning services, 3D printing on demand, […]」（https://3dwithus.com/3d-printing-services・1回目）
+- 認証：
+  - 「Slicer Software」（https://3dwithus.com/・1回目）
+  - 「Services」（https://3dwithus.com/・1回目）
+  - 「Print Cost Calculator」（https://3dwithus.com/・1回目）
+  - 「Electricity Cost Calculator」（https://3dwithus.com/・1回目）
+  - 「I have been following Bambu Lab’s development of multi-color printing for some time, and the H2C is an […]」（https://3dwithus.com/・1回目）
+  - 「ELEGOO has officially entered the 3D scanning market with the M1 Ultra, an all-in-one handheld scanner combining blue […]」（https://3dwithus.com/・1回目）
+  - 「ELEGOO M1 Ultra 3D Scanner: First Look, Features and Specifications」（https://3dwithus.com/・1回目）
+  - 「Comic Con events around the world have become a vibrant celebration of fandom, creativity, and craftsmanship. Among the […]」（https://3dwithus.com/・1回目）
+  - 「Multicolor 3D printing has come a long way. From detailed figurines and colorful cosplay props to layered artwork […]」（https://3dwithus.com/・1回目）
+  - 「Multicolor 3D Printing Guide: Methods, Techniques & Examples」（https://3dwithus.com/・1回目）
+  - 「This guide brings together our hands-on experience with eSUN filament across a growing range of 3DWithUs projects. From […]」（https://3dwithus.com/・1回目）
+  - 「One of the most popular seasons for 3D printing at home is Halloween. Seasonal symbols and fan art […]」（https://3dwithus.com/・1回目）
+- 安全：
+  - 「The Bambu Lab A1 is a commendable 3D printer that can suit the needs of both hobbyists and professionals. The company’s commitment to safety, combined with the A1’s amazing features and outcomes, make it a significant asset in the ever-changing field of 3D printing technology.」（https://3dwithus.com/bambu-lab-h2d-launch-specifications-and-pricing・1回目）
+  - 「Safety」（https://www.snowx.com/en-US・3回目）
+  - 「Safety by Design」（https://www.snowx.com/en-US・3回目）
+  - 「Sealed cartridges load directly into the build chamber — no loose powder handling. A transfer box keeps the part enclosed during retrieval, so you never reach in bare-handed. Dual HEPA 13/14 filtration runs continuously, with PM2.5 monitoring that holds the chamber sealed until the air is clear.」（https://www.snowx.com/en-US・3回目）
+  - 「SnowPod is an interesting attempt to make metal powder bed fusion significantly more compact and accessible. Its closed powder handling and integrated safety features address some of the key challenges of bringing this technology beyond traditional industrial environments.」（https://www.snowx.com/en-US・3回目）
+  - 「What impressed me most is how much thought went into handling and safety: a cartridge system that makes the powder easy to manage, plus measures to deal with dust. I truly envy today’s generation, who get to count a metal 3D printer like SnowPod among their options from the very start.」（https://www.snowx.com/en-US・3回目）
+  - 「PPE is recommended during normal operation, and must be worn during maintenance or servicing. Appropriate protective equipment may include laser safety goggles, nitrile gloves, anti-static clothing, and other PPE as specified.」（https://www.snowx.com/en-US・3回目）
+  - 「SnowPod is built around enclosed powder handling: sealed powder cartridges, an enclosed printing chamber, filtration and powder recovery work together so the machine manages most of the powder handling itself, rather than leaving it to the operator’s own precautions.」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「Safety first」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「SnowPod continuously monitors PM2.5, gas concentration, temperature and humidity throughout a print, keeping the user informed of conditions from start to finish. That monitoring feeds directly into SnowPod’s safety controls: the chamber door, filtration system and machine status are linked through multiple interlocks, and the chamber only unlocks once preset safety conditions are met.」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「Sealed Powder Handling and Chamber Safety」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+  - 「Sensors track PM2.5 fine particulates, gas concentrations, temperature, and humidity. Interlocks linked to the chamber door, the filtration system, and the machine’s operating status keep the chamber closed until preset safety conditions are satisfied.」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+- 株主構成：
+  - 「Snapmaker has completed a major Series B financing round backed by Hillhouse Ventures, Meituan, and Shunwei Capital (co-founded […]」（https://3dwithus.com/3d-news・1回目）
+  - 「is led by folks who've spent most of their careers in startups, and combine serious technical chops with an inspiring vision of what the world could be.」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「In recent years, 3D printing farms have seen a surge in worldwide popularity, fueled by an increasing demand for customizable and locally […]」（https://3dwithus.com/justway-3d-printing-cnc-and-other-manufacturing-services・1回目）
+  - 「In recent years, 3D printing farms have seen a surge in worldwide popularity, fueled by an increasing demand for customizable and locally […]」（https://3dwithus.com/pcbway-cnc-and-3d-printing-services・1回目）
+  - 「The buzz around the H2D launch is also fueled by designers eager to capitalize on the momentum and create」（https://3dwithus.com/bambu-lab-h2d-launch-specifications-and-pricing・1回目）
+  - 「Snapmaker has completed a major Series B financing round backed by Hillhouse Ventures, Meituan, and Shunwei Capital (co-founded by Xiaomi’s Lei Jun). […]」（https://3dwithus.com/bambu-lab-h2d-launch-specifications-and-pricing・1回目）
+  - 「Investors & Portfolios」（https://www.coincarp.com/currencies/snowflake-tokenized-stock-xstock/・3回目）
+  - 「Snowflake xStock (SNOWx) is a tracker certificate issued as a freely transferable token on selected blockchains. SNOWx tracks the price of Snowflake Inc. SNOWx is designed to give eligible investors regulatory-compliant access to the stock price of Snowflake Inc, whilst maintaining the benefits of blockchain technology.」（https://www.coincarp.com/currencies/snowflake-tokenized-stock-xstock/・3回目）
+  - 「SnowX is backed by」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「SnowX is backed by」（https://www.snowx.com/en-US/discover/snowx-is-planning-to-launch-snowpod-a-metal-l-pbf-3d-printer-for-the-desktop・3回目）
+- 創業年度：
+  - 「Established in 2015, 3DWithUs is an independent 3D printing platform built on hands-on testing and real experience. The website covers a wide range of technologies, including FDM and resin 3D printing, 3D scanning, laser engraving, and CNC tools.」（https://3dwithus.com/about・1回目）
+  - 「A tech writer, tester, and maker, has been active in the 3D printing space since 2018. Will covers 3D printers, laser engravers, 3D scanners, and creative tools, focusing on hands-on testing and real-world usability. His content helps makers and tech enthusiasts make informed decisions. On social media, Will often posts under the StudioZombie3D handle.」（https://3dwithus.com/about・1回目）
+  - 「is focused on 3D printing and laser engraving since the early days, Richard shares hands-on testing and practical insights across both resin and FDM workflows. He also supports the community as a Facebook group administrator, helping others navigate the evolving world of maker tech. On social media, he’s known as Hirsty3D.」（https://3dwithus.com/about・1回目）
+  - 「is a high school math teacher and 3D printing hobbyist. She has been in 3D printing since 2017 and enjoys making things for her classes and her own children and her home in San Diego, California.」（https://3dwithus.com/about・1回目）
+  - 「was founded in 2011 with a mission to make manufacturing simple. Get It Made provides outstanding manufacturing services to companies across the globe.」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「Founded in 2014, ProtoSoon is a China-based digital manufacturing service provider delivering precision-made parts to clients in a variety of industries. Operating with over 120 pieces of equipment, the company offers support throughout the product development process—from early prototypes to production-ready components.」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「Since Bambu Lab X1C appeared on the market offering high-speed and multicolor 3D printing first, many users have requested larger volume machines capable of printing bigger objects such as masks and helmets, for example. The H2D build volume definitely answers these calls. The new H2D build volume is 350 x 320 x 325 mm³ in comparison to the 256 x 256 x 256 mm³ of the X1C.」（https://3dwithus.com/bambu-lab-h2d-launch-specifications-and-pricing・1回目）
+  - 「Founded in 2020 and based in Shenzhen, China, Bambu Lab first made its mark on the tech scene with a highly successful Kickstarter campaign that launched their award-winning multicolor 3D printer, the X1. Their Automatic Multicolor System (AMS) was highly praised and remained dominant in the market for several years.」（https://3dwithus.com/bambu-lab-h2d-launch-specifications-and-pricing・1回目）
+  - 「The new Delta WASP 2040 PRODUCTION is also supported by all the already established innovations seen on the Delta WASP INDUSTRIAL X, such as steel cord belts, dual gear filament driver, auto-calibration system, continuous print mode, Gcode analysis, and an optimized firmware for WIFI remote control. A new paradigm in the industry field is officially formed.」（https://3dwithus.com/delta-wasp-2040-production-automatic-3d-print-removal-system・1回目）
+  - 「, which has worked in metal additive manufacturing, including wire-arc DED, since 2020. For the SnowPod, the company is building a community of artists and early users who share models, finished projects and ideas, giving new SnowPod owners places to find designs and inspiration for what to make in metal.」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「, which has worked in metal additive manufacturing, including wire-arc DED, since 2020. For the SnowPod, the company is building a community of artists and early users who share models, finished projects and ideas, giving new SnowPod owners places to find designs and inspiration for what to make in metal.」（https://www.snowx.com/en-US/discover/snowx-is-planning-to-launch-snowpod-a-metal-l-pbf-3d-printer-for-the-desktop・3回目）
+- 売上：
+  - 「FLSUN offers flexible sales policies to help farm operators reduce equipment costs. Operators can benefit from flexible payment plans for purchases of 100 or more」（https://3dwithus.com/3d-printing-farms-productivity-flsuns-high-speed-solution・1回目）
+  - 「After-Sales Support」（https://3dwithus.com/3d-printing-farms-productivity-flsuns-high-speed-solution・1回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+- 資金調達：
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/3d-printing-services・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/3d-news・1回目）
+  - 「Snapmaker has completed a major Series B financing round backed by Hillhouse Ventures, Meituan, and Shunwei Capital (co-founded […]」（https://3dwithus.com/3d-news・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/elegoo-m1-ultra-3d-scanner・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/about・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/contact-us・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/3d-printing-services-platforms・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/protosoon-from-prototype-to-production-with-precision-and-speed・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/justway-3d-printing-cnc-and-other-manufacturing-services・1回目）
+  - 「In the video, they also break down the costs, noting a base price of $23.15 for the featured part, with additional charges for shipping and VAT, bringing the total to around $53 when shipped via DHL. The speaker also praised Justway’s responsive customer support and fast turnaround time, which is about a week.」（https://3dwithus.com/justway-3d-printing-cnc-and-other-manufacturing-services・1回目）
+  - 「Crowdfunding Campaigns」（https://3dwithus.com/pcbway-cnc-and-3d-printing-services・1回目）
+- 存続：
+  - 「Great 3D printing work and innovative design projects often get buried in closed social media groups, where visibility fades quickly. Meanwhile, running a personal website for extra exposure takes time, effort, and technical know-how.」（https://3dwithus.com/about・1回目）
+  - 「FLSUN was one of the first 3D printer manufacturers to create speedy desktop 3D printers implementing Klipper firmware. Their V400 and Super Racer (SR) were highly praised. Recently, FLSUN launched their new S1 Pro and T1 Pro series machines with many extra features, such as higher speeds and flow rates and enclosed chambers. The」（https://3dwithus.com/3d-printing-farms-productivity-flsuns-high-speed-solution・1回目）
+  - 「Enclosed Powder Management」（https://www.snowx.com/en-US・3回目）
+  - 「Sealed cartridges load directly into the build chamber — no loose powder handling. A transfer box keeps the part enclosed during retrieval, so you never reach in bare-handed. Dual HEPA 13/14 filtration runs continuously, with PM2.5 monitoring that holds the chamber sealed until the air is clear.」（https://www.snowx.com/en-US・3回目）
+  - 「SnowPod is an interesting attempt to make metal powder bed fusion significantly more compact and accessible. Its closed powder handling and integrated safety features address some of the key challenges of bringing this technology beyond traditional industrial environments.」（https://www.snowx.com/en-US・3回目）
+  - 「SnowPod is built around enclosed powder handling: sealed powder cartridges, an enclosed printing chamber, filtration and powder recovery work together so the machine manages most of the powder handling itself, rather than leaving it to the operator’s own precautions.」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「Metal powder is loaded through sealed cartridges that can be swapped between builds, and printing takes place inside an enclosed chamber. The system filters the build environment and collects unused powder for reuse, with SnowX reporting a recovery rate of about 90 percent depending on part geometry.」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+  - 「Sensors track PM2.5 fine particulates, gas concentrations, temperature, and humidity. Interlocks linked to the chamber door, the filtration system, and the machine’s operating status keep the chamber closed until preset safety conditions are satisfied.」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+  - 「Enclosed Compact LPBF Printers Move Toward Smaller Users」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+  - 「compact LPBF printer with a fully enclosed build chamber」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+  - 「SnowPod is built around enclosed powder handling: sealed powder cartridges, an enclosed printing chamber, filtration and powder recovery work together so the machine manages most of the powder handling itself, rather than leaving it to the operator’s own precautions.」（https://www.snowx.com/en-US/discover/snowx-is-planning-to-launch-snowpod-a-metal-l-pbf-3d-printer-for-the-desktop・3回目）
+- 検索結果の抜粋：
+  - 「SNOWX — Real Metal 3D Printing, Now on Your Desktop. — SNOWX — Real Metal 3D Printing, Now on Your Desktop. snowx.com https://www.snowx.com」（https://www.snowx.com/・3回目）
+  - 「Snowflake tokenized stock (xStock) Price ( SNOWx ) - CoinCarp — Snowflake tokenized stock (xStock) Price ( SNOWx ) - CoinCarp CoinCarp https://www.coincarp.com > currencies」（https://www.coincarp.com/currencies/snowflake-tokenized-stock-xstock/・3回目）
+  - 「SnowX is planning to launch SnowPod, a metal L-PBF 3D ... — SnowX is planning to launch SnowPod, a metal L-PBF 3D ... VoxelMatters https://www.voxelmatters.com > snow...」（https://www.voxelmatters.com/snowx-is-planning-to-launch-snowpod-a-desktop-metal-l-pbf-3d-printer/・3回目）
+  - 「SNOWX to EUR: Snowflake xStock Price in Euro | CoinGecko — SNOWX to EUR: Snowflake xStock Price in Euro | CoinGecko CoinGecko https://www.coingecko.com > eur」（https://www.coingecko.com/en/coins/snowflake-xstock/eur・3回目）
+  - 「SnowX - New Metal 3D Printer Kickstarter launching Q4 - Reddit — SnowX - New Metal 3D Printer Kickstarter launching Q4 - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/AdditiveManufacturing/comments/1wy8jgx/snowx_new_metal_3d_printer_kickstarter_launching/・3回目）
+  - 「SnowX Opens Kickstarter Pre-Launch Page for SnowPod ... — SnowX Opens Kickstarter Pre-Launch Page for SnowPod ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/・3回目）
+  - 「SnowX SnowPod: Hands-On with a Desktop Metal 3D Printer — SnowX SnowPod: Hands-On with a Desktop Metal 3D Printer 3DWithUs https://3dwithus.com > snowx-snowp...」（https://3dwithus.com/snowx-snowpod-desktop-metal-3d-printer・3回目）
+  - 「SnowX Metal 3D Printer Reviews - Facebook — SnowX Metal 3D Printer Reviews - Facebook Facebook https://www.facebook.com > fb-answers > snowx-metal-3...」（https://www.facebook.com/fb-answers/snowx-metal-3d-printer-reviews/・3回目）
+  - 「SNOWX — Real Metal 3D Printing, Now on Your Desktop . — SNOWX — Real Metal 3D Printing, Now on Your Desktop . snowx.com https://www.snowx.com」（https://www.snowx.com/・3回目）
+  - 「Hands-on with the SnowX SnowPod ... - Instagram — Hands-on with the SnowX SnowPod ... - Instagram Instagram https://www.instagram.com > Deyssx...」（https://www.instagram.com/p/DeyssxgiCFp/・3回目）
+  - 「SnowX | LinkedIn — SnowX | LinkedIn LinkedIn https://www.linkedin.com > snowxtech」（https://www.linkedin.com/company/snowxtech・3回目）
+  - 「SnowX is planning to launch SnowPod, a metal L-PBF 3D ... — SnowX is planning to launch SnowPod, a metal L-PBF 3D ... snowx.com https://www.snowx.com > discover」（https://www.snowx.com/en-US/discover/snowx-is-planning-to-launch-snowpod-a-metal-l-pbf-3d-printer-for-the-desktop・3回目）
+- 株主：記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索10回）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索10回）
+- 所在地：記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索10回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索10回）
+- 代表者：記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索10回）
+
+## ValCUN
+- 公式URL：https://www.valcun.be（given）
+- 装置価格：
+  - 「“ValCUN’s technology allows our organization to develop novel and configurable fan geometries not available on the market today due to cost and time . The technology ValCUN possesses lets us target multiple strategies to ensure our end-use customers are satisfied with the fan’s performance for the entire lifespan of the product at a price point that suits our, and there, needs.”」（https://www.valcun.be/・1回目）
+  - 「$6M/year.」（https://www.valcun.be/・1回目）
+  - 「ValCUN’s 3D-optimized fan blades boost efficiency by 10%, generating over €6 million in annual electricity savings across 7,000 fans in more than 10 data centers. ValCUN’s technology delivers these results with cost-effective investment for manufacturers.」（https://www.valcun.be/・1回目）
+  - 「Bambu Lab Releases $2,499 Full-Color, Multi-Toolhead H3C 3D Printer」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「$1.5 million raise」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Impossible Objects Raises $40 Million to Boost Industrial Additive Manufacturing」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「$2.65M」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Valcun has raised $1.82M.」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+  - 「Aurora Labs bets A$6M on scaling sovereign drone propulsion」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+  - 「Galle also announced that the commercial machine will come at a significantly lower price tag than its direct competitors, and importantly, it’s ready to print without the need for environmental modifications. Currently, ValCUN’s machines are functional in standard office spaces and can be equipped with optional air extraction and filtration systems.」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+- 消耗品・粉末：
+  - 「ValCUN makes industrial aluminum 3D printing deployable with Molten Metal Deposition. Our Minerva system melts industry-standard aluminum wire and deposits it directly—without metal powder or lasers—for fast, affordable and sustainable production and research.」（https://www.valcun.be/・1回目）
+  - 「POWDER FEEDSTOCK」（https://www.valcun.be/・1回目）
+  - 「Easy feedstock: Feedstock is commercially available welding wire. No need for expensive metal powder and associated costs or proprietary formulations.」（https://www.valcun.be/molten-metal-deposition-is-the-best-am-technology-for-aluminium/・1回目）
+  - 「for your company. Powder bed fusion systems are often very good at many different parts in polymer or have been developed well for specific applications. Meanwhile near net shape companies often have trouble selling their solutions because they require more tweaking and process steps to be thought out and dialed in before the application makes sense.」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「6K Additive (ASX: 6KA) reported higher revenue and a record order backlog in its latest quarterly results, as growing demand for metal powders continues to push the company to expand...」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「powder bed fusion」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「See all the powder bed fusion printers」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Powder Bed Fusion Printers」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Based in Japan, the metal 3D printer manufacturer was founded in 1935 and currently employs 300 people worldwide. It markets hybrid 3D printers that combine CNC milling and subtractive manufacturing processes with additive manufacturing such as powder bed fusion. The company sells two models, the LUMEX Avance-25 and the LUMEX Avance-60.」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Powder bonding is a process compatible with certain metals. As its name suggests, it is a technology based on powder and a binder. The particularity of powder bonding is that it requires a debinding and sintering step after printing, which lengthens the manufacturing process. You can find out more about metal 3D printers based on binder jetting in our dedicated article」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「EBM (Electron Beam Melting) 3D metal printing technology is very similar to the laser bed fusion process. One of the main differences is the heat source used: here, an electron beam is used to melt the metal powder, layer by layer. This process is only compatible with conductive metals and will enable the rapid design of dense parts. We invite you to consult our dedicated article」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Do all sand and metal digital printers use a high temperature abrasive resistant gasket arounf the piston?」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+- 販売台数・導入先：
+  - 「ValCUN makes industrial aluminum 3D printing deployable with Molten Metal Deposition. Our Minerva system melts industry-standard aluminum wire and deposits it directly—without metal powder or lasers—for fast, affordable and sustainable production and research.」（https://www.valcun.be/・1回目）
+  - 「Research & Development」（https://www.valcun.be/・1回目）
+  - 「Molten Metal Deposition (MMD) offers a range of applications for research institutions and universities. Think material science research, engineering applications, sustainable manufacturing practices, automation, as well as more interdisciplinary applications.」（https://www.valcun.be/・1回目）
+  - 「Sirris, a Belgium research collective, is」（https://www.valcun.be/・1回目）
+  - 「“The knowledge gained through our partnership with ValCUN and the metallographic results of their Molten Metal Deposition technology will hone our research and education in physical and mechanical metallurgy, paving the way toward additive manufacturing of difficult-to-print alloys.”」（https://www.valcun.be/・1回目）
+  - 「“ValCUN’s technology allows our organization to develop novel and configurable fan geometries not available on the market today due to cost and time . The technology ValCUN possesses lets us target multiple strategies to ensure our end-use customers are satisfied with the fan’s performance for the entire lifespan of the product at a price point that suits our, and there, needs.”」（https://www.valcun.be/・1回目）
+  - 「Data & Research」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Research」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「. Later on, it sought out pilot customers and acted as a service to manufacture aluminum parts with its technology. After a」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「, and further development, the company is now ready to commercialize the machine further (3DPrint.com´s owner 3DRHoldings has invested in ValCUN as well). To that end, the startup will release their first machine, the Minerva, at RAPID + TCT. Prospective customers can now preorder the machine.」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「I would like to also register for free and access proprietary industry data from AM Research and 3DPrint.com」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Register to view and download proprietary industry data from AM Research and 3DPrint.com」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+- 代理店条件：
+  - 「Exclusive Interviews」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Exclusive Content」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「The technical storage or access that is used exclusively for statistical purposes.」（https://www.voxelmatters.com/valcun-remus-takes-aluminum-mmd-out-of-the-box/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/valcun-remus-takes-aluminum-mmd-out-of-the-box/・3回目）
+- 日本対応・保守：
+  - 「SUPPORTS」（https://www.valcun.be/・1回目）
+  - 「Support-free parts: Print parts up to 75」（https://www.valcun.be/molten-metal-deposition-is-the-best-am-technology-for-aluminium/・1回目）
+  - 「No removal of support structures due to the high overhangs and bridging capacity」（https://www.valcun.be/molten-metal-deposition-is-the-best-am-technology-for-aluminium/・1回目）
+  - 「Additive Manufacturing Services Markets 2026-2035: Market Data and Analysis」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「. Later on, it sought out pilot customers and acted as a service to manufacture aluminum parts with its technology. After a」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「, a die casting service, contributed, “I have been following aluminum 3D printing technology for over 20 years, and with ValCUN technology, I believe for the first time that this 3D print technology can disrupt the industrial aluminum market.“」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Print Services」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Service bureaus」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Based in Japan, the metal 3D printer manufacturer was founded in 1935 and currently employs 300 people worldwide. It markets hybrid 3D printers that combine CNC milling and subtractive manufacturing processes with additive manufacturing such as powder bed fusion. The company sells two models, the LUMEX Avance-25 and the LUMEX Avance-60.」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Exaddon’s 3D metal printer, the CERES Print System, can print metal with sub-micrometer resolution, offering a very high level of detail. It has a chamber volume of 100 x 70 x 60 mm and prints at room temperature, with no post-processing necessary. Additionally, it can also print overhanging parts without any need for support structures, a rarity among metal AM technologies.」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Mitsubishi makes a laser wire metal DED system called the AZ600. Available in Japan and soon around the globe. bit.ly/435GUwG」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Service Providers」（https://pitchbook.com/profiles/company/442249-48・3回目）
+- 認証：
+  - 「Process」（https://www.valcun.be/・1回目）
+  - 「Resources」（https://www.valcun.be/・1回目）
+  - 「Dr. ir. JONAS GALLE, CEO」（https://www.valcun.be/・1回目）
+  - 「has a regular EU/US plug, uses a single-step process, and runs on industry-standard aluminium alloys.」（https://www.valcun.be/・1回目）
+  - 「compared to other AM solutions through process-wide cost-effectiveness.」（https://www.valcun.be/・1回目）
+  - 「Our Minerva printer delivers best-in-class deployable aluminium additive manufacturing in a compact and sustainable design, making high-quality metal additive manufacturing accessible and efficient for industry applications.」（https://www.valcun.be/・1回目）
+  - 「Minerva comes with an open parameter set, open materials, open data acquisition, as well as an open nozzle architecture. You have the freedom to tweak your parameters for your needs, or stick to the defaults.」（https://www.valcun.be/・1回目）
+  - 「Molten Metal Deposition (MMD) offers a range of applications for research institutions and universities. Think material science research, engineering applications, sustainable manufacturing practices, automation, as well as more interdisciplinary applications.」（https://www.valcun.be/・1回目）
+  - 「We’re also involved with several other projects that aim to push the envelope of additive manufacturing. Projects like as 3DoP, DIAMETER, LEVIATAD, and GreenAM, as well as a collaboration with the European Space Agency (ESA).」（https://www.valcun.be/・1回目）
+  - 「“The knowledge gained through our partnership with ValCUN and the metallographic results of their Molten Metal Deposition technology will hone our research and education in physical and mechanical metallurgy, paving the way toward additive manufacturing of difficult-to-print alloys.”」（https://www.valcun.be/・1回目）
+  - 「University of Twente — Advanced manufacturing, Sustainable Products & Energy Systems」（https://www.valcun.be/・1回目）
+  - 「“I collaborated with the ValCUN team on the upside-down printing of aluminum structures, successfully validating the technology’s viability for in-space manufacturing. I was particularly impressed by the accessibility of ValCUN’s technology, enabling broader applicability, and by its capability to produce microstructural dense components within short timeframes.”」（https://www.valcun.be/・1回目）
+- 株主構成：
+  - 「Valcun 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Follow capital flows across investors, deals, and industry trends」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Find investment opportunities and active investors faster」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Investors」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Secondary market analysis of GP-led transactions and LP stake sales」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Rankings of investors, managers, and lenders across asset classes」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Valcun Investors (5)」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「To view Valcun’s complete investors history, request access »」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Who are Valcun’s investors?」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Credit Investors」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Investors Data」（https://pitchbook.com/profiles/company/442249-48・3回目）
+- 創業年度：
+  - 「ValCUN was founded in」（https://www.valcun.be/about-us/・1回目）
+  - 「Based in Japan, the metal 3D printer manufacturer was founded in 1935 and currently employs 300 people worldwide. It markets hybrid 3D printers that combine CNC milling and subtractive manufacturing processes with additive manufacturing such as powder bed fusion. The company sells two models, the LUMEX Avance-25 and the LUMEX Avance-60.」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Protopasta: Making 3D Printing Filament In-House Since 2013」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Are you sure Sciaky is the oldest company on the list you say they were founded in 1939 but not when in 1939, if it’s after 1st of January 1939 they are the second oldest company on the list behind HP.」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Investor Since」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Valcun was founded in 2016.」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「The Minerva platform integrates a heated build plate with a diameter of 125 mm. It is this heat source that encourages strong layer adhesion as molten aluminum is deposited layer by layer. Since its launch, the system has demonstrated its capacity to print high-quality aluminum structures on a smaller scale, including」（https://www.voxelmatters.com/valcun-remus-takes-aluminum-mmd-out-of-the-box/・3回目）
+- 売上：
+  - 「3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「6K Additive (ASX: 6KA) reported higher revenue and a record order backlog in its latest quarterly results, as growing demand for metal powders continues to push the company to expand...」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Dear Sales team,」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「Secondary market analysis of GP-led transactions and LP stake sales」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Generating Revenue」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「What is Valcun’s current revenue?」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「The current revenue for Valcun is」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+- 資金調達：
+  - 「How AM Funding Shifted in China and the US, 2021–2025」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Additive manufacturing (AM) funding has shifted in China and the United States over the past five years, but in different ways. In China, metal 3D printing companies accounted for a...」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Valcun 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Valuation & Funding」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Valcun Valuation & Funding」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Raised to Date」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「To view Valcun’s complete valuation and funding history, request access »」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Total Raised」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「How much funding has Valcun raised over time?」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Valcun has raised $1.82M.」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Reflecting on the challenges faced by startups, Galle offered pragmatic insights into the characteristics of a founder, “People in general don’t think the same way. As founders, they’re convinced this will work, we’ll make it happen. But people, as long as they don’t see anything, are skeptical.” He emphasized the importance of having a tangible product before seeking investor funding.」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+  - 「Money & Funding」（https://www.voxelmatters.com/valcun-remus-takes-aluminum-mmd-out-of-the-box/・3回目）
+- 存続：
+  - 「company was acquired by Nano Dimension」（https://www.3dnatives.com/en/metal-3d-printer-manufacturers/・3回目）
+  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「Italian startup wants to make a difference with closed material cycle」（https://3dprintmagazine.eu/valcun-now-aims-for-industrial-scalability-with-mmd-printing-technology/・3回目）
+  - 「The MMD process was first commercialized in the Minerva 3D printer, an enclosed system launched in 2023 that integrates wire feeding, melting, deposition, heating, and motion control in a single platform. Last year, ValCUN expanded the capabilities of its MMD technology even further with the launch of Remus, an independent printhead designed to be integrated into industrial production chains.」（https://www.voxelmatters.com/valcun-remus-takes-aluminum-mmd-out-of-the-box/・3回目）
+- 検索結果の抜粋：
+  - 「ValCUN : Aluminum 3D Printing with Molten Metal Deposition — ValCUN : Aluminum 3D Printing with Molten Metal Deposition ValCUN https://www.valcun.be」（https://www.valcun.be/・3回目）
+  - 「ValCUN Releases First Molten Metal 3D Printer - 3DPrint.com — ValCUN Releases First Molten Metal 3D Printer - 3DPrint.com 3DPrint.com https://3dprint.com > valcun-releases-...」（https://3dprint.com/299837/valcun-releases-first-molten-metal-3d-printer/・3回目）
+  - 「Valcun 2026 Company Profile: Valuation, Funding & Investors — Valcun 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/442249-48・3回目）
+  - 「ValCUN - 2026 Company Profile & Team - Tracxn — ValCUN - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/valcun/__zxl-ipO9OaDdfIDBvBHfpPM_eOdkO3cczMM1dP2biPA・3回目）
+  - 「ValCUN - Crunchbase Company Profile & Funding — ValCUN - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > valcun」（https://www.crunchbase.com/organization/valcun・3回目）
+  - 「ValCUN - LinkedIn — ValCUN - LinkedIn LinkedIn Belgium https://be.linkedin.com > valcun」（https://be.linkedin.com/company/valcun・3回目）
+  - 「INTERVIEW Jonas Galle​, CEO & Co- founder ValCUN ... — INTERVIEW Jonas Galle​, CEO & Co- founder ValCUN ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/interview-jonas-galle-ceo-co-founder-valcun-reshaping-metal-3d-printing-225572/・3回目）
+  - 「ValCUN now aims for industrial scalability with MMD printing ... — ValCUN now aims for industrial scalability with MMD printing ... 3dprintmagazine.eu https://3dprintmagazine.eu > valcun-n...」（https://3dprintmagazine.eu/valcun-now-aims-for-industrial-scalability-with-mmd-printing-technology/・3回目）
+  - 「ValCUN Remus takes aluminum MMD out of the box — ValCUN Remus takes aluminum MMD out of the box VoxelMatters https://www.voxelmatters.com > valc...」（https://www.voxelmatters.com/valcun-remus-takes-aluminum-mmd-out-of-the-box/・3回目）
+  - 「Jonas Galle of ValCUN : Desktop Metal 3D Printing ... - YouTube — Jonas Galle of ValCUN : Desktop Metal 3D Printing ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=6Z3XxxupKl0&vl=ja・3回目）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索9回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索9回）
+- 安全：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索9回）
+
+## a-metal
+- 公式URL：https://www.a-metal.com（given）
+- 装置価格：
+  - 「Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.」（https://www.a-metal.com/impressum・1回目）
+- 消耗品・粉末：
+  - 「Für viele Anwendungen kommt dabei rostfreier Edelstahl 316L zum Einsatz. Seine hohe Korrosionsbeständigkeit gegenüber Witterung, Salzwasser und anspruchsvollen Umweltbedingungen macht ihn zu einem spannenden Werkstoff für Forschung und Entwicklung im alpinen Umfeld.」（https://www.a-metal.com/news/epfl・1回目）
+  - 「in Le Locle und läuft auf Edelstahl 316L. Für uns ist dies ein besonderer Schritt, da wir damit erstmals auch in der Romandie präsent sind. Wir freuen uns auf die Zusammenarbeit mit dem CPNE und darauf, zu sehen, welche Projekte und Anwendungen mit der Anlage entstehen.」（https://www.a-metal.com/news/cpne・1回目）
+- 販売台数・導入先：
+  - 「am Alpine and Polar Environmental Research Centre (ALPOLE) eingesetzt. ALPOLE erforscht, wie sich Umwelt- und Klimaveränderungen auf alpine und polare Regionen auswirken und entwickelt ein besseres Verständnis dieser sensiblen Ökosysteme.」（https://www.a-metal.com/news/epfl・1回目）
+  - 「HAGANEと日本のパワーメタルの台頭」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+- 代理店条件：
+  - 「a-metal und 3D-MODEL geben Resellerpartnerschaft bekannt」（https://www.a-metal.com/news/neue-lieferungen・1回目）
+  - 「a-metal und 3D-MODEL geben Resellerpartnerschaft bekannt — a-metal」（https://www.a-metal.com/news/distributor-3d-model・1回目）
+  - 「a-metal und 3D-MODEL geben Resellerpartnerschaft bekannt」（https://www.a-metal.com/news/distributor-3d-model・1回目）
+- 日本対応・保守：
+  - 「Für uns ist die Installation ein wichtiger Schritt, Metall 3D‑Druck dauerhaft in der Grundbildung zu verankern. Wir freuen uns sehr, dass die nächste Generation bei der libs frühzeitig mit dieser Technologie in Berührung kommt. Vielen Dank」（https://www.a-metal.com/news/metall3ddruck-in-der-ausbildung-von-lernenden・1回目）
+  - 「form3D Training Center for Additive Manufacturing」（https://www.a-metal.com/news/auslieferung-vorserie・1回目）
+  - 「👉 With pilot production now ramping up, 𝐰𝐞’𝐫𝐞 𝐡𝐢𝐫𝐢𝐧𝐠! We’re looking for new talent in customer support, operations, and software development to help us shape the future of metal 3D printing.」（https://www.a-metal.com/news/seed-finanzierungsrunde・1回目）
+  - 「“ führt der Technologiespezialist seit 2023 außerdem hochkarätige Weiterbildungsangebote in den Bereichen 3D-Druck und 3D-Scanning für die Fertigung der Zukunft durch. 3D-MODEL hat je eine deutsche und eine Schweizer Niederlassung mit Technologie- und Trainingszentrum in Bad Waldsee und Zürich.」（https://www.a-metal.com/news/distributor-3d-model・1回目）
+  - 「日本のメタルはもう一過性の流行ではない」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「Why the Next Metallica Will Come From Japan」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「Wie dominant sind Frauen im Japanischen Metal?」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「【海外の反応】『今夜、世界中の中立ファンが日本のために立ち上がり、次にブラジルと対戦するときも、きっと日本を応援するだろう』日本の敗退に心から悔しがり、寂しがるコメントが共感の嵐の反応集！」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「衝撃のJAPAN【海外の反応】」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「日本の音楽界がBABYMETALから学ぶべきは「武者修行」かもしれません」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「日本のライブハウスがヤバすぎる…」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+  - 「10 JAPANISCHE Top-Bands, welche komplett aus FRAUEN bestehen!」（https://www.youtube.com/watch?v=DKHiSP91QBk・3回目）
+- 認証：
+  - 「Unser Kartuschensystem maximiert den sicheren Umgang mit dem Metallpulver. Die schlichte, sensor-gestützte Nutzerführung erlaubt die Bedienung auch ohne technischen Hintergrund nach einer einfachen Einweisung.」（https://www.a-metal.com/・1回目）
+  - 「Dank unserer forschungsbasierten Pulverzuführung reduziert sich der Platzbedarf unserer Maschine auf Kühlschrankgrösse und ist somit in jeder bestehenden Werkstatt- oder Laborumgebung einsetzbar.」（https://www.a-metal.com/・1回目）
+  - 「6. Juli 2026」（https://www.a-metal.com/・1回目）
+  - 「am Alpine and Polar Environmental Research Centre (ALPOLE) eingesetzt. ALPOLE erforscht, wie sich Umwelt- und Klimaveränderungen auf alpine und polare Regionen auswirken und entwickelt ein besseres Verständnis dieser sensiblen Ökosysteme.」（https://www.a-metal.com/news/epfl・1回目）
+  - 「6. Juli」（https://www.a-metal.com/news/cpne・1回目）
+  - 「🎓 Die erste Auslieferung einer a-metal Anlage an eine Hochschule」（https://www.a-metal.com/news/cpne・1回目）
+  - 「Centre de formation professionnelle neuchâtelois」（https://www.a-metal.com/news/cpne・1回目）
+  - 「Die Digitalisierung schreitet weiter voran, nicht zuletzt durch Nachfolgeregelungen in Laboren und Praxen. Gleichzeitig beschäftigen viele ähnliche Herausforderungen:」（https://www.a-metal.com/news/dental-bern・1回目）
+  - 「✅ Hochschulen & Forschungseinrichtungen」（https://www.a-metal.com/news/-erstmals-in-sterreich-unterwegs・1回目）
+  - 「🎓 Innerhalb einer 1.5-tägigen Schulung konnten wir zusammen mit unserem Partner」（https://www.a-metal.com/news/zweite-maschine-in-deutschland・1回目）
+  - 「🦷 Bereits ein Tag nach unserer Schulung vor Ort hat das Team vier weitere Modelgussgerüste gedruckt. Komplett alleine, ohne Hilfestellung von unserer Seite! Wir sind immer wieder beeindruckt, wie schnell unsere Kunden mit der Anlage zurecht kommen.」（https://www.a-metal.com/news/zweite-maschine-in-deutschland・1回目）
+  - 「Das Resultat?」（https://www.a-metal.com/news/maschinen-kipptest-vor-der-swiss-plastics-expo・1回目）
+- 株主構成：
+  - 「We’re excited to announce the successful closing of our oversubscribed CHF 2.1M seed financing round, led by」（https://www.a-metal.com/news/seed-finanzierungsrunde・1回目）
+- 資金調達：
+  - 「a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market」（https://www.a-metal.com/news?author=62b0367a77adc17ed457d3b0・1回目）
+  - 「a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market」（https://www.a-metal.com/news/maschinenauslieferung-in-die-zahnarztpraxis・1回目）
+  - 「a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market — a-metal」（https://www.a-metal.com/news/seed-finanzierungsrunde・1回目）
+  - 「a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market」（https://www.a-metal.com/news/seed-finanzierungsrunde・1回目）
+  - 「We’re excited to announce the successful closing of our oversubscribed CHF 2.1M seed financing round, led by」（https://www.a-metal.com/news/seed-finanzierungsrunde・1回目）
+  - 「This funding marks a major milestone in our mission to offer accessible metal 3D printing: affordable, compact, and easy to use. With this capital, we will:」（https://www.a-metal.com/news/seed-finanzierungsrunde・1回目）
+  - 「a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market」（https://www.a-metal.com/news/vorschua-formnext2025・1回目）
+- 検索結果の抜粋：
+  - 「Solved Lola Metals has two decentralized divisions - Chegg — Solved Lola Metals has two decentralized divisions - Chegg Chegg https://www.chegg.com > lola-metals-...」（https://www.chegg.com/homework-help/questions-and-answers/lola-metals-two-decentralized-divisions-stamping-finishing-finishing-always-purchased-cert-q106125448・3回目）
+  - 「a - metal — a - metal a-metal https://www.a-metal.com」（https://www.a-metal.com/・3回目）
+- 創業年度：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 安全：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 売上：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）
+- 存続：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）

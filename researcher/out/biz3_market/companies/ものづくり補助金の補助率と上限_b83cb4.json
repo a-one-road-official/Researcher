@@ -1,0 +1,742 @@
+{
+ "name": "ものづくり補助金の補助率と上限",
+ "en": "monodzukuri subsidy rate cap",
+ "aliases": [
+  "ものづくり補助金 補助率",
+  "ものづくり補助金 上限"
+ ],
+ "context": "②③共通",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:06:30.918042+00:00",
+ "evidence": {
+  "単価・価格": [
+   {
+    "quote": "ものづくり補助金の補助額は最大3,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "+1,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "1,250万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円（最大）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "＋最大1,000万円上乗せ",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "最大8,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "従業員 5人以下→最大 750万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "従業員 6人〜20人→最大 1,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "従業員 21人以上→最大 1,250万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "例）従業員15人の中小企業（補助率1/2）が、2,400万円の設備投資をする場合",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "まず補助率で計算→2,400万円 × 1/2 ＝ 1,200万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "上限額を確認→従業員15人の上限は 1,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "実際の支給額→低い方の 1,000万円 が支給される",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "また、大幅な賃上げを行う場合は上限額が最大1,000万円上乗せされる特例があります",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "例→補助対象となる経費が2,000万円、補助率が1/2の場合",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円×1/2＝1,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円が補助金として後日支給され、残りの1,000万円は自己負担となります",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "例）従業員5人の会社が3,000万円の設備投資をした場合（補助率1/2）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円×1/2＝1,500万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "計算上は1,500万円になりますが、従業員5人以下の企業の補助上限額は750万円のため、実際に受け取れるのは750万円までです",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "以前は、1,500万円を超える部分は1/3になるという複雑な計算（混合補助率）がありましたが、現在は全額に対して一律の補助率が適用されるケースが主流です",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、小規模事業者が革新的新製品・サービス枠で2,100万円の設備投資をする場合、全額に対して2/3が適用されるため、1,400万円の補助を受けることが可能です",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "ものづくり補助金の補助額はどれくらい？上限や条件を詳しく解説 | みんなの補助金コンシェルジュ",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金・給付金相談・活用のプラットフォームなら",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "みんなの補助金コンシェルジュ",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助金AIレコメンド",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助額はどれくらい？上限や条件を詳しく解説",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助額は最大3,000万円",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "枠や事業規模により異なり、補助率は中小企業1/2、小規模事業者は2/3が基本",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "【無料】御社に合った補助金・助成金を診断！",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助額や上限はどのくらい？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】ものづくり補助金の補助額・上限額の仕組み",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は従業員数で決まる？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助率は企業の規模で決まる？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助金獲得の成功事例には何がある？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助額がいくらになるかは補助率による",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助率・上限額の最新版を徹底解説 | みんなの補助金コンシェルジュ",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金・給付金相談・活用のプラットフォームなら",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "みんなの補助金コンシェルジュ",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "補助金AIレコメンド",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助率・上限額の最新版を徹底解説",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助率・補助上限額を2026年最新情報でわかりやすく解説",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "申請枠ごとの違い、特例・加点制度、採択率を高めるポイントまで詳しく紹介します",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "【無料】御社に合った補助金・助成金を診断！",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助率や上限額って何のこと？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "補助率とは何？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額とは？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の補助率は属性や枠によって変わる？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者と再生事業者では補助率が異なる？",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "最新の補助率区分（革新的新製品・サービス枠などの例）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "関連コラム一覧",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ランキングを見る",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス開発（高付加価値化枠）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額一覧（目安）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス高付加価値化枠",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "を解消するロボット導入や、革新的な新サービス開発などの初期投資を強力にバックアップすることを目的としています",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス高付加価値化枠（通常類型）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なサービスや製品開発であればかなり幅広い業種が対象となり、ユニークな事例が採択されています",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "北海道のIT企業が開発した飲食店が狩猟者にジビエを発注できるwebサービス",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県の農業資材を扱う企業が提案したドローンによる農薬散布サービス",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "製品やサービスを高めるための枠では、補助率が",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "では、2025年以前と比較して劇的に上限額が引き上げられています",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "製品やサービスがどれだけ革新的かがみられます",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の申請は競争率が高いですから、他の事業者や製品と比較していかに斬新な技術や発想を取り入れているか、アピールしましょう",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品やサービスが、競合他社に比べてどのような",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "pass": 3
+   },
+   {
+    "quote": "最新の補助率区分（革新的新製品・サービス枠などの例）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "革新的新製品・サービス枠",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ものづくり補助金の主要要件・対象経費・賃上げ特例一覧",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "関連コラム一覧",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ランキングを見る",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "現在の主要な区分である「革新的新製品・サービス枠」に基づくと、以下のようになります",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、小規模事業者が革新的新製品・サービス枠で2,100万円の設備投資をする場合、全額に対して2/3が適用されるため、1,400万円の補助を受けることが可能です",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "革新的新製品・サービス枠→小規模なら2/3、その他は1/2",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業・小売業・サービス業",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "が、新しい技術やサービスを開発したり、生産の仕方を改善したりするための支援が目的です",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり・商業・サービス生産性向上促進補助金",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なサービスの開発",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "既存サービスの抜本的な改善",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "・クラウドサービス利用費",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   },
+   {
+    "quote": "補助率を 1/2 から 2/3 へ引き上げ（革新的新製品・サービス枠、新事業進出枠が対象）",
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/14th/gaiyou_14_20230118.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.icom-giken.com/blog/mono_2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://so-labo.co.jp/hojyokin/monodukuri/basic/364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisansei.smrj.go.jp/subsidy_info/manufacturing_subsidy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/monodukurihojyo-wakariyasuku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichidokiri.co.jp/column/manufacturing_subsidy-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy/125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cm.co.jp/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikinnosensei.com/blog/2026/03/23/complete-guide-manufacturing-subsidy-2026-up-to-35-million-yen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolbox-portal.com/guides/registration/monozukuri-subsidy-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/columns/mono2025_summary",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sbivp.com/contents/monohozyo_zyouken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/1407/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/solution_lab/academy_001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.11consul.com/2026/10/03/monozukuri-23ji-soukatsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planbase.co.jp/column/monodukuri-acceptance-trend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inu-llc.co.jp/monohojo-per/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fmclub.jp/blog/hojyokin/36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://procon-hojyokin.com/hojoritsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinjigyo-hojokin.jp/articles/shinjigyo-hojokin-hojoritsu-ichiran-hanbun-sanbunnoichi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokinnavi.com/blog/seizougyou-hojokin-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-mp.jp/smobiz/monozukuri-hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/oyasai_japan/n/n9cb4f50937e0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/publications/summary/21060008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agriture.jp/en/subsidy/shinjigyo-monozukuri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japansubsidyguide.com/programs/new-business-monozukuri-subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elisa.biz/en/services/subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/policy/mono_info_service/overall/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.monodukuri-hojo.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.monodukuri-hojo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/hint/29362/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/%E5%85%AC%E5%8B%9F%E8%A6%81%E9%A0%98%E6%A6%82%E8%A6%81%E7%89%88_20%E6%AC%A1%E7%B7%A0%E5%88%87_20250425.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ものづくり補助金の補助率と上限",
+   "results": [
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/14th/gaiyou_14_20230118.pdf",
+    "https://www.icom-giken.com/blog/mono_2025/",
+    "https://so-labo.co.jp/hojyokin/monodukuri/basic/364/",
+    "https://seisansei.smrj.go.jp/subsidy_info/manufacturing_subsidy.html",
+    "https://sogyotecho.jp/monodukurihojyo-wakariyasuku/",
+    "https://ichidokiri.co.jp/column/manufacturing_subsidy-rate/",
+    "https://mirasapo-plus.go.jp/hint/29362/",
+    "https://hojokin-agent.jp/guide/monozukuri",
+    "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "https://ai-keiei-lab.jp/hojokin/monodzukuri-2026/"
+   ]
+  },
+  {
+   "query": "ものづくり補助金の補助率と上限 料金 相場",
+   "results": [
+    "https://ichidokiri.co.jp/column/manufacturing_subsidy-rate/",
+    "https://so-labo.co.jp/hojyokin/monodukuri/basic/364/",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/14th/gaiyou_14_20230118.pdf",
+    "https://www.icom-giken.com/blog/mono_2025/",
+    "https://seisansei.smrj.go.jp/subsidy_info/manufacturing_subsidy.html",
+    "https://hojokin-agent.jp/subsidy/125",
+    "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku",
+    "https://sogyotecho.jp/monodukurihojyo-wakariyasuku/",
+    "https://www.tokyo-cm.co.jp/manufacturing/",
+    "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu"
+   ]
+  },
+  {
+   "query": "ものづくり補助金の補助率と上限 規模別 社数",
+   "results": [
+    "https://ichidokiri.co.jp/column/manufacturing_subsidy-rate/",
+    "https://seisansei.smrj.go.jp/subsidy_info/manufacturing_subsidy.html",
+    "https://hojyokin-portal.jp/columns/mono2025_summary",
+    "https://www.sbivp.com/contents/monohozyo_zyouken/",
+    "https://hojokin-joseikin.com/1407/",
+    "https://www.yuasa.co.jp/solution_lab/academy_001/",
+    "https://www.11consul.com/2026/10/03/monozukuri-23ji-soukatsu/",
+    "https://sogyotecho.jp/monodukurihojyo-wakariyasuku/",
+    "https://planbase.co.jp/column/monodukuri-acceptance-trend/",
+    "https://biz-mp.jp/smobiz/monozukuri-hojokin/"
+   ]
+  },
+  {
+   "query": "ものづくり補助金の補助率と上限 比較 一覧",
+   "results": [
+    "https://ichidokiri.co.jp/column/manufacturing_subsidy-rate/",
+    "https://www.icom-giken.com/blog/mono_2025/",
+    "https://sogyotecho.jp/monodukurihojyo-wakariyasuku/",
+    "https://inu-llc.co.jp/monohojo-per/",
+    "https://hojyokin-portal.jp/columns/mono2025_summary",
+    "https://www.fmclub.jp/blog/hojyokin/36",
+    "https://www.yuasa.co.jp/solution_lab/academy_001/",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/14th/gaiyou_14_20230118.pdf",
+    "https://procon-hojyokin.com/hojoritsu/",
+    "https://hojyokin-concierge.com/media/2025/12/16/monozukurihojokin-hojoritu"
+   ]
+  },
+  {
+   "query": "monodzukuri subsidy rate cap",
+   "results": [
+    "https://note.com/oyasai_japan/n/n9cb4f50937e0?hl=en",
+    "https://www.rieti.go.jp/en/publications/summary/21060008.html",
+    "https://agriture.jp/en/subsidy/shinjigyo-monozukuri/",
+    "https://japansubsidyguide.com/programs/new-business-monozukuri-subsidy/",
+    "https://elisa.biz/en/services/subsidy/",
+    "https://www.youtube.com/watch?v=8xd7X6z_O-s",
+    "https://www.meti.go.jp/english/policy/mono_info_service/overall/index.html",
+    "https://www.electrive.com/2026/10/26/japan-cuts-ev-subsidy-rates/",
+    "https://www.shigyo.co.jp/en/search_post/business-subsidy/%E6%96%B0%E4%BA%8B%E6%A5%AD%E9%80%B2%E5%87%BA%E3%83%BB%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E5%95%86%E6%A5%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E8%A3%9C%E5%8A%A9%E9%87%91/",
+    "https://note.com/shinsei_mikata/n/n59543537e191?hl=en"
+   ]
+  },
+  {
+   "query": "ものづくり補助金の補助率と上限 2025 OR 2026",
+   "results": [
+    "https://hojyokin-portal.jp/columns/mono2025_summary",
+    "https://www.icom-giken.com/blog/mono_2025/",
+    "https://portal.monodukuri-hojo.jp/about.html",
+    "https://portal.monodukuri-hojo.jp/",
+    "https://www.yuasa.co.jp/solution_lab/academy_001/",
+    "https://mirasapo-plus.go.jp/hint/29362/",
+    "https://www.youtube.com/watch?v=3UCxvblViGM",
+    "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/%E5%85%AC%E5%8B%9F%E8%A6%81%E9%A0%98%E6%A6%82%E8%A6%81%E7%89%88_20%E6%AC%A1%E7%B7%A0%E5%88%87_20250425.pdf",
+    "https://sogyotecho.jp/monodukurihojyo-wakariyasuku/",
+    "https://hojyokin-concierge.com/media/2025/12/16/monozukuriihojokin-hojogaku"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ34頁・検索6回）",
+  "取り分・マージン": "記載なし（読んだ34頁・検索6回）",
+  "市場規模・台数": "記載なし（読んだ34頁・検索6回）",
+  "導入期間・キャッシュ": "記載なし（読んだ34頁・検索6回）"
+ }
+}

@@ -1,0 +1,548 @@
+{
+ "name": "日本の金属3Dプリンター市場規模と出荷台数",
+ "en": "Japan metal 3D printer market size units",
+ "aliases": [
+  "金属3Dプリンター 市場規模",
+  "金属AM 国内 出荷台数",
+  "金属積層造形 市場"
+ ],
+ "context": "②卓上金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:09:03.945251+00:00",
+ "evidence": {
+  "市場規模・台数": [
+   {
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の現在の市場規模はどのくらいですか？",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "ルビジウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリント市場規模予測、2025年に250億ドルに達する見込み",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社のSmarTech Analysis社は、グローバルでの3Dプリント市場規模が2050年に約250億ドルに達する見込みであることを発表した",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "業界全体の市場規模は前年同期比27%…",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター市場、2026年に約6,300億円に成長見込み",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "鉱業サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門サービスおよび商業サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "消費者向けおよびB2C向けサービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア＆サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気機器およびサービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービス業界",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "保険サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービス",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "4つ以上のレーザーを搭載した最新の産業用金属プリンターは、シングルレーザー構成と比較して造形生産性を向上させる能力を備えている",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン、ニッケル合金、ステンレス鋼、コバルトクロムといった材料は、強度、耐熱性、耐腐食性といった様々な特性の組み合わせを必要とする部品の製造において、メーカーに多様な選択肢を提供します",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場レポートに関する記事一覧 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "その他製品・サービス（221）",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター向けのAMは3Dプリンティング市場の大きな成長機会を提供する",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント技術を活用した製造インフラを提供する株式会社3D Printing Corporation（以下、3DPC）は、アメリカのエンジニアリングソフトウェ…",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング技術を活用した製造インフラを提供する株式会社3D Printing Corporation（以下、3D Printing Corporatio…",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "最新記事一覧",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】3Dプリンターフィラメント完全ガイド｜PLA・ABS・PETG等15種類を徹底比較",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   }
+  ],
+  "単価・価格": [
+   {
+    "quote": "金属AM市場、2034年に9兆円規模へ！VoxelMattersが最新市場レポートを公開",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター市場、2026年に約6,300億円に成長見込み",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "材料の性能やプリント速度、コストといった課題は残るものの、その市場は2025年には約60兆円にまで成長すると見込まれて…",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIsadxb52mFjFAt0sysei71hwtYwf1s9sw2-sRHg1ZNxuucJjB2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.orixrentec.jp/rentecinsight/3dprinter/article-33",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bantec2022.com/archives/1584",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLkiddsaQPGrTfZpVTkXmR0UrqKr-H7AkiEcTP_REQzmcS-PNEk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vKNZmaJ8yJIKneflSsY7BlNluvp8G5qaDjwsvuNOqQAf7Ul-W4m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yanoict.com/summary/show/id/740",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/5185/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIPi744V-LsonoMEZcsTxx2Z0o2Feaf_zhqi8npbK3F3J5J5ApN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/insight/metal-3d-printing-market-gvr/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/sky1900468-metal-3d-printing-market-size-share-growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/metal-3d-printing-market/54134",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/insight/3d-printing-metals-market-smrc/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/metal-3d-printing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/market-reports/3d-printing-market-100189",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLQkFN4W2VZOsuKWJXj8GNmh1L91lpPr-8xf01gYwwzKW4fr1mn",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本の金属3Dプリンター市場規模と出荷台数",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIsadxb52mFjFAt0sysei71hwtYwf1s9sw2-sRHg1ZNxuucJjB2",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://go.orixrentec.jp/rentecinsight/3dprinter/article-33",
+    "https://www.bantec2022.com/archives/1584",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://www.yanoict.com/summary/show/id/740",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html",
+    "https://news.sharelab.jp/3dp-news/report/market-yanoresearchinstitute-220113/",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター市場規模と出荷台数 料金 相場",
+   "results": [
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLkiddsaQPGrTfZpVTkXmR0UrqKr-H7AkiEcTP_REQzmcS-PNEk",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://www.bantec2022.com/archives/1584",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.imarcgroup.com/report/ja/japan-3d-printing-market",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター市場規模と出荷台数 規模別 社数",
+   "results": [
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vKNZmaJ8yJIKneflSsY7BlNluvp8G5qaDjwsvuNOqQAf7Ul-W4m",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://www.yanoict.com/summary/show/id/740",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "https://metoree.com/categories/5185/",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター市場規模と出荷台数 比較 一覧",
+   "results": [
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIPi744V-LsonoMEZcsTxx2Z0o2Feaf_zhqi8npbK3F3J5J5ApN",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html",
+    "https://metoree.com/categories/5185/",
+    "https://www.imarcgroup.com/report/ja/japan-3d-printing-market",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html",
+    "https://www.marketreport.jp/insight/metal-3d-printing-market-gvr/"
+   ]
+  },
+  {
+   "query": "Japan metal 3D printer market size units",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/japan",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.linkedin.com/pulse/japan-industrial-metal-3d-printer-market-plqnf",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.mordorintelligence.com/industry-reports/metal-3d-printing-market",
+    "https://www.marketgrowthreports.com/market-reports/3d-printing-market-100189",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.precedenceresearch.com/japan-3d-printing-market"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター市場規模と出荷台数 2025 OR 2026",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLQkFN4W2VZOsuKWJXj8GNmh1L91lpPr-8xf01gYwwzKW4fr1mn",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ31頁・検索6回）",
+  "取り分・マージン": "記載なし（読んだ31頁・検索6回）",
+  "導入期間・キャッシュ": "記載なし（読んだ31頁・検索6回）"
+ }
+}

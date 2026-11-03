@@ -1,0 +1,1505 @@
+{
+ "name": "日本の受託開発・設計受託会社の数（規模別）",
+ "en": "number of contract development design firms Japan",
+ "aliases": [
+  "受託開発 会社数",
+  "設計受託 会社",
+  "開発受託 企業数",
+  "製品設計 受託"
+ ],
+ "context": "③WL",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:07:45.313405+00:00",
+ "evidence": {
+  "売り先の数": [
+   {
+    "quote": "システム開発の費用・相場【2026年版】｜内訳と規模別事例",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の費用相場（スクラッチ開発の場合）",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "規模別・技術スタック別の詳しい費用内訳や、工程ごとの費用比率、発注前に確認すべきチェックリストは",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の日本標準産業分類において、システム開発事業は「",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "日本標準産業分類では、ソフトウェア業(システム開発業)は、以下の4つに分類されます",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "日本標準産業分類 大分類Ｇ－情報通信業(総務省)",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "企業価値算定の3つの方法、業種・規模別の相場観、売却価格を高めるポイントを解説します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "各方法の仕組みとメリット・デメリット、規模別の使い分けを図解でわかりやすく解説します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 １万５２４９ 事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２ 1 年の ソフトウェア 業の事業所数は、 1 万 5249 事業所 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 経営組織別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－１ 表 経営組織別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 単独事業所・本社・支社別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－２ 表 単独事業所・本社・支社別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 従業者規模別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別にみると、「 １０ 人～２ ９人」規模が 4642 事業所（構成比 30.4％）と最も多く、次いで、 「４人以",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１－ ３表 従業者規模別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別に事業所数をみると、 東京 が 5596 事業所（構成比 36.7％）、 大阪 が 1615事業所（同 10.6％）、",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－４表 ソフトウェア 業務の都道府県別事業所数、 事業従事者数 、年間売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 事業従事者数 年間売 上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発はIT・ソフトウェアの中分類で、業界分類済の861,889社中11,370社 (1.3%) を擁する業界です(全149業界の社数ランキングでは23位)",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "に関連する市場規模・事業所数などの指標を、官公庁・業界団体の公開統計から集約（各指標に出典リンク付き）",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "収益性: 財務省 法人企業統計『情報通信業』（大分類平均・2024年度） ／ 一人当たり売上: 総務省・経産省 経済センサス『情報サービス業』（中分類・2021年）",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "※ 政府統計（財務省 法人企業統計・経済センサス）は大分類・全規模・従業者数（パート等含む）ベースの平均値です",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 財務省「法人企業統計」・総務省／経済産業省「経済センサス」（従業者数ベース・パート等を含む）",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "規模別社数 (総資産バケット) — クリックで内訳",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の収益性（資本金階級別）",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "増減率別社数 (YoY) — クリックで内訳",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者規模別経営指標 …該当する掲載頁数をクリックすると表に移動します",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 1,327 黒字かつ自己資本プラス企業数 665",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 25 黒字かつ自己資本プラス企業数 15",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 20 黒字かつ自己資本プラス企業数 11",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 777 黒字かつ自己資本プラス企業数 410",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 669 黒字かつ自己資本プラス企業数 361",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 607 黒字かつ自己資本プラス企業数 328",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 62 黒字かつ自己資本プラス企業数 33",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 108 黒字かつ自己資本プラス企業数 49",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 63 黒字かつ自己資本プラス企業数 29",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 38 黒字かつ自己資本プラス企業数 16",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 7 黒字かつ自己資本プラス企業数 4",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 314 黒字かつ自己資本プラス企業数 169",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 208 黒字かつ自己資本プラス企業数 70",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 129 黒字かつ自己資本プラス企業数 48",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表1はすべて人を単位とした実数で、企業数ではありません*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "企業数の側も公表されています*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "調査実施時期に利用可能な最新の事業所母集団データベースの年次フレームを母集団情報として、産業小分類別・企業売上高規模別に層化無作為抽出により選定するとされています*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "調査の概要の沿革によると、2021年調査までは日本標準産業分類大分類Gの情報通信業のうち情報サービス業も属性範囲に含まれていましたが、2022年調査から総務省の単独調査となり、属性範囲は電気通信業、放送業、テレビジョン番組制作業、インターネット附随サービス業の4業種になりました",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の費用相場と人月単価の目安",
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、日本情報システム・ユーザー協会（JUAS）「ソフトウェア・メトリクス調査2025」による、スクラッチ開発の工数規模別の平均です",
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "pass": 3
+   }
+  ],
+  "単価・価格": [
+   {
+    "quote": "受託開発の費用相場は、小規模（〜20画面）で500〜1,200万円、中規模（〜60画面）で2,000〜6,000万円、大規模（100画面超）で6,000万円〜が目安です（2026年9月時点・税別）",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "〜20画面をチームで新規開発（500〜1,200万円）",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "画面数10未満の単機能ツール（100〜300万円）",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "単一業務の置き換え（100〜300万円）",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "既存の単機能ツールを置き換えるなら100〜300万円、複数画面の業務システムを新規に請け負う場合は500万円以上、と読み分けてください",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "500〜1,200万円",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "100〜180万円",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "2,000〜6,000万円",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "150〜220万円",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万円〜1.5億円超",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "180〜250万円",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば中規模を20人月・単価180万円で見積もると 20 × 180 ＝ 3,600万円です",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "大規模の例で10名 × 12か月と計算すると120人月・2億円超になりますが、実際にはPM・設計者・テスト担当が工程ごとに入れ替わり、全員がフル稼働するわけではありません",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "開発会社にチーム体制で請け負ってもらう場合、小規模（〜20画面）で500〜1,200万円、中規模（〜60画面）で2,000〜6,000万円、大規模（100画面超）で6,000万円〜が目安です（税別、運用保守費を除く）",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "既存のAccess・Excelなど単機能ツールの置き換えなら100〜300万円程度に収まることが多く、この場合は",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "100万〜300万円",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "300万〜800万円",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "800万〜3,000万円以上",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "ローコード・ノーコードツールを活用する場合は初期費用を抑えられますが、月額ライセンス費が継続的に発生するため、5年程度のトータルコストで比較するとスクラッチ開発と大きく変わらないケースもあります",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "オフショア開発は、国内エンジニアの人月単価が50万〜100万円程度であるのに対し、オフショア先では15万〜40万円程度が目安とされ、費用を抑えられる反面、品質保証体制やブリッジ人材の経験が成否を左右します",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "月額10万円から",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニア1〜2名体制、毎週のミーティングとチャットでの密な連携により、約6ヶ月・費用レンジ300万〜500万円で実用性の高いシステムを完成させています",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "前例のない新規SaaSプロダクトの開発では、まずMVP（最小実用製品）を2ヶ月・約200万円で構築し、市場の反応を確認してから月額100万〜300万円での継続開発に移行するという段階的な進め方を採用しました",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "総務省および経済産業省が公表している「経済構造実態調査」によると、2019年から2023年までのソフトウェア業の市場規模(年間売上高)の推移は以下のとおりです(千万円以下は四捨五入)",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2019年：24兆6586億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2020年：26兆0876億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2022年：30兆5,922億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2023年：32兆3,056億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "また、金額が公表されている案件のうち、1件当たりの平均金額は22億6000万円と、総じて中小規模のM＆Aが多かった一年となりました",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：4億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：6億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：5億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：2億6,640万円(",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：3億2,300万円[7]",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2026年最新事例を含むSES事業の売却・M&A事例37例や、売却価格の相場、SESの事業売却で得られるメリットや注意点、高値売却の可能性を高めるポイントなどを解説します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高 １５ 兆６３６ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア 業務の年間売上高 １１兆９１４１ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり年間売上高 ９．９億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり ソフトウェア 業務の年間売上高 ７．８億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高は、 15 兆 636 億円 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、主業である ソフトウェア 業務の年間売上高は、 11 兆 9141 億円で、 ソフトウェア業 の年間売上高に",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、その他業務（従業）の年間売上高は、 3 兆 1495 億円 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上で みると、 「情報通信業務 」1 兆 9919 億円 （構成比 13.4％） が最も高 くなっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間営業費用は、 13 兆 3790 億円、年間売上高に占める割合は 88.8％となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを 従事者 ５人以上で 費用区分別にみると、 「外注費」が 5兆486億円（構成比 38.2％）、 「給与支給総額」",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 3 兆 8212 億円（同 28.9％）、 広告・宣伝費などの 「その他の営業費用」が 3 兆 4792 億円（ 同 26.3％）などと",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 従事者 ５人以上の 年間営業用固定資産取得額は、 4829 億円で、 区分別にみると 「有形 固定資産」が",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2467 億円（構成比 51.1％）、「無形固定資産」が 2362 億円（同 48.9％） となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単体総資産は中央値1.6億円、最大235億円と階層の深い分布です (直近3年567社)",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "業界平均年収は約595万円",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "一方で政府・自治体での生成AIクローズド環境活用や、2030年に8.3兆円が見込まれるDX市場の拡大という追い風も存在し、公共・エネルギー・半導体向け需要は堅調に推移している",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "国内DX市場は2030年に8.3兆円規模が見込まれ、政府・自治体のオンプレミス型生成AI（クローズドAI）活用が急速に加速している",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "アピリッツが「ビジネスアーキテクト」転換を宣言し5,000万円以上の案件比率を高めるなど、1億円以上の大型受託案件は増加傾向にあり、BtoBtoCプラットフォームや高負荷データ処理を軸とした高難度案件の比率が上昇している",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "2030年DX市場8.3兆円・国内DX人材不足89%を根拠にベトナムIT人材供給を差別化軸に位置づけ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "モデル面では、アピリッツがDelivery（受動的納品）からDiscovery（能動的価値共創）へ転換を宣言し、5,000万円以上の案件構成比を引き上げている",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "投資先ではフュージックが生成AI・宇宙・プロダクトへ3Q累計2億円を重点投下し、GSIが人的資本・AI活用・戦略的投資の3柱で先行費用を集中させる",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI・宇宙・プロダクトへ3Q累計約2億円の重点投資、2028/6期売上50億円・CAGR40%以上を標榜",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "累計11件DXロールアップM&A（黒字・5年回収基準）で時価総額100億円達成、第二次中計でオフショア拡大へ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "Delivery→Discovery転換でリスク共有型パートナーへ、年1〜2件M&AでVISION2030・売上200億円を目指す",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム拠点×M&A5件でグローバルIT総合サービスを構築、グルーヴ・システム子会社化で売上51億円へ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   }
+  ],
+  "市場規模・台数": [
+   {
+    "quote": "6,000万円〜1.5億円超",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "大規模の例で10名 × 12か月と計算すると120人月・2億円超になりますが、実際にはPM・設計者・テスト担当が工程ごとに入れ替わり、全員がフル稼働するわけではありません",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに、システム開発・受託開発の業務内容や2024年最新の市場規模、現状・今後の動向を解説します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発・受託開発業界の市場規模（2024年最新版）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "総務省および経済産業省が公表している「経済構造実態調査」によると、2019年から2023年までのソフトウェア業の市場規模(年間売上高)の推移は以下のとおりです(千万円以下は四捨五入)",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2019年：24兆6586億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2020年：26兆0876億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2022年：30兆5,922億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2023年：32兆3,056億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2019年以降、市場規模が右肩上がりで拡大し続けていることが分かります",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：4億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：6億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：5億円",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：2億円(純資産額を基準に算定)[8]",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：約37億円[15]",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：6億円[27]",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡金額：1億円[33]",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高 １５ 兆６３６ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア 業務の年間売上高 １１兆９１４１ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり年間売上高 ９．９億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり ソフトウェア 業務の年間売上高 ７．８億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高は、 15 兆 636 億円 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、主業である ソフトウェア 業務の年間売上高は、 11 兆 9141 億円で、 ソフトウェア業 の年間売上高に",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、その他業務（従業）の年間売上高は、 3 兆 1495 億円 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上で みると、 「情報通信業務 」1 兆 9919 億円 （構成比 13.4％） が最も高 くなっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間営業費用は、 13 兆 3790 億円、年間売上高に占める割合は 88.8％となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを 従事者 ５人以上で 費用区分別にみると、 「外注費」が 5兆486億円（構成比 38.2％）、 「給与支給総額」",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 3 兆 8212 億円（同 28.9％）、 広告・宣伝費などの 「その他の営業費用」が 3 兆 4792 億円（ 同 26.3％）などと",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 従事者 ５人以上の 年間営業用固定資産取得額は、 4829 億円で、 区分別にみると 「有形 固定資産」が",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2467 億円（構成比 51.1％）、「無形固定資産」が 2362 億円（同 48.9％） となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "みると、 「機械・設備・装置」が 1343億円（同 27.8％） 、「建物・その他の有形固定資産」が 859億円（ 同 17.8％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア 業務の年間売上高は、 11 兆 9141 億円 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単体総資産は中央値1.6億円、最大235億円と階層の深い分布です (直近3年567社)",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "アピリッツが「ビジネスアーキテクト」転換を宣言し5,000万円以上の案件比率を高めるなど、1億円以上の大型受託案件は増加傾向にあり、BtoBtoCプラットフォームや高負荷データ処理を軸とした高難度案件の比率が上昇している",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "投資先ではフュージックが生成AI・宇宙・プロダクトへ3Q累計2億円を重点投下し、GSIが人的資本・AI活用・戦略的投資の3柱で先行費用を集中させる",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI・宇宙・プロダクトへ3Q累計約2億円の重点投資、2028/6期売上50億円・CAGR40%以上を標榜",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "累計11件DXロールアップM&A（黒字・5年回収基準）で時価総額100億円達成、第二次中計でオフショア拡大へ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "Delivery→Discovery転換でリスク共有型パートナーへ、年1〜2件M&AでVISION2030・売上200億円を目指す",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム拠点×M&A5件でグローバルIT総合サービスを構築、グルーヴ・システム子会社化で売上51億円へ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Asteriskは2026年度に売上182億円（+22.7%）・営業利益14.6億円（+39.6%）・EBITDA18.4億円（+46.5%）を計画し、MIXENSE・グローバルギア社の通期連結取り込みが上乗せ要因となる",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "アピリッツはVISION2030で売上200億円・営業利益20億円・利益率10%・社員1,700名を掲げ、2026/1期99億円から2030/1期200億円への段階計画を公開している",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "フュージックはCAGRで売上高・営業利益ともに40%以上という高成長目標を設定し、2028/6期に売上50億円以上・営業利益7.5億円以上を目指す",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "fonfunは第一次中計の全目標（売上20億円・EBITDA4億円・時価総額100億円）を既に達成し第二次中計へ移行済み",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "GSIは2027/3期に売上49億円（+6.4%）も先行投資で営業利益260百万円（▲47.1%）、EPS97.74円",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度売上182億円(+22.7%)・営業利益14.6億円(+39.6%)・EBITDA18.4億円、子会社通期連結が寄与",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "VISION2030で売上200億円・営業利益率10%・年1〜2件M&A方針、2026/1期99億円→2030/1期200億円の段階計画",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "2028/6期売上50億円以上・CAGR売上高・営業利益ともに40%以上の高成長目標を設定",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   }
+  ],
+  "競合": [
+   {
+    "quote": "画面数: 一覧・詳細・登録・帳票など、機能ごとの画面を1本と数えた本数",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "既存のAccess・ExcelをWeb化する当社サービスの費用",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "見積書を受け取ったら、金額の合計ではなく次の4点を確認すると、費用構造を比較できます",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "相見積もりの比較や、要件の切り分けだけのご相談でも構いません",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "← 技術情報・コラム一覧に戻る",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "CTO顧問サービス",
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "pass": 3
+   },
+   {
+    "quote": "一覧を見る →",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では一括請負・準委任・ラボ型・オフショアの契約形態を比較し、費用相場と失敗しないベンダー選定の判断軸をわかりやすく整理します",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "網羅的な知識よりも、発注判断に直結する比較軸が欲しいというのが、多くの発注担当者の本音です",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、受託開発の定義をシンプルに整理したうえで、一括請負・準委任・ラボ型・オフショアという4つの契約形態を比較し、規模・技術スタック別の費用相場、そして失敗しないベンダー選定のチェックリストまでを一気通貫で解説します",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発とよく比較されるのが「内製開発」と「SES（客先常駐）」です",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "SESは技術者の労働力を提供する契約で、指揮命令権は発注者側にあり、成果物の完成責任を負わないのが特徴です",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "次の章では、代表的な4つの契約形態を比較しながら、自社プロジェクトにどれが合うかを判断する軸を整理します",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "ローコード・ノーコードツールを活用する場合は初期費用を抑えられますが、月額ライセンス費が継続的に発生するため、5年程度のトータルコストで比較するとスクラッチ開発と大きく変わらないケースもあります",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "以下のチェックリストを、見積もり依頼前・比較検討時の判断材料として活用してください",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "TechBand / 開発チームサービス",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "サービス詳細を見る",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "秋霜堂株式会社は、TechBandサービスを通じて、専属チームによる週次スプリント体制で受託開発を支援しています",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "この判断軸をもとに費用相場感を把握し、発注前チェックリストでベンダーを比較すれば、「何となく」ではなく根拠を持って発注先を選べるようになります",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "根拠が不明瞭な見積もりは説明を求め、複数社から取得して内訳と対応範囲を比較すると妥当性を見極めやすくなります",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを見る",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "のM&A・売却案件一覧を見る",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発・受託開発会社の売却・M&A案件一覧",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "実務では、業務用のシステムのみならず、一般消費者が使用するシステム(ゲームソフトやWebサービスなど)の開発も、システム開発に含めることが一般的です",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "自社のサービスまたは商品を開発・販売する会社と、対極的な業態であると言えます",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に譲渡金額の大きかったM&A取引ランキングや、自社の事業売却を検討する会社の経営者が、コロナ禍で下した決断も紹介します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "自社サービス開発などの新しい事業を始めることができる(受託開発事業から脱却できる)",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "社歴が浅い企業が多いことや、代表者の年齢が比較的若いことが背景にあると言われており、後継者不足が大きな問題とはなっていないという見方もあります",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、自社サービス開発などの新しい事業に注力できるようになります",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "特に受託開発事業が主力ビジネスとなっているシステム開発会社の場合、「今の事業は仕方なく行っているだけで、本当は自社サービスを開発したい」と経営者が考えているケースは少なくありません",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、前述したように自社サービスの開発や既存の主力事業などに資金を投入できるようになります",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aのメリット・デメリット一覧｜売り手・買い手別にわかりやすく解説",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aのメリット・デメリットを売り手（事業承継・創業者利益）と買い手（事業拡大・シナジー）に分けて一覧解説",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "Pro-X：ソフトウェア開発やコンサルティングサービスを運営",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "フーバーブレイン：企業向けサイバーセキュリティツールの提供や、SIerに常駐してのITサービスやネットワークを守る構築事業、働き方改革支援の事業を運営",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "SES事業の売却・M&A相場・案件一覧【2025年最新事例あり】",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業務",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うち情報処理・提供サービス業務",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うちインターネット附随サービス業務",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業，飲食サービス業",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生活関連サービス業，娯楽業",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学術研究，専門・技術サービス業",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 情報処理・提供サービス 業",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理・提供サービス業務 の事業従事者数 ２１万１８ 百人",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理・提供サービス業務 の年間売上高 ４兆６４１ 億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 情報処理・提供サービス業務 の事 業従事者数 ３１ 人",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 情報処理・提供サービス業務 の年間売上高 ５．９億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２ 1 年の 情報処理・提供サービス業 の事業所数は、 6873 事業所 となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理・提 供サービス 業務の事業従事者数 （人）",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、主業である 情報処理・提供サービス業務 の年間売上高は、 4 兆 641 億円で、 情報処理・提供サー",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業務 … … 66,004 1.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発の会社一覧・主要企業｜11,370社の本社・上場・決算で比較 | Compalyze",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "の会社一覧・主要企業",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発はIT・ソフトウェアの中分類で、業界分類済の861,889社中11,370社 (1.3%) を擁する業界です(全149業界の社数ランキングでは23位)",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業を読み込んでいます…",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "1,500名超のBTC専門人材とデータプラットフォームによる再現性を武器に、構想〜グロースをワンストップで提供",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドテクノロジーズはベトナム拠点×M&A5件の組み合わせでグローバルIT総合サービスを構築、Sun Asteriskは3サービスライン（C&E／Talent Platform／Incubation）のシナジー型構成でリスク分散を図る",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム拠点×M&A5件でグローバルIT総合サービスを構築、グルーヴ・システム子会社化で売上51億円へ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "C&E（DX開発）・Talent Platform（リソース提供）・Incubation（自社IP）の3ライン構成でポートフォリオ分散",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス売上高の14.7%",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   }
+  ],
+  "導入期間・キャッシュ": [
+   {
+    "quote": "仕様が固まっており、予算と納期を確定させたいプロジェクトには一括請負が向いています",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間1ヶ月〜",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "要件が明確で予算・納期を固定したいなら一括請負",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "「予算と納期を固定したい」場合は請負、「優先度を見直しながら改善を続けたい」場合は準委任、を判断の軸にすると選びやすくなります",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "システムの目的・予算感・希望納期・現状の業務フローをまとめたRFP（提案依頼書）を準備するのが最優先です",
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "pass": 3
+   },
+   {
+    "quote": "ゲーム会社の売却は、市場規模が拡大している現状において有用な戦略であり、投資資金の回収などを実現できます",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aによるイグジットとは、株式売買によって投資資金の回収を図ることです",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "成長手段ではfonfunが黒字事業・5年回収を基準に累計11件のDXロールアップM&Aを実行済みで、第二次中計でオフショア拡大と子会社DXバリューアップへ移行する",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "累計11件DXロールアップM&A（黒字・5年回収基準）で時価総額100億円達成、第二次中計でオフショア拡大へ",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BearsSystemは、業務システム開発を中核に、WEBシステム開発、ホームページ作成、システムコンサルティング、パソコン回収、ECサイトの管理・運営を手掛ける",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "パソコン回収は非対面受け取りにも対応していたが、2025年1月に業務を一時休止している",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "代金回収サービスは全国または北海道内の金融機関ネットワークを使って口座振替を実施し、回収代金を北洋銀行の指定口座へまとめて入金する契約・従量課金型の事業である",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "Web口振受付サービスでは、利用者がパソコンやスマートフォンから口座登録でき、紙書類の回収や確認、郵送を省力化する",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、HSDダイレクトによる全銀協フォーマットの請求データ送受信、口振工房による請求情報作成、コンビニ収納代行、電子バーコード「PAYSLE」を組み合わせ、口座登録から請求、回収結果の確認までを支える点に特徴がある",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア開発では、製造業の生産工程・受発注・原価管理、流通業の販売・物流・貨物追跡、金融機関の勘定系・代金回収、公共分野の介護保険・水道料金管理など、業種別の業務システムを受託開発する",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアの機能性・信頼性、予算、納期といった「当たり前品質」の徹底に加え、お客様の期待を超える迅速性、突発的な要件変更への柔軟な対応、そして任せて安心という信頼感といった「差別化品質」の向上に日々取り組んでいます",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "業務請負事業では、長年にわたる経験と高度な技術力を持つエンジニアが、トヨタ自動車、トヨタコネクティッド、NECソリューションイノベータなどの大手企業に対し、新車物流システム、納期見える化システム、車両販売営業支援システム、クラウド基盤構築、公共機関システム開発など、多岐にわたるITソリューションを提供しています",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "短納期・低コストを優先して場当たり的に作ると、あとから改修費が膨らむ「技術的負債」がたまるため、将来の機能追加を見込んだ設計をしているかも打ち合わせで確かめます",
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発特化型は、プロジェクト管理のノウハウが蓄積されているため、納期や品質を守る仕組みが整っています",
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "フリーランスのメンバーが中心のため、平日の夜や土日も稼働でき、短い納期の案件にも対応しやすい体制です",
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "それぞれの流れとメリット、事業承継税制・補助金など2026年時点の支援制度、かかる税金を図解で解説します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、スタートアップや中小企業向けには、デジタルプロダクト開発における資金調達の課題を解決するため、「ものづくり補助金」をはじめとする補助金申請コンサルティングサービスも提供し、資金面からもクライアントをサポートしています",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2020年にMicrosoft for Startupsへ採択され、代表者はMicrosoft MVP for IoTとして紹介されている",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "特にエネルギー事業においては25年以上の実績を持ち、販売管理、修理点検管理、熱源機器診断支援、ガス警報器、定期保安巡回、ガス・検針請求管理、都市・産業エネルギー営業支援、選択約款・大口契約業務支援、電力販売管理、各種補助金申請、エネルギー施設建設・管理、エネルギー施設収支管理、電力販売・料金計算、電力発電機器・在庫管理など、多岐にわたる業務支援システムを40名以上のチーム体制でサポートしています",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   },
+   {
+    "quote": "国や自治体の補助金を使う場合は、開発会社が登録事業者でないと申請できない制度もあるため、問い合わせの段階で対象になるかを確認しておきます",
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "pass": 3
+   }
+  ],
+  "取り分・マージン": [
+   {
+    "quote": "Sales & Margin Trend",
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%A9%9F%E5%99%A8%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003176181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.systemgear.com/solutions/development/ems.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toshin-et.co.jp/service_product/develop/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liginc.co.jp/blog/system/573778",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-succeed.jp/content/knowledge/post-6613",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genee.jp/contents/system-development-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://it-trend.jp/contract-development/article/1174-11227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/industry/IT-02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E8%A8%AD%E8%A8%88%E5%8F%97%E8%A8%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growspirit.jp/column/detail/contract-development-companies-comparison-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://loftal.jp/blog/detail/contract-development-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cone-c-slide.com/liblog/system-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/R67422200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/media-it/system-integration/industry-structure",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/13467581.2020.1870473",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://archello.com/news/25-best-architecture-firms-in-japan-2025",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://abd-architecture.com/ja/abd-architecture-hokkaido-japan-award-winning-international-architectural-firm-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realestate-tokyo.com/news/english-speaking-architects-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.garde-intl.com/aboutus/?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/2168/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cir-tech.co.jp/technology/planning/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本の受託開発・設計受託会社の数（規模別）",
+   "results": [
+    "https://mono.ipros.com/cg2/%E6%A9%9F%E5%99%A8%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "https://www.e-stat.go.jp/dbview?sid=0003176181",
+    "https://www.systemgear.com/solutions/development/ems.html",
+    "https://www.toshin-et.co.jp/service_product/develop/index.php",
+    "https://it-trend.jp/contract-development/article/1174-11227",
+    "https://metoree.com/categories/2168/",
+    "https://compalyze.co.jp/industry/IT-02",
+    "https://www.crex-data.com/industry/media-it/system-integration"
+   ]
+  },
+  {
+   "query": "日本の受託開発・設計受託会社の数（規模別） 料金 相場",
+   "results": [
+    "https://hnavi.co.jp/knowledge/blog/entrusted-development-cost/",
+    "https://www.siainc.jp/topic/outsourced-development-cost-factors-2025",
+    "https://mono.ipros.com/cg2/%E6%A9%9F%E5%99%A8%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "https://syusodo.co.jp/blog/articles/contracted-software-development",
+    "https://liginc.co.jp/blog/system/573778",
+    "https://ma-succeed.jp/content/knowledge/post-6613",
+    "https://genee.jp/contents/system-development-cost/",
+    "https://vnext.co.jp/v-blog/system-development-cost.html",
+    "https://kigyolog.com/service.php?id=461",
+    "https://syusodo.co.jp/blog/articles/juchu-development-cost-breakdown-2026"
+   ]
+  },
+  {
+   "query": "日本の受託開発・設計受託会社の数（規模別） 規模別 社数",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003176181",
+    "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "https://mono.ipros.com/cg2/%E6%A9%9F%E5%99%A8%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "https://www.meti.go.jp/statistics/tyo/tokusabizi/result-2/h21/pdf/h21outline01.pdf",
+    "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "https://it-trend.jp/contract-development/article/1174-11227",
+    "https://compalyze.co.jp/industry/IT-02",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_05a.pdf",
+    "https://lassic.co.jp/media/person/ict-industry-basic-survey/"
+   ]
+  },
+  {
+   "query": "日本の受託開発・設計受託会社の数（規模別） 比較 一覧",
+   "results": [
+    "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "https://mono.ipros.com/cg2/%E8%A8%AD%E8%A8%88%E5%8F%97%E8%A8%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://compalyze.co.jp/industry/IT-02",
+    "https://it-trend.jp/contract-development/article/1174-11227",
+    "https://growspirit.jp/column/detail/contract-development-companies-comparison-2026",
+    "https://loftal.jp/blog/detail/contract-development-company",
+    "https://liginc.co.jp/blog/system/573778",
+    "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "https://cone-c-slide.com/liblog/system-development/",
+    "https://www.yano.co.jp/market_reports/R67422200"
+   ]
+  },
+  {
+   "query": "number of contract development design firms Japan",
+   "results": [
+    "https://architizer.com/blog/inspiration/collections/best-architecture-firms-in-japan/",
+    "https://www.tandfonline.com/doi/full/10.1080/13467581.2020.1870473",
+    "https://archello.com/news/25-best-architecture-firms-in-japan-2025",
+    "https://abd-architecture.com/",
+    "https://www.realestate-tokyo.com/news/english-speaking-architects-in-japan/",
+    "https://www.garde-intl.com/aboutus/?lang=en",
+    "https://www.reddit.com/r/JapanFinance/comments/193v9yg/architecture_firms_construction_company_discussion/",
+    "https://www.mjd.co.jp/mjda/about/",
+    "https://www.renub.com/japan-interior-design-market-p.php",
+    "https://prtimes.jp/main/html/rd/p/000002428.000072515.html"
+   ]
+  },
+  {
+   "query": "日本の受託開発・設計受託会社の数（規模別） 2025 OR 2026",
+   "results": [
+    "https://digi-mado.jp/articles/6c821750-6a03-45db-a882-62fb37aec794/",
+    "https://mono.ipros.com/cg2/%E6%A9%9F%E5%99%A8%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA/",
+    "https://hnavi.co.jp/knowledge/blog/contracted-development-market-size_sales/",
+    "https://it-trend.jp/contract-development/article/1174-11227",
+    "https://compalyze.co.jp/industry/IT-02",
+    "https://metoree.com/categories/2168/",
+    "https://liginc.co.jp/blog/system/573778",
+    "https://www.systemgear.com/solutions/development/ems.html",
+    "https://cir-tech.co.jp/technology/planning/"
+   ]
+  }
+ ],
+ "missing": {}
+}

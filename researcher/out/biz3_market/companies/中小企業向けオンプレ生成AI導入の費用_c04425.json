@@ -1,0 +1,293 @@
+{
+ "name": "中小企業向けオンプレ生成AI導入の費用",
+ "en": "on-premise generative AI SMB Japan cost",
+ "aliases": [
+  "オンプレ 生成AI 費用",
+  "ローカルLLM 導入費用",
+  "社内生成AI オンプレ 価格"
+ ],
+ "context": "①Yomi",
+ "kind": "market",
+ "researched_at": "2026-11-03T15:06:14.304199+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neural-opt.com/generative-ai-fees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://malna.co.jp/blog/ai_developmentcost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make-a-hit.co.jp/column/ai-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud-bit.jp/blog/generative-ai-pricing-cost-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/seseiai-consaru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://syusodo.co.jp/blog/articles/ai-adoption-rate-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd112220.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icr.co.jp/publicity/5325.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mic-r.co.jp/mr/03170/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000354.000072123.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usknet.com/dxgo/contents/dx-trend/thorough-comparison-of-16-generative-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/generative-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyolog.com/service.php?id=675",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-ok.jp/ai-implementation-cost-breakdown-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.step-out.jp/blog/2026-03-25-genai-introduction-cost-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lenovopress.lenovo.com/lp2225-on-premise-vs-cloud-generative-ai-total-cost-of-ownership-2025-edition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://done.lu/on-premise-ai-for-smbs-a-practical-2026-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1shwqgo/how_much_does_it_actually_cost_to_implement_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://indatalabs.com/blog/cost-of-generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/ai-tools-for-small-business/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/2149/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用",
+   "results": [
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "https://neural-opt.com/generative-ai-fees/",
+    "https://malna.co.jp/blog/ai_developmentcost/",
+    "https://cad-kenkyujo.com/on-play-ai/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://aicafe.jp/aidounyuu-kosuto/",
+    "https://ai-ok.jp/ai-implementation-cost-breakdown-2026/"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 料金 相場",
+   "results": [
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://make-a-hit.co.jp/column/ai-introduction/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://cloud-bit.jp/blog/generative-ai-pricing-cost-comparison",
+    "https://neural-opt.com/generative-ai-fees/",
+    "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "https://www.aidma-hd.jp/ai/seseiai-consaru/",
+    "https://dynabook.com/business/solution/column/generative-ai11.html",
+    "https://note.com/ai__worker/n/n6a8c44ed3bc0",
+    "https://ai-ok.jp/ai-implementation-cost-breakdown-2026/"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 規模別 社数",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://syusodo.co.jp/blog/articles/ai-adoption-rate-small-business",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd112220.html",
+    "https://www.icr.co.jp/publicity/5325.html",
+    "https://mic-r.co.jp/mr/03170/",
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://prtimes.jp/main/html/rd/p/000000354.000072123.html",
+    "https://neural-opt.com/generative-ai-support-company/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://www.step-out.jp/blog/2026-03-25-genai-introduction-cost-guide"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 比較 一覧",
+   "results": [
+    "https://usknet.com/dxgo/contents/dx-trend/thorough-comparison-of-16-generative-ai-services/",
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://aismiley.co.jp/category_page/generative-ai/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://kigyolog.com/service.php?id=675",
+    "https://corinaie.com/ai-cost-small-business-100man-guide/",
+    "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://note.com/ai__worker/n/n6a8c44ed3bc0"
+   ]
+  },
+  {
+   "query": "on-premise generative AI SMB Japan cost",
+   "results": [
+    "https://lenovopress.lenovo.com/lp2225-on-premise-vs-cloud-generative-ai-total-cost-of-ownership-2025-edition",
+    "https://www.fortunebusinessinsights.com/japan-generative-ai-market-115265",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://done.lu/on-premise-ai-for-smbs-a-practical-2026-guide/",
+    "https://www.reddit.com/r/ArtificialInteligence/comments/1shwqgo/how_much_does_it_actually_cost_to_implement_ai/",
+    "https://indatalabs.com/blog/cost-of-generative-ai",
+    "https://www.shambix.com/on-premise-ai-for-business/",
+    "https://info.flexera.com/CM-REPORT-State-of-the-Cloud?lead_source=Organic%20Search",
+    "https://www.tfsfventures.com/blog/ai-agent-deployment-cost-for-construction-in-japan-what-to-budget",
+    "https://www.oflight.co.jp/en/columns/generative-ai-employee-training-cost-2026"
+   ]
+  },
+  {
+   "query": "中小企業向けオンプレ生成AI導入の費用 2025 OR 2026",
+   "results": [
+    "https://www.salesforce.com/jp/blog/ai-tools-for-small-business/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://syusodo.co.jp/blog/articles/ai-adoption-rate-small-business",
+    "https://hojokin-joseikin.com/2149/",
+    "https://hatenabase.jp/blog/on-premise-generative-ai-guide-202/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000188956.html",
+    "https://main.sr-konishi.jp/senmon-support/ai-donyuhiyo",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/"
+   ]
+  }
+ ],
+ "missing": {
+  "売り先の数": "記載なし（読んだ35頁・検索6回）",
+  "単価・価格": "記載なし（読んだ35頁・検索6回）",
+  "取り分・マージン": "記載なし（読んだ35頁・検索6回）",
+  "市場規模・台数": "記載なし（読んだ35頁・検索6回）",
+  "補助金": "記載なし（読んだ35頁・検索6回）",
+  "競合": "記載なし（読んだ35頁・検索6回）",
+  "導入期間・キャッシュ": "記載なし（読んだ35頁・検索6回）"
+ }
+}

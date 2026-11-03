@@ -1,0 +1,918 @@
+{
+ "name": "a-metal",
+ "aliases": [
+  "CTRL+P",
+  "a-metal GmbH"
+ ],
+ "context": "卓上金属AM（Aone_131 検証順位10位）",
+ "researched_at": "2026-11-03T15:05:52.392637+00:00",
+ "official_url": "https://www.a-metal.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "認証": [
+   {
+    "quote": "Unser Kartuschensystem maximiert den sicheren Umgang mit dem Metallpulver. Die schlichte, sensor-gestützte Nutzerführung erlaubt die Bedienung auch ohne technischen Hintergrund nach einer einfachen Einweisung.",
+    "url": "https://www.a-metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dank unserer forschungsbasierten Pulverzuführung reduziert sich der Platzbedarf unserer Maschine auf Kühlschrankgrösse und ist somit in jeder bestehenden Werkstatt- oder Laborumgebung einsetzbar.",
+    "url": "https://www.a-metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "6. Juli 2026",
+    "url": "https://www.a-metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "am Alpine and Polar Environmental Research Centre (ALPOLE) eingesetzt. ALPOLE erforscht, wie sich Umwelt- und Klimaveränderungen auf alpine und polare Regionen auswirken und entwickelt ein besseres Verständnis dieser sensiblen Ökosysteme.",
+    "url": "https://www.a-metal.com/news/epfl",
+    "pass": 1
+   },
+   {
+    "quote": "6. Juli",
+    "url": "https://www.a-metal.com/news/cpne",
+    "pass": 1
+   },
+   {
+    "quote": "🎓 Die erste Auslieferung einer a-metal Anlage an eine Hochschule",
+    "url": "https://www.a-metal.com/news/cpne",
+    "pass": 1
+   },
+   {
+    "quote": "Centre de formation professionnelle neuchâtelois",
+    "url": "https://www.a-metal.com/news/cpne",
+    "pass": 1
+   },
+   {
+    "quote": "Die Digitalisierung schreitet weiter voran, nicht zuletzt durch Nachfolgeregelungen in Laboren und Praxen. Gleichzeitig beschäftigen viele ähnliche Herausforderungen:",
+    "url": "https://www.a-metal.com/news/dental-bern",
+    "pass": 1
+   },
+   {
+    "quote": "✅ Hochschulen & Forschungseinrichtungen",
+    "url": "https://www.a-metal.com/news/-erstmals-in-sterreich-unterwegs",
+    "pass": 1
+   },
+   {
+    "quote": "🎓 Innerhalb einer 1.5-tägigen Schulung konnten wir zusammen mit unserem Partner",
+    "url": "https://www.a-metal.com/news/zweite-maschine-in-deutschland",
+    "pass": 1
+   },
+   {
+    "quote": "🦷 Bereits ein Tag nach unserer Schulung vor Ort hat das Team vier weitere Modelgussgerüste gedruckt. Komplett alleine, ohne Hilfestellung von unserer Seite! Wir sind immer wieder beeindruckt, wie schnell unsere Kunden mit der Anlage zurecht kommen.",
+    "url": "https://www.a-metal.com/news/zweite-maschine-in-deutschland",
+    "pass": 1
+   },
+   {
+    "quote": "Das Resultat?",
+    "url": "https://www.a-metal.com/news/maschinen-kipptest-vor-der-swiss-plastics-expo",
+    "pass": 1
+   },
+   {
+    "quote": "Über 30 Aussteller und 2.500 Besucher an zwei Tagen – heute läuft der zweite Tag! Nutzen Sie die Chance, uns persönlich zu treffen und Metall-3D-Druck im Kompaktformat kennenzulernen.",
+    "url": "https://www.a-metal.com/news/m01n",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news?author=62b0367a77adc17ed457d3b0",
+    "pass": 1
+   },
+   {
+    "quote": "form3D Training Center for Additive Manufacturing",
+    "url": "https://www.a-metal.com/news/auslieferung-vorserie",
+    "pass": 1
+   },
+   {
+    "quote": "werden vor allem Schulungen und Weiterbildungen mit starker Praxiskomponente angeboten.",
+    "url": "https://www.a-metal.com/news/auslieferung-vorserie",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss m4m Center",
+    "url": "https://www.a-metal.com/news/maschinenauslieferung-in-die-zahnarztpraxis",
+    "pass": 1
+   },
+   {
+    "quote": ". Scandaten, Dichtetests und Oberflächen zeigten sehr kompetitive Resultate – und das aus einer kompakten Anlage, die in der Vorserie für CHF63‘000 erhältlich ist.",
+    "url": "https://www.a-metal.com/news/maschinenauslieferung-in-die-zahnarztpraxis",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news/maschinenauslieferung-in-die-zahnarztpraxis",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss m4m Center",
+    "url": "https://www.a-metal.com/news/formnext2025",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market — a-metal",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited to announce the successful closing of our oversubscribed CHF 2.1M seed financing round, led by",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "This funding marks a major milestone in our mission to offer accessible metal 3D printing: affordable, compact, and easy to use. With this capital, we will:",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "● Accelerate go-to-market readiness and client adoption",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "In den kommenden Monaten freuen wir uns darauf, verschiedene Anwendungen aus der Raumfahrt besser kennenzulernen. Bereits kennenlernen durften wir beeindruckende CFD-optimierte Geometrien von",
+    "url": "https://www.a-metal.com/news/esabic",
+    "pass": 1
+   },
+   {
+    "quote": ", dass wir eine eurer Geometrien drucken durften, um unsere Anlage auf die bevorstehende Zeit einzustimmen. Auch wenn nicht perfekt gedruckt, lässt sich das Resultat durchaus sehen.",
+    "url": "https://www.a-metal.com/news/esabic",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal CEO Stephan Steiner (links) und 3D-MODEL CEO Philipp Binkert (rechts) freuen sich über die exklusive Zusammenarbeit",
+    "url": "https://www.a-metal.com/news/distributor-3d-model",
+    "pass": 1
+   },
+   {
+    "quote": "• Geschlossener Materialkreislauf mit Pulverkartuschen",
+    "url": "https://www.a-metal.com/news/distributor-3d-model",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news/vorschua-formnext2025",
+    "pass": 1
+   },
+   {
+    "quote": "ist ein Familienunternehmen das ganzheitliche Kunststofflösungen anbietet. Von der Bauteilentwicklung über Simulation, Prototyping, Werkzeugkonstruktion, Werkzeugbau, Kunststoffspritzguss bis zur Baugruppenmontage bietet sie ihren Kunden alles an. Dabei setzt die Firma Huber Kunststoff AG auf modernste Technologien, unter anderem auch die Additive Fertigung.",
+    "url": "https://www.a-metal.com/news/anbauteile-spritzgusswerkzeuge-aus-metall-3d-druck",
+    "pass": 1
+   },
+   {
+    "quote": "Why Paledusk Could Become Japan’s Biggest Metal Band",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETAL LIFEPARK ISTANBUL (01.07.2026)",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   }
+  ],
+  "消耗品・粉末": [
+   {
+    "quote": "Für viele Anwendungen kommt dabei rostfreier Edelstahl 316L zum Einsatz. Seine hohe Korrosionsbeständigkeit gegenüber Witterung, Salzwasser und anspruchsvollen Umweltbedingungen macht ihn zu einem spannenden Werkstoff für Forschung und Entwicklung im alpinen Umfeld.",
+    "url": "https://www.a-metal.com/news/epfl",
+    "pass": 1
+   },
+   {
+    "quote": "in Le Locle und läuft auf Edelstahl 316L. Für uns ist dies ein besonderer Schritt, da wir damit erstmals auch in der Romandie präsent sind. Wir freuen uns auf die Zusammenarbeit mit dem CPNE und darauf, zu sehen, welche Projekte und Anwendungen mit der Anlage entstehen.",
+    "url": "https://www.a-metal.com/news/cpne",
+    "pass": 1
+   }
+  ],
+  "販売台数・導入先": [
+   {
+    "quote": "am Alpine and Polar Environmental Research Centre (ALPOLE) eingesetzt. ALPOLE erforscht, wie sich Umwelt- und Klimaveränderungen auf alpine und polare Regionen auswirken und entwickelt ein besseres Verständnis dieser sensiblen Ökosysteme.",
+    "url": "https://www.a-metal.com/news/epfl",
+    "pass": 1
+   },
+   {
+    "quote": "HAGANEと日本のパワーメタルの台頭",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   }
+  ],
+  "日本対応・保守": [
+   {
+    "quote": "Für uns ist die Installation ein wichtiger Schritt, Metall 3D‑Druck dauerhaft in der Grundbildung zu verankern. Wir freuen uns sehr, dass die nächste Generation bei der libs frühzeitig mit dieser Technologie in Berührung kommt. Vielen Dank",
+    "url": "https://www.a-metal.com/news/metall3ddruck-in-der-ausbildung-von-lernenden",
+    "pass": 1
+   },
+   {
+    "quote": "form3D Training Center for Additive Manufacturing",
+    "url": "https://www.a-metal.com/news/auslieferung-vorserie",
+    "pass": 1
+   },
+   {
+    "quote": "👉 With pilot production now ramping up, 𝐰𝐞’𝐫𝐞 𝐡𝐢𝐫𝐢𝐧𝐠! We’re looking for new talent in customer support, operations, and software development to help us shape the future of metal 3D printing.",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "“ führt der Technologiespezialist seit 2023 außerdem hochkarätige Weiterbildungsangebote in den Bereichen 3D-Druck und 3D-Scanning für die Fertigung der Zukunft durch. 3D-MODEL hat je eine deutsche und eine Schweizer Niederlassung mit Technologie- und Trainingszentrum in Bad Waldsee und Zürich.",
+    "url": "https://www.a-metal.com/news/distributor-3d-model",
+    "pass": 1
+   },
+   {
+    "quote": "日本のメタルはもう一過性の流行ではない",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "Why the Next Metallica Will Come From Japan",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "Wie dominant sind Frauen im Japanischen Metal?",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "【海外の反応】『今夜、世界中の中立ファンが日本のために立ち上がり、次にブラジルと対戦するときも、きっと日本を応援するだろう』日本の敗退に心から悔しがり、寂しがるコメントが共感の嵐の反応集！",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "衝撃のJAPAN【海外の反応】",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "日本の音楽界がBABYMETALから学ぶべきは「武者修行」かもしれません",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "日本のライブハウスがヤバすぎる…",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "10 JAPANISCHE Top-Bands, welche komplett aus FRAUEN bestehen!",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "日本のメタルは君が聴いているメタルより遥かにヤバい",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "#JapaneseMetal",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "9,630回視聴 • 2026/06/28に公開済み • #BABYMETAL #JapaneseMetal #NWOJM",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "もしかしたら、日本から生まれるかもしれない",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "HAGANE and the Rise of Japanese Power Metal",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "Why Paledusk Could Become Japan’s Biggest Metal Band",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "Why Japanese Metal Feels Different",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "The Future of the New Wave of Japanese Metal",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETALが日本のメタルバンドが西洋のステージを制覇できることを証明してから10年",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "彼らはパワーメタル、メタルコア、デスコア、J-POP、プログレッシブメタル、ジェント、そして日本のライブパフォーマンス文化を融合させ、全く新しい音楽を生み出している",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "次のメタリカは日本から生まれる理由",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "HAGANEと日本のパワーメタルの台頭",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "Paleduskが日本最大のメタルバンドになる可能性",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "日本のメタルが独特な理由",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "Best JAPANESE All-Female Metal Bands",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "【海外の反応】海外「日本人だけは帰らないで！」開催国が涙の懇願…敗退後に評価が爆上がりした理由",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   },
+   {
+    "quote": "【海外の反応】メイドインJAPAN",
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "pass": 3
+   }
+  ],
+  "装置価格": [
+   {
+    "quote": "Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.",
+    "url": "https://www.a-metal.com/impressum",
+    "pass": 1
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news?author=62b0367a77adc17ed457d3b0",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news/maschinenauslieferung-in-die-zahnarztpraxis",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market — a-metal",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited to announce the successful closing of our oversubscribed CHF 2.1M seed financing round, led by",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "This funding marks a major milestone in our mission to offer accessible metal 3D printing: affordable, compact, and easy to use. With this capital, we will:",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal AG secures CHF 2.1M seed round to bring accessible metal 3d printing to the market",
+    "url": "https://www.a-metal.com/news/vorschua-formnext2025",
+    "pass": 1
+   }
+  ],
+  "代理店条件": [
+   {
+    "quote": "a-metal und 3D-MODEL geben Resellerpartnerschaft bekannt",
+    "url": "https://www.a-metal.com/news/neue-lieferungen",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal und 3D-MODEL geben Resellerpartnerschaft bekannt — a-metal",
+    "url": "https://www.a-metal.com/news/distributor-3d-model",
+    "pass": 1
+   },
+   {
+    "quote": "a-metal und 3D-MODEL geben Resellerpartnerschaft bekannt",
+    "url": "https://www.a-metal.com/news/distributor-3d-model",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "We’re excited to announce the successful closing of our oversubscribed CHF 2.1M seed financing round, led by",
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Solved Lola Metals has two decentralized divisions - Chegg — Solved Lola Metals has two decentralized divisions - Chegg Chegg https://www.chegg.com > lola-metals-...",
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/lola-metals-two-decentralized-divisions-stamping-finishing-finishing-always-purchased-cert-q106125448",
+    "pass": 3
+   },
+   {
+    "quote": "a - metal — a - metal a-metal https://www.a-metal.com",
+    "url": "https://www.a-metal.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.a-metal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/syngeta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/epfl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/eventmarathon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/cpne",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/swissmem-industrietag2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/dental-bern",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/orthomeier-auslieferung",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/-erstmals-in-sterreich-unterwegs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/zweite-maschine-in-deutschland",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/metall3ddruck-in-der-ausbildung-von-lernenden",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/maschinen-kipptest-vor-der-swiss-plastics-expo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/m01n",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/impressum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news?author=62b0367a77adc17ed457d3b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/tag/Auslieferung",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/tag/Events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/tag/Pr%C3%A4sentationen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/tag/ZHAW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/tag/ESA%20BIC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/auslieferung-vorserie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/maschinenauslieferung-in-die-zahnarztpraxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/neue-lieferungen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/formnext2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/seed-finanzierungsrunde",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/esabic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/distributor-3d-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/erste-auslieferung",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/vorschua-formnext2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-metal.com/news/anbauteile-spritzgusswerkzeuge-aus-metall-3d-druck",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/62aadd6c319a4a44fe46f4de/e6ec48a0-6a98-4ec3-97e4-d1f64245f858/Vertriebspartnerschaft_a-metal_AG_und-3D-MODEL-768x432.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.dailymetalprice.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitco.com/price/precious-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/markets/commodities/futures/metals",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miningideas.com/index-price_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1hhfbqm/anyone_else_have_catastrophically_bad_desktop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.desktopmetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/3d-metal-3d-printer-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintboard.com/showthread.php?46833",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metal-america.com/distributor-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nationalmaterial.com/when-a-steel-distributor-does-more-than-distribute-steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metalmangear.com/become-a-metal-man-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industrialmetalsupply.com/blog/questions-to-ask-your-metal-supplier",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/LovebitesTheBand/posts/thank-you-full-metal-japan/1681185420035906/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metaljapan.tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullmetaljapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.so/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_metal-has-raised-5m-in-funding-to-build-activity-7371988408144990208-kO34",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thesaasnews.com/news/metal-raises-4-5m-seed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/metal/__hvHttkiSkruYAkkuJQKdeMdnUqRsIYhoQaG7x9663X8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/metal/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/getmetal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://threedmetals.com/blog/what-to-look-for-in-a-metals-employer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DZnbYbypcjo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meadmetals.com/blog/is-your-metal-supplier-iso-certified",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daysteel.co.uk/news/iso-9001-certification-for-metal-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iso.org/certification.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thefabricator.com/thefabricator/article/testingmeasuring/iso-certification-in-metal-fabrication-yes-or-no-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buildingsguide.com/metal-building-prices/?srsltid=AYCX9vI8acvLESZ9BTQ0oI2rAMEJ2BNVActMEIvu1itJZUSTyNcKOUaC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelstructuresamerica.com/metal-building-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quizlet.com/844195699/pricing-flash-cards/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harrisonmetal.com/library/marketing-math-1-fixed-amp-variable-costs/video",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_metal-has-raised-5m-in-funding-to-build-activity-7371988408144990208-kO34",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vc.pedaily.cn/company/687125.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "a-metal price USD",
+   "results": [
+    "https://www.dailymetalprice.com/",
+    "https://www.kitco.com/price/precious-metals",
+    "https://www.bloomberg.com/markets/commodities/futures/metals",
+    "https://www.miningideas.com/index-price_en.html",
+    "https://www.apmex.com/gold-and-silver-price-charts",
+    "https://www.metalsdaily.com/live-prices/",
+    "https://www.investing.com/commodities/metals",
+    "https://metalcharts.org/",
+    "https://www.cmegroup.com/markets/metals.html",
+    "https://www.dailymetalprice.com/metalpricescurr.php?x=USD"
+   ]
+  },
+  {
+   "query": "a-metal desktop metal 3D printer review",
+   "results": [
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1hhfbqm/anyone_else_have_catastrophically_bad_desktop/",
+    "https://www.desktopmetal.com/",
+    "https://all3dp.com/1/3d-metal-3d-printer-metal-3d-printing/",
+    "https://3dprintboard.com/showthread.php?46833",
+    "https://www.youtube.com/watch?v=GgG7vrI93lI",
+    "https://jlc3dp.com/blog/best-metal-3d-printers",
+    "https://3dstartpoint.com/is-desktop-metal-3d-printing-really-here/",
+    "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
+    "https://boundbyflame.com/best-desktop-metal-3d-printers/",
+    "https://www.print3dindex.com/blog/best-desktop-metal-3d-printers"
+   ]
+  },
+  {
+   "query": "a-metal reseller distributor program",
+   "results": [
+    "https://metal-america.com/distributor-program/",
+    "https://www.nationalmaterial.com/when-a-steel-distributor-does-more-than-distribute-steel/",
+    "https://metalmangear.com/become-a-metal-man-distributor/",
+    "https://www.industrialmetalsupply.com/blog/questions-to-ask-your-metal-supplier",
+    "https://www.fmamfg.org/get-involved/affiliations/association-metals-processors-distributors",
+    "https://d7metals.com/distributor-benefits/",
+    "https://www.desktopmetal.com/sales-partner/",
+    "https://www.metalcenternews.com/editorial/current-issue/2023-directory-of-master-distributors/45083",
+    "https://www.youtube.com/watch?v=9Vymn7Z23xg",
+    "https://mx3d.com/become-a-reseller/"
+   ]
+  },
+  {
+   "query": "a-metal Japan",
+   "results": [
+    "https://www.facebook.com/LovebitesTheBand/posts/thank-you-full-metal-japan/1681185420035906/",
+    "https://www.youtube.com/watch?v=DKHiSP91QBk",
+    "https://metaljapan.tokyo/",
+    "https://fullmetaljapan.com/",
+    "https://en.wikipedia.org/wiki/Japanese_metal",
+    "https://www.instagram.com/reel/DeoXV7Tsaoz/",
+    "https://www.rage-official.com/full-metal-japan-2026/",
+    "https://www.bs4.jp/fmj_kaisai_sp/",
+    "https://en.wikipedia.org/wiki/Babymetal",
+    "https://www.a-metal.com/"
+   ]
+  },
+  {
+   "query": "a-metal funding raised investors",
+   "results": [
+    "https://www.metal.so/",
+    "https://www.linkedin.com/posts/y-combinator_metal-has-raised-5m-in-funding-to-build-activity-7371988408144990208-kO34",
+    "https://www.thesaasnews.com/news/metal-raises-4-5m-seed/",
+    "https://tracxn.com/d/companies/metal/__hvHttkiSkruYAkkuJQKdeMdnUqRsIYhoQaG7x9663X8",
+    "https://www.youtube.com/watch?v=3d8hBSMSAls",
+    "https://castleplacement.com/metals-minerals-and-mining-capital-raises-and-investors-in-the-u-s-april-1st-may-31st-2026/",
+    "https://pitchbook.com/profiles/company/510192-01",
+    "https://www.ycombinator.com/companies/metal-2",
+    "https://www.metal.so/metal-news/press-release",
+    "https://www.vcbacked.co/company/a-metal"
+   ]
+  },
+  {
+   "query": "a-metal founded company employees",
+   "results": [
+    "https://www.reveliolabs.com/companies/metal/employees",
+    "https://www.linkedin.com/company/getmetal",
+    "https://threedmetals.com/blog/what-to-look-for-in-a-metals-employer/",
+    "https://www.instagram.com/reel/DZnbYbypcjo/",
+    "https://www.youtube.com/watch?v=kJBds3CN764",
+    "https://www.zippia.com/metal-ware-careers-1191756/history/",
+    "https://www.thefabricator.com/thefabricator/article/shopmanagement/why-employee-owned-companies-make-sense-in-manufacturing",
+    "https://growjo.com/company/Metal",
+    "https://companydata.com/usa/metal-companies-usa/",
+    "https://en.wikipedia.org/wiki/Desktop_Metal"
+   ]
+  },
+  {
+   "query": "a-metal ISO 9001 CE certification",
+   "results": [
+    "https://www.meadmetals.com/blog/is-your-metal-supplier-iso-certified",
+    "https://www.daysteel.co.uk/news/iso-9001-certification-for-metal-fabrication/",
+    "https://www.iso.org/certification.html",
+    "https://www.thefabricator.com/thefabricator/article/testingmeasuring/iso-certification-in-metal-fabrication-yes-or-no-",
+    "https://astmanufacturing.com/about-ast/iso-certification/",
+    "https://metalcomp.us/about-us/iso/",
+    "https://www.nsf.org/management-systems/quality-management/iso-9001",
+    "https://seathertechnology.com/iso-9001-certification-in-metals-industry/",
+    "https://onlinemetals.zendesk.com/hc/en-us/articles/19886145060237-ISO-Certification",
+    "https://seller.alibaba.com/blogs/2026/southeast-asia/metals/ce-iso9001-certification-guide-alibaba-b2b"
+   ]
+  },
+  {
+   "query": "a-metal units sold customers installations",
+   "results": [
+    "https://www.buildingsguide.com/metal-building-prices/?srsltid=AYCX9vI8acvLESZ9BTQ0oI2rAMEJ2BNVActMEIvu1itJZUSTyNcKOUaC",
+    "https://www.steelstructuresamerica.com/metal-building-cost/",
+    "https://quizlet.com/844195699/pricing-flash-cards/",
+    "https://www.harrisonmetal.com/library/marketing-math-1-fixed-amp-variable-costs/video",
+    "https://www.chegg.com/homework-help/questions-and-answers/lola-metals-two-decentralized-divisions-stamping-finishing-finishing-always-purchased-cert-q106125448",
+    "https://pressbooks.library.vcu.edu/marketingprinciples/chapter/chapter-11-pricing/",
+    "https://www.youtube.com/watch?v=XjooZaVJSUs",
+    "https://www.facebook.com/groups/659000235741208/posts/1432405371734020/",
+    "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/capital_improvements.htm",
+    "https://www.steelandstud.com/customer-installations/"
+   ]
+  },
+  {
+   "query": "a-metal 融资 OR 投资",
+   "results": [
+    "https://www.metal.ai/",
+    "https://www.a-metal.com/",
+    "https://www.linkedin.com/posts/y-combinator_metal-has-raised-5m-in-funding-to-build-activity-7371988408144990208-kO34",
+    "https://vc.pedaily.cn/company/687125.html",
+    "https://www.linamar.com/zh/technologies/",
+    "https://www.youtube.com/watch?v=6V02fBQMPdM",
+    "https://investors.metals.co/news-releases/news-release-details/tmc-announces-strategic-investment-korea-zinc-world-leader-non/",
+    "https://www.businesswire.com/news/home/20230126006007/zh-CN",
+    "https://www.ycombinator.com/companies/metal-2",
+    "https://pitchhub.36kr.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "安全": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "売上": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）",
+  "存続": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部35頁・検索9回）"
+ }
+}
