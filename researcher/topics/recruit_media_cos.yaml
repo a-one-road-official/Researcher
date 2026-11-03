@@ -1,0 +1,44 @@
+# 地方の製造業・地域の代表企業向け「採用媒体づくり」（求人誌・採用サイト・採用動画・採用記事・求人広告運用）の競合を、
+# 1社ずつ三重確認：売上・社員数・創業年度・株主構成・料金・何でどう稼いでいるか・製造業の顧客。事実だけ引用。
+title: 採用媒体づくりの競合（会社ごとの売上・規模・創業年度・株主・料金・稼ぎ方）
+input: researcher/inputs/recruit_media_cos.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
+  設立: [Founded, Established, founded in, 設立, 創業]
+  従業員数: [Employees, Team size, employees, 従業員]
+  所在地: [Headquarters, Location, HQ, 所在地]
+  売上高: [Revenue, ARR, Turnover, 売上]
+  代表者: [CEO, Founder, Co-founder, 代表]
+
+evidence:
+  料金: [料金, 費用, 月額, 初期費用, 掲載料, 成果報酬, 採用課金, 応募課金, 万円, 円, プラン]
+  稼ぎ方: [事業内容, サービス, 売上構成, セグメント, 主力, 収益, 課金, ビジネスモデル]
+  製造業の顧客: [製造業, 工場, メーカー, 町工場, 導入事例, 取引社数, 導入社数, 顧客数, 地方, 地域]
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 持株, 親会社, 資本提携, 出資, 筆頭株主, shareholder, shareholding, ownership, owned by, stake in, majority stake, parent company, subsidiary of, investors include, backed by, Gesellschafter]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
+  黒字・収益性: [profitable, profitability, profit, EBITDA, net income, net loss, operating income, cash-flow positive, cash flow positive, break-even, breakeven, bootstrapped, self-funded, Jahresüberschuss, Gewinn, Verlust, pelnas, nuostolis, 黒字, 赤字, 営業利益, 純利益]
+  売上: [revenue, ARR, turnover, sales, Umsatz, pajamos, 売上]
+  資金調達: [raised, funding, Series A, Series B, seed, investment, investor, valuation, 資金調達]
+  存続: [liquidation, insolvency, bankruptcy, shut down, closed, ceased, acquired, acquisition, merged, Insolvenz, bankrotas, 清算, 破産, 買収]
+  ホワイトラベル明言: [white label, white-label, whitelabel, white labeled, white-labelled, rebrand, rebranding, your own brand, your brand, your logo, your domain, custom domain, custom branding, private label, unbranded, remove our branding, powered by, ホワイトラベル, 自社ブランドで]
+  OEM・組込み: [OEM, embed, embedded, SDK, API, license our technology, licensing, toolkit, integrate into your, OEM提供, 組込み]
+  再販制度: [reseller, resell, partner program, channel partner, distributor, VAR, value-added reseller, referral partner, 代理店, 再販]
+  日本対応: [Japan, Japanese, 日本, 日本語, distributor]
+  顧客: [customers, clients, case study, used by, trusted by, 導入]
+
+subpage_keywords: [about, company, team, partner, partners, reseller, white, oem, api, pricing, press, news, blog, careers, investors, customers, case, legal, imprint, impressum]
+image_keywords: [team, about, partner]
+
+external_queries:
+  - "{name} 会社概要 設立 資本金 従業員"
+  - "{name} 売上高 OR 業績 OR 決算"
+  - "{name} 株主 OR 筆頭株主 OR 親会社 OR 資金調達"
+  - "{name} 料金 費用 プラン"
+  - "{name} 製造業 導入事例"
+  - "{name} 社長 インタビュー"
+  - "{name} 採用 募集要項 職種"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 6, external_per_query: 4}
