@@ -1,0 +1,969 @@
+{
+ "name": "オンプレAIの問い合わせ・受発注・採用向け業務アプリ",
+ "en": "on-premise AI assistant for customer inquiries and orders",
+ "aliases": [
+  "on-prem AI chatbot",
+  "self-hosted AI customer service",
+  "local AI agent for business",
+  "on-premise AI",
+  "private AI",
+  "self-hosted AI"
+ ],
+ "context": "オンプレAI",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:32:06.197401+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Top 10 Private AI Solutions for Agencies & Small Business | Evolve",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Private AI & On-Premise AI Solutions for Agencies & Small Businesses (2026)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "running on a server you own solves that. Here are the ten providers we would put in front of a small business or agency in 2026, and why",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "tops the list.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "top private AI and on-premise AI solutions for agencies and small businesses",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": ", founder of Power BI Consulting Services (BICS), a Microsoft Partner data and AI consultancy — and that is what puts Evolve at the top of this list. Evolve can deliver a",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "with published costs and a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses. BICS's Upwork Expert-Vetted and Top Rated Plus track record, its 100K+ subscriber YouTube channel and its enterprise data clients back the technical delivery, while Evolve's creative and marketing team makes sure the AI shows up where the business makes money.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "BICS is Upwork Expert-Vetted and Top Rated Plus with a 100% Job Success Score and $1.7M+ delivered; its founder teaches the Microsoft data and AI stack to 100K+ YouTube subscribers",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-GPU desktop & server builds",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "BIZON is a Cupertino, California builder of AI workstations and small servers, including multi-GPU desktop systems designed for deep learning and local model hosting. It sits between a general workstation vendor and a rack-server integrator, which suits a small business that wants more GPU headroom than a single-card tower but is not ready for a data-center rack.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 AI Integration Consultants for Marketing Teams (2026)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 HubSpot & Marketing CRM Agencies for Small Business (2026)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 AI Chatbot Agencies for Lead Generation & Customer Engagement (2026)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top Private & On-Premise AI Server Consultants in the USA (BICS)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label AI Software | 2026 Verified Picks",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label AI Software of 2026",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editor’s top 3 picks",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform for creating and reselling AI agents for business workflows.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Model and toolchain customization is less transparent than top integration-first competitors",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "IT providers delivering private AI",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Providers host branded access while routing requests to models through an API integration layer.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Workflow automation coverage appears thinner than dedicated workflow-first white label competitors",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Free White Label Software of 2026",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label Link Building Services of 2026",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label Restaurant Software of 2026",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Whitelabel Software of 2026",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Sam is a digital marketer by choice & profession. He munches on topics relating to technology, eCommerce, enterprise mobility, Cloud Solutions and Internet of Things.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "testing 19+ top white label AI chatbot platforms",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "for custom conversational workflows, here are my top 10 picks that sound natural, answers accurately and deliver outcomes that a user expects.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "top 10 criteria, including features, cost, tech, experience, G2 reviews,",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "The solution is built on top of",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "ManyChat was initially created to automate messages on social media platforms like Messenger and Instagram.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Not many providers offer this. MirrorFly lets you take complete control of the chatbot data while offering",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Instant Messaging API & SDK Features for Any Apps",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "MirrorFly Alternatives",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": ". We left out the hyperscale clouds, the hardware OEMs and the enterprise system integrators whose minimums start where a small business's whole budget ends. What remains is a short list of consultancies that actually deliver private AI end to end, plus the specialist builders who make the workstations and servers those solutions run on. We are clear about which is which.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": ", powers content pipelines that write in your brand voice from your own approved material, answers visitor questions through",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Agency white-label program",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. A visitor-facing chat grounded in your own pages, FAQs and service content can run on your private model, answer questions accurately, and hand off leads to your CRM without a public chatbot provider in the loop. Evolve builds and designs the chat as part of your website, so it matches your brand and feeds your lead-handling process rather than living as a generic widget.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label AI Software | 2026 Verified Picks",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label AI Software of 2026",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare white label ai software options like Tiledesk, Stammer.ai, and Voiceflow, with key tradeoffs for agency and product teams.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Frequently Asked Questions About White Label Ai Software",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose the Right White Label Ai Software",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Open-source conversational AI platform with multi-tenant and white-label deployment options.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label chat UI with customer-facing branding controls",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform for creating and reselling AI agents for business workflows.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Teams can reuse components like prompts and conversation states to standardize behavior across multiple deployments. For white label delivery, Voiceflow can be adapted through branded front ends and embedding patterns so customer experiences align with a reseller’s UI requirements.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "They deliver customer conversations through branded front ends and embedded experiences aligned to reseller UI.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeled conversational experience",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label controls focus more on UI and embedding than full tenant isolation",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label setup and UI branding require careful configuration across channels",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital customer experience platform with white-label deployment for AI chat and cobrowse.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label branded web experience that ties AI chat flows to tenant-specific configuration and UI.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label SaaS | Stammer.ai",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "🏗️ White Label SaaS for Agency Owners",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Platform",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Transform our enterprise AI platform into your branded solution.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "White Label API included for rapid deployment",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "#1 White Label SaaS Platform for AI",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Transform our AI platform into your branded solution with these powerful customization features.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Domain",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Change every link from our platform to yourdomain.com. Your clients only see your brand.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "White Label API",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive marketplace of AI agents only shown to your white label clients.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Provide your clients with a personalized dashboard featuring your branding and analytics.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate AI capabilities seamlessly into existing systems with our rebrandable API.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Add AI chatbots and voice agents to the services you already offer. Launch them under your own brand, manage every client from one dashboard, and set your own pricing.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White-Label AI Chatbot Platforms (I Tested in 2026)",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Build Custom, White-label AI Voice Agents For Any Mobile Or Web.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Mirrorfly Is Perfect When Embedded In Social Engagement Apps.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance Your Brand Experience With Real-Time Communication.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Verify Customers In Real-Time With White-Label Video Solution.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Build your own custom Super-apps with White-label solution.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Build your own white-label AI Agents that can automate tasks on your app or web.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White Label AI Chatbot Platforms: The Ultimate Guide (2026)",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White-Label AI Chatbots in 2026: TL;DR",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "I Tested The Best Whitelabel AI Chatbots [2026 Reviews]",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Choose MirrorFly White Label AI Chatbot?",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "testing 19+ top white label AI chatbot platforms",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Best for building white label AI chatbot",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Best for teams designing white label voice AI and chat experiences",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Since MirrorFly’s white label AI chatbot platform supports data ingestion, you can use URLs, PDFs, or any format of document to help your chatbot learn what your product is about.",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "with published costs and a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses. BICS's Upwork Expert-Vetted and Top Rated Plus track record, its 100K+ subscriber YouTube channel and its enterprise data clients back the technical delivery, while Evolve's creative and marketing team makes sure the AI shows up where the business makes money.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Published pricing with a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses; Greenville-Pitt County Chamber of Commerce member",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Fixed-price packages with published costs, right-sized for teams of 5–100 people, plus nonprofit and minority-, women- and veteran-owned discounts.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Keep All of Your Profits",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "You set the pricing, you keep all profits. No revenue sharing required.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Small-business fit & pricing: 20%",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Small-business fit & pricing (20%)",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "— Fixed-price packages, published or predictable pricing, right-sized scope for teams of 5–100 people, and a clear handover instead of an enterprise retainer.",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Published pricing with a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses; Greenville-Pitt County Chamber of Commerce member",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Set your own pricing structure and keep 100% of the markup on all AI agent solutions.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Answer every chat and call, capture leads, and book appointments 24/7, even after hours. Set it up yourself without code, starting at $49/mo.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "💰 Plans start at from $99/mo",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Top 10 Private AI Solutions for Agencies & Small Business — Top 10 Private AI Solutions for Agencies & Small Business evolveinc.com https://evolveinc.com > Blog",
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "is the best choice for resellers who need branded chat assistants with a distinct front end per customer, because its brand-scoped UI presentation keeps conversations consistent while maintaining reseller identity across tenants, and",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand-scoped assistant experiences with custom chat presentation so each reseller customer gets a distinct front end.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Fits when resellers need branded chat assistants with controlled conversation flows and grounded knowledge inputs.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Per-tenant configuration for branded UI identity plus isolated limits makes reseller operations manageable across many clients.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Fits when reseller teams need fast visual authoring and custom-branded front ends for conversational agents.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A tradeoff is that customization depth is constrained by the conversational builder design, so complex multi-step business logic may require tighter integration work. It fits situations where a reseller wants consistent chat experiences across multiple customer brands and needs controlled response behavior for support and qualification.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform for creating and reselling AI agents for business workflows.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A tradeoff is that agent behavior tuning still requires careful prompt and action configuration, not just switching the logo and domain. Stammer.ai fits best when a reseller wants a repeatable assistant experience for many customers, such as sales support or onboarding guidance, rather than one-off custom agent builds for every account.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Tenant isolation and usage metering support reseller reporting",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Teams can reuse components like prompts and conversation states to standardize behavior across multiple deployments. For white label delivery, Voiceflow can be adapted through branded front ends and embedding patterns so customer experiences align with a reseller’s UI requirements.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and platform teams",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "They deliver customer conversations through branded front ends and embedded experiences aligned to reseller UI.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Fits when resellers need workflow-driven assistants with branded web chat and content grounding.",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Branding controls help maintain a reseller-consistent chat experience",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-bot governance for large reseller portfolios can need extra process design",
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Create new recurring revenue streams by reselling AI agent technology to your clients.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Built specifically for agencies, consultants, and resellers who want to offer AI services under their own brand.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Your own pricing, with no revenue share",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 3
+   },
+   {
+    "quote": "Agency partner program",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller-friendly management",
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://autocalls.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/blog/white-label-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-ai-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ils3gb/white_label_ai_sales_agent/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/white-label-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/white-label-ai-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/blog/ai-agents-for-brand-building/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chatbase.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.open.cx/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/ai-native-saas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalvoicedirect.com/white-label-ai-phone-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/white-label-SaaS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/ai-assistants/on-premise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/my-ai-front-desk-white-label-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aissist.io/insights/white-label-ai-customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/best-white-label-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b4g.ai/partners/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-ai-software-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://10clouds.com/white-label-ai-software/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label on-premise AI assistant for customer inquiries and orders",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://trillet.ai/blogs/whitelabel-guide",
+    "https://lety.ai/",
+    "https://vida.io/blog/white-label-ai",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.mirrorfly.com/conversational-ai/voice-agent/",
+    "https://www.unite.ai/best-white-label-ai-tools/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white-label",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "https://lety.ai/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://vida.io/blog/white-label-ai",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://asyntai.com/white-label-ai-assistant/",
+    "https://botpress.com/blog/white-label-chatbot-platform"
+   ]
+  },
+  {
+   "query": "best white label on-premise AI assistant for customer inquiries and orders providers",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "https://worldmetrics.org/best/white-label-ai-software/",
+    "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white label reseller agency",
+   "results": [
+    "https://lety.ai/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://autocalls.ai/white-label",
+    "https://www.reddit.com/r/AI_Agents/comments/1ils3gb/white_label_ai_sales_agent/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://go.aipreneurs.com/glossary/ai-white-label-reseller",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.vendasta.com/blog/white-label-ai-agents/",
+    "https://www.youtube.com/watch?v=6weNaVTUmQQ",
+    "https://worldmetrics.org/best/white-label-ai-software/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders rebrand your logo own brand",
+   "results": [
+    "https://www.lyzr.ai/blog/ai-agents-for-brand-building/",
+    "https://webchatagent.com/enterprise-white-label",
+    "https://asyntai.com/white-label-solutions/",
+    "https://sierra.ai/",
+    "https://autocalls.ai/white-label",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.youtube.com/watch?v=WlvUUo9UMYg",
+    "https://www.chatbase.co/",
+    "https://www.reamaze.com/blog/ai-chatbot-for-customer-support/",
+    "https://sourceforge.net/software/conversational-ai/on-premise/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders private label SaaS",
+   "results": [
+    "https://www.youtube.com/watch?v=kOIaPGMFje4",
+    "https://lety.ai/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://autocalls.ai/white-label",
+    "https://www.open.cx/whitelabel",
+    "https://www.vendasta.com/blog/ai-native-saas/",
+    "https://globalvoicedirect.com/white-label-ai-phone-assistant/",
+    "https://stammer.ai/white-label-SaaS",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://sourceforge.net/software/ai-assistants/on-premise/"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white label partner program pricing",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business",
+    "https://trillet.ai/blogs/my-ai-front-desk-white-label-alternative",
+    "https://aissist.io/insights/white-label-ai-customer-support",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.open.cx/whitelabel",
+    "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "on-premise AI assistant for customer inquiries and orders white label company profitable",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://vida.io/blog/white-label-ai",
+    "https://www.reddit.com/r/agency/comments/1ljjijx/any_luck_with_white_label_ai_inbound_call/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.youtube.com/watch?v=kOIaPGMFje4",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://lety.ai/",
+    "https://chatmaxima.com/blog/white-label-ai-platform/",
+    "https://leanware.co/insights/white-label-ai-software-complete-guide"
+   ]
+  }
+ ],
+ "missing": {
+  "売上": "記載なし（読んだ40頁・検索8回）"
+ }
+}

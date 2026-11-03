@@ -1,0 +1,1839 @@
+{
+ "name": "地方の製造業向けUIJターン・移住採用支援",
+ "en": "UIJ turn recruitment regional manufacturers",
+ "aliases": [
+  "UIターン 転職 製造業",
+  "地方 移住 転職 支援",
+  "Uターン 採用 支援",
+  "UIターン",
+  "Uターン",
+  "移住"
+ ],
+ "context": "地方",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:09.779043+00:00",
+ "evidence": {
+  "プレイヤー": [
+   {
+    "quote": "おすすめ移住先",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "がおすすめ！",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】沖縄県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】鹿児島県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】宮崎県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】大分県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】熊本県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】佐賀県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【地方移住をして良かったこと＆後悔したことランキング】経験者257人アンケート調査",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度 最新版】奈良県へ移住・転職したい！おすすめの優良企業10選と働き方を解説",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "人気コンテンツランキング",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【全国版】移住先におすすめ！住みたいまちランキング21選！（2024年最新）",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "ママ必見！子育て支援(補助金)が手厚いおすすめ移住先ランキングTOP10！",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "関東エリアのおすすめ移住先ランキングベスト10｜東京でも田舎暮らしできる？",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "マイページに居住地を登録しておくと、今住んでいるまちと検索したまちの暮らしに関わる情報（スーパーや教育施設の数、地価など）を比較して表示します",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "運営会社 株式会社地域創発機構",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "移住も仕事も！ 「Uターン／地方移住転職をしたい理由」ランキング",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "移住希望地域（都道府県）ランキング 2024年度版",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "地方に移住すると、車通勤を認める会社が多く、電車通勤の場合も都会のような通勤ラッシュとは無縁のケースが大多数",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "また、地方は都会のように、休日はどこも大混雑ということも比較的少なめ",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "今まで経験した業種・職種にとらわれず、新たな仕事にも興味を持って探してみることもおすすめします",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "学校や資格試験の会場も、地方は主要都市1カ所のみで、宿泊が必須になることも珍しくありません",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "「ふるさと回帰支援センター」によると、同団体の窓口相談に訪れた人に実施した調査の結果、2024年の移住希望地域ランキング（※2）は、以下の結果となりました",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で物価水準は全国で最も低く（※3）、震度5弱以上の地震の発生回数は関東近県で比較的少なめ（※4）となっています",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "富士山や浜名湖などの自然も豊富で気候も比較的温暖なので、ストレスの少ない暮らしを送れるのではないでしょうか",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "安価で住宅購入がしたいなら、各自治体が設けている「空き家バンク」を利用するのもおすすめです",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "物件価格も比較的安価に設定されている傾向が見られ、物件によっては仲介手数料等がかからない場合もあります",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "東京の大手SI会社のSEとして、仕事に忙殺される日々",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "地元の大学を卒業後、県内の大手企業に就職",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーのディーラーから地元の林業へ",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "本格的な定住前に、その地域の人や文化、仕事を体験したい人におすすめです",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年移住希望地域ランキング",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート「Uターン転職したい理由」ランキングの1位は、「○○○生活がしたいから」",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "アスカ株式会社",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社関山",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "アイシン辰栄株式会社",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "中部資材株式会社",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "フェアネス株式会社",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋市場運輸株式会社",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社トスコ 名古屋事業所",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エンルーツ",
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "道府県別就活おすすめ情報",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、どのように調べたら良いのか、UIJターン就職・転職活動への活用方法に迷ったら、LO活相談員への相談もおすすめです",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "パーソルビジネスプロセスデザイン株式会社",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "地方就職、人気の都道府県ランキングTOP10 │ 次世代採用ナビ powered by yoiwork",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "地方就職、人気の都道府県ランキングTOP10",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県だけでなく、北海道の札幌市、宮城県の仙台市、広島県の広島市、石川県の金沢市、宮崎県の宮崎市など、都市機能と地方ならではの暮らしを検討しやすい主要都市も紹介します",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、住みやすさ、自然の多さ、観光・娯楽、生活の利便性、仕事の豊富さという5つの観点から、各地域を比較しやすい形で紹介します",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の「おすすめ度（◎・〇・△）」は、各自治体や公的機関が公表する生活・交通・産業・就職支援等の情報をもとに、地域を比較しやすくするため編集部が整理した目安です",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "各都道府県の優劣や、個人の就職のしやすさを示す公的なランキングではありません",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "地方就職におすすめの都道府県を紹介する",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "給与と生活コストを比較する",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "まず候補となる都道府県を絞り、その後、勤務先や希望する暮らしに合わせて市町村を比較すると、移住先を検討しやすくなります",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "※掲載順はおすすめ度の順位を示すものではありません",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "<おすすめ度>",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "高松市を中心に都市機能がまとまり、比較的コンパクトな生活圏を形成している",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "まで比較することが重要です",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "求人票に記載された給与だけを比較するのではなく、家賃、交通費、光熱費、日常の買い物などを含め、移住後に必要となる生活費を試算しておくことが大切です",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "仕事、給与と生活コスト、交通手段、自治体の支援制度まで含めて比較すること",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   }
+  ],
+  "料金体系": [
+   {
+    "quote": "平均年収は460万円（2023年）",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "単身60万円／世帯100万円が上限",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "移住支援金（最大100万円／単身60万円）や、",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "：館林市のUIターン10万円、益子町の雇用支援など―自治体の制度は“探せば見つかる”",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【家賃0円】移住すると家がもらえる!?家(無料)＋補助金のある移住先を大公開！",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "都会ではワンルームマンションでも月額7〜8万円ほどと言われています",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに駐車場を借りるとなれば、もう数万円必要でしょう",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "仕事や子育て、住居の購入・リフォームにかかる費用の補助など、移住者への支援制度も豊富です",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "対象地域に移住すると、単身の場合は1人60万円以内、夫婦の場合は100万円以内が交付されます",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらも自治体によって制度名や実施内容は異なりますが、活用できれば、移住の初期費用を抑えることができ移住後の暮らしはより充実したものになるでしょう",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "東京圏から移住すると、39歳以下の場合最大25万円がもらえる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "就業目的で市貝町内へUターンした18歳以上30歳以下の人が、正職で就業した場合は1人あたり10万円が交付される",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "県外から移住して県内で林業に就業すると、最大100万円の支援金が受け取れる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "東京圏、中京圏（愛知）、近畿圏（京都・大阪・兵庫）、広島県、福岡県から移住し、移住等に関する要件を満たしたうえで山口県内でテレワーク勤務を週20時間以上すると、30〜50万円の補助金が受け取れる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "18歳未満の家族も帯同する場合は、18歳未満の方1人あたり50万円を加算",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "連続して1年以上、三大都市圏（東京圏・大阪圏・名古屋圏）ならびに福岡県に在住かつ通勤していた人が移住し、中小企業へ就職するなど要件を満たす29歳以下の方は、最大30万円が受け取れる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "空き家の購入やリフォームにかかる費用を補助する制度が用意されている自治体もあるため、理想の物件を低コストで購入できるかもしれません",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "《事前申請受付中》大田区に居住し、大田区内の中小製造業・運輸業・建設業で働く方の奨学金返還を最大50万円まで支援します！ 令和8年度から制度拡充",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "応募企業の探し方、面接のポイントから、円満退社の秘訣まで…転職を成功に導くためのノウハウを紹介！",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "地方就職を選ぶ際には、就職活動のための交通費や引っ越し費用など、都市部での就職活動にはない負担が生じます",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世帯で最大100万円、単身で最大60万円",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "引っ越し費用や新生活の準備、当面の生活費など、使い道は限定されていません",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば交通費の上限は、北海道函館市で26,000円、群馬県内では6,000円など幅があり、移転費は、国が定める上限113,500円以内で、鹿児島県で上限113,500円、兵庫県で上限108,000円など、移住先の自治体が定めます（いずれも2026年6月時点）",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "地方への就職を機に移り住む人に向けて、引っ越しや住まいの費用を補助する自治体があります",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "まず引っ越し費用",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "額は移住先の自治体が定め、上限は113,500円",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "住まいの費用を、補助するところもあります",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "平均して一人200～300万円規模の「借金」に「奨学金破産」という言葉が飛び交うほど、奨学金返還が長期にわたり家計負担となるケースもある中、企業や自治体がその返還を支援する制度「奨学金返還支援」が進んでいます",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "支援の内容は自治体によって大きく異なりますが、数十万円から、長く勤めれば総額100万円を超える規模まで幅があります",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、月2万円の返済がなくなると、年間では24万円",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "就業を条件に、世帯最大100万円・単身最大60万円が支給されます",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "支援金をうまく活用することで、就職活動や移住にかかる費用の負担を軽減できる場合があります",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宮崎県ではUIJターン就職を支援しており、2026年度には県内企業等への就職に伴う就職活動費や引っ越し費用等を対象とした複数の支援制度が案内されています",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "地方自治体では、移住支援金、就職活動費、引っ越し費用、住宅取得・改修、子育てなどに関する支援を実施している場合があります",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト「０円」時代｜知らないと損をする2020年の最新採用メソッド【5分でわかる基礎知識】",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "地方は物価や住居にかかる費用が安く",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "、家も低料金で借りることができます",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "基本額はひとりにつき1ヶ月で1万円",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "1事業あたり「対象経費の3分の2以内であること」などを条件に、最大500万円の支援を受けることが可能",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "第三子以降に産まれた赤ちゃん一人につき、総額で100万円の奨励金を付与する「出産祝い金制度」",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "個人負担は4万円",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "市内に移住し、一戸建ての新築または購入した45歳未満の方を対象に、最大で200万円の奨励金を交付",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電システムを住宅に設置する際、費用を一部助成する制度",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金は最大で90万円",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "「太陽光発電・ペレットストーブ エコな生活を支援するため費用の一部を助成します」",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、U／I／Jターン移住は、引っ越し費用など、何かとお金がかかるものです",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "【就活体験談】年収100万円以上アップ！元塾講師がエンジニアとして理想の環境を手に入れるまで",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "【就活体験談】個人目標1億円の販売員がなぜIT営業へ？28歳・未経験から挑んだ新たなキャリア",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "バイトを辞める時いつまでに伝えるべき？円満退職するための伝え方や注意点",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "引越し補助・住宅補助・移住一時金・帰省費用補助・地域コーディネーターの伴走など、",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "単身60万円・世帯100万円",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京圏から訓子府町に移住し、かつ北海道が運営するマッチングサイトに掲載されている企業などに就職または起業した場合、世帯の申請であれば100万円、単身の申請であれば60万円の移住支援金を支給します",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）官公庁など（第三セクターのうち、出資金が10億円未満の法人または地方公共団体から補助を受けている法人を除く）ではないこと",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）資本金10億円以上の営利を目的とする私企業（資本金概ね50億円未満の法人であって、地域経済構造の特殊性から資本金要件のみでは合理性を欠くなど、当該企業の所在する市町村の推薦に基づき北海道が必要と認める法人を除く）ではないこと",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.発行済み株式の総数または出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.発行株式の総数または出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.資本金10億円以上の法人の役員または職員を兼ねている者が、役員総数の2分の1以上を占めている資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "(世帯100万円、単身60万円)がもらえます！",
+    "url": "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京23区(在住者または通勤者)から北海道へ移住し、マッチングサイトに掲載されている移住支援金対象法人に就業した方に、国・道・市町村が共同で移住支援金(100万円[単身の場合は60万円])を支給します",
+    "url": "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、18歳未満の世帯員を帯同して移住する場合は、18歳未満の者一人につき、最大100万円を加算する",
+    "url": "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "©2023 二拠点・移住ライフ大学ALL Right Reserved.",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "２拠点・移住ライフ大学の無料キャリア診断なら、いくつかの質問に答えるだけで、",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【12/20（日）無料オンラインセミナー開催】「2拠点生活、お金は大丈夫？」理想とリアルを一緒に考える",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "見つけた仕事は、社員数25名ほどの小さな会社",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "生活や仕事の拠点を2カ所以上に持つ移住スタイルです",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、企業が従業員の奨学金を肩代わりする「代理返還」が、2年で約2.7倍に急増したことです",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "【就活体験談】個人目標1億円の販売員がなぜIT営業へ？28歳・未経験から挑んだ新たなキャリア",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員300名以下で都内に事業所を有する企業と、就業体験への参加を希望する大学生等で1日1社3時間、3日で3社の異なる企業の就業体験にツアー形式で参加できる就業体験のマッチング支援を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員300名以下で都内に事業所を有する企業と、就業体験を参加を希望する大学生等で1日1社3時間、3日で3社の異なる企業の就業体験にツアー形式で参加できる就業体験のマッチング支援を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年度予算UIJターン人材拠点事業（大阪拠点）",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）官公庁など（第三セクターのうち、出資金が10億円未満の法人または地方公共団体から補助を受けている法人を除く）ではないこと",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）資本金10億円以上の営利を目的とする私企業（資本金概ね50億円未満の法人であって、地域経済構造の特殊性から資本金要件のみでは合理性を欠くなど、当該企業の所在する市町村の推薦に基づき北海道が必要と認める法人を除く）ではないこと",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.発行済み株式の総数または出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.発行株式の総数または出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.資本金10億円以上の法人の役員または職員を兼ねている者が、役員総数の2分の1以上を占めている資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2)千葉県が実施するプロフェッショナル人材戦略拠点事業または先導的人材マッチング事業を利用して就職した方",
+    "url": "https://www.city.minamiboso.chiba.jp/0000012526.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度の移住支援サービス市場（事業者売上高ベース）は前年度比20.6％減の93億3,600万円となる見込みである",
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度の移住支援サービス市場（事業者売上高ベース）は、前年度比15.4％増の107億7,000万円と予測する",
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "pass": 3
+   },
+   {
+    "quote": "多拠点居住サービス市場は、コロナ禍直後の緊急事態宣言で人の移動が少なくなったことやテレワーク化が進んだことで多拠点居住サービスの利用が一時的に低下したものの、ホテルや不動産等の宿泊施設の当該サービス参入や、テレワーク場所としての多拠点居住への注目が高まっており、2020年度後半から市場は回復傾向にあり、今後もこの傾向が続く見通しである",
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "pass": 3
+   },
+   {
+    "quote": "2.調査対象： UIJターン転職支援サービス（人材紹介・転職情報サイト・地方副業マッチング）事業者、空き家バンク運営事業者、多拠点居住サービス事業者等",
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査における移住支援サービス市場とは、都市部に居住する個人の地方への移住を支援するサービスを指し、その対象は、UIJターン転職支援サービス市場、空き家バンク市場、多拠点居住サービス市場の3分野とする",
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：2,234名（2020年4月1日現在の正社員）※契約・アルバイト･派遣社員除く",
+    "url": "https://www.dip-net.co.jp/news/1507",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：売上高464億円（2020年2月期）",
+    "url": "https://www.dip-net.co.jp/news/1507",
+    "pass": 3
+   },
+   {
+    "quote": "２．求人数・職種の制約",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、新潟県内の有力企業（非上場）や大規模事業所を、3回に分けて紹介します",
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "45道府県（現状、東京都と沖縄県を除く）にプロフェッショナル人材戦略拠点を設置し、地域の関係機関等と連携しながら、地域企業の「攻めの経営」への転身を後押しするとともに、それを実践していくプロフェッショナル人材の活用について、民間人材ビジネス事業者等を通じてマッチングの実現をサポートしています",
+    "url": "https://lokatsu-company.mhlw.go.jp/subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "※ただし、第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2)資本金10億円以上の営利を目的とする私企業でないこと",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ただし、資本金概ね50億円未満の法人であって市町村長の推薦に基づき知事が必要と認めた法人を除く",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "■発行済株式の総数又は出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "■発行済株式の総数又は出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "■資本金10億円以上の法人の役員又は職員を兼ねている者が、役員総数の2分の1以上を占めている資本金10億円未満の法人",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁等（第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く）でないこと",
+    "url": "https://www.city.mikasa.hokkaido.jp/mikasalife/detail/00016786.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10億円以上の法人でないこと",
+    "url": "https://www.city.mikasa.hokkaido.jp/mikasalife/detail/00016786.html",
+    "pass": 3
+   },
+   {
+    "quote": "みなし大企業（親会社が資本金10億円以上等",
+    "url": "https://www.city.mikasa.hokkaido.jp/mikasalife/detail/00016786.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）資本金10億円未満の法人又は個人事業主であること",
+    "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/suisankeizaibu/shoukoukankou/gyoumuannai/6/9428.html",
+    "pass": 3
+   },
+   {
+    "quote": "（ただし、資本金10億円未満の法人であっても、みなし大企業は不可）",
+    "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/suisankeizaibu/shoukoukankou/gyoumuannai/6/9428.html",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁等（第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く",
+    "url": "https://www.city.gamagori.lg.jp/unit/sangyo/syutokenjinzaikakuho-kyujin.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10億円以上の法人（当該法人の所在する市町村長の推薦に基づき知事が必要と認める法人を除く",
+    "url": "https://www.city.gamagori.lg.jp/unit/sangyo/syutokenjinzaikakuho-kyujin.html",
+    "pass": 3
+   },
+   {
+    "quote": "①官公庁等（第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "②資本金10億円以上の法人（当該法人の所在する市町村長の推薦に基づき知事が必要と認める法人を除く",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "・発行済株式の総数又は出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "・発行済株式の総数又は出資価格の総額の3分の1以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "・資本金10億円以上の法人の役員又は職員を兼ねている者が、役員総数の2分の1以上を占めている資本金10億円未満の法人",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   }
+  ],
+  "製造業の採用の困りごと": [
+   {
+    "quote": "有効求人倍率（季節調整値）は全国1.22倍",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "宮崎県の2025年7月の有効求人倍率は1.22倍",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "例：香川県の職業別常用有効求人倍率（2025年7月）で「建設躯体工事の職業」",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "構造的な人手不足が続き、地方ほど採用確度が高い分野です",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、注意すべきは、支援は在職中に限られる場合がほとんどで、支援期間の途中で離職すると打ち切られてしまう点です",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "企業によっては、一定期間内に退職した場合、それまで肩代わりした分の返還を求める規定を設けていることもありますので、支援条件（上限額や支援期間、離職時の扱い等）は入社前に確認しておきましょう",
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が2026年8月28日に公表した「一般職業紹介状況」によると、2026年7月の全国の有効求人倍率（季節調整値）は",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "、正社員有効求人倍率は",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率はハローワークにおける求人・求職の状況を示す指標であり、転職サイトや企業の直接採用などすべての求人を含むものでもありません",
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化が進む地方では、子どもを持つ世帯が移住すれば地域に若年層が増えて活気が溢れます",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後の定着",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "【就活体験談】入社8ヶ月で短期離職",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "都市部から地方へ移り住んで働きたい人材は確実に増えており、リモートワークの定着・働き方の多様化・地方の生活コスト優位性が追い風になっています",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "リモートワークの定着",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ以降、リモートワークが定着し",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "受け入れ体制の整備：移住後の定着率を上げる",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "を1人つけると、移住者の定着率が大きく向上します",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "を作る支援が、長期定着の鍵になります",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "の伴走支援で定着率を上げる",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解決策｜地方企業が取り組むべき採用戦略と業務改革",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "著書に『仕事や将来に迷った時に、若手キャリア層のこれからの描き方』がある",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用力を高める（選考・定着ノウハウ）",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【記事】採用難職種でも全国から人材が集まる地方企業が実践する手厚い教育と採用広報 を公開しました",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【記事】地方企業の採用応援インタビュー “女性が選びたくなる”地方企業が、採用・人材定着力を高める を公開",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【記事】◆UIJターン者成功事例◆ 訴求ポイントの工夫と独自の「イベント採用」で、ダイレクトリクルーティングによる採用エリア拡大＆定着率向上 を公開",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン者成功事例 「働き方改革」で、離職率の低下と採用力の向上を実現 を公開",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の課題にあった取組みを行うことで採用に成功した事例を、厚生労働省サイトの「地域で活躍する中小企業の採用と定着 成功事例集」にて紹介しています",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働大臣が定める若者の雇用機会の確保・職場定着に関する指針において、",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "“女性が選びたくなる”地方企業が、採用・人材定着力を高める",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "大都市圏の早期離職者等と地方中堅・中小企業とのマッチングの促進",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "（選考・定着ノウハウ）",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "地方の中小企業がUIJターン人材を採用し、定着・活躍に導くための心構え",
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、府内企業に向けた中高年人材の採用・定着支援を目的としたセミナー等を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "また、県内企業に向けた中高年人材の採用・定着支援を目的としたセミナー等を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "首都圏の求職者、適職に巡りあえず短期離職を繰り返す就職氷河期世代等の不安定就労者及び就業内容に不安を抱き就職に至らない未就職者等に対し、企業での職場見学を通じて適性に合った企業への就職を支援した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "奈良県内外の大学生等の県内企業へのインターンシップを推進することで、学生の職業観の醸成や職業選択のミスマッチを防ぎ、企業の魅力を学生に知ってもらうことで、県内就職及び職場定着の促進を図った",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人留学生等マッチング支援事業・外国人材定着支援事業業",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県内企業の魅力向上と、外国人材が定着する企業づくりを目的に、組織・人事に関する専門的知見に基づいた企業向けコンサルティングを実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "若手DX人材育成の支援を通じて市内企業の業務の効率化・デジタル化を促進することを目的に、年間でDXに関連する講座（ITパスポート及び基本情報技術者試験合格程度）を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "成田市中小企業若手人材確保支援事業業務委託",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "成田市内中小企業の採用力向上を目的としたスキルアップセミナーや、若年者採用を目的とした学生や若手社会人とのマッチングのための合同企業説明会を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業・運輸業など人手不足が深刻な業界に対し、企業と求職者とのマッチングイベントやセミナーを通じて人材確保の支援を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "枚方市内での合同企業説明会や企業向け採用力向上セミナー等の開催を通じて、製造業を主とした中小企業の人材確保及び若年者の定着促進を目的とし実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "出産、ご家族の介護等を理由に現在離職中で多摩地域内で再就職を希望する女性を対象に、1回あたり10日間の再就職に向けた支援セミナーを実施",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "多摩地域内での正社員就職を目指す学生や若手社会人等を対象としたスキルアップ研修や企業理解の促進のためのオンライン形式による合同企業説明会、企業での1か月間の就労体験を通じた就職支援を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症による離職者等の就労支援事業",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "ひょうごで働こう！合同企業説明会事業（コロナ離職者等対象分）",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルスの影響により離職した、或いは就職先が見つからない求職者等に対し、県内企業の人材確保及び求職者の県内就職を促進するため、神戸市で合同企業説明会の開催した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "未就業や非正規雇用の若年求職者を対象に、早期離職することなく安定した就職の実現に向けて、京都市内での個別就職相談会や合同面接会等を実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルスの影響で経済的に困難な状況にある学生に対し、インターン求人やアルバイト求人を開拓・紹介することで、学生の収入確保、府内企業への理解促進、府内企業への就職・定着を促進した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の採用・定着等に取り組もうとする観光関連事業者を対象に採用支援セミナーを実施した",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "【地方創生推進交付金事業】グローバル人材（外国人留学生）採用・定着支援業務",
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "pass": 3
+   },
+   {
+    "quote": "【10月15日開催】人手不足を突破する“全世代型”ワークデザイン交流会",
+    "url": "https://www.shigotomarugoto.info/ui-turn/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、急速に進展すると見込まれる少子化・高齢化による労働力人口の減少や若者等の都市部への人口流出等により、地域企業の人材不足や人口減少による地域の経済力の低下や地域の担い手の減少が懸念されています",
+    "url": "https://www.pasona.co.jp/clients/service/pub/tihou/uij/",
+    "pass": 3
+   },
+   {
+    "quote": "e．目標達成後の解散を前提とした個別プロジェクトへの参加など、離職することが前提でないこと",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "職場定着の促進",
+    "url": "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "pass": 3
+   },
+   {
+    "quote": "（5）目的達成後の解散を前提とした個別プロジェクトへの参加等により、離職することが前提でないこと",
+    "url": "https://www.city.minamiboso.chiba.jp/0000012526.html",
+    "pass": 3
+   },
+   {
+    "quote": "・移住支援金の申請日から1年以内に離職した場合",
+    "url": "https://www.uij-aichi.jp/migration_seek.html",
+    "pass": 3
+   },
+   {
+    "quote": "(オ) 目的達成後の解散を前提とした個別プロジェクトへの参加等、離職することが前提でないこと",
+    "url": "https://www.town.toyoura.hokkaido.jp/hotnews/detail/00004169.html",
+    "pass": 3
+   },
+   {
+    "quote": "カ.目的達成後の解散を前提とした個別プロジェクトへの参加等、離職することが前提でないこと",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "では、製造業や情報通信業など、ものづくりにおける創業に必要な経費を一部補助する制度を設けています",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "「平戸市ものづくり創業支援事業補助金のご案内」",
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にSei San Seiを設立し、大手製造メーカーをはじめ累計30社以上の採用・業務改善支援を手掛ける",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン就業・創業移住支援事業支給要件等のご案内（令和7年3月31日までに移住した方）／長野県",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン就業・創業移住支援事業のご案内",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "> UIJターン就業・創業移住支援事業支給要件等のご案内（令和7年3月31日までに移住した方）",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン就業・創業移住支援事業支給要件等のご案内（令和7年3月31日までに移住した方）",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "移住支援金の対象となる方は、＜1移住等に関する要件＞を満たす方のうち、＜2就業に関する要件＞又は＜3創業に関する要件＞を満たす方となります",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "（起業、創業をご検討中の方は、",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "下記「3 創業に関する要件」",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "3 創業に関する要件",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業・事業承継・第二創業をする場合で",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "ア.ソーシャル・ビジネス創業支援金※（地域課題解決型創業支援事業にかかる創業支援金）の交付決定を受けていること",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ソーシャル・ビジネス創業支援金については、",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャル・ビジネス創業支援金について（長野県地域課題解決型創業支援事業創業支援金）",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業者の場合",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "転入後1年以内、かつ、創業支援金の交付決定の日から1年以内",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウ.創業支援金の交付決定を取り消された場合",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業支援金：経営・創業支援課 電話 026-235-7194（直通）",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン就業・創業移住支援金のご案内(令和6年度版)（PDF：2,083KB）",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン就業・創業移住支援事業支給要件等のご案内",
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月に設立された金融経済教育推進機構（J-FLEC：ジェイ-フレック）の本格稼働や、...",
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "pass": 3
+   },
+   {
+    "quote": "また、空き店舗活用補助金や創業助成金も提供されています",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "起業する場合は、都道府県が指定する創業支援拠点等に相談し、事業計画（社会性・事業性・必要性）を練り上げる",
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都創業助成金",
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都創業助成金を解説",
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "都内創業予定者・創業5年未満の事業者向けに、対象要件・助成率（2/3以内）・上限400万円・申請スケジュールまで2026年最新情報でまとめました",
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】大阪府の創業助成金を解説｜大阪起業家グローイングアップ補助金と市区町村制度",
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の創業助成金を解説",
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "【令和８年度版】UIJターン就業・創業移住支援金のご案内",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、長野県移住支援金（UIJターン就業・創業移住支援金）とも併給が可能です",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "長野県産業労働部 経営･創業支援課",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "長野県が設置する創業支援拠点です",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内産業を担う次世代産業を創出するため、創業希望者や創業後間もない企業及び創業支援機関等が交流できる拠点であり、新たな価値を産み出す創業・新規事業を支援します",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント、中小企業診断士、会計士等の経験豊富なコーディネータが、相談者の創業・新規事業に関する相談対応を行い、アイデアの事業化を支援します",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャル・ビジネス創業支援金について",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域の課題をビジネスの手法で解決するソーシャル・イノベーションにより創業を行う者を支援することを目的とした事業です",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内の地域課題に対する社会的事業の創業者に対し、創業に必要な経費について、創業支援金をお渡しします",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業・起業をお考えの皆さん、事業引継ぎでの創業も選択の一つとして検討しませんか",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "後継者がいない企業・事業と創業希望者を引き合わせることにより「事業引継ぎによる創業」を目指す制度が「長野県後継者人材バンク」です",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年度 信州・創業入門ゼミ in 長野",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業を目指している、将来起業を考えている、新たに副業を検討中など、創業についてお考えの方々を対象に新規事業を成功に導くための創業入門ゼミです",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "（長野県産業労働部創業・サービス産業振興室）",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした就職関連情報の他、創業・起業支援や空き家情報など、移住に関連する情報を集約してホームページ等で発信するとともに、移住促進PR動画や移住希望者向けのパンフレットを作成して広く情報発信を行っています",
+    "url": "https://www.jt-tsushin.jp/articles/case/casestudy_relocationandsettlement-7",
+    "pass": 3
+   },
+   {
+    "quote": "UIJターン就職希望者を対象とする独自の移住支援補助金制度や市の無料職業紹介所での就職支援、創業・起業希望者へのサポートなど、「しごと」に関する充実した支援体制を構築しています",
+    "url": "https://www.jt-tsushin.jp/articles/case/casestudy_relocationandsettlement-7",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年度に移住促進室を設立して以降、移住定住向け分譲団地整備や、空き家改修費補助金等の制度改正の実施、市長が推薦し県知事が委嘱する地域移住サポーターの増員等、ハード・ソフト両面で移住支援施策を強化しています",
+    "url": "https://www.jt-tsushin.jp/articles/case/casestudy_relocationandsettlement-7",
+    "pass": 3
+   },
+   {
+    "quote": "※1 独立行政法人や第三セクター、一部事務組合等の国又は地方公共団体が設立・出資割合に係わらず出資等している主体が含まれます",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "🎥西部ガスグループ×北九州市の共同制作動画のお知らせ✨",
+    "url": "https://www.shigotomarugoto.info/ui-turn/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）官公庁など（第三セクターのうち、出資金が10億円未満の法人または地方公共団体から補助を受けている法人を除く）ではないこと",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.発行済み株式の総数または出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.発行株式の総数または出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場証券取引所：東京証券取引所（市場第一部）",
+    "url": "https://www.dip-net.co.jp/news/1507",
+    "pass": 3
+   },
+   {
+    "quote": "グループ企業",
+    "url": "https://www.dip-net.co.jp/news/1507",
+    "pass": 3
+   },
+   {
+    "quote": "辞退理由や希望職種、キャリア志向に基づいて候補者をグループ分けし、ターゲットごとに最適なアプローチを設計します",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "Uターン・Iターン転職する際に知っておきたい新潟県の非上場の注目企業【建設・製造業編】｜リージョナルキャリア新潟",
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "Uターン・Iターン転職する際に知っておきたい新潟県の非上場の注目企業【建設・製造業編】",
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、新潟県内の有力企業（非上場）や大規模事業所を、3回に分けて紹介します",
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "（グループ合計）",
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "pass": 3
+   },
+   {
+    "quote": "日東電機グループ",
+    "url": "https://www.nittosys.co.jp/p0303turn.php",
+    "pass": 3
+   },
+   {
+    "quote": "八十二グループの人材ソリューションカンパニーとして、ハイクラスを中心とした多様なキャリア形成を目指す方の転職をサポートしています",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "（受託者：マンパワーグループ株式会社）",
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ただし、第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業等から出資を受けている場合は該当する可能性がありますので、下記の「みなし大企業とは」をご確認ください",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "■発行済株式の総数又は出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "■発行済株式の総数又は出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、上記(2)の要件を満たす法人がいわゆる親会社である場合はみなし大企業としません",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "青森県こども家庭部 若者定着還流促進課 UIJターン促進グループ",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "こども家庭部 若者定着還流促進課 若者採用支援グループ",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁等（第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く）でないこと",
+    "url": "https://www.city.mikasa.hokkaido.jp/mikasalife/detail/00016786.html",
+    "pass": 3
+   },
+   {
+    "quote": "みなし大企業（親会社が資本金10億円以上等",
+    "url": "https://www.city.mikasa.hokkaido.jp/mikasalife/detail/00016786.html",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁等（第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く",
+    "url": "https://www.city.gamagori.lg.jp/unit/sangyo/syutokenjinzaikakuho-kyujin.html",
+    "pass": 3
+   },
+   {
+    "quote": "①官公庁等（第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "※1 独立行政法人や第三セクター、一部事務組合等の国又は地方公共団体が設立・出資割合に係わらず出資等している主体が含まれます",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国又は地方公共団体が出資している場合は、株式会社や一般社団法人等も当該主体に含みます",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "・発行済株式の総数又は出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   },
+   {
+    "quote": "・発行済株式の総数又は出資価格の総額の3分の1以上を資本金10億円以上の法人が所有している資本金10億円未満の法人",
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "地方Uターン 再考  候補者・企業視点から見る可能性と課題 — 地方Uターン 再考  候補者・企業視点から見る可能性と課題 musepass.jp https://www.musepass.jp > info > research_8",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "Uターン ・ Iターン 転職する際に知っておきたい新潟県の非上場 ... — Uターン ・ Iターン 転職する際に知っておきたい新潟県の非上場 ... リージョナルキャリア新潟 https://rs-niigata.net > staffblog > niigata_ui_3",
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uij-aichi.jp/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uij-aichi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lokatsu-company.mhlw.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.gakujo.ne.jp/sustainability/action/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shigotomarugoto.info/ui-turn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasona.co.jp/clients/service/pub/tihou/uij/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.minamiboso.chiba.jp/0000012526.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uij-aichi.jp/migration_seek.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.town.toyoura.hokkaido.jp/hotnews/detail/00004169.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/19464/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dip-net.co.jp/news/1507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musepass.jp/info/research_8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0208S/-op__81/-preBtn__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://financeinjapan.com/finance/8ad788eb-e2f2-436f-bf62-cd02c9fdf9a9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2016/documents/152.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nittosys.co.jp/p0303turn.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chisou.go.jp/sousei/shienkin_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojotasu.com/uij-turn-kigyo-shienkin-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lokatsu-company.mhlw.go.jp/subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.town.ashoro.hokkaido.jp/citypromotion/work/page.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jt-tsushin.jp/articles/case/casestudy_relocationandsettlement-7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.mikasa.hokkaido.jp/mikasalife/detail/00016786.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/suisankeizaibu/shoukoukankou/gyoumuannai/6/9428.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.gamagori.lg.jp/unit/sangyo/syutokenjinzaikakuho-kyujin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uij-aichi.jp/migration_offer.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 比較 ランキング",
+   "results": [
+    "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "https://tenshoku.mynavi.jp/ui_turn/",
+    "https://www.uij-aichi.jp/introduction/",
+    "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/",
+    "https://biz.jvisa.jp/top10-rankings-local-employment/",
+    "https://uzuz.jp/service/career-support/column/article-2578-author-60/",
+    "https://www.chisou.go.jp/sousei/shienkin_index.html",
+    "https://www.pasonagroup.co.jp/recruit/column/008.html",
+    "https://www.pasona.co.jp/clients/service/column/career/uijturn/",
+    "https://ijyu.life/1062/"
+   ]
+  },
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 会社一覧 運営会社",
+   "results": [
+    "https://www.uij-aichi.jp/",
+    "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "https://lokatsu-company.mhlw.go.jp/",
+    "https://company.gakujo.ne.jp/sustainability/action/",
+    "https://www.shigotomarugoto.info/ui-turn/",
+    "https://www.pasona.co.jp/clients/service/pub/tihou/uij/",
+    "https://www.city.gamagori.lg.jp/unit/sangyo/syutokenjinzaikakuho-kyujin.html",
+    "https://enregion.jp/blog-business/3539/",
+    "https://www.saitama-projinzai.com/jinzaigaisya/chokusetsu"
+   ]
+  },
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 料金 成果報酬 OR 月額 OR 掲載料",
+   "results": [
+    "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "https://www.city.minamiboso.chiba.jp/0000012526.html",
+    "https://www.uij-aichi.jp/migration_seek.html",
+    "https://www.town.toyoura.hokkaido.jp/hotnews/detail/00004169.html",
+    "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "https://www.chisou.go.jp/sousei/shienkin_index.html",
+    "https://www.town.yamanouchi.nagano.jp/soshiki/ijukokusaikoryu/gyomu/iju_teiju/868.html",
+    "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html"
+   ]
+  },
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 売上高 OR 取引社数 OR 導入社数",
+   "results": [
+    "https://jinjibu.jp/news/detl/19464/",
+    "https://www.dip-net.co.jp/news/1507",
+    "https://www.musepass.jp/info/research_8",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0208S/-op__81/-preBtn__2/",
+    "https://rs-niigata.net/staffblog/niigata_ui_3.html",
+    "https://financeinjapan.com/finance/8ad788eb-e2f2-436f-bf62-cd02c9fdf9a9",
+    "https://next.rikunabi.com/job_search/kw/uij%E3%82%BF%E3%83%BC%E3%83%B3%E5%B0%B1%E6%A5%AD%20%E5%89%B5%E6%A5%AD%E7%A7%BB%E4%BD%8F%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD/",
+    "https://www.chisou.go.jp/tiiki/tiikisaisei/dai70nintei/plan/y1176.pdf",
+    "https://www.jobs-go.jp/knowhow/column/change-job/knowhow/u-turn-moving/"
+   ]
+  },
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 業界 シェア 大手",
+   "results": [
+    "https://lokatsu-company.mhlw.go.jp/",
+    "https://www.jil.go.jp/institute/research/2016/documents/152.pdf",
+    "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "https://www.uij-aichi.jp/introduction/",
+    "https://www.nittosys.co.jp/p0303turn.php",
+    "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "https://www.chisou.go.jp/sousei/shienkin_index.html",
+    "https://tenshoku.mynavi.jp/ui_turn/",
+    "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/",
+    "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/"
+   ]
+  },
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 小規模 ニッチ 特化",
+   "results": [
+    "https://www.jil.go.jp/institute/research/2016/documents/152.pdf",
+    "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "https://lokatsu-company.mhlw.go.jp/",
+    "https://www.uij-aichi.jp/",
+    "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html",
+    "https://www.town.ashoro.hokkaido.jp/citypromotion/work/page.html",
+    "https://www.jt-tsushin.jp/articles/case/casestudy_relocationandsettlement-7"
+   ]
+  },
+  {
+   "query": "地方の製造業向けUIJターン・移住採用支援 設立 株主 親会社",
+   "results": [
+    "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html",
+    "https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html",
+    "https://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/H31wakuwaku.html",
+    "https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html",
+    "https://www.city.minamiboso.chiba.jp/0000012526.html",
+    "https://www.city.mikasa.hokkaido.jp/hotnews/detail/00016786.html",
+    "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/suisankeizaibu/shoukoukankou/gyoumuannai/6/9428.html",
+    "https://www.city.gamagori.lg.jp/unit/sangyo/syutokenjinzaikakuho-kyujin.html",
+    "https://www.uij-aichi.jp/migration_offer.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

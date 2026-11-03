@@ -1,0 +1,1514 @@
+{
+ "name": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）",
+ "en": "recruiting channels regional manufacturers Japan",
+ "aliases": [
+  "ハローワーク 利用率 製造業",
+  "採用経路 製造業 地方",
+  "縁故採用 中小企業",
+  "ハローワーク",
+  "採用経路",
+  "応募経路"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:32:30.276675+00:00",
+ "evidence": {
+  "調査対象": [
+   {
+    "quote": "（注２）同一企業内転入者には、同一企業（会社）内の他の事業所から転入してきた者や休職・その他の理由により給与の支給が停止されていた者で、調査対象期間中に復職、",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定地方公共団体以外の者 許可制",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定地方公共団体 国に通知",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "46都道府県4区239市111町15村3組合",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所、農協等が構成員のために行う無料職業紹介事業を届出制に緩和、地方公共団体による無料職業紹介事業の容認",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年 ○ 地方公共団体が無料職業紹介を行う際の各種規制を緩和（届出制の廃止、国の監督（事業停止命令等）の廃止等",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "募集する職種について、地域に",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "など、地域の労働市場の状況につ",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 特定地方公共団体が行う無料職業紹介事業は通知制",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５条の４ 公共職業安定所、特定地方公共団体、職業紹",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 国の機関若しくは地方公共団体又はその委託を受けた者が法令の定める事務",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇インターネットを利用した入職者の利用したサイト等（複数回答）",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）しごと情報ネットは2016年３月に閉鎖されており、2018年の回答には含まれていない",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（調査対象）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※２年以内に複数回の求職経験がある場合は、直近の求職活動について回答",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（調査方法）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（調査期間）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（回答数等）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象者数 有効回答数",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "回答者の属性",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特別の法人等（地方公共団体、商工会議所、",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（地方公共団体、商工会議",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④｜ワークス労働市場分析｜コラム｜リクルートワークス研究所",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "以上のような検証はハローワークの全国統計（厚生労働省,一般職業紹介状況）を用いて分析してきたが、本稿では、ハローワークも含めた求職者の入職経路別統計（厚生労働省,雇用動向調査）、なかでも都道府県別の統計を用いて、ハローワークの役割を俯瞰し地域別の違いを踏まえて検証する",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "結論から言えば、近年のハローワーク利用には大きな地域差があり、おおむね地方部ほど利用率が高く大都市部で低い傾向が見られる",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに求められる役割における地域差が拡大している可能性が示唆される",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別のハローワーク利用率",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "この点について、都道府県別に転職時の経路としてハローワークが利用されている割合（ハローワーク利用率、2024年）を図表5に示す",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均は図表2のとおり18.2%であったが、都道府県別に見ると非常に大きな差異が存在していることがわかる",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "おおむねの傾向として、人口規模が小さい地域のハローワーク利用率が高い",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは就業者数及び求職者数が多い地域は労働市場の規模が大きく、民間人材会社が進出するインセンティブが高いことが一因となっていると考えられる",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表5 都道府県別ハローワーク利用率（転職求職者、2024年）（※5）",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "右下がりの近似曲線付近に多くのプロットが位置しており、民間人材会社の存在感が低い地域で、ハローワークが入職経路として大きな役割を担う傾向が見られることがわかる",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "やや特異な位置を占めるのが岩手県であり、ハローワーク利用率が近似曲線上より著しく上方にあるが、大きな傾向としては図表６の右下（ハローワーク利用率が低く、民間利用率が高い）に政令市等を擁する大都市部がプロットされ、左上（ハローワーク利用率が高く、民間利用率が低い）に地方県がプロットされている",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表6 民間人材会社とハローワーク利用率（都道府県別）（転職求職者、2024年）",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、都道府県別にこのハローワーク利用率がどのように変化したのかを見よう（図表7）",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人ビッグデータを活用し、正社員採用における採用手法の変化を、2023年と2026年の比較に加え、職種・地域別に分析しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "媒体、地域、職種など集計項目を自在にカスタマイズでき、採用マーケット動向の把握やアルバイト採用での周辺時給調査などを素早く＆根拠をもって行うことができます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "- 地域によっても採用手法に差が見られ、東京はダイレクトリクルーティングが43.0％、地方圏では現在もハローワークが3割前後を占める",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "・地域差はどれくらい？エリア別の採用手法を比較",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "最後に2026年7月時点のデータを地域別に比較すると、採用手法の構成はエリアごとに異なる特徴が見られました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "一方、地方圏ではハローワークの割合が3割程度と高く、九州・沖縄で30.3％、中国・四国で30.1％、北海道・東北で28.4％を占めています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "地方では中小企業も多く、無料で利用でき、地域の求職者にアプローチできるハローワークが、現在も重要な採用手段となっていることがうかがえます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "クリック課金型で予算を調整しやすく、掲載料を前払いする従来型の求人広告と比べて、採用に至らなかった場合の費用負担を抑えやすいことも、幅広い地域で活用されている背景の一つと考えられます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人データを活用し、2023年と2026年の比較や、職種・地域別のデータから採用手法の変化を調査しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "<都道府県・市区町村について>",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "1求人に対して2つ以上の勤務地都道府県が紐づいている場合、最初に記載されている都道府県を採用した",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "」では様々な求人媒体の求人データを横断して、媒体・地域・職種など様々な軸で集計できます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート調査は、企業が人材募集手段をどのように使い分けているか、そのメリット・デメリット、過去からの変化などを明らかにする目的で、1万社のうち1270社から有効回答を得ました",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアリング調査は、民間求人サイトの運営会社15社を対象に、求人企業が媒体を選択する理由や近年の求人動向、事業者のポジショニング戦略を深掘りしました",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "三大都市圏（首都圏・関西圏・中京圏）では「求人情報誌・求人サイト」が最も利用されている一方、地方中枢都市圏やそれ以外の地域では「ハローワーク」の利用率が最も高いという違いがあります",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "地方では地域に根差したハローワークの存在感が大きいと言えるでしょう",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "特定の業務領域で定型的・補助的な業務を担当する現業職の採用には、即戦力を供給する人材派遣や、地域に密着したハローワーク、信頼できる縁故採用などが有効であることがわかります",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "特に地方や中小企業にとっては今後も重要なチャネルになるでしょう",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "「どうだい？」会員10万人突破 地域・業種超えて「共感」で繋がる経営者",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人ビッグデータを活用し、正社員採用における採用手法の変化を、2023年と2026年の比較に加え、職種・地域別に分析しました",
+    "url": "https://academia.hrog.net/report/2092/",
+    "pass": 3
+   },
+   {
+    "quote": "地域によっても採用手法に差が見られ、東京はダイレクトリクルーティングが43.0％、地方圏では現在もハローワークが3割前後を占める",
+    "url": "https://academia.hrog.net/report/2092/",
+    "pass": 3
+   },
+   {
+    "quote": "地域差はどれくらい？エリア別の採用手法を比較",
+    "url": "https://academia.hrog.net/report/2092/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に2026年7月時点のデータを地域別に比較すると、採用手法の構成はエリアごとに異なる特徴が見られました",
+    "url": "https://academia.hrog.net/report/2092/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "〇 ハローワークの求職者向けサービスの概要･････21",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ ハローワークの求人者向けサービスの概要･････22",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 ハローワークにおける職業紹介等･････････････23",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 職業紹介事業の概要･････････････････････････24",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 民間職業紹介事業の市場拡大･････････････････25",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク：約-0.04、民間職業紹介：約-0.25、広告：約0.81、縁故：約-0.70、その他：約0.00",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省「職業安定業務統計」「職業紹介事業報告書」、全国求人情報協会「求人広告掲載件数等集計結果」",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）ハローワークの求人数は常用新規求人数の各月合計、職業紹介事業者の求人数は各年度における常用求人数、求人メディアにおける求人件数は各月掲載求人件数の合計を表",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、ハローワーク・民間職業紹介事業者の求人数と求人メディアの求人件数を単純に比較することはできない",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間紹介事業者の求人数",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの求人数",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 求人の年収帯を見ると、民間職業紹介事業者の取り扱うものが最も高い一方、ハローワークの取",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 求人メディアは、年収帯においても取り扱い職種においても、ハローワークと民間職業紹介事業",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）ハローワークについては、ハローワークシステムから抽出したデータを特別に集計",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間職業紹介事業者及び求人メディアは「転職賃金相場2019」（一般社団法人 人材サー",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介事業等の在り方を検討する際に用いるため、採用における人材サービスの利用等",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 職業紹介事業事業者 5,400事業者 ○ 募集情報等提供事業者等 834事業者",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○職業紹介事業者",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業者から5,100事業主、無料職業紹介事業者から300事業主を無作為に抽出した",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関係団体から情報提供を受けた事業者、職業紹介事業者で兼業をしている事業者、",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○職業紹介事業者・募集情報等提供事業者等・求人企業",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年６月16日～７月７日：職業紹介事業者・募集情報等提供事業者等",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介事業者 5,400件 621件",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間職業紹介事業者（紹介会社）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "公共職業安定所（ハローワーク）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークインターネットサービス",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "知り合い・社員等からの紹介（縁故）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間職業紹介事業者 50.6% 34.3% 25.4% 16.2%",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク 72.3% 67.5% 63.4% 53.8%",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークインターネッ",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④｜ワークス労働市場分析｜コラム｜リクルートワークス研究所",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで、近年のハローワークの役割の変化を分析してきた",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "紹介件数・就職件数が長期的に減少し企業に人材を紹介する機能が弱まっていること、その紹介も事務職に偏在しており現場職ではほとんどマッチングできていないこと（",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "以上のような検証はハローワークの全国統計（厚生労働省,一般職業紹介状況）を用いて分析してきたが、本稿では、ハローワークも含めた求職者の入職経路別統計（厚生労働省,雇用動向調査）、なかでも都道府県別の統計を用いて、ハローワークの役割を俯瞰し地域別の違いを踏まえて検証する",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "結論から言えば、近年のハローワーク利用には大きな地域差があり、おおむね地方部ほど利用率が高く大都市部で低い傾向が見られる",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに求められる役割における地域差が拡大している可能性が示唆される",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "入職経路としてのハローワークの縮小",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "入職者のうちハローワーク計（職業安定所＋ハローワークインターネットサービス）の割合は2012年、2013年には24%を超えていたが、徐々に低下しており、2024年には16.4%と中長期的に低下傾向を辿っている",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "」「縁故」などは横ばいである",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "こちらもおおむね全体と同様の傾向を示していると言え、ハローワーク計は26.5%（2012年）から18.2%（2024年）へ縮小している",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、図表1・2では「ハローワーク計」として「職業安定所」と「ハローワークインターネットサービス」を合計しているが、図表3では、この2つの入職経路それぞれの割合の推移を集計した",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要な点として、ハローワークインターネットサービスは2012年以降、おおむね横ばい（3－4％程度）であり、近年の減少分のほとんどが職業安定所による入職の減少分であるということである",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表3 入職経路別入職者（ハローワーク関係）（転職入職者）",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、ハローワークで次の勤め先が決まった求職者が、既就業者（転職入職者（※3））なのか、あるいは未就業者（新規学卒者以外）（※4）、未就業者（新規学卒者）なのか、状況別の推移を分析した（図表4）",
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの割合は36.7％から16.9％に低下し、民間サービスの存在感が拡大［2026年10月度 採用手法の動向調査レポート］（PR TIMES） | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの割合は36.7％から16.9％に低下し、民間サービスの存在感が拡大［2026年10月度 採用手法の動向調査レポート］（PR TIMES）",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークを経由した転職の割合が低下する一方、人材紹介やダイレクトリクルーティングなど、民間サービスの存在感が高まり、採用手法の多様化も進んでいます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "- ハローワーク経由の転職は2019年から2024年にかけて低下する一方、人材紹介など民間サービスの存在感が高まっている",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの割合は36.7％から16.9％に低下し、Indeed PLUSが40.7％で最大に",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "- ITエンジニアはダイレクトリクルーティングが51.8％、飲食はIndeed PLUSが78.6％など、職種によっても採用手法に大きな違いが見られた",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "- 地域によっても採用手法に差が見られ、東京はダイレクトリクルーティングが43.0％、地方圏では現在もハローワークが3割前後を占める",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "・ハローワークの割合が減少！転職者の入職経路",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の転職入職者全体は約541万人で、ハローワーク経由が20.1％（約109万人）、民営職業紹介所が6.0％（約32万人）、広告が30.4％（約164万人）でした",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "これに対して2024年の転職入職者全体は約492万人で、ハローワーク経由が18.2％（約90万人）、民営職業紹介所が8.4％（約41万人）、広告が32.9％（約162万人）となっています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク経由は割合が1.9ポイント低下し、人数も約19万人減少しています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "一方、民営職業紹介所は割合が2.4ポイント上昇し、人数も約9万人増加しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたデータから、転職経路におけるハローワークの比重が低下する一方、民営職業紹介所や広告といった民間サービスの存在感が相対的に高まっていることが分かります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "※「ハローワーク経由」は、「職業安定所」と「ハローワークインターネットサービス」の人数を合算して算出しています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "・ハローワークの求人数の変化を解説",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   }
+  ],
+  "人手不足": [
+   {
+    "quote": "○ 有効求人倍率及び完全失業率の動向････６",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いては2020年以降減少する見込みであり、人手不足の傾向が継続するものと考えられる",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月の有効求人倍率は1.18倍で、前月に比べて0.01ポイント低下",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月の新規求人倍率は2.15倍で、前月に比べて0.05ポイント上昇",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度平均の有効求人倍率は1.20倍で、前年度に比べて0.05ポイント低下",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月の数値をみると、有効求人倍率（季節調整値）は1.18倍となり、前月を0.01ポイント下回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率（季節調整値）は2.15倍となり、前月を0.05ポイント上回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（季節調整値）は0.99倍となり、前月と同水準となりました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.74倍、最低は大阪府の",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度平均の有効求人倍率は1.20倍となり、前年度の1.25倍を0.05ポイント下回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年12月の有効求人倍率は1.19倍で、前月に比べて0.01ポイント上昇",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年12月の新規求人倍率は2.17倍で、前月に比べて0.03ポイント上昇",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年平均の有効求人倍率は1.22倍で、前年に比べて0.03ポイント低下",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年12月の数値をみると、有効求人倍率（季節調整値）は1.19倍となり、前月を0.01ポイント上回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率（季節調整値）は2.17倍となり、前月を0.03ポイント上回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（季節調整値）は0.99倍となり、前月を0.01ポイント上回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.80倍、最低は福岡県の",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年平均の有効求人倍率は1.22倍となり、前年の1.25倍を0.03ポイント下回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 我が国の人手不足の行方と中小製造業の現状",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "1．今後の人手不足の行方",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）生産年齢人口の減少により、人手不足は慢性化する可能性あり",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "パーソル総合研究所・中央大学「労働市場の未来推計 2030」（2018）によると、2030年時点においても全国的に人手不足が続いていることが分かる",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "2．中小製造業の人手不足の実態",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）中小製造業の人手不足感は、サービス業と同水準まで強まった",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業については、2012年時点では、建設を除くと最も人手不足感の強い産業であったが、省力化投資の進展を背景に近年は緩やかに推移している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業の人手不足感は急激に進行しており、2018年時点ではサービス業の水準まで強まった",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "業界が相対的に人手不足であり、2024年問題も大きな課題になっている",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まずは人口の動き、求人倍率、給与相場の3点から現状を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月の有効求人倍率（季節調整値）は1.18倍、新規求人倍率は2.06倍、正社員の有効求人倍率は1.00倍でした",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "（注２）民間職業紹介事業者及び求人メディアについては、求人上限額の上位15％分位額の最高額と、求人下限額の中央値の最低額を示している",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜首都圏の求人上限額（上位15％分位額）と求人下限額（中央値） 2019年４月～８月＞",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A9：就職後の定着支援金、求職者集めのための報酬、成功報酬確保のための支払い、アンケート調査に対する報酬、就職フェア参加に対する報酬などがあります",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "A19：就職後一定期間勤務した場合の支援金、面接参加時の電子ギフト券、転職フェア参加時のギフトカードなどがあります",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年 補助率10分の10、紫波町が全額支援する地方創生プロジェクトが始動",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "（注２）右グラフにおいて、円の大きさは産業別の転職者数の多寡を示している",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り扱う求人は年収の幅が狭く、おおむね220～550万円の間となっている",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間職業紹介事業者 85.1万円 (n=175) 19.2万円 (n=56)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人情報誌・チラシ 11.2万円 (n=113) 7.7万円 (n=115)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットの求人情報サイト 28.5万円 (n=254) 10.8万円 (n=149)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットの求人情報まとめサイト 6.4万円 (n=39) 3.2万円 (n=33)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スカウトサービス 91.4万円 (n=51) 44.0万円 (n=5)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新聞広告・屋外広告 7.1万円 (n=18) 4.5万円 (n=14)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＳＮＳ 0.9万円 (n=15) 0.2万円 (n=17)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "知り合い・社員等からの紹介（縁故） 4.4万円 (n=99) 3.4万円 (n=67)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社ＨＰ等からの直接応募 2.8万円 (n=150) 2.7万円 (n=64)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの平均月給は、2019年9月時点で19万5,615円、2026年7月時点で23万3,392円でした",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "一方、民間求人サイトの平均月給は、2019年9月時点で25万2,070円、2026年7月時点で29万6,793円です",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "両者の差額を見ると、2019年9月時点では5万6,455円でしたが、2026年7月には6万3,401円となり、6,946円拡大しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "期間を通して、民間求人サイトが5万～6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "資本金： 1,000万円",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "倒産寸前から、年商9億円へ 小笠原製粉を救った「脱力系ラーメン」",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "現場の自発性が生んだ8万円の自作システム 車部品メーカー・オーテックのAI投資論",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "食品のクレーン/月収28万円/日勤のみ/社宅あり/日払いあり/福岡県うきは市",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,400円",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,500円",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品の機械オペレーター/月収23万円/年休125日/日勤のみ/50代活躍中/日払いあり",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "A4：定額制やクリック課金による広告掲載料が一般的です",
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、600 万円未満の年収の労働者が全体の約８割を占めている",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※）平均値は各レンジの中央値（例： 「300～400 万円未満」⇒「349.5 万円」）を用いて算出した",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01. 300万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "02. 300～400万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "03. 400～500万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "04. 500～600万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "05. 600～700万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "06. 700～800万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "07. 800～900万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "08. 900～1000万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "09. 1000～1200万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10. 1200～1500万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11. 1500～2000万円未満",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年商5億円以下の企業では募集を行っている企業のうち、過半数の企業で採用ができていない状況であることがうかがえた",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億円以下(n=278) 5億円超～10億円(n=302)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円超～20億円(n=347) 20億円超～50億円(n=339)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50億円超～100億円(n=159) 100億円超(n=117)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億円以下(n=805) 5億円超～10億円(n=663)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円超～20億円(n=623) 20億円超～50億円(n=446)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50億円超～100億円(n=185) 100億円超(n=129)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(繊維身の回り品卸,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(金属製品製造,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(繊維製造,10億円超～20億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(その他サービス,5億円超～10億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(道路貨物運送,～5億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(不動産業,100億円超)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(飲食店,5億円超～10億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(対事業所サービス,10億円超～20億円)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの平均月給は、2019年9月時点で19万5,615円、2026年7月時点で23万3,392円でした",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、民間求人サイトの平均月給は、2019年9月時点で25万2,070円、2026年7月時点で29万6,793円です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "両者の差額を見ると、2019年9月時点では5万6,455円でしたが、2026年7月には6万3,401円となり、6,946円拡大しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "期間を通して、民間求人サイトが5万〜6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金： 1,000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   }
+  ],
+  "採用予算・採用費": [
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "1人を採用にかける費用が低い企業ほどハローワークの利用率が高く、費用が高くなるにつれてハローワーク以外の5つの経路の利用率が増加する傾向が見られます",
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   }
+  ],
+  "1人あたり採用単価": [
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります",
+    "url": "https://academia.hrog.net/report/2092/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "トクトクHQは社員1名あたり月額180円から始められ、全国どこでも使えるため、地方拠点や店舗勤務の社員にも公平に提供できます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... — 企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... 毎日新聞 https://mainichi.jp > articles",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "論点① ハローワーク と民間職業 紹介 事業者の役割分担 — 論点① ハローワーク と民間職業 紹介 事業者の役割分担 厚生労働省 PDF https://www.mhlw.go.jp > file > 05-Shingikai-11601...",
+    "url": "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... — 企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academia.hrog.net/report/2092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001479966.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260515_110438/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ewc.co.jp/information/7976/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrog.net/report/137006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manatal.com/blog/job-posting-sites-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit-holdings.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/JapanJobs/comments/1sslo61/i_spent_15_years_recruiting_in_japan_after/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/hrportal/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s12186-026-09395-8",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 調査 万円",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf",
+    "https://www.mhlw.go.jp/content/001683249.pdf",
+    "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 平均 2025",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://academia.hrog.net/report/2092/",
+    "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://www.mhlw.go.jp/stf/newpage_69302.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 中小企業 アンケート 結果",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001479966.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b2_4_2_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 就職白書 OR マイナビ OR リクルート 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://career-research.mynavi.jp/reserch/",
+    "https://hrog.co.jp/news/entry-422/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://career-research.mynavi.jp/reserch/20260515_110438/",
+    "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/07/2026-saiyojyokatsudo.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 商工会議所 OR 信用金庫 OR 県 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://www.mhlw.go.jp/content/12602000/001479966.pdf",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "https://www.ewc.co.jp/information/7976/",
+    "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 都道府県 地方 比較",
+   "results": [
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000169.000148054.html",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531",
+    "https://hrog.net/report/137006/"
+   ]
+  },
+  {
+   "query": "recruiting channels regional manufacturers Japan",
+   "results": [
+    "https://www.manatal.com/blog/job-posting-sites-japan",
+    "https://www.youtube.com/watch?v=AS0R9dBehhw",
+    "https://recruit-holdings.com/en/",
+    "https://www.reddit.com/r/JapanJobs/comments/1sslo61/i_spent_15_years_recruiting_in_japan_after/",
+    "https://www.jetro.go.jp/en/hrportal/company/",
+    "https://link.springer.com/article/10.1007/s12186-026-09395-8",
+    "https://ryze-recruit.com/en/industory-manufacturer/",
+    "https://salveo.international/en/recruit-in-japan/",
+    "https://exporttojapan.co.uk/guide/hr-recruitment/hiring-in-japan/",
+    "https://www.scribd.com/document/879904302/12"
+   ]
+  }
+ ],
+ "missing": {}
+}

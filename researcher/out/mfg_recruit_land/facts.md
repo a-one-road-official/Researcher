@@ -184,9 +184,115 @@
   - 「製造業の人材派遣請負( 大手 ) 業界 シェア 大手 の求人情報をすべて見る （542,127件） — 製造業の人材派遣請負( 大手 ) 業界 シェア 大手 の求人情報をすべて見る （542,127件） スタンバイ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%9D%90%E6%B4%BE%E9%81%A3%E8%AB%8B%E8%B2%A0%28%E5%A4%A7%E6%89%8B%29+%E6%A5%AD%E7%95%8C+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%A4%A7%E6%89%8B&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
   - 「製造業の人材派遣請負(大手) 小規模 ニッチ 特化 の求人情報をすべて見る （135,417件） — 製造業の人材派遣請負(大手) 小規模 ニッチ 特化 の求人情報をすべて見る （135,417件） スタンバイ」（https://jp.stanby.com/search?q=%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%9D%90%E6%B4%BE%E9%81%A3%E8%AB%8B%E8%B2%A0%28%E5%A4%A7%E6%89%8B%29+%E5%B0%8F%E8%A6%8F%E6%A8%A1+%E3%83%8B%E3%83%83%E3%83%81+%E7%89%B9%E5%8C%96&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
 
-## 製造業エンジニアの人材紹介
-- 文脈：
-- エラー：ValueError: netloc '＃人材業界の上場企業の平均年収トップ3' contains invalid characters under NFKC normalization
+## 製造業エンジニアの人材紹介（engineering recruitment agency manufacturing Japan）
+- 文脈：人材紹介
+- プレイヤー：
+  - 「製造業・メーカーに強い転職エージェントおすすめ8選｜特徴・職種別の選び方【2026年】 | キャリ評」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「最新2026年ランキング」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「職業別で比較」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「職種別に転職エージェントを徹底比較！」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「製造業・メーカーに強い転職エージェントおすすめ8選｜特徴・職種別の選び方【2026年】」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「などに整理して比較します」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「→製造業・メーカー向け転職エージェントの比較一覧を見る」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「製造業・メーカー向け転職エージェント比較一覧」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「製造業・メーカー向け転職エージェント8サービス比較一覧」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「の4つに分けて比較しました」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「メーカーの求人を幅広く比較したい人や、管理職・専門職への年収アップを目指す人向け」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「研究開発・設計・生産技術など、ものづくりの実務経験を活かす人におすすめの転職エージェントです」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「→比較表に戻る」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「企業情報をもとに仕事内容や働き方を比較したい人、メーカーへの転職で選考対策を重視する人に向いています」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「アンドプロは、東証プライム上場の株式会社クイックが運営する、業種・職種特化型の転職エージェントです」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+- 料金体系：
+  - 「2回目の利用で、年収が300万円アップしました」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「：基本給、固定残業代、賞与、各種手当を分け、想定年収の算出条件を確認する」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「費用は一切かかりません」（https://find-bestwork.com/agent/61127/）
+  - 「求職者の方からは一円もいただきません」（https://find-bestwork.com/agent/61127/）
+  - 「ハイクラス会員の実績として、転職後の平均年収が30代で880万円、40代で990万円と謳っています」（https://my-best.com/18153）
+  - 「手取り16万円は、20万円程度の額面の給料から税金や社会保険料が差し引かれた金額です」（https://my-best.com/18153）
+  - 「手取りの給料が16万円で一人暮らしや貯金はできるのか、実際の生活水準はどのような内容なのか、疑問に思っている人も多いのではないでしょうか」（https://my-best.com/18153）
+  - 「本記事では手取り16万円の額面月収はいくらなのか、一人暮らしや貯金は可...」（https://my-best.com/18153）
+  - 「当サイトで得た収益は、調査費用やコンテンツ改善などに利用し、ユーザーの皆様により還元できるよう努めてまいります」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「リクルートダイレクトスカウト｜転職後の平均年収900万円以上」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「300万円以上の年収UP事例多数あり」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「週3でも最大70万円」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「400万円～」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「（年収アップ平均72万円」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「年収アップ平均72万円」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+- 規模：
+  - 「【求人数第1位】リクルートエージェント」（https://find-bestwork.com/agent/61127/）
+  - 「【求人数第2位】dodaエージェントサービス」（https://find-bestwork.com/agent/61127/）
+  - 「【求人数第3位】パソナキャリア」（https://find-bestwork.com/agent/61127/）
+  - 「各分野別で求人数が豊富な3社をそれぞれご紹介します」（https://find-bestwork.com/agent/61127/）
+  - 「それではここからは、製造業界の求人数上位3社の転職エージェントについて、それぞれ詳しくご紹介します」（https://find-bestwork.com/agent/61127/）
+  - 「【製造業の求人数】73,799件」（https://find-bestwork.com/agent/61127/）
+  - 「【製造業×未経験OKの求人数】9,672件」（https://find-bestwork.com/agent/61127/）
+  - 「(求人数調査日:2023年1月13日)」（https://find-bestwork.com/agent/61127/）
+  - 「【製造業の求人数】56,435件」（https://find-bestwork.com/agent/61127/）
+  - 「【製造業×未経験OKの求人数】2,098件」（https://find-bestwork.com/agent/61127/）
+  - 「【製造業の求人数】10,343件」（https://find-bestwork.com/agent/61127/）
+  - 「【製造業×未経験OKの求人数】1,365件」（https://find-bestwork.com/agent/61127/）
+  - 「拠点ネットワークとして日本全国47都道府県すべてに面談拠点を展開しており、履歴書や職務経歴書の作成ツールも提供しています」（https://my-best.com/18153）
+  - 「会員登録をしなくても連絡先などの最小限の項目入力だけで24時間いつでも応募できるほか、登録者には条件に一致する求人をメールで届けるサポート機能も提供しています」（https://my-best.com/18153）
+  - 「19,375件(非公開求人数を含む)」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+- 創業年度：
+  - 「創業から数多くの企業との取引実績が豊富で、大手機械メーカーから食品製造までの製造管理や製造職の求人を多く保有している」（https://find-bestwork.com/agent/61127/）
+  - 「パーソルテンプスタッフ株式会社に在籍後、2010年に株式会社アドバンスフローを設立し、求職者向け情報サイト「♯就職しよう」を運営」（https://find-bestwork.com/agent/61127/）
+  - 「2022年6月に設立された新進気鋭のエージェントで、」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「創業当初からITに力を入れており」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「創業以来、IT分野の就業サポートを得意としており、入社後の定着率が高いことで定評があります」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「1990年に設立したクリエイター･エージェンシーのパイオニアであるクリーク･アンド･リバー社が運営するWeb・広告・出版業界に特化した求人情報サイト・就業支援サービスです」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「・高木工業株式会社は、1929年の創業以来、100年近くにわたり日本のモノづくりを支え続けてきた製造請負・人材サービスの老舗企業」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「・創業100年近くの歴史を持つ製造請負・派遣のパイオニア・特定技能外国人の採用・支援に圧倒的な強み」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「は、1929年の創業以来、100年近くにわたり日本のモノづくりを支え続けてきた製造請負・人材サービスの老舗企業です」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「2020年の創業以来、「みんなが目を輝かせて働く社会を実現する」をビジョンに、組織開発や人材採用の支援を提供しています」（https://endingcareer.co.jp/saiyo/）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/seizou_jinzaishoukai/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/seizou_jinzaishoukai/）
+  - 「創業と法人の設立は区別し、売上高・人数には年度や集計範囲を添えています」（https://unitas.cc/pass/manufacturing-recruitment-agencies-10）
+  - 「設立2006年7月（グループの設立1974年とは別）」（https://unitas.cc/pass/manufacturing-recruitment-agencies-10）
+  - 「設立2005年7月」（https://unitas.cc/pass/manufacturing-recruitment-agencies-10）
+- 株主構成：
+  - 「アンドプロは、東証プライム上場の株式会社クイックが運営する、業種・職種特化型の転職エージェントです」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「グループ企業一体で「女性躍進活躍」を掲げているので、女性の転職サポートに定評あり」（https://find-bestwork.com/agent/61127/）
+  - 「東京都港区南青山3-1-30 パソナグループ本部ビル 7階」（https://find-bestwork.com/agent/61127/）
+  - 「事務系派遣で有名な「スタッフサービス」と同じグループの派遣会社です」（https://find-bestwork.com/agent/61127/）
+  - 「勤務地、雇用形態、賞与あり、職種、業種、フリーワード、未経験歓迎、第二新卒歓迎、上場企業」（https://my-best.com/18153）
+  - 「勤務地、雇用形態、賞与あり、職種、業種、フリーワード、未経験歓迎、第二新卒歓迎、上場企業、プログラミング言語」（https://my-best.com/18153）
+  - 「UTグループ」（https://my-best.com/18153）
+  - 「上場企業が運営」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「そこで、この記事では35社のエージェントを特徴別に4グループへ分類」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「各グループから1社ずつ選べば、あなたにとって最適な4つのエージェントに登録できるようになっています」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「以下の表に各グループの特徴を示しております」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「アドバイザーの質に定評があるグループ【A】から、興味を持ったエージェントに1社登録してください」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「グループ【B】から1社に登録し、【A】のエージェントで作成した転職軸を起点に求人探すのが最も効果的です」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「グループ【D】ではIT業界に特化した転職サイトをまとめています」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「マイナビグループが運営しているということもあり、20~30代の若手のIT転職に強いです」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+- 製造業の採用の困りごと：
+  - 「求人に関しても、人手不足な現場が多い製造業では即戦力となるミドル・シニアの世代の需要が高く、「シニア応援」と書かれてる求人も多く募集されています」（https://find-bestwork.com/agent/61127/）
+  - 「成長性では若手に劣ると考えられているので、マネジメント経験や応用できるスキルをアピールするのが良いでしょう」（https://my-best.com/18153）
+  - 「短期離職率は0.45%」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「（入社後定着率98.49%」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「入社後定着率98.49%」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「転職後の定着・活躍が叶わなければ転職をした目的は達成できたとはいえません」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「そのため転職後の短期離職が非常に少ないです」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「中長期プランを確認した上で企業の紹介を行うため、転職後の離職率が低いんですね」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「転職後に短期離職される方が少ないとのことですが、具体的な数値などはございますか？」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「中途採用者の短期離職率は約30%(参考元:」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「20代の若手でも年収アップを狙える」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「マイナビグループが運営しているということもあり、20~30代の若手のIT転職に強いです」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「転職後の定着率も97.5%と非常に高いです」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「20~30代の年収アップを狙いたい若手エンジニア、手厚いサポートを受けたい人にはマイナビ転職 ITAGENTを強くおすすめします」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「20代の若手エンジニアの転職支援に強かった」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+- 検索結果の抜粋：
+  - 「製造業 ・メーカーに強い転職エージェントおすすめ8選 — 製造業 ・メーカーに強い転職エージェントおすすめ8選 株式会社Webもり https://masa-ka.net > pascase > seizougyou-hikaku」（https://masa-ka.net/pascase/seizougyou-hikaku/）
+  - 「IT転職エージェントおすすめ ランキング 35社を 比較 【2026年 ... — IT転職エージェントおすすめ ランキング 35社を 比較 【2026年 ... エンジニア就活 https://engineer-shukatu.jp > tensyoku > it-tenshoku-agent」（https://engineer-shukatu.jp/tensyoku/it-tenshoku-agent/）
+  - 「製造業 向け 人材紹介 サービス7選と採用前の業界イメージ対策 — 製造業 向け 人材紹介 サービス7選と採用前の業界イメージ対策 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seizougyou-zinzaisyoukai-230905/）
+  - 「製造業 ・メーカーに強い 人材紹介会社 おすすめ7選 — 製造業 ・メーカーに強い 人材紹介会社 おすすめ7選 circusAGENT https://service.circus-group.jp > ... > 採用企業向け」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「【2026】 製造業 でおすすめの 人材紹介 サービス9選 ... - キャド研 — 【2026】 製造業 でおすすめの 人材紹介 サービス9選 ... - キャド研 キャド研 https://cad-kenkyujo.com > seizougyou-jinzaisyoukai」（https://cad-kenkyujo.com/seizougyou-jinzaisyoukai/）
+  - 「人材紹介 の手数料相場2026｜職種別料率と自社採用 ... - Tasonal — 人材紹介 の手数料相場2026｜職種別料率と自社採用 ... - Tasonal Tasonal https://tasonal.com > recruitment-agency-fee-alternatives」（https://tasonal.com/posts/recruitment-agency-fee-alternatives/）
+  - 「人材紹介 の手数料相場は30〜35%｜職種別早見表と交渉の ... — 人材紹介 の手数料相場は30〜35%｜職種別早見表と交渉の ... L reach https://lreach.jp > L reach COMPASS」（https://lreach.jp/media/article023）
+  - 「製造業 ・メーカーに強い 人材紹介 会社おすすめ7選 — 製造業 ・メーカーに強い 人材紹介 会社おすすめ7選 circusAGENT https://service.circus-group.jp > ... > 採用企業向け」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「製造業 ・工場向け 人材紹介 サービス8選 - プレックスジョブ — 製造業 ・工場向け 人材紹介 サービス8選 - プレックスジョブ プレックスジョブ https://www.plex-job.com > ホーム > コラム」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「製造業 向け 人材紹介 サービス7選と採用前の 業界 イメージ対策 — 製造業 向け 人材紹介 サービス7選と採用前の 業界 イメージ対策 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seizougyou-zinzaisyoukai-230905/）
 
 ## 製造業エンジニアの技術者派遣（engineering staffing Japan）
 - 文脈：派遣・請負
@@ -376,21 +482,224 @@
 
 ## 製造業のIndeed・求人ボックス運用代行（Indeed management agency manufacturing Japan）
 - 文脈：運用代行
-- プレイヤー：記載なし（読んだ38頁・検索7回）
-- 料金体系：記載なし（読んだ38頁・検索7回）
-- 規模：記載なし（読んだ38頁・検索7回）
-- 創業年度：記載なし（読んだ38頁・検索7回）
-- 株主構成：記載なし（読んだ38頁・検索7回）
-- 製造業の採用の困りごと：記載なし（読んだ38頁・検索7回）
+- プレイヤー：
+  - 「Indeed・求人ボックス運用代行比較35選【人材紹介会社向け】｜2026年ルールと料金｜求職者送客ナビ」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「Indeed・求人ボックス運用代行比較35選【人材紹介会社向け】｜2026年ルールと料金」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「紹介先の実際の雇用主を会社名として設定すること、求人票に人材紹介企業による求人である旨を明記することが求められ、社名非公開や「某大手企業」といった匿名掲載はできません」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「を各社公式の情報（確認日2026-10-01）でタイプ別に比較します」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「ランキングはつけません」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「「貴社が採用企業から受け取る手数料の一部が掲載手数料となります」」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「自社が受け取る紹介手数料に対する率」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「ただし、人材紹介会社が直接雇用求人を掲載する場合は採用ボードでの掲載が可能です」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「運用代行 比較一覧（確認日2026年10月1日）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「認定区分・最低出稿額・契約期間まで並べて、はじめて比較になる」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「媒体ごとに率が違う会社がある（クロスリンク＝Indeed15%・スタンバイ15%・求人ボックス20%）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「0円と明記する会社と、5〜30万円程度とする会社がある」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「公式に「お支払い時期は、広告掲載開始前の先払い（前入金）となります」と記載している会社があります」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「株式会社クロスリンク」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「株式会社アクセルパートナーズ」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+- 料金体系：
+  - 「Indeed・求人ボックス運用代行比較35選【人材紹介会社向け】｜2026年ルールと料金｜求職者送客ナビ」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「Indeed・求人ボックス運用代行比較35選【人材紹介会社向け】｜2026年ルールと料金」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「求人ボックスは紹介求人を掲載でき、紹介会社向けに完全成果報酬（掲載手数料15%・採用決定時のみ）の「採用ボード for AGENT」があります」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「スタンバイも掲載可で、1クリック20円〜です」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「し、月額1万円〜の固定制もあります」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「＼ 広告費ゼロ・月3万円で未経験者層と面談し放題 ／」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「月3万円〜で未経験者層の求職者と面談し放題」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「（完全成果報酬・掲載手数料15%）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「クリック課金・1クリック20円〜」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「紹介求人には成果報酬の専用メニュー」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「公式に「職業紹介事業者向けの成果報酬求人が掲載〜選考管理できるサービス」と説明され、」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「完全成果報酬型・初期費用0円・システム利用料なし・掲載手数料15%（採用決定時のみ発生）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「自社が受け取る紹介手数料に対する率」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「スタンバイ：掲載可・1クリック20円〜」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「「「有料枠」に掲載されている求人がクリックされるとクリック数に応じて費用が発生します」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+- 規模：
+  - 「プランが6段階あり、求人数に合わせて選べる」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「3ヶ月で使い切れる広告費かどうかを、自社の求人数と想定クリック単価から逆算してから契約してください」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「求人数の多い紹介会社だと3求人では足りないので、実質はレギュラー以上の検討になります」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「：①求職者集客の用途で契約できるか ②月額10,000円に含まれる求人数・媒体数 ③人材紹介会社としてIndeed PLUSを利用できるか ④広告費の支払い方法（前払いか実費請求か）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「従業員30〜500名規模の中小・中堅企業で、Indeed運用と並行して採用→定着の伴走を望む企業」（https://dairiten-lab.com/ranking/）
+  - 「東証プライム上場のコールセンター大手（資本金20.9億・社員1万600名）の採用支援実績、最終選考以外のすべての採用業務をワンストップ代行できるRPO体制」（https://dairiten-lab.com/ranking/）
+  - 「東京本社のほか仙台・名古屋・福岡の4拠点ネットワークを展開し、全国規模で対応可能」（https://dairiten-lab.com/ranking/）
+  - 「東京本社＋仙台・名古屋・福岡の4拠点ネットワークで全国の上場企業から中堅企業までカバー」（https://dairiten-lab.com/ranking/）
+  - 「採用規模が大きい企業（年間採用人数20名以上等）、上場企業・上場準備企業」（https://dairiten-lab.com/ranking/）
+  - 「東京・仙台・名古屋・福岡の4拠点ネットワークで全国対応を求める企業」（https://dairiten-lab.com/ranking/）
+  - 「Indeed特別認定プラチナムパートナー（最高ランク）に認定され、Indeed運用歴8年、取引社数2,000社超、顧客継続率90%以上の実績を持ちます」（https://dairiten-lab.com/ranking/）
+  - 「東京本社・東海本部（名古屋）・大阪・福岡の4拠点ネットワークとアドバホールディングスの3社グループ体制で、採用から定着・育成まで一気通貫で支援します」（https://dairiten-lab.com/ranking/）
+  - 「全国対応（東京・東海・大阪・福岡の4拠点）を求める企業」（https://dairiten-lab.com/ranking/）
+  - 「2001年10月23日に東京証券取引所プライム市場（証券コード4318）へ上場」（https://dairiten-lab.com/ranking/）
+  - 「中途採用・アルバイト・派遣領域の集客を広く手がけ、これまでに大手上場企業からベンチャー企業まで計200社近くの採用支援実績を持つ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinbox-indeed-231024/）
+- 創業年度：
+  - 「旧株式会社朝日広告として1987年創業、39年の業歴を持つ求人広告分野の老舗」（https://dairiten-lab.com/ranking/）
+  - 「旧朝日広告として1987年創業の39年業歴、Hitotechnologyグループで延べ13,600社以上の新卒採用支援実績、社外取締役に元厚生労働大臣政務官・元衆議院議員の糸川正晃氏」（https://dairiten-lab.com/ranking/）
+  - 「創業61期目の総合採用代理店として、採用コンサルティングから求人広告制作・運用までを一気通貫で提供する業界最大手の一角」（https://dairiten-lab.com/ranking/）
+  - 「業界最大手クラスの組織体制、創業61期目の業歴で事業継続性が高い」（https://dairiten-lab.com/ranking/）
+  - 「1987年創業の採用支援老舗代理店として、採用・育成・集客を総合的にサポート」（https://dairiten-lab.com/ranking/）
+  - 「1987年創業の老舗で、東京本社・東海本部（名古屋）・大阪・福岡の4拠点ネットワークで全国対応」（https://dairiten-lab.com/ranking/）
+  - 「旧・株式会社朝日広告として1987年に創業し、求人広告分野で長い業歴を持つ老舗代理店です」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「1983年設立の総合広告代理店で、Indeed特別認定パートナーの最高位プラチナムを維持しています」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「1980年創業の採用コンサルティング企業で、Indeed特別認定プラチナムパートナーです」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「1966年設立、求人広告を主軸に事業を展開してきた老舗で、Indeed特別認定プラチナムパートナーです（2026年4月時点で認定約280社のうちプラチナム以上26社の1社・同社公式）」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「名古屋を本拠に東京支社・横浜オフィスも構え、創業からの支援実績は2,500社を超えます（同社公式）」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「1987年設立、アドバホールディングスグループのIndeed特別認定プラチナムパートナー（2025年4月時点・同社公式）です」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「2009年設立、リクルート正規代理店かつIndeed特別認定プラチナムパートナーの代理店です」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「法人設立サポート」（https://probel.jp/promaga/b/6528/）
+  - 「1930年10月（創立）」（https://probel.jp/promaga/b/6528/）
+- 株主構成：
+  - 「ツナググループ・ホールディングス」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「求人広告の最適運用代行／Findin（ツナググループ）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「株式会社ツナググループ・ホールディングス」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「ツナググループの求人広告運用は、複数媒体の配分（媒体差配）を月額6.5万円〜で請け負う形です」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「（採用設計・コンサル力／業種カバレッジ・対応規模の幅／担当者の専門性・継続性・即応性／料金体系の透明性／成果の可視化／定着支援／媒体横断・Indeed PLUS運用力／採用ブランディング／法令遵守体制／グループ統合力・組織体制）に基づいて10社をランキング」（https://dairiten-lab.com/ranking/）
+  - 「「人事部の一員になる」を主軸とする伴走型サービスで累計2,600社以上の支援実績、取引継続率95%以上、グループ8社による業種カバレッジ」（https://dairiten-lab.com/ranking/）
+  - 「（Hitotechnologyグループ）」（https://dairiten-lab.com/ranking/）
+  - 「虎ノ門ヒルズビジネスタワー本社、大手・上場企業向けRPO対応力」（https://dairiten-lab.com/ranking/）
+  - 「J. グループ統合力・組織体制」（https://dairiten-lab.com/ranking/）
+  - 「グループ会社連携、業歴、組織体制・ガバナンス、事業継続性」（https://dairiten-lab.com/ranking/）
+  - 「J. グループ統合力・組織体制（5%）」（https://dairiten-lab.com/ranking/）
+  - 「：グループ会社連携、業歴、組織体制・ガバナンス、事業継続性」（https://dairiten-lab.com/ranking/）
+  - 「累計2,600社以上の支援実績と取引継続率95%以上が示す顧客継続力に加え、ジーエスホールディングス傘下に業種特化型・機能特化型のグループ企業を擁し（自社を含めて計8社）、介護・医療・福祉、ビルメンテナンス、人材派遣、人材紹介など複数領域にわたる支援基盤を持ちます」（https://dairiten-lab.com/ranking/）
+  - 「中小企業セグメントへの公式自認はそのまま強みである一方、中堅・地域大手の採用支援にも実績を持ち、業種別グループ会社との連携で対応領域を広げています」（https://dairiten-lab.com/ranking/）
+  - 「グループ8社（ジーエスケア＝介護・医療・福祉／ビルポエージェンシー＝ビルメンテナンス／GS STAFF＝人材派遣／SEALsパートナー＝人材紹介／ジーエスパートナーズ＝採用コンサルティング・採用動画制作／GS Friend＝採用・定着支援／アドフレックス＝採用コンサルティング・求人広告代理、本体含めて計8社）で業種別・機能別のニーズに対応」（https://dairiten-lab.com/ranking/）
+- 製造業の採用の困りごと：
+  - 「採用×定着の伴走型コンサル、首都圏での総合代理店力、全国カバレッジという異なる強みで、企業の採用課題に応じた選択肢を提示できる構造となっています」（https://dairiten-lab.com/ranking/）
+  - 「（採用設計・コンサル力／業種カバレッジ・対応規模の幅／担当者の専門性・継続性・即応性／料金体系の透明性／成果の可視化／定着支援／媒体横断・Indeed PLUS運用力／採用ブランディング／法令遵守体制／グループ統合力・組織体制）に基づいて10社をランキング」（https://dairiten-lab.com/ranking/）
+  - 「採用×定着の伴走型コンサルなら」（https://dairiten-lab.com/ranking/）
+  - 「F. 定着支援・採用後フォロー」（https://dairiten-lab.com/ranking/）
+  - 「採用後の定着・組織開発までのカバー範囲」（https://dairiten-lab.com/ranking/）
+  - 「F. 定着支援・採用後フォロー（10%）」（https://dairiten-lab.com/ranking/）
+  - 「：採用して終わりではなく、入社後の定着・組織開発までカバーできるか」（https://dairiten-lab.com/ranking/）
+  - 「特に人員バッファが少ない中堅・中小企業では1人の離職が業務運営に響くため、定着支援が採用ROIに直結します」（https://dairiten-lab.com/ranking/）
+  - 「採用設計（A軸）、定着支援（F軸）、業種カバレッジ（B軸）の3軸で高評価を獲得し、加重スコアで1位を獲得」（https://dairiten-lab.com/ranking/）
+  - 「中小企業特化サービス「中小企業求人部.」を旗艦とする一方、採用→定着→組織開発の一貫支援は中堅企業にも適合し、業種ごとの採用課題に応える設計です」（https://dairiten-lab.com/ranking/）
+  - 「「人事部の一員になる」伴走型、採用要件定義から求人原稿改善、面接対応、入社後の定着・組織改善まで一貫対応」（https://dairiten-lab.com/ranking/）
+  - 「定着支援（F軸）満点級：」（https://dairiten-lab.com/ranking/）
+  - 「「社員の心の見える化」「人事部コンサルティング」など定着領域に独自サービスを展開、採用→定着→組織開発のフルカバー型は業界内でも希少」（https://dairiten-lab.com/ranking/）
+  - 「グループ8社（ジーエスケア＝介護・医療・福祉／ビルポエージェンシー＝ビルメンテナンス／GS STAFF＝人材派遣／SEALsパートナー＝人材紹介／ジーエスパートナーズ＝採用コンサルティング・採用動画制作／GS Friend＝採用・定着支援／アドフレックス＝採用コンサルティング・求人広告代理、本体含めて計8社）で業種別・機能別のニーズに対応」（https://dairiten-lab.com/ranking/）
+  - 「従業員30〜500名規模の中小・中堅企業で、Indeed運用と並行して採用→定着の伴走を望む企業」（https://dairiten-lab.com/ranking/）
+- 検索結果の抜粋：
+  - 「Indeed ・ 求人ボックス運用代行比較 35選【人材紹介会社向け】 — Indeed ・ 求人ボックス運用代行比較 35選【人材紹介会社向け】 求職者送客ナビ https://hr.jobseeker-navi.com > ... > 求職者集客・送客」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「【2026年最新】 Indeed 代理店おすすめ 比較ランキング 10選 — 【2026年最新】 Indeed 代理店おすすめ 比較ランキング 10選 dairiten-lab.com https://dairiten-lab.com > ranking」（https://dairiten-lab.com/ranking/）
+  - 「【2026年最新】 求人ボックス と Indeed （ インディード ）の ... — 【2026年最新】 求人ボックス と Indeed （ インディード ）の ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinbox-indeed-231024/）
+  - 「【首都圏】 Indeed 代理店 おすすめ 比較ランキング 10選 — 【首都圏】 Indeed 代理店 おすすめ 比較ランキング 10選 kyujin-dairiten-navi.com https://kyujin-dairiten-navi.com > ranking」（https://kyujin-dairiten-navi.com/ranking/）
+  - 「求人ボックス運用代行 おすすめ12社｜選び方・費用・依頼範囲 ... — 求人ボックス運用代行 おすすめ12社｜選び方・費用・依頼範囲 ... プロベル https://probel.jp > プロベル編集部のブログ一覧」（https://probel.jp/promaga/b/6528/）
+  - 「Indeed運用代行 おすすめの選び方【2026年最新】 求人 広告 ... — Indeed運用代行 おすすめの選び方【2026年最新】 求人 広告 ... 株式会社Buddy Data https://buddy-data.co.jp > ブログ」（https://buddy-data.co.jp/indeed-management-outsourcing/）
+  - 「Indeed ・ 求人ボックス運用代行 比較35選【人材紹介 会社 向け】 — Indeed ・ 求人ボックス運用代行 比較35選【人材紹介 会社 向け】 求職者送客ナビ https://hr.jobseeker-navi.com > ... > 求職者集客・送客」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「【2026年最新】 求人ボックス 代理店おすすめ28社を比較 — 【2026年最新】 求人ボックス 代理店おすすめ28社を比較 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents%E2%80%90kyuzinbox-dairiten-0219/）
+  - 「Indeed の 掲載料 はいくら？ 料金 の仕組みと無料〜月30万円の ... — Indeed の 掲載料 はいくら？ 料金 の仕組みと無料〜月30万円の ... three-count.jp https://www.three-count.jp > コラム・お知らせ > コラム」（https://www.three-count.jp/advice/indeed-publication-fee/）
+  - 「初期費用3万の Indeed PLUS 運用代行 — 初期費用3万の Indeed PLUS 運用代行 株式会社R4 https://service.r-4.co.jp > サービス紹介 > 求人広告」（https://service.r-4.co.jp/service/recruit-media/indeed-plus/）
+  - 「Indeed運用代行 比較15選。費用相場やタイプ別の選び方 — Indeed運用代行 比較15選。費用相場やタイプ別の選び方 boater.jp https://boater.jp > article」（https://boater.jp/article/7238）
+  - 「Indeed ・ 求人ボックス ・スタンバイ併用 運用 ガイド｜3媒体で ... — Indeed ・ 求人ボックス ・スタンバイ併用 運用 ガイド｜3媒体で ... イオレ https://aggregate.eole.co.jp > column > column076」（https://aggregate.eole.co.jp/column/column076/）
+  - 「Indeed ・ 求人ボックス運用代行 比較35選【人材紹介会社向け】 — Indeed ・ 求人ボックス運用代行 比較35選【人材紹介会社向け】 求職者送客ナビ https://hr.jobseeker-navi.com > ... > 求職者集客・送客」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「【2026年最新】 Indeed 代理店おすすめ比較ランキング10選 — 【2026年最新】 Indeed 代理店おすすめ比較ランキング10選 dairiten-lab.com https://dairiten-lab.com > ranking」（https://dairiten-lab.com/ranking/）
+  - 「Indeed運用代行 会社おすすめ15選比較。費用相場とタイプ別 ... — Indeed運用代行 会社おすすめ15選比較。費用相場とタイプ別 ... c-slide https://cone-c-slide.com > ... > ブログ > 採用 / 人事 / 労務」（https://cone-c-slide.com/liblog/indeed-outsourcing/）
 
 ## 製造業の採用ブランディング・採用広報・採用動画（recruitment branding manufacturing Japan）
 - 文脈：採用広報
-- プレイヤー：記載なし（読んだ38頁・検索7回）
-- 料金体系：記載なし（読んだ38頁・検索7回）
-- 規模：記載なし（読んだ38頁・検索7回）
-- 創業年度：記載なし（読んだ38頁・検索7回）
-- 株主構成：記載なし（読んだ38頁・検索7回）
-- 製造業の採用の困りごと：記載なし（読んだ38頁・検索7回）
+- プレイヤー：
+  - 「株式会社GIG」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「製造業におすすめの採用広報施策」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「noteは無料で始められ、SEO効果も期待できるため、中小企業にもおすすめ」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「自社が求職者に対してアピールできる「魅力」や「強み」は何かを徹底的に洗い出す」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「技術力の高さ、製品の独自性、市場シェアはもちろんのこと、「安定した経営基盤」「充実した福利厚生」「風通しの良い社風」「多様なキャリアパス」「地域社会への貢献」なども強力なアピールポイントになり得ます」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「次に、自社が「誰に」情報を届けたいのか、ターゲットとなる人材像（ペルソナ）を具体的に設定します」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「製造業の採用広報の課題を抱える企業様におすすめなのが、コンマルクの採用広報サービス」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「まず自社の強みと採用ターゲットを明確にし、ターゲットが利用するSNSから始めることをおすすめします」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「重要なのは継続性なので、無理のない範囲で小さく始めて、徐々に拡大していくことをおすすめします」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「コンマルクを運営する株式会社GIGでは、Wantedlyや自社ブログを活用し採用単価31.2万円を実現」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「株式会社GIGの運営するLeadGrid Blogにて初代編集長を務める」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「採用広報戦略の全体像｜年間応募数1,000件・Wantedlyフォロワーランキング7位のGIGが解説」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「AIO・LLMO・AI検索時代に自社が選ばれるためのブランド設計【執行役員CMOが解説】」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「大手企業からスタートアップ、官公庁まで、幅広いお客様のニーズに応じたサービスを展開しています」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「【2026年最新版】採用動画・映像制作会社おすすめランキング30選｜新卒採用・中途採用を成功に導こう」（https://okanechips.mei-kyu.com/knowledge/13829/）
+- 料金体系：
+  - 「サービス資料/料金表を見る」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「効果の高いチャネルに予算やリソースを集中させることで、費用対効果を高められます」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「私たちコンマルクは、自社の採用広報に力を入れ続けた結果、一人あたりの採用コストを31.2万円まで削減（業界平均103.3万円）」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「製造業の採用広報にかかる費用はどれくらいですか？」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「SNSやnoteを活用すれば初期費用は無料で始められます」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「外部委託する場合は、SNS運用代行が月額10万〜30万円、動画制作が1本5万〜30万円、採用サイト制作は50万〜300万円程度が相場です」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「コンマルクを運営する株式会社GIGでは、Wantedlyや自社ブログを活用し採用単価31.2万円を実現」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「Wantedlyで成果を出す運用方法｜フォロワー数7位・採用単価5万円のGIGが解説」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「採用動画制作会社を選ぶ際、多くの企業は「費用が安いかどうか」に注目しがちです」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「採用動画制作の費用相場」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「採用動画制作の費用は、動画の内容や撮影規模によって大きく変動します」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「一般的な社員インタビュー動画であれば数十万円程度で制作できますが、採用ブランドムービーや複数日撮影を伴う大規模案件になると100万円を超えるケースも珍しくありません」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「安価な見積もりでも追加料金が発生し、最終的には高額になるケースもあります」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「採用動画の費用相場」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「20万円～50万円」（https://okanechips.mei-kyu.com/knowledge/13829/）
+- 規模：
+  - 「従業員エンゲージメント調査レポート｜55業界のインナーブランディング実態データ」（https://www.asakonet.co.jp/column/detail-7475/recruitment-branding-vs-recruitment-pr-difference/）
+  - 「（従業員数〜100名規模）」（https://mizusaki-inc.com/knowledge/article98）
+  - 「（従業員数100名〜）」（https://mizusaki-inc.com/knowledge/article98）
+  - 「製造業(メーカー)の広報・IRの転職 求人数は160件です」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「高い収益性を実現するコンシューマーIT向けを中心とする事業領域に加え、成長ポテンシャルのあるフォトニクス領域の推進により、時価総額も約5,000億円の水準となってきました」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【業務の魅力・やりがい】■時価総額が約5,000億円の水準となり、アプローチする投資家層が変化してきているなか、多様な投資家層とのコミュニケーションを経験することができます」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「※同社の営業利益率は安定的に30％以上を実現（製造業平均5％程度）※シングルソース製品 ＝ 特定の部品や原料を1社（デクセリアルズ）だけで調達して製造している製品のこと」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「・直近2025年度決算で受注高7兆0,712億円 売上収益5.0271兆円、当期利益2,454億円等いずれも過去最高値であり、NO1重工業メーカーでありながらさらに成長をしております」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「※業務状況による・フレックス制度：積極的に活用いただける環境です【入社後のキャリア】■入社直後・ESG推進業務の一領域（開示、評価対応、施策推進等）を担当し、実務を通じて当社のサステナビリティ戦略・業務の理解を深める・既存プロジェクトに参画しながら、改善提案・高度化を推進■中期（5～10年後）・ESG戦略全体をリードする中核人材として、複数テーマの統括や全社プロジェクトを主導・社内外ステークホルダーとの関係構築・対外発信の中心的役割を担う■将来的なキャリアの方向性・ESG・サステナビリティ責任者・経営企画・IR・事業部門への展開（経営人材へのキャリア拡張）・海外拠点を含めたグローバルサステナビリティ推進【募集背景】同社は、サステナビリティを中長期的な企業価値向上の中核と位置付け、全社戦略に基づくESG施策の高度化を推進しています」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「※同社の営業利益率は安定的に30％以上を実現（製造業平均5％程度）※シングルソース製品 ＝ 特定の部品や原料を1社（デクセリアルズ）だけで調達して製造している製品」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「組織ミッション：■資本市場との対話の架け橋として、適時・適切な情報開示を行いながら、中長期的な企業価値向上に向けた建設的な議論を促進すること■投資家からの期待や懸念を経営に届け、経営の意思決定や成長戦略に活かしていくこと【働き方】在宅頻度：週2-3回（決算時期は出社頻度が高く、決算後は在宅勤務の頻度が高くなります）出張頻度：年数回（アナリスト・投資家向け拠点見学の同伴など）残業：平均20h/月 ※繁忙期は残業が多くなることがございます」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「同年5月には、2035年度までに売上高1.3兆円（2025年度比約2倍）を目指す長期経営計画を発表」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【携わる事業・ビジネス・サービス・製品など】・日立製作所の経営戦略に関するメディアコミュニケーション活動(具体的なビジネスや製品をPRするマーケティング広報を直接行うわけではありません)・事業を担っている各ビジネスユニットや研究開発部門のメディアコミュニケーション活動のコーポレート視点でのサポート・各海外l拠点のメディアコミュニケーション活動のサポート【募集背景】日立は、経営計画「Inspire 2027」のもと、フィジカルAIを中核とする「Lumada 3.0」による成長加速と、グループ約29万人のワン・カンパニー経営を推進しています」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【2026年最新 企業向け】マイナビとリクナビ 登録者数比較！地域別にも徹底解説」（https://www.kakehashi-skysol.co.jp/newgrad-chiebukuro/saiyou_branding/）
+  - 「6. 退職者・従業員の声を把握する」（https://ats.jobcan.ne.jp/knowledge/31038/）
+- 創業年度：
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「創業100年を超える化学メーカーの採用動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/maker_saiyoumovie/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/maker_saiyoumovie/）
+  - 「「経営陣が伝えたい『創業の想い』ばかりを熱く語ってしまい、求職者が知りたい『残業時間』や『実際の働き方』が書かれていない」」（https://mizusaki-inc.com/knowledge/article98）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/seizou_saiyoukouhou/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/seizou_saiyoukouhou/）
+  - 「【同社について】・三菱グループの創業者岩崎彌太郎は政府より工部省長崎造船局を借り受け、長崎造船所と命名して造船事業を開始したことを契機に1884年に創業した同社は発電プラントなどの社会インフラ、船舶、航空機などの輸送機器、大型ロケットなどの宇宙機器に至るまでエンジニアリングとものづくりのグローバルリーダーとして社会を牽引しております」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「2026年4月には、日野自動車と統合し、新たに設立される持株会社 「ARCHION（アーチオン）」 の一員として事業を開始します」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【募集背景】トプコンは創業以来、「医・食・住」の社会基盤を支える製品・サービスを世界へ展開し、近年はIoT・AI を活用したソリューションビジネスへシフトを加速させています」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「■出張：横浜の開発拠点（月1回程度）【当社について】22年8月にブリヂストン社より独立し、ウレタン専業の新会社として設立」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【業務内容】・社内報（冊子・Web）、創立80周年記念誌の企画・編集・制作進行・社内取材、情報収集、原稿作成・編集・校正・制作会社・社内関係部門との調整、進行・品質管理・ブランド管理、展示スペース、会社案内冊子等の企画・制作※その他に、プレスリリースやデジタル広報等にも携わっていただきます」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「創業以来58社（2024年8月末現在）との経営統合を経て、ボールベアリングからモーター、センサー、アクセス製品、 半導体に至るまで、コア事業の8本槍製品を中心に、シナジーある会社の統合を続け、世界でも類をみないユニークな事業ポートフォリオを持つ「相合」精密部品メーカーへと成長しました」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「IR担当スタッフ / 創業100年老舗塗料メーカー」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+- 株主構成：
+  - 「・上場企業採用動画」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「特に大企業や上場企業の採用動画制作実績が豊富であり、安定した品質を求める企業におすすめです」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「・上場企業社員インタビュー動画」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「人事グループ 石井様」（https://www.funnypro.net/）
+  - 「従業員や顧客、株主、メディアなど多様な立場からの評価を客観的に数値化できます」（https://boxil.jp/mag/a10096/）
+  - 「総会・株主対応関連実務」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【大津】環境情報開示・サステナビリティ推進★東証プライム上場」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【業務内容】■CSR的業務・グローバルでのCO2・水・廃棄物等の環境情報収集、Scope1/2/3算定、開示対応等への社内連携・国内外の環境行政、市場動向の把握、環境法規制等の情報収集■その他の環境対応業務・全社の環境方針の立案・国内4事業場（滋賀県）の環境動力部門や海外子会社との連携とまとめ・国への報告内容のまとめ・行政、関連業界、企業との接点補足・データ集計はExcelベースで行い、ピボットテーブル、パワークエリ等を使用します」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「・海外子会社との連携や海外法規制の動向調査等で英語を使用することがあります」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【期待する役割・募集背景】ソニーグループにルーツを持ち、今やグローバルトップシェア製品を複数保有し、近年は光半導体・フォトニクス領域の成長事業も抱えるトップメーカーとなった同社にて、経営戦略本部：広報・IR部のIR課長候補として下記業務をお任せ致します」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【期待する役割】当社原子力事業部門(グループ会社含め7000人程)の企画管理部において、広報および社員教育を中心に幅広い管理業務に従事頂きます」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「【業務内容】■広報活動全般・ 原子力事業の魅力や取り組みを社内外に発信するための戦略立案と実行・ プレスリリース、社内報、ウェブサイトなど多様なチャネルを活用した情報発信・ メディア対応や取材対応、展示会出展のサポート■社員教育・人材育成・ 新入社員研修や階層別研修、スキルアップ研修の企画・運営・ 社員のキャリア開発支援や研修効果の評価・改善・ 組織風土の醸成や働きがい向上を目指した各種施策の企画推進 【配属組織】原子力セグメント 企画管理部 企画・HRグループ(10名程)セグメントの事業計画の立案や財務戦略、内部基盤強化に係るアクションプランなどを推進する部門です」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「企画管理部の中でも、事業母体である神戸造船所内に配置されており、事業部門内の各部門と深く連携して各種業務を推進しているグループです」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「グループ内には事業計画の立案や、財務・人員計画の策定等を担う機能もあり、自身の専門分野を持ちながら幅広くさまざまな業務に携わっているメンバーがほとんどです」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+  - 「・グループ内に2名のキャリア採用者がすでに在席、活躍しています」（https://www.pasonacareer.jp/jb200/jm250/ib10/）
+- 製造業の採用の困りごと：
+  - 「特に若手人材の確保が難しい製造業では、自社の魅力を効果的に伝える採用広報が欠かせません」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「若手人材に自社の魅力を伝えられる」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「製造業、特にBtoB企業は一般消費者との接点が少ないため、若手求職者にとって「何をしている会社なのか」がわかりにくい傾向があります」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「人手不足の中、応募数を増やすだけでなく「自社にマッチした人材」を集めることの重要性が高まっています」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「ミスマッチによる早期離職は、企業にとって大きなコストとなるためです」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「入社後のギャップを減らし、定着率の向上にもつながるでしょう」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「Instagramは写真や動画を中心に視覚的な訴求が可能で、若手層へのリーチに適しています」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「特に学生や若手層は、実際の雰囲気を体験してから応募を決めたいと考える傾向があります」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「例えば、「最先端の技術開発に携わりたい理系学生」「安定した環境で長く働きたい中途の技術者」「未経験からでも手に職をつけたい若手層」など、ペルソナを明確にすることで、発信するべき情報の内容や、使用すべき言葉遣いが変わってきます」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「例えば、若手層へ広くアピールしたい場合は、X（旧Twitter）やInstagram、TikTokなどのSNSが有効でしょう」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「しかし、技術的な内容を分かりやすく伝えるコンテンツ制作や、BtoB企業の魅力を若手層に訴求する戦略立案など、製造業の採用広報には特有のノウハウが必要です」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「若手層ならInstagramやX、製造現場の様子を伝えるなら動画（YouTube）が効果的です」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「若手人材採用や新卒採用領域で豊富な実績を持っています」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「製造業界では慢性的な人手不足が続く一方で、仕事内容や職場環境が外部から見えにくく、求職者に魅力が正しく伝わっていないケースが多く見られます」（https://company.moovy.jp/column/2249/）
+  - 「製造業界では、就業者数の減少と高齢化が進み、若年層の採用が年々難しくなっています」（https://company.moovy.jp/column/2249/）
+- 検索結果の抜粋：
+  - 「【2026年最新版】 採用動画 ・映像制作会社おすすめ ... — 【2026年最新版】 採用動画 ・映像制作会社おすすめ ... おかねチップス https://okanechips.mei-kyu.com > お仕事ナレッジ」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「製造業の採用動画 事例5選！応募数を伸ばした成功事例と制作 ... — 製造業の採用動画 事例5選！応募数を伸ばした成功事例と制作 ... 株式会社moovy https://company.moovy.jp > ホーム > 採用動画」（https://company.moovy.jp/column/2249/）
+  - 「【事例11選】 製造業 に最適な 採用動画 とは？成功事例11選と ... — 【事例11選】 製造業 に最適な 採用動画 とは？成功事例11選と ... 株式会社エルモ https://www.elmo-c.jp > ホーム > ブログ > お役立ち情報」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「採用ブランディング なら 採用広報 YouTubeチャンネル50選 — 採用ブランディング なら 採用広報 YouTubeチャンネル50選 株式会社ストル https://stll.me > 企業理解・仕事理解」（https://stll.me/5656）
+  - 「採用ブランディング の費用相場は？項目別 料金 表と「100万円 ... — 採用ブランディング の費用相場は？項目別 料金 表と「100万円 ... ミズサキ https://mizusaki-inc.com > knowledge > article98」（https://mizusaki-inc.com/knowledge/article98）
+  - 「採用広報 ・ ブランディング 支援サービスおすすめ比較18選 ... — 採用広報 ・ ブランディング 支援サービスおすすめ比較18選 ... BOXIL https://boxil.jp > mag」（https://boxil.jp/mag/a10096/）
 
 ## 高卒採用支援（high school graduate recruitment support Japan）
 - 文脈：高卒
@@ -581,27 +890,327 @@
 
 ## 製造業のダイレクトリクルーティング・スカウト（direct recruiting engineers Japan）
 - 文脈：スカウト
-- プレイヤー：記載なし（読んだ41頁・検索7回）
-- 料金体系：記載なし（読んだ41頁・検索7回）
-- 規模：記載なし（読んだ41頁・検索7回）
-- 創業年度：記載なし（読んだ41頁・検索7回）
-- 株主構成：記載なし（読んだ41頁・検索7回）
-- 製造業の採用の困りごと：記載なし（読んだ41頁・検索7回）
+- プレイヤー：
+  - 「ダイレクトリクルーティング26選サービス一覧と比較表【中途・新卒のおすすめポイント】」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ダイレクトリクルーティングサービス比較と選び方、運用方法」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「4．目的別おすすめダイレクトリクルーティングサービス比較26選」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「まずは、ダイレクトリクルーティングとはどのような採用手法なのか、既存の採用手法と比較してどのように違うのかを解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「【比較】求人媒体（サイト）との違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「自社が求めるターゲット人材のみを母集団形成したい場合はダイレクトリクルーティングが向いています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「【比較】人材紹介サービスとの違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「人材紹介会社が事前に自社にあう人材を見つけてくれるので、ダイレクトリクルーティングと同じく母集団の質は高いです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「一方で、ダイレクトリクルーティングサービスでは、「いい会社があれば転職を考えたい」「今は転職活動を考えていないが、今後のために情報収集をしておきたい」という層も一定数登録をしています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「他の採用手法と比較して」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「このような企業におすすめ！」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「応募があった際や、採用が成功し、内定や入社が決定した際に費用が発生します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ダイレクトリクルーティングの料金形態と費用相場・10社比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「このような企業におすすめ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「・各サービスを比較したい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+- 料金体系：
+  - 「また、ダイレクトリクルーティングはサービスにより会員層や料金形態が異なるため、採用計画にあうサービスを導入することで、採用コストの削減とターゲット採用の成功につながりやすくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ダイレクトリクルーティングの費用形態や採用単価」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「3．費用相場と料金体系（成功報酬型・DB利用料型）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「採用単価と費用（料金）形態」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「②【中途：ハイクラス/専門職】年収750万円以上の優秀層を狙いたい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「・自社にあったプランと費用が知りたい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「「攻め」の採用をするために、各社あらゆる採用手法を試行錯誤していますが、求人媒体では採用ができなくても掲載するだけで費用がかかり、人材紹介では採用成功したとしても費用が割高になる可能性があります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「しかし、人材紹介は成功報酬型であり、採用した人材の年収から費用が決まります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「現在の成功報酬費の相場は年収の35～40％です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「そのため、複数人採用すると費用が割高になる可能性があります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「対して、ダイレクトリクルーティングは人材紹介よりも費用を抑えることが可能です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「そのため継続して利用し安定的に採用ができるようになれば、ほとんどのサービスが人材紹介費用よりも安価に設定されているため」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「人材紹介では、費用が採用した人材の年収から算定されるため、年収が高ければ費用も高くなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「そのため、企業と求職者のマッチ度以外にも、紹介会社は求職者の年収の高さを重視して紹介することが多くなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ダイレクトリクルーティングの概要とメリット・デメリットについてお伝えしましたが、実際の費用について気になる採用担当者様も多いでしょう」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+- 規模：
+  - 「登録者の属性：35歳」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「以下約45%、同じ職種で5年以上経験している会員数が約53%」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「会員数：業界最大級の482万人の会員データベースを活用し、経験者層からベテラン層まで幅広い属性の検索やターゲット設定が可能」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：35歳以下約69.2%、営業・事務・技術職など幅広い職種の経験者が登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「定額制：採用人数や掲載求人数に制限がなく、追加費用が発生しないため、1名あたりの採用コストを大幅に抑えられる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：会員の58%が管理職人材」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「スキル層の特徴：登録者の約58％が管理職層で、即戦力や幹部候補となる高スキル人材が多数登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：20代と30代が最も多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「会員属性：登録者の約60％が20～30代で、幅広い業界・職種経験者が集まるバランス型データベース」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：24～34歳が最も多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：約13％がビジネス会話レベル以上の英語力、「ハイクラス」（年収750万円以上）と「タレントクラス」（年収750万円未満）の2つに分類」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：年収400万円以上、20代～30代前半の若手ハイキャリア層が中心」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の75％以上がMARCH、関関同立以上の高学歴者」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：「経験3年以上」のエンジニアが約50%、CTO/VPoE/フルスタック/テックリードといった希少なハイクラス層が約半数」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「会員数：約3.5万人以上が登録しており、多様な人材が集まっている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+- 創業年度：
+  - 「2023年に株式会社フォワードを創業し、生成AIを活用した採用支援サービス「エースジョブ」を展開」（https://lp.acejob.jp/article/direct-recruiting-tips）
+  - 「2023年に株式会社フォワードを創業し、」（https://lp.acejob.jp/article/direct-recruiting-tips）
+  - 「2010年創業のベンチャー企業が運営するWantedly」（https://vollect.net/hrpedia/tool-15-2/）
+  - 「創業60年の老舗が挑む、次世代の若手と創る心温まるサービスへの挑戦」（https://vollect.net/hrpedia/tool-15-2/）
+  - 「2009年の創業から、日本の転職市場に新たな選択肢と可能性を創り出してきたビズリーチ」（https://bizreach.biz/direct-recruiting/）
+  - 「1998年設立の日本初バイリンガル専門転職サイト」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「1991年に創業したシステム開発会社、エーアイネット・テクノロジ様」（https://vollect.net/hrpedia/example-18/）
+  - 「創業60年の老舗が挑む、次世代の若手と創る心温まるサービスへの挑戦」（https://vollect.net/hrpedia/example-18/）
+  - 「登録者は20,000人で、長期インターンや留学、学生団体の設立などに取り組んできた学生が中心です」（https://rpm.zeku.co.jp/column/newgrad-direct-recruiting-service-comparison）
+  - 「創業60年の老舗が挑む、次世代の若手と創る心温まるサービスへの挑戦」（https://vollect.net/hrpedia/knowledge-24/）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/directrecruiting-cost/）
+  - 「また経営陣から経営課題やビジョン、創業時の想い、事業の展望をヒアリングすることで、他社とは違う自社の魅力を見つけることができます」（https://marugotoinc.jp/blog/directrecruiting-cost/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/directrecruiting-cost/）
+  - 「1917年創業の老舗企業で、26ヵ国でグローバルに事業を展開していますが、」（https://biz.techoffer.jp/column/article/no-06505447/）
+  - 「採用がうまくいかない優良企業向けに、戦略・運用に特化した採用コンサルティングファーム「株式会社アズライト」を創業」（https://azu-rite.co.jp/clumn/direct-recruiting-cases）
+- 株主構成：
+  - 「権限設定：アカウントの発行・管理だけでなく、権限設定によりグループ管理者の指定やメンバー操作権限の細かなコントロールが可能」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「株式会社クリーマでは執行役員としてプロダクト領域を管掌し、事業成長と2020年の上場に貢献」（https://lp.acejob.jp/article/direct-recruiting-tips）
+  - 「ITスタートアップから上場企業まで約200社の採用支援実績を持つ」（https://lp.acejob.jp/article/direct-recruiting-tips）
+  - 「上場企業や大手企業などが多く登録しているサービスは、優秀な人材が多い傾向にあります」（https://vollect.net/hrpedia/tool-15-2/）
+  - 「PwCコンサルティング合同会社、コニカミノルタ株式会社、UTグループ株式会社、ダイドードリンコ株式会社、株式会社東急エージェンシー、auコマース&ライフ株式会社など累計24,800社以上です」（https://vollect.net/hrpedia/tool-15-2/）
+  - 「大企業（上場企業）」（https://vollect.net/hrpedia/tool-15-2/）
+  - 「グループ会社代表を5年続け40歳で退任」（https://kai-ketsu.net/kaiketsu/column/comparison-table-direct-recruiting-vs-scouting/）
+  - 「ダイレクトリクルーティングの導入には、シロキコーポレーションの成長戦略の一環として、規模の拡大や、より専門性の高い即戦力となる人材の採用がグループ全体で必要となった背景がありました」（https://bizreach.biz/direct-recruiting/）
+  - 「のグループ会社です」（https://bizreach.biz/direct-recruiting/）
+  - 「リクルートグループが運営するハイクラス専門のスカウトサービスです」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「同グループの豊富なデータベースと実績を活用し、質の高いハイクラス人材にアプローチできます」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「リクルートグループの求職活動支援サービス共通の職務経歴書機能である「レジュメ」と連携」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「グループ会社」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「グループ会社一覧」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「: NTTデータグループのSAP専門企業」（https://tasonal.com/posts/success-direct-recruiting/）
+- 製造業の採用の困りごと：
+  - 「少子高齢化に伴って労働人口が減少しつつある現在、有効求人倍率は1倍を超える水準が続いており（2025年度平均1.20倍、2026年8月は1.18倍）、採用が難しい状況が続いています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「若手層のIT/Web系職種の採用に強い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「若手層のエンジニア系職種の採用に強い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「20代から 30代の若手層の採用に強い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「若手のハイクラス層の採用に強い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「若手のハイクラス層の採用に強み」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：年収400万円以上、20代～30代前半の若手ハイキャリア層が中心」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「会員属性：20～30代前半の若手ハイキャリア層に特化した転職スカウトサービスで、ポテンシャルと実績を兼ね備えた人材が多数登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「会員属性：20代～30代前半の若手ハイクラス層に特化したキャリアプラットフォームで、高学歴・ハイキャリア人材が中心」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ターゲティング：登録会員の約75％がMARCH・関関同立などの高学歴層で、若手エリート層に的を絞ったスカウトが可能」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：20～39歳の若手層が82%、登録者の約半数がエンジニアやクリエイティブ人材」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「若手層：20〜39歳の割合が高く登録会員の約80%が若手層」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「登録者の属性：会員の20代が40%、30代が33%と若手層が全体の73%を占めている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「会員属性：20〜30代の若手〜中堅層が中心で、IT／Web業界・スタートアップ志向の人材が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ファッション業界に就業意欲のある、20代/30代の若手ユーザー」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+- 検索結果の抜粋：
+  - 「ダイレクトリクルーティング 26選サービス一覧と 比較 表【中途 ... — ダイレクトリクルーティング 26選サービス一覧と 比較 表【中途 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ダイレクトリクルーティング サービス 比較 ｜おすすめ媒体18選 ... — ダイレクトリクルーティング サービス 比較 ｜おすすめ媒体18選 ... エースジョブ https://lp.acejob.jp > article > direct-recruiting-tips」（https://lp.acejob.jp/article/direct-recruiting-tips）
+  - 「【2026年最新】 ダイレクトリクルーティング サービス26選を ... — 【2026年最新】 ダイレクトリクルーティング サービス26選を ... 株式会社VOLLECT https://vollect.net > hrpedia > tool-15-2」（https://vollect.net/hrpedia/tool-15-2/）
+  - 「【全22サービス】 ダイレクトリクルーティング サービス徹底 ... — 【全22サービス】 ダイレクトリクルーティング サービス徹底 ... パーソルビジネスプロセスデザイン株式会社 https://www.persol-bd.co.jp > ... > HRソリューション」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/comparison-direct-recruiting/）
+  - 「ダイレクトリクルーティング 成功事例8選｜ラクスル・電通総研 — ダイレクトリクルーティング 成功事例8選｜ラクスル・電通総研 Tasonal https://tasonal.com > posts > success-direct-recruiting」（https://tasonal.com/posts/success-direct-recruiting/）
+  - 「ダイレクトリクルーティング 26選サービス 一覧 と比較表【中途 ... — ダイレクトリクルーティング 26選サービス 一覧 と比較表【中途 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
+  - 「ダイレクトリクルーティング サービスおすすめ20社を比較 ... — ダイレクトリクルーティング サービスおすすめ20社を比較 ... tracom.co.jp https://www.tracom.co.jp > トラログ」（https://www.tracom.co.jp/tralog/direct-recruiting-2/）
+  - 「ダイレクトリクルーティング の 料金 形態と費用相場・10社比較 — ダイレクトリクルーティング の 料金 形態と費用相場・10社比較 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/）
+  - 「事例から見る ダイレクトリクルーティング 成功の鍵！5つの ... — 事例から見る ダイレクトリクルーティング 成功の鍵！5つの ... 株式会社アズライト https://azu-rite.co.jp > 採用ノウハウ > スカウト代行」（https://azu-rite.co.jp/clumn/direct-recruiting-cases）
+  - 「ダイレクトリクルーティング 26選サービス一覧と比較表【中途 ... — ダイレクトリクルーティング 26選サービス一覧と比較表【中途 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-about_directrecruiting-200228/）
 
 ## 地方の製造業向けUIJターン・移住採用支援（UIJ turn recruitment regional manufacturers）
 - 文脈：地方
-- プレイヤー：記載なし（読んだ35頁・検索7回）
-- 料金体系：記載なし（読んだ35頁・検索7回）
-- 規模：記載なし（読んだ35頁・検索7回）
-- 創業年度：記載なし（読んだ35頁・検索7回）
-- 株主構成：記載なし（読んだ35頁・検索7回）
-- 製造業の採用の困りごと：記載なし（読んだ35頁・検索7回）
+- プレイヤー：
+  - 「おすすめ移住先」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「がおすすめ！」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「この記事をシェアする」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】沖縄県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】鹿児島県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】宮崎県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】大分県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】熊本県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】佐賀県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【地方移住をして良かったこと＆後悔したことランキング】経験者257人アンケート調査」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【2026年度 最新版】奈良県へ移住・転職したい！おすすめの優良企業10選と働き方を解説」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「人気コンテンツランキング」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【全国版】移住先におすすめ！住みたいまちランキング21選！（2024年最新）」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「ママ必見！子育て支援(補助金)が手厚いおすすめ移住先ランキングTOP10！」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「関東エリアのおすすめ移住先ランキングベスト10｜東京でも田舎暮らしできる？」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+- 料金体系：
+  - 「平均年収は460万円（2023年）」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「単身60万円／世帯100万円が上限」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「移住支援金（最大100万円／単身60万円）や、」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「：館林市のUIターン10万円、益子町の雇用支援など―自治体の制度は“探せば見つかる”」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【家賃0円】移住すると家がもらえる!?家(無料)＋補助金のある移住先を大公開！」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「都会ではワンルームマンションでも月額7〜8万円ほどと言われています」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「さらに駐車場を借りるとなれば、もう数万円必要でしょう」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「仕事や子育て、住居の購入・リフォームにかかる費用の補助など、移住者への支援制度も豊富です」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「対象地域に移住すると、単身の場合は1人60万円以内、夫婦の場合は100万円以内が交付されます」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「こちらも自治体によって制度名や実施内容は異なりますが、活用できれば、移住の初期費用を抑えることができ移住後の暮らしはより充実したものになるでしょう」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「東京圏から移住すると、39歳以下の場合最大25万円がもらえる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「就業目的で市貝町内へUターンした18歳以上30歳以下の人が、正職で就業した場合は1人あたり10万円が交付される」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「県外から移住して県内で林業に就業すると、最大100万円の支援金が受け取れる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「東京圏、中京圏（愛知）、近畿圏（京都・大阪・兵庫）、広島県、福岡県から移住し、移住等に関する要件を満たしたうえで山口県内でテレワーク勤務を週20時間以上すると、30〜50万円の補助金が受け取れる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「18歳未満の家族も帯同する場合は、18歳未満の方1人あたり50万円を加算」（https://tenshoku.mynavi.jp/ui_turn/）
+- 規模：
+  - 「©2023 二拠点・移住ライフ大学ALL Right Reserved.」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「２拠点・移住ライフ大学の無料キャリア診断なら、いくつかの質問に答えるだけで、」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【12/20（日）無料オンラインセミナー開催】「2拠点生活、お金は大丈夫？」理想とリアルを一緒に考える」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「見つけた仕事は、社員数25名ほどの小さな会社」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「生活や仕事の拠点を2カ所以上に持つ移住スタイルです」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「そして、企業が従業員の奨学金を肩代わりする「代理返還」が、2年で約2.7倍に急増したことです」（https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/）
+  - 「【就活体験談】個人目標1億円の販売員がなぜIT営業へ？28歳・未経験から挑んだ新たなキャリア」（https://uzuz.jp/service/career-support/column/article-2578-author-60/）
+  - 「従業員300名以下で都内に事業所を有する企業と、就業体験への参加を希望する大学生等で1日1社3時間、3日で3社の異なる企業の就業体験にツアー形式で参加できる就業体験のマッチング支援を実施した」（https://company.gakujo.ne.jp/sustainability/action/）
+  - 「従業員300名以下で都内に事業所を有する企業と、就業体験を参加を希望する大学生等で1日1社3時間、3日で3社の異なる企業の就業体験にツアー形式で参加できる就業体験のマッチング支援を実施した」（https://company.gakujo.ne.jp/sustainability/action/）
+  - 「平成27年度予算UIJターン人材拠点事業（大阪拠点）」（https://company.gakujo.ne.jp/sustainability/action/）
+  - 「（1）官公庁など（第三セクターのうち、出資金が10億円未満の法人または地方公共団体から補助を受けている法人を除く）ではないこと」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「（2）資本金10億円以上の営利を目的とする私企業（資本金概ね50億円未満の法人であって、地域経済構造の特殊性から資本金要件のみでは合理性を欠くなど、当該企業の所在する市町村の推薦に基づき北海道が必要と認める法人を除く）ではないこと」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「1.発行済み株式の総数または出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「2.発行株式の総数または出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「3.資本金10億円以上の法人の役員または職員を兼ねている者が、役員総数の2分の1以上を占めている資本金10億円未満の法人」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+- 創業年度：
+  - 「では、製造業や情報通信業など、ものづくりにおける創業に必要な経費を一部補助する制度を設けています」（https://uzuz.jp/service/career-support/column/article-2578-author-60/）
+  - 「「平戸市ものづくり創業支援事業補助金のご案内」」（https://uzuz.jp/service/career-support/column/article-2578-author-60/）
+  - 「2023年にSei San Seiを設立し、大手製造メーカーをはじめ累計30社以上の採用・業務改善支援を手掛ける」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「UIJターン就業・創業移住支援事業支給要件等のご案内（令和7年3月31日までに移住した方）／長野県」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「UIJターン就業・創業移住支援事業のご案内」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「> UIJターン就業・創業移住支援事業支給要件等のご案内（令和7年3月31日までに移住した方）」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「UIJターン就業・創業移住支援事業支給要件等のご案内（令和7年3月31日までに移住した方）」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「移住支援金の対象となる方は、＜1移住等に関する要件＞を満たす方のうち、＜2就業に関する要件＞又は＜3創業に関する要件＞を満たす方となります」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「（起業、創業をご検討中の方は、」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「下記「3 創業に関する要件」」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「3 創業に関する要件」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「創業・事業承継・第二創業をする場合で」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「ア.ソーシャル・ビジネス創業支援金※（地域課題解決型創業支援事業にかかる創業支援金）の交付決定を受けていること」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「※ソーシャル・ビジネス創業支援金については、」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+  - 「ソーシャル・ビジネス創業支援金について（長野県地域課題解決型創業支援事業創業支援金）」（https://www.pref.nagano.lg.jp/rodokoyo/sangyo/rodo/koyo/kyufukin/r4.html）
+- 株主構成：
+  - 「🎥西部ガスグループ×北九州市の共同制作動画のお知らせ✨」（https://www.shigotomarugoto.info/ui-turn/）
+  - 「（1）官公庁など（第三セクターのうち、出資金が10億円未満の法人または地方公共団体から補助を受けている法人を除く）ではないこと」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「1.発行済み株式の総数または出資価格の総額の2分の1以上を同一の資本金10億円以上の法人が所有している資本金10億円未満の法人」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「2.発行株式の総数または出資価格の総額の3分の2以上を資本金10億円以上の法人が所有している資本金10億円未満の法人」（https://www.town.kunneppu.hokkaido.jp/life/genkinamatidukuri/uijtarn.html）
+  - 「上場証券取引所：東京証券取引所（市場第一部）」（https://www.dip-net.co.jp/news/1507）
+  - 「グループ企業」（https://www.dip-net.co.jp/news/1507）
+  - 「辞退理由や希望職種、キャリア志向に基づいて候補者をグループ分けし、ターゲットごとに最適なアプローチを設計します」（https://www.musepass.jp/info/research_8）
+  - 「Uターン・Iターン転職する際に知っておきたい新潟県の非上場の注目企業【建設・製造業編】｜リージョナルキャリア新潟」（https://rs-niigata.net/staffblog/niigata_ui_3.html）
+  - 「Uターン・Iターン転職する際に知っておきたい新潟県の非上場の注目企業【建設・製造業編】」（https://rs-niigata.net/staffblog/niigata_ui_3.html）
+  - 「そこで今回は、新潟県内の有力企業（非上場）や大規模事業所を、3回に分けて紹介します」（https://rs-niigata.net/staffblog/niigata_ui_3.html）
+  - 「（グループ合計）」（https://rs-niigata.net/staffblog/niigata_ui_3.html）
+  - 「日東電機グループ」（https://www.nittosys.co.jp/p0303turn.php）
+  - 「八十二グループの人材ソリューションカンパニーとして、ハイクラスを中心とした多様なキャリア形成を目指す方の転職をサポートしています」（https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html）
+  - 「（受託者：マンパワーグループ株式会社）」（https://www.rakuen-shinsyu.jp/modules/contents/know/biz.html）
+  - 「※ただし、第三セクターのうち、出資金が10億円未満の法人又は地方公共団体から補助を受けている法人を除く」（https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/R8_ijushienkintaishohojin.html）
+- 製造業の採用の困りごと：
+  - 「有効求人倍率（季節調整値）は全国1.22倍」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「宮崎県の2025年7月の有効求人倍率は1.22倍」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「例：香川県の職業別常用有効求人倍率（2025年7月）で「建設躯体工事の職業」」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「構造的な人手不足が続き、地方ほど採用確度が高い分野です」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「一方、注意すべきは、支援は在職中に限られる場合がほとんどで、支援期間の途中で離職すると打ち切られてしまう点です」（https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/）
+  - 「企業によっては、一定期間内に退職した場合、それまで肩代わりした分の返還を求める規定を設けていることもありますので、支援条件（上限額や支援期間、離職時の扱い等）は入社前に確認しておきましょう」（https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/）
+  - 「厚生労働省が2026年8月28日に公表した「一般職業紹介状況」によると、2026年7月の全国の有効求人倍率（季節調整値）は」（https://biz.jvisa.jp/top10-rankings-local-employment/）
+  - 「、正社員有効求人倍率は」（https://biz.jvisa.jp/top10-rankings-local-employment/）
+  - 「有効求人倍率はハローワークにおける求人・求職の状況を示す指標であり、転職サイトや企業の直接採用などすべての求人を含むものでもありません」（https://biz.jvisa.jp/top10-rankings-local-employment/）
+  - 「少子高齢化が進む地方では、子どもを持つ世帯が移住すれば地域に若年層が増えて活気が溢れます」（https://uzuz.jp/service/career-support/column/article-2578-author-60/）
+  - 「入社後の定着」（https://uzuz.jp/service/career-support/column/article-2578-author-60/）
+  - 「【就活体験談】入社8ヶ月で短期離職」（https://uzuz.jp/service/career-support/column/article-2578-author-60/）
+  - 「都市部から地方へ移り住んで働きたい人材は確実に増えており、リモートワークの定着・働き方の多様化・地方の生活コスト優位性が追い風になっています」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「リモートワークの定着」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「コロナ以降、リモートワークが定着し」（https://www.sei-san-sei.com/blog/blog-0302.html）
+- 検索結果の抜粋：
+  - 「地方Uターン 再考  候補者・企業視点から見る可能性と課題 — 地方Uターン 再考  候補者・企業視点から見る可能性と課題 musepass.jp https://www.musepass.jp > info > research_8」（https://www.musepass.jp/info/research_8）
+  - 「Uターン ・ Iターン 転職する際に知っておきたい新潟県の非上場 ... — Uターン ・ Iターン 転職する際に知っておきたい新潟県の非上場 ... リージョナルキャリア新潟 https://rs-niigata.net > staffblog > niigata_ui_3」（https://rs-niigata.net/staffblog/niigata_ui_3.html）
 
 ## 製造業の採用SaaS（応募管理・採用サイト作成）（recruiting SaaS for manufacturers Japan）
 - 文脈：採用SaaS
-- プレイヤー：記載なし（読んだ42頁・検索7回）
-- 料金体系：記載なし（読んだ42頁・検索7回）
-- 規模：記載なし（読んだ42頁・検索7回）
-- 創業年度：記載なし（読んだ42頁・検索7回）
-- 株主構成：記載なし（読んだ42頁・検索7回）
-- 製造業の採用の困りごと：記載なし（読んだ42頁・検索7回）
+- プレイヤー：
+  - 「採用管理システム比較17選！ランキング・図解・タイプ別一覧表付き | アスピック｜SaaS比較サイト」（https://www.aspicjapan.org/asu/article/398）
+  - 「採用管理システム比較17選！ランキング・図解・タイプ別一覧表付き」（https://www.aspicjapan.org/asu/article/398）
+  - 「採用管理システムを利用すると、何がどう変わるのか？導入メリットや機能、料金相場、自社に合ったシステムの選び方などをタイプ別のおすすめツールを交えながらご紹介します」（https://www.aspicjapan.org/asu/article/398）
+  - 「【2026年版】迷ったらこれ！ランキングBEST5発表」（https://www.aspicjapan.org/asu/article/398）
+  - 「採用管理システムの比較表」（https://www.aspicjapan.org/asu/article/398）
+  - 「採用管理システムの主要チェックリスト」（https://www.aspicjapan.org/asu/article/398）
+  - 「おすすめの採用管理システム（中途採用に強み）」（https://www.aspicjapan.org/asu/article/398）
+  - 「おすすめの採用管理システム（新卒・中途両方に強み）」（https://www.aspicjapan.org/asu/article/398）
+  - 「おすすめの採用管理システム（新卒採用に強み）」（https://www.aspicjapan.org/asu/article/398）
+  - 「おすすめの採用管理システム（アルバイト・派遣採用に強み）」（https://www.aspicjapan.org/asu/article/398）
+  - 「資料請求数・サービス閲覧数（PV）・導入社数に基づくランキングBEST5」（https://www.aspicjapan.org/asu/article/398）
+  - 「2026年最新版｜採用管理システム17選の特徴と違い（比較表）」（https://www.aspicjapan.org/asu/article/398）
+  - 「細かい機能要件の前に「人気どころが知りたい」という方向けに、主だった採用管理システムをランキング形式で紹介します」（https://www.aspicjapan.org/asu/article/398）
+  - 「ランキングはアスピック上の資料請求数・サービスページ閲覧数（PV）と、導入社数（公式発表）の3つのカテゴリから、客観的に評価しています」（https://www.aspicjapan.org/asu/article/398）
+  - 「以下、主だった採用管理システムについて機能比較表を作成していますので、サービス選びの参考にしてください」（https://www.aspicjapan.org/asu/article/398）
+- 料金体系：
+  - 「採用管理システムを利用すると、何がどう変わるのか？導入メリットや機能、料金相場、自社に合ったシステムの選び方などをタイプ別のおすすめツールを交えながらご紹介します」（https://www.aspicjapan.org/asu/article/398）
+  - 「同一料金で新卒・中途双方に対応」（https://www.aspicjapan.org/asu/article/398）
+  - 「22,000円」（https://www.aspicjapan.org/asu/article/398）
+  - 「19,000円」（https://www.aspicjapan.org/asu/article/398）
+  - 「LINEでやりとりを円滑化」（https://www.aspicjapan.org/asu/article/398）
+  - 「39,800円～」（https://www.aspicjapan.org/asu/article/398）
+  - 「月額85,000円」（https://www.aspicjapan.org/asu/article/398）
+  - 「月額22,000円～で新卒・中途どちらも対応可能」（https://www.aspicjapan.org/asu/article/398）
+  - 「月額22,000円～」（https://www.aspicjapan.org/asu/article/398）
+  - 「月額19,000円～」（https://www.aspicjapan.org/asu/article/398）
+  - 「月額39,800円〜」（https://www.aspicjapan.org/asu/article/398）
+  - 「月額85,000円〜」（https://www.aspicjapan.org/asu/article/398）
+  - 「応募者や面接官、採用費用などの傾向をデータとして把握することも可能です」（https://www.aspicjapan.org/asu/article/398）
+  - 「料金：要問い合わせ」（https://www.aspicjapan.org/asu/article/398）
+  - 「料金：要問い合わせ（新卒・中途どちらも対応可能）」（https://www.aspicjapan.org/asu/article/398）
+- 規模：
+  - 「資料請求数・サービス閲覧数（PV）・導入社数に基づくランキングBEST5」（https://www.aspicjapan.org/asu/article/398）
+  - 「ランキングはアスピック上の資料請求数・サービスページ閲覧数（PV）と、導入社数（公式発表）の3つのカテゴリから、客観的に評価しています」（https://www.aspicjapan.org/asu/article/398）
+  - 「導入社数2位」（https://www.aspicjapan.org/asu/article/398）
+  - 「導入社数1位」（https://www.aspicjapan.org/asu/article/398）
+  - 「導入社数4位」（https://www.aspicjapan.org/asu/article/398）
+  - 「導入社数5位」（https://www.aspicjapan.org/asu/article/398）
+  - 「1つの契約（新規登録者数の範囲内）で新卒・中途両方に対応」（https://www.aspicjapan.org/asu/article/398）
+  - 「採用のミスマッチ防止に強みがあり、独自開発した適性検査を従業員に受けてもらい、社交性や協調性、革新性などの8つの基準で「活躍する人材の特徴」を可視化」（https://www.aspicjapan.org/asu/article/398）
+  - 「タレントパレットとは、多面評価の実施から集計、フィードバックまでを自動化し、相互称賛と育成を加速させる、大手・中堅企業売上シェアNo.1（※）のタレントマネジメントシステムです」（https://saas.imitsu.jp/cate-ats/serviceList/0347）
+  - 「※「ITR Market View：人材管理市場2026」人材管理市場：ベンダー別売上金額シェア（2024～2025年度予測）」（https://saas.imitsu.jp/cate-ats/serviceList/0347）
+  - 「求人数の多い利用者から見ても、「38媒体からの応募を自動で取り込み、チャットボットで面接まで組む」というワークフローは、採用工数を劇的に下げるソリューションと言えます」（https://roomsofknowledge.com/recruit190809/）
+  - 「「将来的に100件以上の求人を扱う、あるいは多拠点の採用を統括したい」」（https://roomsofknowledge.com/recruit190809/）
+  - 「累計導入社数8,000社以上の実績を持ち、自社サイトをハブとして主要5大求人サイト（Indeed, 求人ボックス, スタンバイ, Google しごと検索, Careerjet）への連携を強化」（https://roomsofknowledge.com/recruit190809/）
+  - 「リクルート、医療人材事業を「10億円」でメドレーに売却——その“早すぎる決断”が医療業界に投げかける深刻な問い」（https://roomsofknowledge.com/recruit190809/）
+  - 「人材紹介会社の求職者集客方法とは？SEO・GEO・AIO時代に登録者を増やす4つの戦略」（https://roomsofknowledge.com/recruit190809/）
+- 創業年度：
+  - 「株式会社カカクコムとエン株式会社（旧エン・ジャパン株式会社）との合弁会社として、2026年1月に設立された会社です」（https://roomsofknowledge.com/recruit190809/）
+  - 「2004年創業」（https://roomsofknowledge.com/recruit190809/）
+  - 「創業以来培ってきた採用ブランディングのノウハウをもとに「求める人物像」の設定や「会社の魅力・強み」の整理など、上流工程から携わり採用ツールに落とし込みます」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「創業9年目の若手のデザインプロダクションでありながら、ホンダ、エーザイ、オムロンなど名だたる大手企業からベンチャー企業まで多数の取引実績」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「2000年の創業以来、累計10,000社以上の採用をサポートしてきた膨大なデータと実績を保有しています」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「2012年の創業以来、一貫して「集客」「採用」「ブランディング」という3つの核心的な目的に特化したサイト制作を提供しており、累計実績は約400社にのぼります」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「2015年にWeb制作会社を設立し、」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「2004年の創業以来、600社以上の採用課題を支援しており、企業理解に基づくコンテンツ制作と、認知から入社までの採用フローを俯瞰した設計を強みとしています」（https://sevendex.com/post/31388/）
+  - 「2007年の創業以来、有名企業の依頼が多く、JTBやANA、サンケイリビング社などと取引実績があります」（https://sevendex.com/post/31388/）
+  - 「2004年の創業以来、名古屋鉄道、Cygames、バイク王&カンパニー、H・I・Sなどの大手企業をはじめ年間200社以上の企業のwebサイトを制作してきた実績を持っています」（https://sevendex.com/post/31388/）
+  - 「2019年の創業と新しい企業ならではの熱量の高さが強みです」（https://sevendex.com/post/31388/）
+  - 「は、東京都渋谷区恵比寿に本社を構える、2018年創業のデザイン＆マーケティングカンパニーです」（https://sevendex.com/post/31388/）
+  - 「企業の基本情報（社名、所在地、設立年、資本金、従業員数など）を記載します」（https://cone-c-slide.com/liblog/recruitsite-production/）
+  - 「ブランディング支援400社以上（2001年設立）」（https://cone-c-slide.com/liblog/recruitsite-production/）
+  - 「社内風景、創業ストーリーなど、投稿した記事をカテゴリ別に整理することができます」（https://ownedmaker.com/）
+- 株主構成：
+  - 「上場企業導入実績あり」（https://saas.imitsu.jp/cate-ats/serviceList/0347）
+  - 「録画面接やグループ面接、説明会など、面接のオンライン化をサポートしてくれます」（https://saas.imitsu.jp/cate-ats/serviceList/0347）
+  - 「株式会社エンゲージ（株式会社カカクコムグループ）が提供する「engage（エンゲージ）」の利用料金について、2026年4月現在の最新情報をお伝えします」（https://roomsofknowledge.com/recruit190809/）
+  - 「求人ボックスと同じグループで、」（https://roomsofknowledge.com/recruit190809/）
+  - 「大量求人の一括管理や高度なカスタマイズ対応、複数支店、グループ企業に対応」（https://roomsofknowledge.com/recruit190809/）
+  - 「株式会社ビズリーチ（Visionalグループ）が提供」（https://roomsofknowledge.com/recruit190809/）
+  - 「：予算に余裕があり、クオリティと信頼性を最優先する大企業・上場企業」（https://roomsofknowledge.com/recruit190809/）
+  - 「・東京都大田区の航空事業「羽田空港サービスグループ」」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「京成タクシー グループ各社 採用サイト、LP、ムービー」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「3年間で上場企業を含む50社以上制作に携わらせていただきました」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「2025年6月からはhands to handsグループの一員として新体制で運営しています」（https://cone-c-slide.com/liblog/recruitsite-production/）
+  - 「採用サイト事例にエアークローゼット・YKI国際特許事務所・サニクリーングループなど」（https://cone-c-slide.com/liblog/recruitsite-production/）
+  - 「グループ面接を」（https://ownedmaker.com/）
+  - 「（２）株式会社インターグループ様」（https://www.kakehashi-skysol.co.jp/career-chiebukuro/recruitsite_chaosmap/）
+  - 「株式会社インターグループ様 新卒採用サイト・中途採用サイト」（https://www.kakehashi-skysol.co.jp/career-chiebukuro/recruitsite_chaosmap/）
+- 製造業の採用の困りごと：
+  - 「顕在的な求職者だけでなく、潜在層を常時フォローすることで、採用難の解消に役立てられる」（https://www.aspicjapan.org/asu/article/398）
+  - 「エッセンシャル領域にも強みを持ち、採用難度の高い現場を支援します」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「売り手市場（日本全体が人手不足）の中、限られたテンプレート表示の中で自社の良いところを伝えていくことが難しく、」（https://roomsofknowledge.com/recruit190809/）
+  - 「【採用一括かんりくん】LINE連携で若手・学生層のレスポンスを改善」（https://roomsofknowledge.com/recruit190809/）
+  - 「「学生や若手層向けに、動画やスマホで見やすいLP形式の採用ページを自社で運用したい」」（https://roomsofknowledge.com/recruit190809/）
+  - 「新卒から第二新卒への伏線・若手の退職理由10選！効果的な離職防止対策とは？」（https://roomsofknowledge.com/recruit190809/）
+  - 「採用難時代は人事の役目が大事！ 人事次第で会社を潰す、求職者が語るダメ人事と…」（https://roomsofknowledge.com/recruit190809/）
+  - 「【2026年最新版】採用難でも人材確保！徹底すべき３つのステップ」（https://roomsofknowledge.com/recruit190809/）
+  - 「ストーリー発信や、プランやオプションによってはスカウト機能があり、若手層に強い」（https://www.wantedly.com/hiringeek/recruit/site_free/）
+  - 「20〜30代の若手を中心に450万人以上が登録しており、成長意欲の高い人材にアプローチしやすい点が大きな強みです」（https://www.wantedly.com/hiringeek/recruit/site_free/）
+  - 「会社選びの軸は「年収」「出世」ではない？ 若手世代の本音を聞いてみた」（https://www.wantedly.com/hiringeek/recruit/site_free/）
+  - 「昨今の労働人口の減少に伴い、多くの企業が採用難に直面しています」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「創業9年目の若手のデザインプロダクションでありながら、ホンダ、エーザイ、オムロンなど名だたる大手企業からベンチャー企業まで多数の取引実績」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「化学、人材、飲食、製造といった多種多様な業界での実績があり、各業界特有の悩みや採用難易度を熟知しています」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「「サイトを作ったけれど応募が来ない」という中小企業が直面しがちな課題を解消するため、多角的なWebマーケティングを組み合わせて提案します」（https://web-kanji.com/posts/objects-recruit-site）
+- 検索結果の抜粋：
+  - 「採用管理 システム 比較 17選！ ランキング ・図解・タイプ別一覧 ... — 採用管理 システム 比較 17選！ ランキング ・図解・タイプ別一覧 ... aspicjapan.org https://www.aspicjapan.org > asu > article」（https://www.aspicjapan.org/asu/article/398）
+  - 「採用管理 システム - メーカー・企業11社の製品一覧と ランキング — 採用管理 システム - メーカー・企業11社の製品一覧と ランキング 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 採用管理システム」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「採用サイト作成 サービスツールおすすめ24選！特徴タイプ ... — 採用サイト作成 サービスツールおすすめ24選！特徴タイプ ... roomsofknowledge.com https://roomsofknowledge.com > recruit190809」（https://roomsofknowledge.com/recruit190809/）
+  - 「【2026年最新版】 採用サイト作成 ツールのおすすめを徹底 比較 — 【2026年最新版】 採用サイト作成 ツールのおすすめを徹底 比較 Wantedly https://www.wantedly.com > ホーム > 採用」（https://www.wantedly.com/hiringeek/recruit/site_free/）
+  - 「採用サイト制作 に強い 会社 21選！費用相場や選び方をプロが解説 — 採用サイト制作 に強い 会社 21選！費用相場や選び方をプロが解説 Web幹事 https://web-kanji.com > ... > 採用サイトの記事一覧」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「【2026年最新】 採用サイト制作会社 おすすめ15選 — 【2026年最新】 採用サイト制作会社 おすすめ15選 株式会社セブンデックス https://sevendex.com > ホーム > 投稿 > KNOWLEDGE」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作会社 15選比較。費用相場・タイプ別選び方と ... — 採用サイト制作会社 15選比較。費用相場・タイプ別選び方と ... c-slide https://cone-c-slide.com > ... > ブログ > 採用 / 人事 / 労務」（https://cone-c-slide.com/liblog/recruitsite-production/）
+  - 「採用サイト制作 におすすめな制作 会社 20選！【2026年最新】 — 採用サイト制作 におすすめな制作 会社 20選！【2026年最新】 株式会社カケハシスカイ https://www.kakehashi-skysol.co.jp > HOME > 採用サイト」（https://www.kakehashi-skysol.co.jp/career-chiebukuro/recruitsite_chaosmap/）
+  - 「採用サイト 制作に強い会社21選！費用相場や選び方をプロが解説 — 採用サイト 制作に強い会社21選！費用相場や選び方をプロが解説 Web幹事 https://web-kanji.com > ... > 採用サイトの記事一覧」（https://web-kanji.com/posts/objects-recruit-site）
+  - 「採用サイト 制作会社おすすめ11社｜費用相場と失敗しない ... — 採用サイト 制作会社おすすめ11社｜費用相場と失敗しない ... StockSun株式会社 https://stock-sun.com > HP > 採用サイト」（https://stock-sun.com/column/recruitsite-production/）
+  - 「【2026年最新版】 採用サイト 制作31社徹底比較! 費用 ... — 【2026年最新版】 採用サイト 制作31社徹底比較! 費用 ... 起業LOG https://kigyolog.com > SaaS > 人事 > 採用強化」（https://kigyolog.com/service.php?id=259）
+  - 「中小企業へ導入実績がある 採用管理 システム（ATS）19選 — 中小企業へ導入実績がある 採用管理 システム（ATS）19選 PRONIアイミツ SaaS https://saas.imitsu.jp > cate-ats > serviceList」（https://saas.imitsu.jp/cate-ats/serviceList/0348）
+  - 「採用サイト の 作成 機能がある 採用管理 システム（ATS）37選 — 採用サイト の 作成 機能がある 採用管理 システム（ATS）37選 PRONIアイミツ SaaS https://saas.imitsu.jp > cate-ats > serviceList」（https://saas.imitsu.jp/cate-ats/serviceList/2995）
+  - 「採用管理 システム比較17選！ランキング・図解・タイプ別一覧 ... — 採用管理 システム比較17選！ランキング・図解・タイプ別一覧 ... aspicjapan.org https://www.aspicjapan.org > asu > article」（https://www.aspicjapan.org/asu/article/398）
+  - 「【2026年最新】 採用サイト 制作会社おすすめ15選 — 【2026年最新】 採用サイト 制作会社おすすめ15選 株式会社セブンデックス https://sevendex.com > ホーム > 投稿 > KNOWLEDGE」（https://sevendex.com/post/31388/）

@@ -4,80 +4,871 @@
 
 ## 地方の中小製造業の年間採用費（annual recruiting budget small manufacturers Japan regional）
 - 文脈：地方・製造業
-- 採用予算・採用費：記載なし（読んだ35頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ35頁・検索7回）
-- 調査対象：記載なし（読んだ35頁・検索7回）
-- 採用経路：記載なし（読んだ35頁・検索7回）
-- 人手不足：記載なし（読んだ35頁・検索7回）
-- 補助金：記載なし（読んだ35頁・検索7回）
-- 料金：記載なし（読んだ35頁・検索7回）
+- 採用予算・採用費：
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コスト実態調査2026｜相場と削減事例を解説：東京新聞 × PR TIMES：東京新聞デジタル」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「採用コスト実態調査2026｜相場と削減事例を解説」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「2026年の採用コスト実態調査として、新卒・中途の相場目安、業界トレンド、採用単価を最大93%削減した導入事例データを公開」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「採用コスト実態調査2026｜業種別の相場・トレンド・削減事例を徹底解説」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「2026年現在、採用コストは「単なる支出」から「戦略的投資」へと性質が変化しており、多くの企業がコストの可視化と最適化に注力しています」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「」は、建設・ビルメン・不動産・IT業界を含む全国47都道府県の導入企業における採用コスト実態データを公開しました」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「最大93%の採用単価削減、導入1ヶ月での効果実感など、業種を超えて共通する「採用コスト最適化」の実態が明らかになっています」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「本記事では、2026年時点の日本の採用コストおよび採用市場の実態について、最新のトレンドと概況をまとめました」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「年間10名の採用を行う企業では、年間の採用コストが1,400万円に達するケースも珍しくありません」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「中小企業の採用コストはいくら？無料で採用活動を進める5つの方法」（https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8）
+  - 「採用コストには大きく「外部コスト」と「内部コスト」の2種類がある」（https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8）
+  - 「中小企業の採用コストは1人あたり数十〜百万円超になることも珍しくない」（https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8）
+  - 「中小企業の採用コスト相場｜単価が高騰する3つの原因と8つの改善策」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+- 1人あたり採用単価：
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり平均採用コスト（採用単価）はおおむね80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「2025年の中途採用における一人あたりの平均採用コストはおよそ80万～100万円前後」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば外部コストが1,000万円、内部コストが500万円＝採用コスト1,500万円で30人を採用した場合、採用単価は約50万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「チャネル別採用単価は10万円、20万円、5万円と算出可能で」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「CPAは「1応募あたりの費用」、CoAは「1人採用あたりの費用」を示す指標です」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「2026年の採用コスト実態調査として、新卒・中途の相場目安、業界トレンド、採用単価を最大93%削減した導入事例データを公開」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「最大93%の採用単価削減、導入1ヶ月での効果実感など、業種を超えて共通する「採用コスト最適化」の実態が明らかになっています」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「中途採用で人材紹介を利用した場合、年収400万円の人材で1名あたり約120～140万円の手数料が発生します」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「採用コストの高騰は多くの企業が直面する深刻な経営課題であり、生産年齢人口の減少や採用手法の複雑化により、新卒・中途ともに1人あたりの採用単価は年々上昇しています」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「人材紹介に依存した採用は、年収の30～35%という手数料体系により1名あたりのコストが高額になります」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「採用単価だけでなく、応募1件あたりのコスト（応募単価）においても、業種を超えて大幅な改善が確認されました」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「ビルメンテ・清掃会社では約31万円の予算で119件の応募と8名の採用を実現し、採用単価を約38,750円まで圧縮しました」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「中途採用で人材紹介を主力チャネルとしている企業では、年収の30～35%が手数料として発生し、年収400万円の人材でも1名あたり120～140万円のコストがかかります」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+- 調査対象：
+  - 「さらに、「日進市から世界のライダーへ安心・安全を届ける仕事」というキャッチコピーを用いて、地域密着とグローバルな価値を両立した訴求に改善しました」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「地方採用で成果を出した実践事例17選！応募者を集める手法とは？」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「」は、建設・ビルメン・不動産・IT業界を含む全国47都道府県の導入企業における採用コスト実態データを公開しました」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「全国47都道府県で採用支援実績があり、地方ならではの運用ノウハウも蓄積されています」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「また地方自治体による支援を情報キャッチアップするのに役立つ」（https://sogyotecho.jp/chushoukigyou-saiyou-cost/）
+  - 「登録した都道府県の補助金・助成金情報が月２回メール配信されますので、役立つ補助金・助成金の情報の見落としを防げます」（https://sogyotecho.jp/chushoukigyou-saiyou-cost/）
+  - 「厚木珈琲 酒井涼旦郎｜「まちの名前」を預かり地域貢献をする経営者と創業期を支えたアメックスのビジネス・カード」（https://sogyotecho.jp/chushoukigyou-saiyou-cost/）
+  - 「によると、採用担当者について全員が他業務と兼任していると回答した企業は全体の72.4パーセント」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「採用単価は調査対象や集計方法によって数値が変動するため、数値を引用する際は、調査年度と出典をあわせて確認しておくと、社内説明の際にも説得力が高まります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「4．地方特化型求人サイト」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人検索エンジンやダイレクトリクルーティング、地域特化型媒体、転職フェアなど、多様な手法を組み合わせることで、費用対効果を高めやすくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「：地方特化型媒体や転職フェアはターゲット人材へ直接アプローチでき、採用スピードと精度を高められる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人広告サイトには地方媒体と全国媒体があり、その中でも地方特化型求人誌は比較的リーズナブルなものが多いです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「地域特化型求人広告の一覧表77選｜全国47都道府県の求人媒体を調べてみた」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+- 採用経路：
+  - 「名古屋の採用支援会社 ～求人広告・採用代行・ブランディング～」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「サービス紹介」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「Indeed」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「Indeed PLUS」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告や紹介料だけでなく、担当者の人件費や面接の工数など、実際には多くの「見えないコスト」が採用には潜んでいます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「IndeedゴールドパートナーのR4が貴社の採用活動に必要な予算を無料でシミュレーション」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「まずは、採用コストとはなにか、採用コストの定義を紹介します」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コストは求人広告や人材紹介料などの」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人媒体（自社サイト、Indeed、求人ボックス など）の掲載費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「人材紹介会社への成功報酬（採用者の年収の20〜35％が相場）」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告の掲載費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「人材紹介会社への成功報酬」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告を出しても応募が集まりづらく、結果的に掲載料が割高になる負のスパイラル」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告・説明会運営・採用広報・内定者フォローなど」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 人手不足：
+  - 「によると、2026年卒の採用充足率は69.7パーセントと過去最低水準を記録しています」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「欠員補充のため1ヶ月以内に即戦力の経理担当が1名必要な場合、短期決戦となるため人材紹介エージェントを利用し、予算として100万円を計上します」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「パーソルキャリア（doda）の「転職求人倍率レポート（2026年6月）」などのデータを見ても、IT・技術系の専門職は求人倍率が高止まりしており、こうした採用競合の多さが単価を押し上げる直接的な要因となっています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［5］転職求人倍率レポート（2026年6月）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2025年1月のアルバイト求人倍率は」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「都道府県別の有効求人倍率（2025年4月）によれば、東京圏・大阪圏と福岡県及び一部の道県では1.05～1.25倍程度なのに対し、北陸や中国地方などは1.5～1.9倍近く、都市圏よりも高い数値が確認できます」（https://lokatsu-company.mhlw.go.jp/knowledge/）
+  - 「有効求人倍率は、求職者1人に対して、何件の求人があるかを示す数値です」（https://lokatsu-company.mhlw.go.jp/knowledge/）
+- 補助金：
+  - 「資本金10億円以上の企業でも活用できる補助金とは？中堅企業向け制度をわかりやすく解説」（https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8）
+  - 「「熊野町の補助金で事業成長！|専門家に5分無料相談全国対応」」（https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8）
+  - 「「防府市の補助金で夢を実現！|専門家に5分無料相談全国対応」」（https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8）
+  - 「登録した都道府県の補助金・助成金情報が月２回メール配信されますので、役立つ補助金・助成金の情報の見落としを防げます」（https://sogyotecho.jp/chushoukigyou-saiyou-cost/）
+  - 「手法6. 中小企業が利用できる採用助成金や補助金の活用」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「要件を満たして対象者1人を採用し規定の期間定着した場合、50万円から60万円の助成金を受給でき、結果として採用コストを実質的に相殺できるケースがあります」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「【25年卒・26年卒】実質0円で新入社員研修！賢く助成金を活用する術を大公開」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+- 料金：
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば、外部コストが800万円、内部コストが400万円で10人採用した場合、一人当たり採用コストは120万円になります」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり平均採用コスト（採用単価）はおおむね80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約90万〜110万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約80万〜100万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり採用コストの平均はおよそ90万～110万円程度」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「2025年の中途採用における一人あたりの平均採用コストはおよそ80万～100万円前後」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば外部コストが1,000万円、内部コストが500万円＝採用コスト1,500万円で30人を採用した場合、採用単価は約50万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「つまり1人の採用に平均50万円を投じていることになります」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば求人広告に100万円、人材紹介で200万円、スカウト施策に50万円を投じ、合計10名を採用できた場合、それぞれの」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「チャネル別採用単価は10万円、20万円、5万円と算出可能で」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば、人材紹介に200万円を投資して4名採用できた場合、CoAは50万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「中途採用で人材紹介を利用した場合、年収400万円の人材で1名あたり約120～140万円の手数料が発生します」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+- 検索結果の抜粋：
+  - 「採用コスト は一人当たりいくら？平均相場と内訳をわかり ... — 採用コスト は一人当たりいくら？平均相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コスト 実態 調査 2026｜相場と削減事例を解説 - 東京新聞 — 採用コスト 実態 調査 2026｜相場と削減事例を解説 - 東京新聞 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article139100」（https://adv.tokyo-np.co.jp/prtimes/article139100/）
+  - 「採用コスト は一人当たりいくら？ 平均 相場と内訳をわかり ... — 採用コスト は一人当たりいくら？ 平均 相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「中小 企業の 採用コスト 相場｜単価が高騰する3つの原因と8つの ... — 中小 企業の 採用コスト 相場｜単価が高騰する3つの原因と8つの ... ミズサキ https://mizusaki-inc.com > small-business-recruitment-costs」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「中途 採用コスト の 平均 単価や相場、 費用 【2026年最新版 ... — 中途 採用コスト の 平均 単価や相場、 費用 【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「一人当たりの 採用コスト （ 採用 単価）相場【2026年版】職種 ... — 一人当たりの 採用コスト （ 採用 単価）相場【2026年版】職種 ... 株式会社bサーチ https://www.bsearch.co.jp > TOP > 採用戦略」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
 
 ## 製造業の中途採用1人あたり採用単価（cost per hire manufacturing Japan mid-career）
 - 文脈：製造業
-- 採用予算・採用費：記載なし（読んだ32頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ32頁・検索7回）
-- 調査対象：記載なし（読んだ32頁・検索7回）
-- 採用経路：記載なし（読んだ32頁・検索7回）
-- 人手不足：記載なし（読んだ32頁・検索7回）
-- 補助金：記載なし（読んだ32頁・検索7回）
-- 料金：記載なし（読んだ32頁・検索7回）
+- 採用予算・採用費：
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「1人当たりの採用コストはどのように計算するか」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/）
+  - 「採用単価（1人当たりの採用コスト）の算出方法」（https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs）
+  - 「中途採用コストの平均単価や相場、費用【2026年最新版】削減ポイントを解説」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「1．採用コストの相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「2．そもそも採用コストとは？」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「3．採用コスト削減のポイント」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「「採用コスト」「1人あたり採用費」「Cost per Hire」とも呼ばれます」（https://innovel.jp/cost-per-hire-2026/）
+  - 「リクルート就職みらい研究所「就職白書」の調査では、1人あたりの平均採用費は新卒採用で93.6万円、中途採用で103.3万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「リクルート就職みらい研究所「就職白書」の調査では、1人あたりの平均採用費は中途採用で103.3万円、新卒採用で93.6万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「仮に300万円の採用コストをかけて3人採用した場合と、320万円かけて4人採用した場合では、採用単価は4人採用した方が低くなります」（https://part.shufu-job.jp/business/details/9179/）
+  - 「【2026年版】採用コストが高い5つの原因と削減策｜相場から見直しポイントまで | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「【2026年版】採用コストが高い5つの原因と削減策｜相場から見直しポイントまで」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+- 1人あたり採用単価：
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり平均採用コスト（採用単価）はおおむね80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「2025年の中途採用における一人あたりの平均採用コストはおよそ80万～100万円前後」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば外部コストが1,000万円、内部コストが500万円＝採用コスト1,500万円で30人を採用した場合、採用単価は約50万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「チャネル別採用単価は10万円、20万円、5万円と算出可能で」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「CPAは「1応募あたりの費用」、CoAは「1人採用あたりの費用」を示す指標です」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「製造業の中途採用における1人あたりの平均採用単価は約102.3万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「こちらの2019年調査では全体の新卒採用単価が72.6万円、中途採用単価が84.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「1人当たりの採用コストを「採用単価」と呼びます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「1人あたりの平均採用コストは、」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「2019年度の新卒採用では一人あたりの平均コストは93.6万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「新卒採用は一度に多くの人材を採用できるため、1人あたりのコストは中途採用と比べて低くなる傾向があります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「2022年のアルバイト1名あたりの採用単価は7.0万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 調査対象：
+  - 「さらに、「日進市から世界のライダーへ安心・安全を届ける仕事」というキャッチコピーを用いて、地域密着とグローバルな価値を両立した訴求に改善しました」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「地方採用で成果を出した実践事例17選！応募者を集める手法とは？」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「中部地方2000名に聞いた求職者が本当に求める働き方」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「：地方立地や業界イメージの影響で、求人を出しても応募が少なくなりがちです」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用窓口エリア別では東京・南関東・近畿地方など大都市が多いエリアでの求人広告費が高めとなる傾向にある、と報告されています」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・地域によって採用難易度が大きく異なる」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、「増える」と回答した企業が約2割、「同じ」が7割弱、「減る」が1割強となっており、多くの企業が現状維持または微増を見込んでいる状況です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「成功報酬は地域一律で30万〜90万円の固定金額であり、掲載期間が無期限なため、ランニングコストを抑えながら採用活動を行うことができます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「そのうえで、地域情報や時期、求職者動向、などのデジタルデータをもとに、最適なメディアを使って、お客様だけの採用計画を立てていきます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「地域の特性や時期、採用ターゲットの特徴などによって、お客様に最適なプランを1社1社丁寧にご提案いたします」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「4．地方特化型求人サイト」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人検索エンジンやダイレクトリクルーティング、地域特化型媒体、転職フェアなど、多様な手法を組み合わせることで、費用対効果を高めやすくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「：地方特化型媒体や転職フェアはターゲット人材へ直接アプローチでき、採用スピードと精度を高められる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「求人広告サイトには地方媒体と全国媒体があり、その中でも地方特化型求人誌は比較的リーズナブルなものが多いです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+- 採用経路：
+  - 「名古屋の採用支援会社 ～求人広告・採用代行・ブランディング～」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「サービス紹介」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「Indeed」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「Indeed PLUS」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告や紹介料だけでなく、担当者の人件費や面接の工数など、実際には多くの「見えないコスト」が採用には潜んでいます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「IndeedゴールドパートナーのR4が貴社の採用活動に必要な予算を無料でシミュレーション」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「まずは、採用コストとはなにか、採用コストの定義を紹介します」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コストは求人広告や人材紹介料などの」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人媒体（自社サイト、Indeed、求人ボックス など）の掲載費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「人材紹介会社への成功報酬（採用者の年収の20〜35％が相場）」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告の掲載費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「人材紹介会社への成功報酬」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告を出しても応募が集まりづらく、結果的に掲載料が割高になる負のスパイラル」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告・説明会運営・採用広報・内定者フォローなど」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 人手不足：
+  - 「2025年7月発行 doda転職求人倍率レポート 業種別・職種別に読み解く転職市場動向」（https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs）
+  - 「【2026年】医療業界の人手不足｜2030年187万人不足の現状・原因と6つの解決策」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「パーソルキャリア（doda）の「転職求人倍率レポート（2026年6月）」などのデータを見ても、IT・技術系の専門職は求人倍率が高止まりしており、こうした採用競合の多さが単価を押し上げる直接的な要因となっています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［5］転職求人倍率レポート（2026年6月）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「都心部の飲食店や人手不足が深刻な介護・物流業界などでは、10万円を超えることも珍しくありません」（https://www.n-lights.com/nlplus/recruitcost_average/）
+  - 「2026年現在は、即戦力人材の獲得が極めて困難な「超・人手不足」の状態にあり、採用単価は上昇の一途を辿っています」（https://one-group.jp/humanresource/use/recruitment_cost.html）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2025年1月のアルバイト求人倍率は」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「介護職の人手不足の解消｜人材紹介会社に頼らず人手不足を対策する4つの方法」（https://megdai.jp/markebatake/saiyou/6611/）
+  - 「2.求人バブル到来！有効求人倍率からみる採用市場」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「2-1.職種別の有効求人倍率データ」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「2019年5月のデータを見ると、もっとも有効求人倍率が高かったのが東京都と福井県で「2.12」です」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「※日本全体の有効求人倍率は「1.63」」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「【2019年版】有効求人倍率とは？ 全国・都道府県・職種別推移から転職事情が分かる！」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「2019年現在では、「アルバイト社員の不足感を感じる」という企業が約7割に上り、また約3割の企業が「前年と比較して採用コストが上がった」」（https://www.halle-a.jp/knowhow/191120.html）
+- 補助金：
+  - 「【クラウドシエン×Workship】中小企業で最大で8000万円！優秀な人材の確保に使える助成金・補助金徹底活用セミナー」（https://enterprise.goworkship.com/lp/recruit/recruit-cost-how）
+  - 「【2025年最新】補助金一覧｜返済不要で最大数千万円！自社に合う補助金の選び方」（https://megdai.jp/markebatake/saiyou/6611/）
+  - 「料率は各社が届け出た手数料表で決まり、上限は50%です」（https://hr.jobseeker-navi.com/media/saiyo/saiyo-cost/saiyo-cost/）
+  - 「7-5.助成金を利用する」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「※理論年収とは、採用決定者の月次給与・所定外労働手当の12か月分、および理論上の通年賞与の他、交通費以外の諸手当、奨励金および一時金を合計した金額です」（https://www.halle-a.jp/knowhow/191120.html）
+  - 「助成金の支給申請期間は、原則申請可能となった日から2か月以内です」（https://www.halle-a.jp/knowhow/191120.html）
+- 料金：
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば、外部コストが800万円、内部コストが400万円で10人採用した場合、一人当たり採用コストは120万円になります」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり平均採用コスト（採用単価）はおおむね80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約90万〜110万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約80万〜100万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり採用コストの平均はおよそ90万～110万円程度」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「2025年の中途採用における一人あたりの平均採用コストはおよそ80万～100万円前後」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば外部コストが1,000万円、内部コストが500万円＝採用コスト1,500万円で30人を採用した場合、採用単価は約50万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「つまり1人の採用に平均50万円を投じていることになります」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば求人広告に100万円、人材紹介で200万円、スカウト施策に50万円を投じ、合計10名を採用できた場合、それぞれの」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「チャネル別採用単価は10万円、20万円、5万円と算出可能で」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば、人材紹介に200万円を投資して4名採用できた場合、CoAは50万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません」（https://www.fostor.jp/archives/column/cost-reduction）
+- 検索結果の抜粋：
+  - 「採用 コストは一 人当たり いくら？平均相場と内訳をわかり ... — 採用 コストは一 人当たり いくら？平均相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用 コスト 1人当たり の平均相場（2026年）｜新卒・ 中途 別に ... — 採用 コスト 1人当たり の平均相場（2026年）｜新卒・ 中途 別に ... 株式会社ONE https://one-group.jp > ... > 採用ノウハウ記事一覧」（https://one-group.jp/humanresource/use/recruitment_cost.html）
+  - 「採用 コストは一 人当たり いくら？ 平均 相場と内訳をわかり ... — 採用 コストは一 人当たり いくら？ 平均 相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「中途採用 コストの 平均単価 や相場、費用【2026年最新版 ... — 中途採用 コストの 平均単価 や相場、費用【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「採用単価 の相場【2026年版】｜新卒・ 中途 の 平均 、計算方法 — 採用単価 の相場【2026年版】｜新卒・ 中途 の 平均 、計算方法 株式会社イノベル https://innovel.jp > メディア」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価 の相場｜一 人当たり の平均と職種・ 企業 規模別の目安 — 採用単価 の相場｜一 人当たり の平均と職種・ 企業 規模別の目安 マイナビProfessional https://professional.mynavi.jp > magazine > magazine_402」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用単価 の相場｜一 人当たり の平均と職種・企業規模別の目安 — 採用単価 の相場｜一 人当たり の平均と職種・企業規模別の目安 マイナビProfessional https://professional.mynavi.jp > magazine > magazine_402」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用単価 の相場【2026年版】｜新卒・ 中途 の平均、計算方法 — 採用単価 の相場【2026年版】｜新卒・ 中途 の平均、計算方法 株式会社イノベル https://innovel.jp > メディア」（https://innovel.jp/cost-per-hire-2026/）
+  - 「【2026年版】 採用 コストが高い5つの原因と削減策 — 【2026年版】 採用 コストが高い5つの原因と削減策 まるごと人事 https://marugotoinc.jp > ... > 採用企画」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「中途採用 コストの平均 単価 や相場、費用【2026年最新版 ... — 中途採用 コストの平均 単価 や相場、費用【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+  - 「一 人当たり の 採用 コスト（ 採用単価 ）相場【2026年版】職種 ... — 一 人当たり の 採用 コスト（ 採用単価 ）相場【2026年版】職種 ... 株式会社bサーチ https://www.bsearch.co.jp > TOP > 採用戦略」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「採用 コストの相場｜手法別の費用の型と 1人採用あたり の式 — 採用 コストの相場｜手法別の費用の型と 1人採用あたり の式 求職者送客ナビ https://hr.jobseeker-navi.com > ... > 採用コスト・手法比較」（https://hr.jobseeker-navi.com/media/saiyo/saiyo-cost/saiyo-cost/）
 
 ## 製造業の新卒・高卒採用1人あたり費用（cost per hire new graduates manufacturing Japan）
 - 文脈：製造業
-- 採用予算・採用費：記載なし（読んだ32頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ32頁・検索7回）
-- 調査対象：記載なし（読んだ32頁・検索7回）
-- 採用経路：記載なし（読んだ32頁・検索7回）
-- 人手不足：記載なし（読んだ32頁・検索7回）
-- 補助金：記載なし（読んだ32頁・検索7回）
-- 料金：記載なし（読んだ32頁・検索7回）
+- 採用予算・採用費：
+  - 「高卒採用コスト完全分析 | 大卒採用と50-80%削減・投資回収期間・ROI計算 | ゆめスタ」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1. 高卒採用の採用コスト構造」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1-1. 直接採用コスト」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたりの採用コスト:」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「2-1. 直接採用コスト比較」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「2-2. 大卒採用コストの詳細内訳」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「2．採用コストの種類」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「「採用費の総額÷採用人数=1人あたりの採用単価」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「「採用コスト」「1人あたり採用費」「Cost per Hire」とも呼ばれます」（https://innovel.jp/cost-per-hire-2026/）
+  - 「リクルート就職みらい研究所「就職白書」の調査では、1人あたりの平均採用費は新卒採用で93.6万円、中途採用で103.3万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「リクルート就職みらい研究所「就職白書」の調査では、1人あたりの平均採用費は中途採用で103.3万円、新卒採用で93.6万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+- 1人あたり採用単価：
+  - 「1人あたりの採用コスト:」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「複数名採用の場合、求人媒体費は1人あたりに分散されるため、」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり20-50万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり2-4時間（時給換算で5,000-1万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり総コストは30-70万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり採用単価」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1名あたり約300万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合計: 58万円（1人あたり19-29万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合計: 230万円（1人あたり約77万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合計: 90万円（1人あたり9-18万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合計: 510万円（1人あたり約51-102万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合計: 132万円（1人あたり6.6-13.2万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合計: 1,005万円（1人あたり約50-100万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「求人媒体費は年間固定のため、複数名採用することで1人あたりのコストを削減できます」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「5名採用すれば、1人あたり10-15万円まで下がります」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+- 調査対象：
+  - 「地方都市（新潟等）: 25万円/回」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「求人媒体費: 48万円（地方都市）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合同説明会費: 100万円（地方都市2回）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「合同説明会、イベントの費用相場は、イベントの開催規模や地域、時期により異なります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「さらに、「日進市から世界のライダーへ安心・安全を届ける仕事」というキャッチコピーを用いて、地域密着とグローバルな価値を両立した訴求に改善しました」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「地方採用で成果を出した実践事例17選！応募者を集める手法とは？」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「中部地方2000名に聞いた求職者が本当に求める働き方」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「：地方立地や業界イメージの影響で、求人を出しても応募が少なくなりがちです」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用窓口エリア別では東京・南関東・近畿地方など大都市が多いエリアでの求人広告費が高めとなる傾向にある、と報告されています」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・地域によって採用難易度が大きく異なる」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、「増える」と回答した企業が約2割、「同じ」が7割弱、「減る」が1割強となっており、多くの企業が現状維持または微増を見込んでいる状況です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「成功報酬は地域一律で30万〜90万円の固定金額であり、掲載期間が無期限なため、ランニングコストを抑えながら採用活動を行うことができます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「そのうえで、地域情報や時期、求職者動向、などのデジタルデータをもとに、最適なメディアを使って、お客様だけの採用計画を立てていきます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「地域の特性や時期、採用ターゲットの特徴などによって、お客様に最適なプランを1社1社丁寧にご提案いたします」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 採用経路：
+  - 「STAR紹介」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「ゆめスタパートナー紹介」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「指定校制度を活用し、毎年安定的に採用することで、学校から優先的に紹介を受けられます」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「パートナー紹介」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「新卒の採用単価はどのくらい？コストを削減する6つの方法と成功事例をご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「Indeed・」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「アルバイト求人サイト」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「プランナーのご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「についてご紹介していきます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「5．新卒紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「本資料では、採用単価の削減に成功した企業の事例をもとに、新卒採用のコスト削減につながる手法についてご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「具体的には、求人サイトの掲載費用や人材紹介会社への成果報酬金、さらには採用ページやパンフレットなどの制作費などが該当します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「ー求人サイトへの求人掲載費用」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「ー人材紹介会社への成果報酬金」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「本資料では、内定者フォローに対する学生の意識や、具体的な内定者フォローの事例、さらに活用できるサービスまで詳しくご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+- 人手不足：
+  - 「2026年現在は、即戦力人材の獲得が極めて困難な「超・人手不足」の状態にあり、採用単価は上昇の一途を辿っています」（https://one-group.jp/humanresource/use/recruitment_cost.html）
+  - 「パーソルキャリア（doda）の「転職求人倍率レポート（2026年6月）」などのデータを見ても、IT・技術系の専門職は求人倍率が高止まりしており、こうした採用競合の多さが単価を押し上げる直接的な要因となっています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［5］転職求人倍率レポート（2026年6月）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「500万円以上を投じた企業でも77.8%が不足感を抱えており、単に「予算を増やして求人広告を出す・紹介会社を使う」だけでは充足につながらない実態が示されています」（https://www.hamamatsu-cci.or.jp/news/show/1817）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2025年1月のアルバイト求人倍率は」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「従業員規模300人未満の中小企業に限定した大卒の求人倍率だと2025年卒が6.5倍」（https://mizusaki-inc.com/knowledge/article22）
+  - 「厚生労働省の最新の取りまとめによると、令和8年3月卒業予定者に対するハローワーク求人における高校新卒者の求人倍率は、過去最高水準とのこと」（https://note.com/sharok/n/nbfd9b0aa04ea）
+  - 「前年度にあたる令和7年3月卒業者の時点ですでに就職内定率は99.0％、求人倍率は4.10倍という驚異的な数値を記録しています」（https://note.com/sharok/n/nbfd9b0aa04ea）
+  - 「求人倍率「4倍超」という異常な数字は、複数の要因が重なって生まれています」（https://note.com/sharok/n/nbfd9b0aa04ea）
+  - 「整理すると、「少子化」「大学進学率の上昇による高卒就職者の絶対数減少」「現場系産業の慢性的人手不足」「大卒採用コスト高騰による新規参入企業の増加」という四つが重なった結果が、現在の求人倍率4倍超という状況です」（https://note.com/sharok/n/nbfd9b0aa04ea）
+  - 「先に記載しました通り、厚生労働省の調査によると、2025年度（令和7年3月卒業者）の高卒採用、求人倍率は4.10倍、内定率は99.0%です」（https://note.com/sharok/n/nbfd9b0aa04ea）
+  - 「大卒採用でも売り手市場（2027年卒の大卒求人倍率は」（https://note.com/sharok/n/nbfd9b0aa04ea）
+  - 「【2027年】有効求人倍率の期間を最新の厚生労働省データから分析！業界別、都道府県別も解説」（https://lab.jinjib.co.jp/archives/6536/）
+- 補助金：
+  - 「【25年卒・26年卒】実質0円で新入社員研修！賢く助成金を活用する術を大公開」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「⇒自社で簡単に使える助成金を5分で無料診断！」（https://ds-b.jp/dsmagazine/pages/474/）
+  - 「【2025年最新】補助金一覧｜返済不要で最大数千万円！自社に合う補助金の選び方」（https://megdai.jp/markebatake/saiyou/6611/）
+- 料金：
+  - 「48-72万円/年」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「5-20万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「2-10万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「56-107万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり20-50万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「ジョブドラフト公式料金プラン（2024年）、中小企業調査機関統計」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「年間50-100万円（専任の場合）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「10-20時間（時給換算で2-5万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり2-4時間（時給換算で5,000-1万円）」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「1人あたり総コストは30-70万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「48-72万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「80-295万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「25-60万円/回」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「20-50万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「約100万円」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+- 検索結果の抜粋：
+  - 「高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... — 高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+  - 「新卒 の 採用 単価はどのくらい？コストを削減する6つの方法と ... — 新卒 の 採用 単価はどのくらい？コストを削減する6つの方法と ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/）
+  - 「採用 コストは一 人当たり いくら？平均相場と内訳をわかり ... — 採用 コストは一 人当たり いくら？平均相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用 コストは一 人当たり いくら？ 平均 相場と内訳をわかり ... — 採用 コストは一 人当たり いくら？ 平均 相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用 単価の相場【2026年版】｜ 新卒 ・中途の 平均 、計算方法 — 採用 単価の相場【2026年版】｜ 新卒 ・中途の 平均 、計算方法 株式会社イノベル https://innovel.jp > メディア」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用 コスト 1人当たり の 平均 相場（2026年）｜ 新卒 ・中途別に ... — 採用 コスト 1人当たり の 平均 相場（2026年）｜ 新卒 ・中途別に ... 株式会社ONE https://one-group.jp > ... > 採用ノウハウ記事一覧」（https://one-group.jp/humanresource/use/recruitment_cost.html）
+  - 「採用 コストとは？ 新卒 ・中途・バイトの 1人当り 平均金額 ... — 採用 コストとは？ 新卒 ・中途・バイトの 1人当り 平均金額 ... ds-b.jp https://ds-b.jp > TOP > 業務効率化・採用」（https://ds-b.jp/dsmagazine/pages/474/）
+  - 「採用 コスト 1人当たり の平均相場（2026年）｜ 新卒 ・中途別に ... — 採用 コスト 1人当たり の平均相場（2026年）｜ 新卒 ・中途別に ... 株式会社ONE https://one-group.jp > ... > 採用ノウハウ記事一覧」（https://one-group.jp/humanresource/use/recruitment_cost.html）
+  - 「採用 単価の相場｜一 人当たり の平均と職種・ 企業 規模別の目安 — 採用 単価の相場｜一 人当たり の平均と職種・ 企業 規模別の目安 マイナビProfessional https://professional.mynavi.jp > magazine > magazine_402」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用 単価の相場｜一 人当たり の平均と職種・企業規模別の目安 — 採用 単価の相場｜一 人当たり の平均と職種・企業規模別の目安 マイナビProfessional https://professional.mynavi.jp > magazine > magazine_402」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「【2026年版】 採用 コストが高い5つの原因と削減策 — 【2026年版】 採用 コストが高い5つの原因と削減策 まるごと人事 https://marugotoinc.jp > ... > 採用企画」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「一 人当たり の 採用 コスト（ 採用 単価）相場【2026年版】職種 ... — 一 人当たり の 採用 コスト（ 採用 単価）相場【2026年版】職種 ... 株式会社bサーチ https://www.bsearch.co.jp > TOP > 採用戦略」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「中途 採用 コストの平均単価や相場、 費用 【2026年最新版 ... — 中途 採用 コストの平均単価や相場、 費用 【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
 
 ## 地方企業の求人広告費の相場（job advertising cost regional Japan）
 - 文脈：地方
-- 採用予算・採用費：記載なし（読んだ35頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ35頁・検索7回）
-- 調査対象：記載なし（読んだ35頁・検索7回）
-- 採用経路：記載なし（読んだ35頁・検索7回）
-- 人手不足：記載なし（読んだ35頁・検索7回）
-- 補助金：記載なし（読んだ35頁・検索7回）
-- 料金：記載なし（読んだ35頁・検索7回）
+- 採用予算・採用費：
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均 | 株式会社Shakeのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「中小企業の採用支援サービス「HRShaker」を運営する株式会社Shakeは、当社が採用��支援を行う中小企業107社の広告費データをもとに、広告費の水準と採用成果の関係を分析した結果を公開」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「107社の広告費は1社あたり累計平均約14.8万円」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「月1〜2回の定例ミーティングを通じて運用状況を確認し、広告費の増額だけに頼らない母集団形成を支援します」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「分析対象：当社が採用支援を行う中小企業107社のIndeed・Airワーク採用管理の運用データ（広告費計15,785,475円、応募数7,003件）」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「プレスリリース：地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES） | 毎日新聞」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES）」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「中小企業の採用支援サービス「HRShaker」を運営する株式会社Shakeは、当社が採用支援を行う中小企業107社の広告費データをもとに、広告費の水準と採用成果の関係を分析した結果を公開」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「107社の広告費は1社あたり累計平均約14.8万円」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「月1～2回の定例ミーティングを通じて運用状況を確認し、広告費の増額だけに頼らない母集団形成を支援します」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「分析対象：当社が採用支援を行う中小企業107社のIndeed・Airワーク採用管理の運用データ（広告費計15,785,475円、応募数7,003件）」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「求人広告費の1/2（最大50万円）」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「自社の採用活動に際して、「エージェントは1人あたりの採用コストが高い」「効率的に採用を進めていきたい」といった課題を抱える企業も少なくないでしょう」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「マイナビの調査によると、2025年の中途採用費用の予算合計は平均696.0万円、サービスごとでは、「人材紹介」で最も高く平均391.5万円、次いで「ダイレクトリクルーティング」が平均223.9万円という結果でした」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+- 1人あたり採用単価：
+  - 「マイナビの調査では、中途採用1人あたりのコストは平均103.3万円、人材紹介経由では平均372.1万円と報告されています」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「マイナビの調査では、中途採用1人あたりのコストは平均103.3万円、人材紹介経由では平均372.1万円と報告されています」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「そのため、大量採用を計画している企業にとっては、1人あたりの採用単価を大幅に抑制できる可能性があります」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「採用課金の場合、採用1名あたりの単価は、想定年収の数十％や固定（数十万円）など、他のモデルに比べて高めに設定される傾向があります」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「求人ボックスのデータによると、求人広告を活用した際の平均的な採用単価は80,000円から120,000円程度がボリュームゾーンとなっています」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「これを人材紹介（エージェント）と比較すると、エージェント経由では1名あたり1,500,000円以上の手数料が発生することも珍しくありません」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「1人あたりのコストをいかに抑えるかが、人事戦略の成否を分けます」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「この2軸を組み合わせることで、年間を通じた採用単価の安定化が図れます」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「厚生労働省の「特定求職者雇用開発助成金」や「キャリアアップ助成金」は、要件を満たせば1人あたり数十万〜百万円単位の受給が可能です」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「自社の採用活動に際して、「エージェントは1人あたりの採用コストが高い」「効率的に採用を進めていきたい」といった課題を抱える企業も少なくないでしょう」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「そのため、1回の掲載で複数名を採用できれば、1人あたりの求人広告費を抑えられます」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「採用単価とは、採用者1人あたりにかかった費用です」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「例えば、求人広告費60万円で3人を採用した場合、採用単価は20万円です」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「総採用単価とは、求人広告費だけでなく、採用活動で発生した外部コストと内部コストを含めた、1人あたりの費用です」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「ここでは企業規模ごとの相場や、採用1人あたりの相場、職種別の採用単価について紹介します」（https://www.three-count.jp/advice/job-posting-cost/）
+- 調査対象：
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均 | 株式会社Shakeのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「プレスリリース：地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES） | 毎日新聞」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES）」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「・地域限定の料金体系」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「・選べる掲載プラン：予算とターゲットに合わせて選べる5つの企画サイズ（N5L～N1L）と、全国/地域限定の料金体系」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「大手企業・地方学生に強い」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「地域密着・紙とWebの連携」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「▼地方自治体の補助金事例」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「ただし、実際の費用は掲載期間や募集地域、プランなどによって異なります」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「そのため、地域や沿線などで掲載範囲を絞る媒体が多く、正社員向けの求人広告よりも少額から利用できることが特徴です」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「ただし、調査時期や企業属性によって結果は異なるため、自社の実績と併せて確認しておきましょう」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「募集する地域や拠点数」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「首都圏だけでなく、全国49拠点のネットワークを駆使した地域エリアの採用力の向上にも寄与します」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「全国的に知名度が高く、地方求人も多く掲載されているのが特徴です」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+- 採用経路：
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均 | 株式会社Shakeのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「は、Indeed・Airワーク採用管理などの求人媒体の運用代行サービスです」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「マイナビの調査では、中途採用1人あたりのコストは平均103.3万円、人材紹介経由では平均372.1万円と報告されています」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「HRShakerは、採用したい人物像の整理とペルソナ設計、求人原稿の作成、Indeed・Airワークへの掲載、効果測定、求人原稿や広告配分の改善までを一気通貫で支援します」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「「求人広告に月いくらかければいいのか判断できない」「少額で出したが成果が出ず、続けるべきか迷っている」という企業に向けて、HRShakerの支援内容、導入事例、運用の流れ、料金をサービス資料にまとめています」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「分析対象：当社が採用支援を行う中小企業107社のIndeed・Airワーク採用管理の運用データ（広告費計15,785,475円、応募数7,003件）」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「プレスリリース：地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES） | 毎日新聞」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES）」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「は、Indeed・Airワーク採用管理などの求人媒体の運用代行サービスです」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「マイナビの調査では、中途採用1人あたりのコストは平均103.3万円、人材紹介経由では平均372.1万円と報告されています」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「HRShakerは、採用したい人物像の整理とペルソナ設計、求人原稿の作成、Indeed・Airワークへの掲載、効果測定、求人原稿や広告配分の改善までを一気通貫で支援します」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「「求人広告に月いくらかければいいのか判断できない」「少額で出したが成果が出ず、続けるべきか迷っている」という企業に向けて、HRShakerの支援内容、導入事例、運用の流れ、料金をサービス資料にまとめています」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「分析対象：当社が採用支援を行う中小企業107社のIndeed・Airワーク採用管理の運用データ（広告費計15,785,475円、応募数7,003件）」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「求人広告の平均的な費用相場を媒体別に徹底解説｜費用対効果や使える助成金も紹介 | circusAGENT｜【採用担当者向け】人材紹介プラットフォーム」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+- 人手不足：
+  - 「1週間単位での掲載が可能なため、短期的な欠員補充にも対応しやすいのが特徴です」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「2026年現在は、即戦力人材の獲得が極めて困難な「超・人手不足」の状態にあり、採用単価は上昇の一途を辿っています」（https://one-group.jp/humanresource/use/recruitment_cost.html）
+  - 「紹介人数、職場見学→就業率、初月定着率（目安90%）、稼働充足率、1人あたり実コスト（時給×係数）」（https://saponet.mynavi.jp/column/detail/ty_saiyo_t02_recruiting-ads-guide_251017.html）
+  - 「【2026年8月度】採用市場動向レポート：有効求人倍率1.18倍、正社員倍率1.00倍とIT技術者求人「4.1倍増」が示す採用ニーズの偏り」（https://www.naito.jp/knowledge/jobad/1286/）
+  - 「【2026年7月度】採用市場動向レポート：有効求人倍率1.18倍、求人広告15.8％増の実態とは？」（https://www.naito.jp/knowledge/jobad/1286/）
+- 補助金：
+  - 「これには「採用後」に支給される助成金と、「求人活動」の経費を支援する補助金の2種類があります」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「厚生労働省の「特定求職者雇用開発助成金」や「キャリアアップ助成金」は、要件を満たせば1人あたり数十万〜百万円単位の受給が可能です」（https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/）
+  - 「1クリック20円〜 ※上限設定が日・月ごとに可能」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「掲載料：0円、応募課金：1応募あたり1万円（月額上限：1求人あたり最大3万円）」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/jobposting-cost/）
+  - 「この方式は、掲載期間に制限がなく、1日の上限予算や月間予算を設定できるため、費用を調整しやすい点がメリットです」（https://www.three-count.jp/advice/job-posting-cost/）
+  - 「登録した都道府県の補助金・助成金情報が月２回メール配信されますので、役立つ補助金・助成金の情報の見落としを防げます」（https://sogyotecho.jp/chushoukigyou-saiyou-cost/）
+  - 「クリック課金型は興味を持って閲覧された回数にのみ料金が発生することに加え、1日あたりの予算に上限を設定できるケースも多いため、費用をコントロールしながら利用したい企業におすすめです」（https://service.gakujo.ne.jp/jinji-library/saiyo/00166/）
+- 料金：
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均 | 株式会社Shakeのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方中小企業の求人広告費は月1〜2万円台が平均」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「中途採用1人103万円という相場が中小企業を採用から遠ざけている」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「マイナビの調査では、中途採用1人あたりのコストは平均103.3万円、人材紹介経由では平均372.1万円と報告されています」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「月1〜2万円台でも応募は集まる」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「107社の広告費は1社あたり累計平均約14.8万円」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「運用期間を考慮すると月あたり1〜2万円台が中心的な水準です」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「この予算規模で107社合計7,003件の応募が生まれており、応募単価は全体平均2,254円でした」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「一方で、企業別の応募単価は最小228円から最大87,468円まで約384倍の開きがあります」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「軽作業やパート募集なら月1万円台でも十分な応募が見込める一方、施工管理・資格職など競争の激しい職種では、クリック単価が高く応募率も低いため、少額予算では判定に必要な露出にすら届きません」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「月3万円と月10万円の差は、単純な「応募3倍」ではなく、難職種で勝負の土俵に乗れるかどうかの差として現れると考えられます」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「分析対象：当社が採用支援を行う中小企業107社のIndeed・Airワーク採用管理の運用データ（広告費計15,785,475円、応募数7,003件）」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「企業別の応募単価（最小228円〜最大87,468円）は、数値データが取れた95社（確認中）を対象に出しました」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「プレスリリース：地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES） | 毎日新聞」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「地方中小企業の求人広告費は月1～2万円台が平均（PR TIMES）」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+- 検索結果の抜粋：
+  - 「地方 中小 企業の求人広告費 は月1〜2 万円 台が平均 - PR TIMES — 地方 中小 企業の求人広告費 は月1〜2 万円 台が平均 - PR TIMES PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方 中小 企業の求人広告費 は月1～2 万円 台が平均（PR TIMES） — 地方 中小 企業の求人広告費 は月1～2 万円 台が平均（PR TIMES） 毎日新聞 https://mainichi.jp > articles」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「求人広告 に100 万円 かけても成果ゼロ？ 地方企業 の採用で ... — 求人広告 に100 万円 かけても成果ゼロ？ 地方企業 の採用で ... note https://note.com > ビジネス > 人事・労務・採用」（https://note.com/saikaku_oku/n/n19bcb9173415）
+  - 「地方 中小 企業の求人広告費 は月1〜2万円台が 平均 - PR TIMES — 地方 中小 企業の求人広告費 は月1〜2万円台が 平均 - PR TIMES PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方中小企業の求人広告費 は月1〜2万円台が平均 - PR TIMES — 地方中小企業の求人広告費 は月1〜2万円台が平均 - PR TIMES PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方中小企業の求人広告費 は月1～2万円台が平均（PR TIMES） — 地方中小企業の求人広告費 は月1～2万円台が平均（PR TIMES） 毎日新聞 https://mainichi.jp > articles」（https://mainichi.jp/articles/20261003/pr2/00m/020/018000c）
+  - 「地方中小企業の求人広告費 は月1～2万円台が平均 - 朝日新聞 — 地方中小企業の求人広告費 は月1～2万円台が平均 - 朝日新聞 朝日新聞 https://www.asahi.com > and > pressrelease」（https://www.asahi.com/and/pressrelease/16936343）
+  - 「【最新版】 求人広告 の 費用相場 と掲載 料金 比較25選・効果改善 ... — 【最新版】 求人広告 の 費用相場 と掲載 料金 比較25選・効果改善 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「地方 中小 企業の求人広告費 は月1〜2万円台が平均 - PR TIMES — 地方 中小 企業の求人広告費 は月1〜2万円台が平均 - PR TIMES PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000000016.000187561.html）
+  - 「地方 中小 企業の求人広告費 は月1～2万円台が平均 — 地方 中小 企業の求人広告費 は月1～2万円台が平均 Infoseek https://news.infoseek.co.jp > ... > 経済 > プレスリリース」（https://news.infoseek.co.jp/article/prtimes_000000016_000187561/）
+  - 「【2026年対応版】 求人広告費 が高すぎる！中小 企業 の採用 ... — 【2026年対応版】 求人広告費 が高すぎる！中小 企業 の採用 ... RESUS社会保険労務士事務所 https://resus.jp > topics」（https://resus.jp/topics/4647/）
+  - 「求人広告 の用途別 費用 比較18選｜ 料金相場 や効果 ... - 内藤一水社 — 求人広告 の用途別 費用 比較18選｜ 料金相場 や効果 ... - 内藤一水社 株式会社内藤一水社 https://www.naito.jp > knowledge > jobad」（https://www.naito.jp/knowledge/jobad/1286/）
+  - 「地域特化型 求人広告 の一覧表77選【最新】全国47 都道府県 の ... — 地域特化型 求人広告 の一覧表77選【最新】全国47 都道府県 の ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihou-kyujinsaito0319/）
 
 ## 地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）（recruiting channels regional manufacturers Japan）
 - 文脈：地方・製造業
-- 採用予算・採用費：記載なし（読んだ33頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ33頁・検索7回）
-- 調査対象：記載なし（読んだ33頁・検索7回）
-- 採用経路：記載なし（読んだ33頁・検索7回）
-- 人手不足：記載なし（読んだ33頁・検索7回）
-- 補助金：記載なし（読んだ33頁・検索7回）
-- 料金：記載なし（読んだ33頁・検索7回）
+- 採用予算・採用費：
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「1人を採用にかける費用が低い企業ほどハローワークの利用率が高く、費用が高くなるにつれてハローワーク以外の5つの経路の利用率が増加する傾向が見られます」（https://smbiz.asahi.com/article/15803742）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://prtimes.jp/main/html/rd/p/000000169.000148054.html）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://prtimes.jp/main/html/rd/p/000000169.000148054.html）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://hrog.co.jp/news/entry-422/）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://hrog.co.jp/news/entry-422/）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://hrog.net/report/137006/）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://hrog.net/report/137006/）
+- 1人あたり採用単価：
+  - 「一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります」（https://academia.hrog.net/report/2092/）
+  - 「一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります」（https://prtimes.jp/main/html/rd/p/000000169.000148054.html）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://prtimes.jp/main/html/rd/p/000000169.000148054.html）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://prtimes.jp/main/html/rd/p/000000169.000148054.html）
+  - 「一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります」（https://hrog.co.jp/news/entry-422/）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://hrog.co.jp/news/entry-422/）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://hrog.co.jp/news/entry-422/）
+  - 「特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります」（https://hrog.co.jp/news/entry-422/）
+  - 「一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります」（https://hrog.net/report/137006/）
+  - 「採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります」（https://hrog.net/report/137006/）
+  - 「このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています」（https://hrog.net/report/137006/）
+  - 「特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります」（https://hrog.net/report/137006/）
+- 調査対象：
+  - 「（注２）同一企業内転入者には、同一企業（会社）内の他の事業所から転入してきた者や休職・その他の理由により給与の支給が停止されていた者で、調査対象期間中に復職、」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「特定地方公共団体以外の者 許可制」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「特定地方公共団体 国に通知」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「46都道府県4区239市111町15村3組合」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「商工会議所、農協等が構成員のために行う無料職業紹介事業を届出制に緩和、地方公共団体による無料職業紹介事業の容認」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「平成27年 ○ 地方公共団体が無料職業紹介を行う際の各種規制を緩和（届出制の廃止、国の監督（事業停止命令等）の廃止等」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「募集する職種について、地域に」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「など、地域の労働市場の状況につ」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「・ 特定地方公共団体が行う無料職業紹介事業は通知制」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「第５条の４ 公共職業安定所、特定地方公共団体、職業紹」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「４ 国の機関若しくは地方公共団体又はその委託を受けた者が法令の定める事務」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「〇インターネットを利用した入職者の利用したサイト等（複数回答）」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「（注）しごと情報ネットは2016年３月に閉鎖されており、2018年の回答には含まれていない」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「（調査対象）」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「※２年以内に複数回の求職経験がある場合は、直近の求職活動について回答」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+- 採用経路：
+  - 「〇 ハローワークの求職者向けサービスの概要･････21」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「○ ハローワークの求人者向けサービスの概要･････22」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「〇 ハローワークにおける職業紹介等･････････････23」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「〇 職業紹介事業の概要･････････････････････････24」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「〇 民間職業紹介事業の市場拡大･････････････････25」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「ハローワーク：約-0.04、民間職業紹介：約-0.25、広告：約0.81、縁故：約-0.70、その他：約0.00」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「（出所）厚生労働省「職業安定業務統計」「職業紹介事業報告書」、全国求人情報協会「求人広告掲載件数等集計結果」」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「（注１）ハローワークの求人数は常用新規求人数の各月合計、職業紹介事業者の求人数は各年度における常用求人数、求人メディアにおける求人件数は各月掲載求人件数の合計を表」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「したがって、ハローワーク・民間職業紹介事業者の求人数と求人メディアの求人件数を単純に比較することはできない」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「民間紹介事業者の求人数」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「ハローワークの求人数」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「〇 求人の年収帯を見ると、民間職業紹介事業者の取り扱うものが最も高い一方、ハローワークの取」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「○ 求人メディアは、年収帯においても取り扱い職種においても、ハローワークと民間職業紹介事業」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「（出所）ハローワークについては、ハローワークシステムから抽出したデータを特別に集計」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「民間職業紹介事業者及び求人メディアは「転職賃金相場2019」（一般社団法人 人材サー」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+- 人手不足：
+  - 「○ 有効求人倍率及び完全失業率の動向････６」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「いては2020年以降減少する見込みであり、人手不足の傾向が継続するものと考えられる」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「令和8年3月の有効求人倍率は1.18倍で、前月に比べて0.01ポイント低下」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「令和8年3月の新規求人倍率は2.15倍で、前月に比べて0.05ポイント上昇」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「令和7年度平均の有効求人倍率は1.20倍で、前年度に比べて0.05ポイント低下」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「令和8年3月の数値をみると、有効求人倍率（季節調整値）は1.18倍となり、前月を0.01ポイント下回りました」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「新規求人倍率（季節調整値）は2.15倍となり、前月を0.05ポイント上回りました」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「正社員有効求人倍率（季節調整値）は0.99倍となり、前月と同水準となりました」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.74倍、最低は大阪府の」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「令和7年度平均の有効求人倍率は1.20倍となり、前年度の1.25倍を0.05ポイント下回りました」（https://www.mhlw.go.jp/stf/newpage_72811.html）
+  - 「令和7年12月の有効求人倍率は1.19倍で、前月に比べて0.01ポイント上昇」（https://www.mhlw.go.jp/stf/newpage_69302.html）
+  - 「令和7年12月の新規求人倍率は2.17倍で、前月に比べて0.03ポイント上昇」（https://www.mhlw.go.jp/stf/newpage_69302.html）
+  - 「令和7年平均の有効求人倍率は1.22倍で、前年に比べて0.03ポイント低下」（https://www.mhlw.go.jp/stf/newpage_69302.html）
+  - 「令和7年12月の数値をみると、有効求人倍率（季節調整値）は1.19倍となり、前月を0.01ポイント上回りました」（https://www.mhlw.go.jp/stf/newpage_69302.html）
+  - 「新規求人倍率（季節調整値）は2.17倍となり、前月を0.03ポイント上回りました」（https://www.mhlw.go.jp/stf/newpage_69302.html）
+- 補助金：
+  - 「（注２）民間職業紹介事業者及び求人メディアについては、求人上限額の上位15％分位額の最高額と、求人下限額の中央値の最低額を示している」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「＜首都圏の求人上限額（上位15％分位額）と求人下限額（中央値） 2019年４月～８月＞」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「A9：就職後の定着支援金、求職者集めのための報酬、成功報酬確保のための支払い、アンケート調査に対する報酬、就職フェア参加に対する報酬などがあります」（https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/）
+  - 「A19：就職後一定期間勤務した場合の支援金、面接参加時の電子ギフト券、転職フェア参加時のギフトカードなどがあります」（https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/）
+  - 「令和7年 補助率10分の10、紫波町が全額支援する地方創生プロジェクトが始動」（https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/）
+- 料金：
+  - 「（注２）右グラフにおいて、円の大きさは産業別の転職者数の多寡を示している」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「り扱う求人は年収の幅が狭く、おおむね220～550万円の間となっている」（https://www.mhlw.go.jp/content/12401000/000714591.pdf）
+  - 「民間職業紹介事業者 85.1万円 (n=175) 19.2万円 (n=56)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「求人情報誌・チラシ 11.2万円 (n=113) 7.7万円 (n=115)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「インターネットの求人情報サイト 28.5万円 (n=254) 10.8万円 (n=149)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「インターネットの求人情報まとめサイト 6.4万円 (n=39) 3.2万円 (n=33)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「スカウトサービス 91.4万円 (n=51) 44.0万円 (n=5)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「新聞広告・屋外広告 7.1万円 (n=18) 4.5万円 (n=14)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「ＳＮＳ 0.9万円 (n=15) 0.2万円 (n=17)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「知り合い・社員等からの紹介（縁故） 4.4万円 (n=99) 3.4万円 (n=67)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「自社ＨＰ等からの直接応募 2.8万円 (n=150) 2.7万円 (n=64)」（https://www.mhlw.go.jp/content/11600000/000831165.pdf）
+  - 「ハローワークの平均月給は、2019年9月時点で19万5,615円、2026年7月時点で23万3,392円でした」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「一方、民間求人サイトの平均月給は、2019年9月時点で25万2,070円、2026年7月時点で29万6,793円です」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「両者の差額を見ると、2019年9月時点では5万6,455円でしたが、2026年7月には6万3,401円となり、6,946円拡大しました」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「期間を通して、民間求人サイトが5万～6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+- 検索結果の抜粋：
+  - 「企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... — 企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... 毎日新聞 https://mainichi.jp > articles」（https://mainichi.jp/articles/20261008/pr2/00m/020/691000c）
+  - 「論点① ハローワーク と民間職業 紹介 事業者の役割分担 — 論点① ハローワーク と民間職業 紹介 事業者の役割分担 厚生労働省 PDF https://www.mhlw.go.jp > file > 05-Shingikai-11601...」（https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf）
+  - 「企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... — 企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000000169.000148054.html）
 
 ## 都道府県別・地域別の製造業の有効求人倍率と人手不足（manufacturing job openings to applicants ratio by prefecture）
 - 文脈：地方・製造業
-- 採用予算・採用費：記載なし（読んだ34頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ34頁・検索7回）
-- 調査対象：記載なし（読んだ34頁・検索7回）
-- 採用経路：記載なし（読んだ34頁・検索7回）
-- 人手不足：記載なし（読んだ34頁・検索7回）
-- 補助金：記載なし（読んだ34頁・検索7回）
-- 料金：記載なし（読んだ34頁・検索7回）
+- 採用予算・採用費：
+  - 「厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+- 1人あたり採用単価：
+  - 「なお、有効求人倍率は、求職者1人あたりに何件の求人があるかを示す指標です」（https://chihososei-journal.jp/feature/10853/）
+  - 「ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「有効求人倍率が高くなると求職者1人あたりの求人数も多くなるため、働き口を探す人は仕事を選びやすくなります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「これは、1人あたり2件の求人があるということを指します」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「初期リスクの少ない成功報酬型と最安採用単価30万円の前金型から選べる」（https://enterprise.matcher.jp/recruiting-knowledge/jobs-to-applicants-ratio）
+  - 「働きたい人1人あたりの求人の数を、47都道府県で並べる」（https://kankeijinko.jp/data/ranking/job-openings-ratio/）
+  - 「人口が多く求職者も集中する首都圏では、1人あたりの求人が相対的に少なくなる構造的な要因があります（」（https://stats47.jp/blog/unemployment-structure）
+- 調査対象：
+  - 「職業紹介-都道府県別有効求人倍率：主要労働統計指標｜労働政策研究・研修機構（JILPT）」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「> 職業紹介-都道府県別有効求人倍率」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「職業紹介-都道府県別有効求人倍率」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「都道府県の労働統計」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「白書等（経済財政白書、世界経済の潮流、地域の経済等）」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「地域の経済2020-2021」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「本節では2020年以降の各地域の雇用の動向についてみていく」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「感染症は、消費や生産だけではなく、各地域の雇用にも大きな影響を及ぼした」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「地域の雇用は、感染症の影響により弱い動きとなっている中で、求人数等の動きに底堅さもみられる」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「（有効求人倍率は大きく低下したが９月以降は多くの地域で持ち直しの動き）」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「続いて地域別の有効求人倍率の推移をみると（」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「）、各地域の倍率は感染症以前に比べて大きく低下したが、多くの地域では持ち直しの動きがみられる」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「まず2019年12月から2020年９月までの動きをみると、全ての地域で求人倍率は低下している」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「2020年９月以降の動きをみると、甲信越、東北、北陸など多くの地域で、持ち直しの動きがみられる」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「ただし北海道、南関東、近畿、沖縄といった大都市部や観光・宿泊業が基幹産業である地域では、戻りが弱い傾向もみられる」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+- 採用経路：
+  - 「職業紹介-都道府県別有効求人倍率：主要労働統計指標｜労働政策研究・研修機構（JILPT）」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「> 職業紹介-都道府県別有効求人倍率」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「職業紹介-都道府県別有効求人倍率」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「厚生労働省「一般職業紹介状況」」（https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html）
+  - 「詳細をみると、まず上位の４業種は、飲食の高級レストランなどに加え、サービスの都市型ホテル・旅館、また雇用では新聞社の求人広告が入っている」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「厚生労働省「職業安定業務統計」（一般職業紹介状況）都道府県（就業地）別労働市場関係指標 有効求人倍率・有効求人数（実数、パートタイムを含む一般）」（https://chihososei-journal.jp/feature/10853/）
+  - 「ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「一般職業紹介状況（職業安定業務統計）」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「この倍率は、求人を受け付けたハローワークの所在地で集計されています（受理地別）」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「同じ統計には、その県のハローワークで職を得た人が何件で、うち何件が他県での就職だったかも収録されています」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「埼玉県は32.9%、千葉県は32.0%、神奈川県は29.7%と、ハローワーク経由の就職の3割が他県での就職です」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「コンサルタント紹介」（https://www.transtructure.com/hr-data-analysys/labor/p17764/）
+  - 「サービス紹介」（https://www.transtructure.com/hr-data-analysys/labor/p17764/）
+  - 「厚生労働省「一般職業紹介状況_職業別労働市場関係指標（実数）」、「賃金構造基本統計調査」をもとに、職種別有効求人倍率の推移と職種別の時間当たり単価との関係性を解説します」（https://www.transtructure.com/hr-data-analysys/labor/p17764/）
+  - 「出典：厚生労働省「一般職業紹介状況_職業別労働市場関係指標（実数）」に基づき作成（2023年～2025年調査、2024年～2025年公開）」（https://www.transtructure.com/hr-data-analysys/labor/p17764/）
+- 人手不足：
+  - 「（有効求人倍率は大きく低下したが９月以降は多くの地域で持ち直しの動き）」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「有効求人倍率は、感染が拡大する前（2020年１月）には1.51倍であったが、感染が拡大した２月以降は低下が続き、2020年９月及び10月には1.04倍となった（」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「有効求人倍率の低下幅をリーマンショック時と比較すると、リーマンショック時の求人倍率の低下幅は▲0.44であったが、今般の感染症による低下幅は▲0.47であり、低下幅は感染症時の方がやや大きい」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「ただし、有効求人倍率の水準に着目すれば、2008年のリーマンショック時には、ショックが発生する前より倍率は1.0を下回る水準にあり、2009年の８月に0.42まで低下した」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「一方、2020年の感染が拡大する前の求人倍率は1.5を上回る水準にあり、感染症下の2020年９月と10月に倍率は1.04まで低下したものの、依然として1.0倍を上回る水準を維持している」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「まず2019年12月から2020年９月までの動きをみると、全ての地域で求人倍率は低下している」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「なお、有効求人倍率の水準に着目すると、2019年12月には、すべての地域で倍率は1.0倍を上回る（求人数が求職者数を上回る）状態であったが、2021年６月には、南関東と沖縄で倍率が1.0を下回る状態となっている」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「特に沖縄の有効求人倍率は0.88と他の地域より一段と低い水準にある」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「上述のような各地域の有効求人倍率の変化が、求人数の変化と求職者数の変化のどちらの要因によって生じたかを確認するため、ここでは、2020年３月から2021年６月までの有効求人倍率の月次変化について寄与度の分解を行った（」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「結果をみると、総じて有効求人倍率の変化要因の動きは多くの地域で共通しており、2020年の３～５月までの期間は、各地域で求人数が大きく減少したことが有効求人倍率低下の主要因となっていた」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「続く2020年の６～９月頃までの有効求人倍率の変化の状況をみると、この時期には主に求職者数の増加が寄与する形で、各地域の有効求人倍率が低下した」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「2020年の10～12月には、求人数と求職者数に大きな変化はなく、有効求人倍率がほぼ横ばいで推移した地域が多かった」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「2021年１月から６月にかけては、都市部を中心に緊急事態宣言が再び発出される中で、各地域の有効求人倍率は概ね上昇傾向となった」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「特に、東北、甲信越、北陸、九州といった地域では、2021年の３月から５月にかけて、求人数の増加が有効求人倍率の上昇に寄与している」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+  - 「都道府県別の有効求人倍率ランキング2026年7月」（https://chihososei-journal.jp/feature/10853/）
+- 補助金：
+  - 「また、内閣府（2021）「日本経済2020－2021－感染症の危機から立ち上がる日本経済－」では、雇用調整助成金による失業抑制効果を試算し、2020年４－６月期の失業率は、雇用調整助成金の特例措置等がない場合に比べて、３％ポイント程度抑制されたとしている」（https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html）
+- 料金：
+  - 「点線は47都道府県の中央値（有効求人倍率1.26倍、所定内給与額326.0千円）です」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「右下の領域には福井県（1.73倍・317.0千円）や岐阜県（1.52倍・321.1千円）など、採用は難しいのに賃金は中央値以下という県が並びます」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「逆に左上には神奈川県（0.91倍・387.9千円）や千葉県（0.99倍・352.4千円）など、賃金は高いが求人倍率は低い県が位置します」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「東京都（1.76倍・440.8千円）だけは右上に離れています」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「以前に比べて2012年末以降の景気回復期の雇用人員判断ＤＩのばらつきが小さいのも、リーマン・ショック前は円安、世界貿易の拡大の下で製造業主導の回復であった一方、2012年末以降の景気回復局面はそれに比べて内需主導の回復であったためと考えられる」（https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html）
+  - 「（１）が示すように、1980年代後半～1990年代前半における経済成長率は、円高不況を脱した後のバブル景気の時期に当たる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「実際に、同図（２）により、1990年の産業連関表を用いて、消費額が１兆円増加した場合の雇用誘発効果をみると、約17.5万人増加すると試算される」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「（１）から、1990、2000、2015年の産業連関表を用いて、１兆円の消費の増加」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「プラザ合意以降の円高の進展による景気後退や、その後に移行したバブル経済への移行等については、石井（2011）を参照」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「時系列での比較のため、ここでは消費者物価指数（総合）を用いて、各年、2015年の１兆円に相当する額の消費の増加があったものとみなして計算している」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「厚生労働省「毎月勤労統計調査」における、ボーナスも含んだ時給では、2023年において、フルタイム労働者は約2,670円、パートタイム労働者は約1,320円であり、これらを単純に比較すると２倍程度の時給差が存在している」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「初期リスクの少ない成功報酬型と最安採用単価30万円の前金型から選べる」（https://enterprise.matcher.jp/recruiting-knowledge/jobs-to-applicants-ratio）
+  - 「労働生産性（事業従事者一人当たり付加価値、2016年）（万円） 3,306 2,110」（https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf）
+  - 「※３ 実質労働生産性は、実質付加価値（100万円）／マンアワー（1000人×総実労働時間）で算出し、対数変換している」（https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf）
+  - 「※４ IT資本装備率は、IT 資本ストック（有形固定資産含む） （100 万円、2000年価格）／従業者数（人）で算出し、対数変換している」（https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf）
+- 検索結果の抜粋：
+  - 「都道府県別 の 有効求人倍率 ランキング2026年7月 — 都道府県別 の 有効求人倍率 ランキング2026年7月 chihososei-journal.jp https://chihososei-journal.jp > 特集」（https://chihososei-journal.jp/feature/10853/）
+  - 「第1章 第1節 人手不足 感の 地域 ごとのばらつき - 内閣府 — 第1章 第1節 人手不足 感の 地域 ごとのばらつき - 内閣府 内閣府ホームページ https://www5.cao.go.jp > chr18_01-01」（https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html）
+  - 「慢性的な 人手不足 の実態～賃金・ 求人倍率 の関係 2025 — 慢性的な 人手不足 の実態～賃金・ 求人倍率 の関係 2025 transtructure.com https://www.transtructure.com > hr-data-analysys > labor」（https://www.transtructure.com/hr-data-analysys/labor/p17764/）
+  - 「【2026年8月版】工場・ 製造業の有効求人倍率 とは？見方や ... — 【2026年8月版】工場・ 製造業の有効求人倍率 とは？見方や ... Man to Man株式会社 https://lp.man-to-man-g.com > blog > job-offer-ratio」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「第1章 人手不足 の背景 - 厚生労働省 — 第1章 人手不足 の背景 - 厚生労働省 厚生労働省 https://www.mhlw.go.jp > stf > hakusyo > roudou」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
 
 ## 地方の製造業の採用にかける広報・採用サイトの費用（recruitment marketing spend regional manufacturers）
 - 文脈：地方・製造業
-- 採用予算・採用費：記載なし（読んだ35頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ35頁・検索7回）
-- 調査対象：記載なし（読んだ35頁・検索7回）
-- 採用経路：記載なし（読んだ35頁・検索7回）
-- 人手不足：記載なし（読んだ35頁・検索7回）
-- 補助金：記載なし（読んだ35頁・検索7回）
-- 料金：記載なし（読んだ35頁・検索7回）
+- 採用予算・採用費：
+  - 「1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「私たちコンマルクは、自社の採用広報に力を入れ続けた結果、一人あたりの採用コストを31.2万円まで削減（業界平均103.3万円）」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「【保存版】採用コストは何で決まる？内訳2種と、削れる費用の見分け方」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「採用コストとは｜「払った額」ではなく「1人採るまでの総額」」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「Q2. 採用コストを一番下げやすいのはどこですか」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「採用コストとは、1人を採用するまでにかかったお金と手間の総額です」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「リクルート就職みらい研究所の「就職白書2020」では、2019年度の1人あたり平均採用コストは新卒採用で93.6万円、中途採用で103.3万円とされています（※A）」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「データ❸「2019年度新卒採用および中途採用1人あたりの平均採用コスト」」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「株式会社マイナビが実施した「中途採用状況調査2025年版」では、従業員規模別の採用費用がわかっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「2024年の1年間で発生した中途採用費用の平均値は、従業員規模別で見ると以下のようになっています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「従業員規模別・中途採用の平均採用費用（2024年）」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「業種別・中途採用の平均採用費用（2024年）」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+  - 「流通・小売・フードサービス業の平均採用費用は303.8万円であるのに対し、運輸・交通・物流・倉庫業は1,459.6万円と、4倍以上もの費用が発生しています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price）
+- 1人あたり採用単価：
+  - 「」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「製造業の中途採用における1人あたりの平均採用単価は約102.3万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「こちらの2019年調査では全体の新卒採用単価が72.6万円、中途採用単価が84.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「私たちコンマルクは、自社の採用広報に力を入れ続けた結果、一人あたりの採用コストを31.2万円まで削減（業界平均103.3万円）」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「コンマルクを運営する株式会社GIGでは、Wantedlyや自社ブログを活用し採用単価31.2万円を実現」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「Wantedlyで成果を出す運用方法｜フォロワー数7位・採用単価5万円のGIGが解説」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「Q1. 採用単価は、どこまでを費用に含めればいいですか」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「「今年は媒体費を抑えた」ではなく「今年は1人あたりいくらで採れたか」で見る」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「同じ「1人採用」でも、有資格者を通年で探し続けた場合と、未経験可のポジションを短期で埋めた場合では全く違います」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「リクルート就職みらい研究所の「就職白書2020」では、2019年度の1人あたり平均採用コストは新卒採用で93.6万円、中途採用で103.3万円とされています（※A）」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「データ❸「2019年度新卒採用および中途採用1人あたりの平均採用コスト」」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「右にいくほど出会える人材の専門性や希少性は上がりますが、1人あたりの費用も上がります」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり平均採用コスト（採用単価）はおおむね80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「2025年の中途採用における一人あたりの平均採用コストはおよそ80万～100万円前後」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 調査対象：
+  - 「中部地方2000名に聞いた求職者が本当に求める働き方」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「：地方立地や業界イメージの影響で、求人を出しても応募が少なくなりがちです」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「技術力の高さ、製品の独自性、市場シェアはもちろんのこと、「安定した経営基盤」「充実した福利厚生」「風通しの良い社風」「多様なキャリアパス」「地域社会への貢献」なども強力なアピールポイントになり得ます」（https://www.conmark.jp/column/manufacturing-industry-recruitment）
+  - 「「地方採用」の成功鉄則は？」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「地方採用コラム」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「地方企業の支援実績1,180社以上！」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「全国平均には、都市部の大手企業が動かした金額も、地方の小規模な採用もまとめて含まれています」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「しかも地方の中小企業では、担当者の多くが本業と兼務です」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「「地方採用WORKS」は、地方企業に特化した採用支援とサイト制作を得意とする株式会社リーピーが運営しています」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「弊社は地方企業でありながら採用広告なしで、年600名の応募獲得を実現」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「大きな媒体に出しても、地方の中小企業では応募が1桁で終わることもあります」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「無料で使える求人媒体はこんなにある｜地方中小企業の露出の増やし方」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「採用支援を行う弊社自身、岐阜という地方に拠点を置きながら、採用広告を使わずに年間1,152名のエントリーを自社で獲得してきました」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「地方企業だから広告なしで同じ数が採れる、という話ではありません」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+  - 「地方企業でも」（https://local-saiyo.jp/blog/recruitment-activities/method/p17675/）
+- 採用経路：
+  - 「製造業の採用コスト削減を実現する具体策を徹底解説！一人当たり採用単価の平均や相場を把握し、求人広告の費用対効果を高める方法や応募単価を下げる手段、さらに定着率改善による間接的コスト削減の成功事例まで紹介」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「求人広告の費用対効果を最大化する媒体選定と改善」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用コストとは、求人広告や人材紹介料などの」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「求人広告掲載費」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「（Indeed、求人ボックス、リクナビNEXTなど）」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「人材紹介会社への紹介手数料」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用活動にかかる外部コストとは、主に求人広告費や人材紹介会社への手数料など、」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「総額には、外部コスト（求人広告費・人材紹介料など）と内部コスト（面接や書類選考にかかる社内工数）を含めます」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「：広告費や人材紹介手数料の増加だけでなく、内部工数も増えることで、一人当たりの総コストが上がります」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「ここでは、製造業で特に有効な5つの具体策を紹介します」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「たとえば、世界最大級の求人サイトである」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「Indeed」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「わたしたちの支援事例では、Indeedで露出が伸び悩んでいた企業様が、」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「「求人ボックス」へ掲載を切り替えた結果、費用を抑えながら表示回数・クリック数の両方を改善」（https://www.fostor.jp/archives/column/cost-reduction）
+- 人手不足：
+  - 「3-3.長期的な人手不足の見通し」（https://one-group.jp/humanresource/use/careerrecruiting_cost.html）
+  - 「本項で使用する資料は、中小企業庁による「中小企業白書」〜第2部 深刻化する人手不足と中小企業の生産性革命〜 から引用します」（https://www.sunloft.co.jp/dx/blog/rural-recruit/）
+  - 「※未充足率＝（未充足者数／常用労働者数）×1002．」（https://www.sunloft.co.jp/dx/blog/rural-recruit/）
+  - 「有効求人倍率は1.2倍（2024年平均）で高止まり」（https://l-planning.jp/column/recruitsite/656/）
+  - 「特に従業員300人未満の中小企業における求人倍率は、大企業と比較して圧倒的に不利な状況です」（https://l-planning.jp/column/recruitsite/656/）
+  - 「業界が相対的に人手不足であり、2024年問題も大きな課題になっている」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「：厚生労働省の一般職業紹介状況（2026年8月、季節調整値）では、就業地別の有効求人倍率で東京都（1.07倍）を上回る道府県が、都市圏の府県も含めて39あります」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「有効求人倍率は、ハローワークで仕事を探している人1人に対して求人が何件あるかを示す数字です」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「厚生労働省の「一般職業紹介状況（令和8年8月分）」では、全国の有効求人倍率（季節調整値）は1.18倍でした」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「厚生労働省の一般職業紹介状況（2026年8月、季節調整値）では、働く場所で数える就業地別の有効求人倍率で、東京都の1.07倍を上回る道府県が、都市圏の府県も含めて39あり、地元で働く人をめぐる取り合いが起きています」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「厚生労働省「一般職業紹介状況（令和8年8月分）について」（2026年10月2日公表）報道発表資料 第6表-1・6表-2（全国と都道府県別の有効求人倍率、就業地別・受理地別、季節調整値）」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「まずは人口の動き、求人倍率、給与相場の3点から現状を解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/）
+  - 「2026年8月の有効求人倍率（季節調整値）は1.18倍、新規求人倍率は2.06倍、正社員の有効求人倍率は1.00倍でした」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/）
+- 補助金：
+  - 「下限25円～上限1,000円の中で設定することが可能となっております」（https://www.bsearch.co.jp/media/local_recruitment/）
+  - 「：移住支援金（世帯100万円以内、単身60万円以内）の対象になる「ふるさと求人」への掲載、副業・リモート人材の活用、地元の学校・ハローワーク・人脈を組み合わせます」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「一定の要件を満たす駐車場の料金は、月5,000円を上限に加算できます」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「5. U・Iターン人材の集め方：移住支援金とふるさと求人」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「求人票に「移住支援金の対象求人です」と書けると、都市部の人にとって移る理由の1つになります（推測です）」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「なお、厚生労働省の「早期再就職支援等助成金（UIJターンコース）」は、東京圏からの移住者を雇い入れた事業主の採用活動経費を助成する制度でしたが、令和7年度をもって終了しています」（https://hokiraon.jp/column/chiho-saiyou/）
+  - 「青森県令和4年度コロナ禍における求人情報発信支援事業費補助金」（https://hypex.jp/articles/recruitment-site-price）
+  - 「4.補助金・助成金の活用を検討する」（https://piic.co.jp/magazine/%E6%8E%A1%E7%94%A8%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E8%B2%BB%E7%94%A8%E7%9B%B8%E5%A0%B4%E3%82%92%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83%EF%BC%81%E6%96%99%E9%87%91%E5%88%A5%E3%81%AE%E5%88%B6%E4%BD%9C/）
+- 料金：
+  - 「製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「69.4万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「97.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「69.7万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「102.3万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「67.7万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「55.5万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「84.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「58.2万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「78.1万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「86.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「製造業の中途採用における1人あたりの平均採用単価は約102.3万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「こちらの2019年調査では全体の新卒採用単価が72.6万円、中途採用単価が84.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「毎月のコストが30万円から15万円に減少」（https://www.fostor.jp/archives/column/cost-reduction）
+- 検索結果の抜粋：
+  - 「採用サイト 制作の 費用 相場と内訳｜421名 調査 でわかった ... — 採用サイト 制作の 費用 相場と内訳｜421名 調査 でわかった ... 株式会社hypex https://hypex.jp > articles」（https://hypex.jp/articles/recruitment-site-price）
 
 ## 自治体・国の採用支援の補助金（地方の製造業向け）（government hiring subsidies regional manufacturers Japan）
 - 文脈：地方・製造業
-- 採用予算・採用費：記載なし（読んだ34頁・検索7回）
-- 1人あたり採用単価：記載なし（読んだ34頁・検索7回）
-- 調査対象：記載なし（読んだ34頁・検索7回）
-- 採用経路：記載なし（読んだ34頁・検索7回）
-- 人手不足：記載なし（読んだ34頁・検索7回）
-- 補助金：記載なし（読んだ34頁・検索7回）
-- 料金：記載なし（読んだ34頁・検索7回）
+- 採用予算・採用費：
+  - 「②従業員1人あたりの給与支給総額の年平均成長率を+3.5％以上増加させる」（https://www.sme-support.co.jp/column/p1242/）
+  - 「・補助事業実施期間終了時点で「事業場内最低賃金を45円以上増加させる」「給与支給総額を6％以上増加させる」事業計画を策定し、達成する」（https://www.sme-support.co.jp/column/p1242/）
+  - 「補助を受けるためには、3〜5年の事業計画期間内に、付加価値額の年平均成長率4.0％以上、給与支給総額の増加、最低賃金の引き上げなどの要件を満たす必要があります」（https://www.sme-support.co.jp/column/p1242/）
+  - 「③補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を事業実施都道府県における最低賃金の直近5年間の年平均成長率以上増加させる、または給与支給総額の年平均成長率を2.5％以上増加させる」（https://www.sme-support.co.jp/column/p1242/）
+  - 「・補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる」（https://www.sme-support.co.jp/column/p1242/）
+  - 「・補助事業終了後3年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる目標を掲げ、達成すること」（https://www.sme-support.co.jp/column/p1242/）
+  - 「経済産業省大型補助金の支援総額 驚愕の270億円以上！」（https://hojokin-joseikin.com/2061/）
+  - 「また1600社以上の補助金申請プロジェクトのリーダーとして活躍し、その支援の総額は270億円以上に」（https://hojokin-joseikin.com/2061/）
+  - 「補助事業終了後3～5年の事業計画期間において、一人当たり給与支給総額の年平均成 長率を3.5％（以下「一人当たり給与支給総額基準値」という」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「事業計画期間内に、給与支給総額を年平均成長率3.5％以上向上させること」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「※①補助対象となる経費の総額の2分の1を上限」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「※②補助対象となる経費の総額の2分の1を上限とし、かつ補助金額で100万円を限度」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「給与支給総額について、年率平均2％以上向上する目標（給与支給総額：役員または従業員に支払われる給料、賃金および賞与のほか、給与所得とされる手当を指す）」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「総額3,000億円（令和9年度までの国庫債務負担含む）」（https://seichotoushi-hojo.jp/）
+  - 「②賃上げ要件（補助事業の終了後3年間の対象事業に関わる従業員等1人当たり給与支給総額の年平均上昇率が、4.5%以上）」（https://seichotoushi-hojo.jp/）
+- 1人あたり採用単価：
+  - 「②従業員1人あたりの給与支給総額の年平均成長率を+3.5％以上増加させる」（https://www.sme-support.co.jp/column/p1242/）
+  - 「③補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を事業実施都道府県における最低賃金の直近5年間の年平均成長率以上増加させる、または給与支給総額の年平均成長率を2.5％以上増加させる」（https://www.sme-support.co.jp/column/p1242/）
+  - 「・補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる」（https://www.sme-support.co.jp/column/p1242/）
+  - 「・補助事業終了後3年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる目標を掲げ、達成すること」（https://www.sme-support.co.jp/column/p1242/）
+  - 「有期→正規：1人あたり80万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「無期→正規：1人あたり40万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「有期→正規：1人あたり40万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「無期→正規：1人あたり20万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「有期→正規：1人あたり90万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「有期→無期：1人あたり45万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「無期→正規：1人あたり45万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「3％以上4％未満：1人あたり4万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「4％以上5％未満：1人あたり5万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「5％以上6％未満：1人あたり6.5万円」（https://www.sme-support.co.jp/column/p1242/）
+  - 「6％以上：1人あたり7万円」（https://www.sme-support.co.jp/column/p1242/）
+- 調査対象：
+  - 「この費用を補助する制度が、都道府県や市区町村にあります」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「国の補助金と違い、応募できるのはその地域に事業所がある企業だけです」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「市区町村に制度がなくても、都道府県の制度は県内のどの企業でも使えます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「都道府県ごとに、制度の名称・支援の種類・対象業種・対象国・補助の上限額・申請先を一覧にしました」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「しかし都道府県や市区町村にも、海外展開を後押しする独自の制度があります」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「自治体の制度は「地域の企業だけ」が対象になる」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「一方で自治体の制度は、その都道府県や市区町村に本社・事業所がある企業だけが対象です」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「国にも同じ規模の制度はありますが、自治体の制度は応募できる企業が地域内に限られるぶん、競争はおだやかです」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「都道府県の制度は市区町村の企業も使える」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「見落とされやすい点ですが、都道府県の制度は、その県内であればどの市区町村の企業でも使えます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「自治体は友好提携を結んでいる都市や、海外事務所を置いている地域に強いネットワークを持っています」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「農林水産物や加工食品の輸出を対象にした制度が目立つのは、自治体が地域の産品を海外に売り込む施策として海外展開支援を位置づけているためです」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「狙っている国と自治体の重点地域が一致すれば、補助金だけでなく現地のネットワークも使えます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「都道府県（市区町村）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「旭川地域産品マーケティング支援事業（海外向け食品商談会）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+- 採用経路：
+  - 「海外ビジネスに関するお悩みを専門コンシェルジュがヒアリングし、課題解決に最適な支援専門家をご紹介します」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「海外人材採用・紹介」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「制度で出展の費用を抑えたあと、現地での販路づくりや会社設立など、補助金の対象にならない実務を誰に任せるかで迷ったときは、Digima〜出島〜に相談すると、条件に合う支援企業を紹介してもらえます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「マッチングで現地のバイヤーや代理店候補を紹介してもらう」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「自治体が持つ海外の事務所や提携先を通じて、現地のバイヤーや代理店候補を紹介する支援です」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「Digima〜出島〜では、専門コンシェルジュが状況をうかがい、補助金で出展した展示会のあとの進め方や、現地での販路づくり・会社設立を担える支援企業を紹介しています」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「多くは無料で利用でき、使える制度の紹介まで受けられます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「Digima〜出島〜は株式会社Resorzが運営する海外ビジネス支援プラットフォームで、専門コンシェルジュがお悩みをうかがい、130カ国に対応する登録サポート企業5,000社の中から、条件に合う支援企業を3〜5社に絞って紹介します」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「相談は無料で、紹介企業との契約の義務はありません」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「130カ国に対応する登録サポート企業5,000社の中から、専門コンシェルジュが条件に合う支援企業を3〜5社に絞って無料で紹介します」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「使える制度が見つからないとき、展示会に出たあとの進め方を決めたいときのご相談に加えて、地域の企業に紹介できる支援企業を探している自治体のご担当者さまからのご相談も承っています」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「▶︎補助金で出展したあとの販路づくりや、進出先の国で実務を担える支援企業の紹介を」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「最適サポート企業を無料紹介」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「Digima～出島～では海外ビジネス進出サポート企業の無料紹介・」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「事業者様の「Ａ県Ｂ市に工場を新設する」という設備投資計画を想定して、自治体ではどのような補助金・助成金制度があるのかをご紹介します」（https://www.ht-tax.or.jp/topics/kojyo-hojyokin/）
+- 人手不足：
+  - 「工場や設備などの大規模な投資を行う企業に対し、最大50億円の補助金を提供するものであり、人手不足に対処するための貴重な支援となっています」（https://www.sme-support.co.jp/column/p1242/）
+  - 「経済産業省がまとめた製造基盤白書（ものづくり白書）では、中小企業における製造業の人手不足感が、2022年・2023年は新型コロナウイルス感染症の感染拡大以前（2019年）より増加したと報告されました」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「第1章 我が国の人手不足の行方と中小製造業の現状」（https://www.chukiken.or.jp/report/1627/）
+  - 「1．今後の人手不足の行方」（https://www.chukiken.or.jp/report/1627/）
+  - 「（1）生産年齢人口の減少により、人手不足は慢性化する可能性あり」（https://www.chukiken.or.jp/report/1627/）
+  - 「パーソル総合研究所・中央大学「労働市場の未来推計 2030」（2018）によると、2030年時点においても全国的に人手不足が続いていることが分かる」（https://www.chukiken.or.jp/report/1627/）
+  - 「2．中小製造業の人手不足の実態」（https://www.chukiken.or.jp/report/1627/）
+  - 「（1）中小製造業の人手不足感は、サービス業と同水準まで強まった」（https://www.chukiken.or.jp/report/1627/）
+  - 「サービス業については、2012年時点では、建設を除くと最も人手不足感の強い産業であったが、省力化投資の進展を背景に近年は緩やかに推移している」（https://www.chukiken.or.jp/report/1627/）
+  - 「一方、製造業の人手不足感は急激に進行しており、2018年時点ではサービス業の水準まで強まった」（https://www.chukiken.or.jp/report/1627/）
+- 補助金：
+  - 「【2026年版】海外展開・輸出に使える自治体の補助金一覧｜東日本編（北海道〜愛知23都道県・222制度） | 海外進出ノウハウ | Digima〜出島〜」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「【2026年版】海外展開・輸出に使える自治体の補助金一覧｜東日本編（北海道〜愛知23都道県・222制度）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「北海道から愛知県までの23都道県と市区町村が実施する海外展開・輸出の補助金など222制度を一覧で掲載」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金・展示会出展・専門家相談・マッチングの4タイプ別に、対象業種・対象国・補助上限額・申請先を整理しました」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助の上限は中央値45万円で、出展料や渡航費の2分の1から3分の2が対象になります」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「【2026年版】海外展開・輸出に使える自治体の補助金一覧｜西日本編（三重〜沖縄24府県・154制度）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「▼【2026年版】海外展開・輸出に使える自治体の補助金一覧｜東日本編（北海道〜愛知23都道県・222制度）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「2. 支援は補助金・展示会・相談・マッチングの4タイプ」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「金額の面では、東日本の222件のうち上限額が分かる152件の中央値は45万円で、50万円以下が7割を占めます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「この要件を満たせば、投資額の補助率1％（上限1億円）および新規県内雇用者一人当たり10万円が助成されます」（https://www.ht-tax.or.jp/topics/kojyo-hojyokin/）
+  - 「全国の補助金・助成金・給付金一覧【2026年最新】 | 補助金エージェント」（https://hojokin-agent.jp/subsidy）
+  - 「3,782件の補助金・助成金・給付金情報を掲載中」（https://hojokin-agent.jp/subsidy）
+  - 「補助率 家賃（敷金、礼金は除く）の１／２」（https://hojokin-agent.jp/subsidy）
+  - 「補助率 開店に必要な改修工事費の１／２」（https://hojokin-agent.jp/subsidy）
+  - 「経営力強化に向けた創意工夫チャレンジ促進事業助成金（業務改善コース）【令和8年度第2回】」（https://hojokin-agent.jp/subsidy）
+- 料金：
+  - 「補助の上限は中央値45万円で、出展料や渡航費の2分の1から3分の2が対象になります」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「金額の面では、東日本の222件のうち上限額が分かる152件の中央値は45万円で、50万円以下が7割を占めます」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会／相談・専門家派遣、全業種、対象国の指定なし、上限200万円（海外実施の場合）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会／相談・専門家派遣、全業種（製造業者等）、対象国の指定なし、上限40万円（海外開催）、20万円（国内開催）」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会／相談・専門家派遣、食関連、対象国の指定なし、上限50万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会、食関連、対象国の指定なし、上限45万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会／相談・専門家派遣、全業種、対象国の指定なし、上限50万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会、全業種、対象国の指定なし、上限30万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会、農林水産物・加工品・市内製造品、対象国の指定なし、上限60万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会、全業種、対象国の指定なし、上限50万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金、製造業、対象国の指定なし、上限30万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会、製造業・情報サービス業、指定なし（国外開催の展示会）、上限25万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会／相談・専門家派遣、ものづくり（食品除く）、対象国の指定なし、上限50万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会／相談・専門家派遣、全業種、対象国の指定なし、上限100万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「補助金／展示会・商談会、木材・木製品、対象国の指定なし、上限250万円」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+- 検索結果の抜粋：
+  - 「【2026年版】海外展開・輸出に使える 自治体 の 補助金 一覧 — 【2026年版】海外展開・輸出に使える 自治体 の 補助金 一覧 Digima〜出島 https://www.digima-japan.com > ... > 助成金・補助金」（https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php）
+  - 「全国の 補助金 ・助成金・給付金一覧【2026年最新】 — 全国の 補助金 ・助成金・給付金一覧【2026年最新】 補助金エージェント https://hojokin-agent.jp > subsidy」（https://hojokin-agent.jp/subsidy）
+  - 「【2026年版】 製造業 におすすめの 補助金 ・助成金12選 — 【2026年版】 製造業 におすすめの 補助金 ・助成金12選 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム」（https://www.sme-support.co.jp/column/p1242/）
+  - 「【2026年版】 製造業 で使える 補助金 お勧め6選 — 【2026年版】 製造業 で使える 補助金 お勧め6選 補助金・助成金採択支援どっとコム https://hojokin-joseikin.com > ...」（https://hojokin-joseikin.com/2061/）
+  - 「【2026年版】 製造業 が活用できる 補助金 ・助成金7選と事例 ... — 【2026年版】 製造業 が活用できる 補助金 ・助成金7選と事例 ... Nにおまかせ！ https://biz.service.ntt-east.co.jp > columns > subsidy_webs...」（https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/）
+  - 「【 2025 年版】 製造業 が使える 補助金 と採択率アップのコツ — 【 2025 年版】 製造業 が使える 補助金 と採択率アップのコツ 株式会社エブネット https://eve-net.net > お金の話」（https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/）
+  - 「【 2025 年最新版】 製造業 が使える 補助金 制度まとめ！活用 ... — 【 2025 年最新版】 製造業 が使える 補助金 制度まとめ！活用 ... 小谷野税理士法人 https://koyano-cpa.gr.jp > nobiyo-kaikei > column」（https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7020/）
+  - 「国の 補助金 vs 地方自治体 の 補助金 ｜5000万円投資で本当に ... — 国の 補助金 vs 地方自治体 の 補助金 ｜5000万円投資で本当に ... 全国助成金・補助金サポートセンター https://jyoseikin-support.net > 補助金コラム一覧 > 補助金」（https://jyoseikin-support.net/subsidy_column/%E5%9B%BD%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91-vs-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%EF%BD%9C5000%E4%B8%87%E5%86%86%E6%8A%95%E8%B3%87%E3%81%A7%E6%9C%AC/）
+  - 「全国47 都道府県 企業立地助成金 一覧【2026年版】 — 全国47 都道府県 企業立地助成金 一覧【2026年版】 food-hojo.jp https://food-hojo.jp > 申請実務ノウハウ」（https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/）

@@ -1,0 +1,687 @@
+{
+ "name": "オンライン即時見積（業種を問わず）",
+ "en": "online instant quote calculator software",
+ "aliases": [
+  "price calculator widget",
+  "instant estimate form builder",
+  "見積シミュレーター",
+  "quote calculator",
+  "price calculator",
+  "instant quote"
+ ],
+ "context": "見積もり",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:05.414030+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "For ITAR licensed service providers, we offer a dedicated (local) installation and ensure design files, specifications and other data are encrypted both in transmission and at rest.",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Free Quoting Software (9 Top Picks for 2026)",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, the cost of CPQ software may depend on the size of your business and the number of users you have. It's best to research different CPQ software providers and compare their pricing plans to find the one that fits your budget and needs.Convert_’s free forever plan includes all of the platinum features.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your website should quote, qualify, and book for you. Stop being the bottleneck on every quote, every booking, every price question.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "What’s more, Calconic’s web calculators look great on both mobile and desktop websites, and can either be embedded on a specific page of your website or appear as a pop-up – you decide.",
+    "url": "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Documents help topic",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Seeded demo data makes the dashboard feel alive from the first visit. Buyers can see total leads, new leads, pipeline value, won value, top template, status breakdown, source breakdown, recent leads, CSV export, and reset controls.",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "No. The basic demo works with browser/local demo storage. Supabase, email providers, and CRM routing are optional production connections. Checkout is handled by the live Payhip link.",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Top 5 Topics",
+    "url": "https://mixam.com/support/quotes",
+    "pass": 3
+   },
+   {
+    "quote": "Mixam is a leading online printing platform that creates customizable print products for a global audience. We make print easy, accessible, and affordable with competitive pricing, exceptional materials and pro customer service. Our digital and offset printing solutions combine expert knowledge with the latest technology.",
+    "url": "https://mixam.com/support/quotes",
+    "pass": 3
+   },
+   {
+    "quote": "Most SaaS pricing pages fail at the same point: the prospect needs a quote but doesn't want to talk to sales yet. They leave, compare competitors, and maybe come back, or they don't. A self-serve pricing calculator bridges that gap. Prospects enter their requirements, see an instant estimate, and give you qualified lead data in the process.",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": "How do I prevent competitors from using my calculator to reverse-engineer pricing?",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": ". We build custom solutions on top of these patterns very quickly.",
+    "url": "https://venusafe.com/solutions/instant-quote-calculator",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "OEM Manufacturers",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Fully Customizable Widget",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Businesses can customize quote forms with branding elements such as logos, colors, and images. The quoting tools can also be embedded directly into websites, so customers can generate quotes without leaving the page.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your quotes should reflect your brand and pricing structure. Good quoting tools allow you to customize templates and layouts.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Build trust in your brand. Customers are more likely to buy from businesses that are honest and transparent about their services and pricing.",
+    "url": "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "pass": 3
+   },
+   {
+    "quote": "What’s more, Calconic’s web calculators look great on both mobile and desktop websites, and can either be embedded on a specific page of your website or appear as a pop-up – you decide.",
+    "url": "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "pass": 3
+   },
+   {
+    "quote": ". These templates let you design exactly how quote information appears in the final document, including your branding, selected items, pricing details, and terms. Allow your customers to download this PDF immediately after submission, or use the quote calculator internally to make quotes easier, faster, and more consistent for internal teams.",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Design your quote template with your branding and formatting, using Microsoft Word or another word processor.",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Quote Calculators for Agencies",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "QuoteForge Local is a white-label quote calculator starter kit for agencies, freelancers, and local-service web professionals who want instant estimates, lead capture, and embed-ready conversion tools without building the system from scratch.",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label client use",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Generic calculator plugins give you a blank builder. QuoteForge Local gives agencies a client-ready package: prebuilt local-service quote flows, white-label resale terms, dashboard preview, lead export, embed examples, WordPress install guidance, and agency sales documentation.",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label usage",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label quote calculator starter kit for agencies, freelancers, WordPress implementers, and local-service web professionals.",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "so you can display different pricing recommendations based on the prospect's configuration. Set your brand colors, fonts, and logo in the design settings.",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": ": \"Select any add-ons\" Premium Support ($49/mo), API Access ($29/mo), Custom Domain ($19/mo), Dedicated Account Manager ($99/mo) Enable",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Domain =",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Services",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "Close White-label Services",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "Open White-label Services",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Pricing Calculator | Estimate Your Cost | Nova & More",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Pricing",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "per month, white label rate",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "No. The numbers shown are Nova & More's white label wholesale rates. Most agency partners mark up between 40 and 80 percent when reselling to their own clients.",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Empower your clients to make faster, more informed decisions with a clear pricing table showing options based on quantity and priority. This feature gives you flexible control over pricing, ensuring you can offer the best deals for varying order sizes and priorities.",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and Distributors",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "The best free quoting software in 2026 is the one that fits your pricing complexity, whether that's a simple fixed-price estimate or a multi-variable calculation with conditional rules and integrations.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "Content variables, integrations",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "CPQ software - Configure, Price, Quote software - can vary in cost depending on the provider and the features included. Some",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "service. Moving services usually depend on many variables that’s why you need a personal offer,",
+    "url": "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "pass": 3
+   },
+   {
+    "quote": "the flexibility and variety of styling options that vary from color to different element types and",
+    "url": "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "pass": 3
+   },
+   {
+    "quote": "Determine your pricing variables",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "<div style=\"width:100%;max-width:960px;margin:auto\">",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "License, reseller, and handoff docs included",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Setup, embed, WordPress, reseller, and license pages",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency reseller guide",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Can buyers resell the raw source code?",
+    "url": "https://quoteforge-local.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Variant and Sketch Covers",
+    "url": "https://mixam.com/support/quotes",
+    "pass": 3
+   },
+   {
+    "quote": "Color Variance",
+    "url": "https://mixam.com/support/quotes",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Variance",
+    "url": "https://mixam.com/support/quotes",
+    "pass": 3
+   },
+   {
+    "quote": "Delivery costs vary depending on the number of prints you order and their destination (but these costs will appear as part of your final quote).",
+    "url": "https://mixam.com/support/quotes",
+    "pass": 3
+   },
+   {
+    "quote": "Define Your Pricing Variables",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": "({{variable_name}}) to insert all calculated values dynamically. Enable",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": "Test These Variations",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   },
+   {
+    "quote": "Leave your details and we will send back an exact quote for your selected services, based on your real client mix and scope — plus a free consultation to plan your margin.",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "No. The numbers shown are Nova & More's white label wholesale rates. Most agency partners mark up between 40 and 80 percent when reselling to their own clients.",
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "The best free quoting software in 2026 is the one that fits your pricing complexity, whether that's a simple fixed-price estimate or a multi-variable calculation with conditional rules and integrations.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "This guide compares nine of the strongest free quoting tools for 2026, from basic quote generators for freelancers and small teams to interactive calculators that handle complex pricing logic without code.",
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "pass": 3
+   },
+   {
+    "quote": "As customers fill out your form, Calculation fields constantly monitor the fields they reference. Change a quantity from 5 to 10, and any calculations using that quantity immediately recalculate and display the new result. This real-time updating creates a dynamic experience where customers see pricing adjustments as they make selections.",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: Plan your pricing structure",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Buyers want control. Research from Gartner consistently shows that B2B buyers prefer to gather information independently before engaging with a sales rep. For usage-based or tiered SaaS pricing, a static pricing table can't cover every configuration.",
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Nonprofits",
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.semify.com/white-label-roi-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/plasma-cutting/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digifabster.com/products/self-checkout/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onprintshop.com/print-estimating-software",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.convertsite.com/blog/best-free-quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onlinelabels.com/calculators/profitmargincalculator?srsltid=AYCX9vKJ3j2LWapCfCQ6m6Zztsj9_Nx-j2P491b7UdRtFQRwwq7i6E3z",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/software/manufacturing/quoting-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quoteforge-local.vercel.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.outsourceaccelerator.com/articles/white-label-saas-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-label.com/blog/white-label-saas-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logocore.com/logo-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://printnow.com/calculate-instant-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixam.com/support/quotes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lotiva.com/pricing/branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://awezzom.com/tools/logo-design-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://venusafe.com/solutions/instant-quote-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usermaven.com/free-tools/saas-pricing-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indiebrands.io/saas-pricing-calculator",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.onlinelabels.com/calculators/profitmargincalculator?srsltid=AYCX9vJy-C7pUY2w0e7Pdxb2btJkOJDcNMYaH_Gag3xenY_GAj3EetxI",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://novaandmore.com/white-label/price-calculator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clicksgeek.com/white-label-marketing-services-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidevelopers.com/white-label/marketing-roi-calculator-tool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wpsuperhelp.com/white-label-margin-calculator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onlinelabels.com/calculators/profitmargincalculator?srsltid=AYCX9vLlxQKQVwFXxFnPvLoA2ShQ_zJVSkD77BrOq2m6VoLi7teZGKLp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://calcimator.com/calculators/business/private-label-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://propellant.media/white-label-partner-cpm-calculator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jaysonlinereviews.com/white-label-saas-pricing-calculator/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label online instant quote calculator software",
+   "results": [
+    "https://www.semify.com/white-label-roi-calculator",
+    "https://seekmake.com/software/plasma-cutting/white-label",
+    "https://digifabster.com/products/self-checkout/",
+    "https://onprintshop.com/print-estimating-software",
+    "https://www.youtube.com/watch?v=-RkSqbGBhbw",
+    "https://www.convertcalculator.com/blog/best-free-quoting-software/",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "https://getglabels.com/quote"
+   ]
+  },
+  {
+   "query": "online instant quote calculator software white-label",
+   "results": [
+    "https://www.semify.com/white-label-roi-calculator",
+    "https://digifabster.com/products/self-checkout/",
+    "https://www.youtube.com/watch?v=-RkSqbGBhbw",
+    "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "https://www.convertcalculator.com/blog/best-free-quoting-software/",
+    "https://www.onlinelabels.com/calculators/profitmargincalculator?srsltid=AYCX9vKJ3j2LWapCfCQ6m6Zztsj9_Nx-j2P491b7UdRtFQRwwq7i6E3z",
+    "https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing",
+    "https://seekmake.com/software/manufacturing/quoting-software",
+    "https://www.youtube.com/watch?v=ClcmkXnQokI",
+    "https://quoteforge-local.vercel.app/"
+   ]
+  },
+  {
+   "query": "best white label online instant quote calculator software providers",
+   "results": [
+    "https://www.semify.com/white-label-roi-calculator",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.outsourceaccelerator.com/articles/white-label-saas-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.vendasta.com/blog/white-label-marketing-software/",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://worldmetrics.org/best/instant-quote-software/"
+   ]
+  },
+  {
+   "query": "online instant quote calculator software white label reseller agency",
+   "results": [
+    "https://www.semify.com/white-label-roi-calculator",
+    "https://sellful.com/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-software-for-agencies/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.agencyplatform.com/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://outsourcelinkbuilders.com/white-label-pricing-margin-calculator/"
+   ]
+  },
+  {
+   "query": "online instant quote calculator software rebrand your logo own brand",
+   "results": [
+    "https://logocore.com/logo-pricing/",
+    "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "https://printnow.com/calculate-instant-pricing",
+    "https://mixam.com/support/quotes",
+    "https://onprintshop.com/print-estimating-software",
+    "https://www.youtube.com/watch?v=ClcmkXnQokI",
+    "https://lotiva.com/pricing/branding/",
+    "https://awezzom.com/tools/logo-design-calculator",
+    "https://www.canva.com/create/logos/",
+    "https://formts.com/calculators/logo-design-calculator"
+   ]
+  },
+  {
+   "query": "online instant quote calculator software private label SaaS",
+   "results": [
+    "https://www.involve.me/blog/saas-pricing-calculator-widget",
+    "https://venusafe.com/solutions/instant-quote-calculator",
+    "https://www.calconic.com/convert-more-with-price-quote-calculator",
+    "https://usermaven.com/free-tools/saas-pricing-calculator",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://indiebrands.io/saas-pricing-calculator",
+    "https://www.onlinelabels.com/calculators/profitmargincalculator?srsltid=AYCX9vJy-C7pUY2w0e7Pdxb2btJkOJDcNMYaH_Gag3xenY_GAj3EetxI",
+    "https://www.outsourceaccelerator.com/articles/white-label-saas-software/",
+    "https://calcimator.com/calculators/business/private-label-pricing",
+    "https://jaysonlinereviews.com/white-label-saas-pricing-calculator/"
+   ]
+  },
+  {
+   "query": "online instant quote calculator software white label partner program pricing",
+   "results": [
+    "https://www.semify.com/white-label-roi-calculator",
+    "https://suitedash.com/white-label-software-for-agencies/",
+    "https://novaandmore.com/white-label/price-calculator/",
+    "https://clicksgeek.com/white-label-marketing-services-pricing/",
+    "https://www.cloudcampaign.com/blog/how-to-price-white-label-software",
+    "https://www.rapidevelopers.com/white-label/marketing-roi-calculator-tool",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.youtube.com/watch?v=-RkSqbGBhbw",
+    "https://channelscaler.com/platforms/pricing-self-service-quoting-software/"
+   ]
+  },
+  {
+   "query": "online instant quote calculator software white label company profitable",
+   "results": [
+    "https://wpsuperhelp.com/white-label-margin-calculator/",
+    "https://www.semify.com/white-label-roi-calculator",
+    "https://www.onlinelabels.com/calculators/profitmargincalculator?srsltid=AYCX9vLlxQKQVwFXxFnPvLoA2ShQ_zJVSkD77BrOq2m6VoLi7teZGKLp",
+    "https://onprintshop.com/print-estimating-software",
+    "https://calcimator.com/calculators/business/private-label-pricing",
+    "https://www.rapidevelopers.com/white-label/marketing-roi-calculator-tool",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://propellant.media/white-label-partner-cpm-calculator/",
+    "https://printnow.com/calculate-instant-pricing",
+    "https://jaysonlinereviews.com/white-label-saas-pricing-calculator/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上": "記載なし（読んだ40頁・検索8回）"
+ }
+}

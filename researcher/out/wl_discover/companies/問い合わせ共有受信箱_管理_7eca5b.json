@@ -1,0 +1,1729 @@
+{
+ "name": "問い合わせ共有受信箱・管理",
+ "en": "shared inbox and helpdesk software",
+ "aliases": [
+  "customer inquiry management",
+  "helpdesk ticketing for SMB",
+  "問い合わせ管理",
+  "shared inbox",
+  "helpdesk",
+  "help desk"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:08.046071+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Autopilot",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Shared Inbox Software for 2026: Top 12 Tools for Support, Sales, and HR Teams",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop the \"who's replying to this?\" chaos in a shared mailbox. Compare 12 tools for message assignment, internal notes, and multi-channel support.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Runs HappyFox AI (Copilot, Autopilot, AI Resolve) on Claude via AWS Bedrock, generating draft replies and self-service answers grounded in the connected knowledge base.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AI add-on: from $14/agent/month on top of the base plan , capped at 500 interactions/month on the entry tier",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk Alternatives",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Layer in auto-assignment, escalation timers, and canned responses only after routing is stable. Automation built on top of unstable routing just automates the wrong outcome faster.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Not exactly. A shared inbox focuses on team visibility into a mailbox. A help desk adds ticket numbers, SLA tracking, and reporting on top of that distinction.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2 Type II certification, GDPR compliance, and encryption at rest and in transit are a reasonable baseline to check for. Most established vendors on this list, including HappyFox, meet those standards.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk alternatives",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "7 top shared inbox software tools to streamline customer comms",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Below you’ll find seven leading solutions, their key features and the businesses they suit best.",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mentions trigger in-app and desktop notifications for employees helping remote teams collaborate on urgent tasks",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue management software: 7 top platforms for SMBs compared",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "7 Top B2B Marketing Attribution Software Tools for 2026",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Google Collaborative Inbox and the Alternatives",
+    "url": "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "laptop_mac",
+    "url": "https://www.deskpro.com/platform/unified-inbox",
+    "pass": 3
+   },
+   {
+    "quote": "add lightweight features on top of email. These include internal notes, assignments, and basic collision detection. SupportBee keeps that email-like feel while adding tools like comments and team assignments. You get structure without learning an entirely new system.",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "compares the top choices.",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "breaks down the top options by these criteria.",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "Driving all customer queries toward one shared mailbox makes it easier for agents to stay on top of requests and route them to the right person.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "The mobile app carries fewer features than the desktop version.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Front's Starter plan is $25 per seat per month for up to 10 seats, billed annually, with AI sold separately: Copilot at $20 per seat per month, included on Enterprise, and Autopilot, its omnichannel AI agent, starting at $0.05 per conversation.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "However, the software doesn’t have a spam filter so your team may waste time filtering through spam emails. The reporting features are quite top level, and there is little room for customization in the Knowledge Base.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "However, HubSpot’s automation features fall short of some of its competitors. Pricing also increases with the number of contacts so it can be an expensive option for larger teams.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Driving all your customer queries toward one shared mailbox makes it easier for your agents to stay on top of things and resolve issues promptly. More importantly, it makes it possible for you to filter customer queries to suitable agents.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Top-10 shared inbox software solutions in 2026",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "However, the additional features are only available in the more expensive pricing options, and it does lack some basic features that other competitors have as standard. Kayako’s interface is a little clunky and difficult to follow compared with some newcomers in the market. The cluttered interface can make it hard to search for specific features when you need them.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Hiver is perfect for businesses that use Gmail because it helps you manage customer support and sales directly from your Gmail account. It gives you all the tools to provide excellent customer support without the complex helpdesks of many competitors.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "A shared inbox is a single email address managed by multiple people. Think support@yourcompany.com or billing@yourcompany.com. These are team-facing addresses meant to handle incoming requests from customers, vendors, or prospects.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "AI-focused alternatives",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Top Zoho Desk alternatives for B2B support teams",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop App",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "into something your AI can operate, not just a place your team clicks around in. Most tools in this list now publish an MCP server, but they differ on what the AI can finish: some read only, some stop at drafts, a few can send. To our knowledge, Drag was the first Gmail",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "You pay each time the AI resolves (or is deemed to resolve) a conversation, for example Help Scout ($0.75), Zendesk (per-resolution), Intercom's Fin ($0.99 per outcome). Powerful for deflection at scale, but the bill scales with volume and can be hard to forecast, especially where an \"outcome\" includes a customer who simply stops replying.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "software is the collaboration and AI layer on top. You can use a shared mailbox without",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Helpwise alternatives",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "browse all alternatives",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "software adds the collaboration and AI layer on top: assignment,",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "+ Autopilot from $0.05/conv →",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Entry seat to top published per-seat tier, 2026. A striped tail marks a metered vendor: AI is charged per resolution beyond the top seat. Quote-only Enterprise tiers excluded.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Scout alternatives",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Teams connect their shared addresses (support@, sales@, billing@) to the software, which pulls every message into one workspace. From there, conversations can be claimed or assigned to a specific person, tagged by topic or priority, discussed privately using internal notes, and marked resolved once handled. This removes the guesswork of who's responsible for a reply.",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "14 best Zendesk alternatives: Tools for modern B2B customer support",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Alternatives to Front: Why B2B support needs more than a shared inbox",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Most help desk providers offer cloud-based hosting in the US, but some brands offer hosting options in the EU, India, Australia, and Canada and can accommodate international organizations. Make sure to ask about cloud-based hosting options when deciding whether to choose cloud or on-premise deployment.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Within each ticket, agents can see customer information displayed at the top.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Other Leading Help Desk Options",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk’s Support Suite unifies customer conversations from all channels — including email, live chat, messaging platforms like WhatsApp, and social media channels like Twitter and Facebook — in one place so agents can provide helpful, fast support.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "It’s recommended for support, sales, and customer success teams, and has a variety of pre-built integrations, including integrations with Salesforce and Google Analytics, to provide a one-stop-shop tool for these teams.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk Alternatives: 6 of the Best Help Desk Competitors",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho Desk Alternatives | Top 8 Help Desks for Customer Service",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Jira Service Desk Alternatives for On-Premise Users (5 Tools to Try)",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "LiveAgent Alternatives: 6 Best Help Desks for Customer Support",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Freshdesk Alternatives: 9 Help Desk Software for Support Teams",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Start with your team size and support volume. Small teams with email-focused support need simple tools with strong inbox management. Larger teams may need automation, multi-brand support, and detailed reporting. Most vendors offer free trials so you can test before committing.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "AI Copilot & Autopilot",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   },
+   {
+    "quote": "Autopilot",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Partner program",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "There are various shared inbox tools, each serving different teams, use cases and email clients.",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Help desk software can present various issues, starting with the complexity of the implementation and configuration, continuing with being challenging to use, and finishing with high costs and non-personal customer experience:",
+    "url": "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "To create a personal communication experience with your customers, and communicate with the person behind the email address, you need context. You need to have the whole interaction with the customer in front of you in a single place rather than use various email threads, chat apps and more tools to discuss with teammates and with the customer.",
+    "url": "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell or integrate",
+    "url": "https://www.deskpro.com/platform/unified-inbox",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "What benefits might you find with shared inbox software? They’ll vary depending on factors like your industry, the size of your team, and the complexity of your communication and collaboration needs.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Mana Anvar, Founding Account Executive",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Varley · Drag’s AI",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask Varley, then let it act",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Varley resolves conversations on its own",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "What Varley knows, and the tools it acts in",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Varley in every email: drafts, tags, summaries",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Varley →",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Varley included in",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Varley, Drag's AI",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Varley",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Drag · with Varley",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "The inbox your team and Varley work in together",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Shared inbox and live chat for Gmail teams, with Varley, Drag’s AI, included from $18. Plus an MCP server your own AI tools can drive.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Varley",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask Varley to do something",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "AI is the 2026 differentiator, but how it is priced varies wildly, and it is where budgets get surprised. Three models:",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Shared inbox tools vary when it comes to team coordination and scale, so evaluate your options using this six-part framework.",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer experience teams who manage a shared inbox, communicate with customers through a variety of channels, or need to keep track of service-level agreements (SLAs) can all benefit from an intuitive help desk system. Help desk platforms make it possible for support agents to track, assign, and respond to customer requests in an efficient, organized way.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "It’s recommended for support, sales, and customer success teams, and has a variety of pre-built integrations, including integrations with Salesforce and Google Analytics, to provide a one-stop-shop tool for these teams.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "It is engineered with a variety of social media integrations, customer service reporting tools, and it even allows teams to create a customer portal to support customers around the clock.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Freshdesk is built with a range of tools to improve customer support, facilitate team collaboration, and boost agent productivity. We like Freshdesk for field service businesses, like HVAC and electrical companies, because it has a variety of features to manage SLAs and keep field agents in the loop.",
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles, variables, guardrails, files.",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   },
+   {
+    "quote": "The ideal user profile varies significantly.",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White label MSP services let MSPs resell help desk and NOC operations under their own brand while the delivery runs through a partner support model. This comparison uses market data and editorial review to help technical evaluators weigh key tradeoffs like staffing coverage, incident response workflow, and partner integration requirements across options such as Continuum.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud distributor and MSP partner that offers white-label help desk and NOC services for managed service providers.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs that need embedded white-label technicians and service desk talent rather than a broad platform reseller relationship.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Sherweb fits MSPs and cloud resellers that want branded Microsoft 365 delivery with tenant provisioning, administration, and support handoff processes. The cataloged capabilities also include cloud backup provisioning for collaboration workloads and centralized handling of mailbox changes across many users or domains.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Sherweb’s Microsoft 365 delivery model combines tenant provisioning, administration, and branded support handoffs for resellers.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel MSPs and resellers",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers combine tenant provisioning, administration, and support handoffs into a repeatable service.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "MSP channel partner teams",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Service catalog clarity varies by client environment complexity",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "IT managers at resellers",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant delivery support designed for channel partner use",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Integration quality can vary based on PSA and RMM alignment",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner managers",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Depth varies by workflow and may require defined scope",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Kernan Consulting operates as a white-label managed service provider partner that takes on service delivery for channel MSPs. The firm focuses on day-to-day support execution, escalation handling, and ongoing operations that let resellers provide managed IT outcomes under their own client communications.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Helpmonks features a white label platform and email marketing software for agencies and resellers. Start your own customer engagement and email service today.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell your own cold email tool",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Resell private cold email infrastructure",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to resell email hosting under your own brand, choosing the right provider is important. The infrastructure, features, branding options, and reseller controls can all affect how you run the service.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "The reseller model also matters because pricing, commissions, and margins can affect how much you earn from each customer.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "In this list, you’ll find white label email hosting providers with different features and reseller options. Some offer branded Webmail and mailbox management, while others provide automated DNS, APIs, private email infrastructure, or reseller programs.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "I compared six providers based on their features, white label capabilities, reseller model, pricing, automation, customer management, and earning potential.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for cold email infrastructure. Its white label reseller program runs on private infrastructure with dedicated IP options.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for reseller email hosting. Its branding covers the webmail interface, the Control Panel, and white labeled POP, IMAP, and SMTP access.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for domain and web hosting providers. Its branded webmail runs on a custom hostname inside a wider domain and SSL reseller platform.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for flexible reseller email hosting. Its branding covers custom login pages, webmail, and server names across three mailbox tiers.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller model:",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Public pricing, minimums, setup fees, volume discounts, and reseller-specific pricing.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Restrictions or infrastructure costs that could affect customers or reseller margins.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Nonprofit",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s an ideal way for SMBs operating on tight budgets to improve profitability and reduce complexity. Plus, familiarity with the user experience will encourage more employees to interact with the software.",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Self-funded. No investors. No bullshit.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-profit or Open-Source",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers set their own retail prices and keep 100% of the profit from their markup.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Many reseller providers allow you to set your own customer pricing. Qboxmail lets resellers set their customer pricing, while PolarisMail allows resellers to set retail pricing and keep the profit from their markup. Infraforge also allows partners in its white label program to mark up the service.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Non-profit or Open-Source",
+    "url": "https://helpmonks.com/blog/8-shared-inbox-software-tools-for-support-teams-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Self-funded. No investors. No bullshit.",
+    "url": "https://helpmonks.com/seamless-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-profit or Open-Source",
+    "url": "https://helpmonks.com/seamless-integration/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "were used as a secondary signal - minimum 4.3 out of 5 on either platform for inclusion. Rating volume was also considered - a 4.8 from 12 reviews carries less weight than a 4.4 from 2,000.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue management software: 7 top platforms for SMBs compared",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Software for account management in modern B2B revenue teams",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Software for account management in modern B2B revenue teams",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "For a team that wants collaboration without ticket numbers, AI Emaily is the best fit: it adds assignment, internal notes and AI drafting directly onto real Gmail, Outlook or IMAP threads. Missive and Front work the same way. Help Scout, Hiver, and native Google Workspace or Microsoft 365 shared mailboxes cover narrower budgets and needs.",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   },
+   {
+    "quote": "The best shared inbox software for that job is AI Emaily, which layers assignment, internal comments and AI drafting directly onto a real Gmail, Outlook or IMAP thread with no ticket system underneath. Missive and Front are close alternatives built the same way; Help Scout, Hiver, and the native tools already inside Google Workspace and Microsoft 365 fit narrower budgets and needs.",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   },
+   {
+    "quote": "20% recurring revenue share for three years, and you set customer pricing",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "You can offer the infrastructure under your own brand and custom domain, set your own customer pricing, and earn a 20% recurring revenue share for three years.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "The partner program pays a 20% recurring revenue share for three years. You can also increase your customer pricing. Infraforge states that you can withdraw your earnings without a waiting period.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller revenue share: 20% for three years",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "20% recurring revenue share for three years",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Many reputable vendors, including CloudHouse, offer flexible short-term or per-ticket arrangements so you can validate response times and ticket quality before committing to a longer plan. Be wary of any provider that insists on a 12-month minimum before you've seen real performance data.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "With our North American Help Desk team, you can blend our infrastructure with your own to quickly service larger contracts, comfortable add new revenue and reallocate your technical staff from tier 1/2 duties to more strategic work.",
+    "url": "https://www.gmsliveexpert.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "8 AI Use Cases: Budgeting, Money, and All Things Revenue",
+    "url": "https://www.salesforce.com/blog/small-business/help-desk-software-startups/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Synup pricing starts at $34.99 per location per month with a 15% discount for annual billing. Add-ons for social media scheduling and analytics carry additional fees. A free demo is available.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "We took our agency to a seven-figures in revenue after just 4 months of using Perspective in our service.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Starting price: $24/agent/month, billed annually. 14-day free trial available through the",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Basic: $24/agent/month, billed annually",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Team: $49/agent/month, billed annually",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro: $99/agent/month, billed annually",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited-agent: from $1,999/month, billed annually",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AI add-on: from $14/agent/month on top of the base plan , capped at 500 interactions/month on the entry tier",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting price: $20/seat/month. Setup: fast if HubSpot CRM is already in place, longer for teams migrating in fresh.",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Starter: $20/seat/month",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Help desk pricing adds up fast. Base plans look affordable, but key features often hide behind higher tiers. SLA tracking, advanced reporting, and AI features may need enterprise plans. A 10-person team can face monthly costs that beat what a shared inbox charges per year.",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "Start with three questions. First, how many agents need access? Tools priced per seat add up fast. Second, which channels do your customers use? If email covers 90% of requests, you do not need omnichannel support. Third, what is your daily ticket volume? Under 200 per day, a shared inbox handles the load. Over 200, look for SLA tracking, automation, and queue management. Our",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "Google Workspace vs Microsoft 365 vs Zoho vs Proton - which email service fits your small business? Side-by-side comparison with pricing and setup tips.",
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing: Growth is $19 per agent per month, Pro is $55, and Enterprise is $89, all billed annually. Every plan includes the first 500 Freddy AI Agent sessions, and additional sessions cost $49 per 100, which keeps the AI line predictable: a fixed allowance and a published rate for anything beyond it.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "is an add-on at $29 per agent per month on the Pro and Enterprise plans.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Front's Starter plan is $25 per seat per month for up to 10 seats, billed annually, with AI sold separately: Copilot at $20 per seat per month, included on Enterprise, and Autopilot, its omnichannel AI agent, starting at $0.05 per conversation.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Its Standard plan is $25 per user per month, billed annually, and includes an AI inbox assistant. AI Answers, its per-resolution AI agent, is a separate add-on at $0.75 per resolution.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Its Growth plan is $25 per user per month, billed annually.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Its Starter plan is $14 per user per month, billed yearly, with Productive at $24 and Business at $36.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Its Starter plan starts at $7 per seat per month, billed annually, with AI billed via HubSpot Credits: the Customer Agent, available from the Professional plan, uses 50 credits per resolved conversation, and credits cost $9 per 1,000 when paid annually.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Its Support Team plan starts at $19 per agent per month, billed annually. Each plan includes 5 automated email resolutions per agent per month; Suite Professional includes 10, after which they cost $1.50 each with a commitment or $2.00 without. Copilot is a $50 add-on sold only with Suite Professional, at $115 per agent per month.",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Free for 50 contacts a month. Starts at $50 for 100 contacts per month for the Standard tier.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $19/user/month.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $19/user/month if you want a customer portal, workflow automations, and analytics.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Paid plans start at $14/user/month.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "at $90/month.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $5/user/month.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Paid plans start at $15/agent/month.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $19/agent/month.",
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "pass": 3
+   },
+   {
+    "quote": "AI is the 2026 differentiator, and pricing models now split sharply: some tools include AI in the seat (Drag), while others bill per resolution or per outcome (Help Scout, Zendesk, Intercom, Freshdesk) which scales with volume.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A note on pricing: per seat per month on annual billing unless stated, verified June to September 2026. Confirm current pricing on each vendor's site.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "All prices per seat per month, annual billing, 2026.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ", notes, automation), and whether the tool can connect to AI agents via MCP. All pricing was verified against vendor pricing pages between June and September 2026, and every figure is reconciled against our maintained pricing dataset. G2 ratings are as shown on g2.com in August 2026. Where we compare against Drag, we say so plainly; Drag is our product.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Each bar runs from that tool's cheapest published plan to its most expensive, read from the vendor's own pricing page and re-verified most recently in September 2026. Two of the eleven are absent for honest reasons: HubSpot's inbox comes bundled inside hub tiers rather than as a published per-seat plan, and Microsoft's shared mailbox is included with Microsoft 365 rather than priced on its own.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare the best shared inbox software for B2B SaaS teams. Learn key features, pricing, and how to choose tools that improve support speed and visibility.",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Professional is $89 per seat/month and Advanced is $139 per seat/month, both on annual contracts, and Enterprise is a custom quote. Agentic features run on credits, and Pylon doesn't charge per ticket. See",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Team plan, per seat, 3-seat minimum — see /pricing",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   },
+   {
+    "quote": "Per seat, 3 tiers, seat caps on the lower two",
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "pass": 3
+   },
+   {
+    "quote": "$45/month",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$35/month",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "1. How do the pricing models of Crisp, Front, and Help Scout differ?",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$14/user/month.",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$45 per month for 10 mailboxes",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "$1.39 per mailbox per month",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "From $1 per user per month, billed annually",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "20% recurring revenue share for three years, and you set customer pricing",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "You can offer the infrastructure under your own brand and custom domain, set your own customer pricing, and earn a 20% recurring revenue share for three years.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "The partner program pays a 20% recurring revenue share for three years. You can also increase your customer pricing. Infraforge states that you can withdraw your earnings without a waiting period.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Live Chat Support Pricing for Web Hosting Companies (2026)",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "See real live chat support pricing for web hosting companies in 2026 — per-agent, per-ticket, and flat-rate models compared. Get a custom quote.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Prices range from free (Google, Missive, Freshdesk, HubSpot) to about $55 per agent, with Kayako priced per resolution instead of per seat.",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "usage-based, around $1 per resolution. Book a session for current pricing.",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "from about $19 per seat (",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "from about $22 per user (",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "from about $19 per user (",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "free tier, then from about $18 per user (",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "free conversations tool, Service Hub from about $20 per seat (",
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "pass": 3
+   },
+   {
+    "quote": "As of August 2026, Help Scout Standard starts at $25 per user/month, Front Starter starts at $25 per seat/month when billed annually, and Hiver's Gmail Growth plan starts at $25 per user/month when billed annually. AI usage can add separate costs on some platforms.",
+    "url": "https://inquirly.ai/blog/fundamentals-architecture/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Freshdesk Review 2026: Pricing, Pros, Cons, and Fit",
+    "url": "https://helpmonks.com/blog/8-shared-inbox-software-tools-for-support-teams-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk Pricing in 2026: Plans, AI Costs, and Team Totals",
+    "url": "https://helpmonks.com/blog/8-shared-inbox-software-tools-for-support-teams-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing Snapshot for 2026",
+    "url": "https://neuradesk.io/blog/shared-inbox-software-for-saas-startups-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Front and Intercom center on a unified inbox that blends email, chat, and social channels. Intercom starts at $39 per month, Front at $19 per agent per month, Gorgias uses per‑ticket pricing, and Re:amaze starts at $29 per month. They excel when you need live chat or in‑app messaging, but the cost rises quickly if you only need email.",
+    "url": "https://neuradesk.io/blog/shared-inbox-software-for-saas-startups-in-2026",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Best 12 Shared Inbox Software Picks: End Double-Reply Chaos — Best 12 Shared Inbox Software Picks: End Double-Reply Chaos HappyFox https://www.happyfox.com > use-cases",
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best Shared Inbox Software Tools for SMB Teams - Pipedrive — 7 Best Shared Inbox Software Tools for SMB Teams - Pipedrive Pipedrive https://www.pipedrive.com > blog",
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "10 Shared Inbox Software : The Simple, the AI-Powered & the ... — 10 Shared Inbox Software : The Simple, the AI-Powered & the ... HelpCrunch https://helpcrunch.com > blog > share...",
+    "url": "https://helpcrunch.com/blog/shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Shared Inbox Software (2026 Comparison) - Freshdesk — Best Shared Inbox Software (2026 Comparison) - Freshdesk Freshworks https://www.freshworks.com > helpdesk",
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "pass": 3
+   },
+   {
+    "quote": "The 6 best shared inbox software tools for B2B SaaS teams — The 6 best shared inbox software tools for B2B SaaS teams Pylon Labs, Inc. https://www.usepylon.com > blog > b...",
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best Shared Inbox Software (2026): 11 Tools Compared — Best Shared Inbox Software (2026): 11 Tools Compared DragApp https://www.dragapp.com > blog > sh...",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Shared Inbox software with AI for 2026 and beyond - Crisp — Best Shared Inbox software with AI for 2026 and beyond - Crisp Crisp https://crisp.chat > blog > best-shared-...",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The 8 Best Help Desk Software Options for Small Teams — The 8 Best Help Desk Software Options for Small Teams Salesforce https://www.salesforce.com > blog",
+    "url": "https://www.salesforce.com/blog/small-business/help-desk-software-startups/",
+    "pass": 3
+   },
+   {
+    "quote": "The 12 best help desk software for small business in 2026 — The 12 best help desk software for small business in 2026 Missive https://missiveapp.com > blog > help-...",
+    "url": "https://missiveapp.com/blog/help-desk-software-small-business",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Front unifies email, SMS, social, and chat with mature routing and analytics, the enterprise pick when you need depth and CRM-embedded context. Prices rose in late 2025 and AI is unbundled add-ons.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "mature routing and analytics; unifies email, SMS, social, and chat; CRM-embedded context on conversations.",
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Hugo, your brand's most efficient support teammate.",
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label Msp Services | 2026 Edition",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best White Label Msp Services of 2026",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare white label msp providers for managing remote client services, with setup and support tradeoffs for MSP buyers, including Sherweb, Kaseya, and GAM Tech.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "White label MSP services let MSPs resell help desk and NOC operations under their own brand while the delivery runs through a partner support model. This comparison uses market data and editorial review to help technical evaluators weigh key tradeoffs like staffing coverage, incident response workflow, and partner integration requirements across options such as Continuum.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "is the best white-label MSP choice for channel teams that need consistent Microsoft 365 and mail handoffs, thanks to its tenant provisioning plus branded support transition model, while",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud distributor and MSP partner that offers white-label help desk and NOC services for managed service providers.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Global MSP services company with white label NOC and help desk delivery for managed service providers.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Fits when a white label MSP must run tenant-aware monitoring, patching, and remediation at scale.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "White label NOC and help desk support for MSP partners in North American markets.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs that want a community-led operating model with white-label service resources and standardization.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs that need round-the-clock white-label monitoring and service desk coverage.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs that need embedded white-label technicians and service desk talent rather than a broad platform reseller relationship.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel-focused delivery that supports white-label client communications",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label clients needing day-to-day support",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "MSP-focused outsourcing company that provides white-label service desk, NOC, SOC, and staffing services.",
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Email Service and Email Marketing Software",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Helpmonks features a white label platform and email marketing software for agencies and resellers. Start your own customer engagement and email service today.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "The Helpmonks White Label Experience",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter a new area and create additional revenue streams for your brand with the Helpmonks White Label setup.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "We created a powerful white label environment, including payment gateways, professional hosting, and advanced settings to customize everything to your brand, so that you can start selling from day one.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Key features",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain and branded links",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Plans to help you grow",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "We offer two different plans to help you get started with your white label setup.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Customize every aspect of the platform to your brand. From the login page, colors, links and references to Helpmonks and more, you can make it your own.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "With our white label service, you can even use your own domain name, URLs, and SSL certificate.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, your customers",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "With our white label service, you can use your brand. Your customers will never know that you are using Helpmonks.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "The Helpmonks White Label setup provides a seamless integration into your existing services.",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Helpmonks White-Label",
+    "url": "https://helpmonks.com/white-label-service/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best White Label Email Hosting Providers (2026)",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to resell email hosting under your own brand, choosing the right provider is important. The infrastructure, features, branding options, and reseller controls can all affect how you run the service.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "In this list, you’ll find white label email hosting providers with different features and reseller options. Some offer branded Webmail and mailbox management, while others provide automated DNS, APIs, private email infrastructure, or reseller programs.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "I compared six providers based on their features, white label capabilities, reseller model, pricing, automation, customer management, and earning potential.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "TL;DR: 6 Best White Label Email Hosting Providers",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "What is White Label Email Hosting?",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a White Label Email Hosting Provider",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "FAQs About White Label Email Hosting",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for cold email infrastructure. Its white label reseller program runs on private infrastructure with dedicated IP options.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for reseller email hosting. Its branding covers the webmail interface, the Control Panel, and white labeled POP, IMAP, and SMTP access.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Best for automated white label email hosting. Its REST API works with WHMCS, Blesta, and n8n, alongside a custom webmail domain, logo, colors, and login page.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "White label email hosting is a service that lets you offer email hosting to customers under your own brand without managing the underlying email infrastructure yourself.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "This lets you offer email hosting under your own brand while relying on a third-party provider to manage the underlying infrastructure.",
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Get a Free Quote for White-Label Shared Support",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Stop losing customers to slow, off-brand ticket replies — CloudHouse's shared support team plugs into your existing helpdesk within days, fully white-labeled under your brand. Book a free consultation today.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "means finding a partner that answers tickets under your brand name, scales with your growth, and never lets a customer suspect they're talking to a third party. This guide breaks down exactly how to evaluate providers, the red flags that signal a bad fit, and how white-label shared support compares to generic outsourced help desks in 2026.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": ", and phone support on your behalf — using your branding, your help desk software, and your SLAs. Instead of hiring, training, and rostering an in-house team around the clock, a reseller host taps into a",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "— not from your upstream provider. If support replies mention a different company name, use the wrong signature, or take six hours to respond during a server outage, your brand takes the reputational hit even though you never touched the ticket.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "White-label depth",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Protects your brand identity end-to-end",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Request a live sandbox or demo ticket queue set up under your brand before signing anything",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "No true white-labeling.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "Some \"white-label\" vendors still leave their company name in email headers, ticket system footers, or even accidentally cc themselves into customer threads. Always ask for a live sandbox demo before signing.",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label vs Generic Shared Support Compared",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   },
+   {
+    "quote": "white label support reseller hosting",
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.deskpro.com/platform/unified-inbox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpspot.com/blog/email-help-desk-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zipdo.co/service/white-label-msp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpmonks.com/white-label-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atriomail.com/own-the-inbox-how-white-label-email-empowers-resellers-and-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmsliveexpert.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpspot.com/platform/branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://front.com/email-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/hubspot/comments/1ibjt1w/best_practices_for_managing_a_shared_customer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inquirly.ai/blog/fundamentals-architecture/best-shared-inbox-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpmonks.com/blog/8-shared-inbox-software-tools-for-support-teams-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deskstack.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thectoclub.com/tools/best-saas-helpdesk-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://neuradesk.io/blog/shared-inbox-software-for-saas-startups-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/blog/saas-help-desk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/blog/small-business/help-desk-software-startups/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://front.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://missiveapp.com/blog/help-desk-software-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpmonks.com/seamless-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpspot.com/blog/team-inbox-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiverhq.com/blog/best-shared-inbox-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guideflow.com/blog/shared-inbox-software-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growabledigital.com/whitelabel-software-to-resell-2026/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inboxkit.com/learn/inboxkit-whitelabel-guide",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label shared inbox and helpdesk software",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.deskpro.com/platform/unified-inbox",
+    "https://helpcrunch.com/blog/shared-inbox-software/",
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.whitelabelit.com/"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software white-label",
+   "results": [
+    "https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpdesk.com/blog/team-inbox/",
+    "https://www.whitelabelit.com/hybrid-helpdesk"
+   ]
+  },
+  {
+   "query": "best white label shared inbox and helpdesk software providers",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpspot.com/blog/email-help-desk-software",
+    "https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://zipdo.co/service/white-label-msp/"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software white label reseller agency",
+   "results": [
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://helpmonks.com/white-label-service/",
+    "https://atriomail.com/own-the-inbox-how-white-label-email-empowers-resellers-and-agencies/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://www.infraforge.ai/blog/white-label-email-hosting",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software rebrand your logo own brand",
+   "results": [
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://www.helpspot.com/platform/branding",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://front.com/email-management",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://www.reddit.com/r/hubspot/comments/1ibjt1w/best_practices_for_managing_a_shared_customer/",
+    "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "https://inquirly.ai/blog/fundamentals-architecture/best-shared-inbox-software/",
+    "https://www.manageengine.com/products/service-desk-msp/rebrand.html"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software private label SaaS",
+   "results": [
+    "https://www.usepylon.com/blog/best-shared-inbox-software",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://www.freshworks.com/helpdesk/shared-inbox/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://helpmonks.com/blog/8-shared-inbox-software-tools-for-support-teams-in-2026/",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://kayako.com/blog/5-best-shared-inbox-tools-for-customer-support/",
+    "https://www.deskstack.app/"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software white label partner program pricing",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.salesforce.com/blog/small-business/help-desk-software-startups/",
+    "https://front.com/pricing",
+    "https://www.dragapp.com/blog/shared-inbox-guide/",
+    "https://missiveapp.com/blog/help-desk-software-small-business",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://helpmonks.com/seamless-integration/",
+    "https://www.desk365.io/blog/email-ticketing-systems/",
+    "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "https://www.inboxkit.com/learn/inboxkit-whitelabel-guide"
+   ]
+  },
+  {
+   "query": "shared inbox and helpdesk software white label company profitable",
+   "results": [
+    "https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/",
+    "https://www.pipedrive.com/en/blog/shared-inbox-software",
+    "https://helpmonks.com/seamless-integration/",
+    "https://www.quora.com/What-is-the-best-shared-inbox-customer-support-software",
+    "https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools",
+    "https://www.reddit.com/r/SaaS/comments/1ocdb5g/software_to_manage_shared_inbox_with_multiple/",
+    "https://www.helpspot.com/blog/team-inbox-management",
+    "https://crisp.chat/en/blog/best-shared-inbox-software/",
+    "https://missiveapp.com/blog/help-desk-software-small-business",
+    "https://hiverhq.com/blog/best-shared-inbox-software"
+   ]
+  }
+ ],
+ "missing": {}
+}

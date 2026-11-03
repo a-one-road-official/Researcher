@@ -1,0 +1,1854 @@
+{
+ "name": "自治体・国の採用支援の補助金（地方の製造業向け）",
+ "en": "government hiring subsidies regional manufacturers Japan",
+ "aliases": [
+  "採用 補助金 中小企業 地方",
+  "人材確保 助成金 製造業",
+  "UIJターン 採用 補助金",
+  "助成金",
+  "補助金"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:32:02.662430+00:00",
+ "evidence": {
+  "調査対象": [
+   {
+    "quote": "この費用を補助する制度が、都道府県や市区町村にあります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "国の補助金と違い、応募できるのはその地域に事業所がある企業だけです",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "市区町村に制度がなくても、都道府県の制度は県内のどの企業でも使えます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県ごとに、制度の名称・支援の種類・対象業種・対象国・補助の上限額・申請先を一覧にしました",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "しかし都道府県や市区町村にも、海外展開を後押しする独自の制度があります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "自治体の制度は「地域の企業だけ」が対象になる",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "一方で自治体の制度は、その都道府県や市区町村に本社・事業所がある企業だけが対象です",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "国にも同じ規模の制度はありますが、自治体の制度は応募できる企業が地域内に限られるぶん、競争はおだやかです",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県の制度は市区町村の企業も使える",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "見落とされやすい点ですが、都道府県の制度は、その県内であればどの市区町村の企業でも使えます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "自治体は友好提携を結んでいる都市や、海外事務所を置いている地域に強いネットワークを持っています",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "農林水産物や加工食品の輸出を対象にした制度が目立つのは、自治体が地域の産品を海外に売り込む施策として海外展開支援を位置づけているためです",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "狙っている国と自治体の重点地域が一致すれば、補助金だけでなく現地のネットワークも使えます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県（市区町村）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "旭川地域産品マーケティング支援事業（海外向け食品商談会）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "地方公共団体向け コンサルティング",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道・東北地方",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "九州・沖縄地方",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "近隣地域から新規雇用20人を採用予定",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "どの自治体も産業の高度化や地域経済の活性化、そして雇用の創出を図るため、企業誘致や工場誘致を積極的に行っています",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道･東北地方",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "中国・四国地方",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県から探す",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "締切・金額・地域・対象などで絞り込みできます",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（３次公募）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "地域貢献等の要件を満たす事業の廃熱を高効率で熱回収する設備（熱や電気等を施設外でも確実に利用すること）及び廃棄物から燃料を製造する設備（燃料が地域内産業で確実に使用されること）の費用の一部を補助します",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度地域脱炭素実現に向けた具体的施策実装支援事業",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "補助率 「保守」補助対象経費の2/3 「改修」（補助額の上限なし）地方公共団体及び中小企業 補助対象経費の2/3 、地方公共団体（上記以外）又は特別区及び中小企業以外の民間企業 補助対象経費の1/2",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "総務省｜地域力の創造・地方の再生｜ローカル10,000プロジェクト −地域密着型の起業や新規事業を支援します！",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方支分部局",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域力の創造・地方の再生",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "ローカル10,000プロジェクト −地域密着型の起業や新規事業を支援します！",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域振興に資する",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "自治体と地域金融機関が伴走支援",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ローカル10,000プロジェクト」の活用には、事業を実施する地域の自治体へご相談いただく必要があります",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "募集事務連絡（都道府県）（R8.4.1）",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度における制度改正について（都道府県）（R7.12.26）",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域経済循環創造事業交付金（ローカル10,000プロジェクト）交付要綱（R8.4改正）",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域経済循環創造事業交付金（ローカル10,000プロジェクト）について",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "ローカル10,000プロジェクト（国庫補助事業/地方単独事業）及びローカルスタートアップ支援制度の詳細は以下をご覧ください",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "ローカル10,000プロジェクト（地方単独事業）の活用に向けた参考資料",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域振興に資する民間投資を支援するために、都道府県又は市区町村が長期の無利子資金を融資する制度です",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方創生支援利子補給金",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "③毎年、事業所内最低賃金を事業実施都道府県における最低賃金より30円以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "③補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を事業実施都道府県における最低賃金の直近5年間の年平均成長率以上増加させる、または給与支給総額の年平均成長率を2.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "④補助事業終了後3～5年の事業計画期間において、毎年事業所内最低賃金が事業実施都道府県における最低賃金より30円以上増加",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "また、地域や業種を超えた経営者同士の交流機会も提供され、相互に刺激し合える環境が整備されています",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "は、地域の雇用を支える中堅・中小企業が、さまざまな課題への対応と成長を目指して行う大規模投資を促進するための支援制度です",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・地域経済への波及効果が期待できる事業",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "本助成金の特徴としては、事業場内最低賃金と地域別最低賃金の差額が50円以内の事業場を対象としており、賃金引き上げ幅と労働者数に応じて助成上限額が設定されていることが挙げられます",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・事業場内最低賃金と地域別最低賃金の差額が50円以内",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・キャリアアップ計画を作成し、都道府県労働局長の認定を受けている",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金の中には、環境問題の解決や地域経済の活性化といった社会貢献度の高い事業に活用できるものがあります",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "地域の雇用を支える中堅・中小企業（従業員2000人以下、みなし大企業除く）",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "「補助金・助成金採択支援どっとコム®」ではこれまでに東京都・千葉県・神奈川県・埼玉県など首都圏から、富山県、石川県など北陸地方、大阪、兵庫、京都など西日本、福岡、鹿児島など九州地方、四国、北海道、東北に至るまで全国各地の中小企業様(製造業・サービス業・卸売業・宿泊業など)の補助金申請・助成金申請のサポートを行ってまいりました",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業終了後3～5年の事業計画期間において、毎年、事業場内最低賃金が補助事業 実施場所都道府県における地域別最低賃金より30円以上高い水準であること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "J-Startup／J-Startup地域版加点",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "海外ビジネスに関するお悩みを専門コンシェルジュがヒアリングし、課題解決に最適な支援専門家をご紹介します",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外人材採用・紹介",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "制度で出展の費用を抑えたあと、現地での販路づくりや会社設立など、補助金の対象にならない実務を誰に任せるかで迷ったときは、Digima〜出島〜に相談すると、条件に合う支援企業を紹介してもらえます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングで現地のバイヤーや代理店候補を紹介してもらう",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "自治体が持つ海外の事務所や提携先を通じて、現地のバイヤーや代理店候補を紹介する支援です",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "Digima〜出島〜では、専門コンシェルジュが状況をうかがい、補助金で出展した展示会のあとの進め方や、現地での販路づくり・会社設立を担える支援企業を紹介しています",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "多くは無料で利用でき、使える制度の紹介まで受けられます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "Digima〜出島〜は株式会社Resorzが運営する海外ビジネス支援プラットフォームで、専門コンシェルジュがお悩みをうかがい、130カ国に対応する登録サポート企業5,000社の中から、条件に合う支援企業を3〜5社に絞って紹介します",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "相談は無料で、紹介企業との契約の義務はありません",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "130カ国に対応する登録サポート企業5,000社の中から、専門コンシェルジュが条件に合う支援企業を3〜5社に絞って無料で紹介します",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "使える制度が見つからないとき、展示会に出たあとの進め方を決めたいときのご相談に加えて、地域の企業に紹介できる支援企業を探している自治体のご担当者さまからのご相談も承っています",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "▶︎補助金で出展したあとの販路づくりや、進出先の国で実務を担える支援企業の紹介を",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "最適サポート企業を無料紹介",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "Digima～出島～では海外ビジネス進出サポート企業の無料紹介・",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "事業者様の「Ａ県Ｂ市に工場を新設する」という設備投資計画を想定して、自治体ではどのような補助金・助成金制度があるのかをご紹介します",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は辻・本郷ビジネスコンサルティングの寄稿により、立地補助金についてご紹介しました",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の紹介",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の紹介 TOP",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "【事例紹介動画】",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介した補助金の内容に疑問や事業所計画の策定に不安があれば、ぜひ以下のメールフォームからぜひお気軽にご相談ください",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、本記事で紹介する12種類の補助金・助成金の概要を一覧表にまとめました",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめの補助金・助成金12選を紹介します",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年3月最新情報】事業承継・M&A補助金とは？14次公募の基本要件や補助額、対象経費などをわかりやすく紹介",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介を見る",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事ではこれらの製造業で使える、それぞれの補助金について詳しくご紹介します！",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な製造業の採択実績ご紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "執筆者のご紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金採択支援どっとコムでは採択事例もご紹介しています",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金採択支援どっとコム採択事例紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金採択支援どっとコムコンサルタントのご紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば今回紹介した補助金を受給するには、高度な事業計画書を作成しなければならないですし、厳しい審査を勝ち抜かなくてはなりません",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "「2026年、製造業で使える補助金6選」執筆者のご紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】建設機械、重機購入で使える補助金のご紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金コンサルタント紹介",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの記事では、製造業が活用できる補助金・助成金をまとめて紹介します",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の事例とあわせて紹介しますので、ぜひ参考にしてください",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業が活用できる補助金・助成金を紹介します",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "1.ハローワーク等の職業紹介の日の前日から過去2年以内に、2回以上離職や転職を繰り返している",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "2.紹介日の前日時点で、離職している期間が1年を超えている",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "3.妊娠、出産・育児を理由に離職し、紹介日の前日時点で、安定した職業に就いていない期間が1年を超えている",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "4.60歳未満で安定した職業に就いておらず、ハローワーク等で担当者制による個別支援を受けている者",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "1.ハローワーク等の紹介により雇い入れること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークなどの求人受理の規定を満たしていること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、地方自治体の補助金や助成金をご紹介します",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業が活用できる補助金を紹介してきました",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業におすすめの補助金を3つご紹介し、さらに採択される可能性を高めるためのポイントも解説します",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "センター紹介",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（ハローワーク）",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 職業相談・紹介業務、求人受理・開拓業務、再就職支援業務等を行っている",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 有料職業紹介事業、労働者派遣事業、人材育成のための研修業務、人材採用又は転職にかかわる広告・ウェブサイト等の調査、企画、制作、運営及び広告代理業務、それらに伴うコンサルティング業務等を行う機関",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 同機関が実施する「伴走型支援サービス」は、企業の経営課題に対し、コンサルティングや経営幹部人材の紹介を実施することで経営課題の解消を目指すもの",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 同機関が運営する求人サイト「Glocal Mission Jobs」では、地方での労働を望む都市部の求職者を中心に地方企業とのマッチングを図り、地方の魅力発信を行っている",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ ハローワーク、親戚・知人・友人の紹介、新聞・雑誌等の紙媒体の求人広告",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：「各種の求人広告」、「企業が情報発信するウェブサイト」等を通じ、働くにあたっての基本情報を提供",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 現在利用している媒体・手段は、、ハローワーク、自社ホームページ、学校訪問、従業員等の紹介の順に多い",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 中途人材の採用には「自社Webサイトへの求人情報の掲載」、「リファラル（縁故）採用」、「就業体験」が有効",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 現在はハローワークが主だが、様々な採用方法を検討中",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 大学訪問、大学研究室の紹介、工場見学等を実施",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   }
+  ],
+  "補助金": [
+   {
+    "quote": "【2026年版】海外展開・輸出に使える自治体の補助金一覧｜東日本編（北海道〜愛知23都道県・222制度） | 海外進出ノウハウ | Digima〜出島〜",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】海外展開・輸出に使える自治体の補助金一覧｜東日本編（北海道〜愛知23都道県・222制度）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "北海道から愛知県までの23都道県と市区町村が実施する海外展開・輸出の補助金など222制度を一覧で掲載",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・展示会出展・専門家相談・マッチングの4タイプ別に、対象業種・対象国・補助上限額・申請先を整理しました",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助の上限は中央値45万円で、出展料や渡航費の2分の1から3分の2が対象になります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】海外展開・輸出に使える自治体の補助金一覧｜西日本編（三重〜沖縄24府県・154制度）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "▼【2026年版】海外展開・輸出に使える自治体の補助金一覧｜東日本編（北海道〜愛知23都道県・222制度）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "2. 支援は補助金・展示会・相談・マッチングの4タイプ",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "金額の面では、東日本の222件のうち上限額が分かる152件の中央値は45万円で、50万円以下が7割を占めます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "この要件を満たせば、投資額の補助率1％（上限1億円）および新規県内雇用者一人当たり10万円が助成されます",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の補助金・助成金・給付金一覧【2026年最新】 | 補助金エージェント",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "3,782件の補助金・助成金・給付金情報を掲載中",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "補助率 家賃（敷金、礼金は除く）の１／２",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "補助率 開店に必要な改修工事費の１／２",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（業務改善コース）【令和8年度第2回】",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "補助率 助成対象と認められる経費の2/3以内",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "東京都正規雇用転換安定化支援助成金（令和８年度第４回申請受付）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "補助率 100%",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第４回申請受付）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "ローカル10,000プロジェクトと関係補助金の比較",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業におすすめの補助金・助成金12選｜メリットや申請時の注意点も解説 - 株式会社中小企業経営支援事務所",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業におすすめの補助金・助成金12選｜メリットや申請時の注意点も解説",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業で使える補助金 お勧め6選 | ものづくり補助金・大規模成長投資補助金の申請支援・申請コンサルティング",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省大型補助金の支援総額 驚愕の270億円以上！",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】中小企業成長加速化補助金",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】大規模成長投資補助金（中堅中小成長投資補助金）",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】中小企業省力化投資補助金一般型",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】新事業進出・ものづくり商業サービス補助金",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業で使える補助金 お勧め6選",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、製造業で使える補助金6選",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業が活用できる補助金・助成金7選と事例まとめ｜Nにおまかせ！",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業が活用できる補助金・助成金7選と事例まとめ",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "「5分でわかる補助金活用入門」の資料をこちらからダウンロードできます",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "1.製造業が活用できる補助金・助成金【国からの支援】",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年版】製造業が使える補助金と採択率アップのコツ",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業必見！2025年に使える補助金と採択率アップのコツ",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業におすすめの補助金を3つご紹介し、さらに採択される可能性を高めるためのポイントも解説します",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "１．製造業が補助金を活用する３つのメリット",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "２．製造業におすすめの補助金3選",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率： 1/3 ～ 2/3",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員5名以下の小規模製造業でも利用できる補助金です",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2.補助上限額",
+    "url": "https://seichotoushi-hojo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "50億円（補助率1/3以下）",
+    "url": "https://seichotoushi-hojo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※令和７年度に実施した補助事業のうち、令和7年度中に支出した補助対象経費の補助金交付時期は、原則、令和８年度とします",
+    "url": "https://seichotoushi-hojo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【補助金】新事業進出・ものづくり商業サービス補助金の第２回公募要領を公開しました【申請受付期間：11/30～12/25】",
+    "url": "https://mirasapo-plus.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【補助金】新事業進出・ものづくり商業サービス補助金の第２回公募要領を公開しました...",
+    "url": "https://mirasapo-plus.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年熊本地震で被災した小規模事業者を支援「持続化補助金」第2次公募11月2日受付開始＜中企庁＞",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁は、令和8年熊本地震で被災した小規模事業者などの事業再建を支援する「小規模事業者持続化補助金＜一般型 災害支援枠（令和8年熊本地震）＞」の第2次公募の公募要領を公開した",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年熊本地震に伴う産業雇用安定助成金の特例を実施＜厚労省＞",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省は、令和8年熊本地震に伴う経済上の理由によって事業活動の縮小を余儀なくされ、雇用調整を行わざるを得ない事業主に対して、産業雇用安定助成金の特例措置を実施する",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県は、特別高圧（電圧が7,000Vを超えるもの）電力価格高騰による影響を受け、厳しい状況にある中小企業者に対する支援として、「第8期愛知県中小企業特別高圧電力価格高騰対策支援金」の受け付けを始めた",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "国税庁は、酒類事業者による日本産酒類の海外展開や新市場開拓の取り組みを支援する「令和8年度 酒類業振興支援事業費補助金」の公募を実施している",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "石川県は、8月27日からの大雨により被害を受けた中小企業・小規模事業者等が行う施設・設備などの復旧に要する費用を支援する「被災事業者再建支援補助金」の募集を始めた",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、中小企業の経営者・人事担当者がまず確認しておきたい6つのテーマ（時間外労働の上限規制、裁量労働制の見直しと変形労働時間制、年次有給休暇の取得義務化、同一労働同一賃金、解雇・整理解雇の要件、ハラスメント防止の義務化）を、法的根拠と実務対応のポイントとともに解説します",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "政府によるカーボンニュートラル政策や補助金制度、省エネルギー（省エネ）規制の強化、さらに大手企業によるサプライチェーンでのCO2削減や排出量開示要請の高まりにより、中小企業も対応を求められる場面が増えています",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "図6 地域雇用開発助成金の概要",
+    "url": "https://tameni.mynavi.jp/recruitment/law/4639/",
+    "pass": 3
+   },
+   {
+    "quote": "旭川市内に定着している期間のうち３年間を限度として、独立行政法人日本学生支援機構第一種・第二種奨学金の返還金として返済した金額の１/２を年度ごとに補助します（高等教育機関別に１年度当たりの補助上限額あり）",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ふるさと就職奨励金の交付対象者のうち、奨学金を返済している方は、就職後５年間にわたり、毎年の実償還額に応じて奨励金を加算受給することができます",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "pass": 3
+   },
+   {
+    "quote": "（３）浦河町漁業担い手支援事業補助金を受けていない方",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "pass": 3
+   },
+   {
+    "quote": "（４）浦河町農業担い手支援事業補助金を受けていない方",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "補助の上限は中央値45万円で、出展料や渡航費の2分の1から3分の2が対象になります",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "金額の面では、東日本の222件のうち上限額が分かる152件の中央値は45万円で、50万円以下が7割を占めます",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会／相談・専門家派遣、全業種、対象国の指定なし、上限200万円（海外実施の場合）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会／相談・専門家派遣、全業種（製造業者等）、対象国の指定なし、上限40万円（海外開催）、20万円（国内開催）",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会／相談・専門家派遣、食関連、対象国の指定なし、上限50万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会、食関連、対象国の指定なし、上限45万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会／相談・専門家派遣、全業種、対象国の指定なし、上限50万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会、全業種、対象国の指定なし、上限30万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会、農林水産物・加工品・市内製造品、対象国の指定なし、上限60万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会、全業種、対象国の指定なし、上限50万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金、製造業、対象国の指定なし、上限30万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会、製造業・情報サービス業、指定なし（国外開催の展示会）、上限25万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会／相談・専門家派遣、ものづくり（食品除く）、対象国の指定なし、上限50万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会／相談・専門家派遣、全業種、対象国の指定なし、上限100万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "補助金／展示会・商談会、木材・木製品、対象国の指定なし、上限250万円",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "工場5億円、設備5億円の設備投資計画",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ県の要件（下図）を確認しますと、区分は増設（県内企業の工場建設の場合は「増設」にあたると注意書きがあります）、業種は製造業を見ますと、交付要件は新規雇用11人以上、投資額5億円であることがわかります",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "この要件を満たせば、投資額の補助率1％（上限1億円）および新規県内雇用者一人当たり10万円が助成されます",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "【例】対象設備投資額10億円、新規雇用者数20人",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "対象設備投資額10億円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "10億円 ×（補助率）1％＝1,000万円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "（雇用者割）10万円 × 20人＝200万円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円＋200万円＝1,200万円 ※要件を満たす場合",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "交付要件は、投資額1億円以上であれば、Ａ県のように雇用者数の要件はないようです",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "この要件を満たせば、投資額の10％および新規雇用者一人当たり50万もしくは10万円（合わせて上限3億円）が助成されます",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "10億円 ×（補助率）10％＝1億円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "（雇用者割）50万円 × 20人＝1,000万円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "1億円＋1,000万円＝1億1,000万円 ※要件を満たす場合",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "1億1,000万円",
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "pass": 3
+   },
+   {
+    "quote": "〜100万円",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "〜1,000万円",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "5,000円",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "福島県中小企業特別高圧電気料金支援補助金（第８次）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "補助率 ①電力供給設備 補助対象経費の1/3（上限額1億円） ②荷役機械導入 補助対象経費と従来機との差額の2/3（ただしハイブリッド型は1/2） ③荷役機械改造 補助対象経費の2/3（ただしハイブリッド型は1/2）（上限額1億円）",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "最大5,500万円",
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "pass": 3
+   },
+   {
+    "quote": "750～4,000万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "200～1,500万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "2,500～9,000万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円を目指す投資を支援",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "150～2,000万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "5～450万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "30～600万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "4～90万円/人",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "4,500万～3億円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "200万～5億円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "③毎年、事業所内最低賃金を事業実施都道府県における最低賃金より30円以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員5人以下：750万円（850万円）",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員6～20人：1,000万円（1,250万円）",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員21～50人：1,500万円（2,500万円）",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員51人以上：2,500万円（3,500万円）",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省大型補助金の支援総額 驚愕の270億円以上！",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業も申請可能！売上100億円を目指す大型補助金！中小企業成長加速化補助金",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で使える最大50億円！大規模成長投資補助金",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル機能を備えたオーダーメイド設備なら中小企業省力化投資補助金一般型で最大1億円も狙えます",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "9,000万円",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年版】海外展開・輸出に使える 自治体 の 補助金 一覧 — 【2026年版】海外展開・輸出に使える 自治体 の 補助金 一覧 Digima〜出島 https://www.digima-japan.com > ... > 助成金・補助金",
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "pass": 3
+   },
+   {
+    "quote": "全国の 補助金 ・助成金・給付金一覧【2026年最新】 — 全国の 補助金 ・助成金・給付金一覧【2026年最新】 補助金エージェント https://hojokin-agent.jp > subsidy",
+    "url": "https://hojokin-agent.jp/subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 製造業 におすすめの 補助金 ・助成金12選 — 【2026年版】 製造業 におすすめの 補助金 ・助成金12選 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 製造業 で使える 補助金 お勧め6選 — 【2026年版】 製造業 で使える 補助金 お勧め6選 補助金・助成金採択支援どっとコム https://hojokin-joseikin.com > ...",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 製造業 が活用できる 補助金 ・助成金7選と事例 ... — 【2026年版】 製造業 が活用できる 補助金 ・助成金7選と事例 ... Nにおまかせ！ https://biz.service.ntt-east.co.jp > columns > subsidy_webs...",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "【 2025 年版】 製造業 が使える 補助金 と採択率アップのコツ — 【 2025 年版】 製造業 が使える 補助金 と採択率アップのコツ 株式会社エブネット https://eve-net.net > お金の話",
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "【 2025 年最新版】 製造業 が使える 補助金 制度まとめ！活用 ... — 【 2025 年最新版】 製造業 が使える 補助金 制度まとめ！活用 ... 小谷野税理士法人 https://koyano-cpa.gr.jp > nobiyo-kaikei > column",
+    "url": "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7020/",
+    "pass": 3
+   },
+   {
+    "quote": "国の 補助金 vs 地方自治体 の 補助金 ｜5000万円投資で本当に ... — 国の 補助金 vs 地方自治体 の 補助金 ｜5000万円投資で本当に ... 全国助成金・補助金サポートセンター https://jyoseikin-support.net > 補助金コラム一覧 > 補助金",
+    "url": "https://jyoseikin-support.net/subsidy_column/%E5%9B%BD%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91-vs-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%EF%BD%9C5000%E4%B8%87%E5%86%86%E6%8A%95%E8%B3%87%E3%81%A7%E6%9C%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "全国47 都道府県 企業立地助成金 一覧【2026年版】 — 全国47 都道府県 企業立地助成金 一覧【2026年版】 food-hojo.jp https://food-hojo.jp > 申請実務ノウハウ",
+    "url": "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "pass": 3
+   }
+  ],
+  "採用予算・採用費": [
+   {
+    "quote": "②従業員1人あたりの給与支給総額の年平均成長率を+3.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業実施期間終了時点で「事業場内最低賃金を45円以上増加させる」「給与支給総額を6％以上増加させる」事業計画を策定し、達成する",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "補助を受けるためには、3〜5年の事業計画期間内に、付加価値額の年平均成長率4.0％以上、給与支給総額の増加、最低賃金の引き上げなどの要件を満たす必要があります",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "③補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を事業実施都道府県における最低賃金の直近5年間の年平均成長率以上増加させる、または給与支給総額の年平均成長率を2.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業終了後3年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる目標を掲げ、達成すること",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省大型補助金の支援総額 驚愕の270億円以上！",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "また1600社以上の補助金申請プロジェクトのリーダーとして活躍し、その支援の総額は270億円以上に",
+    "url": "https://hojokin-joseikin.com/2061/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業終了後3～5年の事業計画期間において、一人当たり給与支給総額の年平均成 長率を3.5％（以下「一人当たり給与支給総額基準値」という",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画期間内に、給与支給総額を年平均成長率3.5％以上向上させること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "※①補助対象となる経費の総額の2分の1を上限",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "※②補助対象となる経費の総額の2分の1を上限とし、かつ補助金額で100万円を限度",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "給与支給総額について、年率平均2％以上向上する目標（給与支給総額：役員または従業員に支払われる給料、賃金および賞与のほか、給与所得とされる手当を指す）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "総額3,000億円（令和9年度までの国庫債務負担含む）",
+    "url": "https://seichotoushi-hojo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "②賃上げ要件（補助事業の終了後3年間の対象事業に関わる従業員等1人当たり給与支給総額の年平均上昇率が、4.5%以上）",
+    "url": "https://seichotoushi-hojo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の売上高は40億円と、この6年間で約4倍になる見通しで、2030年には東証グロース市場への上場と時価総額100億円を目指しています",
+    "url": "https://j-net21.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "５年間の支給総額で「交付申請日における未償還額の２分の１」又は「１２０万円（年額２４万円）」を比較して、いずれか低い額を、交付決定日以降の最初の返済日の属する月から１２か月を超えるごとに、１年間分を現金で交付します",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "pass": 3
+   }
+  ],
+  "1人あたり採用単価": [
+   {
+    "quote": "②従業員1人あたりの給与支給総額の年平均成長率を+3.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "③補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を事業実施都道府県における最低賃金の直近5年間の年平均成長率以上増加させる、または給与支給総額の年平均成長率を2.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業終了後3年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる目標を掲げ、達成すること",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "有期→正規：1人あたり80万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "無期→正規：1人あたり40万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "有期→正規：1人あたり40万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "無期→正規：1人あたり20万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "有期→正規：1人あたり90万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "有期→無期：1人あたり45万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "無期→正規：1人あたり45万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "3％以上4％未満：1人あたり4万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "4％以上5％未満：1人あたり5万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "5％以上6％未満：1人あたり6.5万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "6％以上：1人あたり7万円",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "支給対象者1人あたりの定額助成",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "・参加料として一人あたり10,000円",
+    "url": "https://www.joho-shimane.or.jp/files/original/20250514174040396dca46cb7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "雇用奨励金：1人あたり10〜160万円を別枠で交付",
+    "url": "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "pass": 3
+   }
+  ],
+  "人手不足": [
+   {
+    "quote": "工場や設備などの大規模な投資を行う企業に対し、最大50億円の補助金を提供するものであり、人手不足に対処するための貴重な支援となっています",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省がまとめた製造基盤白書（ものづくり白書）では、中小企業における製造業の人手不足感が、2022年・2023年は新型コロナウイルス感染症の感染拡大以前（2019年）より増加したと報告されました",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 我が国の人手不足の行方と中小製造業の現状",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "1．今後の人手不足の行方",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）生産年齢人口の減少により、人手不足は慢性化する可能性あり",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "パーソル総合研究所・中央大学「労働市場の未来推計 2030」（2018）によると、2030年時点においても全国的に人手不足が続いていることが分かる",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "2．中小製造業の人手不足の実態",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "（1）中小製造業の人手不足感は、サービス業と同水準まで強まった",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業については、2012年時点では、建設を除くと最も人手不足感の強い産業であったが、省力化投資の進展を背景に近年は緩やかに推移している",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業の人手不足感は急激に進行しており、2018年時点ではサービス業の水準まで強まった",
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "採用単価万円": [
+   {
+    "value": "80",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "有期→正規：1人あたり80万円"
+   },
+   {
+    "value": "40",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "無期→正規：1人あたり40万円"
+   },
+   {
+    "value": "20",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "無期→正規：1人あたり20万円"
+   },
+   {
+    "value": "90",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "有期→正規：1人あたり90万円"
+   },
+   {
+    "value": "45",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "有期→無期：1人あたり45万円"
+   },
+   {
+    "value": "4",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "3％以上4％未満：1人あたり4万円"
+   },
+   {
+    "value": "5",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "4％以上5％未満：1人あたり5万円"
+   },
+   {
+    "value": "6.5",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "5％以上6％未満：1人あたり6.5万円"
+   },
+   {
+    "value": "7",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "quote": "6％以上：1人あたり7万円"
+   },
+   {
+    "value": "160",
+    "url": "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "quote": "雇用奨励金：1人あたり10〜160万円を別枠で交付"
+   }
+  ],
+  "年間採用費万円": [
+   {
+    "value": "100",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "※②補助対象となる経費の総額の2分の1を上限とし、かつ補助金額で100万円を限度"
+   },
+   {
+    "value": "１２０",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "quote": "５年間の支給総額で「交付申請日における未償還額の２分の１」又は「１２０万円（年額２４万円）」を比較して、いずれか低い額を、交付決定日以降の最初の返済日の属する月から１２か月を超えるごとに、１年間分を現金で交付します"
+   },
+   {
+    "value": "２４",
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "quote": "５年間の支給総額で「交付申請日における未償還額の２分の１」又は「１２０万円（年額２４万円）」を比較して、いずれか低い額を、交付決定日以降の最初の返済日の属する月から１２か月を超えるごとに、１年間分を現金で交付します"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-agent.jp/subsidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/2061/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seichotoushi-hojo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/follow-up/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://4d2.jiam.jp/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tameni.mynavi.jp/recruitment/law/4639/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://local-syukatsu.mhlw.go.jp/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.joho-shimane.or.jp/files/original/20250514174040396dca46cb7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smart-hojokin.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_kaseguchikara/004/002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seisansei.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-shinkin.co.jp/profile/files/docs/local_r05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jilc.or.jp/pages/261/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jyoseikin-support.net/subsidy_column/%E5%9B%BD%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91-vs-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%EF%BD%9C5000%E4%B8%87%E5%86%86%E6%8A%95%E8%B3%87%E3%81%A7%E6%9C%AC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forval-shoukei.jp/shokuhin_lp/column/hojokin-shurui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojimachi-capital.com/subsidy-implementing-organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/ajw/articles/16337156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grants.dorado-group.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sr-verse.jp/services/founding-support-subsidies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 調査 万円",
+   "results": [
+    "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261030.php",
+    "https://hojyokin-portal.jp/",
+    "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "https://hojokin-agent.jp/subsidy",
+    "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "https://www.brother.co.jp/product/machine/speedio-navi/articles/a0066/",
+    "https://www.sme-support.co.jp/column/p1242/",
+    "https://www.jilc.or.jp/pages/261/",
+    "https://expact.jp/mono-hojyo/",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 平均 2025",
+   "results": [
+    "https://www.sme-support.co.jp/column/p1242/",
+    "https://hojokin-joseikin.com/2061/",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://eve-net.net/2025/08/10/subsidy-manufacturing-2025/",
+    "https://seichotoushi-hojo.jp/",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7020/",
+    "https://hojyokin-portal.jp/columns/hojyokin-chusho-summary",
+    "https://baie-amalfi.com/202%EF%BC%95%E5%B9%B4%E7%89%88%EF%BC%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E8%A3%9C%E5%8A%A9%E9%87%91%E4%B8%80%E8%A6%A7/",
+    "https://edenred.jp/article/hr-recruiting/318/",
+    "https://mono-support.com/blog/2025-meker-hojokin/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 中小企業 アンケート 結果",
+   "results": [
+    "https://www.chusho.meti.go.jp/keiei/torihiki/follow-up/index.html",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.jiam.jp/journal/pdf/127-02-01.pdf",
+    "https://mirasapo-plus.go.jp/",
+    "https://j-net21.smrj.go.jp/",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://www.tokyo-kst.jp/repo28.html?srsltid=AYCX9vK3k4oOxHuNeIRlRKDHB_LM3IWPLe6G4ujut_OQSfhK-y6ywYkK",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai32/shiryou1.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://local-mp.co.jp/media/columns/subsidy-map-2026/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 就職白書 OR マイナビ OR リクルート 調査",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/",
+    "https://tameni.mynavi.jp/recruitment/law/4639/",
+    "https://local-syukatsu.mhlw.go.jp/support/",
+    "https://saponet.mynavi.jp/",
+    "https://www.joho-shimane.or.jp/files/original/20250514174040396dca46cb7.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/07/2026-saiyojyokatsudo.pdf",
+    "https://www.pref.shimane.lg.jp/industry/employ/koyo_syugyo/shien/saiyo.data/R8shienguide.pdf",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/about-employment-subsidy",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local02/",
+    "https://www.mynavi.jp/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 商工会議所 OR 信用金庫 OR 県 調査",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/local10000_project.html",
+    "https://hojokin-joseikin.com/2061/",
+    "https://www.smart-hojokin.jp/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_kaseguchikara/004/002.pdf",
+    "https://seisansei.smrj.go.jp/",
+    "https://hojokin-agent.jp/subsidy",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://hojyokin-portal.jp/",
+    "https://www.sk-shinkin.co.jp/profile/files/docs/local_r05.pdf"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 都道府県 地方 比較",
+   "results": [
+    "https://www.jilc.or.jp/pages/261/",
+    "https://jyoseikin-support.net/subsidy_column/%E5%9B%BD%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91-vs-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%EF%BD%9C5000%E4%B8%87%E5%86%86%E6%8A%95%E8%B3%87%E3%81%A7%E6%9C%AC/",
+    "https://food-hojo.jp/complete-guide-to-corporate-location-subsidies/",
+    "https://forval-shoukei.jp/shokuhin_lp/column/hojokin-shurui.html",
+    "https://hojokin-agent.jp/subsidy",
+    "https://kojimachi-capital.com/subsidy-implementing-organization/",
+    "https://hojyokin-portal.jp/columns/hello-world",
+    "https://www.smart-hojokin.jp/",
+    "https://www.onamae.com/business/article/302884/",
+    "https://hojokin-db.jp/"
+   ]
+  },
+  {
+   "query": "government hiring subsidies regional manufacturers Japan",
+   "results": [
+    "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "https://www.asahi.com/ajw/articles/16337156",
+    "https://grants.dorado-group.jp/",
+    "https://www.facebook.com/vietnamtodayinternational/posts/the-japanese-government-will-be-launching-a-subsidy-program-to-encourage-firms-t/567160287553442/",
+    "https://sr-verse.jp/services/founding-support-subsidies/",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://www.eu-japan.eu/taxes-accounting/tax-incentives-subsidies",
+    "https://sr-dsg.or.jp/column/foreign-employment/808/",
+    "https://scalingyourcompany.com/guide-to-subsidies-in-japan/",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/government_initiatives.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

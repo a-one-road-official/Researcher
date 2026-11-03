@@ -1,0 +1,1603 @@
+{
+ "name": "メール自動返信AI",
+ "en": "AI email reply assistant",
+ "aliases": [
+  "AI email responder",
+  "automated email response AI",
+  "email assistant",
+  "AI email",
+  "email automation"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:31:58.855813+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "SaaS alternatives on the market",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The $50/agent/mo Advanced AI add-on on top of the $115 base means $165/agent/mo for full AI features — a 10-agent team costs $19,800/yr.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "KB retrieval: top-3 relevant articles fetched",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Email subject + body embedded. Cosine similarity search against tenant's kb_articles table (tenant_id-scoped index). Top-3 articles with similarity > 0.65 returned as context for draft generation.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "5. Draft generation: Retrieve top-3 KB articles via pgvector cosine similarity. Call GPT-5.4 mini (api.openai.com) with: email thread + KB context + brand voice (from tenant_settings.brand_voice text field). Store draft in email_drafts table.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Customer emails contain personal data. Sending that data to OpenAI (GPT-5.4 mini), DeepSeek, or Anthropic (Sonnet 4.6) makes those providers sub-processors under GDPR. Agency must maintain a sub-processor list, sign DPAs with each provider, and ensure processing stays within agreed regions.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS alternatives",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "for multiple devices and email providers",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Generate a set of tags to sort incoming emails: AI processes the message, assigns a tag, and your inbox groups all the messages with the same tag in a filter or view. This helps you batch replies by topic, reducing context switching.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimize your inbox usage by having AI analyze your usage and messaging partners, unlocking things like identification of unanswered high-priority emails, spotting frequent senders and recurring topics, or suggesting inbox cleanup or filtering rules.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple devices and email providers",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Sitting confidently on the throne here, Shortwave has the widest range of AI features of all the apps on this list. They all live in the top-right of your screen: click on the magic stars icon there, and a chat window appears docked on the right side. This is the Shortwave AI Assistant.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "A bit of disappointing news: Shortwave only works with Gmail accounts for the time being, so if you're doing email with other providers, you'll have to sit out. There's an Outlook waiting list; sign up if you're interested so you get notified when it finally comes out.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "The second one is thread summarization: like others on this list, you can get a big-picture view of a conversation in a list of topics. Unlike others on this list, Copilot adds little numbers in superscript that you can use to jump to the message where that topic is discussed. Super helpful for searching your conversations for specific statements.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini is slowly spreading deep into the infrastructure of every app in Google Workspace, adding smart features to help you search, organize, and create. Gmail is included in this rollout: if you're on a paid personal plan (AI One) or a business plan (Workspace), you'll see the Gemini star at the top right of your screen.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Split your inbox by topics to organize messages",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "On top of this generative AI tool, you'll be able to summarize any of your email threads: hit",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI email assistant for multiple devices and email providers",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "It runs on nearly every device today, accepting a wide range of providers: the common Gmail or Outlook, the trusty Yahoo, the private Proton Mail, and even the efficient Zoho Email. Once you connect your accounts, you can see them in a unified inbox, so you don't have to switch between them to get everything done.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "white label solution lets agencies fully brand AI assistants with custom domains and remove all Invent branding.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "AI agencies and chatbot providers",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents that do the client's back-office work, such as follow-ups, record updates and reports, on a schedule or on Autopilot.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Key Crucial Features of White-Label Agent Providers",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": ", we don’t stop at providing white-label AI agents for customer support. We go above and beyond by offering two exclusive services designed to help our clients get the maximum value and performance from their AI agents.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "An AI agent that suggests blog topics, drafts and edits posts, and works keywords in naturally. Give it your style guide in Taskade and it writes to y…",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "An AI agent that condenses long documents into short briefs and highlights the sections worth reading in full. Set the length and the topics to focus…",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop apps",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best GoHighLevel Alternatives in 2026 (Agency CRMs, Client Portals and White-Label Tools)",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead’s AI now understands your specific tone, product context, and customer language, leading to",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Cold email outreach is evolving, and Smartlead is leading the transformation.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, our cold emailing software is designed to significantly improve your email deliverability rates. It enhances email deliverability through AI-powered email warmups across providers, unique IP rotating for each campaign, and dynamic ESP matching.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead enhances cold email personalisation through advanced AI-driven capabilities and strategic integrations. Partnered with Clay, The cold remaining software facilitates efficient lead list building, enrichment from over 50 data providers, and real-time scraping for precise targeting. Hyper-personalised cold emails crafted in Clay seamlessly integrate with Smartlead campaigns.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "There's so much stuff built on top of it. I would be dead if I had to rebuild it with another tool. I can manage hundreds of senders easily. I can send hundreds of thousands of emails.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Missive is a team email and collaboration client that runs on top of your real inbox, with AI built deeply into the workflow rather than added as a sidebar. It supports Gmail, Outlook, IMAP, plus SMS, WhatsApp, Instagram, Messenger, and custom channels. Web, Mac, Windows, Android, iOS, iPadOS.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "As for trade-offs, Agent Hub is only available across top-tier plans within HubSpot's product offering.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "7 Fyxer AI alternatives: from email clients to add-on tools",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Compare 7 Fyxer AI alternatives for 2026, from Gmail-native add-ons like Gmelius and Hiver to team inboxes like Missive. Pricing verified April 2026.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "5 best alternatives to the Outlook for Teams integration",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Sales on autopilot",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Top email deliverability",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Top-rated on G2",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "You decide what information Jason should find and use. He researches each prospect accordingly and writes high-quality, specific emails – so personalization stays on-strategy, not on autopilot.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Run outreach your way: stay in control when you want to, or hand it off to Jason AI SDR on autopilot — the choice is yours.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Autopilot & copilot modes",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Autopilot & Copilot Modes",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks for stopping by. It is an honor for me to welcome you to our product that we have created with passion and love for the craft.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Reply.io Alternatives",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Jason AI SDR Alternatives",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Build for desktop and mobile, desktop only, or mobile only, and fine-tune each view separately.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Only",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Check your email before you send and fix anything that could stop it reaching the inbox.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "1. Stop writing emails from scratch",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "However, remember that this is a standalone tool and responses have to be copy-pasted on your email client. Further, Planable’s AI engine may not be adequately trained on email data, like some of the competitors such as Gmelius.",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "Accuracy depends on context, but Gmelius is among the top performers for Gmail users. Its AI doesn’t just generate a grammatically correct reply, it reads the thread, understands tone, and adapts to your communication style automatically.",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "Email overload is real, especially when you’re juggling everyday tasks. Now there’s a quicker way to generate relevant responses and stay on top of your incoming emails.",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping leads warm is key if you want to stay top of mind. Our AI email reply generator helps you send timely, persuasive emails without the usual back-and-forth.",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": ": Make sure your key messages are integrated into your responses, especially for emails related to important topics.",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Hootsuite alternatives",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Sprout Social alternatives",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho Social alternatives",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "AI Email Response Automation White-Label | RapidDev",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label AI Email Response Automation Tool for Customer-Service Agencies",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Buy white-label SaaS or per-resolution tool",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Vendor owns the platform; limited rebrand options",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label tier — Intercom brand is non-negotiable in the agent experience",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-market CS agencies with 3–10 enterprise clients who want a managed inbox product with partial white-label capability",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$229/seat/mo (Enterprise) — OEM partner program available",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program is the closest to true white-label in the inbox-management category",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program has revenue minimums and requires Front's approval — not accessible for small agencies",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Brand control in the OEM program is partial — some Front UI elements persist",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Small SaaS companies with internal support teams of 2–10 agents who don't need white-label capability",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label or reseller program — Help Scout brand is visible in all customer-facing emails",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label AI Agents and Assistants for Agencies",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI agents for agencies: resell AI customer service under your brand, with custom domains, a free domain option and client accounts.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "white label solution lets agencies fully brand AI assistants with custom domains and remove all Invent branding.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "No domain yet? Start each client on the free ondash.app white-label domain and switch to your own later (",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domains, whitelabel login, and dedicated workspaces for each client, manage it all from one powerful Invent dashboard.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI for Agencies by Invent",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Invent’s white label functionality allows agencies",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domains for each client",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Core requirement: Custom domain setup",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "To activate white labeling features (branding removal + branded links), each organization or sub-organization must:",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Add and verify a custom domain",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "When you create a client account, pick ondash.app under Organization domain. It's a free white-label domain with no Invent branding, so you can start today and add your own domain later (",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI agents for customer service",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Most agencies use white-label to sell AI customer service: an AI agent that answers their client's customers, under the agency's brand. With Invent, each client gets:",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand everywhere:",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Agents for Businesses | Voice + Chat + Email",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Think AI support can’t wear your brand’s colors? Think again. With Crescendo.ai’s white label AI agents, your customers get VIP treatment, without ever knowing we exist.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Worried that a third-party AI agent won’t match your brand or website design? Your worries end here. At Crescendo.ai, we offer 100% white label AI agents that blend seamlessly into your brand, powered by the latest LLMs to sound natural and human-like. Plus, our hands-free deployment service (included at no extra cost) ensures a fast, hassle-free setup tailored to your needs.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "There are three types of white-label AI agents commonly available in the market:",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI chat agents:",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Branded AI chat assistants embedded on your website or app that handle customer queries in real time using your brand’s tone and design.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI voice agents for phone support:",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "White-label email autoresponders:",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Let's explore each of these white label AI agents in detail.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "1. White Label AI Chat Agents",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Here are examples of our white label AI agents in action for two different clients. Each is fully branded with its own logo, color scheme, and tone, and as you’ll notice, there’s no “powered by Crescendo.ai” anywhere in sight.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of White Label AI Agents",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "2. Email Autoresponders with 100% White Labeling",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "with 100% White Labeling ensure every customer email feels like it came directly from their internal support team. From the sender name to the signature, tone, colors, typography, and formatting, everything is fully customized to match the brand’s voice.",
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best GoHighLevel Alternatives in 2026 (Agency CRMs, Client Portals and White-Label Tools)",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "to your brand voice and sales strategy.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead works best for lead generation and outbound agencies, B2B SaaS and sales teams, and founders who run cold email at scale. Agencies get unlimited email accounts, client workspaces and white-labeling, while sales teams get a unified inbox and CRM.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Program",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "White label",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label as an option",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "with AI built into every part of it. Generate a full campaign from a short description, change any section by telling the AI what you want, and save your brand identity so every email starts on-brand.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Save your brand identity so every email starts on-brand.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, built in from the first draft",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Save your logo, colours and fonts once. Every new email and every AI-generated template starts on-brand, so your team isn't re-entering hex codes or hunting for the right logo file.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Choose your brand template style",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo disappears on a dark background.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "An AI email builder is an email designer that uses AI to help you create and edit emails. In Mail Blaze, it generates full templates from a short description, edits any section on request, and applies your brand identity automatically.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "CS agencies managing 5+ clients with combined monthly tickets over 10,000, where AI cost arbitrage is the margin thesis",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$229/seat/mo (Enterprise) — OEM partner program available",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program is the closest to true white-label in the inbox-management category",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label or reseller program — Help Scout brand is visible in all customer-facing emails",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No reseller program — an agency cannot white-label Help Scout output for client-facing dashboards.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label or reseller program",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Variable:",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Env vars: OPENAI_API_KEY, DEEPSEEK_API_KEY, NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Resell vFairs or Airmeet WL at $1K+/mo or hire RapidDev at $20K–$40K…",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "1,000+ client projects delivered. Columbia University & Harvard Business School alumnus, U.S. Navy veteran.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Integration Partner Program",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "), and add as many private or team snippets as you need. They can be full messages with attachments or short blocks of text detailing a product or service you offer. You can customize them with variables, so the fields update based on the message sender.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "includes AI templates, letting you save commonly-used messages, with customizable variables that autofill based on the email thread content.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI agents for agencies: resell AI customer service under your brand, with custom domains, a free domain option and client accounts.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS resellers and automation consultants",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "This is how agencies help clients scale operations without hiring at the same pace: the AI handles the repeat questions and busywork, and the client's team takes the conversations that need a person. For pricing and margins, see",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "AI for agencies: the complete guide to reselling AI",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Is this suitable for SaaS resellers or AI agencies?",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Available in HubSpot Professional and Enterprise plans; pricing varies based on your selected plan. Additional usage-based charges apply: $1 per lead for Prospecting Agent; $0.50 per resolution for Customer Agent; $0.10 per answer for Data Agent.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "AI Variables",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "AI variables",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Make every email personal with AI variables. AI writes unique details for each prospect so you stand out and stay out of spam.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Domain pricing varies by domain type and starts at the price below.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Try a few variations, keep the one that fits, and skip the blank page entirely.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "More variations means more to test, and testing is how you learn what your audience actually opens, clicks and acts on.",
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "pass": 3
+   },
+   {
+    "quote": "or any other text based files to train the chatbot. Each file is converted to pages based on its content (2,500 cleaned characters = 1 page). The page limits vary based on your plan.",
+    "url": "https://sitegpt.ai/tools/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "<div style='width: 100%; display: flex; flex-direction: row; justify-content: center; margin-bottom: 2rem;'><a href='https://gmelius.com/request-demo' class='button button-large book-a-demo'>Get the proactive AI email response generator for free</a></div>",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "The Harvard Crimson",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "Agency profit margins report 2026",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "multiple response variations to find the perfect tone for every business conversation.",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Select your number of response variations: 1, 3, or 5.",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency profit margins",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency profit margins report 2025",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "The gap between expectation and reality is enormous. And the businesses on the wrong side of that gap are losing customers. A Harvard Business Review study found that companies that responded to leads within an hour were seven times more likely to qualify the lead than those that waited even two hours.",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "plan limits. AI history and meeting notes vary by plan.",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "D365 VAR Services",
+    "url": "https://www.beyondkey.com/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Offers a wide variety of emotional tones to perfectly match the situation.",
+    "url": "https://gmelius.com/blog/best-ai-assistants-for-email",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://gmelius.com/blog/best-ai-assistants-for-email",
+    "pass": 3
+   },
+   {
+    "quote": "The Harvard Crimson",
+    "url": "https://gmelius.com/blog/best-ai-assistants-for-email",
+    "pass": 3
+   },
+   {
+    "quote": "Snov.io is a robust all-in-one outreach and lead generation platform tailored for agencies and SaaS businesses looking to offer cold outreach as a white-labeled service. With its white label functionality, users can fully brand the platform under their own domain and visual identity — making it easy to resell email outreach solutions without building a tool from scratch.",
+    "url": "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the unique Moosend features is a no-code campaign editor that is based around nodes that you can drag and drop on the layout to form complex email sequences. You can also choose from a variety of ready-made campaign templates to speed up your email marketing processes.",
+    "url": "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "pass": 3
+   },
+   {
+    "quote": "Widget management includes built-in analytics with A/B testing to compare variations live. You can also integrate results with Google Analytics for deeper insights.",
+    "url": "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Breakeven vs buying",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofit",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "AI Nonprofit",
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "pass": 3
+   },
+   {
+    "quote": "Agency profit margins report 2026",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency profit margins",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency profit margins report 2025",
+    "url": "https://planable.io/email-response-generator/",
+    "pass": 3
+   },
+   {
+    "quote": "22 Profitable AI Business Ideas That Are Quietly Making People Rich in 2026",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "Non Profit",
+    "url": "https://www.beyondkey.com/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Email marketing for nonprofits: The complete guide for 2026",
+    "url": "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Try Smartlead’s 14-day free trial and experience how automation, personalization, and intelligence combine to help you turn replies into revenue, faster than ever.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead is a robust cold emailing software designed to transform cold emails into reliable revenue streams. Trusted by over 100,000 businesses, Smartlead excels in email deliverability, lead generation, cold email automation, and sales outreach. A unified master inbox streamlines communication management, while built-in email verification reduces bounce rates.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "With Reply we were able to generate an extra $15,000 of revenue during the first 3 months.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "At $29.99 a month for one person, or $49.99 a seat for teams, with no per-resolution fees, alfred_ is the most affordable option for solo professionals and small teams. Help Scout’s Standard plan is $25/user/month, so a small team scales with headcount. Zendesk’s mid-tier plan for a three-person team costs $165/month. alfred_ costs the same $29.99 regardless of how many emails arrive.",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": ", an investor intelligence platform, generated 1.8x more revenue from deals within just a month.",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "8 Parramatta Square, Level 49",
+    "url": "https://www.beyondkey.com/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Parramatta, NSW 2150",
+    "url": "https://www.beyondkey.com/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "In the spirit of transparent research, we did not just pick random names to fill a list. We conducted a rigorous evaluation of over 30 different tools to arrive at this final selection. Our selection process was governed by three strict criteria designed to filter out vaporware and ensure professional viability.",
+    "url": "https://gmelius.com/blog/best-ai-assistants-for-email",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Customer-service agencies serving 5–50 SMB clients who currently outsource Tier-1 email triage and want to undercut Intercom's per-resolution pricing",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Real products you can sign up for today — with current 2026 pricing, honest pros and cons.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Per-seat pricing adds up fast across 10+ clients with large support teams",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Reasonable pricing for small CS teams under 10 seats",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "7. Tenant settings: Admin can configure brand voice guidelines (textarea), logo, and per-tenant spend_cap_monthly (default $50). Log API costs per tenant per month in cost_logs table.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $18/user/month",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 subscription required, starting at $9.99/month for individuals and $25.20/user/month for businesses",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $4.99/month for personal users (Google AI Plus) and $8.40/user/month for business users (Google Workspace)",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $25/user/month",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $3/month (billed yearly); lifetime options available",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $25/month",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "$19.99/month as part of the Proton Duo plan",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $14.99/month or $99/year",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Included in Microsoft 365 plans, starting at $9.99/month for individuals and $25.20/user/month for businesses.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $7/user/month (billed annually) in Google Workspace",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "From $25/user/month (billed annually)",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan includes unified inbox for unlimited email accounts; Growth at $3/month (billed yearly) adds AI features and inbox cleaner; lifetime options available, starting at $100 one-time.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $25/month for 2 email accounts, AI inbox organization, pre-drafted responses, daily brief summaries, and technical support.",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead accommodates both small businesses and large enterprises with four plans, and every plan includes unlimited email accounts. The Base plan at $39/month suits small businesses and solopreneurs, offering 2,000 contacts and 6,000 emails a month, alongside essential tools like unlimited email warm-up and detailed analytics.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "We came for the unlimited inboxes, and we stayed for the API. 1.5M cold emails/month, 7,767+ inboxes managed.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead has been a game-changer for us. It increased our appointment volume, improved ease of use, and offered valuable features. 80% increase in appointments/month, peak of 276 appointments in a single month.",
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "pass": 3
+   },
+   {
+    "quote": "The shift matters because the right tool for you depends on which side of that split you live on. Most lists rank tools by features without naming the architectural difference. This guide does, with verified 2026 pricing for every option below.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Starter $14/user/month (annual),",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Productive $24/user/month",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "(annual, the tier you want for AI features), Business $36/user/month (annual). AI features (the assistant, prompts, AI rules) are included on Productive and Business. You power them with prepaid Missive AI credits or your own OpenAI, Anthropic, or Google API key. 30-day free trial with Productive features, no credit card required. Full breakdown at",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier for personal Gmail accounts (90 days of AI search history). Pro $14/user/month (annual). Business $24/user/month (annual, the team tier). Pricing has restructured multiple times in the past year; verify on the Shortwave pricing page before committing.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "$25/user/month",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "$33/user/month",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "(annual, $40 monthly, adds Auto Drafts, Ask AI, CRM integrations with HubSpot, Salesforce, Pipedrive). Enterprise pricing on request.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "$22.50/user/month",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "$37.50/user/month",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Snack $7/month or $59/year (1 account, any 2 features), Lunch $12/month or $99/year (2 accounts, 6 features), Dinner $36/month or $299/year (4 accounts, all features). Billed per inbox, not per user. 14-day free trial.",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "$12/user/month",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Starter $10/user/month (100 AI chatbot responses included), Business $20/user/month (1,000 responses), Enterprise $30/user/month (10,000 responses).",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Active contacts is the number of unique contacts you can send 1 first-step email and an unlimited number of follow-ups per month.",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "50 Live data credits/month",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "+ $5 per mailbox/month",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "+ $15 per mailbox/month",
+    "url": "https://reply.io/",
+    "pass": 3
+   },
+   {
+    "quote": "alfred_ (from $29.99/month) is the best for small teams and solo professionals: AI-drafted replies in your inbox, no helpdesk migration required, works inside your existing Gmail or Outlook",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "Front ($25–$105/month per seat) is a shared inbox for teams that need collaboration features, assignments, and internal comments on customer threads",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "Help Scout ($25–$75/month per user) is a customer-focused helpdesk for small to mid-size support teams who want a clean, simple interface",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk ($19–$115/month per agent) is an enterprise helpdesk for large teams that need advanced routing, SLAs, and reporting, but AI add-ons cost extra",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "(from $29.99/month) is the best value. It auto-drafts replies in your voice, triages customer emails by urgency, and works inside your existing Gmail or Outlook without requiring a helpdesk migration. For mid-size teams (5-20),",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "$25–$105/mo per seat",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "Free–$75/mo per user",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "$29–$139/mo per seat",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "$25–$85/mo per user",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "alfred_: from $29.99/month",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "At $29.99 a month for one person, or $49.99 a seat for teams, with no per-resolution fees, alfred_ is the most affordable option for solo professionals and small teams. Help Scout’s Standard plan is $25/user/month, so a small team scales with headcount. Zendesk’s mid-tier plan for a three-person team costs $165/month. alfred_ costs the same $29.99 regardless of how many emails arrive.",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "Front: $25–$105/month per seat",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": "The Starter plan ($25/seat/month, up to 10 seats) covers the basics. The Professional plan ($65/seat) adds omnichannel, advanced automations, and analytics. The Enterprise plan ($105/seat) adds advanced permissions, reporting, and most AI features. For a 5-person team, costs range from $125 to $525/month depending on the plan.",
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "pass": 3
+   },
+   {
+    "quote": ": $27-$45/month, with a free plan and a custom team plan available",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": ": $39-$59 per user/month",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": ": From $29/month",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": ": $2,500/month",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": ": $48-$96/month",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "Spark is a mail app with a smart inbox and AI features for composing, replying and summarizing. Its AI Assistant is opt-in and searches an index of your mail kept on your device. The maker lists a free plan, Plus at about $10 per user per month and Pro at about $20, with shared inboxes on Pro.",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "About $30 to $40 per month",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "From about $30 per month",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   },
+   {
+    "quote": "Free; about $10 to $20 per user per month",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The 10 Best AI Email Assistants - Zapier — The 10 Best AI Email Assistants - Zapier Zapier https://zapier.com > ... > Best apps",
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "I built an AI email agent to reply to customer questions 24/7 (it ... — I built an AI email agent to reply to customer questions 24/7 (it ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "pass": 3
+   },
+   {
+    "quote": "The 9 best AI email assistants in 2026: from inbox helpers to ... — The 9 best AI email assistants in 2026: from inbox helpers to ... Missive https://missiveapp.com > blog > ai-em...",
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best AI Email Response Generators in 2025 [+ 4 Reasons to ... — 6 Best AI Email Response Generators in 2025 [+ 4 Reasons to ... Gmelius https://gmelius.com > blog > best-ai-e...",
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "pass": 3
+   },
+   {
+    "quote": "8 Best AI Email Assistants for Sales Teams - AiSDR — 8 Best AI Email Assistants for Sales Teams - AiSDR AiSDR https://aisdr.com > Blog",
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "pass": 3
+   },
+   {
+    "quote": "9 AI Email Assistants That Draft, Sort and Reply for You — 9 AI Email Assistants That Draft, Sort and Reply for You Commerce Pundit https://www.commercepundit.com > a...",
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zapier.com/blog/best-ai-email-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reply.io/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taskade.com/agents/featured/email-response",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replyagent.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://missiveapp.com/blog/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ProductivityApps/comments/1ggkrzv/built_a_solution_to_email_overload_an_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://reply.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustfirms.com/best-whitelabel-ai-virtual-assistants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lety.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/automation/comments/1l741g6/i_built_an_ai_agent_that_replies_to_client_emails/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://commplify.ai/best-white-label-ai-agent-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mailblaze.com/create/ai-features",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sitegpt.ai/tools/ai-email-response-generator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmelius.com/blog/best-ai-email-response-generators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/sb/app/rebrand-ai-logo-maker/id6737123019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planable.io/email-response-generator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aisdr.com/blog/best-ai-email-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beyondkey.com/ai-email-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usecarly.com/blog/best-ai-email-assistants/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://autocalls.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/blog/ai-reply-agent-pricing-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmelius.com/blog/best-ai-assistants-for-email",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/best-white-label-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://replymyway.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label AI email reply assistant",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://zapier.com/blog/best-ai-email-assistant/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "https://reply.io/",
+    "https://www.linkedin.com/posts/whitelabel-ai-agency_the-owner-of-a-web-agency-we-work-with-doesnt-activity-7513480751548669952-HP99",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.usecarly.com/blog/white-label-ai-assistant-for-agencies/",
+    "https://reply.io/whitelabel/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant white-label",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://reply.io/whitelabel/",
+    "https://www.taskade.com/agents/featured/email-response",
+    "https://www.replyagent.com/",
+    "https://www.smartlead.ai/blog/ai-email-response-generator",
+    "https://stammer.ai/",
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://writemail.ai/ai-email-assistant"
+   ]
+  },
+  {
+   "query": "best white label AI email reply assistant providers",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://zapier.com/blog/best-ai-email-assistant/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://missiveapp.com/blog/ai-email-assistant",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.reddit.com/r/ProductivityApps/comments/1ggkrzv/built_a_solution_to_email_overload_an_ai/",
+    "https://reply.io/",
+    "https://www.trustfirms.com/best-whitelabel-ai-virtual-assistants",
+    "https://www.usecarly.com/blog/best-ai-email-assistants/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant white label reseller agency",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://lety.ai/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://www.reddit.com/r/automation/comments/1l741g6/i_built_an_ai_agent_that_replies_to_client_emails/",
+    "https://commplify.ai/best-white-label-ai-agent-platforms/",
+    "https://reply.io/",
+    "https://www.youtube.com/watch?v=6weNaVTUmQQ",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://stammer.ai/post/best-white-label-ai-software"
+   ]
+  },
+  {
+   "query": "AI email reply assistant rebrand your logo own brand",
+   "results": [
+    "https://www.mailblaze.com/create/ai-features",
+    "https://sitegpt.ai/tools/ai-email-response-generator",
+    "https://gmelius.com/blog/best-ai-email-response-generators",
+    "https://apps.apple.com/sb/app/rebrand-ai-logo-maker/id6737123019",
+    "https://planable.io/email-response-generator/",
+    "https://www.quora.com/Is-there-an-AI-tool-that-can-rebrand-a-logo-that-I-already-have-automatically",
+    "https://brand.ai/",
+    "https://www.jotform.com/ai/best-ai-email-response-generator/",
+    "https://writemail.ai/tools/email-reply-generator",
+    "https://rebrand.com/ai/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant private label SaaS",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.youtube.com/watch?v=gzd1cmRCUI4&vl=ja",
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://missiveapp.com/blog/ai-email-assistant",
+    "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "https://aisdr.com/blog/best-ai-email-assistant/",
+    "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "https://www.beyondkey.com/ai-email-assistant",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.usecarly.com/blog/best-ai-email-assistants/"
+   ]
+  },
+  {
+   "query": "AI email reply assistant white label partner program pricing",
+   "results": [
+    "https://autocalls.ai/white-label",
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://missiveapp.com/blog/ai-email-assistant",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://instantly.ai/blog/ai-reply-agent-pricing-for-agencies/",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://gmelius.com/blog/best-ai-assistants-for-email",
+    "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "https://reply.io/",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "AI email reply assistant white label company profitable",
+   "results": [
+    "https://www.usecarly.com/blog/white-label-ai-email-assistant/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://reply.io/whitelabel/",
+    "https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/",
+    "https://www.commercepundit.com/blog/ai-email-assistants/",
+    "https://stripo.email/blog/best-white-labeling-software-to-use/",
+    "https://www.crescendo.ai/blog/white-label-ai-agents",
+    "https://aisdr.com/blog/best-ai-email-assistant/",
+    "https://get-alfred.ai/blog/best-ai-assistant-for-customer-email",
+    "https://insighto.ai/blog/best-ai-white-label-services/"
+   ]
+  }
+ ],
+ "missing": {}
+}

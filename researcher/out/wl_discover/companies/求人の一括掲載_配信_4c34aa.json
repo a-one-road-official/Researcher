@@ -1,0 +1,1318 @@
+{
+ "name": "求人の一括掲載・配信",
+ "en": "job multiposting software",
+ "aliases": [
+  "job distribution platform",
+  "job board posting automation",
+  "job posting",
+  "multiposting",
+  "job distribution"
+ ],
+ "context": "採用",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:07.283720+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": ". Here's a quick breakdown of the top options:",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "providers.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Top 4 White Label Job Board Software Platforms",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "SmartJobBoard is a hosted white-label platform designed for organizations that want to quickly and easily launch professional job boards. As of 2025, it powers over",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "SmartJobBoard is generally well-reviewed on platforms like Capterra and G2, with users highlighting its intuitive interface, flexible branding options, and responsive customer support, though some note a desire for more advanced analytics.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Many association career center vendors work on a",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re looking for an all-in-one platform rather than a white label solution, you can explore our",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Job Boardly is a flat subscription at a published price. It does not integrate with association management systems or offer member single sign-on, so associations that need the board tied into their membership login should look at vendors that specialize in association career centers.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Best Job Board Software in 2026: Top 6 Tools",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Confidently share opinions and reduce bias in the process with multiple reviews and star ratings to rank your top talent.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Automatically post to a network of top job boards to ensure your postings appear on the sites ideal job candidates frequent.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Leverages AI to analyze market data and recommend competitive, role-appropriate compensation ranges to attract top talent.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Scores and ranks applicants based on how closely their profiles match your job criteria, so your best candidates rise to the top.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "HiringThing connects to background screening providers, job boards, video interviewing platforms, and more to smooth the evaluation process.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "\"You can keep this as simple or make it as complex as you want. This is seriously what you wish an ATS was! On top of all that - you can make it really look like your employment brand - not something that looks like other ATS company or even a co-brand. It looks like your organization. Even the URL!\"",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ATS providers have grown over the last several years, but we continue to use HiringThing both internally and with our clients. We value the ability to share user experience with their team and their responsiveness to things that make our job of finding and hiring amazing employees even easier.\"",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "We are an intelligent recruiting platform that creates seamless talent experiences. Our white label solutions and open API enables technology and service providers to offer hiring solutions to their clients.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors use \"white-label\" for different levels of control. One platform may include a logo and color picker; another may also cover email templates, page layouts, and every line of copy. Buyers need to compare the underlying surfaces and plan gates.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "You pick a template and change colors, upload a logo, connect a custom domain. The vendor's \"powered by\" badge may or may not be removable depending on your plan. The layout is fixed. You're essentially wearing someone else's clothes with your name stitched on. This is where most job board platforms start, and where many stop.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Template platforms keep you current by limiting what you can change. Custom and self-hosted code lets you change anything, but improvements stop arriving unless you do the work. Ask whether the vendor merges its updates into a customized board, and what happens when an update conflicts with your changes.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domains are supported with SSL certificates. Connect your domain by adding the records in the manage dialog (or Domain Connect one-click on supported DNS providers), and Cavuno handles the rest including",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "How to choose the right white label solution for your use case",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Most comparisons stop at monthly price. The real question is total cost of ownership over three years.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Custom development costs $5K–$200K+ (and never stops)",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "The build cost is just the entry fee. Ongoing maintenance runs 15–20% of the original build cost annually. A $50,000 build costs $7,500–$10,000/year to fix bugs, update dependencies, and patch security vulnerabilities. Hosting adds $600–$6,000/year on top.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "For this walkthrough, we'll use Cavuno, but the steps are similar across most white-label providers.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Price the tier that removes branding from the surfaces you need. For Cavuno, custom-domain boards start at $39/month; Basic at $105/month or $948/year ($79/month equivalent) adds footer-branding removal and a custom email sender domain. Other vendors package branding differently, so include email, checkout, integrations, payment fees, and staff time.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "No. Cavuno's AI website builder creates and edits your board from a plain-language description, and platforms like JBoard and Job Boardly offer no-code visual editors. You can customize design, create pages, configure monetization, and launch without writing code. The exception is self-hosted solutions like MarketGrabber, which require developer resources.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a job board costs between $246 and $300,000+ depending on your approach. This guide breaks down every cost category, including the hidden ones competitors skip, with real numbers, break-even ...",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Alternatives",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Top Companies",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "Grant clients promoted slots to surface their jobs to the top. You control how many promoted jobs to show and the Dropboard algorithm takes care of the rest.",
+    "url": "https://dropboardhq.com/features/white-labeled-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "One Stop Solution",
+    "url": "https://www.logicspice.com/job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Top Freelancer Company",
+    "url": "https://www.logicspice.com/job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Clutch Top Developer",
+    "url": "https://www.logicspice.com/job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "This market leading job board software has been built using the experience of seasoned recruitment tech professionals combined with leading software developers and provides the perfect solution to launch a job board or aggregator allowing you to quickly generate revenue.",
+    "url": "https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to our Jobs Aggregator, where we bring together the best job opportunities from various sources into one comprehensive platform. Whether you’re a job seeker looking for your dream position or a recruiter searching for top talent, our job board aggregator is designed to simplify the entire process.",
+    "url": "https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The Career Wallet Group, a leading provider of job aggregation services and white label job board software. We specialize in connecting job seekers and employers across the United States, United Kingdom, Australia, Canada, Ireland, and beyond. Our mission is to simplify the job search process and empower businesses with innovative tools to streamline their recruitment efforts.",
+    "url": "https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Job Board Software and Recruitment Marketing Automation - Jobiqo",
+    "url": "https://www.jobiqo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our AI-powered white-label job board software allows clients to take advantage of unmatched flexibility on top of a feature-rich job board platform. We enable media brands, publishers and associations to engage audiences and grow revenue, while lowering cost with AI-enabled automation.",
+    "url": "https://www.jobiqo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The programmatic job advertising platform Jobiqo AIR is a one-stop shop to increase candidate reach and application performance across social media, display and job aggregators. This allows clients to reduce traffic acquisition costs, target passive audiences and grow revenue with new products.",
+    "url": "https://www.jobiqo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Become part of the community with over 350+ media publishers and brands in over 22+ countries who already use the leading job board product suite by Jobiqo",
+    "url": "https://www.jobiqo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Red flags to avoid when evaluating vendors",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "After extensive testing, here are the top 5 platforms ranked by overall value and capabilities.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "The $600 price point is revolutionary. You get features that competitors charge $3,000+ for, or $200+/month. This is 70-80% cheaper than alternatives with comparable features.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Native iOS and Android apps come standard. Most competitors charge extra or don’t offer them at all. This alone is worth $10,000+ in development costs.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Should Consider Alternatives:",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "While they have basic matching algorithms, the AI capabilities lag behind newer platforms like eJobSiteSoftware. No AI resume parsing or advanced machine learning features.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Not included by default. Mobile apps are available but cost extra ($2,000-$5,000). Most competitors now include these.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "“We migrated from a custom platform to SmartJobBoard. The transition was smooth, support was excellent, and uptime has been flawless. It’s more expensive than alternatives, but we value reliability. Our board serves 15,000 employers—we can’t afford downtime.”",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartJobBoard is the “safe, established choice.” If budget isn’t a primary concern and you value proven reliability, it’s excellent. However, the premium price is harder to justify when platforms like eJobSiteSoftware offer similar core features at 40% of the cost.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Less flexible than competitors. You work within their design framework. Can’t make major structural changes.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to comprehensive platforms like eJobSiteSoftware or SmartJobBoard, Niceboard feels lighter. Missing some advanced ATS features.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "eJobSiteSoftware saves you $1,200-$6,000+ over 3 years compared to alternatives, while offering equal or better features.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern design is your top priority",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Many vendors charge immediately or make cancellation difficult.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Transaction fees on top of payment processing",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 44 Job Posting Multiposting Software Compared (2026)",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "HR Software · 44 providers",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Top 44 Job Posting Multiposting Software Compared",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label Job Board Software: Platform Comparison | Job Boardly",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Job Board Software: Platform Comparison",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "White label job board software",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "white label job board software",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "white label job board software for associations",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Top 4 White Label Job Board Software Platforms",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "for quicker visibility in search results. These features help drive organic traffic to your job board, giving it a competitive edge in search rankings while supporting your branding efforts.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Job Boardly offers extensive customization options to align your job board with your brand identity. Users can adjust logos, colors, fonts, and layouts to create a professional and cohesive look. The platform also supports custom domains, ensuring your site maintains a polished and consistent web presence.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "For those looking for a seamless white-label solution, the Job Boardly Pro and Ultra plans remove all references to Job Boardly from the user-facing interface, providing a",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "SmartJobBoard is a hosted white-label platform designed for organizations that want to quickly and easily launch professional job boards. As of 2025, it powers over",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": ", enabling users to create a fully branded experience. You can use custom domains to make your job board feel like a natural extension of your brand.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "The platform covers basic branding needs, allowing users to upload logos, tweak color schemes, and use a custom domain. However, options for layout customization are quite limited.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "JobMount is a robust white-label job board platform designed for recruitment agencies and publishers. With a presence in over",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Job Board Software for Associations",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "custom domains",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Learn About HiringThing White Label ATS Software | HiringThing",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Applicant Tracking System",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Expand your platform with a white label hiring solution that helps your customers attract, evaluate, hire, and onboard employees without building recruiting technology internally.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of a white label applicant tracking system",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "HiringThing helps you deliver recruiting directly inside your platform under your brand.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "WHITE LABEL & API",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Extend beyond basic white label",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "HiringThing supports both white label and deeper platform customization. Partners can tailor workflows, integrate systems, and extend hiring capabilities using our API.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Platform",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded architecture section",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "WHITE LABEL HR",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Where Most White Label Integrations Fail",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the key strategies to ensure a seamless white label ATS integration and unlock your full potential.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "We are an intelligent recruiting platform that creates seamless talent experiences. Our white label solutions and open API enables technology and service providers to offer hiring solutions to their clients.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed or resell hiring software to clients under your brand.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Best white-label job board software: 7 platforms compared (2026) | Cavuno",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best white-label job board software: 7 platforms compared (2026)",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Compare 7 white-label job board platforms by branding removal, custom domains, buyer-facing touchpoints, monetization, and total cost.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label job board software",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "runs a job board under your brand while the vendor provides hosting, search, payments, and other infrastructure. A custom domain only changes the address visitors use. Actual brand removal means the vendor name and badges disappear from the public board and, depending on the product and plan, from employer portals, transactional emails, and checkout.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "white-label launch walkthrough",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "This guide evaluates seven white-label job board platforms against that spectrum, scoring each on white-label depth, breaking down what \"custom domain support\" means in practice, and identifying which tier of each platform unlocks real brand independence.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "What white-label means in practice",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors use \"white-label\" for different levels of control. One platform may include a logo and color picker; another may also cover email templates, page layouts, and every line of copy. Buyers need to compare the underlying surfaces and plan gates.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "The white-label depth spectrum",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "From least to most control, here's what \"white-label\" means in practice:",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "You pick a template and change colors, upload a logo, connect a custom domain. The vendor's \"powered by\" badge may or may not be removable depending on your plan. The layout is fixed. You're essentially wearing someone else's clothes with your name stitched on. This is where most job board platforms start, and where many stop.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "The deepest SaaS-level customization. You describe the board you want, or the change you want, in plain language, and the platform builds or edits the pages, copy, and design itself. Full text customization across every user-facing page comes with it, and the platform still handles custom domains with automated SSL. Two platforms sit here.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Platforms define white-labeling differently. Understanding the included surfaces saves you from discovering limitations after your brand is live and migration is painful.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label acceptance checklist",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Job Board Software - Launch Your Branded Job Board",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Job Board Software - Launch Your Branded Job Board in Days",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "Power your own branded job board with LoopCV's matching technology. Employers post jobs, candidates apply, and your brand stays front and center.",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand. Our job board technology.",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "LoopCV's white label job board software lets you launch a fully branded job board without building anything from scratch. Employers post vacancies, candidates search and apply, and you manage everything from one dashboard.",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "What your white label job board includes",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "Employers in your network can post vacancies directly to your branded job board. Control which employers have access and how jobs are categorized.",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "Candidates search and apply through your branded portal",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "How to launch your white label job board",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "We configure the job board with your logo, domain, and custom filters for your industry or region",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "From niche industry job boards to university graduate portals and alumni hiring networks - LoopCV's white label job board software gives you everything you need to connect employers and candidates under your brand.",
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeled job board software | Dropboard",
+    "url": "https://dropboardhq.com/features/white-labeled-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeled portal",
+    "url": "https://dropboardhq.com/features/white-labeled-job-board/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeled job board software for recruiters and entrepreneurs",
+    "url": "https://dropboardhq.com/features/white-labeled-job-board/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "SmartJobBoard also offers a variety of ways to generate revenue, such as pay-per-post fees, subscription packages, featured listings, and resume database access charges. This flexibility allows job board owners to align their monetization strategies with their audience and market needs.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "As a hosted platform, JobMount delivers advanced tools for job posting, management, and search functionality. It also includes a job aggregation system that gathers listings from various sources and distributes them across partner networks.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Share or Flat Subscription",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "revenue share",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "For associations, the deciding questions are usually the commercial model (revenue share or a flat subscription) and whether the board has to integrate with your membership system. Job Boardly fits the flat-subscription, run-it-yourself case; see the",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Job Boardly offers a variety of tools to help you earn money through your job board. With the",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue share on average.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed or resell hiring software to clients under your brand.",
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Varies by arrangement",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Two pricing models: revenue share (no upfront cost, popular with associations) and flat-fee subscription.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Software that lets you create a branded job board under your own domain, logo, and identity. The vendor provides the technology — hosting, search, payments, SEO — while your users see only your brand. The depth of white-labeling varies from basic logo swaps to fully invisible platforms where you control the text, layout, and design of every page.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "It can be, but there is no universal timeline or margin. Profit depends on employer demand, audience acquisition, collected prices, payment processing, software costs, and staff time. Model those inputs before choosing a platform.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to our Jobs Aggregator, where we bring together the best job opportunities from various sources into one comprehensive platform. Whether you’re a job seeker looking for your dream position or a recruiter searching for top talent, our job board aggregator is designed to simplify the entire process.",
+    "url": "https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Option to resell the software to others (usually)",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "✓ Reseller functionality",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Language variants, market templates, currency",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program",
+    "url": "https://softgarden.com/en/products/multiposting/",
+    "pass": 3
+   },
+   {
+    "quote": "The employer branding software platforms below represent a range of solutions used to manage visibility, reputation and candidate experience across modern hiring channels. These tools vary in focus, from recruitment marketing and analytics to applicant tracking and content distribution, reflecting how employer branding is embedded across the recruiting stack.",
+    "url": "https://builtin.com/articles/employer-branding-software",
+    "pass": 3
+   },
+   {
+    "quote": "ATS connector depth varies by ATS and may not cover every pipeline customization",
+    "url": "https://worldmetrics.org/best/multi-job-posting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Variables",
+    "url": "https://100hires.com/multiposting.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing varies by vendor",
+    "url": "https://100hires.com/multiposting.html",
+    "pass": 3
+   },
+   {
+    "quote": "Varies - some bundle, some require per-board contracts",
+    "url": "https://100hires.com/multiposting.html",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Get the free interactive checklist + insider tips on building a profitable job board sent to your inbox.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Niceboard publishes named customer stories, including Grow Cycling and Medical Alley. Treat vendor-reported revenue and profitability results as examples whose outcomes depend on each board's audience, pricing, and sales work.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Professional associations, non-profits, and universities wanting a professional job board on a clean preset theme, with proven ROI data.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "At 20 paid postings per month and a collected price of $199, annual gross posting revenue would be 20 × $199 × 12 = $47,760. That is gross revenue, not profit: subtract refunds, payment processing, platform fees, marketing, support, tax, and staff time. Use the",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Is running a job board profitable?",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "It can be, but there is no universal timeline or margin. Profit depends on employer demand, audience acquisition, collected prices, payment processing, software costs, and staff time. Model those inputs before choosing a platform.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a job board costs between $246 and $300,000+ depending on your approach. This guide breaks down every cost category, including the hidden ones competitors skip, with real numbers, break-even ...",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "At $399-$799 one-time, JobMount is the second most affordable option after eJobSiteSoftware. Great for bootstrapped startups.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Q: How long until my job board is profitable?",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Get the free interactive checklist + insider tips on building a profitable job board sent to your inbox.",
+    "url": "https://www.jobboardly.com/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": ", up to 10,000 active jobs on Standard, strong SEO tools, and job aggregation features like Job Backfiller — published at $60/month. Ideal for operators and associations who want a branded board live fast.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": ": Built for advanced users, with ATS integrations, in-platform messaging, and dedicated account management on higher tiers; tiered pricing from $149/month.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "$60/month",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "From $149/month",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "at $60/month or $480/year (equivalent to $40 per month), the",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "at $120/month or $960/year, and the",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "at $240/month or $1,920/year. Pro adds employer subscriptions, XML imports, the job board API, and removes branding. Ultra adds in-product messaging, a headless API, and priority support. Every plan includes unlimited traffic and pages, at least 10,000 active jobs, plus candidate and employer profiles.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "$149/month",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "($119/month billed annually) for up to 1,000 jobs and one team member, without job seeker profiles or employer subscriptions.",
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Disclosure: Cavuno is our product. Ratings reflect our editorial assessment of publicly available features as of September 2026. Evaluate each platform directly. Features and pricing change frequently.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "starts at $39/month for a branded custom-domain board. Basic at $105/month or $948/year ($79/month equivalent) adds removal of the \"Powered by Cavuno\" badge and a custom email sender domain.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Niceboard lists Core at $399/month or $319/month billed annually (5,000 active jobs), Advanced at $599/month or $479/month billed annually (10,000), and Custom by sales quote (30,000).",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": ": Starts at $399/month on monthly billing. API access is restricted to Custom. Limited customization compared to platforms with visual or AI builders.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "JBoard's pricing page lists 3 scraper sources on Basic, 10 on Standard, 30 on Advanced, and 80 on Scale, plus built-in blogging. Test performance on a live customer board rather than relying on a vendor speed claim.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": ": $149/mo starting price is higher than budget options. API access starts on Scale. AI auto-tagging starts on Advanced ($449/month). Job limits range from 1,000 to 30,000 on self-serve tiers.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "USD 45 per month",
+    "url": "https://www.logicspice.com/job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve spent 200+ hours testing these platforms, interviewing actual users, and analyzing pricing structures. This is the most honest, comprehensive white label job board comparison you’ll find.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "The $600 price point is revolutionary. You get features that competitors charge $3,000+ for, or $200+/month. This is 70-80% cheaper than alternatives with comparable features.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "“I spent weeks researching platforms. The $600 price seemed too good to be true, but I took the chance. Six months later, my job board is generating $4,000/month. The AI matching actually works—employers love it. The mobile apps were a huge selling point. Best ROI I’ve gotten on any business investment.”",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "OR Subscription: $145-$495/month",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "At $999-$4,999 one-time or $145-$495/month, it’s significantly more expensive than eJobSiteSoftware for similar core functionality. The premium is harder to justify for startups.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "OR Subscription: $199-$999/month",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "At $1,495+ one-time or $199+/month, it’s the most expensive platform reviewed. Hard to justify unless you need enterprise features.",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription only: $99-$299/month",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts at €119 per month.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing is not public; Core, Plus and Pro need a quote (20 August 2026).",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts at €257 per month.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing is listed as starting from €0.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts at €100 per month, scaling with active postings.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts at €0 and scales to enterprise-level integrations.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts at €8 per user per month.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "Berlin performance recruiting provider (founded 2016): job ads across 50+ channels, a candidate pool of 4.5 million, HIRE from €400 per month and REACH under €150 per job. Since August 2026 with the AI interviewer Madita.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "rexx systems is a modular HR suite from Hamburg for applicant tracking, HR administration and talent management, cloud or on-premise, for mid-market and enterprise from 100 to 50,000 employees — pricing only on request.",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/white-label-job-board-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/multi-job-posting-software/",
+    "pass": 3
+   },
+   {
+    "quote": "From $49 per month",
+    "url": "https://100hires.com/multiposting.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": ": Revenue-share and flat-fee options, a built-in ATS, and 400+ organizations served according to the vendor. Ask which sales and transaction-processing duties are included in your proposal.",
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "pass": 3
+   },
+   {
+    "quote": "Job Board Monetization: 7 Proven Revenue Strategies",
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Multiposting Software : Job Postings on 1200+ Job Boards — Multiposting Software : Job Postings on 1200+ Job Boards softgarden https://softgarden.com > ... > Products",
+    "url": "https://softgarden.com/en/products/multiposting/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 44 Job Posting Multiposting Software Compared - Sprad — Top 44 Job Posting Multiposting Software Compared - Sprad Sprad https://sprad.io > provider-categories",
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raklet.com/features/job-board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopcv.pro/white-label-job-board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dropboardhq.com/features/white-labeled-job-board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logicspice.com/job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jobiqo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://peoplemanagingpeople.com/tools/best-job-board-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gospacewalk.com/solutions/white-label-job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sprad.io/provider-categories/job-posting-multiposting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/white-label-job-board-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiringthing.com/white-label/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://softgarden.com/en/products/multiposting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsmn8.com/employer-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/articles/employer-branding-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmia.com/en-ca/multiposting-software-for-recruiters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leonar.app/features/job-multiposting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workdo.io/white-label-saas-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiringthing.com/blog/private-label-vs-white-label-ats",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unlayer.com/blog/white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/best/multi-job-posting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x0pa.com/white-label-recruiting-software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bidscube.com/blog/top-10-white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alexberman.com/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/whitelabel-partner/pricing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/recruiting/comments/1i6tli9/recommendations_on_software_that_will_automate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketgrabber.com/job-board-software.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://100hires.com/multiposting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zipdo.co/best/white-label-job-board-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jobboardly.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label job multiposting software",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.raklet.com/features/job-board/",
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://dropboardhq.com/features/white-labeled-job-board/",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.loopcv.pro/white-label-job-board/",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://www.chiefjobs.com/the-best-websites-for-multi-job-board-posting/"
+   ]
+  },
+  {
+   "query": "job multiposting software white-label",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://www.loopcv.pro/white-label-job-board/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://dropboardhq.com/features/white-labeled-job-board/",
+    "https://www.raklet.com/features/job-board/",
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://www.jobiqo.com/"
+   ]
+  },
+  {
+   "query": "best white label job multiposting software providers",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://peoplemanagingpeople.com/tools/best-job-board-software/",
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.gospacewalk.com/solutions/white-label-job-board-software",
+    "https://www.youtube.com/watch?v=GSlUiViDPtA",
+    "https://dropboardhq.com/features/white-labeled-job-board/",
+    "https://www.logicspice.com/job-board-software",
+    "https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/",
+    "https://sprad.io/provider-categories/job-posting-multiposting"
+   ]
+  },
+  {
+   "query": "job multiposting software white label reseller agency",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.hiringthing.com/white-label/",
+    "https://sellful.com/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sprad.io/provider-categories/job-posting-multiposting"
+   ]
+  },
+  {
+   "query": "job multiposting software rebrand your logo own brand",
+   "results": [
+    "https://softgarden.com/en/products/multiposting/",
+    "https://sprad.io/provider-categories/job-posting-multiposting",
+    "https://dsmn8.com/employer-branding/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://builtin.com/articles/employer-branding-software",
+    "https://www.sigmia.com/en-ca/multiposting-software-for-recruiters/",
+    "https://www.leonar.app/features/job-multiposting/",
+    "https://www.youtube.com/watch?v=012evbKJHmg",
+    "https://www.pandape.com/en/employer-branding/",
+    "https://gohiring.com/en/multiposting/"
+   ]
+  },
+  {
+   "query": "job multiposting software private label SaaS",
+   "results": [
+    "https://www.reddit.com/r/SaaS/comments/1o0curp/white_label_job_board_software_needed/",
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://workdo.io/white-label-saas-solution/",
+    "https://blog.hiringthing.com/private-label-vs-white-label-ats",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://wotnot.io/blog/white-label-saas",
+    "https://unlayer.com/blog/white-label-saas",
+    "https://sprad.io/provider-categories/job-posting-multiposting",
+    "https://worldmetrics.org/best/multi-job-posting-software/"
+   ]
+  },
+  {
+   "query": "job multiposting software white label partner program pricing",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.gospacewalk.com/solutions/white-label-job-board-software",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://suitedash.com/white-label-software-for-agencies/",
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://bidscube.com/blog/top-10-white-label-tools-for-agencies/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://alexberman.com/white-label-marketing-software",
+    "https://www.g2.com/products/whitelabel-partner/pricing"
+   ]
+  },
+  {
+   "query": "job multiposting software white label company profitable",
+   "results": [
+    "https://www.jobboardly.com/blog/white-label-job-board-software-comparison",
+    "https://www.hiringthing.com/white-label-ats/applicant-tracking-system/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.logicspice.com/job-board-software",
+    "https://www.reddit.com/r/recruiting/comments/1i6tli9/recommendations_on_software_that_will_automate/",
+    "https://www.marketgrabber.com/job-board-software.aspx",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/",
+    "https://100hires.com/multiposting.html",
+    "https://worldmetrics.org/best/white-label-job-board-software/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -247,13 +247,81 @@
 
 ## 外注先への発注・進捗管理（subcontractor order and job tracking software）
 - 文脈：受発注
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「Bottom line: ProPricer excels at subcontractor cost modeling but stops at proposal submission. GovDash covers pricing strategy through Pricer Cloud and tracks subcontractor relationships across the full lifecycle from capture through contract performance.」（https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon）
+  - 「ERP systems like Unanet GovCon and Deltek Costpoint handle post-award subcontractor financials well but do not track teaming partners during capture or proposal development. Full lifecycle platforms like GovDash carry subcontractor relationships from initial teaming agreements through contract performance without re-entering data between stages.」（https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon）
+  - 「Leading a construction project means wearing a dozen hats at once. One minute you’re tracking down insurance certificates, the next you’re fielding calls about late payments or scrambling to fill a gap in the schedule. Add multiple subcontractors across different job sites, and you’ve got a hectic situation ripe for streamlining.」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「We rounded up the top-rated subcontractor management software to help you make the right choice for your business. We cover features, pros and cons, and pricing of each product for easy comparison.」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「Affordable compared to competitors」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「Jump to Topic:」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「In managing your business operations, implementing a work order system can offer significant benefits that enhance efficiency and productivity. This system can significantly boost your subcontractor performance and efficiency, leading to substantial cost savings. It's an effective tool for streamlining subcontractor workflows, reducing wasted time, and eliminating unnecessary delays.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「: By speeding up the work order lifecycle, you not only meet but exceed customer expectations, leading to higher satisfaction rates.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「With the streamlined processes, deliverables are improved, leading to greater customer satisfaction.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「: It allows for instant sharing of work orders, leading to enhanced collaboration within the team.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「With our full-featured, comprehensive CMMS maintenance program, you and your team can easily manage work orders, preventive maintenance scheduling and asset tracking in your facility from your desktop or mobile device.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「EASY, INTUITIVE, UNSTOPPABLE」（https://field-ascend.com/en-us/subcontractor-management-software）
+  - 「FM service providers」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Tenants, vendors, teams aligned」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「This guide ranks these platforms for facilities and property operations teams: FM service providers, in-house FM departments, and multi-site operators who manage third-party trade vendors (HVAC, cleaning, security, MEP) across live buildings. Because that work runs continuously, the right tool usually sits inside your」（https://facilio.com/blog/subcontractor-management-software/）
+- 自社名で出せる条件：
+  - 「White Label Construction Project Management Software at $8000」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「What Is White Label Construction Project Management Software?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label construction project management software is a ready-made platform that you can launch under your own brand. Instead of building every feature from scratch, you use an existing software foundation and configure it to match your business requirements.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「We customize the platform with your logo, colors, domain, user roles, and project workflows. Our team can also configure features such as task management, project scheduling, budget tracking, document sharing, and progress reports. This approach helps growing companies offer construction management tools without managing the full development lifecycle.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Get a Tailored White Label Software Solution for Your Construction Business」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「How White Label Construction Management Software Works」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label construction project management software allows businesses to launch a fully branded solution without building it from scratch. Customize the platform with your logo, colors, and features to deliver a seamless experience under your own brand.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Construction businesses need a central platform to manage projects, teams, budgets, and site activities. Our white label construction project management software can be configured with the features your clients need to manage construction workflows efficiently.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Business Advantages of Investing in White Label Construction Software」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label construction software helps businesses launch a branded software solution without building every feature from scratch. It offers a practical way to expand services, manage client needs, and support business growth.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label vs. Custom-Built Construction Software: Which Is Right for Your Business?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White label software uses an existing platform that can be branded and configured for your business, while custom development builds software around your specific requirements. The right choice depends on your budget, timeline, technical needs, and level of control.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「White Label Software」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Who Can Benefit from White Label Construction Software?」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+- 再販制度：
+  - 「Reseller and Partner」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Offer special pricing to software resellers and business partners who sell the platform under their own brand. This model helps partners build their software business with an agreed licensing structure.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Procore doesn’t list pricing on its site. Costs vary based on the size of your company, number of projects, and modules selected. Most reports suggest Procore is on the higher end of the pricing spectrum — you’ll need a custom quote tailored to your operations.」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「Customer support response times can vary」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「Filter resources by state to get the most up-to-date and accurate information on permitting requirements and regulations. You can now see how the permitting varies from state to state and from municipality to municipality. Select a state below to learn more.」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「has helped a variety of businesses.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「See interviews from various」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「Just as a conductor manages an orchestra to produce a harmonious symphony, you navigate the complex world of subcontracting, coordinating various tasks specialty contractors and teams to complete projects on time.」（https://www.maintenancecare.com/subcontractor-work-order-management-software）
+  - 「Subcontracts, change orders and committed costs track against the budget in real time, so a mid-project scope change does not quietly erode margin.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Knowify combines job costing, contract management and subcontractor management for trade and commercial contractors, with everything tied back to profitability. It is built for electrical, plumbing, HVAC and general contractors who subcontract portions of a job and need to see margin in real time. The QuickBooks-first design makes it a natural fit for finance-led trade businesses.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Knowify tracks subcontractor and labor costs against the budget in real time, so a trade contractor sees margin erode before the job closes rather than after.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Cost-to-profit visibility is strong, tying every subcontractor dollar back to job margin so future bids get sharper.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Bid capture keeps subcontractor pricing and job records together, so margin on subcontracted work stays visible.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Reporting emphasizes project-level visibility, history review, and documentation presence that supports variance analysis across time.」（https://worldmetrics.org/best/subcontractor-management-software/）
+  - 「Activity history improves variance tracking around schedule and scope changes」（https://worldmetrics.org/best/subcontractor-management-software/）
+- 黒字・収益性：
+  - 「Integrating AI into construction project management software empowers businesses to automate workflows, improve project visibility, reduce operational risks, and make data-driven decisions that drive efficiency and profitability.」（https://hyperlocalcloud.com/white-label/construction-project-management-software）
+  - 「Knowify combines job costing, contract management and subcontractor management for trade and commercial contractors, with everything tied back to profitability. It is built for electrical, plumbing, HVAC and general contractors who subcontract portions of a job and need to see margin in real time. The QuickBooks-first design makes it a natural fit for finance-led trade businesses.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「Cost-to-profit visibility is strong, tying every subcontractor dollar back to job margin so future bids get sharper.」（https://facilio.com/blog/subcontractor-management-software/）
+  - 「NGO & Non profit」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「Budget tracking and cost management become increasingly difficult as projects scale. Manual tracking of labor hours, material costs, and change orders makes it nearly impossible to maintain accurate project budgets or identify cost overruns before they become serious problems. This lack of financial visibility can quickly erode profit margins and put the entire business at risk.」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「Better budget tracking and cost management features provide real-time visibility into project finances. Automated time tracking, expense recording, and budget monitoring help identify cost overruns early and maintain healthy profit margins. Integration with accounting systems ensures that financial data remains accurate and up-to-date.」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「Real-time cost tracking is essential for maintaining project profitability. The software should capture labor hours, material costs, and equipment usage automatically, providing accurate and up-to-date project finances. Integration with time tracking systems ensures that labor costs are recorded accurately without manual data entry.」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「Financial reporting and analytics capabilities provide insights into project performance and business health. Customizable reports show profit margins, cost trends, and budget variance across individual projects and the entire business. These insights help identify areas for improvement and support strategic decision-making.」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「Start by evaluating your current challenges, trying free trials of promising platforms, and implementing gradually to ensure successful adoption. With the right software in place, you'll be positioned to take on larger projects, improve client satisfaction, and grow your construction business profitably.」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「track profitability in real-time—all without replacing tools you already rely on.」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+  - 「Non Profits」（https://noloco.io/blog/construction-project-management-software-for-small-business）
+- 価格：
+  - 「$99/month」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「$249/month.」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「$39/user/month」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「$49/month」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「$13/user/month. All features included. 30-day trial.」（https://field-ascend.com/en-us/subcontractor-management-software）
+  - 「Field Ascend is $13/user/month. All features are included, and every account starts with a 30-day trial.」（https://field-ascend.com/en-us/subcontractor-management-software）
+  - 「$13/month」（https://field-ascend.com/en-us/subcontractor-management-software）
+  - 「Field Ascend is $13 per user per month, with a 30-day free trial and」（https://field-ascend.com/en-us/subcontractor-management-software）
+  - 「Field Ascend costs $13/user/month. All features are included, and the trial lasts 7 days with」（https://field-ascend.com/en-us/subcontractor-management-software）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/subcontractor-management-software/）
+- 検索結果の抜粋：
+  - 「5 Best Subcontractor Management Software for Construction — 5 Best Subcontractor Management Software for Construction PermitFlow https://www.permitflow.com > blog」（https://www.permitflow.com/blog/subcontractor-management-software）
+  - 「Best Subcontractor Management Software 2026 - Facilio — Best Subcontractor Management Software 2026 - Facilio Facilio https://facilio.com > blog > subcontra...」（https://facilio.com/blog/subcontractor-management-software/）
 - 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
 
 ## 見積書作成ツール（quote and proposal software）
 - 文脈：見積もり
@@ -471,13 +539,61 @@
 
 ## オンライン即時見積（業種を問わず）（online instant quote calculator software）
 - 文脈：見積もり
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「For ITAR licensed service providers, we offer a dedicated (local) installation and ensure design files, specifications and other data are encrypted both in transmission and at rest.」（https://digifabster.com/products/self-checkout/）
+  - 「Best Free Quoting Software (9 Top Picks for 2026)」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「Additionally, the cost of CPQ software may depend on the size of your business and the number of users you have. It's best to research different CPQ software providers and compare their pricing plans to find the one that fits your budget and needs.Convert_’s free forever plan includes all of the platinum features.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「Your website should quote, qualify, and book for you. Stop being the bottleneck on every quote, every booking, every price question.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「What’s more, Calconic’s web calculators look great on both mobile and desktop websites, and can either be embedded on a specific page of your website or appear as a pop-up – you decide.」（https://www.calconic.com/convert-more-with-price-quote-calculator）
+  - 「Custom Documents help topic」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+  - 「Seeded demo data makes the dashboard feel alive from the first visit. Buyers can see total leads, new leads, pipeline value, won value, top template, status breakdown, source breakdown, recent leads, CSV export, and reset controls.」（https://quoteforge-local.vercel.app/）
+  - 「No. The basic demo works with browser/local demo storage. Supabase, email providers, and CRM routing are optional production connections. Checkout is handled by the live Payhip link.」（https://quoteforge-local.vercel.app/）
+  - 「Our Top 5 Topics」（https://mixam.com/support/quotes）
+  - 「Mixam is a leading online printing platform that creates customizable print products for a global audience. We make print easy, accessible, and affordable with competitive pricing, exceptional materials and pro customer service. Our digital and offset printing solutions combine expert knowledge with the latest technology.」（https://mixam.com/support/quotes）
+  - 「Most SaaS pricing pages fail at the same point: the prospect needs a quote but doesn't want to talk to sales yet. They leave, compare competitors, and maybe come back, or they don't. A self-serve pricing calculator bridges that gap. Prospects enter their requirements, see an instant estimate, and give you qualified lead data in the process.」（https://www.involve.me/blog/saas-pricing-calculator-widget）
+  - 「How do I prevent competitors from using my calculator to reverse-engineer pricing?」（https://www.involve.me/blog/saas-pricing-calculator-widget）
+  - 「. We build custom solutions on top of these patterns very quickly.」（https://venusafe.com/solutions/instant-quote-calculator）
+- 自社名で出せる条件：
+  - 「OEM Manufacturers」（https://digifabster.com/products/self-checkout/）
+  - 「White Label Fully Customizable Widget」（https://digifabster.com/products/self-checkout/）
+  - 「Businesses can customize quote forms with branding elements such as logos, colors, and images. The quoting tools can also be embedded directly into websites, so customers can generate quotes without leaving the page.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「Your quotes should reflect your brand and pricing structure. Good quoting tools allow you to customize templates and layouts.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「Build trust in your brand. Customers are more likely to buy from businesses that are honest and transparent about their services and pricing.」（https://www.calconic.com/convert-more-with-price-quote-calculator）
+  - 「What’s more, Calconic’s web calculators look great on both mobile and desktop websites, and can either be embedded on a specific page of your website or appear as a pop-up – you decide.」（https://www.calconic.com/convert-more-with-price-quote-calculator）
+  - 「. These templates let you design exactly how quote information appears in the final document, including your branding, selected items, pricing details, and terms. Allow your customers to download this PDF immediately after submission, or use the quote calculator internally to make quotes easier, faster, and more consistent for internal teams.」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+  - 「Design your quote template with your branding and formatting, using Microsoft Word or another word processor.」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+  - 「White-Label Quote Calculators for Agencies」（https://quoteforge-local.vercel.app/）
+  - 「QuoteForge Local is a white-label quote calculator starter kit for agencies, freelancers, and local-service web professionals who want instant estimates, lead capture, and embed-ready conversion tools without building the system from scratch.」（https://quoteforge-local.vercel.app/）
+  - 「White-label client use」（https://quoteforge-local.vercel.app/）
+  - 「Generic calculator plugins give you a blank builder. QuoteForge Local gives agencies a client-ready package: prebuilt local-service quote flows, white-label resale terms, dashboard preview, lead export, embed examples, WordPress install guidance, and agency sales documentation.」（https://quoteforge-local.vercel.app/）
+  - 「White-label usage」（https://quoteforge-local.vercel.app/）
+  - 「White-label quote calculator starter kit for agencies, freelancers, WordPress implementers, and local-service web professionals.」（https://quoteforge-local.vercel.app/）
+  - 「so you can display different pricing recommendations based on the prospect's configuration. Set your brand colors, fonts, and logo in the design settings.」（https://www.involve.me/blog/saas-pricing-calculator-widget）
+- 再販制度：
+  - 「Empower your clients to make faster, more informed decisions with a clear pricing table showing options based on quantity and priority. This feature gives you flexible control over pricing, ensuring you can offer the best deals for varying order sizes and priorities.」（https://digifabster.com/products/self-checkout/）
+  - 「Resellers and Distributors」（https://digifabster.com/products/self-checkout/）
+  - 「The best free quoting software in 2026 is the one that fits your pricing complexity, whether that's a simple fixed-price estimate or a multi-variable calculation with conditional rules and integrations.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「Content variables, integrations」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「CPQ software - Configure, Price, Quote software - can vary in cost depending on the provider and the features included. Some」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「service. Moving services usually depend on many variables that’s why you need a personal offer,」（https://www.calconic.com/convert-more-with-price-quote-calculator）
+  - 「the flexibility and variety of styling options that vary from color to different element types and」（https://www.calconic.com/convert-more-with-price-quote-calculator）
+  - 「Determine your pricing variables」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+  - 「<div style="width:100%;max-width:960px;margin:auto">」（https://quoteforge-local.vercel.app/）
+  - 「License, reseller, and handoff docs included」（https://quoteforge-local.vercel.app/）
+  - 「Setup, embed, WordPress, reseller, and license pages」（https://quoteforge-local.vercel.app/）
+  - 「Agency reseller guide」（https://quoteforge-local.vercel.app/）
+  - 「Can buyers resell the raw source code?」（https://quoteforge-local.vercel.app/）
+  - 「Variant and Sketch Covers」（https://mixam.com/support/quotes）
+  - 「Color Variance」（https://mixam.com/support/quotes）
+- 黒字・収益性：
+  - 「Nonprofits」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+- 価格：
+  - 「The best free quoting software in 2026 is the one that fits your pricing complexity, whether that's a simple fixed-price estimate or a multi-variable calculation with conditional rules and integrations.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「This guide compares nine of the strongest free quoting tools for 2026, from basic quote generators for freelancers and small teams to interactive calculators that handle complex pricing logic without code.」（https://www.convertsite.com/blog/best-free-quoting-software）
+  - 「As customers fill out your form, Calculation fields constantly monitor the fields they reference. Change a quantity from 5 to 10, and any calculations using that quantity immediately recalculate and display the new result. This real-time updating creates a dynamic experience where customers see pricing adjustments as they make selections.」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+  - 「Step 1: Plan your pricing structure」（https://www.cognitoforms.com/support/609/how-to-guides/build-a-custom-quote-calculator-that-automatically-calculates-pricing）
+  - 「Buyers want control. Research from Gartner consistently shows that B2B buyers prefer to gather information independently before engaging with a sales rep. For usage-based or tiered SaaS pricing, a static pricing table can't cover every configuration.」（https://www.involve.me/blog/saas-pricing-calculator-widget）
 - 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
 
 ## 見積→受注→請求の一気通貫（quote to cash software for small business）
 - 文脈：見積もり
@@ -525,13 +641,109 @@
 
 ## 過去メールから問い合わせBot作成（AI chatbot trained on email history）
 - 文脈：お問い合わせ対応
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「conversions - they're losing to faster competitors.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Top 13 SaaS reseller programs compared」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Agencies, freelancers, consultancies and IT service providers that already look after clients' websites, marketing, support or software. You add AI agents as a recurring service and keep the client relationship and the margin.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Step 1: Pick Your Niche (Stop Trying to Serve Everyone)」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「40+ AI models from 6 providers」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「"I'll just use the OpenAI API and build my own platform!" No. Stop. You'll spend 6 months and $50K building something worse than what」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「If your white-label platform doesn't handle billing, you're going to be duct-taping Stripe, building customer portals, tracking usage manually, and chasing invoices. That's not a business, that's a part-time job as a collections agent.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Let me be transparent about how Pickaxe stacks up against the alternatives.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「the top ways to make money with AI」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「compares white-labeling against the alternatives.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Top 10 White-Label AI Platforms Compared: Parallel Labs」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Top 14 Ways to Make Money With AI (And What Each One Actually Pays)」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Quick-compare matrix: 10 leading white label chatbot platforms for resellers」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「(Remember, pricing and margins are just examples; always check directly with providers for the latest info.)」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Disclaimer: This table is for illustrative comparison. Features, pricing, and terms change; consult providers directly for the latest information.」（https://quickchat.ai/post/white-label-chatbot-guide）
+- 自社名で出せる条件：
+  - 「White Label AI Chatbot Reseller Program for Agencies | Robofy」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Start your own white label AI business for $200 less. Any yearly plan, applied automatically.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「White-label reseller plans」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「White label program」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Sell AI agents under your own brand」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Best White Label AI Chatbot Platform for Agencies」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「White Label AI Chatbot」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Modern AI Agents don't just talk, they work. Robofy's white label AI chatbot reseller program lets digital agencies, web developers, and IT consultants deliver custom-branded AI agents under their own logo and domain, while keeping 100% of client billing.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「White label AI agents that call APIs, capture leads and hand off to people」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Your brand」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「is a white label chatbot reseller program?」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「A white label」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「logo and domain, and resell it to clients as their own product. With Robofy's white label」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「and manage all client accounts from one central white label dashboard. No coding, no」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+- 再販制度：
+  - 「White Label AI Chatbot Reseller Program for Agencies | Robofy」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「White-label reseller plans」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Resell Robofy」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Reseller pricing」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Reseller deck (PDF)」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Reseller Program for Agencies」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Modern AI Agents don't just talk, they work. Robofy's white label AI chatbot reseller program lets digital agencies, web developers, and IT consultants deliver custom-branded AI agents under their own logo and domain, while keeping 100% of client billing.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「is a white label chatbot reseller program?」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「chatbot reseller program lets agencies buy an AI chatbot platform, brand it with their own」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「logo and domain, and resell it to clients as their own product. With Robofy's white label」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「A two-minute look at what you get as a Robofy reseller: your branded panel, client workspaces and AI agents you can sell under your own name.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「The White Label Chatbot Builder Built for Resellers」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「white label chatbot reseller」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「keep all revenue. No commissions, no revenue sharing. Your business, your margins.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+- 黒字・収益性：
+  - 「Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Pricing & Profit Margins」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Net monthly profit: $8,868」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Annual profit: $106,416」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Net monthly profit: ~$21,000」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Annual profit: ~$252,000」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「This guide is a straightforward map to understanding the market, choosing the right tech, crunching the numbers on your profit, and launching your very own branded chatbot service.」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Profitability Levers」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Pricing models and profit math: From cost to cash-flow positive」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Single client profit:」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Gross Profit per client: USD 99 - USD 109」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Break-even analysis:」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「// Inputs for Break-even Analysis」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Gross_Profit_Per_Client = 99 // USD (assuming you charge USD 129, and your cost per client is USD 30)」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Number_of_Clients_to_Break_Even = Total_Platform_Cost / Gross_Profit_Per_Client」（https://quickchat.ai/post/white-label-chatbot-guide）
+- 売上：
+  - 「: Set your own monthly or annual rates. Keep all client revenue; 0% commission.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「clients within 60 days. That worked out to $4,200 in monthly recurring revenue. Robofy」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「keep 100% of client revenue or pay a commission, how many client licenses and AI credits」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「: Focuses on agencies building chat and voice AI agents. No revenue sharing, full pricing control. Their pitch is "keep 100% of your revenue." Solid for pure chatbot plays.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「At the Pro level ($104.40/month billed annually), you're only paying 8% processing on client payments. If you have 10 clients paying $1,000/month, that's $10,000/month revenue, $800 to Pickaxe, and you keep $9,200. Minus your $104/month platform cost, you're netting $9,096/month.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Your revenue (10 clients at $997/month average):」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Monthly revenue: $9,970」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Monthly revenue: $24,925」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「The complete playbook for making money with AI agents in 2026: covering 7 proven revenue models, real margin numbers, pricing frameworks, and a step-by-step plan to hit your first $5K month.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Revenue: USD 129」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「// Step 1: Calculate Gross Monthly Revenue (GMR)」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「// Step 2: Calculate Revenue Lost to Churn (RLC)」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「// RLC = Gross_Monthly_Revenue * (Churn_Rate_Percentage / 100)」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「// Step 3: Calculate Net Monthly Revenue (NMR)」（https://quickchat.ai/post/white-label-chatbot-guide）
+- 価格：
+  - 「Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「chatbot platform, you set your own pricing, keep 100% of every payment your clients make,」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「White-Labeling AI for Clients: The Exact Playbook I'd Use to Build a $100K/Month AI Agency」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Platform costs are $30-$100/month. You're charging clients $500-$2,000/month. Do the math.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「, some agencies are charging $1,000+ per month per agent.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「That's 10 clients at $1K/month = $120K/year from ONE service offering.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「: Focuses on agencies building chat and voice AI agents. No revenue sharing, full pricing control. Their pitch is "keep 100% of your revenue." Solid for pure chatbot plays.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「: Starts at $4/month. Multi-channel support (WhatsApp, Messenger, website). Good entry point but limited customization depth. They have a」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「Gold plan ($26.10/month billed annually)」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「At the Pro level ($104.40/month billed annually), you're only paying 8% processing on client payments. If you have 10 clients paying $1,000/month, that's $10,000/month revenue, $800 to Pickaxe, and you keep $9,200. Minus your $104/month platform cost, you're netting $9,096/month.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「You're not selling "a chatbot." You're selling "an AI-powered customer engagement system that works on your website, WhatsApp, email, and Slack." That's a $2,000/month pitch, not a $200/month pitch.」（https://pickaxe.co/post/white-label-ai-for-clients）
+  - 「You have three or more clients. For less than USD 600 a year, you could launch a fully branded chatbot service. If you charge each client between USD 99 and USD 299 per month, those first three clients could」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「You pay a monthly or annual fee based on the features you get, how many bots you can run, message limits, or the number of end-clients you support. This is a popular model, with solid plans often costing between USD 79 and USD 199 per month.」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Imagine your chosen white label platform charges you a base fee of USD 99/month. This fee includes up to 10,000 messages spread across 5 client sub-accounts. Or, perhaps it’s a per-client fee of USD 20/month if you buy “seats” individually.」（https://quickchat.ai/post/white-label-chatbot-guide）
+- 検索結果の抜粋：
+  - 「White Label Chatbot Guide: Start Reselling in 30 Days — White Label Chatbot Guide: Start Reselling in 30 Days Quickchat AI https://quickchat.ai > Blog」（https://quickchat.ai/post/white-label-chatbot-guide）
+  - 「Ai chatbot Chat History to Email ( white label ) - #4 by Max — Ai chatbot Chat History to Email ( white label ) - #4 by Max Elfsight Community https://community.elfsight.com > ai-c...」（https://community.elfsight.com/t/ai-chatbot-chat-history-to-email-white-label/91404/4）
+  - 「10 Best White Label AI Chatbot Platforms for Agencies (2026) — 10 Best White Label AI Chatbot Platforms for Agencies (2026) Chatbase https://www.chatbase.co > ... > Insights」（https://www.chatbase.co/blog/best-white-label-ai-chatbots）
+  - 「Best White - Label Chatbots for Agencies [2026 Review] — Best White - Label Chatbots for Agencies [2026 Review] Voiceflow https://www.voiceflow.com > blog」（https://www.voiceflow.com/blog/white-label-chatbot）
+  - 「White - Label AI Chatbot Pricing Comparison (2026) | Trillet Blog — White - Label AI Chatbot Pricing Comparison (2026) | Trillet Blog Trillet https://trillet.ai > Blog」（https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison）
+  - 「12 Best White Label Chatbot Platforms for Agencies (2026) — 12 Best White Label Chatbot Platforms for Agencies (2026) ChatMaxima https://chatmaxima.com > blog > best...」（https://chatmaxima.com/blog/best-white-label-chatbot-platforms/）
 
 ## Webサイト用AIチャット（問い合わせ受付）（AI website chatbot for customer inquiries）
 - 文脈：お問い合わせ対応
@@ -573,33 +785,299 @@
 
 ## 問い合わせフォームの自動応答・振り分け（AI form response automation）
 - 文脈：お問い合わせ対応
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「Detailed reporting on conversations, leads, sentiment, topics, and agent performance.」（https://stammer.ai/）
+  - 「1. Manual top-up:」（https://stammer.ai/）
+  - 「SaaS alternatives on the market」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「The $50/agent/mo Advanced AI add-on on top of the $115 base means $165/agent/mo for full AI features — a 10-agent team costs $19,800/yr.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「KB retrieval: top-3 relevant articles fetched」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Email subject + body embedded. Cosine similarity search against tenant's kb_articles table (tenant_id-scoped index). Top-3 articles with similarity > 0.65 returned as context for draft generation.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「5. Draft generation: Retrieve top-3 KB articles via pgvector cosine similarity. Call GPT-5.4 mini (api.openai.com) with: email thread + KB context + brand voice (from tenant_settings.brand_voice text field). Store draft in email_drafts table.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Customer emails contain personal data. Sending that data to OpenAI (GPT-5.4 mini), DeepSeek, or Anthropic (Sonnet 4.6) makes those providers sub-processors under GDPR. Agency must maintain a sub-processor list, sign DPAs with each provider, and ensure processing stays within agreed regions.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「SaaS alternatives」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Your clients want automation on top of their CRM. HubSpot, Pipedrive, Salesforce, or any platform they’re on. We build it.」（https://www.makeitfuture.com/white-label）
+  - 「Your clients want automation on top of their Monday, Airtable, Asana, Notion, ClickUp, Jira or other tools. We build it.」（https://www.makeitfuture.com/white-label）
+  - 「Agencies and SaaS platforms looking for a form builder with white label options can choose from six top solutions in 2026, each evaluated on branding depth, custom domain support, client management, and pricing transparency. This guide helps agencies reselling forms and SaaS teams embedding forms into their own products find the right fit beyond basic logo swaps.」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
+  - 「Mobile form timeouts are a silent conversion killer, cutting off interested leads before they can hit submit. This guide explains how to diagnose and fix every root cause of forms timing out on mobile — from session settings and autosave behavior to network-aware design — so high-growth teams can stop losing leads and start capturing them.」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
+  - 「This guide teaches you how to create qualifying questions that filter leads at the top of your funnel, so your sales team spends time only on high-intent prospects. From defining your ideal customer profile to building logic-driven forms with automatic lead scoring, you'll walk away with a scalable qualification system that improves conversion rates downstream.」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
+  - 「7 Proven Strategies to Find Cheaper Paperform Alternatives Without Sacrificing Power」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
+- 自社名で出せる条件：
+  - 「White Label AI Agents for Chat & Voice | Stammer AI」（https://stammer.ai/）
+  - 「White Label」（https://stammer.ai/）
+  - 「Fully white label.」（https://stammer.ai/）
+  - 「"Their white-label AI solution is not only powerful and reliable but also fully customizable making it incredibly easy to align with our business goals."」（https://stammer.ai/）
+  - 「Your Brand, Your Domain」（https://stammer.ai/）
+  - 「Custom domain (agents.youragency.com)」（https://stammer.ai/）
+  - 「Your logo, colors, and branding everywhere」（https://stammer.ai/）
+  - 「"Clients log in at your domain, see your logo, and get support from your team."」（https://stammer.ai/）
+  - 「A rebrandable API lets you connect AI agents to your clients' existing CRMs, websites and apps.」（https://stammer.ai/）
+  - 「Full API access with your branding」（https://stammer.ai/）
+  - 「White Label with Your Branding」（https://stammer.ai/）
+  - 「Add your custom domain, logo and color scheme to completely rebrand the entire platform to be your own.」（https://stammer.ai/）
+  - 「Access our comprehensive white-label API with」（https://stammer.ai/）
+  - 「No White Labeling」（https://stammer.ai/）
+  - 「White-label branding is available on Pro and Enterprise plans.」（https://stammer.ai/）
+- 再販制度：
+  - 「Reseller Program」（https://stammer.ai/）
+  - 「Resell AI Usage」（https://stammer.ai/）
+  - 「Set your own prices and resell chat replies, voice minutes, and agents to clients.」（https://stammer.ai/）
+  - 「Your clients also get their own Sub-Account Wallet, where they pay you directly for usage. Example: You buy a GPT-4o chat response for $0.01 and resell it to your client for $0.05.」（https://stammer.ai/）
+  - 「Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「CS agencies managing 5+ clients with combined monthly tickets over 10,000, where AI cost arbitrage is the margin thesis」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「$229/seat/mo (Enterprise) — OEM partner program available」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「OEM partner program is the closest to true white-label in the inbox-management category」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No white-label or reseller program — Help Scout brand is visible in all customer-facing emails」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No reseller program — an agency cannot white-label Help Scout output for client-facing dashboards.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No white-label or reseller program」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Variable:」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Env vars: OPENAI_API_KEY, DEEPSEEK_API_KEY, NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Resell vFairs or Airmeet WL at $1K+/mo or hire RapidDev at $20K–$40K…」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+- 黒字・収益性：
+  - 「Zero revenue sharing (keep 100% of your profit)」（https://stammer.ai/）
+  - 「Breakeven vs buying」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Pricing & Profit Margins」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「The full path to a profitable AI voice agency. Free.」（https://autocalls.ai/white-label）
+  - 「Effort = Profit 💰」（https://autocalls.ai/white-label）
+  - 「You focus on customers. We handle the tech. Set your prices, keep the profits, and grow.」（https://autocalls.ai/white-label）
+  - 「profits」（https://autocalls.ai/white-label）
+  - 「💰 Decide your profit margins」（https://autocalls.ai/white-label）
+  - 「Create pricing plans, set profit margins, and platform limitations」（https://autocalls.ai/white-label）
+  - 「Calculate Your Profit Margin」（https://autocalls.ai/white-label）
+  - 「Your Profit」（https://autocalls.ai/white-label）
+  - 「Per Minute Profit」（https://autocalls.ai/white-label）
+  - 「We don't just give you the platform. We give you the path. The exact playbook agencies use to launch, win their first ten clients, and scale a profitable white-label voice AI business. No fluff. No theory. Just the moves that worked.」（https://autocalls.ai/white-label）
+  - 「Yes, per plan, in the plan builder, which also shows your cost and profit per plan.」（https://autocalls.ai/white-label）
+- 売上：
+  - 「Zero revenue sharing (keep 100% of your profit)」（https://stammer.ai/）
+  - 「Your clients pre-load funds into their Sub-Account Wallet. Each time a chat agent sends a message or a voice agent takes a call, funds are deducted at the price you set. When their balance runs low, they add more funds to their wallet. 100% of these funds gets sent to you as new revenue.」（https://stammer.ai/）
+  - 「Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Honest pricing: Albato Embedded starts at $3,000/month on the Starter tier, with full white-labeling and the advanced AI features available from the Pro plan at $5,000/month. Enterprise pricing is custom. It isn't the cheapest way to add a single chatbot, and it's more than a narrow point tool. It's priced as an integration-and-agent platform, which is what you're buying.」（https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas）
+  - 「Markup on LLM tokens, MCP calls, setup fees; 4 revenue streams」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Botsify structures its billing around four revenue streams: subscriptions, token markup, MCP call markup, and setup fees. Agencies can mark up LLM tokens and MCP calls by 3x, 5x, 10x or whatever multiple they choose. Clients receive a single invoice under the agency’s brand, and free trials can be configured on the agency’s own terms (7, 14, or 30 days).」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「: Set your own monthly or annual rates. Keep all client revenue; 0% commission.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「clients within 60 days. That worked out to $4,200 in monthly recurring revenue. Robofy」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「keep 100% of client revenue or pay a commission, how many client licenses and AI credits」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「“White-label AI voice agents turned into our biggest revenue stream. 28 clients, over $14k MRR, and it's all under our brand.”」（https://autocalls.ai/white-label）
+  - 「You can provision numbers directly in the platform in 150+ countries, or connect your own carrier via SIP.」（https://autocalls.ai/white-label）
+  - 「Median B2B SaaS gross revenue retention has fallen from 88% to 84% across the CY-22 to CY-25 benchmark period, so recurring revenue no longer defends itself just by being recurring (Benchmarkit, 2026)」（https://revops.ai/learn/white-label-saas-platform-for-agencies）
+  - 「AI-native tools priced above $250 a month hold 70% gross revenue retention against 23% for tools under $50, so price the outcome rather than the seat (ChartMogul, 2025)」（https://revops.ai/learn/white-label-saas-platform-for-agencies）
+  - 「Only 36% of organizations have connected AI agents to trusted company content even though 96% say agents need it, which is the real quality gap in white label AI (Box 2026 State of AI, Harris Poll)」（https://revops.ai/learn/white-label-saas-platform-for-agencies）
+- 価格：
+  - 「We have plans starting at $49/mo. See our pricing for details.」（https://stammer.ai/）
+  - 「Total AI-generated replies included per month. Additional replies billed at overage rates ($0.01 /message).」（https://stammer.ai/）
+  - 「Total AI voice conversation minutes included per month. Additional voice minutes billed at overage rates ($0.10 /min).」（https://stammer.ai/）
+  - 「Additional Chat Agents = $10 /month」（https://stammer.ai/）
+  - 「Add to Knowledge Base (1M Characters) = $5 /month」（https://stammer.ai/）
+  - 「Additional Voice Agents = $10 /month」（https://stammer.ai/）
+  - 「Additional Concurrent Calls = $15 /month」（https://stammer.ai/）
+  - 「Customer-service agencies serving 5–50 SMB clients who currently outsource Tier-1 email triage and want to undercut Intercom's per-resolution pricing」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Real products you can sign up for today — with current 2026 pricing, honest pros and cons.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Per-seat pricing adds up fast across 10+ clients with large support teams」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Reasonable pricing for small CS teams under 10 seats」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「7. Tenant settings: Admin can configure brand voice guidelines (textarea), logo, and per-tenant spend_cap_monthly (default $50). Log API costs per tenant per month in cost_logs table.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Agencies and SaaS platforms looking for a form builder with white label options can choose from six top solutions in 2026, each evaluated on branding depth, custom domain support, client management, and pricing transparency. This guide helps agencies reselling forms and SaaS teams embedding forms into their own products find the right fit beyond basic logo swaps.」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
+  - 「Free plan available; paid plans from $34/month. Enterprise white label pricing is custom and quote-based. Check」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
+  - 「Plans start from around $24/month; Agency plan pricing is available at」（https://orbitforms.ai/blog/form-builder-with-white-label-options）
 
 ## メール自動返信AI（AI email reply assistant）
 - 文脈：お問い合わせ対応
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「SaaS alternatives on the market」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「The $50/agent/mo Advanced AI add-on on top of the $115 base means $165/agent/mo for full AI features — a 10-agent team costs $19,800/yr.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「KB retrieval: top-3 relevant articles fetched」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Email subject + body embedded. Cosine similarity search against tenant's kb_articles table (tenant_id-scoped index). Top-3 articles with similarity > 0.65 returned as context for draft generation.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「5. Draft generation: Retrieve top-3 KB articles via pgvector cosine similarity. Call GPT-5.4 mini (api.openai.com) with: email thread + KB context + brand voice (from tenant_settings.brand_voice text field). Store draft in email_drafts table.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Customer emails contain personal data. Sending that data to OpenAI (GPT-5.4 mini), DeepSeek, or Anthropic (Sonnet 4.6) makes those providers sub-processors under GDPR. Agency must maintain a sub-processor list, sign DPAs with each provider, and ensure processing stays within agreed regions.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「SaaS alternatives」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「for multiple devices and email providers」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Generate a set of tags to sort incoming emails: AI processes the message, assigns a tag, and your inbox groups all the messages with the same tag in a filter or view. This helps you batch replies by topic, reducing context switching.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Optimize your inbox usage by having AI analyze your usage and messaging partners, unlocking things like identification of unanswered high-priority emails, spotting frequent senders and recurring topics, or suggesting inbox cleanup or filtering rules.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Multiple devices and email providers」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Sitting confidently on the throne here, Shortwave has the widest range of AI features of all the apps on this list. They all live in the top-right of your screen: click on the magic stars icon there, and a chat window appears docked on the right side. This is the Shortwave AI Assistant.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「A bit of disappointing news: Shortwave only works with Gmail accounts for the time being, so if you're doing email with other providers, you'll have to sit out. There's an Outlook waiting list; sign up if you're interested so you get notified when it finally comes out.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「The second one is thread summarization: like others on this list, you can get a big-picture view of a conversation in a list of topics. Unlike others on this list, Copilot adds little numbers in superscript that you can use to jump to the message where that topic is discussed. Super helpful for searching your conversations for specific statements.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Gemini is slowly spreading deep into the infrastructure of every app in Google Workspace, adding smart features to help you search, organize, and create. Gmail is included in this rollout: if you're on a paid personal plan (AI One) or a business plan (Workspace), you'll see the Gemini star at the top right of your screen.」（https://zapier.com/blog/best-ai-email-assistant/）
+- 自社名で出せる条件：
+  - 「AI Email Response Automation White-Label | RapidDev」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「White-Label AI Email Response Automation Tool for Customer-Service Agencies」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Buy white-label SaaS or per-resolution tool」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Vendor owns the platform; limited rebrand options」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No white-label tier — Intercom brand is non-negotiable in the agent experience」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Mid-market CS agencies with 3–10 enterprise clients who want a managed inbox product with partial white-label capability」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「$229/seat/mo (Enterprise) — OEM partner program available」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「OEM partner program is the closest to true white-label in the inbox-management category」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「OEM program has revenue minimums and requires Front's approval — not accessible for small agencies」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Brand control in the OEM program is partial — some Front UI elements persist」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Small SaaS companies with internal support teams of 2–10 agents who don't need white-label capability」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No white-label or reseller program — Help Scout brand is visible in all customer-facing emails」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+- 再販制度：
+  - 「Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「CS agencies managing 5+ clients with combined monthly tickets over 10,000, where AI cost arbitrage is the margin thesis」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「$229/seat/mo (Enterprise) — OEM partner program available」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「OEM partner program is the closest to true white-label in the inbox-management category」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No white-label or reseller program — Help Scout brand is visible in all customer-facing emails」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No reseller program — an agency cannot white-label Help Scout output for client-facing dashboards.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「No white-label or reseller program」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Variable:」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Env vars: OPENAI_API_KEY, DEEPSEEK_API_KEY, NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Resell vFairs or Airmeet WL at $1K+/mo or hire RapidDev at $20K–$40K…」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「1,000+ client projects delivered. Columbia University & Harvard Business School alumnus, U.S. Navy veteran.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Integration Partner Program」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「), and add as many private or team snippets as you need. They can be full messages with attachments or short blocks of text detailing a product or service you offer. You can customize them with variables, so the fields update based on the message sender.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「includes AI templates, letting you save commonly-used messages, with customizable variables that autofill based on the email thread content.」（https://zapier.com/blog/best-ai-email-assistant/）
+- 黒字・収益性：
+  - 「Breakeven vs buying」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Nonprofit」（https://www.taskade.com/agents/featured/email-response）
+  - 「AI Nonprofit」（https://www.taskade.com/agents/featured/email-response）
+  - 「Agency profit margins report 2026」（https://planable.io/email-response-generator/）
+  - 「Agency profit margins」（https://planable.io/email-response-generator/）
+  - 「Agency profit margins report 2025」（https://planable.io/email-response-generator/）
+  - 「22 Profitable AI Business Ideas That Are Quietly Making People Rich in 2026」（https://www.commercepundit.com/blog/ai-email-assistants/）
+  - 「Non Profit」（https://www.beyondkey.com/ai-email-assistant）
+  - 「Email marketing for nonprofits: The complete guide for 2026」（https://stripo.email/blog/best-white-labeling-software-to-use/）
+- 売上：
+  - 「Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Try Smartlead’s 14-day free trial and experience how automation, personalization, and intelligence combine to help you turn replies into revenue, faster than ever.」（https://www.smartlead.ai/blog/ai-email-response-generator）
+  - 「Smartlead is a robust cold emailing software designed to transform cold emails into reliable revenue streams. Trusted by over 100,000 businesses, Smartlead excels in email deliverability, lead generation, cold email automation, and sales outreach. A unified master inbox streamlines communication management, while built-in email verification reduces bounce rates.」（https://www.smartlead.ai/blog/ai-email-response-generator）
+  - 「With Reply we were able to generate an extra $15,000 of revenue during the first 3 months.」（https://reply.io/）
+  - 「At $29.99 a month for one person, or $49.99 a seat for teams, with no per-resolution fees, alfred_ is the most affordable option for solo professionals and small teams. Help Scout’s Standard plan is $25/user/month, so a small team scales with headcount. Zendesk’s mid-tier plan for a three-person team costs $165/month. alfred_ costs the same $29.99 regardless of how many emails arrive.」（https://get-alfred.ai/blog/best-ai-assistant-for-customer-email）
+  - 「, an investor intelligence platform, generated 1.8x more revenue from deals within just a month.」（https://aisdr.com/blog/best-ai-email-assistant/）
+  - 「8 Parramatta Square, Level 49」（https://www.beyondkey.com/ai-email-assistant）
+  - 「Parramatta, NSW 2150」（https://www.beyondkey.com/ai-email-assistant）
+  - 「In the spirit of transparent research, we did not just pick random names to fill a list. We conducted a rigorous evaluation of over 30 different tools to arrive at this final selection. Our selection process was governed by three strict criteria designed to filter out vaporware and ensure professional viability.」（https://gmelius.com/blog/best-ai-assistants-for-email）
+- 価格：
+  - 「Customer-service agencies serving 5–50 SMB clients who currently outsource Tier-1 email triage and want to undercut Intercom's per-resolution pricing」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Real products you can sign up for today — with current 2026 pricing, honest pros and cons.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Per-seat pricing adds up fast across 10+ clients with large support teams」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Reasonable pricing for small CS teams under 10 seats」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「7. Tenant settings: Admin can configure brand voice guidelines (textarea), logo, and per-tenant spend_cap_monthly (default $50). Log API costs per tenant per month in cost_logs table.」（https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label）
+  - 「Free plan available; paid plans from $18/user/month」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Microsoft 365 subscription required, starting at $9.99/month for individuals and $25.20/user/month for businesses」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $4.99/month for personal users (Google AI Plus) and $8.40/user/month for business users (Google Workspace)」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $25/user/month」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Free plan available; paid plans from $3/month (billed yearly); lifetime options available」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $25/month」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「$19.99/month as part of the Proton Duo plan」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $14.99/month or $99/year」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「Included in Microsoft 365 plans, starting at $9.99/month for individuals and $25.20/user/month for businesses.」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「From $7/user/month (billed annually) in Google Workspace」（https://zapier.com/blog/best-ai-email-assistant/）
+- 検索結果の抜粋：
+  - 「The 10 Best AI Email Assistants - Zapier — The 10 Best AI Email Assistants - Zapier Zapier https://zapier.com > ... > Best apps」（https://zapier.com/blog/best-ai-email-assistant/）
+  - 「I built an AI email agent to reply to customer questions 24/7 (it ... — I built an AI email agent to reply to customer questions 24/7 (it ... Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/automation/comments/1n6tgul/i_built_an_ai_email_agent_to_reply_to_customer/）
+  - 「The 9 best AI email assistants in 2026: from inbox helpers to ... — The 9 best AI email assistants in 2026: from inbox helpers to ... Missive https://missiveapp.com > blog > ai-em...」（https://missiveapp.com/blog/ai-email-assistant）
+  - 「6 Best AI Email Response Generators in 2025 [+ 4 Reasons to ... — 6 Best AI Email Response Generators in 2025 [+ 4 Reasons to ... Gmelius https://gmelius.com > blog > best-ai-e...」（https://gmelius.com/blog/best-ai-email-response-generators）
+  - 「8 Best AI Email Assistants for Sales Teams - AiSDR — 8 Best AI Email Assistants for Sales Teams - AiSDR AiSDR https://aisdr.com > Blog」（https://aisdr.com/blog/best-ai-email-assistant/）
+  - 「9 AI Email Assistants That Draft, Sort and Reply for You — 9 AI Email Assistants That Draft, Sort and Reply for You Commerce Pundit https://www.commercepundit.com > a...」（https://www.commercepundit.com/blog/ai-email-assistants/）
 
 ## 問い合わせ共有受信箱・管理（shared inbox and helpdesk software）
 - 文脈：お問い合わせ対応
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「Autopilot」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Best Shared Inbox Software for 2026: Top 12 Tools for Support, Sales, and HR Teams」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Stop the "who's replying to this?" chaos in a shared mailbox. Compare 12 tools for message assignment, internal notes, and multi-channel support.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Runs HappyFox AI (Copilot, Autopilot, AI Resolve) on Claude via AWS Bedrock, generating draft replies and self-service answers grounded in the connected knowledge base.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「AI add-on: from $14/agent/month on top of the base plan , capped at 500 interactions/month on the entry tier」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Zendesk Alternatives」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Layer in auto-assignment, escalation timers, and canned responses only after routing is stable. Automation built on top of unstable routing just automates the wrong outcome faster.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Not exactly. A shared inbox focuses on team visibility into a mailbox. A help desk adds ticket numbers, SLA tracking, and reporting on top of that distinction.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「SOC 2 Type II certification, GDPR compliance, and encryption at rest and in transit are a reasonable baseline to check for. Most established vendors on this list, including HappyFox, meet those standards.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Zendesk alternatives」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Topics」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「7 top shared inbox software tools to streamline customer comms」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Below you’ll find seven leading solutions, their key features and the businesses they suit best.」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Mentions trigger in-app and desktop notifications for employees helping remote teams collaborate on urgent tasks」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Revenue management software: 7 top platforms for SMBs compared」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+- 自社名で出せる条件：
+  - 「Front unifies email, SMS, social, and chat with mature routing and analytics, the enterprise pick when you need depth and CRM-embedded context. Prices rose in late 2025 and AI is unbundled add-ons.」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「mature routing and analytics; unifies email, SMS, social, and chat; CRM-embedded context on conversations.」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「Meet Hugo, your brand's most efficient support teammate.」（https://crisp.chat/en/blog/best-shared-inbox-software/）
+  - 「Top 10 Best White Label Msp Services | 2026 Edition」（https://zipdo.co/service/white-label-msp/）
+  - 「Top 10 Best White Label Msp Services of 2026」（https://zipdo.co/service/white-label-msp/）
+  - 「Compare white label msp providers for managing remote client services, with setup and support tradeoffs for MSP buyers, including Sherweb, Kaseya, and GAM Tech.」（https://zipdo.co/service/white-label-msp/）
+  - 「White label MSP services let MSPs resell help desk and NOC operations under their own brand while the delivery runs through a partner support model. This comparison uses market data and editorial review to help technical evaluators weigh key tradeoffs like staffing coverage, incident response workflow, and partner integration requirements across options such as Continuum.」（https://zipdo.co/service/white-label-msp/）
+  - 「is the best white-label MSP choice for channel teams that need consistent Microsoft 365 and mail handoffs, thanks to its tenant provisioning plus branded support transition model, while」（https://zipdo.co/service/white-label-msp/）
+  - 「Cloud distributor and MSP partner that offers white-label help desk and NOC services for managed service providers.」（https://zipdo.co/service/white-label-msp/）
+  - 「Global MSP services company with white label NOC and help desk delivery for managed service providers.」（https://zipdo.co/service/white-label-msp/）
+  - 「Fits when a white label MSP must run tenant-aware monitoring, patching, and remediation at scale.」（https://zipdo.co/service/white-label-msp/）
+  - 「White label NOC and help desk support for MSP partners in North American markets.」（https://zipdo.co/service/white-label-msp/）
+  - 「MSPs that want a community-led operating model with white-label service resources and standardization.」（https://zipdo.co/service/white-label-msp/）
+  - 「MSPs that need round-the-clock white-label monitoring and service desk coverage.」（https://zipdo.co/service/white-label-msp/）
+  - 「MSPs that need embedded white-label technicians and service desk talent rather than a broad platform reseller relationship.」（https://zipdo.co/service/white-label-msp/）
+- 再販制度：
+  - 「Partner program」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「There are various shared inbox tools, each serving different teams, use cases and email clients.」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Partner program」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Help desk software can present various issues, starting with the complexity of the implementation and configuration, continuing with being challenging to use, and finishing with high costs and non-personal customer experience:」（https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/）
+  - 「To create a personal communication experience with your customers, and communicate with the person behind the email address, you need context. You need to have the whole interaction with the customer in front of you in a single place rather than use various email threads, chat apps and more tools to discuss with teammates and with the customer.」（https://www.replypad.com/blog/help-desk-software-vs-shared-inbox-software/）
+  - 「Resell or integrate」（https://www.deskpro.com/platform/unified-inbox）
+  - 「Partner Program」（https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need）
+  - 「What benefits might you find with shared inbox software? They’ll vary depending on factors like your industry, the size of your team, and the complexity of your communication and collaboration needs.」（https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools）
+  - 「Mana Anvar, Founding Account Executive」（https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools）
+  - 「Varley · Drag’s AI」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「Ask Varley, then let it act」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「Varley resolves conversations on its own」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「What Varley knows, and the tools it acts in」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「Varley in every email: drafts, tags, summaries」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「Meet Varley →」（https://www.dragapp.com/blog/shared-inbox-guide/）
+- 黒字・収益性：
+  - 「Nonprofit」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「It’s an ideal way for SMBs operating on tight budgets to improve profitability and reduce complexity. Plus, familiarity with the user experience will encourage more employees to interact with the software.」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Self-funded. No investors. No bullshit.」（https://helpmonks.com/white-label-service/）
+  - 「Non-profit or Open-Source」（https://helpmonks.com/white-label-service/）
+  - 「Resellers set their own retail prices and keep 100% of the profit from their markup.」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「Many reseller providers allow you to set your own customer pricing. Qboxmail lets resellers set their customer pricing, while PolarisMail allows resellers to set retail pricing and keep the profit from their markup. Infraforge also allows partners in its white label program to mark up the service.」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「Non-profit or Open-Source」（https://helpmonks.com/blog/8-shared-inbox-software-tools-for-support-teams-in-2026/）
+  - 「Self-funded. No investors. No bullshit.」（https://helpmonks.com/seamless-integration/）
+  - 「Non-profit or Open-Source」（https://helpmonks.com/seamless-integration/）
+- 売上：
+  - 「were used as a secondary signal - minimum 4.3 out of 5 on either platform for inclusion. Rating volume was also considered - a 4.8 from 12 reviews carries less weight than a 4.4 from 2,000.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Revenue management software: 7 top platforms for SMBs compared」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「Software for account management in modern B2B revenue teams」（https://www.usepylon.com/blog/what-is-a-shared-inbox-compare-shared-inbox-software-tools）
+  - 「Software for account management in modern B2B revenue teams」（https://www.usepylon.com/blog/best-shared-inbox-software）
+  - 「For a team that wants collaboration without ticket numbers, AI Emaily is the best fit: it adds assignment, internal notes and AI drafting directly onto real Gmail, Outlook or IMAP threads. Missive and Front work the same way. Help Scout, Hiver, and native Google Workspace or Microsoft 365 shared mailboxes cover narrower budgets and needs.」（https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing）
+  - 「The best shared inbox software for that job is AI Emaily, which layers assignment, internal comments and AI drafting directly onto a real Gmail, Outlook or IMAP thread with no ticket system underneath. Missive and Front are close alternatives built the same way; Help Scout, Hiver, and the native tools already inside Google Workspace and Microsoft 365 fit narrower budgets and needs.」（https://aiemaily.com/blog/best-shared-inbox-software-without-ticketing）
+  - 「20% recurring revenue share for three years, and you set customer pricing」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「You can offer the infrastructure under your own brand and custom domain, set your own customer pricing, and earn a 20% recurring revenue share for three years.」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「The partner program pays a 20% recurring revenue share for three years. You can also increase your customer pricing. Infraforge states that you can withdraw your earnings without a waiting period.」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「Reseller revenue share: 20% for three years」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「20% recurring revenue share for three years」（https://www.infraforge.ai/blog/white-label-email-hosting）
+  - 「Many reputable vendors, including CloudHouse, offer flexible short-term or per-ticket arrangements so you can validate response times and ticket quality before committing to a longer plan. Be wary of any provider that insists on a 12-month minimum before you've seen real performance data.」（https://cloudhousetechnologies.com/blog/best-shared-support-team-reseller-hosting）
+  - 「With our North American Help Desk team, you can blend our infrastructure with your own to quickly service larger contracts, comfortable add new revenue and reallocate your technical staff from tier 1/2 duties to more strategic work.」（https://www.gmsliveexpert.com/partners/）
+  - 「8 AI Use Cases: Budgeting, Money, and All Things Revenue」（https://www.salesforce.com/blog/small-business/help-desk-software-startups/?bc=OTH）
+  - 「Synup pricing starts at $34.99 per location per month with a 15% discount for annual billing. Add-ons for social media scheduling and analytics carry additional fees. A free demo is available.」（https://www.perspective.co/article/white-label-marketing-software）
+- 価格：
+  - 「Starting price: $24/agent/month, billed annually. 14-day free trial available through the」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Basic: $24/agent/month, billed annually」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Team: $49/agent/month, billed annually」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Pro: $99/agent/month, billed annually」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Unlimited-agent: from $1,999/month, billed annually」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「AI add-on: from $14/agent/month on top of the base plan , capped at 500 interactions/month on the entry tier」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Starting price: $20/seat/month. Setup: fast if HubSpot CRM is already in place, longer for teams migrating in fresh.」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Starter: $20/seat/month」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「Help desk pricing adds up fast. Base plans look affordable, but key features often hide behind higher tiers. SLA tracking, advanced reporting, and AI features may need enterprise plans. A 10-person team can face monthly costs that beat what a shared inbox charges per year.」（https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need）
+  - 「Start with three questions. First, how many agents need access? Tools priced per seat add up fast. Second, which channels do your customers use? If email covers 90% of requests, you do not need omnichannel support. Third, what is your daily ticket volume? Under 200 per day, a shared inbox handles the load. Over 200, look for SLA tracking, automation, and queue management. Our」（https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need）
+  - 「Google Workspace vs Microsoft 365 vs Zoho vs Proton - which email service fits your small business? Side-by-side comparison with pricing and setup tips.」（https://supportbee.com/blog/shared-inbox-vs-help-desk-which-does-your-team-need）
+  - 「Pricing: Growth is $19 per agent per month, Pro is $55, and Enterprise is $89, all billed annually. Every plan includes the first 500 Freddy AI Agent sessions, and additional sessions cost $49 per 100, which keeps the AI line predictable: a fixed allowance and a published rate for anything beyond it.」（https://www.freshworks.com/helpdesk/shared-inbox/）
+  - 「is an add-on at $29 per agent per month on the Pro and Enterprise plans.」（https://www.freshworks.com/helpdesk/shared-inbox/）
+  - 「Front's Starter plan is $25 per seat per month for up to 10 seats, billed annually, with AI sold separately: Copilot at $20 per seat per month, included on Enterprise, and Autopilot, its omnichannel AI agent, starting at $0.05 per conversation.」（https://www.freshworks.com/helpdesk/shared-inbox/）
+  - 「Its Standard plan is $25 per user per month, billed annually, and includes an AI inbox assistant. AI Answers, its per-resolution AI agent, is a separate add-on at $0.75 per resolution.」（https://www.freshworks.com/helpdesk/shared-inbox/）
+- 検索結果の抜粋：
+  - 「Best 12 Shared Inbox Software Picks: End Double-Reply Chaos — Best 12 Shared Inbox Software Picks: End Double-Reply Chaos HappyFox https://www.happyfox.com > use-cases」（https://www.happyfox.com/helpdesk/use-cases/shared-inbox-software/）
+  - 「7 Best Shared Inbox Software Tools for SMB Teams - Pipedrive — 7 Best Shared Inbox Software Tools for SMB Teams - Pipedrive Pipedrive https://www.pipedrive.com > blog」（https://www.pipedrive.com/en/blog/shared-inbox-software）
+  - 「10 Shared Inbox Software : The Simple, the AI-Powered & the ... — 10 Shared Inbox Software : The Simple, the AI-Powered & the ... HelpCrunch https://helpcrunch.com > blog > share...」（https://helpcrunch.com/blog/shared-inbox-software/）
+  - 「Best Shared Inbox Software (2026 Comparison) - Freshdesk — Best Shared Inbox Software (2026 Comparison) - Freshdesk Freshworks https://www.freshworks.com > helpdesk」（https://www.freshworks.com/helpdesk/shared-inbox/）
+  - 「The 6 best shared inbox software tools for B2B SaaS teams — The 6 best shared inbox software tools for B2B SaaS teams Pylon Labs, Inc. https://www.usepylon.com > blog > b...」（https://www.usepylon.com/blog/best-shared-inbox-software）
+  - 「Best Shared Inbox Software (2026): 11 Tools Compared — Best Shared Inbox Software (2026): 11 Tools Compared DragApp https://www.dragapp.com > blog > sh...」（https://www.dragapp.com/blog/shared-inbox-guide/）
+  - 「Best Shared Inbox software with AI for 2026 and beyond - Crisp — Best Shared Inbox software with AI for 2026 and beyond - Crisp Crisp https://crisp.chat > blog > best-shared-...」（https://crisp.chat/en/blog/best-shared-inbox-software/）
+  - 「The 8 Best Help Desk Software Options for Small Teams — The 8 Best Help Desk Software Options for Small Teams Salesforce https://www.salesforce.com > blog」（https://www.salesforce.com/blog/small-business/help-desk-software-startups/）
+  - 「The 12 best help desk software for small business in 2026 — The 12 best help desk software for small business in 2026 Missive https://missiveapp.com > blog > help-...」（https://missiveapp.com/blog/help-desk-software-small-business）
 
 ## AI電話受付（AI phone receptionist）
 - 文脈：お問い合わせ対応
@@ -749,15 +1227,86 @@
 ## 求人の一括掲載・配信（job multiposting software）
 - 文脈：採用
 - 提供企業：
-  - 「The AI-powered recruiting platform that helps you source, engage, and hire top talent.」（https://www.leonar.app/features/job-multiposting/）
-  - 「6 Best Bullhorn Alternatives in 2026 (Tested by Agencies)」（https://www.leonar.app/features/job-multiposting/）
-  - 「6 Best Recruiterflow Alternatives & Competitors in 2026 (Tested)」（https://www.leonar.app/features/job-multiposting/）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
-- 日本対応：記載なし（読んだ40頁・検索8回）
+  - 「. Here's a quick breakdown of the top options:」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「providers.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Top 4 White Label Job Board Software Platforms」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「SmartJobBoard is a hosted white-label platform designed for organizations that want to quickly and easily launch professional job boards. As of 2025, it powers over」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「SmartJobBoard is generally well-reviewed on platforms like Capterra and G2, with users highlighting its intuitive interface, flexible branding options, and responsive customer support, though some note a desire for more advanced analytics.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Many association career center vendors work on a」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「If you’re looking for an all-in-one platform rather than a white label solution, you can explore our」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Job Boardly is a flat subscription at a published price. It does not integrate with association management systems or offer member single sign-on, so associations that need the board tied into their membership login should look at vendors that specialize in association career centers.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Best Job Board Software in 2026: Top 6 Tools」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Confidently share opinions and reduce bias in the process with multiple reviews and star ratings to rank your top talent.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Automatically post to a network of top job boards to ensure your postings appear on the sites ideal job candidates frequent.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Leverages AI to analyze market data and recommend competitive, role-appropriate compensation ranges to attract top talent.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Scores and ranks applicants based on how closely their profiles match your job criteria, so your best candidates rise to the top.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「HiringThing connects to background screening providers, job boards, video interviewing platforms, and more to smooth the evaluation process.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「"You can keep this as simple or make it as complex as you want. This is seriously what you wish an ATS was! On top of all that - you can make it really look like your employment brand - not something that looks like other ATS company or even a co-brand. It looks like your organization. Even the URL!"」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+- 自社名で出せる条件：
+  - 「White Label Job Board Software: Platform Comparison | Job Boardly」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「White Label Job Board Software: Platform Comparison」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「White label job board software」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「white label job board software」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「white label job board software for associations」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Top 4 White Label Job Board Software Platforms」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「for quicker visibility in search results. These features help drive organic traffic to your job board, giving it a competitive edge in search rankings while supporting your branding efforts.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Job Boardly offers extensive customization options to align your job board with your brand identity. Users can adjust logos, colors, fonts, and layouts to create a professional and cohesive look. The platform also supports custom domains, ensuring your site maintains a polished and consistent web presence.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「For those looking for a seamless white-label solution, the Job Boardly Pro and Ultra plans remove all references to Job Boardly from the user-facing interface, providing a」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「SmartJobBoard is a hosted white-label platform designed for organizations that want to quickly and easily launch professional job boards. As of 2025, it powers over」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「, enabling users to create a fully branded experience. You can use custom domains to make your job board feel like a natural extension of your brand.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「The platform covers basic branding needs, allowing users to upload logos, tweak color schemes, and use a custom domain. However, options for layout customization are quite limited.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「JobMount is a robust white-label job board platform designed for recruitment agencies and publishers. With a presence in over」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「White Label Job Board Software for Associations」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「custom domains」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+- 再販制度：
+  - 「SmartJobBoard also offers a variety of ways to generate revenue, such as pay-per-post fees, subscription packages, featured listings, and resume database access charges. This flexibility allows job board owners to align their monetization strategies with their audience and market needs.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「As a hosted platform, JobMount delivers advanced tools for job posting, management, and search functionality. It also includes a job aggregation system that gathers listings from various sources and distributes them across partner networks.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Revenue Share or Flat Subscription」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「revenue share」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「For associations, the deciding questions are usually the commercial model (revenue share or a flat subscription) and whether the board has to integrate with your membership system. Job Boardly fits the flat-subscription, run-it-yourself case; see the」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Job Boardly offers a variety of tools to help you earn money through your job board. With the」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Revenue share on average.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Embed or resell hiring software to clients under your brand.」（https://www.hiringthing.com/white-label-ats/applicant-tracking-system/）
+  - 「Varies by arrangement」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「Two pricing models: revenue share (no upfront cost, popular with associations) and flat-fee subscription.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「Software that lets you create a branded job board under your own domain, logo, and identity. The vendor provides the technology — hosting, search, payments, SEO — while your users see only your brand. The depth of white-labeling varies from basic logo swaps to fully invisible platforms where you control the text, layout, and design of every page.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「It can be, but there is no universal timeline or margin. Profit depends on employer demand, audience acquisition, collected prices, payment processing, software costs, and staff time. Model those inputs before choosing a platform.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「Welcome to our Jobs Aggregator, where we bring together the best job opportunities from various sources into one comprehensive platform. Whether you’re a job seeker looking for your dream position or a recruiter searching for top talent, our job board aggregator is designed to simplify the entire process.」（https://careerwalletgroup.com/services/white-label-jobs-aggregator-job-board-software/）
+  - 「Option to resell the software to others (usually)」（https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/）
+  - 「✓ Reseller functionality」（https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/）
+- 黒字・収益性：
+  - 「Get the free interactive checklist + insider tips on building a profitable job board sent to your inbox.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Niceboard publishes named customer stories, including Grow Cycling and Medical Alley. Treat vendor-reported revenue and profitability results as examples whose outcomes depend on each board's audience, pricing, and sales work.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「: Professional associations, non-profits, and universities wanting a professional job board on a clean preset theme, with proven ROI data.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「At 20 paid postings per month and a collected price of $199, annual gross posting revenue would be 20 × $199 × 12 = $47,760. That is gross revenue, not profit: subtract refunds, payment processing, platform fees, marketing, support, tax, and staff time. Use the」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「Is running a job board profitable?」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「It can be, but there is no universal timeline or margin. Profit depends on employer demand, audience acquisition, collected prices, payment processing, software costs, and staff time. Model those inputs before choosing a platform.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「Starting a job board costs between $246 and $300,000+ depending on your approach. This guide breaks down every cost category, including the hidden ones competitors skip, with real numbers, break-even ...」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「At $399-$799 one-time, JobMount is the second most affordable option after eJobSiteSoftware. Great for bootstrapped startups.」（https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/）
+  - 「Q: How long until my job board is profitable?」（https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/）
+  - 「Get the free interactive checklist + insider tips on building a profitable job board sent to your inbox.」（https://www.jobboardly.com/）
+- 売上：
+  - 「: Revenue-share and flat-fee options, a built-in ATS, and 400+ organizations served according to the vendor. Ask which sales and transaction-processing duties are included in your proposal.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「Job Board Monetization: 7 Proven Revenue Strategies」（https://aynsoft.com/white-label-job-board-software-5-best-platforms-compared-2026-review/）
+- 価格：
+  - 「, up to 10,000 active jobs on Standard, strong SEO tools, and job aggregation features like Job Backfiller — published at $60/month. Ideal for operators and associations who want a branded board live fast.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「: Built for advanced users, with ATS integrations, in-platform messaging, and dedicated account management on higher tiers; tiered pricing from $149/month.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「$60/month」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「From $149/month」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「at $60/month or $480/year (equivalent to $40 per month), the」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「at $120/month or $960/year, and the」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「at $240/month or $1,920/year. Pro adds employer subscriptions, XML imports, the job board API, and removes branding. Ultra adds in-product messaging, a headless API, and priority support. Every plan includes unlimited traffic and pages, at least 10,000 active jobs, plus candidate and employer profiles.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「$149/month」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「($119/month billed annually) for up to 1,000 jobs and one team member, without job seeker profiles or employer subscriptions.」（https://www.jobboardly.com/blog/white-label-job-board-software-comparison）
+  - 「Disclosure: Cavuno is our product. Ratings reflect our editorial assessment of publicly available features as of September 2026. Evaluate each platform directly. Features and pricing change frequently.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「starts at $39/month for a branded custom-domain board. Basic at $105/month or $948/year ($79/month equivalent) adds removal of the "Powered by Cavuno" badge and a custom email sender domain.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「: Niceboard lists Core at $399/month or $319/month billed annually (5,000 active jobs), Advanced at $599/month or $479/month billed annually (10,000), and Custom by sales quote (30,000).」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「: Starts at $399/month on monthly billing. API access is restricted to Custom. Limited customization compared to platforms with visual or AI builders.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「JBoard's pricing page lists 3 scraper sources on Basic, 10 on Standard, 30 on Advanced, and 80 on Scale, plus built-in blogging. Test performance on a live customer board rather than relying on a vendor speed claim.」（https://cavuno.com/blog/white-label-job-board-software）
+  - 「: $149/mo starting price is higher than budget options. API access starts on Scale. AI auto-tagging starts on Advanced ($449/month). Job limits range from 1,000 to 30,000 on self-serve tiers.」（https://cavuno.com/blog/white-label-job-board-software）
+- 検索結果の抜粋：
+  - 「Multiposting Software : Job Postings on 1200+ Job Boards — Multiposting Software : Job Postings on 1200+ Job Boards softgarden https://softgarden.com > ... > Products」（https://softgarden.com/en/products/multiposting/）
+  - 「Top 44 Job Posting Multiposting Software Compared - Sprad — Top 44 Job Posting Multiposting Software Compared - Sprad Sprad https://sprad.io > provider-categories」（https://sprad.io/provider-categories/job-posting-multiposting）
 
 ## 応募者管理（ATS）（applicant tracking system for SMB）
 - 文脈：採用
@@ -1373,18 +1922,143 @@
 
 ## オンプレLLMソフト（自社サーバーで動く業務AI）（on-premise LLM platform for enterprise）
 - 文脈：オンプレAI
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
-- 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「Topics We Cover」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「We analyze key research from leading institutions and labs including Google DeepMind, Anthropic, OpenAI, Meta AI, McKinsey, and the World Economic Forum. Our content includes detailed analysis of reports on AI agents, foundation models, and enterprise AI strategy.」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「Run any LLM — Claude, GPT, Gemini, Llama, Command, or your own fine-tune — and switch providers without rewriting the platform.」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「A buyer's guide to the leading self-hosted and open-source enterprise AI platforms in 2026 — what each one actually deploys, who owns the code and data, and which models you can run. Compares Onyx, Cohere, Glean, and ibl.ai on ownership, model flexibility, and cost at scale.」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「: Punches above its weight. The 7B model competes with much larger alternatives. Fast inference. Great for resource-constrained deployments.」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Here's something competitors won't tell you:」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Private LLM deployment gives you the foundation. You build the controls on top.」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Larger models break even at lower utilization because they replace more expensive API alternatives.」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Vendors can accelerate your start. They shouldn't become permanent dependencies.」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Not necessarily. Managed platforms like」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Works Agent (Desktop)」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「Process Excel, PDF & PPT right on your desktop · on-prem ready」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「workload." If that regulation exists, proceed to on-prem and pay the model-refresh tax knowingly. If it does not, hybrid is almost always cheaper over a three-year horizon — and the rest of this guide should shift from "how to deploy on-prem" reading to "how to audit a hybrid architecture" reading, which is a different conversation with a different set of vendors.」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「satisfy all three, but require explicit customer-side engineering that rarely ships in a vendor's default topology — ask for the deployment diagram, not the product-tier name.」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+- 自社名で出せる条件：
+  - 「White Label」（https://eldoc.ai/blog/choose-any-llm-for-local-deployment/）
+  - 「From SEO to campaigns, we craft data-driven marketing that amplifies your brand’s reach.」（https://www.webority.com/ai/enterprise/on-premise）
+- 再販制度：
+  - 「Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「Highest capex (self-owned hardware + physical delivery mechanism). Highest recurring ops (every upgrade is a scheduled event, including the air-gap-safe update tooling). Lowest per-request marginal cost once the cluster is deployed. 3-year TCO typically 2.5-3.5× the vendor's upfront-only quote once Group 2+3 (§4) are priced in.」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「, ad variations, and campaign briefs grounded in brand guidelines and performance data. Beyond creation, the LLM analyzes past campaign performance to recommend messaging adjustments. It identifies which subject lines drive opens, which CTAs convert, and which audience segments respond to specific content types.」（https://monday.com/blog/ai-agents/enterprise-llm/）
+  - 「Variable」（https://monday.com/blog/ai-agents/enterprise-llm/）
+  - 「Cloud AI pricing scales with usage; hardware does not. Once an LLM deployment runs on your own GPUs, marginal usage is effectively free — heavy daily workloads cost the same as light ones, which inverts the cloud TCO curve at enterprise volume.」（https://vdf.ai/on-premises-llm/）
+  - 「You need zero external connectivity, including for updates → look at the air-gapped LLM deployment variant.」（https://vdf.ai/on-premises-llm/）
+  - 「Your constraint is jurisdiction, not the building → the sovereign variant governs legal control over the LLM deployment, not just physical control.」（https://vdf.ai/on-premises-llm/）
+  - 「At steady enterprise volume, an on-premises LLM deployment typically reaches cost crossover with per-seat or per-token cloud pricing within 9–18 months, after which marginal usage is near-zero cost.」（https://vdf.ai/on-premises-llm/）
+  - 「Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.」（https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026）
+  - 「Harnessing LLMs for Various Applications」（https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business）
+  - 「With Allganize's LLM App Builder, businesses can leverage LLMs across a wide variety of applications:」（https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business）
+  - 「Allganize's suite allows for seamless integration with various third-party apps, further broadening the potential applications of LLMs within your organization.」（https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business）
+  - 「With Allganize's suite, businesses can create interactive chatbots, develop robust question-and-answering systems, and integrate with various third-party apps, broadening the potential applications of LLMs within your organization.」（https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business）
+  - 「Medium (mix of fixed + variable)」（https://genaiprotos.com/blog/private-llm-deployment-for-enterprises）
+  - 「Variable workloads, no air-gap needed」（https://genaiprotos.com/blog/private-llm-deployment-for-enterprises）
+- 黒字・収益性：
+  - 「2. The breakeven point」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「It depends on scale. A basic setup with a single GPU runs $10-15k annually. Enterprise deployments with multiple GPUs and high availability start at $100k+. The breakeven point versus API costs is typically around 2 million tokens per day.」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「Nonprofits」（https://monday.com/blog/ai-agents/enterprise-llm/）
+  - 「Nonprofit」（https://monday.com/blog/ai-agents/enterprise-llm/）
+  - 「Break-even point」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3）
+  - 「Non-Profit Partner Data Sharing」（https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/）
+  - 「Break-even point」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z）
+  - 「Break-even point」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S）
+  - 「Local vs cloud AI at enterprise scale — the break-even math →」（https://llmconfigurator.com/en/enterprise）
+- 売上：
+  - 「is the orchestration layer: chat UI, agent management, multi-agent coordination, model routing with fallbacks, audit logging, and dashboards. The link between the platform and the company-hosted runtime is a secure Ed25519-signed WebSocket that carries orchestration metadata, not payloads.」（https://ibl.ai/blog/on-premise-ai-platform-for-enterprise）
+  - 「Weights arrive, are version-pinned, stay locally cached, and resume cleanly when a pull fails. A 140 GB weight artifact is a different operational shape than a 200 MB container image — the registry needs to be sized for it.」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「All ten reference-architecture components (§3) sit inside the customer's boundary. The cluster has no path to the internet. Model refreshes arrive via physical media or signed-package delivery through an approved gateway. Every upgrade is a scheduled operational event.」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「Lower capex than Pattern A (cloud-hosted GPU as opex). Lower recurring ops (vendor handles more of the lifecycle from the control plane). Trade-off: cloud GPU cost can exceed owned-hardware amortization for steady-state high-utilization workloads. 3-year TCO typically 1.4-2.2× the vendor's upfront quote (narrower gap than Pattern A because subscription includes more of Group 2+3).」（https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide）
+  - 「that AI is now scaling across the enterprise, up from 38% the prior year. The harder task is moving from pilot projects to production-level impact, and enterprise LLMs help by tying AI directly to revenue and retention. The impact shows up in the following areas.」（https://monday.com/blog/ai-agents/enterprise-llm/）
+  - 「5. 44% identify security as the greatest barrier to LLM adoption」（https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/）
+  - 「17. 24% identify regulatory risk as an adoption barrier」（https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/）
+- 価格：
+  - 「90% by moving away from API-based pricing」（https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/）
+  - 「At steady enterprise volume, an on-premises LLM deployment typically reaches cost crossover with per-seat or per-token cloud pricing within 9–18 months, after which marginal usage is near-zero cost.」（https://vdf.ai/on-premises-llm/）
+  - 「can run any model — the two things a single-vendor or managed-SaaS tool structurally cannot give you. On ibl.ai you self-host the whole stack, stay model-agnostic across any LLM, and pay with no per-seat pricing. In 2026 the credible options split by what they actually deploy.」（https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026）
+  - 「Per seat (~$40/user/mo)」（https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026）
+  - 「On top of that sits a complete agentic OS — 160+ agent templates, enterprise search, content generation, and credentialing — with usage-based or flat-license pricing instead of per-seat fees.」（https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026）
+  - 「It is, by design, managed SaaS. You don't host it, you don't own the code, and pricing is per seat — around $40 per user per month — which scales linearly with headcount regardless of how much each person actually uses it.」（https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026）
+  - 「; above 50,000 queries/month it reaches cost parity with cloud APIs in」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3）
+  - 「For organizations processing more than 50,000 AI queries per month, private deployment typically reaches cost parity with cloud APIs within 3 to 6 months. For high-volume use cases exceeding 500,000 queries per month, private AI can be 10 to 50 times more cost-effective than cloud APIs.」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3）
+  - 「Entry-level hardware (single RTX 5090) costs $8,000 to $12,000 and draws approximately 400-600 watts under load, translating to roughly $50 to $100 per month in electricity. Mid-range deployments (dual GPU) cost $15,000 to $35,000 in hardware. Enterprise multi-GPU servers range from $100,000 to $500,000. Operating costs are primarily electricity at $0.10 to $0.15 per kWh for most US locations.」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3）
+  - 「; above 50,000 queries/month it reaches cost parity with cloud APIs in」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z）
+  - 「For organizations processing more than 50,000 AI queries per month, private deployment typically reaches cost parity with cloud APIs within 3 to 6 months. For high-volume use cases exceeding 500,000 queries per month, private AI can be 10 to 50 times more cost-effective than cloud APIs.」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z）
+  - 「Entry-level hardware (single RTX 5090) costs $8,000 to $12,000 and draws approximately 400-600 watts under load, translating to roughly $50 to $100 per month in electricity. Mid-range deployments (dual GPU) cost $15,000 to $35,000 in hardware. Enterprise multi-GPU servers range from $100,000 to $500,000. Operating costs are primarily electricity at $0.10 to $0.15 per kWh for most US locations.」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z）
+  - 「; above 50,000 queries/month it reaches cost parity with cloud APIs in」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S）
+  - 「For organizations processing more than 50,000 AI queries per month, private deployment typically reaches cost parity with cloud APIs within 3 to 6 months. For high-volume use cases exceeding 500,000 queries per month, private AI can be 10 to 50 times more cost-effective than cloud APIs.」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S）
+  - 「Entry-level hardware (single RTX 5090) costs $8,000 to $12,000 and draws approximately 400-600 watts under load, translating to roughly $50 to $100 per month in electricity. Mid-range deployments (dual GPU) cost $15,000 to $35,000 in hardware. Enterprise multi-GPU servers range from $100,000 to $500,000. Operating costs are primarily electricity at $0.10 to $0.15 per kWh for most US locations.」（https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S）
+- 検索結果の抜粋：
+  - 「28 On-Premise LLM Deployment Statistics (2026) — 28 On-Premise LLM Deployment Statistics (2026) DreamFactory https://www.dreamfactory.com > hub」（https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics）
 
 ## オンプレAIの問い合わせ・受発注・採用向け業務アプリ（on-premise AI assistant for customer inquiries and orders）
 - 文脈：オンプレAI
-- 提供企業：記載なし（読んだ40頁・検索8回）
-- 自社名で出せる条件：記載なし（読んだ40頁・検索8回）
-- 再販制度：記載なし（読んだ40頁・検索8回）
-- 黒字・収益性：記載なし（読んだ40頁・検索8回）
+- 提供企業：
+  - 「Top 10 Private AI Solutions for Agencies & Small Business | Evolve」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top 10 Private AI & On-Premise AI Solutions for Agencies & Small Businesses (2026)」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「running on a server you own solves that. Here are the ten providers we would put in front of a small business or agency in 2026, and why」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「tops the list.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「top private AI and on-premise AI solutions for agencies and small businesses」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「, founder of Power BI Consulting Services (BICS), a Microsoft Partner data and AI consultancy — and that is what puts Evolve at the top of this list. Evolve can deliver a」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「with published costs and a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses. BICS's Upwork Expert-Vetted and Top Rated Plus track record, its 100K+ subscriber YouTube channel and its enterprise data clients back the technical delivery, while Evolve's creative and marketing team makes sure the AI shows up where the business makes money.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「BICS is Upwork Expert-Vetted and Top Rated Plus with a 100% Job Success Score and $1.7M+ delivered; its founder teaches the Microsoft data and AI stack to 100K+ YouTube subscribers」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Multi-GPU desktop & server builds」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「BIZON is a Cupertino, California builder of AI workstations and small servers, including multi-GPU desktop systems designed for deep learning and local model hosting. It sits between a general workstation vendor and a rack-server integrator, which suits a small business that wants more GPU headroom than a single-card tower but is not ready for a data-center rack.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top 10 AI Integration Consultants for Marketing Teams (2026)」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top 10 HubSpot & Marketing CRM Agencies for Small Business (2026)」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top 10 AI Chatbot Agencies for Lead Generation & Customer Engagement (2026)」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top Private & On-Premise AI Server Consultants in the USA (BICS)」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top 10 Best White Label AI Software | 2026 Verified Picks」（https://worldmetrics.org/best/white-label-ai-software/）
+- 自社名で出せる条件：
+  - 「. We left out the hyperscale clouds, the hardware OEMs and the enterprise system integrators whose minimums start where a small business's whole budget ends. What remains is a short list of consultancies that actually deliver private AI end to end, plus the specialist builders who make the workstations and servers those solutions run on. We are clear about which is which.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「, powers content pipelines that write in your brand voice from your own approved material, answers visitor questions through」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Agency white-label program」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Yes. A visitor-facing chat grounded in your own pages, FAQs and service content can run on your private model, answer questions accurately, and hand off leads to your CRM without a public chatbot provider in the loop. Evolve builds and designs the chat as part of your website, so it matches your brand and feeds your lead-handling process rather than living as a generic widget.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Top 10 Best White Label AI Software | 2026 Verified Picks」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Top 10 Best White Label AI Software of 2026」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Compare white label ai software options like Tiledesk, Stammer.ai, and Voiceflow, with key tradeoffs for agency and product teams.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Frequently Asked Questions About White Label Ai Software」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「How to Choose the Right White Label Ai Software」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Open-source conversational AI platform with multi-tenant and white-label deployment options.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「White-label chat UI with customer-facing branding controls」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「White-label platform for creating and reselling AI agents for business workflows.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Teams can reuse components like prompts and conversation states to standardize behavior across multiple deployments. For white label delivery, Voiceflow can be adapted through branded front ends and embedding patterns so customer experiences align with a reseller’s UI requirements.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「They deliver customer conversations through branded front ends and embedded experiences aligned to reseller UI.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「White-labeled conversational experience」（https://worldmetrics.org/best/white-label-ai-software/）
+- 再販制度：
+  - 「is the best choice for resellers who need branded chat assistants with a distinct front end per customer, because its brand-scoped UI presentation keeps conversations consistent while maintaining reseller identity across tenants, and」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Brand-scoped assistant experiences with custom chat presentation so each reseller customer gets a distinct front end.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Fits when resellers need branded chat assistants with controlled conversation flows and grounded knowledge inputs.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Per-tenant configuration for branded UI identity plus isolated limits makes reseller operations manageable across many clients.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Fits when reseller teams need fast visual authoring and custom-branded front ends for conversational agents.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「A tradeoff is that customization depth is constrained by the conversational builder design, so complex multi-step business logic may require tighter integration work. It fits situations where a reseller wants consistent chat experiences across multiple customer brands and needs controlled response behavior for support and qualification.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「White-label platform for creating and reselling AI agents for business workflows.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「A tradeoff is that agent behavior tuning still requires careful prompt and action configuration, not just switching the logo and domain. Stammer.ai fits best when a reseller wants a repeatable assistant experience for many customers, such as sales support or onboarding guidance, rather than one-off custom agent builds for every account.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Tenant isolation and usage metering support reseller reporting」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Teams can reuse components like prompts and conversation states to standardize behavior across multiple deployments. For white label delivery, Voiceflow can be adapted through branded front ends and embedding patterns so customer experiences align with a reseller’s UI requirements.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Resellers and platform teams」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「They deliver customer conversations through branded front ends and embedded experiences aligned to reseller UI.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Fits when resellers need workflow-driven assistants with branded web chat and content grounding.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Branding controls help maintain a reseller-consistent chat experience」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Multi-bot governance for large reseller portfolios can need extra process design」（https://worldmetrics.org/best/white-label-ai-software/）
+- 黒字・収益性：
+  - 「with published costs and a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses. BICS's Upwork Expert-Vetted and Top Rated Plus track record, its 100K+ subscriber YouTube channel and its enterprise data clients back the technical delivery, while Evolve's creative and marketing team makes sure the AI shows up where the business makes money.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Published pricing with a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses; Greenville-Pitt County Chamber of Commerce member」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Fixed-price packages with published costs, right-sized for teams of 5–100 people, plus nonprofit and minority-, women- and veteran-owned discounts.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Keep All of Your Profits」（https://stammer.ai/white-label-SaaS）
+  - 「You set the pricing, you keep all profits. No revenue sharing required.」（https://stammer.ai/white-label-SaaS）
+- 価格：
+  - 「Small-business fit & pricing: 20%」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Small-business fit & pricing (20%)」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「— Fixed-price packages, published or predictable pricing, right-sized scope for teams of 5–100 people, and a clear handover instead of an enterprise retainer.」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「Published pricing with a 10% discount for nonprofits, government and minority-, women- and veteran-owned businesses; Greenville-Pitt County Chamber of Commerce member」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
+  - 「(pricing relative to features and market alternatives). Each dimension is scored 1–10.」（https://worldmetrics.org/best/white-label-ai-software/）
+  - 「Set your own pricing structure and keep 100% of the markup on all AI agent solutions.」（https://stammer.ai/white-label-SaaS）
+  - 「Answer every chat and call, capture leads, and book appointments 24/7, even after hours. Set it up yourself without code, starting at $49/mo.」（https://stammer.ai/white-label-SaaS）
+  - 「💰 Plans start at from $99/mo」（https://stammer.ai/white-label-SaaS）
+- 検索結果の抜粋：
+  - 「Top 10 Private AI Solutions for Agencies & Small Business — Top 10 Private AI Solutions for Agencies & Small Business evolveinc.com https://evolveinc.com > Blog」（https://evolveinc.com/blog/top-private-ai-on-premise-ai-solutions-agencies-small-business）
 - 売上：記載なし（読んだ40頁・検索8回）
-- 価格：記載なし（読んだ40頁・検索8回）

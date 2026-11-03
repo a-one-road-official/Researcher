@@ -1,0 +1,898 @@
+{
+ "name": "外注先への発注・進捗管理",
+ "en": "subcontractor order and job tracking software",
+ "aliases": [
+  "supplier order tracking",
+  "outsourcing job management",
+  "外注管理",
+  "subcontractor management",
+  "vendor management"
+ ],
+ "context": "受発注",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:09.328031+00:00",
+ "evidence": {
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label Construction Project Management Software at $8000",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label Construction Project Management Software?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label construction project management software is a ready-made platform that you can launch under your own brand. Instead of building every feature from scratch, you use an existing software foundation and configure it to match your business requirements.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "We customize the platform with your logo, colors, domain, user roles, and project workflows. Our team can also configure features such as task management, project scheduling, budget tracking, document sharing, and progress reports. This approach helps growing companies offer construction management tools without managing the full development lifecycle.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get a Tailored White Label Software Solution for Your Construction Business",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "How White Label Construction Management Software Works",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label construction project management software allows businesses to launch a fully branded solution without building it from scratch. Customize the platform with your logo, colors, and features to deliver a seamless experience under your own brand.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Construction businesses need a central platform to manage projects, teams, budgets, and site activities. Our white label construction project management software can be configured with the features your clients need to manage construction workflows efficiently.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Business Advantages of Investing in White Label Construction Software",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label construction software helps businesses launch a branded software solution without building every feature from scratch. It offers a practical way to expand services, manage client needs, and support business growth.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label vs. Custom-Built Construction Software: Which Is Right for Your Business?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software uses an existing platform that can be branded and configured for your business, while custom development builds software around your specific requirements. The right choice depends on your budget, timeline, technical needs, and level of control.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Software",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Who Can Benefit from White Label Construction Software?",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Reseller and Partner",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Offer special pricing to software resellers and business partners who sell the platform under their own brand. This model helps partners build their software business with an agreed licensing structure.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Procore doesn’t list pricing on its site. Costs vary based on the size of your company, number of projects, and modules selected. Most reports suggest Procore is on the higher end of the pricing spectrum — you’ll need a custom quote tailored to your operations.",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support response times can vary",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Filter resources by state to get the most up-to-date and accurate information on permitting requirements and regulations. You can now see how the permitting varies from state to state and from municipality to municipality. Select a state below to learn more.",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "has helped a variety of businesses.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "See interviews from various",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Just as a conductor manages an orchestra to produce a harmonious symphony, you navigate the complex world of subcontracting, coordinating various tasks specialty contractors and teams to complete projects on time.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Subcontracts, change orders and committed costs track against the budget in real time, so a mid-project scope change does not quietly erode margin.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowify combines job costing, contract management and subcontractor management for trade and commercial contractors, with everything tied back to profitability. It is built for electrical, plumbing, HVAC and general contractors who subcontract portions of a job and need to see margin in real time. The QuickBooks-first design makes it a natural fit for finance-led trade businesses.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowify tracks subcontractor and labor costs against the budget in real time, so a trade contractor sees margin erode before the job closes rather than after.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost-to-profit visibility is strong, tying every subcontractor dollar back to job margin so future bids get sharper.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Bid capture keeps subcontractor pricing and job records together, so margin on subcontracted work stays visible.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting emphasizes project-level visibility, history review, and documentation presence that supports variance analysis across time.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Activity history improves variance tracking around schedule and scope changes",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower compliance variance",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Record variations, revised costs, tasks, and supporting documents within the same project workflow.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Assignar relies on consistent requirement templates to produce accurate variance reporting of submitted versus missing evidence. Without governance, teams can end up with broader document sets that reduce reporting accuracy for specific compliance checks. In that scenario, reporting becomes harder to interpret even when uploads exist.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Buildertrend uses structured onboarding workflows that gather required contractor artifacts and keep them visible inside the project context. Reporting emphasizes project-level visibility and history review so variance across time can be traced through documentation presence. This approach is less focused on separate onboarding templates and more focused on shared execution context.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Budget tracking and cost management become increasingly difficult as projects scale. Manual tracking of labor hours, material costs, and change orders makes it nearly impossible to maintain accurate project budgets or identify cost overruns before they become serious problems. This lack of financial visibility can quickly erode profit margins and put the entire business at risk.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Better budget tracking and cost management features provide real-time visibility into project finances. Automated time tracking, expense recording, and budget monitoring help identify cost overruns early and maintain healthy profit margins. Integration with accounting systems ensures that financial data remains accurate and up-to-date.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Financial reporting and analytics capabilities provide insights into project performance and business health. Customizable reports show profit margins, cost trends, and budget variance across individual projects and the entire business. These insights help identify areas for improvement and support strategic decision-making.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate mobile access requirements for your field teams. Construction happens on job sites, not in offices, so your chosen platform must provide robust mobile functionality that works reliably in various field conditions.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Join 1,000+ businesses using Noloco to improve margins and scale their operations with the speed and flexibility of AI and the reliability of a no-code business software.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Yes! We provide customer support through various channels—like chat, email, and help articles—to assist you in any way we can.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Integrating AI into construction project management software empowers businesses to automate workflows, improve project visibility, reduce operational risks, and make data-driven decisions that drive efficiency and profitability.",
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Knowify combines job costing, contract management and subcontractor management for trade and commercial contractors, with everything tied back to profitability. It is built for electrical, plumbing, HVAC and general contractors who subcontract portions of a job and need to see margin in real time. The QuickBooks-first design makes it a natural fit for finance-led trade businesses.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost-to-profit visibility is strong, tying every subcontractor dollar back to job margin so future bids get sharper.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "NGO & Non profit",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Budget tracking and cost management become increasingly difficult as projects scale. Manual tracking of labor hours, material costs, and change orders makes it nearly impossible to maintain accurate project budgets or identify cost overruns before they become serious problems. This lack of financial visibility can quickly erode profit margins and put the entire business at risk.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Better budget tracking and cost management features provide real-time visibility into project finances. Automated time tracking, expense recording, and budget monitoring help identify cost overruns early and maintain healthy profit margins. Integration with accounting systems ensures that financial data remains accurate and up-to-date.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time cost tracking is essential for maintaining project profitability. The software should capture labor hours, material costs, and equipment usage automatically, providing accurate and up-to-date project finances. Integration with time tracking systems ensures that labor costs are recorded accurately without manual data entry.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Financial reporting and analytics capabilities provide insights into project performance and business health. Customizable reports show profit margins, cost trends, and budget variance across individual projects and the entire business. These insights help identify areas for improvement and support strategic decision-making.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Start by evaluating your current challenges, trying free trials of promising platforms, and implementing gradually to ensure successful adoption. With the right software in place, you'll be positioned to take on larger projects, improve client satisfaction, and grow your construction business profitably.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "track profitability in real-time—all without replacing tools you already rely on.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Non Profits",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "5 Best Subcontractor Management Software for Construction — 5 Best Subcontractor Management Software for Construction PermitFlow https://www.permitflow.com > blog",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Best Subcontractor Management Software 2026 - Facilio — Best Subcontractor Management Software 2026 - Facilio Facilio https://facilio.com > blog > subcontra...",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   }
+  ],
+  "提供企業": [
+   {
+    "quote": "Bottom line: ProPricer excels at subcontractor cost modeling but stops at proposal submission. GovDash covers pricing strategy through Pricer Cloud and tracks subcontractor relationships across the full lifecycle from capture through contract performance.",
+    "url": "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "pass": 3
+   },
+   {
+    "quote": "ERP systems like Unanet GovCon and Deltek Costpoint handle post-award subcontractor financials well but do not track teaming partners during capture or proposal development. Full lifecycle platforms like GovDash carry subcontractor relationships from initial teaming agreements through contract performance without re-entering data between stages.",
+    "url": "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "pass": 3
+   },
+   {
+    "quote": "Leading a construction project means wearing a dozen hats at once. One minute you’re tracking down insurance certificates, the next you’re fielding calls about late payments or scrambling to fill a gap in the schedule. Add multiple subcontractors across different job sites, and you’ve got a hectic situation ripe for streamlining.",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "We rounded up the top-rated subcontractor management software to help you make the right choice for your business. We cover features, pros and cons, and pricing of each product for easy comparison.",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Affordable compared to competitors",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Jump to Topic:",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "In managing your business operations, implementing a work order system can offer significant benefits that enhance efficiency and productivity. This system can significantly boost your subcontractor performance and efficiency, leading to substantial cost savings. It's an effective tool for streamlining subcontractor workflows, reducing wasted time, and eliminating unnecessary delays.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": ": By speeding up the work order lifecycle, you not only meet but exceed customer expectations, leading to higher satisfaction rates.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "With the streamlined processes, deliverables are improved, leading to greater customer satisfaction.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": ": It allows for instant sharing of work orders, leading to enhanced collaboration within the team.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "With our full-featured, comprehensive CMMS maintenance program, you and your team can easily manage work orders, preventive maintenance scheduling and asset tracking in your facility from your desktop or mobile device.",
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "EASY, INTUITIVE, UNSTOPPABLE",
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "FM service providers",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Tenants, vendors, teams aligned",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide ranks these platforms for facilities and property operations teams: FM service providers, in-house FM departments, and multi-site operators who manage third-party trade vendors (HVAC, cleaning, security, MEP) across live buildings. Because that work runs continuously, the right tool usually sits inside your",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": ", not in a standalone app. That is a different job from construction project delivery, so the tools that win here are not always the ones that top a general construction roundup.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 8 subcontractor management software tools for 2026",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Connected CMMS that manages subcontractor onboarding, insurance and licence compliance, work order dispatch, SLA and KPI tracking on one platform built for property operations. Best for FM service providers and owner-operators.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing the top subcontractor management platforms for 2026",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "FM providers and property owners",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Service providers dispatching subs",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "FM service providers and real-estate owner-operators managing recurring subcontractors across multiple live sites.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The system tracks certifications, licences and insurance, alerts owners before they expire, and flags or deactivates non-compliant vendors before work is assigned.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors upload invoices against completed work, so approvals tie back to a documented job, in the spirit of dedicated",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors and clients each get their own branded self-service view through",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Stakeholder portals give vendors and clients their own view, so accountability is shared rather than chased.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The default for construction project delivery, and the wrong lane for facilities teams managing ongoing service vendors.",
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "All topics",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 8 Best Subcontractor Management Software of 2026",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editor’s top 3 picks",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors set the topic, but our editors set the inclusion criteria and the evaluation framework before research starts.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "COI document collection and status separates vendors who can gather proof consistently from those that just store files. If the system can’t track received vs. missing coverage, your pre-work check becomes unreliable.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Subcontractor Prequalification Software of 2026",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Contractor Estimate And Invoice Software of 2026",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Mechanical Contractor Software of 2026",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Best Contractor Estimator Software of 2026",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Several of the vendors assessed here shared the cost of this study, so no single vendor paid for it. Their only input was proposing which market to study.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Editors alone decided which vendors were included, which criteria applied and how they were weighted, and what the findings are. Every vendor in scope, funder or not, was offered the same check on facts about its own products.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top pick ↑",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "For software vendors",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Popular Topics",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Document management is another area where small construction companies struggle. Project plans, permits, contracts, and inspection reports need to be organized, accessible, and up-to-date for all team members. Paper-based systems and scattered digital files make it difficult to find critical information when needed, leading to delays and compliance issues.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Most major software providers offer free trials that allow you to evaluate their platforms before making a commitment. These trials typically last 14-30 days and provide full access to platform features, enabling thorough evaluation of fit and functionality.",
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "pass": 3
+   },
+   {
+    "quote": "Scheduling by phone, text, or whiteboard doesn’t scale and leaves room for error. Matching subcontractors and crew by real skill and certification, not just who’s free, cuts safety and compliance risk and keeps their paperwork current. The same matching applies to your own crews, and vendor scorecards mean you stop sending work to the same underperformer out of habit.",
+    "url": "https://trackvia.com/solutions/crew-vendor-management/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$99/month",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$249/month.",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$39/user/month",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$49/month",
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$13/user/month. All features included. 30-day trial.",
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Field Ascend is $13/user/month. All features are included, and every account starts with a 30-day trial.",
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "$13/month",
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Field Ascend is $13 per user per month, with a 30-day free trial and",
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "Field Ascend costs $13/user/month. All features are included, and the trial lasts 7 days with",
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "pass": 3
+   },
+   {
+    "quote": "(pricing relative to features and market alternatives). Each dimension is scored 1–10.",
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taskip.net/white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manyrequests.com/blog/white-label-project-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assembly.com/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fieldpulse.com/features/work-order-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildops.com/resources/work-order-software-for-contractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fieldwire.com/blog/subcontractor-project-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudmore.com/content-hub/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cavuno.com/blog/white-label-job-board-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.permitflow.com/blog/subcontractor-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simprogroup.com/blog/best-work-order-software-commercial-contractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knack.com/blog/white-label-client-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clicksgeek.com/best-white-label-marketing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emailvendorselection.com/best-white-label-saas-software-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contractorforeman.com/3-best-work-order-software-for-contractors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://field-ascend.com/en-us/subcontractor-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildertrend.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jobtread.com/features/change-orders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facilio.com/blog/subcontractor-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/projects/project-management-saas-free/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/Construction/comments/tgo4l6/subcontractor_work_order_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://worldmetrics.org/best/subcontractor-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Construction/comments/vejvjq/whats_the_best_construction_management_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bidscube.com/blog/top-10-white-label-tools-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Contractor/comments/1qztkl0/job_tracking_software_or_program/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uxmag.com/articles/go-ahead-white-label-your-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knarrtek.com/job-tracking-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trackvia.com/solutions/crew-vendor-management/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label subcontractor order and job tracking software",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://assembly.com/blog/white-label-software",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://www.knack.com/blog/white-label-client-portal/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.codementor.io/@rashidkhanrk1717/white-label-construction-project-management-software-2p3hjhii5q",
+    "https://worldmetrics.org/best/subcontractor-management-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software white-label",
+   "results": [
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "https://www.govdash.com/blog/best-subcontractor-tracking-software-govcon",
+    "https://www.fieldpulse.com/features/work-order-management",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://www.fieldwire.com/blog/subcontractor-project-management-software/",
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://contractorforeman.com/work-order-management-system-a-gamechanger-for-savvy-contractors/",
+    "https://worldmetrics.org/best/subcontractor-work-order-management-software/"
+   ]
+  },
+  {
+   "query": "best white label subcontractor order and job tracking software providers",
+   "results": [
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://cloudmore.com/content-hub/white-label-software",
+    "https://suitedash.com/white-label-business-software/",
+    "https://cavuno.com/blog/white-label-job-board-software",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://manyrequests.com/blog/white-label-project-management-software",
+    "https://www.simprogroup.com/blog/best-work-order-software-commercial-contractors",
+    "https://assembly.com/blog/white-label-software",
+    "https://worldmetrics.org/best/subcontractor-management-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software white label reseller agency",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://sellful.com/",
+    "https://www.knack.com/blog/white-label-client-portal/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://clicksgeek.com/best-white-label-marketing-services/",
+    "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "https://www.emailvendorselection.com/best-white-label-saas-software-services/",
+    "https://trackvia.com/solutions/crew-vendor-management/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software rebrand your logo own brand",
+   "results": [
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://contractorforeman.com/3-best-work-order-software-for-contractors/",
+    "https://field-ascend.com/en-us/subcontractor-management-software",
+    "https://buildertrend.com/",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://www.jobtread.com/features/change-orders",
+    "https://storyflow.so/blog/best-tools-to-plan-a-rebrand-2026",
+    "https://knowify.com/trade-contractor-software/",
+    "https://legacysaleseng.com/branding/",
+    "https://suitedash.com/white-label-business-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software private label SaaS",
+   "results": [
+    "https://www.maintenancecare.com/subcontractor-work-order-management-software",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://facilio.com/blog/subcontractor-management-software/",
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://buildops.com/resources/work-order-software-for-contractors",
+    "https://suitedash.com/projects/project-management-saas-free/",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://www.reddit.com/r/Construction/comments/tgo4l6/subcontractor_work_order_software/",
+    "https://worldmetrics.org/best/subcontractor-management-software/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software white label partner program pricing",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://taskip.net/white-label-tools-for-agencies/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://sellful.com/",
+    "https://www.reddit.com/r/Construction/comments/vejvjq/whats_the_best_construction_management_software/",
+    "https://bidscube.com/blog/top-10-white-label-tools-for-agencies/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://www.whitelabeltracking.com/pricing/"
+   ]
+  },
+  {
+   "query": "subcontractor order and job tracking software white label company profitable",
+   "results": [
+    "https://www.hellobonsai.com/blog/white-label-tools-for-agencies",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://hyperlocalcloud.com/white-label/construction-project-management-software",
+    "https://www.reddit.com/r/Contractor/comments/1qztkl0/job_tracking_software_or_program/",
+    "https://uxmag.com/articles/go-ahead-white-label-your-services",
+    "https://noloco.io/blog/construction-project-management-software-for-small-business",
+    "https://knarrtek.com/job-tracking-software/",
+    "https://www.permitflow.com/blog/subcontractor-management-software",
+    "https://www.knack.com/blog/white-label-client-portal/",
+    "https://trackvia.com/solutions/crew-vendor-management/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上": "記載なし（読んだ40頁・検索8回）"
+ }
+}

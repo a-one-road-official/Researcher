@@ -1,0 +1,2144 @@
+{
+ "name": "過去メールから問い合わせBot作成",
+ "en": "AI chatbot trained on email history",
+ "aliases": [
+  "email inbox knowledge base chatbot",
+  "train chatbot on past emails",
+  "email archive AI assistant",
+  "email chatbot",
+  "AI email assistant",
+  "chatbot"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:29.539076+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "conversions - they're losing to faster competitors.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Top 13 SaaS reseller programs compared",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies, freelancers, consultancies and IT service providers that already look after clients' websites, marketing, support or software. You add AI agents as a recurring service and keep the client relationship and the margin.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: Pick Your Niche (Stop Trying to Serve Everyone)",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "40+ AI models from 6 providers",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "\"I'll just use the OpenAI API and build my own platform!\" No. Stop. You'll spend 6 months and $50K building something worse than what",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "If your white-label platform doesn't handle billing, you're going to be duct-taping Stripe, building customer portals, tracking usage manually, and chasing invoices. That's not a business, that's a part-time job as a collections agent.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Let me be transparent about how Pickaxe stacks up against the alternatives.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "the top ways to make money with AI",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "compares white-labeling against the alternatives.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 White-Label AI Platforms Compared: Parallel Labs",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Top 14 Ways to Make Money With AI (And What Each One Actually Pays)",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Quick-compare matrix: 10 leading white label chatbot platforms for resellers",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "(Remember, pricing and margins are just examples; always check directly with providers for the latest info.)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Disclaimer: This table is for illustrative comparison. Features, pricing, and terms change; consult providers directly for the latest information.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White label chatbot providers usually bill resellers in a few common ways:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Some providers offer a single yearly fee for their whole white label package. This makes budgeting predictable.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Many providers offer partner programs that blend these elements, often giving discounts to resellers who commit to larger volumes or longer terms.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Day 1-3: Research and shortlist providers.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Many white label chatbot providers know what resellers need and might offer:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Always have a way for a human to review conversations or take over, especially for sensitive topics or when the bot isn’t sure how to respond.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Check the contract length and any fees or procedures for ending the contract early or switching providers. Shorter terms or clear exit paths reduce lock-in risk.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Regularly review queries the bot didn’t understand or mishandled. Look at conversation logs to identify new topics or common questions the bot isn’t equipped to answer well.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "As mentioned before, good providers invest in helping their partners succeed.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Conversational AI is breaking free from text. Expect more white label solutions to offer robust",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "– whether someone is frustrated, happy, or confused. They’ll adapt their tone and responses accordingly, leading to more empathetic and effective interactions.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Launch an AI chatbot white label solution that looks like your product, not someone else’s tool. Perfect for agencies and chatbot resellers who need a branded chat SDK, AI chat API, SSO, API isolation, and multi-client deployment.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "That distinction matters when you are comparing vendors. Buyers care about control, deployment speed, and what parts of the user experience they can actually rebrand, not just the chat widget but the entire support and analytics workflow.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://github.com/MirrorFly/White-Label-AI-Chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label CPaaS Providers",
+    "url": "https://github.com/MirrorFly/White-Label-AI-Chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Voiceflow's agency offering includes multi-client workspace management, white-label and client handoff tools, access to major model providers, and usage-based billing.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Botpress alternatives",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Deflection vs Resolution: How to Stop Counting Ignored Chats as Wins and How Chatbase Closes the Gap",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Freshdesk Alternatives in 2026: Pricing, Features, and Migration",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Most white label chatbot vendors run every customer on shared infrastructure and put a 'Powered by' badge on your product. Uthereal doesn't. Your chatbot runs as a dedicated tenant on Swiss-hosted infrastructure, never trains shared models, and cites its sources — so your security review passes and your customers see only your brand.",
+    "url": "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Set your visual identity, tone of voice, allowed topics, escalation rules, and analytics events.",
+    "url": "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Most white label AI chatbot platforms resell the same shared cloud with a theming layer on top. The difference shows up in the security review, not the demo.",
+    "url": "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "backed by InnoSuisse, top Swiss research institutions and technology partners",
+    "url": "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "What to Look For in a White-Label Platform",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "If your clients touch regulated data, SOC 2 Type 2, PII handling, and clear data controls stop being nice-to-haves. Our",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "See how leading teams design, test, and deploy AI agents at scale.",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "What you can use is the technology underneath. The best white-label platforms call the APIs from OpenAI, Anthropic, and Google and wrap them in a secure, brandable application you control. You get the model's capability without pretending to be OpenAI.",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Platforms like Voiceflow let you control branding and visual design, tone and conversation style,",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Best ChatGPT Alternatives, Tried and Tested (2026)",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Hosting providers",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Software vendors",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "IT service providers",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Start White-Label Platform",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For agencies, hosting providers, software vendors and resellers",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Hosting Providers",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Software vendors & SaaS",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "IT service providers & resellers",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For hosting providers and SaaS",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You book a voice tier for your package and allocate minutes per end customer. Top up with minute packs when demand grows.",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent plans for launching and scaling your white-label platform.",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platform & your own branding",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Extend your white-label platform as your customer base grows.",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For hosting providers, software vendors and agencies with many clients, we sort out the details in person: integration, volume and contract.",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Everything you need to know about the White-Label platform.",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "white label solution lets agencies fully brand AI assistants with custom domains and remove all Invent branding.",
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label AI Chatbot Reseller Program for Agencies | Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Start your own white label AI business for $200 less. Any yearly plan, applied automatically.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White label program",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Best White Label AI Chatbot Platform for Agencies",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Chatbot",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Modern AI Agents don't just talk, they work. Robofy's white label AI chatbot reseller program lets digital agencies, web developers, and IT consultants deliver custom-branded AI agents under their own logo and domain, while keeping 100% of client billing.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI agents that call APIs, capture leads and hand off to people",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label chatbot reseller program?",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "A white label",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "logo and domain, and resell it to clients as their own product. With Robofy's white label",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "and manage all client accounts from one central white label dashboard. No coding, no",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label AI: The Agency Playbook",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "White-Labeling AI for Clients: The Exact Playbook I'd Use to Build a $100K/Month AI Agency",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White-Labeling AI (And Why Should You Care)?",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "The White-Label AI Landscape: Who's Doing What",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "The Exact Playbook: How I'd Build a White-Label AI Agency",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "If you're reading this in 2026 and you're NOT white-labeling AI for your clients yet, you are leaving an absurd amount of money on the table. Not \"oh that's a nice opportunity\" money. I'm talking about \"this is the biggest land grab in the history of services businesses\" money.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeling AI means you take an AI platform, remove their branding, slap YOUR branding on it, and sell it to your clients as if you built the whole thing. Your client sees YOUR logo. YOUR colors. YOUR domain. They have no idea there's a platform behind it.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ", agencies are charging $300-$500+ MRR per client for white-labeled AI agents. And according to",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "These platforms started as chatbot builders and added white-labeling later:",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "comprehensive comparison of white-label builders",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": White-label chatbot platform supporting WhatsApp, Messenger, Slack deployment. Good for agencies wanting complete brand invisibility.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "2026 white-label guide",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": Fully customizable white-label chatbot builder designed specifically for agencies.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": Full agency management platform that includes white-label AI. More of an all-in-one play.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IQ",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot Guide: Start Reselling in 30 Days | Quickchat AI - AI Agents",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot Guide: Start Reselling in 30 Days",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "white label chatbot",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "chatbot white label reseller",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Key Takeaways: White Label Chatbot Reselling at a Glance",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Possible to select, brand, price, and launch a white label chatbot service within 30 days.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "This guide provides a step-by-step roadmap to start selling your branded chatbot service.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Market snapshot: Why white label chatbots are booming in 2025",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Chatbots can handle a massive number of inquiries, meaning fewer human support agents are needed, which slashes operational expenses. White-label solutions cut costs even further by removing the need for in-house development.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Quick-compare matrix: 10 leading white label chatbot platforms for resellers",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Full (Your branding, Custom domain)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Full Rebranding",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Minutes to Hours (no-code, instant white-label)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "are the bedrock of a successful white label chatbot reseller business. Let’s make the numbers make sense.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White label chatbot providers usually bill resellers in a few common ways:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot | AI Chatbot White Label Reseller | Chat Data",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, your chatbot",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Chatbot",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Launch an AI chatbot white label solution that looks like your product, not someone else’s tool. Perfect for agencies and chatbot resellers who need a branded chat SDK, AI chat API, SSO, API isolation, and multi-client deployment.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "SSO can keep the management experience under your brand",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Chat Data launched SSO login for reseller customers so end users can manage chatbot settings and analytics without creating a separate Chat Data account. That matters for white label buyers who want a client portal to feel native.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling includes operational touchpoints, not just the widget",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Sender email white labeling on Reseller and Professional plans extends branding to daily summaries and live chat notifications, which makes the whole support workflow feel more complete and consistent.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Email white labeling changelog",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Launch a white label chatbot in four steps",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Apply your branding",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Match chatbot colors, buttons, welcome copy, and visual style to your brand or each client account.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Who should use a white label chatbot?",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "This page is for SaaS founders, digital agencies, implementation partners, and product teams that want to package AI chat as part of their own offering. If your buyer expects your product to solve support, sales, onboarding, or lead capture directly, a white label chatbot is usually a better fit than sending them to a third-party interface.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "What separates white labeling from simple widget styling?",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "White Label AI Chatbot Reseller Program for Agencies | Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Resell Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller pricing",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller deck (PDF)",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program for Agencies",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Modern AI Agents don't just talk, they work. Robofy's white label AI chatbot reseller program lets digital agencies, web developers, and IT consultants deliver custom-branded AI agents under their own logo and domain, while keeping 100% of client billing.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label chatbot reseller program?",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "chatbot reseller program lets agencies buy an AI chatbot platform, brand it with their own",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "logo and domain, and resell it to clients as their own product. With Robofy's white label",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "A two-minute look at what you get as a Robofy reseller: your branded panel, client workspaces and AI agents you can sell under your own name.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The White Label Chatbot Builder Built for Resellers",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "white label chatbot reseller",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "keep all revenue. No commissions, no revenue sharing. Your business, your margins.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The margins are insane.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "BotPenguin's partner program",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "comparison guide for resellers",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": Enterprise-grade platform for AI phone and chatbot agents. Unlimited clients, full margin retention.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": Maps to actual AI cost. You set the markup. Sell $1 in credits, spend $0.30 in AI cost, pocket $0.70. This is how you build margin on high-volume agents.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Varies",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI White Label Services to Resell: Insighto",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "An honest comparison of 9 white-label AI tools agencies can rebrand and resell in 2026 — from full SaaS-mode platforms to budget chatbot resellers, with real pricing and the catches nobody mentions.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "The complete playbook for making money with AI agents in 2026: covering 7 proven revenue models, real margin numbers, pricing frameworks, and a step-by-step plan to hit your first $5K month.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot Guide: Start Reselling in 30 Days | Quickchat AI - AI Agents",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot Guide: Start Reselling in 30 Days",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "chatbot white label reseller",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Key Takeaways: White Label Chatbot Reselling at a Glance",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Ideal Resellers",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Understand provider pricing (tiered, flat-rate, revenue-share) to structure client packages for maximum margin.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Quick-compare matrix: 10 leading white label chatbot platforms for resellers",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "and what matters most for resellers across ten popular options.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "(Remember, pricing and margins are just examples; always check directly with providers for the latest info.)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Setup Time (Reseller)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Est. Margin %",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "are the bedrock of a successful white label chatbot reseller business. Let’s make the numbers make sense.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White label chatbot providers usually bill resellers in a few common ways:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue share (rev-share):",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "This is less common for pure white-label reselling but can be part of the mix, with costs around USD 0.002 per message. If this is your model, you’ll need to watch client usage closely to protect your margins.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot | AI Chatbot White Label Reseller | Chat Data",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Launch an AI chatbot white label solution that looks like your product, not someone else’s tool. Perfect for agencies and chatbot resellers who need a branded chat SDK, AI chat API, SSO, API isolation, and multi-client deployment.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Chat Data launched SSO login for reseller customers so end users can manage chatbot settings and analytics without creating a separate Chat Data account. That matters for white label buyers who want a client portal to feel native.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Chatbot-specific API keys let teams create up to 10 keys per chatbot, which is useful for agencies and resellers that need to share API access without exposing every client chatbot in one account.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Sender email white labeling on Reseller and Professional plans extends branding to daily summaries and live chat notifications, which makes the whole support workflow feel more complete and consistent.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "For Chat Data, the strongest proof points are first-party product details: reseller SSO for branded admin access, up to 10 chatbot-specific API keys per bot for isolated client access, sender email white labeling on Reseller and Professional plans, and deployment across 10+ channels including web, WhatsApp, Slack, and Discord.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies, SaaS teams, and resellers serving multiple client accounts",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Partner or reseller programs",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Documents white-label-friendly SSO for reseller customers, including branded access to chatbot management and analytics.",
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Each node supports parameter configuration, variable binding, and connection to downstream nodes, enabling complex workflow orchestration through the drag-and-drop canvas interface.",
+    "url": "https://github.com/MirrorFly/White-Label-AI-Chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "The best white label chatbots in 2026 include Chatbase, Stammer, Lety, BotPenguin, Botsify, Social Intents, Robofy, UChat, Voiceflow, and Botpress. The right choice depends on whether you need simple brand removal, separate client accounts, or a full reseller setup with pricing and billing control.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": ". They give you more direct reseller controls.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "may be simpler and cheaper than paying for reseller features.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Full reseller",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Affordable reseller SaaS",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Built-in reseller billing",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Lower-cost reseller setup",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller billing not documented",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Reselling software needs more control.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "4. Full reseller setup:",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "true reseller setup",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing & Profit Margins",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Net monthly profit: $8,868",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Annual profit: $106,416",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Net monthly profit: ~$21,000",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Annual profit: ~$252,000",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "This guide is a straightforward map to understanding the market, choosing the right tech, crunching the numbers on your profit, and launching your very own branded chatbot service.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability Levers",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing models and profit math: From cost to cash-flow positive",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Single client profit:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit per client: USD 99 - USD 109",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Break-even analysis:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// Inputs for Break-even Analysis",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Gross_Profit_Per_Client = 99 // USD (assuming you charge USD 129, and your cost per client is USD 30)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Number_of_Clients_to_Break_Even = Total_Platform_Cost / Gross_Profit_Per_Client",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "This shows just how important it is to align your client pricing and package limits with what your provider charges you. For a deeper dive into numbers and potential profit, check out our guide on",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Want to get a ballpark figure for your potential monthly profit? This formula can help.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly Profit Estimator:",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// Step 4: Calculate Estimated Monthly Profit",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// Estimated_Monthly_Profit = Net_Monthly_Revenue - Total_Monthly_Provider_Fee",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated_Monthly_Profit = NMR - A",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofits",
+    "url": "https://github.com/MirrorFly/White-Label-AI-Chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Your possible monthly gross profit",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Gross profit share",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofits & Associations",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "If you run a digital marketing, web design, or consulting agency, adding AI chatbots to your service offering is one of the most profitable moves you can make right now. White-label chatbot platforms let you deploy branded, AI-powered chatbots for your clients — under your own name, at your own price point — without writing a single line of code.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "In this guide, we'll walk through exactly how to build a profitable AI chatbot service within your agency, from platform selection to pricing strategy to client onboarding and beyond.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Your main cost is the white-label platform subscription. With FastBots.ai's Reseller plan at $399/month, you get everything needed to serve up to 30 clients — full white-labelling, 30 chatbots, 30,000 messages, and multi-channel support. Add your time for setup and management, and you can be profitable within 2–3 clients.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by brands large and small. 100% self-funded and independent since 1994.",
+    "url": "https://brandkit.com/chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "showcasing how our reseller, a comprehensive marketing agency, tripled its profitability through white-labeling, achieving a monthly recurring revenue (MRR) of $3,000.",
+    "url": "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceAIWrapper has been thoughtfully designed to help you create and deploy an AI chatbot on your client's website at a profit.",
+    "url": "https://voiceaiwrapper.com/uses/white-label-ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s the good news: white label AI software has matured to the point where agencies and service providers can now deploy enterprise-grade AI platforms under their own brand—often in less than a week, with zero coding required, and profit margins ranging from 30% to 70%.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide will help you navigate the white label AI landscape, evaluate platforms based on what actually matters for reseller profitability, and avoid the costly mistakes that can derail your AI services offering before it launches.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "When evaluating white label AI software for your agency, most providers will dazzle you with feature lists and fancy demos. But after analyzing dozens of platforms and interviewing successful AI resellers, here are the seven criteria that actually determine long-term profitability:",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "7. Profitability Metrics & Real-World Business Impact",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": ": Calculate total profitability, not just platform cost. A $387 platform cost with $1,200 average client value generates far more profit than a $99 platform with $250 client value.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "The Implementation Roadmap: From Signup to Profitable",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s the proven roadmap agencies use to launch profitable white label AI services in 30 days or less:",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "How long does it take to become profitable?",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "With the right platform and existing client relationships, agencies often become profitable in month one. Your primary costs are:",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "With just 3 clients at $697/month, you’re generating $2,091/month revenue against $271-$500 in costs = $1,591-$1,820/month profit in month one.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "For agencies ready to move beyond basic chatbots and deliver comprehensive business automation, platforms like Parallel AI offer the depth of features, transparent pricing, and fast implementation needed to launch profitably within 30 days.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "That’s the power of white-labeling—delivering enterprise-grade AI under your agency’s brand while you collect the profits. In 2026, agencies that master this model are building sustainable recurring revenue while their competitors chase one-off projects.",
+    "url": "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "“Turn your support costs into a profit center.”",
+    "url": "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "while maintaining 100–300% profit margins",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Real-world case studies show 20–100% profit margins",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit Margins & Business Models",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional SaaS locks you into fixed pricing tiers. White label AI lets you set your own pricing structure, targeting different market segments and maximizing profit margins based on your positioning.",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margin tracking per AI agent",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing agency partner tripled profitability through white-labeling, achieving $3,000 MRR",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Tripled profitability through white-labeling",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 100% profit margins achievable",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit Margin Analysis",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Net Profit",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "According to white label profitability analysis (White Label Wonder, May 2025):",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit Margin Formula:",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Net Profit Margin Formula:",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Profit margins can reach 100% with proper pricing and scale (My AI Front Desk, 2024)",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": ": Set your own monthly or annual rates. Keep all client revenue; 0% commission.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "clients within 60 days. That worked out to $4,200 in monthly recurring revenue. Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "keep 100% of client revenue or pay a commission, how many client licenses and AI credits",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": ": Focuses on agencies building chat and voice AI agents. No revenue sharing, full pricing control. Their pitch is \"keep 100% of your revenue.\" Solid for pure chatbot plays.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "At the Pro level ($104.40/month billed annually), you're only paying 8% processing on client payments. If you have 10 clients paying $1,000/month, that's $10,000/month revenue, $800 to Pickaxe, and you keep $9,200. Minus your $104/month platform cost, you're netting $9,096/month.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Your revenue (10 clients at $997/month average):",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly revenue: $9,970",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly revenue: $24,925",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "The complete playbook for making money with AI agents in 2026: covering 7 proven revenue models, real margin numbers, pricing frameworks, and a step-by-step plan to hit your first $5K month.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: USD 129",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// Step 1: Calculate Gross Monthly Revenue (GMR)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// Step 2: Calculate Revenue Lost to Churn (RLC)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// RLC = Gross_Monthly_Revenue * (Churn_Rate_Percentage / 100)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "// Step 3: Calculate Net Monthly Revenue (NMR)",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "are incredibly effective for agencies in 2025. They offer a proven way to add a high-demand, AI-powered service to their lineup, generate recurring revenue, and deliver more value to clients—all without massive R&D costs. The ability to fully brand the solution and set their own prices makes it a very attractive business model.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The resale math is what makes it work. A single well-designed AI agent can carry a retainer of $1,000 a month or more, and a good platform lets you run many clients off one account. Price the platform against what you can charge, not against zero.",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "It varies by scope, but a single well-built agent commonly carries a retainer of $1,000 a month or more. Because one platform account can serve many clients, margins improve as you add accounts. Price against the value you deliver, including the",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "looks easy until you read the fine print. One vendor’s “white label” means your own domain, your logo, client sub-accounts and billing in your name. Another vendor’s “white label” means a $49 add-on that hides a small badge on the chat widget, while the dashboard your client logs into still carries their brand.",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "lets you remove branding for $16.67 a month, and its agency program is a referral revenue share.",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": ", or $2,985 in monthly revenue.",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Markup on LLM tokens, MCP calls, setup fees; 4 revenue streams",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Botsify structures its billing around four revenue streams: subscriptions, token markup, MCP call markup, and setup fees. Agencies can mark up LLM tokens and MCP calls by 3x, 5x, 10x or whatever multiple they choose. Clients receive a single invoice under the agency’s brand, and free trials can be configured on the agency’s own terms (7, 14, or 30 days).",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "that compounds over time. Every client you onboard adds to your baseline income. After 20 clients paying $300/month each, you've got $6,000/month in predictable revenue before you even think about new business.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "At 20 clients, you're looking at over $5,500/month in net recurring revenue from a single service line. That's before any setup fees, optimisation upsells, or premium add-ons.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Keep 100% of the revenue",
+    "url": "https://www.chatlab.com/agencypackage/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue share models (10–30%) eat into agency margins on every client",
+    "url": "https://convocore.ai/white-label/ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "ConvoCore publicly shows its white-label offer at $220 per month or $1,584 per year, with five seats. Because its public pages have carried inconsistent package and usage copy, confirm the current client-workspace and credit limits before committing a client proposal.",
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "#1. New Revenue Stream",
+    "url": "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "showcasing how our reseller, a comprehensive marketing agency, tripled its profitability through white-labeling, achieving a monthly recurring revenue (MRR) of $3,000.",
+    "url": "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Since March 2022, we've successfully launched over 100 white-label chatbots for various dispensaries, continually enhancing customization options. Thanks to BotsCrew's white-label chatbot solutions, our client has skyrocketed from zero revenue in March 2022 to exceeding $10,000 in monthly recurring revenue today.",
+    "url": "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "100% Revenue Yours",
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "100% Revenue Retention",
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Pay one annual platform fee, set your own pricing, and keep 100% of what you charge. Many partners build recurring revenue through subscriptions and value-added services.",
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly Revenue (avg $75/client)",
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "BotPenguin's white label pricing varies by region. The Pebble plan starts at ₹50,000 per year in India and $600 per year for partners outside India. Higher tiers are available through Contact Sales. White-label partners keep 100% of client revenue with no revenue share to BotPenguin.",
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Do I keep 100% of revenue I charge clients across all white label SaaS partner pricing plans?",
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "pass": 3
+   },
+   {
+    "quote": ": Transform from project-based billing to subscription revenue models, with some agencies generating $8,000-$15,000+ monthly from just 10-15 clients.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "– Subscription revenue: 15 × $897 = $13,455/month",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": ": Revenue share model starting at $271/month (30% margin) with clear tiered pricing up to custom Enterprise plans",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "With just 3 clients at $697/month, you’re generating $2,091/month revenue against $271-$500 in costs = $1,591-$1,820/month profit in month one.",
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "pass": 3
+   },
+   {
+    "quote": "That’s the power of white-labeling—delivering enterprise-grade AI under your agency’s brand while you collect the profits. In 2026, agencies that master this model are building sustainable recurring revenue while their competitors chase one-off projects.",
+    "url": "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "The agencies winning in 2026 aren’t just building websites and running ads. They’re building recurring revenue machines powered by AI. White-label chatbots are how you join them.",
+    "url": "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "According to a July 2024 report from BotsCrew, the global chatbot marketing revenue alone is projected to surpass $454.8 million by 2027, demonstrating the massive market opportunity for white label AI resellers.",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "represents the fastest-growing region. Currently accounting for 33% of AI software revenue in 2025, analysts expect the region to capture 47% of the global market by 2030 as China and other Asian economies accelerate AI adoption (ABI Research, July 2024).",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Zero platform fees—keep 100% of revenue",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Achieved $3,000 monthly recurring revenue",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "(Revenue – COGS) / Revenue × 100%",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "(Revenue – COGS – Operational Costs) / Revenue × 100%",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: $7,500/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: $30,000/month",
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "chatbot platform, you set your own pricing, keep 100% of every payment your clients make,",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-Labeling AI for Clients: The Exact Playbook I'd Use to Build a $100K/Month AI Agency",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Platform costs are $30-$100/month. You're charging clients $500-$2,000/month. Do the math.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ", some agencies are charging $1,000+ per month per agent.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "That's 10 clients at $1K/month = $120K/year from ONE service offering.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": Focuses on agencies building chat and voice AI agents. No revenue sharing, full pricing control. Their pitch is \"keep 100% of your revenue.\" Solid for pure chatbot plays.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": ": Starts at $4/month. Multi-channel support (WhatsApp, Messenger, website). Good entry point but limited customization depth. They have a",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "Gold plan ($26.10/month billed annually)",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "At the Pro level ($104.40/month billed annually), you're only paying 8% processing on client payments. If you have 10 clients paying $1,000/month, that's $10,000/month revenue, $800 to Pickaxe, and you keep $9,200. Minus your $104/month platform cost, you're netting $9,096/month.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "You're not selling \"a chatbot.\" You're selling \"an AI-powered customer engagement system that works on your website, WhatsApp, email, and Slack.\" That's a $2,000/month pitch, not a $200/month pitch.",
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "pass": 3
+   },
+   {
+    "quote": "You have three or more clients. For less than USD 600 a year, you could launch a fully branded chatbot service. If you charge each client between USD 99 and USD 299 per month, those first three clients could",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You pay a monthly or annual fee based on the features you get, how many bots you can run, message limits, or the number of end-clients you support. This is a popular model, with solid plans often costing between USD 79 and USD 199 per month.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Imagine your chosen white label platform charges you a base fee of USD 99/month. This fee includes up to 10,000 messages spread across 5 client sub-accounts. Or, perhaps it’s a per-client fee of USD 20/month if you buy “seats” individually.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "You decide to charge your client USD 129/month for a package that covers up to 5,000 messages.",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "What if your total platform cost is USD 300/month (maybe for a higher-tier plan with more features or clients)?",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "The best white label chatbots in 2026 include Chatbase, Stammer, Lety, BotPenguin, Botsify, Social Intents, Robofy, UChat, Voiceflow, and Botpress. The right choice depends on whether you need simple brand removal, separate client accounts, or a full reseller setup with pricing and billing control.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Public pricing and plan details were fact-checked against official vendor pages on September 14, 2026. AI usage, messaging, voice, client licenses, and add-ons can raise the total cost.",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "$99 per month add-on",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "$197 per month",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "$497 per month",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritize full rebranding, model flexibility, security and compliance (SOC 2 Type 2, PII handling), integrations, transparent pricing, and agent-management tooling like evaluations and",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing from €29",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Platform plans from €29/month",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "5,000 messages/month",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "15,000 messages/month",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "50,000 messages/month",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "1,500 messages/month",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Rather start on your own? Plans start at €29 per month",
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "we build ChatMaxima, which is one of the 12 platforms below. We have tried to hold it to the same standard as everyone else, including where it falls short. All prices are in USD unless noted and were taken from each vendor’s own pricing pages on 7 October 2026. Vendors change plans often, so confirm before you sign.",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Partner program, starting at $600 a year",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "($399 yearly) with 50 sub-accounts, 3,000 minutes and 10,000 queries. Both include your own domain and logo, and Insighto says you can set your own client pricing.",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing pages leave out details that matter once you have 20 clients. Ask each vendor these questions directly, and get the answers in writing:",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "10 AI Agent Templates You Can Resell in 2027 (With Pricing for Each)",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Reseller Pricing and Billing",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer’s Agency Wallet lets agencies set their own prices for chat replies, voice minutes, and agents. Agencies can also charge setup fees and recurring subscriptions. The Pro plan includes five chat agents and five voice agents, with additional agents available for $10 per month each.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro White Label costs $99 per month and includes five chat agents, five voice agents, full white-label branding, reseller controls, advanced AI models, and access to all channels and connectors. Additional chat or voice agents cost $10 per month each.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency White Label costs $419 per month and includes 3,500 voice minutes, unlimited client sub-accounts, 1,000 parallel calls, custom branding and domain support, and client billing through the agency’s own Stripe account. Additional voice usage is charged at $0.09 per minute.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "let agencies resell fully branded chatbots to clients at significant margins. A typical agency can charge $200–$500/month per client for a chatbot service that costs a fraction of that to deliver. This guide covers everything: choosing a platform, packaging your service, pricing models, onboarding clients, and scaling to a full chatbot-as-a-service business.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "that compounds over time. Every client you onboard adds to your baseline income. After 20 clients paying $300/month each, you've got $6,000/month in predictable revenue before you even think about new business.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "offers a partners programme with white-labelling on its Tidio+ plan (around $394/month). It's well-known for live chat and has strong e-commerce integrations, but its AI capabilities are more limited compared to platforms built specifically around LLMs.",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "$399/month",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "30,000/month",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "~$13.30/month",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "$10/month each",
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatLab Agency Program - White Label AI Chatbot Platform from $294/month",
+    "url": "https://www.chatlab.com/agencypackage/",
+    "pass": 3
+   },
+   {
+    "quote": "Convocore lets an agency sell AI voice and chat agents under its own brand, domain and prices. White Label is $199 a month for 20 client accounts with unlimited agents and flat pricing; Elite is $349 a month for unlimited clients.",
+    "url": "https://convocore.ai/white-label/ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "If you charge each client $500 a month for an AI chatbot, five clients bring $2,500 a month against a $199 platform fee and flat pricing. That is our arithmetic on an example price, before usage.",
+    "url": "https://convocore.ai/white-label/ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Set your own client prices. Flat platform fee ($199/month) with a 0.5% fee only on Stripe Connect client payments.",
+    "url": "https://convocore.ai/white-label/ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "No. ConvoCore charges a flat plan fee rather than a share of what you charge clients. You pay a flat platform fee ($199/month) and set your own client prices for AI chatbot services.",
+    "url": "https://convocore.ai/white-label/ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "50 Lyro AI conversations (one-time), basic live chat, 100 Flows visitors/month.",
+    "url": "https://www.thinkstack.ai/blog/best-ai-chatbots-for-saas/",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan limited to one bot and 50 messages per month.",
+    "url": "https://www.thinkstack.ai/blog/best-ai-chatbots-for-saas/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting at $2,000",
+    "url": "https://www.thinkstack.ai/blog/best-ai-chatbots-for-saas/",
+    "pass": 3
+   },
+   {
+    "quote": "1 AI agent, 500 chat sessions/month, limited channels and integrations.",
+    "url": "https://www.thinkstack.ai/blog/best-ai-chatbots-for-saas/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro plan economics: $449/month for up to 20 sites",
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "pass": 3
+   },
+   {
+    "quote": "At 20 clients, your cost is approximately $22 per client per month. Charge $150-$300 per client and you are looking at $2,500-$5,500 in monthly margin from a single subscription. The math works from client number one and gets better with scale.",
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "pass": 3
+   },
+   {
+    "quote": "When you outgrow 20 sites or 50,000 messages per month, the",
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "pass": 3
+   },
+   {
+    "quote": "— this gives you white-label branding removal, 20 sites, and 50,000 messages per month.",
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pro plan at $449/month is the primary white-label plan. It includes complete branding removal, up to 20 sites, and 50,000 messages per month. If you are on the Standard plan ($139/month) and want white-label activation, you can email",
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "White Label Chatbot Guide: Start Reselling in 30 Days — White Label Chatbot Guide: Start Reselling in 30 Days Quickchat AI https://quickchat.ai > Blog",
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Ai chatbot Chat History to Email ( white label ) - #4 by Max — Ai chatbot Chat History to Email ( white label ) - #4 by Max Elfsight Community https://community.elfsight.com > ai-c...",
+    "url": "https://community.elfsight.com/t/ai-chatbot-chat-history-to-email-white-label/91404/4",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best White Label AI Chatbot Platforms for Agencies (2026) — 10 Best White Label AI Chatbot Platforms for Agencies (2026) Chatbase https://www.chatbase.co > ... > Insights",
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "pass": 3
+   },
+   {
+    "quote": "Best White - Label Chatbots for Agencies [2026 Review] — Best White - Label Chatbots for Agencies [2026 Review] Voiceflow https://www.voiceflow.com > blog",
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label AI Chatbot Pricing Comparison (2026) | Trillet Blog — White - Label AI Chatbot Pricing Comparison (2026) | Trillet Blog Trillet https://trillet.ai > Blog",
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "12 Best White Label Chatbot Platforms for Agencies (2026) — 12 Best White Label Chatbot Platforms for Agencies (2026) ChatMaxima https://chatmaxima.com > blog > best...",
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1md9d0v/anyone_build_an_ai_support_bot_using_years_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chat-data.com/white-label-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://community.elfsight.com/t/ai-chatbot-chat-history-to-email-white-label/91404/4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/MirrorFly/White-Label-AI-Chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voiceflow.com/blog/white-label-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webchatagent.com/enterprise-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/white-label-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chatlab.com/agencypackage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cptr.ai/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://convocore.ai/white-label/ai-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandkit.com/chatbots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neuralai.mt/insights/why-your-business-chatbot-should-reflect-your-own-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentx.so/resources/agentx-tutorial/how-to-fully-rebrand-your-ai-agent-with-agentx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=hubx.logo.ai&hl=en_IN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1nqz0we/these_5_ai_tools_helped_me_build_my_personal_brand/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1g5zqql/ai_chatbot_for_emails/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nytimes.com/wirecutter/advice/ai-chat-privacy/?eafs_enabled=false",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thinkstack.ai/blog/best-ai-chatbots-for-saas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-ai-chatbot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alibaba.com/product-insights/how-to-create-a-private-ai-chatbot-trained-only-on-your-past-emails-and-docs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.socialintents.com/article/245-chatbot-white-label-reseller-program-setup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boei.help/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/white-label-chatbot-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voiceaiwrapper.com/uses/white-label-ai-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@andrew_best/white-label-ai-chatbots-for-your-clients-5fe9298052f8",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label AI chatbot trained on email history",
+   "results": [
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://pickaxe.co/post/white-label-ai-for-clients",
+    "https://www.reddit.com/r/Entrepreneur/comments/1md9d0v/anyone_build_an_ai_support_bot_using_years_of/",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.chat-data.com/white-label-chatbot",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "https://customgpt.ai/train-customer-service-chatbot-using-email-transcripts/",
+    "https://community.elfsight.com/t/ai-chatbot-chat-history-to-email-white-label/91404/7"
+   ]
+  },
+  {
+   "query": "AI chatbot trained on email history white-label",
+   "results": [
+    "https://www.chat-data.com/white-label-chatbot",
+    "https://community.elfsight.com/t/ai-chatbot-chat-history-to-email-white-label/91404/4",
+    "https://github.com/MirrorFly/White-Label-AI-Chatbot",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "https://uthereal.ai/solutions/white-label-ai-chatbot",
+    "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "https://botpress.com/blog/white-label-chatbot-platform",
+    "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/"
+   ]
+  },
+  {
+   "query": "best white label AI chatbot trained on email history providers",
+   "results": [
+    "https://www.voiceflow.com/blog/white-label-chatbot",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://webchatagent.com/enterprise-white-label",
+    "https://pickaxe.co/post/white-label-ai-for-clients",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/"
+   ]
+  },
+  {
+   "query": "AI chatbot trained on email history white label reseller agency",
+   "results": [
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.chat-data.com/white-label-chatbot",
+    "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.useinvent.com/blog/white-label-ai-assistants-for-agencies-custom-domains-branding-control-and-scalable-client-deployment",
+    "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "https://blog.fastbots.ai/ai-chatbot-for-agencies-the-complete-white-label-guide-to-building-a-profitable-chatbot-service/",
+    "https://www.chatlab.com/agencypackage/"
+   ]
+  },
+  {
+   "query": "AI chatbot trained on email history rebrand your logo own brand",
+   "results": [
+    "https://brandkit.com/ai-brand-bot",
+    "https://neuralai.mt/insights/why-your-business-chatbot-should-reflect-your-own-branding/",
+    "https://www.agentx.so/resources/agentx-tutorial/how-to-fully-rebrand-your-ai-agent-with-agentx",
+    "https://play.google.com/store/apps/details?id=hubx.logo.ai&hl=en_IN",
+    "https://www.reddit.com/r/ChatGPT/comments/1nqz0we/these_5_ai_tools_helped_me_build_my_personal_brand/",
+    "https://www.fruitbowldigital.com/blog/ai-in-branding/",
+    "https://www.quora.com/What-are-the-best-AI-tools-for-personal-branding-in-2025",
+    "https://asyntai.com/white-label-for-agencies/",
+    "https://asyntai.com/white-label-ai-chatbot/",
+    "https://chatloom.app/en/blog/how-to-train-ai-chatbot-on-your-data"
+   ]
+  },
+  {
+   "query": "AI chatbot trained on email history private label SaaS",
+   "results": [
+    "https://www.chat-data.com/white-label-chatbot",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.reddit.com/r/SaaS/comments/1g5zqql/ai_chatbot_for_emails/",
+    "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "https://www.youtube.com/watch?v=O8koVxsCoGg",
+    "https://www.nytimes.com/wirecutter/advice/ai-chat-privacy/?eafs_enabled=false",
+    "https://www.thinkstack.ai/blog/best-ai-chatbots-for-saas/",
+    "https://asyntai.com/white-label-ai-chatbot/",
+    "https://www.instagram.com/stammer.ai/",
+    "https://www.alibaba.com/product-insights/how-to-create-a-private-ai-chatbot-trained-only-on-your-past-emails-and-docs.html"
+   ]
+  },
+  {
+   "query": "AI chatbot trained on email history white label partner program pricing",
+   "results": [
+    "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://chatmaxima.com/blog/best-white-label-chatbot-platforms/",
+    "https://www.youtube.com/watch?v=xI7N9Ew7kRo",
+    "https://help.socialintents.com/article/245-chatbot-white-label-reseller-program-setup",
+    "https://www.chatbase.co/blog/best-white-label-ai-chatbots",
+    "https://boei.help/white-label/",
+    "https://botscrew.com/blog/white-label-ai-software-for-agencies/",
+    "https://botpenguin.com/white-label-chatbot-pricing"
+   ]
+  },
+  {
+   "query": "AI chatbot trained on email history white label company profitable",
+   "results": [
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://voiceaiwrapper.com/uses/white-label-ai-chatbot",
+    "https://pickaxe.co/post/white-label-ai-for-clients",
+    "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "https://chatmaxima.com/blog/white-label-chatbots-ultimate-guide/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://webchatagent.com/enterprise-white-label",
+    "https://medium.com/@andrew_best/white-label-ai-chatbots-for-your-clients-5fe9298052f8",
+    "https://botpenguin.com/blogs/white-label-chatbot-platform"
+   ]
+  }
+ ],
+ "missing": {}
+}

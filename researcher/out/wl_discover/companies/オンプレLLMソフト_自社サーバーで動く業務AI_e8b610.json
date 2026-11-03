@@ -1,0 +1,950 @@
+{
+ "name": "オンプレLLMソフト（自社サーバーで動く業務AI）",
+ "en": "on-premise LLM platform for enterprise",
+ "aliases": [
+  "self-hosted LLM platform",
+  "private GPT on-prem",
+  "air-gapped AI platform",
+  "on-premise LLM",
+  "private LLM",
+  "self-hosted LLM",
+  "local LLM"
+ ],
+ "context": "オンプレAI",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:07.920302+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Topics We Cover",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "We analyze key research from leading institutions and labs including Google DeepMind, Anthropic, OpenAI, Meta AI, McKinsey, and the World Economic Forum. Our content includes detailed analysis of reports on AI agents, foundation models, and enterprise AI strategy.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Run any LLM — Claude, GPT, Gemini, Llama, Command, or your own fine-tune — and switch providers without rewriting the platform.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to the leading self-hosted and open-source enterprise AI platforms in 2026 — what each one actually deploys, who owns the code and data, and which models you can run. Compares Onyx, Cohere, Glean, and ibl.ai on ownership, model flexibility, and cost at scale.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": ": Punches above its weight. The 7B model competes with much larger alternatives. Fast inference. Great for resource-constrained deployments.",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Here's something competitors won't tell you:",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Private LLM deployment gives you the foundation. You build the controls on top.",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Larger models break even at lower utilization because they replace more expensive API alternatives.",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors can accelerate your start. They shouldn't become permanent dependencies.",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Not necessarily. Managed platforms like",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Works Agent (Desktop)",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Process Excel, PDF & PPT right on your desktop · on-prem ready",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "workload.\" If that regulation exists, proceed to on-prem and pay the model-refresh tax knowingly. If it does not, hybrid is almost always cheaper over a three-year horizon — and the rest of this guide should shift from \"how to deploy on-prem\" reading to \"how to audit a hybrid architecture\" reading, which is a different conversation with a different set of vendors.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "satisfy all three, but require explicit customer-side engineering that rarely ships in a vendor's default topology — ask for the deployment diagram, not the product-tier name.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement-ready questions. They're not marketing questions; they're operational questions. Ambiguous answers are signals. Organized by topic. Every vendor in the shortlist should be able to answer all 15 concretely in writing within a week.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Prompt injection on tool-use surface, silent kernel miscompile, parser/tokenizer drift, large-model upload failures. A vendor who doesn't have runbooks for at least the OWASP LLM Top 10 categories hasn't had production incidents yet.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Most vendors have uptime SLAs; few have quality SLAs. If a model refresh drops our task accuracy by 5 %, what's the committed response time?",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors optimized for this buyer segment have written answers. Vendors bolting on enterprise posture will answer some concretely and others with \"depends on your configuration\" without saying which configurations are on offer. The fastest signal is Q9 — a vendor who cannot draw the operational-responsibility split has not thought about the enterprise shape of their product.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "run inside the customer's VPC, but the default vendor topology often hosts one or both; explicit engineering required.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "- Run a tabletop exercise for the five LLM-specific runbooks from [[034]] Surface 7. This is before you have a real incident, not after.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Join leading enterprises who trust KneoEdge for their mission-critical AI deployments. See how on-premise AI can accelerate your business while maintaining complete control.",
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "pass": 3
+   },
+   {
+    "quote": "Topics",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore article topics",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Security and data privacy top the list of concerns organizations raise when evaluating enterprise LLMs. Company data flowing through an AI system introduces new risks, and nearly",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "cite security and risk concerns as the top barrier to fully scaling agentic AI. Enterprise-grade deployments answer these concerns with several layers of protection.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise LLM providers typically encrypt data in transit with TLS and stored data with AES-256, the same standards financial institutions use. Tenant isolation keeps each organization’s data walled off from every other customer on shared infrastructure.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise LLM deployments need configurable data residency to meet these rules. Organizations in regulated industries may also need LLM inference, the process of generating responses, to happen within their jurisdiction, which narrows the field of viable providers.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise LLM vendors should hold relevant certifications and demonstrate compliance through independent audits, not self-reported claims.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "AI layering adds AI on top of an existing process. An",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Platforms like monday AI Workspace offer ready-made AI agents and no-code agent builders that allow non-technical teams to deploy enterprise LLM capabilities without data science expertise, though organizations pursuing custom model fine-tuning or on-premise deployments will benefit from specialized technical resources.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Your AI platform should never lock you into a single vendor or model. It should support leading open-source and commercial LLMs, allowing you to introduce new models as they become available and switch between them without redesigning business processes.",
+    "url": "https://eldoc.ai/blog/choose-any-llm-for-local-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "Self-Hosted Alternatives",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "With VDF AI, Microsoft Entra ID sign-in is native, while Okta, Keycloak, other SAML or OIDC providers and LDAP directories connect through an SSO-aware reverse proxy. Either way, audit records land in the SIEM your security team already watches.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "LLM: On-Premises vs the alternatives",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Topics We Cover",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "We analyze key research from leading institutions and labs including Google DeepMind, Anthropic, OpenAI, Meta AI, McKinsey, and the World Economic Forum. Our content includes detailed analysis of reports on AI agents, foundation models, and enterprise AI strategy.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A buyer's guide to the leading self-hosted and open-source enterprise AI platforms in 2026 — what each one actually deploys, who owns the code and data, and which models you can run. Compares Onyx, Cohere, Glean, and ibl.ai on ownership, model flexibility, and cost at scale.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx is the leading open-source, self-hosted search-and-chat layer. Cohere offers private deployment of its own models. Glean is a polished managed assistant — per-seat SaaS, no ownership.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "But \"self-hosted\" is a spectrum, and vendors use the word loosely. Some let you self-host the application but lock you to their model. Some open-source the search layer but leave you to assemble and operate everything else. A few let you own the entire stack — code, data, and infrastructure — and run any model you choose.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On top of that sits a complete agentic OS — 160+ agent templates, enterprise search, content generation, and credentialing — with usage-based or flat-license pricing instead of per-seat fees.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Run any LLM — Claude, GPT, Gemini, Llama, Command, or your own fine-tune — and switch providers without rewriting the platform.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Works Agent (Desktop)",
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "pass": 3
+   },
+   {
+    "quote": "Process Excel, PDF & PPT right on your desktop · on-prem ready",
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "pass": 3
+   },
+   {
+    "quote": "When you use a cloud AI API, your prompts and data are transmitted to and processed on infrastructure you do not control. While major providers like OpenAI and Anthropic state they do not train on API data by default, their terms can change, their subprocessors may have different practices, and data breaches can expose your information regardless of contractual protections.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "The open-source AI model landscape has matured dramatically. Here are the leading options for enterprise deployment in 2026:",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "- Top-tier code generation across dozens of programming languages.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "An inference platform handles loading models into GPU memory, processing requests, and returning responses. The leading options:",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "Track usage metrics, user satisfaction, time saved, and cost compared to alternatives. Expand to additional use cases based on demonstrated value.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "8-16 GB VRAM (laptop or entry desktop GPU):",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "Questions about this topic? Talk to our team.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "A 2026 enterprise AI survey found 72% of mid-to-large enterprises now rank privacy and compliance as their top AI concern, up from 41% in 2024.",
+    "url": "https://genaiprotos.com/blog/private-llm-deployment-for-enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Self-Hosted Alternatives",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "— vendors like NVIDIA (DGX systems), HPE, and Dell offer integrated AI platforms with bundled support. These simplify procurement and carry a premium over commodity GPU servers, but reduce integration risk.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Some vendors license by API call or by model, which can be lower upfront but harder to predict at scale. For regulated organizations, predictable licensing structures are often preferable because they allow accurate budget planning and avoid surprise overruns when usage grows.",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Related topics",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "top barrier",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 31% rank security and privacy as the top selection factor",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Highest capex (self-owned hardware + physical delivery mechanism). Highest recurring ops (every upgrade is a scheduled event, including the air-gap-safe update tooling). Lowest per-request marginal cost once the cluster is deployed. 3-year TCO typically 2.5-3.5× the vendor's upfront-only quote once Group 2+3 (§4) are priced in.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": ", ad variations, and campaign briefs grounded in brand guidelines and performance data. Beyond creation, the LLM analyzes past campaign performance to recommend messaging adjustments. It identifies which subject lines drive opens, which CTAs convert, and which audience segments respond to specific content types.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud AI pricing scales with usage; hardware does not. Once an LLM deployment runs on your own GPUs, marginal usage is effectively free — heavy daily workloads cost the same as light ones, which inverts the cloud TCO curve at enterprise volume.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "You need zero external connectivity, including for updates → look at the air-gapped LLM deployment variant.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Your constraint is jurisdiction, not the building → the sovereign variant governs legal control over the LLM deployment, not just physical control.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "At steady enterprise volume, an on-premises LLM deployment typically reaches cost crossover with per-seat or per-token cloud pricing within 9–18 months, after which marginal usage is near-zero cost.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading universities and organizations are transforming education with the ibl.ai AI Operating System. Explore real-world implementations from Harvard, MIT, Stanford, and users from 400+ institutions worldwide.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Harnessing LLMs for Various Applications",
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "pass": 3
+   },
+   {
+    "quote": "With Allganize's LLM App Builder, businesses can leverage LLMs across a wide variety of applications:",
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "pass": 3
+   },
+   {
+    "quote": "Allganize's suite allows for seamless integration with various third-party apps, further broadening the potential applications of LLMs within your organization.",
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "pass": 3
+   },
+   {
+    "quote": "With Allganize's suite, businesses can create interactive chatbots, develop robust question-and-answering systems, and integrate with various third-party apps, broadening the potential applications of LLMs within your organization.",
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "pass": 3
+   },
+   {
+    "quote": "Medium (mix of fixed + variable)",
+    "url": "https://genaiprotos.com/blog/private-llm-deployment-for-enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Variable workloads, no air-gap needed",
+    "url": "https://genaiprotos.com/blog/private-llm-deployment-for-enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Platform software licensing varies widely based on vendor, deployment model, and negotiated terms. On-premise software licensing for a governed AI agent platform with private RAG, orchestration, model management, and evaluation capabilities typically falls into these tiers:",
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "on on-premise LLM deployments. The cost predictability of self-hosted infrastructure eliminates variable cloud computing expenses.",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "It varies. Nucleus AI delivers hardware; most others deploy on hardware you buy or rent. Clarify this before comparing quotes.",
+    "url": "https://www.lumay.ai/blogs/best-on-premise-llm-deployment-companies-us",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program",
+    "url": "https://www.webority.com/ai/enterprise/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Limited to provider's model catalog. Fine-tuning options vary by platform.",
+    "url": "https://www.webority.com/ai/enterprise/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy any open-source model — Llama 3, Mistral, Falcon, Phi, Gemma, or custom fine-tuned variants. Switch models freely without vendor lock-in.",
+    "url": "https://www.webority.com/ai/enterprise/on-premise",
+    "pass": 3
+   },
+   {
+    "quote": "Open-source models such as Llama, Mistral, Falcon, and custom fine-tuned variants.",
+    "url": "https://www.webority.com/ai/enterprise/on-premise",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "is the orchestration layer: chat UI, agent management, multi-agent coordination, model routing with fallbacks, audit logging, and dashboards. The link between the platform and the company-hosted runtime is a secure Ed25519-signed WebSocket that carries orchestration metadata, not payloads.",
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Weights arrive, are version-pinned, stay locally cached, and resume cleanly when a pull fails. A 140 GB weight artifact is a different operational shape than a 200 MB container image — the registry needs to be sized for it.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "All ten reference-architecture components (§3) sit inside the customer's boundary. The cluster has no path to the internet. Model refreshes arrive via physical media or signed-package delivery through an approved gateway. Every upgrade is a scheduled operational event.",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Lower capex than Pattern A (cloud-hosted GPU as opex). Lower recurring ops (vendor handles more of the lifecycle from the control plane). Trade-off: cloud GPU cost can exceed owned-hardware amortization for steady-state high-utilization workloads. 3-year TCO typically 1.4-2.2× the vendor's upfront quote (narrower gap than Pattern A because subscription includes more of Group 2+3).",
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "pass": 3
+   },
+   {
+    "quote": "that AI is now scaling across the enterprise, up from 38% the prior year. The harder task is moving from pilot projects to production-level impact, and enterprise LLMs help by tying AI directly to revenue and retention. The impact shows up in the following areas.",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 44% identify security as the greatest barrier to LLM adoption",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "17. 24% identify regulatory risk as an adoption barrier",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "2. The breakeven point",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "It depends on scale. A basic setup with a single GPU runs $10-15k annually. Enterprise deployments with multiple GPUs and high availability start at $100k+. The breakeven point versus API costs is typically around 2 million tokens per day.",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofits",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Nonprofit",
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "Break-even point",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "Non-Profit Partner Data Sharing",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Break-even point",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z",
+    "pass": 3
+   },
+   {
+    "quote": "Break-even point",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S",
+    "pass": 3
+   },
+   {
+    "quote": "Local vs cloud AI at enterprise scale — the break-even math →",
+    "url": "https://llmconfigurator.com/en/enterprise",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "90% by moving away from API-based pricing",
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "At steady enterprise volume, an on-premises LLM deployment typically reaches cost crossover with per-seat or per-token cloud pricing within 9–18 months, after which marginal usage is near-zero cost.",
+    "url": "https://vdf.ai/on-premises-llm/",
+    "pass": 3
+   },
+   {
+    "quote": "can run any model — the two things a single-vendor or managed-SaaS tool structurally cannot give you. On ibl.ai you self-host the whole stack, stay model-agnostic across any LLM, and pay with no per-seat pricing. In 2026 the credible options split by what they actually deploy.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Per seat (~$40/user/mo)",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "On top of that sits a complete agentic OS — 160+ agent templates, enterprise search, content generation, and credentialing — with usage-based or flat-license pricing instead of per-seat fees.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "It is, by design, managed SaaS. You don't host it, you don't own the code, and pricing is per seat — around $40 per user per month — which scales linearly with headcount regardless of how much each person actually uses it.",
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "pass": 3
+   },
+   {
+    "quote": "; above 50,000 queries/month it reaches cost parity with cloud APIs in",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "For organizations processing more than 50,000 AI queries per month, private deployment typically reaches cost parity with cloud APIs within 3 to 6 months. For high-volume use cases exceeding 500,000 queries per month, private AI can be 10 to 50 times more cost-effective than cloud APIs.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "Entry-level hardware (single RTX 5090) costs $8,000 to $12,000 and draws approximately 400-600 watts under load, translating to roughly $50 to $100 per month in electricity. Mid-range deployments (dual GPU) cost $15,000 to $35,000 in hardware. Enterprise multi-GPU servers range from $100,000 to $500,000. Operating costs are primarily electricity at $0.10 to $0.15 per kWh for most US locations.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "pass": 3
+   },
+   {
+    "quote": "; above 50,000 queries/month it reaches cost parity with cloud APIs in",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z",
+    "pass": 3
+   },
+   {
+    "quote": "For organizations processing more than 50,000 AI queries per month, private deployment typically reaches cost parity with cloud APIs within 3 to 6 months. For high-volume use cases exceeding 500,000 queries per month, private AI can be 10 to 50 times more cost-effective than cloud APIs.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z",
+    "pass": 3
+   },
+   {
+    "quote": "Entry-level hardware (single RTX 5090) costs $8,000 to $12,000 and draws approximately 400-600 watts under load, translating to roughly $50 to $100 per month in electricity. Mid-range deployments (dual GPU) cost $15,000 to $35,000 in hardware. Enterprise multi-GPU servers range from $100,000 to $500,000. Operating costs are primarily electricity at $0.10 to $0.15 per kWh for most US locations.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z",
+    "pass": 3
+   },
+   {
+    "quote": "; above 50,000 queries/month it reaches cost parity with cloud APIs in",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S",
+    "pass": 3
+   },
+   {
+    "quote": "For organizations processing more than 50,000 AI queries per month, private deployment typically reaches cost parity with cloud APIs within 3 to 6 months. For high-volume use cases exceeding 500,000 queries per month, private AI can be 10 to 50 times more cost-effective than cloud APIs.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S",
+    "pass": 3
+   },
+   {
+    "quote": "Entry-level hardware (single RTX 5090) costs $8,000 to $12,000 and draws approximately 400-600 watts under load, translating to roughly $50 to $100 per month in electricity. Mid-range deployments (dual GPU) cost $15,000 to $35,000 in hardware. Enterprise multi-GPU servers range from $100,000 to $500,000. Operating costs are primarily electricity at $0.10 to $0.15 per kWh for most US locations.",
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S",
+    "pass": 3
+   },
+   {
+    "quote": "2oo.one, for example, argues self-hosting can beat API pricing above a few million tokens a day",
+    "url": "https://www.lumay.ai/blogs/best-on-premise-llm-deployment-companies-us",
+    "pass": 3
+   },
+   {
+    "quote": "LuMay lists a production pilot in 4 to 8 weeks on its pricing page. Hardware lead times and security reviews can extend any vendor's timeline.",
+    "url": "https://www.lumay.ai/blogs/best-on-premise-llm-deployment-companies-us",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label",
+    "url": "https://eldoc.ai/blog/choose-any-llm-for-local-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "From SEO to campaigns, we craft data-driven marketing that amplifies your brand’s reach.",
+    "url": "https://www.webority.com/ai/enterprise/on-premise",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "28 On-Premise LLM Deployment Statistics (2026) — 28 On-Premise LLM Deployment Statistics (2026) DreamFactory https://www.dreamfactory.com > hub",
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ragent.me/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kneoedge.kneron.com/on-premise-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eldoc.ai/blog/choose-any-llm-for-local-deployment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/on-premises-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dataiku.com/blog/best-llms-for-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appscrip.com/blog/best-white-label-app-development-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/self-hosted-enterprise-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promptowl.ai/whitelabel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubrand.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://martech.org/why-your-company-needs-a-brand-llm-to-thrive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meii.ai/insights/custom-enterprise-llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cohere.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unlayer.com/blog/white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genaiprotos.com/blog/private-llm-deployment-for-enterprises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLM/comments/1od39ri/what_should_i_study_to_introduce_onpremise_llms/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumay.ai/blogs/best-on-premise-llm-deployment-companies-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llmconfigurator.com/en/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webority.com/ai/enterprise/on-premise",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label on-premise LLM platform for enterprise",
+   "results": [
+    "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "https://ragent.me/white-label",
+    "https://aenix.io/solutions/private-llm/",
+    "https://eldoc.ai/blog/choose-any-llm-for-local-deployment/",
+    "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "https://llmconfigurator.com/en/enterprise/on-premise-llm-deployment"
+   ]
+  },
+  {
+   "query": "on-premise LLM platform for enterprise white-label",
+   "results": [
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "https://www.allganize.ai/en/blog/on-premise-llm-deployment-guide",
+    "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://eldoc.ai/blog/choose-any-llm-for-local-deployment/",
+    "https://vdf.ai/on-premises-llm/",
+    "https://www.webority.com/ai/enterprise/on-premise"
+   ]
+  },
+  {
+   "query": "best white label on-premise LLM platform for enterprise providers",
+   "results": [
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://www.dataiku.com/blog/best-llms-for-business",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://appscrip.com/blog/best-white-label-app-development-companies/",
+    "https://www.amasatech.ai/blogs/best-private-llm",
+    "https://lenderkit.com/blog/top-white-label-crowdfunding-software-providers/",
+    "https://www.lumay.ai/blogs/best-on-premise-llm-deployment-companies-us"
+   ]
+  },
+  {
+   "query": "on-premise LLM platform for enterprise white label reseller agency",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://ibl.ai/blog/self-hosted-enterprise-ai-platform",
+    "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://vdf.ai/resources/on-premise-ai-agent-platform/",
+    "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "https://lety.ai/",
+    "https://www.webority.com/ai/enterprise/on-premise"
+   ]
+  },
+  {
+   "query": "on-premise LLM platform for enterprise rebrand your logo own brand",
+   "results": [
+    "https://ibl.ai/blog/best-self-hosted-enterprise-ai-platforms-2026",
+    "https://www.youtube.com/watch?v=WlvUUo9UMYg",
+    "https://www.allganize.ai/en/blog/custom-build-on-premise-large-language-model-applications-for-your-business",
+    "https://ubrand.com/",
+    "https://www.dataiku.com/blog/best-llms-for-business",
+    "https://martech.org/why-your-company-needs-a-brand-llm-to-thrive/",
+    "https://www.meii.ai/insights/custom-enterprise-llm/",
+    "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "https://www.teradata.com/platform/bring-your-own-llm",
+    "https://localllm.com/"
+   ]
+  },
+  {
+   "query": "on-premise LLM platform for enterprise private label SaaS",
+   "results": [
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://www.reddit.com/r/SaaS/comments/1n2ppax/looking_for_whitelabel_llmai_chat_solution_for/",
+    "https://cohere.com/",
+    "https://trillet.ai/blogs/best-white-label-saas-platforms-to-resell",
+    "https://kneoedge.kneron.com/on-premise-llm",
+    "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vKOjJFeR9RUHVkvxlQBSNYGL4oYS7Dgx6-k4Ik8fjbo4FVqu7A3",
+    "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "https://unlayer.com/blog/white-label-saas",
+    "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "https://genaiprotos.com/blog/private-llm-deployment-for-enterprises"
+   ]
+  },
+  {
+   "query": "on-premise LLM platform for enterprise white label partner program pricing",
+   "results": [
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://trillet.ai/whitelabel/pricing",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://www.dreamfactory.com/hub/on-premise-llm-deployment-statistics",
+    "https://promptowl.ai/whitelabel/",
+    "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vI6r0UG8sCSGJc4Su4oFU4Sd1-jRdCesBBcrYHvp4i9Z-AaV01z",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "https://www.allganize.ai/en/blog/enterprise-guide-choosing-between-on-premise-and-cloud-llm-and-agentic-ai-deployment-models",
+    "https://leanware.co/insights/white-label-llm-guide"
+   ]
+  },
+  {
+   "query": "on-premise LLM platform for enterprise white label company profitable",
+   "results": [
+    "https://ibl.ai/blog/on-premise-ai-platform-for-enterprise",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://promptowl.ai/whitelabel/",
+    "https://www.reddit.com/r/LocalLLM/comments/1od39ri/what_should_i_study_to_introduce_onpremise_llms/",
+    "https://www.premai.io/blog/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026/",
+    "https://www.dataiku.com/blog/best-llms-for-business",
+    "https://monday.com/blog/ai-agents/enterprise-llm/",
+    "https://petronellatech.com/blog/private-ai-deployment-guide-enterprise/?srsltid=AYCX9vJoZ33Weatge-YOLF9ic97DyG7h57J1jX9-QAQAEbu28CZHoX0S",
+    "https://vdf.ai/blog/on-premise-ai-platform-cost-tco-guide/",
+    "https://www.lumay.ai/blogs/best-on-premise-llm-deployment-companies-us"
+   ]
+  }
+ ],
+ "missing": {}
+}

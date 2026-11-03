@@ -1,0 +1,1746 @@
+{
+ "name": "問い合わせフォームの自動応答・振り分け",
+ "en": "AI form response automation",
+ "aliases": [
+  "inquiry routing AI",
+  "AI inbound inquiry triage",
+  "form automation",
+  "lead routing",
+  "inbound"
+ ],
+ "context": "お問い合わせ対応",
+ "kind": "market",
+ "researched_at": "2026-11-03T11:30:00.118380+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Detailed reporting on conversations, leads, sentiment, topics, and agent performance.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Manual top-up:",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS alternatives on the market",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The $50/agent/mo Advanced AI add-on on top of the $115 base means $165/agent/mo for full AI features — a 10-agent team costs $19,800/yr.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "KB retrieval: top-3 relevant articles fetched",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Email subject + body embedded. Cosine similarity search against tenant's kb_articles table (tenant_id-scoped index). Top-3 articles with similarity > 0.65 returned as context for draft generation.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "5. Draft generation: Retrieve top-3 KB articles via pgvector cosine similarity. Call GPT-5.4 mini (api.openai.com) with: email thread + KB context + brand voice (from tenant_settings.brand_voice text field). Store draft in email_drafts table.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Customer emails contain personal data. Sending that data to OpenAI (GPT-5.4 mini), DeepSeek, or Anthropic (Sonnet 4.6) makes those providers sub-processors under GDPR. Agency must maintain a sub-processor list, sign DPAs with each provider, and ensure processing stays within agreed regions.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS alternatives",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients want automation on top of their CRM. HubSpot, Pipedrive, Salesforce, or any platform they’re on. We build it.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients want automation on top of their Monday, Airtable, Asana, Notion, ClickUp, Jira or other tools. We build it.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies and SaaS platforms looking for a form builder with white label options can choose from six top solutions in 2026, each evaluated on branding depth, custom domain support, client management, and pricing transparency. This guide helps agencies reselling forms and SaaS teams embedding forms into their own products find the right fit beyond basic logo swaps.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile form timeouts are a silent conversion killer, cutting off interested leads before they can hit submit. This guide explains how to diagnose and fix every root cause of forms timing out on mobile — from session settings and autosave behavior to network-aware design — so high-growth teams can stop losing leads and start capturing them.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "This guide teaches you how to create qualifying questions that filter leads at the top of your funnel, so your sales team spends time only on high-intent prospects. From defining your ideal customer profile to building logic-driven forms with automatic lead scoring, you'll walk away with a scalable qualification system that improves conversion rates downstream.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "7 Proven Strategies to Find Cheaper Paperform Alternatives Without Sacrificing Power",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "This guide reveals seven proven strategies for finding Paperform Alternatives Cheaper Options that match or exceed Paperform's functionality — covering AI-powered lead qualification, workflow automation, and analytics depth — so marketing teams, agencies, and SaaS startups can cut form-builder costs without sacrificing conversion performance.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Here's how the leading platforms compare across the six criteria above. Every figure below reflects each vendor's own public positioning as of 2026; where a vendor keeps numbers behind a sales conversation, the table says so rather than guessing.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclr is a fully white-labeled embedded iPaaS with 600+ pre-built connectors and a low-code connector builder. It embeds a branded integration marketplace natively inside your product and also serves system integrators, not just SaaS vendors. That dual audience makes it flexible for agencies and platforms that resell integration services.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Pandium and Apideck: code-first and unified-API alternatives",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Albato Embedded is the strongest all-round choice for most SaaS products, because it combines 1,000+ native integrations, production-ready white-label AI agents, a multi-tenant MCP server, and SOC 2 Type 2 security. Paragon, Prismatic, and Workato Embedded are strong alternatives depending on your budget and how much you want to build in code.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely. Albato Embedded starts at $3,000/month on Starter, with white-labeling and advanced AI features from the Pro plan at $5,000/month. Most embedded competitors quote enterprise pricing on request, and enterprise-heavy platforms like Workato can run well into five or six figures a year.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-label platforms add the business infrastructure agencies need around the agents themselves, such as branded client access, multi-client management, reseller pricing, billing controls, and clearer separation between client environments.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Platforms like Botsify, Lety.ai, Stammer AI, Autocalls, and Evoriqa all allow agencies to set their own client pricing. Some use a markup model where the agency pays wholesale rates and charges clients a premium. Others use a flat platform fee where the agency keeps everything it charges above that fee.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Scroll to Top",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "conversions - they're losing to faster competitors.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Top 13 SaaS reseller programs compared",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies, freelancers, consultancies and IT service providers that already look after clients' websites, marketing, support or software. You add AI agents as a recurring service and keep the client relationship and the margin.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The caution is cost creep and one-step-removed quality control: real monthly costs (seats, snapshot overages, marketplace spend of $50 to $200 per client) land well above the headline, and fulfillment runs through Vendasta's marketplace vendors.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Real costs scale well past the headline price, fulfillment quality depends on third-party vendors, white labeling gated behind the Professional tier",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer AI is the purest white label AI agent play on this list: the entire product exists for agencies to sell AI chatbots and voice agents under their own brand. The dashboard, domain, and API are fully rebrandable, clients get sub-accounts with prepaid usage wallets, and a SaaS configurator lets the agency build its own subscription packages on top.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Typical Competitors",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Save 60-75% compared to building with separate API providers.",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "and other service providers often have to juggle appointment scheduling. AI",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Think sales on autopilot. AI voice agents can cold call, follow-up leads,",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Qualify leads on autopilot",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "🌍 Trusted worldwide by top businesses",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Platform",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "How much can a white label partner earn per client?",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Watch the language vendors use. Plenty of platforms describe themselves as white label when what they actually sell is distribution with a custom domain attached. If your clients still see the vendor's name in emails, notifications, or support, you are a reseller rather than an owner.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "a per-client agent, branded and grounded in that client's product, positioning, and objection handling, embedded with one script tag. Every session returns a transcript and a structured summary covering intent, topics raised, objections, and buying signals, which is both the client's insight and your quarterly review material.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Every client with a CRM is sitting on thousands of contacts they paid to acquire and then stopped contacting. Reactivation campaigns work that list with two-way SMS and AI voice calls, scoring who to contact and when, holding a real conversation with anyone who replies, and booking meetings straight onto a rep's calendar.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "- responses should come from the client's docs, pricing, and qualification criteria. Ask what stops the agent inventing an answer and what triggers a human handoff.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "A marketplace of third-party vendors rather than one coherent AI product",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Break-even lands on the first client, and by the tenth the platform is 2% of revenue. Usage sits on top of that and scales with conversation volume rather than client count. On published rates a chatbot conversation costs 10 credits, an AI generation costs 1 credit per 100 tokens, and an email costs 5 credits, so check current rates against your own expected volumes before you price.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "What stops a white label AI agent from saying something wrong to a client's customer?",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Stop leaving growth on the table.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Automate customer conversations for saas businesses with ConvoCore’s white-label platform.",
+    "url": "https://convocore.ai/ai-chatbot/saas",
+    "pass": 3
+   },
+   {
+    "quote": "Find and hire top talent in a flash",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Top 21 white label marketing software tools at a glance",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Top 21 white label marketing software tools: in detail",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta is an agency platform built around a marketplace of resold local marketing tools, with branded CRM, automation, billing, and client portals on top. It targets agencies serving small and local businesses.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile experience for clients trails desktop version",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile app lacks features available on desktop",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label SaaS reseller program on top tier",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS reseller program for agencies on top tier",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Get Market-Leading Conversion with Perspective Funnels™",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Hosting, tracking, CRM, and email sequences, all wired up automatically. Launch fast, then let it run on autopilot.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label the AI customer service platform trusted by leading e-commerce brands. Your clients see your name — not ours.",
+    "url": "https://www.withretailai.com/partners.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stop retyping what a machine should handle",
+    "url": "https://www.flowbots.ai/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "5-star reviews on autopilot",
+    "url": "https://www.flowbots.ai/white-label/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label AI Agents for Chat & Voice | Stammer AI",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Fully white label.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Their white-label AI solution is not only powerful and reliable but also fully customizable making it incredibly easy to align with our business goals.\"",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Brand, Your Domain",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain (agents.youragency.com)",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo, colors, and branding everywhere",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Clients log in at your domain, see your logo, and get support from your team.\"",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A rebrandable API lets you connect AI agents to your clients' existing CRMs, websites and apps.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Full API access with your branding",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label with Your Branding",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Add your custom domain, logo and color scheme to completely rebrand the entire platform to be your own.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Access our comprehensive white-label API with",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "No White Labeling",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label branding is available on Pro and Enterprise plans.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Email Response Automation White-Label | RapidDev",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label AI Email Response Automation Tool for Customer-Service Agencies",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Buy white-label SaaS or per-resolution tool",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Vendor owns the platform; limited rebrand options",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label tier — Intercom brand is non-negotiable in the agent experience",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-market CS agencies with 3–10 enterprise clients who want a managed inbox product with partial white-label capability",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$229/seat/mo (Enterprise) — OEM partner program available",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program is the closest to true white-label in the inbox-management category",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEM program has revenue minimums and requires Front's approval — not accessible for small agencies",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Brand control in the OEM program is partial — some Front UI elements persist",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Small SaaS companies with internal support teams of 2–10 agents who don't need white-label capability",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label or reseller program — Help Scout brand is visible in all customer-facing emails",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Automation Agency | Makeitfuture",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI automation for agencies",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "What does a white label AI automation partner do?",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Skip the six-month hiring process and the platform learning curve. Get instant access to over 20 certified experts specialising in every major automation and AI platform, ready to deliver solutions under your brand.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "100% white-labelled to your brand",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "white label support team",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "can continue behind your brand.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label services",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI agents & solutions",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Document AI and intelligent processing, available under your brand name",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label workflow automation",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label CRM automation",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot automation delivered under your brand",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label integrations & API development",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Connect any system your clients use. We build custom integrations, you deliver seamless solutions under your brand.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Best Form Builder With White Label Options in 2026",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Form Builders with White Label Options in 2026",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies and SaaS platforms looking for a form builder with white label options can choose from six top solutions in 2026, each evaluated on branding depth, custom domain support, client management, and pricing transparency. This guide helps agencies reselling forms and SaaS teams embedding forms into their own products find the right fit beyond basic logo swaps.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies, SaaS platforms, and high-growth teams increasingly need forms that look like their own product, not a third-party tool with someone else's logo in the corner. White label form builders let you strip away vendor branding, apply your own colors and domain, and deliver a seamless experience to your clients or end users.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "High-growth teams and agencies needing AI-powered lead qualification with native white label branding.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Most form builders treat white labeling and lead qualification as separate concerns. You apply your branding, then connect a third-party scoring tool, then wire everything together. Orbit AI collapses that stack. The AI lead qualification layer is native to the platform, which means you can build, brand, qualify, and deliver leads entirely within one product.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "For agencies managing client campaigns or SaaS teams embedding forms into their own product experience, this is a meaningful difference. You get custom domain support and full branding control alongside conversion-optimized form design, all under your own brand.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Branding with Custom Domain:",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Seamless Embedded Form Delivery:",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Large organizations needing comprehensive white label portals with client sub-account management.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "is one of the most established form platforms available, with a deep enterprise white label offering that goes well beyond simple logo removal.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "The tradeoff is accessibility. Full white label is strictly an enterprise-tier feature, which means it comes with custom pricing and a sales process rather than a self-serve signup. If you need white label on a smaller budget, Jotform isn't the most flexible option.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Domain and Branded Login Portal:",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Clients log in through a portal that carries your brand entirely, with no Jotform references visible.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Create and manage separate accounts for each client within your white label environment, keeping data and access cleanly separated.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Reseller Program",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell AI Usage",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Set your own prices and resell chat replies, voice minutes, and agents to clients.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients also get their own Sub-Account Wallet, where they pay you directly for usage. Example: You buy a GPT-4o chat response for $0.01 and resell it to your client for $0.05.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Front's OEM program has revenue minimums and brand-control requirements that limit reseller flexibility",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Help Scout and Zendesk AI don't offer white-label or reseller tiers — agents cannot rebrand the product for clients",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "CS agencies managing 5+ clients with combined monthly tickets over 10,000, where AI cost arbitrage is the margin thesis",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$229/seat/mo (Enterprise) — OEM partner program available",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program is the closest to true white-label in the inbox-management category",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label or reseller program — Help Scout brand is visible in all customer-facing emails",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No reseller program — an agency cannot white-label Help Scout output for client-facing dashboards.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "No white-label or reseller program",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Variable:",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Env vars: OPENAI_API_KEY, DEEPSEEK_API_KEY, NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Resell vFairs or Airmeet WL at $1K+/mo or hire RapidDev at $20K–$40K…",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "1,000+ client projects delivered. Columbia University & Harvard Business School alumnus, U.S. Navy veteran.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Chatbots and conversational AI ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Business process automation ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce process automation ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Internal tools and dashboards ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "A white label AI agency builds AI and automation solutions that other agencies resell under their own brand. Makeitfuture delivers white label AI agents, chatbots and automation services under your brand, so your clients only ever see your agency. You keep the client relationship and the pricing; we handle the build behind the scenes.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies and SaaS platforms looking for a form builder with white label options can choose from six top solutions in 2026, each evaluated on branding depth, custom domain support, client management, and pricing transparency. This guide helps agencies reselling forms and SaaS teams embedding forms into their own products find the right fit beyond basic logo swaps.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're an agency reselling forms to clients or a SaaS company embedding forms into your own product, there's an option here for you. We've also put together deeper guides on how to build effective web forms and form software for marketing agencies if you want to go further.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Where Typeform is less suited is for agencies managing many client accounts. The platform isn't architected around multi-client workspace management the way enterprise tools like Jotform are. It's better positioned for teams who want beautiful, branded forms for their own product or campaigns rather than a reseller infrastructure.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "\"White-label AI\" splits into two meanings: reselling an AI tool under your brand, versus embedding an AI action layer that runs inside your product. Most SaaS teams need the second.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclr is a fully white-labeled embedded iPaaS with 600+ pre-built connectors and a low-code connector builder. It embeds a branded integration marketplace natively inside your product and also serves system integrators, not just SaaS vendors. That dual audience makes it flexible for agencies and platforms that resell integration services.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely. Albato Embedded starts at $3,000/month on Starter, with white-labeling and advanced AI features from the Pro plan at $5,000/month. Most embedded competitors quote enterprise pricing on request, and enterprise-heavy platforms like Workato can run well into five or six figures a year.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "3. Reseller Pricing and Billing",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Can agencies resell AI agents under their own brand?",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between white labeling and reselling AI software?",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label depth varies considerably between platforms. Some provide a fully branded dashboard, custom domain, client workspaces, and billing controls, while others make white labeling available through a separate agency or partner program.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Botsify and Lety.ai combine white-label infrastructure with multi-client management, omnichannel deployment, and agency billing or reseller controls.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "BotPenguin provides white-label AI agents through its partner program rather than its standard chatbot plans.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "The exact level of white labeling varies by platform, so agencies should verify what clients actually see, how client accounts are managed, and whether the vendor remains visible anywhere in the customer experience.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller or billing controls",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies reselling both chat and voice AI agents",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label through partner program",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Via partner program",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner program with referral/resell/white-label paths",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Bill on your own Stripe; reseller plans from $79/mo (5 clients)",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies reselling AI customer support under their brand",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller and billing controls.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Chatbot Reseller Program for Agencies | Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Resell Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller pricing",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller deck (PDF)",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program for Agencies",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Modern AI Agents don't just talk, they work. Robofy's white label AI chatbot reseller program lets digital agencies, web developers, and IT consultants deliver custom-branded AI agents under their own logo and domain, while keeping 100% of client billing.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label chatbot reseller program?",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "chatbot reseller program lets agencies buy an AI chatbot platform, brand it with their own",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "logo and domain, and resell it to clients as their own product. With Robofy's white label",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "A two-minute look at what you get as a Robofy reseller: your branded panel, client workspaces and AI agents you can sell under your own name.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The White Label Chatbot Builder Built for Resellers",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "white label chatbot reseller",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "keep all revenue. No commissions, no revenue sharing. Your business, your margins.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "How agencies resell AI marketing agents under their own brand in 2026: deliverables, real margin math, and 5 white label platforms compared.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "What agencies actually resell",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Business models and margin math",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Zero revenue sharing (keep 100% of your profit)",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Breakeven vs buying",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Compare the engineering overhead, time-to-market, and long-term profit margins across common agency deployment strategies.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing & Profit Margins",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The full path to a profitable AI voice agency. Free.",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Effort = Profit 💰",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You focus on customers. We handle the tech. Set your prices, keep the profits, and grow.",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "profits",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "💰 Decide your profit margins",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Create pricing plans, set profit margins, and platform limitations",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Calculate Your Profit Margin",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Your Profit",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Per Minute Profit",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "We don't just give you the platform. We give you the path. The exact playbook agencies use to launch, win their first ten clients, and scale a profitable white-label voice AI business. No fluff. No theory. Just the moves that worked.",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, per plan, in the plan builder, which also shows your cost and profit per plan.",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "41% of agencies now run at least one AI agent in production, up from 9% in early 2025, with a median self-reported return of 3.2x and a bottom quartile below break-even at 0.7x (Digital Applied, 2026)",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": ", with a median self-reported return of 3.2x, though the bottom quartile sits below break-even at 0.7x (Digital Applied survey of 250 agencies, 2026, on a self-selected sample whose authors estimate true market adoption is 5 to 10 points lower). The structural pull behind that: Gartner expects up to",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Break-even lands on the first client, and by the tenth the platform is 2% of revenue. Usage sits on top of that and scales with conversation volume rather than client count. On published rates a chatbot conversation costs 10 credits, an AI generation costs 1 credit per 100 tokens, and an email costs 5 credits, so check current rates against your own expected volumes before you price.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Is white label AI profitable for a small agency?",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, and small agencies often move faster because they can launch one offer into an existing client without an internal approval cycle. Start with lead reactivation, since the client already paid to acquire the contacts and the result shows up in weeks. On a flat-fee plan, break-even usually lands on the first or second client.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Usage-based rebilling for white-label AI partners. Set your own margins, automate invoicing, and track profitability across all client accounts.",
+    "url": "https://www.flowbots.ai/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Best AI White Label Services to Resell & Profit in 2026",
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing the right white label partner is crucial, not just for brand alignment but for long-term success. Tools like Insighto AI, Jasper, and Pictory are redefining what’s possible with AI under your brand. By selecting feature-rich, customizable, and well-supported solutions, businesses can not only keep up with the pace of AI innovation but also lead it profitably and confidently!",
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Zero revenue sharing (keep 100% of your profit)",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients pre-load funds into their Sub-Account Wallet. Each time a chat agent sends a message or a voice agent takes a call, funds are deducted at the price you set. When their balance runs low, they add more funds to their wallet. 100% of these funds gets sent to you as new revenue.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Front OEM program requires partner agreement and revenue minimums — not accessible for agencies under $500K ARR.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Honest pricing: Albato Embedded starts at $3,000/month on the Starter tier, with full white-labeling and the advanced AI features available from the Pro plan at $5,000/month. Enterprise pricing is custom. It isn't the cheapest way to add a single chatbot, and it's more than a narrow point tool. It's priced as an integration-and-agent platform, which is what you're buying.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Markup on LLM tokens, MCP calls, setup fees; 4 revenue streams",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Botsify structures its billing around four revenue streams: subscriptions, token markup, MCP call markup, and setup fees. Agencies can mark up LLM tokens and MCP calls by 3x, 5x, 10x or whatever multiple they choose. Clients receive a single invoice under the agency’s brand, and free trials can be configured on the agency’s own terms (7, 14, or 30 days).",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": ": Set your own monthly or annual rates. Keep all client revenue; 0% commission.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "clients within 60 days. That worked out to $4,200 in monthly recurring revenue. Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "keep 100% of client revenue or pay a commission, how many client licenses and AI credits",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "“White-label AI voice agents turned into our biggest revenue stream. 28 clients, over $14k MRR, and it's all under our brand.”",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You can provision numbers directly in the platform in 150+ countries, or connect your own carrier via SIP.",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Median B2B SaaS gross revenue retention has fallen from 88% to 84% across the CY-22 to CY-25 benchmark period, so recurring revenue no longer defends itself just by being recurring (Benchmarkit, 2026)",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "AI-native tools priced above $250 a month hold 70% gross revenue retention against 23% for tools under $50, so price the outcome rather than the seat (ChartMogul, 2025)",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Only 36% of organizations have connected AI agents to trusted company content even though 96% say agents need it, which is the real quality gap in white label AI (Box 2026 State of AI, Harris Poll)",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "A white label SaaS platform for agencies lets you rebrand and resell software as your own. In 2026 the offers that earn real retainers are AI agents that do revenue work. Live website demos, SMS and voice reactivation, sub-minute inbound response, and churn recovery.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Box 2026 State of AI, Harris Poll",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "median gross revenue retention across B2B SaaS has fallen from 88% to 84%",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": ", and the 75th percentile from 95% to 91%, across the CY-22 to CY-25 benchmark period (Benchmarkit, 2026 B2B SaaS and AI-Native Metrics report). Recurring revenue still beats project revenue. It just no longer defends itself.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "tools priced under $50 a month hold just 23% gross revenue retention, while tools above $250 a month hold 70%",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "(ChartMogul, The SaaS Retention Report, roughly 200 AI-native companies, 2025). Underprice a white label AI offer and you will not have a recurring revenue business, you will have a churn problem with a logo on it.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Synup pricing starts at $34.99 per location per month with a 15% discount for annual billing. Add-ons for social media scheduling and analytics carry additional fees. A free demo is available.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "We took our agency to a seven-figures in revenue after just 4 months of using Perspective in our service.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "and resell at any margin the market supports. Most partners achieve 50-70% margins on AI services. significantly higher than typical agency service margins of 20-35%. The recurring nature of AI subscriptions creates predictable monthly revenue that compounds as the partner’s client base grows.",
+    "url": "https://www.flowbots.ai/white-label/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "We have plans starting at $49/mo. See our pricing for details.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Total AI-generated replies included per month. Additional replies billed at overage rates ($0.01 /message).",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Total AI voice conversation minutes included per month. Additional voice minutes billed at overage rates ($0.10 /min).",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Additional Chat Agents = $10 /month",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Add to Knowledge Base (1M Characters) = $5 /month",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Additional Voice Agents = $10 /month",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Additional Concurrent Calls = $15 /month",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer-service agencies serving 5–50 SMB clients who currently outsource Tier-1 email triage and want to undercut Intercom's per-resolution pricing",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Real products you can sign up for today — with current 2026 pricing, honest pros and cons.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Per-seat pricing adds up fast across 10+ clients with large support teams",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Reasonable pricing for small CS teams under 10 seats",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "7. Tenant settings: Admin can configure brand voice guidelines (textarea), logo, and per-tenant spend_cap_monthly (default $50). Log API costs per tenant per month in cost_logs table.",
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies and SaaS platforms looking for a form builder with white label options can choose from six top solutions in 2026, each evaluated on branding depth, custom domain support, client management, and pricing transparency. This guide helps agencies reselling forms and SaaS teams embedding forms into their own products find the right fit beyond basic logo swaps.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Free plan available; paid plans from $34/month. Enterprise white label pricing is custom and quote-based. Check",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Plans start from around $24/month; Agency plan pricing is available at",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "A form builder with calendar booking eliminates the costly handoff gap between lead capture and scheduling by letting prospects book a meeting the moment they convert. This guide compares the 8 best tools in 2026 across booking UX, lead qualification, automation, and pricing to help SaaS teams and agencies find the right fit.",
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "pass": 3
+   },
+   {
+    "quote": "Albato Embedded's entry tier starts at $3,000/month (Starter), with white-labeling from the Pro plan at $5,000/month.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Honest pricing: Albato Embedded starts at $3,000/month on the Starter tier, with full white-labeling and the advanced AI features available from the Pro plan at $5,000/month. Enterprise pricing is custom. It isn't the cheapest way to add a single chatbot, and it's more than a narrow point tool. It's priced as an integration-and-agent platform, which is what you're buying.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "It varies widely. Albato Embedded starts at $3,000/month on Starter, with white-labeling and advanced AI features from the Pro plan at $5,000/month. Most embedded competitors quote enterprise pricing on request, and enterprise-heavy platforms like Workato can run well into five or six figures a year.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Compare the 9 best AI SDR tools for outbound in 2026 by channel, database, and real pricing, plus how to connect them to your CRM without manual work.",
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "pass": 3
+   },
+   {
+    "quote": "3. Reseller Pricing and Billing",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer’s Agency Wallet lets agencies set their own prices for chat replies, voice minutes, and agents. Agencies can also charge setup fees and recurring subscriptions. The Pro plan includes five chat agents and five voice agents, with additional agents available for $10 per month each.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro White Label costs $99 per month and includes five chat agents, five voice agents, full white-label branding, reseller controls, advanced AI models, and access to all channels and connectors. Additional chat or voice agents cost $10 per month each.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency White Label costs $419 per month and includes 3,500 voice minutes, unlimited client sub-accounts, 1,000 parallel calls, custom branding and domain support, and client billing through the agency’s own Stripe account. Additional voice usage is charged at $0.09 per minute.",
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "chatbot platform, you set your own pricing, keep 100% of every payment your clients make,",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "The agency keeps selling marketing services at service prices while an agent does the production. Mid-market retainers run $2,500 to $10,000 per month; the AI platforms doing delivery cost $49 to $500 per month. Industry analyses of AI automation agencies put gross margins at 60 to 80 percent on this model, versus the 13 percent net margin the average traditional agency earned in 2025.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The agency sells a named AI agent (a support bot, a voice receptionist) as a productized unit. Stammer AI, built around this model, reports agencies typically charging $300 to $500 per month per agent plus a 3 to 5x markup on usage, against a $197 per month platform cost.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The urgency comes from pricing, not technology. As Promethean Research founder Nick Petroski writes in the firm's 2026 industry report: \"Some of the recent margin compression appears to be due to pricing pressure from clients expecting cheaper services due to AI advancements.\" Consulting firm",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Flat pricing protects margin as you grow; per-location, per-seat, or per-usage pricing means costs scale with your success. Model the cost at 3x your current client count.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", a performance agency ran half its accounts on Hyper and saw about 1.61x higher ROAS, 32 percent lower CPMs, and 20x faster creative testing than its human-run half. Across the base, 1,000+ customers manage 10M+ USD per month in ad spend, documented at",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Free 7-day trial, then 49 USD/month flat",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Agents execute the work rather than handing you software to operate, multi-client workspaces with shared templates, 1,000+ customers and 10M+ USD/month managed at",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing works on a wholesale-offset model. Plans start at $99 per month (Starter, co-branded only), with full white labeling from the $499 per month Professional tier; monthly wholesale product spend offsets the subscription fee. The economics come from marking up marketplace products, aimed at agencies serving 10+ local-business clients with fulfillment outsourced entirely.",
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Average partner: 10,000 - 50,000 minutes/month",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "$419/month + $0.09/min for additional minutes",
+    "url": "https://autocalls.ai/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "instant coverage across web forms, chat, SMS, WhatsApp, voice, and email, around the clock and in 30+ languages, with every response grounded in the client's own docs and pricing, plus a clean handoff at the moment a human adds value.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "- ask for SOC 2 posture, GDPR and CCPA handling, who the data processor is, what audit trail exists when an agent makes a decision affecting a customer, who owns the prompts and integrations you build, whether contact records and conversation history are exportable, and whether the vendor can change pricing or sell to your client directly.",
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Convocore runs one AI agent across your website, WhatsApp, Instagram and Messenger, trained on your own content, with lead capture and live handoff to your team. Plans start at $29 a month ($19 billed annually); phone answering is on Business at $99.",
+    "url": "https://convocore.ai/ai-chatbot/saas",
+    "pass": 3
+   },
+   {
+    "quote": "Typical agency pricing for saas automation is 800–2,000 per month depending on scope.",
+    "url": "https://convocore.ai/ai-chatbot/saas",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies typically charge $800–2,000/month for saas automation depending on scope. With ConvoCore's flat platform fee + usage, most agencies target 70%+ margins.",
+    "url": "https://convocore.ai/ai-chatbot/saas",
+    "pass": 3
+   },
+   {
+    "quote": "of the paid plans, card required. Annual plans start at $47/month (Base), $147/month (Grow), and $297/month (Expand). A/B testing on the first page unlocks on the Grow plan, and white-label branding controls sit on higher tiers. A custom Scale plan handles larger agencies with more workspaces and live funnels. There is also a",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot's white-label features sit on the Ultimate plan at $200/month with annual billing discounts. A 14-day free trial is available with no credit card. Lower-tier plans do not include white-label customization.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "All SE Ranking plans include white-label features and start at $65/month, with a 20% discount for annual billing. Free migration from competing tools is offered. A free trial is available before commitment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign uses tiered subscription pricing based on contact count, with the Agency Partner Program offering reseller rates. A 14-day free trial is offered. Branded reseller features require Partner Program enrollment.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "AgencyAnalytics offers tiered plans starting around $99/month per agency, with white-label features available on most plans. Pricing scales with the number of campaigns or client accounts. A free trial is offered.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta plans start at $99/month with annual billing discounts and free platform access for evaluation. Marketplace product margins vary by SKU. White-label features are available on every plan tier.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "SimpleTexting starts at $39/month for 500 credits with credit-based pricing scaling by volume. White-label features sit inside the reseller partner program with custom pricing. A free trial is available before signup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Mention plans start at $41/month, with higher tiers offering more sources and team seats. A 14-day free trial and live demos are available. White-label features are gated behind paid tiers.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sendible plans start around $29/month, with white-label features on higher agency tiers and annual billing discounts. A free trial is offered. White-label customization includes custom domain, logo, and login page setup.",
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.typeform.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/automation/comments/1kjc6cb/using_no_code_tools_or_white_labeling_for_an_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://stammer.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makeitfuture.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabeliq.com/white-label-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axeautomation.co/white-label-ai-agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autocalls.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/sb/app/rebrand-ai-logo-maker/id6737123019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/Is-there-an-AI-tool-that-can-rebrand-a-logo-that-I-already-have-automatically",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://medium.com/write-a-catalyst/i-asked-chatgpt-to-rebrand-our-agency-and-it-actually-worked-d0ba01fd8bc3",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lovart.ai/ja/blog/how-to-use-ai-for-brand-refresh-rebrand",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://convocore.ai/ai-chatbot/saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withretailai.com/partners.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flowbots.ai/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-label.com/guides/white-label-lead-generation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flexxable.com/white-label-ai-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.byvoice.io/blog/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/white-label-ai-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/best-ai-white-label-services/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "white label AI form response automation",
+   "results": [
+    "https://www.typeform.com/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/",
+    "https://www.reddit.com/r/automation/comments/1kjc6cb/using_no_code_tools_or_white_labeling_for_an_ai/",
+    "https://stammer.ai/",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://commplify.ai/best-white-label-ai-agent-platforms/",
+    "https://asyntai.com/white-label-automation-software/",
+    "https://www.unite.ai/best-white-label-ai-tools/"
+   ]
+  },
+  {
+   "query": "AI form response automation white-label",
+   "results": [
+    "https://www.rapidevelopers.com/ai-implementation/ai-based-email-response-automation-tool-ai-white-label",
+    "https://www.makeitfuture.com/white-label",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://www.linkedin.com/posts/whitelabel-ai-agency_the-owner-of-a-web-agency-we-work-with-doesnt-activity-7513480751548669952-HP99",
+    "https://orbitforms.ai/blog/form-builder-with-white-label-options",
+    "https://www.jotform.com/help/how-to-whitelabel-ai-agents/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.unite.ai/best-white-label-ai-tools/",
+    "https://www.automationtitan.net/blog-white-label-ai-automation-agencies"
+   ]
+  },
+  {
+   "query": "best white label AI form response automation providers",
+   "results": [
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://www.typeform.com/",
+    "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://axeautomation.co/white-label-ai-agency",
+    "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "https://worldmetrics.org/best/white-label-ai-software/",
+    "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/"
+   ]
+  },
+  {
+   "query": "AI form response automation white label reseller agency",
+   "results": [
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.whitelabeliq.com/white-label-ai-services/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://axeautomation.co/white-label-ai-agency",
+    "https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://autocalls.ai/white-label",
+    "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/"
+   ]
+  },
+  {
+   "query": "AI form response automation rebrand your logo own brand",
+   "results": [
+    "https://play.google.com/store/apps/details?id=hubx.logo.ai",
+    "https://apps.apple.com/sb/app/rebrand-ai-logo-maker/id6737123019",
+    "https://www.quora.com/Is-there-an-AI-tool-that-can-rebrand-a-logo-that-I-already-have-automatically",
+    "https://www.typeform.com/",
+    "https://medium.com/write-a-catalyst/i-asked-chatgpt-to-rebrand-our-agency-and-it-actually-worked-d0ba01fd8bc3",
+    "https://www.lovart.ai/blog/how-to-use-ai-for-brand-refresh-rebrand",
+    "https://www.youtube.com/watch?v=DrlclKW2O-8",
+    "https://brandyhq.com/blog/best-automated-branding-solutions/",
+    "https://rebrand.com/ai/",
+    "https://rebrandapp.ai/"
+   ]
+  },
+  {
+   "query": "AI form response automation private label SaaS",
+   "results": [
+    "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://www.typeform.com/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://convocore.ai/ai-chatbot/saas/intake-forms",
+    "https://www.krishangtechnolab.com/blog/white-label-ai-agents/"
+   ]
+  },
+  {
+   "query": "AI form response automation white label partner program pricing",
+   "results": [
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.withretailai.com/partners.html",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://www.flowbots.ai/white-label/",
+    "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "https://sales-label.com/guides/white-label-lead-generation",
+    "https://botpenguin.com/blogs/best-white-label-partner-program"
+   ]
+  },
+  {
+   "query": "AI form response automation white label company profitable",
+   "results": [
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://flexxable.com/white-label-ai-services/",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.byvoice.io/blog/white-label-ai-software",
+    "https://axeautomation.co/white-label-ai-agency",
+    "https://www.vendasta.com/blog/white-label-ai-software/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://insighto.ai/blog/best-ai-white-label-services/",
+    "https://parallellabs.app/best-ai-white-label-software-the-complete-guide-for-agencies-and-service-providers-who-want-to-resell-ai-without-building-from-scratch/"
+   ]
+  }
+ ],
+ "missing": {}
+}
