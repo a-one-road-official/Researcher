@@ -9,7 +9,7 @@ topics:
   bundle_bench: {run: false, shards: 3, per_run: 3}
   ir1000: {run: true, shards: 12, per_run: 8}
   am_flow: {run: true, shards: 8, per_run: 10}
-  whitelabel: {run: true, shards: 8, per_run: 3}
+  whitelabel: {run: true, shards: 8, per_run: 3}  # 2026-11-03 追加24品目＋ゼロ9品目やり直し
   materials_growth: {run: true, shards: 8, per_run: 3}
   carmaker_sidebiz: {run: true, shards: 8, per_run: 4}
   mfg_platforms: {run: true, shards: 8, per_run: 5}

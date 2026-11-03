@@ -24,5 +24,10 @@ external_queries:
   - "{en} rebrand your logo custom domain"
   - "{en} Japan Japanese"
   - "{name} 日本"
+  - "{en} OEM partnership"
+  - "{en} partner program pricing"
+  - "{name} OEM提供"
+  - "{name} 代理店募集"
+  - "{en} distributor Japan"
 
-limits: {pages: 40, external_per_query: 5, per_cat: 15}
+limits: {pages: 60, external_per_query: 5, per_cat: 15}

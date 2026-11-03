@@ -1,11 +1,11 @@
 品目,英語名,別名,文脈
 ホワイトラベルAIチャットボット,white label AI chatbot,white-label AI chatbot;white label chatbot;whitelabel chatbot,問い合わせ対応
 ホワイトラベルAI電話受付,white label AI voice agent,white-label AI receptionist;white label AI phone agent;white label voice AI,電話受付
-ホワイトラベルAI議事録,white label AI meeting notes,white-label meeting transcription;white label AI notetaker;white label transcription,会議・商談
+ホワイトラベルAI議事録,white label AI meeting notes,white-label meeting transcription;white label AI notetaker;white label transcription;AI notetaker;meeting assistant;transcription API;meeting notes,会議・商談
 ホワイトラベルAIエージェント作成ツール,white label AI agent builder,white-label AI agent platform;white label AI agents;white label no-code AI agent,AIエージェント
-ホワイトラベル社内ナレッジAI,white label AI knowledge base,white-label AI assistant for documents;white label chat with documents;white label RAG,社内文書
-ホワイトラベル見積・提案書作成,white label proposal software,white-label quote software;white label quoting tool;white label proposal generator,見積・提案
-ホワイトラベルAIメール対応,white label AI email assistant,white-label email automation;white label AI inbox,メール対応
+ホワイトラベル社内ナレッジAI,white label AI knowledge base,white-label AI assistant for documents;white label chat with documents;white label RAG;knowledge base AI;AI knowledge assistant;chat with your documents;enterprise search,社内文書
+ホワイトラベル見積・提案書作成,white label proposal software,white-label quote software;white label quoting tool;white label proposal generator;proposal software;quoting software;quote builder,見積・提案
+ホワイトラベルAIメール対応,white label AI email assistant,white-label email automation;white label AI inbox;AI email assistant;email automation;AI inbox;email agent,メール対応
 ホワイトラベル予約・日程調整,white label scheduling software,white-label booking software;white label appointment scheduling,予約
 ホワイトラベル中小向けCRM,white label CRM,white-label CRM for agencies;white label marketing platform;GoHighLevel white label,顧客管理
 ホワイトラベルWebサイト作成,white label website builder,white-label website builder;white label site builder,ホームページ
@@ -16,10 +16,34 @@
 ホワイトラベル電子契約,white label e-signature,white-label electronic signature;white label esign,契約
 ホワイトラベル研修・eラーニング,white label LMS,white-label learning platform;white label online course platform,研修
 ホワイトラベル翻訳,white label translation software,white-label AI translation;white label translation platform,翻訳
-ホワイトラベル3Dビューア,white label 3D product configurator,white-label 3D viewer;white label product configurator;white label 3D configurator,製品紹介
-ホワイトラベルAR製品表示,white label AR product visualization,white-label augmented reality;white label AR viewer,製品紹介
-ホワイトラベル請求書・帳票読み取り,white label OCR invoice,white-label document processing;white label invoice OCR;white label IDP,帳票
+ホワイトラベル3Dビューア,white label 3D product configurator,white-label 3D viewer;white label product configurator;white label 3D configurator;3D configurator;product configurator;3D viewer;3D product viewer,製品紹介
+ホワイトラベルAR製品表示,white label AR product visualization,white-label augmented reality;white label AR viewer;AR viewer;augmented reality;WebAR;AR platform,製品紹介
+ホワイトラベル請求書・帳票読み取り,white label OCR invoice,white-label document processing;white label invoice OCR;white label IDP;invoice OCR;document processing;intelligent document processing;OCR API,帳票
 ホワイトラベル問い合わせ窓口,white label help desk software,white-label helpdesk;white label customer support software;white label ticketing,サポート
 ホワイトラベル業務自動化,white label workflow automation,white-label automation platform;white label Zapier alternative;white label integration platform,自動化
-ホワイトラベル商談AI,white label sales call AI,white-label conversation intelligence;white label sales coaching AI;white label call recording AI,商談
-ホワイトラベル文章から3D,white label text to 3D,white-label text-to-CAD;white label AI 3D model generator;white label AI design tool,設計（専門知識不要のものだけ）
+ホワイトラベル商談AI,white label sales call AI,white-label conversation intelligence;white label sales coaching AI;white label call recording AI;conversation intelligence;call recording;sales coaching,商談
+ホワイトラベル文章から3D,white label text to 3D,white-label text-to-CAD;white label AI 3D model generator;white label AI design tool;text to 3D;text-to-CAD;AI 3D model,設計（専門知識不要のものだけ）
+ホワイトラベル生産管理（中小製造業向け）,white label manufacturing ERP,white-label production management;white label MES;manufacturing ERP;production planning software;MES;生産管理システム;生産管理,製造業・生産管理
+ホワイトラベル見積AI（町工場・切削・板金）,white label CNC quoting software,white-label manufacturing quoting;instant quote manufacturing;CNC quoting;sheet metal quoting;quoting software;見積システム;自動見積,製造業・見積
+ホワイトラベル3Dプリント見積・受注,white label 3D printing quoting,white-label 3D print instant quote;3D printing order management;3D print quoting;instant quote;3Dプリント 見積,製造業・AM受注
+ホワイトラベル3Dプリント造形管理（AM向けMES）,white label additive manufacturing MES,additive manufacturing software;AM workflow software;3D printing MES;build preparation;3D printing software,製造業・AM
+ホワイトラベル図面管理,white label drawing management software,white-label engineering document management;drawing management;CAD file management;PDM;図面管理,製造業・図面
+ホワイトラベルCADビューア・CAD組込み（OEM）,OEM CAD viewer SDK,white label CAD viewer;CAD SDK;CAD kernel OEM;embedded CAD;CAD viewer;3D CAD viewer,製造業・設計
+ホワイトラベル設備保全（CMMS）,white label CMMS,white-label maintenance management software;CMMS;maintenance management;preventive maintenance software;設備保全,製造業・保全
+ホワイトラベル予知保全・工場IoT,white label industrial IoT platform,white-label IIoT platform;IoT platform;predictive maintenance;industrial IoT;machine monitoring;稼働監視,製造業・IoT
+ホワイトラベル品質管理（QMS）,white label quality management software,white-label QMS;QMS software;quality management software;inspection software;品質管理,製造業・品質
+ホワイトラベル在庫・部品管理,white label inventory management software,white-label inventory software;inventory management;parts inventory;warehouse management;在庫管理,製造業・在庫
+ホワイトラベルAI画像検査,white label AI visual inspection,white-label machine vision;AI visual inspection;visual inspection;defect detection;外観検査,製造業・検査
+ホワイトラベル製品コンフィギュレーター（CPQ）,white label CPQ manufacturing,white-label configure price quote;CPQ;configure price quote;product configurator;見積・構成,製造業・営業
+ホワイトラベル作業マニュアル・技能伝承AI,white label work instructions software,white-label digital work instructions;work instructions;connected worker;SOP software;作業手順書;技能伝承,製造業・現場
+ホワイトラベル3Dスキャン処理ソフト,white label 3D scanning software,white-label photogrammetry;3D scanning software;photogrammetry;scan to CAD;reverse engineering software;3Dスキャン,製造業・スキャン
+ホワイトラベルCAE・シミュレーション（OEM）,OEM simulation software,white label simulation software;CAE OEM;simulation SDK;FEA software;cloud simulation;シミュレーション,製造業・設計
+ホワイトラベル生成設計・設計AI（OEM）,OEM generative design software,white label generative design;generative design;AI design software;design automation;設計自動化,製造業・設計
+ホワイトラベル調達・サプライヤー管理,white label supplier portal,white-label procurement software;supplier portal;procurement software;supplier management;調達,製造業・調達
+ホワイトラベル製造業マーケットプレイス,white label manufacturing marketplace,white-label B2B marketplace software;manufacturing marketplace;B2B marketplace;marketplace software;受発注プラットフォーム,製造業・受発注
+ホワイトラベルBIM・建築設計ソフト,white label BIM software,white-label architecture software;BIM;BIM software;architectural visualization;建築 BIM,建築
+ホワイトラベル建築・インテリア3D可視化,white label architectural visualization,white-label interior design software;architectural visualization;interior design software;3D floor planner;room planner,建築・デザイン
+ホワイトラベルノーコード業務アプリ,white label no-code app builder,white-label low-code platform;no-code app builder;low-code platform;internal tools;業務アプリ,業務
+ホワイトラベル生成AI基盤（企業向けChatGPT）,white label ChatGPT for business,white-label generative AI platform;white label LLM platform;ChatGPT alternative;private ChatGPT;enterprise AI assistant;生成AI,業務
+OEM提供SaaS（日本の提供会社）,Japanese SaaS OEM,OEM提供;OEM;ホワイトラベル;再販パートナー;販売代理店募集;自社ブランド,日本の提供会社
+ホワイトラベル代理店制度（日本のSaaS）,Japan SaaS reseller program,販売代理店;代理店募集;再販パートナー;リセラー;パートナープログラム;OEM,日本の提供会社
