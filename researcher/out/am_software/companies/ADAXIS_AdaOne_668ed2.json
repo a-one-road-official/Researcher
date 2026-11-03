@@ -1,0 +1,1245 @@
+{
+ "name": "ADAXIS AdaOne",
+ "en": "ADAXIS",
+ "aliases": [
+  "AdaOne",
+  "アダクシス"
+ ],
+ "context": "造形の準備（WAAM・ロボットアーム）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:30:44.730408+00:00",
+ "evidence": {
+  "日本の代理店": [
+   {
+    "quote": "MATERIAL SUPPLIER | Tokyo, Japan",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "TECHNOLOGY PROVIDER | Tokyo, Japan",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis | ロボット積層造形（AM）ソフトウェア | HDC株式会社",
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニポス(UNIPOS)はテガラ株式会社が運営する、",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "テガラ株式会社",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "2KM, based in Europe, specializes in dosing and mixing systems for industrial applications, including additive manufacturing. Their advanced metering technology ensures precise material control, optimizing production efficiency and consistency across a variety of industries.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Rock Hill, South Carolina, USA",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Palm City, Florida, USA",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Strasbourg, France",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Istanbul, Turkey",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Suisio, Italy",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Castello di Godego, Italy",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Milano, Italy",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Delft, Netherlands",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Nagoya, Japan",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Montreal, Canada",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Seattle, Washington, USA",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "RESELLER / INTEGRATOR | Exeter, UK",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Rockford, Illinois, USA",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "HARDWARE OEM | Barre, Vermont, USA",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Education Partner Program",
+    "url": "https://www.helioadditive.com/products/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Material Partner Program",
+    "url": "https://www.helioadditive.com/products/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Partner Program",
+    "url": "https://www.helioadditive.com/products/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Layer times vary dramatically — a thin feature cools very differently from a thick wall.",
+    "url": "https://www.helioadditive.com/products/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Are there any discounts available?",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "No, there are no discounts for Standard or Startup / Academic licenses. Our pricing is fair and transparent for all businesses, with the same conditions applied equally.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "to customize and optimize their robotic additive manufacturing workflows. Below are real-world videos showcasing how users across various industries are using AdaOne to unlock the full potential of multi-axis 3D printing.",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://rapidfusion.co.uk/pages/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "- examples of various objects",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping, taxes, and discount codes calculated at checkout.",
+    "url": "https://massivedimension.com/blogs/news/the-perfect-companion-for-your-3d-printing-manufacturing-cell-adaxis-adaone?srsltid=AYCX9vIbQRPAAS1qzbZoLScWP6NGXFAzn7wLQFsZq7ikjLvuHzl2PcT2",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing is a manufacturing process that allows industrial sites to be more flexible, capable of producing a wide variety of parts on demand. These new factories, called \"micro-factories\", are much smaller units and are closer to the consumer. This simplifies storage and transportation issues. 3D printing also opens up new perspectives in repair methods, which are much more efficient and agile.",
+    "url": "https://newfundcap.com/company/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping, taxes, and discount codes calculated at checkout.",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacture functional parts directly, especially those with complex geometries difficult or costly for CNC alone, using various metals (via Wire Arc or Laser Metal Deposition) or engineering plastics/composites.",
+    "url": "https://www.dsi-mfg.com/adaone",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping, taxes, and discount codes calculated at checkout.",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "pass": 3
+   },
+   {
+    "quote": "Addition of machining margins.",
+    "url": "https://platform.softwareone.com/product/adaone/PCP-6674-2988",
+    "pass": 3
+   },
+   {
+    "quote": "Vary process settings locally.",
+    "url": "https://platform.softwareone.com/product/adaone/PCP-6674-2988",
+    "pass": 3
+   },
+   {
+    "quote": "Partner programs",
+    "url": "https://platform.softwareone.com/product/adaone/PCP-6674-2988",
+    "pass": 3
+   },
+   {
+    "quote": "Your highest margin goods",
+    "url": "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "pass": 3
+   },
+   {
+    "quote": "Add machining margins",
+    "url": "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "pass": 3
+   },
+   {
+    "quote": "Vary process settings locally",
+    "url": "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS is proud to announce our active participation in the DISCMAM project, a groundbreaking initiative funded by the European Commission through the European Defense Fund with an investment of 3.67 million euros over three years. This project, launched at LORTEK in...",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping, taxes, and discount codes calculated at checkout.",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "pass": 3
+   },
+   {
+    "quote": "Showcasing Variable Bead Width: ADAXIS x Massive Dimension",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS is proud to announce our active participation in the DISCMAM project, a groundbreaking initiative funded by the European Commission through the European Defense Fund with an investment of 3.67 million euros over three years. This project, launched at LORTEK in...",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS develops a single software platform that can be used to drive a variety of robotic arms, turning them into large-scale 3D printers that work with metals, plastics, composites and concrete. It solves the challenge of retrofitting sophisticated robots that were created for a specific manufacturing task, allowing them to operate with the flexibility of a 3D printer.",
+    "url": "https://www.eit.europa.eu/news-events/news/eit-manufacturing-takes-key-stake-start-adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Adaptability and Scalability: Offering flexibility for varying production requirements and scalability for future growth.",
+    "url": "https://3dprint.com/306388/adaxis-navigating-robotic-additive-manufacturing-with-a-us-market-focus/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Book a demo",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": ", Paris. Engage with experts, witness live demonstrations, and explore the innovative possibilities unlocked by AdaOne for Flexbot.",
+    "url": "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "How can I get a demo of AdaOne?",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The easiest way is to email us or book a demo session. In just 45 minutes, we’ll guide you through a live, interactive demo of AdaOne, ensuring it meets your needs. If you prefer, you can also reach out to one of our certified partners, who will be happy to assist you.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "No problem! If your machine isn’t ready yet, you can request a free trial license to familiarize yourself with AdaOne and its environment. We generally recommend starting your commercial license about two weeks before your machine goes live. This ensures a smooth, fully optimized launch without wasting any time.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "How do I know if I qualify for the startup or academic plan?",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The academic plan is available for universities, research centers, schools, and technical colleges and must be used for non-commercial purposes like teaching, research, and academic projects. Institutions must also provide regular public updates on how they use AdaOne.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "No, there are no discounts for Standard or Startup / Academic licenses. Our pricing is fair and transparent for all businesses, with the same conditions applied equally.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic / Startup",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://www.caplight.com/company/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://adaxis.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Online Demo",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid manufacturing is powerful but it often breaks down on one painfully human step: manual alignment. ADAXIS set out to remove that bottleneck with a scan-to-print hybrid manufacturing workflow developed in AdaOne, demonstrated live at",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "“Manual probing-based calibration can take hours. With scan-based automation, we demonstrated part-to-toolpath calibration in under 30 seconds, which completely changes what scalable hybrid manufacturing looks like.”",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to revolutionize your manufacturing process with AdaOne? Contact our team of experts at DSI for a personalized demonstration, pricing information, or to discuss your specific needs.",
+    "url": "https://www.dsi-mfg.com/adaone",
+    "pass": 3
+   },
+   {
+    "quote": "Book a Demo",
+    "url": "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "pass": 3
+   },
+   {
+    "quote": "Academic / Startup プラン",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne - Academic/Startup",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "：Academic/Startup / Standard / Enterprise",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne Free Version - ADAXIS",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne Free Version",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne now has a free version!",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "To request your free version of AdaOne, simply fill out the form on our new",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne Free Version - Additive Manufacturing",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne Free Version",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne Free Version - ADAXIS",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne now has a free version!",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "To request your free version of AdaOne, simply fill out the form on our new",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Micro‑Epsilon is a German company specializing in high-performance 3D laser scanners (scanCONTROL series) used for inline quality inspection and robotic integration, delivering precise 3D point clouds at high speed.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup plan is for companies founded in the last three years, with annual revenue under €250,000 and less than €300,000 in external funding. Startups must also share regular public updates on their use of AdaOne.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Grew 23% QoQ, from 30 to 37 employees.",
+    "url": "https://www.caplight.com/company/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS's most recent funding round was Grant on July 4, 2022.",
+    "url": "https://www.caplight.com/company/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid 2+ R-series",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Fast 3D acquisition",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid 2+ R-series cameras",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "：設立3年以内の企業 (年間売上高：€250,000未満、外部資金調達額：€300,000未満)",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS, a robotics software company launched in early 2021, today announces that it has raised more than one million euros in pre-seed funding from",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS, a robotics software company launched in early 2021, today announces that it has raised more than one million euros in pre-seed funding from",
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "When ADAXIS, a start-up whose software can turn robots into 3D printers, announced the receipt of more than EUR 1 million in pre-seed funding, it was a victory for the company, but also an example of the ability of EIT Manufacturing to drive innovation in the manufacturing sector – both by building consortiums and by taking an active role as an investor.",
+    "url": "https://www.eit.europa.eu/news-events/news/eit-manufacturing-takes-key-stake-start-adaxis",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ADDiTEC, based in America, develops turnkey directed energy deposition (DED) systems for metal additive manufacturing. Their solutions, including compact wire and powder-based laser systems, enable high-quality metal part production for aerospace, defense, and industrial applications.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Based in France, AMFREE provides turnkey metal additive manufacturing solutions using patented laser-wire DED technology. Their integrated digital workflow—covering CAD/CAM, simulation, and monitoring—ensures high productivity and material quality. Serving industries such as aerospace, defense, and energy, they offer comprehensive support through service centers and material qualification.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Belotti S.p.A., based in Suisio, Italy, specializes in high-performance equipment for 3D printing and CNC machining. Their multi-axis solutions, including milling, waterjet, and ultrasonic cutting systems, serve industries like aerospace, automotive, and marine. Belotti’s advanced technology ensures precision and efficiency for large-scale manufacturing.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Breton, headquartered in Italy, provides turnkey additive and subtractive manufacturing solutions for large-scale industrial applications. Their hybrid manufacturing systems combine precision machining with advanced 3D printing capabilities, catering to aerospace, automotive, and construction industries.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Comau, an Italian robotics company, specializes in advanced automation solutions for manufacturing. Their robotic systems enable high-precision additive manufacturing, improving efficiency in industrial production lines across automotive, aerospace, and heavy industries.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI, headquartered in Asia, delivers turnkey hybrid manufacturing systems that integrate CNC machining with additive technologies. Their industrial solutions provide high-precision metal printing and finishing for aerospace, tooling, and medical applications.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Electroimpact, based in America, develops turnkey automated manufacturing systems for aerospace and industrial applications. Their expertise in composite fabrication and additive manufacturing enhances production efficiency for large-scale, high-precision components.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "FANUC is a global leader in industrial automation, offering high-precision robotic solutions suitable for 3D printing applications of materials like polymers, metals, and composites. FANUC robots are used in large-scale 3D printing across industries such as aerospace, construction, and automotive, delivering high repeatability and reliability.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Ingersoll, based in America, develops turnkey additive manufacturing solutions for large-scale applications. Their MasterPrint® series enables the production of high-performance composite and metal parts for aerospace, defense, and industrial sectors.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "KFM, based in Sweden, specializes in advanced machining and automation solutions for industrial manufacturing. They provide high-precision tools, robotic integration, and custom engineering services to optimize production efficiency. Serving industries such as aerospace, automotive, and heavy machinery, KFM offers tailored solutions that enhance manufacturing capabilities and automation processes.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic offers robust industrial robotic systems tailored for welding and additive manufacturing. Their robots, combined with DTPS software, ensure precise motion control for processes like Wire Arc Additive Manufacturing. Known for seamless hardware–software integration, Panasonic solutions are ideal for demanding applications in automotive, infrastructure, and heavy industry.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "ShopBot, based in America, specializes in CNC and digital fabrication systems, including solutions for additive manufacturing. Their precision-driven machinery supports diverse industries, from aerospace tooling to custom manufacturing applications.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Based in the Czech Republic, TGS provides end-to-end manufacturing solutions, from concept to production. They specialize in machining technologies, custom tooling, and automation, with expertise in advanced materials like industrial plastics. TGS also supports sectors like healthcare by developing complete manufacturing processes for medical implants and specialized components.",
+    "url": "https://adaxis.eu/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime and Defense Systems",
+    "url": "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "If you purchase directly from ADAXIS, your invoice will come from ADAXIS USA Inc. if you are based in the USA or from ADAXIS SAS for customers in the rest of the world.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, a growing number of customers are leveraging",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER USE CASES:",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER INQUIRIES",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Profile",
+    "url": "https://www.caplight.com/company/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://adaxis.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://adaxis.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "AdaOne is used in countless applications around the world. Composite tooling, titanium aerospace components, stainless steel offshore structure, flexible part repair, and many more.",
+    "url": "https://adaxis.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Used by industry leaders, startups, researchers and solution providers",
+    "url": "https://adaxis.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defence",
+    "url": "https://rapidfusion.co.uk/pages/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://rapidfusion.co.uk/pages/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Enhancing Hybrid Manufacturing Workflows | ADAXIS",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Customers Stories",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Testimonials",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "pass": 3
+   },
+   {
+    "quote": "実際の導入事例",
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客導入事例：",
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal",
+    "url": "https://www.dsi-mfg.com/adaone",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Testimonials",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "DISCMAM marks first year with key milestones to boost on-site metal additive manufacturing to defense operations",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS is proud to announce our active participation in the DISCMAM project, a groundbreaking initiative funded by the European Commission through the European Defense Fund with an investment of 3.67 million euros over three years. This project, launched at LORTEK in...",
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Testimonials",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Tool Manufacturing with Belotti",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Over the past two decades, 3D printing has grown from a niche technology to being used in a wide range of industries, including aerospace, automotive, marine, and construction. Today, companies are looking for new, affordable, and efficient ways to leverage this technology to make larger and more advanced parts.",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "DISCMAM marks first year with key milestones to boost on-site metal additive manufacturing to defense operations",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS is proud to announce our active participation in the DISCMAM project, a groundbreaking initiative funded by the European Commission through the European Defense Fund with an investment of 3.67 million euros over three years. This project, launched at LORTEK in...",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial robotics | Aerospace Valley",
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "AEROSPACE VALLEY",
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable energy",
+    "url": "https://www.eit.europa.eu/news-events/news/eit-manufacturing-takes-key-stake-start-adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/306388/adaxis-navigating-robotic-additive-manufacturing-with-a-us-market-focus/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/306388/adaxis-navigating-robotic-additive-manufacturing-with-a-us-market-focus/",
+    "pass": 3
+   },
+   {
+    "quote": "Directed Energy Deposition",
+    "url": "https://3dprint.com/306388/adaxis-navigating-robotic-additive-manufacturing-with-a-us-market-focus/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Large-format additive manufacturing (LFAM) is rapidly becoming a strategic enabler for more flexible, efficient, and localized production models. As manufacturers face increasing pressure to reduce lead times, cut material waste, and strengthen supply-chain resilience, [...]",
+    "url": "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Every AdaOne subscriber gets a dedicated expert (the same throughout the subscription) who specializes in your needs. We prioritize support via video calls and email, with direct access to the expert’s calendar for scheduling assistance. Support is available in English, French, German, and Spanish, while our partners can also assist in Hindi, Korean, Japanese, and Arabic.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Lock in a fixed rate for 5 years. Enjoy long-term pricing stability.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Save up to 33% with a yearly subscription. Pay less than monthly plans.",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "1 hour/month",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Billed €6,000 annually",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "4 hours/month",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "€1,000",
+    "url": "https://adaxis.eu/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "€6,000",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1 hour/month of dedicated support",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "€9,000",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "4 hours/month of dedicated support",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.14M",
+    "url": "https://www.caplight.com/company/adaxis",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis AdaOne Robotic Slicing Software Seat - 1 Year",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "pass": 3
+   },
+   {
+    "quote": "This product includes one AdaOne user seat for 12 months of software access. Specific functionality, modules, and robot integrations may depend on the purchased license and configured system.",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "pass": 3
+   },
+   {
+    "quote": "from $7,500.00",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "pass": 3
+   },
+   {
+    "quote": "€6,000",
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "pass": 3
+   },
+   {
+    "quote": "€9,000",
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis AdaOne Robotic Slicing Software Seat - 1 Year",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "pass": 3
+   },
+   {
+    "quote": "This product includes one AdaOne user seat for 12 months of software access. Specific functionality, modules, and robot integrations may depend on the purchased license and configured system.",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "pass": 3
+   },
+   {
+    "quote": "from $7,500.00",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "pass": 3
+   },
+   {
+    "quote": "：設立3年以内の企業 (年間売上高：€250,000未満、外部資金調達額：€300,000未満)",
+    "url": "https://www.unipos.net/products/adaone/",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis AdaOne Robotic Slicing Software Seat - 1 Year",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "pass": 3
+   },
+   {
+    "quote": "This product includes one AdaOne user seat for 12 months of software access. Specific functionality, modules, and robot integrations may depend on the purchased license and configured system.",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "pass": 3
+   },
+   {
+    "quote": "from $7,500.00",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial robotics - ADAXIS",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial robotics",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial robotics | Aerospace Valley",
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial robotics",
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Adaxis - Software for Robotics Hybrid Manufacturing — Adaxis - Software for Robotics Hybrid Manufacturing hdc3d.com https://hdc3d.com > adaxis-2",
+    "url": "https://hdc3d.com/adaxis-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS - Enhancing Hybrid Manufacturing Workflows - Zivid — ADAXIS - Enhancing Hybrid Manufacturing Workflows - Zivid Zivid 3D cameras https://www.zivid.com > adaxis-hybri...",
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis AdaOne Robotic Slicing Software Seat - 1 Year — Adaxis AdaOne Robotic Slicing Software Seat - 1 Year Massive Dimension https://massivedimension.com > adaxi...",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis AdaOne Robotic Slicing Software Seat - 1 Year — Adaxis AdaOne Robotic Slicing Software Seat - 1 Year Massive Dimension https://massivedimension.com > adaxi...",
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "pass": 3
+   },
+   {
+    "quote": "Adaxis | ロボット積層造形（AM）ソフトウェア | HDC株式会社 — Adaxis | ロボット積層造形（AM）ソフトウェア | HDC株式会社 hdc3d.com https://hdc3d.com > adaxis",
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial ... — ADAXIS raises €1M to combine 3D printing and industrial ... ADAXIS https://adaxis.eu > 2022/01/18 > adax...",
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises €1M to combine 3D printing and industrial ... — ADAXIS raises €1M to combine 3D printing and industrial ... Aerospace Valley https://www.aerospace-valley.com > a...",
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://adaxis.eu/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axis.com/partner/channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adaxes.com/purchase_resellers.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helioadditive.com/products/adaxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adaxis.eu/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adaxes.com/purchase.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/adaxis-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caplight.com/company/adaxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/104322/Adaxes/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://adaxis.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rapidfusion.co.uk/pages/adaxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://massivedimension.com/blogs/news/the-perfect-companion-for-your-3d-printing-manufacturing-cell-adaxis-adaone?srsltid=AYCX9vIbQRPAAS1qzbZoLScWP6NGXFAzn7wLQFsZq7ikjLvuHzl2PcT2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newfundcap.com/company/adaxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/adaxis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/adaxis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adaone.adaxis.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dsi-mfg.com/adaone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platform.softwareone.com/product/adaone/PCP-6674-2988",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products/adaone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/software/adaone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adaxes.com/download.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/portfolio-item/adaone-free-version/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextwaretech.com/products/adaxes-active-directory-automation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eit.europa.eu/news-events/news/eit-manufacturing-takes-key-stake-start-adaxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aquitaine-robotics.com/member/adaxis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/306388/adaxis-navigating-robotic-additive-manufacturing-with-a-us-market-focus/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ADAXIS reseller partner program",
+   "results": [
+    "https://adaxis.eu/partners/",
+    "https://www.axis.com/partner/channel-partner-program",
+    "https://www.adaxes.com/purchase_resellers.htm",
+    "https://fr.linkedin.com/company/adaxis-official",
+    "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/",
+    "https://www.youtube.com/watch?v=ymKDEd4Zrkc",
+    "https://www.helioadditive.com/products/adaxis",
+    "https://www.adlinktech.com/en/partner-program",
+    "https://massivedimension.com/blogs/news/the-perfect-companion-for-your-3d-printing-manufacturing-cell-adaxis-adaone?srsltid=AYCX9vJAFk6U68vtJhhUj5d20QU2YSYggCkjef_xxdzZTPZEsKrtU573",
+    "https://adaxis.eu/"
+   ]
+  },
+  {
+   "query": "ADAXIS pricing license",
+   "results": [
+    "https://adaxis.eu/pricing/",
+    "https://www.adaxes.com/purchase.htm",
+    "https://hdc3d.com/adaxis-2/",
+    "https://www.caplight.com/company/adaxis",
+    "https://www.capterra.com/p/104322/Adaxes/",
+    "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "https://www.instagram.com/reel/DH5ipC_KSMq/",
+    "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vJtBZlSn5VWvcNOqj0jmNXMWuaJDC7EP8mFS8sikp-acDezfrnq",
+    "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/"
+   ]
+  },
+  {
+   "query": "ADAXIS Japan distributor",
+   "results": [
+    "https://adaxis.eu/partners/",
+    "https://www.youtube.com/watch?v=ymKDEd4Zrkc",
+    "https://hdc3d.com/adaxis-2/",
+    "https://adaxis.eu/",
+    "https://rapidfusion.co.uk/pages/adaxis",
+    "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "https://massivedimension.com/blogs/news/the-perfect-companion-for-your-3d-printing-manufacturing-cell-adaxis-adaone?srsltid=AYCX9vIbQRPAAS1qzbZoLScWP6NGXFAzn7wLQFsZq7ikjLvuHzl2PcT2",
+    "https://newfundcap.com/company/adaxis",
+    "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/"
+   ]
+  },
+  {
+   "query": "ADAXIS AdaOne 代理店",
+   "results": [
+    "https://adaxis.eu/",
+    "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3",
+    "https://www.youtube.com/watch?v=h6-ZvhXQD7o",
+    "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "https://newfundcap.com/company/adaxis",
+    "https://www.youtube.com/watch?v=ymKDEd4Zrkc",
+    "https://hdc3d.com/ja/adaxis/",
+    "https://www.voxelmatters.directory/company/adaxis/",
+    "https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/",
+    "https://adaone.adaxis.eu/"
+   ]
+  },
+  {
+   "query": "ADAXIS AdaOne 価格",
+   "results": [
+    "https://adaxis.eu/pricing/",
+    "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT",
+    "https://hdc3d.com/ja/adaxis/",
+    "https://platform.softwareone.com/product/adaone/PCP-6674-2988",
+    "https://www.youtube.com/watch?v=ymKDEd4Zrkc",
+    "https://adaxis.eu/",
+    "https://www.dsi-mfg.com/adaone",
+    "https://evo3d.co.uk/pages/adaxis?srsltid=AYCX9vJ2lDMhkqjNc2CPafzKiYit7EVg1WTLjyFMl9TjaYZAqt0tKdZR",
+    "https://www.unipos.net/products/adaone/",
+    "https://www.f6s.com/software/adaone"
+   ]
+  },
+  {
+   "query": "ADAXIS free trial",
+   "results": [
+    "https://www.adaxes.com/download.htm",
+    "https://adaxis.eu/pricing/",
+    "https://adaxis.eu/2025/04/01/adaone-free-version/",
+    "https://www.adaxes.com/purchase.htm",
+    "https://www.capterra.com/p/104322/Adaxes/",
+    "https://www.youtube.com/watch?v=h6-ZvhXQD7o",
+    "https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vIH8CjcZb463A21uPsPmDAPoi8H2SRjzCjmc8sNySigkiBW7s7-",
+    "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "https://www.youtube.com/@adaxis",
+    "https://adaxis.eu/"
+   ]
+  },
+  {
+   "query": "ADAXIS company founded employees funding",
+   "results": [
+    "https://www.linkedin.com/company/adaxis-official/",
+    "https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/",
+    "https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics",
+    "https://newfundcap.com/company/adaxis",
+    "https://www.eit.europa.eu/news-events/news/eit-manufacturing-takes-key-stake-start-adaxis",
+    "https://www.aquitaine-robotics.com/member/adaxis",
+    "https://3dprint.com/306388/adaxis-navigating-robotic-additive-manufacturing-with-a-us-market-focus/",
+    "https://rocketreach.co/adaxis-profile_b709df70c4c2ae8a",
+    "https://mark43.com/press/faster-cheaper-younger-meet-30-under-30-rising-stars-of-enterprise-technology/",
+    "https://tracxn.com/d/companies/adaxis/__jZskUDOz8apTwn0b_jwF6HKHaTmDNFxSojkNjW9g3og"
+   ]
+  }
+ ],
+ "missing": {}
+}

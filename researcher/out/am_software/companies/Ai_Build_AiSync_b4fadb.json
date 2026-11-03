@@ -1,0 +1,632 @@
+{
+ "name": "Ai Build AiSync",
+ "en": "Ai Build",
+ "aliases": [
+  "AiSync",
+  "AI Build"
+ ],
+ "context": "造形の準備（大型・ロボットアーム）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:31:04.975317+00:00",
+ "evidence": {
+  "料金": [
+   {
+    "quote": "AI Builder credits come mostly from purchasing AI Builder capacity add-ons (providing monthly capacity). Some user licenses also provide many AI Builder credits per month up to November 2026.",
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "pass": 3
+   },
+   {
+    "quote": "* Based on pay-as-you-go billing, 1 Copilot Credit = $0.01.",
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "pass": 3
+   },
+   {
+    "quote": "** Based on yearly prepaid Tier 1 AI Builder add-on: Monthly capacity = 1 million AIBuilder credits, $500 per month.",
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "pass": 3
+   },
+   {
+    "quote": "5,000円以上のご購入で送料無料（沖縄は10,000円以上）",
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格 : 10,000",
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "pass": 3
+   },
+   {
+    "quote": "円 (税込11,000",
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "pass": 3
+   },
+   {
+    "quote": "LINE会員価格として通常価格から5%OFFでご購入いただけます",
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "pass": 3
+   },
+   {
+    "quote": "※5％OFF価格は、ログイン後、カート画面でご覧いただけます",
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "pass": 3
+   },
+   {
+    "quote": "税込11,000円以上で送料無料 | 代引手数料無料",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "14,300円",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "(税込15,730円)",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "66,700円",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "67,000円",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "68,400円",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "82,500円",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "52,500円",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "¥11,120",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "12,190円",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "9,630円",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "11,550円",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "11,380円",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "9,080円",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "10,790円",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "Softgen: 12+ models, managed Supabase, GitHub export — at $25/mo.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "$25/mo",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "$25–$100/mo",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude 4.5, GPT-5.4, Gemini 3.1 Pro, Kimi, Qwen and more. No other builder lets you choose at this price.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "AI Builder capacity add-ons can only be purchased as a renewal or true-up by existing customers. New customers must purchase Copilot Credits to run AI Builder features.",
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "pass": 3
+   },
+   {
+    "quote": "Existing customers",
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "pass": 3
+   },
+   {
+    "quote": ". Customers who purchased or renewed eligible licenses",
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "pass": 3
+   },
+   {
+    "quote": "Global Automotive OEM",
+    "url": "https://ai-build.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://ai-build.com/",
+    "pass": 3
+   },
+   {
+    "quote": "同シリーズの次世代モデルである「medium」と「large」は、自動車や航空産業などの大量生産に向けた完全自律型の主力ソリューションとなる",
+    "url": "https://www.cadjapan.com/news/2023/d20230130_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Idea to paying customers in 8 days",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "I went from idea to paying customers in just 8 days with this tool. It captures exactly what I want to create and delivers a stunning, fully functional web app.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "You have earned a loyal customer.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "I really like both your pricing model and your platform. In fact, I like it so much that I bought more credits so I can keep testing other options for my project. You have earned a loyal customer.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Find market angles, customer notes, and brand direction.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Global Automotive OEM",
+    "url": "https://ai-build.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EV OEM",
+    "url": "https://ai-build.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Start A Free Trial",
+    "url": "https://ai-build.com/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required · Free trial credits included",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial · no card",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial included",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "These aren't demos. They're live businesses shipped by founders and creators from our community of",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial credits, no card needed. Upgrade to Starter when you want GitHub, publishing, and full model choice.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "No credit card required · Free trial credits · Upgrade anytime",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Series A（2023-10）",
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "pass": 3
+   },
+   {
+    "quote": "SE3（法人民称: SE3 Labs GmbH）は、2023年に設立されたドイツ・ミュンヘン発の空間AI（Spatial AI）ディープテック企業です",
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "pass": 3
+   },
+   {
+    "quote": "Waniwani（Waniwani Inc.）は、2026年に設立され、米国サンフランシスコに本社（NY・パリにオフィス）を置くフィンテック・AIスタート...",
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ramp（Ramp Business Corporation）は、2019年に米国ニューヨークで設立されたフィンテック企業です",
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "pass": 3
+   },
+   {
+    "quote": "Apoha（Apoha Limited）は、2021年に設立された英国ロンドンおよび米国サンフランシスコを拠点とするディープテック・AIスタートアップであ...",
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tilt（法人名：Retro Labs Ltd.）は、2021年に英国ロンドンで設立されたZ世代向けのライブオークション型コマースプラットフォームです",
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.aimex.co.jp/product/bw-220series/",
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "pass": 3
+   },
+   {
+    "quote": "Idea to paying customers in 8 days",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "I went from idea to paying customers in just 8 days with this tool. It captures exactly what I want to create and delivers a stunning, fully functional web app.",
+    "url": "https://softgen.ai/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "運営会社：株式会社ビジコム",
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIMEX 正規販売代理店だから、公式サポート付きで安心！",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "運営者：株式会社 エフケイシステム",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アイメックス AIMEX AiSync データコレクタ BW-220シリーズ ... — アイメックス AIMEX AiSync データコレクタ BW-220シリーズ ... エフケイシステムストア https://www.fksystem.com > ... > オプション品",
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "pass": 3
+   },
+   {
+    "quote": "KUKA Systems社が Ai Build 社との共同開発による「AMCell ... — KUKA Systems社が Ai Build 社との共同開発による「AMCell ... CAD Japan.com https://www.cadjapan.com > ニュース > 2023年",
+    "url": "https://www.cadjapan.com/news/2023/d20230130_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Build Secures $8.5 Million in Series A Funding to ... — Ai Build Secures $8.5 Million in Series A Funding to ... Manufacturing Today https://manufacturing-today.com > ai-...",
+    "url": "https://manufacturing-today.com/news/ai-build-secures-8-5-million-in-series-a-funding-to-revolutionize-additive-manufacturing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.articsledge.com/post/ai-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1min.ai/how-does-an-ai-reseller-program-work",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.make.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/ai-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xamplify.com/reseller-partner-program-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.make.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zylo.com/blog/ai-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://softwarepricing.com/blog/ai-software-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1qhgawn/how_are_you_pricing_your_ai_product/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/ai-platform-customization-companies/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-dev.com/skills/ai/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.gmo/en/news/article/gmo-unitree/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/ai-build.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/gpt/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6789",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-technology.co.jp/agency/faq-for-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aisync.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poscenter.jp/aimex/aisync.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fksystem.com/product.php?id=176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20230130_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.123market.jp/product/A0X00AY/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/2255800985590978.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://softgen.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/use-cases/free-ai-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anything.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://felloai.com/ai-free-trials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/smallbusinessesowners/comments/1sk3dj9/i_tested_free_ai_tools_to_build_a_website_from/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://manufacturing-today.com/news/ai-build-secures-8-5-million-in-series-a-funding-to-revolutionize-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/build-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrtechfeed.com/ai-powered-recruiting-startup-lands-20-million/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/michaelashley/2025/02/17/the-future-is-solo-ai-is-creating-billion-dollar-one-person-companies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ai Build reseller partner program",
+   "results": [
+    "https://www.articsledge.com/post/ai-reseller-programs",
+    "https://1min.ai/how-does-an-ai-reseller-program-work",
+    "https://www.make.com/partners",
+    "https://customgpt.ai/ai-partner-program/",
+    "https://xamplify.com/reseller-partner-program-software/",
+    "https://reclaim.ai/blog/saas-partner-programs",
+    "https://www.cloudeagle.ai/blogs/software-reseller-programs",
+    "https://www.getdynamiq.ai/become-a-partner",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://understand.tech/partner"
+   ]
+  },
+  {
+   "query": "Ai Build pricing license",
+   "results": [
+    "https://www.make.com/pricing",
+    "https://zylo.com/blog/ai-cost",
+    "https://learn.microsoft.com/en-us/ai-builder/administer-licensing",
+    "https://softwarepricing.com/blog/ai-software-pricing/",
+    "https://www.reddit.com/r/AI_Agents/comments/1qhgawn/how_are_you_pricing_your_ai_product/",
+    "https://getlago.com/blog/ai-pricing-models",
+    "https://thecrunch.io/ai-software-cost/",
+    "https://cloud.google.com/model-garden/pricing",
+    "https://community.powerplatform.com/forums/thread/details/?threadid=f9e6acb2-741c-4101-83c8-3f4ea0c7b732",
+    "https://learn.microsoft.com/en-us/ai-builder/credit-management"
+   ]
+  },
+  {
+   "query": "Ai Build Japan distributor",
+   "results": [
+    "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+    "https://ai-build.com/",
+    "https://www.linkedin.com/company/build-ai-jp",
+    "https://revenuebase.ai/companies/ai-platform-customization-companies/japan",
+    "https://japan-dev.com/skills/ai/companies",
+    "https://ai-robotics.gmo/en/news/article/gmo-unitree/",
+    "https://ai-ja.jp/en/company/",
+    "https://buildplus.io/tokyo-recruitment/talent",
+    "https://www.designrush.com/agency/ai-companies/jp/tokyo",
+    "https://www.f6s.com/companies/artificial-intelligence/japan/co"
+   ]
+  },
+  {
+   "query": "Ai Build AiSync 代理店",
+   "results": [
+    "https://www.firstcvc.jp/global/ai-build.com",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6789",
+    "https://ai-technology.co.jp/agency/faq-for-agency/",
+    "https://aisync.biz/",
+    "https://www.aisync-solutions.com/",
+    "https://www.poscenter.jp/aimex/aisync.html",
+    "https://ai-elec.co.jp/prod/client/",
+    "https://b-seeds.com/business/product/aiit/ai",
+    "https://ai-build.com/software/"
+   ]
+  },
+  {
+   "query": "Ai Build AiSync 価格",
+   "results": [
+    "https://www.poscenter.jp/aimex/aisync.html",
+    "https://www.fksystem.com/product.php?id=176",
+    "https://item.rakuten.co.jp/pcpos/aisync/",
+    "https://www.cadjapan.com/news/2023/d20230130_02.html",
+    "https://www.123market.jp/product/A0X00AY/",
+    "https://ja.aliexpress.com/item/4001171905730.html",
+    "https://www.rakuten.ne.jp/gold/intelogue/item/a101538040108000.html",
+    "https://www.shopch.jp/sp/product/recommendset/sku?mthd=prodother&num=30&spec=sp311&sku=831277-XXXXX&srsltid=AYCX9vI5drkjHC1si1ATu6MHCOCVqaNZ4_2z1k1cNqsu20vjaKWfzZZN",
+    "https://ai-build.com/software/",
+    "https://www.monotaro.com/g/07923448/"
+   ]
+  },
+  {
+   "query": "Ai Build free trial",
+   "results": [
+    "https://softgen.ai/",
+    "https://cloud.google.com/use-cases/free-ai-tools",
+    "https://www.anything.com/",
+    "https://felloai.com/ai-free-trials/",
+    "https://www.reddit.com/r/smallbusinessesowners/comments/1sk3dj9/i_tested_free_ai_tools_to_build_a_website_from/",
+    "https://app.customgpt.ai/register",
+    "https://base44.com/ai-app-builder",
+    "https://www.wix.com/ai-website-builder",
+    "https://webwave.me/ai-website-builder",
+    "https://www.hostinger.com/support/11131062-hostinger-ai-builder-how-to-try-it-for-free/"
+   ]
+  },
+  {
+   "query": "Ai Build company founded employees funding",
+   "results": [
+    "https://manufacturing-today.com/news/ai-build-secures-8-5-million-in-series-a-funding-to-revolutionize-additive-manufacturing/",
+    "https://startupintros.com/orgs/build-ai",
+    "https://hrtechfeed.com/ai-powered-recruiting-startup-lands-20-million/",
+    "https://www.forbes.com/sites/michaelashley/2025/02/17/the-future-is-solo-ai-is-creating-billion-dollar-one-person-companies/",
+    "https://www.crunchbase.com/",
+    "https://www.linkedin.com/posts/analytics-india-magazine_mercor-the-san-francisco-based-startup-redefining-activity-7390988603650269202-ZDV5",
+    "https://finance.yahoo.com/news/company-raises-record-113-million-120100389.html",
+    "https://killedbyai.net/funding/",
+    "https://pitchbook.com/profiles/company/173983-78",
+    "https://tracxn.com/d/companies/ai-build/__Wx3RfIpLdwJs3hmX2XUJi1qiwiHq4EbPC0KRlBKU6eI"
+   ]
+  }
+ ],
+ "missing": {
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}

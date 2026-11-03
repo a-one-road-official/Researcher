@@ -1,0 +1,1055 @@
+{
+ "name": "Hyperganic",
+ "en": "Hyperganic",
+ "aliases": [
+  "Hyperganic Core"
+ ],
+ "context": "形状設計（アルゴリズム設計）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:33:58.809889+00:00",
+ "evidence": {
+  "会社の規模": [
+   {
+    "quote": "2017年に設立されたハイパーガニック・グループは、ミュンヘン、シンガポール、中国に拠点を置くグローバルなディープテクノロジーソフトウェア企業です",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "1989年に設立された独立企業である当社は、高品質な生産効率と先駆的なイノベーション、持続可能な実践を結びつけ、製造業の未来を形作ります",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic, a German company, builds generative design software to 3D print objects as complex as nature. Though it was founded in 2015, it’s just now ready to reveal what its powerful algorithms can do.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "His vision is grand, but it isn’t Kayser’s first time building a successful business. Hyperganic’s office was formerly home to his company IRIDAS, which Adobe acquired in 2011.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "With Core 3 now available to the public, anyone with the will to do so can learn how to design 3D printable parts using algorithmic engineering. Kayser states that for non-commercial and open-source users, Hyperganic Core will always be free to use. Customers also have the option to monetize the objects they design, as well as the custom algorithms used to design them.",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic, a German company, builds generative design software to 3D print objects as complex as nature. Though it was founded in 2015, it's just now ready to reveal what its powerful algorithms can do.",
+    "url": "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic was founded in 2016 offering computational design tools for programmers and custom solutions such as their",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "raised $7.8 million in its first venture round on February 17, 2021. Led by serial entrepreneur",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with leading companies in the US, Europe, Southeast Asia, and China, Hyperganic works with customers on a broad variety of applications, including aerospace, consumer goods, and medical products, but it can fundamentally be applied to any field of engineering. For example, in 2019, a",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing investment funding",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Caplena Secures €3M Pre-Series A Funding Round",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "4 Fundings",
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "pass": 3
+   },
+   {
+    "quote": "raised $7.76M",
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "pass": 3
+   },
+   {
+    "quote": "1 Acquisition",
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンロード eos_app_aerospace_hyperganic_01.jpg",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンロード eos_app_aerospace_hyperganic_03.jpg",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンロード eos_app_aerospace_hyperganic_rocketenginedesignstudy_i_04.jpg",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "The ideal scenario would be where the technology makes customization as easy as hitting CTRL P, says Finke. Customers can walk into a store, have their feet scanned for custom-made shoes and insoles, for example, and after paying for their order, the optimal shoe and insole can go straight into production, without any human guidance.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "has already attracted new customers — and it’s expanding into fields that are ripe for disruption, says Kayser.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "The rocket is silver, created with aerospace-grade metal, and resembles a sculpture or piece of art, with blood vessels lining the sides — in short, radically different from a traditional rocket engine.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "“Nobody would have designed a rocket engine like this,” says Langer. “This is very interesting for us because now we can approach the customers with a different offering.”",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "“If a customer says this is the part I want, just print it for me, the Hyperganic software can’t help you anymore,” he says. “It can only help you if you have a certain freedom of design where you can use the power of the algorithms to optimize the design.”",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic doesn’t sell its software. Instead, it sticks to the success parameters of its customers, says Finke. In many cases, this could mean creating a revenue sharing model.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "In an ideal setting, Hyperganic sets up the entire workflow and receives an upfront commitment from the customer.",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Since Core 2, the firm has also created comprehensive online courseware that people can use to train themselves in algorithmic engineering. Hundreds of early adopters have since been invited to the platform, with many of them coding their own AI design algorithms for fields such as aerospace and consumer goods.",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "With Core 3 now available to the public, anyone with the will to do so can learn how to design 3D printable parts using algorithmic engineering. Kayser states that for non-commercial and open-source users, Hyperganic Core will always be free to use. Customers also have the option to monetize the objects they design, as well as the custom algorithms used to design them.",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing allows us to quickly produce modified parts and put them to a physical, real test. And that’s what our customers have been doing, and doing quite successfully. It’s much faster than traditional iteration cycles.",
+    "url": "https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Democratizing Advanced Engineering Solutions from Industrial to Medical Applications - Hyperganic - CDFAM",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Democratizing Advanced Engineering Solutions from Industrial to Medical Applications",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "At Hyperganic, we harness the power of bespoke engineering solutions to enhance the capabilities of advanced products. Our expertise spans across industries, from aerospace to automotive, demonstrating the transformative impact of Hyperganic’s approach to product development through design tailored for Additive Manufacturing (AM).",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Another area that is worth mentioning is mass customisation and consumer goods, especially in the medical and orthopedic space.",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Here we are mostly involved with setting up end to end design workflows that produce geometries based on, for example a scan, and have these printed and set to the consumer. Or alternatively we encode entire workflows into easy to use apps, that are used by clinicians all around the world helping to improve the life of their patients by providing them with better or more performant products.",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "have partnered up in 2022, with the joint mission to foster alternatives to classical foamed polymers. Foams are good for a variety of applications ranging from energy absorption, like cushioning and protective gear to medical applications, like insoles and orthotics. However, there are also certain distinct disadvantages when using foams, like recyclability or possibilities for customization.",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Case study",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "David Alby Medina, an automotive 3D designer and former road cyclist, used HyDesign to create an ergonomic bike saddle – overcoming four years of trial-and-error with traditional 3D modeling.",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Munich Medical Devices, Spectroplast and FIDENTIS open shared AM hub in Munich",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Construction",
+    "url": "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/hyperganic-technologies-ag/",
+    "pass": 3
+   },
+   {
+    "quote": "# energy & construction",
+    "url": "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/hyperganic-technologies-ag/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "David Alby Medina, an automotive 3D designer and former road cyclist, used HyDesign to create an ergonomic bike saddle, overcoming four years of trial-and-error with traditional 3D modeling.",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with leading companies in the US, Europe, Southeast Asia, and China, Hyperganic works with customers on a broad variety of applications, including aerospace, consumer goods, and medical products, but it can fundamentally be applied to any field of engineering. For example, in 2019, a",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "In a recent case study, the",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The newest cycling helmet case study of the Hyperganic Lab is reinventing a safe bike ride using AI-based automated workflow. Image courtesy of Hyperganic.",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "From aerospace to automotive, discover how Hyperganic advances product development with design for Additive Manufacturing (AM).",
+    "url": "https://www.hyperganic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shape a world of biomedical breakthroughs, where innovation knows no limits.",
+    "url": "https://www.hyperganic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid, high-precision fabrication is developed for biomedical applications, enabling the creation of complex structures like auxetic meshes and cylinders at an average duration of ~4.5.s.",
+    "url": "https://www.hyperganic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「Hyperganic Core」は、航空宇宙などの分野におけるエンジニアリングワークフローを大幅に合理化し、最適化された性能を確保しながら、複雑な形状を数分の計算で確定できるようにすることができる",
+    "url": "https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0",
+    "pass": 3
+   },
+   {
+    "quote": "彼らの多くが、航空宇宙や消費財などの分野で独自のAI設計アルゴリズムをコーディングした",
+    "url": "https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント自動車の製造元ローカルモーターズが事業停止",
+    "url": "https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0",
+    "pass": 3
+   },
+   {
+    "quote": "David Alby Medina, an automotive 3D designer and former road cyclist, used HyDesign to create an ergonomic bike saddle, overcoming four years of trial-and-error with traditional 3D modeling.",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "American Aerospace & Defense Summit",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, Defense",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Natural Resources",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oil & Energy",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "View All Energy & Natural Resources",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "The initial release was Hyperganic Core 1. The (then small) team worked closely with various 3D printer manufacturers to ensure the platform was compatible with powder bed, resin, and extrusion-based processes.",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.",
+    "url": "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "have partnered up in 2022, with the joint mission to foster alternatives to classical foamed polymers. Foams are good for a variety of applications ranging from energy absorption, like cushioning and protective gear to medical applications, like insoles and orthotics. However, there are also certain distinct disadvantages when using foams, like recyclability or possibilities for customization.",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "How are the anticipated future enhancements of HyDesign designed to address the advancing requirements of industrial designers and engineers across various applications?",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": ", has unveiled HyDesign, a new cloud-native design application for creating 3D printed lattice structures. This tool makes designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Easily vary lattice beam thicknesses using image projections.",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Exporting your designs from HyDesign is straightforward and user-friendly. You can directly download your designs to your local drive from the cloud in various formats, including STL, 3MF, CLI, and PNG stack. There’s no limitation on the number of exports.",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering software provider Hyperganic has unveiled HyDesign, a new cloud-native design application for creating 3D printed lattice structures. The new tool aims to make designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers and OEMs using 3D printing.",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with leading companies in the US, Europe, Southeast Asia, and China, Hyperganic works with customers on a broad variety of applications, including aerospace, consumer goods, and medical products, but it can fundamentally be applied to any field of engineering. For example, in 2019, a",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic, a pioneer in algorithmic engineering software, unveils HyDesign, a new cloud-native design application for creating 3D-printed lattice structures. This innovative tool makes designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire-PRWeb/ -- Hyperganic, a pioneer in algorithmic engineering software, unveils HyDesign, a new cloud-native design application for creating 3D-printed lattice structures. This innovative tool makes designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign is a cloud-native design application that makes designing 3D-printed latticed parts easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "announced a huge price reduction of 80% for its own algorithmic design software, the",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": ". Commercially launched back in 2018 for an annual subscription of $8,000 per year, the AI-powered extension has always been relatively inaccessible to anyone other than major engineering and manufacturing firms.",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Access validated materials from the Ultrasim 3D Lattice Library by Forward AM – reducing material validation time in developing footwear, seating, and protection applications.",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "USD $25",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "EUR €22",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "There are Test Pads for Footwear, Seating and Protection. Second, you can access the digital Ultrasim® 3D Lattice Library via Forward-AM’s website",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Access validated materials from the Ultrasim 3D Lattice Library by Forward AM, minimizing costly and time-consuming trial prints in the development of footwear, seating and protection applications.",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Raises $7.8M in First Venture Round for AI-Driven 3D Printing - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Raises $7.8M in First Venture Round for AI-Driven 3D Printing",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "raised $7.8 million in its first venture round on February 17, 2021. Led by serial entrepreneur",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", formerly known as HV Holtzbrinck Ventures, one of Europe’s largest funds with 329 investments worth $1.2 billion, and",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM’s Ultrasim 3D Lattice Library is built on decades of material science expertise and rigorous testing from BASF, which recently broke off from the chemicals giant as a standalone enterprise. The library provides optimal combinations of lattice designs, materials, and printers, tested and used across industries such as footwear, seating, and protection.",
+    "url": "https://develop3d.com/cad/hydesign-lattice-software-launched-by-hyperganic/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0",
+    "pass": 3
+   },
+   {
+    "quote": "Access validated materials from the Ultrasim® 3D Lattice Library by Forward AM, minimizing costly and time-consuming trial prints in the development of footwear, seating and protection applications.",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "Access validated materials from the Ultrasim® 3D Lattice Library by Forward AM, minimizing costly and time-consuming trial prints in the development of footwear, seating and protection applications.",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "• Access validated materials from the Ultrasim® 3D Lattice Library by Forward AM, minimizing costly and time-consuming trial prints in the development of footwear, seating and protection applications.",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "sends releases direct to journalists in the UK, Europe, North America and Asia, each one reviewed by a former BBC journalist before it goes. From $250 / £185 per release, no membership.",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Caplena Secures €3M Pre-Series A Funding Round",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "$3.26M",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic has raised $11.1M.",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "$7.76M",
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "pass": 3
+   },
+   {
+    "quote": "raised $7.76M",
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Democratizing generative design with Core 3",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Democratizing Advanced Engineering Solutions from Industrial to Medical Applications - Hyperganic - CDFAM",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Participant Demographics",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "CDFAM Participant Demographics",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "Democratizing Advanced Engineering Solutions from Industrial to Medical Applications",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "At Hyperganic, we harness the power of bespoke engineering solutions to enhance the capabilities of advanced products. Our expertise spans across industries, from aerospace to automotive, demonstrating the transformative impact of Hyperganic’s approach to product development through design tailored for Additive Manufacturing (AM).",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign is now commercially available with a 14-day free trial, with simulation available as a beta feature.",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your 30-day Free Trial",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore HyDesign’s capabilities with a 30-day full-access trial with beta access simulations (Queue up to 2 simulations and continue iterating designs at the same speed while they run.)",
+    "url": "https://www.hyperganic.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign is now commercially available with a 14-day free trial.",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "The initial demo showcases the building of ‘A cuboid of 30x30x50mm, with a SchwarzD infill that morphs into Gyroid infill along the Z-Axis’.",
+    "url": "https://develop3d.com/cad/hyperganic-hyideate-hydesign-offer-new-tools-for-concepts/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design | ManufacturingTomorrow",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign is now commercially available with a 14-day free trial, with simulation available as a beta feature. Experience effortless lattice design and start your free trial today at hyd.sg/hydesignlaunch.",
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign is now commercially available with a 14-day free trial, with simulation available as a beta feature. Experience effortless lattice design and start your free trial today at",
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "pass": 3
+   },
+   {
+    "quote": "Preservation of overall microbial diversity confirmed. Selective modulation — not eradication — demonstrated in real skin conditions.",
+    "url": "https://www.hyperganic.nz/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign is now commercially available with a 14-day free trial, with simulation available as a beta feature. Experience effortless lattice design and start your free trial today at",
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more by requesting a demo",
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "How EOS & Hyperganic Advanced Space Propulsion — How EOS & Hyperganic Advanced Space Propulsion EOS GmbH https://www.eos.info > ... > 2022 ...",
+    "url": "https://www.eos.info/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic : Voxel-based Software for Complex 3D Printing — Hyperganic : Voxel-based Software for Complex 3D Printing FacFox https://facfox.com > docs > hypergani...",
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic launches its AI-based algorithmic design software ... — Hyperganic launches its AI-based algorithmic design software ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "pass": 3
+   },
+   {
+    "quote": "Why I just added physics to Hyperganic by acquiring a ... — Why I just added physics to Hyperganic by acquiring a ... Josefine Lissner and Lin Kayser https://jlk.ae > 2022/05/01 > why-i-ju...",
+    "url": "https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic : Voxel-based Software for Complex 3D Printing — Hyperganic : Voxel-based Software for Complex 3D Printing All3DP https://all3dp.com > hyperganic-voxe...",
+    "url": "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic launches HyDesign for 3D printed lattices — Hyperganic launches HyDesign for 3D printed lattices VoxelMatters https://www.voxelmatters.com > hype...",
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "pass": 3
+   },
+   {
+    "quote": "HyDesign lattice software launched by Hyperganic - develop3d — HyDesign lattice software launched by Hyperganic - develop3d develop3d https://develop3d.com > cad > hydesi...",
+    "url": "https://develop3d.com/cad/hydesign-lattice-software-launched-by-hyperganic/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic launches HyDesign for creating 3D printed lattice ... — Hyperganic launches HyDesign for creating 3D printed lattice ... Engineering.com https://www.engineering.com > hyper...",
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic HyIdeate & HyDesign offer new tools for concepts — Hyperganic HyIdeate & HyDesign offer new tools for concepts develop3d https://develop3d.com > cad > hyperg...",
+    "url": "https://develop3d.com/cad/hyperganic-hyideate-hydesign-offer-new-tools-for-concepts/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic - 2026 Company Profile & Team - Tracxn — Hyperganic - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/hyperganic/__ZhWQFxVIjipnYw01io_-Saaf6h5ADOJwNi_5hMz1-_4",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic Raises $7.8M in First Venture Round for AI-Driven ... — Hyperganic Raises $7.8M in First Venture Round for AI-Driven ... 3DPrint.com https://3dprint.com > hyperganic-rais...",
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperganic raises $ 7.8 million in funding round for AI-driven ... — Hyperganic raises $ 7.8 million in funding round for AI-driven ... 3Druck.com https://3druck.com > Home > Industry",
+    "url": "https://3druck.com/en/industry-2/hyperganic-raises-78-million-in-funding-round-for-ki-controlled-3d-printing-5799542/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "CDFAM TOKYO EVENTS",
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://hyperganic.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdfam.com/hyperganic-berlin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperganic.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/hyperganic-technologies-ag/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperganic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/cad/hydesign-lattice-software-launched-by-hyperganic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/items/hyperworks/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iguazu-3d.jp/product/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capa.co.jp/archives/48706",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lcsc.com/product-detail/C124408.html?currency=JPY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/cad/hyperganic-hyideate-hydesign-offer-new-tools-for-concepts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperganic.nz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/222979-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hyperganic/__ZhWQFxVIjipnYw01io_-Saaf6h5ADOJwNi_5hMz1-_4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/hyperganic/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/industry-2/hyperganic-raises-78-million-in-funding-round-for-ki-controlled-3d-printing-5799542/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/hyperganic",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hyperganic reseller partner program",
+   "results": [
+    "https://hyperganic.com/",
+    "https://www.eos.info/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "https://www.youtube.com/watch?v=JBcMsnM5vVU",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "https://www.instagram.com/hyperganic/",
+    "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "https://www.helioadditive.com/partners/reseller-partner-program",
+    "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/hyperganic-technologies-ag/",
+    "https://www.hyperganic.com/"
+   ]
+  },
+  {
+   "query": "Hyperganic pricing license",
+   "results": [
+    "https://hyperganic.com/",
+    "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "https://www.eos.info/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "https://www.instagram.com/hyperganic/",
+    "https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/",
+    "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "https://cdfam.com/hyperganic-berlin/",
+    "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "https://www.hyperganic.com/pricing/",
+    "https://www.hyperganic.com/"
+   ]
+  },
+  {
+   "query": "Hyperganic Japan distributor",
+   "results": [
+    "https://hyperganic.com/",
+    "https://www.eos.info/press-media/press-center/press-releases/2022/eos-and-hyperganic",
+    "https://www.instagram.com/hyperganic/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/hyperganic-technologies-ag/",
+    "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/",
+    "https://www.hyperganic.com/"
+   ]
+  },
+  {
+   "query": "Hyperganic 代理店",
+   "results": [
+    "https://hyperganic.com/",
+    "https://www.instagram.com/hyperganic/",
+    "https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/",
+    "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "https://develop3d.com/cad/hydesign-lattice-software-launched-by-hyperganic/",
+    "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/",
+    "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/hyperganic-technologies-ag/",
+    "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/"
+   ]
+  },
+  {
+   "query": "Hyperganic 価格",
+   "results": [
+    "https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0",
+    "https://www.cadjapan.com/products/items/hyperworks/price.html",
+    "https://www.iguazu-3d.jp/product/price/",
+    "https://www.youtube.com/watch?v=xx8cGPfm3f4",
+    "https://www.capa.co.jp/archives/48706",
+    "https://www.lcsc.com/product-detail/C124408.html?currency=JPY",
+    "https://makerworld.com/ja/models/624937-holey-cheese-swiss?from=search",
+    "https://www.asahi-inteccj.com/data/image/kakakuhyou2023.04.pdf",
+    "https://www.hyperganic.com/",
+    "https://manufacturing.toolsinfo.com/tool/hyperganic-core"
+   ]
+  },
+  {
+   "query": "Hyperganic free trial",
+   "results": [
+    "https://hyperganic.com/",
+    "https://develop3d.com/cad/hyperganic-hyideate-hydesign-offer-new-tools-for-concepts/",
+    "https://www.instagram.com/hyperganic/",
+    "https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/",
+    "https://x.com/hyperganic",
+    "https://www.hyperganic.com/pricing/",
+    "https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/",
+    "https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html",
+    "https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/",
+    "https://www.hyperganic.com/"
+   ]
+  },
+  {
+   "query": "Hyperganic company founded employees funding",
+   "results": [
+    "https://pitchbook.com/profiles/company/222979-51",
+    "https://tracxn.com/d/companies/hyperganic/__ZhWQFxVIjipnYw01io_-Saaf6h5ADOJwNi_5hMz1-_4",
+    "https://hyperganic.com/",
+    "https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/",
+    "https://www.cbinsights.com/company/hyperganic/financials",
+    "https://3druck.com/en/industry-2/hyperganic-raises-78-million-in-funding-round-for-ki-controlled-3d-printing-5799542/",
+    "https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/",
+    "https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing",
+    "https://www.instagram.com/hyperganic/",
+    "https://www.crunchbase.com/organization/hyperganic"
+   ]
+  }
+ ],
+ "missing": {
+  "日本語対応": "記載なし（読んだ31頁・検索7回）"
+ }
+}

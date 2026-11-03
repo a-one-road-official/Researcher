@@ -1,0 +1,891 @@
+{
+ "name": "Spare Parts 3D DigiPart",
+ "en": "Spare Parts 3D",
+ "aliases": [
+  "DigiPart",
+  "SP3D"
+ ],
+ "context": "AM化できる部品の自動選定・スペアパーツ",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:39:37.188330+00:00",
+ "evidence": {
+  "料金": [
+   {
+    "quote": "will deliver considerable savings by reducing physical inventories of spare parts. According to a 2018 study by Theano Advisors, the global inventory value of printable parts was $174 billion (€160 billion). Considering an average inventory cost of 20%,",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "$34 billion (€31 billion) a year through digitalization.",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "SP3D claims that this new tool reduces the cost of digitization. This will allow more companies to leverage additive manufacturing for the production of spare parts, reducing physical inventory costs in the process. In fact, the firm claims that Théia can collectively save companies $34 billion a year through inventory digitization.",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "$32.6K",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D has raised $1.75M.",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Switching from cast bronze to 3D printed Ultem reduces the cost and difficulty of replacing an on-ship drain, saving an estimated $200K per Coast Guard cutter.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "accelerating the exhaustive digitization of spare parts inventories, lowering the cost of access to digitization, democratizing the digital passport and the use of additive manufacturing",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo →",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "are proving out the model. Once they demonstrate the benefits, particularly for customers in the U.S. military, there’s a real possibility that the industry will be galvanized into high-growth mode.",
+    "url": "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "Request for demo",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "The technology is particularly noteworthy for its ability to streamline the digitization process of spare parts inventories. By converting 2D drawings to 3D models swiftly and efficiently, Théia democratizes access to digital passports and additive manufacturing, thereby fostering a more rapid and cost-effective digitization process.",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "[av_button label=’Request a demo’ link=’page,971′ link_target=” size=’medium’ position=’right’ label_display=” icon_select=’no’ icon=’ue800′ font=’entypo-fontello’ color=’theme-color’ custom_bg=’#444444′ custom_font=’#ffffff’ av_uid=’av-kebc7gxw’ custom_class=’quote-now’ admin_preview_bg=”]",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "Request for demo",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan a demo or request more information on our services. Fill in the form and we will get back to you.",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Inventory demo",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Automated 3D Reconstruction demo",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": ", its AI software that identifies, digitizes and 3D prints its customers’ spare parts.",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "5. Equity Crowdfunding",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "To view Spare Parts 3D’s complete valuation and funding history, request access »",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "When was Spare Parts 3D founded?",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D developed an online software called Digipart to help customers estimate potential benefits of using 3D printing and determine which parts would be the most profitable. Beta testing of additional features such as the digital inventory repository and the quotation and ordering system are ongoing and will be released to all Spare Parts 3D customers by end of the year.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "The next step will be to expand digitization to a larger pool of parts. Some models have already been produced based on demand and delivered to customers. Going forward, Whirlpool and Spare Parts 3D plan to intensify their collaboration to scale up production in the coming months.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": ", its AI software that identifies, digitizes and 3D prints its customers’ spare parts.",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "and with financial support from the Defense Innovation Agency (AID).",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "For Paul Guillaumot, founder and CEO of Spare Parts 3D: “Theia is a world first. It is a disruptive innovation, that represents a major technological leap forward that makes it possible to digitalize supply chains on a massive scale for sectors such as energy, defense, petrochemicals, railways, shipping and mining",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "are proving out the model. Once they demonstrate the benefits, particularly for customers in the U.S. military, there’s a real possibility that the industry will be galvanized into high-growth mode.",
+    "url": "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Oil & Gas",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Chemical",
+    "url": "https://namic.sg/am_directory/spare-parts-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "With this digital passport, customers are then able to produce their spare parts on-demand with DigiPART PRINT right the first time.",
+    "url": "https://namic.sg/am_directory/spare-parts-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "French Defense Innovation Agency",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Guillaumot, founder and CEO of Spare Parts 3D, calls Théia a “world first” that will allow for large-scale digitization of supply chains in sectors with high spare part demand, such as energy, defense, petrochemicals, railways, shipping and mining. The new software also supports",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhanced customer satisfaction:",
+    "url": "https://tronix3d.com/solutions/spare-parts-and-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing excels in creating customized and personalized products. Whether it’s custom-fit medical devices, heirloom jewelry, or tailored automotive parts, additive manufacturing allows for high levels of customization without the increased costs associated with traditional manufacturing methods.",
+    "url": "https://tronix3d.com/solutions/spare-parts-and-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronix3D delivers low-volume manufacturing, rapid prototyping, and complex part production using industrial-grade polymers and titanium. From aerospace to medical, we help engineers move faster, reduce supply chain risk, and launch better products without tooling delays or compromises.",
+    "url": "https://tronix3d.com/solutions/spare-parts-and-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications: (SBA) Non-Traditional Defense Contractor",
+    "url": "https://tronix3d.com/solutions/spare-parts-and-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy, Oil & Gas, and Power Generation",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Oil & Gas",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Enabling operational readiness and logistics resilience for defense organizations managing complex fleets and long lifecycles.",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Instant 3D models for manufacturing quotations — THEIA analyzes 2D drawings in seconds and delivers accurate quotes during customer calls.",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging tech research on AI, healthcare, energy, and more",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker partners with Singapore-based MedTech startup Bioactivx under a new MOU to co-develop a scalable, on-demand medical printing solution for regenerative wound care, as Bioactivx earns HSA approval for its Bioactiv Matrix — manufactured on UltiMaker systems.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Uptive Manufacturing has its roots in AM’s Wild West entrepreneurial past, but today it helps customers of all sizes use the technology as a strategic manufacturing option.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "QuesTek Innovations adds the Niobium Suite to its Icmd materials design and engineering platform, developed in collaboration with niobium producer CBMM to accelerate design of high-performance alloys for aerospace, energy and additive manufacturing.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "AUVSI Defense / Drone & AAM Policy Symposium",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "AUVSI hosts AUVSI Defense / Drone & AAM Policy Symposium on Nov. 9-10, 2026 in Washington, DC.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "“I know we won’t make large production batches with this technology, but there is an excellent value in solving obsolescence and shortage issues that generally fold into low volumes demands,” says Franco Secchi, head of consumer services and quality for Whirlpool EMEA. “This way 3D printing can have a direct significative impact on our customer care.”",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D developed an online software called Digipart to help customers estimate potential benefits of using 3D printing and determine which parts would be the most profitable. Beta testing of additional features such as the digital inventory repository and the quotation and ordering system are ongoing and will be released to all Spare Parts 3D customers by end of the year.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   },
+   {
+    "quote": "The next step will be to expand digitization to a larger pool of parts. Some models have already been produced based on demand and delivered to customers. Going forward, Whirlpool and Spare Parts 3D plan to intensify their collaboration to scale up production in the coming months.",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Spare Parts announces automatic reconstruction of 3D models — Spare Parts announces automatic reconstruction of 3D models Spare Parts 3D https://spare-parts-3d.com > premiere...",
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiPart - Spare Parts 3D — DigiPart - Spare Parts 3D Spare Parts 3D https://spare-parts-3d.com > digipart",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D unveils 2D-drawing to 3D -model software — Spare Parts 3D unveils 2D-drawing to 3D -model software VoxelMatters https://www.voxelmatters.com > spare...",
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D - NAMIC — Spare Parts 3D - NAMIC NAMIC - National Additive Manufacturing Innovation Cluster https://namic.sg > spare-parts-3d",
+    "url": "https://namic.sg/am_directory/spare-parts-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D launches new AI-powered 2D-to- 3D model ... — Spare Parts 3D launches new AI-powered 2D-to- 3D model ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D - Digitalize and decarbonize spare parts ... — Spare Parts 3D - Digitalize and decarbonize spare parts ... Spare Parts 3D https://spare-parts-3d.com",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Spare Parts 3D 2026 Company Profile - PitchBook — Spare Parts 3D 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "SP3D - LinkedIn — SP3D - LinkedIn LinkedIn https://fr.linkedin.com > spare-parts-3d",
+    "url": "https://fr.linkedin.com/company/spare-parts-3d",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Calculation of potential savings based on 3D printing cost for various use cases: obsolescence, supply shortage, inventory reduction, etc.",
+    "url": "https://spare-parts-3d.com/digipart/",
+    "pass": 3
+   },
+   {
+    "quote": "SP3D’s new Théia software is designed to automate this process with a combination of deep learning, computer vision, and existing semantic recognition of optical character recognition (OCR) capabilities. According to Anwer, this combination allows various semantic layers of a 2D technical drawing to be identified and optimally interpreted for 3D reconstruction.",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.",
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor",
+    "url": "https://www.digipart.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://www.digipart.com/",
+    "pass": 3
+   },
+   {
+    "quote": "[/av_three_fifth][av_hr class=’invisible’ height=’50’ shadow=’no-shadow’ position=’center’ custom_border=’av-border-thin’ custom_width=’50px’ custom_border_color=” custom_margin_top=’30px’ custom_margin_bottom=’30px’ icon_select=’yes’ custom_icon_color=” icon=’ue808′ font=’entypo-fontello’ av_uid=’av-kg27agsh’ custom_class=” admin_preview_bg=”]",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "[av_hr class=’invisible’ height=’10’ shadow=’no-shadow’ position=’center’ custom_border=’av-border-thin’ custom_width=’50px’ custom_border_color=” custom_margin_top=’30px’ custom_margin_bottom=’30px’ icon_select=’yes’ custom_icon_color=” icon=’ue808′ font=’entypo-fontello’ av_uid=’av-kg27agsh’ custom_class=” admin_preview_bg=”]",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "[/av_one_full][av_hr class=’invisible’ height=’10’ shadow=’no-shadow’ position=’center’ custom_border=’av-border-thin’ custom_width=’50px’ custom_border_color=” custom_margin_top=’30px’ custom_margin_bottom=’30px’ icon_select=’yes’ custom_icon_color=” icon=’ue808′ font=’entypo-fontello’ av_uid=’av-kg27agsh’ custom_class=” admin_preview_bg=”]",
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "EPC / OEM",
+    "url": "https://spare-parts-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86",
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://voxelwerks.com/become-a-reseller/?srsltid=AYCX9vLaV8e4-zyKSc9gdQpaVj2Pnd6Cb1qsBDmBTvDiNGlTIWnnoYD9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2017/hp-unveils-new-3d-printing-global-reseller-program--service-bure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultimaker.com/learn/webinar-from-3d-scan-to-3d-print-reducing-your-spare-part-inventory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubsonline.informs.org/doi/10.1287/msom.2022.1117",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategyand.pwc.com/gx/en/insights/2017/future-spare-parts-3d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/applications/spare-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1shmltf/is_3dprinting_useful_for_making_spare_parts_how/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bigrep.com/posts/digital-inventory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/en/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/applications/spare-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mosaicmfg.com/use-cases-applications-spare-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spare-parts-3d.com/digipart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://namic.sg/am_directory/spare-parts-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tronix3d.com/solutions/spare-parts-and-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3djake.com/spare-parts-upgrades",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprima.com/3d-printer-spare-parts-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creality3dparts.com/?srsltid=AYCX9vLRNpuZxt2syy6nEBLDAz-8b4Q7-wh7a9MgWNKovKnotG7QueH9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digipart.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spare-parts-3d.com/digipart-catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spare-parts-3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1qatx5h/what_software_to_use_to_edit_and_make_3d_parts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/selectam-launches-free-software-for-identifying-3d-printable-parts-from-digital-inventory-216229/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeaengine.com/parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slashdot.org/software/3d-parts-catalog/free-trial/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327413-53",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/3d-spark/__mtVLCcugaOBRnEifSqEgawmVcIuPEqR6f75cdruN1o0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1txjo1l/the_destruction_of_3d_printing_bloomberg_is/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dsv.com/en/insights/expert-opinions/spare-parts-on-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Spare Parts 3D reseller partner program",
+   "results": [
+    "https://voxelwerks.com/become-a-reseller/?srsltid=AYCX9vLaV8e4-zyKSc9gdQpaVj2Pnd6Cb1qsBDmBTvDiNGlTIWnnoYD9",
+    "https://www.hp.com/us-en/newsroom/press-releases/2017/hp-unveils-new-3d-printing-global-reseller-program--service-bure.html",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.youtube.com/watch?v=CQrN3RLF1gY",
+    "https://ultimaker.com/learn/webinar-from-3d-scan-to-3d-print-reducing-your-spare-part-inventory/",
+    "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "https://www.reddit.com/r/3Dprinting/comments/1shmltf/is_3dprinting_useful_for_making_spare_parts_how/",
+    "https://www.sliceengineering.com/pages/partner?srsltid=AYCX9vJYq4qBlgjqhohe-e3Krs9Olt2ZBBLUCxWRcLBmmvGPEgtKQCJL",
+    "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "https://spare-parts-3d.com/"
+   ]
+  },
+  {
+   "query": "Spare Parts 3D pricing license",
+   "results": [
+    "https://pubsonline.informs.org/doi/10.1287/msom.2022.1117",
+    "https://www.strategyand.pwc.com/gx/en/insights/2017/future-spare-parts-3d.html",
+    "https://www.materialise.com/en/industrial/applications/spare-parts",
+    "https://www.reddit.com/r/3Dprinting/comments/1shmltf/is_3dprinting_useful_for_making_spare_parts_how/",
+    "https://bigrep.com/posts/digital-inventory/",
+    "https://www.quora.com/Has-custom-replacement-spare-parts-via-3D-printing-become-common-yet-Will-it-replace-hardware-store-inventory",
+    "https://www.facebook.com/groups/575732029944050/posts/2051160959067809/",
+    "https://mosaicmfg.com/use-cases-applications-spare-parts/",
+    "https://spare-parts-3d.com/legal/",
+    "https://spare-parts-3d.com/"
+   ]
+  },
+  {
+   "query": "Spare Parts 3D Japan distributor",
+   "results": [
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.materialise.com/ja/industrial/applications/spare-parts",
+    "https://mosaicmfg.com/use-cases-applications-spare-parts/",
+    "https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/",
+    "https://www.upnano.com/distributors/",
+    "https://www.youtube.com/watch?v=7MujrVzznRY",
+    "https://www.raise3d.com/spare-parts/",
+    "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "https://www.jmuc.co.jp/imc/en/services/partssupply.html"
+   ]
+  },
+  {
+   "query": "Spare Parts 3D DigiPart 代理店",
+   "results": [
+    "https://spare-parts-3d.com/digipart/",
+    "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "https://namic.sg/am_directory/spare-parts-3d/",
+    "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "https://www.youtube.com/watch?v=CQrN3RLF1gY",
+    "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "https://www.materialise.com/ja/industrial/applications/spare-parts",
+    "https://tronix3d.com/solutions/spare-parts-and-maintenance/",
+    "https://www.strategyand.pwc.com/gx/en/insights/2017/future-spare-parts-3d.html",
+    "https://spare-parts-3d.com/"
+   ]
+  },
+  {
+   "query": "Spare Parts 3D DigiPart 価格",
+   "results": [
+    "https://spare-parts-3d.com/digipart/",
+    "https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/",
+    "https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/",
+    "https://www.materialise.com/en/industrial/applications/spare-parts",
+    "https://www.strategyand.pwc.com/gx/en/insights/2017/future-spare-parts-3d.html",
+    "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "https://www.3djake.com/spare-parts-upgrades",
+    "https://www.3dprima.com/3d-printer-spare-parts-finder",
+    "https://www.creality3dparts.com/?srsltid=AYCX9vLRNpuZxt2syy6nEBLDAz-8b4Q7-wh7a9MgWNKovKnotG7QueH9",
+    "https://www.digipart.com/"
+   ]
+  },
+  {
+   "query": "Spare Parts 3D free trial",
+   "results": [
+    "https://spare-parts-3d.com/",
+    "https://www.facebook.com/groups/ModelCarHobbyHeadquarters/posts/3177464809062232/",
+    "https://www.reddit.com/r/3Dprinting/comments/1qatx5h/what_software_to_use_to_edit_and_make_3d_parts/",
+    "https://3dprintingindustry.com/news/selectam-launches-free-software-for-identifying-3d-printable-parts-from-digital-inventory-216229/",
+    "https://www.zeaengine.com/parts/",
+    "https://slashdot.org/software/3d-parts-catalog/free-trial/",
+    "https://www.buildyour3d.com/en/blog/create-replacement-part-3d-model-stl",
+    "https://addinor.eu/sample-parts/",
+    "https://www.printables.com/model",
+    "https://sourceforge.net/software/3d-parts-catalog/free-trial/"
+   ]
+  },
+  {
+   "query": "Spare Parts 3D company founded employees funding",
+   "results": [
+    "https://pitchbook.com/profiles/company/327413-53",
+    "https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/",
+    "https://tracxn.com/d/companies/3d-spark/__mtVLCcugaOBRnEifSqEgawmVcIuPEqR6f75cdruN1o0",
+    "https://www.strategyand.pwc.com/gx/en/insights/2017/future-spare-parts-3d.html",
+    "https://fr.linkedin.com/company/spare-parts-3d",
+    "https://www.reddit.com/r/3Dprinting/comments/1txjo1l/the_destruction_of_3d_printing_bloomberg_is/",
+    "https://www.dsv.com/en/insights/expert-opinions/spare-parts-on-demand",
+    "https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project",
+    "https://www.sciencedirect.com/science/article/pii/S2666790825001521",
+    "https://acquirezy.com/organization/spare-parts-3d"
+   ]
+  }
+ ],
+ "missing": {
+  "日本の代理店": "記載なし（読んだ35頁・検索7回）",
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}

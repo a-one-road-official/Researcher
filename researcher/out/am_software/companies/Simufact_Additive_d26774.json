@@ -1,0 +1,861 @@
+{
+ "name": "Simufact Additive",
+ "en": "Simufact Additive",
+ "aliases": [
+  "Hexagon Simufact",
+  "シミュファクト"
+ ],
+ "context": "造形シミュレーション",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:30:32.125417+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "Channel Partners",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Take advantage of various learning opportunities",
+    "url": "https://nexus.hexagon.com/home/product/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon and AM-Studio: All about the New Reselling Partner",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Find Reseller",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "New Reseller of CADS Additive: Hexagon makes AM-Studio Data Preparation Software even More Accessible Worldwide",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "CADS Additive’s AM-Studio is arguably the most efficient path from product design to defect-free additive part. Thanks to Hexagon, the complete software solution for data preparation is now even more easily available around the world – as the Swedish group supports CADS Additive as a new distribution partner in over 100 countries worldwide.",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "For Hexagon and CADS Additive, the new reselling collaboration was the logical consequence of their intensive cooperation. In the past, both companies have already supported each other to further improve additive manufacturing in the SLM process.",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Become Reseller",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Integration of variant handling further extends usability by allowing pre-distorted geometries to be reused directly within projects. Users can access and manage scan data across different process variants, improving traceability and consistency in multi-stage simulation setups.",
+    "url": "https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "pass": 3
+   },
+   {
+    "quote": "The release also includes various stability improvements, workflow optimizations, and corrections. These changes address issues in solver behavior, result output handling, and license usage, contributing to a more reliable and streamlined user experience overall.",
+    "url": "https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "pass": 3
+   },
+   {
+    "quote": "Find Reseller",
+    "url": "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "pass": 3
+   },
+   {
+    "quote": "New Reseller of CADS Additive: Hexagon makes AM-Studio Data Preparation Software even More Accessible Worldwide",
+    "url": "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "pass": 3
+   },
+   {
+    "quote": "Become Reseller",
+    "url": "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "pass": 3
+   },
+   {
+    "quote": "process workflow to ensure that the focus is results and outcome-based. It includes various tutorial and",
+    "url": "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "wer margins due to inaccurate cost calculation, non-optimised component alignment and non-optimal",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "approach. Swiftly predict defects and optimize local parameters while considering the entire build job and various",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "after the calculation or even during the calculation. Pre-defined result variables for specific applications are",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "recalculate with varying parameters, such as AM material and diverse build-up orientations. Following the",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In this Special Focus Issue, Digital Engineering takes a look at how generative design solutions can be used across different types of design problems and with a variety of manufacturing approaches to accelerate design space exploration, and…",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Another focus point for the new release is to strengthen the process chain capabilities: “Our open software concept allows interfacing with third party solutions in the AM process chain, such as OEM build preparation software—Renishaw´s QuantAM is an example—and Materialise Magics,” Mc Bain says.",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Virtual commissioning of critical operations.",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "High-variance medical products through combination of subtractive and additive manufacturing technologies (MeSATech)",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Integration of variant handling further extends usability by allowing pre-distorted geometries to be reused directly within projects. Users can access and manage scan data across different process variants, improving traceability and consistency in multi-stage simulation setups.",
+    "url": "https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "pass": 3
+   },
+   {
+    "quote": "The release also includes various stability improvements, workflow optimizations, and corrections. These changes address issues in solver behavior, result output handling, and license usage, contributing to a more reliable and streamlined user experience overall.",
+    "url": "https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "pass": 3
+   },
+   {
+    "quote": ", including variant replication back to the client (with limitations)",
+    "url": "https://simcompanion.hexagon.com/customers/s/article/Whats-New-in-Simufact-Additive-2026-1",
+    "pass": 3
+   },
+   {
+    "quote": "The Main features of Simufact Additive revolve around its comprehensive simulation capabilities for various additive manufacturing processes. The software allows engineers to predict and mitigate potential issues like distortions, residual stresses, and support structures. This allows for optimized print parameters, resulting in higher-quality parts.",
+    "url": "https://colab.research.google.com/drive/1otNQ6GQGJrPNO7x1LN3nmGfh7HOqKjAg",
+    "pass": 3
+   },
+   {
+    "quote": "Simufact Additive is typically available for Windows operating systems. The exact version support may vary depending on the software release. Check the system requirements on the Simufact website before the Download process to ensure compatibility.",
+    "url": "https://colab.research.google.com/drive/1otNQ6GQGJrPNO7x1LN3nmGfh7HOqKjAg",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Free Trials",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cadence Academic Network",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Democratize Additive Manufacturing",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "You can book a demo session or check Simufact’s presentations agenda at the Materialise booth.",
+    "url": "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "If you wish to evaluate any software or module that you do not have access to, please contact us, we will gladly arrange for evaluation licenses, even emergency licenses.",
+    "url": "https://simteq.co.za/blog/sharpen-the-saw-simufact-additive-cost-estimation/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual ARC (Automotive Research Center) Review Demonstrates How Digital…",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Annual ARC (Automotive Research Center) Review Demonstrates How Digital Engineering, Collaboration, Modeling, and Simulation Accelerate Army Tech",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "See how our customers create innovative products with Cadence",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support Contacts",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming Aerospace Simulation with Cadence Simufact Additive Simulator’s CAD Export and Geometry Morphing",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "See how GKN Aerospace uses Simufact Additive CAD Export and geometry morphing to preserve design fidelity and streamline additive manufacturing workflows.",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "GKN Aerospace Enhances CAD Export with Simufact Additive",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon’s solutions integrate sensors, software, domain knowledge and customer workflows into intelligent information ecosystems that deliver actionable information. They are used in a broad range of vital industries.",
+    "url": "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Due to this new partnership, Hexagon now meets its customers’ additive manufacturing requirements even better. With AM-Studio, Hexagon customers produce their additive components faster, more resource-efficiently and more economically. Perfectly adapted to additive manufacturing in the Metal Powder Bed Fusion process, the software guides the user step by step through data preparation.",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "„Adding AM-Studio to the Hexagon Additive Manufacturing ecosystem gives our customers access to an end-to-end additive manufacturing portfolio within metal powder bed fusion technology.“",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "pass": 3
+   },
+   {
+    "quote": "Simufact Additive supports al Powder Bed Fusion processes which includes Selective Laser Melting (SLM), Direct Metal Laser Sintering (DMLS), LaserCUSING, Electron Beam Melting (EBM). Deposition processes is covered under Simufact Welding. Heat Treatment can also be done to determine how much energy is require to normalize the material and residual stresses.",
+    "url": "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "ilure to meet customer requirements for quality and performance of AM parts.",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Laser Sintering (DMLS) and LaserCUSING®. Direct Energy Deposition (DED) processes are currently covered",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "estimate for your customer? With our integrated cost estimation,",
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Annual ARC (Automotive Research Center) Review Demonstrates How Digital…",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Adoption of AM in Automotive Accelerating",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Engineering reached out to several companies in AM who addressed their successes and limitations in using AM as a tool to impact automotive parts…",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Youngstown Innovation Hub, Ohio Aerospace Institute Kick Off Pilot Small Biz…",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Dassault Systèmes, UK Fusion Energy Advance UK’s Prototype Fusion Power Plant",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "In the latest issue of Digital Engineering, we focus on automotive design innovations, including light and sound simulation, additive manufacturing applications. Our editors head to NVIDIA GTC and RAPID+TCT, and we investigate whether you can…",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "Annual ARC (Automotive Research Center) Review Demonstrates How Digital Engineering, Collaboration, Modeling, and Simulation Accelerate Army Tech",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "iQUAVISを基盤とする仕組みでISO 26262を取得自動車業界向け半導体事業を加速",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな解析自動化プラットフォーム構築で成長市場の自動車開発を加速",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月：【ユーザ事例に学ぶ】鍛造、プレス、溶接の不良問題をシミュレーションで解決するSimufactのご紹介",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "CAEプラットフォームの マルチクラウド環境実現により 次世代自動車開発を加速",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "#自動車業界",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "電動工具開発での樹脂流動解析の活用事例",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルスレッドとデジタルツインの違い 事例とメリットをご紹介",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "MBEとは？製造業のものづくりを変えるメリットと事例をご紹介",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive conformation assessment and optimization.",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense & Military",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Directed energy deposition",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon offers a dedicated solution specifically catered to the Directed Energy Deposition (DED) process in additive manufacturing.",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "High-variance medical products through combination of subtractive and additive manufacturing technologies (MeSATech)",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Industry",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Military Defense",
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の必読",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   },
+   {
+    "quote": "日系自動車メーカーのアジア市場崩壊前夜",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Hexagon (Nasdaq Stockholm: HEXA B) has approximately 18,000 employees in 50 countries and net sales of approximately 3.1bn EUR. Learn more at",
+    "url": "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Software that makes the day-to-day work life at the 3D printer easier: That was the goal when CADS Additive GmbH was founded in 2016. Today, the company is part of the Austrian CADS GmbH – and has developed several software solutions and software components that make exactly that possible.",
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX Raises $300M in Series C Investments to Advance Physics AI",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Simufact Additive Installation guide 2022 — Simufact Additive Installation guide 2022 help-be.hexagonmi.com PDF https://help-be.hexagonmi.com > resource > enus",
+    "url": "https://help-be.hexagonmi.com/bundle/Simufact_Additive_2022_Installation_Guide/raw/resource/enus/Simufact_Additive_2022_Installation_Guide.pdf?save_local=true",
+    "pass": 3
+   },
+   {
+    "quote": "What's New in Simufact Additive 2026.2 - Login — What's New in Simufact Additive 2026.2 - Login Salesforce https://mscsoftware.my.site.com > Wh...",
+    "url": "https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "pass": 3
+   },
+   {
+    "quote": "Simufact Additive 2020 Optimizes Build Job Costs and ... — Simufact Additive 2020 Optimizes Build Job Costs and ... Simulating Reality, Delivering Certainty https://simulatemore.mscsoftware.com > ...",
+    "url": "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "pass": 3
+   },
+   {
+    "quote": "What's New in Simufact Additive 2026.2 - SimCompanion — What's New in Simufact Additive 2026.2 - SimCompanion SimCompanion https://simcompanion.hexagon.com > ...",
+    "url": "https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "pass": 3
+   },
+   {
+    "quote": "What's New in Simufact Additive 2026.1 - SimCompanion — What's New in Simufact Additive 2026.1 - SimCompanion SimCompanion https://simcompanion.hexagon.com > ...",
+    "url": "https://simcompanion.hexagon.com/customers/s/article/Whats-New-in-Simufact-Additive-2026-1",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "PhysicsX Raises $300M in Series C Investments to Advance Physics AI",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Markets Reach $16 Billion in 2025",
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "pass": 3
+   },
+   {
+    "quote": "年額プランが2カ月分お得！",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   },
+   {
+    "quote": "締切迫る！年額プランが普段より2カ月お得に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   },
+   {
+    "quote": "タイムズカーの見舞金、3000円の根拠 漏洩を通知したうち約14万件が対象外",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "セイコーエプソン株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "スズキ株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東芝",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "Simufactの3製品群 画像提供：MSCソフトウェア株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "繋がる加工プロセスチェーン 画像提供：MSCソフトウェア株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "Simufact Additiveを用いた、3Dプリンティング形状の補正 画像提供：MSCソフトウェア株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "ブラザー工業株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "日立建機株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "リョービ株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 電通総研",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Japan.com運営元の株式会社大塚商会からご連絡させていただきます",
+    "url": "https://www.cadjapan.com/products/items/simufact/composition.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Japan.com運営元の株式会社大塚商会からご連絡させていただきます",
+    "url": "https://www.cadjapan.com/products/items/simufact/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Japan.com運営元の株式会社大塚商会からご連絡させていただきます",
+    "url": "https://www.cadjapan.com/products/items/simufact/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nexus.hexagon.com/home/product/simufact-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simulatemore.mscsoftware.com/thermo-mechanical-calculation-method-for-your-metal-am-processes/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://simteq.co.za/blog/sharpen-the-saw-simufact-additive-cost-estimation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help-be.hexagonmi.com/bundle/Simufact_Additive_2022_Installation_Guide/raw/resource/enus/Simufact_Additive_2022_Installation_Guide.pdf?save_local=true",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlas.verdantix.com/hexagon/simufact-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.netformmetal.com/software/simufact-additive-en",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfagroup.com/additive-manufacturing-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmasolutions.co.th/wp-content/uploads/2023/06/08042022162633__simufact_additive_brochure_2020.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.omcigroup.com/en/products/simufact-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruanfujia.com/software_product/10386624/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/items/simufact/composition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/items/simufact/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/items/simufact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simcompanion.hexagon.com/customers/s/article/Whats-New-in-Simufact-Additive-2026-1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://simulatemore.mscsoftware.com/simufact-additives-automated-distortion-compensation-functionality/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://colab.research.google.com/drive/1otNQ6GQGJrPNO7x1LN3nmGfh7HOqKjAg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchgate.net/figure/The-experimental-process-of-SimufactAdditive-in-eight-steps_fig2_329892319",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://documentation.cadence.com/msc/Simufact/Simufact_2026.2/Simufact_Additive/Simufact_Additive_2026.2_Introducing_Simufact_Additive.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Simufact Additive reseller partner program",
+   "results": [
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "https://nexus.hexagon.com/home/product/simufact-additive/",
+    "https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/",
+    "https://www.youtube.com/watch?v=_ggoKIvpZ3U",
+    "https://simulatemore.mscsoftware.com/thermo-mechanical-calculation-method-for-your-metal-am-processes/",
+    "https://www.designworldonline.com/iti-and-simufact-partner-for-additive-manufacturing-simulation/",
+    "https://www.youtube.com/watch?v=nhJK7lGIltw",
+    "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "https://elioplus.com/profile/channel-partners/simufact"
+   ]
+  },
+  {
+   "query": "Simufact Additive pricing license",
+   "results": [
+    "https://simteq.co.za/blog/sharpen-the-saw-simufact-additive-cost-estimation/",
+    "https://help-be.hexagonmi.com/bundle/Simufact_Additive_2022_Installation_Guide/raw/resource/enus/Simufact_Additive_2022_Installation_Guide.pdf?save_local=true",
+    "https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "https://nexus.hexagon.com/home/product/simufact-additive/",
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "https://atlas.verdantix.com/hexagon/simufact-additive",
+    "https://www.youtube.com/watch?v=_iE1o59x-Po",
+    "https://manufacturing.toolsinfo.com/tool/simufact-additive"
+   ]
+  },
+  {
+   "query": "Simufact Additive Japan distributor",
+   "results": [
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://nexus.hexagon.com/home/product/simufact-additive/",
+    "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "https://www.youtube.com/watch?v=Z-0UO8olbRM",
+    "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "https://atlas.verdantix.com/hexagon/simufact-additive",
+    "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes",
+    "https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php"
+   ]
+  },
+  {
+   "query": "Simufact Additive 代理店",
+   "results": [
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://nexus.hexagon.com/home/product/simufact-additive/",
+    "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "http://www.netformmetal.com/software/simufact-additive-en",
+    "https://www.amfagroup.com/additive-manufacturing-am/",
+    "https://www.sigmasolutions.co.th/wp-content/uploads/2023/06/08042022162633__simufact_additive_brochure_2020.pdf",
+    "https://www.omcigroup.com/en/products/simufact-additive/",
+    "https://www.youtube.com/watch?v=qeC7IsKwYFo",
+    "https://www.ruanfujia.com/software_product/10386624/"
+   ]
+  },
+  {
+   "query": "Simufact Additive 価格",
+   "results": [
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "https://www.cadjapan.com/products/items/simufact/composition.html",
+    "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "https://simteq.co.za/blog/sharpen-the-saw-simufact-additive-cost-estimation/",
+    "https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/",
+    "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf",
+    "https://www.youtube.com/watch?v=qeC7IsKwYFo",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/",
+    "https://www.cadjapan.com/products/items/simufact/price.html"
+   ]
+  },
+  {
+   "query": "Simufact Additive free trial",
+   "results": [
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://simcompanion.hexagon.com/customers/s/article/Whats-New-in-Simufact-Additive-2026-1",
+    "https://simteq.co.za/products-engineering-simulation-software/simufact/simufact-additive/",
+    "https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "https://simulatemore.mscsoftware.com/simufact-additives-automated-distortion-compensation-functionality/",
+    "https://www.youtube.com/watch?v=nhJK7lGIltw",
+    "https://colab.research.google.com/drive/1otNQ6GQGJrPNO7x1LN3nmGfh7HOqKjAg",
+    "https://www.researchgate.net/figure/The-experimental-process-of-SimufactAdditive-in-eight-steps_fig2_329892319",
+    "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "https://nexus.hexagon.com/home/product/simufact-additive/"
+   ]
+  },
+  {
+   "query": "Simufact Additive company founded employees funding",
+   "results": [
+    "https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html",
+    "https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/",
+    "https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2",
+    "https://simulatemore.mscsoftware.com/simufact-additives-automated-distortion-compensation-functionality/",
+    "https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow",
+    "https://www.linkedin.com/posts/simufact-engineering-gmbh_significant-speed-up-with-the-latest-simufact-activity-7422690572680912896-pLoH",
+    "https://simteq.co.za/blog/sharpen-the-saw-simufact-additive-cost-estimation/",
+    "https://www.youtube.com/watch?v=_iE1o59x-Po",
+    "https://evotechcae.com/wp-content/uploads/2025/10/Hexagon_MI_Simufact_Additive_Brochure_A4_EN_2024_digital.pdf"
+   ]
+  }
+ ],
+ "missing": {
+  "日本語対応": "記載なし（読んだ30頁・検索7回）"
+ }
+}

@@ -1,0 +1,1492 @@
+{
+ "name": "Phase3D Fringe",
+ "en": "Phase3D",
+ "aliases": [
+  "Fringe Inspection",
+  "Phase 3D"
+ ],
+ "context": "造形中の監視・品質保証",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:38:15.119436+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D and Phillips Federal today announced a partnership that will make Phase3D’s advanced manufacturing inspection technology more accessible to defense organizations across North America. Under the agreement, Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market.",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D builds new Fringe Inspection hardware for OEM integration | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration.md",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D builds new Fringe Inspection hardware for OEM integration",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": ", purpose-built hardware designed for OEMs to build into laser powder bed fusion machines. The Chicago-based company explained that the product came out of a multi-year development project and moves it away from an architecture assembled from off-the-shelf components.",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "The design targets two groups: OEMs adding inspection to their platforms, and manufacturers extending the same measurement capability across more machines and production sites.",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "“This is the result of years of development focused on what comes next for additive manufacturing,” said Dr. Niall O’Dowd, Founder and CEO of Phase3D. “We have built a product specifically for LPBF, with the computing and connectivity to support OEM integration from the outset. We want manufacturers to know that Phase3D is preparing to scale with them.”",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Fringe Inspection can identify any variation in the powder or melted surface that is greater than 3-times the pixel size. For a standard installation Fringe Inspection can typically identify anomalies greater than 300 microns.",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "The second scan is of a rough surface. The variations in the surface cause distortion in the projected fringe pattern, which is captured by the camera and directly corresponds to differences in height across the area.",
+    "url": "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Introduces Next Generation of Fringe Inspection Designed for Scalable OEM Integration",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1. Phase3D’s next-generation Fringe Inspection hardware features a custom projector adapted specifically for LPBF and OEM integration.",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "— Phase3D is introducing the next generation of Fringe Inspection®, the result of a multi-year development project to create purpose-built inspection hardware for laser powder bed fusion (LPBF). The new product marks a major step in Phase3D’s evolution toward scalable OEM integration.",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "For manufacturers, scaling inspection means bringing the same measurement capability to more machines and production locations. For OEMs, it means incorporating inspection into their platforms with hardware developed for that role. The next generation of Fringe Inspection is designed around both requirements, establishing a foundation for repeatable deployment as manufacturing capacity grows.",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "“This is the result of years of development focused on what comes next for additive manufacturing,” said Dr. Niall O’Dowd, Founder and CEO of Phase3D. “We have built a product specifically for LPBF, with the computing and connectivity to support OEM integration from the outset. We want manufacturers to know that Phase3D is preparing to scale with them.”",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "M12 connectors serve camera data, power, local and machine networks, and inputs and outputs. Four hardware trigger channels accept 5–24 V signals, with additional options for software triggering and hands-off triggering using distance and light sensors. This flexibility accommodates different machine interfaces and inspection workflows as OEMs incorporate Fringe Inspection into their platforms.",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "Ahead of Formnext, the announcement signals a new chapter for Phase3D, purpose-built hardware with OEM integration and manufacturing scale driving its design. Phase3D is inviting OEMs and manufacturers to connect before the show to explore the next generation of Fringe Inspection and discuss integration opportunities. To arrange a conversation, contact sales@phase-3d.com.",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D closes oversubscribed $2.9 million funding round",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "has closed an oversubscribed funding round, raising $2.9 million to expand capabilities and accelerate software deployment.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze raises $10m to support US expansion",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive secures final EXIM loan agreement worth $27.4m",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D raises $2.9M to expand in-situ inspection for metal additive manufacturing | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D raises $2.9M to expand in-situ inspection for metal additive manufacturing",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "has closed a $2.9 million oversubscribed funding round led by Quest Venture Partners. Alongside the close, Ray Farrell joined the Phase3D board of directors, bringing more than 25 years of experience advising technology companies on intellectual property strategy and commercial growth.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs secures A$6 million to scale up turbojet engine production",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "User grants to Phase3D a non-exclusive, perpetual, irrevocable, transferable, fully sublicensable, royalty free and fully paid up worldwide right and license to use, reproduce, modify, make derivative works from, display, perform, distribute and transmit Data to: (",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "the Software and Hardware or Phase3D’s other products or services is voluntary. Phase3D is entitled to perpetually and irrevocably use, reproduce,",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "(b) Where the applicable Order is for a “Perpetual License” to Application Software, the following license grant shall apply: Subject to the terms of this EULA, Phase3D grants to User a limited, non-exclusive, non-transferable and non-sublicensable perpetual license to install and use the Application Software solely in connection with User’s use of the Hardware for its internal business purposes.",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Section 10.6 of the Terms and Conditions. Renewal fees and payment obligations are governed by the applicable Order and the Terms and Conditions. This provision does not renew a Perpetual License, a Hardware sale, a Services",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D has raised $3M.",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/blogs/resources/eos-phase3d-fringe-inspection%E2%84%A2-for-the-eos-m4-onyx?srsltid=AYCX9vIA5fvUh9C5h582fpzq0CP3AVV_Uqjp0b1aSeDIQjNX6HhXQNs3",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/blogs/resources/eos-phase3d-fringe-inspection%E2%84%A2-for-the-eos-m4-onyx?srsltid=AYCX9vIA5fvUh9C5h582fpzq0CP3AVV_Uqjp0b1aSeDIQjNX6HhXQNs3",
+    "pass": 3
+   },
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "pass": 3
+   },
+   {
+    "quote": "Participating members can claim a $500 @Program Cost Share credit once the Spotlight is published.",
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs secures A$6 million to scale up turbojet engine production",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Eka Robotics Secures $150 Million to Advance Physical AI",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to new data released by the Association for Advancing Automation (A3). Orders increased 24.8% in units and 26.1% in value compared to the third quarter of 2025, making it the strongest quarter of the year so far.",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "$3,995.00 USD",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vJ_RNsp5oPrRDHrcV3KzppFnZp5s5Tkg5smE1J1BGbs2dqNnrNR",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vJ_RNsp5oPrRDHrcV3KzppFnZp5s5Tkg5smE1J1BGbs2dqNnrNR",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "$1,000.00",
+    "url": "https://www.phase-3d.com/blogs/resources/formnext-2026-free-visitor-pass",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://www.phase-3d.com/blogs/resources/formnext-2026-free-visitor-pass",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Secures $2.9 Million To Scale In-Situ Inspection For Metal AM – Metrology and Quality News - Online Magazine",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Secures $2.9 Million To Scale In-Situ Inspection For Metal AM",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Both teams will be onsite for J-DAMMIT 2026 at Harrisburg University, August 25–27. Phillips Federal is exhibiting, and attendees can meet the Phase3D and Phillips teams at the Phillips exhibit to learn more about the partnership. The teams are also discussing an onsite demonstration, with details to follow if confirmed.",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Hands-on training at demonstration facilities",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "The video below demonstrates how fringe projection works in action. In the first scan, a flat reference surface is measured - representing a perfectly flat powder spreading. Here, the projected fringe patterns are uniform spacially across the surface.",
+    "url": "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "pass": 3
+   },
+   {
+    "quote": "CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "The energy technology manufacturer has already demonstrated that AM can deliver service parts for harsh environments. Now, the key is developing and maintaining a catalog of parts with their processes for consistent production on an as-needed basis.",
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "pass": 3
+   },
+   {
+    "quote": "The latest investment marks what Phase3D describes as its transition from technology validation towards commercial scale. Having established its structured-light metrology platform and demonstrated its application across customer deployments, the company now intends to move from a predominantly custom manufacturing approach to more standardised product manufacturing.",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Phase3D and Phillips Federal Partner for Defense Manufacturing",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D and Phillips Federal Partner to Expand Advanced Manufacturing Inspection Across the Defense Market",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D and Phillips Federal today announced a partnership that will make Phase3D’s advanced manufacturing inspection technology more accessible to defense organizations across North America. Under the agreement, Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market.",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership builds on Phase3D’s existing defense work, including systems deployed with the U.S. Navy’s Additive Manufacturing Center of Excellence in Danville, Virginia, and the Commonwealth Center for Advanced Manufacturing. The Phillips Federal relationship will allow Phase3D to extend that work across more defense organizations and manufacturing locations.",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Biomedical Engineering",
+    "url": "https://creativedestructionlab.com/companies/phase3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://creativedestructionlab.com/companies/phase3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” offered Farrell.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago-based metrology firm closes oversubscribed round as aerospace and defence customers drive demand for real-time build monitoring",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The company reported that the capital would be directed toward expanding manufacturing capacity, growing software and data science capabilities, and increasing the number of enterprise and government customer deployments.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ", uses structured-light metrology to capture layer-by-layer heightmap data during metal powder bed fusion builds. The technology gives manufacturers visibility into the build process as it occurs, with customers using the data to assess powder bed consistency, detect recoater interactions, analyze spatter deposition, and evaluate internal geometries.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The company currently serves 25 enterprise customers across aerospace, defense, and industrial markets. Active collaborations include NASA, the US Air Force, and the US Navy.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Farrell, who takes a seat on the board as part of the round, cited the company’s existing customer base as a key factor in his decision.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” he stated.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "as applicable to the Customer and the applicable Order. This EULA governs specifically the licensing and use of Phase3D Application Software and related Documentation. \"User,\" \"you,\" and \"your\" mean the Customer",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "As between User and Phase3D, User owns the Data. Section 8 of the Terms and Conditions governs Customer Data, the Data License, Usage Data and feedback, including User's privacy compliance,",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Critical Medical and Military Applications",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "as military grade are designed and intended for use in military/aerospace applications or environments. User acknowledges and agrees that any military or aerospace use of the Hardware or Software products which have not been so designated is solely at the User’s risk,",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Indemnification. User's defense,",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "This express software infringement obligation supplements the Customer indemnity in the Terms and Conditions; it does not replace that indemnity, create any Hardware or Services infringement indemnity, or alter the liability limits in Section 6 of the Terms and Conditions. Termination under this Section does not by itself",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging tech research on AI, healthcare, energy, and more",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an in-process data machine designed to decrease schedule delays and reduce energy waste.",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding AM opportunities for existing TNSC customers",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "(TNSC), one of Japan’s industrial giants and the country’s largest supplier of industrial gases. Founded in 1910, TNSC has played a key role in Japan’s industrial evolution, supplying key technologies for sectors like aerospace, medical devices, and defense. Now, through this partnership,",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "For industries that depend on absolute precision, such as aerospace and medical device manufacturing, this is a major leap forward. Errors caught early mean fewer costly defects, less material waste, and a much smoother production process overall.",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond gases, TNSC plays a key role in Japan’s manufacturing ecosystem, supporting industries like semiconductors, automotive, and aerospace. Metal AM is already a key focus area under its",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "Read the full customer success story now",
+    "url": "https://us.dmgmori.com/news-and-media/news/advanced-additive-manufacturing-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Fringe Inspection begins by aligning with each customer’s specifications. It uses a camera and projector, mounted outside the build chamber using available ports, to create a detailed heatmap. The system records and monitors the entire build process layer by layer, from powder spreading to melting and quantifies how much powder was spread across the entire layer.",
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to its advanced inspection capabilities, Phase3D’s strategic partnerships have helped bolster its Fringe Inspection product suite while contributing to the broader AM industry. Notable collaborations include partnerships with DMG MORI, NASA, Oak Ridge National Laboratory, the Department of Defense, and America Makes.",
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER STORIES",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Optical Sensors Enable High-Precision Inline Inspection of Automotive Spot Welds",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Metrology News showcases new product introductions, technology, innovation, research, people, customer applications, industry trends and sector dynamics.",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Use this text to answer questions in as much detail as possible for your customers.",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Fringe Inspection M290 Kit specifications to learn about the quality of measurements. System specifications can be modified depending on customers needs.",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "Data from Fringe Inspection is saved however the customer would prefer. Fringe Inspection data can be a fully air-gapped solution or linked to a cloud storage system depending on the customer's requirements.",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Phase3D closes oversubscribed $2.9 million funding round",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "has closed an oversubscribed funding round, raising $2.9 million to expand capabilities and accelerate software deployment.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” offered Farrell.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "has closed a $2.9 million oversubscribed funding round led by Quest Venture Partners. Alongside the close, Ray Farrell joined the Phase3D board of directors, bringing more than 25 years of experience advising technology companies on intellectual property strategy and commercial growth.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The company currently serves 25 enterprise customers across aerospace, defense, and industrial markets. Active collaborations include NASA, the US Air Force, and the US Navy.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” he stated.",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "any Confidential Information to any of its employees or contractors, except for Representatives who need to know such Phase3D Confidential Information. User shall make sure that such Representatives are subject to duties of confidentiality by internal policies or an individual non-disclosure agreement",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Non-Disparagement. User agrees that it shall not make disparaging statements oral or written regarding Phase3D or Phase3D’s employees, contractors, technology, products,",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "To view Phase3D’s complete valuation and funding history, request access »",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "When was Phase3D founded?",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D was founded in 2020.",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "What is Phase3D’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Phase3D is",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "How much funding has Phase3D raised over time?",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "(TNSC), one of Japan’s industrial giants and the country’s largest supplier of industrial gases. Founded in 1910, TNSC has played a key role in Japan’s industrial evolution, supplying key technologies for sectors like aerospace, medical devices, and defense. Now, through this partnership,",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "pass": 3
+   },
+   {
+    "quote": "Kreon Technologies has introduced ANEMO, a new 3D laser scanner designed for its Onyx portable measuring arm. The scanner combines high-speed data acquisition with fine resolution and a stated accuracy of 12 µm, targeting the inspection of complex components with tight tolerances.",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement",
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Fringe Inspection M290 Kit specifications to learn about the quality of measurements. System specifications can be modified depending on customers needs.",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる3Dモデル生成技術を開発するTripo AIは2026年9月1日、シリーズBおよびシリーズB+の資金調達ラウンドで、総額約30億元（2026年9月…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D currently supports approximately 25 enterprise customers across aerospace, defence and industrial sectors, including collaborations with NASA, the U.S. Air Force and the U.S. Navy. According to the company, these organisations are helping drive demand for inspection technologies capable of providing traceable, quantitative process data that can support qualification workflows.",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Kreon Technologies has introduced ANEMO, a new 3D laser scanner designed for its Onyx portable measuring arm. The scanner combines high-speed data acquisition with fine resolution and a stated accuracy of 12 µm, targeting the inspection of complex components with tight tolerances.",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Today we're announcing the the close of an oversubscribed $2.9 million funding round led by Quest Venture Partners, with participation from Trinity Capital, Kinisis Ventures, Leroy Street Capital Partners, Asimov Ventures, New York Angels Investment Group, and Chicago Booth Angel Network.",
+    "url": "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D currently supports 25 enterprise customers across aerospace, defense and industrial markets, with deployments and collaborations spanning organisations including NASA, the U.S. Air Force and the U.S. Navy.",
+    "url": "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "pass": 3
+   },
+   {
+    "quote": "\"When the Phase3D opportunity came up, what stood out was the early customer traction. It's special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA.\" – Ray Farrell",
+    "url": "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "pass": 3
+   },
+   {
+    "quote": "We're grateful to our investors for their confidence, to our customers for pushing the technology into demanding environments, and to the entire Phase3D team for helping build the foundation that makes this next chapter possible.",
+    "url": "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "pass": 3
+   },
+   {
+    "quote": "the Chicago-based expert in real-time quality inspection for metal additive manufacturing (AM), has closed an oversubscribed $2.9M funding round. Quest Venture Partners led the round, with participation from Trinity Capital, Kinisis Ventures, Leroy Street Capital Partners, Asimov Ventures and others. The capital will scale up",
+    "url": "https://3dadept.com/phase3d-closes-oversubscribed-2-9m-round-to-scale-real-time-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to announce Phase3D’s completion of a pivotal funding round. We have raised capital to support the continued growth and increasing deployments of our flagship quality inspection product for metal 3D printing. This investment will catalyze faster adoption of real-time quality inspection for additive manufacturing, and we are very excited for the future",
+    "url": "https://3dadept.com/phase3d-closes-oversubscribed-2-9m-round-to-scale-real-time-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Raises Funding to Scale In-Process Inspection for Metal Additive Manufacturing - News and Statistics - IndexBox",
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Completes Funding Round, Shifts to Standardized Manufacturing for Metal 3D Printing Inspection",
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D has announced the completion of a funding round, marking what the company describes as a deliberate new chapter. The company plans to transition from a high-mix custom build model to standardized product manufacturing at scale, according to the source.",
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Niall O'Dowd, founder and CEO of Phase3D, commented that the capital raised will support continued growth and increasing deployments of the company's flagship quality inspection product for metal 3D printing. He indicated that the investment will catalyze faster adoption of real-time quality inspection for additive manufacturing.",
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Farrell commented that what stood out about the Phase3D opportunity was its early customer traction, noting that it is special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA.",
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Select Water Solutions Completes $700 Million Acquisition of Pilot Water Solutions",
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Phase3D and Phillips Federal Partner for Defense ... — Phase3D and Phillips Federal Partner for Defense ... Phase3D https://www.phase-3d.com > resources",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D - LinkedIn — Phase3D - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/phase-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D - Creative Destruction Lab — Phase3D - Creative Destruction Lab Creative Destruction Lab https://creativedestructionlab.com > p...",
+    "url": "https://creativedestructionlab.com/companies/phase3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D closes oversubscribed $2.9 million funding round — Phase3D closes oversubscribed $2.9 million funding round TCT Magazine https://www.tctmagazine.com > phase...",
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Software for Additive Manufacturing – Phase3D — Software for Additive Manufacturing – Phase3D Phase3D https://www.phase-3d.com",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D : Real-time Inspection for Additive Manufacturing — Phase3D : Real-time Inspection for Additive Manufacturing LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/ampulse-daily_innovation-ai-startups-activity-7373131831929614336-1wBp",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D raises $2.9M to expand in-situ inspection for metal ... — Phase3D raises $2.9M to expand in-situ inspection for metal ... VoxelMatters https://www.voxelmatters.com > phas...",
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Application Software End User License Agreement - Phase 3D — Application Software End User License Agreement - Phase 3D Phase3D https://www.phase-3d.com > pages",
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D - Crunchbase Company Profile & Funding — Phase3D - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > phase3d",
+    "url": "https://www.crunchbase.com/organization/phase3d",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Expands into Japanese Market Through Strategic ... — Phase3D Expands into Japanese Market Through Strategic ... Phase3D https://www.phase-3d.com > resources",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D and TNSC Join Forces to Shake up Japan's 3D ... — Phase3D and TNSC Join Forces to Shake up Japan's 3D ... 3DPrint.com https://3dprint.com > phase3d-and-tns...",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D and DMG MORI Announce Research Collaboration ... — Phase3D and DMG MORI Announce Research Collaboration ... us.dmgmori.com https://us.dmgmori.com > news > adv...",
+    "url": "https://us.dmgmori.com/news-and-media/news/advanced-additive-manufacturing-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Ushers in New Era of In-Situ Inspection for Metal ... — Phase3D Ushers in New Era of In-Situ Inspection for Metal ... Argonne National Laboratory (.gov) https://chainreaction.anl.gov > phase3...",
+    "url": "https://chainreaction.anl.gov/phase3d-ushers-in-new-era-of-in-situ-inspection-for-metal-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS × Phase3D : Fringe Inspection™ for the AM — EOS × Phase3D : Fringe Inspection™ for the AM Phase3D https://www.phase-3d.com > resources",
+    "url": "https://www.phase-3d.com/blogs/resources/eos-phase3d-fringe-inspection%E2%84%A2-for-the-eos-m4-onyx?srsltid=AYCX9vIA5fvUh9C5h582fpzq0CP3AVV_Uqjp0b1aSeDIQjNX6HhXQNs3",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D's Fringe Inspection Technology Eliminates ... — Phase3D's Fringe Inspection Technology Eliminates ... America Makes https://www.americamakes.us > phase...",
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D builds new Fringe Inspection hardware for OEM ... — Phase3D builds new Fringe Inspection hardware for OEM ... VoxelMatters https://www.voxelmatters.com > phas...",
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D introduces next-generation Fringe Inspection ... — Phase3D introduces next-generation Fringe Inspection ... Metal Additive Manufacturing magazine https://www.metal-am.com > phase3d...",
+    "url": "https://www.metal-am.com/phase3d-introduces-next-generation-fringe-inspection-hardware-for-pbf-lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Software for Additive Manufacturing – Phase3D — Software for Additive Manufacturing – Phase3D Phase3D https://www.phase-3d.com",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vJppZM4iz-nFxcHMVzm_AYdU4AsJVBFa7vE24uMFig9K_Qvr-FG",
+    "pass": 3
+   },
+   {
+    "quote": "Fringe Inspection M290 Kit - Phase 3D — Fringe Inspection M290 Kit - Phase 3D Phase3D https://www.phase-3d.com > products",
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "pass": 3
+   },
+   {
+    "quote": "Fringe Projection Technology for Additive Manufacturing — Fringe Projection Technology for Additive Manufacturing Phase3D https://www.phase-3d.com > pages",
+    "url": "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "pass": 3
+   },
+   {
+    "quote": "当社パートナー” Phase3D 社”が Fringe Inspection™ によって ... — 当社パートナー” Phase3D 社”が Fringe Inspection™ によって ... shopping.3dpro.jp https://shopping.3dpro.jp > blogs > news > 当社パートナ...",
+    "url": "https://shopping.3dpro.jp/blogs/news/%E5%BD%93%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC-phase3d-%E3%81%AB%E3%81%A6am-%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8A-%E5%AE%9F%E7%92%B0%E5%A2%83%E3%81%A7-fringe-inspection%E2%84%A2-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E7%B5%8C%E9%A8%93%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E5%90%88%E3%81%84%E3%81%BE%E3%81%99",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Unveils Next-Generation Fringe Inspection for LPBF — Phase3D Unveils Next-Generation Fringe Inspection for LPBF Phase3D https://www.phase-3d.com > resources",
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "pass": 3
+   },
+   {
+    "quote": "Fringe Inspection - Phase 3D — Fringe Inspection - Phase 3D Phase3D https://www.phase-3d.com > pages",
+    "url": "https://www.phase-3d.com/pages/fringe-inspection?srsltid=AYCX9vJIUj2kqObZlH2LJw4_Cntl2KSx9N-JnQWi14I4dRt-9NuXjw69",
+    "pass": 3
+   },
+   {
+    "quote": "Software for Additive Manufacturing – Phase3D — Software for Additive Manufacturing – Phase3D Phase3D https://www.phase-3d.com",
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vJ_RNsp5oPrRDHrcV3KzppFnZp5s5Tkg5smE1J1BGbs2dqNnrNR",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D : Precision You Can See - YouTube — Phase3D : Precision You Can See - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=bcYWNAFZGy0",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D - 2026 Company Profile & Team - Tracxn — Phase3D - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/phase3d/__D85LJYy3ReoD7Ah81rfMo7LO3lDtt9KOv3zT7kXuJUU",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D 2026 Company Profile: Valuation, Funding & Investors — Phase3D 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Secures $2.9 Million To Scale In-Situ Inspection For ... — Phase3D Secures $2.9 Million To Scale In-Situ Inspection For ... Metrology and Quality News https://metrology.news > phase3d-sec...",
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The Next Chapter for Phase3D — The Next Chapter for Phase3D Phase3D https://www.phase-3d.com > resources",
+    "url": "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Phase3D Expands into Japanese Market Through Strategic Partnership wit",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D Expands into Japanese Market Through Strategic Partnership with TNSC",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "“Phase3D’s innovative approach to AM inspection aligns perfectly with our commitment to advanced manufacturing solutions,” says Hirotaka Mangyo, Innovation Division Director of TNSC. “Their metrology-based technology fills a critical need in Japanese market for objective, measurement-based quality assurance in additive manufacturing.”",
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "pass": 3
+   },
+   {
+    "quote": "This collaboration gives Japanese manufacturers direct access to Phase3D’s",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   },
+   {
+    "quote": "TNSC Innovation Division Director Hirotaka Mangyo points out that “Phase3D’s innovative approach to AM inspection aligns perfectly with our commitment to advanced manufacturing solutions. Their metrology-based technology fills a critical need in the Japanese market for objective, measurement-based quality assurance in additive manufacturing.”",
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "日本酸素ホールディングスグループの日本産業ガス事業を担う大陽日酸株式会社（東京都品川区、以下、大陽日酸）は、Phase3D社（米国イリノイ州）が開発した金属AM向け造形品質モニタリングシステム「Fringe Inspection」の国内販売に向けた契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単に3Dモデル作成が可能に！新ツール「ParamaCraft」を発表 ― 株式会社fume",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業AIデータプラットフォーム「CADDi」を発表、部品・組立品製造サービスを終了 ― キャディ株式会社",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "キャディ株式会社（東京都台東区）は、新たな構想、製造業AIデータプラットフォーム「CADDi」（現CADDi Manufacturig）を発表した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creativedestructionlab.com/companies/phase3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.milestonesys.com/partners/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/phase3d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/466695-28",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.dmgmori.com/news-and-media/news/advanced-additive-manufacturing-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chainreaction.anl.gov/phase3d-ushers-in-new-era-of-in-situ-inspection-for-metal-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/blogs/resources/eos-phase3d-fringe-inspection%E2%84%A2-for-the-eos-m4-onyx?srsltid=AYCX9vIA5fvUh9C5h582fpzq0CP3AVV_Uqjp0b1aSeDIQjNX6HhXQNs3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/phase3d-introduces-next-generation-fringe-inspection-hardware-for-pbf-lb/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shopping.3dpro.jp/blogs/news/%E5%BD%93%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC-phase3d-%E3%81%AB%E3%81%A6am-%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8A-%E5%AE%9F%E7%92%B0%E5%A2%83%E3%81%A7-fringe-inspection%E2%84%A2-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E7%B5%8C%E9%A8%93%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E5%90%88%E3%81%84%E3%81%BE%E3%81%99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/?srsltid=AYCX9vJ_RNsp5oPrRDHrcV3KzppFnZp5s5Tkg5smE1J1BGbs2dqNnrNR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/blogs/resources/formnext-2026-free-visitor-pass",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/phase3ds-fringe-inspection-offers-real-time-monitoring-for-metal-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/phase3d/__D85LJYy3ReoD7Ah81rfMo7LO3lDtt9KOv3zT7kXuJUU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dadept.com/phase3d-closes-oversubscribed-2-9m-round-to-scale-real-time-inspection-for-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Phase3D reseller partner program",
+   "results": [
+    "https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN",
+    "https://www.linkedin.com/company/phase-3d",
+    "https://www.materialise.com/en/industrial/software/partnerships",
+    "https://creativedestructionlab.com/companies/phase3d/",
+    "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "http://www.milestonesys.com/partners/reseller-program/",
+    "https://www.3ds.com/partners/locate-partner",
+    "https://f4.fund/startups/phase-3d",
+    "https://www.youtube.com/watch?v=YDBNuVEUMko",
+    "https://www.phase-3d.com/"
+   ]
+  },
+  {
+   "query": "Phase3D pricing license",
+   "results": [
+    "https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA",
+    "https://creativedestructionlab.com/companies/phase3d/",
+    "https://www.linkedin.com/posts/ampulse-daily_innovation-ai-startups-activity-7373131831929614336-1wBp",
+    "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k",
+    "https://www.crunchbase.com/organization/phase3d",
+    "https://www.youtube.com/watch?v=YDBNuVEUMko",
+    "https://pitchbook.com/profiles/company/466695-28",
+    "https://www.3dnatives.com/en/startup3d-phase3d-real-time-inspection-solution-3d-printing-040420244/",
+    "https://www.phase-3d.com/pages/application-software-end-user-license-agreement"
+   ]
+  },
+  {
+   "query": "Phase3D Japan distributor",
+   "results": [
+    "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14",
+    "https://www.linkedin.com/company/phase-3d",
+    "https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/",
+    "https://us.dmgmori.com/news-and-media/news/advanced-additive-manufacturing-technology",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://chainreaction.anl.gov/phase3d-ushers-in-new-era-of-in-situ-inspection-for-metal-additive-manufacturing/",
+    "https://creativedestructionlab.com/companies/phase3d/",
+    "https://www.3dnatives.com/en/startup3d-phase3d-real-time-inspection-solution-3d-printing-040420244/",
+    "https://www.3dpro.jp/phase3d_fringeinspections/",
+    "https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc"
+   ]
+  },
+  {
+   "query": "Phase3D Fringe 代理店",
+   "results": [
+    "https://www.phase-3d.com/blogs/resources/eos-phase3d-fringe-inspection%E2%84%A2-for-the-eos-m4-onyx?srsltid=AYCX9vIA5fvUh9C5h582fpzq0CP3AVV_Uqjp0b1aSeDIQjNX6HhXQNs3",
+    "https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/",
+    "https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/",
+    "https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/",
+    "https://www.metal-am.com/phase3d-introduces-next-generation-fringe-inspection-hardware-for-pbf-lb/",
+    "https://www.phase-3d.com/?srsltid=AYCX9vJppZM4iz-nFxcHMVzm_AYdU4AsJVBFa7vE24uMFig9K_Qvr-FG",
+    "https://www.tctmagazine.com/phase3d-to-extend-fringe-inspection-into-ceramic-matrix-composites-with-air-force-funding/",
+    "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "https://www.linkedin.com/posts/outoftol-news_phase3d-joins-ati-led-project-to-overhaul-activity-7495133156166115328--aBn",
+    "https://www.phase-3d.com/"
+   ]
+  },
+  {
+   "query": "Phase3D Fringe 価格",
+   "results": [
+    "https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0",
+    "https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz",
+    "https://shopping.3dpro.jp/blogs/news/%E5%BD%93%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC-phase3d-%E3%81%AB%E3%81%A6am-%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8A-%E5%AE%9F%E7%92%B0%E5%A2%83%E3%81%A7-fringe-inspection%E2%84%A2-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E7%B5%8C%E9%A8%93%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E5%90%88%E3%81%84%E3%81%BE%E3%81%99",
+    "https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/",
+    "https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4",
+    "https://www.phase-3d.com/pages/fringe-inspection?srsltid=AYCX9vJIUj2kqObZlH2LJw4_Cntl2KSx9N-JnQWi14I4dRt-9NuXjw69",
+    "https://www.materialise.com/ja/news/press-releases/control-3d-printing-process",
+    "https://www.thefaceshop.com/mall/product/product-view.jsp?dpid=AF011628",
+    "https://www.lcsc.com/product-detail/C124408.html?currency=JPY",
+    "https://value-finder.co.jp/product/金属3dプリンター用造形品質モニタリングシステム/"
+   ]
+  },
+  {
+   "query": "Phase3D free trial",
+   "results": [
+    "https://www.phase-3d.com/?srsltid=AYCX9vJ_RNsp5oPrRDHrcV3KzppFnZp5s5Tkg5smE1J1BGbs2dqNnrNR",
+    "https://creativedestructionlab.com/companies/phase3d/",
+    "https://us.dmgmori.com/news-and-media/news/advanced-additive-manufacturing-technology",
+    "https://www.youtube.com/watch?v=bcYWNAFZGy0",
+    "https://chainreaction.anl.gov/phase3d-ushers-in-new-era-of-in-situ-inspection-for-metal-additive-manufacturing/",
+    "https://www.crunchbase.com/organization/phase3d",
+    "https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/",
+    "https://www.linkedin.com/posts/ampulse-daily_innovation-ai-startups-activity-7373131831929614336-1wBp",
+    "https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection",
+    "https://www.phase-3d.com/"
+   ]
+  },
+  {
+   "query": "Phase3D company founded employees funding",
+   "results": [
+    "https://tracxn.com/d/companies/phase3d/__D85LJYy3ReoD7Ah81rfMo7LO3lDtt9KOv3zT7kXuJUU",
+    "https://pitchbook.com/profiles/company/466695-28",
+    "https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/",
+    "https://www.phase-3d.com/blogs/resources/next-chapter-phase3d-scaling-in-situ-inspection-metal-additive-manufacturing?srsltid=AYCX9vJwYFN2_0ATgMjI5z-3F4znbO0nCnjyCZDkNeN98vDWMaOoscq2",
+    "https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/",
+    "https://www.crunchbase.com/organization/phase3d",
+    "https://3dadept.com/phase3d-closes-oversubscribed-2-9m-round-to-scale-real-time-inspection-for-metal-am/",
+    "https://www.linkedin.com/posts/phase-3d_phase3d-close-investment-round-activity-7474853746951434240-by7G",
+    "https://www.indexbox.io/blog/phase3d-completes-funding-round-shifts-to-standardized-manufacturing-for-metal-3d-printing-inspection/",
+    "https://www.phase-3d.com/pages/about-us"
+   ]
+  }
+ ],
+ "missing": {}
+}

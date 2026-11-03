@@ -1,0 +1,1016 @@
+{
+ "name": "Dyndrite",
+ "en": "Dyndrite",
+ "aliases": [
+  "Dyndrite LPBF Pro"
+ ],
+ "context": "造形の準備（金属・GPU）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:30:46.036690+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "relationship with our OEM partners.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "After years of working with startups and established machine manufactures, Dyndrite has developed an OEM relationship methodology, split across six broad phases. Technical and commercial discussions proceed in parallel to ensure requirements are understood, technical value is quickly shown, and commercial objectives agreed upon.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Our fees are driven by your requirements and timescales with flexibility. Flexible annual pricing and royalty models are designed to accommodate a variety of R&D and commercial objectives. We particularly appreciate the financial pressures on start-ups and have a range of options to reflect your point in the business creation journey.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated learning is enriched and applicable for all experience levels. The software presents an integrated documentation and scripting interface that educates users as they interact with the product. Customers are said to report quick adoption across varied user experience levels.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "The software is well suited for a variety of industries, including aerospace, defense, rocketry, automotive, energy and medical.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Their deep expertise across metal LPBF, materials, hardware and applications perfectly complements Dyndrite’s mission to provide users with the advanced tools required to scale production-ready metal additive manufacturing. Together, we can help end-users maker better parts faster, with OEM interoperability and using novel Qualification strategies to reduce time to market and drive down cost",
+    "url": "https://www.iam3dhub.org/dyndrite-new-technological-partner-on-board-at-iam3dhub/",
+    "pass": 3
+   },
+   {
+    "quote": "Effortlessly handle a broad range of file types and machines natively. Leverage our advanced toolpath APIs to access advanced materials and parameter development across various additive processes including",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite LPBF Pro interfaces directly with a wide variety of 3D metal printing machines including: Aconity3D, Renishaw, SLM, and others. Dyndrite is a member of the EOS developer network.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with machine OEMS, local 3D metal printing manufacturers and service providers.",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "THREE (3) NEW OEMS SELECT DYNDRITE TO DRIVE THEIR AM PROCESS",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Original Equipment Manufacturers (OEMs)",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The Dyndrite Developer Council (DDC) is an invite-only, CTO-led organization that uses its technical and business expertise to advance the state of the digital manufacturing industry. The DDC includes over 25 members representing OEMs and ISVs that account for over 90% of the industrial 3D printers sold each year, and close to 1 million jobs around the world.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "*Functionality is contingent on the machine OEM's 'openness'",
+    "url": "https://www.dyndrite.com/lpbf-product",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Dyndrite Awards $10,000 Innovation Prize to University of Waterloo Researchers in Inaugural Student Competition",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Selected to Support $5.5M America Makes GOTHAAM Program to Advance Qualification of High-Strength Aluminum for Additive Manufacturing",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Sponsors ASTM ICAM 2026 at the Leader Level, Launches $10,000 Student Grant Competition to Accelerate Metal Additive Manufacturing Adoption",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Awards $10,000 Innovation Prize to University of Waterloo Researchers in Inaugural Student Competition",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Selected to Support $5.5M America Makes GOTHAAM Program to Advance Qualification of High-Strength Aluminum for Additive Manufacturing",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Sponsors ASTM ICAM 2026 at the Leader Level, Launches $10,000 Student Grant Competition to Accelerate Metal Additive Manufacturing Adoption",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Gradient Ventures, Google’s AI-focused Investment Fund and Carl Bass, former Autodesk CEO. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "September 25th, 2025 – Seattle, WA",
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "This is a limited-seating 1 day workshop event. While it’s free to attend, your attendance would be at your own cost for travel and accommodations. Bringing a laptop is required to maximize the workshop experience.",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "This is a limited-seating 1 day workshop event. While it’s free to attend, your attendance would be at your own cost for travel and accommodations. Bringing a laptop is highly recommended to maximize the workshop experience.",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "October, 7, 2025, Seattle",
+    "url": "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/72163/",
+    "pass": 3
+   },
+   {
+    "quote": "A complimentary 30-day trial seat of Dyndrite LPBF Pro.",
+    "url": "https://www.dyndrite.com/vip",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021. For more information visit:",
+    "url": "https://www.ulendo.io/news/ulendo-introduces-first-add-in-to-dyndrite-lpbf-pro",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite is part of the project team that was awarded the $2.87M America Makes AM Material Datasets defense project.",
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite is a proud part of the project team that was awarded the $2.875M America Makes AM Material Datasets defense project, funded by OSD(R&E) and AFRL, which demonstrates our leadership in advancing defense AM with innovative material science.",
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Proud Project Principal of $1.3M award with participants including Siemens Energy, ASTM International, and the U.S. Department of Defense. Effort to bring documented improvements to metal 3D printing operational qualification through software automation.",
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Veteran investors from the CAD industry join investors with a focus on computing for $10+ million Series A round",
+    "url": "https://www.dyndrite.com/press-releases/gradient-ventures-googles-ai-focused-venture-fund-to-lead-dyndrite-series-a-financing",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite's focus within the $50 Billion design and manufacturing industry is to help boost productivity for additive manufacturing, with specific use cases in aerospace, medical, energy, and automotive applications. In these sectors, there is particular urgency for addressing the growing gap between 3D printing hardware and the software that supports it.",
+    "url": "https://www.dyndrite.com/press-releases/gradient-ventures-googles-ai-focused-venture-fund-to-lead-dyndrite-series-a-financing",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Customer Engagement Process",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Customer Engagement Process",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why, unlike off-the-shelf build prep software, Dyndrite provides a “concierge” service to all our ADK customers. We serve as your development partner every step of the way, assisting and tuning your Dyndrite-powered Additive application to exceed your expectations.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Delight your customers",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Give customers a tool that can grow with their needs.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Allow Customers to build-out production workflows already tailored to your tech.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "Allow Customers to easily integrate your machine into their production systems.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "This process is tailored to each individual customer’s needs. Proof of concept deliverables are common to show technical value, and stage progression is fast, often starting full customer projects within a few weeks of initial introductions.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker partners with Singapore-based MedTech startup Bioactivx under a new MOU to co-develop a scalable, on-demand medical printing solution for regenerative wound care, as Bioactivx earns HSA approval for its Bioactiv Matrix — manufactured on UltiMaker systems.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Uptive Manufacturing has its roots in AM’s Wild West entrepreneurial past, but today it helps customers of all sizes use the technology as a strategic manufacturing option.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "QuesTek Innovations adds the Niobium Suite to its Icmd materials design and engineering platform, developed in collaboration with niobium producer CBMM to accelerate design of high-performance alloys for aerospace, energy and additive manufacturing.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "AUVSI Defense / Drone & AAM Policy Symposium",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "AUVSI hosts AUVSI Defense / Drone & AAM Policy Symposium on Nov. 9-10, 2026 in Washington, DC.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated learning is enriched and applicable for all experience levels. The software presents an integrated documentation and scripting interface that educates users as they interact with the product. Customers are said to report quick adoption across varied user experience levels.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "The software is well suited for a variety of industries, including aerospace, defense, rocketry, automotive, energy and medical.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Newly redesigned desktop version of powerful defect-detection tool in VGSTUDIO MAX won for ease-of-use in aerospace, automotive and other industries that must meet the highest standards of quality and safety",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/videos/dyndrite-delivering-the-future-of-additive-manufacturing-today",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Ready since Day One. Engineers need powerful tools that give them an edge, and Dyndrite LPBF Pro delivers exactly that. With AI-assisted coding, you don’t need to be an expert programmer to use it: just describe what you want and build it. From rocketry and aerospace to automotive, medical, consumer, and energy production, LPBF Pro puts more power in every engineer’s hands.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "case study",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Read the Case Study",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Select list of customers, partners, and",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Use multi-threaded CPU cores and scalable GPUs so your customers and technicians speed through workflows easily. Handle massive datasets, reduce build prep time, and lower part costs.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Innovation within software is critical to maximizing the customer’s needs, Dyndrite provides us with this capability – IP-protected, machine-specific software innovation to unlock the potential of our machines, materials, and new business models.\"",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "“For over 6 years AMS has worked with aerospace, space and motorsport companies to push the boundaries of what’s possible in LPBF,” said Rob Higham, CEO of Additive Manufacturing Services (AMS) Ltd. “Within two days of using Dyndrite we were able to print a thin-walled heat exchanger that, for over 18 months others attempted and failed to print - such an achievement speaks for itself.”",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": ". Through this program customers receive direct hands-on support in applying Dyndrite to their metal printing use.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s team of mathematicians, computer scientists, and engineers exists to help our partners and customers solve the toughest geometry, compute and automation problems so they can deliver digital manufacturing systems at scale. We aim to ignite their purpose.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/videos/the-build-episode-1-why-do-we-need-new-software-for-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-size, large and enterprise organizations in Aerospace & Defense, Automotive, Healthcare and 2 more industries in United States.",
+    "url": "https://worldopex.com/business/dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer size",
+    "url": "https://worldopex.com/business/dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://worldopex.com/business/dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://worldopex.com/business/dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite™, providers of next generation industrial software for additive manufacturing, today announced support for Additive Industries’ MetalFab™ industrial 3D printers. The collaboration brings Dyndrite LPBF Pro’s powerful toolpath, agile qualification and build automation tools to Additive Industries’ customers in the aerospace, automotive, defense, and energy industries.",
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "“Additive Industries provides a machine with full field lasers and spot size control,” said Harshil Goel, founder and CEO at Dyndrite. “By pairing their robust MetalFab™ platform with Dyndrite LPBF Pro’s toolpath control, we’re unlocking new capabilities in their proven platform. We continue to work closely with the Additive Industries’ engineers to unlock further benefits for customers.”",
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/press-coverage/cad-japan-dyndrite-she-gagpu-dui-ying-ziometorienzin-accelerated-geometry-kernel-wofa-biao",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted in collaboration with our partners, the Dyndrite workshop is designed for professionals across space, defense, aerospace, energy, medical, automotive, and advanced manufacturing.",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted by: AMUK. GKN Aerospace (Bristol)",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/videos/ddc-2020-vendor-making-3d-printing-accessible-to-manufacturers-and-engineers-desktop-metal",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "pass": 3
+   },
+   {
+    "quote": "Power democratized",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "First Public Demonstration of DyndritE @ AMUG Chicago",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to secure your VIP spot on our onboarding schedule? Sign up now for your free trial.",
+    "url": "https://www.dyndrite.com/vip",
+    "pass": 3
+   },
+   {
+    "quote": "A complimentary 30-day trial seat of Dyndrite LPBF Pro.",
+    "url": "https://www.dyndrite.com/vip",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for your free trial today!",
+    "url": "https://www.dyndrite.com/vip",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Free Trial",
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite is a proud part of the project team that was awarded the $2.875M America Makes AM Material Datasets defense project, funded by OSD(R&E) and AFRL, which demonstrates our leadership in advancing defense AM with innovative material science.",
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Dyndrite : New Technological Partner on Board at IAM3DHUB — Dyndrite : New Technological Partner on Board at IAM3DHUB IAM3DHUB https://www.iam3dhub.org > dyndrite...",
+    "url": "https://www.iam3dhub.org/dyndrite-new-technological-partner-on-board-at-iam3dhub/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Developer Conference 2021 — Dyndrite Developer Conference 2021 Dyndrite https://www.dyndrite.com > dyndrite-...",
+    "url": "https://www.dyndrite.com/dyndrite-developer-conference-2021",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Releases LPBF Pro Software for 3D Metal Printing ... — Dyndrite Releases LPBF Pro Software for 3D Metal Printing ... Dyndrite https://www.dyndrite.com > dyndrite-...",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "Why do we need new software for Additive? | Dyndrite — Why do we need new software for Additive? | Dyndrite Dyndrite https://www.dyndrite.com > videos > the-build-episode-1-...",
+    "url": "https://www.dyndrite.com/videos/the-build-episode-1-why-do-we-need-new-software-for-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite World Tour 2026 — Dyndrite World Tour 2026 Dyndrite https://www.dyndrite.com > dyndrite-...",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "DDC 2020 Vendor: Making 3D Printing Accessible ... - Dyndrite — DDC 2020 Vendor: Making 3D Printing Accessible ... - Dyndrite Dyndrite https://www.dyndrite.com > videos",
+    "url": "https://www.dyndrite.com/videos/ddc-2020-vendor-making-3d-printing-accessible-to-manufacturers-and-engineers-desktop-metal",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite LPBF Pro — Dyndrite LPBF Pro 8586374.fs1.hubspotusercontent-na1.net PDF https://8586374.fs1.hubspotusercontent-na1.net > D...",
+    "url": "https://8586374.fs1.hubspotusercontent-na1.net/hubfs/8586374/Dyndrite%20A3%20LPBF%20Brochure.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite はRWTHアーヘン大学の新しいLPBFオープン ... — Dyndrite はRWTHアーヘン大学の新しいLPBFオープン ... 3Druck.com https://3druck.com > ホーム > ソフトウェア",
+    "url": "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/dyndrite%E3%81%AFrwth-aachen-15113132%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84lpbf%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83/",
+    "pass": 3
+   },
+   {
+    "quote": "The Build Episode 4 - Support Free Additive - Dyndrite — The Build Episode 4 - Support Free Additive - Dyndrite Dyndrite https://www.dyndrite.com > videos > the-build-episode-4-...",
+    "url": "https://www.dyndrite.com/videos/the-build-episode-4-support-free-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Metal 3D Printing for Military Applications - Dyndrite — Advanced Metal 3D Printing for Military Applications - Dyndrite Dyndrite https://www.dyndrite.com > military-...",
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite - 2026 Company Profile, Team, Funding & Competitors — Dyndrite - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "This approach is novel as it shows how optimal print parameters can be systematically derived, and a functional process engineering window explored using Dyndrite software with the Renishaw QuantAM’s API to allow complete control of RenAM500 series laser parameters to make more performant parts faster, especially useful with multi-laser systems.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Gradient Ventures, Google’s AI-focused Investment Fund and Carl Bass, former Autodesk CEO. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "pass": 3
+   },
+   {
+    "quote": "Founded 2016",
+    "url": "https://worldopex.com/business/dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite™, providers of next generation industrial software for additive manufacturing, today announced support for Additive Industries’ MetalFab™ industrial 3D printers. The collaboration brings Dyndrite LPBF Pro’s powerful toolpath, agile qualification and build automation tools to Additive Industries’ customers in the aerospace, automotive, defense, and energy industries.",
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "迅速に概念を構築し解決策を提示する能力が評価され、2017年にDyndriteを設立",
+    "url": "https://www.eos.info/ja/content/blog/know-how/mathematics-behind-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、Meteorの主な競争相手は、最近、別の 3Dプリンタベンダーである Nano Dimensionに買収された GISであることは、注目に値します",
+    "url": "https://ohno-inkjet.com/?p=62186",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021. For more information visit:",
+    "url": "https://www.ulendo.io/news/ulendo-introduces-first-add-in-to-dyndrite-lpbf-pro",
+    "pass": 3
+   },
+   {
+    "quote": "Veteran investors from the CAD industry join investors with a focus on computing for $10+ million Series A round",
+    "url": "https://www.dyndrite.com/press-releases/gradient-ventures-googles-ai-focused-venture-fund-to-lead-dyndrite-series-a-financing",
+    "pass": 3
+   },
+   {
+    "quote": "\"At Velo3D, supporting our customers and advancing the state of additive manufacturing are at the core of what we do,\" said Darren Beckett, Chief Technology Officer at Velo3D. \"By bringing Dyndrite onto our platform, we've created a true 1+1=3 moment: our technology plus their software gives customers capabilities they've never had before with any other combination of technologies.\"",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "pass": 3
+   },
+   {
+    "quote": "\"Velo3D has long recognized the powerful role software plays in advanced AM workflows, and with their support we're excited to extend our capabilities to their customers,\" said Harshil Goel, Founder & CEO of Dyndrite. \"By adding Dyndrite LPBF Pro, Velo3D users gain new advanced control they need to push process development further, accelerating innovation and paving the way for production.\"",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "pass": 3
+   },
+   {
+    "quote": "This integration underscores Velo3D's commitment to providing customers with open, flexible platforms that foster innovation at scale. It also reinforces Dyndrite's mission to transform additive manufacturing from a manual, trial-and-error process into an automated, software-defined, production-ready solution.",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "Tokyo • Los Angeles • AAchen • Austin • Orlando • UK • Barcelona",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo • Tampa • Chicago • Detroit • Colorado Springs • Long Beach",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Shinagawa-ku, Tokyo 140-0011 Japan",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Takes place the day before Rapid TCT Tokyo.",
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコ株式会社は、積層造形技術（Additive Manufacturing）の量産品への適用に対する品質保証に関し、ISO/ASTM 52920に準拠した …",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/dyndrite-introduces-upgraded-lpbf-pro-software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/videos/dyndrite-delivering-the-future-of-additive-manufacturing-today",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iam3dhub.org/dyndrite-new-technological-partner-on-board-at-iam3dhub/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/videos/the-build-episode-1-why-do-we-need-new-software-for-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldopex.com/business/dyndrite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-coverage/cad-japan-dyndrite-she-gagpu-dui-ying-ziometorienzin-accelerated-geometry-kernel-wofa-biao",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/videos/ddc-2020-vendor-making-3d-printing-accessible-to-manufacturers-and-engineers-desktop-metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlas.verdantix.com/vendors/dyndrite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/3d-printing/dyndrite-eos-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://8586374.fs1.hubspotusercontent-na1.net/hubfs/8586374/Dyndrite%20A3%20LPBF%20Brochure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/72163/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dyndrite.com/lpbf-product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/dyndrite%E3%81%AFrwth-aachen-15113132%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84lpbf%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20231110_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/know-how/mathematics-behind-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohno-inkjet.com/?p=62186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/vip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/videos/the-build-episode-4-support-free-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ulendo.io/news/ulendo-introduces-first-add-in-to-dyndrite-lpbf-pro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/military-and-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/updated-dyndrite-lpbf-pro-software-toolkit-enables-support-free-overhangs-down-to-30/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dyndrite-corp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-releases/gradient-ventures-googles-ai-focused-venture-fund-to-lead-dyndrite-series-a-financing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kenya.dealroom.co/companies/dyndrite_corp_",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dyndrite reseller partner program",
+   "results": [
+    "https://www.dyndrite.com/customer-engagement-process",
+    "https://www.voxelmatters.com/dyndrite-introduces-upgraded-lpbf-pro-software/",
+    "https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control",
+    "https://www.dyndrite.com/videos/dyndrite-delivering-the-future-of-additive-manufacturing-today",
+    "https://www.iam3dhub.org/dyndrite-new-technological-partner-on-board-at-iam3dhub/",
+    "https://www.dyndrite.com/dyndrite-developer-conference-2021",
+    "https://www.dyndrite.com/videos/the-build-episode-4-support-free-additive",
+    "https://atlas.verdantix.com/vendors/dyndrite",
+    "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "https://directory.partner.io/dyndrite-com"
+   ]
+  },
+  {
+   "query": "Dyndrite pricing license",
+   "results": [
+    "https://www.dyndrite.com/",
+    "https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program",
+    "https://www.dyndrite.com/videos/the-build-episode-1-why-do-we-need-new-software-for-additive",
+    "https://worldopex.com/business/dyndrite/",
+    "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "https://www.ulendo.io/news/ulendo-introduces-first-add-in-to-dyndrite-lpbf-pro",
+    "https://www.dyndrite.com/videos/dyndrite-delivering-the-future-of-additive-manufacturing-today",
+    "https://8586374.fs1.hubspotusercontent-na1.net/hubfs/8586374/Dyndrite%20A3%20LPBF%20Brochure.pdf",
+    "https://atlas.verdantix.com/vendors/dyndrite",
+    "https://www.softwr.com/pricing/dyndrite"
+   ]
+  },
+  {
+   "query": "Dyndrite Japan distributor",
+   "results": [
+    "https://www.dyndrite.com/press-coverage/cad-japan-dyndrite-she-gagpu-dui-ying-ziometorienzin-accelerated-geometry-kernel-wofa-biao",
+    "https://www.dyndrite.com/dyndrite-world-tour-2026",
+    "https://www.dyndrite.com/videos/ddc-2020-vendor-making-3d-printing-accessible-to-manufacturers-and-engineers-desktop-metal",
+    "https://www.facebook.com/DyndriteCorporation/",
+    "https://atlas.verdantix.com/vendors/dyndrite",
+    "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "https://x.com/Dyndrite",
+    "https://develop3d.com/3d-printing/dyndrite-eos-integration/",
+    "https://www.dyndrite.com/contact",
+    "https://www.dyndrite.com/"
+   ]
+  },
+  {
+   "query": "Dyndrite 代理店",
+   "results": [
+    "https://www.dyndrite.com/about",
+    "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "https://www.facebook.com/DyndriteCorporation/",
+    "https://www.dyndrite.com/",
+    "https://8586374.fs1.hubspotusercontent-na1.net/hubfs/8586374/Dyndrite%20A3%20LPBF%20Brochure.pdf",
+    "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/72163/",
+    "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "https://www.dyndrite.com/contact",
+    "https://www.dyndrite.com/solution/software"
+   ]
+  },
+  {
+   "query": "Dyndrite 価格",
+   "results": [
+    "https://www.dyndrite.com/",
+    "https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/",
+    "https://www.dyndrite.com/lpbf-product",
+    "https://8586374.fs1.hubspotusercontent-na1.net/hubfs/8586374/Dyndrite%20A3%20LPBF%20Brochure.pdf",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/72163/",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/dyndrite%E3%81%AFrwth-aachen-15113132%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84lpbf%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83/",
+    "https://www.cadjapan.com/news/2023/d20231110_03.html",
+    "https://www.eos.info/ja/content/blog/know-how/mathematics-behind-additive-manufacturing",
+    "https://ohno-inkjet.com/?p=62186",
+    "https://www.softwr.com/pricing/dyndrite"
+   ]
+  },
+  {
+   "query": "Dyndrite free trial",
+   "results": [
+    "https://www.dyndrite.com/vip",
+    "https://www.dyndrite.com/videos/the-build-episode-4-support-free-additive",
+    "https://www.ulendo.io/news/ulendo-introduces-first-add-in-to-dyndrite-lpbf-pro",
+    "https://www.dyndrite.com/military-and-defense",
+    "https://www.metal-am.com/updated-dyndrite-lpbf-pro-software-toolkit-enables-support-free-overhangs-down-to-30/",
+    "https://www.facebook.com/DyndriteCorporation/",
+    "https://www.dyndrite.com/videos/dyndrite-at-formnext-2019-maximizing-python-in-additive",
+    "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "https://www.dyndrite.com/"
+   ]
+  },
+  {
+   "query": "Dyndrite company founded employees funding",
+   "results": [
+    "https://www.dyndrite.com/about",
+    "https://www.linkedin.com/company/dyndrite",
+    "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "https://www.crunchbase.com/organization/dyndrite-corp",
+    "https://www.dyndrite.com/press-releases/gradient-ventures-googles-ai-focused-venture-fund-to-lead-dyndrite-series-a-financing",
+    "https://www.dyndrite.com/videos/dyndrite-delivering-the-future-of-additive-manufacturing-today",
+    "https://www.additiveindustries.com/additive-industries-dyndrite/",
+    "https://kenya.dealroom.co/companies/dyndrite_corp_",
+    "https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration",
+    "https://pitchbook.com/profiles/company/183209-77"
+   ]
+  }
+ ],
+ "missing": {
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}

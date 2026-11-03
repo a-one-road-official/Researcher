@@ -1,0 +1,984 @@
+{
+ "name": "Authentise",
+ "en": "Authentise",
+ "aliases": [
+  "Authentise Flows"
+ ],
+ "context": "生産管理（AM向けワークフロー）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:35:36.871515+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "\"Authentise understood our varied needs immediately. We have a dozen additive locations making prototypes, and a couple that are moving into production. We wanted one system to manage it all - and Authentise provided.\"",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Material Management digitizes every step of material tracking and genealogy. Visual material flow charts, real-time batch details and QR tracking (available on various devices) illustrate full traceability – from material actions like sieving and blending to automated recorders and machine associations.",
+    "url": "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That emphasis on data and knowledge capture reflects a growing need across manufacturing: to retain expertise and ensure continuity. “A lot of folks have this problem of tribal knowledge just being lost,” Wegner said. “Knowledge capture has a variety of reasons. It’s about compliance, efficiency, and making sure people can learn from each other.”",
+    "url": "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". We may, from time to time, make additional written and oral forward-looking statements, including statements contained in the company's filings with the Securities and Exchange Commission and our reports to shareholders. We do not undertake to update any forward-looking statement that may be made from time to time by us or on our behalf.",
+    "url": "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Authentise understood our varied needs immediately. We have a dozen additive locations making prototypes, and a couple that are moving into production. We wanted one system to manage it all - and Authentise provided.\"",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.",
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Save up to $48",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Participating members can claim a $500 @Program Cost Share credit once the Spotlight is published.",
+    "url": "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "We offer excellent deployment and training support for all our products. Along with the license fees, we charge a Setup Fee. To share the risk of that setup and to give you a taste of the platform before fully committing, we only charge 50% of the setup fee upfront. The remaining amount and the License Fee are due upon full acceptance, emphasizing our commitment to helping you grow.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": ". Prices starting from $2,500 per month plus set-up fee.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": ". Prices starting from $1,900 (as Flow add-on) per month plus set-up fee.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Material Management is charged based on a flat annual fee, starting at $26,000 per year plus set-up.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "RFQ Responder is charged in Tiers (up to 250, 500, etc), based on number of quotes issued per month, starting from $1,180 plus set-up fee.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts from $14.99 per month.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Philadelphia-headquartered digital workflow management company, worked with Boeing to deploy an AI-assisted documentation tool that Boeing estimates will save approximately $8 million in engineering costs in its first year of deployment.",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "$8 million in projected savings at Boeing",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Founding General Counsel and COO of multiple energy companies, each worth >$500m",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise, Inc. Revenue 2025: $3.9M Est.",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise, Inc. has not published its revenue. GetLatka estimates it at about $3.9M a year (September 2025).",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "Steal the Growth Tactics That Took These Startups from $0 to $50M",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Request a demo",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Get Your Tailored Demo",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Watch a Demo",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "BOOK A DEMO",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "30-Minute Flows Demo | Authentise",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "30-Minute Flows Demo",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Experience the power of our innovative software with a free Flows demo from Authentise. Our team will walk you through the features and capabilities of our SaaS platform, giving you a firsthand look at how our technology can streamline your workflow and improve efficiency. Schedule your demo today and see the future of digital manufacturing in action.",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Advising Software",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": ", Authentise will develop and demonstrate multiple verification data streams, which will be integrated into the Cyber-Physical Passport developed by CyManII. Authentise claims that this will improve cyber security and enhance the ability of manufacturers to improve reliability and quality assurance.",
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "pass": 3
+   },
+   {
+    "quote": "The Blockchain Approach for Supply Chain Additive Manufacturing Parts (BASECAMP) project leveraged SIMBA’s platform, demonstrating a blockchain approach for the registration and tracking of 3D printed throughout their lifecycle.",
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Defence and Aerospace",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Features like the Model Library make it immediate and reliable to reorder parts for production, based on CAD and print parameters. For customer showcase or lab testing, just pick and choose.",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Now, custom automated reports can be downloaded with a single click or sent directly to customers. Filter by processing step or user change, it’s never been easier to learn from your operations.",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & FDA",
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Energy, Manufacturing and Resources",
+    "url": "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "pass": 3
+   },
+   {
+    "quote": "Defence and Aerospace",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & FDA",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "additive manufacturing (AM) in aerospace and defense",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Simon McCaldin, Open Innovation Lead at Authentise, laid out how that system works at the AMA: Aerospace Space and Defence 2025 event.",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Advantage: Aerospace, Space and Defense",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Department of Defense",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Driven Aerospace Part Toolkit",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": ", is working to automate finite element model creation to accelerate the certification of complex aerospace components — addressing the same downstream bottleneck from a different angle. The shared aim across both efforts is reducing manual overhead at engineering transition points while keeping human judgment intact at sign-off.",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Featured image shows Additive Manufacturing Advantage: Aerospace, Space and Defense. Image via 3D Printing Industry.",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Department of Defense (DoD)",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Defence and Aerospace",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "— Alana Mally, Vast Aerospace",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise brought automated order to our madness. The system helped me sleep better at night, knowing that if something does go wrong it'll self-adjust or I'll get an automated message. Our customers are happy with the reporting they get and my guys barely have to lift a finger for it.",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace-focused Service Bureau",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Automate request-for-quote workflows, respond to customers faster with intelligent pricing.",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely. Used in aerospace, defence, and medical with FDA, AS9100, and ITAR compliance features including full audit trails.",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace quality",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Regulatory",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & FDA",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛、自動車、建設、一般製造業、鉱業など、Hexagonはお客様が構築、航行、革新するために必要な信頼を提供します",
+    "url": "https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "pass": 3
+   },
+   {
+    "quote": "With customers and partners across North America, Europe, and Asia, Authentise works with both innovative SMEs and enterprise manufacturers to build resilient, digitally connected production environments. The company is also at the forefront of applying AI responsibly within manufacturing workflows, ensuring that intelligence is layered on governed, auditable data foundations.",
+    "url": "https://develop3dlive.com/exhibitor/authentise/",
+    "pass": 3
+   },
+   {
+    "quote": "Defence and Aerospace",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Founding General Counsel and COO of multiple energy companies, each worth >$500m",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & FDA",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Defence and Aerospace",
+    "url": "https://www.authentise.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.authentise.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.authentise.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.authentise.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & FDA",
+    "url": "https://www.authentise.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Defence and Aerospace",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & FDA",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded in 2012 in San Francisco and operates offices in Philadelphia, London and Kiev with 18 full time employees. For more information, see",
+    "url": "https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "pass": 3
+   },
+   {
+    "quote": "2万4,800 employees",
+    "url": "https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon（ナスダック・ストックホルム: HEXA B）は、50か国に約16,000人の従業員を擁し、年間売上高は約37億ユーロです",
+    "url": "https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "pass": 3
+   },
+   {
+    "quote": "The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.",
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "pass": 3
+   },
+   {
+    "quote": "is available today, while Authentise Flows will be generally available in 2023. An early adopter program is now open for customers with a particular interest in driving agile operations into their engineering and manufacturing operations, and realizing near triple-digit productivity improvements.",
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise, Inc. Revenue 2025: $3.9M Est.",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise, Inc. has not published its revenue. GetLatka estimates it at about $3.9M a year (September 2025).",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Wener founded Authentise, Inc. and runs it as CEO. Authentise, Inc. had 35 employees (September 2024, Product Hunt).",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in September 2024, according to Product Hunt.",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Authentise Software Pricing , Alternatives & More 2026 | Capterra — Authentise Software Pricing , Alternatives & More 2026 | Capterra Capterra https://www.capterra.com > Authentise",
+    "url": "https://www.capterra.com/p/267272/Authentise/",
+    "pass": 3
+   },
+   {
+    "quote": "AMAA 2026: Authentise Targets Technical Data Package ... — AMAA 2026: Authentise Targets Technical Data Package ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - Develop3D Live — Authentise - Develop3D Live Develop3D Live https://develop3dlive.com > authentise",
+    "url": "https://develop3dlive.com/exhibitor/authentise/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon and Authentise partner to deliver first open end-to ... — Hexagon and Authentise partner to deliver first open end-to ... CIM Data https://www.cimdata.com > item > 15...",
+    "url": "https://www.cimdata.com/zh/industry-summary-articles/item/15620-hexagon-and-authentise-partner-to-deliver-first-open-end-to-end-software-solution-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Software Pricing, Alternatives & More 2026 | Capterra — Authentise Software Pricing, Alternatives & More 2026 | Capterra Capterra https://www.capterra.com > Authentise",
+    "url": "https://www.capterra.com/p/267272/Authentise/",
+    "pass": 3
+   },
+   {
+    "quote": "30-Minute Flows Demo - Authentise — 30-Minute Flows Demo - Authentise Authentise https://www.authentise.com > flows-d...",
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise , Inc. Revenue 2025: $3.9M Est. - GetLatka — Authentise , Inc. Revenue 2025: $3.9M Est. - GetLatka GetLatka https://getlatka.com > authentise",
+    "url": "https://getlatka.com/companies/authentise.com",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise awarded 3 grants to advance 3D printing lattices ... — Authentise awarded 3 grants to advance 3D printing lattices ... TCT Magazine https://www.tctmagazine.com > authe...",
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.authentise.com/solutions/flows/mes-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/267272/Authentise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/authentise",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softwareadvice.com.au/software/368209/authentise",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insightsip.com/apac-distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3dlive.com/exhibitor/authentise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cimdata.com/zh/industry-summary-articles/item/15620-hexagon-and-authentise-partner-to-deliver-first-open-end-to-end-software-solution-for-additive-manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/company-about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/authentise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idtechproducts.com/ja/company/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engeniustech.com/jp/where-to-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sparxsystems.jp/purchase/product_pricelist.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/products/Endpoint_Central/pricing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azure.microsoft.com/ja-jp/pricing/details/speech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://auth0.com/jp/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://devnet.magicsoftware.co.jp/images/psql/v15/Actian_Zenv15_for_Magic_Price_2601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.authentise.com/service-page/flows-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flows.authentise.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.cncarena.com/authentise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/authentise.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/authenticx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/437686-39",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Authentise reseller partner program",
+   "results": [
+    "https://www.authentise.com/solutions/flows/mes-oem",
+    "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/",
+    "https://www.linkedin.com/in/peter-wener-308694184",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.helioadditive.com/partners/reseller-partner-program",
+    "https://authid.ai/authid-partners-and-partnerships/",
+    "https://www.youtube.com/watch?v=JJskj16Py3s",
+    "https://www.authentise.com/solutions/flows/partner-referrals"
+   ]
+  },
+  {
+   "query": "Authentise pricing license",
+   "results": [
+    "https://www.authentise.com/company-about-us/pricing",
+    "https://www.capterra.com/p/267272/Authentise/",
+    "https://www.crunchbase.com/organization/authentise",
+    "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "https://www.authentise.com/solutions/flows/mes-oem",
+    "https://www.softwareadvice.com.au/software/368209/authentise",
+    "https://www.youtube.com/watch?v=JJskj16Py3s",
+    "https://authenticate.com/",
+    "https://apryse.com/pricing",
+    "https://www.authentise.com/help-articles/how-exactly-do-you-charge?"
+   ]
+  },
+  {
+   "query": "Authentise Japan distributor",
+   "results": [
+    "https://www.authentise.com/",
+    "https://hexagon.com/ja/company/newsroom/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "https://www.authentise.com/solutions/flows/mes-oem",
+    "https://insightsip.com/apac-distributors/",
+    "https://develop3dlive.com/exhibitor/authentise/",
+    "https://www.cimdata.com/zh/industry-summary-articles/item/15620-hexagon-and-authentise-partner-to-deliver-first-open-end-to-end-software-solution-for-additive-manufacturing",
+    "https://www.materialise.com/en/about/locations/japan",
+    "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "https://3dprint.com/295079/authentises-new-platform-aims-to-give-3d-printed-spares-a-reigning-chance/",
+    "https://world.taobao.com/lang/en-us/shopping-guide/2005980895885918208.htm"
+   ]
+  },
+  {
+   "query": "Authentise 代理店",
+   "results": [
+    "https://www.authentise.com/company-about-us",
+    "https://www.authentise.com/company-about-us/pricing",
+    "https://www.voxelmatters.directory/company/authentise/",
+    "https://hexagon.com/ja/company/newsroom/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.authentise.com/solutions",
+    "https://www.elysium-global.com/ja/about/resellers/",
+    "https://www.authense.jp/"
+   ]
+  },
+  {
+   "query": "Authentise 価格",
+   "results": [
+    "https://www.sparxsystems.jp/purchase/product_pricelist.htm",
+    "https://www.manageengine.jp/products/Endpoint_Central/pricing.html",
+    "https://azure.microsoft.com/ja-jp/pricing/details/speech/",
+    "https://auth0.com/jp/pricing",
+    "https://devnet.magicsoftware.co.jp/images/psql/v15/Actian_Zenv15_for_Magic_Price_2601.pdf",
+    "https://www.agentiqs.app/price/",
+    "https://on-pre.qualitia.com/product/ag/price.html",
+    "https://www.truefoundry.com/ja/blog/litellm-enterprise-pricing-tco-vs-truefoundry",
+    "https://aws.amazon.com/jp/personalize/pricing/",
+    "https://pricingnow.com/question/authentise-pricing/"
+   ]
+  },
+  {
+   "query": "Authentise free trial",
+   "results": [
+    "https://www.authentise.com/",
+    "https://www.capterra.com/p/267272/Authentise/",
+    "https://www.authentise.com/service-page/flows-demo",
+    "https://www.softwareadvice.com.au/software/368209/authentise",
+    "https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/",
+    "https://www.youtube.com/watch?v=JJskj16Py3s",
+    "https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities",
+    "https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/",
+    "https://flows.authentise.com/",
+    "https://en.cncarena.com/authentise"
+   ]
+  },
+  {
+   "query": "Authentise company founded employees funding",
+   "results": [
+    "https://www.authentise.com/company-about-us",
+    "https://www.crunchbase.com/organization/authentise",
+    "https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/",
+    "https://getlatka.com/companies/authentise.com",
+    "https://www.authentise.com/",
+    "https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/",
+    "https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/",
+    "https://startupintros.com/orgs/authenticx",
+    "https://pitchbook.com/profiles/company/437686-39",
+    "https://pitchbook.com/profiles/company/65832-94"
+   ]
+  }
+ ],
+ "missing": {
+  "日本の代理店": "記載なし（読んだ35頁・検索7回）",
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}

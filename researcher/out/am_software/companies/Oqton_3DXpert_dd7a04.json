@@ -1,0 +1,1227 @@
+{
+ "name": "Oqton 3DXpert",
+ "en": "3DXpert",
+ "aliases": [
+  "Oqton",
+  "3D Systems 3DXpert"
+ ],
+ "context": "造形の準備（金属）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:30:47.871036+00:00",
+ "evidence": {
+  "料金": [
+   {
+    "quote": "3DXpert is available as a standalone subscription license, ensuring all users have access to the newest features and capabilities. The software comes in different packages",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "– 3DXpert Educational: Classroom bundle of 3DXpert Elite with all available tools, including a power seat for the professor and up to 10 student seats, for non-commercial use and non-commercial research institutes.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert Reviews & Pricing 2026 | Goodfirms",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Data-driven research on B2B services, pricing & demand trends.",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "To use 3DXpert for SOLIDWORKS, you are required to have an on-subscription license of SOLIDWORKS Professional and a PC with minimum specs of 4 cores, 16GB RAM, as well as a graphics card that supports OpenGL 3.3 and with at least 1GB of memory.",
+    "url": "https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/",
+    "pass": 3
+   },
+   {
+    "quote": "If you have SOLIDWORKS on subscription, you also have access to the 3D printing software 3DXpert for SOLIDWORKS without any additional cost. This is a complementary software for SOLIDWORKS based on the full version of 3DXpert from 3D Systems.",
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX Raises $300M in Series C Investments to Advance Physics AI",
+    "url": "https://www.digitalengineering247.com/company/oqton",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "今回の買収の対価は、現金と3D Systemsの株式で構成される1億8,000万ドル（約198億円）で、2025年までにソフトウェアの収益が1億ドルを超えると予想されている",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Request demo",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo Pop Form",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, Democratic Republic of the",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Korea, Democratic People's Republic of",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Lao People's Democratic Republic",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Demo Now",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "How can I contact Oqton to request a demo, or purchase 3DXpert?",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "request a demo here",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request A Demo",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "capabilities have been demonstrated in several customer facilities across the U.S., Europe and the Middle East, including the potential for distributed manufacturing, on-demand, for reduced cost and delivery time. Oqton",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Free version",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Free Version",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Would you like us to Setup a Demo?",
+    "url": "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "In-Person Demo",
+    "url": "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "have already built strong recognition among manufacturers worldwide. Oqton’s system has been used in facilities across the U.S., Europe, and the Middle East, demonstrating applications for distributed, on-demand manufacturing. 3DXpert has become a benchmark for advanced metal printing workflows, helping OEMs and end users improve reliability and throughput.",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Democratic Republic of the Congo",
+    "url": "https://3dzgroup.com/software/3dxpert-basic/",
+    "pass": 3
+   },
+   {
+    "quote": "Request demo",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo Pop Form",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, Democratic Republic of the",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Korea, Democratic People's Republic of",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lao People's Democratic Republic",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Request A Demo",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual ARC (Automotive Research Center) Review Demonstrates How Digital…",
+    "url": "https://www.digitalengineering247.com/company/oqton",
+    "pass": 3
+   },
+   {
+    "quote": "Request demo",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo Pop Form",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, Democratic Republic of the",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Korea, Democratic People's Republic of",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Lao People's Democratic Republic",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "available for the products below. Click on the relevant link to request a Trial license",
+    "url": "https://support.3dsystems.com/s/article/Trial-Activation-Instructions-CimLM?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Activate Trial License",
+    "url": "https://support.3dsystems.com/s/article/Trial-Activation-Instructions-CimLM?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "capabilities have been demonstrated in several customer facilities across the U.S., Europe and the Middle East, including the potential for distributed manufacturing, on-demand, for reduced cost and delivery time. Oqton",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "MeltControl uses micro-thermal simulation to automatically optimize every scan vector in your build. Physics-based. Localized. Validated.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Support localized production, spare parts on demand, or transformative concepts like additively manufactured valves or heat exchangers.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Support localized production, spare parts on demand, or transformative concepts like additively manufactured valves or heat exchangers.",
+    "url": "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Medical Implants",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Handle every file format your customers send with parametric, automation-ready build preparation and Supportless enabling strategies.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Customers Across Many Industries",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Have a look at how successful our customers are",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Energy and Fluid Management (Metals)",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices Overview",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Solutions",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Specialities",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Extrusion (EXT)",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "All Medical Printers",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "metal printing platforms. These platforms are, by design, agnostic to the printer manufacturer and created to support large, mixed fleets of printers within a customer’s manufacturing environment. This move reflects 3D Systems’ commitment to driving innovation and delivering differentiated value through its core technologies.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "MOS will operate under Hubb Global Holdings as an independent provider of printer-agnostic enterprise software that will enable the rapid integration of intelligent, cost-effective metal additive manufacturing into customers’ factories. The same approach will be taken with 3DXpert",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "MOS or provided to customers as a standalone platform. This approach will benefit the entire industry by accelerating growth in customer demand for 3D metal printing technology, and its integration into factory operating environments around the world.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "platform that will continue to evolve under Hubb Global Holdings’ ownership, we can best leverage both of these market-leading software systems to solve the most critical customer needs in both polymer and metal solutions,” Dr. Graves continued. “In addition, we are confident that, with the backing of Hubb Global Holdings, Oqton",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Energy and Fluid Management (Metals)",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices Overview",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Solutions",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Specialities",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Extrusion (EXT)",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "All Medical Printers",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "“This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation-aerospace",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Guides",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 4 Modular Customer Information Bulletins",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SUPPORT",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: Rasi Maskinfabrik",
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: IJ Pipe",
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Guides",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SUPPORT",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defence",
+    "url": "https://www.shreerapid.com/software/3d-xpert/",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": ", in response to the transformative potential of artificial intelligence in additive manufacturing. As part of this strategic focus, the company intends to divest its software platforms designed for broad industry adoption across all OEM printer manufacturers, which includes its",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "VARIANT MANAGEMENT",
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re already printing in metal or are considering starting up, then you should read this! We are proud to announce that we have become a reseller of the Additive Manufacturing program 3DXpert from 3D Systems. By adding this program to our portfolio side-by-side with the printers we are selling, we now can offer you",
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, 3D Systems has agreed to sell its Oqton Manufacturing Operating System (MOS) and 3DXpert platforms to Hubb Global Holdings. These are “printer-agnostic” software tools designed to manage additive workflows and support large, mixed fleets of machines, including metal printers from multiple OEMs.",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "have already built strong recognition among manufacturers worldwide. Oqton’s system has been used in facilities across the U.S., Europe, and the Middle East, demonstrating applications for distributed, on-demand manufacturing. 3DXpert has become a benchmark for advanced metal printing workflows, helping OEMs and end users improve reliability and throughput.",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Open platform for all Hardware OEMs in AM",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In this Special Focus Issue, Digital Engineering takes a look at how generative design solutions can be used across different types of design problems and with a variety of manufacturing approaches to accelerate design space exploration, and…",
+    "url": "https://www.digitalengineering247.com/company/oqton",
+    "pass": 3
+   },
+   {
+    "quote": "rms と 3D Systems、両社の協力により、デジタル ファイルから手術器具用の滅菌梱包済み製品の生産まで、OEM を支援...",
+    "url": "https://ja.3dsystems.com/software",
+    "pass": 3
+   },
+   {
+    "quote": "VARIANT MANAGEMENT",
+    "url": "https://plmgroup.eu/articles/get-3dxpert-solidworks-free/",
+    "pass": 3
+   },
+   {
+    "quote": "from your Reseller and then enter that code in the License Manager.",
+    "url": "https://support.3dsystems.com/s/article/Setting-up-your-license-for-3DXpert?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": ", in response to the transformative potential of artificial intelligence in additive manufacturing. As part of this strategic focus, the company intends to divest its software platforms designed for broad industry adoption across all OEM printer manufacturers, which includes its",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "DMP Factory 350 Series",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "DMP Flex 350 Series",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "MOS will operate under Hubb Global Holdings as an independent provider of printer-agnostic enterprise software that will enable the rapid integration of intelligent, cost-effective metal additive manufacturing into customers’ factories. The same approach will be taken with 3DXpert",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "MOS or provided to customers as a standalone platform. This approach will benefit the entire industry by accelerating growth in customer demand for 3D metal printing technology, and its integration into factory operating environments around the world.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "platform into its workflow, ensuring interoperability, and is designed to be fully compatible with leading MRP systems used by customers in manufacturing worldwide. By spinning-off these software platforms to an independent party, an industrywide focus can be maintained and growth accelerated, which will benefit the entire 3D printing industry.",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": ", its AM software platform that powers the Company’s polymer 3D printing platforms. 3D Sprint is architected for efficient design-file preparation and process optimization. It is currently used by customers throughout its installed base, numbering in the thousands, the largest operating fleet in the industry. 3D Systems intends to continue expanding 3D Sprint’s",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "DMP Factory 350 Series",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "DMP Flex 350 Series",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "“This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "since an 180 million USD acquisition deal in 2021",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "101–500 employees",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "HSE 180 Series",
+    "url": "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "According to 3D Systems, moving Oqton and 3DXpert into independent ownership is intended to help accelerate the adoption of production-scale metal 3D printing. Under Hubb, both platforms will continue to operate independently and serve customers worldwide.",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded nearly 40 years ago by",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Meanwhile, this step also points to a broader pattern across the additive manufacturing industry, where established players are restructuring portfolios, spinning off assets, or making acquisitions as the market matures. Over the past 18 months, additive manufacturing has begun to see",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton is a leading provider of intelligent manufacturing software, specialising in solutions that seamlessly integrate design, engineering, and production workflows. Acquired by 3D Systems and powered by advanced AI, Oqton helps manufacturers optimise their additive manufacturing processes, reduce costs, and accelerate time to market.",
+    "url": "https://cdg.uk.com/oqton-3d-software/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX Raises $300M in Series C Investments to Advance Physics AI",
+    "url": "https://www.digitalengineering247.com/company/oqton",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems、ソフトウェア会社Oqtonを買収 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems、ソフトウェア会社Oqtonを買収",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems、Oqtonを1億8,000万ドルで買収しAM生産にMOSを導入",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "を、2021年第4四半期に完了する予定の取引で買収することに合意したと発表した",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "今回の買収の対価は、現金と3D Systemsの株式で構成される1億8,000万ドル（約198億円）で、2025年までにソフトウェアの収益が1億ドルを超えると予想されている",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "これは、3D SystemsがSimbionix、On Demand Manufacturing、Cimatronの各事業を売却し、AlleviとAdditive Worksを買収したことを受けたもので、3Dプリンティングのパイオニアである同社は、ハードウェア、ソフトウェア、材料、積層造形アプリケーションに一層注力することになる",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "ダイムラーバスがモバイル3Dプリンティングセンター設立",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "MOS will operate under Hubb Global Holdings as an independent provider of printer-agnostic enterprise software that will enable the rapid integration of intelligent, cost-effective metal additive manufacturing into customers’ factories. The same approach will be taken with 3DXpert",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "MOS or provided to customers as a standalone platform. This approach will benefit the entire industry by accelerating growth in customer demand for 3D metal printing technology, and its integration into factory operating environments around the world.",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "platform into its workflow, ensuring interoperability, and is designed to be fully compatible with leading MRP systems used by customers in manufacturing worldwide. By spinning-off these software platforms to an independent party, an industrywide focus can be maintained and growth accelerated, which will benefit the entire 3D printing industry.",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": ", its AM software platform that powers the Company’s polymer 3D printing platforms. 3D Sprint is architected for efficient design-file preparation and process optimization. It is currently used by customers throughout its installed base, numbering in the thousands, the largest operating fleet in the industry. 3D Systems intends to continue expanding 3D Sprint’s",
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3DXpert | Additive Manufacturing Software - Oqton — 3DXpert | Additive Manufacturing Software - Oqton Oqton https://oqton.com > 3dxpert",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert Overview Video - 3D Systems — 3DXpert Overview Video - 3D Systems 3D Systems https://www.3dsystems.com > 3dxpert-overview-video-1",
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems to divest Oqton & 3DXpert software platforms — 3D Systems to divest Oqton & 3DXpert software platforms TCT Magazine https://www.tctmagazine.com > 3d-sy...",
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert for Solidworks by 3D Systems - Reddit — 3DXpert for Solidworks by 3D Systems - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/SolidWorks/comments/bqmz6g/3dxpert_for_solidworks_by_3d_systems/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert Reviews & Pricing 2026 - Goodfirms — 3DXpert Reviews & Pricing 2026 - Goodfirms Goodfirms https://www.goodfirms.co > 3dxpert",
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert Licensing FAQs - 3D Systems Support Home — 3DXpert Licensing FAQs - 3D Systems Support Home 3D Systems https://support.3dsystems.com > article",
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert for SOLIDWORKS — 3DXpert for SOLIDWORKS SolidWorks Blog https://blogs.solidworks.com > products",
+    "url": "https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert by PLM Group - supporting additive manufacturing — 3DXpert by PLM Group - supporting additive manufacturing PLM Group EU https://plmgroup.eu > tag > 3dxpert",
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Download and Get Started With 3DXpert — Download and Get Started With 3DXpert 3D Systems https://support.3dsystems.com > article",
+    "url": "https://support.3dsystems.com/s/article/3DXpert",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert - Shree Rapid Technologies: One-Stop Shop for 3D ... — 3DXpert - Shree Rapid Technologies: One-Stop Shop for 3D ... Shree Rapid Technologies https://www.shreerapid.com > software",
+    "url": "https://www.shreerapid.com/software/3d-xpert/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert Industrial Additive Manufacturing Software — 3DXpert Industrial Additive Manufacturing Software Lodestar 3D https://lodestar3d.com > ... > Software",
+    "url": "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Sells Oqton and 3DXpert to Hubb Global Holdings — 3D Systems Sells Oqton and 3DXpert to Hubb Global Holdings 3DPrint.com https://3dprint.com > 3d-systems-refo...",
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton : Manufacturing Software Solutions - 3DXpert , MOS ... — Oqton : Manufacturing Software Solutions - 3DXpert , MOS ... Oqton https://oqton.com",
+    "url": "https://oqton.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Oqton 3D Software - CDG — Oqton 3D Software - CDG UK.COM https://cdg.uk.com > oqton-3d-software",
+    "url": "https://cdg.uk.com/oqton-3d-software/",
+    "pass": 3
+   },
+   {
+    "quote": "3dxpert - Oqton — 3dxpert - Oqton Oqton https://oqton.com > 3dxpert",
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション統合ソフトウエア 3DXpert ｜産業用3D ... — ソリューション統合ソフトウエア 3DXpert ｜産業用3D ... キヤノン https://canon.jp > product > indtech > software > 3dxpert",
+    "url": "https://canon.jp/biz/product/indtech/3dpsolution/3dsystems/software/3dxpert",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems、ソフトウェア会社 Oqton を買収 | 3DP id.arts — 3D Systems、ソフトウェア会社 Oqton を買収 | 3DP id.arts アイディーアーツ株式会社 https://idarts.co.jp > Home > 最新情報",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert - Oqton — 3DXpert - Oqton Oqton https://oqton.com > 3dxpert",
+    "url": "https://oqton.com/fr/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert for SOLIDWORKS - PLM Group EU — 3DXpert for SOLIDWORKS - PLM Group EU PLM Group EU https://plmgroup.eu > Articles",
+    "url": "https://plmgroup.eu/articles/get-3dxpert-solidworks-free/",
+    "pass": 3
+   },
+   {
+    "quote": "Setting up your license for 3DXpert - 3D Systems Support Home — Setting up your license for 3DXpert - 3D Systems Support Home 3D Systems https://support.3dsystems.com > article",
+    "url": "https://support.3dsystems.com/s/article/Setting-up-your-license-for-3DXpert?nocache=https%3A%2F%2Fsupport.3dsystems.com%2Fs%2Farticle%2FSetting-up-your-license-for-3DXpert%3Flanguage%3Den_US",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "ステンレス鋼部品製作用「Ultrafuse 316L」販売開始",
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://oqton.com/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SolidWorks/comments/bqmz6g/3dxpert_for_solidworks_by_3d_systems/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.goodfirms.co/software/3dxpert",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plmgroup.eu/articles/tag/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/3DXpert?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shreerapid.com/software/3d-xpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dzgroup.com/software/3dxpert-basic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdg.uk.com/oqton-3d-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/hubb-to-acquire-3d-systems-oqton-and-3dxpert-software-platforms/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalengineering247.com/company/oqton",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/indtech/3dpsolution/3dsystems/software/3dxpert",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/Trial-Activation-Instructions-CimLM?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://plmgroup.eu/articles/get-3dxpert-solidworks-free/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/Setting-up-your-license-for-3DXpert?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1l1tfts/go_to_software_for_metal_sls_specifically_support/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://oqton.com/softwaresupport/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/3d-systems",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanalyze.com/2020/01/3d-printing-startups-funding-2019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3DXpert reseller partner program",
+   "results": [
+    "https://oqton.com/3dxpert/",
+    "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://www.3ds.com/partners/locate-partner",
+    "https://unity.com/partners/resellers",
+    "https://www.youtube.com/watch?v=FmtzP7VX2PE",
+    "https://www.hp.com/us-en/newsroom/press-releases/2017/hp-unveils-new-3d-printing-global-reseller-program--service-bure.html",
+    "https://elioplus.com/profile/channel-partners/3dxpert"
+   ]
+  },
+  {
+   "query": "3DXpert pricing license",
+   "results": [
+    "https://oqton.com/3dxpert/",
+    "https://www.reddit.com/r/SolidWorks/comments/bqmz6g/3dxpert_for_solidworks_by_3d_systems/",
+    "https://www.goodfirms.co/software/3dxpert",
+    "https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs",
+    "https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/",
+    "https://plmgroup.eu/articles/tag/3dxpert/",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://oqton.com/3dxpert-guides-and-technical-documents/",
+    "https://www.f6s.com/software/oqton-3dxpert",
+    "https://oqton.com/setting-up-your-license-for-3dxpert/"
+   ]
+  },
+  {
+   "query": "3DXpert Japan distributor",
+   "results": [
+    "https://oqton.com/3dxpert/",
+    "https://support.3dsystems.com/s/article/3DXpert",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://www.shreerapid.com/software/3d-xpert/",
+    "https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/",
+    "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "https://3dzgroup.com/software/3dxpert-basic/",
+    "https://canon.jp/biz/product/indtech/3dpsolution/3dsystems/software/3dxpert",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.saeilo.co.jp/products/3dxpert.html"
+   ]
+  },
+  {
+   "query": "Oqton 3DXpert 代理店",
+   "results": [
+    "https://oqton.com/3dxpert/",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy",
+    "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "https://oqton.com/",
+    "https://cdg.uk.com/oqton-3d-software/",
+    "https://www.metal-am.com/hubb-to-acquire-3d-systems-oqton-and-3dxpert-software-platforms/",
+    "https://www.goodfirms.co/software/3dxpert",
+    "https://www.digitalengineering247.com/company/oqton",
+    "https://oqton.com/softwaresupport/3dxpert/"
+   ]
+  },
+  {
+   "query": "Oqton 3DXpert 価格",
+   "results": [
+    "https://oqton.com/3dxpert/",
+    "https://oqton.com/softwaresupport/3dxpert/",
+    "https://canon.jp/biz/product/indtech/3dpsolution/3dsystems/software/3dxpert",
+    "https://ja.3dsystems.com/software",
+    "https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF",
+    "https://oqton.com/fr/3dxpert/",
+    "https://www.youtube.com/watch?v=xx8cGPfm3f4",
+    "https://unolaboratory.com/",
+    "https://apple-tree.co.jp/column/3d-scanner-reasonable/",
+    "https://www.f6s.com/software/oqton-3dxpert"
+   ]
+  },
+  {
+   "query": "3DXpert free trial",
+   "results": [
+    "https://support.3dsystems.com/s/article/Trial-Activation-Instructions-CimLM",
+    "https://oqton.com/3dxpert/",
+    "https://plmgroup.eu/articles/get-3dxpert-solidworks-free/",
+    "https://support.3dsystems.com/s/article/Setting-up-your-license-for-3DXpert?nocache=https%3A%2F%2Fsupport.3dsystems.com%2Fs%2Farticle%2FSetting-up-your-license-for-3DXpert%3Flanguage%3Den_US",
+    "https://www.3dsystems.com/video/3dxpert-overview-video-1",
+    "https://www.goodfirms.co/software/3dxpert",
+    "https://www.youtube.com/watch?v=QkYF6_EmhPw",
+    "https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1l1tfts/go_to_software_for_metal_sls_specifically_support/",
+    "https://oqton.com/software-support/3dxpert/"
+   ]
+  },
+  {
+   "query": "3DXpert company founded employees funding",
+   "results": [
+    "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx",
+    "https://oqton.com/3dxpert/",
+    "https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/",
+    "https://www.crunchbase.com/organization/3d-systems",
+    "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://www.nanalyze.com/2020/01/3d-printing-startups-funding-2019/",
+    "https://growjo.com/company/3D_Systems",
+    "https://develop3d.com/3d-printing/3dxpert-for-solidworks-puts-3d-printing-controls-at-the-design-end-of-the-process/",
+    "https://www.goodfirms.co/software/3dxpert"
+   ]
+  }
+ ],
+ "missing": {}
+}

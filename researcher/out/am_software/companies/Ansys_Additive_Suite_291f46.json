@@ -1,0 +1,1032 @@
+{
+ "name": "Ansys Additive Suite",
+ "en": "Ansys Additive",
+ "aliases": [
+  "Ansys Additive Suite",
+  "アンシス アディティブ"
+ ],
+ "context": "造形シミュレーション",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:33:55.699374+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "Channel Partners",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Simulating the build process may be performed at various points in the overall",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The Strain Scaling Factor (SSF) is an important factor quantifying the variables unique to each",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "difference depends on a variety of factors including part geometry and orientation, material,",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "these are single data point values and there can be variations even from batch to batch of",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "if you will be examining the effects of variable changes on stress or distortion relative to",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "support generation module) based upon an algorithm which varies the support density to carry",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Optimized Thin Wall Supports are of a uniform wall thickness, but wall spacing is varied",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Optimized Thick Wall Supports are uniformly spaced walls with varying thicknesses such",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "your workflow. (%appdata% is an environment variable determined by your operating system.)",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "When the properties of a material vary with different orientations, the material is said",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "parameters. The thick wall supports are uniformly spaced, but wall thickness is varied",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "uniform wall thickness, but wall spacing is varied based on the residual stress levels",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Get expert Ansys support from CADFEM APAC, an Ansys Elite Channel Partner.",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance computing solution enabling faster simulations of larger models and more design variations.",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral from a Colleague/Business Partner",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Student & Academic",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trials",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Partners",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "FREE TRIALS",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "STUDENTS & ACADEMIC",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Metal AM Class at 2024 RAPID (with Demo)",
+    "url": "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Democratizing Predictive Engineering through Engineering and Physics Simulation Expertise.",
+    "url": "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Academics",
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Student & Academic",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trials",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Partners",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Request a demo",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "FREE TRIALS",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "STUDENTS & ACADEMIC",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "デモをリクエストする",
+    "url": "https://ansys.synopsys.com/ja-jp/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "１カ月無料体験、実施中！",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys Additive Solutions | Request a Demo Today!",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys-Additive-Solutions-Demo-Request",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Student & Academic",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trials",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Partners",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule My Additive Demo",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "FREE TRIALS",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "STUDENTS & ACADEMIC",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys Free Trial – CADFEM APAC",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial →",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Ansys Free Trial With",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Start My Free Trial",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial Version",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Get free trial version",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial Today",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial Version",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us which Ansys product you're interested in and we'll help you get your free trial started.",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Hi CADFEM, I'd like to know more about the Ansys free trial.",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "It's for metal printing, and I don't think it's available via the Student bundle as it's not on the list, https://www.ansys.com/academic/free-student-products n",
+    "url": "https://innovationspace.ansys.com/forum/forums/topic/ansys-additive-for-student/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "that factor raised to the power of 4 (assuming a uniform part, like a cube).",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1970年に設立されたANSYSは、数千人のプロフェッショナルを擁し、その多くは有限要素法解析、数値流体力学、エレクトロニクスおよび半導体、組込みソフトウェア、設計最適化などのエンジニアリング分野で博士号、修士号を取得しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://cadfem.ai/free-trial/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys empowers industries to design smarter and innovate faster with advanced simulation—driving progress in automotive, aerospace, energy, healthcare, and beyond.",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Center",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Directed Energy Deposition",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Direct Energy Deposition (DED)",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER CENTER",
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive analysis of Powder Bed Fusion (PBF), Directed Energy Deposition (DED), and Sintering",
+    "url": "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "ICEM CFD is a trademark used by ANSYS, Inc. under license. CFX is a trademark of Sony Corporation in Japan. All other brand, product,",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "continue to evolve as we work with more machine partners and key customers.",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "problem with your simulation and you need to contact customer support for a resolution. Clicking",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "diagnostic purposes. Contact us at the ANSYS Customer Portal.",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ANSYS application or is available as a downloadable file (on the ANSYS Customer",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A file format used by ANSYS Viewer for 3D visualization.",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The residual, irrecoverable strain caused by a heat source melting or partially melting",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Biomedical Consulting",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Propulsion Systems",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Storage Systems",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Parts Manufacturing",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device Simulation",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "SimuTech Customer Center",
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、航空機業界、自動車業界、医療業界を中心に導入が進んでいます",
+    "url": "https://www.cybernet.co.jp/ansys/product/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "CFX is a trademark of Sony Corporation in Japan. ICEM CFD is a trademark used by Ansys under license. LS-DYNA is a registered trademark of Livermore Software Technology Corporation. nCode is a trademark of HBM nCode.",
+    "url": "https://www.cybernet.co.jp/ansys/product/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming Energy",
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Care Program",
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense Simulation Solutions",
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "PR事例ならPR EDGE",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Sector",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Defense",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Healthcare",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive simulations are revolutionizing aerospace, automotive, medical, and industrial manufacturing — from lightweight engine parts to customized implants.",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely — it models laser powder bed fusion, direct energy deposition, and other metal AM processes.",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive bracket manufacturing",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "- Automotive bracket manufacturing",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Simulation Services India Vehicle Engineering & CAE Solutions",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Simulation Engineering Services Advanced Aerospace CAE Solutions",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Healthcare Medical Device Simulation Services Advanced Healthcare Engineering Solutions",
+    "url": "https://solidtrust.in/additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys empowers industries to design smarter and innovate faster with advanced simulation—driving progress in automotive, aerospace, energy, healthcare, and beyond.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Center",
+    "url": "https://ansys.synopsys.com/products/additive",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ansys Additive Suite: Optimize 3D Printing Processes - CADFEM — Ansys Additive Suite: Optimize 3D Printing Processes - CADFEM CADFEM https://www.cadfem.net > our-solutions",
+    "url": "https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys Additive Suite : Optimize 3D Printing Processes - CADFEM — Ansys Additive Suite : Optimize 3D Printing Processes - CADFEM CADFEM https://www.cadfem.net > our-solutions",
+    "url": "https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html",
+    "pass": 3
+   },
+   {
+    "quote": "Compare 4D Additive vs. Ansys Additive Suite in 2026 — Compare 4D Additive vs. Ansys Additive Suite in 2026 Slashdot https://slashdot.org > comparison > 4...",
+    "url": "https://slashdot.org/software/comparison/4D-Additive-vs-Ansys-Additive-Suite/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "a material in a very localized spot such that the thermal contraction of cooling",
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今野真二「日本語日記」",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "金属3Dプリンター用シミュレーションツール「ANSYS Additive Print/Additive Suite」販売開始のお知らせ | サイバネットシステム株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用シミュレーションツール「ANSYS Additive Print/Additive Suite」販売開始のお知らせ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム株式会社（本社：東京都、代表取締役 社長執行役員：田中 邦明、以下「サイバネット」）は、ANSYS,Inc.（本社：米国ペンシルベニア州（以下、ANSYS））が開発・販売・サポートする「ANSYS® Additive Print™(アンシス アディティブプリント）およびANSYS Additive Suite™（アンシス アディティブ スイート）」の販売および技術サポートを2018年5月22日から開始することをお知らせします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム株式会社は、科学技術計算分野、特にCAE（※）関連の多岐にわたる先端的なソフトウェアソリューションサービスを展開しており、電気機器、輸送用機器、機械、精密機器、医療、教育・研究機関などさまざまな業種及び適用分野におけるソフトウェア、教育サービス、技術サポート、コンサルティング等を提供しております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム株式会社に関する詳しい情報については、下記Webサイトをご覧ください",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム、ANSYSが開発・販売・サポートする金属3Dプリンター用シミュレーションツールを販売開始 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム、ANSYSが開発・販売・サポートする金属3Dプリンター用シミュレーションツールを販売開始",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "販売開始のお知らせ",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社（本社:東京都、代表取締役社長執行役員:田中邦明、以下「サイバネット」）は、ANSYS,Inc.（本社:米国ペンシルベニア州（以下、ANSYS））が開発・販売・サポートする「ANSYS(R)Additive Print(TM)(アンシス アディティブプリント）およびANSYS Additive Suite(TM)（アンシス アディティブスイート）」の販売および技術サポートを2018年5月22日から開始することをお知らせします",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "9億9500万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Claudeで2000万円級分析が80万円に ChatGPTやGemini、3大AI戦略研究",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ansys.synopsys.com/partner-ecosystem/channel-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esss.com/en/company/esss-ansys-channel-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elioplus.com/profile/channel-partners/ansys",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agi.com/about/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadfem.net/en/about-us/strong-network/cadfem-and-ansys.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/CFD/comments/10w5c9u/loose_costs_of_software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vondranlegal.com/how-much-does-an-ansys-software-license-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.ozeninc.com/industry-applications/ansys-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ansyshelp.ansys.com/public/Views/Secured/corp/v251/en/pdf/Additive_Print_and_Science_Users_Guide.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ansyshelp.ansys.com/public/Views/Secured/corp/v261/en/pdf/Additive_Manufacturing_Tutorials.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solidtrust.in/additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/ja-jp/products/additive/ansys-additive-suite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indiamart.com/proddetail/ansys-additive-suite-2851757772548.html?srsltid=AYCX9vJ03p_GO-osLf2K4WSXAOXsX_3HW57_5rpeq_IcVh28zWHEF5JU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://slashdot.org/software/comparison/4D-Additive-vs-Ansys-Additive-Suite/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceforge.net/software/compare/Ansys-Additive-Suite-vs-Ansys-HPC/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/academic/students",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadfem.net/en/our-solutions/ansys-products-free-trials.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/additive/additive-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadfem.ai/free-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovationspace.ansys.com/forum/forums/topic/ansys-additive-for-student/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.ansys.com/static-files/5e73e0c2-61d1-4afc-9b51-dd21bdd26730",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ansys.synopsys.com/company-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ansys",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/ansys/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ansys/__fyx8e_Q4H-qXAKixM809yvLfJiZX6HSH3giZKPBZ3oI",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ansys Additive reseller partner program",
+   "results": [
+    "https://ansys.synopsys.com/partner-ecosystem/channel-partners",
+    "https://www.esss.com/en/company/esss-ansys-channel-partner/",
+    "https://elioplus.com/profile/channel-partners/ansys",
+    "https://www.agi.com/about/partners",
+    "https://www.cadfem.net/en/about-us/strong-network/cadfem-and-ansys.html",
+    "https://edrmedeso.com/article/ansys-channel-partners-a-link-around-the-world-meet-edrmedeso-and-other-partners/",
+    "https://developer.ansys.com/partnerships",
+    "https://www.youtube.com/watch?v=Mh3FpC1hwDY",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners",
+    "https://ansys.synopsys.com/partner-ecosystem"
+   ]
+  },
+  {
+   "query": "Ansys Additive pricing license",
+   "results": [
+    "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "https://www.reddit.com/r/CFD/comments/10w5c9u/loose_costs_of_software/",
+    "https://www.vondranlegal.com/how-much-does-an-ansys-software-license-cost",
+    "https://blog.ozeninc.com/industry-applications/ansys-pricing",
+    "https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html",
+    "https://cfdland.com/ansys-fluent-capability-levels-a-full-guide-to-choosing-the-best-license-for-your-project/",
+    "https://service.purdue.edu/TDClient/32/Purdue/KB/Article/1819/Ansys-Licensing",
+    "https://slashdot.org/software/p/Ansys-Additive-Suite/",
+    "https://ansyshelp.ansys.com/public/Views/Secured/corp/v242/en/opti_inst_lic/opti_inst_lic_anys_lic_model.html",
+    "https://ansyshelp.ansys.com/public/Views/Secured/corp/v251/en/pdf/Ansys_Inc._Licensing_Guide.pdf"
+   ]
+  },
+  {
+   "query": "Ansys Additive Japan distributor",
+   "results": [
+    "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "https://www.youtube.com/watch?v=NHDpLt59YiE",
+    "https://ansyshelp.ansys.com/public/Views/Secured/corp/v251/en/pdf/Additive_Print_and_Science_Users_Guide.pdf",
+    "https://ansyshelp.ansys.com/public/Views/Secured/corp/v261/en/pdf/Additive_Manufacturing_Tutorials.pdf",
+    "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "https://www.youtube.com/watch?v=Mh3FpC1hwDY",
+    "https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf",
+    "https://simutechgroup.com/ansys-software/additive-manufacturing/3d-additive-prep/",
+    "https://www.airframer.com/news/release/ansys-additive-manufacturing-solutions-transform-aerospace-and-defense-biotech",
+    "https://ansys.synopsys.com/partner-ecosystem/find-a-partner"
+   ]
+  },
+  {
+   "query": "Ansys Additive Suite 代理店",
+   "results": [
+    "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "https://www.cybernet.co.jp/ansys/product/additive/",
+    "https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html",
+    "https://edrmedeso.com/products/ansys-additive-manufacturing/",
+    "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "https://solidtrust.in/additive/",
+    "https://ansys.synopsys.com/products/additive",
+    "https://idarts.co.jp/3dp/ansys-additive-print-additive-suite/?srsltid=AYCX9vJp7C2RTyzFeo1H56gzsMvQDMEJXLksxCGYZij4PmjcO5sKDL6l",
+    "https://www.ruanfujia.com/software/10402614/reseller/"
+   ]
+  },
+  {
+   "query": "Ansys Additive Suite 価格",
+   "results": [
+    "https://ansys.synopsys.com/ja-jp/products/additive/ansys-additive-suite",
+    "https://www.cybernet.co.jp/ansys/product/additive/",
+    "https://www.indiamart.com/proddetail/ansys-additive-suite-2851757772548.html?srsltid=AYCX9vJ03p_GO-osLf2K4WSXAOXsX_3HW57_5rpeq_IcVh28zWHEF5JU",
+    "https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html",
+    "https://slashdot.org/software/comparison/4D-Additive-vs-Ansys-Additive-Suite/",
+    "https://sourceforge.net/software/compare/Ansys-Additive-Suite-vs-Ansys-HPC/",
+    "https://ansys.synopsys.com/products/additive/ansys-additive-suite",
+    "https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/",
+    "https://www.appsruntheworld.com/customers-database/products/view/ansys-additive-suite",
+    "https://cad-kenkyujo.com/ansys-kakaku/"
+   ]
+  },
+  {
+   "query": "Ansys Additive free trial",
+   "results": [
+    "https://ansys.synopsys.com/academic/students",
+    "https://www.cadfem.net/en/our-solutions/ansys-products-free-trials.html",
+    "https://ansys.synopsys.com/products/additive/additive-demo",
+    "https://www.youtube.com/watch?v=UocVSYXprnQ",
+    "https://ansyshelp.ansys.com/public/Views/Secured/corp/v251/en/pdf/Additive_Print_and_Science_Users_Guide.pdf",
+    "https://cadfem.ai/free-trial/",
+    "https://innovationspace.ansys.com/forum/forums/topic/ansys-additive-for-student/",
+    "https://additive.tools/learn/free-alternatives-ansys-additive",
+    "https://www.padtinc.com/simulation/simulation-product/ansys-additive-suite/",
+    "https://ansys.synopsys.com/products/additive"
+   ]
+  },
+  {
+   "query": "Ansys Additive company founded employees funding",
+   "results": [
+    "https://investors.ansys.com/static-files/5e73e0c2-61d1-4afc-9b51-dd21bdd26730",
+    "https://ansys.synopsys.com/company-information",
+    "https://en.wikipedia.org/wiki/Ansys",
+    "https://dealroom.co/companies/ansys/",
+    "https://tracxn.com/d/companies/ansys/__fyx8e_Q4H-qXAKixM809yvLfJiZX6HSH3giZKPBZ3oI",
+    "https://www.forbes.com/sites/sarahgoehrke/2019/01/29/additive-manufacturing-simulation-smartens-up-in-latest-ansys-software-release/",
+    "https://investors.ansys.com/static-files/197c7dd3-97c8-4145-8f6c-8992eed48ba7",
+    "https://www.youtube.com/watch?v=IGOO6-98l4k",
+    "https://www.fastwayengineering.com/applications/ansys-additive-solutions",
+    "https://bouncewatch.com/company/ansys"
+   ]
+  }
+ ],
+ "missing": {}
+}

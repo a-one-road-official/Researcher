@@ -1,0 +1,982 @@
+{
+ "name": "CASTOR",
+ "en": "CASTOR",
+ "aliases": [
+  "CASTOR 3D printing software",
+  "キャスター"
+ ],
+ "context": "AM化できる部品の自動選定",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:41:10.950771+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "We take pride in our diverse clientele, which includes companies of all sizes across various industries. From large multinational corporations like Shell to small businesses, our clients trust CASTOR+PARTNERS to guide them through the intricate world of sustainability and renewable energy, ultimately becoming leaders in their respective fields.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Discounted per-study subscription for academic, non-profit, and grant-funded investigator-initiated research. Includes EDC data capture and full API access. Priced by quote.",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "discounted quote (contact sales) USD",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "is prevalently known as one the most leading distributors and largest stockists for castor wheel products in the asia regions.",
+    "url": "https://www.castorwheel.com/blog-section",
+    "pass": 3
+   },
+   {
+    "quote": "was incorporated in the year 1989 of which was first led by a group of local and overseas investor broadening a comprehensive wide range of castor wheel products. The rapid development has then transformed the company into a most leading distributor throughout the whole of Malaysia.",
+    "url": "https://www.castorwheel.com/blog-section",
+    "pass": 3
+   },
+   {
+    "quote": "established in 1983 is well known as one the most leading distributors and largest stockists for castor wheel products in the Asia regions.",
+    "url": "https://www.castorwheel.com/blog-section",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店募集",
+    "url": "https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "we may earn a small commission",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Transforming Europe’s Energy Sector.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to Accelerate Your Energy",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unleashing Energy Sector Potential: Whether We’re Talking Natural Resources or Human Resources, Let’s Create that Winning Formula.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "change in the energy sector, empowering businesses to excel in a fiercely competitive, regulated market while embracing sustainability. But, don’t take our word. Take it from our clients.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We take pride in our diverse clientele, which includes companies of all sizes across various industries. From large multinational corporations like Shell to small businesses, our clients trust CASTOR+PARTNERS to guide them through the intricate world of sustainability and renewable energy, ultimately becoming leaders in their respective fields.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SUSTAINABILITY ENERGY TRANSITION",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We guide businesses towards embracing environmentally responsible practices, helping them transition to renewable energy and achieve long-term sustainability.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "At CASTOR+PARTNERS, we foster a culture of continual learning and innovation. Our strategies help businesses adapt, innovate, and sustain a competitive edge in the ever-evolving energy sector.",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to discover how Adam can help you transform your energy strategy for long-term success and sustainability?",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to discover how CASTOR+PARTNERS can transform your energy strategy for long-term success and sustainability?",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay ahead in the energy sector – Sign up now for exclusive industry news and insights from CASTOR+PARTNERS to power your thought-leadership and sustainable growth journey!",
+    "url": "https://castorpartners.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://github.com/OHDSI/Castor/blob/master/LICENSE",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://github.com/OHDSI/Castor/blob/master/LICENSE",
+    "pass": 3
+   },
+   {
+    "quote": "Your study is sponsored by a commercial entity (e.g., pharmaceutical, biotech, or medical device company).",
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices & Diagnostics",
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "pass": 3
+   },
+   {
+    "quote": "Prestar trolley and hand trucks are proudly made in Japan and offer reliability you can depend on. We continue to manufacture our hand truck products right here in Japan to assure our customers convenient operation, long service life, and peace of mind.Each model in our extensive line-up is carefully built to the highest standards.",
+    "url": "https://www.castorwheel.com/blog-section",
+    "pass": 3
+   },
+   {
+    "quote": "Everyday, in workplaces all over the world, our customers depend on Prestar hand trucks as indispensable partners. Please tune into PRESTAR for our ready stocked, full range material handling products to get more product information.",
+    "url": "https://www.castorwheel.com/blog-section",
+    "pass": 3
+   },
+   {
+    "quote": "​Prestar hand trucks are proudly made in Japan and offer reliability you can depend on. We continue to manufacture our hand truck products right here in Japan to assure our customers convenient operation, long service life, and peace of mind.Each model in our extensive line-up is carefully built to the highest standards.",
+    "url": "https://www.castorwheel.com/blog-section",
+    "pass": 3
+   },
+   {
+    "quote": "Castor is a clinical trial platform for medical device, biopharma, diagnostics, and academic research teams. It unifies electronic data capture, ePRO, eConsent, and randomization in one system, and adds Castor Catalyst, AI-assisted clinical data extraction with human review, built on Google Cloud AI.",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "Proposed EU reforms may remove standalone PMCF reporting, yet the duty to proactively collect clinical data remains. Method selection, notified body defense, and data-capture cost determine what comes next.",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "Low-complexity medical device and IVD studies often fall between enterprise EDC systems and spreadsheets. This webinar shows how a compliant, audit-ready alternative works in practice.",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "The Fastest Route To Compliant Medical Device Trials",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "PMCF and real-world evidence support for medical device manufacturers",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Essentials: self-service, compliant studies for medical device and low-complexity trials",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Service Software",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging tech research on AI, healthcare, energy, and more",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "It then saw an influx of users and new customers like the World Health Organization. WHO used Castor for its “Solidarity Trial,” which was identifying how existing medications might improve outcomes compared to standard of care alone. The study included over 10,000 patients across 553 sites in 30 countries, Arts said.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Castor for Impact (Qualifying Academic / Non-Profit Research):",
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "pass": 3
+   },
+   {
+    "quote": "Castor supports eligible academic researchers and non-profit global health initiatives through our",
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "pass": 3
+   },
+   {
+    "quote": "Your academic institution does not have a site-wide license covering your project.",
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Research",
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "pass": 3
+   },
+   {
+    "quote": "Academic / Non-Profit",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Discounted per-study subscription for academic, non-profit, and grant-funded investigator-initiated research. Includes EDC data capture and full API access. Priced by quote.",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Per-Study Subscription (Academic)",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Castor is a clinical trial platform for medical device, biopharma, diagnostics, and academic research teams. It unifies electronic data capture, ePRO, eConsent, and randomization in one system, and adds Castor Catalyst, AI-assisted clinical data extraction with human review, built on Google Cloud AI.",
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Advising Software",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "It defines 3 plans, covering subscription and enterprise tiers, with named plans including",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "from ~$199/month (indicative; contact sales) USD",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom agreements for sponsors, CROs, and organizations running multiple or large multi-center global trials. Adds volume study licensing, dedicated support, validation and compliance documentation (GCP, 21 CFR Part 11, HIPAA, GDPR), SSO, and negotiated SLAs. Priced by quote.",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.capterra.com/p/143532/Castor-EDC/pricing/",
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "10000円以上は送料無料（北海道・沖縄・離島は15000円以上）",
+    "url": "https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw",
+    "pass": 3
+   },
+   {
+    "quote": "KZ Castor は国内Amazonにて3000円前後で販売されているイヤホンですが、巷では☆5をつけているレビューもあるなど非常に高い評価を受けています",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "3000円前後という価格帯では2DDやスイッチという構成は珍しいためコスパが良い理由の1つとして挙げられることがあります",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月末時点では国内 Amazon にて取り扱いがあり、価格は3000円前後です",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "AliExpress などでは2000円を切る場合があるようですが、3000円を基準としてレビューを行います",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "C8s-3 では中高音の粗が改善しましたが、本体 + ケーブルの価格に見合った音にはなりません",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "総額1万円を超える組み合わせとなる THIEAUDIO EST へのリケーブルでは銀/黒の両方で大きな変化がありますが、1万円クラスのイヤホンと比べられるような音質は実現できませんでした",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "中華ブランドのイヤホンではチューニングスイッチなどと呼ばれ、主に1万円以上の製品で採用されていました",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "3000円でスイッチ付きという面白さ",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "final E500 のような確かな技術力によって実現された価格を超えた良さや、TANGZU Wan'er S.G のような質と個性を併せ持った良さはCastorにはありません",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "価格面でもまさに入門機で、現在Amazonで2,500〜3,000円（AlliExpressセールだと1,500円なんてこともある？？）で購入できてしまうので、あえて旧世代の平成イヤホン群を求めるエンスー以外にはベストな選択でしょう",
+    "url": "https://note.com/super_leggera/n/n13f9a0f6e021",
+    "pass": 3
+   },
+   {
+    "quote": "1,900円で",
+    "url": "https://note.com/super_leggera/n/n13f9a0f6e021",
+    "pass": 3
+   },
+   {
+    "quote": "価格だって2,000円台とAlliExpressなら躊躇なく購入できると思うので、今迷っているなら即買をオススメします",
+    "url": "https://note.com/super_leggera/n/n13f9a0f6e021",
+    "pass": 3
+   },
+   {
+    "quote": "音質の総評、所感：A3K Tier2 参考価格：3500円",
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "pass": 3
+   },
+   {
+    "quote": "価格で言えばTanchjim ZERO, 7Hz SALNOTES ZERO, 竹CHU1,2などやKZで言えばZVXでしょう",
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "pass": 3
+   },
+   {
+    "quote": "参考価格：3500",
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "pass": 3
+   },
+   {
+    "quote": "A3Kという価格帯と音のレアリティ、",
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "pass": 3
+   },
+   {
+    "quote": "レビュー：ARTTI T10 平面駆動イヤホン A7K?A10K(8159円) Tier1 リファレ…",
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "pass": 3
+   },
+   {
+    "quote": "Aliexpressだと、1000~2000円と価格も安いイヤホンなので、気になった方は是非試してほしいと思います",
+    "url": "https://katsukichi-life.com/kz-castor-harman-review",
+    "pass": 3
+   },
+   {
+    "quote": "Aliexpressで1000~2000円程度と価格も安いので、気になる方は是非、試してみてください",
+    "url": "https://katsukichi-life.com/kz-castor-harman-review",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】コスパ最強の有線イヤホンおすすめ｜3,000〜1万円（1万円以内）で後悔しない選び方",
+    "url": "https://katsukichi-life.com/kz-castor-harman-review",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "$13.8M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies has not published its revenue. GetLatka estimates it at about $13.8M a year (December 2023).",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Founded 2012 at $0; every reading has its own bar",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies has raised $2.4M across two rounds since 2018. The latest was a $2M funding round in October 2019.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "$696.9K",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "across two funding rounds. The latest was a $2M funding round in October 2019.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "$13.7M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "$13.9M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "$13.6M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "$13.5M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Steal the Growth Tactics That Took These Startups from $0 to $50M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor has raised $12.2M.",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Castor, a clinical trial process company, raises $45M to create more human-centered research | TechCrunch",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Castor, a clinical trial process company, raises $45M to create more human-centered research",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "is on a mission to make every clinical trial faster and patient-focused. The clinical trial software company announced Wednesday it raised $45 million in Series B funding to continue modernizing the process as the industry shifts to decentralized clinical trials.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Roads Ventures and F-Prime Capital co-led the round and were joined by existing investors Two Sigma Ventures and Inkef Capital. The Series B brings Castor’s total funding to $65 million since it was founded in 2012.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "The clinical trial market is valued at around $16 billion and is growing rapidly at 16% per year, Arts says. A market that big is also attracting companies that want to innovate it. He cites Science 37 and Medable, which recently pulled in a",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "$78 million extension",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "to its $91 million Series C.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "4G Clinical’s clinical trial management software attracts over $200M in new funding",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Castor license - Oracle Help Center — Castor license - Oracle Help Center Oracle Help Center https://docs.oracle.com > ... > 2026.2",
+    "url": "https://docs.oracle.com/en/industries/life-sciences/empirica/2026.2/licensinginfo/castor-license.html",
+    "pass": 3
+   },
+   {
+    "quote": "Castor EDC Software Reviews, Demo & Pricing - 2026 — Castor EDC Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > cas...",
+    "url": "https://www.softwareadvice.com/data-collection/castor-edc-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "キャスターオイル60ml - UTAMA SPICE — キャスターオイル60ml - UTAMA SPICE ウタマスパイス https://utamaspice.jp > アロマセラピー > キャリアオイル",
+    "url": "https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw",
+    "pass": 3
+   },
+   {
+    "quote": "Castor oil Oil 蓖 麻油 全 聯 線上購買蓖麻油- 2026年9月特惠及 ... — Castor oil Oil 蓖 麻油 全 聯 線上購買蓖麻油- 2026年9月特惠及 ... yaraghkar.com https://yaraghkar.com > 蓖 麻油 全 聯 > Oil > Castor oil",
+    "url": "https://yaraghkar.com/products/124c6165523502",
+    "pass": 3
+   },
+   {
+    "quote": "Polyoxyl 35 Castor Oil | CAS 61791-12-6 | SCBT — Polyoxyl 35 Castor Oil | CAS 61791-12-6 | SCBT Santa Cruz Biotechnology https://www.scbt.com > ... > 他の化学製品 0172",
+    "url": "https://www.scbt.com/ja/p/polyoxyl-35-castor-oil-61791-12-6?srsltid=AYCX9vJKogJiPY4wgcTjZEC5BCqKotEkyavawDoaGgnpRqCa7NTLDgM1",
+    "pass": 3
+   },
+   {
+    "quote": "KZ Castor (銀/黒) レビュー 「まともではない」 — KZ Castor (銀/黒) レビュー 「まともではない」 abusan3225.jp https://abusan3225.jp > kz_castor_review_20250901",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "KZ Castor Pro / The first 10mm 2DD lens under 3000 yen... is it ... — KZ Castor Pro / The first 10mm 2DD lens under 3000 yen... is it ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=WZkQE9UoSrE",
+    "pass": 3
+   },
+   {
+    "quote": "レビュー：KZ CASTOR Harman Target with Improved Bass 結論 — レビュー：KZ CASTOR Harman Target with Improved Bass 結論 ゆるふわオーディオ日記 https://el-snow.hatenablog.com > entry > 2023/11/10",
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "pass": 3
+   },
+   {
+    "quote": "Castor EDC Software Pricing, Alternatives & More 2026 — Castor EDC Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > Castor-EDC",
+    "url": "https://www.capterra.com/p/143532/Castor-EDC/",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised — Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised GetLatka https://getlatka.com > companies > ca...",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor 2026 Company Profile: Valuation, Funding & Investors — Castor 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Castor - Crunchbase Company Profile & Funding — Castor - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > castor-1",
+    "url": "https://www.crunchbase.com/organization/castor-1",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Raises $45 Million Series B Funding — Castor Raises $45 Million Series B Funding castoredc.com https://www.castoredc.com > news > c...",
+    "url": "https://www.castoredc.com/news/castor-raises-45m-series-b/",
+    "pass": 3
+   },
+   {
+    "quote": "Castor , a clinical trial process company , raises $45M to create ... — Castor , a clinical trial process company , raises $45M to create ... TechCrunch https://techcrunch.com > 2021/07/14",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "販売代理店募集",
+    "url": "https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw",
+    "pass": 3
+   },
+   {
+    "quote": "キャスタープロダクツカンパニー日本総代理店",
+    "url": "https://castoroil.jp/%E5%95%86%E5%93%81%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社土香弥",
+    "url": "https://castoroil.jp/%E5%95%86%E5%93%81%E6%A1%88%E5%86%85/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "こちらを日本語に翻訳したものが以下の文章になります",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "SteelSeries GameDAC Gen2",
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Founded 2012",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies is a 3D Design Software company based in Tel Aviv, founded in 2012.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies has not published its revenue. GetLatka estimates it at about $13.8M a year (December 2023).",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Founded 2012 at $0; every reading has its own bar",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies has raised $2.4M across two rounds since 2018. The latest was a $2M funding round in October 2019.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "8. Later Stage VC (Series A)",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Castor was founded in 2017.",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "Castor has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "pass": 3
+   },
+   {
+    "quote": "is on a mission to make every clinical trial faster and patient-focused. The clinical trial software company announced Wednesday it raised $45 million in Series B funding to continue modernizing the process as the industry shifts to decentralized clinical trials.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Roads Ventures and F-Prime Capital co-led the round and were joined by existing investors Two Sigma Ventures and Inkef Capital. The Series B brings Castor’s total funding to $65 million since it was founded in 2012.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "It then saw an influx of users and new customers like the World Health Organization. WHO used Castor for its “Solidarity Trial,” which was identifying how existing medications might improve outcomes compared to standard of care alone. The study included over 10,000 patients across 553 sites in 30 countries, Arts said.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "to its $91 million Series C.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "The Series B enables Castor to have teams in place to respond to the fast-growing industry. Last year, the company nearly tripled in revenue growth and is on course to do the same in 2021. Castor has 150 employees currently and expects to hit 200 by the end of the year.",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   },
+   {
+    "quote": "4G Clinical’s clinical trial management software attracts over $200M in new funding",
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.catonetworks.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castorpartners.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.cspire.com/enterprise/solutions/channel-partner-program/partner-form",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arecontvision.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castoredc.com/pricing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://github.com/OHDSI/Castor/blob/master/LICENSE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.oracle.com/en/industries/life-sciences/empirica/2026.2/licensinginfo/castor-license.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inoac.co.jp/en/network/group/sharin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.touhoku-caster.com/eng/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/jgc/interviews/2024/e7e711136ef3bd3e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yueicaster.co.jp/en/madeinjapan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castorwheel.com/blog-section",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yaraghkar.com/products/124c6165523502",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://castoroil.jp/%E5%95%86%E5%93%81%E6%A1%88%E5%86%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scbt.com/ja/p/polyoxyl-35-castor-oil-61791-12-6?srsltid=AYCX9vJKogJiPY4wgcTjZEC5BCqKotEkyavawDoaGgnpRqCa7NTLDgM1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.iherb.com/c/castor-oil",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://search.kakaku.com/kz%20castor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/super_leggera/n/n13f9a0f6e021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://katsukichi-life.com/kz-castor-harman-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castoredc.com/video/engaging-trial-sites-with-technology/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.clinicalleader.com/ecommcenter/castor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/143532/Castor-EDC/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castoredc.com/webinars/intro-castor-connect/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.castoredc.com/castor-impact-program/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/228979-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/castor-1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castoredc.com/news/castor-raises-45m-series-b/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CASTOR reseller partner program",
+   "results": [
+    "https://www.catonetworks.com/partners/",
+    "https://castorpartners.com/",
+    "https://business.cspire.com/enterprise/solutions/channel-partner-program/partner-form",
+    "https://www.arecontvision.com/partners",
+    "https://skyswitch.com/partner-program/",
+    "https://www.acronis.com/en/partners/resellers/",
+    "https://www.epicor.com/en-us/partners/become-a-partner/",
+    "https://www.partner.io/partner-types/reseller-partners",
+    "https://www.motorolasolutions.com/en_us/partners/become-partner/reseller-partner.html",
+    "https://www.castrol.com/en_us/united-states/home/partner-with-us/castrol-partner-program.html"
+   ]
+  },
+  {
+   "query": "CASTOR pricing license",
+   "results": [
+    "https://www.castoredc.com/pricing/",
+    "https://github.com/OHDSI/Castor/blob/master/LICENSE",
+    "https://docs.oracle.com/en/industries/life-sciences/empirica/2026.2/licensinginfo/castor-license.html",
+    "https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge",
+    "https://apis.io/plans/castoredc/castoredc-plans-pricing/",
+    "https://www.softwareadvice.com/data-collection/castor-edc-profile/",
+    "https://www.g2.com/products/castor-edc-castor/reviews",
+    "https://www.clinicalleader.com/ecommcenter/castor",
+    "https://www.trustradius.com/products/castor-edc",
+    "https://helpdesk.castoredc.com/hc/en-us/articles/39216100438941-Pricing-Inquiry"
+   ]
+  },
+  {
+   "query": "CASTOR Japan distributor",
+   "results": [
+    "https://www.inoac.co.jp/en/network/group/sharin.html",
+    "http://www.touhoku-caster.com/eng/index.html",
+    "https://www.jetro.go.jp/en/jgc/interviews/2024/e7e711136ef3bd3e.html",
+    "https://www.yueicaster.co.jp/en/madeinjapan/",
+    "https://www.castorwheel.com/blog-section",
+    "https://www.iqsdirectory.com/casters/casters-2/",
+    "https://www.linkedin.com/pulse/japan-light-duty-casters-market-us-u8eqf",
+    "https://www.globe-caster.com/news/castor-wheels-distributor-when-a-trading-company-stopped-ordering-project-by-project/",
+    "https://www.hamiltoncaster.com/Locate-a-Distributor",
+    "https://kokuragousei.co.jp/en/products/castor-oil.html"
+   ]
+  },
+  {
+   "query": "CASTOR 代理店",
+   "results": [
+    "https://www.amazon.co.jp/jamaican-black-castor-oil/s?k=jamaican+black+castor+oil",
+    "https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw",
+    "https://yaraghkar.com/products/124c6165523502",
+    "https://castoroil.jp/%E5%95%86%E5%93%81%E6%A1%88%E5%86%85/",
+    "https://www.scbt.com/ja/p/polyoxyl-35-castor-oil-61791-12-6?srsltid=AYCX9vJKogJiPY4wgcTjZEC5BCqKotEkyavawDoaGgnpRqCa7NTLDgM1",
+    "https://jp.iherb.com/c/castor-oil",
+    "https://onlineshop.treeoflife.co.jp/products/124011190?srsltid=AYCX9vJmUoNCd2UhrrVfK5Yh1Wk9_-xS3c3ItAf0_AGgG73SCFEuW9eN",
+    "https://www.suplinx.com/shop/g/g313-00032/?srsltid=AYCX9vIA5pbgufMMJEO3nNQo0iU6T0srvldhZlDNf8FwV9kg9C8zo0_f",
+    "https://search.rakuten.co.jp/search/mall/castor+oil/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ]
+  },
+  {
+   "query": "CASTOR 価格",
+   "results": [
+    "https://search.kakaku.com/kz%20castor/",
+    "https://abusan3225.jp/entry/kz_castor_review_20250901",
+    "https://www.amazon.co.jp/Castor-%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E5%8B%95%E7%9A%84%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB%E6%9C%89%E7%B7%9A%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%91%A8%E6%B3%A2%E6%95%B0%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%80%81%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A3%E3%83%B3%E3%81%AE/dp/B0CGWV777V",
+    "https://note.com/super_leggera/n/n13f9a0f6e021",
+    "https://www.youtube.com/watch?v=WZkQE9UoSrE",
+    "https://el-snow.hatenablog.com/entry/2023/11/10/233759",
+    "https://katsukichi-life.com/kz-castor-harman-review",
+    "https://search.kakaku.com/KZ+castor/",
+    "https://www.amazon.co.jp/インイヤーモニター-デュアルダイナミックドライバー-インイヤーイヤホン-チューニングスイッチ-低音補強バージョン・ブラックマイク付き）/dp/B0CMZP29BB",
+    "https://search.kakaku.com/イヤホン+ヘッドホン+kz+castor/"
+   ]
+  },
+  {
+   "query": "CASTOR free trial",
+   "results": [
+    "https://www.castoredc.com/pricing/",
+    "https://www.castoredc.com/video/engaging-trial-sites-with-technology/",
+    "https://www.clinicalleader.com/ecommcenter/castor",
+    "https://www.capterra.com/p/143532/Castor-EDC/",
+    "https://www.castoredc.com/webinars/intro-castor-connect/",
+    "https://www.castoredc.com/castor-impact-program/",
+    "https://www.softwareadvice.com/data-collection/castor-edc-profile/",
+    "https://www.businesswire.com/news/home/20221101005422/en/Castor-Expands-Platform-Capabilities-Releases-Virtual-Visit-Feature-to-Optimize-the-Clinical-Trial-Experience-for-Researchers-and-Patients",
+    "https://www.youtube.com/watch?v=38h_hzV57mA",
+    "https://www.castoredc.com/"
+   ]
+  },
+  {
+   "query": "CASTOR company founded employees funding",
+   "results": [
+    "https://www.linkedin.com/company/castor-ventures",
+    "https://getlatka.com/companies/castor-technologies",
+    "https://pitchbook.com/profiles/company/228979-90",
+    "https://www.crunchbase.com/organization/castor-1",
+    "https://www.castoredc.com/news/castor-raises-45m-series-b/",
+    "https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/",
+    "https://techfundingnews.com/castor-gets-23-5m-boost-the-startup-helps-tech-companies-make-sense-of-their-data-stacks/",
+    "https://av.vc/funds/castor",
+    "https://app.dealroom.co/companies/castor",
+    "https://tracxn.com/d/companies/castor/__eK1ABgCqIllRUDFza0r8MeKakP04lhfM7y4SDzGS5qE"
+   ]
+  }
+ ],
+ "missing": {}
+}

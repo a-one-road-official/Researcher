@@ -1,0 +1,3715 @@
+# 3Dプリンターまわりのソフト（日本の代理店・再販制度・料金）（事実のみ・40品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## Materialise Magics（Materialise Magics）
+- 文脈：造形の準備（データ修正・配置・サポート）
+- 日本の代理店：
+  - 「Founded in 2016, BMF has offices in Singapore, Boston, Shenzhen and Tokyo. For more information on BMF please visit」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「Since 1990, Tokyo-based engineering company」（https://www.materialise.com/en/inspiration/articles/magics-users-solize）
+  - 「販売代理店になる｜Materialiseパートナーシップ」（https://www.materialise.com/ja/industrial/software/partnerships/reseller）
+  - 「販売代理店になる」（https://www.materialise.com/ja/industrial/software/partnerships/reseller）
+  - 「既存の販売代理店としてサインインする」（https://www.materialise.com/ja/industrial/software/partnerships/reseller）
+  - 「地域の販売代理店は、3Dプリンターのソフトウェア、設置、トレーニング、サポートを顧客に提供する、Materialiseの生命線であり、AM業界にとって不可欠な存在です」（https://www.materialise.com/ja/industrial/software/partnerships/reseller）
+  - 「Materialise Distributor and Reseller Programにより、販売代理店は最も人気のあるAMソリューションを必要な対象者に販売することで、収益を増やし、デジタル製造の導入を促進することが可能になります」（https://www.materialise.com/ja/industrial/software/partnerships/reseller）
+- 再販・パートナー制度：
+  - 「Become a Reseller | Materialise Partnerships」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Become a Reseller」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Become a reseller」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Sign in as existing reseller」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Local resellers are our lifeblood and an essential part of the AM industry, providing customers with software, installation, training, and support for their 3D printers. The Materialise Distributor and Reseller Program allows resellers to increase their revenue and advance the adoption of digital manufacturing by selling our most popular AM solutions to those that need it.」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Are you looking to build, grow and scale your additive manufacturing operations? We’re here to help you accelerate sustainable growth with our partner programs.」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Join our partner network」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Become a partner」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Become a reseller」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「We rely on our network of trusted resellers to aid AM users in getting the most out of their 3D printer purchases worldwide. Learn how you can bundle Magics 3D Print Suite and Build Processors with machine sales.」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Our partner programs」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「3D printer OEM」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Find a 3D printer OEM partner」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Reseller」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Need localized sales and training support? Reach out to our resellers to get curated experiences near you when scaling up your 3D printing operations.」（https://www.materialise.com/en/industrial/software/partnerships）
+- 料金：
+  - 「€-9.370,00」（https://store.eos.info/products/magics-metal-package-from-materialise）
+  - 「€9.370,00」（https://store.eos.info/products/magics-metal-package-from-materialise）
+  - 「*Price is for an annual subscription license for a single user of Magics RP, SG+ and EOS Build Processor. After 1 year the license can be renewed directly with Materialise. Please contact us for information on floating licenses and longer subscription terms.」（https://store.eos.info/products/magics-metal-package-from-materialise）
+  - 「${$store.state.items[$store.state.items.mainItemId].variation.documents[0].data.prices.default.price.formatted }」（https://store.oneclickmetal.com/en/software-parameter/materialise-magics-products_902_2288/）
+  - 「本当に必要であれば最大48GBのVRAMを搭載したグラフィックボードも入手することができますが、価格はかなり高くなるため、コストパフォーマンスを考慮したほうがいいかもしれません」（https://materialise.helpjuice.com/103124/2333459）
+  - 「概要 金属粉末3Dプリンタをお使いのユーザー様から、「パーツを中心として引張試験片を円形に並べ、引試験片の向きを放射状にしたい（回転させたい）」というようなご...」（https://materialise.helpjuice.com/103124/2333459）
+  - 「How much does Materialise Magics cost? (Single seat with educational discount: under $5,000/year)」（https://alleghenyedusys.com/product/materialise-magics）
+  - 「価格：82万円（税別）」（https://xtech.nikkei.com/kn/article/knp/product/20071211/0758/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/kn/article/knp/product/20071211/0758/）
+  - 「締切迫る！年額プランが普段より2カ月お得に」（https://xtech.nikkei.com/kn/article/knp/product/20071211/0758/）
+  - 「S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」」（https://xtech.nikkei.com/kn/article/knp/product/20071211/0758/）
+  - 「タイムズカーの見舞金、3000円の根拠 漏洩を通知したうち約14万件が対象外」（https://xtech.nikkei.com/kn/article/knp/product/20071211/0758/）
+  - 「"Materialise acquires OrthoView's surgical planning tools for $12.3M」（https://en.wikipedia.org/wiki/Materialise_NV）
+  - 「"Materialise acquires ACTech, a manufacturer of complex metal parts, in $52.9 million deal"」（https://en.wikipedia.org/wiki/Materialise_NV）
+- 無料体験：
+  - 「Get a Demo」（https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/）
+  - 「Request A Demo」（https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/）
+  - 「Demo Deals! Equipment Sale」（https://alleghenyedusys.com/product/materialise-magics）
+  - 「You’re not alone. In this webinar, Ned Sheerin (VP, Allegheny Educational Systems) is joined by Carlos Alvarado and Eric Pearson from Materialise for a pre-recorded demonstration of Materialise Magics.」（https://alleghenyedusys.com/product/materialise-magics）
+  - 「After filling in the required information, click on the button to submit your request. You will receive a confirmation email upon submission. Allow one to two working days for us to send you the actual download link, along with the voucher to activate your trial license.」（https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product）
+  - 「Once you have received the download link, follow the instructions to install and activate your trial license. Be aware that the download link will only stay active for a limited period of time.」（https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product）
+  - 「Request free trial」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「If you have any questions or are interested in getting a demo of Magics, get in touch with us. Our team is happy to discuss how Magics fits into your business.」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+- 日本語対応：
+  - 「Need localized sales and training support? Reach out to our resellers to get curated experiences near you when scaling up your 3D printing operations.」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Japanese」（https://help.materialise.com/en_US/magics-240-150-and-below/how-to-activate-your-magics-software-video）
+  - 「Japanese」（https://materialise.helpjuice.com/103124/2333459）
+  - 「Japanese」（https://help.materialise.com/license-faq/2365799）
+  - 「Japanese」（https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product）
+- 会社の規模：
+  - 「Increase your revenue with our award-winning Materialise Magics 3D Print Suite to help your customers maximize the full capability of their 3D printers. Our machine-agnostic software provides you with the tools to future-proof your customers’ business as they build, grow, and scale their additive manufacturing (AM) operations.」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Local resellers are our lifeblood and an essential part of the AM industry, providing customers with software, installation, training, and support for their 3D printers. The Materialise Distributor and Reseller Program allows resellers to increase their revenue and advance the adoption of digital manufacturing by selling our most popular AM solutions to those that need it.」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「2μm Series 3D Printers」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「10μm Series 3D Printers」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「25μm Series 3D Printers」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「microArch S150 Series」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「Delivering a first-class 3D file editing solution for BMF customers, Magics Print for BMF」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「“Today’s agreement will combine the strengths of our leading 3D file editing software with BMF’s powerful PµSL 3D printing technology,” said Karel Brans, Sr Market Director, Materialise. “This will help BMF’s customers achieve the highest level of precision and accuracy available on the market today.”」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「Founded in 2016, BMF has offices in Singapore, Boston, Shenzhen and Tokyo. For more information on BMF please visit」（https://bmf3d.com/news/magics-print-for-bmf-announcement/）
+  - 「F123CR Series」（https://purpleplatypus.com/materialise/magics/）
+  - 「F123 Series」（https://purpleplatypus.com/materialise/magics/）
+  - 「You also sell 3D printers. What kind of requests do your customers have for AM?」（https://www.materialise.com/en/inspiration/articles/magics-users-solize）
+  - 「We feel that it is difficult to create value in this era by simply selling 3D printers or making what is requested. What our customers expect from us is to stay ahead of the curve, to be in touch with new technologies, and to continue to provide know-how and technology that will be useful for their products.」（https://www.materialise.com/en/inspiration/articles/magics-users-solize）
+  - 「Materialise was founded in June 1990 by Wilfried Vancraen and his wife Hilde Ingelaere as a」（https://en.wikipedia.org/wiki/Materialise_NV）
+  - 「The company launched one of the first 3D printing online ordering systems in 1997, Materialise NextDay, which later became Materialise OnSite. This service allowed 3D printing service customers to send digital 3D data, which could be printed and shipped the next day.」（https://en.wikipedia.org/wiki/Materialise_NV）
+- 顧客・用途：
+  - 「Increase your revenue with our award-winning Materialise Magics 3D Print Suite to help your customers maximize the full capability of their 3D printers. Our machine-agnostic software provides you with the tools to future-proof your customers’ business as they build, grow, and scale their additive manufacturing (AM) operations.」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Maximize your customer's ROI in AM by offering our build preparation and build processing software as an upsell or cross-sell with any 3D printer purchase.」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Local resellers are our lifeblood and an essential part of the AM industry, providing customers with software, installation, training, and support for their 3D printers. The Materialise Distributor and Reseller Program allows resellers to increase their revenue and advance the adoption of digital manufacturing by selling our most popular AM solutions to those that need it.」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Medical device companies」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Medical software」（https://www.materialise.com/en/industrial/software/partnerships/reseller）
+  - 「Medical device companies」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Medical software」（https://www.materialise.com/en/industrial/software/partnerships）
+  - 「Aerospace」（https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/）
+  - 「Energy」（https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/）
+  - 「“At nTop, we are committed to advancing the power of computational design to production — which is why I’m so excited about our partnership with Materialise and integration of nTop implicit models into Magics for manufacturing”, said Bradley Rothenberg, Co-Founder and CEO of nTop. “This enables our mutual customers to streamline the manufacturing of their most complex designs.”」（https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/）
+  - 「Medical device companies」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/3d-printing-workflow）
+  - 「Medical software」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/3d-printing-workflow）
+  - 「contact our customer service team」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation/licensing）
+  - 「Medical device companies」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation/licensing）
+  - 「Medical software」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation/licensing）
+- 検索結果の抜粋：
+  - 「Materialise Magics 3D Print Suite - YouTube — Materialise Magics 3D Print Suite - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=4to9bzrV2Qc）
+  - 「Tutorial: 3D Printing Workflow | Materialise Magics — Tutorial: 3D Printing Workflow | Materialise Magics Materialise https://www.materialise.com > magics > video-tutorials」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/3d-printing-workflow）
+  - 「How to activate your Materialise Magics license (Old ... — How to activate your Materialise Magics license (Old ... Materialise Software Support https://help.materialise.com > magics-240-150-and-below」（https://help.materialise.com/en_US/magics-240-150-and-below/how-to-activate-your-magics-software-video）
+  - 「Materialise Magics — Materialise Magics MCAE PDF https://www.mcae.cz > Materialise-Magics-2025」（https://www.mcae.cz/wp-content/uploads/2025/09/Materialise-Magics-2025.pdf）
+  - 「Materialise Magics 3D Printing Software — Materialise Magics 3D Printing Software TriMech Manufacturing https://mfg.trimech.com > product」（https://mfg.trimech.com/product/materialise-magics/）
+  - 「Top 10 Materialise Magics Alternatives & Competitors - G2 — Top 10 Materialise Magics Alternatives & Competitors - G2 G2 https://www.g2.com > alternatives」（https://www.g2.com/products/materialise-magics/competitors/alternatives）
+  - 「Magics 以外のもっと安い代替品を探しています。 : r/3Dprinting — Magics 以外のもっと安い代替品を探しています。 : r/3Dprinting Reddit https://www.reddit.com > comments > help_looking_for_...」（https://www.reddit.com/r/3Dprinting/comments/1abukkq/help_looking_for_a_cheaper_alternative_besides/?tl=ja）
+  - 「Materialise Magics | 3D Printing Data and Build Preparation ... — Materialise Magics | 3D Printing Data and Build Preparation ... Materialise https://www.materialise.com > software」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「Materialise Magics 2026: Best for 3D Printing Pros — Materialise Magics 2026: Best for 3D Printing Pros Spotsaas https://www.spotsaas.com > product」（https://www.spotsaas.com/product/materialise-magics）
+
+## Oqton 3DXpert（3DXpert）
+- 文脈：造形の準備（金属）
+- 日本の代理店：
+  - 「ステンレス鋼部品製作用「Ultrafuse 316L」販売開始」（https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF）
+- 再販・パートナー制度：
+  - 「, in response to the transformative potential of artificial intelligence in additive manufacturing. As part of this strategic focus, the company intends to divest its software platforms designed for broad industry adoption across all OEM printer manufacturers, which includes its」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「VARIANT MANAGEMENT」（https://plmgroup.eu/articles/tag/3dxpert/）
+  - 「If you’re already printing in metal or are considering starting up, then you should read this! We are proud to announce that we have become a reseller of the Additive Manufacturing program 3DXpert from 3D Systems. By adding this program to our portfolio side-by-side with the printers we are selling, we now can offer you」（https://plmgroup.eu/articles/tag/3dxpert/）
+  - 「At the same time, 3D Systems has agreed to sell its Oqton Manufacturing Operating System (MOS) and 3DXpert platforms to Hubb Global Holdings. These are “printer-agnostic” software tools designed to manage additive workflows and support large, mixed fleets of machines, including metal printers from multiple OEMs.」（https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/）
+  - 「have already built strong recognition among manufacturers worldwide. Oqton’s system has been used in facilities across the U.S., Europe, and the Middle East, demonstrating applications for distributed, on-demand manufacturing. 3DXpert has become a benchmark for advanced metal printing workflows, helping OEMs and end users improve reliability and throughput.」（https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/）
+  - 「Open platform for all Hardware OEMs in AM」（https://oqton.com/）
+  - 「In this Special Focus Issue, Digital Engineering takes a look at how generative design solutions can be used across different types of design problems and with a variety of manufacturing approaches to accelerate design space exploration, and…」（https://www.digitalengineering247.com/company/oqton）
+  - 「rms と 3D Systems、両社の協力により、デジタル ファイルから手術器具用の滅菌梱包済み製品の生産まで、OEM を支援...」（https://ja.3dsystems.com/software）
+  - 「VARIANT MANAGEMENT」（https://plmgroup.eu/articles/get-3dxpert-solidworks-free/）
+  - 「from your Reseller and then enter that code in the License Manager.」（https://support.3dsystems.com/s/article/Setting-up-your-license-for-3DXpert?language=en_US）
+  - 「, in response to the transformative potential of artificial intelligence in additive manufacturing. As part of this strategic focus, the company intends to divest its software platforms designed for broad industry adoption across all OEM printer manufacturers, which includes its」（https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx）
+  - 「will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”」（https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx）
+  - 「has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton」（https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Provides-Update-on-Software-Strategy/default.aspx）
+- 料金：
+  - 「3DXpert is available as a standalone subscription license, ensuring all users have access to the newest features and capabilities. The software comes in different packages」（https://oqton.com/3dxpert/）
+  - 「– 3DXpert Educational: Classroom bundle of 3DXpert Elite with all available tools, including a power seat for the professor and up to 10 student seats, for non-commercial use and non-commercial research institutes.」（https://oqton.com/3dxpert/）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「3DXpert Reviews & Pricing 2026 | Goodfirms」（https://www.goodfirms.co/software/3dxpert）
+  - 「Data-driven research on B2B services, pricing & demand trends.」（https://www.goodfirms.co/software/3dxpert）
+  - 「To use 3DXpert for SOLIDWORKS, you are required to have an on-subscription license of SOLIDWORKS Professional and a PC with minimum specs of 4 cores, 16GB RAM, as well as a graphics card that supports OpenGL 3.3 and with at least 1GB of memory.」（https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/）
+  - 「If you have SOLIDWORKS on subscription, you also have access to the 3D printing software 3DXpert for SOLIDWORKS without any additional cost. This is a complementary software for SOLIDWORKS based on the full version of 3DXpert from 3D Systems.」（https://plmgroup.eu/articles/tag/3dxpert/）
+  - 「PhysicsX Raises $300M in Series C Investments to Advance Physics AI」（https://www.digitalengineering247.com/company/oqton）
+  - 「3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています」（https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF）
+  - 「今回の買収の対価は、現金と3D Systemsの株式で構成される1億8,000万ドル（約198億円）で、2025年までにソフトウェアの収益が1億ドルを超えると予想されている」（https://idarts.co.jp/3dp/3d-systems-acquire-oqton/?srsltid=AYCX9vLKAnbJV_LvHk7ffKz1xGi0Ybzu1nPcsp28vYH2aTGN05Wa6gKF）
+- 無料体験：
+  - 「Request demo」（https://oqton.com/3dxpert/）
+  - 「Request a Demo」（https://oqton.com/3dxpert/）
+  - 「Request Demo Pop Form」（https://oqton.com/3dxpert/）
+  - 「Congo, Democratic Republic of the」（https://oqton.com/3dxpert/）
+  - 「Korea, Democratic People's Republic of」（https://oqton.com/3dxpert/）
+  - 「Lao People's Democratic Republic」（https://oqton.com/3dxpert/）
+  - 「Get Demo Now」（https://oqton.com/3dxpert/）
+  - 「How can I contact Oqton to request a demo, or purchase 3DXpert?」（https://oqton.com/3dxpert/）
+  - 「request a demo here」（https://oqton.com/3dxpert/）
+  - 「Request A Demo」（https://oqton.com/3dxpert/）
+  - 「capabilities have been demonstrated in several customer facilities across the U.S., Europe and the Middle East, including the potential for distributed manufacturing, on-demand, for reduced cost and delivery time. Oqton」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「Free version」（https://www.goodfirms.co/software/3dxpert）
+  - 「Free trial」（https://www.goodfirms.co/software/3dxpert）
+  - 「Free Version」（https://www.goodfirms.co/software/3dxpert）
+  - 「Free Trial」（https://www.goodfirms.co/software/3dxpert）
+- 日本語対応：
+  - 「MeltControl uses micro-thermal simulation to automatically optimize every scan vector in your build. Physics-based. Localized. Validated.」（https://oqton.com/3dxpert/）
+  - 「Support localized production, spare parts on demand, or transformative concepts like additively manufactured valves or heat exchangers.」（https://oqton.com/3dxpert/）
+  - 「3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.」（https://oqton.com/3dxpert/）
+  - 「Support localized production, spare parts on demand, or transformative concepts like additively manufactured valves or heat exchangers.」（https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/）
+- 会社の規模：
+  - 「DMP Factory 350 Series」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「DMP Flex 350 Series」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「MOS will operate under Hubb Global Holdings as an independent provider of printer-agnostic enterprise software that will enable the rapid integration of intelligent, cost-effective metal additive manufacturing into customers’ factories. The same approach will be taken with 3DXpert」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「MOS or provided to customers as a standalone platform. This approach will benefit the entire industry by accelerating growth in customer demand for 3D metal printing technology, and its integration into factory operating environments around the world.」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「will expand upon the unmatched technical foundation it has established with customers, and several other OEMs alike. This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「has become the benchmark for advanced metal printing applications, enabling more efficient and reliable print set-up, and greater productivity for 3D metal printing applications. Its popularity with customers around the world has been growing each year, which has already driven its adoption by several OEMs in the metal printing industry in recent years. Oqton」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「platform into its workflow, ensuring interoperability, and is designed to be fully compatible with leading MRP systems used by customers in manufacturing worldwide. By spinning-off these software platforms to an independent party, an industrywide focus can be maintained and growth accelerated, which will benefit the entire 3D printing industry.」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「, its AM software platform that powers the Company’s polymer 3D printing platforms. 3D Sprint is architected for efficient design-file preparation and process optimization. It is currently used by customers throughout its installed base, numbering in the thousands, the largest operating fleet in the industry. 3D Systems intends to continue expanding 3D Sprint’s」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「DMP Factory 350 Series」（https://www.3dsystems.com/video/3dxpert-overview-video-1）
+  - 「DMP Flex 350 Series」（https://www.3dsystems.com/video/3dxpert-overview-video-1）
+  - 「“This transaction enables 3D Systems to be well-positioned for the future, with a comprehensive solution portfolio to support high reliability customers in production environments, supported by a sustainable R&D investment strategy for the future.”」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「since an 180 million USD acquisition deal in 2021」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「101–500 employees」（https://www.goodfirms.co/software/3dxpert）
+- 顧客・用途：
+  - 「Medical Implants」（https://oqton.com/3dxpert/）
+  - 「Aerospace」（https://oqton.com/3dxpert/）
+  - 「Automotive」（https://oqton.com/3dxpert/）
+  - 「Energy」（https://oqton.com/3dxpert/）
+  - 「Customer Stories」（https://oqton.com/3dxpert/）
+  - 「Customer Support」（https://oqton.com/3dxpert/）
+  - 「Handle every file format your customers send with parametric, automation-ready build preparation and Supportless enabling strategies.」（https://oqton.com/3dxpert/）
+  - 「Aerospace & Defense」（https://oqton.com/3dxpert/）
+  - 「Trusted by Customers Across Many Industries」（https://oqton.com/3dxpert/）
+  - 「Have a look at how successful our customers are」（https://oqton.com/3dxpert/）
+  - 「Customer Story」（https://oqton.com/3dxpert/）
+  - 「Customer Stories」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「Aerospace & Defense」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「Automotive」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+  - 「Energy and Fluid Management (Metals)」（https://www.3dsystems.com/press-releases/3d-systems-provides-update-software-strategy）
+- 検索結果の抜粋：
+  - 「3DXpert | Additive Manufacturing Software - Oqton — 3DXpert | Additive Manufacturing Software - Oqton Oqton https://oqton.com > 3dxpert」（https://oqton.com/3dxpert/）
+  - 「3DXpert Overview Video - 3D Systems — 3DXpert Overview Video - 3D Systems 3D Systems https://www.3dsystems.com > 3dxpert-overview-video-1」（https://www.3dsystems.com/video/3dxpert-overview-video-1）
+  - 「3D Systems to divest Oqton & 3DXpert software platforms — 3D Systems to divest Oqton & 3DXpert software platforms TCT Magazine https://www.tctmagazine.com > 3d-sy...」（https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/）
+  - 「3DXpert for Solidworks by 3D Systems - Reddit — 3DXpert for Solidworks by 3D Systems - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/SolidWorks/comments/bqmz6g/3dxpert_for_solidworks_by_3d_systems/）
+  - 「3DXpert Reviews & Pricing 2026 - Goodfirms — 3DXpert Reviews & Pricing 2026 - Goodfirms Goodfirms https://www.goodfirms.co > 3dxpert」（https://www.goodfirms.co/software/3dxpert）
+  - 「3DXpert Licensing FAQs - 3D Systems Support Home — 3DXpert Licensing FAQs - 3D Systems Support Home 3D Systems https://support.3dsystems.com > article」（https://support.3dsystems.com/s/article/3DXpert-Licensing-FAQs）
+  - 「3DXpert for SOLIDWORKS — 3DXpert for SOLIDWORKS SolidWorks Blog https://blogs.solidworks.com > products」（https://blogs.solidworks.com/products/solidworks/3dxpert-for-solidworks/）
+  - 「3DXpert by PLM Group - supporting additive manufacturing — 3DXpert by PLM Group - supporting additive manufacturing PLM Group EU https://plmgroup.eu > tag > 3dxpert」（https://plmgroup.eu/articles/tag/3dxpert/）
+  - 「Download and Get Started With 3DXpert — Download and Get Started With 3DXpert 3D Systems https://support.3dsystems.com > article」（https://support.3dsystems.com/s/article/3DXpert）
+  - 「3DXpert - Shree Rapid Technologies: One-Stop Shop for 3D ... — 3DXpert - Shree Rapid Technologies: One-Stop Shop for 3D ... Shree Rapid Technologies https://www.shreerapid.com > software」（https://www.shreerapid.com/software/3d-xpert/）
+  - 「3DXpert Industrial Additive Manufacturing Software — 3DXpert Industrial Additive Manufacturing Software Lodestar 3D https://lodestar3d.com > ... > Software」（https://lodestar3d.com/product/3dxpert-industrial-additive-manufacturing-software/）
+  - 「3D Systems Sells Oqton and 3DXpert to Hubb Global Holdings — 3D Systems Sells Oqton and 3DXpert to Hubb Global Holdings 3DPrint.com https://3dprint.com > 3d-systems-refo...」（https://3dprint.com/321081/3d-systems-refocuses-on-polymers-sells-oqton-and-3dxpert-to-hubb-global-holdings/）
+  - 「Oqton : Manufacturing Software Solutions - 3DXpert , MOS ... — Oqton : Manufacturing Software Solutions - 3DXpert , MOS ... Oqton https://oqton.com」（https://oqton.com/）
+  - 「Oqton 3D Software - CDG — Oqton 3D Software - CDG UK.COM https://cdg.uk.com > oqton-3d-software」（https://cdg.uk.com/oqton-3d-software/）
+  - 「3dxpert - Oqton — 3dxpert - Oqton Oqton https://oqton.com > 3dxpert」（https://oqton.com/softwaresupport/3dxpert/）
+
+## Autodesk Netfabb（Netfabb）
+- 文脈：造形の準備・シミュレーション
+- 日本の代理店：
+  - 「株式会社ミマキエンジニアリング」（https://mimaki.com/news/product/entry-374722.html）
+  - 「【オートデスク正規代理店】製造向けAutodesk総合支援サービス - toDIMポータル｜応用技術株式会社」（https://todim.apptec.co.jp/solution/adskservice/）
+  - 「【オートデスク正規代理店】製造向けAutodesk総合支援サービス」（https://todim.apptec.co.jp/solution/adskservice/）
+  - 「応用技術株式会社は、『建築・土木・製造』業界とオートデスク製品を中核としたサービスを幅広く提供しており、お客様がソフトウェアを最大限ご活用いただけるよう『提案・開発・サービス・サポート』まで提供しています」（https://todim.apptec.co.jp/solution/adskservice/）
+  - 「【オートデスク正規代理店】Autodesk Fusion支援サービス」（https://todim.apptec.co.jp/solution/adskservice/）
+- 再販・パートナー制度：
+  - 「Become a reseller」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Find resellers」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.」（https://all3dp.com/1/autodesk-netfabb-simply-explained/）
+  - 「Reliable reseller:」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Find a Reseller」（https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/）
+  - 「Become a Formlabs Reseller」（https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/）
+  - 「15% Discount on NexGen Services」（https://nexgensolutions.com/software/netfabb/）
+  - 「*Day is defined as 6 hours of training, however class length varies based on student progress.」（https://nexgensolutions.com/software/netfabb/）
+  - 「Netfabb can import models from various CAD formats and use repair tools to correct errors quickly. It also includes powerful editing tools for making models production-ready by adjusting wall thicknesses, smoothing rough areas, and more.」（https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/）
+- 料金：
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「Autodesk Netfabb Premium 3 Year Subscription 2027/2026/2025 Mac/PC | Commercial License」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Autodesk Netfabb Premium 1 Year Subscription 2027/2026/2025 Mac/PC | Commercial License」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Original price was: US$5,300.00.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Current price is: US$399.99.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Autodesk Inventor Tolerance Analysis 1 Year Subscription 2027/2026/2025 Mac/PC」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Original price was: US$3,265.00.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Current price is: US$49.99.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Original price was: US$15,895.00.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Current price is: US$899.99.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Autodesk Netfabb Premium 3 Year Subscription 2027/2026/2025 Mac/PC | Commercial License quantity」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Your subscription is valid for 1/ 3 years from the date it is enabled.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Impossible Objects Raises $40 Million to Boost Industrial Additive Manufacturing」（https://www.3dnatives.com/en/netfabb-software-241120205/）
+- 無料体験：
+  - 「“Autodesk is excited to connect to, and enable PreForm with Netfabb,” said Duann Scott, business development and strategy at Autodesk. “Formlabs has been disruptive in democratizing professional 3D printing, just as Autodesk is working to provide professional additive manufacturing design software to every designer, engineer and researcher.”」（https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/）
+  - 「Formlabs and Autodesk in America Make’s Booth #2439 for demos with The Lanterman Group.」（https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/）
+  - 「Free 30-Day Trial」（https://nexgensolutions.com/software/netfabb/）
+  - 「Are you looking to get a demo of Netfabb?」（https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/）
+  - 「Autodesk Netfabb - Free 30-Day Trial - NexGenSolutions」（https://nexgensolutions.com/software/netfabb/free-trial/）
+  - 「Start your free trial of Autodesk Netfabb.」（https://nexgensolutions.com/software/netfabb/free-trial/）
+  - 「Autodesk Software Free Trial Form」（https://nexgensolutions.com/software/netfabb/free-trial/）
+- 日本語対応：
+  - 「Company / IR Site (Japanese)」（https://mimaki.com/news/product/entry-374722.html）
+- 会社の規模：
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「S series 3D printers」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Method series 3D printers」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Customers who are already using the "3DUJ-553" can use the standard software "3D Link" and "Netfabb", and customers who are already familiar with "Netfabb" will be able to continue to use "Netfabb" as before with the "3DUJ-553".」（https://mimaki.com/news/product/entry-374722.html）
+  - 「(Computer Aided Design), CAM (Computer Aided Manufacturing) and CAE (Computer Aided Engineering) tools, Netfabb has been specifically developed for additive manufacturing, design and simulation to streamline workflows and reduce build errors before fabrication. Originally developed by German company netfabb GmbH, Autodesk acquired it in 2015.」（https://www.3dnatives.com/en/netfabb-software-241120205/）
+  - 「M2 Series 5」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「ScanBox Series 4」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「ScanBox Series 5」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「ScanBox Series 6」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「ScanBox Series 7 & 8」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「HP Series 7 Pro 24 inch monitor」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「HP Series 7 Pro 27 inch monitor」（https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/）
+  - 「With Autodesk’s obsession with 3D printing at the moment, this is the most recent in a long line of acquisitions in the 3D printing space and it looks like the company is building up a pretty decent stack of technology that could prove interesting.」（https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/）
+- 顧客・用途：
+  - 「Customer Portal」（https://www.dsi-mfg.com/software/netfabb）
+  - 「Netfabb (now delivered as Fusion with Netfabb) covers the full additive workflow: import and repair meshes, arrange builds, generate lattices, and simulate powder bed fusion or direct energy deposition before you commit material and machine time.」（https://www.dsi-mfg.com/software/netfabb）
+  - 「Model the thermal and mechanical response of metal powder bed fusion and direct energy deposition builds to catch failures before they happen.」（https://www.dsi-mfg.com/software/netfabb）
+  - 「Build preparation, lattice and hollowing tools, automatic packing, and additive toolpaths are included. Thermo-mechanical simulation for metal powder bed fusion and direct energy deposition is available on qualifying tiers.」（https://www.dsi-mfg.com/software/netfabb）
+  - 「Aerospace」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/）
+  - 「Automotive」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Automotive applications」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Defense」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Keeping defense assets operational」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Defense applications」（https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/）
+  - 「Customer Reviews」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Only logged in customers who have purchased this product may leave a review.」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Case Study」（https://mimaki.com/news/product/entry-374722.html）
+- 検索結果の抜粋：
+  - 「Autodesk's New Netfabb 2026: All You Need to Know - All3DP — Autodesk's New Netfabb 2026: All You Need to Know - All3DP All3DP https://all3dp.com > Professional」（https://all3dp.com/1/autodesk-netfabb-simply-explained/）
+  - 「Buy Netfabb Premium 3 Year Commercial License — Buy Netfabb Premium 3 Year Commercial License Elements Keys https://elementskeys.com > autodesk」（https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP）
+  - 「Autodesk Netfabb Premium | 1 Device for 1 Year - noon — Autodesk Netfabb Premium | 1 Device for 1 Year - noon noon https://www.noon.com > ... > Utilities」（https://www.noon.com/uae-en/autodesk-netfabb-premium-1-device-for-1-year-digital-license-same-day-delivery/Z57D1895690E8A7E6F72FZ/p/）
+  - 「3D Printing Software " Netfabb " is now compatible ... - Mimaki — 3D Printing Software " Netfabb " is now compatible ... - Mimaki Mimaki Global https://mimaki.com > entry-374722」（https://mimaki.com/news/product/entry-374722.html）
+  - 「Autodesk Netfabb : The Complete Solution for 3D Printing ... — Autodesk Netfabb : The Complete Solution for 3D Printing ... tpm.com https://www.tpm.com > blog > autode...」（https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/）
+  - 「3D積層造形向け設計/解析ソフトウェア Autodesk Fusion with ... — 3D積層造形向け設計/解析ソフトウェア Autodesk Fusion with ... datadesign https://www.datadesign.co.jp > netfabb」（https://www.datadesign.co.jp/netfabb/）
+  - 「オートデスク が netfabb を買収（無料の3Dファイル修正と商用 ... — オートデスク が netfabb を買収（無料の3Dファイル修正と商用 ... Reddit https://www.reddit.com > comments > autodesk_acquires_...」（https://www.reddit.com/r/3Dprinting/comments/3m751c/autodesk_acquires_netfabb_free_3d_file_fixing_and/?tl=ja）
+  - 「Autodesk Fusion 360 with Netfabb Premiumを用いた光造形機 ... — Autodesk Fusion 360 with Netfabb Premiumを用いた光造形機 ... Autodesk https://www.autodesk.com > partners > success-stories > a...」（https://www.autodesk.com/support/partners/success-stories/autodesk-fusion-360-with-netfabb-premium/7495）
+  - 「Autodesk Fusion with Netfabb | 2025、2024 の機能 — Autodesk Fusion with Netfabb | 2025、2024 の機能 Autodesk https://www.autodesk.com > products > netfabb > features」（https://www.autodesk.com/jp/products/netfabb/features）
+  - 「AUTODESK NETFABB – 3DS-Online Store — AUTODESK NETFABB – 3DS-Online Store 株式会社スリー・ディー・エス https://shop.3ds.co.jp > collections > fusion360」（https://shop.3ds.co.jp/collections/fusion360）
+  - 「Autodesk Netfabb - Free 30-Day Trial - NexGenSolutions — Autodesk Netfabb - Free 30-Day Trial - NexGenSolutions NexGenSolutions https://nexgensolutions.com > free-trial」（https://nexgensolutions.com/software/netfabb/free-trial/）
+  - 「3DprintFIT/ netfabb -basic-download - GitHub — 3DprintFIT/ netfabb -basic-download - GitHub GitHub https://github.com > netfabb-basic-do...」（https://github.com/3DprintFIT/netfabb-basic-download）
+  - 「netfabb Studio Basic 4.8 Download ( Free trial )... — netfabb Studio Basic 4.8 Download ( Free trial )... netfabb Studio Basic Download https://netfabb-studio-basic.software.informer.com > ...」（https://netfabb-studio-basic.software.informer.com/4.8/）
+  - 「Netfabb Reviews & Ratings 2026 | Gartner Peer Insights — Netfabb Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > netfabb」（https://www.gartner.com/reviews/product/netfabb）
+  - 「Autodesk to acquire NetFabb - DEVELOP3D — Autodesk to acquire NetFabb - DEVELOP3D develop3d https://develop3d.com > autodesk-to-...」（https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/）
+
+## Dyndrite（Dyndrite）
+- 文脈：造形の準備（金属・GPU）
+- 日本の代理店：
+  - 「Tokyo • Los Angeles • AAchen • Austin • Orlando • UK • Barcelona」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「Tokyo • Tampa • Chicago • Detroit • Colorado Springs • Long Beach」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「Tokyo, Japan」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「Shinagawa-ku, Tokyo 140-0011 Japan」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「Takes place the day before Rapid TCT Tokyo.」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「ナブテスコ株式会社は、積層造形技術（Additive Manufacturing）の量産品への適用に対する品質保証に関し、ISO/ASTM 52920に準拠した …」（https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/）
+- 再販・パートナー制度：
+  - 「relationship with our OEM partners.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「After years of working with startups and established machine manufactures, Dyndrite has developed an OEM relationship methodology, split across six broad phases. Technical and commercial discussions proceed in parallel to ensure requirements are understood, technical value is quickly shown, and commercial objectives agreed upon.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Our fees are driven by your requirements and timescales with flexibility. Flexible annual pricing and royalty models are designed to accommodate a variety of R&D and commercial objectives. We particularly appreciate the financial pressures on start-ups and have a range of options to reflect your point in the business creation journey.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Integrated learning is enriched and applicable for all experience levels. The software presents an integrated documentation and scripting interface that educates users as they interact with the product. Customers are said to report quick adoption across varied user experience levels.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「The software is well suited for a variety of industries, including aerospace, defense, rocketry, automotive, energy and medical.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Their deep expertise across metal LPBF, materials, hardware and applications perfectly complements Dyndrite’s mission to provide users with the advanced tools required to scale production-ready metal additive manufacturing. Together, we can help end-users maker better parts faster, with OEM interoperability and using novel Qualification strategies to reduce time to market and drive down cost」（https://www.iam3dhub.org/dyndrite-new-technological-partner-on-board-at-iam3dhub/）
+  - 「Effortlessly handle a broad range of file types and machines natively. Leverage our advanced toolpath APIs to access advanced materials and parameter development across various additive processes including」（https://www.dyndrite.com/）
+  - 「Dyndrite LPBF Pro interfaces directly with a wide variety of 3D metal printing machines including: Aconity3D, Renishaw, SLM, and others. Dyndrite is a member of the EOS developer network.」（https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program）
+  - 「Connect with machine OEMS, local 3D metal printing manufacturers and service providers.」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「THREE (3) NEW OEMS SELECT DYNDRITE TO DRIVE THEIR AM PROCESS」（https://www.dyndrite.com/about）
+  - 「Original Equipment Manufacturers (OEMs)」（https://www.dyndrite.com/about）
+  - 「The Dyndrite Developer Council (DDC) is an invite-only, CTO-led organization that uses its technical and business expertise to advance the state of the digital manufacturing industry. The DDC includes over 25 members representing OEMs and ISVs that account for over 90% of the industrial 3D printers sold each year, and close to 1 million jobs around the world.」（https://www.dyndrite.com/about）
+  - 「*Functionality is contingent on the machine OEM's 'openness'」（https://www.dyndrite.com/lpbf-product）
+- 料金：
+  - 「Dyndrite Awards $10,000 Innovation Prize to University of Waterloo Researchers in Inaugural Student Competition」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Dyndrite Selected to Support $5.5M America Makes GOTHAAM Program to Advance Qualification of High-Strength Aluminum for Additive Manufacturing」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Dyndrite Sponsors ASTM ICAM 2026 at the Leader Level, Launches $10,000 Student Grant Competition to Accelerate Metal Additive Manufacturing Adoption」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Dyndrite Awards $10,000 Innovation Prize to University of Waterloo Researchers in Inaugural Student Competition」（https://www.dyndrite.com/）
+  - 「Dyndrite Selected to Support $5.5M America Makes GOTHAAM Program to Advance Qualification of High-Strength Aluminum for Additive Manufacturing」（https://www.dyndrite.com/）
+  - 「Dyndrite Sponsors ASTM ICAM 2026 at the Leader Level, Launches $10,000 Student Grant Competition to Accelerate Metal Additive Manufacturing Adoption」（https://www.dyndrite.com/）
+  - 「Investors include Gradient Ventures, Google’s AI-focused Investment Fund and Carl Bass, former Autodesk CEO. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.」（https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program）
+  - 「September 25th, 2025 – Seattle, WA」（https://www.additiveindustries.com/additive-industries-dyndrite/）
+  - 「This is a limited-seating 1 day workshop event. While it’s free to attend, your attendance would be at your own cost for travel and accommodations. Bringing a laptop is required to maximize the workshop experience.」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「This is a limited-seating 1 day workshop event. While it’s free to attend, your attendance would be at your own cost for travel and accommodations. Bringing a laptop is highly recommended to maximize the workshop experience.」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/）
+- 無料体験：
+  - 「CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Power democratized」（https://www.dyndrite.com/）
+  - 「First Public Demonstration of DyndritE @ AMUG Chicago」（https://www.dyndrite.com/about）
+  - 「Ready to secure your VIP spot on our onboarding schedule? Sign up now for your free trial.」（https://www.dyndrite.com/vip）
+  - 「A complimentary 30-day trial seat of Dyndrite LPBF Pro.」（https://www.dyndrite.com/vip）
+  - 「Sign up for your free trial today!」（https://www.dyndrite.com/vip）
+  - 「Start Your Free Trial」（https://www.dyndrite.com/military-and-defense）
+  - 「Dyndrite is a proud part of the project team that was awarded the $2.875M America Makes AM Material Datasets defense project, funded by OSD(R&E) and AFRL, which demonstrates our leadership in advancing defense AM with innovative material science.」（https://www.dyndrite.com/military-and-defense）
+- 会社の規模：
+  - 「This approach is novel as it shows how optimal print parameters can be systematically derived, and a functional process engineering window explored using Dyndrite software with the Renishaw QuantAM’s API to allow complete control of RenAM500 series laser parameters to make more performant parts faster, especially useful with multi-laser systems.」（https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program）
+  - 「Investors include Gradient Ventures, Google’s AI-focused Investment Fund and Carl Bass, former Autodesk CEO. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.」（https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program）
+  - 「Founded 2016」（https://worldopex.com/business/dyndrite/）
+  - 「Dyndrite™, providers of next generation industrial software for additive manufacturing, today announced support for Additive Industries’ MetalFab™ industrial 3D printers. The collaboration brings Dyndrite LPBF Pro’s powerful toolpath, agile qualification and build automation tools to Additive Industries’ customers in the aerospace, automotive, defense, and energy industries.」（https://www.additiveindustries.com/additive-industries-dyndrite/）
+  - 「3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説」（https://news.sharelab.jp/3dp-news/others/dyndrite-smart-script-241115/）
+  - 「迅速に概念を構築し解決策を提示する能力が評価され、2017年にDyndriteを設立」（https://www.eos.info/ja/content/blog/know-how/mathematics-behind-additive-manufacturing）
+  - 「ただし、Meteorの主な競争相手は、最近、別の 3Dプリンタベンダーである Nano Dimensionに買収された GISであることは、注目に値します」（https://ohno-inkjet.com/?p=62186）
+  - 「Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021. For more information visit:」（https://www.ulendo.io/news/ulendo-introduces-first-add-in-to-dyndrite-lpbf-pro）
+  - 「Veteran investors from the CAD industry join investors with a focus on computing for $10+ million Series A round」（https://www.dyndrite.com/press-releases/gradient-ventures-googles-ai-focused-venture-fund-to-lead-dyndrite-series-a-financing）
+  - 「"At Velo3D, supporting our customers and advancing the state of additive manufacturing are at the core of what we do," said Darren Beckett, Chief Technology Officer at Velo3D. "By bringing Dyndrite onto our platform, we've created a true 1+1=3 moment: our technology plus their software gives customers capabilities they've never had before with any other combination of technologies."」（https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration）
+  - 「"Velo3D has long recognized the powerful role software plays in advanced AM workflows, and with their support we're excited to extend our capabilities to their customers," said Harshil Goel, Founder & CEO of Dyndrite. "By adding Dyndrite LPBF Pro, Velo3D users gain new advanced control they need to push process development further, accelerating innovation and paving the way for production."」（https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration）
+  - 「This integration underscores Velo3D's commitment to providing customers with open, flexible platforms that foster innovation at scale. It also reinforces Dyndrite's mission to transform additive manufacturing from a manual, trial-and-error process into an automated, software-defined, production-ready solution.」（https://ir.velo3d.com/news-events/press-releases/detail/186/velo3d-expands-open-platform-with-dyndrite-integration）
+- 顧客・用途：
+  - 「Customer Engagement Process」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Military & Defense」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Dyndrite Customer Engagement Process」（https://www.dyndrite.com/customer-engagement-process）
+  - 「That’s why, unlike off-the-shelf build prep software, Dyndrite provides a “concierge” service to all our ADK customers. We serve as your development partner every step of the way, assisting and tuning your Dyndrite-powered Additive application to exceed your expectations.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Delight your customers」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Give customers a tool that can grow with their needs.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Allow Customers to build-out production workflows already tailored to your tech.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「Allow Customers to easily integrate your machine into their production systems.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「This process is tailored to each individual customer’s needs. Proof of concept deliverables are common to show technical value, and stage progression is fast, often starting full customer projects within a few weeks of initial introductions.」（https://www.dyndrite.com/customer-engagement-process）
+  - 「UltiMaker partners with Singapore-based MedTech startup Bioactivx under a new MOU to co-develop a scalable, on-demand medical printing solution for regenerative wound care, as Bioactivx earns HSA approval for its Bioactiv Matrix — manufactured on UltiMaker systems.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Uptive Manufacturing has its roots in AM’s Wild West entrepreneurial past, but today it helps customers of all sizes use the technology as a strategic manufacturing option.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「QuesTek Innovations adds the Niobium Suite to its Icmd materials design and engineering platform, developed in collaboration with niobium producer CBMM to accelerate design of high-performance alloys for aerospace, energy and additive manufacturing.」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+  - 「Aerospace」（https://www.additivemanufacturing.media/products/dyndrite-enhances-lpbf-pro-software-for-expanded-program-control）
+- 検索結果の抜粋：
+  - 「Dyndrite : New Technological Partner on Board at IAM3DHUB — Dyndrite : New Technological Partner on Board at IAM3DHUB IAM3DHUB https://www.iam3dhub.org > dyndrite...」（https://www.iam3dhub.org/dyndrite-new-technological-partner-on-board-at-iam3dhub/）
+  - 「Dyndrite Developer Conference 2021 — Dyndrite Developer Conference 2021 Dyndrite https://www.dyndrite.com > dyndrite-...」（https://www.dyndrite.com/dyndrite-developer-conference-2021）
+  - 「Dyndrite Releases LPBF Pro Software for 3D Metal Printing ... — Dyndrite Releases LPBF Pro Software for 3D Metal Printing ... Dyndrite https://www.dyndrite.com > dyndrite-...」（https://www.dyndrite.com/press-releases/dyndrite-releases-lpbf-pro-software-for-3d-metal-printing-and-launches-vip-onboarding-program）
+  - 「Why do we need new software for Additive? | Dyndrite — Why do we need new software for Additive? | Dyndrite Dyndrite https://www.dyndrite.com > videos > the-build-episode-1-...」（https://www.dyndrite.com/videos/the-build-episode-1-why-do-we-need-new-software-for-additive）
+  - 「Dyndrite World Tour 2026 — Dyndrite World Tour 2026 Dyndrite https://www.dyndrite.com > dyndrite-...」（https://www.dyndrite.com/dyndrite-world-tour-2026）
+  - 「DDC 2020 Vendor: Making 3D Printing Accessible ... - Dyndrite — DDC 2020 Vendor: Making 3D Printing Accessible ... - Dyndrite Dyndrite https://www.dyndrite.com > videos」（https://www.dyndrite.com/videos/ddc-2020-vendor-making-3d-printing-accessible-to-manufacturers-and-engineers-desktop-metal）
+  - 「Dyndrite LPBF Pro — Dyndrite LPBF Pro 8586374.fs1.hubspotusercontent-na1.net PDF https://8586374.fs1.hubspotusercontent-na1.net > D...」（https://8586374.fs1.hubspotusercontent-na1.net/hubfs/8586374/Dyndrite%20A3%20LPBF%20Brochure.pdf）
+  - 「Dyndrite はRWTHアーヘン大学の新しいLPBFオープン ... — Dyndrite はRWTHアーヘン大学の新しいLPBFオープン ... 3Druck.com https://3druck.com > ホーム > ソフトウェア」（https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/dyndrite%E3%81%AFrwth-aachen-15113132%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84lpbf%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83/）
+  - 「The Build Episode 4 - Support Free Additive - Dyndrite — The Build Episode 4 - Support Free Additive - Dyndrite Dyndrite https://www.dyndrite.com > videos > the-build-episode-4-...」（https://www.dyndrite.com/videos/the-build-episode-4-support-free-additive）
+  - 「Advanced Metal 3D Printing for Military Applications - Dyndrite — Advanced Metal 3D Printing for Military Applications - Dyndrite Dyndrite https://www.dyndrite.com > military-...」（https://www.dyndrite.com/military-and-defense）
+  - 「Dyndrite - 2026 Company Profile, Team, Funding & Competitors — Dyndrite - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Materialise Build Processor（Materialise Build Processor）
+- 文脈：造形の準備（装置メーカー向け）
+- 日本の代理店：
+  - 「セイコーエプソン株式会社」（https://mfg.dentsusoken.com/product/3d-printing/）
+  - 「スズキ株式会社」（https://mfg.dentsusoken.com/product/3d-printing/）
+  - 「株式会社 電通総研」（https://mfg.dentsusoken.com/product/3d-printing/）
+- 再販・パートナー制度：
+  - 「The partnership bridges the gap between software and hardware, solving one of the industry’s long-standing challenges: scaling from new product introduction (NPI) to full series production. Advanced users will be able to optimize toolpaths, assign laser strategies, and configure machine parameters within an OEM-validated environment, ensuring both control and reliability.」（https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/）
+  - 「, to generate optimised scan strategies for higher machine utilisation, and support OEM verified parameters and advanced customisation. Using the Materialise Build Processor Software Development Kit (BPSDK), customers can also tailor their toolpath strategies to specific applications within a secure framework to protect IP.」（https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/）
+  - 「GoEngineer’s extensive technical knowledge can assist with your additive manufacturing needs. Our Award winning team is ready to help. Reach out and see why GoEngineer is the #1 reseller of SOLIDWORKS and Stratasys systems in the world!」（https://www.goengineer.com/3d-printing/materialise）
+  - 「GoEngineer's CAE consultants help you design better products faster. Our advanced FEA & CFD services provide critical engineering insight to world-class OEMs, suppliers, and start-ups alike.」（https://www.goengineer.com/3d-printing/materialise）
+  - 「Find a reseller」（https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html）
+  - 「HP Amplify Partner Program」（https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html）
+  - 「How do I become a reseller of Magics?」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「We’re happy to have you join our growing community of Magics resellers! Here, you can find information on becoming a」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「reseller」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「We offer a variety of licensing options that users can combine to suit their needs. Learn more about what’s available on our」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「You can find various training options and tutorial videos on the」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「Integrate critical workflows into your solutions powered by third-party software and hardware vendors, 3D printer OEMs, or build apps with our APIs.」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+- 料金：
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/）
+  - 「HP Inc. (NYSE:HPQ) is a global technology leader redefining the Future of Work. Operating in more than 180 countries, HP delivers innovative and AI-powered devices, software, services and subscriptions that drive business growth and professional fulfillment. For more information, please visit:」（https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html）
+- 無料体験：
+  - 「Our experts will set up a demo to show Build Processors in action. Together, we’ll explore its functionalities and discuss how it could advance your production.」（https://www.materialise.com/en/industrial/software/build-processor）
+  - 「当社の専門家がNext-Genビルドプロセッサーのデモを実施し、その機能を実際にご覧いただけます」（https://www.materialise.com/ja/industrial/software/build-processor/next-generation）
+  - 「Build Processorが実際に動作する様子をご覧いただけるよう、デモを用意しています」（https://www.materialise.com/ja/industrial/software/build-processor）
+  - 「このデモでは、Build Processorの機能をご紹介するとともに、Build Processorがお客様の生産をどのように向上させるかをご説明します」（https://www.materialise.com/ja/industrial/software/build-processor）
+  - 「Our YouTube channel hosts hundreds of educational tutorials, product demonstrations, recorded webinars, and best practices for all of our products and services.」（https://www.goengineer.com/3d-printing/materialise）
+  - 「HP & Adobe Free Trial」（https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html）
+  - 「Request free trial」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+  - 「If you have any questions or are interested in getting a demo of Magics, get in touch with us. Our team is happy to discuss how Magics fits into your business.」（https://www.materialise.com/en/industrial/software/magics-data-build-preparation）
+- 日本語対応：
+  - 「Japanese」（https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license）
+  - 「Japanese」（https://materialise.helpjuice.com/ja_JP/102642）
+  - 「Our translation team is diligently working to provide a fully localized experience.」（https://www.goengineer.com/3d-printing/materialise）
+- 会社の規模：
+  - 「software tailored to the RenAM 500 series of metal AM systems. They will also have access to」（https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vL8VNGX8uNLbgxT1OpYtPlYs-kMkrB8je5IkIb39HXzgozDwiXQ）
+  - 「Renishaw and Materialise announce a partnership to increase efficiency and productivity for manufacturers. Renishaw system users will benefit from Materialise’s next-generation build processor software tailored to the RenAM 500 series of metal AM systems.」（https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vL8VNGX8uNLbgxT1OpYtPlYs-kMkrB8je5IkIb39HXzgozDwiXQ）
+  - 「F123CR Series」（https://purpleplatypus.com/materialise-build-processor/）
+  - 「F123 Series」（https://purpleplatypus.com/materialise-build-processor/）
+  - 「software tailored to the RenAM 500 series of metal AM systems. They will also have access to」（https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vLudjuSyYq9JmRbt2DddTVicB0jVT85e4jGJTbc1B8VakuZOhGU）
+  - 「Renishaw and Materialise announce a partnership to increase efficiency and productivity for manufacturers. Renishaw system users will benefit from Materialise’s next-generation build processor software tailored to the RenAM 500 series of metal AM systems.」（https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vLudjuSyYq9JmRbt2DddTVicB0jVT85e4jGJTbc1B8VakuZOhGU）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/）
+  - 「D10-Series」（https://www.materialise.com/ja/industrial/software/build-processor/library）
+  - 「D20-Series」（https://www.materialise.com/ja/industrial/software/build-processor/library）
+  - 「Customers can take advantage of free six-month access to Materialise Magics Essentials software with purchase of a HP Jet Fusion 300/500 Series printer」（https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html）
+- 顧客・用途：
+  - 「Medical device companies」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor）
+  - 「Medical software」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor）
+  - 「Medical 3D Printers」（https://purpleplatypus.com/materialise-build-processor/）
+  - 「Form 4BL Medical」（https://purpleplatypus.com/materialise-build-processor/）
+  - 「Form 4B Medical」（https://purpleplatypus.com/materialise-build-processor/）
+  - 「Medical device companies」（https://www.materialise.com/en/industrial/software/build-processor）
+  - 「Medical software」（https://www.materialise.com/en/industrial/software/build-processor）
+  - 「Our customer service team is happy to help!」（https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license）
+  - 「Medical device companies」（https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license）
+  - 「Medical software」（https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license）
+  - 「Customer Portal」（https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/）
+  - 「DEFENSE」（https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/）
+  - 「AEROSPACE」（https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/）
+  - 「ENERGY」（https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/）
+  - 「CUSTOMER SUPPORT」（https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/）
+- 検索結果の抜粋：
+  - 「Materialise Build Processor | 3D Printing Slicing Software — Materialise Build Processor | 3D Printing Slicing Software Purple Platypus https://purpleplatypus.com > materiali...」（https://purpleplatypus.com/materialise-build-processor/）
+  - 「Materialise Build Processor | 3D Printer Communication — Materialise Build Processor | 3D Printer Communication Materialise https://www.materialise.com > software」（https://www.materialise.com/en/industrial/software/build-processor）
+  - 「Materialise Build Processors for CAD to 3D Print Connectivity ... — Materialise Build Processors for CAD to 3D Print Connectivity ... TriMech Manufacturing https://mfg.trimech.com > product」（https://mfg.trimech.com/product/materialise-build-processors/）
+  - 「Materialise Build Processor ｜3Dプリンター用通信機器 — Materialise Build Processor ｜3Dプリンター用通信機器 Materialise https://www.materialise.com > software > build-processor」（https://www.materialise.com/ja/industrial/software/build-processor）
+
+## Ai Build AiSync（Ai Build）
+- 文脈：造形の準備（大型・ロボットアーム）
+- 日本の代理店：
+  - 「運営会社：株式会社ビジコム」（https://www.poscenter.jp/aimex/aisync.html）
+  - 「AIMEX 正規販売代理店だから、公式サポート付きで安心！」（https://www.fksystem.com/product.php?id=176）
+  - 「運営者：株式会社 エフケイシステム」（https://www.fksystem.com/product.php?id=176）
+- 再販・パートナー制度：
+  - 「Global Automotive OEM」（https://ai-build.com/）
+  - 「EV OEM」（https://ai-build.com/）
+  - 「Referral Program」（https://softgen.ai/）
+- 料金：
+  - 「AI Builder credits come mostly from purchasing AI Builder capacity add-ons (providing monthly capacity). Some user licenses also provide many AI Builder credits per month up to November 2026.」（https://learn.microsoft.com/en-us/ai-builder/administer-licensing）
+  - 「* Based on pay-as-you-go billing, 1 Copilot Credit = $0.01.」（https://learn.microsoft.com/en-us/ai-builder/administer-licensing）
+  - 「** Based on yearly prepaid Tier 1 AI Builder add-on: Monthly capacity = 1 million AIBuilder credits, $500 per month.」（https://learn.microsoft.com/en-us/ai-builder/administer-licensing）
+  - 「5,000円以上のご購入で送料無料（沖縄は10,000円以上）」（https://www.poscenter.jp/aimex/aisync.html）
+  - 「価格 : 10,000」（https://www.poscenter.jp/aimex/aisync.html）
+  - 「円 (税込11,000」（https://www.poscenter.jp/aimex/aisync.html）
+  - 「LINE会員価格として通常価格から5%OFFでご購入いただけます」（https://www.poscenter.jp/aimex/aisync.html）
+  - 「※5％OFF価格は、ログイン後、カート画面でご覧いただけます」（https://www.poscenter.jp/aimex/aisync.html）
+  - 「税込11,000円以上で送料無料 | 代引手数料無料」（https://www.fksystem.com/product.php?id=176）
+  - 「14,300円」（https://www.fksystem.com/product.php?id=176）
+  - 「(税込15,730円)」（https://www.fksystem.com/product.php?id=176）
+  - 「66,700円」（https://www.fksystem.com/product.php?id=176）
+  - 「67,000円」（https://www.fksystem.com/product.php?id=176）
+  - 「68,400円」（https://www.fksystem.com/product.php?id=176）
+  - 「82,500円」（https://www.fksystem.com/product.php?id=176）
+- 無料体験：
+  - 「Start A Free Trial」（https://ai-build.com/）
+  - 「No credit card required · Free trial credits included」（https://softgen.ai/）
+  - 「Free trial · no card」（https://softgen.ai/）
+  - 「Free trial included」（https://softgen.ai/）
+  - 「These aren't demos. They're live businesses shipped by founders and creators from our community of」（https://softgen.ai/）
+  - 「Free trial credits, no card needed. Upgrade to Starter when you want GitHub, publishing, and full model choice.」（https://softgen.ai/）
+  - 「No credit card required · Free trial credits · Upgrade anytime」（https://softgen.ai/）
+- 会社の規模：
+  - 「Series A（2023-10）」（https://www.firstcvc.jp/global/ai-build.com）
+  - 「SE3（法人民称: SE3 Labs GmbH）は、2023年に設立されたドイツ・ミュンヘン発の空間AI（Spatial AI）ディープテック企業です」（https://www.firstcvc.jp/global/ai-build.com）
+  - 「Waniwani（Waniwani Inc.）は、2026年に設立され、米国サンフランシスコに本社（NY・パリにオフィス）を置くフィンテック・AIスタート...」（https://www.firstcvc.jp/global/ai-build.com）
+  - 「Ramp（Ramp Business Corporation）は、2019年に米国ニューヨークで設立されたフィンテック企業です」（https://www.firstcvc.jp/global/ai-build.com）
+  - 「Apoha（Apoha Limited）は、2021年に設立された英国ロンドンおよび米国サンフランシスコを拠点とするディープテック・AIスタートアップであ...」（https://www.firstcvc.jp/global/ai-build.com）
+  - 「Tilt（法人名：Retro Labs Ltd.）は、2021年に英国ロンドンで設立されたZ世代向けのライブオークション型コマースプラットフォームです」（https://www.firstcvc.jp/global/ai-build.com）
+  - 「https://www.aimex.co.jp/product/bw-220series/」（https://www.123market.jp/product/A0X00AY/）
+  - 「Idea to paying customers in 8 days」（https://softgen.ai/）
+  - 「I went from idea to paying customers in just 8 days with this tool. It captures exactly what I want to create and delivers a stunning, fully functional web app.」（https://softgen.ai/）
+- 顧客・用途：
+  - 「AI Builder capacity add-ons can only be purchased as a renewal or true-up by existing customers. New customers must purchase Copilot Credits to run AI Builder features.」（https://learn.microsoft.com/en-us/ai-builder/administer-licensing）
+  - 「Existing customers」（https://learn.microsoft.com/en-us/ai-builder/administer-licensing）
+  - 「. Customers who purchased or renewed eligible licenses」（https://learn.microsoft.com/en-us/ai-builder/administer-licensing）
+  - 「Global Automotive OEM」（https://ai-build.com/）
+  - 「Case Study」（https://ai-build.com/）
+  - 「同シリーズの次世代モデルである「medium」と「large」は、自動車や航空産業などの大量生産に向けた完全自律型の主力ソリューションとなる」（https://www.cadjapan.com/news/2023/d20230130_02.html）
+  - 「Idea to paying customers in 8 days」（https://softgen.ai/）
+  - 「I went from idea to paying customers in just 8 days with this tool. It captures exactly what I want to create and delivers a stunning, fully functional web app.」（https://softgen.ai/）
+  - 「You have earned a loyal customer.」（https://softgen.ai/）
+  - 「I really like both your pricing model and your platform. In fact, I like it so much that I bought more credits so I can keep testing other options for my project. You have earned a loyal customer.」（https://softgen.ai/）
+  - 「Find market angles, customer notes, and brand direction.」（https://softgen.ai/）
+- 検索結果の抜粋：
+  - 「アイメックス AIMEX AiSync データコレクタ BW-220シリーズ ... — アイメックス AIMEX AiSync データコレクタ BW-220シリーズ ... エフケイシステムストア https://www.fksystem.com > ... > オプション品」（https://www.fksystem.com/product.php?id=176）
+  - 「KUKA Systems社が Ai Build 社との共同開発による「AMCell ... — KUKA Systems社が Ai Build 社との共同開発による「AMCell ... CAD Japan.com https://www.cadjapan.com > ニュース > 2023年」（https://www.cadjapan.com/news/2023/d20230130_02.html）
+  - 「Ai Build Secures $8.5 Million in Series A Funding to ... — Ai Build Secures $8.5 Million in Series A Funding to ... Manufacturing Today https://manufacturing-today.com > ai-...」（https://manufacturing-today.com/news/ai-build-secures-8-5-million-in-series-a-funding-to-revolutionize-additive-manufacturing/）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## ADAXIS AdaOne（ADAXIS）
+- 文脈：造形の準備（WAAM・ロボットアーム）
+- 日本の代理店：
+  - 「MATERIAL SUPPLIER | Tokyo, Japan」（https://adaxis.eu/partners/）
+  - 「TECHNOLOGY PROVIDER | Tokyo, Japan」（https://adaxis.eu/partners/）
+  - 「Adaxis | ロボット積層造形（AM）ソフトウェア | HDC株式会社」（https://hdc3d.com/ja/adaxis/）
+  - 「ユニポス(UNIPOS)はテガラ株式会社が運営する、」（https://www.unipos.net/products/adaone/）
+  - 「テガラ株式会社」（https://www.unipos.net/products/adaone/）
+- 再販・パートナー制度：
+  - 「2KM, based in Europe, specializes in dosing and mixing systems for industrial applications, including additive manufacturing. Their advanced metering technology ensures precise material control, optimizing production efficiency and consistency across a variety of industries.」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Rock Hill, South Carolina, USA」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Palm City, Florida, USA」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Strasbourg, France」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Istanbul, Turkey」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Suisio, Italy」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Castello di Godego, Italy」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Milano, Italy」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Delft, Netherlands」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Nagoya, Japan」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Montreal, Canada」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Seattle, Washington, USA」（https://adaxis.eu/partners/）
+  - 「RESELLER / INTEGRATOR | Exeter, UK」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Rockford, Illinois, USA」（https://adaxis.eu/partners/）
+  - 「HARDWARE OEM | Barre, Vermont, USA」（https://adaxis.eu/partners/）
+- 料金：
+  - 「Lock in a fixed rate for 5 years. Enjoy long-term pricing stability.」（https://adaxis.eu/pricing/）
+  - 「Save up to 33% with a yearly subscription. Pay less than monthly plans.」（https://adaxis.eu/pricing/）
+  - 「1 hour/month」（https://adaxis.eu/pricing/）
+  - 「Billed €6,000 annually」（https://adaxis.eu/pricing/）
+  - 「4 hours/month」（https://adaxis.eu/pricing/）
+  - 「€1,000」（https://adaxis.eu/pricing/）
+  - 「€6,000」（https://hdc3d.com/adaxis-2/）
+  - 「1 hour/month of dedicated support」（https://hdc3d.com/adaxis-2/）
+  - 「€9,000」（https://hdc3d.com/adaxis-2/）
+  - 「4 hours/month of dedicated support」（https://hdc3d.com/adaxis-2/）
+  - 「$1.14M」（https://www.caplight.com/company/adaxis）
+  - 「Adaxis AdaOne Robotic Slicing Software Seat - 1 Year」（https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3）
+  - 「This product includes one AdaOne user seat for 12 months of software access. Specific functionality, modules, and robot integrations may depend on the purchased license and configured system.」（https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3）
+  - 「from $7,500.00」（https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3）
+  - 「€6,000」（https://hdc3d.com/ja/adaxis/）
+- 無料体験：
+  - 「Book a demo」（https://adaxis.eu/partners/）
+  - 「, Paris. Engage with experts, witness live demonstrations, and explore the innovative possibilities unlocked by AdaOne for Flexbot.」（https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/）
+  - 「Book a demo」（https://adaxis.eu/pricing/）
+  - 「Academic」（https://adaxis.eu/pricing/）
+  - 「How can I get a demo of AdaOne?」（https://adaxis.eu/pricing/）
+  - 「The easiest way is to email us or book a demo session. In just 45 minutes, we’ll guide you through a live, interactive demo of AdaOne, ensuring it meets your needs. If you prefer, you can also reach out to one of our certified partners, who will be happy to assist you.」（https://adaxis.eu/pricing/）
+  - 「No problem! If your machine isn’t ready yet, you can request a free trial license to familiarize yourself with AdaOne and its environment. We generally recommend starting your commercial license about two weeks before your machine goes live. This ensures a smooth, fully optimized launch without wasting any time.」（https://adaxis.eu/pricing/）
+  - 「How do I know if I qualify for the startup or academic plan?」（https://adaxis.eu/pricing/）
+  - 「The academic plan is available for universities, research centers, schools, and technical colleges and must be used for non-commercial purposes like teaching, research, and academic projects. Institutions must also provide regular public updates on how they use AdaOne.」（https://adaxis.eu/pricing/）
+  - 「No, there are no discounts for Standard or Startup / Academic licenses. Our pricing is fair and transparent for all businesses, with the same conditions applied equally.」（https://adaxis.eu/pricing/）
+  - 「Academic / Startup」（https://hdc3d.com/adaxis-2/）
+  - 「Book a demo」（https://www.caplight.com/company/adaxis）
+  - 「Book a demo」（https://adaxis.eu/）
+  - 「Online Demo」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+  - 「Hybrid manufacturing is powerful but it often breaks down on one painfully human step: manual alignment. ADAXIS set out to remove that bottleneck with a scan-to-print hybrid manufacturing workflow developed in AdaOne, demonstrated live at」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+- 日本語対応：
+  - 「Large-format additive manufacturing (LFAM) is rapidly becoming a strategic enabler for more flexible, efficient, and localized production models. As manufacturers face increasing pressure to reduce lead times, cut material waste, and strengthen supply-chain resilience, [...]」（https://ceadgroup.com/resources/news/cead-and-adaxis-integration-redefines-efficiency-in-robotic-large-format-3d-printing/）
+  - 「Every AdaOne subscriber gets a dedicated expert (the same throughout the subscription) who specializes in your needs. We prioritize support via video calls and email, with direct access to the expert’s calendar for scheduling assistance. Support is available in English, French, German, and Spanish, while our partners can also assist in Hindi, Korean, Japanese, and Arabic.」（https://adaxis.eu/pricing/）
+  - 「Japanese」（https://hdc3d.com/adaxis-2/）
+  - 「Japanese」（https://hdc3d.com/portfolio-item/adaone-free-version/）
+- 会社の規模：
+  - 「Micro‑Epsilon is a German company specializing in high-performance 3D laser scanners (scanCONTROL series) used for inline quality inspection and robotic integration, delivering precise 3D point clouds at high speed.」（https://adaxis.eu/partners/）
+  - 「The startup plan is for companies founded in the last three years, with annual revenue under €250,000 and less than €300,000 in external funding. Startups must also share regular public updates on their use of AdaOne.」（https://adaxis.eu/pricing/）
+  - 「Grew 23% QoQ, from 30 to 37 employees.」（https://www.caplight.com/company/adaxis）
+  - 「ADAXIS's most recent funding round was Grant on July 4, 2022.」（https://www.caplight.com/company/adaxis）
+  - 「Zivid 2+ R-series」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+  - 「Fast 3D acquisition」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+  - 「Zivid 2+ R-series cameras」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+  - 「Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+  - 「：設立3年以内の企業 (年間売上高：€250,000未満、外部資金調達額：€300,000未満)」（https://www.unipos.net/products/adaone/）
+  - 「ADAXIS, a robotics software company launched in early 2021, today announces that it has raised more than one million euros in pre-seed funding from」（https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/）
+  - 「ADAXIS, a robotics software company launched in early 2021, today announces that it has raised more than one million euros in pre-seed funding from」（https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics）
+  - 「When ADAXIS, a start-up whose software can turn robots into 3D printers, announced the receipt of more than EUR 1 million in pre-seed funding, it was a victory for the company, but also an example of the ability of EIT Manufacturing to drive innovation in the manufacturing sector – both by building consortiums and by taking an active role as an investor.」（https://www.eit.europa.eu/news-events/news/eit-manufacturing-takes-key-stake-start-adaxis）
+- 顧客・用途：
+  - 「Aerospace」（https://adaxis.eu/partners/）
+  - 「Energy」（https://adaxis.eu/partners/）
+  - 「ADDiTEC, based in America, develops turnkey directed energy deposition (DED) systems for metal additive manufacturing. Their solutions, including compact wire and powder-based laser systems, enable high-quality metal part production for aerospace, defense, and industrial applications.」（https://adaxis.eu/partners/）
+  - 「Based in France, AMFREE provides turnkey metal additive manufacturing solutions using patented laser-wire DED technology. Their integrated digital workflow—covering CAD/CAM, simulation, and monitoring—ensures high productivity and material quality. Serving industries such as aerospace, defense, and energy, they offer comprehensive support through service centers and material qualification.」（https://adaxis.eu/partners/）
+  - 「Belotti S.p.A., based in Suisio, Italy, specializes in high-performance equipment for 3D printing and CNC machining. Their multi-axis solutions, including milling, waterjet, and ultrasonic cutting systems, serve industries like aerospace, automotive, and marine. Belotti’s advanced technology ensures precision and efficiency for large-scale manufacturing.」（https://adaxis.eu/partners/）
+  - 「Breton, headquartered in Italy, provides turnkey additive and subtractive manufacturing solutions for large-scale industrial applications. Their hybrid manufacturing systems combine precision machining with advanced 3D printing capabilities, catering to aerospace, automotive, and construction industries.」（https://adaxis.eu/partners/）
+  - 「Comau, an Italian robotics company, specializes in advanced automation solutions for manufacturing. Their robotic systems enable high-precision additive manufacturing, improving efficiency in industrial production lines across automotive, aerospace, and heavy industries.」（https://adaxis.eu/partners/）
+  - 「DMG MORI, headquartered in Asia, delivers turnkey hybrid manufacturing systems that integrate CNC machining with additive technologies. Their industrial solutions provide high-precision metal printing and finishing for aerospace, tooling, and medical applications.」（https://adaxis.eu/partners/）
+  - 「Electroimpact, based in America, develops turnkey automated manufacturing systems for aerospace and industrial applications. Their expertise in composite fabrication and additive manufacturing enhances production efficiency for large-scale, high-precision components.」（https://adaxis.eu/partners/）
+  - 「FANUC is a global leader in industrial automation, offering high-precision robotic solutions suitable for 3D printing applications of materials like polymers, metals, and composites. FANUC robots are used in large-scale 3D printing across industries such as aerospace, construction, and automotive, delivering high repeatability and reliability.」（https://adaxis.eu/partners/）
+  - 「Ingersoll, based in America, develops turnkey additive manufacturing solutions for large-scale applications. Their MasterPrint® series enables the production of high-performance composite and metal parts for aerospace, defense, and industrial sectors.」（https://adaxis.eu/partners/）
+  - 「KFM, based in Sweden, specializes in advanced machining and automation solutions for industrial manufacturing. They provide high-precision tools, robotic integration, and custom engineering services to optimize production efficiency. Serving industries such as aerospace, automotive, and heavy machinery, KFM offers tailored solutions that enhance manufacturing capabilities and automation processes.」（https://adaxis.eu/partners/）
+  - 「Panasonic offers robust industrial robotic systems tailored for welding and additive manufacturing. Their robots, combined with DTPS software, ensure precise motion control for processes like Wire Arc Additive Manufacturing. Known for seamless hardware–software integration, Panasonic solutions are ideal for demanding applications in automotive, infrastructure, and heavy industry.」（https://adaxis.eu/partners/）
+  - 「ShopBot, based in America, specializes in CNC and digital fabrication systems, including solutions for additive manufacturing. Their precision-driven machinery supports diverse industries, from aerospace tooling to custom manufacturing applications.」（https://adaxis.eu/partners/）
+  - 「Based in the Czech Republic, TGS provides end-to-end manufacturing solutions, from concept to production. They specialize in machining technologies, custom tooling, and automation, with expertise in advanced materials like industrial plastics. TGS also supports sectors like healthcare by developing complete manufacturing processes for medical implants and specialized components.」（https://adaxis.eu/partners/）
+- 検索結果の抜粋：
+  - 「Adaxis - Software for Robotics Hybrid Manufacturing — Adaxis - Software for Robotics Hybrid Manufacturing hdc3d.com https://hdc3d.com > adaxis-2」（https://hdc3d.com/adaxis-2/）
+  - 「ADAXIS - Enhancing Hybrid Manufacturing Workflows - Zivid — ADAXIS - Enhancing Hybrid Manufacturing Workflows - Zivid Zivid 3D cameras https://www.zivid.com > adaxis-hybri...」（https://www.zivid.com/application-stories/adaxis-hybride-manufacturing）
+  - 「Adaxis AdaOne Robotic Slicing Software Seat - 1 Year — Adaxis AdaOne Robotic Slicing Software Seat - 1 Year Massive Dimension https://massivedimension.com > adaxi...」（https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vLDqvSJ18M6C4Q6H5yQp9n5Hfit3P2ZScfXGwRl43JHH1o54pj3）
+  - 「Adaxis AdaOne Robotic Slicing Software Seat - 1 Year — Adaxis AdaOne Robotic Slicing Software Seat - 1 Year Massive Dimension https://massivedimension.com > adaxi...」（https://massivedimension.com/products/adaxis-adaone-robotic-slicing-software-seat?srsltid=AYCX9vITT2IuUmISUY_Buqvmj5eL8_0LeibfwWKxiTihGuUGLDDGOpHT）
+  - 「Adaxis | ロボット積層造形（AM）ソフトウェア | HDC株式会社 — Adaxis | ロボット積層造形（AM）ソフトウェア | HDC株式会社 hdc3d.com https://hdc3d.com > adaxis」（https://hdc3d.com/ja/adaxis/）
+  - 「ADAXIS raises €1M to combine 3D printing and industrial ... — ADAXIS raises €1M to combine 3D printing and industrial ... ADAXIS https://adaxis.eu > 2022/01/18 > adax...」（https://adaxis.eu/2022/01/18/adaxis-raises-e1m-to-combine-3d-printing-and-industrial-robotics/）
+  - 「ADAXIS raises €1M to combine 3D printing and industrial ... — ADAXIS raises €1M to combine 3D printing and industrial ... Aerospace Valley https://www.aerospace-valley.com > a...」（https://www.aerospace-valley.com/actualites-membres/adaxis-raises-eu1m-combine-3d-printing-and-industrial-robotics）
+
+## Simufact Additive（Simufact Additive）
+- 文脈：造形シミュレーション
+- 日本の代理店：
+  - 「セイコーエプソン株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「スズキ株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「株式会社東芝」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「Simufactの3製品群 画像提供：MSCソフトウェア株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「繋がる加工プロセスチェーン 画像提供：MSCソフトウェア株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「Simufact Additiveを用いた、3Dプリンティング形状の補正 画像提供：MSCソフトウェア株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「日産自動車株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「ブラザー工業株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「日立建機株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「リョービ株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「株式会社 電通総研」（https://mfg.dentsusoken.com/product/cae/software/vendor/mscsoftware/simufact.php）
+  - 「CAD Japan.com運営元の株式会社大塚商会からご連絡させていただきます」（https://www.cadjapan.com/products/items/simufact/composition.html）
+  - 「CAD Japan.com運営元の株式会社大塚商会からご連絡させていただきます」（https://www.cadjapan.com/products/items/simufact/price.html）
+  - 「CAD Japan.com運営元の株式会社大塚商会からご連絡させていただきます」（https://www.cadjapan.com/products/items/simufact/）
+- 再販・パートナー制度：
+  - 「Channel Partners」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Take advantage of various learning opportunities」（https://nexus.hexagon.com/home/product/simufact-additive/）
+  - 「Hexagon and AM-Studio: All about the New Reselling Partner」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「Reseller」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「Find Reseller」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「New Reseller of CADS Additive: Hexagon makes AM-Studio Data Preparation Software even More Accessible Worldwide」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「CADS Additive’s AM-Studio is arguably the most efficient path from product design to defect-free additive part. Thanks to Hexagon, the complete software solution for data preparation is now even more easily available around the world – as the Swedish group supports CADS Additive as a new distribution partner in over 100 countries worldwide.」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「For Hexagon and CADS Additive, the new reselling collaboration was the logical consequence of their intensive cooperation. In the past, both companies have already supported each other to further improve additive manufacturing in the SLM process.」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「Become Reseller」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「Integration of variant handling further extends usability by allowing pre-distorted geometries to be reused directly within projects. Users can access and manage scan data across different process variants, improving traceability and consistency in multi-stage simulation setups.」（https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2）
+  - 「The release also includes various stability improvements, workflow optimizations, and corrections. These changes address issues in solver behavior, result output handling, and license usage, contributing to a more reliable and streamlined user experience overall.」（https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2）
+  - 「Reseller」（https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/）
+  - 「Find Reseller」（https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/）
+  - 「New Reseller of CADS Additive: Hexagon makes AM-Studio Data Preparation Software even More Accessible Worldwide」（https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/）
+  - 「Become Reseller」（https://www.cads-additive.com/en/new-power-for-simufact-additive-with-the-titan-core-build-processor-the-simulation-software-will-soon-be-even-more-efficient/）
+- 料金：
+  - 「PhysicsX Raises $300M in Series C Investments to Advance Physics AI」（https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes）
+  - 「3D Printing Markets Reach $16 Billion in 2025」（https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes）
+  - 「年額プランが2カ月分お得！」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/）
+  - 「締切迫る！年額プランが普段より2カ月お得に」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/）
+  - 「S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/）
+  - 「タイムズカーの見舞金、3000円の根拠 漏洩を通知したうち約14万件が対象外」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/03329/）
+- 無料体験：
+  - 「Free Trials」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Cadence Academic Network」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Democratize Additive Manufacturing」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「You can book a demo session or check Simufact’s presentations agenda at the Materialise booth.」（https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow）
+  - 「If you wish to evaluate any software or module that you do not have access to, please contact us, we will gladly arrange for evaluation licenses, even emergency licenses.」（https://simteq.co.za/blog/sharpen-the-saw-simufact-additive-cost-estimation/）
+  - 「Annual ARC (Automotive Research Center) Review Demonstrates How Digital…」（https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes）
+  - 「Annual ARC (Automotive Research Center) Review Demonstrates How Digital Engineering, Collaboration, Modeling, and Simulation Accelerate Army Tech」（https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes）
+- 会社の規模：
+  - 「Hexagon (Nasdaq Stockholm: HEXA B) has approximately 18,000 employees in 50 countries and net sales of approximately 3.1bn EUR. Learn more at」（https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow）
+  - 「Software that makes the day-to-day work life at the 3D printer easier: That was the goal when CADS Additive GmbH was founded in 2016. Today, the company is part of the Austrian CADS GmbH – and has developed several software solutions and software components that make exactly that possible.」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「PhysicsX Raises $300M in Series C Investments to Advance Physics AI」（https://www.digitalengineering247.com/article/simufact-additive-4-in-the-starting-holes）
+- 顧客・用途：
+  - 「Aerospace and Defense」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Automotive」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「See how our customers create innovative products with Cadence」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Customer Support Contacts」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Transforming Aerospace Simulation with Cadence Simufact Additive Simulator’s CAD Export and Geometry Morphing」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「See how GKN Aerospace uses Simufact Additive CAD Export and geometry morphing to preserve design fidelity and streamline additive manufacturing workflows.」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Customer Story」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「GKN Aerospace Enhances CAD Export with Simufact Additive」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Customer Support」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.」（https://www.cadence.com/en_US/home/tools/msc-software/simufact-additive.html）
+  - 「Hexagon’s solutions integrate sensors, software, domain knowledge and customer workflows into intelligent information ecosystems that deliver actionable information. They are used in a broad range of vital industries.」（https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow）
+  - 「Medical device companies」（https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow）
+  - 「Medical software」（https://www.materialise.com/en/news/press-releases/simulation-metal-additive-manufacturing-workflow）
+  - 「Customer Support」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+  - 「Due to this new partnership, Hexagon now meets its customers’ additive manufacturing requirements even better. With AM-Studio, Hexagon customers produce their additive components faster, more resource-efficiently and more economically. Perfectly adapted to additive manufacturing in the Metal Powder Bed Fusion process, the software guides the user step by step through data preparation.」（https://www.cads-additive.com/en/new-reseller-of-cads-additive-hexagon-makes-am-studio-data-preparation-software-even-more-accessible-worldwide/）
+- 検索結果の抜粋：
+  - 「Simufact Additive Installation guide 2022 — Simufact Additive Installation guide 2022 help-be.hexagonmi.com PDF https://help-be.hexagonmi.com > resource > enus」（https://help-be.hexagonmi.com/bundle/Simufact_Additive_2022_Installation_Guide/raw/resource/enus/Simufact_Additive_2022_Installation_Guide.pdf?save_local=true）
+  - 「What's New in Simufact Additive 2026.2 - Login — What's New in Simufact Additive 2026.2 - Login Salesforce https://mscsoftware.my.site.com > Wh...」（https://mscsoftware.my.site.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2）
+  - 「Simufact Additive 2020 Optimizes Build Job Costs and ... — Simufact Additive 2020 Optimizes Build Job Costs and ... Simulating Reality, Delivering Certainty https://simulatemore.mscsoftware.com > ...」（https://simulatemore.mscsoftware.com/simufact-additive-2020-optimizes-build-job-costs-and-streamlines-workflows/）
+  - 「What's New in Simufact Additive 2026.2 - SimCompanion — What's New in Simufact Additive 2026.2 - SimCompanion SimCompanion https://simcompanion.hexagon.com > ...」（https://simcompanion.hexagon.com/customers/s/article/What-s-New-in-Simufact-Additive-2026-2）
+  - 「What's New in Simufact Additive 2026.1 - SimCompanion — What's New in Simufact Additive 2026.1 - SimCompanion SimCompanion https://simcompanion.hexagon.com > ...」（https://simcompanion.hexagon.com/customers/s/article/Whats-New-in-Simufact-Additive-2026-1）
+- 日本語対応：記載なし（読んだ30頁・検索7回）
+
+## Ansys Additive Suite（Ansys Additive）
+- 文脈：造形シミュレーション
+- 日本の代理店：
+  - 「金属3Dプリンター用シミュレーションツール「ANSYS Additive Print/Additive Suite」販売開始のお知らせ | サイバネットシステム株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「サイバネットシステム株式会社」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「金属3Dプリンター用シミュレーションツール「ANSYS Additive Print/Additive Suite」販売開始のお知らせ」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「サイバネットシステム株式会社（本社：東京都、代表取締役 社長執行役員：田中 邦明、以下「サイバネット」）は、ANSYS,Inc.（本社：米国ペンシルベニア州（以下、ANSYS））が開発・販売・サポートする「ANSYS® Additive Print™(アンシス アディティブプリント）およびANSYS Additive Suite™（アンシス アディティブ スイート）」の販売および技術サポートを2018年5月22日から開始することをお知らせします」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「サイバネットシステム株式会社は、科学技術計算分野、特にCAE（※）関連の多岐にわたる先端的なソフトウェアソリューションサービスを展開しており、電気機器、輸送用機器、機械、精密機器、医療、教育・研究機関などさまざまな業種及び適用分野におけるソフトウェア、教育サービス、技術サポート、コンサルティング等を提供しております」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「サイバネットシステム株式会社に関する詳しい情報については、下記Webサイトをご覧ください」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「サイバネットシステム、ANSYSが開発・販売・サポートする金属3Dプリンター用シミュレーションツールを販売開始 - 日本経済新聞」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+  - 「サイバネットシステム、ANSYSが開発・販売・サポートする金属3Dプリンター用シミュレーションツールを販売開始」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+  - 「販売開始のお知らせ」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+  - 「株式会社（本社:東京都、代表取締役社長執行役員:田中邦明、以下「サイバネット」）は、ANSYS,Inc.（本社:米国ペンシルベニア州（以下、ANSYS））が開発・販売・サポートする「ANSYS(R)Additive Print(TM)(アンシス アディティブプリント）およびANSYS Additive Suite(TM)（アンシス アディティブスイート）」の販売および技術サポートを2018年5月22日から開始することをお知らせします」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+- 再販・パートナー制度：
+  - 「Channel Partners」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Simulating the build process may be performed at various points in the overall」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「The Strain Scaling Factor (SSF) is an important factor quantifying the variables unique to each」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「difference depends on a variety of factors including part geometry and orientation, material,」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「these are single data point values and there can be variations even from batch to batch of」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「if you will be examining the effects of variable changes on stress or distortion relative to」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「support generation module) based upon an algorithm which varies the support density to carry」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「• Optimized Thin Wall Supports are of a uniform wall thickness, but wall spacing is varied」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「• Optimized Thick Wall Supports are uniformly spaced walls with varying thicknesses such」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「your workflow. (%appdata% is an environment variable determined by your operating system.)」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「When the properties of a material vary with different orientations, the material is said」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「parameters. The thick wall supports are uniformly spaced, but wall thickness is varied」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「uniform wall thickness, but wall spacing is varied based on the residual stress levels」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「Channel Partners」（https://ansys.synopsys.com/products/additive）
+  - 「Channel Partners」（https://ansys.synopsys.com/products/additive/additive-demo）
+- 料金：
+  - 「9億9500万円」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+  - 「Claudeで2000万円級分析が80万円に ChatGPTやGemini、3大AI戦略研究」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+  - 「新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+- 無料体験：
+  - 「Student & Academic」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Free Trials」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Academic Partners」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Request a Demo」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「FREE TRIALS」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「STUDENTS & ACADEMIC」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Metal AM Class at 2024 RAPID (with Demo)」（https://www.fastwayengineering.com/applications/ansys-additive-solutions）
+  - 「Democratizing Predictive Engineering through Engineering and Physics Simulation Expertise.」（https://www.fastwayengineering.com/applications/ansys-additive-solutions）
+  - 「Academics」（https://edrmedeso.com/products/ansys-additive-manufacturing/）
+  - 「Student & Academic」（https://ansys.synopsys.com/products/additive）
+  - 「Free Trials」（https://ansys.synopsys.com/products/additive）
+  - 「Academic Partners」（https://ansys.synopsys.com/products/additive）
+  - 「Request a demo」（https://ansys.synopsys.com/products/additive）
+  - 「Free Trial」（https://ansys.synopsys.com/products/additive）
+  - 「FREE TRIALS」（https://ansys.synopsys.com/products/additive）
+- 日本語対応：
+  - 「a material in a very localized spot such that the thermal contraction of cooling」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「今野真二「日本語日記」」（https://www.nikkei.com/article/DGXLRSP480388_S8A520C1000000/）
+- 会社の規模：
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「that factor raised to the power of 4 (assuming a uniform part, like a cube).」（https://storage.ansys.com/mbu-assets/additive/Users/v192/Additive_Users_Guide_19_2.pdf）
+  - 「1970年に設立されたANSYSは、数千人のプロフェッショナルを擁し、その多くは有限要素法解析、数値流体力学、エレクトロニクスおよび半導体、組込みソフトウェア、設計最適化などのエンジニアリング分野で博士号、修士号を取得しています」（https://prtimes.jp/main/html/rd/p/000000314.000004714.html）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/additive）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/additive/additive-demo）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://cadfem.ai/free-trial/）
+- 顧客・用途：
+  - 「Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Aerospace」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Automotive」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Defense」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Energy」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Ansys empowers industries to design smarter and innovate faster with advanced simulation—driving progress in automotive, aerospace, energy, healthcare, and beyond.」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Customers」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Customer Center」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Directed Energy Deposition」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Direct Energy Deposition (DED)」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「CUSTOMER CENTER」（https://ansys.synopsys.com/products/additive/ansys-additive-suite）
+  - 「Comprehensive analysis of Powder Bed Fusion (PBF), Directed Energy Deposition (DED), and Sintering」（https://www.fastwayengineering.com/applications/ansys-additive-solutions）
+  - 「Automotive」（https://www.fastwayengineering.com/applications/ansys-additive-solutions）
+  - 「Energy」（https://www.fastwayengineering.com/applications/ansys-additive-solutions）
+- 検索結果の抜粋：
+  - 「Ansys Additive Suite: Optimize 3D Printing Processes - CADFEM — Ansys Additive Suite: Optimize 3D Printing Processes - CADFEM CADFEM https://www.cadfem.net > our-solutions」（https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html）
+  - 「Ansys Additive Suite : Optimize 3D Printing Processes - CADFEM — Ansys Additive Suite : Optimize 3D Printing Processes - CADFEM CADFEM https://www.cadfem.net > our-solutions」（https://www.cadfem.net/en/our-solutions/ansys-simulation-software-the-product-family/ansys-structural-mechanics/ansys-additive-suite.html）
+  - 「Compare 4D Additive vs. Ansys Additive Suite in 2026 — Compare 4D Additive vs. Ansys Additive Suite in 2026 Slashdot https://slashdot.org > comparison > 4...」（https://slashdot.org/software/comparison/4D-Additive-vs-Ansys-Additive-Suite/）
+
+## Amphyon（Amphyon）
+- 文脈：造形シミュレーション
+- 日本の代理店：
+  - 「amphion loudspeakers Ltd（アンフィオンラウドスピーカーズ） コンシューマー向け日本代理店 DataGate」（https://data-gate.com/amphion/shoplist.php）
+  - 「amphion loudspeakers 販売店一覧」（https://data-gate.com/amphion/shoplist.php）
+  - 「amphion loudspeakers コンシューマー向け日本代理店 DataGate」（https://data-gate.com/amphion/shoplist.php）
+  - 「> 販売店一覧」（https://data-gate.com/amphion/shoplist.php）
+  - 「【日本初上陸】金属3Dプリンタ用レーザー焼結式造形プロセスシミュレーションソフト「Amphyon」を取扱い開始 - 株式会社システムクリエイトのプレスリリース」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社システムクリエイト」（https://www.value-press.com/pressrelease/220463）
+  - 「工作機械やCAD/CAMシステム、3Dプリンタ、3Dスキャナをはじめとするデジタルものづくりツールの販売・サポートを手がける株式会社システムクリエイト（本社：大阪府東大阪市 代表取締役社長：川上正義）は、2019年5月より、金属3Dプリンタ用レーザー焼結式造形プロセスシミュレーションソフト「Amphyon」の販売を開始します」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社システムクリエイトは、2019年5月に金属3Dプリンタ用レーザー焼結式造形プロセスシミュレーションソフト「Amphyon」の販売を開始します」（https://www.value-press.com/pressrelease/220463）
+  - 「<株式会社システムクリエイトについて>」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社ドリームブロッサム」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社緑書房」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社 カプコン」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社東京通信グループ」（https://www.value-press.com/pressrelease/220463）
+  - 「株式会社favy」（https://www.value-press.com/pressrelease/220463）
+  - 「Lemone株式会社」（https://www.value-press.com/pressrelease/220463）
+- 料金：
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/）
+  - 「3DXpert is available as a standalone subscription license, ensuring all users have access to the newest features and capabilities. The software comes in different packages」（https://oqton.com/3dxpert/）
+  - 「– 3DXpert Educational: Classroom bundle of 3DXpert Elite with all available tools, including a power seat for the professor and up to 10 student seats, for non-commercial use and non-commercial research institutes.」（https://oqton.com/3dxpert/）
+  - 「資本金：1,000万円」（https://www.value-press.com/pressrelease/220463）
+  - 「【梅田】100万通り以上から選べる「マイポキボウル」が今だけ1,200円！11/16ポキボウル専門店『3POKEOSAKA』オープン」（https://www.value-press.com/pressrelease/220463）
+  - 「Wonlean製 卓上ウォータジェット切断機「Pockcut 300」による低価格、省スペースの冷間切断を実現 ～普及モデルを産業・教育・研究分野に～」（https://www.value-press.com/pressrelease/220463）
+- 無料体験：
+  - 「Request demo」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Request a Demo」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Request Demo Pop Form」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Congo, Democratic Republic of the」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Korea, Democratic People's Republic of」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Lao People's Democratic Republic」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Request demo」（https://oqton.com/3dxpert/）
+  - 「Request a Demo」（https://oqton.com/3dxpert/）
+  - 「Request Demo Pop Form」（https://oqton.com/3dxpert/）
+  - 「Congo, Democratic Republic of the」（https://oqton.com/3dxpert/）
+  - 「Korea, Democratic People's Republic of」（https://oqton.com/3dxpert/）
+  - 「Lao People's Democratic Republic」（https://oqton.com/3dxpert/）
+  - 「Get Demo Now」（https://oqton.com/3dxpert/）
+  - 「How can I contact Oqton to request a demo, or purchase 3DXpert?」（https://oqton.com/3dxpert/）
+  - 「request a demo here」（https://oqton.com/3dxpert/）
+- 日本語対応：
+  - 「MeltControl uses micro-thermal simulation to automatically optimize every scan vector in your build. Physics-based. Localized. Validated.」（https://oqton.com/3dxpert/）
+  - 「Support localized production, spare parts on demand, or transformative concepts like additively manufactured valves or heat exchangers.」（https://oqton.com/3dxpert/）
+  - 「3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.」（https://oqton.com/3dxpert/）
+- 会社の規模：
+  - 「Additive Works GmbH was founded by four interdisciplinary professionals in late 2015. As a Spin-Off company of ISEMP, University of Bremen, Additive Works combines state-of-the-art scientific approaches with application-oriented software engineering to offer innovative software solutions for simulation based additive processes.」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/）
+  - 「The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.」（https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/）
+  - 「Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments.」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「A notable change following the acquisition of Oqton is that all 3D Systems software has been transferred to Oqton, for us to develop and support. This includes the Geomagic portfolio –」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「Are you a startup looking for funding to launch your industrial 3D printing venture?」（https://amventures.com/company-portfolios/additive-works/）
+  - 「設立：平成4年6月19日」（https://www.value-press.com/pressrelease/220463）
+- 顧客・用途：
+  - 「Aerospace AM」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Defense」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Automotive AM」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Medical AM」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Medical Implants」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Medical Models」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Medical Devices」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Automotive AM 2025」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Customer Guides」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+  - 「CUSTOMER SUPPORT」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+  - 「Aerospace & Defense」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+  - 「Automotive」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+  - 「Medical Devices」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+  - 「Customer Stories」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+  - 「These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US）
+- 検索結果の抜粋：
+  - 「Amphyon 3D Printing Simulation Software by Additive Works ... — Amphyon 3D Printing Simulation Software by Additive Works ... VoxelMatters https://www.voxelmatters.com > amp...」（https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/）
+  - 「Getting Started Amphyon - 3D Systems Support Home — Getting Started Amphyon - 3D Systems Support Home 3D Systems https://support.3dsystems.com > article」（https://support.3dsystems.com/s/article/Getting-Started-Amphyon）
+  - 「Geomagic, 3DXpert, and Amphyon – now developed by Oqton — Geomagic, 3DXpert, and Amphyon – now developed by Oqton Oqton https://oqton.com > Blog」（https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/）
+  - 「How does Amphyon software improve simulation ... - 3d adept — How does Amphyon software improve simulation ... - 3d adept 3d adept https://3dadept.com > Home > News」（https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/）
+- 再販・パートナー制度：記載なし（読んだ35頁・検索7回）
+
+## Altair Inspire Print3D（Inspire Print3D）
+- 文脈：造形シミュレーション
+- 日本の代理店：
+  - 「セイコーエプソン株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「スズキ株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「株式会社東芝」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「ロボットグリッパーの最終デザイン 画像提供：アルテアエンジニアリング株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「Altair Inspireで設計されたロボットアーム 画像提供：アルテアエンジニアリング株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「日産自動車株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「ブラザー工業株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「日立建機株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「リョービ株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「株式会社 電通総研」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「ブリヂストンサイクル株式会社では、電動アシスト自転車やロードバイクなど様々な自転車製品の開発を効率的に進められるよう、アルテアの「Altair AcuSolve」を導入しています」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「Altair社（日本法人：アルテアエンジニアリング株式会社）」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「アルテアエンジニアリング株式会社」（https://www.itreview.jp/products/altair-inspire/profile）
+  - 「Altair Inspireとは、アルテアエンジニアリング株式会社が提供している構造解析、CAE製品」（https://www.itreview.jp/products/altair-inspire/profile）
+  - 「株式会社エイトエンジニアリング｜自動車・輸送機器｜機構・筐体などのメカ設計｜100-300人未満｜ユーザー（利用者）」（https://www.itreview.jp/products/altair-inspire/profile）
+- 再販・パートナー制度：
+  - 「Siemens/Altair Channel Partner」（https://www.trueinsight.io/altair/print3d）
+  - 「Siemens Altair Channel Partner」（https://www.trueinsight.io/altair/print3d）
+  - 「TrueInsight is the premium channel partner for Altair Engineering, providing solutions and support for Altair’s cutting-edge design, simulation and data analytics solutions like HyperMesh, OptiStruct and Feko.」（https://www.trueinsight.io/altair/print3d）
+  - 「Variables」（https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「Create and assign variables to parametrize a model. This allows you to quickly iterate and compare design concepts by tweaking the values of the variables.」（https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「Create parametric sketches, geometry, and PolyNURBS with construction history and variables.」（https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「Evaluate designs by using geometric variables and applying a design-of-experiments (DOE) or optimization method. We recommend fully constraining your sketch when sketch variables are used in the design exploration.」（https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「Perform linear static and normal modes analysis with advanced embedded solvers. Rapidly assess multiple design variants from fully featured CAD geometry, while traditional finite element analysis (FEA) ensures detailed structural validation.」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「Variables」（https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm）
+  - 「Create and assign variables to parametrize a model. This allows you to quickly iterate and compare design concepts by tweaking the values of the variables.」（https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm）
+  - 「Create parametric sketches, geometry, and PolyNURBS with construction history and variables.」（https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm）
+  - 「Evaluate designs by using geometric variables and applying a design-of-experiments (DOE) or optimization method. We recommend fully constraining your sketch when sketch variables are used in the design exploration.」（https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm）
+  - 「VariCAD」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「The Inspire Extrude Polymer profile enhances and optimizes the polymer extrusion process for improved quality and productivity. Understand how profile features and process variables interact for any polymer.」（https://altairone.com:443/marketplace?queryText=Inspire&tab=Info&app=Inspire）
+  - 「Var Industries」（https://inspire.smartcae.com/en/how-to-get-inspire/）
+- 料金：
+  - 「対応する拡張子が合計20以上、価格は40～120万円程度」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「1,135,970円（税込）」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「535,000円（税込）」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「946,000円（税込）」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「その内、対応するデータ形式が合計20個以上で、パラメトリックモデリング対応とマウスによる直観操作が可能、かつ価格が40万円～120万円程度のミドルレンジ帯のソフトウェア10種に絞り込んだ」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「・Alibre Designの選定理由：10種の内、ライセンスの価格がもっとも安い3DCADソフトウェアとして選出」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「Copyright © 2026 SmartCAE srl | All Rights Reserved | Share capital €100,000.00 fully paid | REA number FI: 602503 | VAT no. 01899650970 |」（https://inspire.smartcae.com/en/how-to-get-inspire/）
+- 無料体験：
+  - 「Free Trial」（https://www.trueinsight.io/altair/print3d）
+  - 「TrueInsight helps teams evaluate, adopt, and use Altair Inspire Print3D with practical guidance tied to real engineering workflows. From licensing and demos to onboarding, training, and day-to-day support, the goal is to help your team move faster with additive manufacturing simulation and make better use of the software in production-focused environments.」（https://www.trueinsight.io/altair/print3d）
+  - 「Request a Demo」（https://www.trueinsight.io/altair/print3d）
+  - 「TrueInsight can support evaluation, licensing, demos, onboarding, training, and practical implementation guidance so your team can adopt Inspire Print3D with less friction and stronger workflow alignment.」（https://www.trueinsight.io/altair/print3d）
+  - 「Learn how to access the Inspire Python API including online help, quick start demos, and the Extension Manager.」（https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「folder from the Demo Browser (F7).」（https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「Academic Programs」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「Request a Demo, Trial, or Quote」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「See Altair Inspire demonstrated by engineers who use it every day.」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「Request a Trial, Demo, or Quote」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「Learn how to access the Inspire Python API including online help, quick start demos, and the Extension Manager.」（https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm）
+  - 「オンラインヘルプ、クイックスタートデモ、拡張マネージャーなど、Inspire Python API へのアクセス方法について説明します」（https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「キーを押してデモブラウザを開きます」（https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「実行の完了を待たずに次のステップに進む場合は、デモブラウザ（F7）からPrint3Dフォルダにある」（https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm）
+  - 「Free Trial」（https://altairone.com:443/marketplace?queryText=Inspire&tab=Info&app=Inspire）
+- 日本語対応：
+  - 「日本語、 中国語、 英語、 フランス語、 ドイツ語、イタリア語、 韓国語、 ポルトガル語、 スペイン語」（https://www.itreview.jp/products/altair-inspire/profile）
+- 会社の規模：
+  - 「Acquired by Altair in 2008; expanded product offerings include Altair 365 cloud-based simulation and integration of Click2Cast products post-2015 acquisition; global distribution network and part of Altair HyperWorks suite.」（https://www.ampulse.online/company/solidthinking）
+  - 「Founded in 1991; Acquired by Altair in 2008; Released Inspire Print3D in 2019 for metal AM simulation」（https://www.ampulse.online/company/solidthinking）
+- 顧客・用途：
+  - 「Aerospace Startup」（https://www.trueinsight.io/altair/print3d）
+  - 「Customer Case Studies」（https://www.trueinsight.io/altair/print3d）
+  - 「Aerospace Engineering Solutions」（https://www.trueinsight.io/altair/print3d）
+  - 「Medical Device Engineering Solutions」（https://www.trueinsight.io/altair/print3d）
+  - 「Automotive Engineering Solutions & Simulation」（https://www.trueinsight.io/altair/print3d）
+  - 「Aerospace & Aviation」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「Customer Care」（https://sdasoftware.com/software/altair/altair-inspire/）
+  - 「航空宇宙産業」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「iQUAVISを基盤とする仕組みでISO 26262を取得自動車業界向け半導体事業を加速」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「グローバルな解析自動化プラットフォーム構築で成長市場の自動車開発を加速」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「CAEプラットフォームの マルチクラウド環境実現により 次世代自動車開発を加速」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「日産自動車株式会社」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「#自動車業界」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「電動工具開発での樹脂流動解析の活用事例」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+  - 「デジタルスレッドとデジタルツインの違い 事例とメリットをご紹介」（https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php）
+- 検索結果の抜粋：
+  - 「Altair Inspire Print3D | 3D Printing Simulation Software — Altair Inspire Print3D | 3D Printing Simulation Software TrueInsight https://www.trueinsight.io > Altair」（https://www.trueinsight.io/altair/print3d）
+  - 「Simulating Binder Sintering in Altair Inspire Print 3D - YouTube — Simulating Binder Sintering in Altair Inspire Print 3D - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=mWdd6yAen-s）
+  - 「Altair Inspire ™ Print3D Product Overview - YouTube — Altair Inspire ™ Print3D Product Overview - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=2NntjlFbQ0U）
+  - 「What's New in Inspire Print3D - Siemens Community — What's New in Inspire Print3D - Siemens Community Siemens https://community.sw.siemens.com > ...」（https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d）
+  - 「Altair Inspire Print3D - Support Optimization - YouTube — Altair Inspire Print3D - Support Optimization - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=vj9iqgBP_Gk）
+  - 「Print 3D using Altair Inspire - YouTube — Print 3D using Altair Inspire - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=xf-6G2tE1Ys）
+  - 「積層造形向けの設計/シミュレーションツール Inspire Print3D ... — 積層造形向けの設計/シミュレーションツール Inspire Print3D ... altair.com https://web.altair.com > webinar-inspireprint3d」（https://web.altair.com/webinar-inspireprint3d）
+  - 「「 Altair Inspire Studio」の 価格 や利点 — 「 Altair Inspire Studio」の 価格 や利点 3dcad-productiontech.net https://www.3dcad-productiontech.net > altair-inspire-studio」（https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html）
+  - 「Altair Inspire シミュレーションドリブンデザイン - 3DiH — Altair Inspire シミュレーションドリブンデザイン - 3DiH 3D innovation Hub https://3dih.jp > printer > software > inspire」（https://3dih.jp/printer/software/inspire/）
+
+## nTop（nTop）
+- 文脈：形状設計（ラティス・軽量化）
+- 日本の代理店：
+  - 「Mountain View, Andover, Washington D.C. (USA), Tokyo (Japan), Seoul (South Korea) and São Paulo」（https://www.ntop.org/about-us/partners-and-resellers/）
+  - 「3Dプリンター向けのソフトウェア / nTop | 株式会社NTTデータ ザムテクノロジーズ」（https://www.nttdata-xam.com/ntopology/）
+  - 「株式会社大陽日酸​」（https://www.nttdata-xam.com/ntopology/）
+  - 「株式会社中央エンジニアリング​」（https://www.nttdata-xam.com/ntopology/）
+  - 「当社は2020年よりnTop（旧名：nTopology）の正規販売代理店です」（https://www.nttdata-xam.com/ntopology/）
+  - 「株式会社テクノソリューションズ｜製造業の今をサポートする「ものづくりのITデザイナー」」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「米エンジニアリングソフトウェア企業「nTopology」と代理店契約を締結－3D Printing Corporation」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「3Dプリント技術を活用した製造インフラを提供する株式会社3D Printing Corporation（以下、3DPC）は、アメリカのエンジニアリングソフトウェ …」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「株式会社ニコン（以下、ニコン）が、ドイツの金属3DプリンターメーカーSLM Solutions社の買収を完了したと23年1月20日に発表した」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「nTop Learn (self-study courses) and the Discord community are free. Students and researchers can use the non-commercial version for free. Utilization is also progressing at Japanese universities (e.g., The University of Tokyo).」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「nTopologyってなんだ？ - 株式会社山一ハガネ Let's Begin!」（https://yamaichi-hagane.jp/wp/?p=441）
+  - 「株式会社山一ハガネ」（https://yamaichi-hagane.jp/wp/?p=441）
+  - 「Copyright © 株式会社山一ハガネ Let's Begin! All Rights Reserved.」（https://yamaichi-hagane.jp/wp/?p=441）
+  - 「株式会社テクノソリューションズ」（https://evort.jp/presenters/t-sol/ntop）
+- 再販・パートナー制度：
+  - 「Resellers – ntop」（https://www.ntop.org/about-us/resellers/）
+  - 「Resellers」（https://www.ntop.org/about-us/resellers/）
+  - 「Resellers and Sales Representatives」（https://www.ntop.org/about-us/resellers/）
+  - 「for details, price and availability, or get touch with our resellers (A-Z):」（https://www.ntop.org/about-us/resellers/）
+  - 「Global Distributors」（https://www.ntop.org/about-us/resellers/）
+  - 「Become a Partner」（https://www.ntop.com/partners/）
+  - 「Run complete multi-objective trade studies, from parametric geometry through multi-physics results, by connecting nTop's watertight variant generation directly to Ansys solvers and optimization tools.」（https://www.ntop.com/partners/）
+  - 「Explore thousands of design variants in real time by connecting nTop's parametric geometry directly to PhysicsX's physics AI surrogate models, trained and validated inside a single pipeline.」（https://www.ntop.com/partners/）
+  - 「Move hundreds of design variants generated in nTop directly into Flexcompute's simulation workflow, compressing requirements-driven design cycles from months to weeks.」（https://www.ntop.com/partners/）
+  - 「Resellers」（https://www.ntop.org/about-us/partners-and-resellers/）
+  - 「Top 10 SaaS Reseller Programs for Agencies - CookieYes」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Find the right partner program」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Not sure which partner program will work best for you? Let's help you.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Top 10 SaaS Reseller Programs for Agencies」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「What is a reseller program?」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+- 料金：
+  - 「Partners receive discounted license pricing up to 50% and retain the margin when reselling to clients.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Partners can get 25-55% discounted pricing when reselling accounts.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Partners can join the program at a subscription fee of $97 a month for 3 sub accounts and later upgrade to the unlimited plan for unlimited sub accounts at $297 a month.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the GoHighLevel Reseller Program, you can start by signing up for the 14-day free trial on their website. After choosing the subscription plan and providing your payment and billing information, you can then opt for the reseller program and create your account.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「In 2024, nTop partnered with Materialise to significantly reduce 3D printing preparation time. It is highly rated in CRN's "2023 Emerging Vendors" and Business Wire's AM software market forecast ($6.78 billion by 2033). Its 32,000 LinkedIn followers also demonstrate its reliability.」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「2億6699万円」（https://prtimes.jp/main/html/rd/p/000000012.000032276.html）
+  - 「2023 年 1 月 10 日付で ntop 製品価格の一部改訂、並びに新製品の販売開始がございましたのでご連絡申し上げま」（https://www.jtc-i.co.jp/img/ntop_price_update_230110.pdf）
+  - 「2. 現行価格適用」（https://www.jtc-i.co.jp/img/ntop_price_update_230110.pdf）
+  - 「～100万円」（https://www.tegsys.net/case/example/76180/）
+- 無料体験：
+  - 「Get a Demo」（https://www.ntop.com/partners/）
+  - 「Request a Demo」（https://www.ntop.com/partners/）
+  - 「Request A Demo」（https://www.ntop.com/partners/）
+  - 「To join the Vendasta white-label partner program, you have to register by filling out your organisation details and signing up, which enables access to tools, training, and the marketplace immediately after setup. Alternatively, you can also start by signing up for a 30-day free trial.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「To join the GoHighLevel Reseller Program, you can start by signing up for the 14-day free trial on their website. After choosing the subscription plan and providing your payment and billing information, you can then opt for the reseller program and create your account.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Product Demos」（https://www.n-able.com/partnerships/reseller-program）
+  - 「Daily Live Product Demos」（https://www.n-able.com/partnerships/reseller-program）
+  - 「Why we give nTop for free to students and academics | nTop • nTop」（https://www.ntop.com/resources/blog/why-we-give-ntop-out-for-free/）
+  - 「Get a Demo」（https://www.ntop.com/resources/blog/why-we-give-ntop-out-for-free/）
+  - 「Why we give nTop for free to students and academics」（https://www.ntop.com/resources/blog/why-we-give-ntop-out-for-free/）
+  - 「Request A Demo」（https://www.ntop.com/resources/blog/why-we-give-ntop-out-for-free/）
+  - 「オンラインデモ 随時実施中！」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「ご希望のお客様にオンラインでのデモを実施いたします」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「In 2024, nTop partnered with Materialise to significantly reduce 3D printing preparation time. It is highly rated in CRN's "2023 Emerging Vendors" and Business Wire's AM software market forecast ($6.78 billion by 2033). Its 32,000 LinkedIn followers also demonstrate its reliability.」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「Get a Demo」（https://www.ntop.com/education/）
+- 日本語対応：
+  - 「ご導入後すぐにご活用いただけるよう、日本語での有償トレーニングをご用意しております」（https://www.nttdata-xam.com/ntopology/）
+  - 「操作方法がわからない、やりたい事がうまくできない、といったお困りごとについても当社のnTopologyエキスパートが日本語でご対応いたします」（https://www.nttdata-xam.com/ntopology/）
+  - 「当社のnTopologyエキスパートが、次々と搭載される新機能について、当社Webサイト上で日本語にてご説明しております」（https://www.nttdata-xam.com/ntopology/）
+  - 「Value for Japanese Business Professionals」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「nTop Learn (self-study courses) and the Discord community are free. Students and researchers can use the non-commercial version for free. Utilization is also progressing at Japanese universities (e.g., The University of Tokyo).」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「Japanese automakers are accelerating lightweight design for EV batteries. Medical device companies are rapidly developing custom implants. Small and medium-sized enterprises can also prototype high-performance parts at low cost with nTop.」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「While Autodesk Fusion and Siemens NX are general-purpose CAD, nTop has an advantage in computational design specialized for AM. Compared to Ansys and Altair, its strengths lie in lattice structures and mesh-free analysis. For Japanese companies, integration with existing tools and improved development speed are the deciding factors for adoption.」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「Application to Japanese Business」（https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en）
+  - 「JA - 日本語」（https://mono.ipros.com/product/detail/2000710607/）
+- 会社の規模：
+  - 「Hostingsolutions.it was founded in 1999 as a registered trade-mark of Genesys Informatica S.r.l., a」（https://www.ntop.org/about-us/partners-and-resellers/）
+  - 「Loop1 selects products that help customers」（https://www.n-able.com/partnerships/reseller-program）
+  - 「– Markforged Industrial Series : X7」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「Markforged Industrial Series : MarkX(X7)」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「HandySCAN 3D | BLACK Series」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「HandySCAN 3D | SILVER Series」（https://www.t-sol.co.jp/product/ntopology/）
+  - 「ニコンがドイツの金属3Dプリンターメーカー「SLM Solutions」の買収完了を発表」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「株式会社ニコン（以下、ニコン）が、ドイツの金属3DプリンターメーカーSLM Solutions社の買収を完了したと23年1月20日に発表した」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「EOS社は、1989年に設立された歴史を持つ産業用３Dプリンターのパイオニアで、３Dプリンターや材料のほか、部品設計、品質管理、後処理までを手掛ける3Dプリンター業界のマーケットリーダーです」（https://mono.ipros.com/product/detail/2000710607/）
+  - 「設立：2015年」（https://prtimes.jp/main/html/rd/p/000000012.000032276.html）
+  - 「設立：2016年3月」（https://prtimes.jp/main/html/rd/p/000000012.000032276.html）
+  - 「nTop Secures $65M in Series D Funding | nTop • nTop」（https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/）
+  - 「nTop Secures $65M in Series D Funding」（https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/）
+  - 「We are excited to announce that we have secured $65 million in Series D funding, bringing our company’s total secured financing to date to $135 million. The funding round was led by」（https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/）
+- 顧客・用途：
+  - 「Aerospace」（https://www.ntop.com/partners/）
+  - 「Energy」（https://www.ntop.com/partners/）
+  - 「particularly the control panel, which is immediately available on the web to all customers from the first」（https://www.ntop.org/about-us/partners-and-resellers/）
+  - 「vendors in telecom, enterprise, financial and government markets choose Napatech. Customers」（https://www.ntop.org/about-us/partners-and-resellers/）
+  - 「global customer support. Napatech is headquartered in Copenhagen (Denmark) with offices in」（https://www.ntop.org/about-us/partners-and-resellers/）
+  - 「. This exponential growth, as more businesses adopt SaaS tools to manage everything from marketing and analytics to compliance and customer experience, has paved a smart way for agencies to build recurring revenue streams through reseller programs.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「A reseller program is a business partnership model wherein a business allows another business or individual to sell its products or services under the latter’s own brand to their customers. The reseller typically purchases the product at a discounted rate and then resells it at a margin by either bundling it with their existing services or as a separate offering.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「The CSP structure allows partners to own customer billing, support, and relationship management.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Category: Customer Experience & Marketing Automation」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Category: Customer Service & Support」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「is aimed at resellers, implementation specialists, and technology partners. It focuses on customer experience and support software solutions. Partners can resell licenses and deliver configuration, migration, and integration services. The program includes training and tiered benefits. It is suited for agencies serving support-heavy or SaaS businesses.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Category: Customer Messaging & Conversational CRM」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「lets agencies promote and resell respond.io—a customer conversation management platform that helps businesses generate leads and boost revenue by unifying channels like WhatsApp, Instagram, and email into a single AI-powered inbox, at a self-determined profit margin. It's best suited for agencies serving clients who rely heavily on messaging channels for sales and customer support.」（https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/）
+  - 「Customer Stories」（https://www.n-able.com/partnerships/reseller-program）
+  - 「MSP Customer Success」（https://www.n-able.com/partnerships/reseller-program）
+- 検索結果の抜粋：
+  - 「nTop Licensing Options — nTop Licensing Options nTop Support https://support.ntop.com > articles > 6...」（https://support.ntop.com/hc/en-us/articles/6022955299091-nTop-Licensing-Options）
+  - 「nTopology Software Reviews, Demo & Pricing - 2026 — nTopology Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > nt...」（https://www.softwareadvice.com/3d-architecture/ntopology-profile/）
+  - 「3Dプリンター向けのソフトウェア / nTop — 3Dプリンター向けのソフトウェア / nTop 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > ntopology」（https://www.nttdata-xam.com/ntopology/）
+  - 「What's New in nTop Platform | September 2020 - YouTube — What's New in nTop Platform | September 2020 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=BOuFaTEcYPE）
+  - 「次世代ソフトウェア「 nTop 5」を発表！統合パートナー5社を ... — 次世代ソフトウェア「 nTop 5」を発表！統合パートナー5社を ... ShareLab NEWS https://news.sharelab.jp > 事例 > その他業界事例」（https://news.sharelab.jp/cases/other-fields/ntop-5-240705/）
+  - 「nTop とは？ 3Dプリンタユーザー必見の最新ソフトウエアを ... — nTop とは？ 3Dプリンタユーザー必見の最新ソフトウエアを ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=xFy7o3lBxHE）
+  - 「nTop /nTopology – 3Dプリンタの可能性を限界まで高める ... — nTop /nTopology – 3Dプリンタの可能性を限界まで高める ... ntop.jp https://ntop.jp」（https://ntop.jp/）
+  - 「Siemens NX、Autodesk Fusion 360、nTopologyの 価格 の内訳 ... — Siemens NX、Autodesk Fusion 360、nTopologyの 価格 の内訳 ... Reddit https://www.reddit.com > cad > comments > anyone_has_...」（https://www.reddit.com/r/cad/comments/y8tq5c/anyone_has_a_breakdown_of_prices_genericrrp_for/?tl=ja）
+  - 「ntop 製品 価格 改定並びに販売開始に係るご案内 — ntop 製品 価格 改定並びに販売開始に係るご案内 ジュピターテクノロジー株式会社 PDF https://www.jtc-i.co.jp > ntop_price_update_230110」（https://www.jtc-i.co.jp/img/ntop_price_update_230110.pdf）
+  - 「次世代のエンジニアリングツール【 nTop 】 - イプロス — 次世代のエンジニアリングツール【 nTop 】 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 試作 > 3Ｄプリンタ」（https://mono.ipros.com/product/detail/2000710607/）
+  - 「DfAMソフト nTop - ホッティーポリマー — DfAMソフト nTop - ホッティーポリマー hotty.co.jp https://www.hotty.co.jp > 3Dプリンターサービス」（https://www.hotty.co.jp/3d_service/ntopology/）
+  - 「nTop Preview Guide — nTop Preview Guide nTop Support https://support.ntop.com > articles > 1...」（https://support.ntop.com/hc/en-us/articles/1500007707841-nTop-Preview-Guide）
+  - 「ntopng 1.2 Download ( Free trial ) — ntopng 1.2 Download ( Free trial ) Informer Technologies, Inc. https://ntopng-for-win32.software.informer.com > ...」（https://ntopng-for-win32.software.informer.com/1.2/）
+  - 「nTop - 2026 Company Profile, Team, Funding & Competitors — nTop - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU）
+  - 「nTop Secures $65M in Series D Funding — nTop Secures $65M in Series D Funding nTop https://www.ntop.com > blog > ntopo...」（https://www.ntop.com/resources/blog/ntopology-secures-65m-in-series-d-funding/）
+
+## Hyperganic（Hyperganic）
+- 文脈：形状設計（アルゴリズム設計）
+- 日本の代理店：
+  - 「CDFAM TOKYO EVENTS」（https://cdfam.com/hyperganic-berlin/）
+- 再販・パートナー制度：
+  - 「The initial release was Hyperganic Core 1. The (then small) team worked closely with various 3D printer manufacturers to ensure the platform was compatible with powder bed, resin, and extrusion-based processes.」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.」（https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/）
+  - 「have partnered up in 2022, with the joint mission to foster alternatives to classical foamed polymers. Foams are good for a variety of applications ranging from energy absorption, like cushioning and protective gear to medical applications, like insoles and orthotics. However, there are also certain distinct disadvantages when using foams, like recyclability or possibilities for customization.」（https://cdfam.com/hyperganic-berlin/）
+  - 「How are the anticipated future enhancements of HyDesign designed to address the advancing requirements of industrial designers and engineers across various applications?」（https://cdfam.com/hyperganic-berlin/）
+  - 「Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University」（https://cdfam.com/hyperganic-berlin/）
+  - 「, has unveiled HyDesign, a new cloud-native design application for creating 3D printed lattice structures. This tool makes designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.」（https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/）
+  - 「Easily vary lattice beam thicknesses using image projections.」（https://www.hyperganic.com/pricing/）
+  - 「Exporting your designs from HyDesign is straightforward and user-friendly. You can directly download your designs to your local drive from the cloud in various formats, including STL, 3MF, CLI, and PNG stack. There’s no limitation on the number of exports.」（https://www.hyperganic.com/pricing/）
+  - 「Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.」（https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/）
+  - 「Engineering software provider Hyperganic has unveiled HyDesign, a new cloud-native design application for creating 3D printed lattice structures. The new tool aims to make designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers and OEMs using 3D printing.」（https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/）
+  - 「Working with leading companies in the US, Europe, Southeast Asia, and China, Hyperganic works with customers on a broad variety of applications, including aerospace, consumer goods, and medical products, but it can fundamentally be applied to any field of engineering. For example, in 2019, a」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「Hyperganic, a pioneer in algorithmic engineering software, unveils HyDesign, a new cloud-native design application for creating 3D-printed lattice structures. This innovative tool makes designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.」（https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/）
+  - 「/PRNewswire-PRWeb/ -- Hyperganic, a pioneer in algorithmic engineering software, unveils HyDesign, a new cloud-native design application for creating 3D-printed lattice structures. This innovative tool makes designing lattice-based products easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.」（https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html）
+  - 「HyDesign is a cloud-native design application that makes designing 3D-printed latticed parts easy, fast, and cost-effective for industrial designers, application engineers, and OEMs exploring cutting-edge uses of 3D printing.」（https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/222979-51）
+- 料金：
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「announced a huge price reduction of 80% for its own algorithmic design software, the」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「. Commercially launched back in 2018 for an annual subscription of $8,000 per year, the AI-powered extension has always been relatively inaccessible to anyone other than major engineering and manufacturing firms.」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Access validated materials from the Ultrasim 3D Lattice Library by Forward AM – reducing material validation time in developing footwear, seating, and protection applications.」（https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/）
+  - 「USD $25」（https://www.hyperganic.com/pricing/）
+  - 「EUR €22」（https://www.hyperganic.com/pricing/）
+  - 「There are Test Pads for Footwear, Seating and Protection. Second, you can access the digital Ultrasim® 3D Lattice Library via Forward-AM’s website」（https://www.hyperganic.com/pricing/）
+  - 「Access validated materials from the Ultrasim 3D Lattice Library by Forward AM, minimizing costly and time-consuming trial prints in the development of footwear, seating and protection applications.」（https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/）
+  - 「Hyperganic Raises $7.8M in First Venture Round for AI-Driven 3D Printing - 3DPrint.com | Additive Manufacturing Business」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「Hyperganic Raises $7.8M in First Venture Round for AI-Driven 3D Printing」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「raised $7.8 million in its first venture round on February 17, 2021. Led by serial entrepreneur」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「, formerly known as HV Holtzbrinck Ventures, one of Europe’s largest funds with 329 investments worth $1.2 billion, and」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「Forward AM’s Ultrasim 3D Lattice Library is built on decades of material science expertise and rigorous testing from BASF, which recently broke off from the chemicals giant as a standalone enterprise. The library provides optimal combinations of lattice designs, materials, and printers, tested and used across industries such as footwear, seating, and protection.」（https://develop3d.com/cad/hydesign-lattice-software-launched-by-hyperganic/）
+  - 「3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています」（https://idarts.co.jp/3dp/hyperganic-design-software-public/?srsltid=AYCX9vIUIKIxWKfNYKiTvwAmUPWt8iOAEomgDiLs4Sl3Cn67mhbIh2C0）
+- 無料体験：
+  - 「Democratizing generative design with Core 3」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Democratizing Advanced Engineering Solutions from Industrial to Medical Applications - Hyperganic - CDFAM」（https://cdfam.com/hyperganic-berlin/）
+  - 「Participant Demographics」（https://cdfam.com/hyperganic-berlin/）
+  - 「CDFAM Participant Demographics」（https://cdfam.com/hyperganic-berlin/）
+  - 「Democratizing Advanced Engineering Solutions from Industrial to Medical Applications」（https://cdfam.com/hyperganic-berlin/）
+  - 「At Hyperganic, we harness the power of bespoke engineering solutions to enhance the capabilities of advanced products. Our expertise spans across industries, from aerospace to automotive, demonstrating the transformative impact of Hyperganic’s approach to product development through design tailored for Additive Manufacturing (AM).」（https://cdfam.com/hyperganic-berlin/）
+  - 「HyDesign is now commercially available with a 14-day free trial, with simulation available as a beta feature.」（https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/）
+  - 「Start Your 30-day Free Trial」（https://www.hyperganic.com/pricing/）
+  - 「Explore HyDesign’s capabilities with a 30-day full-access trial with beta access simulations (Queue up to 2 simulations and continue iterating designs at the same speed while they run.)」（https://www.hyperganic.com/pricing/）
+  - 「HyDesign is now commercially available with a 14-day free trial.」（https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/）
+  - 「The initial demo showcases the building of ‘A cuboid of 30x30x50mm, with a SchwarzD infill that morphs into Gyroid infill along the Z-Axis’.」（https://develop3d.com/cad/hyperganic-hyideate-hydesign-offer-new-tools-for-concepts/）
+  - 「Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design | ManufacturingTomorrow」（https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/）
+  - 「Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design」（https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/）
+  - 「HyDesign is now commercially available with a 14-day free trial, with simulation available as a beta feature. Experience effortless lattice design and start your free trial today at hyd.sg/hydesignlaunch.」（https://www.manufacturingtomorrow.com/news/2024/07/26/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/23096/）
+  - 「Hyperganic Launches HyDesign: Democratizing 3D-Printed Lattice Design」（https://www.prweb.com/releases/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design-302202393.html）
+- 会社の規模：
+  - 「2017年に設立されたハイパーガニック・グループは、ミュンヘン、シンガポール、中国に拠点を置くグローバルなディープテクノロジーソフトウェア企業です」（https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「1989年に設立された独立企業である当社は、高品質な生産効率と先駆的なイノベーション、持続可能な実践を結びつけ、製造業の未来を形作ります」（https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「Hyperganic, a German company, builds generative design software to 3D print objects as complex as nature. Though it was founded in 2015, it’s just now ready to reveal what its powerful algorithms can do.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「His vision is grand, but it isn’t Kayser’s first time building a successful business. Hyperganic’s office was formerly home to his company IRIDAS, which Adobe acquired in 2011.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「With Core 3 now available to the public, anyone with the will to do so can learn how to design 3D printable parts using algorithmic engineering. Kayser states that for non-commercial and open-source users, Hyperganic Core will always be free to use. Customers also have the option to monetize the objects they design, as well as the custom algorithms used to design them.」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Hyperganic, a German company, builds generative design software to 3D print objects as complex as nature. Though it was founded in 2015, it's just now ready to reveal what its powerful algorithms can do.」（https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/）
+  - 「Hyperganic was founded in 2016 offering computational design tools for programmers and custom solutions such as their」（https://cdfam.com/hyperganic-berlin/）
+  - 「raised $7.8 million in its first venture round on February 17, 2021. Led by serial entrepreneur」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「Working with leading companies in the US, Europe, Southeast Asia, and China, Hyperganic works with customers on a broad variety of applications, including aerospace, consumer goods, and medical products, but it can fundamentally be applied to any field of engineering. For example, in 2019, a」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「3D printing investment funding」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「Caplena Secures €3M Pre-Series A Funding Round」（https://presswire.com/release/hyperganic-launches-hydesign-democratizing-3d-printed-lattice-design/）
+  - 「Hyperganic 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/222979-51）
+  - 「Acquisitions (1)」（https://pitchbook.com/profiles/company/222979-51）
+  - 「4 Fundings」（https://www.cbinsights.com/company/hyperganic/financials）
+- 顧客・用途：
+  - 「航空業界における当社の最先端アプリケーションをご覧ください」（https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「ダウンロード eos_app_aerospace_hyperganic_01.jpg」（https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「ダウンロード eos_app_aerospace_hyperganic_03.jpg」（https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「ダウンロード eos_app_aerospace_hyperganic_rocketenginedesignstudy_i_04.jpg」（https://www.eos.info/ja/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「Case Study」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「The ideal scenario would be where the technology makes customization as easy as hitting CTRL P, says Finke. Customers can walk into a store, have their feet scanned for custom-made shoes and insoles, for example, and after paying for their order, the optimal shoe and insole can go straight into production, without any human guidance.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「has already attracted new customers — and it’s expanding into fields that are ripe for disruption, says Kayser.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「The rocket is silver, created with aerospace-grade metal, and resembles a sculpture or piece of art, with blood vessels lining the sides — in short, radically different from a traditional rocket engine.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「“Nobody would have designed a rocket engine like this,” says Langer. “This is very interesting for us because now we can approach the customers with a different offering.”」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「“If a customer says this is the part I want, just print it for me, the Hyperganic software can’t help you anymore,” he says. “It can only help you if you have a certain freedom of design where you can use the power of the algorithms to optimize the design.”」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「Hyperganic doesn’t sell its software. Instead, it sticks to the success parameters of its customers, says Finke. In many cases, this could mean creating a revenue sharing model.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「In an ideal setting, Hyperganic sets up the entire workflow and receives an upfront commitment from the customer.」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「Aerospace」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Medical & Dental」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+- 検索結果の抜粋：
+  - 「How EOS & Hyperganic Advanced Space Propulsion — How EOS & Hyperganic Advanced Space Propulsion EOS GmbH https://www.eos.info > ... > 2022 ...」（https://www.eos.info/press-media/press-center/press-releases/2022/eos-and-hyperganic）
+  - 「Hyperganic : Voxel-based Software for Complex 3D Printing — Hyperganic : Voxel-based Software for Complex 3D Printing FacFox https://facfox.com > docs > hypergani...」（https://facfox.com/docs/kb/hyperganic-voxel-based-software-for-complex-3d-printing）
+  - 「Hyperganic launches its AI-based algorithmic design software ... — Hyperganic launches its AI-based algorithmic design software ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/hyperganic-launches-its-ai-based-algorithmic-design-software-to-the-public-210883/）
+  - 「Why I just added physics to Hyperganic by acquiring a ... — Why I just added physics to Hyperganic by acquiring a ... Josefine Lissner and Lin Kayser https://jlk.ae > 2022/05/01 > why-i-ju...」（https://jlk.ae/2022/05/01/why-i-just-added-physics-to-hyperganic-by-acquiring-a-simulation-company/）
+  - 「Hyperganic : Voxel-based Software for Complex 3D Printing — Hyperganic : Voxel-based Software for Complex 3D Printing All3DP https://all3dp.com > hyperganic-voxe...」（https://all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/）
+  - 「Hyperganic launches HyDesign for 3D printed lattices — Hyperganic launches HyDesign for 3D printed lattices VoxelMatters https://www.voxelmatters.com > hype...」（https://www.voxelmatters.com/hyperganic-launches-hydesign-for-3d-printed-lattices/）
+  - 「HyDesign lattice software launched by Hyperganic - develop3d — HyDesign lattice software launched by Hyperganic - develop3d develop3d https://develop3d.com > cad > hydesi...」（https://develop3d.com/cad/hydesign-lattice-software-launched-by-hyperganic/）
+  - 「Hyperganic launches HyDesign for creating 3D printed lattice ... — Hyperganic launches HyDesign for creating 3D printed lattice ... Engineering.com https://www.engineering.com > hyper...」（https://www.engineering.com/hyperganic-launches-hydesign-for-creating-3d-printed-lattice-structures/）
+  - 「Hyperganic HyIdeate & HyDesign offer new tools for concepts — Hyperganic HyIdeate & HyDesign offer new tools for concepts develop3d https://develop3d.com > cad > hyperg...」（https://develop3d.com/cad/hyperganic-hyideate-hydesign-offer-new-tools-for-concepts/）
+  - 「Hyperganic - 2026 Company Profile & Team - Tracxn — Hyperganic - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/hyperganic/__ZhWQFxVIjipnYw01io_-Saaf6h5ADOJwNi_5hMz1-_4）
+  - 「Hyperganic Raises $7.8M in First Venture Round for AI-Driven ... — Hyperganic Raises $7.8M in First Venture Round for AI-Driven ... 3DPrint.com https://3dprint.com > hyperganic-rais...」（https://3dprint.com/280450/hyperganic-raises-7-8m-in-first-venture-round-for-ai-driven-3d-printing/）
+  - 「Hyperganic raises $ 7.8 million in funding round for AI-driven ... — Hyperganic raises $ 7.8 million in funding round for AI-driven ... 3Druck.com https://3druck.com > Home > Industry」（https://3druck.com/en/industry-2/hyperganic-raises-78-million-in-funding-round-for-ki-controlled-3d-printing-5799542/）
+- 日本語対応：記載なし（読んだ31頁・検索7回）
+
+## ToffeeX（ToffeeX）
+- 文脈：形状設計（流体・熱の最適化）
+- 日本の代理店：
+  - 「CDFAM TOKYO EVENTS」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「CDFAM TOKYO EVENTS」（https://cdfam.com/toffeex-berlin/）
+  - 「｜ SCSK株式会社」（https://www.scsk.jp/product/common/toffee-x/）
+  - 「株式会社リコー 様」（https://www.scsk.jp/product/common/toffee-x/）
+  - 「(SCSK; TSE: 9719, Tokyo) have announced that they have signed an exclusive sales agreement. The partnership」（https://toffeex.com/news/toffeex-and-scsk-partner/）
+  - 「SCSKは、ToffeeXと販売総代理店契約を締結し、トポロジー最適化ソフトウェア「ToffeeX」の販売を開始した」（https://monoist.itmedia.co.jp/mn/articles/2404/16/news007.html）
+  - 「SCSKは2024年4月1日、ToffeeXと販売総代理店契約を締結し、トポロジー最適化ソフトウェア「」（https://monoist.itmedia.co.jp/mn/articles/2404/16/news007.html）
+  - 「ITmediaはアイティメディア株式会社の登録商標です」（https://monoist.itmedia.co.jp/mn/articles/2404/16/news007.html）
+  - 「冷却構造部品の開発・設計を支援する「ToffeeX」を販売開始 ～熱流体解析とトポロジー最適化により開発期間短縮と製品性能向上を実現～ | SCSK | ニュース | イプロスものづくり」（https://mono.ipros.com/news/detail/152287/）
+  - 「SCSK株式会社 デジタルエンジニアリング事業本部」（https://mono.ipros.com/news/detail/152287/）
+  - 「冷却構造部品の開発・設計を支援する「ToffeeX」を販売開始 ～熱流体解析とトポロジー最適化により開発期間短縮と製品性能向上を実現～」（https://mono.ipros.com/news/detail/152287/）
+  - 「ＳＣＳＫ株式会社（本社：東京都江東区、代表取締役 執行役員 社長：當麻 隆昭、以下 ＳＣＳＫ）は、ToffeeX ltd（本社：UK ロンドン）とクラウドをベースとしたトポロジー最適化ソフトウェア「ToffeeX」の販売総代理店契」（https://mono.ipros.com/news/detail/152287/）
+  - 「【News Release】冷却構造部品の開発・設計を支援する「ToffeeX」を販売開始」（https://mono.ipros.com/news/detail/152287/）
+  - 「2026年11月2日、株式会社カイタクは、山陰エリアで開催されたオーケーリース株式会社の展示会に「ハイパーCLT敷板」を出展したことについて、プレスリリースを発行しました」（https://mono.ipros.com/news/detail/152287/）
+  - 「｜ SCSK株式会社」（https://www.scsk.jp/product/common/toffee-x/casestudy.html?id=case）
+- 再販・パートナー制度：
+  - 「Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「Campus-Boulevard 30」（https://acam.rwth-campus.com/news/toffeex-joins-acam-additive-manufacturing/）
+  - 「ToffeeX primarily serves engineers across various industrial sectors who require advanced design solutions. The company's vision is to empower these engineers by transforming how high-performance components are conceived and developed. By allowing physics to directly shape components, ToffeeX aims to lead the evolution of engineering design towards greater efficiency and innovation.」（https://startupintros.com/orgs/toffeex）
+  - 「Discover how generative design is redefining engineering with AI-powered algorithms and advanced physics simulations. Generative design in ToffeeX enables engineers to quickly explore and develop design variations that meet their objectives, from thermal management to fluid flow optimization.」（https://www.bjoerntech.com/en/toffeex）
+  - 「As an authorised distributor in Türkiye, we offer fast delivery of stock products and on-site technical consulting.」（https://www.bjoerntech.com/en/toffeex）
+  - 「Discover how generative design redefines engineering with AI-driven algorithms and advanced physics simulations. At ToffeeX, generative design empowers engineers to rapidly explore and refine design variations tailored to their goals, from thermal management to fluid flow optimization.」（https://toffeex.com/product/）
+  - 「In another field, we’ve engineered cooling systems for a variety of turbomachinery applications, including lubricated bearings. Experimental testing confirmed the effectiveness of these components in reducing system temperatures and therefore extending component longevity.」（https://cdfam.com/toffeex-berlin/）
+  - 「Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University」（https://cdfam.com/toffeex-berlin/）
+  - 「The second was a flow distributor optimized for uniform, efficient cooling, a deceptively simple component whose even flow underpins efficiency across oil coolers, fuel-cell units and chemical reactors alike.」（https://toffeex.com/the-first-toffeex-summit-generative-design-is-now-in-production/）
+  - 「result was a fourfold reduction in the variation of the measured heating value」（https://toffeex.com/the-first-toffeex-summit-generative-design-is-now-in-production/）
+  - 「It can be used for traditional and additive manufacturing processes, providing a versatile tool for various industrial needs.」（https://toffeex.com/news/toffeex-and-scsk-partner/）
+  - 「ロンドン, 2026年11月3日 - (JCN Newswire) - 保険連動投資および機関投資家向けウェルス・ソリューションを専門とする世界有数の企業であるAlpha Growth plc（以下「Alpha」）は本日、同社の生命保険子会社であるAlpha International Life Assurance Company (Guernsey) Limited（以下「Alpha Life」）が、マネージド変額ユニバーサル生命保険「Alpha Tiger Managed Variable Universal Life」（以下「Alpha Tiger MVUL」）の提供を開始したと発表しました」（https://mono.ipros.com/news/detail/152287/）
+- 料金：
+  - 「1–2 emails per month. No spam, ever.」（https://toffeex.com/）
+  - 「ToffeeX has raised $7.3M across 2 funding rounds.」（https://startupintros.com/orgs/toffeex）
+  - 「ToffeeX has raised $7.3M in total across 2 funding rounds.」（https://startupintros.com/orgs/toffeex）
+  - 「ToffeeX has raised $7.3M across 2 funding rounds. Most recently, it raised $6.0M Series A in November 2022.」（https://startupintros.com/orgs/toffeex）
+  - 「$7.3M raised」（https://startupintros.com/orgs/toffeex）
+  - 「$6M Series A」（https://startupintros.com/orgs/toffeex）
+  - 「$1.3M Seed」（https://startupintros.com/orgs/toffeex）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/toffeex-physics-driven-software-maturity-generative-design/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/toffeex-physics-driven-software-maturity-generative-design/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/toffeex-physics-driven-software-maturity-generative-design/）
+  - 「1–2 emails per month. No spam, ever.」（https://toffeex.com/the-first-toffeex-summit-generative-design-is-now-in-production/）
+  - 「1–2 emails per month. No spam, ever.」（https://toffeex.com/next-generation-engineering-rapidly-design-complex-thermo-fluid-components/）
+  - 「ToffeeX Secures $5 Million in Series A Funding for Physics-Driven Generative Design Innovation | Signalbase」（https://www.trysignalbase.com/news/funding/toffeex-secures-5-million-in-series-a-funding-for-physics-driven-generative-design-innovation）
+  - 「ToffeeX Secures $5 Million in Series A Funding for Physics-Driven Generative Design Innovation」（https://www.trysignalbase.com/news/funding/toffeex-secures-5-million-in-series-a-funding-for-physics-driven-generative-design-innovation）
+  - 「$31.0M」（https://www.trysignalbase.com/news/funding/toffeex-secures-5-million-in-series-a-funding-for-physics-driven-generative-design-innovation）
+- 無料体験：
+  - 「Get a demo」（https://toffeex.com/）
+  - 「Participant Demographics」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「CDFAM Participant Demographics」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「Get a demo」（https://toffeex.com/product/）
+  - 「Participant Demographics」（https://cdfam.com/toffeex-berlin/）
+  - 「CDFAM Participant Demographics」（https://cdfam.com/toffeex-berlin/）
+  - 「Get a demo」（https://toffeex.com/the-first-toffeex-summit-generative-design-is-now-in-production/）
+  - 「has moved from the “interesting demo” phase into the “in production” phase for thermal-fluid systems.」（https://toffeex.com/the-first-toffeex-summit-generative-design-is-now-in-production/）
+  - 「for a demo, or try it today.」（https://www.engineered-mind.com/engineering/how-generative-design-and-topology-optimization-are-transforming-thermofluids-with-toffeex/）
+  - 「無償の体験版はありますか？」（https://www.scsk.jp/product/common/toffee-x/）
+  - 「無償体験版のご用意はありません」（https://www.scsk.jp/product/common/toffee-x/）
+  - 「Get a demo」（https://toffeex.com/news/toffeex-and-scsk-partner/）
+  - 「Get a Demo」（https://toffeex.com/news/toffeex-and-scsk-partner/）
+  - 「Get a demo」（https://toffeex.com/next-generation-engineering-rapidly-design-complex-thermo-fluid-components/）
+  - 「The printed component closely matched the simulations, validating our approach and demonstrating ToffeeX’s ability to handle intricate thermo-fluid challenges.」（https://toffeex.com/next-generation-engineering-rapidly-design-complex-thermo-fluid-components/）
+- 日本語対応：
+  - 「will support accelerating the adoption of generative design for thermal management systems, focussing on the Japanese market. Starting April 1, 2024, SCSK has begun to market ToffeeX, a cloud-based, physics-driven generative design software that employs physics simulations to guide the engineering process, autonomously creating optimized designs that meet the user’s objectives.」（https://toffeex.com/news/toffeex-and-scsk-partner/）
+  - 「JA - 日本語」（https://mono.ipros.com/news/detail/152287/）
+  - 「JA - 日本語」（https://mono.ipros.com/product/detail/2001176376/）
+  - 「The Series A investment round was an international affair, led by Presidio Ventures, part of the Japanese multinational Sumitomo Group, and London-based venture capital investor East Innovate.」（https://toffeex.com/news/toffeeam-secures-5-million-in-series-a-funding/）
+- 会社の規模：
+  - 「ToffeeX has raised $7.3M across 2 funding rounds.」（https://startupintros.com/orgs/toffeex）
+  - 「2 funding rounds」（https://startupintros.com/orgs/toffeex）
+  - 「ToffeeX has raised $7.3M in total across 2 funding rounds.」（https://startupintros.com/orgs/toffeex）
+  - 「The company was founded in 2019 by Audrey Gaymann, Marco Pietropaoli, and Francesco Montomoli. These founders identified a critical need within engineering for design tools that could inherently integrate and be guided by complex physical simulations. This insight led to the creation of a system that can rapidly generate sophisticated designs that meet stringent performance requirements.」（https://startupintros.com/orgs/toffeex）
+  - 「ToffeeX has raised $7.3M across 2 funding rounds. Most recently, it raised $6.0M Series A in November 2022.」（https://startupintros.com/orgs/toffeex）
+  - 「$7.3M raised」（https://startupintros.com/orgs/toffeex）
+  - 「$6M Series A」（https://startupintros.com/orgs/toffeex）
+  - 「is a London-based technology company founded in 2019 that develops」（https://startupintros.com/orgs/toffeex）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/toffeex-physics-driven-software-maturity-generative-design/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/toffeex-physics-driven-software-maturity-generative-design/）
+  - 「who handle sales, support, and training in that market. We have raised approximately £6M in VC funding and have a team of approximately 30 people based in central London, UK.」（https://cdfam.com/toffeex-berlin/）
+  - 「インペリアル・カレッジ・ロンドン発のスタートアップとして2019年に設立され５年目の企業ですが、流体力学やAI分野の専門性が高く、AI関連や３Dプリンティング関連業界にて高く評価されています」（https://www.scsk.jp/product/common/toffee-x/）
+  - 「,” SCSK fosters collaboration with customers, partners, and communities, boosting human capital and delivering continual value. With a track record of resolving issues for over 8,000 companies, SCSK is now poised to address broader societal challenges through innovative IT-led co-creation.」（https://toffeex.com/news/toffeex-and-scsk-partner/）
+  - 「TOffeeAM Secures £5 Million in Series A Funding - ToffeeX」（https://toffeex.com/news/toffeeam-secures-5-million-in-series-a-funding/）
+  - 「TOffeeAM Secures £5 Million in Series A Funding」（https://toffeex.com/news/toffeeam-secures-5-million-in-series-a-funding/）
+- 顧客・用途：
+  - 「Used by the most innovative engineering teams working on high-performance thermal management components.」（https://toffeex.com/）
+  - 「TOFFEEX - Physics-Driven Generative Design for Laser Powder Bed Fusion in Aerospace - CDFAM」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「Physics-Driven Generative Design for Laser Powder Bed Fusion in Aerospace」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「Built around multiphysics simulation, adjoint optimization, and a streamlined user interface, ToffeeX enables both early-stage design exploration and late-stage validation across industries from aerospace to thermal management for consumer electronics.」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「With a background in aerospace engineering, Thomas brings a perspective grounded in applied complexity—where performance, cost, and manufacturability must be reconciled in every decision.」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「This has drawn interest from a broad range of industries, from data center cooling to aerospace.」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「At CDFAM Amsterdam, I’m particularly excited to share some of the aerospace-focused projects we’ve been working on at ToffeeX. At my core I’m still an aeronautical engineer so any time I get to talk about aerospace I’m happy! It’s such a complex, exciting, and high tech field, and while at ToffeeX we’re just one small piece of the puzzle, the work is incredibly rewarding.」（https://cdfam.com/toffeex-physics-driven-generative-design-for-laser-powder-bed-fusion-in-aerospace/）
+  - 「Aerospace」（https://startupintros.com/orgs/toffeex）
+  - 「aerospace, automotive, energy, and industrial equipment」（https://startupintros.com/orgs/toffeex）
+  - 「: Keeps users in control, revealing design trends/correlations faster than manual methods; excels in thermo-fluid applications like cooling for aerospace electrification.[2][3]」（https://startupintros.com/orgs/toffeex）
+  - 「Medical」（https://www.bjoerntech.com/en/toffeex）
+  - 「Green Energy」（https://www.bjoerntech.com/en/toffeex）
+  - 「Standard products are the starting point; customer-specific dimensions, surface treatments and EMC shielding concepts are developed together with the manufacturers' engineers.」（https://www.bjoerntech.com/en/toffeex）
+  - 「POLYRACK Aerospace GmbH」（https://www.bjoerntech.com/en/toffeex）
+  - 「Aerospace」（https://www.tctmagazine.com/toffeex-physics-driven-software-maturity-generative-design/）
+- 検索結果の抜粋：
+  - 「Discovery Plug-In 1.07 created by ToffeeX — Discovery Plug-In 1.07 created by ToffeeX Ansys Developer Portal https://developer.synopsys.com > app」（https://developer.synopsys.com/app/toffeex/toffeex-discovery-plug/1-07）
+  - 「TOffeeAM Secures £5 Million in Series A Funding - ToffeeX — TOffeeAM Secures £5 Million in Series A Funding - ToffeeX ToffeeX https://toffeex.com > news > toffeeam...」（https://toffeex.com/news/toffeeam-secures-5-million-in-series-a-funding/）
+  - 「ToffeeX - 2026 Company Profile & Team - Tracxn — ToffeeX - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/toffeex/__rUWhmARdnhCeWOCpYWc_l00hz4G_QwhDox0O-NExf2k）
+  - 「ToffeeX Secures $5 Million in Series A Funding for Physics ... — ToffeeX Secures $5 Million in Series A Funding for Physics ... Signalbase https://www.trysignalbase.com > news」（https://www.trysignalbase.com/news/funding/toffeex-secures-5-million-in-series-a-funding-for-physics-driven-generative-design-innovation）
+  - 「ToffeeX Revenue 2025: $3.7M Est. - GetLatka — ToffeeX Revenue 2025: $3.7M Est. - GetLatka GetLatka https://getlatka.com > toffeex」（https://getlatka.com/companies/toffeex.com）
+
+## Cognitive Design Systems（Cognitive Design Systems）
+- 文脈：形状設計（自動最適化）
+- 日本の代理店：
+  - 「CDFAM TOKYO EVENTS」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「株式会社山一ハガネは、長年にわたり先進的なAMソフトウェアと向き合ってきた経験を持ち、現場のエンジニアが本当に必要としているもの――初回イテレーションから製造可能な信頼性の高いジオメトリ、既存CADチェーンとのシームレスな統合、データガバナンスが求められる場面における」（https://yamaichi-hagane.jp/cds/cognitivedesign/）
+- 再販・パートナー制度：
+  - 「Explore and compare every variant of your design」（https://www.cognitive-design-systems.com/）
+  - 「AM experts from various divisions can pool their knowledge in an AM database, allowing other users to identify parts suitable for AM. Cognitive Additive assesses production risks, costs, and lead times, optimizing production capabilities and enabling agile manufacturing.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「One of the significant advantages of this approach is the standardization it brings to the quality of generated designs. With the AM Morpher, all designs produced by Cognitive Design are inherently suitable for various AM processes.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「Exciting news for CDFAM attendees: Cognitive Design will be available for Earlybird discount to all CDFAM attendees before the official launch at FormNext 2024. Stay tuned.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「Aeroforms – Zinab Eisa & Esha Morakhiya – Harvard University」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「✓ Dedicated Support (Varies tier)」（https://manufacturing.toolsinfo.com/tool/cognitive-design-systems-cds）
+  - 「Explore and compare every variant of your design」（https://www.cognitive-design-systems.com/generative-design）
+  - 「Design Explorer automates trade-off analysis that traditionally requires days of manual effort. Engineers compare dozens of design variants across multiple KPIs in minutes, making informed decisions faster.」（https://www.cognitive-design-systems.com/generative-design）
+  - 「Cognitive Design includes automated Design of Experiments functionality that systematically varies input parameters to understand their impact on outputs. This helps engineers identify critical design drivers and optimise robustly across parameter ranges.」（https://www.cognitive-design-systems.com/generative-design）
+  - 「Design Explorer enables comprehensive design space exploration by automatically generating and evaluating multiple design variants. Engineers can track KPIs across all configurations, compare trade-offs visually, and identify the best candidates based on performance, weight, and cost criteria.」（https://www.cognitive-design-systems.com/generative-design）
+  - 「Cognitive Design uses generative design algorithms driven by performance requirements and manufacturing constraints. The software explores thousands of design variations simultaneously, identifying optimal material distributions that meet structural and manufacturability criteria.」（https://www.cognitive-design-systems.com/generative-design）
+  - 「Cognitive Design generates and evaluates design variants in minutes rather than days. Automated simulation and manufacturability checking eliminate manual iteration steps, enabling engineers to explore ten times more concepts in the same timeframe.」（https://www.cognitive-design-systems.com/generative-design）
+  - 「is a next-generation engineering software company helping OEMs and Tier-1 suppliers accelerate the」（https://develop3dlive.com/exhibitor/cognitive-design/）
+  - 「Turn expert steps into parameterized templates for consistent, repeatable variant generation. Improve, save, adapt, and reuse at scale across product families.」（https://develop3dlive.com/exhibitor/cognitive-design/）
+  - 「Explore and compare every variant of your design」（https://www.cognitive-design-systems.com/company）
+- 料金：
+  - 「Cognitive Design Systems raises €2 million in new funding | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Cognitive Design Systems raises €2 million in new funding」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「has secured €2 million in funding. The funds raised will boost the technological development of CDS’s platform that began in 2021. Additionally, CDS will also look at expanding its geographic footprint and salesforce in Europe and the United States.」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「The €2 million round was made possible through the support of Iron Hands Capital, DAA Capital Partners and SpaceFounders France.」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Aurora Labs secures A$6 million to scale up turbojet engine production」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Since CDFAM in NY, CDS has secured €2 million in funding, Developed a new product: Cognitive Design, and grew from 12 to 18 members.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「Cognitive Design Systems (CDS): Pricing, Reviews & Features 2026 |...」（https://manufacturing.toolsinfo.com/tool/cognitive-design-systems-cds）
+  - 「Impossible Objects Raises $40 Million to Boost Industrial Additive Manufacturing」（https://www.3dnatives.com/en/test-cognitive-design-systems-software-for-free-080420245/）
+  - 「Formlabs Launches Form Studio 1, a $699 Resin 3D Printer」（https://www.3dnatives.com/en/test-cognitive-design-systems-software-for-free-080420245/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/optimize-faster-and-smarter-with-cognitive-designs-new-software-set-to-transform-engineering-232458/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/optimize-faster-and-smarter-with-cognitive-designs-new-software-set-to-transform-engineering-232458/）
+  - 「CDS Raises €2M to Advance Generative Design Software」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「CDS Successfully Raises €2 Million in Funding」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「– Cognitive Design Systems, an innovative company dedicated to making 3D models manufacturable, is thrilled to announce that it has secured €2 million in funding. The funds raised will be boosting the technological development of CDS’s platform that had begun in 2021, additionally CDS will also look at expanding their geographic footprint and salesforce in Europe and the United States.」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+- 無料体験：
+  - 「Request a demo to see how Cognitive Design by CDS can revolutionize your engineering workflow」（https://www.cognitive-design-systems.com/）
+  - 「Participant Demographics」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「CDFAM Participant Demographics」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「During CDFAM Berlin, we will demonstrate how CDS bridges the gap between design and manufacturing through Cognitive Additive and Cognitive Design.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「In the aerospace industry, we recently demonstrated 15% to 30% weight reduction in highly complex machined metal components while also accelerating the design process. These components were optimized not only for weight but also for feasibility, cost, and overall mechanical performance.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「Apart from a hands-on demo of your software, what key message or insight do you hope engineers and designers will carry with them after CDFAM?」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「3-month free trial」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「✓ Free trial available」（https://manufacturing.toolsinfo.com/tool/cognitive-design-systems-cds）
+  - 「Request a demo to see how Cognitive Design by CDS can revolutionize your engineering workflow」（https://www.cognitive-design-systems.com/generative-design）
+  - 「デモンストレーション、トライアルライセンス、または現在のワークフローへの導入に関するご相談は、山一ハガネまでお問い合わせください」（https://yamaichi-hagane.jp/cds/cognitivedesign/）
+  - 「Request a demo to see how Cognitive Design by CDS can revolutionize your engineering workflow」（https://www.cognitive-design-systems.com/company）
+  - 「free trial」（https://www.3dnatives.com/en/test-cognitive-design-systems-software-for-free-080420245/）
+  - 「60-day free trial offer」（https://3dprintingindustry.com/news/optimize-faster-and-smarter-with-cognitive-designs-new-software-set-to-transform-engineering-232458/）
+  - 「Request a demo to see how Cognitive Design by CDS can revolutionize your engineering workflow」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/497757-97）
+- 日本語対応：
+  - 「日本語での販売およびテクニカルサポート」（https://yamaichi-hagane.jp/cds/cognitivedesign/）
+- 会社の規模：
+  - 「Cognitive Design Systems raises €2 million in new funding | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding.md」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Cognitive Design Systems raises €2 million in new funding」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「has secured €2 million in funding. The funds raised will boost the technological development of CDS’s platform that began in 2021. Additionally, CDS will also look at expanding its geographic footprint and salesforce in Europe and the United States.」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Since CDFAM in NY, CDS has secured €2 million in funding, Developed a new product: Cognitive Design, and grew from 12 to 18 members.」（https://cdfam.com/cognitive-design-systems-2024/）
+  - 「Founded by entrepreneurs from Japan and Hong Kong, CDS specialises in product design and 3D software development using artificial intelligence.」（https://www.invest-in-toulouse.fr/en/choose-toulouse/choose-toulouse/choose-toulouse-cognitive-design-systems/）
+  - 「In just two years, Cognitive Design Systems has grown from 3 to 20 employees and aims to reach 30 by the end of 2024. The company is now expanding internationally and securing major contracts.」（https://www.invest-in-toulouse.fr/en/choose-toulouse/choose-toulouse/choose-toulouse-cognitive-design-systems/）
+  - 「A French start-up founded in 2021, Cognitive Design Systems (CDS) develops software solutions based on」（https://www.3dnatives.com/en/test-cognitive-design-systems-software-for-free-080420245/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/optimize-faster-and-smarter-with-cognitive-designs-new-software-set-to-transform-engineering-232458/）
+  - 「CDS Successfully Raises €2 Million in Funding」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「– Cognitive Design Systems, an innovative company dedicated to making 3D models manufacturable, is thrilled to announce that it has secured €2 million in funding. The funds raised will be boosting the technological development of CDS’s platform that had begun in 2021, additionally CDS will also look at expanding their geographic footprint and salesforce in Europe and the United States.」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「Founded in 2022, IRON HANDS CAPITAL combines financial capital with strategic guidance and strong operational support. IRON HANDS CAPITAL aggregates key knowledge for success in DeepTech through its founding team, which comes from corporate finance, entrepreneurship, turnaround management, innovation, and international growth, in both small and large cap sectors.」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「Cognitive Design Systems 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/497757-97）
+  - 「Cognitive Design Systems was founded in 2021.」（https://pitchbook.com/profiles/company/497757-97）
+  - 「Cognitive Design Systems has 20 total employees.」（https://pitchbook.com/profiles/company/497757-97）
+- 顧客・用途：
+  - 「Aerospace」（https://www.cognitive-design-systems.com/）
+  - 「Cut development time for sustainable aerospace components」（https://www.cognitive-design-systems.com/）
+  - 「Automotive」（https://www.cognitive-design-systems.com/）
+  - 「Defense」（https://www.cognitive-design-systems.com/）
+  - 「Improve agility in defense hardware engineering」（https://www.cognitive-design-systems.com/）
+  - 「Cognitive Design is an on-premise AI-augmented platform that unifies generative design, simulation, and manufacturing constraints in a single concept generation loop — for Aeronautics, Defense, Space, Automotive and Industrial engineers.」（https://www.cognitive-design-systems.com/）
+  - 「Cognitive Design by CDS specializes in delivering innovative solutions for critical industries. Our software empowers design engineers to optimize parts for aerospace, automotive, and defense sectors.」（https://www.cognitive-design-systems.com/）
+  - 「Aerospace Industry」（https://www.cognitive-design-systems.com/）
+  - 「Transforming aerospace design with precision and efficiency.」（https://www.cognitive-design-systems.com/）
+  - 「about our expertise in the aerospace industry」（https://www.cognitive-design-systems.com/）
+  - 「Automotive Applications」（https://www.cognitive-design-systems.com/）
+  - 「Driving innovation in automotive part design and manufacturing.」（https://www.cognitive-design-systems.com/）
+  - 「about our expertise in the automotive industry」（https://www.cognitive-design-systems.com/）
+  - 「Enhancing defense capabilities through optimized design solutions.」（https://www.cognitive-design-systems.com/）
+  - 「about our expertise in the defense sector」（https://www.cognitive-design-systems.com/）
+- 検索結果の抜粋：
+  - 「Cognitive Design Systems raises €2 million in new funding — Cognitive Design Systems raises €2 million in new funding VoxelMatters https://www.voxelmatters.com > cogn...」（https://www.voxelmatters.com/cognitive-design-systems-raises-e2-million-in-new-funding/）
+  - 「Cognitive Design Systems - Develop3D Live — Cognitive Design Systems - Develop3D Live Develop3D Live https://develop3dlive.com > exhibitor」（https://develop3dlive.com/exhibitor/cognitive-design/）
+  - 「Cognitive Design Systems 社が設計最適化ソフトウェア ... — Cognitive Design Systems 社が設計最適化ソフトウェア ... CAD Japan.com https://www.cadjapan.com > ニュース > 2024年」（https://www.cadjapan.com/news/2024/w202431_01.html）
+  - 「Test Cognitive Design Systems ' Software for Free - 3Dnatives — Test Cognitive Design Systems ' Software for Free - 3Dnatives 3Dnatives https://www.3dnatives.com > ... > News」（https://www.3dnatives.com/en/test-cognitive-design-systems-software-for-free-080420245/）
+  - 「Cognitive Design Systems Software Reviews, Demo & Pricing — Cognitive Design Systems Software Reviews, Demo & Pricing Software Advice https://www.softwareadvice.com > 65...」（https://www.softwareadvice.com/product/653849-Cognitive-Design-Systems/）
+  - 「CDS Successfully Raises €2 Million in Funding — CDS Successfully Raises €2 Million in Funding Cognitive Design https://www.cognitive-design-systems.com > ...」（https://www.cognitive-design-systems.com/news/cds-successfully-raises-eu2-million-in-funding）
+  - 「CDS announces the release of Cognitive Design 2.0 — CDS announces the release of Cognitive Design 2.0 MEM Magazine https://memuknews.com > software」（https://memuknews.com/manufacturing/software/cognitive-design-2-0/）
+
+## Additive Assurance AMiRIS（Additive Assurance）
+- 文脈：造形中の監視・品質保証
+- 日本の代理店：
+  - 「Additive Assurance社と国内販売代理店契約を締結 | 株式会社NTTデータ ザムテクノロジーズ」（https://www.nttdata-xam.com/news/info/article_8906/）
+  - 「2026.06.03 Additive Assurance社と国内販売代理店契約を締結」（https://www.nttdata-xam.com/news/info/article_8906/）
+  - 「Additive Assurance社と国内販売代理店契約を締結」（https://www.nttdata-xam.com/news/info/article_8906/）
+  - 「株式会社NTTデータ ザムテクノロジーズ（本社：東京都、以下 当社）は、金属粉末積層造形向け品質保証ソフトウェアを提供するAdditive Assurance社（本社：オーストラリア）のリアルタイム品質保証ソリューション「AMiRIS」の」（https://www.nttdata-xam.com/news/info/article_8906/）
+  - 「、日本国内における販売代理店契約を締結しており、」（https://www.nttdata-xam.com/news/info/article_8906/）
+  - 「NTT DATA XAM、Additive Assuranceと国内販売代理店契約を締結 | e.x.press」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/）
+  - 「> NTT DATA XAM、Additive Assuranceと国内販売代理店契約を締結」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/）
+  - 「NTT DATA XAM、Additive Assuranceと国内販売代理店契約を締結」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/）
+  - 「--株式会社NTTデータ ザムテクノロジーズ（NTT DATA XAM Technologies Corp. (XAM)）は、金属粉末積層造形向け品質保証ソフトウェアを提供するAdditive Assurance社（本社：オーストラリア）のリアルタイム品質保証ソリューション「AMiRIS」の日本国内における販売を、2026年6月3日より開始した」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/）
+  - 「XAMは2026年1月7日にAdditive Assurance社と、日本国内における販売代理店契約を締結しており、本契約に基づき、「AMiRIS」の提供を通じて、金属粉末積層造形の量産適用における品質保証の課題解決を支援する」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/）
+  - 「第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「販売チャネルは、既存機に30〜45分で後付け可能なレトロフィット販売に加え、Additive Industries（MetalFABシリーズ）やNikon SLM Solutions（NXGプラットフォーム）とのOEM組み込み連携（AMiRIS Inside™）、さらに日本市場におけるNTT DATA XAM Technologiesとの総代理店契約締結など、有力な地域・装置パートナーを通じたグローバル展開を加速させている」（https://en.firstcvc.jp/global/additiveassurance.com）
+- 再販・パートナー制度：
+  - 「entered a domestic distributorship agreement with」（https://additiveassurance.com/press.html）
+  - 「challenges, including variations in build quality, difficulties in quality assurance processes,」（https://additiveassurance.com/press.html）
+  - 「of NTT DATA Engineering Systems (NDES). Dating back to 1993 as the pioneer distributor of EOS」（https://additiveassurance.com/press.html）
+  - 「Additive Assurance provides solutions for quality assurance of components made with additive manufacturing. Specialising in metal powder bed fusion techniques (SLM, DLMS, SLS etc.) our patent-pending in-situ analysis method allows for the rapid detection of faults and variation in the AM process, allowing the user to take control of their AM builds.」（https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/）
+  - 「commissioned a TRUMPF/Sisma Mysint 300 laser powder bed fusion system」（https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/）
+  - 「Additive Assurance, a provider of quality assurance solutions for metal powder bed fusion, has entered a distributorship agreement with」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「In recent years, the adoption of metal 3D printers has expanded across the aerospace, automotive, and medical device fields, shifting from prototyping to mass production. However, mass production presents several challenges, including variations in build quality, difficulties in quality assurance processes, and Difficulties in securing traceability.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「For Machine OEMs」（https://additiveassurance.com/resources.html）
+  - 「QA as Product for OEMs」（https://additiveassurance.com/resources.html）
+  - 「Why built-in quality assurance is becoming a purchasing criterion for L-PBF machines, and how OEMs can package it as a differentiator.」（https://additiveassurance.com/resources.html）
+  - 「Aerospace OEM Adopts Machine-Agnostic In-Situ QA to Accelerate Confidence in Metal AM Builds」（https://additiveassurance.com/resources.html）
+  - 「. Additive Assurance has developed a new method for quality assurance in high-value metal additive manufacturing able to detect, notify, and correct variations in the build process. Better known as AMiRIS, this independent in-situ process monitoring solution for laser powder bed fusion (LPBF) metal AM is based on technology originally developed」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「XAM was established in 2020 as a spin-off from NTT Data Engineering Systems, though the company traced its additive manufacturing lineage back to 1993, when it became Japan’s first distributor for EOS equipment.」（https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/）
+  - 「Embedded integration for OEMs adding real time」（https://additiveassurance.com/）
+- 料金：
+  - 「Eka Robotics Secures $150 Million to Advance Physical AI」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to new data released by the Association for Advancing Automation (A3). Orders increased 24.8% in units and 26.1% in value compared to the third quarter of 2025, making it the strongest quarter of the year so far.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「Additive Assurance Closes AU$4.1M for 3D Printing Quality Control - 3DPrint.com | Additive Manufacturing Business」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「Additive Assurance Closes AU$4.1M for 3D Printing Quality Control」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「quality assurance startup, has now raised AU$4.1 million ($2.7 million) in early-stage venture capital funding to establish an additive manufacturing quality assurance center of excellence at its Melbourne, Australia headquarters, as well as expand the team internationally and support further growth initiatives. The round was led by Australian tech investor」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「. With this latest funding round, Additive Assurance has raised AU$5.9 million ($4 million).」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/）
+- 無料体験：
+  - 「participated in live demonstrations in Panama City, Florida. Each company installed its」（https://additiveassurance.com/press.html）
+  - 「sensor technologies on industrial-scale metal 3D printers to demonstrate its capabilities」（https://additiveassurance.com/press.html）
+  - 「Assurance. “This program gave us the opportunity to demonstrate the power of our AMiRIS」（https://additiveassurance.com/press.html）
+  - 「, with ‘invaluable assistance from Headland Technology’, a prominent supplier of advanced manufacturing technologies. This advanced metal additive manufacturing system will serve as a demonstration facility for quality assurance applications and further the company’s development capabilities.」（https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/）
+  - 「A business case summary demonstrating the value and ROI of implementing AMiRIS monitoring in series production.」（https://additiveassurance.com/resources.html）
+  - 「Real-world validation demonstrating AMiRIS defect detection accuracy compared to post-process CT scanning inspection results.」（https://additiveassurance.com/resources.html）
+  - 「Book a demo」（https://www.caplight.com/company/additiveassurance）
+  - 「Additive Assurance Pty Ltd is scheduled to exhibit at the ASTM International Conference on Advanced Manufacturing, ICAM 2026, in Florida from Sep 28th to Oct 2nd '26, with AMiRIS demonstrations at booth K19.」（https://www.caplight.com/company/additiveassurance）
+  - 「The platform has been deployed across multiple machines around the world, with adoption progressing from academic environments into contract manufacturing and prime-led applications.」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「a Demo」（https://additiveassurance.com/）
+  - 「a Demo」（https://additiveassurance.com/product.html）
+  - 「Gain a significant, demonstrable competitive advantage」（https://additiveassurance.com/product.html）
+  - 「Schedule a demo to see AMiRIS in action on your machines and discuss which solution fits your needs.」（https://additiveassurance.com/product.html）
+  - 「Request a Demo」（https://additiveassurance.com/product.html）
+  - 「Snowbird demonstrates at-sea metal manufacturing during naval exercise」（https://www.machinery-market.co.uk/news/43558/Additive-Assurances-AMiRIS-impresses-in-CCAM-evaluation）
+- 日本語対応：
+  - 「to launch its real-time quality assurance solution, AMiRIS, in the Japanese market.」（https://additiveassurance.com/press.html）
+  - 「challenges in the Japanese」（https://additiveassurance.com/press.html）
+  - 「in the Japanese metal」（https://additiveassurance.com/press.html）
+  - 「Leveraging XAM's Expertise for the Japanese Market」（https://additiveassurance.com/press.html）
+  - 「for Japanese manufacturers:」（https://additiveassurance.com/press.html）
+  - 「exceptional technical capabilities in the Japanese market," said Marten Jurg, CEO of Additive」（https://additiveassurance.com/press.html）
+  - 「NTT DATA XAM Technologies Corporation is a Japanese provider of comprehensive additive」（https://additiveassurance.com/press.html）
+  - 「systems in Japan, the company has long been a leader in the Japanese AM industry. XAM provides」（https://additiveassurance.com/press.html）
+  - 「. (XAM) to launch its real-time quality assurance solution, AMiRIS, in the Japanese market. Through this agreement, Additive Assurance aims to resolve quality assurance and mass production challenges in the Japanese metal powder bed fusion market by leveraging XAM’s well established technical capabilities.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「To address these challenges, there is an increasing demand for technology that monitors the build status in real-time. Additive Assurance has partnered with XAM due to their specialised capabilities and track record in the Japanese metal additive manufacturing industry.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「Leveraging XAM’s Expertise for the Japanese Market」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「XAM will provide comprehensive local services to ensure successful implementation and operations for Japanese manufacturers:」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「“We are honoured to partner with NTT DATA XAM Technologies, a company with a rich track record and exceptional technical capabilities in the Japanese market,”」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「to launch its real-time quality assurance solution, AMiRIS, in the Japanese market.」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「The Australian company, which develops quality assurance products for metal powder bed fusion, says it has selected XAM to bring its AMiRIS in-situ process monitoring solution to laser powder bed fusion (LPBF) users in Japan due to its "rich track record and exceptional technical capabilities in the Japanese market."」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+- 会社の規模：
+  - 「Kreon Technologies has introduced ANEMO, a new 3D laser scanner designed for its Onyx portable measuring arm. The scanner combines high-speed data acquisition with fine resolution and a stated accuracy of 12 µm, targeting the inspection of complex components with tight tolerances.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement」（https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/）
+  - 「Additive Assurance's most recent funding round was VC Round on December 7, 2022.」（https://www.caplight.com/company/additiveassurance）
+  - 「quality assurance startup, has now raised AU$4.1 million ($2.7 million) in early-stage venture capital funding to establish an additive manufacturing quality assurance center of excellence at its Melbourne, Australia headquarters, as well as expand the team internationally and support further growth initiatives. The round was led by Australian tech investor」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「. With this latest funding round, Additive Assurance has raised AU$5.9 million ($4 million).」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「What started off as a spin-out at Monash University in Melbourne in 2019 has become a startup that commercializes a novel in-situ monitoring tool for metal 3D printing to customers like」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「Currently, the startup is working with leading global customers in the aerospace and advanced manufacturing industries to enable the use of 3D printed parts in serial production.」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「Jurg, who is also the CEO of the company, anticipated in a series of posts on social media that Additive Assurance has “big plans for 2023” and encouraged machine learning specialists, software engineers, and others to apply to several of the opportunities currently available at the company’s Australian headquarters.」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「3D printing funding」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「XAM, which has been distributing EOS machines in Japan since 1993, is set to handle product sales, implementation support, and technical maintenance, and will link AMiRIS with its existing metal 3D printers, including EOS and AMCM systems. Together, the partners also plan to support customers in utilising build data to establish a stable manufacturing foundation and promote digital transformation.」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「M270, M280, M290 series」（https://additiveassurance.com/product.html）
+- 顧客・用途：
+  - 「In recent years, the adoption of metal 3D printers has expanded across the aerospace, automotive,」（https://additiveassurance.com/press.html）
+  - 「and medical device fields,」（https://additiveassurance.com/press.html）
+  - 「will support customers in utilising build data to establish a stable manufacturing」（https://additiveassurance.com/press.html）
+  - 「quality assurance solutions to customers in Japan and supporting their transition to stable,」（https://additiveassurance.com/press.html）
+  - 「advancing the reliability and adoption of the technology in key sectors like aerospace and」（https://additiveassurance.com/press.html）
+  - 「defense. Additive Assurance was selected from a competitive field of five finalists who」（https://additiveassurance.com/press.html）
+  - 「organizations including the Air Force Research Laboratory, Boeing, GE Aerospace, Lockheed」（https://additiveassurance.com/press.html）
+  - 「globally and has been serving production oriented customers for over a decade. Additive」（https://additiveassurance.com/press.html）
+  - 「customers.」（https://additiveassurance.com/press.html）
+  - 「Industries to add value to their customers’ experience and to push the boundaries of」（https://additiveassurance.com/press.html）
+  - 「offering cutting-edge technology that enable customers to industrialize and accelerate their」（https://additiveassurance.com/press.html）
+  - 「customer relationships while driving adoption of AMiRIS」（https://additiveassurance.com/press.html）
+  - 「Aerospace & Defense」（https://www.additiveindustries.com/additive-industries-additive-assurance/）
+  - 「Automotive」（https://www.additiveindustries.com/additive-industries-additive-assurance/）
+  - 「Additive Industries is one of the major manufacturers of metal L-PBF machines globally and has been serving production oriented customers for over a decade. Additive Industries’ MetalFab printers offer class leading automation, scalability and capability. Their product portfolio has recently been updated with their newest machine; the」（https://www.additiveindustries.com/additive-industries-additive-assurance/）
+- 検索結果の抜粋：
+  - 「Additive Assurance Closes AU$4.1M for 3D Printing Quality ... — Additive Assurance Closes AU$4.1M for 3D Printing Quality ... 3DPrint.com https://3dprint.com > additive-assuran...」（https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/）
+  - 「Additive Assurance takes metal 3D printing ... - TCT Magazine — Additive Assurance takes metal 3D printing ... - TCT Magazine TCT Magazine https://www.tctmagazine.com > additi...」（https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/）
+  - 「Additive Assurance 社のDavid Menzies氏へのインタビュー — Additive Assurance 社のDavid Menzies氏へのインタビュー 3Druck.com https://3druck.com > ホーム > 産業」（https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%B9%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%A1/）
+  - 「Additive Assurance | In-Situ Quality Assurance for Metal 3D ... — Additive Assurance | In-Situ Quality Assurance for Metal 3D ... Additive Assurance https://www.additiveassurance.com」（https://www.additiveassurance.com/）
+  - 「Additive Assurance 2026 Company Profile - PitchBook — Additive Assurance 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/433087-84）
+  - 「Additive Assurance raises $1.6M, announces partnership with ... — Additive Assurance raises $1.6M, announces partnership with ... IP Group Australia https://www.ipgroupanz.com > news」（https://www.ipgroupanz.com/news/2020/2020-07-30）
+
+## Phase3D Fringe（Phase3D）
+- 文脈：造形中の監視・品質保証
+- 日本の代理店：
+  - 「日本酸素ホールディングスグループの日本産業ガス事業を担う大陽日酸株式会社（東京都品川区、以下、大陽日酸）は、Phase3D社（米国イリノイ州）が開発した金属AM向け造形品質モニタリングシステム「Fringe Inspection」の国内販売に向けた契約を締結した」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+  - 「簡単に3Dモデル作成が可能に！新ツール「ParamaCraft」を発表 ― 株式会社fume」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+  - 「製造業AIデータプラットフォーム「CADDi」を発表、部品・組立品製造サービスを終了 ― キャディ株式会社」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+  - 「第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+  - 「総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+  - 「キャディ株式会社（東京都台東区）は、新たな構想、製造業AIデータプラットフォーム「CADDi」（現CADDi Manufacturig）を発表した」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/ir/tn-sanso-phase3d-250219/）
+- 再販・パートナー制度：
+  - 「Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Phase3D and Phillips Federal today announced a partnership that will make Phase3D’s advanced manufacturing inspection technology more accessible to defense organizations across North America. Under the agreement, Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market.」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/466695-28）
+  - 「Phase3D builds new Fringe Inspection hardware for OEM integration | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/）
+  - 「https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration.md」（https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/）
+  - 「Phase3D builds new Fringe Inspection hardware for OEM integration」（https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/）
+  - 「, purpose-built hardware designed for OEMs to build into laser powder bed fusion machines. The Chicago-based company explained that the product came out of a multi-year development project and moves it away from an architecture assembled from off-the-shelf components.」（https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/）
+  - 「The design targets two groups: OEMs adding inspection to their platforms, and manufacturers extending the same measurement capability across more machines and production sites.」（https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/）
+  - 「“This is the result of years of development focused on what comes next for additive manufacturing,” said Dr. Niall O’Dowd, Founder and CEO of Phase3D. “We have built a product specifically for LPBF, with the computing and connectivity to support OEM integration from the outset. We want manufacturers to know that Phase3D is preparing to scale with them.”」（https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration/）
+  - 「In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.」（https://metrology.news/fringe-inspection-brings-layer-level-metrology-to-additive-manufacturing/）
+  - 「Fringe Inspection can identify any variation in the powder or melted surface that is greater than 3-times the pixel size. For a standard installation Fringe Inspection can typically identify anomalies greater than 300 microns.」（https://www.phase-3d.com/products/fringe-inspection-m290-kit?srsltid=AYCX9vLPkyHBAl0BPNl0GOL3v9v58tAfPYkrM7NtNR6X8JFns5iQdqs0）
+  - 「The second scan is of a rough surface. The variations in the surface cause distortion in the projected fringe pattern, which is captured by the camera and directly corresponds to differences in height across the area.」（https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz）
+  - 「Phase3D Introduces Next Generation of Fringe Inspection Designed for Scalable OEM Integration」（https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4）
+  - 「Figure 1. Phase3D’s next-generation Fringe Inspection hardware features a custom projector adapted specifically for LPBF and OEM integration.」（https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4）
+  - 「— Phase3D is introducing the next generation of Fringe Inspection®, the result of a multi-year development project to create purpose-built inspection hardware for laser powder bed fusion (LPBF). The new product marks a major step in Phase3D’s evolution toward scalable OEM integration.」（https://www.phase-3d.com/blogs/resources/news-next-generation-fringe-inspection-oem-integration?srsltid=AYCX9vLHyCScANjFH5fc8xdYsXwDPr9fAMWMj8WNTo6ImsqFug_12e_4）
+- 料金：
+  - 「$1,000.00」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「$0.00 USD」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Phase3D closes oversubscribed $2.9 million funding round」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「has closed an oversubscribed funding round, raising $2.9 million to expand capabilities and accelerate software deployment.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Roboze raises $10m to support US expansion」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「6K Additive secures final EXIM loan agreement worth $27.4m」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「$1,000.00」（https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA）
+  - 「$0.00 USD」（https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA）
+  - 「Phase3D raises $2.9M to expand in-situ inspection for metal additive manufacturing | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「Phase3D raises $2.9M to expand in-situ inspection for metal additive manufacturing」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「has closed a $2.9 million oversubscribed funding round led by Quest Venture Partners. Alongside the close, Ray Farrell joined the Phase3D board of directors, bringing more than 25 years of experience advising technology companies on intellectual property strategy and commercial growth.」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+- 無料体験：
+  - 「Both teams will be onsite for J-DAMMIT 2026 at Harrisburg University, August 25–27. Phillips Federal is exhibiting, and attendees can meet the Phase3D and Phillips teams at the Phillips exhibit to learn more about the partnership. The teams are also discussing an onsite demonstration, with details to follow if confirmed.」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/466695-28）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/466695-28）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/466695-28）
+  - 「Hands-on training at demonstration facilities」（https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14）
+  - 「The video below demonstrates how fringe projection works in action. In the first scan, a flat reference surface is measured - representing a perfectly flat powder spreading. Here, the projected fringe patterns are uniform spacially across the surface.」（https://www.phase-3d.com/pages/fringe-technology?srsltid=AYCX9vJbBi_e2hMakShmmlBF1bucxhqk4F-nh8ENe0bVTQlQMgwOdhAz）
+  - 「CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production」（https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection）
+  - 「The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.」（https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection）
+  - 「The energy technology manufacturer has already demonstrated that AM can deliver service parts for harsh environments. Now, the key is developing and maintaining a catalog of parts with their processes for consistent production on an as-needed basis.」（https://www.additivemanufacturing.media/products/phase3ds-early-adopter-program-for-real-time-am-part-quality-inspection）
+  - 「The latest investment marks what Phase3D describes as its transition from technology validation towards commercial scale. Having established its structured-light metrology platform and demonstrated its application across customer deployments, the company now intends to move from a predominantly custom manufacturing approach to more standardised product manufacturing.」（https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/）
+- 日本語対応：
+  - 「Phase3D Expands into Japanese Market Through Strategic Partnership wit」（https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14）
+  - 「Phase3D Expands into Japanese Market Through Strategic Partnership with TNSC」（https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14）
+  - 「“Phase3D’s innovative approach to AM inspection aligns perfectly with our commitment to advanced manufacturing solutions,” says Hirotaka Mangyo, Innovation Division Director of TNSC. “Their metrology-based technology fills a critical need in Japanese market for objective, measurement-based quality assurance in additive manufacturing.”」（https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14）
+  - 「This collaboration gives Japanese manufacturers direct access to Phase3D’s」（https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/）
+  - 「TNSC Innovation Division Director Hirotaka Mangyo points out that “Phase3D’s innovative approach to AM inspection aligns perfectly with our commitment to advanced manufacturing solutions. Their metrology-based technology fills a critical need in the Japanese market for objective, measurement-based quality assurance in additive manufacturing.”」（https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/）
+- 会社の規模：
+  - 「Phase3D closes oversubscribed $2.9 million funding round」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「has closed an oversubscribed funding round, raising $2.9 million to expand capabilities and accelerate software deployment.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” offered Farrell.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「has closed a $2.9 million oversubscribed funding round led by Quest Venture Partners. Alongside the close, Ray Farrell joined the Phase3D board of directors, bringing more than 25 years of experience advising technology companies on intellectual property strategy and commercial growth.」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「The company currently serves 25 enterprise customers across aerospace, defense, and industrial markets. Active collaborations include NASA, the US Air Force, and the US Navy.」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” he stated.」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「any Confidential Information to any of its employees or contractors, except for Representatives who need to know such Phase3D Confidential Information. User shall make sure that such Representatives are subject to duties of confidentiality by internal policies or an individual non-disclosure agreement」（https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k）
+  - 「Non-Disparagement. User agrees that it shall not make disparaging statements oral or written regarding Phase3D or Phase3D’s employees, contractors, technology, products,」（https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k）
+  - 「Phase3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/466695-28）
+  - 「Phase3D Valuation & Funding」（https://pitchbook.com/profiles/company/466695-28）
+  - 「To view Phase3D’s complete valuation and funding history, request access »」（https://pitchbook.com/profiles/company/466695-28）
+  - 「When was Phase3D founded?」（https://pitchbook.com/profiles/company/466695-28）
+  - 「Phase3D was founded in 2020.」（https://pitchbook.com/profiles/company/466695-28）
+- 顧客・用途：
+  - 「Phase3D and Phillips Federal Partner for Defense Manufacturing」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Phase3D and Phillips Federal Partner to Expand Advanced Manufacturing Inspection Across the Defense Market」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Phase3D and Phillips Federal today announced a partnership that will make Phase3D’s advanced manufacturing inspection technology more accessible to defense organizations across North America. Under the agreement, Phillips Federal will serve as Phase3D’s exclusive Channel Partner for the North American defense market.」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「The partnership builds on Phase3D’s existing defense work, including systems deployed with the U.S. Navy’s Additive Manufacturing Center of Excellence in Danville, Virginia, and the Commonwealth Center for Advanced Manufacturing. The Phillips Federal relationship will allow Phase3D to extend that work across more defense organizations and manufacturing locations.」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Biomedical Engineering」（https://creativedestructionlab.com/companies/phase3d/）
+  - 「Energy」（https://creativedestructionlab.com/companies/phase3d/）
+  - 「Aerospace」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「“When the Phase3D opportunity came up, what stood out was the early customer traction. It’s special to have aerospace and automotive prime customers while simultaneously addressing top-level initiatives from the Air Force, Navy, and NASA,” offered Farrell.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Aerospace AM」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「Defense」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「Automotive AM」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「Medical AM」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+- 検索結果の抜粋：
+  - 「Phase3D and Phillips Federal Partner for Defense ... — Phase3D and Phillips Federal Partner for Defense ... Phase3D https://www.phase-3d.com > resources」（https://www.phase-3d.com/blogs/resources/phase3d-phillips-federal-defense-partnership?srsltid=AYCX9vKKr2Kx7FtwrYiRXBA311uEqyEh5h1ud6WRCddm2lZRExjFZaaN）
+  - 「Phase3D - LinkedIn — Phase3D - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/phase-3d）
+  - 「Phase3D - Creative Destruction Lab — Phase3D - Creative Destruction Lab Creative Destruction Lab https://creativedestructionlab.com > p...」（https://creativedestructionlab.com/companies/phase3d/）
+  - 「Phase3D closes oversubscribed $2.9 million funding round — Phase3D closes oversubscribed $2.9 million funding round TCT Magazine https://www.tctmagazine.com > phase...」（https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round/）
+  - 「Software for Additive Manufacturing – Phase3D — Software for Additive Manufacturing – Phase3D Phase3D https://www.phase-3d.com」（https://www.phase-3d.com/?srsltid=AYCX9vKGHz_V20yuqKV4s2XbhFOMlwFg9VenZ-Vruegx0USDY6rdM6NA）
+  - 「Phase3D : Real-time Inspection for Additive Manufacturing — Phase3D : Real-time Inspection for Additive Manufacturing LinkedIn https://www.linkedin.com > posts」（https://www.linkedin.com/posts/ampulse-daily_innovation-ai-startups-activity-7373131831929614336-1wBp）
+  - 「Phase3D raises $2.9M to expand in-situ inspection for metal ... — Phase3D raises $2.9M to expand in-situ inspection for metal ... VoxelMatters https://www.voxelmatters.com > phas...」（https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「Application Software End User License Agreement - Phase 3D — Application Software End User License Agreement - Phase 3D Phase3D https://www.phase-3d.com > pages」（https://www.phase-3d.com/pages/application-software-end-user-license-agreement?srsltid=AYCX9vJfYG1ok7pBbvfy1AweZNFV-KB8iMs457kCqdT3Uvy2mkM7E_6k）
+  - 「Phase3D - Crunchbase Company Profile & Funding — Phase3D - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > phase3d」（https://www.crunchbase.com/organization/phase3d）
+  - 「Phase3D Expands into Japanese Market Through Strategic ... — Phase3D Expands into Japanese Market Through Strategic ... Phase3D https://www.phase-3d.com > resources」（https://www.phase-3d.com/blogs/resources/phase3d-expands-into-japanese-market-through-strategic-partnership-with-tnsc?srsltid=AYCX9vKrjHKyYGgqn6NNUTCTy3OltnSWftxsZK1OT7znc4CdlRq5Kk14）
+  - 「Phase3D and TNSC Join Forces to Shake up Japan's 3D ... — Phase3D and TNSC Join Forces to Shake up Japan's 3D ... 3DPrint.com https://3dprint.com > phase3d-and-tns...」（https://3dprint.com/316121/phase3d-and-tnsc-join-forces-to-shake-up-japans-3d-printing-scene/）
+  - 「Phase3D and DMG MORI Announce Research Collaboration ... — Phase3D and DMG MORI Announce Research Collaboration ... us.dmgmori.com https://us.dmgmori.com > news > adv...」（https://us.dmgmori.com/news-and-media/news/advanced-additive-manufacturing-technology）
+  - 「Phase3D Ushers in New Era of In-Situ Inspection for Metal ... — Phase3D Ushers in New Era of In-Situ Inspection for Metal ... Argonne National Laboratory (.gov) https://chainreaction.anl.gov > phase3...」（https://chainreaction.anl.gov/phase3d-ushers-in-new-era-of-in-situ-inspection-for-metal-additive-manufacturing/）
+  - 「EOS × Phase3D : Fringe Inspection™ for the AM — EOS × Phase3D : Fringe Inspection™ for the AM Phase3D https://www.phase-3d.com > resources」（https://www.phase-3d.com/blogs/resources/eos-phase3d-fringe-inspection%E2%84%A2-for-the-eos-m4-onyx?srsltid=AYCX9vIA5fvUh9C5h582fpzq0CP3AVV_Uqjp0b1aSeDIQjNX6HhXQNs3）
+  - 「Phase3D's Fringe Inspection Technology Eliminates ... — Phase3D's Fringe Inspection Technology Eliminates ... America Makes https://www.americamakes.us > phase...」（https://www.americamakes.us/phase3ds-fringe-inspection-technology-eliminates-guesswork-in-powder-based-am-builds/）
+
+## Sigma Additive PrintRite3D（PrintRite3D）
+- 文脈：造形中の監視・品質保証
+- 再販・パートナー制度：
+  - 「Trumpf LMD Distributors」（https://www.digital-can.com/sigma-labs-printrite3d/）
+  - 「is still a lot of variation part-to-part, run-to-run, and machine-to-」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「process state variables」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Ability to Predict Variations in Part Quality from In-Process Quality Metric Data」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「 In-process data can be used to measure variations in material」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Ability to Predict Variations in Part Quality from In-Process Quality Metric」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「variation」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Ability to Detect Variations in Powder Size, Layer Thickness & Deposit」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Variations in Process/Part Quality」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Same Process Parameters Variation in Layer Thickness」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「“PrintRite3D Version 5.0 resolves this challenge with results comparable and complementary to CT testing. This genuine advance provides value to OEMs and manufacturers, and is designed to increase production yield of 3D metal manufactured parts, cut post-process quality inspection costs and reduce time to market.”」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Sigma Additive Solutions’ PrintRite3D technology employs sensors and software to monitor various aspects of metal laser powder bed fusion (LPBF) machines. Traditionally, internal access for monitoring risked voiding the warranty or required OEM assistance, making Sigma’s direct collaborations with OEMs and aerospace entities through America Makes essential. Newer companies like」（https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/）
+  - 「in various defense and civil aviation programs as well.」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「In effect, Sigma Labs has managed to achieve this by tweaking its platform’s software element, so that it’s capable of translating the signatures of SLS-radiated emissions in a way that enables the real-time monitoring of polymer prints, and provides OEMs with the ability to rapidly identify defects and deliver parts with greater quality assurance.」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「OEM brand-independent」（https://www.excel3d.com/sigma-labs）
+- 料金：
+  - 「America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.」（https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「compared to some of its 3D printing software peers, and it generated just $700,000 in Q3 2021, thus its decision to introduce PrintRite3D into polymer production could be seen as a move to broaden its market base.」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「ADAXIS raises more than €1M to launch its AdaOne 3D printing software」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「Sigma Labs PrintRite3D: Pricing, Reviews & Features 2026 | Manufact...」（https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d）
+- 無料体験：
+  - 「Purpose of study was to demonstrate the ability of PrintRite3D®」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Purpose of test was to demonstrate the ability of PrintRite3D® INSPECT™ software」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Although Ruport says it’s currently “difficult to quantify the size of the market opportunity,” Sigma Labs has already gained two PrintRite3D orders from SLS customers, which he has branded “a fantastic first step into the polymer segment of the market, that demonstrates the need to ensure the quality and consistency of 3D printed parts.”」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「Request a Demo」（https://www.excel3d.com/sigma-labs）
+- 会社の規模：
+  - 「America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「“PrintRite3D 7.0 is a very important release as it provides a competitive advantage for our customers. They can access calibrated melt pool temperature and monitor the cooling rate which means higher quality mission critical parts,” said」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「“PrintRite3D 7.0 has established a new level in technology to ensure the highest quality standard in the 3D metal printing industry and this is paramount to our customers. Most important, Sigma accomplishes this at production scale in an era of increasing part complexity.” said」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.」（https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software）
+  - 「11-50 Employees」（https://www.annualreports.com/Company/sigma-additive-solutions-inc）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「Although Ruport says it’s currently “difficult to quantify the size of the market opportunity,” Sigma Labs has already gained two PrintRite3D orders from SLS customers, which he has branded “a fantastic first step into the polymer segment of the market, that demonstrates the need to ensure the quality and consistency of 3D printed parts.”」（https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/）
+  - 「Founded in 2010,」（https://www.excel3d.com/sigma-labs）
+- 顧客・用途：
+  - 「“PrintRite3D 7.0 is a very important release as it provides a competitive advantage for our customers. They can access calibrated melt pool temperature and monitor the cooling rate which means higher quality mission critical parts,” said」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「“PrintRite3D 7.0 has established a new level in technology to ensure the highest quality standard in the 3D metal printing industry and this is paramount to our customers. Most important, Sigma accomplishes this at production scale in an era of increasing part complexity.” said」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「Aerospace」（https://www.digital-can.com/sigma-labs-printrite3d/）
+  - 「Medical」（https://www.digital-can.com/sigma-labs-printrite3d/）
+  - 「Automotive」（https://www.digital-can.com/sigma-labs-printrite3d/）
+  - 「 Validated by industry leaders GE Aviation and Honeywell Aerospace」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「For the most critical applications like aerospace and defense, there」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「parts to go beyond aerospace, defense and biomedical to」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「automotive and general industrial applications.」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Aerospace Components」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「– Honeywell Aerospace (prime)」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Aerospace」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Medical & Dental」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+- 検索結果の抜粋：
+  - 「Lockheed Martin Selects PrintRite3D for Aerospace 3D ... — Lockheed Martin Selects PrintRite3D for Aerospace 3D ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=KYCPNAS83cE）
+  - 「Sigma Labs Releases PrintRite3D 7.0 Quality Assurance ... — Sigma Labs Releases PrintRite3D 7.0 Quality Assurance ... America Makes https://www.americamakes.us > sigma...」（https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/）
+  - 「SIGMA Labs PrintRite3D ® - Digital-Can Tech — SIGMA Labs PrintRite3D ® - Digital-Can Tech digital-can.com https://www.digital-can.com > sigma-l...」（https://www.digital-can.com/sigma-labs-printrite3d/）
+  - 「PrintRite3D ® - EWI.org — PrintRite3D ® - EWI.org ewi.org PDF https://ewi.org > wp-content > uploads > 2015/11」（https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf）
+  - 「Sigma Labs launches PrintRite3D Version 5.0 at RAPID + TCT — Sigma Labs launches PrintRite3D Version 5.0 at RAPID + TCT 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/）
+  - 「Sigma Additive Sells 3D Printing IP to Become an Online ... — Sigma Additive Sells 3D Printing IP to Become an Online ... 3DPrint.com https://3dprint.com > sigma-additive-s...」（https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Plasmo（Plasmo）
+- 文脈：造形中の監視（WAAM・溶接）
+- 日本の代理店：
+  - 「plasmo Industrietechnik GmbHと代理店契約締結」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「先端エレクトロニクス商社の丸文株式会社（社長：佐藤 敬司、本社：東京都中央区、資本金：」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「リアのplasmo Industrietechnik GmbH（以下プラズモ社）と、国内販売代理店契約を締結し」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「＜丸文株式会社について＞」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「丸文株式会社の詳細については、http://www.marubun.co.jp/ をご覧ください」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「丸文株式会社 レーザ機器部 レーザ機器課」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「丸文株式会社 広報室」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「丸文株式会社では、1月 16 日（水）から18 日（金）の3 日間、東京ビックサイトで開催されます」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+- 再販・パートナー制度：
+  - 「The SW Score ranks the products within a particular category on a variety of parameters, to provide a definite ranking system.」（https://www.saasworthy.com/product/plasmo）
+  - 「The integration and builds are triggered automatically after commissioning of code」（https://www.saasworthy.com/product/plasmo）
+  - 「Environment Variables」（https://docs.plasmo.com/quickstarts/migrate-to-plasmo）
+  - 「Using environment variables in the manifest」（https://docs.plasmo.com/quickstarts/migrate-to-plasmo）
+  - 「If you're currently using environment variables, you can continue to do so in Plasmo.」（https://docs.plasmo.com/quickstarts/migrate-to-plasmo）
+  - 「environment variables out of the box」（https://docs.plasmo.com/quickstarts/migrate-to-plasmo）
+  - 「Environment Variables」（https://docs.plasmo.com/）
+  - 「fix: Set bundle config as internal environment variables by」（https://github.com/PlasmoHQ/plasmo/releases）
+  - 「marginTop:」（https://zenn.dev/nado1001/articles/plasmo-browser-extension）
+  - 「<div class="request" style="margin-top: 20px;">」（https://zenn.dev/nado1001/articles/plasmo-browser-extension）
+  - 「🔵 INFO | Loaded environment variables from: []」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「at the top is required by Plasmo to treat this file as a module. Without it you may get errors about conflicting global variable declarations.」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「The three state variables track the number of open tabs, the number of existing groups, and whether a grouping operation is currently in progress.」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「, which queries Chrome for the current window's tabs and groups, then updates the state variables with the counts.」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「<div style={{ marginBottom: 20 }}>」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+- 料金：
+  - 「Plasmo - Features & Pricing (November 2026)」（https://www.saasworthy.com/product/plasmo）
+  - 「Starts at $30.0. Offers Free-forever plan.」（https://www.saasworthy.com/product/plasmo）
+  - 「$30.00」（https://www.saasworthy.com/product/plasmo）
+  - 「30 Ext Updates/Month」（https://www.saasworthy.com/product/plasmo）
+  - 「$65.00」（https://www.saasworthy.com/product/plasmo）
+  - 「3 Seats/Team (Extra Seats Available)」（https://www.saasworthy.com/product/plasmo）
+  - 「Disclaimer: The pricing details were last updated on 27/10/2023 from the」（https://www.saasworthy.com/product/plasmo）
+  - 「62億1,450万円、以下 丸文）は、溶接プロセスモニタリングシステムメーカーであるオースト」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「資本金 ： 62億1,450万円」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「売上高 ： 2,375億円（2006年3月期連結）」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「Anthropic は 2026-09-22 に Claude Opus 5.5 を公開：Opus 5 比で典型タスクコスト約40%減、価格と安全制限が同時に着地」（https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/）
+  - 「Before you can publish, you'll need a completed and tested extension, a Google account, a $5 USD one-time developer registration fee, and some store assets such as icons, screenshots, and a written description.」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「The $5 fee is a one-time charge (not annual) that Google uses to verify developer identity and reduce spam. It covers unlimited extension submissions and is processed immediately via Google Payments.」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「, sign in with your Google account, accept the Developer Agreement, and pay the $5 registration fee. Your account is activated within minutes.」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「$24.99」（https://www.plasmolab.com/pricing）
+- 無料体験：
+  - 「Free Trial Not Available」（https://www.saasworthy.com/product/plasmo）
+  - 「Schedule a demo」（https://www.saasworthy.com/product/plasmo）
+  - 「Start Free Trial」（https://www.saasworthy.com/product/plasmo）
+  - 「Free Trial」（https://www.saasworthy.com/product/plasmo）
+  - 「Includes features of Free plan, plus,」（https://www.saasworthy.com/product/plasmo）
+  - 「「レーザー＆オプティクス 2008」にてデモンストレーションがご覧いただけます」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「「ProcessObserveｒ」をデモ展示する予定です」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「Demo Video (Optional)」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「Academic Honesty」（https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/542223-01）
+- 日本語対応：
+  - 「RSS Feed (日本語)」（https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/）
+- 会社の規模：
+  - 「Founded : 2022」（https://www.saasworthy.com/product/plasmo）
+  - 「従業員 ： 1,181名（2007年3月末連結）」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「Plasmotion 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Plasmotion was founded in 2022.」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Plasmotion has 13 total employees.」（https://pitchbook.com/profiles/company/542223-01）
+- 顧客・用途：
+  - 「Customer Stories」（https://github.com/plasmohq/plasmo）
+  - 「Customer support」（https://github.com/plasmohq/plasmo）
+  - 「Used by」（https://github.com/plasmohq/plasmo）
+  - 「Customers」（https://www.saasworthy.com/product/plasmo）
+  - 「Want more customers?」（https://www.saasworthy.com/product/plasmo）
+  - 「プラズモ社の製品はヨーロッパの自動車、航空機産業を始め、各種加工機メーカーなどに」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「丸文ではこのシステムを自動車メーカーを中心に販売していく考えです」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「評があり、欧州自動車メーカに多くの採用実績を持つ」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「Customer Stories」（https://github.com/PlasmoHQ/plasmo/releases）
+  - 「Customer support」（https://github.com/PlasmoHQ/plasmo/releases）
+  - 「採用事例は調査対象を見つける参考になりますが、利用者数だけではフレームワークの信頼性や追加開発の量は分かりません」（https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/）
+  - 「Customer Stories」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Customer Success」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Emerging tech research on AI, healthcare, energy, and more」（https://pitchbook.com/profiles/company/542223-01）
+  - 「Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.」（https://pitchbook.com/profiles/company/542223-01）
+- 検索結果の抜粋：
+  - 「Plasmo - Features & Pricing (October 2026) - SaaSworthy — Plasmo - Features & Pricing (October 2026) - SaaSworthy SaaSworthy https://www.saasworthy.com > plasmo」（https://www.saasworthy.com/product/plasmo）
+  - 「溶接プロセスモニタリングシステムメーカー plasmo ... - 丸文 — 溶接プロセスモニタリングシステムメーカー plasmo ... - 丸文 丸文株式会社 PDF https://www.marubun.co.jp > 080111PLASMO」（https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf）
+  - 「2025年ブラウザ拡張フレームワークの現状： Plasmo 、WXT — 2025年ブラウザ拡張フレームワークの現状： Plasmo 、WXT redreamality.com https://redreamality.com > blog > the-2025-state-of-brows...」（https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/）
+  - 「Plasmo - 2026 Company Profile & Team - Tracxn — Plasmo - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/plasmo/__Beq0NIW92zjWJdLpEsoer9BpFNB9fRgxppsmEtFpGy0）
+
+## Volume Graphics（Volume Graphics）
+- 文脈：CT検査・品質保証
+- 日本の代理店：
+  - 「My name is Junichi Satoh, I am a Computed Tomography Application Scientist. I hold a PhD from Tokyo University of Agriculture in Bioscience and have been with Rigaku for 6 years. I have a Chihuahua, Rin, and I enjoy hiking and camping.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「JAPAN TESTING LABORATORIES 株式会社」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「© アプライド株式会社 All Rights Reserved.」（https://mfrdx.applied-g.com/catalogue_list/sciencetech/catalogue_list-6629/）
+  - 「＊他のソフトウェアはソフトウェアメーカーおよび日本販売代理店にサポートを依頼しております」（https://rigaku.com/ja/products/imaging-ndt/x-ray-ct/analysis-software）
+- 再販・パートナー制度：
+  - 「Volume Graphics Software - Reseller - Jesse Garant Metrology ®」（https://jgarantmc.com/software/volume-graphics/）
+  - 「Freeware & Reseller Sales」（https://jgarantmc.com/software/volume-graphics/）
+  - 「Protein and small molecule crystallography and various imaging instruments for life science research​」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Find a Distributor」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Find a Rigaku distributor in your area​」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「VGSTUDIO was the first CT analysis software I learned to use five years ago, and it still is the main one I use daily. It is a comprehensive tool with various analysis modules, but there are good and not-so-good fits for this product like any other CT analysis and CT processing software.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Volume Graphics offers various products, including VGSTUDIO MAX, VGSTUDIO, VGMETROLOGY, VGinLINE, and myVGL. Each is optimized for different needs, such as research and development, failure analysis, and process control, including data collection and reporting automation. In this article, I will review VGSTUDIO MAX, the high-end software for analyzing and visualizing industrial CT data.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「VGSTUDIO MAX uses the ISO-50 principle and further refines the surface determination by allowing detailed adjustments. For example, a uniform object can exhibit varying gray levels due to artifacts. This is accounted for in the surface determination process.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「The Scene tree has various benefits:」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Although you can use VGSTUDIO MAX to perform various material analyses such as void distribution and fiber orientation calculation, these analyses involve many parameters to optimize, and the learning curve is rather steep.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「You can contact the distributor in your area and request a quotation (」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「list of distributors」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「. Configuring VGSTUDIO MAX can be an overwhelming process. I recommend you talk to a local distributor (Rigaku is a distributor) or a」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「to use the trial license. You will also need to invest some time in learning how to use it. Alternatively, you can ask a distributor or a」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+- 料金：
+  - 「Contact us to learn more about the softare, obtain a 30 day demo seat prior to purchase, or to request a competitive software quote for your industrial CAT Scan application.」（https://jgarantmc.com/software/volume-graphics/）
+  - 「Eka Robotics Secures $150 Million to Advance Physical AI」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+  - 「The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+  - 「North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to new data released by the Association for Advancing Automation (A3). Orders increased 24.8% in units and 26.1% in value compared to the third quarter of 2025, making it the strongest quarter of the year so far.」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+  - 「To minimise costs should your dongle become lost or stolen, we offer the Dongle License Protection with a 12-month term. In the event of loss, we will provide you with a new dongle and a new license for the remaining term for a fee of 2% of the original list price of the software plus the applicable VAT per month or part thereof and a fixed handling fee.」（https://volumegraphics.hexagon.com/en/products/licensing-options.html）
+  - 「Every new license includes a mandatory one-year update/service agreement. Thanks to priority customer support, you can enjoy immediate access to the latest software versions (typically 4 releases/year) and tackle unexpected challenges in your daily with our dedicated VG support team.」（https://volumegraphics.hexagon.com/en/products/licensing-options.html）
+  - 「■当社販売価格 （ドングルライセンス／2024年1月1日現在）」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「¥5,679,100 ¥5,347,000 ¥6,342,400 ¥6,342,400 ¥7,007,700 ¥12,233,700 ¥2,949,200」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「¥926,800 ¥872,600 ¥1,035,000 ¥1,035,000 ¥1,143,600 ¥1,996,300 ¥406,800」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「¥4,151,400」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「¥677,500」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「3Dビューで矩形、楕円、投げ縄などの直感的なツールを使って、複数のCAD面を簡単に選択できます」（https://volumegraphics.hexagon.com/jp/products/vgstudio-max.html）
+  - 「﻿矩形3Dと楕円3DのROI作成」（https://volumegraphics.hexagon.com/jp/products/vgstudio-max.html）
+  - 「＂矩形3D＂と＂楕円3D＂のROI作成機能で、全く新しいインタラクティブな関心領域（ROI）の作成を体験できます」（https://volumegraphics.hexagon.com/jp/products/vgstudio-max.html）
+  - 「使いやすい機能により、3Dビューで単純プリミティブ（矩形や楕円）を使い、ボリュームROIを作成できます」（https://volumegraphics.hexagon.com/jp/products/vgstudio-max.html）
+- 無料体験：
+  - 「Trial Licenses」（https://volumegraphics.hexagon.com/）
+  - 「Request Trial Licenses」（https://volumegraphics.hexagon.com/）
+  - 「Get your free trial」（https://volumegraphics.hexagon.com/）
+  - 「Request evaluation license」（https://volumegraphics.hexagon.com/）
+  - 「VGSTUDIO is an ideal choice for visual quality inspection in industrial applications. Like in the automotive industry, but also for the visualization of data in fields of academic research.」（https://jgarantmc.com/software/volume-graphics/）
+  - 「Contact us to learn more about the softare, obtain a 30 day demo seat prior to purchase, or to request a competitive software quote for your industrial CAT Scan application.」（https://jgarantmc.com/software/volume-graphics/）
+  - 「Academic Research」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「4-week free trial」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「for VGSTUDIO MAX. I recommend you get the trial license and take a look. You will need a computer meeting their」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「to use the trial license. You will also need to invest some time in learning how to use it. Alternatively, you can ask a distributor or a」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「to give you a demonstration.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Whether you're interested in getting a quote, want a demo, need technical support, or simply have a question, we're here to help.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Request evaluation license - Forms」（https://volumegraphics.hexagon.com/en/forms/request-trial-license.html）
+  - 「Trial Licenses」（https://volumegraphics.hexagon.com/en/forms/request-trial-license.html）
+  - 「Request Trial Licenses」（https://volumegraphics.hexagon.com/en/forms/request-trial-license.html）
+- 日本語対応：
+  - 「Fluffy cream puffs, crispy croissants: texture is what makes food delicious. Japanese ingredients manufacturer Tsukishima Food Industries uses industrial CT and VGSTUDIO MAX to turn texture from a matter of taste into hard data.」（https://volumegraphics.hexagon.com/）
+- 会社の規模：
+  - 「Kreon Technologies has introduced ANEMO, a new 3D laser scanner designed for its Onyx portable measuring arm. The scanner combines high-speed data acquisition with fine resolution and a stated accuracy of 12 µm, targeting the inspection of complex components with tight tolerances.」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+  - 「The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+  - 「K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement」（https://metrology.news/volume-graphics-launches-new-ai-training-tool-as-hexagon-completes-brand-integration/）
+  - 「: Free viewer for CT data that allows vgl projects and analyses created using VGStudio MAX or VGStudio to be viewed interactively in detail with annotating ability. The Pack & Go functionality provides data reduction of up to 90%, allowing CT results to be easily shared with customers and colleagues.」（https://www.cairnhill.com/OurPrincipalsDetail/Volume-Graphics）
+  - 「Hexagon (Nasdaq Stockholm: HEXA B) has approximately 20,000 employees in 50 countries and net sales of approximately 3.8bn EUR. Learn more at」（https://hexagon.com/about/news-media/press-releases/1749392/hexagon-broadens-its-smart-factory-solutions-portfolio-with-the-acquisition-of-volume-graphics）
+  - 「kallan advises Hemsö in the acquisition of a school property at Universitätsallee 16 in Bremen」（https://www.kallan-legal.de/en/news/hexagon-acquires-volume-graphics）
+- 顧客・用途：
+  - 「Our customers」（https://volumegraphics.hexagon.com/）
+  - 「Aerospace」（https://volumegraphics.hexagon.com/）
+  - 「Automotive」（https://volumegraphics.hexagon.com/）
+  - 「High Energy」（https://jgarantmc.com/software/volume-graphics/）
+  - 「All of the analyses and analysis results created by our Quality Engineers using Volume Graphics software can be viewed by the inquiring individual or end customer with the myVGL viewing software.」（https://jgarantmc.com/software/volume-graphics/）
+  - 「VGSTUDIO is an ideal choice for visual quality inspection in industrial applications. Like in the automotive industry, but also for the visualization of data in fields of academic research.」（https://jgarantmc.com/software/volume-graphics/）
+  - 「Energy dispersive X-ray fluorescence spectrometers for elemental analysis ​」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Devices that detect changes in thermal energy that occur within a sample when it is heated or cooled」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Material analysis equipment that detects mass changes and thermal energy changes occurring with a sample」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Environment & Energy」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Customer Training」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Customer training schedule and e-learning courses」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「In this article, I will address the following questions customers often ask me when considering VGSTUDIO.」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Cast & Mold: For casting and injection molding; eg., the automotive and aerospace industries」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+  - 「Cast & Mold Extended: For aluminum casting, mainly for the automotive industry」（https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/blog/ct-analysis-software-review-vgstudio）
+- 検索結果の抜粋：
+  - 「VGSTUDIO MAX - JAPAN TESTING LABORATORIES — VGSTUDIO MAX - JAPAN TESTING LABORATORIES JAPAN TESTING LABORATORIES PDF https://jtla.co.jp > news > VG_Sales_2024」（https://jtla.co.jp/news/VG_Sales_2024.pdf）
+  - 「Volume Graphics 社がCT解析ソフトウェア群のv2025.1を ... — Volume Graphics 社がCT解析ソフトウェア群のv2025.1を ... CAD Japan.com https://www.cadjapan.com > ニュース > 2025年」（https://www.cadjapan.com/news/2025/d20250414_01.html）
+  - 「3次元画像解析ソフト「VGSTUDIO MAX」動作推奨PC — 3次元画像解析ソフト「VGSTUDIO MAX」動作推奨PC mfrdx.applied-g.com https://mfrdx.applied-g.com > カタログ」（https://mfrdx.applied-g.com/catalogue_list/sciencetech/catalogue_list-6629/）
+  - 「What's new in VGSTUDIO MAX 2025.4 - YouTube — What's new in VGSTUDIO MAX 2025.4 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=HuwDwT0X41I）
+  - 「Volume Graphics releases CT analysis software v2025.1 with ... — Volume Graphics releases CT analysis software v2025.1 with ... Engineering.com https://www.engineering.com > volu...」（https://www.engineering.com/volume-graphics-releases-ct-analysis-software-v2025-1-with-vgtrainer/）
+
+## AMFG（AMFG）
+- 文脈：生産管理（AM向けMES）
+- 日本の代理店：
+  - 「株式会社システムクリエイト、製造業ソリューションソフトウェアのAMFG社と日本市場での代理店契約を締結 | 株式会社システムクリエイトのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「株式会社システムクリエイト」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「株式会社システムクリエイト、製造業ソリューションソフトウェアのAMFG社と�日本市場での代理店契約を締結」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「■会社名：株式会社システムクリエイト」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「株式会社システムクリエイト、製造業ソリューションソフトウェアのAMFG社と日本市場での代理店契約を締結」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+- 再販・パートナー制度：
+  - 「Enterprise OEM」（https://www.amfg.ai/pricing）
+  - 「Referrals」（https://www.amfg.ai/pricing）
+  - 「Flexible plans for everyone, from 5-person job shops to multinational OEM's」（https://www.amfg.ai/pricing）
+  - 「Quote a typical 3D print in both products with your real materials and margins.」（https://www.autoquote3d.com/compare/amfg）
+  - 「© Intel Corporation. Intel technologies may require enabled hardware, software or service activation. // No product or component can be absolutely secure. // Your costs and results may vary. // Performance varies by use, configuration and other factors. // See our complete legal」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「Enterprise OEM」（https://www.amfg.ai/）
+  - 「Referrals」（https://www.amfg.ai/）
+  - 「OEM Manufacturers」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「. For more complex cases, we offer dedicated support that’s invested in your shop's success. Once you’re set up, you’ll stay in control of your pricing algorithm with direct access to all variables.」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「Resellers and Distributors」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「Varies by plan」（https://www.phas.io/competitors/phasio-vs-amfg）
+  - 「Keep more margin per job.」（https://www.phas.io/competitors/phasio-vs-amfg）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/100721-17）
+  - 「Enterprise OEM」（https://www.amfg.ai/post/amfg-receives-innovate-uk-funding-to-develop-ai-software-solutions-for-additive-manufacturing）
+  - 「Referrals」（https://www.amfg.ai/post/amfg-receives-innovate-uk-funding-to-develop-ai-software-solutions-for-additive-manufacturing）
+- 料金：
+  - 「Starter $25/month, Professional $50, Service Bureau $175. No cut of orders.」（https://www.autoquote3d.com/compare/amfg）
+  - 「The pricing page lists Quoting, and Quoting & Production, and it does not show a dollar amount. The FAQ says onboarding has an additional one-off charge, then a customer success manager. AutoQuote3D lists Starter, Professional, and Service Bureau below, from the same catalog as the pricing page. You can set up a Business and quote a Part before you pay.」（https://www.autoquote3d.com/compare/amfg）
+  - 「Don't take your public quote link down while you test. Price a real job and finish an order first. For AutoQuote3D setup, see our」（https://www.autoquote3d.com/compare/amfg）
+  - 「They publish an MCP server for ChatGPT, Claude, and other MCP-compatible tools, and Sentinel as an AI quoting assistant. The pricing page says their team can set up bespoke APIs. We did not find a public OpenAPI document. AutoQuote3D publishes OpenAPI, an MCP server, an official Claude connector, and an official ChatGPT app.」（https://www.autoquote3d.com/compare/amfg）
+  - 「AutoQuote3D pricing and product FAQ」（https://www.autoquote3d.com/compare/amfg）
+  - 「AMFG Receives $8.5 Million in Funding Led by Intel Capital to Drive the Future of Fully Autonomous Manufacturing – Intel Capital」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「AMFG Receives $8.5 Million in Funding Led by Intel Capital to Drive the Future of Fully Autonomous Manufacturing」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「“Considering our 3D printing volumes of thousands of parts per year, investing in an additive MES has been a natural step for us,” explains Matthew Forrester, Additive Technical Manager at L'Oréal, the world’s leading cosmetics brand. “We chose AMFG for its vast functionality and the ability to customize it to our needs.”」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「OXMIQ Raises $35 Million to Scale OxCoreTM Architecture」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「QuantWare Raises $178 Million to Build World’s Most Powerful Quantum Processors at an Industrial Scale」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「2D ・ 3D 図面に基づいて正確な価格設定を提供するよう独自に設計された幾何学的価格設定エンジンを使用して、CNC加工の効率​​を高めます」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「1000万円」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「DigiFabster’s customer support team works with each customer to optimize their success, addresses support inquiries within just 1-2 hours, and provides fair subscription terms without locking you into lengthy and unsatisfactory relationships.」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「We’ve managed over $500M (USD) combined order value with world-class manufacturers」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「Starts at $195 /month (unlimited users)」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+- 無料体験：
+  - 「Book a demo with our team and find out how our solutions can help your business grow.」（https://www.amfg.ai/pricing）
+  - 「Book a Demo」（https://www.amfg.ai/pricing）
+  - 「You can set up a shop and try a quote without paying. Taking customer payments needs a plan or the 14-day trial. We do not take a cut of orders. Stripe still charges their processing fee.」（https://www.autoquote3d.com/compare/amfg）
+  - 「Used and Demo 3D Printers for Sale」（https://advancedtek.com/amfg-software-user-terms-of-agreement/）
+  - 「Video Demo」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「Book demo」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「Free trial」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「Free Trial?」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「4. Free Trial」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「free trials, forcing you to sign multi-year contracts and pay heavy fees before truly experiencing the software on your actual RFQs」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「Start your free trial of Uptool today.」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「Start 14-day free trial」（https://www.phas.io/competitors/phasio-vs-amfg）
+  - 「Start free trial」（https://www.phas.io/competitors/phasio-vs-amfg）
+  - 「Most shops are quoting through Phasio within a week, and you can start a 14-day self-serve trial without a sales call. Phasio is designed to be fast to onboard and fast to use day to day.」（https://www.phas.io/competitors/phasio-vs-amfg）
+  - 「Yes. Start a 14-day self-serve trial and validate fit before rollout.」（https://www.phas.io/competitors/phasio-vs-amfg）
+- 会社の規模：
+  - 「F123 Composite-Ready Series」（https://advancedtek.com/amfg-software-user-terms-of-agreement/）
+  - 「J8 Series」（https://advancedtek.com/amfg-software-user-terms-of-agreement/）
+  - 「AMFG Receives $8.5 Million in Funding Led by Intel Capital to Drive the Future of Fully Autonomous Manufacturing – Intel Capital」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「AMFG Receives $8.5 Million in Funding Led by Intel Capital to Drive the Future of Fully Autonomous Manufacturing」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「2014年の設立以来、見積作成、受発注・在庫管理など、MRP分野で幅広い層の顧客からの評価を受け、急成長中の企業です」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「2014年にロンドンで設立され、企業の時間を最適化し、コストを削減するお手伝いをすることから始まりました」（https://prtimes.jp/main/html/rd/p/000000255.000140772.html）
+  - 「DigiFabster’s intuitive storefront and world-class UX gives your customers a full Shopify-like experience, reduces distractions, and achieves a high conversion rate of 25%.」（https://digifabster.com/comparison/digifabster-vs-amfg/）
+  - 「"It really cut our time down... we’ve been able to make a lot of customers happy... instead of them waiting for 3 days to get a quote, we can get it out same-day"」（https://uptool.com/resources/uptool-vs.-paperless-parts-vs.-amfg-choosing-the-right-quoting-software）
+  - 「We migrate your customers, parts, and pricing. Typical switch: 1–2 weeks.」（https://www.phas.io/competitors/phasio-vs-amfg）
+  - 「AMFG 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/100721-17）
+  - 「7. Later Stage VC (Series A)」（https://pitchbook.com/profiles/company/100721-17）
+  - 「The Innovate UK funding builds on AMFG’s comprehensive workflow management/MES software, which includes request submission, production management and post-processing management. With an eye towards the production of end-use parts, the funding will be put towards 2 key areas of AM production:」（https://www.amfg.ai/post/amfg-receives-innovate-uk-funding-to-develop-ai-software-solutions-for-additive-manufacturing）
+  - 「Imperial College London and manufacturing software company AMFG have received funding from Innovate UK to advance autonomous 3D printing.」（https://www.imperial.ac.uk/news/243291/imperial-amfg-innovate-uk-funding-deliver/）
+  - 「The funding, delivered through a management Knowledge Transfer Partnership (mKTP), will go towards developing software that allows machines such as those used for 3D printing to function entirely independently.」（https://www.imperial.ac.uk/news/243291/imperial-amfg-innovate-uk-funding-deliver/）
+  - 「The Partnership will produce software that includes automated order management, integration with all major 3D printers, post-production management, and shipping and labelling. To do this, they will run a series of research and development initiatives that develop new solutions for each part of the workflow.」（https://www.imperial.ac.uk/news/243291/imperial-amfg-innovate-uk-funding-deliver/）
+- 顧客・用途：
+  - 「Aerospace & Defence」（https://www.amfg.ai/pricing）
+  - 「Automotive」（https://www.amfg.ai/pricing）
+  - 「Customers」（https://www.amfg.ai/pricing）
+  - 「In-App Customer Communication」（https://www.amfg.ai/pricing）
+  - 「Customer Success Rep」（https://www.amfg.ai/pricing）
+  - 「AMFG’s onboarding team guides you through the onboarding process. A dedicated Customer Success Manager will then be assigned post onboarding. There is an additional, one-off charge for your onboarding.」（https://www.amfg.ai/pricing）
+  - 「Aerospace and Defence」（https://www.amfg.ai/pricing）
+  - 「How customers buy」（https://www.autoquote3d.com/compare/amfg）
+  - 「The pricing page lists Quoting, and Quoting & Production, and it does not show a dollar amount. The FAQ says onboarding has an additional one-off charge, then a customer success manager. AutoQuote3D lists Starter, Professional, and Service Bureau below, from the same catalog as the pricing page. You can set up a Business and quote a Part before you pay.」（https://www.autoquote3d.com/compare/amfg）
+  - 「You can set up a shop and try a quote without paying. Taking customer payments needs a plan or the 14-day trial. We do not take a cut of orders. Stripe still charges their processing fee.」（https://www.autoquote3d.com/compare/amfg）
+  - 「Customer quoting vs live printer connections」（https://www.autoquote3d.com/compare/amfg）
+  - 「Case study」（https://www.autoquote3d.com/compare/amfg）
+  - 「Form 4B & Form 4BL Medical」（https://advancedtek.com/amfg-software-user-terms-of-agreement/）
+  - 「Medical, Pharma & Food Materials」（https://advancedtek.com/amfg-software-user-terms-of-agreement/）
+  - 「Medical Materials」（https://advancedtek.com/amfg-software-user-terms-of-agreement/）
+- 検索結果の抜粋：
+  - 「AutoQuote3D vs AMFG | 3D Printing Software — AutoQuote3D vs AMFG | 3D Printing Software AutoQuote3D https://www.autoquote3d.com > amfg」（https://www.autoquote3d.com/compare/amfg）
+  - 「AMFG Software Reviews, Demo & Pricing - 2026 — AMFG Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > 51...」（https://www.softwareadvice.com/product/510786-AMFG/）
+  - 「AMFG Receives $8.5 Million in Funding Led by Intel Capital to ... — AMFG Receives $8.5 Million in Funding Led by Intel Capital to ... Intel Capital https://www.intelcapital.com > amfg-r...」（https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/）
+  - 「AMFG Reviews, Prices & Ratings | GetApp UK 2026 — AMFG Reviews, Prices & Ratings | GetApp UK 2026 GetApp UK https://www.getapp.co.uk > ... > AMFG」（https://www.getapp.co.uk/software/2078568/amfg）
+  - 「AMFG 2026 Company Profile: Valuation, Funding & Investors — AMFG 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/100721-17）
+  - 「AMFG - 2026 Company Profile & Team - Tracxn — AMFG - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/amfg/__5Yd68udZ-s-fFjSvho26N9G1YF4rGM_2QuJfP9sYOLk）
+  - 「AMFG secures 8.5m USD investment; appoints Intel Capital's ... — AMFG secures 8.5m USD investment; appoints Intel Capital's ... TCT Magazine https://www.tctmagazine.com > amfg-...」（https://www.tctmagazine.com/amfg-8-5m-usd-investment-intel-capital-jennifer-ard-board/）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Authentise（Authentise）
+- 文脈：生産管理（AM向けワークフロー）
+- 再販・パートナー制度：
+  - 「"Authentise understood our varied needs immediately. We have a dozen additive locations making prototypes, and a couple that are moving into production. We wanted one system to manage it all - and Authentise provided."」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Authentise Material Management digitizes every step of material tracking and genealogy. Visual material flow charts, real-time batch details and QR tracking (available on various devices) illustrate full traceability – from material actions like sieving and blending to automated recorders and machine associations.」（https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/）
+  - 「That emphasis on data and knowledge capture reflects a growing need across manufacturing: to retain expertise and ensure continuity. “A lot of folks have this problem of tribal knowledge just being lost,” Wegner said. “Knowledge capture has a variety of reasons. It’s about compliance, efficiency, and making sure people can learn from each other.”」（https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/）
+  - 「. We may, from time to time, make additional written and oral forward-looking statements, including statements contained in the company's filings with the Securities and Exchange Commission and our reports to shareholders. We do not undertake to update any forward-looking statement that may be made from time to time by us or on our behalf.」（https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/）
+  - 「"Authentise understood our varied needs immediately. We have a dozen additive locations making prototypes, and a couple that are moving into production. We wanted one system to manage it all - and Authentise provided."」（https://www.authentise.com/company-about-us/pricing）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities）
+  - 「Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.」（https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/）
+- 料金：
+  - 「Save up to $48」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding」（https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/）
+  - 「Participating members can claim a $500 @Program Cost Share credit once the Spotlight is published.」（https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/）
+  - 「We offer excellent deployment and training support for all our products. Along with the license fees, we charge a Setup Fee. To share the risk of that setup and to give you a taste of the platform before fully committing, we only charge 50% of the setup fee upfront. The remaining amount and the License Fee are due upon full acceptance, emphasizing our commitment to helping you grow.」（https://www.authentise.com/company-about-us/pricing）
+  - 「. Prices starting from $2,500 per month plus set-up fee.」（https://www.authentise.com/company-about-us/pricing）
+  - 「. Prices starting from $1,900 (as Flow add-on) per month plus set-up fee.」（https://www.authentise.com/company-about-us/pricing）
+  - 「Material Management is charged based on a flat annual fee, starting at $26,000 per year plus set-up.」（https://www.authentise.com/company-about-us/pricing）
+  - 「RFQ Responder is charged in Tiers (up to 250, 500, etc), based on number of quotes issued per month, starting from $1,180 plus set-up fee.」（https://www.authentise.com/company-about-us/pricing）
+  - 「Pricing starts from $14.99 per month.」（https://www.authentise.com/company-about-us/pricing）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/）
+  - 「, a Philadelphia-headquartered digital workflow management company, worked with Boeing to deploy an AI-assisted documentation tool that Boeing estimates will save approximately $8 million in engineering costs in its first year of deployment.」（https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/）
+  - 「$8 million in projected savings at Boeing」（https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/）
+  - 「Founding General Counsel and COO of multiple energy companies, each worth >$500m」（https://www.authentise.com/company-about-us）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/）
+- 無料体験：
+  - 「Request a demo」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Request a demo」（https://www.authentise.com/company-about-us/pricing）
+  - 「Get Your Tailored Demo」（https://www.authentise.com/）
+  - 「Watch a Demo」（https://www.authentise.com/）
+  - 「Request a demo」（https://www.authentise.com/company-about-us）
+  - 「BOOK A DEMO」（https://www.authentise.com/company-about-us）
+  - 「30-Minute Flows Demo | Authentise」（https://www.authentise.com/service-page/flows-demo）
+  - 「30-Minute Flows Demo」（https://www.authentise.com/service-page/flows-demo）
+  - 「Experience the power of our innovative software with a free Flows demo from Authentise. Our team will walk you through the features and capabilities of our SaaS platform, giving you a firsthand look at how our technology can streamline your workflow and improve efficiency. Schedule your demo today and see the future of digital manufacturing in action.」（https://www.authentise.com/service-page/flows-demo）
+  - 「CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production」（https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities）
+  - 「The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.」（https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities）
+  - 「Academic Advising Software」（https://getlatka.com/companies/authentise.com）
+  - 「, Authentise will develop and demonstrate multiple verification data streams, which will be integrated into the Cyber-Physical Passport developed by CyManII. Authentise claims that this will improve cyber security and enhance the ability of manufacturers to improve reliability and quality assurance.」（https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/）
+  - 「The Blockchain Approach for Supply Chain Additive Manufacturing Parts (BASECAMP) project leveraged SIMBA’s platform, demonstrating a blockchain approach for the registration and tracking of 3D printed throughout their lifecycle.」（https://3dprintingindustry.com/news/authentise-to-advance-digital-thread-for-additive-manufacturing-with-three-new-grants-228622/）
+- 会社の規模：
+  - 「America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding」（https://www.americamakes.us/authentise-powers-the-digital-thread-for-additive-manufacturing/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/）
+  - 「Fortune 500 Customers」（https://www.authentise.com/）
+  - 「The company was founded in 2012 in San Francisco and operates offices in Philadelphia, London and Kiev with 18 full time employees. For more information, see」（https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution）
+  - 「2万4,800 employees」（https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution）
+  - 「Hexagon（ナスダック・ストックホルム: HEXA B）は、50か国に約16,000人の従業員を擁し、年間売上高は約37億ユーロです」（https://hexagon.com/ja/about/news-media/press-releases/2021/hexagon-authentise-deliver-first-open-end-end-software-solution）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/）
+  - 「The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.」（https://www.tctmagazine.com/authentise-app-additive-manufacturing-workflow-management/）
+  - 「is available today, while Authentise Flows will be generally available in 2023. An early adopter program is now open for customers with a particular interest in driving agile operations into their engineering and manufacturing operations, and realizing near triple-digit productivity improvements.」（https://www.additivemanufacturing.media/products/authentise-flows-workflow-software-features-expanded-capabilities）
+  - 「Authentise, Inc. Revenue 2025: $3.9M Est.」（https://getlatka.com/companies/authentise.com）
+  - 「Authentise, Inc. has not published its revenue. GetLatka estimates it at about $3.9M a year (September 2025).」（https://getlatka.com/companies/authentise.com）
+  - 「Peter Wener founded Authentise, Inc. and runs it as CEO. Authentise, Inc. had 35 employees (September 2024, Product Hunt).」（https://getlatka.com/companies/authentise.com）
+  - 「employees in September 2024, according to Product Hunt.」（https://getlatka.com/companies/authentise.com）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/）
+- 顧客・用途：
+  - 「Defence and Aerospace」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Medical」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Automotive」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Customer Stories」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Features like the Model Library make it immediate and reliable to reorder parts for production, based on CAD and print parameters. For customer showcase or lab testing, just pick and choose.」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Now, custom automated reports can be downloaded with a single click or sent directly to customers. Filter by processing step or user change, it’s never been easier to learn from your operations.」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Medical & FDA」（https://www.authentise.com/solutions/flows/mes-oem）
+  - 「Energy, Manufacturing and Resources」（https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/）
+  - 「Aerospace & Defense」（https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/）
+  - 「Automotive」（https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/）
+  - 「Medical Devices」（https://www.wipro.com/newsroom/press-releases/2016/wipro-partners-with-authentise-to-offer-additive-manufacturing-s/）
+  - 「Defence and Aerospace」（https://www.authentise.com/company-about-us/pricing）
+  - 「Medical」（https://www.authentise.com/company-about-us/pricing）
+  - 「Automotive」（https://www.authentise.com/company-about-us/pricing）
+  - 「Customer Stories」（https://www.authentise.com/company-about-us/pricing）
+- 検索結果の抜粋：
+  - 「Authentise Software Pricing , Alternatives & More 2026 | Capterra — Authentise Software Pricing , Alternatives & More 2026 | Capterra Capterra https://www.capterra.com > Authentise」（https://www.capterra.com/p/267272/Authentise/）
+  - 「AMAA 2026: Authentise Targets Technical Data Package ... — AMAA 2026: Authentise Targets Technical Data Package ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685/）
+  - 「Authentise - Develop3D Live — Authentise - Develop3D Live Develop3D Live https://develop3dlive.com > authentise」（https://develop3dlive.com/exhibitor/authentise/）
+  - 「Hexagon and Authentise partner to deliver first open end-to ... — Hexagon and Authentise partner to deliver first open end-to ... CIM Data https://www.cimdata.com > item > 15...」（https://www.cimdata.com/zh/industry-summary-articles/item/15620-hexagon-and-authentise-partner-to-deliver-first-open-end-to-end-software-solution-for-additive-manufacturing）
+  - 「Authentise Software Pricing, Alternatives & More 2026 | Capterra — Authentise Software Pricing, Alternatives & More 2026 | Capterra Capterra https://www.capterra.com > Authentise」（https://www.capterra.com/p/267272/Authentise/）
+  - 「30-Minute Flows Demo - Authentise — 30-Minute Flows Demo - Authentise Authentise https://www.authentise.com > flows-d...」（https://www.authentise.com/service-page/flows-demo）
+  - 「Authentise , Inc. Revenue 2025: $3.9M Est. - GetLatka — Authentise , Inc. Revenue 2025: $3.9M Est. - GetLatka GetLatka https://getlatka.com > authentise」（https://getlatka.com/companies/authentise.com）
+  - 「Authentise awarded 3 grants to advance 3D printing lattices ... — Authentise awarded 3 grants to advance 3D printing lattices ... TCT Magazine https://www.tctmagazine.com > authe...」（https://www.tctmagazine.com/authentise-awarded-grants-3d-printing-lattices-measurement-remanufacturing/）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## 3YOURMIND（3YOURMIND）
+- 文脈：生産管理・部品の選定
+- 日本の代理店：
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+- 再販・パートナー制度：
+  - 「3DBAVARIA」（https://www.3yourmind.com/partners）
+  - 「3YOURMIND Authorized Resellers」（https://www.3yourmind.com/partners）
+  - 「Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.」（https://www.3yourmind.com/partners）
+  - 「OEMメーカー、運用会社、受託製造メーカーは、認定部品のデジタル在庫を構築することで、コスト削減、生産リードタイムの短縮、より効率的で俊敏なオペレーションの実現が可能となります」（https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023）
+  - 「This software supports both internal production facilities and contracted on-demand manufacturing services, ensuring smooth operations and high-quality output across various production environments. By integrating your processes, you can improve collaboration, reduce errors, and enhance overall productivity.」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「新しいOEMや材料メーカーが業界に参入したことで、積層造形プロセスのフロントエンドとバックエンドをつなぐ信頼性の高いソフトウェアの必要性が高まった」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「これは、複数の施設や海外拠点で事業を展開している多くの大手OEMや政府保護機関にとって、戦略的にに不可欠なものである」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「3YOURMINDのAMワークフローソフトウェアの機能を使えば、OEM企業は資産をデジタル化し、AMに対応した部品を特定し、コスト効率の高いソリューションを迅速に評価して、すべてのステークホルダーに即座に答えを導き出すことができる」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/169025-59）
+  - 「. OEMs, operating companies, and contract manufacturers can create digital inventories of qualified parts to」（https://www.3yourmind.com/about-us）
+  - 「many OEM’s. “ The ability to produce parts on demand is a crucial advantage for」（https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf）
+- 料金：
+  - 「3YOURMIND, software provider in additive manufacturing, raises $12.4M in a continued series A+ round. The funding will fuel the company’s ambition to advance end-to-end production processes digitization.」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「which resulted in September 2020 to the amount of $5.5M USD. This expanded financing round accumulates to a total of 12.4M USD. Existing investors UVC Partners, TRUMPF Venture, coparion and AM Ventures participated in this financing round.」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「As a 3D printing service provider, you can produce complex parts for your customers. But do you still struggle with manual processes for pricing orders, evaluating print feasibility, and calculating delivery times through phone calls and emails?」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「1. Manage Price Quotes and Part Orders」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「3YOURMIND makes it easy for customers (whether within the same organization or externally) to get instant price quotes using your pricing formulas.」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「US Marine Corps awards 3YOURMIND and Phillips Corp $2.5M contract」（https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/）
+  - 「Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs」（https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/）
+  - 「Aurora Labs secures A$6 million to scale up turbojet engine production」（https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/）
+  - 「今年の3月に一億円規模の新たなファンドを立ち上げたAMに特化したベンチャーキャピタル AM Ventures」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+- 無料体験：
+  - 「Fill out the form to request a software demonstration」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「3YOURMIND is now offering the new feature as part of a free trial of its Part Identification software.」（https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts）
+  - 「3YOURMIND is now offering a free trial of AI-Powered Technical Drawing Analysis to qualifying companies. To get started, request a free consultation at」（https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/169025-59）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/169025-59）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/169025-59）
+- 会社の規模：
+  - 「Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.」（https://www.3yourmind.com/partners）
+  - 「3YOURMIND, software provider in additive manufacturing, raises $12.4M in a continued series A+ round. The funding will fuel the company’s ambition to advance end-to-end production processes digitization.」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「want to secure our technology leadership in part identification and digitization of AM processes and expand our business internationally.” Today, 3YOURMIND’s customers include Deutsche Bahn, Erpro, Bosch, and other international companies operating in」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「“The ability to produce parts on demand is a crucial advantage for companies who wish to control their production value chain.” says Aleksander Ciszek, co-founder of 3YOURMIND. “With this investment, we will extend our international footprint and further support our customers who wish to implement additive technologies into their production process.”」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「Are you a startup looking for funding to launch your industrial 3D printing venture?」（https://amventures.com/company-portfolios/3yourmind/）
+  - 「「3YOURMINDの共同設立者兼CEOであるAleksander Ciszek氏は」（https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023）
+  - 「1989年に設立された独立企業であるEOSは、先駆的なイノベーションと持続可能な実践により、高品質な生産効率と結びつけ、製造業の未来を形作ります」（https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023）
+  - 「As a 3D printing service provider, you can produce complex parts for your customers. But do you still struggle with manual processes for pricing orders, evaluating print feasibility, and calculating delivery times through phone calls and emails?」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「3YOURMIND makes it easy for customers (whether within the same organization or externally) to get instant price quotes using your pricing formulas.」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「3YOURMIND Customers」（https://www.3yourmind.com/customers）
+  - 「"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue".」（https://www.3yourmind.com/customers）
+  - 「3YOURMINDはドイツに本社を置く積層造形ワークフローソフトウェアプロバイダーで、2014年に設立したのち、瞬く間に積層造形における最も著名なプレーヤーの一人となった」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「3YOURMINDの共同設立者であるStephan Kuehr氏は、企業の戦略的方向性について次のように述べている」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+  - 「3YOURMINDの共同設立者 Stephan Kuehr氏」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+- 顧客・用途：
+  - 「Customers」（https://www.3yourmind.com/partners）
+  - 「Are you a 3YOURMIND customer who wants to be featured?」（https://www.3yourmind.com/partners）
+  - 「Medical, Aerospace, Luxury Goods, Construction, Mobility」（https://www.3yourmind.com/partners）
+  - 「Electronics, Automotive, Aerospace, Automation, Robotics, Luxury and Consumer Goods.」（https://www.3yourmind.com/partners）
+  - 「Architecture, Construction, Energy, Automation, Automotive」（https://www.3yourmind.com/partners）
+  - 「Aerospace, Defense, Automotive, Motorsport, Medical, Energy, Railway, Oil & Gas」（https://www.3yourmind.com/partners）
+  - 「Medical, Consumer Goods, Consumer Electronics, Robotics, Automotive」（https://www.3yourmind.com/partners）
+  - 「Automotive, Medical, Defense, Consumer」（https://www.3yourmind.com/partners）
+  - 「Automotive, Industrial, Consumer Electronics」（https://www.3yourmind.com/partners）
+  - 「Military, Automotive, Railway, Aviation (Unmanned), Furniture, Electronics, Machines」（https://www.3yourmind.com/partners）
+  - 「Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.」（https://www.3yourmind.com/partners）
+  - 「Case Study」（https://www.3yourmind.com/partners）
+  - 「“The original investment made by EnBW New Ventures supports 3YOURMIND’s growth in the energy sector while the latest investment enables the company to further invest in building a Digital Qualified Inventory”, says 3YOURMIND co-founder Stephan Kühr. “We」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「want to secure our technology leadership in part identification and digitization of AM processes and expand our business internationally.” Today, 3YOURMIND’s customers include Deutsche Bahn, Erpro, Bosch, and other international companies operating in」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「Aerospace and Defense, Automotive or Medical industry.」（https://www.verve.vc/blog/3yourmind-series-a/）
+- 検索結果の抜粋：
+  - 「Partners - 3YOURMIND — Partners - 3YOURMIND 3YOURMIND https://www.3yourmind.com > partners」（https://www.3yourmind.com/partners）
+  - 「3YOURMIND raises USD 12.4 to fuel its growth - verve.vc — 3YOURMIND raises USD 12.4 to fuel its growth - verve.vc verve.vc https://www.verve.vc > blog > 3your...」（https://www.verve.vc/blog/3yourmind-series-a/）
+  - 「3YOURMIND - LinkedIn — 3YOURMIND - LinkedIn LinkedIn https://www.linkedin.com > 3yourmind」（https://www.linkedin.com/company/3yourmind）
+  - 「3YOURMIND - AM Ventures — 3YOURMIND - AM Ventures AM Ventures https://amventures.com > 3yourmind」（https://amventures.com/company-portfolios/3yourmind/）
+  - 「EOS North America and 3YOURMIND Launch Rapid Part ... — EOS North America and 3YOURMIND Launch Rapid Part ... EOS GmbH https://www.eos.info > ... > 2023 ...」（https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023）
+  - 「Use 3YOURMIND to Streamline Your 3D Printing Operations — Use 3YOURMIND to Streamline Your 3D Printing Operations 3YOURMIND https://www.3yourmind.com > news」（https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations）
+  - 「3YOURMIND | Identify and Produce Parts On-Demand — 3YOURMIND | Identify and Produce Parts On-Demand 3YOURMIND https://www.3yourmind.com」（https://www.3yourmind.com/）
+  - 「3YOURMIND Alternative for MJF 3D Printing Shops | SeekMake — 3YOURMIND Alternative for MJF 3D Printing Shops | SeekMake SeekMake https://seekmake.com > 3yourmind」（https://seekmake.com/compare/3yourmind/mjf-3d-printing）
+  - 「3YOURMIND | Berlin - Facebook — 3YOURMIND | Berlin - Facebook Facebook https://www.facebook.com > ... > Internet company」（https://www.facebook.com/3yourmind/）
+  - 「Customer Success Stories - 3YOURMIND — Customer Success Stories - 3YOURMIND 3YOURMIND https://www.3yourmind.com > custo...」（https://www.3yourmind.com/customers）
+  - 「Partnership Between 3YOURMIND and DPD Envisions a ... — Partnership Between 3YOURMIND and DPD Envisions a ... 3DPrint.com https://3dprint.com > 3yourmind-dpd...」（https://3dprint.com/154821/3yourmind-dpd-partnership/）
+  - 「3YOURMIND | LinkedIn — 3YOURMIND | LinkedIn LinkedIn https://tt.linkedin.com > 3yourmind」（https://tt.linkedin.com/company/3yourmind）
+  - 「3YOURMIND GmbH - LinkedIn — 3YOURMIND GmbH - LinkedIn LinkedIn https://de.linkedin.com > 3yourmind」（https://de.linkedin.com/company/3yourmind）
+  - 「US Marine Corps awards 3YOURMIND and Phillips Corp $2.5 ... — US Marine Corps awards 3YOURMIND and Phillips Corp $2.5 ... VoxelMatters https://www.voxelmatters.com > us-m...」（https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/）
+  - 「3YOURMIND - World Economic Forum — 3YOURMIND - World Economic Forum World Economic Forum https://www.weforum.org > 3yourmind」（https://www.weforum.org/organizations/3yourmind）
+- 日本語対応：記載なし（読んだ29頁・検索7回）
+
+## Materialise CO-AM（Materialise CO-AM）
+- 文脈：生産管理（AM向けプラットフォーム）
+- 日本の代理店：
+  - 「Quickparts社は、Materialise CO-AM ソフトウェアプラットフォームを採用 | マテリアライズジャパン株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000014.000076712.html）
+  - 「マテリアライズジャパン株式会社」（https://prtimes.jp/main/html/rd/p/000000014.000076712.html）
+  - 「株式会社サオスは DELMIA Apriso を中核に、構想策定から多拠点展開・保守・技術者育成までを一貫支援しています」（https://mes-dx.com/vendors/materialise-co-am）
+  - 「株式会社サオスの実務者が、貴社の現場に合わせた進め方をご提案します」（https://mes-dx.com/vendors/materialise-co-am）
+  - 「株式会社サオス」（https://mes-dx.com/vendors/materialise-co-am）
+  - 「© 2026 株式会社サオス / MES-DX」（https://mes-dx.com/vendors/materialise-co-am）
+  - 「講演者：マテリアライズジャパン株式会社Software事業部Sales Director 小林 毅氏」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「講演者：マテリアライズジャパン株式会社Software事業部Application Engineer城田隆大氏」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「3Dプリンターの失敗作の頂点が決定「もじゃコン」結果発表－株式会社メルタ」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「株式会社メルタは、2021年4月に3Dプリンターの失敗作の頂点を決める「もじゃコン」を開催」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社およびDigiFabster社と提携、また3D造形による量産事例を紹介 | マテリアライズジャパン株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html）
+  - 「マテリアライズジャパン株式会社」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html）
+  - 「マテリアライズジャパン株式会社」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「今回、ShareLab編集部はJSR株式会社（以下、JSR）主催のウェビナー「JINSはNeuron4Dをどのように産み出したのか？」（2020年9月15日開催 …」（https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/）
+- 再販・パートナー制度：
+  - 「CO-AM is technology agnostic and connects seamlessly with your systems, from ERP and MES to machine OEM software and automation platforms.」（https://www.materialise.com/en/industrial/software/co-am）
+  - 「Find a Reseller」（https://www.postprocess.com/materialise/）
+  - 「Variable Acoustic Displacement™ (VAD)」（https://www.postprocess.com/materialise/）
+  - 「Explore a variety of events hosted by PostProcess available on demand, including webinars, Q&As, demos, and panels, covering 3D post-printing topics and applications」（https://www.postprocess.com/materialise/）
+  - 「var s = document.createElement(‘script’); s.type = ‘text/javascript’;」（https://www.postprocess.com/materialise/）
+  - 「var c = document.getElementsByTagName(‘script’)[0]; c.parentNode.insertBefore(s, c);」（https://www.postprocess.com/materialise/）
+  - 「Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.」（https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/）
+  - 「Get metal parts in a variety of materials」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「Take your 3D printed or machined parts to the next level with serialization and custom marking. Or manufacture custom parts from your 2D designs from a variety of materials.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「3D printing post-processing cutting involves removing supports and excess material using tools like scalpels, flush cutters, and rotary tools, followed by smoothing with sanding (various grits, wet sanding) and sometimes filling to achieve a clean surface, often with primer and painting for the final finish, enhancing appearance and functionality beyond the raw print.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「Post-processing waste from 3D printing can be effectively managed through various recycling and reclamation methods, which vary by material type and technology. Solutions range from in-house filament extruders for thermoplastics to specialized powder reuse systems in powder bed fusion processes.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「Essential post processing equipment for cleaning and finishing parts from a variety of brands.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「Stratasys production 3D printing materials for a variety of applications.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「to automatically capture and bind critical variables — such as raw material lot numbers, machine operator IDs, active sensor data, and downstream thermal post-processing parameters—directly to an individual, serialized component profile.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「Automotive & Heavy Machinery OEMs:」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+- 料金：
+  - 「See how BÖLLINGER GROUP used Materialise e-Stage for their Metal 3D Printing Supports to cut data prep times by 50% and save $1,000 per 3D printed component.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「Materialise CO-AM: Pricing, Reviews & Features 2026 | Manufacturing...」（https://manufacturing.toolsinfo.com/tool/materialise-co-am）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「1兆円の仮想通貨盗難、FBIが北朝鮮の犯行と指摘 狙われたのは社員のPCか」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「・1兆円の仮想通貨盗難、FBIが北朝鮮の犯行と指摘 狙われたのは社員のPCか」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「・視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「200Hzの27インチWQHDゲーミングモニターが3万円切りで高コスパ！ヘッドセット置きにもなる昇降式多機能スタンドも秀逸だった」（https://ascii.jp/elem/000/004/113/4113541/）
+- 無料体験：
+  - 「Preview a demo of the PostProcess CONNECT3D integrated with the CO-AM platform:」（https://www.postprocess.com/materialise/）
+  - 「Explore a variety of events hosted by PostProcess available on demand, including webinars, Q&As, demos, and panels, covering 3D post-printing topics and applications」（https://www.postprocess.com/materialise/）
+  - 「By providing partners with this common language for AM operations, Materialise enables them to test integrations and build compatible solutions, demonstrating its commitment to knowledge sharing and reducing integration friction across the industry.」（https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/）
+  - 「✓ Free trial available」（https://manufacturing.toolsinfo.com/tool/materialise-co-am）
+  - 「デモ用パーツには、規制の厳しい業界のアプリケーション(用途)も含まれています」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html）
+  - 「2022年11月15日から18日にフランクフルトで開催される2022 Formnext ExhibitionのMaterialiseブース（Hall 12.1, C139）では、CO-AM プラットフォームとMagics 26の両方のデモを行う予定です」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「Free Trial」（https://www.marketbeat.com/stocks/NASDAQ/MTLS/）
+  - 「After filling in the required information, click on the button to submit your request. You will receive a confirmation email upon submission. Allow one to two working days for us to send you the actual download link, along with the voucher to activate your trial license.」（https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product）
+  - 「Once you have received the download link, follow the instructions to install and activate your trial license. Be aware that the download link will only stay active for a limited period of time.」（https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product）
+  - 「Secure IP and Demonstrate Compliance」（https://mfg.trimech.com/product/materialise-co-am/）
+- 日本語対応：
+  - 「We configure the cloud platform to act as your centralized operations cockpit. The team handles secure hardware-to-cloud telemetry bindings, configures localized digital routing paths inside the MES module, and coordinates direct API connections into your legacy corporate databases.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「This cookie is used to store the user's time zone information to provide localized experiences or content based on the geographical area.」（https://mfg.trimech.com/materialise-co-am-implementation-service/）
+  - 「世界のMES情報を、一次情報から日本語で」（https://mes-dx.com/vendors/materialise-co-am）
+  - 「Japanese」（https://help.materialise.com/en_US/co-am）
+  - 「Japanese」（https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product）
+  - 「Japanese」（https://help.materialise.com/en_US/materialise-co-am）
+  - 「Hosted securely via Microsoft® Azure™ Web Services, featuring localized regional data storage options to meet strict sovereign data-hosting regulations (GDPR, ITAR, FedRAMP compliant).」（https://mfg.trimech.com/product/materialise-co-am/）
+  - 「Lightweight local IoT edge drivers require standard network communication protocols via a localized proxy server to transmit sensor telemetry safely outside corporate firewalls.」（https://mfg.trimech.com/product/materialise-co-am/）
+  - 「This cookie is used to store the user's time zone information to provide localized experiences or content based on the geographical area.」（https://mfg.trimech.com/product/materialise-co-am/）
+- 会社の規模：
+  - 「See what customers have to say about the transformative benefits of Automated 3D post-processing –」（https://www.postprocess.com/materialise/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/）
+  - 「While low-volume functional prototyping is still the primary application of 3D printing, enterprises are increasingly going down the route of series manufacturing. Unfortunately, production at scale still calls for an abundance of manual control, and isolated data streams make it difficult to achieve the consistent quality that’s required for the mass production of identical parts.」（https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/）
+  - 「マテリアライズは2022年9月、Identify 3D Inc.を買収しているが、こうした買収を通じて、より一層AMの基盤開発に力を入れていく予定だという」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説」（https://news.sharelab.jp/interviews/materialise-co-am-221012/）
+  - 「約19LのコンパクトさにハイエンドPC性能を凝縮「GALLERIA E series」の魅力」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説」（https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/）
+  - 「Founded in 1990 by Wilfried Vancraen, Materialise is headquartered in Leuven, Belgium, and serves customers internationally through operations and offices in Europe, North America and the Asia-Pacific region. Brigitte de Vet-Veithen serves as chief executive officer, while Vancraen remains associated with the company as its founder and executive chairman.」（https://www.marketbeat.com/stocks/NASDAQ/MTLS/）
+  - 「Materialise Q3 2026: Revenue Tops Estimates While Earnings Miss on Rising R&D」（https://www.marketbeat.com/stocks/NASDAQ/MTLS/）
+  - 「Materialise Q3 Profit Declines; Reaffirms FY26 Adj. EBIT, Revenue Outlook」（https://www.marketbeat.com/stocks/NASDAQ/MTLS/）
+  - 「Materialise (MTLS) raised $104 million in an initial public offering on Wednesday, June 25th 2014. The company issued 8,000,000 shares at $12.00-$14.00 per share.」（https://www.marketbeat.com/stocks/NASDAQ/MTLS/）
+- 顧客・用途：
+  - 「CO-AM is an attractive solution for customers who need production management software that’s not already integrated with super-large MES software. It offers professionalization for companies growing into more complex manufacturing organizations.」（https://www.materialise.com/en/industrial/software/co-am）
+  - 「Medical device companies」（https://www.materialise.com/en/industrial/software/co-am）
+  - 「Medical software」（https://www.materialise.com/en/industrial/software/co-am）
+  - 「Medical device companies」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform）
+  - 「Medical software」（https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform）
+  - 「Customer Stories」（https://www.postprocess.com/materialise/）
+  - 「Automotive」（https://www.postprocess.com/materialise/）
+  - 「Aerospace」（https://www.postprocess.com/materialise/）
+  - 「Medical」（https://www.postprocess.com/materialise/）
+  - 「. CONNECT3D was the first software platform to link the finishing, or post-processing, of a 3D printed part to its digital thread for an intelligent and automated additive manufacturing workflow. CONNECT3D leverages native CAD files, or 3D sliced files, and applies intelligence to define the necessary requirements to deliver optimal post-processing results and maximize customer value.」（https://www.postprocess.com/materialise/）
+  - 「See what customers have to say about the transformative benefits of Automated 3D post-processing –」（https://www.postprocess.com/materialise/）
+  - 「Read What Our Customers Say」（https://www.postprocess.com/materialise/）
+  - 「Aerospace and Defense」（https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/）
+  - 「Automotive」（https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/）
+  - 「Energy」（https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/）
+- 検索結果の抜粋：
+  - 「Materialise's new CO - AM software platform looks towards 3D ... — Materialise's new CO - AM software platform looks towards 3D ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/）
+  - 「Materialise は CO - AM に3Dプリンター向け準備ソフトウェア ... — Materialise は CO - AM に3Dプリンター向け準備ソフトウェア ... ASCII.jp https://ascii.jp > elem」（https://ascii.jp/elem/000/004/113/4113541/）
+  - 「Materialise Launches New CO - AM Tools Amid New Industrial ... — Materialise Launches New CO - AM Tools Amid New Industrial ... 3DPrint.com https://3dprint.com > materialise-laun...」（https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/）
+
+## CASTOR（CASTOR）
+- 文脈：AM化できる部品の自動選定
+- 日本の代理店：
+  - 「販売代理店募集」（https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw）
+  - 「キャスタープロダクツカンパニー日本総代理店」（https://castoroil.jp/%E5%95%86%E5%93%81%E6%A1%88%E5%86%85/）
+  - 「株式会社土香弥」（https://castoroil.jp/%E5%95%86%E5%93%81%E6%A1%88%E5%86%85/）
+- 再販・パートナー制度：
+  - 「We take pride in our diverse clientele, which includes companies of all sizes across various industries. From large multinational corporations like Shell to small businesses, our clients trust CASTOR+PARTNERS to guide them through the intricate world of sustainability and renewable energy, ultimately becoming leaders in their respective fields.」（https://castorpartners.com/）
+  - 「Discounted per-study subscription for academic, non-profit, and grant-funded investigator-initiated research. Includes EDC data capture and full API access. Priced by quote.」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「discounted quote (contact sales) USD」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「is prevalently known as one the most leading distributors and largest stockists for castor wheel products in the asia regions.」（https://www.castorwheel.com/blog-section）
+  - 「was incorporated in the year 1989 of which was first led by a group of local and overseas investor broadening a comprehensive wide range of castor wheel products. The rapid development has then transformed the company into a most leading distributor throughout the whole of Malaysia.」（https://www.castorwheel.com/blog-section）
+  - 「established in 1983 is well known as one the most leading distributors and largest stockists for castor wheel products in the Asia regions.」（https://www.castorwheel.com/blog-section）
+  - 「販売代理店募集」（https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/228979-90）
+  - 「we may earn a small commission」（https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/）
+- 料金：
+  - 「It defines 3 plans, covering subscription and enterprise tiers, with named plans including」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「from ~$199/month (indicative; contact sales) USD」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「Custom agreements for sponsors, CROs, and organizations running multiple or large multi-center global trials. Adds volume study licensing, dedicated support, validation and compliance documentation (GCP, 21 CFR Part 11, HIPAA, GDPR), SSO, and negotiated SLAs. Priced by quote.」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「https://www.capterra.com/p/143532/Castor-EDC/pricing/」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「10000円以上は送料無料（北海道・沖縄・離島は15000円以上）」（https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw）
+  - 「KZ Castor は国内Amazonにて3000円前後で販売されているイヤホンですが、巷では☆5をつけているレビューもあるなど非常に高い評価を受けています」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「3000円前後という価格帯では2DDやスイッチという構成は珍しいためコスパが良い理由の1つとして挙げられることがあります」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「2025年8月末時点では国内 Amazon にて取り扱いがあり、価格は3000円前後です」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「AliExpress などでは2000円を切る場合があるようですが、3000円を基準としてレビューを行います」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「C8s-3 では中高音の粗が改善しましたが、本体 + ケーブルの価格に見合った音にはなりません」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「総額1万円を超える組み合わせとなる THIEAUDIO EST へのリケーブルでは銀/黒の両方で大きな変化がありますが、1万円クラスのイヤホンと比べられるような音質は実現できませんでした」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「中華ブランドのイヤホンではチューニングスイッチなどと呼ばれ、主に1万円以上の製品で採用されていました」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「3000円でスイッチ付きという面白さ」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「final E500 のような確かな技術力によって実現された価格を超えた良さや、TANGZU Wan'er S.G のような質と個性を併せ持った良さはCastorにはありません」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「価格面でもまさに入門機で、現在Amazonで2,500〜3,000円（AlliExpressセールだと1,500円なんてこともある？？）で購入できてしまうので、あえて旧世代の平成イヤホン群を求めるエンスー以外にはベストな選択でしょう」（https://note.com/super_leggera/n/n13f9a0f6e021）
+- 無料体験：
+  - 「Castor for Impact (Qualifying Academic / Non-Profit Research):」（https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge）
+  - 「Castor supports eligible academic researchers and non-profit global health initiatives through our」（https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge）
+  - 「Your academic institution does not have a site-wide license covering your project.」（https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge）
+  - 「Academic Research」（https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge）
+  - 「Academic / Non-Profit」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「Discounted per-study subscription for academic, non-profit, and grant-funded investigator-initiated research. Includes EDC data capture and full API access. Priced by quote.」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「Per-Study Subscription (Academic)」（https://apis.io/plans/castoredc/castoredc-plans-pricing/）
+  - 「Castor is a clinical trial platform for medical device, biopharma, diagnostics, and academic research teams. It unifies electronic data capture, ePRO, eConsent, and randomization in one system, and adds Castor Catalyst, AI-assisted clinical data extraction with human review, built on Google Cloud AI.」（https://www.clinicalleader.com/ecommcenter/castor）
+  - 「Academic Advising Software」（https://getlatka.com/companies/castor-technologies）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/228979-90）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/228979-90）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/228979-90）
+- 日本語対応：
+  - 「こちらを日本語に翻訳したものが以下の文章になります」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+- 会社の規模：
+  - 「SteelSeries GameDAC Gen2」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised」（https://getlatka.com/companies/castor-technologies）
+  - 「Founded 2012」（https://getlatka.com/companies/castor-technologies）
+  - 「Castor Technologies is a 3D Design Software company based in Tel Aviv, founded in 2012.」（https://getlatka.com/companies/castor-technologies）
+  - 「Castor Technologies has not published its revenue. GetLatka estimates it at about $13.8M a year (December 2023).」（https://getlatka.com/companies/castor-technologies）
+  - 「Founded 2012 at $0; every reading has its own bar」（https://getlatka.com/companies/castor-technologies）
+  - 「All 3 revenue readings, with sources」（https://getlatka.com/companies/castor-technologies）
+  - 「Castor Technologies has raised $2.4M across two rounds since 2018. The latest was a $2M funding round in October 2019.」（https://getlatka.com/companies/castor-technologies）
+  - 「Castor 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/228979-90）
+  - 「8. Later Stage VC (Series A)」（https://pitchbook.com/profiles/company/228979-90）
+  - 「Castor was founded in 2017.」（https://pitchbook.com/profiles/company/228979-90）
+  - 「Castor has 17 total employees.」（https://pitchbook.com/profiles/company/228979-90）
+  - 「is on a mission to make every clinical trial faster and patient-focused. The clinical trial software company announced Wednesday it raised $45 million in Series B funding to continue modernizing the process as the industry shifts to decentralized clinical trials.」（https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/）
+  - 「Eight Roads Ventures and F-Prime Capital co-led the round and were joined by existing investors Two Sigma Ventures and Inkef Capital. The Series B brings Castor’s total funding to $65 million since it was founded in 2012.」（https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/）
+  - 「It then saw an influx of users and new customers like the World Health Organization. WHO used Castor for its “Solidarity Trial,” which was identifying how existing medications might improve outcomes compared to standard of care alone. The study included over 10,000 patients across 553 sites in 30 countries, Arts said.」（https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/）
+- 顧客・用途：
+  - 「Transforming Europe’s Energy Sector.」（https://castorpartners.com/）
+  - 「Want to Accelerate Your Energy」（https://castorpartners.com/）
+  - 「Unleashing Energy Sector Potential: Whether We’re Talking Natural Resources or Human Resources, Let’s Create that Winning Formula.」（https://castorpartners.com/）
+  - 「change in the energy sector, empowering businesses to excel in a fiercely competitive, regulated market while embracing sustainability. But, don’t take our word. Take it from our clients.」（https://castorpartners.com/）
+  - 「We take pride in our diverse clientele, which includes companies of all sizes across various industries. From large multinational corporations like Shell to small businesses, our clients trust CASTOR+PARTNERS to guide them through the intricate world of sustainability and renewable energy, ultimately becoming leaders in their respective fields.」（https://castorpartners.com/）
+  - 「SUSTAINABILITY ENERGY TRANSITION」（https://castorpartners.com/）
+  - 「We guide businesses towards embracing environmentally responsible practices, helping them transition to renewable energy and achieve long-term sustainability.」（https://castorpartners.com/）
+  - 「At CASTOR+PARTNERS, we foster a culture of continual learning and innovation. Our strategies help businesses adapt, innovate, and sustain a competitive edge in the ever-evolving energy sector.」（https://castorpartners.com/）
+  - 「Want to discover how Adam can help you transform your energy strategy for long-term success and sustainability?」（https://castorpartners.com/）
+  - 「Want to discover how CASTOR+PARTNERS can transform your energy strategy for long-term success and sustainability?」（https://castorpartners.com/）
+  - 「Stay ahead in the energy sector – Sign up now for exclusive industry news and insights from CASTOR+PARTNERS to power your thought-leadership and sustainable growth journey!」（https://castorpartners.com/）
+  - 「Customer Stories」（https://github.com/OHDSI/Castor/blob/master/LICENSE）
+  - 「Customer support」（https://github.com/OHDSI/Castor/blob/master/LICENSE）
+  - 「Your study is sponsored by a commercial entity (e.g., pharmaceutical, biotech, or medical device company).」（https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge）
+  - 「Medical Devices & Diagnostics」（https://helpdesk.castoredc.com/hc/en-us/articles/27224738221085-When-is-my-study-free-of-charge）
+- 検索結果の抜粋：
+  - 「Castor license - Oracle Help Center — Castor license - Oracle Help Center Oracle Help Center https://docs.oracle.com > ... > 2026.2」（https://docs.oracle.com/en/industries/life-sciences/empirica/2026.2/licensinginfo/castor-license.html）
+  - 「Castor EDC Software Reviews, Demo & Pricing - 2026 — Castor EDC Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > cas...」（https://www.softwareadvice.com/data-collection/castor-edc-profile/）
+  - 「キャスターオイル60ml - UTAMA SPICE — キャスターオイル60ml - UTAMA SPICE ウタマスパイス https://utamaspice.jp > アロマセラピー > キャリアオイル」（https://utamaspice.jp/product/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%82%A4%E3%83%AB-castor-oil-60ml/?srsltid=AYCX9vKSnupwhOdNllFDLqHRDLN1F5rKQsef4li8w4Ro9yd7ub45Rghw）
+  - 「Castor oil Oil 蓖 麻油 全 聯 線上購買蓖麻油- 2026年9月特惠及 ... — Castor oil Oil 蓖 麻油 全 聯 線上購買蓖麻油- 2026年9月特惠及 ... yaraghkar.com https://yaraghkar.com > 蓖 麻油 全 聯 > Oil > Castor oil」（https://yaraghkar.com/products/124c6165523502）
+  - 「Polyoxyl 35 Castor Oil | CAS 61791-12-6 | SCBT — Polyoxyl 35 Castor Oil | CAS 61791-12-6 | SCBT Santa Cruz Biotechnology https://www.scbt.com > ... > 他の化学製品 0172」（https://www.scbt.com/ja/p/polyoxyl-35-castor-oil-61791-12-6?srsltid=AYCX9vJKogJiPY4wgcTjZEC5BCqKotEkyavawDoaGgnpRqCa7NTLDgM1）
+  - 「KZ Castor (銀/黒) レビュー 「まともではない」 — KZ Castor (銀/黒) レビュー 「まともではない」 abusan3225.jp https://abusan3225.jp > kz_castor_review_20250901」（https://abusan3225.jp/entry/kz_castor_review_20250901）
+  - 「KZ Castor Pro / The first 10mm 2DD lens under 3000 yen... is it ... — KZ Castor Pro / The first 10mm 2DD lens under 3000 yen... is it ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=WZkQE9UoSrE）
+  - 「レビュー：KZ CASTOR Harman Target with Improved Bass 結論 — レビュー：KZ CASTOR Harman Target with Improved Bass 結論 ゆるふわオーディオ日記 https://el-snow.hatenablog.com > entry > 2023/11/10」（https://el-snow.hatenablog.com/entry/2023/11/10/233759）
+  - 「Castor EDC Software Pricing, Alternatives & More 2026 — Castor EDC Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > Castor-EDC」（https://www.capterra.com/p/143532/Castor-EDC/）
+  - 「Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised — Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised GetLatka https://getlatka.com > companies > ca...」（https://getlatka.com/companies/castor-technologies）
+  - 「Castor 2026 Company Profile: Valuation, Funding & Investors — Castor 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/228979-90）
+  - 「Castor - Crunchbase Company Profile & Funding — Castor - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > castor-1」（https://www.crunchbase.com/organization/castor-1）
+  - 「Castor Raises $45 Million Series B Funding — Castor Raises $45 Million Series B Funding castoredc.com https://www.castoredc.com > news > c...」（https://www.castoredc.com/news/castor-raises-45m-series-b/）
+  - 「Castor , a clinical trial process company , raises $45M to create ... — Castor , a clinical trial process company , raises $45M to create ... TechCrunch https://techcrunch.com > 2021/07/14」（https://techcrunch.com/2021/07/14/castor-a-clinical-trial-process-company-raises-45m-to-create-more-human-centered-research/）
+
+## Spare Parts 3D DigiPart（Spare Parts 3D）
+- 文脈：AM化できる部品の自動選定・スペアパーツ
+- 再販・パートナー制度：
+  - 「Calculation of potential savings based on 3D printing cost for various use cases: obsolescence, supply shortage, inventory reduction, etc.」（https://spare-parts-3d.com/digipart/）
+  - 「SP3D’s new Théia software is designed to automate this process with a combination of deep learning, computer vision, and existing semantic recognition of optical character recognition (OCR) capabilities. According to Anwer, this combination allows various semantic layers of a 2D technical drawing to be identified and optimally interpreted for 3D reconstruction.」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「Distributor」（https://www.digipart.com/）
+  - 「Distributors」（https://www.digipart.com/）
+  - 「[/av_three_fifth][av_hr class=’invisible’ height=’50’ shadow=’no-shadow’ position=’center’ custom_border=’av-border-thin’ custom_width=’50px’ custom_border_color=” custom_margin_top=’30px’ custom_margin_bottom=’30px’ icon_select=’yes’ custom_icon_color=” icon=’ue808′ font=’entypo-fontello’ av_uid=’av-kg27agsh’ custom_class=” admin_preview_bg=”]」（https://spare-parts-3d.com/digipart-catalog/）
+  - 「[av_hr class=’invisible’ height=’10’ shadow=’no-shadow’ position=’center’ custom_border=’av-border-thin’ custom_width=’50px’ custom_border_color=” custom_margin_top=’30px’ custom_margin_bottom=’30px’ icon_select=’yes’ custom_icon_color=” icon=’ue808′ font=’entypo-fontello’ av_uid=’av-kg27agsh’ custom_class=” admin_preview_bg=”]」（https://spare-parts-3d.com/digipart-catalog/）
+  - 「[/av_one_full][av_hr class=’invisible’ height=’10’ shadow=’no-shadow’ position=’center’ custom_border=’av-border-thin’ custom_width=’50px’ custom_border_color=” custom_margin_top=’30px’ custom_margin_bottom=’30px’ icon_select=’yes’ custom_icon_color=” icon=’ue808′ font=’entypo-fontello’ av_uid=’av-kg27agsh’ custom_class=” admin_preview_bg=”]」（https://spare-parts-3d.com/digipart-catalog/）
+  - 「EPC / OEM」（https://spare-parts-3d.com/）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/327413-53）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+- 料金：
+  - 「will deliver considerable savings by reducing physical inventories of spare parts. According to a 2018 study by Theano Advisors, the global inventory value of printable parts was $174 billion (€160 billion). Considering an average inventory cost of 20%,」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「$34 billion (€31 billion) a year through digitalization.」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「SP3D claims that this new tool reduces the cost of digitization. This will allow more companies to leverage additive manufacturing for the production of spare parts, reducing physical inventory costs in the process. In fact, the firm claims that Théia can collectively save companies $34 billion a year through inventory digitization.」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「$32.6K」（https://pitchbook.com/profiles/company/327413-53）
+  - 「Spare Parts 3D has raised $1.75M.」（https://pitchbook.com/profiles/company/327413-53）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+  - 「Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+  - 「Switching from cast bronze to 3D printed Ultem reduces the cost and difficulty of replacing an on-ship drain, saving an estimated $200K per Coast Guard cutter.」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+- 無料体験：
+  - 「accelerating the exhaustive digitization of spare parts inventories, lowering the cost of access to digitization, democratizing the digital passport and the use of additive manufacturing」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「Request a demo →」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「are proving out the model. Once they demonstrate the benefits, particularly for customers in the U.S. military, there’s a real possibility that the industry will be galvanized into high-growth mode.」（https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/）
+  - 「Request a demo」（https://spare-parts-3d.com/digipart/）
+  - 「Request for demo」（https://spare-parts-3d.com/digipart/）
+  - 「Request a Demo」（https://spare-parts-3d.com/digipart/）
+  - 「The technology is particularly noteworthy for its ability to streamline the digitization process of spare parts inventories. By converting 2D drawings to 3D models swiftly and efficiently, Théia democratizes access to digital passports and additive manufacturing, thereby fostering a more rapid and cost-effective digitization process.」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+  - 「[av_button label=’Request a demo’ link=’page,971′ link_target=” size=’medium’ position=’right’ label_display=” icon_select=’no’ icon=’ue800′ font=’entypo-fontello’ color=’theme-color’ custom_bg=’#444444′ custom_font=’#ffffff’ av_uid=’av-kebc7gxw’ custom_class=’quote-now’ admin_preview_bg=”]」（https://spare-parts-3d.com/digipart-catalog/）
+  - 「Request for demo」（https://spare-parts-3d.com/digipart-catalog/）
+  - 「Plan a demo or request more information on our services. Fill in the form and we will get back to you.」（https://spare-parts-3d.com/）
+  - 「Digital Inventory demo」（https://spare-parts-3d.com/）
+  - 「Automated 3D Reconstruction demo」（https://spare-parts-3d.com/）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/327413-53）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/327413-53）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/327413-53）
+- 会社の規模：
+  - 「, its AI software that identifies, digitizes and 3D prints its customers’ spare parts.」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「Spare Parts 3D 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/327413-53）
+  - 「Spare Parts 3D Valuation & Funding」（https://pitchbook.com/profiles/company/327413-53）
+  - 「5. Equity Crowdfunding」（https://pitchbook.com/profiles/company/327413-53）
+  - 「To view Spare Parts 3D’s complete valuation and funding history, request access »」（https://pitchbook.com/profiles/company/327413-53）
+  - 「When was Spare Parts 3D founded?」（https://pitchbook.com/profiles/company/327413-53）
+  - 「Spare Parts 3D developed an online software called Digipart to help customers estimate potential benefits of using 3D printing and determine which parts would be the most profitable. Beta testing of additional features such as the digital inventory repository and the quotation and ordering system are ongoing and will be released to all Spare Parts 3D customers by end of the year.」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+  - 「The next step will be to expand digitization to a larger pool of parts. Some models have already been produced based on demand and delivered to customers. Going forward, Whirlpool and Spare Parts 3D plan to intensify their collaboration to scale up production in the coming months.」（https://www.additivemanufacturing.media/news/spare-parts-3d-and-whirlpool-collaborate-on-3d-printing-project）
+- 顧客・用途：
+  - 「, its AI software that identifies, digitizes and 3D prints its customers’ spare parts.」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「and with financial support from the Defense Innovation Agency (AID).」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「For Paul Guillaumot, founder and CEO of Spare Parts 3D: “Theia is a world first. It is a disruptive innovation, that represents a major technological leap forward that makes it possible to digitalize supply chains on a massive scale for sectors such as energy, defense, petrochemicals, railways, shipping and mining」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「Bioprinting, Medical and Dental」（https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/）
+  - 「Aerospace」（https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/）
+  - 「Energy」（https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/）
+  - 「are proving out the model. Once they demonstrate the benefits, particularly for customers in the U.S. military, there’s a real possibility that the industry will be galvanized into high-growth mode.」（https://3dprint.com/307044/3d-printed-spare-parts-come-to-brazil-via-new-partnership/）
+  - 「Energy & Oil & Gas」（https://spare-parts-3d.com/digipart/）
+  - 「Aerospace」（https://spare-parts-3d.com/digipart/）
+  - 「Defense」（https://spare-parts-3d.com/digipart/）
+  - 「Aerospace AM」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+  - 「Defense」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+  - 「Automotive AM」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+  - 「Medical AM」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+  - 「Medical Implants」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+- 検索結果の抜粋：
+  - 「Spare Parts announces automatic reconstruction of 3D models — Spare Parts announces automatic reconstruction of 3D models Spare Parts 3D https://spare-parts-3d.com > premiere...」（https://spare-parts-3d.com/2024/03/29/premiere-mondiale-spare-parts-annonce-la-reconstruction-automatique-de-modeles-3d-2/）
+  - 「DigiPart - Spare Parts 3D — DigiPart - Spare Parts 3D Spare Parts 3D https://spare-parts-3d.com > digipart」（https://spare-parts-3d.com/digipart/）
+  - 「Spare Parts 3D unveils 2D-drawing to 3D -model software — Spare Parts 3D unveils 2D-drawing to 3D -model software VoxelMatters https://www.voxelmatters.com > spare...」（https://www.voxelmatters.com/spare-parts-3d-unveils-2d-drawing-to-3d-model-software/）
+  - 「Spare Parts 3D - NAMIC — Spare Parts 3D - NAMIC NAMIC - National Additive Manufacturing Innovation Cluster https://namic.sg > spare-parts-3d」（https://namic.sg/am_directory/spare-parts-3d/）
+  - 「Spare Parts 3D launches new AI-powered 2D-to- 3D model ... — Spare Parts 3D launches new AI-powered 2D-to- 3D model ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/）
+  - 「Spare Parts 3D - Digitalize and decarbonize spare parts ... — Spare Parts 3D - Digitalize and decarbonize spare parts ... Spare Parts 3D https://spare-parts-3d.com」（https://spare-parts-3d.com/）
+  - 「Spare Parts 3D 2026 Company Profile - PitchBook — Spare Parts 3D 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/327413-53）
+  - 「SP3D - LinkedIn — SP3D - LinkedIn LinkedIn https://fr.linkedin.com > spare-parts-3d」（https://fr.linkedin.com/company/spare-parts-3d）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Replique（Replique）
+- 文脈：デジタル在庫・部品の分散製造
+- 再販・パートナー制度：
+  - 「The team around co-founders Dr. Henrike Wonneberger and Dr. Max Siebert offers an industrial 3D printing platform that enables OEMs to store parts digitally. Those parts are provided on demand to customers via a network of more than 80 trusted and certified print farms around the globe.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「Replique is now focused on expanding its reach and acquire new customers in various industries. With the proceeds, Replique plans to enhance the platform’s development with new features, as well as invest in human resources.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+- 料金：
+  - 「2万円以上のご購入で全国送料無料」（https://www.takarazuka-an.co.jp/c/shop/musical/musical_01/musical_01_06?srsltid=AYCX9vLtJ5DFHEib4-t0O0W0-kQxW0g4Q3vNmTvV9Fr-Tk0KPnPDYqtn）
+  - 「ご購入金額22,000円（税込）以上は、全国送料無料」（https://www.takarazuka-an.co.jp/c/shop/musical/musical_01/musical_01_06?srsltid=AYCX9vLtJ5DFHEib4-t0O0W0-kQxW0g4Q3vNmTvV9Fr-Tk0KPnPDYqtn）
+  - 「2026年11月03日現在の買取価格」（https://www.netoff.co.jp/moetaku/detail/37998）
+  - 「3,310円」（https://www.netoff.co.jp/moetaku/detail/37998）
+  - 「5,937円」（https://www.netoff.co.jp/moetaku/detail/37998）
+  - 「現在3,310円」（https://www.netoff.co.jp/moetaku/detail/37998）
+  - 「販売価格：¥ 880」（https://www.culturestation.co.jp/index.php/products/detail/89484?srsltid=AYCX9vKdaQscmUXzvCAvd78RODkX88Xi1qfq8Pk_eLEmuJENbfrT5gg9）
+  - 「¥ 1,100」（https://www.culturestation.co.jp/index.php/products/detail/89484?srsltid=AYCX9vKdaQscmUXzvCAvd78RODkX88Xi1qfq8Pk_eLEmuJENbfrT5gg9）
+- 会社の規模：
+  - 「100+ customers already rely on Replique for their part sourcing」（https://replique.io/en/）
+  - 「“The collaboration with Replique was seamless from our initial contact to the moment we received the finished parts. It allowed us to promptly assist our spare parts customers, and we are already in the process of realising another 3D printing project with Replique.”」（https://replique.io/en/）
+  - 「STS Ventures led the funding round as experienced early-stage investor. However, with their managing partner Stephan Schubert – former founder and managing director of Onvista until its spin-off in 2007 – STS Ventures also brings valuable entrepreneurial mindset and experience to the table and will be a great support for Replique’s path to a strong profitable business.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「Angel investors chameleon GmbH and R3 consulting & investment GmbH round up the late seed funding, with great experience in machinery and data business.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「The team around co-founders Dr. Henrike Wonneberger and Dr. Max Siebert offers an industrial 3D printing platform that enables OEMs to store parts digitally. Those parts are provided on demand to customers via a network of more than 80 trusted and certified print farms around the globe.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「The secure platform is easily integrable into existing business landscapes such as ERP systems and webshops. This enables B2B businesses such as Alstom to leverage 3D printing in a smooth seamless supply chain process and B2C businesses like Miele and Siena Garden to offer 3D-printed parts to their customers.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+- 顧客・用途：
+  - 「100+ customers already rely on Replique for their part sourcing」（https://replique.io/en/）
+  - 「What our customers say」（https://replique.io/en/）
+  - 「“The collaboration with Replique was seamless from our initial contact to the moment we received the finished parts. It allowed us to promptly assist our spare parts customers, and we are already in the process of realising another 3D printing project with Replique.”」（https://replique.io/en/）
+  - 「“Additive manufacturing is now a key part of our supply chain. With Replique, we benefit from 3D printing and materials expertise, as well as a decentralized manufacturing network covering all relevant locations and technologies. Their end-to-end services enable us to respond faster and more cost-effectively to different customer requirements.”」（https://replique.io/en/）
+  - 「最新買取事例 紹介サイト」（https://www.culturestation.co.jp/index.php/products/detail/89484?srsltid=AYCX9vKdaQscmUXzvCAvd78RODkX88Xi1qfq8Pk_eLEmuJENbfrT5gg9）
+  - 「Replique is already the fifth startup to spin-off from Chemovator. Despite becoming an independent company, Replique maintains a close relationship with BASF as a customer as well as its subsidiary BASF 3D Printing Solutions, one of Replique’s trusted material partners, and the whole BASF network.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「The team around co-founders Dr. Henrike Wonneberger and Dr. Max Siebert offers an industrial 3D printing platform that enables OEMs to store parts digitally. Those parts are provided on demand to customers via a network of more than 80 trusted and certified print farms around the globe.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「The secure platform is easily integrable into existing business landscapes such as ERP systems and webshops. This enables B2B businesses such as Alstom to leverage 3D printing in a smooth seamless supply chain process and B2C businesses like Miele and Siena Garden to offer 3D-printed parts to their customers.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+  - 「Replique is now focused on expanding its reach and acquire new customers in various industries. With the proceeds, Replique plans to enhance the platform’s development with new features, as well as invest in human resources.」（https://replique.io/en/decentral-manufacturing-and-digital-inventory-startup-replique-spins-off-from-basf-incubator-and-closes-financing-round/）
+- 検索結果の抜粋：
+  - 「レプリーク/ REPLIQUE 2003年11月号 [雑誌] — レプリーク/ REPLIQUE 2003年11月号 [雑誌] カルチャーステーション https://www.culturestation.co.jp > 雑誌」（https://www.culturestation.co.jp/index.php/products/detail/89484?srsltid=AYCX9vKdaQscmUXzvCAvd78RODkX88Xi1qfq8Pk_eLEmuJENbfrT5gg9）
+  - 「Latex – Replique - Discogs — Latex – Replique - Discogs Discogs https://www.discogs.com > 5194355-Latex-Replique」（https://www.discogs.com/ja/release/5194355-Latex-Replique?srsltid=AYCX9vLoBEwHkwwq7peJahehtsAevpG9vwyrnA4nfAl7rxGYnO13beuB）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 無料体験：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## PostProcess Technologies（PostProcess Technologies）
+- 文脈：後工程（サポート除去・表面処理）
+- 日本の代理店：
+  - 「has announced its first distribution partnership in Japan with Tokyo-based supplier of industrial machinery and equipment,」（https://3dprintingindustry.com/news/postprocess-technologies-enters-asain-market-with-k-k-irisu-partnership-167266/）
+  - 「., the first and only provider of automated and intelligent post-printing solutions for industrial 3D printing, announced its entrance into the Asian market with its first distribution partner in Japan, K.K. IRISU (」（https://manufactur3dmag.com/postprocess-technologies-expands-its-reach-of-automated-3d-post-printing-solutions-to-japan/）
+- 再販・パートナー制度：
+  - 「PostProcess Welcomes 3DZ As Newest Channel Partner」（https://www.postprocess.com/3dz-partner/）
+  - 「Find a Reseller」（https://www.postprocess.com/3dz-partner/）
+  - 「3DZ Welcomes as Newest Channel Partner」（https://www.postprocess.com/3dz-partner/）
+  - 「French Additive Distributor Adds PostProcess to its Lineup of Renowned 3D Printing Brands」（https://www.postprocess.com/3dz-partner/）
+  - 「– PostProcess has collaborated with the France-based company 3DZ to further the availability of their industry-leading, intelligent post-printing solutions in Europe. As an authorized distributor of additive brands such as 3D Systems, Markforged, Formlabs, Nexa3D, and more, PostProcess’s proven solutions will be the first automated post-printing technologies offered by 3DZ.」（https://www.postprocess.com/3dz-partner/）
+  - 「3DZ team members pose alongside some of the distributor’s 3D printers.」（https://www.postprocess.com/3dz-partner/）
+  - 「PostProcess Announces Expanded Channel Partner Coverage Across North America」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Four New Channel Partners Accelerate Growth」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「/PRNewswire/ -- PostProcess Technologies, the pioneer of automated and intelligent post-printing solutions for industrial 3D printing, announced today it has further expanded its channel partner coverage in」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「PostProcess channel partners were selected based on exacting requirements beyond geographic representation:」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「: All channel partners are recognized leaders in driving access to and adoption of 3D printing technologies. They include some of the largest, most successful resellers of 3D printers.」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「"We have a very high bar for channel partners because of the revolutionary nature of our technology and our role driving next generation 3D printing possibilities," said」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Newly signed channel partners by region include:」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「, a Platinum Partner reseller for Stratasys and Desktop Metal 3D printers, will bring its decades of 3D printing industry expertise to represent PostProcess in」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Find a Reseller」（https://www.postprocess.com/）
+- 料金：
+  - 「DEMI 830 Pricing」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「DEMI 4100 Pricing」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「DEMI X 200 Plus Pricing」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「DEMI X 520 Pricing」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「DEMI X 520 Dental Pricing」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「DEMI X 5000 Pricing」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「PostProcess Technologies recieves $4 million investment through seed fund」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「New York-based PostProcess Technologies has announced a $4 million seed round as the company looks to accelerate technology developments and meet growing customer demand.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「has announced a $4 million seed round as the company looks to accelerate technology developments and meet growing customer demand.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「, making up a quarter of the total funding with a $1 million injection.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「New York Ventures is the is the venture capital arm of Empire State Development (ESD), a New York State business resource and innovation investment division. Dedicated to encouraging innovation and fuelling economic growth in communities across the State, New York Ventures has pledged $1m into what it perceives as a burgeoning company in an equally burgeoning industry.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「Roboze raises $10m to support US expansion」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「6K Additive secures final EXIM loan agreement worth $27.4m」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+- 無料体験：
+  - 「Our YouTube channel hosts hundreds of educational tutorials, product demonstrations, recorded webinars, and best practices for all of our products and services.」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「This milestone demonstrates the value of a technology partnership that extends well beyond the initial purchase of equipment. As the PostProcess fleet continues to grow with this global consumer goods manufacturer, so has its investment in the consumables, accessories, and service needed to keep these systems operating at peak performance.」（https://www.postprocess.com/news/press-releases/）
+  - 「across its additive manufacturing operations. Its continued investment in service and warranty support further demonstrates a proactive approach to maintaining equipment performance, minimizing downtime, and preventing post-processing bottlenecks within its AM workflow.」（https://www.postprocess.com/news/press-releases/）
+  - 「“When one of the most innovative companies in the world scales to 26 of our solutions, with many more planned, it clearly demonstrates that automated post-processing is no longer optional but a key element of the additive workflow,”」（https://www.postprocess.com/news/press-releases/）
+  - 「Can 5-axis Desktop CNC Follow 3D Printing's Democratization Path? Infimaker Thinks So」（https://manufactur3dmag.com/postprocess-technologies-expands-its-reach-of-automated-3d-post-printing-solutions-to-japan/）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/167972-50）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/167972-50）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/167972-50）
+  - 「Learn more by requesting a demo」（https://www.cbinsights.com/company/postprocess-technologies/financials）
+  - 「Request a free trial of the Demi X 200 Plus」（https://cdg.uk.com/postprocess-demi-x-200-plus/）
+  - 「Demi X 200 Plus Free Trial Request Form」（https://cdg.uk.com/postprocess-demi-x-200-plus/）
+  - 「Can 5-axis Desktop CNC Follow 3D Printing's Democratization Path? Infimaker Thinks So」（https://manufactur3dmag.com/postprocess-aux-400-rinse-automated-resin-removal/）
+  - 「Start free trial」（https://fundediq.co/postprocess-technologies-postprocess-com-funding/）
+  - 「14-day free trial · Cancel anytime」（https://fundediq.co/postprocess-technologies-postprocess-com-funding/）
+  - 「Start your free trial →」（https://fundediq.co/postprocess-technologies-postprocess-com-funding/）
+- 日本語対応：
+  - 「Our translation team is diligently working to provide a fully localized experience.」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「This cookie is used to store the user's time zone information to provide localized experiences or content based on the geographical area.」（https://mfg.trimech.com/postprocess-technologies/）
+  - 「With IZIT and Altair Consulting in Europe, Laser Lines in the UK, and MONOTECH Systems Limited and AAM Co. in Asia, PostProcess is leveraging local expertise and market insights to deliver its advanced solutions, streamlining the post-printing step in additive manufacturing. Each partner brings unique capabilities to drive localized approaches in their respective 3D printing markets.」（https://www.postprocess.com/news/press-releases/）
+  - 「“K.K.IRISU’s main objective is to educate the Japanese market in additive manufacturing and to continue to be the solution provider for the Japanese 3D manufacturing world.”」（https://3dprintingindustry.com/news/postprocess-technologies-enters-asain-market-with-k-k-irisu-partnership-167266/）
+  - 「“Adding PostProcess Technologies to our lineup will help assist the Japanese market to compete with other countries in additive manufacturing as well as globally maintain the high standards of the tag ‘Made in Japan’.”」（https://3dprintingindustry.com/news/postprocess-technologies-enters-asain-market-with-k-k-irisu-partnership-167266/）
+  - 「which saw its 3D printing technology distributed into the Japanese market.」（https://3dprintingindustry.com/news/postprocess-technologies-enters-asain-market-with-k-k-irisu-partnership-167266/）
+- 会社の規模：
+  - 「: All partners have established frameworks to educate and support their customers on advanced 3D printing solutions. PostProcess' technologies fundamentally reshape the additive manufacturing opportunity and require partners who are at the forefront of change.」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「, VP at Tech-Labs. "We immediately recognized the innovation and impact of the PostProcess solution and are excited to offer our customers access to this latest cutting-edge technology for 3D printing."」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「, making up a quarter of the total funding with a $1 million injection.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「Building on the proven performance of the industry-leading DEMI 4100™, the new DEMI X 5000 delivers greater efficiencies to help manufacturers scale their additive operations with ease. Engineered to meet the growing demand of customers printing large-scale SLA parts, the PostProcess」（https://www.postprocess.com/news/press-releases/）
+  - 「PostProcess Technologies DEMI 4100 Automated Post-Processing Solution Streamlines SLA Customers’ Workflow When Paired with Stratasys Neo800+ Printer」（https://www.postprocess.com/news/press-releases/）
+  - 「Stratasys Neo800 series」（https://www.postprocess.com/news/press-releases/）
+  - 「The Neo®800+ printer delivers high-precision SLA printing with superior part quality and production efficiency. Now, by integrating the DEMI 4100 into the recommended post-processing step, customers can optimize their additive manufacturing workflow to new levels of」（https://www.postprocess.com/news/press-releases/）
+  - 「“Stratasys customers demand reliability and efficiency throughout the additive workflow. By recommending the PostProcess DEMI 4100 solution as part of the AM workflow, our Neo series customers are streamlining their end-to-end solution,” said」（https://www.postprocess.com/news/press-releases/）
+  - 「to pair with their Stratasys NEO Series and J Series printers, enhancing their operational efficiency. With the DEMI 4100 added to their existing fleet of PostProcess solutions, PartsToGo is able to offer exceptional quality and turn-around time to meet the growing needs of their customers across industries, including automotive, aerospace, and healthcare.」（https://www.postprocess.com/news/press-releases/）
+  - 「PostProcess® Technologies Launches DEMI X 520 for Dental PolyJet Customers」（https://www.postprocess.com/news/press-releases/）
+  - 「“MONOTECH’s partnership with PostProcess Technologies is a strategic move to bring cutting-edge post-processing solutions to the Indian market. By combining our expertise in 3D printing with their innovative technology, we aim to revolutionize the industry and offer our customers unparalleled value,” said Mr. Tej Prakash Jain, Managing Director of MONOTECH SYSTEMS LIMITED.」（https://www.postprocess.com/news/press-releases/）
+  - 「This partnership is a significant milestone in further improving the PBF production process by eliminating manual powder removal, reducing production time, and increasing operational efficiency. By integrating automated depowdering with the PBF workflow, customers can experience labor cost reductions of over 75% and powder recovery of over 95%.」（https://www.postprocess.com/news/press-releases/）
+- 顧客・用途：
+  - 「Stratasys Launches Post Processing Partnership Program to Improve the Customer Experience by Simplifying Additive Manufacturing Workflows :: Stratasys Ltd. (SSYS)」（https://investors.stratasys.com/news-events/press-releases/detail/968/stratasys-launches-post-processing-partnership-program-to）
+  - 「Stratasys Launches Post Processing Partnership Program to Improve the Customer Experience by Simplifying Additive Manufacturing Workflows」（https://investors.stratasys.com/news-events/press-releases/detail/968/stratasys-launches-post-processing-partnership-program-to）
+  - 「PostProcess Technologies named first partner under new program, expanding customer access to validated post-processing solutions」（https://investors.stratasys.com/news-events/press-releases/detail/968/stratasys-launches-post-processing-partnership-program-to）
+  - 「, a strategic initiative designed to simplify how customers access validated post-processing solutions as part of complete, end-to-end additive manufacturing workflows. As part of the program’s launch, Stratasys also announced a new commercial agreement with」（https://investors.stratasys.com/news-events/press-releases/detail/968/stratasys-launches-post-processing-partnership-program-to）
+  - 「Through the program, Stratasys curates and validates third-party solutions that are guaranteed to work with its systems, allowing customers to purchase post-processing equipment alongside Stratasys software, materials, printers, and services through Stratasys channels. This approach simplifies procurement, reduces risk, and helps customers deploy optimized workflows more efficiently.」（https://investors.stratasys.com/news-events/press-releases/detail/968/stratasys-launches-post-processing-partnership-program-to）
+  - 「Customer Stories」（https://www.postprocess.com/3dz-partner/）
+  - 「Automotive」（https://www.postprocess.com/3dz-partner/）
+  - 「Aerospace」（https://www.postprocess.com/3dz-partner/）
+  - 「Medical」（https://www.postprocess.com/3dz-partner/）
+  - 「Specializing in 3D printers, additive software, and additive scanners, 3DZ’s innovative product line aligns with PostProcess’s vision to fully digitize additive workflows for Industry 4.0. The automated post-printing solutions will nicely complement 3DZ’s range of offerings, which aptly cater to market verticals such as medical, dental, health, aerospace, automotive, architecture, and more.」（https://www.postprocess.com/3dz-partner/）
+  - 「Aerospace, Defense」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Automotive」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Energy & Natural Resources」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Oil & Energy」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+  - 「Energy & Natural Resources Overview」（https://www.prnewswire.com/news-releases/postprocess-announces-expanded-channel-partner-coverage-across-north-america-300651608.html）
+- 検索結果の抜粋：
+  - 「PostProcess Welcomes 3DZ As Newest Channel Partner — PostProcess Welcomes 3DZ As Newest Channel Partner PostProcess Technologies https://www.postprocess.com > 3dz-p...」（https://www.postprocess.com/3dz-partner/）
+  - 「Stratasys Post Processing Partnership for 3D Printing - LinkedIn — Stratasys Post Processing Partnership for 3D Printing - LinkedIn LinkedIn https://www.linkedin.com > posts > p...」（https://www.linkedin.com/posts/postprocess-technologies_3dprinting-stratasys-postprocessing-activity-7421947807433089025-rbWa）
+  - 「Post Process Support Removal Solutions for 3D Printing — Post Process Support Removal Solutions for 3D Printing GoEngineer https://www.goengineer.com > postpr...」（https://www.goengineer.com/3d-printing/post-processing/postprocess）
+  - 「PostProcess Technologies recieves $4 million investment ... — PostProcess Technologies recieves $4 million investment ... TCT Magazine https://www.tctmagazine.com > postp...」（https://www.tctmagazine.com/postprocess-technologies-4-million-investment-seed-fund/）
+  - 「DMM.make to offer PostPro3D post processing | 3dpbm — DMM.make to offer PostPro3D post processing | 3dpbm VoxelMatters https://www.voxelmatters.com > dmm...」（https://www.voxelmatters.com/dmm-make-to-offer-postpro3d-post-processing-for-b2b-and-b2c-am-services-in-japan/）
+  - 「PostProcess Technologies enters Asian market with K.K IRISU ... — PostProcess Technologies enters Asian market with K.K IRISU ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/postprocess-technologies-enters-asain-market-with-k-k-irisu-partnership-167266/）
+  - 「PostProcess 2026 Company Profile - PitchBook — PostProcess 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/167972-50）
+  - 「NY Ventures Provides $1M Investment in PostProcess — NY Ventures Provides $1M Investment in PostProcess PostProcess Technologies https://www.postprocess.com > 2024/07」（https://www.postprocess.com/2024/07/ny-ventures-pr/）
+
+## DLyte（DLyte）
+- 文脈：後工程（乾式電解研磨）
+- 日本の代理店：
+  - 「DLyte | 株式会社NTTデータ ザムテクノロジーズ」（https://www.nttdata-xam.com/dlyte/）
+  - 「NTT データ ザムテクノロジーズは同社と日本総代理店契約を締結しています」（https://www.nttdata-xam.com/dlyte/）
+  - 「太盛工業株式会社」（https://www.nttdata-xam.com/dlyte/）
+  - 「ウエムラ技研株式会社」（https://www.nttdata-xam.com/dlyte/）
+  - 「株式会社アクトメント」（https://www.nttdata-xam.com/dlyte/）
+  - 「株式会社ヨダ」（https://www.nttdata-xam.com/dlyte/）
+  - 「株式会社J・3D」（https://www.nttdata-xam.com/dlyte/）
+  - 「当社は2018年よりDLyteの正規販売代理店です」（https://www.nttdata-xam.com/dlyte/）
+  - 「株式会社NTTデータザムテクノロジーズ」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「NTTデータザムテクノロジーズとは、同社と日本総代理店契約を締結しています」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「【 会社案内 】株式会社NTTデータザムテクノロジーズ」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「当社は、1993年にEOSの総代理店としての事業をスタート」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「NKワークス株式会社」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「株式会社NSC (エンジニアリング事業部)」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「株式会社中央製作所 東京支店」（https://mono.ipros.com/product/detail/2000741822/）
+- 再販・パートナー制度：
+  - 「The DryLyte Technology ensures stable results among various batches along the electrolyte media lifespan. There is no physical wear, as would typically occur with abrasive particles.」（https://www.dlyte.com/）
+  - 「Consultancy services in process development from concept to design, manufacturing, commissioning, installation and correct operation. If you do not have a standard solution already implemented, we would be more than happy to customize a solution to fit your needs.」（https://www.dlyte.com/）
+  - 「distributors across」（https://www.dlyte.com/）
+  - 「Become a partner」（https://www.dlyte.com/）
+  - 「SurfacePrep is a proud distributor of DLyte dry electropolishing systems, including the full range of DLyte equipment designed for high-precision polishing, deburring, and surface refinement. Whether you’re working with medical implants, aerospace components, or complex industrial parts, SurfacePrep has the finishing solutions you need from the brands you trust.」（https://surfaceprep.com/vendors/dlyte/）
+  - 「SurfacePrep delivers results beyond the surface as a DLyte Distributor」（https://surfaceprep.com/vendors/dlyte/）
+  - 「, as the main training center, offers practical, hands-on seminars covering the subjects mass finishing, shot blasting, lean management and additive manufacturing. Besides the German plants in Untermerzbach/Memmelsdorf and Bad Staffelstein/Hausen the Rösler Group also includes 15 subsidiaries and 150 distributors worldwide.」（https://www.rosler.com/en/news/detail/gpainnova-installs-a-dlyte-pro500-the-most-advanced-dry-electropolishing-machine-at-roeslers-customer-experience-center）
+  - 「Become a partner」（https://www.dlyte.com/service/）
+  - 「Consultancy services in process development from concept to design, manufacturing, commissioning, installation and correct operation. If you do not have a standard solution already implemented, we would be more than happy to customize a solution to fit your needs.」（https://www.dlyte.com/products/）
+  - 「Become a partner」（https://www.dlyte.com/products/）
+  - 「Production has been underway since April 1 and orders are being accepted. The brand’s major distributors have already placed orders to deliver the first units in May 2021. Manufacturing of about 500 units is expected by March 2022.」（https://www.gpainnova.com/gpainnova-to-launch-dlyte-desktop-pro-the-first-ultra-compact-dry-electropolishing-machine/）
+  - 「for its mechanical ventilator RESPIRA. This recognition was granted by the Industry 4.0 commission, an initiative of the Catalan Industrial Engineers society.」（https://www.dlyte.com/company/about-us/）
+  - 「distributors across」（https://www.dlyte.com/company/about-us/）
+  - 「Become a partner」（https://www.dlyte.com/company/about-us/）
+  - 「Become a partner」（https://www.dlyte.com/contact/）
+- 料金：
+  - 「small dimensions (450 x 521 x 471 mm), its price and the fact of not requiring a special pre-existing electrical or compressed air installation」（https://www.gpainnova.com/gpainnova-to-launch-dlyte-desktop-pro-the-first-ultra-compact-dry-electropolishing-machine/）
+  - 「. GPAINNOVA has a team of more than 150 professionals on staff and more than 35 engineers, and had a turnover of €15.8 million in 2020. The company has been selected by Financial Times among the」（https://www.gpainnova.com/gpainnova-to-launch-dlyte-desktop-pro-the-first-ultra-compact-dry-electropolishing-machine/）
+  - 「of €15.8 million tripling its turnover from the previous year (€5.9 million).」（https://www.dlyte.com/company/about-us/）
+  - 「100万円 ~ 500万円」（https://mono.ipros.com/product/detail/2001068243/）
+  - 「(参考価格: ¥1,000,000～¥10,000,000)」（https://mono.ipros.com/cg2/%E9%9B%BB%E8%A7%A3%E7%A0%94%E7%A3%A8%E6%A9%9F/）
+  - 「価格：100万円 ~ 500万円」（https://mono.ipros.com/cg2/%E9%9B%BB%E8%A7%A3%E7%A0%94%E7%A3%A8%E6%A9%9F/）
+  - 「価格：500万円 ~ 1000万円」（https://mono.ipros.com/cg2/%E9%9B%BB%E8%A7%A3%E7%A0%94%E7%A3%A8%E6%A9%9F/）
+  - 「. GPAINNOVA has a team of more than 150 professionals on staff and more than 35 engineers, and had a turnover of €15.8 million in 2020. The company has been selected by」（https://www.gpainnova.com/gpainnova-kicks-off-dlyte-on-tour-in-house-trials-with-the-dry-electropolishing-technology/）
+  - 「GPAINNOVA Hits Record Annual Revenue in 2023: €35M」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「1. Setting Again a Financial Record: €35 Million, a 34,6 Percent Increase Over the Previous Year」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「again set a new annual turnover record in 2023, reaching €35 million」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「. In terms of EBITDA (Earnings Before Interest Taxes Depreciation and Amortization), it consolidated results within the DryLyte Group, totaling €7 million.」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「This marks the seventh consecutive year of record-breaking performance, with a €9 million increase from 2022 (+34.6 percent). The 2023 figure is 58 times higher than 2016 (€600,000).」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「DLyte Chemicals, part of the DryLyte Group, generated €4.3 million in revenues and €1.8 million in EBITDA in 2023.」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+- 無料体験：
+  - 「◎製品に関するご質問、デモ機のご相談等ございましたらお気軽にお問合せください」（https://mono.ipros.com/product/detail/2001068243/）
+  - 「◎製品に関するご質問、デモ機のご相談等ございましたらお気軽にお問合せください」（https://mono.ipros.com/cg2/%E9%9B%BB%E8%A7%A3%E7%A0%94%E7%A3%A8%E6%A9%9F/）
+  - 「in-house demo」（https://www.dlyte.com/comms/）
+  - 「Looking for a free trial at your company?」（https://www.dlyte.com/comms/）
+  - 「Free trials」（https://www.gpainnova.com/gpainnova-kicks-off-dlyte-on-tour-in-house-trials-with-the-dry-electropolishing-technology/）
+  - 「companies will be able to attend free demonstrations of DLyte technology in their factories and offices and, if they wish, to」（https://www.gpainnova.com/gpainnova-kicks-off-dlyte-on-tour-in-house-trials-with-the-dry-electropolishing-technology/）
+  - 「Free Trial」（https://acton-finishing.com/surface-finishing-machine/dlyte-dry-electropolishing-technology/）
+  - 「REQUEST A FREE TRIAL」（https://acton-finishing.com/surface-finishing-machine/dlyte-dry-electropolishing-technology/）
+  - 「This milestone was possible thanks to the collaboration with Fraunhofer-Gesellschaft IGCV, pioneers in advanced manufacturing. Attendees at the aforementioned trade fair were able to witness this innovation firsthand with a demonstrator featuring Steel (1.2709) and conductive Copper CW106C.」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「certification. It consists in a globally recognized standard for quality management systems in the medical device industry. The achievement of this certification underscores GPAMEDICAL’s and its business group’s commitment to delivering high-quality products and services to customers, demonstrating an unwavering dedication to the highest standards in the medical industry.」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「Demo Sales」（https://indicatetechnologies.com/pages/about-dlyte?srsltid=AYCX9vJ35fHgyFj7ajcdQfJGMYvjdgzHOVvAIHEUmvbr9RT2W7xE2ayE）
+  - 「Request a Demo」（https://indicatetechnologies.com/pages/about-dlyte?srsltid=AYCX9vJ35fHgyFj7ajcdQfJGMYvjdgzHOVvAIHEUmvbr9RT2W7xE2ayE）
+- 日本語対応：
+  - 「JA - 日本語」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「JA - Japanese」（https://mono.ipros.com/en/product/detail/2001215413/）
+  - 「Japanese」（https://mono.ipros.com/en/product/detail/2001215413/）
+  - 「JA - 日本語」（https://mono.ipros.com/product/detail/2001215222/）
+  - 「JA - 日本語」（https://mono.ipros.com/product/detail/2001068243/）
+- 会社の規模：
+  - 「PRO500 Series」（https://www.dlyte.com/products/）
+  - 「. There are more than 400 satisfied customers who have taken the step towards polishing automation with DLyte.」（https://www.gpainnova.com/gpainnova-to-launch-dlyte-desktop-pro-the-first-ultra-compact-dry-electropolishing-machine/）
+  - 「SB100 Series」（https://www.gpainnova.com/gpainnova-to-launch-dlyte-desktop-pro-the-first-ultra-compact-dry-electropolishing-machine/）
+  - 「*Source: Internal studies among DLyte customers (2020)」（https://www.rosler.com/fileadmin/user_upload/am-pp/pdf/gpa/EN_DLYTE_DESKTOP_PRO_EN.pdf）
+  - 「DLyte Desktop Series is selected as the Most Innovative Electropolishing Machine 2021.」（https://www.dlyte.com/company/about-us/）
+  - 「GPAINNOVAは金属・合金部品の表面仕上げソリューションに特化した企業で、2013年にバルセロナで設立」（https://www.nttdata-xam.com/dlyte/）
+  - 「EOS社は、1989年に設立された歴史を持つ産業用３Dプリンターのパイオニアで、３Dプリンターや材料のほか、部品設計、品質管理、後処理までを手掛ける3Dプリンター業界のマーケットリーダーです」（https://mono.ipros.com/product/detail/2000741822/）
+  - 「We will combine all the 3D printer-related technologies we have cultivated with the latest technologies from the NTT Data Group to contribute to our customers and society.」（https://mono.ipros.com/en/product/detail/2001215413/）
+  - 「For over 30 years, we have accumulated various skills and know-how related to 3D printers while adhering to EOS's philosophy and technology. We propose the most suitable 3D printers for our customers and provide solutions for utilizing 3D printers.」（https://mono.ipros.com/en/product/detail/2001215413/）
+  - 「GPAINNOVAは金属・合金部品の表面仕上げソリューションに特化した企業で、2013年にスペイン・バルセロナで設立」（https://mono.ipros.com/product/detail/2001215222/）
+  - 「EOS社は、1989年に設立された歴史を持つ産業用３Dプリンターのパイオニアで、３Dプリンターや材料のほか、部品設計、品質管理、後処理までを手掛ける3Dプリンター業界のマーケットリーダーです」（https://mono.ipros.com/product/detail/2001215222/）
+  - 「SB100 Series」（https://www.gpainnova.com/gpainnova-kicks-off-dlyte-on-tour-in-house-trials-with-the-dry-electropolishing-technology/）
+  - 「GPAINNOVA Hits Record Annual Revenue in 2023: €35M」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「DLyte Chemicals, part of the DryLyte Group, generated €4.3 million in revenues and €1.8 million in EBITDA in 2023.」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+  - 「and German data provider Statista. The annual ranking recognizes companies with exceptional revenue growth over the three-year period ending in 2022.」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+- 顧客・用途：
+  - 「Aerospace」（https://www.dlyte.com/）
+  - 「Automotive」（https://www.dlyte.com/）
+  - 「Medical device」（https://www.dlyte.com/）
+  - 「A smooth finish cuts down on friction loss, improving the bearing ratio, optimizing wear and tear and minimizing energy consumption and noise.」（https://www.dlyte.com/）
+  - 「The DryLyte Technology offers a wide range of finishing media. The consumables, designed and developed in our test lab, allow us to precisely meet our customers’ requirements.」（https://www.dlyte.com/）
+  - 「Customer service」（https://www.dlyte.com/）
+  - 「DLyte Hub and Store are specifically designed for current customers and partners to find the complete range of updated products, activate electrolytes, download operating and maintenance manuals, data sheets and process parameters, and also to order products.」（https://www.dlyte.com/）
+  - 「For medical device industry」（https://www.dlyte.com/）
+  - 「For marine & energy industries」（https://www.dlyte.com/）
+  - 「For the Medical Sector」（https://www.dlyte.com/）
+  - 「satisfied customers」（https://www.dlyte.com/）
+  - 「Customer Hub」（https://www.dlyte.com/）
+  - 「High-Energy Finishing Systems」（https://surfaceprep.com/vendors/dlyte/）
+  - 「SurfacePrep is a proud distributor of DLyte dry electropolishing systems, including the full range of DLyte equipment designed for high-precision polishing, deburring, and surface refinement. Whether you’re working with medical implants, aerospace components, or complex industrial parts, SurfacePrep has the finishing solutions you need from the brands you trust.」（https://surfaceprep.com/vendors/dlyte/）
+  - 「GPAINNOVA Installs a DLyte PRO500, the Most Advanced Dry Electropolishing Machine, at Rösler’s Customer Experience Center - Rösler Group」（https://www.rosler.com/en/news/detail/gpainnova-installs-a-dlyte-pro500-the-most-advanced-dry-electropolishing-machine-at-roeslers-customer-experience-center）
+- 検索結果の抜粋：
+  - 「GPAINNOVA Installs a DLyte PRO500, the Most Advanced ... — GPAINNOVA Installs a DLyte PRO500, the Most Advanced ... Rösler Group https://www.rosler.com > ... > Detail」（https://www.rosler.com/en/news/detail/gpainnova-installs-a-dlyte-pro500-the-most-advanced-dry-electropolishing-machine-at-roeslers-customer-experience-center）
+  - 「DLyte 1D: The solution for dental laboratories - YouTube — DLyte 1D: The solution for dental laboratories - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=sYFTOIBkMdk）
+  - 「DLyte PRO500: Precise metal surface finishing for ... - YouTube — DLyte PRO500: Precise metal surface finishing for ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=yNiw6jWCHik）
+  - 「第5回 XAMウェビナー 【オンデマンド再放送】「 DLyte 乾式 ... — 第5回 XAMウェビナー 【オンデマンド再放送】「 DLyte 乾式 ... 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > ニュース > イベント」（https://www.nttdata-xam.com/news/event/article_1010/）
+  - 「GPAINNOVA Hits Record Annual Revenue in 2023: €35M — GPAINNOVA Hits Record Annual Revenue in 2023: €35M GPAInnova https://www.gpainnova.com > top-10...」（https://www.gpainnova.com/top-10-highlights-of-gpainnova-in-2023/）
+
+## Artec Studio（Artec 3D）
+- 文脈：3Dスキャン
+- 日本の代理店：
+  - 「Japan office」（https://www.artec3d.com/where-to-buy）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/where-to-buy）
+  - 「Japan office」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Japan office」（https://www.artec3d.com/prices/software）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/prices/software）
+  - 「Japan office」（https://www.artec3d.com/prices）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/prices）
+  - 「Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo | 2024 - Events & News - Investing in Japan - Japan External Trade Organization - JETRO」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Tokyo Metropolitan Government's Support」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Japan office」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Artec 3D Opens Office in Tokyo, Japan | DailyCADCAM」（https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/）
+  - 「Artec 3D Opens Office in Tokyo, Japan – DailyCADCAM」（https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/）
+- 再販・パートナー制度：
+  - 「Where to Buy a 3D Scanner - Artec 3D Reseller List」（https://www.artec3d.com/where-to-buy）
+  - 「Find a reseller」（https://www.artec3d.com/where-to-buy）
+  - 「Become an Artec 3D reseller」（https://www.artec3d.com/where-to-buy）
+  - 「Artec 3D licensed distributors」（https://www.artec3d.com/where-to-buy）
+  - 「Artec 3D can only bear responsibility for products bought through our official channels, so have a look at our list of resellers here, and buy with confidence for the best results, service, and experiences from your new 3D scanner right away!」（https://www.artec3d.com/where-to-buy）
+  - 「resellers」（https://www.artec3d.com/where-to-buy）
+  - 「About reseller statuses」（https://www.artec3d.com/where-to-buy）
+  - 「Norde International Distributors Inc.」（https://www.artec3d.com/where-to-buy）
+  - 「Car Insurance Discounts」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「This is a paid press release. Contact the press release distributor directly with any inquiries.」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「3D scanning technology leader continues to expand global presence with new class of global certified resellers」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「To earn the Gold accreditation, each Artec 3D reseller had to complete a rigorous testing process that demonstrated their advanced knowledge of Artec's comprehensive product line of 3D」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「To find an Artec 3D reseller near you, visit」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「Find a reseller」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Every year, Artec 3D, a forerunner in the world of 3D technologies, unveils its list of Ambassadors and Gold-certified Partners, and 2024 is no exception. The distinguished professionals on this list form a network of trusted resellers across the globe, excelling in 3D knowledge and providing impeccable customer service.」（https://www.artec3d.com/news/ambassadors-2024）
+- 料金：
+  - 「3D Software Prices — the best deals on advanced 3D software」（https://www.artec3d.com/prices/software）
+  - 「US $6,840」（https://www.artec3d.com/prices/software）
+  - 「US $17,100」（https://www.artec3d.com/prices/software）
+  - 「Advanced software for capturing digital twins with Artec 3D scanners or any camera-equipped device. Upgraded each year with updated features & algorithms. Annual subscription with workflow scripting functionality.」（https://www.artec3d.com/prices/software）
+  - 「US $1,700」（https://www.artec3d.com/prices/software）
+  - 「US $4,300」（https://www.artec3d.com/prices/software）
+  - 「US $96」（https://www.artec3d.com/prices/software）
+  - 「US $960」（https://www.artec3d.com/prices/software）
+  - 「US $48」（https://www.artec3d.com/prices/software）
+  - 「Artec 3D Pricing | CADTech USA」（https://www.cadtechusa.com/artec_pricing.html）
+  - 「3D PRINTING PRICING」（https://www.cadtechusa.com/artec_pricing.html）
+  - 「Artec 3D Pricing」（https://www.cadtechusa.com/artec_pricing.html）
+  - 「$38,300 USD」（https://www.cadtechusa.com/artec_pricing.html）
+  - 「$29,700 USD」（https://www.cadtechusa.com/artec_pricing.html）
+  - 「$25,600 USD」（https://www.cadtechusa.com/artec_pricing.html）
+- 無料体験：
+  - 「Ask a specific question, get your hands on an Artec 3D scanner, request a demo, or make a purchase. Get in touch, and we’ll make it happen!」（https://www.artec3d.com/where-to-buy）
+  - 「Available demo scanners:」（https://www.artec3d.com/where-to-buy）
+  - 「To earn the Gold accreditation, each Artec 3D reseller had to complete a rigorous testing process that demonstrated their advanced knowledge of Artec's comprehensive product line of 3D」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「must undergo a rigorous certification process. This test, curated by the Artec 3D Training and Support team, allows resellers to demonstrate their full potential and deep understanding of the entire Artec 3D professional product line, as well as their proficiency with the hardware and software.」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Demonstration FAQs」（https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw）
+  - 「Book Demo」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Watch product demonstration videos」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Request Demo」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Earning the Gold-Certified Partner Ambassador status is not guaranteed each year. We are required to undergo a rigorous recertification process every year and we must demonstrate our profound comprehension of Artec’s ecosystem and mastery of all their products. Here is what it takes to get this recognition.」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Currently, we have all of Artec’s 3D scanners for an online demonstration at your convenience.」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Instantly Schedule a Demo with GoMeasure3D」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Book A 3D Scanning Online Demo With Us.」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Request an Online Demo」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Finding out where you can get your hands on an Artec 3D scanner, request an in-person demo, or make a purchase is the next step, and we’re here to help.」（https://www.artec3d.com/prices）
+  - 「3DMakerWorld is a Gold-Certified Artec 3D reseller with offices in Naperville, IL and Lenexa, KS. Compare every Artec scanner we carry, from the Micro II desktop scanner to the Jet SLAM LiDAR system, then book a free demo or request a quote.」（https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr）
+- 日本語対応：
+  - 「Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo | 2024 - Events & News - Investing in Japan - Japan External Trade Organization - JETRO」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Japanese」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Support for Collaboration between Japanese and Foreign Companies」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Japanese agriculture, forestry, fisheries and food」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Partnership and collaboration with Japanese companies (J-Bridge)」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Japanese Trade and Investment Statistics」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Artec 3D has long had customers among automobile manufacturers and educational institutions through its sales agents in Japan. Due to the high evaluation from these clients, the company determined that it had the potential to further develop the market and established a Japanese subsidiary.」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「The company plans to strengthen sales activities and after-sales services from its Japanese subsidiary to establish a firm foothold with existing customers and to further develop new customers, and it also plans to maintain the relationship with its distributors in Japan.」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「To assist with setting up the company's Japanese subsidiary, JETRO's Invest Japan Business Support Center (IBSC) provided temporary office space, introduced recruitment agencies and real estate companies, and provided consultations for tax and labor affairs.」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「We will do our very best to support your business expansion into and within Japan as well as business collaboration with Japanese companies. Please feel free to contact us via the form below for any inquiries.」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「“I have known Artec 3D for many years; Artec 3D is among the companies that, with their products, add value to society,” said Luxembourg Ambassador to Japan, Mr. Pierre Ferring. “I am happy to see them establishing a presence in Japan. In view of the technological excellence of Artec’s products and the love of Japanese people for quality, I am convinced of the success of Artec 3D Japan.”」（https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/）
+  - 「Professional scanning solutions from Artec 3D play a key role in Japan, and are in use by leading brands such as Toyota and ASICS, as well as civil and educational facilities and organizations. One Japanese company that specializes in aircraft customization, Tech Strake, uses Artec Eva and Space Spider」（https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/）
+  - 「使用可能言語：簡体字中国語、繁体字中国語、クロアチア語、チェコ語、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポーランド語、ポルトガル語、ロシア語、スペイン語、トルコ語、ウクライナ語」（https://www.artec3d.com/ja/3d-software/artec-studio）
+  - 「To ensure accessibility to individuals and teams all over the world, Artec Studio is available and fully functional in 16 languages: Chinese Simplified, Chinese Traditional, Croatian, Czech, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Turkish, and Ukrainian.」（https://www.artec3d.com/3d-software/artec-studio）
+- 会社の規模：
+  - 「Exceptional knowledge of Artec 3D products, excellent support for customers.」（https://www.artec3d.com/where-to-buy）
+  - 「Good knowledge of Artec 3D products, effective support for customers.」（https://www.artec3d.com/where-to-buy）
+  - 「Exceptional knowledge of Artec 3D products, excellent support for customers.」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「To be an Artec Gold-Certified Ambassador, we have to show that we provide exceptional customer care and an all-round excellent experience for our customers. All of the members of our technical team are power users of Artec’s 3D scanners and software. We know how to use each system inside and out to provide anyone looking to buy a 3D scanner the best and most honest advice.」（https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/）
+  - 「Space Spider, Medit D700, MH and MHT series」（https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0）
+  - 「Founded in 2007 in San Diego, California,」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Headquartered in Luxembourg, the company has subsidiaries in the United States (California), China (Shanghai), and Montenegro (Bar). It operates globally through these locations and works with numerous customers around the world, providing cutting-edge 3D technology to those in various industries.」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Artec 3D has long had customers among automobile manufacturers and educational institutions through its sales agents in Japan. Due to the high evaluation from these clients, the company determined that it had the potential to further develop the market and established a Japanese subsidiary.」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Exceptional knowledge of Artec 3D products, excellent support for customers.」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Good knowledge of Artec 3D products, effective support for customers.」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Data acquisition speed is up to 3 million points/second. No need for target markers, and Leo can operate effectively in broad daylight or complete darkness, and everything in between. Fully mobile and entirely wireless, no cables needed. SSD memory cards make possible unlimited captures. Built on the」（https://en.wikipedia.org/wiki/Artec_3D）
+  - 「Micro, Ray, Spider, Space Spider, Medit D700, MH and MHT series AG, AC, W2, and T2」（https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66）
+  - 「Artec Eva, Eva Lite, Leo, Metrology Kit, Micro II, Point, Ray II, Spider II, plus discontinued models: Micro, Ray, Spider, Space Spider, Medit D700, MH and MHT series AG, AC, W2, and T2」（https://www.central-scanning.co.uk/product/artec-studio/?srsltid=AYCX9vIqW6W9NIgmxZbr087nOzE3wpjAkZ9-CKzU64VoAUhAjHR7eoUv）
+  - 「EIB funding supports Artec 3D’s investments taking place in its research facilities in both Luxembourg and Portugal.」（https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies）
+  - 「"Innovative companies like Artec 3D can get the financing they need to scale-up right here in Europe. The EIB offers funding for critical technology to remain within the EU. That is why initiatives like InvestEU, and our new TechEU programme, are so important. We are happy to put our venture debt behind Artec 3D, to ensure that this advanced technology can grow in Europe."」（https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies）
+- 顧客・用途：
+  - 「Automotive」（https://www.artec3d.com/where-to-buy）
+  - 「Medical device manufacturing」（https://www.artec3d.com/where-to-buy）
+  - 「Medical」（https://www.artec3d.com/where-to-buy）
+  - 「Experts in Artec 3D’s complete line of scanners, unbeatable customer service and technical support.」（https://www.artec3d.com/where-to-buy）
+  - 「Exceptional knowledge of Artec 3D products, excellent support for customers.」（https://www.artec3d.com/where-to-buy）
+  - 「Good knowledge of Artec 3D products, effective support for customers.」（https://www.artec3d.com/where-to-buy）
+  - 「Customer stories」（https://www.artec3d.com/where-to-buy）
+  - 「Clean Energy」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「Aerospace & Defense」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「, have an elite customer service rating and have excelled in promoting the technology.」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「Automotive」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Medical device manufacturing」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Medical」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Every year, Artec 3D, a forerunner in the world of 3D technologies, unveils its list of Ambassadors and Gold-certified Partners, and 2024 is no exception. The distinguished professionals on this list form a network of trusted resellers across the globe, excelling in 3D knowledge and providing impeccable customer service.」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Customer stories」（https://www.artec3d.com/news/ambassadors-2024）
+- 検索結果の抜粋：
+  - 「Where to Buy a 3D Scanner - Artec 3D Reseller List — Where to Buy a 3D Scanner - Artec 3D Reseller List Artec 3D https://www.artec3d.com > where-to-...」（https://www.artec3d.com/where-to-buy）
+  - 「Artec 3D Unveils 2021 Class of Gold Certified Partners and ... — Artec 3D Unveils 2021 Class of Gold Certified Partners and ... Yahoo Finance https://finance.yahoo.com > news > ar...」（https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html）
+  - 「Artec 3d partner events October 2026 - Facebook — Artec 3d partner events October 2026 - Facebook Facebook https://www.facebook.com > Artec3D > posts > our-partn...」（https://www.facebook.com/Artec3D/posts/our-partners-are-bringing-artec-3d-scanners-to-events-across-germany-the-us-and-/1455099600057694/）
+  - 「Artec 3D updates its annual list of Gold-certified Partners and ... — Artec 3D updates its annual list of Gold-certified Partners and ... Artec 3D https://www.artec3d.com > News」（https://www.artec3d.com/news/ambassadors-2024）
+  - 「Central Scanning - A World Class Artec 3D Ambassador — Central Scanning - A World Class Artec 3D Ambassador Central Scanning https://www.central-scanning.co.uk > ...」（https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw）
+  - 「3D Software Prices — the best deals on advanced ... - Artec 3D — 3D Software Prices — the best deals on advanced ... - Artec 3D Artec 3D https://www.artec3d.com > Prices」（https://www.artec3d.com/prices/software）
+  - 「Artec 3D Pricing - CADTech USA — Artec 3D Pricing - CADTech USA CADTech USA https://www.cadtechusa.com > artec_...」（https://www.cadtechusa.com/artec_pricing.html）
+  - 「Artec 3D scanners prices — Artec 3D scanners prices Artec 3D https://www.artec3d.com > prices」（https://www.artec3d.com/prices）
+  - 「Artec Studio 20 Pro Software License | MatterHackers — Artec Studio 20 Pro Software License | MatterHackers MatterHackers https://www.matterhackers.com > store」（https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0）
+  - 「Artec 3D Scanners: Prices , Specs & Comparison — Artec 3D Scanners: Prices , Specs & Comparison 3DMakerWorld, Inc. https://3dmakerworld.com > artec3d」（https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr）
+  - 「Artec Studio 20 Yearly Subscription 3 licenses (for the same ... — Artec Studio 20 Yearly Subscription 3 licenses (for the same ... GoMeasure3D https://shop.gomeasure3d.com > artec...」（https://shop.gomeasure3d.com/products/artec-studio-18-yearly-subscription-3-pack?srsltid=AYCX9vILaDP9n-KPyrSMQjS1cRAiEFsfDj5ViLJTW4JJgBlwnBWoQ3TJ）
+  - 「Artec 3D , a manufacturer of 3D scanners and scanning ... — Artec 3D , a manufacturer of 3D scanners and scanning ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > ... > 2024」（https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html）
+  - 「Japan — buy 3D scanner from Artec 3D — Japan — buy 3D scanner from Artec 3D Artec 3D https://www.artec3d.com > japan」（https://www.artec3d.com/where-to-buy/japan）
+  - 「Artec 3D - Wikipedia — Artec 3D - Wikipedia Wikipedia https://en.wikipedia.org > Artec_3D」（https://en.wikipedia.org/wiki/Artec_3D）
+  - 「Artec 3D Opens Office in Tokyo, Japan - DailyCADCAM — Artec 3D Opens Office in Tokyo, Japan - DailyCADCAM DailyCADCAM https://dailycadcam.com > artec-3d-o...」（https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/）
+
+## Creaform VXelements（Creaform）
+- 文脈：3Dスキャン・検査
+- 日本の代理店：
+  - 「3Dスキャナ リバースエンジニアリングCREAFORM - 国内正規代理店」（https://systemcreate-inc.co.jp/products/creaform）
+  - 「株式会社 セイロジャパン」（https://www2.kanazawa-it.ac.jp/doi-lab/handyscan307/index.html）
+  - 「Creaform社 3Dスキャンソフトウェア「VXelements 12」最新アップデート！精度と操作性がさらに向上 | 株式会社システムクリエイトのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000138.000140772.html）
+  - 「株式会社システムクリエイト」（https://prtimes.jp/main/html/rd/p/000000138.000140772.html）
+  - 「■会社名：株式会社システムクリエイト」（https://prtimes.jp/main/html/rd/p/000000138.000140772.html）
+- 再販・パートナー制度：
+  - 「Find a Creaform [3D Product Distributor] near you | Creaform」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Find a Creaform 3D Product Distributor near you」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Become a partner」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Bundled Reseller」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Distributor Portal」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Become a Distributor」（https://www.faro.com/en/News-Library/2026/New-CAM2-Casting-Inspection-Enhancements）
+  - 「AUTHORIZED DISTRIBUTORS」（https://www.creaform3d.com/en/about-us/partners）
+  - 「Become a partner」（https://www.creaform3d.com/en/about-us/partners）
+  - 「Each scanner includes Creaform's easy-to-use Peel.OS software, which supports a wide variety of file types. This makes it simple to transfer your scanned 3D data into your favorite CAD or modeling program.」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Become a partner」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「TITANS of CNC NAMED EXCLUSIVE USA DISTRIBUTOR for SYIL Machine Tools!」（https://titansofcnc.com/products/d3d-creaform-dyn-hsbe?srsltid=AYCX9vIaLMwD05zjBcpPv9qUT1N2x5VT70Laq1XBJF7V5zo-MVM-e5mw）
+  - 「State-of-the-art technology that delivers. Dynamic 3D scanners embody the forefront of 3D scanning advancements. They are built with features that cater to the needs of modern digitization, enhancing both the speed and quality of the scanning process for a variety of applications.」（https://titansofcnc.com/products/d3d-creaform-dyn-hsbe?srsltid=AYCX9vIaLMwD05zjBcpPv9qUT1N2x5VT70Laq1XBJF7V5zo-MVM-e5mw）
+  - 「Process Raman supports real-time oil and gas monitoring, from variable feedstocks to fuel quality and hydrogen.」（https://www.azom.com/suppliers.aspx?SupplierID=12564）
+  - 「The Monitoring Module enables asset owners to enter the digital age confidently. It is the only NDT technique available on the market with the required accuracy, noise level, and data quality to characterize, follow, and compare damage evolution over time—detecting even the slightest variation in geometry or thickness.」（https://3dologie.com/creaform-3d-scanning-software/?srsltid=AYCX9vIwgjKENfRsCIA8SYFr7iHGEgM8Kf2BteGwbeR4G_SdmU9ivSXc）
+  - 「In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.」（https://metrology.news/creaform-release-enhanced-vxelements-3d-measurement-software-platform/）
+- 料金：
+  - 「Starting at $846.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $254.15 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $5,043.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $3,995.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $1,995.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $2,625.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $6,419.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $6,170.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $120.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $265.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $9,999.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $89.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $199.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $15.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「Starting at $68.00 USD」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+- 無料体験：
+  - 「Ask for a demo」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Ready to request a demo?」（https://www.faro.com/en/News-Library/2026/New-CAM2-Casting-Inspection-Enhancements）
+  - 「Ask for a demo」（https://www.creaform3d.com/en/about-us/partners）
+  - 「Ask for a demo」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「Since 2005, Creaform has consistently demonstrated its market value and penetration into the Asian market with its acclaimed Handyscan 3D product line. With the incorporation of the Shanghai and Yokohama offices, Creaform now has both a market and geographical advantage to continue its international growth, capitalizing on the economically-emergent markets of the past few years.」（https://www.creaform3d.com/ko/about-us/press-releases/creaform-expands-its-presence-asia-europe-and-north-america）
+  - 「デモのご依頼」（https://www.creaform3d.com/ja/products/software/creaform-metrology-suite）
+  - 「3D Printers – Used – Refurbished – Demo」（https://3dologie.com/creaform-3d-scanning-software/?srsltid=AYCX9vIwgjKENfRsCIA8SYFr7iHGEgM8Kf2BteGwbeR4G_SdmU9ivSXc）
+  - 「Our YouTube channel hosts hundreds of educational tutorials, product demonstrations, recorded webinars, and best practices for all of our products and services.」（https://www.goengineer.com/3d-scanners/creaform）
+  - 「3D Printers – Used – Refurbished – Demo」（https://3dologie.com/creaform-3d-scanning-software/?srsltid=AYCX9vIiwPG1Y3x0FvkehGu33PpG-pqSKt6-mAu4Sh5E5rtjryoHbov6）
+  - 「Ask for a demo」（https://www.creaform3d.com/en/products/software）
+  - 「3D Printers – Used – Refurbished – Demo」（https://3dologie.com/creaform-3d-scanning-software/?srsltid=AYCX9vKaLPjxilc8E4ZsX54_Kq_qugMrHPEuYYi6-VDFaMrOqKPYoHql）
+  - 「The platform has been deployed across multiple machines around the world, with adoption progressing from academic environments into contract manufacturing and prime-led applications.」（https://www.tctmagazine.com/creaform-50-free-bundle-software-licenses-education/）
+  - 「Academic Research」（https://www.reveliolabs.com/companies/creaform/employees）
+  - 「Academic Publications」（https://www.reveliolabs.com/companies/creaform/employees）
+  - 「Book a Demo」（https://www.reveliolabs.com/companies/creaform/employees）
+- 日本語対応：
+  - 「Creaform, developer and manufacturer of the Handyscan 3DTM product line of laser scanners, announced today the completion of its 2008 business development plan in Asia with the official incorporation of its Japanese office, Creaform Japan. Additionally, the company announced the opening of its European Calibration Center in France.」（https://www.creaform3d.com/ko/about-us/press-releases/creaform-expands-its-presence-asia-europe-and-north-america）
+  - 「Our translation team is diligently working to provide a fully localized experience.」（https://www.goengineer.com/3d-scanners/creaform）
+- 会社の規模：
+  - 「HandySCAN 3D EVO Series」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「HandySCAN 3D BLACK Series」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「HandySCAN 3D MAX Series」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「HandySCAN 3D PRO Series」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「“The combination of advanced casting inspection capabilities and handheld 3D scanner compatibility gives customers more versatility in how they capture and analyze measurement data,」（https://www.faro.com/en/News-Library/2026/New-CAM2-Casting-Inspection-Enhancements）
+  - 「HandySCAN 3D EVO Series」（https://www.creaform3d.com/en/about-us/partners）
+  - 「HandySCAN 3D BLACK Series」（https://www.creaform3d.com/en/about-us/partners）
+  - 「HandySCAN 3D MAX Series」（https://www.creaform3d.com/en/about-us/partners）
+  - 「HandySCAN 3D PRO Series」（https://www.creaform3d.com/en/about-us/partners）
+  - 「HandySCAN 3D PRO Series: Reverse Engineering 3D Scanner」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「HandySCAN 3D EVO Series」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「HandySCAN 3D BLACK Series」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「HandySCAN 3D MAX Series」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「HandySCAN 3D PRO Series」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「The HandySCAN 3D PRO Series, bundled with Scan-to-CAD Pro, offers a more powerful, accessible, and reliable solution to accelerate product development, reduce time-to-market, and lower development costs.」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+- 顧客・用途：
+  - 「Medical」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Aerospace」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Automotive and transportation」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Medical Industry」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「3D scanning to enhance clay modeling in the design process of automotive manufacturers」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Customer support」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Customers & Partners」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Customer portal」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Automotive」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Aerospace」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Energy」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Customer Success Program」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「CUSTOMER PORTAL」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Customer Portal」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「Aerospace」（https://www.faro.com/en/News-Library/2026/New-CAM2-Casting-Inspection-Enhancements）
+- 検索結果の抜粋：
+  - 「Find a Creaform [3D Product Distributor ] near you — Find a Creaform [3D Product Distributor ] near you Creaform https://www.creaform3d.com > find-a...」（https://www.creaform3d.com/en/how-to-buy/find-a-creaform-product-distributor-near-you）
+  - 「Creaform Inc. - Your 3D Metrology Software Partner - PolyWorks — Creaform Inc. - Your 3D Metrology Software Partner - PolyWorks PolyWorks https://www.polyworks.com > en-us」（https://www.polyworks.com/en-us/organization/creaform-inc）
+  - 「FARO CREAFORM Brings Handheld 3D Scanner ... — FARO CREAFORM Brings Handheld 3D Scanner ... FARO.com https://www.faro.com > News-Library」（https://www.faro.com/en/News-Library/2026/New-CAM2-Casting-Inspection-Enhancements）
+  - 「3D Software and Scanning Products of Partners - Creaform — 3D Software and Scanning Products of Partners - Creaform Creaform https://www.creaform3d.com > partners」（https://www.creaform3d.com/en/about-us/partners）
+  - 「Creaform ® Peel 3 3D Scanner - GoEngineer Store — Creaform ® Peel 3 3D Scanner - GoEngineer Store GoEngineer Store https://store.goengineer.com > products」（https://store.goengineer.com/products/creaform-peel-3-3d-scanner?srsltid=AYCX9vKUcp5-GNRYjEWVbgGjCiE49dlDg5XL0e1ai67elJQ90ajEWznl）
+  - 「HandySCAN 3D PRO Series: Reverse Engineering 3D Scanner — HandySCAN 3D PRO Series: Reverse Engineering 3D Scanner Creaform https://www.creaform3d.com > produ...」（https://www.creaform3d.com/en/products/portable-3d-scanners/handyscan-3d-pro-series）
+  - 「Creaform HandySCAN Black | Elite - 3D Laser Scanner Bundle — Creaform HandySCAN Black | Elite - 3D Laser Scanner Bundle TITANS of CNC https://titansofcnc.com > products > d...」（https://titansofcnc.com/products/d3d-creaform-dyn-hsbe?srsltid=AYCX9vIaLMwD05zjBcpPv9qUT1N2x5VT70Laq1XBJF7V5zo-MVM-e5mw）
+  - 「Creaform HandySCAN BLACK Elite 3D Scanner — Creaform HandySCAN BLACK Elite 3D Scanner Pine Environmental https://www.pine-environmental.com > ...」（https://www.pine-environmental.com/products/creaform-handyscan-black-elite-3d-scanner）
+  - 「Creaform HandySCAN300 3D Scanner - Prime Analyzer Store — Creaform HandySCAN300 3D Scanner - Prime Analyzer Store Prime Analyzer Store https://www.primeanalyzerstore.com > ...」（https://www.primeanalyzerstore.com/product/creaform-handyscan300-3d-scanner/）
+  - 「Creaform Expands its Presence in Asia, Europe and North ... — Creaform Expands its Presence in Asia, Europe and North ... Creaform https://www.creaform3d.com > creafo...」（https://www.creaform3d.com/ko/about-us/press-releases/creaform-expands-its-presence-asia-europe-and-north-america）
+  - 「3Dスキャナ リバースエンジニアリング CREAFORM — 3Dスキャナ リバースエンジニアリング CREAFORM systemcreate-inc.co.jp https://systemcreate-inc.co.jp > PRODUCTS一覧」（https://systemcreate-inc.co.jp/products/creaform）
+  - 「Creaform Metrology Suite：3D計測アプリケーションモジュール — Creaform Metrology Suite：3D計測アプリケーションモジュール Creaform https://www.creaform3d.com > creaform-metrology-suite」（https://www.creaform3d.com/ja/products/software/creaform-metrology-suite）
+  - 「Creaform 3D Scanning Software - 3DOLOGiE — Creaform 3D Scanning Software - 3DOLOGiE 3DOLOGiE https://3dologie.com > creaform-3d-s...」（https://3dologie.com/creaform-3d-scanning-software/?srsltid=AYCX9vIwgjKENfRsCIA8SYFr7iHGEgM8Kf2BteGwbeR4G_SdmU9ivSXc）
+  - 「Creaform Release Enhanced VXelements 3D Measurement ... — Creaform Release Enhanced VXelements 3D Measurement ... Metrology and Quality News https://metrology.news > creaform-rel...」（https://metrology.news/creaform-release-enhanced-vxelements-3d-measurement-software-platform/）
+  - 「Creaform 3D Scanners - Portable 3D Scanning Technologies — Creaform 3D Scanners - Portable 3D Scanning Technologies GoEngineer https://www.goengineer.com > creafo...」（https://www.goengineer.com/3d-scanners/creaform）
+
+## Geomagic Design X（Geomagic Design X）
+- 文脈：スキャンデータから設計データ化
+- 日本の代理店：
+  - 「Geomagic Design X - 3Dプリンター日本代理店 アルテック」（https://www.3d-printer.jp/3d-scanner/product/geomagic-design-x.html）
+  - 「アルテック株式会社は東証スタンダード上場の産業機械商社です」（https://www.3d-printer.jp/3d-scanner/product/geomagic-design-x.html）
+  - 「「Geomagic」の販売代理店となりました | モノミラ-ものづくりの未来図-」（https://monomira.com/blog/66.html）
+  - 「「Geomagic」の販売代理店となりました」（https://monomira.com/blog/66.html）
+  - 「株式会社モノミラ」（https://monomira.com/blog/66.html）
+  - 「株式会社テクノソリューションズ｜製造業の今をサポートする「ものづくりのITデザイナー」」（https://www.t-sol.co.jp/product/geomagic-design-x/）
+  - 「Japan office」（https://www.artec3d.com/3d-software/geomagic-design-x）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/3d-software/geomagic-design-x）
+  - 「Geomagic Design Xの価格はなぜ高い？その理由と活用法を解説 | 株式会社キャパ」（https://www.capa.co.jp/archives/48706）
+  - 「公式サイトや国内販売代理店では、期間限定で使用できるトライアルライセンスを申し込める場合があります」（https://www.capa.co.jp/archives/48706）
+  - 「通常は、正規代理店を通じて「試用ライセンス」として申し込みを行う形式が多く、利用には事前の問い合わせや条件確認が必要です」（https://www.capa.co.jp/archives/48706）
+  - 「導入を検討している方は、まずは販売代理店に相談してみるとよいでしょう」（https://www.capa.co.jp/archives/48706）
+  - 「丸紅情報システムズ（国内正規販売代理店）製品ページ」（https://www.capa.co.jp/archives/48706）
+  - 「アップルツリー株式会社（国内正規販売代理店）製品ページ」（https://www.capa.co.jp/archives/48706）
+  - 「株式会社キャパ」（https://www.capa.co.jp/archives/48706）
+- 再販・パートナー制度：
+  - 「) can be purchased in the US through authorized resellers, directly from the manufacturer, or through engineering solution providers that bundle software with scanning hardware and workflow consulting.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「For most engineering teams, an authorized reseller is the recommended channel because it includes application-specific training, workflow integration support, and ongoing technical assistance that a direct purchase typically doesn't include.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「buyers should evaluate reseller authorization, training quality, and hardware-software workflow compatibility.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Authorized reseller」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Authorized resellers are certified to distribute, activate, and support Geomagic licenses. Beyond the transaction, a strong reseller typically provides workflow consulting, application-specific training, and ongoing technical assistance, so Geomagic gets configured to fit your environment rather than leaving you to work it out alone.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「QUICKSURFACE Gold Expert Distributor」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Verisurf distributor」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Why buying from an authorized reseller matters」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Geomagic sits inside a workflow that starts with a 3D scanner and ends in a CAD or inspection platform. An authorized reseller that also distributes scanning hardware, such as the FreeScan or EinScan series, can validate scanner-to-software compatibility, configure scan settings for specific part geometries, and confirm the export pipeline into a CAD platform works correctly.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Geomagic's licensing is modular, meaning different capabilities are sold as separate add-ons. Teams that purchase the wrong tier, or miss a needed module, often discover the gap only when they hit a workflow limitation mid-project. A reseller who audits actual workflow requirements against the licensing structure helps avoid over- or under-purchasing.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「This distinction matters. Unauthorized sellers, marketplaces, gray-market channels, or unlicensed resellers, may offer lower prices, but often carry licensing compliance risk, no access to software updates, and no technical support. Confirm a provider's authorized status directly with Hexagon (for Geomagic) or the QUICKSURFACE developer before purchasing.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Geomagic software is available through authorized resellers, directly from the manufacturer, or through engineering solution providers. 3D Wonders is an」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「What's the difference between an authorized reseller and buying direct from the manufacturer?」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「An authorized reseller adds application-specific training, workflow integration support, and ongoing technical assistance on top of the software license. Buying direct can suit large enterprise accounts, but generally comes without that same level of localized, workflow-specific support.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Authorized Reseller」（https://www.precise3dm.com/geomagicsoftware.php）
+- 料金：
+  - 「Power Your Business with Metrology 3D Scanners today! Freescan Combo: $11,999, Freescan Combo+: $14,999」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「of Geomagic (Hexagon), we offer competitive pricing, training, and on-site consultations. Additionally, we can provide personalised live demos using your specific 3D scanning data to help you choose the right software for your needs.」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「, making it the best choice for businesses in India looking for a comprehensive solution to reverse engineering, 3D scanning, and inspection. As a Golden Partner of Hexagon, we offer competitive pricing and localised support, making Geomagic the most trusted brand for Indian manufacturers and engineers.」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「As a Golden Partner of Geomagic (Hexagon), Precise3DM offers localised support, pricing, and training in multiple languages (Hindi, Tamil, Kannada, Telugu, and more). We provide live demonstrations, tailored quotes, and full technical support across India, ensuring that your 3D scanning and reverse engineering workflows are optimised with Geomagic software.」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「AESUB Shipping (USA ONLY) • Orders $100 or more: FREE Ground Shipping • Orders < $100: Flat Shipping Rate of $12.50」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「This Design X Commercial listing is priced for 1 to 3 licenses.」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「$ 1,520.00」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「$ 1,900.00」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「Licence! It's on sale now for $3,992 (Regular price: $4,990).」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「Licence! It's on sale now for $1,520 (Regular price: $1,900).」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「to all customers who purchase a Permanent or Yearly Subscription license. It's a 1-day virtual training session, and each company can register up to two participants free of charge.」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「With three versions to choose from, Geomagic Design X is now available starting from only $1,900.」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「20% off Go Permanent and Subscription License Promo + Complimentary Virtual Training for all Design X customers」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「FREE, FAST Shipping on orders over $35 in the U.S.*」（https://www.matterhackers.com/store/l/geomagic-design-x-software?srsltid=AYCX9vIQJStOsNXEfVaGB9tdnX5rZTtmfSI071otPg1hHr00Iq00yr6l）
+  - 「Free Shipping on +$35 orders in the U.S.*」（https://www.matterhackers.com/store/l/geomagic-design-x-software?srsltid=AYCX9vIQJStOsNXEfVaGB9tdnX5rZTtmfSI071otPg1hHr00Iq00yr6l）
+- 無料体験：
+  - 「Book a Live Demo」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Advanced engineering curriculum, though licensing cost can be a barrier for academic budgets.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Request a Free Demo」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Learn more about boundary fit surfacing and auto surfacing, as well as the differences and benefits of each, as we demonstrate them using a scanned golf club model.」（https://www.goengineer.com/blog/geomagic-design-x-features-and-tutorials）
+  - 「Book Demo」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Book Live Demo」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Live Demo Available」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Connect with the experts for a live demonstration using your own scan data and see how geomagic can solve your real-world engineering challenges」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「of Geomagic (Hexagon), we offer competitive pricing, training, and on-site consultations. Additionally, we can provide personalised live demos using your specific 3D scanning data to help you choose the right software for your needs.」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「As a Golden Partner of Geomagic (Hexagon), Precise3DM offers localised support, pricing, and training in multiple languages (Hindi, Tamil, Kannada, Telugu, and more). We provide live demonstrations, tailored quotes, and full technical support across India, ensuring that your 3D scanning and reverse engineering workflows are optimised with Geomagic software.」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Can I get a demo of Geomagic Software before purchasing it?」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Yes! We offer live demonstrations of Geomagic software at your facility or through online meetings. We can showcase how the software integrates with your existing 3D scanners for your Reverse engineering and 3D Inspection workflows using your actual 3D Scan data for a hands-on experience, helping you see firsthand how Geomagic can benefit your business.」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Geomagic software demo online」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Academic programs and training」（https://hawkridgesys.com/blog/from-go-to-pro-geomagic-design-x-software）
+  - 「Demo and Used 3D Scanners」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+- 日本語対応：
+  - 「An authorized reseller adds application-specific training, workflow integration support, and ongoing technical assistance on top of the software license. Buying direct can suit large enterprise accounts, but generally comes without that same level of localized, workflow-specific support.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Our translation team is diligently working to provide a fully localized experience.」（https://www.goengineer.com/blog/geomagic-design-x-features-and-tutorials）
+  - 「English, Chinese, Japanese, Korean, German, Italian, Russian, Portuguese, Spanish, Polish, Turkish, French and Czech.」（https://www.matterhackers.com/store/l/geomagic-design-x-software?srsltid=AYCX9vIQJStOsNXEfVaGB9tdnX5rZTtmfSI071otPg1hHr00Iq00yr6l）
+  - 「This cookie is used to store the user's time zone information to provide localized experiences or content based on the geographical area.」（https://store.trimech.com/products/geomagic-design-x-pro-12-month-term-nwa?srsltid=AYCX9vLRp5SSLCka7NpU3UHd0SI4tutr8it-irVGu5wFj98aKCUJSDFK）
+  - 「日本語マニュアルがあります」（https://3d-scantech.jp/design-x/）
+  - 「Geomagic Design X supports the following languages: English, Chinese, Japanese, Korean, German, Italian, Russian, Portuguese, Spanish, Polish, Turkish, French and Czech.」（https://www.shining3d.com/design/geomagic-design-x）
+- 会社の規模：
+  - 「Adhesive markers (3 mm) for EinScan Pro Series」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Adhesive markers (6 mm) for EinScan H Series」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Creaform Releases New HandySCAN 3D Silver Series 3D Scanners」（https://www.goengineer.com/blog/geomagic-design-x-features-and-tutorials）
+  - 「Structured Light 3D Scanning – Q2/Q9 Series」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「to all customers who purchase a Permanent or Yearly Subscription license. It's a 1-day virtual training session, and each company can register up to two participants free of charge.」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「20% off Go Permanent and Subscription License Promo + Complimentary Virtual Training for all Design X customers」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「NVIDIA GeForce 900 series or」（https://www.matterhackers.com/store/l/geomagic-design-x-software?srsltid=AYCX9vIQJStOsNXEfVaGB9tdnX5rZTtmfSI071otPg1hHr00Iq00yr6l）
+  - 「Shining 3D's own mesh-to-CAD software, built to work with EXScan, FreeScan and EXStar on the EinScan HX, FreeScan Combo series, FreeScan UE Pro and Einstar. Fewer tools than Design X, a much smaller price -- a good fit for simpler parts.」（https://visionminer.com/collections/3d-software?srsltid=AYCX9vI_Js-ENAfL9vjmhzmhMYj0Lzjhh11WI_SAPtVnWWquh9P3B3ig）
+  - 「– Markforged Industrial Series : X7」（https://www.t-sol.co.jp/product/geomagic-design-x/）
+  - 「HandySCAN 3D | BLACK Series」（https://www.t-sol.co.jp/product/geomagic-design-x/）
+  - 「HandySCAN 3D | SILVER Series」（https://www.t-sol.co.jp/product/geomagic-design-x/）
+  - 「Markforged Industrial Series : MarkX(X7)」（https://www.t-sol.co.jp/product/geomagic-design-x/）
+  - 「to all customers who purchase a Permanent or Yearly Subscription license. It's a 1-day virtual training session, and each company can register up to two participants free of charge.」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vII_uTYZG_TWxdOdi4FE_bIx1grpIAi9Jo6sGG7R9nI47Y5XabM）
+  - 「20% off Go Permanent and Subscription License Promo + Complimentary Virtual Training for all Design X customers」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vII_uTYZG_TWxdOdi4FE_bIx1grpIAi9Jo6sGG7R9nI47Y5XabM）
+  - 「Raindrop Geomagic was founded in 1996 by」（https://en.wikipedia.org/wiki/Geomagic）
+- 顧客・用途：
+  - 「Customer stories」（https://hexagon.com/products/geomagic-design-x）
+  - 「Shining 3D Einscan Rigil - Tri-Mode Wireless Scanning with Hybrid Light Technology - Built for Automotive & Prosumer Excellence」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Legacy part reconstruction in automotive and aerospace applications」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Automotive reverse engineering and body inspection」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Aerospace component inspection」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Medical device engineering」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Automotive parts and tooling reconstruction for legacy or obsolete components」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Automotive, aerospace, medical device, general manufacturing, and other sectors where reverse engineering legacy parts or performing dimensional inspection against CAD is a regular engineering requirement. Control X, its inspection product, is also widely used in production quality control environments.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Automotive & Aerospace」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「We specialize in metrology 3D scanners, reverse-engineering and inspection software. Serving manufacturers, automotive, aerospace and heavy industries, we help improve product design and quality control efficiency.」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Customer Support」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「Customer Portal」（https://www.goengineer.com/blog/geomagic-design-x-features-and-tutorials）
+  - 「comprising both rotor disk and blades as a single part used widely in the aerospace industry.」（https://www.goengineer.com/blog/geomagic-design-x-features-and-tutorials）
+  - 「Customer Stories」（https://www.goengineer.com/blog/geomagic-design-x-features-and-tutorials）
+  - 「Aerospace」（https://www.precise3dm.com/geomagicsoftware.php）
+- 検索結果の抜粋：
+  - 「Where to Buy Geomagic Software in the United States — Where to Buy Geomagic Software in the United States 3D Wonders https://3dwonders.com > blogs > guides」（https://3dwonders.com/blogs/guides/where-to-buy-geomagic-software-in-the-united-states?srsltid=AYCX9vLCvfz34gXGsWHFsedwJB6RAuZ-WRdtfNl_ql_GLqKHFCqoQk8w）
+  - 「From 3D Scan to Editable CAD | GEOMAGIC Design X — From 3D Scan to Editable CAD | GEOMAGIC Design X YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=K88E91z-dbY）
+  - 「Geomagic Software In India - Precise3DM — Geomagic Software In India - Precise3DM Precise3DM https://www.precise3dm.com > geom...」（https://www.precise3dm.com/geomagicsoftware.php）
+  - 「Geomagic Design X (Commercial License ) - GoMeasure3D — Geomagic Design X (Commercial License ) - GoMeasure3D GoMeasure3D https://shop.gomeasure3d.com > geo...」（https://shop.gomeasure3d.com/products/geomagic-design-x?srsltid=AYCX9vKuY9U5kuuSSliUJMa6cE0cOKBcxyAL-pzz-kB2_heVPneIHXrh）
+  - 「Geomagic Design X 3D Reverse Engineering Software — Geomagic Design X 3D Reverse Engineering Software MatterHackers https://www.matterhackers.com > store」（https://www.matterhackers.com/store/l/geomagic-design-x-software?srsltid=AYCX9vIQJStOsNXEfVaGB9tdnX5rZTtmfSI071otPg1hHr00Iq00yr6l）
+  - 「Geomagic Design X Pro 12 Month Term (Network License ) — Geomagic Design X Pro 12 Month Term (Network License ) TriMech Store https://store.trimech.com > products」（https://store.trimech.com/products/geomagic-design-x-pro-12-month-term-nwa?srsltid=AYCX9vLRp5SSLCka7NpU3UHd0SI4tutr8it-irVGu5wFj98aKCUJSDFK）
+  - 「Geomagic Design X - 3Dプリンター日本代理店 アルテック — Geomagic Design X - 3Dプリンター日本代理店 アルテック 3d-printer.jp https://www.3d-printer.jp > 3Dスキャナー」（https://www.3d-printer.jp/3d-scanner/product/geomagic-design-x.html）
+  - 「Geomagic Design X | Professional 3D scanning solutions — Geomagic Design X | Professional 3D scanning solutions Artec 3D https://www.artec3d.com > geomagic-...」（https://www.artec3d.com/3d-software/geomagic-design-x）
+  - 「Geomagic Design X の価格はなぜ高い？その理由と活用法を解説 — Geomagic Design X の価格はなぜ高い？その理由と活用法を解説 株式会社キャパ https://www.capa.co.jp > ... > CAD > 3D CAD」（https://www.capa.co.jp/archives/48706）
+  - 「Geomagic Design X - 3Dプリンター日本 代理店 アルテック — Geomagic Design X - 3Dプリンター日本 代理店 アルテック 3d-printer.jp https://www.3d-printer.jp > 3Dスキャナー」（https://www.3d-printer.jp/3d-scanner/product/geomagic-design-x.html）
+  - 「Geomagic Design X - SCANTECH — Geomagic Design X - SCANTECH 3d-scantech.jp https://3d-scantech.jp > design-x」（https://3d-scantech.jp/design-x/）
+  - 「Geomagic Design X の 価格 はなぜ高い？その理由と活用法を解説 — Geomagic Design X の 価格 はなぜ高い？その理由と活用法を解説 株式会社キャパ https://www.capa.co.jp > ... > CAD > 3D CAD」（https://www.capa.co.jp/archives/48706）
+  - 「Geomagic ソフトウェア 価格 - Artec 3D — Geomagic ソフトウェア 価格 - Artec 3D Artec 3D https://www.artec3d.com > ホーム > 価格」（https://www.artec3d.com/ja/prices/geomagic）
+  - 「Geomagic ソフトウェア – CAD・検査向けソリューション — Geomagic ソフトウェア – CAD・検査向けソリューション Revopoint 3D JP https://www.revopoint3d.jp > products > geomagic」（https://www.revopoint3d.jp/products/geomagic）
+  - 「Software Geomagic Design X 丨Scan to CAD丨SHINING 3D — Software Geomagic Design X 丨Scan to CAD丨SHINING 3D SHINING 3D https://www.shining3d.com > design」（https://www.shining3d.com/design/geomagic-design-x）
+
+## ZEISS INSPECT（ZEISS INSPECT）
+- 文脈：3D計測データの検査
+- 日本の代理店：
+  - 「3D測定データの検査・評価用ソフトウェア『ZEISS INSPECT』のご紹介 - 株式会社MTI.Network」（https://mtin.co.jp/24-06-13/）
+  - 「株式会社MTI.Network」（https://mtin.co.jp/24-06-13/）
+  - 「カメラ式3Dスキャナ『GOM Scan 1』の新規導入 - 株式会社MTI.Network」（https://mtin.co.jp/24-04-18/）
+  - 「株式会社MTI.Network」（https://mtin.co.jp/24-04-18/）
+  - 「Japan office」（https://www.artec3d.com/form/zeiss-free-trial）
+  - 「Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo」（https://www.artec3d.com/form/zeiss-free-trial）
+- 再販・パートナー制度：
+  - 「Choose your variant」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「Do you prefer graphics or tables? Presentations or PDFs? The various reporting options of ZEISS INSPECT enable you to represent your results in the way most appropriate for the respective situation.」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「With ZEISS INSPECT, the world of measurement technology is ready for exploration. Whether you want to analyze surfaces or volume data – ZEISS INSPECT has just the right software variant for your needs. And it gets even better: Customize the product with apps and get to know our solutions for multi-sensor measurements with ZEISS INSPECT at #HandsOnMetrology.​」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「, and install the latest version of ZEISS INSPECT. You can try out all ZEISS INSPECT variants directly from the ZEISS Quality Suite for 30 days.」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「OEM Solutions」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「Software variants」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Various reporting options in ZEISS INSPECT enable the presentation of measuring results in an understandable way.」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Explore the world of measurement technology using ZEISS INSPECT software. Our software variants support your inspection tasks – whether it’s analyzing surfaces, volume data, tactile or multi-sensor measurements.」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「OEM Solutions」（https://www.zeiss.com/metrology/en/about-us/newsroom/2024/artec-3d-partnership.html）
+  - 「OEM Solutions」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d.html）
+  - 「OEM Solutions」（https://www.zeiss.com/metrology/us/services/license-update.html）
+  - 「different product variants.」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+  - 「With ZEISS INSPECT, the world of measurement technology is at your feet. But because measurement technology is so multifaceted, ZEISS INSPECT comes in different variants. Whether you want to analyze surfaces, volume data, or motion sequences or meet specific challenges in aerospace – find the right software variant for your needs.」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+  - 「There will be Free and Pro licenses for the different product variants of ZEISS INSPECT, which can be used flexibly.」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+  - 「OEM Solutions」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+- 料金：
+  - 「AESUB Shipping (USA ONLY) • Orders $100 or more: FREE Ground Shipping • Orders < $100: Flat Shipping Rate of $12.50」（https://shop.gomeasure3d.com/products/zeiss-inspect-optical-3d-software?srsltid=AYCX9vJ332pCqX0gwkXbFK19S9iHEkWUfhj5j63v-p6xGbLzfeuZzruK）
+  - 「Can I get the price for the ZEISS INSPECT Optical 3D software?」（https://shop.gomeasure3d.com/products/zeiss-inspect-optical-3d-software?srsltid=AYCX9vJ332pCqX0gwkXbFK19S9iHEkWUfhj5j63v-p6xGbLzfeuZzruK）
+  - 「「ZEISS INSPECT」とは、3Dスキャンデータのメッシュ修正機能と、CAT機能（3Dスキャンデータの検査）、を備えた高機能なｿﾌﾄｳｪｱで、有償版と無償版があり、無償版でも他社の数百万円するｿﾌﾄｳｪｱとほぼ同様の機能が利用が可能な、私自身も10数年以上使用している便利な高機能ｿﾌﾄｳｪｱです」（https://note.com/ri__ta/n/nee52bb097a24）
+  - 「3Dスキャンデータの修正を行う用途においても、無償版でも他社の数百万円するｿﾌﾄｳｪｱに匹敵、またはそれ以上の機能が搭載されております」（https://note.com/ri__ta/n/nee52bb097a24）
+  - 「『GOM Scan 1』は測定レンズが固定されたタイプになりまして、「シンプルな設計」「コンパクトな筐体」「持ち運びのしやすさ」「簡単な操作」「低価格」が特長となっておりますが、同時に高精度なスキャンができるスペックも持ち合わせています」（https://mtin.co.jp/24-04-18/）
+  - 「AESUB Shipping (USA ONLY) • Orders $100 or more: FREE Ground Shipping • Orders < $100: Flat Shipping Rate of $12.50」（https://shop.gomeasure3d.com/products/zeiss-inspect-optical-3d-software?srsltid=AYCX9vIlYJDYJBuwccu5CRhfD-mwSC94xBivhTaNW1ZkM9Sa-qwUDRdG）
+  - 「Can I get the price for the ZEISS INSPECT Optical 3D software?」（https://shop.gomeasure3d.com/products/zeiss-inspect-optical-3d-software?srsltid=AYCX9vIlYJDYJBuwccu5CRhfD-mwSC94xBivhTaNW1ZkM9Sa-qwUDRdG）
+  - 「Join us for our in-person ARAMIS Tech Day course on November 11-12 in Seattle, WA, from 9:30 am to 5:00 pm. Our team of ...」（https://beta.trilion.com/products/zeiss-inspect）
+  - 「Eka Robotics Secures $150 Million to Advance Physical AI」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+  - 「The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+  - 「North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to new data released by the Association for Advancing Automation (A3). Orders increased 24.8% in units and 26.1% in value compared to the third quarter of 2025, making it the strongest quarter of the year so far.」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+- 無料体験：
+  - 「Would you like to learn more about our products or services? We are happy to provide you with more information or a demo – from remote or onsite.」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「Request a quote, your software demo or contact our service and support now​」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「Free demo」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Including 30-day trial of ZEISS INSPECT (pro version)」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Get started with the free version​」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Incl. 30-day trial of the pro version of ZEISS INSPECT」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「30-day trial period for free」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Request a Free Demo」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Would you like to learn more about our products or services? We are happy to provide you with more information or a demo – from remote or onsite.」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d.html）
+  - 「Request a quote, your software demo or contact our service and support now​」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d.html）
+  - 「How to Download and Install Zeiss Inspect Free Version」（https://www.cadmicro.com/wp-content/uploads/Zeiss-Inspect-2025_Download_Install.pdf.pdf）
+  - 「ZEISS INSPECT Optical 3D is offered as a free licence, a 30-day Pro trial and a Pro version obtained by quotation.」（https://wiki.licenseware.io/catalog/programs/zeiss-zeiss-inspect-optical-3d-free-licence-and-pro-trial/）
+  - 「After the 30-day trial the user can activate the free licence with limited functions or buy Pro.」（https://wiki.licenseware.io/catalog/programs/zeiss-zeiss-inspect-optical-3d-free-licence-and-pro-trial/）
+  - 「Would you like to learn more about our products or services? We are happy to provide you with more information or a demo – from remote or onsite.」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+  - 「Request a quote, your software demo or contact our service and support now​」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+- 日本語対応：
+  - 「Japanese」（https://www.handsonmetrology.com/video/zeiss-inspect-optical-3d-user-interface/）
+  - 「Japanese」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「Japanese」（https://www.handsonmetrology.com/downloads/）
+- 会社の規模：
+  - 「For ZEISS, the goal of this partnership is to further expand the market-leading position of the ZEISS metrology software. Dr. Marc Wawerla, Head of ZEISS Industrial Quality Solutions, states: “We are excited to partner with Artec 3D to enable customers from all industries to benefit from our market leading expertise in metrology software.”」（https://www.zeiss.com/metrology/en/about-us/newsroom/2024/artec-3d-partnership.html）
+  - 「ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics. In the previous fiscal year, the ZEISS Group generated annual revenue totaling 10 billion euros in its four segments Semiconductor Manufacturing Technology, Industrial Quality & Research, Medical Technology and Consumer Markets (status: 30 September 2023).」（https://www.zeiss.com/metrology/en/about-us/newsroom/2024/artec-3d-partnership.html）
+  - 「With over 38,000 employees, ZEISS is active globally in almost 50 countries with around 30 production sites, 60 sales and service companies and 27 research and development facilities (status:」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「). Founded in 1846 in Jena, the company is headquartered in Oberkochen,」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「A single project can handle data from multiple sensors. Both an ATOS sensor and a Laser sensor could acquire data in the same projects and produce a singular mesh, for example. It is also possible with ScanBox Series 8 and other double robot cells to operate via a single PC. All projects can be executed from a single PC, significantly reducing cycle time.」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d/zeiss-inspect-optical-3d-release.html）
+  - 「ZEISS INSPECT Optical 3D offers a seamless workflow from data acquisition to analysis, using templates and smart tools for fast, accurate results.」（https://shop.gomeasure3d.com/products/zeiss-inspect-optical-3d-software?srsltid=AYCX9vJ332pCqX0gwkXbFK19S9iHEkWUfhj5j63v-p6xGbLzfeuZzruK）
+  - 「that converts the data acquired previously into a three-dimensional STL model. This model can be utilised for numerous applications, from reverse engineering, through 3D printing, to the digital assembly of the components acquired.」（https://www.qa-group.com/en/glossary/zeiss-inspect/）
+  - 「acquired with a 3D scanner or another」（https://www.qa-group.com/en/glossary/zeiss-inspect/）
+  - 「ZEISS INSPECT Optical 3D offers a seamless workflow from data acquisition to analysis, using templates and smart tools for fast, accurate results.」（https://shop.gomeasure3d.com/products/zeiss-inspect-optical-3d-software?srsltid=AYCX9vIlYJDYJBuwccu5CRhfD-mwSC94xBivhTaNW1ZkM9Sa-qwUDRdG）
+  - 「With the new release of ZEISS CALIGO customers can export data automatically into ZEISS INSPECT Optical 3D. Enabling faster data transfer and polygonization of the point cloud and extending evaluation capabilities.」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+  - 「Kreon Technologies has introduced ANEMO, a new 3D laser scanner designed for its Onyx portable measuring arm. The scanner combines high-speed data acquisition with fine resolution and a stated accuracy of 12 µm, targeting the inspection of complex components with tight tolerances.」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+  - 「The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+  - 「K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement」（https://metrology.news/zeiss-inspect-introduces-new-functions-targeting-increased-efficiency/）
+- 顧客・用途：
+  - 「Medical Technology」（https://www.zeiss.com/metrology/en/software/zeiss-inspect.html）
+  - 「For ZEISS, the goal of this partnership is to further expand the market-leading position of the ZEISS metrology software. Dr. Marc Wawerla, Head of ZEISS Industrial Quality Solutions, states: “We are excited to partner with Artec 3D to enable customers from all industries to benefit from our market leading expertise in metrology software.”」（https://www.zeiss.com/metrology/en/about-us/newsroom/2024/artec-3d-partnership.html）
+  - 「ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics. In the previous fiscal year, the ZEISS Group generated annual revenue totaling 10 billion euros in its four segments Semiconductor Manufacturing Technology, Industrial Quality & Research, Medical Technology and Consumer Markets (status: 30 September 2023).」（https://www.zeiss.com/metrology/en/about-us/newsroom/2024/artec-3d-partnership.html）
+  - 「Medical Technology」（https://www.zeiss.com/metrology/en/about-us/newsroom/2024/artec-3d-partnership.html）
+  - 「Medical Technology」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d.html）
+  - 「Customer Case Studies」（https://www.zeiss.com/metrology/us/services/license-update.html）
+  - 「Medical Technology」（https://www.zeiss.com/metrology/us/services/license-update.html）
+  - 「With ZEISS INSPECT, the world of measurement technology is at your feet. But because measurement technology is so multifaceted, ZEISS INSPECT comes in different variants. Whether you want to analyze surfaces, volume data, or motion sequences or meet specific challenges in aerospace – find the right software variant for your needs.」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+  - 「Medical Technology」（https://www.zeiss.com/metrology/en/software/metrology-software.html）
+  - 「Aerospace, Defense」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「Automotive」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「Energy & Natural Resources」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「Oil & Energy」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「Energy & Natural Resources Overview」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「View All Energy & Natural Resources」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+- 検索結果の抜粋：
+  - 「ZEISS INSPECT : Optical 3D User Interface - HandsOnMetrology — ZEISS INSPECT : Optical 3D User Interface - HandsOnMetrology HandsOnMetrology https://www.handsonmetrology.com > video > zeiss-inspe...」（https://www.handsonmetrology.com/video/zeiss-inspect-optical-3d-user-interface/）
+  - 「ZEISS INSPECT : Free 3D Scan Software - HandsOnMetrology — ZEISS INSPECT : Free 3D Scan Software - HandsOnMetrology HandsOnMetrology https://www.handsonmetrology.com > ...」（https://www.handsonmetrology.com/products/software/zeiss-inspect/）
+  - 「ZEISS INSPECT Optical 3D: The standard for your 3D surface ... — ZEISS INSPECT Optical 3D: The standard for your 3D surface ... ZEISS https://www.zeiss.com > zeiss-inspect」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d.html）
+  - 「ZEISS INSPECT Optical 3D free licence and Pro trial — ZEISS INSPECT Optical 3D free licence and Pro trial wiki.licenseware.io https://wiki.licenseware.io > programs」（https://wiki.licenseware.io/catalog/programs/zeiss-zeiss-inspect-optical-3d-free-licence-and-pro-trial/）
+  - 「ZEISS INSPECT - Release of the new 3D metrology software ... — ZEISS INSPECT - Release of the new 3D metrology software ... PR Newswire Canada https://www.newswire.ca > zeiss-inspe...」（https://www.newswire.ca/news-releases/zeiss-inspect-release-of-the-new-3d-metrology-software-for-a-wide-range-of-challenges-867191387.html）
+  - 「ZEISS INSPECT Optical 3D Release 2026 - Software — ZEISS INSPECT Optical 3D Release 2026 - Software ZEISS https://www.zeiss.com > zeiss-inspect」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d/zeiss-inspect-optical-3d-release.html）
+  - 「System Requirements For ZEISS INSPECT Optical 3D — System Requirements For ZEISS INSPECT Optical 3D ZEISS https://www.zeiss.com > zeiss-inspect」（https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d/system-requirements.html）
+  - 「ZEISS INSPECT : Optical 3D User Interface - HandsOnMetrology — ZEISS INSPECT : Optical 3D User Interface - HandsOnMetrology HandsOnMetrology https://www.handsonmetrology.com > video > zeiss-inspe...」（https://www.handsonmetrology.com/ja/video/zeiss-inspect-optical-3d-user-interface/）
+  - 「ZEISS INSPECT : Free 3D Scan Software | HandsOnMetrology — ZEISS INSPECT : Free 3D Scan Software | HandsOnMetrology HandsOnMetrology https://www.handsonmetrology.com > ... > ソフトウェア」（https://www.handsonmetrology.com/ja/products/software/zeiss-inspect/）
+  - 「ZEISS INSPECT Optical 3D Pro - TriMech Store — ZEISS INSPECT Optical 3D Pro - TriMech Store TriMech Store https://store.trimech.com > products」（https://store.trimech.com/products/zeiss-inspect-optical-3d-pro?srsltid=AYCX9vJMNG0gBFskGbGuS4-4gbS8_jUGi83HHkCwCjxtz4nvsg_JAvOU）
+  - 「3D測定データの検査・評価用ソフトウェア『 ZEISS INSPECT ... — 3D測定データの検査・評価用ソフトウェア『 ZEISS INSPECT ... 株式会社MTI.Network https://mtin.co.jp > 3Dスキャナの受託測定」（https://mtin.co.jp/24-06-13/）
+  - 「ZEISS INSPECT Optical 3D User Interface (1/5) - YouTube — ZEISS INSPECT Optical 3D User Interface (1/5) - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=8x7OU_3iwAU）
+
+## Mastercam（Mastercam）
+- 文脈：加工データ（CAM）
+- 日本の代理店：
+  - 「日本における代理店権について | CADCAMソフトウェアのジェービーエムエンジニアリング株式会社」（https://www.jbm.co.jp/agency/）
+  - 「また国内代理店に対する技術指導、販売戦略の打ち合わせなど木目細やかな活動を推進いたしております」（https://www.jbm.co.jp/agency/）
+  - 「iCAD SXは、富士通株式会社から発売されている3DCADソフトウェアです」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「日本では販売総代理店のゼネテック、ジェービーエム、マクロスの3社が提供しています」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Onshapeの日本語版の販売開始が決定！」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「株式会社VOST」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Mastercam 国内納入実績9年連続日本1位 | CADCAM | CADCAMソフトウェアのジェービーエムエンジニアリング株式会社」（https://www.jbm.co.jp/products/mastercam/）
+  - 「世界シェアNo.1の3D-CAD/CAMシステム「Mastercam」を「2026オークマ 西関東CSセンターマシンフェア」に出展 | 株式会社ゼネテック」（https://www.genetec.co.jp/news/news-260128/）
+  - 「株式会社ゼネテック（本社：東京都新宿区、代表取締役社長：上野 憲二、以下「当社」）は、2月12日（木）・13日（金）にオークマ株式会社（以下「オークマ」） 西関東CSセンター（神奈川県厚木市）で開催される「2026オークマ 西関東CSセンターマシンフェア」に3D-CAD/CAMシステム「Mastercam」を出展しますので、お知らせします」（https://www.genetec.co.jp/news/news-260128/）
+  - 「社 名：株式会社ゼネテック」（https://www.genetec.co.jp/news/news-260128/）
+  - 「株式会社ゼネテック エンジニアリングソリューション事業部」（https://www.genetec.co.jp/news/news-260128/）
+  - 「株式会社ゼネテック マーケティング統括部」（https://www.genetec.co.jp/news/news-260128/）
+  - 「「Mastercam」販売総代理店のゼネテック、国内の工作機械メーカー、工具メーカー各社と協業し、ダイナミックな加工動画を公開する世界的キャンペーンに参加 | 株式会社ゼネテックのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000006.000010332.html）
+  - 「株式会社ゼネテック」（https://prtimes.jp/main/html/rd/p/000000006.000010332.html）
+  - 「「Mastercam」販売総代理店のゼネテック、国内の工作機械メーカ�ー、工具メーカー各社と協業し、ダイナミックな加工動画を公開する世界的キャンペーンに参加」（https://prtimes.jp/main/html/rd/p/000000006.000010332.html）
+- 再販・パートナー制度：
+  - 「Varco Reporting」（https://www.mastercam.com/community/partners/）
+  - 「The Varco Reports package of reports provides concise, relevant information for the programmer and operators to assist them in getting jobs running on the machines, the "missing link" between programming and the shop.」（https://www.mastercam.com/community/partners/）
+  - 「Let our team connect you with potential channel partners to grow your partner network」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Identify your ideal channel partners with the most accurate database and access verified details」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Manage your partner network and boost your channel sales with our full-featured PRM software」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Discover IT vendors & their partner programs and local channel partners」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Channel Partners」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Find the best channel partners based on their location, expertise and partnerships」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Search Channel Partners」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「View the best IT partner programs in the market and browse their white label options」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「MSPs & Channel Partners」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Elioplus is a leading provider of partner recruitment and management solutions that assist IT software companies to expand their partner network.」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Referral Software」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Best Mastercam partners and resellers」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Find in the list below a Mastercam reseller or a channel partner that are currently on our platform. You can locate the Mastercam partners based on their country and use additional filters like product category and industry.」（https://elioplus.com/profile/channel-partners/mastercam）
+- 料金：
+  - 「Stop chasing individual vendors. Send your requirements once and receive side-by-side pricing from 3+ vetted IT partners within 24 hours.」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「2.Mastercamの価格はどれくらい？」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「7.Mastercamの価格についてまとめ」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「168万円前後」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「350万円前後」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「140万円前後」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「98万円前後」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「90万円〜400万円の間」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「¥12,000/時間の加工コスト」（https://www.jbm.co.jp/products/mastercam/）
+  - 「3分17秒×¥12,000/時間=¥723.6」（https://www.jbm.co.jp/products/mastercam/）
+  - 「16分41秒×¥12,000/時間=¥3,337.2」（https://www.jbm.co.jp/products/mastercam/）
+  - 「¥723.6/パーツ×100個=」（https://www.jbm.co.jp/products/mastercam/）
+  - 「¥72,360」（https://www.jbm.co.jp/products/mastercam/）
+  - 「¥3,337.2/パーツ×100個=」（https://www.jbm.co.jp/products/mastercam/）
+  - 「¥333,720」（https://www.jbm.co.jp/products/mastercam/）
+- 無料体験：
+  - 「Mastercam Demo Software」（https://www.emastercam.com/forums/topic/100245-resellers/）
+  - 「Mastercam Demo Software」（https://www.emastercam.com/forums/topic/103795-switching-resellers/）
+  - 「Free Demo」（https://mecadmfg.co.za/mastercam-licensing-options-find-the-best-fit-for-your-business-with-mecad-manufacturing/）
+  - 「Unit E1, Centurion Business Park, Cnr Bosmansdam & Democracy Road, Milnerton Cape Town, Western Cape」（https://mecadmfg.co.za/mastercam-licensing-options-find-the-best-fit-for-your-business-with-mecad-manufacturing/）
+  - 「2027 体験版」（https://www.jbm.co.jp/agency/）
+  - 「無料体験セミナー」（https://www.jbm.co.jp/agency/）
+  - 「Mastercam 無料体験セミナー」（https://www.jbm.co.jp/agency/）
+  - 「体験版のお申し込み」（https://www.jbm.co.jp/agency/）
+  - 「そこで今回はMastercamの価格や購入方法、体験版の有無について解説していきます」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「6.Mastercamに体験版はある？」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Mastercamの価格が意外とお高めだと思ったら、まずはFusion 360の無料体験版を利用するのもおすすめです」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Fusion 360 CAMの無料体験版はこちら」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Mastercamに体験版はある？」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Mastercamには無料の体験版が存在するので、」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「また、英語版の無料体験版が欲しいなら公式サイトでダウンロードすることが可能です」（https://cad-kenkyujo.com/mastercam-kakaku/）
+- 日本語対応：
+  - 「Japanese manufacturer of advanced CNC machining centers known for precision, speed, and multi-pallet automation capability.」（https://www.mastercam.com/community/partners/）
+  - 「Mastercam is a complete CAD/CAM software package for CNC programming. It supports the manufacturing process from CAD inception through CAM production. Mastercam is the world’s #1 CAM software, distributed through an international channel of authorized Mastercam Resellers providing localized sales, training, and support.」（https://www.mastercam.com/about/media/new-reseller-mexico/）
+  - 「＜CNCソフトウェア社の文書：以下日本語訳＞」（https://www.jbm.co.jp/agency/）
+  - 「になるので日本語で問い合わせをした場合、意思疎通が上手く取れない場合があるのでそこだけ注意してください」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「日本語で問題なく購入するなら、」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「日本語版は日本の代理店からすぐにダウンロード」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「Onshapeの日本語版の販売開始が決定！」（https://cad-kenkyujo.com/mastercam-kakaku/）
+  - 「最新バージョンの日本語版が」（https://www.jbm.co.jp/products/mastercam/）
+  - 「JBMエンジニアリングはCNCソフトウェア社より日本語版翻訳の認定を受けています」（https://www.jbm.co.jp/products/mastercam/）
+- 会社の規模：
+  - 「A series: Mastercam tips that can drastically improve efficiency 3」（https://mecadmfg.co.za/mastercam-licensing-options-find-the-best-fit-for-your-business-with-mecad-manufacturing/）
+  - 「Mastercamは、1984年にアメリカで設立されたCNC Software（現在はSandvikグループに所属）によって開発されたCAD/CAMソフトウェアです」（https://www.cadcam-z.com/cadcam-software-vendors-list/mastercam.html）
+  - 「The Machine Technology Program at San Diego City College is known for its strong curriculum that prepares its students for life on the shop floor. Students take a series of 11 classes leading to an Associates of Science Degree in Machine Technology, and several certificates of achievement – including Performance, CNC Technology, Computer Aided Manufacturing,…」（https://www.mastercam.com/solutions/products/mastercam-learning-edition/）
+  - 「Mastercam 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/259943-50）
+  - 「Acquisitions (8)」（https://pitchbook.com/profiles/company/259943-50）
+  - 「You’re viewing 5 of 8 acquisitions. Get the full list »」（https://pitchbook.com/profiles/company/259943-50）
+  - 「CNC Software is an independent, family-owned company founded in 1983, headquartered in Tolland, Connecticut, USA, with 220 employees.」（https://www.mastercam.com/community/blog/sandvik-to-acquire-leading-cam-software-company-cnc-software-inc-creators-of-mastercam/）
+- 顧客・用途：
+  - 「Mitsubishi Materials' precision carbide cutting tool brand, engineered for performance across aerospace, medical, and industrial machining.」（https://www.mastercam.com/community/partners/）
+  - 「American-manufactured carbide end mills and specialty cutting tools for aerospace, medical, and general machining.」（https://www.mastercam.com/community/partners/）
+  - 「High-precision CNC machining and grinding centers engineered for automotive, aerospace, and heavy industrial manufacturing.」（https://www.mastercam.com/community/partners/）
+  - 「Used By:」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Customer Acquisition Suite」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「Customer Acquisition Suite Pricing」（https://elioplus.com/profile/channel-partners/mastercam）
+  - 「“We are excited to have BUSMAN on board as a new Mastercam Reseller in Mexico,” said Mike Bebout, Territory Manager, Mastercam. “BUSMAN’s comprehensive solutions for the manufacturing industry, coupled with their experience and expertise, will help us expand our presence in the Mexican market. We look forward to working together to provide our customers with the best possible support and service.”」（https://www.mastercam.com/about/media/new-reseller-mexico/）
+  - 「BUSMAN’s appointment as a new Mastercam Reseller is a significant step towards supporting and strengthening Mastercam’s presence in the region. It represents an excellent opportunity for customers to access Mastercam’s cutting-edge CAD/CAM software through a reliable and trusted partner.」（https://www.mastercam.com/about/media/new-reseller-mexico/）
+  - 「Not getting into details, but in reality, appealing does little to nothing, even when there are a number of customers appealing, and "hypothetically", the reseller was incapable of supporting the product himself, If you're lucky enough to have more than one reseller in your location, then at least you have an option.」（https://www.emastercam.com/forums/topic/103795-switching-resellers/）
+  - 「Alternatives for Customer Support」（https://zoftwarehub.com/products/mastercam/pricing）
+  - 「Customer Stories」（https://mecadmfg.co.za/mastercam-licensing-options-find-the-best-fit-for-your-business-with-mecad-manufacturing/）
+  - 「, you will be able to flexibly mix perpetual modules with subscription modules, allowing great license structuring capabilities to all Mastercam customers.」（https://mecadmfg.co.za/mastercam-licensing-options-find-the-best-fit-for-your-business-with-mecad-manufacturing/）
+  - 「Stay current with the latest releases, customer success stories, and events」（https://www.mastercam.com/）
+  - 「PR事例ならPR EDGE」（https://prtimes.jp/main/html/rd/p/000000006.000010332.html）
+  - 「ユーザー事例」（https://www.cadjapan.com/products/items/mastercam/price.html）
+- 検索結果の抜粋：
+  - 「Mastercam - 世界No.1インストール数を誇る3D CAD/CAM ... — Mastercam - 世界No.1インストール数を誇る3D CAD/CAM ... Mastercam https://www.mastercam.co.jp」（https://www.mastercam.co.jp/）
+  - 「Mastercam 国内納入実績9年連続日本1位 | CADCAM — Mastercam 国内納入実績9年連続日本1位 | CADCAM ジェービーエムエンジニアリング株式会社 https://www.jbm.co.jp > 製品情報」（https://www.jbm.co.jp/products/mastercam/）
+  - 「世界シェアNo.1の3D-CAD/CAMシステム「 Mastercam 」を ... — 世界シェアNo.1の3D-CAD/CAMシステム「 Mastercam 」を ... 株式会社ゼネテック https://www.genetec.co.jp > お知らせ > お知らせ」（https://www.genetec.co.jp/news/news-260128/）
+  - 「Mastercam 2026 Company Profile - PitchBook — Mastercam 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/259943-50）
+
+## ModuleWorks（ModuleWorks）
+- 文脈：加工データの部品ソフト（CAMエンジン）
+- 日本の代理店：
+  - 「The new content has been launched to coincide with the JIMTOF 2008 trade show which takes place in Tokyo, Japan from October 30th to November 4th where ModuleWorks and far-east agent, Tecnolinc, will be attending to meet customers and prospects.」（https://www.moduleworks.com/zh-hans/moduleworks-launches-japanese-version-of-website/）
+  - 「パートナーシップの延長により、ModuleWorks社はMAL社のソフトウェアライブラリ「AppsPro」、Siemens NX向けプラグイン「NPro」、ならびにDassault Systemes DELMIA向けプラグイン「DELPro」の独占販売代理店となる」（https://www.cadjapan.com/news/2024/d20240315_01.html）
+  - 「株式会社は、工作機械向けのソフトウエアを開発・販売するModuleWorks GmbH.（モジュールワークス、本社:ドイツ アーヘン市、CEO:Yavuz Murtezaoglu、以下Module Works）と戦略的パートナーシップ契約を締結し出資を行いました」（https://www.nikkei.com/article/DGXZRSP665073_Y3A121C2000000/）
+  - 「■三菱電機株式会社 FAシステム事業本部長 竹内敏惠 コメント」（https://www.nikkei.com/article/DGXZRSP665073_Y3A121C2000000/）
+- 再販・パートナー制度：
+  - 「Strategic Partner Program | ModuleWorks」（https://www.moduleworks.com/moduleworks-announces-successful-closing-of-strategic-partnership-investment-round/）
+  - 「ModuleWorks, a leading innovator in toolpath generation and simulation technology for digital manufacturing, announces the successful closure of its Strategic Partner Program (SPP) investment round.」（https://www.moduleworks.com/moduleworks-announces-successful-closing-of-strategic-partnership-investment-round/）
+  - 「ModuleWorks accepts initial investors into Strategic Partner Program aimed at accelerating Digital Transformation in Manufacturing | ModuleWorks」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「ModuleWorks accepts initial investors into Strategic Partner Program aimed at accelerating Digital Transformation in Manufacturing」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「ModuleWorks, a global leader in toolpath and simulation software components for digital manufacturing systems, has launched its Strategic Partner Program, which invites a selection of key partners licensing ModuleWorks technology to make a minority investment into ModuleWorks equity and help accelerate Digital Transformation in Manufacturing.」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「Further news on the ModuleWorks Strategic Partner Program will be available later this year. Meanwhile, if you would like to know more, contact details are available below.」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「Stay informed and subscribe to our various newsletters!」（https://www.moduleworks.com/）
+  - 「1979, with over two decades of experience in various product development capacities for Weber Systems,」（https://www.smartcamcnc.com/News/Press_Releases.php?prnum=049）
+  - 「ModuleWorks features are used by organizations across various industries and sectors, including digital dentistry, optics and ultra-precision machining, laser-aided manufacturing, and woodworking framework.」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「ModuleWorks Appoints Clinton Perry as Head of Global Marketing to Strengthen Technical Communication and OEM Collaboration」（https://www.moduleworks.com/moduleworks-2025-08-software-release-now-available/）
+  - 「A geometric model of chip thickness variation, from entry angle to chatter-free parameters.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Last Chance for the TASC Early-Bird Discount!」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Jeff Lewis has spent his entire life on 380 acres in Cox's Creek, Kentucky — farming it, raising a family on it, and building a precision CNC shop that now machines die inserts for major automotive OEMs. This is how all three things ended up in the same place.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「OEM Tour Video: Lean Manufacturing for Measurement and Metrology」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「How can a facility that requires manual work for some long-standing parts be made more efficient? Join us as we look inside The L. S. Starrett Company’s headquarters in Athol, Massachusetts, and see how this long-established OEM is updating its processes.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+- 料金：
+  - 「TASC is a one-of-a-kind, two-day automation conference designed to drive efficiency, quality and scalability at U.S. job shops. Register now through July 11 to receive early-bird pricing and discover practical automation solutions tailored for small-and mid-sized shops.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「TASC is a one-of-a-kind, two-day automation conference designed to drive efficiency, quality and scalability at U.S. job shops. Register now through July 11 to receive early-bird pricing and discover practical automation solutions tailored for small-and mid-sized shops.」（https://www.mmsonline.com/products/moduleworks-cam-software-update-boosts-efficiency-and-safety）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZRSP665073_Y3A121C2000000/）
+  - 「Claudeで2000万円級分析が80万円に ChatGPTやGemini、3大AI戦略研究」（https://www.nikkei.com/article/DGXZRSP665073_Y3A121C2000000/）
+  - 「新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材」（https://www.nikkei.com/article/DGXZRSP665073_Y3A121C2000000/）
+- 無料体験：
+  - 「Set up a web demonstration」（https://www.moduleworks.com/moduleworks-announces-successful-closing-of-strategic-partnership-investment-round/）
+  - 「Set up a web demonstration」（https://www.moduleworks.com/company/partners/）
+  - 「Set up a web demonstration」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「Set up a web demonstration」（https://www.moduleworks.com/）
+  - 「ModuleWorks: Pricing, Free Demo & Features | Software Finder」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「Watch Demo」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「Watch Free Demo!」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「Watch Free Demo」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「ModuleWorks demo」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「Set up a web demonstration」（https://www.moduleworks.com/moduleworks-2025-08-software-release-now-available/）
+  - 「Digital Demos」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Omax Demonstrates Waterjet Cutting’s Versatility」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Interactive demonstrations, virtual reality and more guide visitors through the process by which real-time signals become real manufacturing outcomes.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Zeiss’ IMTS 2026 booth includes hardware to tackle many metrology needs, software to connect them and demonstrations to help users use them to their full extent.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「See AI in action with hands-on CAMWorks demonstrations that accelerate programming and automate repetitive tasks.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+- 日本語対応：
+  - 「Japanese version of Website | ModuleWorks」（https://www.moduleworks.com/zh-hans/moduleworks-launches-japanese-version-of-website/）
+  - 「ModuleWorks launches Japanese version of Website」（https://www.moduleworks.com/zh-hans/moduleworks-launches-japanese-version-of-website/）
+  - 「, a Japanese language version of its recently launched website to showcase its range of components for 3-5 axis toolpath generation, verification and machine simulation.」（https://www.moduleworks.com/zh-hans/moduleworks-launches-japanese-version-of-website/）
+  - 「今野真二「日本語日記」」（https://www.nikkei.com/article/DGXZRSP665073_Y3A121C2000000/）
+- 会社の規模：
+  - 「PTC is a global software company that enables industrial and manufacturing companies to digitally transform how they engineer, manufacture, and service the physical products that the world relies on. Headquartered in Boston, Massachusetts, PTC employs over 7,000 people and supports more than 30,000 customers globally. For more information, please visit」（https://www.moduleworks.com/moduleworks-announces-successful-closing-of-strategic-partnership-investment-round/）
+  - 「is a worldwide leading manufacturer of high-precision machine tools and sustainable technologies that are at the heart of global value chains. In the “Global One Company” more than 12,000 employees are in direct contact with over 100,000 customers from 57 industries. DMG MORI is globally present in 88 countries with 16 production plants, 113 sales and service locations.」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「"For v2017, our milling and turning customers will immediately benefit from the new, integrated ModuleWorks material removal verification engine, which offers seamless dynamic viewing in the main graphics window, along with simultaneous toolpath display.」（https://www.smartcamcnc.com/News/Press_Releases.php?prnum=049）
+  - 「Chiron Group is highlighting two of its five-axis machines: the compact Micro5 XL for small workpieces, and the 19 Series for larger parts.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Air Turbine Technology Inc.'s Drill Tap Series offers governed constant speeds up to 90,000 rpm, ATC compatibility and 24/7 unattended operation for compact drill-tap machining centers.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「Okamoto Corp. provides a range of high-precision grinders, including the ACC-818Sa-iQ CNC surface grinder, the PRG-iQ precision rotary surface grinder, and the OGM-UNCiii series CNC cylindrical grinder.」（https://www.mmsonline.com/products/moduleworks-software-update-boosts-toolpath-generation-efficiency）
+  - 「The new content has been launched to coincide with the JIMTOF 2008 trade show which takes place in Tokyo, Japan from October 30th to November 4th where ModuleWorks and far-east agent, Tecnolinc, will be attending to meet customers and prospects.」（https://www.moduleworks.com/zh-hans/moduleworks-launches-japanese-version-of-website/）
+  - 「ModuleWorks grow revenues more than 20% in 2008」（https://www.moduleworks.com/zh-hans/moduleworks-launches-japanese-version-of-website/）
+  - 「Chiron Group is highlighting two of its five-axis machines: the compact Micro5 XL for small workpieces, and the 19 Series for larger parts.」（https://www.mmsonline.com/products/moduleworks-cam-software-update-boosts-efficiency-and-safety）
+  - 「Air Turbine Technology Inc.'s Drill Tap Series offers governed constant speeds up to 90,000 rpm, ATC compatibility and 24/7 unattended operation for compact drill-tap machining centers.」（https://www.mmsonline.com/products/moduleworks-cam-software-update-boosts-efficiency-and-safety）
+  - 「Okamoto Corp. provides a range of high-precision grinders, including the ACC-818Sa-iQ CNC surface grinder, the PRG-iQ precision rotary surface grinder, and the OGM-UNCiii series CNC cylindrical grinder.」（https://www.mmsonline.com/products/moduleworks-cam-software-update-boosts-efficiency-and-safety）
+  - 「Open Mind develops CAD/CAM software solutions for the manufacturing sector. The company offers products including 2.5D, 3D, and 5-axis milling, as well as mill turning and additive manufacturing technologies. Open Mind's software aims to improve programming and machining processes in various manufacturing applications. It was founded in 1994 and is based in Unterfohring, Germany.」（https://www.cbinsights.com/company/moduleworks/alternatives-competitors）
+  - 「Founded in 2003, ModuleWorks estimates that its software underpins more than 500,000 CAD/CAM and CNC software installations worldwide.」（https://www.machinery-market.co.uk/news/43226/Latest-ModuleWorks-202608-delivers-smarter-toolpaths-and-simulation-）
+  - 「ModuleWorks 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/130691-08）
+  - 「Investments & Acquisitions (2)」（https://pitchbook.com/profiles/company/130691-08）
+- 顧客・用途：
+  - 「PTC is a global software company that enables industrial and manufacturing companies to digitally transform how they engineer, manufacture, and service the physical products that the world relies on. Headquartered in Boston, Massachusetts, PTC employs over 7,000 people and supports more than 30,000 customers globally. For more information, please visit」（https://www.moduleworks.com/moduleworks-announces-successful-closing-of-strategic-partnership-investment-round/）
+  - 「. I understand that my entered data will be used by ModuleWorks for the purpose of contacting me and discussing my query. The information provided will not be shared with third parties or used for any other purposes.」（https://www.moduleworks.com/moduleworks-announces-successful-closing-of-strategic-partnership-investment-round/）
+  - 「MEDICAL」（https://www.moduleworks.com/company/partners/）
+  - 「. I understand that my entered data will be used by ModuleWorks for the purpose of contacting me and discussing my query. The information provided will not be shared with third parties or used for any other purposes.」（https://www.moduleworks.com/company/partners/）
+  - 「“ModuleWorks is a worldwide unique provider of embeddable toolpath and simulation components. DMG MORI and ModuleWorks share the same vision of CAD/CAM automation solutions. Together, with the global footprint of DMG MORI we will open a wide range of scalable opportunities for the shopfloors of our customers,” said Christian Thönes, Chairman of the Executive Board of DMG MORI AKTIENGESELLSCHAFT.」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「is a worldwide leading manufacturer of high-precision machine tools and sustainable technologies that are at the heart of global value chains. In the “Global One Company” more than 12,000 employees are in direct contact with over 100,000 customers from 57 industries. DMG MORI is globally present in 88 countries with 16 production plants, 113 sales and service locations.」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「. I understand that my entered data will be used by ModuleWorks for the purpose of contacting me and discussing my query. The information provided will not be shared with third parties or used for any other purposes.」（https://www.moduleworks.com/strategic-partner-program/）
+  - 「A unique and powerful combination of dedicated plug & play component technology and self-driving CAM solutions for rapid implementation of automated CAM workflows that simplify and accelerate manufacturing in the dental, medical and other automation industries.」（https://www.moduleworks.com/）
+  - 「We develop additional customer-specific functions individually tailored to your wishes.」（https://www.moduleworks.com/）
+  - 「. I understand that my entered data will be used by ModuleWorks for the purpose of contacting me and discussing my query. The information provided will not be shared with third parties or used for any other purposes.」（https://www.moduleworks.com/）
+  - 「"For v2017, our milling and turning customers will immediately benefit from the new, integrated ModuleWorks material removal verification engine, which offers seamless dynamic viewing in the main graphics window, along with simultaneous toolpath display.」（https://www.smartcamcnc.com/News/Press_Releases.php?prnum=049）
+  - 「computer-aided manufacturing (CAM) software for the benefit of its worldwide customer base. Gregg Olson,」（https://www.smartcamcnc.com/News/Press_Releases.php?prnum=049）
+  - 「Still doubtful if ModuleWorks is the right fit for you? Connect with our customer support staff at」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「This feature combines plug-and-play components and self-driving CAM solutions, enabling fast implementation of automated workflows. ModuleWorks simplifies complex machining tasks, accelerates production, and improves precision in dental, medical, and other automation-focused manufacturing environments.」（https://softwarefinder.com/manufacturing-software/moduleworks）
+  - 「All reviews are from verified customers」（https://softwarefinder.com/manufacturing-software/moduleworks）
+- 検索結果の抜粋：
+  - 「ModuleWorks 2025.08 Software Release Now Available — ModuleWorks 2025.08 Software Release Now Available ModuleWorks https://www.moduleworks.com > mo...」（https://www.moduleworks.com/moduleworks-2025-08-software-release-now-available/）
+  - 「MODULEWORKS - EMO Exhibitor 2025 - EMO Hannover — MODULEWORKS - EMO Exhibitor 2025 - EMO Hannover EMO Hannover https://visitors.emo-hannover.de > mo...」（https://visitors.emo-hannover.de/exhibitor/moduleworks/068575）
+  - 「Latest ModuleWorks 2026.08 delivers smarter toolpaths, and ... — Latest ModuleWorks 2026.08 delivers smarter toolpaths, and ... Machinery Market https://www.machinery-market.co.uk > ...」（https://www.machinery-market.co.uk/news/43226/Latest-ModuleWorks-202608-delivers-smarter-toolpaths-and-simulation-）
+  - 「ModuleWorks 社がデジタル製造ソフトウェアコンポーネント ... — ModuleWorks 社がデジタル製造ソフトウェアコンポーネント ... CAD Japan.com https://www.cadjapan.com > ニュース > 2026年」（https://www.cadjapan.com/news/2026/w202616_01.html）
+  - 「Compare CAMWorks vs. ModuleWorks in 2026 - Slashdot — Compare CAMWorks vs. ModuleWorks in 2026 - Slashdot Slashdot https://slashdot.org > comparison > C...」（https://slashdot.org/software/comparison/CAMWorks-vs-ModuleWorks/）
+  - 「ModuleWorks 2026 Company Profile - PitchBook — ModuleWorks 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/130691-08）
+
+## Markforged Eiger（Markforged Eiger）
+- 文脈：造形の準備（装置一体）
+- 日本の代理店：
+  - 「Markforged(マークフォージド)-カーボン金属対応3Dプリンタ | Markforged正規代理店」（https://www.datadesign.co.jp/markforged/）
+  - 「- 小島プレス工業株式会社（日本） -」（https://www.datadesign.co.jp/markforged/）
+  - 「ロボットハンドから治具まで幅広く適用｜小島プレス工業株式会社」（https://www.datadesign.co.jp/markforged/）
+  - 「小島プレス工業株式会社は、創業85年を迎える大手自動車部品メーカーです」（https://www.datadesign.co.jp/markforged/）
+  - 「- トヨタ自動車株式会社（日本） -」（https://www.datadesign.co.jp/markforged/）
+  - 「生産設備における3Dプリンタ活用｜トヨタ自動車株式会社」（https://www.datadesign.co.jp/markforged/）
+  - 「※株式会社データ・デザインで翻訳しております」（https://www.datadesign.co.jp/markforged/）
+  - 「※株式会社データ・デザインはMarkforged社の国内正規販売代理店です」（https://www.datadesign.co.jp/markforged/）
+  - 「- C-max 富士精工株式会社 -」（https://www.datadesign.co.jp/markforged/）
+  - 「」-開発部開発課 C-max富士精工 株式会社」（https://www.datadesign.co.jp/markforged/）
+  - 「Markforged のいかなる再販業者、販売代理店、代理店、または従業員も、本利用規約で規定されている排他的限定保証を変更、延長、または追加することを許可されていません」（https://markforged.com/jp/terms-conditions）
+  - 「Markforged（マークフォージド） カーボンファイバー3Dプリンター 日本正規代理店」（https://apple-tree.co.jp/brand/markforged/）
+  - 「日本3Dプリンター株式会社」（https://3d-printer-house.com/shop/markforged/）
+  - 「販売サイト運営元：株式会社VOST」（https://3d-printer-house.com/shop/markforged/）
+  - 「COPYRIGHTS © 日本3Dプリンター株式会社」（https://3d-printer-house.com/shop/markforged/）
+- 再販・パートナー制度：
+  - 「Access world-class 3D printing expertise and local services through our certified reseller network. Work directly with Markforged partners to explore or expand your additive manufacturing capabilities.」（https://markforged.com/partners）
+  - 「Resellers」（https://markforged.com/partners）
+  - 「The two production technologies each have various benefits and drawbacks, and this article identifys the applications which best benefit from one or the other.」（https://www.mark3d.com/en/eiger-software/）
+  - 「Reseller for Laptops optimised for 3D Scanning」（https://www.mark3d.com/en/eiger-software/）
+  - 「The integration is designed to provide real-time visibility into the state and performance of a multi-vendor fleet of printers, allowing a single point of monitoring for a shop’s assets from various OEMs.」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Resellers」（https://markforged.com/resources/videos/a-step-by-step-walkthrough-of-the-markforged-3d-printing-software）
+  - 「Streamlining the process: customers will open cases directly with their Markforged reseller, enabling the partner to more quickly initiate support. A single support request will replace today’s multiple touchpoints and the manual process for warranty and success plan claims.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「Accelerating information sharing: the information necessary to solve customer issues, such as machine type, machine ID, and issue type, will be readily available to the reseller partner team handling the ticket, as well as to the second line support and engineering teams at Markforged.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「Instead of opening tickets via email, phone, customer portal or Eiger, customers will be redirected with the information to contact their reseller directly. An active warranty or service plan will be required to open tickets.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「Customers without an active reseller will open tickets through the support portal. Markforged will provide support and then help the customer match up with an active reseller.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「Reseller partners will open cases with Markforged for issues that require second line support or help from Markforged’s Engineering team.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「A. Contact your reseller partner for Warranty/Service Plan information.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「A. Contact your reseller partner to have them update our system.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「A. Contact your reseller partner to subscribe to a service plan.」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+  - 「A. Customers will be presented with their reseller partner’s contact information if they try to open a case directly with Markforged:」（https://support.markforged.com/portal/s/article/Entitlements-FAQs）
+- 料金：
+  - 「LIMITED-TIME OFFER! Save Up to 28% on SOLIDWORKS Perpetual Licenses」（https://hawkridgesys.com/markforged-eiger-software）
+  - 「Markforged Pricing 2022 : Demo, Reviews & Features - 360Quadrants」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Eiger pricing plans are in line with the competitors in the 3D printing market. The Eiger pricing plans ranges between $15,000 and $150,000 USD. For getting more details on the Eiger pricing plans users can get in touch with the vendor.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Markforgedâ€™s 3D printing software has been a huge asset to our engineering team. The platform is intuitive and user-friendly, making it easy for us to learn how to use the software quickly.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「I would give Markforgedâ€™s 3D printing software a 5 out of 5 in terms of user experience. The user interface is intuitive and allows us to quickly get up and running with the software. The design dashboard has also been a huge help in streamlining our workflow.'」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「'Review 2 - Markforgedâ€™s 3D Printing Software」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Overall, I think that Markforgedâ€™s 3D Printing Software is a great choice for any team or business that wants to get started with 3D printing. It saves time, is easy to use and the value for money is there. I would definitely rate it a 9/10.'」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Markforgedâ€™s 3D printing software is an excellent choice for those in need of a powerful but easy-to-use software package that is accessible via the cloud.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「The â€œfillâ€ capability is a great feature, allowing users to easily create intricate and complex 3D models with ease. Additionally, the integration with popular CAD software packages such as Autodesk Fusion 360 makes switching between design and 3D printing modes an effortless task.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「The cost of the software is competitive and the value-for-money is excellent â€“ I would rate it 9/10. The customer service team is also attentive and helpful if you require further assistance.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Overall, I'm very impressed with Markforgedâ€™s 3D printing software. It has been an invaluable asset to my companyâ€™s design and production capabilities. Highly recommended.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「'Markforged 3D Printing Software â€“ Flexibility」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「過去20年間で、業界の競争激化により製品がコモディティ化し、価格競争が激しくなりました」（https://www.datadesign.co.jp/markforged/）
+  - 「【導入効果】新しいアイデアを迅速に実行できるようになったことでさらなる改善が進み、1年以内に設備の購入価格を上回る投資収益（ROI）を生み出した」（https://www.datadesign.co.jp/markforged/）
+  - 「そこで私たちはまず、10万円程度の安価なFDM（熱溶解積層法）方式の3Dプリンタを導入することから始めました」（https://www.datadesign.co.jp/markforged/）
+- 無料体験：
+  - 「Book Scanning Demo」（https://www.mark3d.com/en/eiger-software/）
+  - 「Markforged is exhibiting at RAPID + TCT held at Huntington Place in Detroit from May 17-19, talking about this integration, demoing the new FX20 and unveiling new Eiger features.」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Markforged Pricing 2022 : Demo, Reviews & Features - 360Quadrants」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Markforged Pricing & Demo」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Free Demo」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Eiger Demo」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「The software demo and trial is available on the vendor website. Users can avail the same by registering on the website of the company. With this demo, users will be able to understand the functionalities and features of the software post which they can request for the Eiger pricing to the vendor.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「(free trial)」（https://markforged.com/resources/blog/digital-forge-subscriptions-a-new-model-for-software-and-success-plans）
+  - 「Markforged Japanに連絡し、詳細な仕様の確認とデモンストレーション・プリントの立ち会いを行いました」（https://www.datadesign.co.jp/markforged/）
+  - 「Request a demo」（https://www.mark3d.com/de/en/eiger-software/）
+  - 「Would you like a demo, have questions or need a quote for a Markforged 3D printer and the EIGER software?」（https://www.mark3d.com/de/en/eiger-software/）
+  - 「本製品の体験版・カタログの」（https://www.datadesign.co.jp/markforged/lineup/software-eiger/）
+  - 「Used/Demo」（https://imscnc.com/markforged/）
+  - 「Schedule your markforged demo at IMS」（https://imscnc.com/markforged/）
+  - 「Tell us your date required for demo and any requests」（https://imscnc.com/markforged/）
+- 日本語対応：
+  - 「Continue to 日本語」（https://markforged.com/partners）
+  - 「Continue to 日本語」（https://markforged.com/resources/videos/a-step-by-step-walkthrough-of-the-markforged-3d-printing-software）
+  - 「Continue to 日本語」（https://markforged.com/resources/blog/digital-forge-subscriptions-a-new-model-for-software-and-success-plans）
+  - 「Continue to 日本語」（https://markforged.com/software）
+  - 「Continue to 日本語」（https://markforged.com/jp/terms-conditions）
+  - 「Continue to 日本語」（https://markforged.com/jp/desktop-series）
+  - 「Continue to 日本語」（https://markforged.com/software/）
+- 会社の規模：
+  - 「Desktop 3D Printer Series」（https://markforged.com/partners）
+  - 「Desktop 3D Printer Series」（https://markforged.com/resources/videos/a-step-by-step-walkthrough-of-the-markforged-3d-printing-software）
+  - 「I've been using Markforged 3D printing software for a while now, and I must say that it has really made our processes here at the multinational much easier and efficient. Markforged offers a comprehensive suite of features that pushes the boundaries of 3D printing innovation, allowing us to quickly turn around prototypes and production ready products to our customers.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「The product vision of this software indeed aligns with current trends in the industry, however, the lack of further use of next-generation technology means it is missing out on some of the potential acquisitions. Additionally, the accuracy of larger models and the overall time taken for 3D printing jobs makes for some cause for concern.」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「The customer service provided by Markforged is also quite lacking. There have been several reports of customers being left on hold for extended periods of time and no one seems to be present in the chat support to provide assistance. I give Markforged's 3D printing software offerings a rating of just 2 out of 5 stars.'」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「However, the lack of innovative features makes this software unsuitable for use with the latest 3D printers in the market. The customer service offered by Markforged is also quite low, and there have been multiple reports of customers being left on hold. I rate Markforged's 3D printing software offerings at 2.5 stars out of 5.'」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「360Quadrants uses analyst insights from MarketsandMarkets, a revenue impact-focused analyst firm serving more than 80% of Fortune 2000 companies. Learn about other available services at」（https://www.360quadrants.com/software/3d-printing-software/markforged-inc）
+  - 「Desktop 3D Printer Series」（https://markforged.com/resources/blog/digital-forge-subscriptions-a-new-model-for-software-and-success-plans）
+  - 「Desktop 3D Printer Series」（https://markforged.com/software）
+  - 「Desktop Series(デスクトップシリーズ)はデスクトップ型のカーボンファイバーに対応したFFF方式の3Dプリンタです」（https://www.datadesign.co.jp/markforged/）
+  - 「Dixie Iron Works（別名MSI）は、1933年に石油・ガス業界へ流量制御機器を供給するために設立されました」（https://www.datadesign.co.jp/markforged/）
+  - 「重要だったのは、経営層が『3Dプリンタは、イノベーションの促進や従業員のスキル開発といった、目に見えない無形の資産にも貢献するものである』という点を理解してくれたことでした」（https://www.datadesign.co.jp/markforged/）
+  - 「グループ会社を含め従業員数7500人を超え日本のみならず、米国/タイ/中国/ヨーロッパにも拠点を構えており、グループ各社のサプライチェーンを活かした高い供給力で『開発から生産まで一括対応』ができる事業を展開しています」（https://www.datadesign.co.jp/markforged/）
+  - 「KST Moschkau社は1985年に家族経営の企業として設立されました」（https://www.datadesign.co.jp/markforged/）
+  - 「1985年に設立された、KST Moschkau GmbHはテレビメディア向けのデバイスなど複雑なシステムを作りました」（https://www.datadesign.co.jp/markforged/）
+- 顧客・用途：
+  - 「Aerospace」（https://markforged.com/partners）
+  - 「Automotive」（https://markforged.com/partners）
+  - 「Energy」（https://markforged.com/partners）
+  - 「Federal and Defense」（https://markforged.com/partners）
+  - 「Medical」（https://markforged.com/partners）
+  - 「Customer Stories」（https://markforged.com/partners）
+  - 「Webinars and Customer Talks」（https://www.mark3d.com/en/eiger-software/）
+  - 「Primetall Case Study」（https://www.mark3d.com/en/eiger-software/）
+  - 「In this practical case study from Primetall, 3D printing was used to print custom fixtures. It was practically “drilled around the corner”.」（https://www.mark3d.com/en/eiger-software/）
+  - 「Customers」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Customer Story」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Eiger leverages AI to continuously improve and provide over-the-air software updates to users. Access to Eiger’s API is included for all customers of Eiger Fleet, Markforged’s enterprise software solution. Eiger Fleet customers have leveraged the Eiger API to automatically print parts as they reach end of life, or as part of a digital kanban inventory system.」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Case Study」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Aerospace」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+  - 「Automotive」（https://www.3yourmind.com/news/markforged-partners-with-3yourmind-to-scale-automation-of-additive-manufacturing-in-multi-vendor-ecosystems）
+- 検索結果の抜粋：
+  - 「The EIGER Software - Mark3D UK - Markforged partner for 3D ... — The EIGER Software - Mark3D UK - Markforged partner for 3D ... Mark3D https://www.mark3d.com > eiger-soft...」（https://www.mark3d.com/en/eiger-software/）
+  - 「Markforged Eiger Software - Manage 3D Parts and Print Builds — Markforged Eiger Software - Manage 3D Parts and Print Builds Hawk Ridge Systems https://hawkridgesys.com > markforg...」（https://hawkridgesys.com/markforged-eiger-software）
+  - 「Eiger 3D Printing Software | Markforged — Eiger 3D Printing Software | Markforged Markforged https://markforged.com > software」（https://markforged.com/software）
+  - 「The EIGER Software - Markforged 3D printer - Mark3D — The EIGER Software - Markforged 3D printer - Mark3D Mark3D https://www.mark3d.com > eiger-soft...」（https://www.mark3d.com/de/en/eiger-software/）
+  - 「3D Printing Software Markforged Eiger - データ・デザイン — 3D Printing Software Markforged Eiger - データ・デザイン datadesign https://www.datadesign.co.jp > lineup > software-eiger」（https://www.datadesign.co.jp/markforged/lineup/software-eiger/）
+  - 「Try Eiger 3D Printing Software Today - Markforged — Try Eiger 3D Printing Software Today - Markforged Markforged https://3d.markforged.com > try-eiger」（https://3d.markforged.com/try-eiger.html）
+
+## Meltio Space（Meltio Space）
+- 文脈：造形の準備（DED・ロボットアーム）
+- 日本の代理店：
+  - 「, Meltio’s official partner in Japan.」（https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/）
+  - 「, the 33rd Japan International Machine Tool Fair, at Tokyo Big Sight in Tokyo from October 26 to October 31, 2026, at Booth E2001.」（https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/）
+  - 「株式会社MadeHereが日本総代理店を務める、スペインの金属３DプリンターメーカーMeltio社についてご紹介します」（https://www.3dpc.co.jp/articles/what-is-meltio）
+  - 「日本国内での導入・運用サポートは「株式会社MadeHere」にお任せください」（https://www.3dpc.co.jp/articles/what-is-meltio）
+  - 「株式会社MadeHereはMeltio 社金属３Dプリンターの日本総代理店総代理店として」（https://www.3dpc.co.jp/articles/what-is-meltio）
+  - 「株式会社MadeHere」（https://www.3dpc.co.jp/articles/what-is-meltio）
+  - 「※2025年9月1日に株式会社3D Printing Corporationより社名変更いたしました」（https://www.3dpc.co.jp/articles/what-is-meltio）
+  - 「株式会社MadeHereはMeltio社3Dプリンターの日本総代理店です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「富士高周波工業株式会社」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「株式会社MadeHere」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「※2025年9月1日に株式会社3D Printing Corporationより社名変更いたしました」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「3D Printing CorporationがMeltioと国内代理店契約を締結 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「3D Printing CorporationがMeltioと国内代理店契約を締結」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「と日本総代理店契約を締結した」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「が国内代理店契約を締結したことで、」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+- 再販・パートナー制度：
+  - 「The additive software module must be requested from the software reseller, as the machining modules alone are not sufficient to support the Meltio process.」（https://meltio3d.com/software/meltio-space/）
+  - 「Multiple slicing options including variable deposition to address a wide variety of geometries with very fast calculation of complex toolpaths.」（https://meltio3d.com/software/meltio-space/）
+  - 「Advanced variable deposition strategies」（https://meltio3d.com/software/meltio-space/）
+  - 「Manufacture directly on top of flanges different curved pipes and manifolds without the need to depend on standard curvature radii to fit properly your design. Admits also has pipes and manifolds with variable diameters along the part.」（https://meltio3d.com/software/meltio-space/）
+  - 「Become a reseller or integrator」（https://meltio3d.com/software/meltio-space/）
+  - 「El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.」（https://meltio3d.com/software/meltio-space/）
+  - 「El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.」（https://meltio3d.com/software/meltio-space/）
+  - 「This new software ecosystem offers tools to address a variety of applications and industries through advanced slicing features, such as fixed tool orientation, revolved surfaces, features on non-planar surfaces, simple surface coating, radial cladding, 360° features, variable layer deposition, controlled area repair, and non-controlled area repair.」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「In any case, the Additive part of the software needs to be requested by the software reseller as the machining modules are not enough to support the Meltio process.」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「The additive software module must be requested from the software reseller, as the machining modules alone are not sufficient to support the Meltio process.」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「Become a reseller or integrator」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「This new software ecosystem offers tools to address a variety of applications and industries through advanced slicing features, such as fixed tool orientation, revolved surfaces, features on non-planar surfaces, simple surface coating, radial cladding, 360° features, variable layer deposition, controlled area repair, and non-controlled area repair.」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「, Meltio Space incorporates a user-friendly interface for planar, non-planar, and variable extrusion toolpaths. 2-axis workpiece positioner interpolation, kinematics simulation, collisions check, and cell configuration are also included with the platform.」（https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/）
+- 料金：
+  - 「Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Aurora Labs secures A$6 million to scale up turbojet engine production」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/）
+  - 「Farsoon Files $479M Raise for New Manufacturing Services Expansion」（https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「FORT Robotics secures $20M funding round led by Tiger Global, Mark Cuban Companies」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Gecko Robotics quadruples U.S. Navy contract to $300M to support military readiness」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Bedrock Robotics announces $600M Series C to scale autonomous construction equipment across U.S. sites」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Tutor Intelligence raises $34M Series A to scale AI-powered warehouse robot worker fleet」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Foundry Robotics raises $100M Series A to build autonomous factory for assembly」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Meltio Space (1‑year subscription included)」（https://hdc3d.com/robot-cell/）
+  - 「3Dプリンターの構成については当初から鉄鋼系モノづくりを志向しており、価格や作業者の安全性、使用環境への配慮がなされている」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+- 無料体験：
+  - 「CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「Intel and SAP demonstrate physical AI and the autonomous warehouse in action」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「“This purpose-built hybrid machine directly addresses the most pressing challenges in modern manufacturing—including severe labor shortages, floor-space constraints, and environmental impact—by delivering an uncompromising, highly automated solution. We look forward to demonstrating its unique capabilities to the global industry at JIMTOF 2026.”」（https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/）
+  - 「Visitors will be able to view the dry-run operation of the NX70 DUO version AM along with video demonstrations of actual printing, and explore how Meltio Wire Laser Metal Deposition and HORKOS precision machining can be combined within a single manufacturing environment.」（https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/）
+  - 「フォームネクスト2024ではオイル＆ガス向けの冷却チャンネル一体型デュアル燃焼室の造形デモを実施し、安全クリティカルインフラに必要な材料密度と機械的特性をW-LMDで達成できることを証明しました」（https://www.3dpc.co.jp/articles/what-is-meltio）
+  - 「Congo, Democratic Republic of the」（https://www.multistation.com/en/product/meltio-engine-robot/）
+  - 「Discover how Meltio’s Wire-Laser Metal Additive Manufacturing helped transform a complex, hand-welded turbo manifold into a streamlined, digitally manufactured component – demonstrating the potential of additive manufacturing for part consolidation, reverse engineering, and」（https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/）
+  - 「Download now the free version for Meltio SPACE* valued in 7,500€」（https://meltio3d.com/meltio-space-request-offer/）
+  - 「Request a free trial」（https://pitchbook.com/profiles/company/458381-98）
+  - 「Request a Free Trial」（https://pitchbook.com/profiles/company/458381-98）
+  - 「Request your free trial to access PitchBook and act confidently」（https://pitchbook.com/profiles/company/458381-98）
+  - 「, using a Meltio robot-integrated system, examined wire laser cladding on stainless steel substrates and demonstrated the viability of wire-laser DED for surface coating applications.」（https://en.wikipedia.org/wiki/Meltio）
+- 日本語対応：
+  - 「Japanese」（https://hdc3d.com/meltio/）
+  - 「Japanese」（https://hdc3d.com/robot-cell/）
+- 会社の規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/）
+  - 「It is designed for using the Meltio Engine integrated into a robotic arm. Prior to launching Meltio Space, the company had agreements with 12 major software companies with which its technology is compatible and open. Now, the Meltio Space software facilitates the use or adoption of its wire-laser technology for industrial customers who do not have specific expertise in robotics and AM.」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「FORT Robotics secures $20M funding round led by Tiger Global, Mark Cuban Companies」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Bedrock Robotics announces $600M Series C to scale autonomous construction equipment across U.S. sites」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Tutor Intelligence raises $34M Series A to scale AI-powered warehouse robot worker fleet」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Foundry Robotics raises $100M Series A to build autonomous factory for assembly」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Meltio takes metal additive manufacturing to the next level by developing high-performance, affordable, and easy-to-use metal 3D printing solutions using wire-laser metal deposition technology. The company’s mission is to delight customers, partners, and employees by pioneering the development of affordable metal 3D printing systems that are reliable, safe, and powerful.」（https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/）
+  - 「The 3D print community has spoken: Sovol’s M1D Kickstarter campaign has raised an incredible amount of money.」（https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing）
+  - 「2019年にラスベガスのテクノロジー企業Additec社と3Dプリンター販売大手のSicnova社との合弁会社として設立され、世界最大級の鉄鋼メーカーであるArcelorMittal社にも戦略的支援を実施している」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「生成AIによる3Dモデル生成技術を開発するTripo AIは2026年9月1日、シリーズBおよびシリーズB+の資金調達ラウンドで、総額約30億元（2026年9月…」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説」（https://news.sharelab.jp/3dp-news/ir/meltio_220621/）
+  - 「Meltio company reports over 50% growth in revenue for fiscal year 2024.」（https://meltio3d.com/meltio-consolidates-its-position-as-the-metal-am-industrys-trusted-partner/）
+  - 「Meltio 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/458381-98）
+  - 「Meltio was founded in 2019.」（https://pitchbook.com/profiles/company/458381-98）
+  - 「Meltio has 120 total employees.」（https://pitchbook.com/profiles/company/458381-98）
+- 顧客・用途：
+  - 「Defense」（https://meltio3d.com/software/meltio-space/）
+  - 「Customers」（https://meltio3d.com/software/meltio-space/）
+  - 「Wire Trading / Customer Service」（https://meltio3d.com/software/meltio-space/）
+  - 「Defense」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「Customers」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「– to ensure a set of guaranteed and reliable software solutions for the customer to identify the best software solutions for」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「the role of the integrator is crucial to provide the end customer with a complete solution」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「Wire Trading / Customer Service」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「Aerospace AM」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Defense」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Automotive AM」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Medical AM」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Medical Implants」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Medical Models」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Medical Devices」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+- 検索結果の抜粋：
+  - 「Meltio Space : Robotic toolpath generator — Meltio Space : Robotic toolpath generator Meltio https://meltio3d.com > meltio-space」（https://meltio3d.com/software/meltio-space/）
+  - 「Meltio Software Partners — Meltio Software Partners Meltio https://meltio3d.com > software > mel...」（https://meltio3d.com/software/meltio-software-partners/）
+  - 「Meltio partners with 12 leading AM software companies — Meltio partners with 12 leading AM software companies VoxelMatters https://www.voxelmatters.com > melti...」（https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/）
+  - 「Meltio introduces new toolpath generator software to optimize ... — Meltio introduces new toolpath generator software to optimize ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/）
+  - 「Meltio Space : The Ultimate Industrial Additive Slicer for Robot ... — Meltio Space : The Ultimate Industrial Additive Slicer for Robot ... Meltio https://meltio3d.com > meltio-space-a...」（https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/）
+  - 「Meltio Software Simplifies Wire-Laser Metal 3D Printing ... — Meltio Software Simplifies Wire-Laser Metal 3D Printing ... additivemanufacturing.media https://www.additivemanufacturing.media > ...」（https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-）
+  - 「Meltio Software Enables Robot Arms to Accurately Create 3D ... — Meltio Software Enables Robot Arms to Accurately Create 3D ... Robotics 24/7 https://www.robotics247.com > article」（https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control）
+  - 「Manufacturing and developing Wire-Laser Metal 3D Printing ... — Manufacturing and developing Wire-Laser Metal 3D Printing ... AHB Tooling & Machinery PDF https://ahbinc.com > get-document > Meltio Product...」（https://ahbinc.com/get-document?file=AHB%20-%20Machinery%2FMeltio%20Product%20Brochure.pdf）
+  - 「Meltio Technology Powers HORKOS's New NX70 DUO Hybrid ... — Meltio Technology Powers HORKOS's New NX70 DUO Hybrid ... Meltio https://meltio3d.com > meltio-technol...」（https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/）
+  - 「Meltio - Wire DED Metal 3D Printer - Additive Manufacturing — Meltio - Wire DED Metal 3D Printer - Additive Manufacturing hdc3d.com https://hdc3d.com > meltio」（https://hdc3d.com/meltio/）
+  - 「Meltio revolutionizes the ability of a robotic arm to manufacture ... — Meltio revolutionizes the ability of a robotic arm to manufacture ... Industry EMEA https://industryemea.com > news > 71...」（https://industryemea.com/news/71388-meltio-revolutionizes-the-ability-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-its-ultimate-meltio-space-software,-which-enables-highly-accurate-and-reliable-designs）
+  - 「Partner Ecosystem - Meltio — Partner Ecosystem - Meltio Meltio https://meltio3d.com > partner-ecosys...」（https://meltio3d.com/partner-ecosystem/）
+  - 「Meltio Robot Cell ワイヤー DED方式金属 3Dプリンター — Meltio Robot Cell ワイヤー DED方式金属 3Dプリンター 3dpc.co.jp https://www.3dpc.co.jp > products > meltio-robot-cell」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「meltio robot cell - Additive Manufacturing — meltio robot cell - Additive Manufacturing hdc3d.com https://hdc3d.com > robot-cell」（https://hdc3d.com/robot-cell/）
+  - 「Meltio | ワイヤーレーザー金属3Dプリンティングソリューション — Meltio | ワイヤーレーザー金属3Dプリンティングソリューション hdc3d.com https://hdc3d.com > meltio」（https://hdc3d.com/ja/meltio/）
+
+## Atlas3D Sunata（Atlas3D）
+- 文脈：造形の向き・支えの自動決定
+- 再販・パートナー制度：
+  - 「Sunata integrates with various apps:」（https://www.softwaresuggest.com/sunata）
+  - 「Lead Partner Program」（https://www.softwaresuggest.com/sunata）
+- 料金：
+  - 「150 islands as 1 point ($26.50)」（https://atlas3dss.com/）
+  - 「$26.50」（https://atlas3dss.com/）
+  - 「Atlas 3D Support Solutions adds custom supports to resin 3D-printing files, mostly tabletop miniatures. Send the folder and we measure it by islands: 150 islands is 1 point, and a point costs $26.50 (hybrid-auto is 50% off). Every supported file is print tested and guaranteed for life; any problem is fixed and back within 24 hours at no extra charge. We also sell Vulcan resin, made in the USA.」（https://atlas3dss.com/）
+  - 「: 150 islands is 1 point, and 1 point is $26.50.」（https://atlas3dss.com/）
+  - 「Every part hand-checked by our support team. $26.50 a point.」（https://atlas3dss.com/）
+  - 「Our auto/hybrid pipeline. Same testing and guarantee, 50% off: $13.25 a point.」（https://atlas3dss.com/）
+  - 「Sunata - Pricing, Features, and Details in 2026」（https://www.softwaresuggest.com/sunata）
+  - 「Atlas3D Reviews, Pricing & Alternatives (2026) | Market Genius AI」（https://marketgenius.ai/products/atlas3d）
+- 無料体験：
+  - 「Book demo」（https://www.atlas3d.ai/）
+  - 「High-quality human demonstration data to train and evaluate robotic systems.」（https://www.atlas3d.ai/）
+  - 「Free Demo」（https://www.softwaresuggest.com/sunata）
+  - 「Product Demo」（https://marketgenius.ai/products/atlas3d）
+  - 「Free trial」（https://marketgenius.ai/products/atlas3d）
+  - 「Free plan available」（https://marketgenius.ai/products/atlas3d）
+  - 「Start free trial」（https://marketgenius.ai/products/atlas3d）
+  - 「Schedule demo」（https://marketgenius.ai/products/atlas3d）
+- 日本語対応：
+  - 「Language Support :」（https://www.softwaresuggest.com/sunata）
+- 会社の規模：
+  - 「Less than 19 employees」（https://www.softwaresuggest.com/sunata）
+  - 「20-49 employees」（https://www.softwaresuggest.com/sunata）
+  - 「50-99 employees」（https://www.softwaresuggest.com/sunata）
+  - 「100-299 employees」（https://www.softwaresuggest.com/sunata）
+  - 「300-499 employees」（https://www.softwaresuggest.com/sunata）
+  - 「500-999 employees」（https://www.softwaresuggest.com/sunata）
+  - 「1000 employees & above」（https://www.softwaresuggest.com/sunata）
+  - 「1000-2000 employees」（https://www.softwaresuggest.com/sunata）
+  - 「2000 employees & above」（https://www.softwaresuggest.com/sunata）
+  - 「Notre Dame Startup Success: Siemens Expands Additive Manufacturing Portfolio with Acquisition of Atlas 3D | News | News and Events | IDEA Center | University of Notre Dame」（https://ideacenter.nd.edu/news-and-events/news/notre-dame-startup-success-siemens-expands-additive-manufacturing-portfolio-with-acquisition-of-atlas-3d/）
+  - 「Notre Dame Startup Success: Siemens Expands Additive Manufacturing Portfolio with Acquisition of Atlas 3D」（https://ideacenter.nd.edu/news-and-events/news/notre-dame-startup-success-siemens-expands-additive-manufacturing-portfolio-with-acquisition-of-atlas-3d/）
+  - 「Atlas 3D, an Indiana startup assigned technology by the University of Notre Dame, will be acquired by Siemens, a global technology corporation and pioneer in software solutions for industry. The company will join Siemens Digital Industries Software, where its solutions will expand Siemens’ additive manufacturing software capabilities.」（https://ideacenter.nd.edu/news-and-events/news/notre-dame-startup-success-siemens-expands-additive-manufacturing-portfolio-with-acquisition-of-atlas-3d/）
+  - 「Atlas 3D complements Siemens’ additive manufacturing software portfolio by providing an automated process for 3D printing optimization, thus enhancing customers’ ability to produce metal parts and subassemblies in a repetitive, high-quality manner.」（https://ideacenter.nd.edu/news-and-events/news/notre-dame-startup-success-siemens-expands-additive-manufacturing-portfolio-with-acquisition-of-atlas-3d/）
+- 顧客・用途：
+  - 「Customer Stories」（https://github.com/yunuoch/Atlas3D）
+  - 「Customer support」（https://github.com/yunuoch/Atlas3D）
+  - 「Used by」（https://github.com/yunuoch/Atlas3D）
+  - 「Customer Management」（https://www.softwaresuggest.com/sunata）
+  - 「What type of customer support is available from Sunata?」（https://www.softwaresuggest.com/sunata）
+  - 「Medical」（https://atlas3d.space/）
+  - 「Medical · Exhibit 02」（https://atlas3d.space/）
+  - 「Atlas 3D complements Siemens’ additive manufacturing software portfolio by providing an automated process for 3D printing optimization, thus enhancing customers’ ability to produce metal parts and subassemblies in a repetitive, high-quality manner.」（https://ideacenter.nd.edu/news-and-events/news/notre-dame-startup-success-siemens-expands-additive-manufacturing-portfolio-with-acquisition-of-atlas-3d/）
+- 検索結果の抜粋：
+  - 「Creative Partners - Atlas 3DSS — Creative Partners - Atlas 3DSS Atlas 3DSS https://atlas3dss.com > creative-partners」（https://atlas3dss.com/creative-partners）
+  - 「Custom Supports For Resin Miniatures · Atlas 3DSS — Custom Supports For Resin Miniatures · Atlas 3DSS Atlas 3DSS https://atlas3dss.com」（https://atlas3dss.com/）
+  - 「Atlas Spatial Intelligence — Atlas Spatial Intelligence Atlas Spatial Intelligence https://www.atlas3d.ai」（https://www.atlas3d.ai/）
+  - 「Atlas3D : Physically Constrained Self-Supporting Text-to-3D ... — Atlas3D : Physically Constrained Self-Supporting Text-to-3D ... GitHub https://yunuoch.github.io > Atlas3D」（https://yunuoch.github.io/Atlas3D/）
+  - 「Atlas3D Survey — Atlas3D Survey University of Oxford https://www-astro.physics.ox.ac.uk > ...」（https://www-astro.physics.ox.ac.uk/atlas3d/）
+  - 「[NeurIPS 2024] Atlas3D : Physically Constrained Self ... - GitHub — [NeurIPS 2024] Atlas3D : Physically Constrained Self ... - GitHub GitHub https://github.com > Atlas3D」（https://github.com/yunuoch/Atlas3D）
+  - 「Atlas3D : Physically Constrained Self-Supporting Text-to-3D ... — Atlas3D : Physically Constrained Self-Supporting Text-to-3D ... arXiv https://arxiv.org > abs」（https://arxiv.org/abs/2405.18515）
+  - 「Atlas 3d survey - Wikipedia — Atlas 3d survey - Wikipedia Wikipedia https://en.wikipedia.org > wiki」（https://en.wikipedia.org/wiki/Atlas_3d_survey）
+  - 「Atlas 3D Support Solutions | LinkedIn — Atlas 3D Support Solutions | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/atlas-3d-support-solutions）
+  - 「Atlas 3D Support Solutions (@atlas_3dss) - Instagram — Atlas 3D Support Solutions (@atlas_3dss) - Instagram Instagram https://www.instagram.com > ...」（https://www.instagram.com/atlas_3dss/）
+  - 「Atlas3D — Upload Any 3D Model & Make It Interactive with AI — Atlas3D — Upload Any 3D Model & Make It Interactive with AI atlas3d.space https://atlas3d.space」（https://atlas3d.space/）
+  - 「Periculum Advises ATLAS 3D , Inc. in its Sale to Siemens — Periculum Advises ATLAS 3D , Inc. in its Sale to Siemens Periculum Capital https://www.periculumcapital.com > ...」（https://www.periculumcapital.com/periculum-advises-atlas-3d-inc-in-its-sale-to-siemens/）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+
+## EOS EOSTATE（EOSTATE）
+- 文脈：造形中の監視（装置メーカー純正）
+- 再販・パートナー制度：
+  - 「and monitor the various aspects of the additive manufacturing process.」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「EOS Build requires only a one-year commitment to enjoy their various advantages, while EOS Smart Monitoring」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Variable Layer Thickness x ✓」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Various analysis operations are available:」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Variant」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「parameters, various anomalies can」（https://www.phillipscorp.com/pdf/cs_m_tooling_voestalpine.pdf）
+  - 「actions taking place between the various factors」（https://www.phillipscorp.com/pdf/cs_m_tooling_voestalpine.pdf）
+  - 「Variant」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「Variant」（https://store.eos.info/products/eos-smart-monitoring-software）
+  - 「Trumpf LMD Distributors」（https://www.digital-can.com/products/eos-m-290/）
+  - 「Become a Partner」（https://jp.treatstock.com/machines/item/221-eosint-m-290）
+  - 「Variant」（https://store.eos.info/products/eos-system-suite-metal-systems）
+- 料金：
+  - 「manager, if you plan to cancel your subscription earlier than November 2025.」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「(4 seats)」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「1 Seat」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「4 Seats」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「1 Seat - $1,874.00」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「4 Seats - $5,671.00」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「$1,874.00」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「Aurora Labs raises $6m to expand advanced manufacturing capabilites」（https://www.tctmagazine.com/eos-expansion-eostate-exposure-ot-mtu-aero-engines/）
+  - 「Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.」（https://www.tctmagazine.com/eos-expansion-eostate-exposure-ot-mtu-aero-engines/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/eos-expansion-eostate-exposure-ot-mtu-aero-engines/）
+  - 「€-1.874,00」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「1 Seat」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「4 Seats」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「1 Seat - €1.874,00」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「4 Seats - €5.671,00」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+- 無料体験：
+  - 「Learn through practical case studies that demonstrate how to apply OT monitoring data to setup Smart Fusion Parameters.」（https://us.store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+  - 「Learn through practical case studies that demonstrate how to apply OT monitoring data to setup Smart Fusion Parameters.」（https://store.eos.info/products/eostate-exposure-ot-and-smart-fusion-for-metal-additive-manufacturing-certificate-program）
+- 会社の規模：
+  - 「AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.」（https://www.tctmagazine.com/eos-expansion-eostate-exposure-ot-mtu-aero-engines/）
+  - 「CONTEXT: Global 3D printer revenues rise 31% year-on-year」（https://www.tctmagazine.com/eos-expansion-eostate-exposure-ot-mtu-aero-engines/）
+  - 「The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.」（https://www.tctmagazine.com/eos-expansion-eostate-exposure-ot-mtu-aero-engines/）
+  - 「Take complete control of your industrial metal 3D printing processes with EOS Smart Monitoring, and help your organization achieve consistent, high-quality results during series production.」（https://store.eos.info/products/eos-smart-monitoring-software）
+  - 「One training seat for M 290 users and two seats for M 300-4 and M 400-4 customers (for Basic OT Operation E-Learning, Advanced OT E-Learning and Smart Fusion E-Learning)」（https://store.eos.info/products/eos-smart-monitoring-software）
+  - 「EOS M 300 Series」（https://padtinc.com/digital-manufacturing/wp-content/uploads/2022/01/EOS-M_300-data_sheet-PADT.pdf）
+  - 「EOS M 300 Series offers multiple configuration」（https://padtinc.com/digital-manufacturing/wp-content/uploads/2022/01/EOS-M_300-data_sheet-PADT.pdf）
+- 顧客・用途：
+  - 「EOS Plans provide customers with flexible access to all available EOS material sets, without the need to commit」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「and stick to a single material. This material sets flat rate empowers customers to quickly adapt to changing」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「has a two-year minimum. After the initial period passes, customers can renew or switch to "inactive" mode if」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「they need to scale down. Some core functions of each plan will still be available to inactive customers, who can」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「The subscription model of EOS Plans frees customers from the rigidity of a "perpetual," prepaid-license」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「customers with flexible flat rate access to all available validated and proven EOS material sets.」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Parameter editing capabilities allow customers to optimize parameters to create high-quality parts and increase」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「(LCDS), Thickness Dependent Energy (TDE) to achieve precise and consistent results」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Customized cases for customer pricing」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「• A high-resolution near-infrared camera records and measures the energy input in real time — regardless of」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Energy Input: Laser Power, Scan Speed, Hatch Distance for」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Energy Input Homogenization (Min Vector Time, Power」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Thickness Dependent Energy x ✓ May 25 (2.18)」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「*** EOS Build customers, which cancel the EOS Build subscription will get EOS Build Basic and can continue printing with frozen material sets of one」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+  - 「Database Maintenance via Customer Tools (Scripts)」（https://www.eos.info/var/assets/04_consulting_service_software/software/pdf_software/eos_plans_features_comparison.pdf?v=8）
+- 検索結果の抜粋：
+  - 「EOS Introduces EOSTATE Exposure OT, First Commercial ... — EOS Introduces EOSTATE Exposure OT, First Commercial ... 3DPrint.com https://3dprint.com > eos-eostate-exp...」（https://3dprint.com/178624/eos-eostate-exposure-ot/）
+  - 「EOSTATE Monitoring Suite: Quality assurance in 3D printing — EOSTATE Monitoring Suite: Quality assurance in 3D printing YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=PmpLLpGnXbM）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）
+
+## Siemens NX Additive Manufacturing（Siemens NX Additive Manufacturing）
+- 文脈：造形の準備から生産までの一貫ソフト
+- 再販・パートナー制度：
+  - 「279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「In addition to making AM efficiency and profitability better, this integrated reseller agreement will give customers connectivity to upstream design and downstream production processes, and give them access to build preparation and optimization as well.」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「This extended agreement makes it possible for EOS North America to resell products in Siemens’ industrialized AM solution as part of its」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「The integration of NX AM software with EOS’ job and process management software EOSPRINT 2 enables users to generate EOS build files directly in NX, defining material, exposure sets, and beam offset values, among other variables.」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「Siemens Digital Industries Software will train the EOS Additive Minds technical consulting team on how to use the NX AM and AM Build Optimizer software as part of the reseller agreement, and Additive Minds will teach EOS customers how to use Siemens’ AM software solutions. In addition, the companies have already agreed upon a framework that will offer comprehensive technical support.」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「reseller agreement」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「distributors」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「installation commissioning」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「virtual commissioning」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「and use the NX AM Fixed-Plane tools for build tray setup, basic support geometry (block, line and point) creation, and the build processor framework, which supports build processors for various types of additive manufacturing equipment.」（https://www.siemens.com/en-us/products/nx-manufacturing/offerings/nx-x-manufacturing-value-based-licensing/）
+  - 「Jason Meyers is a senior digital content marketing specialist for the industrial machinery industry at Siemens Digital Industries Software. He creates content about digital solutions that help machine builders, OEMs, component manufacturers and machine shops become more efficient, profitable, sustainable and more.」（https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/）
+  - 「Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.」（https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/）
+  - 「Additive manufacturing is a complex process with many variables. It can lead to companies struggling with generating quality, repeatable output from the 3D printing process. Our NX products address these challenges and provide solutions to help you make high-quality first-article prints.」（https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-simulation/）
+  - 「Find a reseller」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+  - 「HP Amplify Partner Program」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+- 無料体験：
+  - 「demo material」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「Demo Link」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「Congo, the Democratic Republic of the」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「Academic and Future Workforce」（https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/）
+  - 「With integrated solutions, robust simulations and efficient workflows, Siemens NX AM demonstrates the potential for significant improvements in additive manufacturing.」（https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/）
+  - 「Siemens expands Additive Manufacturing Experience Center with new Polymer Competency Center to develop and demonstrate new applications suitable for industrial-scale 3D printing」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+- 会社の規模：
+  - 「With the ability to leverage all of these combined capabilities, EOS says that its customers can rest easy with the knowledge that their 3D printed parts have been created “to best accomplish their goals of first-time-right printing.”」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「AMbitious powered by toolcraft provides practical advice for real-world use. toolcraft has manufactured 3D-printed parts since 2011 and has expertise across the entire process. It works closely with customers to understand their goals and requirements, helping develop strategies to stay competitive.」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「HP’s new Jet Fusion 5200 Series industrial 3D printing system integrated with Siemens’ Digital Enterprise offering, combination of Digital Twins for product, production, and performance with MindSphere to enable mid-volume serial plastic parts production」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+  - 「Companies collaborate to help auto and industrial customers create high-quality 3D printed parts faster; enabling unique product designs, new applications, and digital factories」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+  - 「HP’s new Jet Fusion 5200 Series 3D printing solution」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+  - 「“We are proud to partner with Siemens to make high-performance parts, personalized products, and serialized 3D production a reality for our customers,”」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+  - 「The cooperation is coupled with the new Siemens Polymer Competency Center, which will be the focal point for the two companies to work jointly with automotive and industrial customers to create unique product designs, bring 3D printed parts to market faster, and set up digital factory environments that unleash the full potential of additive manufacturing.」（https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx）
+- 顧客・用途：
+  - 「Case study」（https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/）
+  - 「Case Study」（https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-machine-connectivity/）
+  - 「Bioprinting, Medical and Dental」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「Aerospace」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「In addition to making AM efficiency and profitability better, this integrated reseller agreement will give customers connectivity to upstream design and downstream production processes, and give them access to build preparation and optimization as well.」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「“Point solutions introduce time-consuming, error-prone inefficiencies into the AM workflow. Customers often have to interrupt their process to convert data for different software environments. And the problems with this approach are compounded with every change that’s required,” Frankel explained.」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「With the ability to leverage all of these combined capabilities, EOS says that its customers can rest easy with the knowledge that their 3D printed parts have been created “to best accomplish their goals of first-time-right printing.”」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「Siemens Digital Industries Software will train the EOS Additive Minds technical consulting team on how to use the NX AM and AM Build Optimizer software as part of the reseller agreement, and Additive Minds will teach EOS customers how to use Siemens’ AM software solutions. In addition, the companies have already agreed upon a framework that will offer comprehensive technical support.」（https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/）
+  - 「aerospace」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「automotive」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「medical」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「aerospace and defense」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「energy, oil and gas」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「customer」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+  - 「energy efficiency」（https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/）
+- 日本の代理店：記載なし（読んだ35頁・検索7回）
+- 料金：記載なし（読んだ35頁・検索7回）
+- 日本語対応：記載なし（読んだ35頁・検索7回）

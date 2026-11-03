@@ -1,0 +1,1187 @@
+{
+ "name": "Materialise CO-AM",
+ "en": "Materialise CO-AM",
+ "aliases": [
+  "CO-AM",
+  "Link3D"
+ ],
+ "context": "生産管理（AM向けプラットフォーム）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:37:18.463659+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "CO-AM is technology agnostic and connects seamlessly with your systems, from ERP and MES to machine OEM software and automation platforms.",
+    "url": "https://www.materialise.com/en/industrial/software/co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Acoustic Displacement™ (VAD)",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore a variety of events hosted by PostProcess available on demand, including webinars, Q&As, demos, and panels, covering 3D post-printing topics and applications",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "var s = document.createElement(‘script’); s.type = ‘text/javascript’;",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "var c = document.getElementsByTagName(‘script’)[0]; c.parentNode.insertBefore(s, c);",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Get metal parts in a variety of materials",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Take your 3D printed or machined parts to the next level with serialization and custom marking. Or manufacture custom parts from your 2D designs from a variety of materials.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing post-processing cutting involves removing supports and excess material using tools like scalpels, flush cutters, and rotary tools, followed by smoothing with sanding (various grits, wet sanding) and sometimes filling to achieve a clean surface, often with primer and painting for the final finish, enhancing appearance and functionality beyond the raw print.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing waste from 3D printing can be effectively managed through various recycling and reclamation methods, which vary by material type and technology. Solutions range from in-house filament extruders for thermoplastics to specialized powder reuse systems in powder bed fusion processes.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Essential post processing equipment for cleaning and finishing parts from a variety of brands.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys production 3D printing materials for a variety of applications.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "to automatically capture and bind critical variables — such as raw material lot numbers, machine operator IDs, active sensor data, and downstream thermal post-processing parameters—directly to an individual, serialized component profile.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Heavy Machinery OEMs:",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie manages user sessions on the website, ensuring that user interactions are recognized across various web requests. This helps in providing a consistent and accurate user experience.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is used to store the user's consent and privacy choices for their interaction with the site. It records data on the visitor's consent regarding various privacy policies and settings, ensuring that their preferences are honored in future sessions.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Integration with various software tools (including Materialise Magics)",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Various 3D printer manufacturers",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "サードパーティのソフトウェアやハードウェアのベンダー、3DプリンターのOEMが提供するソリューションに必要なワークフローを統合したり、当社のAPIを使用してアプリケーションを構築することが可能になります",
+    "url": "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Aimed at high-volume manufacturers, CO-AM is a cloud-based program that grants access to a wide variety of software tools (including third-party ones) for planning, managing, and optimizing the 3D printing workflow.",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise’s CO-AM is designed to address these issues, connecting various software tools and packaging them under one open, cloud-based platform. The backbone of CO-AM is a data lake that communicates with all of the integrated production tools and tracks the status of the shop floor.",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": ". According to Ultimaker, the latest Cura features an enhanced engine that allows users to deploy a variable line width during slicing, and reach a new threshold for finer and faster 3D prints.",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "Net Margins",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Pretax Margin",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Get metal parts in a variety of materials",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Take your 3D printed or machined parts to the next level with serialization and custom marking. Or manufacture custom parts from your 2D designs from a variety of materials.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing post-processing cutting involves removing supports and excess material using tools like scalpels, flush cutters, and rotary tools, followed by smoothing with sanding (various grits, wet sanding) and sometimes filling to achieve a clean surface, often with primer and painting for the final finish, enhancing appearance and functionality beyond the raw print.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing waste from 3D printing can be effectively managed through various recycling and reclamation methods, which vary by material type and technology. Solutions range from in-house filament extruders for thermoplastics to specialized powder reuse systems in powder bed fusion processes.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Essential post processing equipment for cleaning and finishing parts from a variety of brands.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys production 3D printing materials for a variety of applications.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how global aerospace leaders, automotive manufacturers, and industrial system OEMs utilize Materialise Build Processors to unite multi-vendor machinery fleets, execute high-speed slice processing, and compress gigabyte-scale lattice data down to execution-ready hardware files.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie manages user sessions on the website, ensuring that user interactions are recognized across various web requests. This helps in providing a consistent and accurate user experience.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is used to store the user's consent and privacy choices for their interaction with the site. It records data on the visitor's consent regarding various privacy policies and settings, ensuring that their preferences are honored in future sessions.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "CO-AM is an attractive solution for customers who need production management software that’s not already integrated with super-large MES software. It offers professionalization for companies growing into more complex manufacturing organizations.",
+    "url": "https://www.materialise.com/en/industrial/software/co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial/software/co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial/software/co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": ". CONNECT3D was the first software platform to link the finishing, or post-processing, of a 3D printed part to its digital thread for an intelligent and automated additive manufacturing workflow. CONNECT3D leverages native CAD files, or 3D sliced files, and applies intelligence to define the necessary requirements to deliver optimal post-processing results and maximize customer value.",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "See what customers have to say about the transformative benefits of Automated 3D post-processing –",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Read What Our Customers Say",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Supported by Materialise Professional Services, these offerings help customers design, implement, and expand CO-AM solutions to fit their production requirements. CO-AM is a configurable orchestration layer that integrates into a manufacturer’s environment, connecting users, applications, and machines.",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The latest announcements reinforce CO-AM’s role as the foundation for a connected manufacturing environment, where customers can exchange data, integrate technologies, and orchestrate customized AM workflows.",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "— Enables part and platform viewing and editing directly in the cloud, creating a single source of truth for AM data and workflows. Automated workflows designed in CO-AM Brix can be executed instantly, while interactive projects can be opened in Magics with seamless revision tracking. It is designed to give customers the flexibility to work with any third-party build prep application.",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/apps-integrations",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/apps-integrations",
+    "pass": 3
+   },
+   {
+    "quote": "Medical 3D Printers",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "For medical devices and surgical planning",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoplastic, resin, and carbon fiber machines for designers, engineers, educators, and medical professionals.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Industry",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Industry",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Industry",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Industry",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Anatomical & Medical Models",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense Contractors:",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device & Patient-Specific Implant Labs:",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Heavy Machinery OEMs:",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "General purpose platform session cookie, used by sites written in JSP. Usually used to maintain an anonymous user session by the server.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences. It is necessary for Cookie-Script.com cookie banner to work properly.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is used by Google Analytics to persist session state.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial/software/co-am/professional",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial/software/co-am/professional",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Experience",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborating with suppliers and customers on a single platform",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise is already working with selected customers and plans to provide broader access to the CO-AM platform over the coming months.",
+    "url": "https://www.materialise.com/en/news/press-releases/co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/news/press-releases/co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/news/press-releases/co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "pass": 3
+   },
+   {
+    "quote": ", the company aimed to leverage cloud-based engineering capabilities to enhance the openness of the additive manufacturing (AM) software experience and help customers to further streamline their AM workflows. The Belgian software and AM services provider made additional strides in that direction last year when it announced their role in establishing",
+    "url": "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "pass": 3
+   },
+   {
+    "quote": "関連情報・事例紹介",
+    "url": "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "pass": 3
+   },
+   {
+    "quote": "「航空宇宙、自動車、消費者、医療、エネルギー業界のQuickpartsのお客様は、製品のイノベーションとサプライチェーンの課題解決のために、短いリードタイムで安定した品質を期待できるAdditive Manufacturing（AM）を取り入れるところが増えてきています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialiseのオープンで柔軟なソリューションにより、ヘルスケア、自動車、航空宇宙、アート、デザイン、消費財など、さまざまな業界のプレイヤーが、世界をより良く、より健康的な場所にすることを目的とした革新的な3Dプリントアプリケーションを構築することができます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "PR事例ならPR EDGE",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器、航空宇宙・防衛、産業用積層造形",
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Preview a demo of the PostProcess CONNECT3D integrated with the CO-AM platform:",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore a variety of events hosted by PostProcess available on demand, including webinars, Q&As, demos, and panels, covering 3D post-printing topics and applications",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "By providing partners with this common language for AM operations, Materialise enables them to test integrations and build compatible solutions, demonstrating its commitment to knowledge sharing and reducing integration friction across the industry.",
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "pass": 3
+   },
+   {
+    "quote": "✓ Free trial available",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "デモ用パーツには、規制の厳しい業界のアプリケーション(用途)も含まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月15日から18日にフランクフルトで開催される2022 Formnext ExhibitionのMaterialiseブース（Hall 12.1, C139）では、CO-AM プラットフォームとMagics 26の両方のデモを行う予定です",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "After filling in the required information, click on the button to submit your request. You will receive a confirmation email upon submission. Allow one to two working days for us to send you the actual download link, along with the voucher to activate your trial license.",
+    "url": "https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product",
+    "pass": 3
+   },
+   {
+    "quote": "Once you have received the download link, follow the instructions to install and activate your trial license. Be aware that the download link will only stay active for a limited period of time.",
+    "url": "https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product",
+    "pass": 3
+   },
+   {
+    "quote": "Secure IP and Demonstrate Compliance",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "See what customers have to say about the transformative benefits of Automated 3D post-processing –",
+    "url": "https://www.postprocess.com/materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "While low-volume functional prototyping is still the primary application of 3D printing, enterprises are increasingly going down the route of series manufacturing. Unfortunately, production at scale still calls for an abundance of manual control, and isolated data streams make it difficult to achieve the consistent quality that’s required for the mass production of identical parts.",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアライズは2022年9月、Identify 3D Inc.を買収しているが、こうした買収を通じて、より一層AMの基盤開発に力を入れていく予定だという",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "約19LのコンパクトさにハイエンドPC性能を凝縮「GALLERIA E series」の魅力",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1990 by Wilfried Vancraen, Materialise is headquartered in Leuven, Belgium, and serves customers internationally through operations and offices in Europe, North America and the Asia-Pacific region. Brigitte de Vet-Veithen serves as chief executive officer, while Vancraen remains associated with the company as its founder and executive chairman.",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Q3 2026: Revenue Tops Estimates While Earnings Miss on Rising R&D",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Q3 Profit Declines; Reaffirms FY26 Adj. EBIT, Revenue Outlook",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise (MTLS) raised $104 million in an initial public offering on Wednesday, June 25th 2014. The company issued 8,000,000 shares at $12.00-$14.00 per share.",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "See how BÖLLINGER GROUP used Materialise e-Stage for their Metal 3D Printing Supports to cut data prep times by 50% and save $1,000 per 3D printed component.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise CO-AM: Pricing, Reviews & Features 2026 | Manufacturing...",
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "1兆円の仮想通貨盗難、FBIが北朝鮮の犯行と指摘 狙われたのは社員のPCか",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "・1兆円の仮想通貨盗難、FBIが北朝鮮の犯行と指摘 狙われたのは社員のPCか",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "・視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "200Hzの27インチWQHDゲーミングモニターが3万円切りで高コスパ！ヘッドセット置きにもなる昇降式多機能スタンドも秀逸だった",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "「迷ったらこれ」な27型WQHDディスプレー、リフレッシュレート100Hz・USB Type-C給電・KVM・昇降式多機能スタンドで3万円切りはお買い得だもの",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、世界の眼鏡市場規模は1,691億ドル（約25兆円）を占め、2032年には年平均成長率8.2%で3,700億ドル（約55.5兆円）に達すると推定されている",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "Stocks Under $0.50",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Stocks Under $1",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Stocks Under $2",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Stocks Under $5",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Closing price 04:00 PM Eastern",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "$426.49 million",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "$10.00",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise has a consensus price target of $10.00, representing about 38.5% upside from its current price of $7.22.",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "We configure the cloud platform to act as your centralized operations cockpit. The team handles secure hardware-to-cloud telemetry bindings, configures localized digital routing paths inside the MES module, and coordinates direct API connections into your legacy corporate databases.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is used to store the user's time zone information to provide localized experiences or content based on the geographical area.",
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のMES情報を、一次情報から日本語で",
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://help.materialise.com/en_US/co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://help.materialise.com/en_US/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted securely via Microsoft® Azure™ Web Services, featuring localized regional data storage options to meet strict sovereign data-hosting regulations (GDPR, ITAR, FedRAMP compliant).",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightweight local IoT edge drivers require standard network communication protocols via a localized proxy server to transmit sensor telemetry safely outside corporate firewalls.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is used to store the user's time zone information to provide localized experiences or content based on the geographical area.",
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "Quickparts社は、Materialise CO-AM ソフトウェアプラットフォームを採用 | マテリアライズジャパン株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアライズジャパン株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスは DELMIA Apriso を中核に、構想策定から多拠点展開・保守・技術者育成までを一貫支援しています",
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場に合わせた進め方をご提案します",
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオス",
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 株式会社サオス / MES-DX",
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "pass": 3
+   },
+   {
+    "quote": "講演者：マテリアライズジャパン株式会社Software事業部Sales Director 小林 毅氏",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "講演者：マテリアライズジャパン株式会社Software事業部Application Engineer城田隆大氏",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの失敗作の頂点が決定「もじゃコン」結果発表－株式会社メルタ",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メルタは、2021年4月に3Dプリンターの失敗作の頂点を決める「もじゃコン」を開催",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社およびDigiFabster社と提携、また3D造形による量産事例を紹介 | マテリアライズジャパン株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアライズジャパン株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアライズジャパン株式会社",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、ShareLab編集部はJSR株式会社（以下、JSR）主催のウェビナー「JINSはNeuron4Dをどのように産み出したのか？」（2020年9月15日開催 …",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Materialise's new CO - AM software platform looks towards 3D ... — Materialise's new CO - AM software platform looks towards 3D ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise は CO - AM に3Dプリンター向け準備ソフトウェア ... — Materialise は CO - AM に3Dプリンター向け準備ソフトウェア ... ASCII.jp https://ascii.jp > elem",
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Launches New CO - AM Tools Amid New Industrial ... — Materialise Launches New CO - AM Tools Amid New Industrial ... 3DPrint.com https://3dprint.com > materialise-laun...",
+    "url": "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.materialise.com/en/industrial/software/co-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.postprocess.com/materialise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/apps-integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/materialise-launches-three-tailored-co-am-solutions-and-new-automation-technologies/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/co-am/professional",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.toolsinfo.com/tool/materialise-co-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news/press-releases/co-am-software-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000076712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mes-dx.com/vendors/materialise-co-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.materialise.com/en_US/co-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/news/press-releases/co-am-software-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ascii.jp/elem/000/004/113/4113541/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/materialise%E3%81%AE%E5%8C%BB%E7%99%82%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E6%88%90%E9%95%B7%E3%80%81%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E4%BA%8B%E6%A5%AD/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.materialise.com/en_US/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.materialise.com/en_US/co-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.materialise.com/en_US/materialise-co-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additive-marking.de/en/materialise-co-am-en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.trimech.com/product/materialise-co-am/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dealroom.co/companies/materialise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/materialise",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/history",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Materialise CO-AM reseller partner program",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/co-am",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "https://www.postprocess.com/materialise/",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "https://www.materialise.com/en/industrial/software/partnerships/apps-integrations",
+    "https://www.tctmagazine.com/materialise-announces-expansion-to-co-am-platform-with-seven-partners-and-magics-integration-formnext-2022/",
+    "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "https://mfg.trimech.com/product/materialise-co-am/",
+    "https://www.materialise.com/en/industrial/software/partnerships"
+   ]
+  },
+  {
+   "query": "Materialise CO-AM pricing license",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/co-am",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "https://www.metal-am.com/materialise-launches-three-tailored-co-am-solutions-and-new-automation-technologies/",
+    "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "https://www.postprocess.com/materialise/",
+    "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "https://www.materialise.com/en/industrial/software/co-am/professional",
+    "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "https://manufacturing.toolsinfo.com/tool/materialise-co-am"
+   ]
+  },
+  {
+   "query": "Materialise CO-AM Japan distributor",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/co-am",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://www.postprocess.com/materialise/",
+    "https://www.materialise.com/en/news/press-releases/co-am-software-platform",
+    "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "https://www.youtube.com/shorts/YE6bLTi5-T8",
+    "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "https://www.materialise.com/ja/industrial/software/co-am-software-platform"
+   ]
+  },
+  {
+   "query": "Materialise CO-AM 代理店",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://www.materialise.com/en/industrial/software/co-am",
+    "https://www.materialise.com/ja/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "https://3dprintingindustry.com/news/materialises-new-co-am-software-platform-looks-towards-3d-printing-industrialization-209397/",
+    "https://www.facebook.com/MaterialiseJapan/?locale=ja_JP",
+    "https://news.sharelab.jp/interviews/materialise-co-am-221012/",
+    "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "https://mes-dx.com/vendors/materialise-co-am"
+   ]
+  },
+  {
+   "query": "Materialise CO-AM 価格",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/co-am-software-platform",
+    "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "https://www.materialise.com/ja/news/press-releases/co-am-software-platform",
+    "https://ascii.jp/elem/000/004/113/4113541/",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/materialise%E3%81%AE%E5%8C%BB%E7%99%82%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E6%88%90%E9%95%B7%E3%80%81%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E4%BA%8B%E6%A5%AD/",
+    "https://news.sharelab.jp/cases/apparel/materialise-silmoparis-231101/",
+    "https://www.marketbeat.com/stocks/NASDAQ/MTLS/",
+    "https://www.materialise.com/ja/industrial/software",
+    "https://materialize.com/materialize-pricing/",
+    "https://manufacturing.toolsinfo.com/tool/materialise-co-am"
+   ]
+  },
+  {
+   "query": "Materialise CO-AM free trial",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/co-am",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/integration-co-am-software-platform",
+    "https://www.youtube.com/watch?v=WxwRbfMIUO0",
+    "https://www.metal-am.com/materialise-launches-three-tailored-co-am-solutions-and-new-automation-technologies/",
+    "https://www.postprocess.com/materialise/",
+    "https://help.materialise.com/faq/where-can-i-download-a-trial-version-of-a-materialise-software-product",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://mfg.trimech.com/materialise-co-am-implementation-service/",
+    "https://www.engineering.com/materialise-expands-co-am-offerings-for-all-stages-of-am/",
+    "https://help.materialise.com/en_US/co-am"
+   ]
+  },
+  {
+   "query": "Materialise CO-AM company founded employees funding",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/co-am",
+    "https://www.youtube.com/watch?v=l9uyKuvhJG0&vl=ja",
+    "https://dealroom.co/companies/materialise/",
+    "https://www.voxelmatters.com/materialise-co-am-launches-to-advance-serial-am-production/",
+    "https://www.linkedin.com/company/materialise",
+    "https://3dprint.com/322228/materialise-launches-new-co-am-tools-amid-new-industrial-phase-in-am-software/",
+    "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "https://en.wikipedia.org/wiki/Materialise_NV",
+    "https://www.postprocess.com/materialise/",
+    "https://seedtable.com/companies/materialise"
+   ]
+  }
+ ],
+ "missing": {}
+}

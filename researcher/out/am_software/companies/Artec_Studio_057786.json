@@ -1,0 +1,2038 @@
+{
+ "name": "Artec Studio",
+ "en": "Artec 3D",
+ "aliases": [
+  "Artec Studio",
+  "Artec Leo",
+  "アーテック"
+ ],
+ "context": "3Dスキャン",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:38:16.770561+00:00",
+ "evidence": {
+  "日本の代理店": [
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo | 2024 - Events & News - Investing in Japan - Japan External Trade Organization - JETRO",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Metropolitan Government's Support",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Opens Office in Tokyo, Japan | DailyCADCAM",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Opens Office in Tokyo, Japan – DailyCADCAM",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Opens Office in Tokyo, Japan",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", announces the opening of an office in Tokyo, Japan, a new venture that comes after a more than 15-year presence in Japan through Artec 3D’s resellers.",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店のご検索",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "価格と販売店",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3Dの販売代理店になるには",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio V20｜製品詳細｜Artec(アーテック)-ハンディ型3Dスキャナー | Artec正規代理店",
+    "url": "https://www.datadesign.co.jp/artec/lineup/artec-studio-v20/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社データ・デザインでは、少人数制のArtec 3Dスキャナ体験セミナーを毎月開催しております",
+    "url": "https://www.datadesign.co.jp/artec/lineup/artec-studio-v20/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店のご検索",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "価格と販売店",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3Dの販売代理店になるには",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店のご検索",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "価格と販売店",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3Dの販売代理店になるには",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/3d-software/artec-studio/3d-modeling",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/3d-software/artec-studio/3d-modeling",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D was founded in San Diego, California, in 2007. In 2010, the founders set up HQ in Luxembourg, and the whole upper management team is based there to this day, with the exception of one minority shareholder, who remains in California. In addition to our headquarters in Luxembourg, we also have offices in California (USA), Shanghai (China), Bar (Montenegro), and Tokyo (Japan).",
+    "url": "https://www.artec3d.com/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "Our company is based in Luxembourg, and all our products carry the Made in Luxembourg label, with the exception of Artec Ray, which is made in Redmond, USA. In addition to our Luxembourg head office, we also have teams of 3D specialist pioneers in California, Shanghai, Montenegro, and Tokyo.",
+    "url": "https://www.artec3d.com/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "Japan office",
+    "url": "https://www.artec3d.com/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Biz Shibadaimon F1, 1-2-4, Shibadaimon, Minato-ku, Tokyo",
+    "url": "https://www.artec3d.com/corporate",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Where to Buy a 3D Scanner - Artec 3D Reseller List",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D licensed distributors",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D can only bear responsibility for products bought through our official channels, so have a look at our list of resellers here, and buy with confidence for the best results, service, and experiences from your new 3D scanner right away!",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "resellers",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "About reseller statuses",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Norde International Distributors Inc.",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Car Insurance Discounts",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D scanning technology leader continues to expand global presence with new class of global certified resellers",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "To earn the Gold accreditation, each Artec 3D reseller had to complete a rigorous testing process that demonstrated their advanced knowledge of Artec's comprehensive product line of 3D",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "To find an Artec 3D reseller near you, visit",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Every year, Artec 3D, a forerunner in the world of 3D technologies, unveils its list of Ambassadors and Gold-certified Partners, and 2024 is no exception. The distinguished professionals on this list form a network of trusted resellers across the globe, excelling in 3D knowledge and providing impeccable customer service.",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "must undergo a rigorous certification process. This test, curated by the Artec 3D Training and Support team, allows resellers to demonstrate their full potential and deep understanding of the entire Artec 3D professional product line, as well as their proficiency with the hardware and software.",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Reseller | World Class Artec 3D Ambassador",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D reseller",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "resellers for Artec 3D",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "The global Artec 3D reseller network continues to grow and we are proud to have played a part in its success",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D resellers worldwide",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.artec3d.com/reseller/central-scanning-limited",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "In order to attain this achievement as an Artec Gold-Certified Ambassador, we must surpass the responsibilities of a reseller. It is a testament to our unwavering dedication and hard work.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "GoMeasure3D has been an Artec reseller for more than eight years. We have achieved the Ambassador status since the very beginning when the program was first introduced",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": ". We are grateful to the Artec team for their support and commitment to continuous and thorough training for resellers.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "The questions evaluate a reseller’s knowledge in scanning, processing, and customer support. We value the importance of this certification process. It not only validates our expertise but also empowers us to serve our customers with the highest level of proficiency and support.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "“By purchasing from a Gold Certified Reseller or Ambassador, end users have access to verified products and professional training of the highest level in their local language.”",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "At GoMeasure3D, we embody a spirit of experimentation, constantly seeking ways to achieve optimal 3D scanning results through rigorous testing and analysis. Our passion lies in delving deep into the realm of 3D scanning. We are dedicated to sharing our expertise through various channels, including",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Extend your current subscription from 5 to 9 years and get a 1 year worth discount.",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Extend your current subscription by 10 years and get a 2 years worth discount.",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Buy 3 licenses at a discount.",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Extend your current subscription from 5 to 9 years and get a 1 year worth discount.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Extend your current subscription by 10 years and get a 2 years worth discount.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Buy 3 licenses at a discount.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure your Spider II maintains peak accuracy and consistent performance across varying environments and over extended periods of time.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": ": Works with various data capture devices",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 Pro introduces AI Photogrammetry, supports new scanners, and enhances existing features. This comprehensive update improves 3D scanning and post-processing workflows, offering advanced tools for model creation, editing, and analysis. The software now supports various data sources and provides more precise control over mesh optimization and fusion processes.",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 Pro delivers infinite possibilities through its innovative blend of AI photogrammetry, advanced scanning support, and versatile editing features. This all-encompassing software empowers users to transform various data sources into precise 3D models, serving countless applications across industries.",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "This software's versatile export options support multiple file formats, ensuring smooth integration with various industry-standard applications for further analysis, design refinement, or manufacturing processes.",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "RepRapDiscount",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping, taxes, and discount codes calculated at checkout.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "3DMakerWorld is a Gold-Certified Artec 3D reseller with offices in Naperville, IL and Lenexa, KS. Compare every Artec scanner we carry, from the Micro II desktop scanner to the Jet SLAM LiDAR system, then book a free demo or request a quote.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Packs bundle the scanner with a 5-year warranty, a 5-year Artec Care service contract, and a 5-year Artec Studio subscription. Some packs also include hardware accessories such as batteries, a turntable, or a calibration kit. Contents vary by model. Contact us for details.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "3DMakerWorld is a Gold-Certified Artec 3D reseller. We provide pre-sale application advice, demos, setup and training, and US-based support after the sale. We also use Artec scanners in our own scanning service work. You buy from engineers, not a salesperson.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Luxembourg, the company has subsidiaries in the United States (California), China (Shanghai), and Montenegro (Bar). It operates globally through these locations and works with numerous customers around the world, providing cutting-edge 3D technology to those in various industries.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company plans to strengthen sales activities and after-sales services from its Japanese subsidiary to establish a firm foothold with existing customers and to further develop new customers, and it also plans to maintain the relationship with its distributors in Japan.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan: Artec 3D licensed distributors",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "resellers",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "About reseller statuses",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Other resellers in the vicinity",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "5 resellers in 5 locations",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "2 resellers in 2 locations",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "1 reseller in 1 location",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Artec 3D reseller",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Ask a specific question, get your hands on an Artec 3D scanner, request a demo, or make a purchase. Get in touch, and we’ll make it happen!",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Available demo scanners:",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "To earn the Gold accreditation, each Artec 3D reseller had to complete a rigorous testing process that demonstrated their advanced knowledge of Artec's comprehensive product line of 3D",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "must undergo a rigorous certification process. This test, curated by the Artec 3D Training and Support team, allows resellers to demonstrate their full potential and deep understanding of the entire Artec 3D professional product line, as well as their proficiency with the hardware and software.",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Demonstration FAQs",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Book Demo",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Watch product demonstration videos",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Earning the Gold-Certified Partner Ambassador status is not guaranteed each year. We are required to undergo a rigorous recertification process every year and we must demonstrate our profound comprehension of Artec’s ecosystem and mastery of all their products. Here is what it takes to get this recognition.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, we have all of Artec’s 3D scanners for an online demonstration at your convenience.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly Schedule a Demo with GoMeasure3D",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Book A 3D Scanning Online Demo With Us.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Request an Online Demo",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Finding out where you can get your hands on an Artec 3D scanner, request an in-person demo, or make a purchase is the next step, and we’re here to help.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "3DMakerWorld is a Gold-Certified Artec 3D reseller with offices in Naperville, IL and Lenexa, KS. Compare every Artec scanner we carry, from the Micro II desktop scanner to the Jet SLAM LiDAR system, then book a free demo or request a quote.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Live demo over Zoom: we show the scanner and software and walk through the full workflow, from scanning to final output",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer on-site demos at our facility?",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. We usually start with an online demo to walk through the workflow and confirm the scanner is a good fit for your application. If questions remain that cannot be answered online, using our test parts or your own, we will work with you to coordinate an in-person demo at your site.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "3DMakerWorld is a Gold-Certified Artec 3D reseller. We provide pre-sale application advice, demos, setup and training, and US-based support after the sale. We also use Artec scanners in our own scanning service work. You buy from engineers, not a salesperson.",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Book a Demo",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Ask a specific question, get your hands on an Artec 3D scanner, request a demo, or make a purchase. Get in touch, and we’ll make it happen!",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Available demo scanners:",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studioの無料体験版をダウンロードする前に",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験版の制限事項：",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験期間は30日間に限定されています",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studioの無料体験版をダウンロードする前に",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験版の制限事項：",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験期間は30日間に限定されています",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Twinsの無料体験版をダウンロードする前に",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験版の制限事項：",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験期間は30日間に限定されています",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studioの無料体験版をダウンロードする前に",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Demo and Used 3D Scanners",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Get More Product Information or Instantly Book a Web Demo",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly book an online demo with us using",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "With Artec Studio's AI Photogrammetry feature, you can now use photos and videos from your own device (smartphone, digital SLR, drone, digital microscope) to generate 3D models—without the use of a 3D scanner. See how it works, along with a video demonstration, in the section",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Book a Free Personalized Web Demo",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Scheduling a demo with us is fast and easy. Pick a day and time that works for you and press confirm—that’s it. You’re all set! We’ll email you the meeting instructions and see you there. 👋",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a Demo",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "We have all the Artec 3D scanners readily available at our office to provide you with a demo—in our office, at your location, or virtually in real-time on your computer.",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Book a web demo with us →",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Demonstration FAQs",
+    "url": "https://www.central-scanning.co.uk/product/artec-studio/?srsltid=AYCX9vIqW6W9NIgmxZbr087nOzE3wpjAkZ9-CKzU64VoAUhAjHR7eoUv",
+    "pass": 3
+   },
+   {
+    "quote": "弊社で随時、デモを行っています",
+    "url": "https://opt-techno.com/artec-3d-scanners/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Download free trial",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Book Demo",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Watch product demonstration videos",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "(available as a 30 day free trial, yearly subscription, or a lifetime license).",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "You can sign up for a free 30-day trial to try out the AI Photogrammetry feature. Click the button below to get started:",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Download AI Photogrammetry Free Trial Now",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "This video demonstrates data generated using AI Photogrammetry in Artec Studio 19, compared to data from another leading competitor’s software.",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "The competition might be pretty good at solid objects, but when it comes to thin objects like plant leaves, the difference in reconstruction looks like this. We recommend you try it on your own. The Artec Studio 19 free trial is available on",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Please book a free online demo and we’ll answer your questions.",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Request an Online Demo",
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Scanners For Sale",
+    "url": "https://digitizedesigns.com/3d-software/artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://digitizedesigns.com/3d-software/artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://digitizedesigns.com/3d-software/artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Demo",
+    "url": "https://digitizedesigns.com/3d-software/artec-studio/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Exceptional knowledge of Artec 3D products, excellent support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Good knowledge of Artec 3D products, effective support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptional knowledge of Artec 3D products, excellent support for customers.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "To be an Artec Gold-Certified Ambassador, we have to show that we provide exceptional customer care and an all-round excellent experience for our customers. All of the members of our technical team are power users of Artec’s 3D scanners and software. We know how to use each system inside and out to provide anyone looking to buy a 3D scanner the best and most honest advice.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Space Spider, Medit D700, MH and MHT series",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2007 in San Diego, California,",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Luxembourg, the company has subsidiaries in the United States (California), China (Shanghai), and Montenegro (Bar). It operates globally through these locations and works with numerous customers around the world, providing cutting-edge 3D technology to those in various industries.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D has long had customers among automobile manufacturers and educational institutions through its sales agents in Japan. Due to the high evaluation from these clients, the company determined that it had the potential to further develop the market and established a Japanese subsidiary.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptional knowledge of Artec 3D products, excellent support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Good knowledge of Artec 3D products, effective support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Data acquisition speed is up to 3 million points/second. No need for target markers, and Leo can operate effectively in broad daylight or complete darkness, and everything in between. Fully mobile and entirely wireless, no cables needed. SSD memory cards make possible unlimited captures. Built on the",
+    "url": "https://en.wikipedia.org/wiki/Artec_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Micro, Ray, Spider, Space Spider, Medit D700, MH and MHT series AG, AC, W2, and T2",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Eva, Eva Lite, Leo, Metrology Kit, Micro II, Point, Ray II, Spider II, plus discontinued models: Micro, Ray, Spider, Space Spider, Medit D700, MH and MHT series AG, AC, W2, and T2",
+    "url": "https://www.central-scanning.co.uk/product/artec-studio/?srsltid=AYCX9vIqW6W9NIgmxZbr087nOzE3wpjAkZ9-CKzU64VoAUhAjHR7eoUv",
+    "pass": 3
+   },
+   {
+    "quote": "EIB funding supports Artec 3D’s investments taking place in its research facilities in both Luxembourg and Portugal.",
+    "url": "https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "\"Innovative companies like Artec 3D can get the financing they need to scale-up right here in Europe. The EIB offers funding for critical technology to remain within the EU. That is why initiatives like InvestEU, and our new TechEU programme, are so important. We are happy to put our venture debt behind Artec 3D, to ensure that this advanced technology can grow in Europe.\"",
+    "url": "https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "The Project will contribute to the funding of RDI applied research and new product/software development activities in the 3D scanner market.",
+    "url": "https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D was founded in San Diego, California, in 2007. In 2010, the founders set up HQ in Luxembourg, and the whole upper management team is based there to this day, with the exception of one minority shareholder, who remains in California. In addition to our headquarters in Luxembourg, we also have offices in California (USA), Shanghai (China), Bar (Montenegro), and Tokyo (Japan).",
+    "url": "https://www.artec3d.com/corporate",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Automotive",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device manufacturing",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Experts in Artec 3D’s complete line of scanners, unbeatable customer service and technical support.",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptional knowledge of Artec 3D products, excellent support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Good knowledge of Artec 3D products, effective support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Clean Energy",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": ", have an elite customer service rating and have excelled in promoting the technology.",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device manufacturing",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Every year, Artec 3D, a forerunner in the world of 3D technologies, unveils its list of Ambassadors and Gold-certified Partners, and 2024 is no exception. The distinguished professionals on this list form a network of trusted resellers across the globe, excelling in 3D knowledge and providing impeccable customer service.",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace (2)",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive (2)",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Medical (6)",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "At Central Scanning, we’re passionate about combining the best 3D scanning technology with automotive heritage. Our recent work with Richard Hammond...",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive and Transportation",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Experts in Artec 3D’s complete line of scanners, unbeatable customer service and technical support.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptional knowledge of Artec 3D products, excellent support for customers.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "The questions evaluate a reseller’s knowledge in scanning, processing, and customer support. We value the importance of this certification process. It not only validates our expertise but also empowers us to serve our customers with the highest level of proficiency and support.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Providing Exceptional Levels of Customer Service",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "To be an Artec Gold-Certified Ambassador, we have to show that we provide exceptional customer care and an all-round excellent experience for our customers. All of the members of our technical team are power users of Artec’s 3D scanners and software. We know how to use each system inside and out to provide anyone looking to buy a 3D scanner the best and most honest advice.",
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device manufacturing",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "AEROSPACE",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "AUTOMOTIVE",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "MEDICAL APPLICATIONS",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Applications",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device manufacturing",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "All our 3D scanners are made in Luxembourg, Switzerland, and Austria, using only the highest quality components. Having a significant presence in the 3D market for more than a decade now, we have supplied innovative 3D scanning solutions to a wide range of professionals, from independent CGI artists to global companies in IT, as well as the automotive and aerospace industries.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Service",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Free application case study: we prepare a case study based on your parts and application, which you can share with your team",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainability and Energy",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Luxembourg, the company has subsidiaries in the United States (California), China (Shanghai), and Montenegro (Bar). It operates globally through these locations and works with numerous customers around the world, providing cutting-edge 3D technology to those in various industries.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D has long had customers among automobile manufacturers and educational institutions through its sales agents in Japan. Due to the high evaluation from these clients, the company determined that it had the potential to further develop the market and established a Japanese subsidiary.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company plans to strengthen sales activities and after-sales services from its Japanese subsidiary to establish a firm foothold with existing customers and to further develop new customers, and it also plans to maintain the relationship with its distributors in Japan.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device manufacturing",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Experts in Artec 3D’s complete line of scanners, unbeatable customer service and technical support.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptional knowledge of Artec 3D products, excellent support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Good knowledge of Artec 3D products, effective support for customers.",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device Daily",
+    "url": "https://en.wikipedia.org/wiki/Artec_3D",
+    "pass": 3
+   },
+   {
+    "quote": "AM Medical, Dental and Bioprinting",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Where to Buy a 3D Scanner - Artec 3D Reseller List — Where to Buy a 3D Scanner - Artec 3D Reseller List Artec 3D https://www.artec3d.com > where-to-...",
+    "url": "https://www.artec3d.com/where-to-buy",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Unveils 2021 Class of Gold Certified Partners and ... — Artec 3D Unveils 2021 Class of Gold Certified Partners and ... Yahoo Finance https://finance.yahoo.com > news > ar...",
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3d partner events October 2026 - Facebook — Artec 3d partner events October 2026 - Facebook Facebook https://www.facebook.com > Artec3D > posts > our-partn...",
+    "url": "https://www.facebook.com/Artec3D/posts/our-partners-are-bringing-artec-3d-scanners-to-events-across-germany-the-us-and-/1455099600057694/",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D updates its annual list of Gold-certified Partners and ... — Artec 3D updates its annual list of Gold-certified Partners and ... Artec 3D https://www.artec3d.com > News",
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "pass": 3
+   },
+   {
+    "quote": "Central Scanning - A World Class Artec 3D Ambassador — Central Scanning - A World Class Artec 3D Ambassador Central Scanning https://www.central-scanning.co.uk > ...",
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "pass": 3
+   },
+   {
+    "quote": "3D Software Prices — the best deals on advanced ... - Artec 3D — 3D Software Prices — the best deals on advanced ... - Artec 3D Artec 3D https://www.artec3d.com > Prices",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Pricing - CADTech USA — Artec 3D Pricing - CADTech USA CADTech USA https://www.cadtechusa.com > artec_...",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D scanners prices — Artec 3D scanners prices Artec 3D https://www.artec3d.com > prices",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 Pro Software License | MatterHackers — Artec Studio 20 Pro Software License | MatterHackers MatterHackers https://www.matterhackers.com > store",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Scanners: Prices , Specs & Comparison — Artec 3D Scanners: Prices , Specs & Comparison 3DMakerWorld, Inc. https://3dmakerworld.com > artec3d",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 Yearly Subscription 3 licenses (for the same ... — Artec Studio 20 Yearly Subscription 3 licenses (for the same ... GoMeasure3D https://shop.gomeasure3d.com > artec...",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-18-yearly-subscription-3-pack?srsltid=AYCX9vILaDP9n-KPyrSMQjS1cRAiEFsfDj5ViLJTW4JJgBlwnBWoQ3TJ",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D , a manufacturer of 3D scanners and scanning ... — Artec 3D , a manufacturer of 3D scanners and scanning ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > ... > 2024",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan — buy 3D scanner from Artec 3D — Japan — buy 3D scanner from Artec 3D Artec 3D https://www.artec3d.com > japan",
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D - Wikipedia — Artec 3D - Wikipedia Wikipedia https://en.wikipedia.org > Artec_3D",
+    "url": "https://en.wikipedia.org/wiki/Artec_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Opens Office in Tokyo, Japan - DailyCADCAM — Artec 3D Opens Office in Tokyo, Japan - DailyCADCAM DailyCADCAM https://dailycadcam.com > artec-3d-o...",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "「 Artec 3D 」の代理店・取扱店 - indexPro — 「 Artec 3D 」の代理店・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8571",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 価格 | プロ仕様の 3D スキャン・ソリューション — Artec Studio 価格 | プロ仕様の 3D スキャン・ソリューション Artec 3D https://www.artec3d.com > ... > Artec Studio",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio V20｜製品詳細 - データ・デザイン — Artec Studio V20｜製品詳細 - データ・デザイン datadesign https://www.datadesign.co.jp > lineup > artec-studio-v20",
+    "url": "https://www.datadesign.co.jp/artec/lineup/artec-studio-v20/",
+    "pass": 3
+   },
+   {
+    "quote": "ARTEC STUDIO 16の新機能｜Artec3D — ARTEC STUDIO 16の新機能｜Artec3D 株式会社オーピーティー http://www.opt-techno.com > artec > ar-software",
+    "url": "http://www.opt-techno.com/artec/ar-software.php",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3Dの会社概要・製品情報 - Metoree — Artec 3Dの会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/1325/",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20：プロ仕様の3Dデータキャプチャと処理 — Artec Studio 20：プロ仕様の3Dデータキャプチャと処理 Artec 3D https://www.artec3d.com > ホーム > 3Dソフトウェア",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D（3Dスキャニング技術会社） - 百度百科 — Artec 3D（3Dスキャニング技術会社） - 百度百科 百度百科 https://baike.baidu.com > item > Artec 3D",
+    "url": "https://baike.baidu.com/ja/item/Artec%203D/7314231",
+    "pass": 3
+   },
+   {
+    "quote": "高性能3Dソフトウェアを何処よりもお値打ち 価格 で - Artec 3D — 高性能3Dソフトウェアを何処よりもお値打ち 価格 で - Artec 3D Artec 3D https://www.artec3d.com > ホーム > 価格",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 Yearly Subscription - GoMeasure3D — Artec Studio 20 Yearly Subscription - GoMeasure3D GoMeasure3D https://shop.gomeasure3d.com > artec...",
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 3D Scanning Software from Central Scanning — Artec Studio 3D Scanning Software from Central Scanning Central Scanning https://www.central-scanning.co.uk > ...",
+    "url": "https://www.central-scanning.co.uk/product/artec-studio/?srsltid=AYCX9vIqW6W9NIgmxZbr087nOzE3wpjAkZ9-CKzU64VoAUhAjHR7eoUv",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナー｜Artec3D — 3Dスキャナー｜Artec3D 株式会社オーピーティー http://www.opt-techno.com > artec",
+    "url": "http://www.opt-techno.com/artec/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio Software Pricing, Alternatives & More 2026 — Artec Studio Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > Artec-Stu...",
+    "url": "https://www.capterra.com/p/10042850/Artec-Studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20: Professional 3D data capture & processing — Artec Studio 20: Professional 3D data capture & processing Artec 3D https://www.artec3d.com > artec-studio",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 | 3D Scanning Software - Digitize Designs — Artec Studio 20 | 3D Scanning Software - Digitize Designs Digitize Designs https://digitizedesigns.com > Shop",
+    "url": "https://digitizedesigns.com/3d-software/artec-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Access Artec Studio Lite for free ! POWERFUL 3D Scanning ... — Access Artec Studio Lite for free ! POWERFUL 3D Scanning ... Facebook https://www.facebook.com > posts > access-artec-studio-lit...",
+    "url": "https://www.facebook.com/3DMusketeers/posts/access-artec-studio-lite-for-free-powerful-3d-scanning-with-nothing-more-than-yo/1383344113804268/",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D - 2026 Company Profile, Funding & Competitors — Artec 3D - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/artec-3d/__lJZ-2HbXovZFCvZCQGAmy3-RCP9yI4uVz-JpbA0_gKY",
+    "pass": 3
+   },
+   {
+    "quote": "Luxembourg: EIB backs Artec 3D's cutting-edge RDI in 3D ... — Luxembourg: EIB backs Artec 3D's cutting-edge RDI in 3D ... European Investment Bank https://www.eib.org > press > all > 20...",
+    "url": "https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D - LinkedIn — Artec 3D - LinkedIn LinkedIn https://www.linkedin.com > artec3d",
+    "url": "https://www.linkedin.com/company/artec3d",
+    "pass": 3
+   },
+   {
+    "quote": "Artec3D - When AI revolutionizes the 3D industry — Artec3D - When AI revolutionizes the 3D industry Chambre de Commerce Luxembourg https://www.cc.lu > news > detail > art...",
+    "url": "https://www.cc.lu/en/all-information/news/success-stories/detail/artec3d-when-ai-revolutionizes-the-3d-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Information - RocketReach — Artec 3D Information - RocketReach RocketReach https://rocketreach.co > artec-3d-profi...",
+    "url": "https://rocketreach.co/artec-3d-profile_b5e039a2f42e6fbb",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D is a Recognized Leader in the 3D Scanning Industry — Artec 3D is a Recognized Leader in the 3D Scanning Industry Artec 3D https://www.artec3d.com > corporate",
+    "url": "https://www.artec3d.com/corporate",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "3D Software Prices — the best deals on advanced 3D software",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $6,840",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $17,100",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced software for capturing digital twins with Artec 3D scanners or any camera-equipped device. Upgraded each year with updated features & algorithms. Annual subscription with workflow scripting functionality.",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $1,700",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $4,300",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $96",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $960",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "US $48",
+    "url": "https://www.artec3d.com/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Pricing | CADTech USA",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D PRINTING PRICING",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Pricing",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$38,300 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$29,700 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$25,600 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$24,800 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$9,900 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$24,240 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$97,800 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$9,800 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$5,000 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$27,400 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$42,700 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "$48,200 USD",
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Buy Handheld 3D Scanners and 3D Scanning Software at Best Price",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D scanners & prices",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $38,600",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $38,300",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $47,000",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $97,800",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $24,240",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $29,700",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $25,600",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $9,900",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $42,700",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "US $27,400",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimate 3D scanning pack that has everything you need: top-level handheld scanner, Calibration Kit, extended warranty, maintenance, software subscription, and then some.",
+    "url": "https://www.artec3d.com/prices",
+    "pass": 3
+   },
+   {
+    "quote": "FREE, FAST Shipping on orders over $35 in the U.S.*",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Free Shipping on +$35 orders in the U.S.*",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 20 Pro is a professional 3D scanning and photogrammetry software for modeling, reverse engineering, and inspection. It supports multiple devices and uses AI Photogrammetry to create detailed 3D models from photos or videos. Key features include comprehensive editing tools, reverse engineering, and quality inspection. Subscription options are available annually or for a lifetime.",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "($1,700)",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "($4,300)",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "$38,300",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "$97,800",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "$24,240",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "$9,900",
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D Scanners: Prices, Specs & Comparison",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$38,600.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$47,000.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$38,300.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$29,700.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$24,240.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$97,800.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$25,600.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "$19,800.00",
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio 価格 | プロ仕様の 3D スキャン・ソリューション | Artec3D",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio Lite IndividualまたはBusinessの年間ライセンスを購入されるユーザーは、10ヶ月分の価格で12ヶ月ご利用いただけます",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "Artec Studio Lite IndividualまたはBusinessの5年間サブスクリプションを購入される方、または複数ライセンスをご希望の方は、価格についてsales@artec3d.comまで直接お問い合わせください",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "pass": 3
+   },
+   {
+    "quote": "3Dソフトウェア価格－高性能3Dソフトウェアを何処よりもお値打ち価格で",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   },
+   {
+    "quote": "10ヶ月分の価格で12ヶ月利用可能",
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo | 2024 - Events & News - Investing in Japan - Japan External Trade Organization - JETRO",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Support for Collaboration between Japanese and Foreign Companies",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese agriculture, forestry, fisheries and food",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership and collaboration with Japanese companies (J-Bridge)",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Trade and Investment Statistics",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D, a manufacturer of 3D scanners and scanning software, establishes a Japanese subsidiary in Tokyo",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Artec 3D has long had customers among automobile manufacturers and educational institutions through its sales agents in Japan. Due to the high evaluation from these clients, the company determined that it had the potential to further develop the market and established a Japanese subsidiary.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company plans to strengthen sales activities and after-sales services from its Japanese subsidiary to establish a firm foothold with existing customers and to further develop new customers, and it also plans to maintain the relationship with its distributors in Japan.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "To assist with setting up the company's Japanese subsidiary, JETRO's Invest Japan Business Support Center (IBSC) provided temporary office space, introduced recruitment agencies and real estate companies, and provided consultations for tax and labor affairs.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "We will do our very best to support your business expansion into and within Japan as well as business collaboration with Japanese companies. Please feel free to contact us via the form below for any inquiries.",
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "pass": 3
+   },
+   {
+    "quote": "“I have known Artec 3D for many years; Artec 3D is among the companies that, with their products, add value to society,” said Luxembourg Ambassador to Japan, Mr. Pierre Ferring. “I am happy to see them establishing a presence in Japan. In view of the technological excellence of Artec’s products and the love of Japanese people for quality, I am convinced of the success of Artec 3D Japan.”",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional scanning solutions from Artec 3D play a key role in Japan, and are in use by leading brands such as Toyota and ASICS, as well as civil and educational facilities and organizations. One Japanese company that specializes in aircraft customization, Tech Strake, uses Artec Eva and Space Spider",
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "使用可能言語：簡体字中国語、繁体字中国語、クロアチア語、チェコ語、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポーランド語、ポルトガル語、ロシア語、スペイン語、トルコ語、ウクライナ語",
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "pass": 3
+   },
+   {
+    "quote": "To ensure accessibility to individuals and teams all over the world, Artec Studio is available and fully functional in 16 languages: Chinese Simplified, Chinese Traditional, Croatian, Czech, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Turkish, and Ukrainian.",
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.artec3d.com/where-to-buy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/news/ambassadors-2024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/prices/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadtechusa.com/artec_pricing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/prices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/where-to-buy/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Artec_3D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8571",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/artec/lineup/artec-studio-v20/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opt-techno.com/artec-3d-scanners/ar-software.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/1325/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/ja/prices/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.central-scanning.co.uk/product/artec-studio/?srsltid=AYCX9vIqW6W9NIgmxZbr087nOzE3wpjAkZ9-CKzU64VoAUhAjHR7eoUv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opt-techno.com/artec-3d-scanners/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/10042850/Artec-Studio/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/3d-software/artec-studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitizedesigns.com/3d-software/artec-studio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artec-studio-trial.en.uptodown.com/windows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/3d-software/artec-studio/3d-modeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/artec-3d/__lJZ-2HbXovZFCvZCQGAmy3-RCP9yI4uVz-JpbA0_gKY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cc.lu/en/all-information/news/success-stories/detail/artec3d-when-ai-revolutionizes-the-3d-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/artec-3d-profile_b5e039a2f42e6fbb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/corporate",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Artec 3D reseller partner program",
+   "results": [
+    "https://www.artec3d.com/where-to-buy",
+    "https://finance.yahoo.com/news/artec-3d-unveils-2021-class-130000941.html",
+    "https://www.facebook.com/Artec3D/posts/our-partners-are-bringing-artec-3d-scanners-to-events-across-germany-the-us-and-/1455099600057694/",
+    "https://www.artec3d.com/news/ambassadors-2024",
+    "https://www.central-scanning.co.uk/artec-3d-reseller/?srsltid=AYCX9vIdi1SwPIeagmw9ErMs9QrHD6OJ-3RS2nCt_hBYUs8aMl0idYzw",
+    "https://gomeasure3d.com/blog/what-it-takes-gold-certified-ambassador-artec-professional-3d-scanners/",
+    "https://www.3dmag.com/sponsored-by-artec-3d/",
+    "https://www.globenewswire.com/fr/news-release/2020/04/15/2016493/0/en/Artec-3D-Announces-2020-Class-of-Gold-Certified-Partners.html?utm_sourc=",
+    "https://en.wikipedia.org/wiki/Artec_3D",
+    "https://www.reseller-portal.artec3d.com/login/"
+   ]
+  },
+  {
+   "query": "Artec 3D pricing license",
+   "results": [
+    "https://www.artec3d.com/prices/software",
+    "https://www.cadtechusa.com/artec_pricing.html",
+    "https://www.artec3d.com/prices",
+    "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vIljLcwXTt1EkEw5EH1RiBefCdqwM666WeZJOSkexar0WWtSYl0",
+    "https://3dmakerworld.com/collections/artec3d?srsltid=AYCX9vJaLxn3b0iOqS7J63nQXqA8n-kr7zIx7b_MomEzPS9LdW5RSBsr",
+    "https://shop.gomeasure3d.com/products/artec-studio-18-yearly-subscription-3-pack?srsltid=AYCX9vILaDP9n-KPyrSMQjS1cRAiEFsfDj5ViLJTW4JJgBlwnBWoQ3TJ",
+    "https://support.artec3d.com/hc/en-us/articles/360014088979-Licensing-FAQs",
+    "https://store.trimech.com/products/artec-studio-pro-lifetime-license?srsltid=AYCX9vJuy-le3deScEAPB8uQDrVRFHnfNiHu8945-VfY4NqIvTXIMwQ2",
+    "https://www.artec3d.com/3d-software/artec-studio/prices",
+    "https://support.artec3d.com/hc/en-us/categories/200057351-Licensing-Installation"
+   ]
+  },
+  {
+   "query": "Artec 3D Japan distributor",
+   "results": [
+    "https://www.artec3d.com/where-to-buy",
+    "https://www.jetro.go.jp/en/invest/newsroom/2024/f9238f298e017ba1.html",
+    "https://www.artec3d.com/where-to-buy/japan",
+    "https://en.wikipedia.org/wiki/Artec_3D",
+    "https://dailycadcam.com/artec-3d-opens-office-in-tokyo-japan/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8571",
+    "https://hawkridgesys.com/artec-3d-scanners",
+    "https://www.siliconluxembourg.lu/artec-3d-leverages-japan-office-to-accelerate-product-innovation/",
+    "https://www.datadesign.co.jp/artec/",
+    "https://www.artec3d.com/ja/where-to-buy"
+   ]
+  },
+  {
+   "query": "Artec Studio 代理店",
+   "results": [
+    "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "https://www.datadesign.co.jp/artec/lineup/artec-studio-v20/",
+    "http://www.opt-techno.com/artec/ar-software.php",
+    "https://metoree.com/companies/1325/",
+    "https://www.artec3d.com/ja/3d-software/artec-studio",
+    "https://baike.baidu.com/ja/item/Artec%203D/7314231",
+    "https://www.datadesign.co.jp/artec/support/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8571",
+    "https://www.cadjapan.com/news/2022/w202225_01.html",
+    "https://www.artec3d.com/ja/where-to-buy"
+   ]
+  },
+  {
+   "query": "Artec Studio 価格",
+   "results": [
+    "https://www.artec3d.com/ja/prices/software",
+    "https://www.artec3d.com/ja/3d-software/artec-studio/prices",
+    "https://shop.gomeasure3d.com/products/artec-studio-yearly-subscription?srsltid=AYCX9vIevDv35tJV_KWPZk1PVlKLyTZ1NQDHRQ9LUrLevcgfrrx0CY66",
+    "https://www.central-scanning.co.uk/product/artec-studio/?srsltid=AYCX9vIqW6W9NIgmxZbr087nOzE3wpjAkZ9-CKzU64VoAUhAjHR7eoUv",
+    "http://www.opt-techno.com/artec/index.html",
+    "https://www.capterra.com/p/10042850/Artec-Studio/",
+    "https://www.artec3d.com/ja/news/artec-studio-11-3d-scanning-software-upgrade",
+    "https://www.matterhackers.com/store/l/artec-studio-19-software-license?srsltid=AYCX9vK5Zq9qjuPt16SgpAF_D4XHKrxlMa6onSGZ76uKhNDqy3sS1_3-",
+    "https://www.cadtechusa.com/artec_pricing.html",
+    "https://opt-techno.com/artec-3d-scanners/index.html"
+   ]
+  },
+  {
+   "query": "Artec 3D free trial",
+   "results": [
+    "https://www.artec3d.com/3d-software/artec-studio",
+    "https://www.artec3d.com/prices/software",
+    "https://gomeasure3d.com/blog/create-3d-models-from-device-with-artec-studio/",
+    "https://digitizedesigns.com/3d-software/artec-studio/",
+    "https://www.facebook.com/3DMusketeers/posts/access-artec-studio-lite-for-free-powerful-3d-scanning-with-nothing-more-than-yo/1383344113804268/",
+    "https://artec-studio-trial.en.uptodown.com/windows",
+    "https://www.artec3d.com/3d-software/artec-studio/3d-modeling",
+    "https://cloud.artec3d.com/",
+    "https://support.artec3d.com/hc/en-us/articles/207036139-Artec-Studio",
+    "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-access-a-free-trial-for-Autodesk-AEC-softwares.html"
+   ]
+  },
+  {
+   "query": "Artec 3D company founded employees funding",
+   "results": [
+    "https://tracxn.com/d/companies/artec-3d/__lJZ-2HbXovZFCvZCQGAmy3-RCP9yI4uVz-JpbA0_gKY",
+    "https://www.eib.org/en/press/all/2025-243-eib-backs-artec-3d-s-cutting-edge-rdi-in-3d-scanning-technologies",
+    "https://www.linkedin.com/company/artec3d",
+    "https://www.cc.lu/en/all-information/news/success-stories/detail/artec3d-when-ai-revolutionizes-the-3d-industry",
+    "https://rocketreach.co/artec-3d-profile_b5e039a2f42e6fbb",
+    "https://www.artec3d.com/corporate",
+    "https://emag.directindustry.com/2025/11/20/artec-3d-handheld-scanners-luxembourg-factory-clean-room/",
+    "https://getlatka.com/companies/artec3d.com",
+    "https://www.3dmag.com/sponsored-by-artec-3d/",
+    "https://en.wikipedia.org/wiki/Artec_3D"
+   ]
+  }
+ ],
+ "missing": {}
+}

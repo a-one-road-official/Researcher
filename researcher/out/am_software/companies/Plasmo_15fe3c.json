@@ -1,0 +1,725 @@
+{
+ "name": "Plasmo",
+ "en": "Plasmo",
+ "aliases": [
+  "Plasmo Industrietechnik"
+ ],
+ "context": "造形中の監視（WAAM・溶接）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:37:26.884011+00:00",
+ "evidence": {
+  "顧客・用途": [
+   {
+    "quote": "Customer Stories",
+    "url": "https://github.com/plasmohq/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://github.com/plasmohq/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Used by",
+    "url": "https://github.com/plasmohq/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Want more customers?",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "プラズモ社の製品はヨーロッパの自動車、航空機産業を始め、各種加工機メーカーなどに",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文ではこのシステムを自動車メーカーを中心に販売していく考えです",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "評があり、欧州自動車メーカに多くの採用実績を持つ",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://github.com/PlasmoHQ/plasmo/releases",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://github.com/PlasmoHQ/plasmo/releases",
+    "pass": 3
+   },
+   {
+    "quote": "採用事例は調査対象を見つける参考になりますが、利用者数だけではフレームワークの信頼性や追加開発の量は分かりません",
+    "url": "https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging tech research on AI, healthcare, energy, and more",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "The SW Score ranks the products within a particular category on a variety of parameters, to provide a definite ranking system.",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "The integration and builds are triggered automatically after commissioning of code",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Environment Variables",
+    "url": "https://docs.plasmo.com/quickstarts/migrate-to-plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Using environment variables in the manifest",
+    "url": "https://docs.plasmo.com/quickstarts/migrate-to-plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "If you're currently using environment variables, you can continue to do so in Plasmo.",
+    "url": "https://docs.plasmo.com/quickstarts/migrate-to-plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "environment variables out of the box",
+    "url": "https://docs.plasmo.com/quickstarts/migrate-to-plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Environment Variables",
+    "url": "https://docs.plasmo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "fix: Set bundle config as internal environment variables by",
+    "url": "https://github.com/PlasmoHQ/plasmo/releases",
+    "pass": 3
+   },
+   {
+    "quote": "marginTop:",
+    "url": "https://zenn.dev/nado1001/articles/plasmo-browser-extension",
+    "pass": 3
+   },
+   {
+    "quote": "<div class=\"request\" style=\"margin-top: 20px;\">",
+    "url": "https://zenn.dev/nado1001/articles/plasmo-browser-extension",
+    "pass": 3
+   },
+   {
+    "quote": "🔵 INFO | Loaded environment variables from: []",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "at the top is required by Plasmo to treat this file as a module. Without it you may get errors about conflicting global variable declarations.",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "The three state variables track the number of open tabs, the number of existing groups, and whether a grouping operation is currently in progress.",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": ", which queries Chrome for the current window's tabs and groups, then updates the state variables with the counts.",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "<div style={{ marginBottom: 20 }}>",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "<h2 style={{ margin: 0, fontSize: 20, fontWeight: 600 }}>",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "<p style={{ margin: \"8px 0 0\", fontSize: 13, color: \"#666\" }}>",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "marginBottom: 20,",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "marginTop: 16,",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Plasmo - Features & Pricing (November 2026)",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Starts at $30.0. Offers Free-forever plan.",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "$30.00",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "30 Ext Updates/Month",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "$65.00",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "3 Seats/Team (Extra Seats Available)",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Disclaimer: The pricing details were last updated on 27/10/2023 from the",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "62億1,450万円、以下 丸文）は、溶接プロセスモニタリングシステムメーカーであるオースト",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 ： 62億1,450万円",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 ： 2,375億円（2006年3月期連結）",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic は 2026-09-22 に Claude Opus 5.5 を公開：Opus 5 比で典型タスクコスト約40%減、価格と安全制限が同時に着地",
+    "url": "https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "pass": 3
+   },
+   {
+    "quote": "Before you can publish, you'll need a completed and tested extension, a Google account, a $5 USD one-time developer registration fee, and some store assets such as icons, screenshots, and a written description.",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "The $5 fee is a one-time charge (not annual) that Google uses to verify developer identity and reduce spam. It covers unlimited extension submissions and is processed immediately via Google Payments.",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": ", sign in with your Google account, accept the Developer Agreement, and pay the $5 registration fee. Your account is activated within minutes.",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "$24.99",
+    "url": "https://www.plasmolab.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "$3.46M",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Plasmotion has raised $3.46M.",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Free Trial Not Available",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a demo",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "Includes features of Free plan, plus,",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "「レーザー＆オプティクス 2008」にてデモンストレーションがご覧いただけます",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ProcessObserveｒ」をデモ展示する予定です",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Video (Optional)",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Honesty",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Founded : 2022",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "従業員 ： 1,181名（2007年3月末連結）",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Plasmotion 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Plasmotion was founded in 2022.",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   },
+   {
+    "quote": "Plasmotion has 13 total employees.",
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plasmo - Features & Pricing (October 2026) - SaaSworthy — Plasmo - Features & Pricing (October 2026) - SaaSworthy SaaSworthy https://www.saasworthy.com > plasmo",
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "pass": 3
+   },
+   {
+    "quote": "溶接プロセスモニタリングシステムメーカー plasmo ... - 丸文 — 溶接プロセスモニタリングシステムメーカー plasmo ... - 丸文 丸文株式会社 PDF https://www.marubun.co.jp > 080111PLASMO",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年ブラウザ拡張フレームワークの現状： Plasmo 、WXT — 2025年ブラウザ拡張フレームワークの現状： Plasmo 、WXT redreamality.com https://redreamality.com > blog > the-2025-state-of-brows...",
+    "url": "https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "pass": 3
+   },
+   {
+    "quote": "Plasmo - 2026 Company Profile & Team - Tracxn — Plasmo - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/plasmo/__Beq0NIW92zjWJdLpEsoer9BpFNB9fRgxppsmEtFpGy0",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "plasmo Industrietechnik GmbHと代理店契約締結",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先端エレクトロニクス商社の丸文株式会社（社長：佐藤 敬司、本社：東京都中央区、資本金：",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リアのplasmo Industrietechnik GmbH（以下プラズモ社）と、国内販売代理店契約を締結し",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜丸文株式会社について＞",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社の詳細については、http://www.marubun.co.jp/ をご覧ください",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社 レーザ機器部 レーザ機器課",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社 広報室",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社では、1月 16 日（水）から18 日（金）の3 日間、東京ビックサイトで開催されます",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "RSS Feed (日本語)",
+    "url": "https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.carahsoft.com/partners/resellers-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.box.com/partners/channel-program",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lantronix.com/blog/makes-channel-partner-program-great-true-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matomo.org/blog/2026/09/matomo-launches-reseller-partner-programme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plasmo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/plasmohq/plasmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dev.to/alexandergekov/building-chrome-extensions-with-plasmo-4g0c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saasworthy.com/product/plasmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/reactjs/comments/1hswezp/plasmo_react_typescript_the_dream_stack_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pasmo.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.japantravel.com/guide/guide-to-pasmo-cards/70396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-guide.com/e/e2359_003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japantravel.navitime.com/en/area/jp/guide/NTJhowto0063-en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrpass.com/ja/blog/suica-vs-pasmo-which-ic-card-should-tourists-use-in-japan-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.plasmo.com/quickstarts/migrate-to-plasmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npmjs.com/package/plasmo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://docs.plasmo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/PlasmoHQ/plasmo/releases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/nado1001/articles/plasmo-browser-extension",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/mistylady/items/6a89de9ce176f81d4789",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.kawayama.dev/technologies/plasmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmoa.co.jp/product/pla.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techimply.com/profile/plasmo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@geralddevelop/beginner-guide-on-plasmo-framework-simplifying-web-extension-development-8b3289ea90ec",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plasmolab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plasmolab.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/plasmo/__Beq0NIW92zjWJdLpEsoer9BpFNB9fRgxppsmEtFpGy0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/542223-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techfundingnews.com/replacing-plastic-this-female-founded-startup-grabs-15-4m-for-developing-plant-based-cups-that-are-biodegradable-and-edible/",
+    "status": "http_520",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/company-lists/top-16-plastic-manufacturing-companies-in-the-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.packagingeurope.com/shellworks-raises-15-million-to-scale-biodegradable-plastic-alternative/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plasmo reseller partner program",
+   "results": [
+    "https://www.carahsoft.com/partners/resellers-service-providers",
+    "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "https://www.box.com/partners/channel-program",
+    "https://www.lantronix.com/blog/makes-channel-partner-program-great-true-partnership/",
+    "https://matomo.org/blog/2026/09/matomo-launches-reseller-partner-programme/",
+    "https://www.motorolasolutions.com/content/dam/msi/docs/business/_independent_pages/_documents/_staticfiles/partnerempower-faq-apac.pdf",
+    "https://www.hypeinnovation.com/blog/exploring-different-partner-programs-ecosystem",
+    "https://www.kiflo.com/blog/reseller-partner-programs",
+    "https://chanimal.com/resources/channel-marketing/how-to-create-a-reseller-program/"
+   ]
+  },
+  {
+   "query": "Plasmo pricing license",
+   "results": [
+    "https://www.plasmo.com/",
+    "https://github.com/plasmohq/plasmo",
+    "https://dev.to/alexandergekov/building-chrome-extensions-with-plasmo-4g0c",
+    "https://www.saasworthy.com/product/plasmo",
+    "https://www.reddit.com/r/reactjs/comments/1hswezp/plasmo_react_typescript_the_dream_stack_for/",
+    "https://www.youtube.com/watch?v=suDy5SNbXsI",
+    "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "https://redreamality.com/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "https://www.plasmo.com/pack",
+    "https://www.saasworthy.com/product/plasmo/pricing"
+   ]
+  },
+  {
+   "query": "Plasmo Japan distributor",
+   "results": [
+    "https://www.pasmo.co.jp/en/",
+    "https://en.japantravel.com/guide/guide-to-pasmo-cards/70396",
+    "https://www.youtube.com/shorts/p_VwA4piBGg",
+    "https://www.japan-guide.com/e/e2359_003.html",
+    "https://japantravel.navitime.com/en/area/jp/guide/NTJhowto0063-en/",
+    "https://www.jrpass.com/blog/suica-vs-pasmo-which-ic-card-should-tourists-use-in-japan-in-2026",
+    "https://www.japan-experience.com/transportation/prepaid-cards/pasmo",
+    "https://www.facebook.com/groups/singaporeansjapantrip/posts/1648962478999516/",
+    "https://tokyocheapo.com/travel/pasmo-suica-cards-tokyo-travel/",
+    "https://japanesedistributors.com/"
+   ]
+  },
+  {
+   "query": "Plasmo 代理店",
+   "results": [
+    "https://docs.plasmo.com/quickstarts/migrate-to-plasmo",
+    "https://www.npmjs.com/package/plasmo",
+    "https://www.marubun.co.jp/wp-content/uploads/a8tque000000bh63/080111PLASMO.pdf",
+    "https://docs.plasmo.com/",
+    "https://github.com/PlasmoHQ/plasmo/releases",
+    "https://zenn.dev/nado1001/articles/plasmo-browser-extension",
+    "https://tech.iimon.co.jp/entry/2025/03/19/103055",
+    "https://plasmo.app/",
+    "https://plasmo-ja-docs.vercel.app/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ]
+  },
+  {
+   "query": "Plasmo 価格",
+   "results": [
+    "https://zenn.dev/nado1001/articles/plasmo-browser-extension",
+    "https://qiita.com/mistylady/items/6a89de9ce176f81d4789",
+    "https://redreamality.com/ja/blog/the-2025-state-of-browser-extension-frameworks-a-comparative-analysis-of-plasmo-wxt-and-crxjs/",
+    "https://info.kawayama.dev/technologies/plasmo",
+    "https://www.pmoa.co.jp/product/pla.html",
+    "https://translate.preferredai.jp/pricing/",
+    "https://www.preferred.jp/ja/news/pr20250522",
+    "https://store.steampowered.com/app/739630/Phasmophobia/",
+    "https://plumwebshop.com/",
+    "https://www.saasworthy.com/product/plasmo/pricing"
+   ]
+  },
+  {
+   "query": "Plasmo free trial",
+   "results": [
+    "https://www.plasmo.com/",
+    "https://www.saasworthy.com/product/plasmo",
+    "https://github.com/plasmohq/plasmo",
+    "https://dev.to/alexandergekov/building-chrome-extensions-with-plasmo-4g0c",
+    "https://www.reddit.com/r/reactjs/comments/1hswezp/plasmo_react_typescript_the_dream_stack_for/",
+    "https://www.youtube.com/watch?v=NbSJhTolNvY",
+    "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+    "https://www.techimply.com/profile/plasmo",
+    "https://medium.com/@geralddevelop/beginner-guide-on-plasmo-framework-simplifying-web-extension-development-8b3289ea90ec",
+    "https://docs.plasmo.com/"
+   ]
+  },
+  {
+   "query": "Plasmo company founded employees funding",
+   "results": [
+    "https://tracxn.com/d/companies/plasmo/__Beq0NIW92zjWJdLpEsoer9BpFNB9fRgxppsmEtFpGy0",
+    "https://pitchbook.com/profiles/company/542223-01",
+    "https://techfundingnews.com/replacing-plastic-this-female-founded-startup-grabs-15-4m-for-developing-plant-based-cups-that-are-biodegradable-and-edible/",
+    "https://au.linkedin.com/company/plasmo-pty-ltd",
+    "https://www.youtube.com/watch?v=SPNeNNIhZS0",
+    "https://www.inven.ai/company-lists/top-16-plastic-manufacturing-companies-in-the-us",
+    "https://www.packagingeurope.com/shellworks-raises-15-million-to-scale-biodegradable-plastic-alternative/",
+    "https://wyss.harvard.edu/news/plastic-degradation-company-breaking-emerges-from-stealth-with-naturally-derived-solution-to-degrade-multiple-plastics-with-10-5m-in-seed-funding/",
+    "https://news.crunchbase.com/venture/plastic-alternatives-startup-funding/",
+    "https://www.thecompanycheck.com/company/b/plasmo/kpwtirp8ja4n58szj"
+   ]
+  }
+ ],
+ "missing": {}
+}

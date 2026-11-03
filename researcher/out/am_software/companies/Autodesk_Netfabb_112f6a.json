@@ -1,0 +1,871 @@
+{
+ "name": "Autodesk Netfabb",
+ "en": "Netfabb",
+ "aliases": [
+  "ネットファブ"
+ ],
+ "context": "造形の準備・シミュレーション",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:30:40.343276+00:00",
+ "evidence": {
+  "顧客・用途": [
+   {
+    "quote": "Customer Portal",
+    "url": "https://www.dsi-mfg.com/software/netfabb",
+    "pass": 3
+   },
+   {
+    "quote": "Netfabb (now delivered as Fusion with Netfabb) covers the full additive workflow: import and repair meshes, arrange builds, generate lattices, and simulate powder bed fusion or direct energy deposition before you commit material and machine time.",
+    "url": "https://www.dsi-mfg.com/software/netfabb",
+    "pass": 3
+   },
+   {
+    "quote": "Model the thermal and mechanical response of metal powder bed fusion and direct energy deposition builds to catch failures before they happen.",
+    "url": "https://www.dsi-mfg.com/software/netfabb",
+    "pass": 3
+   },
+   {
+    "quote": "Build preparation, lattice and hollowing tools, automatic packing, and additive toolpaths are included. Thermo-mechanical simulation for metal powder bed fusion and direct energy deposition is available on qualifying tiers.",
+    "url": "https://www.dsi-mfg.com/software/netfabb",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive applications",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping defense assets operational",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense applications",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Only logged in customers who have purchased this product may leave a review.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customers who are already using the \"3DUJ-553\" can use the standard software \"3D Link\" and \"Netfabb\", and customers who are already familiar with \"Netfabb\" will be able to continue to use \"Netfabb\" as before with the \"3DUJ-553\".",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   },
+   {
+    "quote": "Standard/Premium/Ultimate lineup of functions and price combinations according to the customer's intended use.",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   },
+   {
+    "quote": "Form 4B Medical",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Form 4BL Medical",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "ustom training is developed together; taking into account specific needs of the students, type of machines, and assortment of typical parts being produced. Customer will need to provide sample parts and current process workflow in advance, which will be leveraged in the training curriculum that will be modified to specific needs.",
+    "url": "https://nexgensolutions.com/software/netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal",
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "TPM1 Customer Portal",
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Transport",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Infographic: 3D Printing in the Medical Sector",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "directed energy deposition",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "How is Additive Manufacturing Being Adopted in Defense?",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://github.com/3DprintFIT/netfabb-basic-download",
+    "pass": 3
+   },
+   {
+    "quote": "Customer support",
+    "url": "https://github.com/3DprintFIT/netfabb-basic-download",
+    "pass": 3
+   },
+   {
+    "quote": "Used by",
+    "url": "https://github.com/3DprintFIT/netfabb-basic-download",
+    "pass": 3
+   },
+   {
+    "quote": "Development of customer specific solutions",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Netfabb is used by additive manufacturing engineers, industrial designers, mechanical engineers and many others. Anyone who is in contact with advanced additive manufacturing workflows.",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb Premium 3 Year Subscription 2027/2026/2025 Mac/PC | Commercial License",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb Premium 1 Year Subscription 2027/2026/2025 Mac/PC | Commercial License",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Original price was: US$5,300.00.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Current price is: US$399.99.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor Tolerance Analysis 1 Year Subscription 2027/2026/2025 Mac/PC",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Original price was: US$3,265.00.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Current price is: US$49.99.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Original price was: US$15,895.00.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Current price is: US$899.99.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb Premium 3 Year Subscription 2027/2026/2025 Mac/PC | Commercial License quantity",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Your subscription is valid for 1/ 3 years from the date it is enabled.",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects Raises $40 Million to Boost Industrial Additive Manufacturing",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "最高価格は¥2,219,800です",
+    "url": "https://shop.3ds.co.jp/collections/fusion360",
+    "pass": 3
+   },
+   {
+    "quote": "¥778,800 JPY",
+    "url": "https://shop.3ds.co.jp/collections/fusion360",
+    "pass": 3
+   },
+   {
+    "quote": "¥2,219,800 JPY",
+    "url": "https://shop.3ds.co.jp/collections/fusion360",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.",
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "S series 3D printers",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Method series 3D printers",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers who are already using the \"3DUJ-553\" can use the standard software \"3D Link\" and \"Netfabb\", and customers who are already familiar with \"Netfabb\" will be able to continue to use \"Netfabb\" as before with the \"3DUJ-553\".",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   },
+   {
+    "quote": "(Computer Aided Design), CAM (Computer Aided Manufacturing) and CAE (Computer Aided Engineering) tools, Netfabb has been specifically developed for additive manufacturing, design and simulation to streamline workflows and reduce build errors before fabrication. Originally developed by German company netfabb GmbH, Autodesk acquired it in 2015.",
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "pass": 3
+   },
+   {
+    "quote": "M2 Series 5",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "ScanBox Series 4",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "ScanBox Series 5",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "ScanBox Series 6",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "ScanBox Series 7 & 8",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "HP Series 7 Pro 24 inch monitor",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "HP Series 7 Pro 27 inch monitor",
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "With Autodesk’s obsession with 3D printing at the moment, this is the most recent in a long line of acquisitions in the 3D printing space and it looks like the company is building up a pretty decent stack of technology that could prove interesting.",
+    "url": "https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/",
+    "pass": 3
+   },
+   {
+    "quote": "Now Autodesk has this, combined with the lessons it is learning in the 3D print world, other acquisitions (within Labs for one), it looks like the company is building up a set of tools that could rival what Materialise has to offer.",
+    "url": "https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Become a reseller",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Find resellers",
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.",
+    "url": "https://all3dp.com/1/autodesk-netfabb-simply-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Reliable reseller:",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Reseller",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Formlabs Reseller",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "15% Discount on NexGen Services",
+    "url": "https://nexgensolutions.com/software/netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "*Day is defined as 6 hours of training, however class length varies based on student progress.",
+    "url": "https://nexgensolutions.com/software/netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Netfabb can import models from various CAD formats and use repair tools to correct errors quickly. It also includes powerful editing tools for making models production-ready by adjusting wall thicknesses, smoothing rough areas, and more.",
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Autodesk's New Netfabb 2026: All You Need to Know - All3DP — Autodesk's New Netfabb 2026: All You Need to Know - All3DP All3DP https://all3dp.com > Professional",
+    "url": "https://all3dp.com/1/autodesk-netfabb-simply-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Buy Netfabb Premium 3 Year Commercial License — Buy Netfabb Premium 3 Year Commercial License Elements Keys https://elementskeys.com > autodesk",
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb Premium | 1 Device for 1 Year - noon — Autodesk Netfabb Premium | 1 Device for 1 Year - noon noon https://www.noon.com > ... > Utilities",
+    "url": "https://www.noon.com/uae-en/autodesk-netfabb-premium-1-device-for-1-year-digital-license-same-day-delivery/Z57D1895690E8A7E6F72FZ/p/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Software \" Netfabb \" is now compatible ... - Mimaki — 3D Printing Software \" Netfabb \" is now compatible ... - Mimaki Mimaki Global https://mimaki.com > entry-374722",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb : The Complete Solution for 3D Printing ... — Autodesk Netfabb : The Complete Solution for 3D Printing ... tpm.com https://www.tpm.com > blog > autode...",
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "3D積層造形向け設計/解析ソフトウェア Autodesk Fusion with ... — 3D積層造形向け設計/解析ソフトウェア Autodesk Fusion with ... datadesign https://www.datadesign.co.jp > netfabb",
+    "url": "https://www.datadesign.co.jp/netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "オートデスク が netfabb を買収（無料の3Dファイル修正と商用 ... — オートデスク が netfabb を買収（無料の3Dファイル修正と商用 ... Reddit https://www.reddit.com > comments > autodesk_acquires_...",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/3m751c/autodesk_acquires_netfabb_free_3d_file_fixing_and/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion 360 with Netfabb Premiumを用いた光造形機 ... — Autodesk Fusion 360 with Netfabb Premiumを用いた光造形機 ... Autodesk https://www.autodesk.com > partners > success-stories > a...",
+    "url": "https://www.autodesk.com/support/partners/success-stories/autodesk-fusion-360-with-netfabb-premium/7495",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion with Netfabb | 2025、2024 の機能 — Autodesk Fusion with Netfabb | 2025、2024 の機能 Autodesk https://www.autodesk.com > products > netfabb > features",
+    "url": "https://www.autodesk.com/jp/products/netfabb/features",
+    "pass": 3
+   },
+   {
+    "quote": "AUTODESK NETFABB – 3DS-Online Store — AUTODESK NETFABB – 3DS-Online Store 株式会社スリー・ディー・エス https://shop.3ds.co.jp > collections > fusion360",
+    "url": "https://shop.3ds.co.jp/collections/fusion360",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb - Free 30-Day Trial - NexGenSolutions — Autodesk Netfabb - Free 30-Day Trial - NexGenSolutions NexGenSolutions https://nexgensolutions.com > free-trial",
+    "url": "https://nexgensolutions.com/software/netfabb/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "3DprintFIT/ netfabb -basic-download - GitHub — 3DprintFIT/ netfabb -basic-download - GitHub GitHub https://github.com > netfabb-basic-do...",
+    "url": "https://github.com/3DprintFIT/netfabb-basic-download",
+    "pass": 3
+   },
+   {
+    "quote": "netfabb Studio Basic 4.8 Download ( Free trial )... — netfabb Studio Basic 4.8 Download ( Free trial )... netfabb Studio Basic Download https://netfabb-studio-basic.software.informer.com > ...",
+    "url": "https://netfabb-studio-basic.software.informer.com/4.8/",
+    "pass": 3
+   },
+   {
+    "quote": "Netfabb Reviews & Ratings 2026 | Gartner Peer Insights — Netfabb Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > netfabb",
+    "url": "https://www.gartner.com/reviews/product/netfabb",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk to acquire NetFabb - DEVELOP3D — Autodesk to acquire NetFabb - DEVELOP3D develop3d https://develop3d.com > autodesk-to-...",
+    "url": "https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "株式会社ミマキエンジニアリング",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   },
+   {
+    "quote": "【オートデスク正規代理店】製造向けAutodesk総合支援サービス - toDIMポータル｜応用技術株式会社",
+    "url": "https://todim.apptec.co.jp/solution/adskservice/",
+    "pass": 3
+   },
+   {
+    "quote": "【オートデスク正規代理店】製造向けAutodesk総合支援サービス",
+    "url": "https://todim.apptec.co.jp/solution/adskservice/",
+    "pass": 3
+   },
+   {
+    "quote": "応用技術株式会社は、『建築・土木・製造』業界とオートデスク製品を中核としたサービスを幅広く提供しており、お客様がソフトウェアを最大限ご活用いただけるよう『提案・開発・サービス・サポート』まで提供しています",
+    "url": "https://todim.apptec.co.jp/solution/adskservice/",
+    "pass": 3
+   },
+   {
+    "quote": "【オートデスク正規代理店】Autodesk Fusion支援サービス",
+    "url": "https://todim.apptec.co.jp/solution/adskservice/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Company / IR Site (Japanese)",
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "“Autodesk is excited to connect to, and enable PreForm with Netfabb,” said Duann Scott, business development and strategy at Autodesk. “Formlabs has been disruptive in democratizing professional 3D printing, just as Autodesk is working to provide professional additive manufacturing design software to every designer, engineer and researcher.”",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs and Autodesk in America Make’s Booth #2439 for demos with The Lanterman Group.",
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Free 30-Day Trial",
+    "url": "https://nexgensolutions.com/software/netfabb/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you looking to get a demo of Netfabb?",
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Netfabb - Free 30-Day Trial - NexGenSolutions",
+    "url": "https://nexgensolutions.com/software/netfabb/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free trial of Autodesk Netfabb.",
+    "url": "https://nexgensolutions.com/software/netfabb/free-trial/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Software Free Trial Form",
+    "url": "https://nexgensolutions.com/software/netfabb/free-trial/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dsi-mfg.com/software/netfabb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partners/programs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/netfabb/overview",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/autodesk-netfabb-simply-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.noon.com/uae-en/autodesk-netfabb-premium-1-device-for-1-year-digital-license-same-day-delivery/Z57D1895690E8A7E6F72FZ/p/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.autodesk.com/t5/netfabb-forum/need-more-features-but-can-t-afford-netfabb/td-p/8239978",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mimaki.com/news/product/entry-374722.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nexgensolutions.com/software/netfabb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/netfabb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/3m751c/autodesk_acquires_netfabb_free_3d_file_fixing_and/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.autodesk.com/support/partners/success-stories/autodesk-fusion-360-with-netfabb-premium/7495",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://todim.apptec.co.jp/solution/adskservice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/products/netfabb/overview",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/products/netfabb/features",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/support/technical/article/caas/tsarticles/tsarticles/JPN/ts/9Q2RwYYn5n4qnZxPGuB1W.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.3ds.co.jp/collections/fusion360",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/fusion-kakaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/netfabb/free-trial",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nexgensolutions.com/software/netfabb/free-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/products/netfabb/trial-intake",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/3DprintFIT/netfabb-basic-download",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netfabb-studio-basic.software.informer.com/4.8/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.autodesk.com/news-releases/news-release-details/autodesk-acquisition-expands-additive-manufacturing-software",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gartner.com/reviews/product/netfabb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/it/company/press/funding-from-nea-bringing-valuation-over-one-billion-Jeff-Immelt-to-board-of-directors/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Netfabb reseller partner program",
+   "results": [
+    "https://www.dsi-mfg.com/software/netfabb",
+    "https://www.autodesk.com/partners/programs",
+    "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "https://www.youtube.com/watch?v=a29M_R5vQGE",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://ultimaker.com/ja/learn/my-reintroduction-to-netfabb/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://www.autodesk.com/learn/ondemand/tutorial/introduction-to-netfabb",
+    "https://www.3ds.com/partners/locate-partner",
+    "https://www.netapp.com/partners/"
+   ]
+  },
+  {
+   "query": "Netfabb pricing license",
+   "results": [
+    "https://www.autodesk.com/products/netfabb/overview",
+    "https://all3dp.com/1/autodesk-netfabb-simply-explained/",
+    "https://elementskeys.com/software/design/autodesk/netfabb-premium-3-year-commercial-license?srsltid=AYCX9vJH3osXIjw_xb1tw3eGdSrcd6jUDEtE5wn2aMg-JKZlRwuvQonP",
+    "https://www.noon.com/uae-en/autodesk-netfabb-premium-1-device-for-1-year-digital-license-same-day-delivery/Z57D1895690E8A7E6F72FZ/p/",
+    "https://forums.autodesk.com/t5/netfabb-forum/need-more-features-but-can-t-afford-netfabb/td-p/8239978",
+    "https://novedge.com/products/buy-fusion-with-netfabb-ultimate-subscription?srsltid=AYCX9vIHAF9SazFqMauIlbApruSdUdI_tM-V8QRRYRpleTR6JsL-WixQ",
+    "https://www.youtube.com/watch?v=24qxFjxuUHQ",
+    "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "https://www.gartner.com/reviews/product/netfabb",
+    "https://www.autodesk.com/products/netfabb/buy"
+   ]
+  },
+  {
+   "query": "Netfabb Japan distributor",
+   "results": [
+    "https://mimaki.com/news/product/entry-374722.html",
+    "https://www.autodesk.com/products/netfabb/overview",
+    "https://formlabs.com/company/press/at-rapid-formlabs-presents-integration-with-autodesk-netfabb/",
+    "https://www.youtube.com/watch?v=a29M_R5vQGE",
+    "https://nexgensolutions.com/software/netfabb/",
+    "https://www.tpm.com/blog/autodesk-netfabb-the-complete-solution-for-3d-printing-preparation/",
+    "https://www.3dnatives.com/en/netfabb-software-241120205/",
+    "https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/",
+    "https://3dprint.com/83900/netfabb-support-structures/",
+    "https://shop.3ds.co.jp/products/netfabb_id-1"
+   ]
+  },
+  {
+   "query": "Autodesk Netfabb 代理店",
+   "results": [
+    "https://www.autodesk.com/products/netfabb/overview",
+    "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf",
+    "https://www.datadesign.co.jp/netfabb/",
+    "https://www.reddit.com/r/3Dprinting/comments/3m751c/autodesk_acquires_netfabb_free_3d_file_fixing_and/?tl=ja",
+    "https://www.autodesk.com/support/partners/success-stories/autodesk-fusion-360-with-netfabb-premium/7495",
+    "https://todim.apptec.co.jp/solution/adskservice/",
+    "https://idarts.co.jp/3dp/autodesk-netfabb/?srsltid=AYCX9vIIPBhm-dJXVLQ9au_umUpIKNIFAVBhOW5S3rxt6HfR2C4JB_Xq",
+    "https://metoree.com/companies/2934/distributors/",
+    "https://www.autodesk.com/jp/products/netfabb/compare-products",
+    "https://www.autodesk.com.cn/partners/locate-a-reseller"
+   ]
+  },
+  {
+   "query": "Autodesk Netfabb 価格",
+   "results": [
+    "https://www.autodesk.com/jp/products/netfabb/overview",
+    "https://www.autodesk.com/products/netfabb/overview",
+    "https://www.autodesk.com/jp/products/netfabb/features",
+    "https://www.autodesk.com/jp/support/technical/article/caas/tsarticles/tsarticles/JPN/ts/9Q2RwYYn5n4qnZxPGuB1W.html",
+    "https://shop.3ds.co.jp/collections/fusion360",
+    "https://cad-kenkyujo.com/fusion-kakaku/",
+    "https://www.autodesk.com/jp/products/netfabb/compare-products",
+    "https://idarts.co.jp/3dp/autodesk-netfabb/?srsltid=AYCX9vIZclYVtmEakTQwvPSPTZc3_jAWMeEYQxvdwFuYH9xDLfCywLIK",
+    "https://www.datadesign.co.jp/netfabb/",
+    "https://shop.3ds.co.jp/products/netfabb_id-1"
+   ]
+  },
+  {
+   "query": "Netfabb free trial",
+   "results": [
+    "https://www.autodesk.com/products/netfabb/free-trial",
+    "https://nexgensolutions.com/software/netfabb/free-trial/",
+    "https://www.autodesk.com/products/netfabb/trial-intake",
+    "https://github.com/3DprintFIT/netfabb-basic-download",
+    "https://www.youtube.com/watch?v=24qxFjxuUHQ",
+    "https://netfabb-studio-basic.software.informer.com/4.8/",
+    "https://www.youtube.com/watch?v=2QRvS9xdNzw",
+    "https://www.autodesk.com/products/netfabb/overview",
+    "https://bookstack.clarkson.edu/books/metallic-3d-printing-at-the-aidfab-in-the-mechanical-and-aerospace-engineering-department/page/download-and-install-autodesk-netfabb-AIe",
+    "https://help.autodesk.com/cloudhelp/2023/ENU/NETF-Install-Supplement/files/GUID-51FC035C-F8BF-48A3-A4A2-D074D7092F57.htm"
+   ]
+  },
+  {
+   "query": "Netfabb company founded employees funding",
+   "results": [
+    "https://www.linkedin.com/company/netfabb-gmbh",
+    "https://investors.autodesk.com/news-releases/news-release-details/autodesk-acquisition-expands-additive-manufacturing-software",
+    "https://www.gartner.com/reviews/product/netfabb",
+    "https://www.westcam-group.com/en/products/product-design/simulation-analysis/autodesk-netfabb/",
+    "https://www.tctmagazine.com/autodesk-acquires-netfabb-and-enters-strategic-partnership-fit/",
+    "https://develop3d.com/develop3d-blog/autodesk-to-acquire-netfabb-3D-printing-stl/",
+    "https://formlabs.com/it/company/press/funding-from-nea-bringing-valuation-over-one-billion-Jeff-Immelt-to-board-of-directors/",
+    "https://www.youtube.com/watch?v=GFMNGrOb-kk",
+    "https://leadmagic.io/funded-startups/11-to-50-employees",
+    "https://pitchbook.com/profiles/company/65912-23"
+   ]
+  }
+ ],
+ "missing": {}
+}

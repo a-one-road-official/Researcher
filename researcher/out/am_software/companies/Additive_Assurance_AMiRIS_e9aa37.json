@@ -1,0 +1,1377 @@
+{
+ "name": "Additive Assurance AMiRIS",
+ "en": "Additive Assurance",
+ "aliases": [
+  "AMiRIS",
+  "アディティブ・アシュアランス"
+ ],
+ "context": "造形中の監視・品質保証",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:32:22.528001+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "entered a domestic distributorship agreement with",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "challenges, including variations in build quality, difficulties in quality assurance processes,",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "of NTT DATA Engineering Systems (NDES). Dating back to 1993 as the pioneer distributor of EOS",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance provides solutions for quality assurance of components made with additive manufacturing. Specialising in metal powder bed fusion techniques (SLM, DLMS, SLS etc.) our patent-pending in-situ analysis method allows for the rapid detection of faults and variation in the AM process, allowing the user to take control of their AM builds.",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "commissioned a TRUMPF/Sisma Mysint 300 laser powder bed fusion system",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance, a provider of quality assurance solutions for metal powder bed fusion, has entered a distributorship agreement with",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, the adoption of metal 3D printers has expanded across the aerospace, automotive, and medical device fields, shifting from prototyping to mass production. However, mass production presents several challenges, including variations in build quality, difficulties in quality assurance processes, and Difficulties in securing traceability.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "In today's competitive manufacturing environment, ensuring product quality while reducing scrap, rework, and production delays is essential. Tolerance analysis helps engineers predict how variations in individual components can affect the quality and functionality of an assembled product.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "For Machine OEMs",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "QA as Product for OEMs",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why built-in quality assurance is becoming a purchasing criterion for L-PBF machines, and how OEMs can package it as a differentiator.",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace OEM Adopts Machine-Agnostic In-Situ QA to Accelerate Confidence in Metal AM Builds",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": ". Additive Assurance has developed a new method for quality assurance in high-value metal additive manufacturing able to detect, notify, and correct variations in the build process. Better known as AMiRIS, this independent in-situ process monitoring solution for laser powder bed fusion (LPBF) metal AM is based on technology originally developed",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "XAM was established in 2020 as a spin-off from NTT Data Engineering Systems, though the company traced its additive manufacturing lineage back to 1993, when it became Japan’s first distributor for EOS equipment.",
+    "url": "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded integration for OEMs adding real time",
+    "url": "https://additiveassurance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "M400-4, M400-1, AMCM M400 variants",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMiRIS Inside is a fully integrable sensor and software platform designed specifically for OEMs of L-PBF systems.",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "White label or co-branded",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM technical partnership",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形（L-PBF方式）におけるインプロセス品質保証プラットフォーム「AMiRIS」「AMiRIS-LF」およびOEM組み込み向け「AMiRIS Inside™」の開発・提供",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクとOEM統合の両輪展開",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assuranceは、金属積層造形の試作から認証量産への移行を進める製造企業やOEMを対象に、リアルタイム品質保証ソリューションを提供している",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "販売チャネルは、既存機に30〜45分で後付け可能なレトロフィット販売に加え、Additive Industries（MetalFABシリーズ）やNikon SLM Solutions（NXGプラットフォーム）とのOEM組み込み連携（AMiRIS Inside™）、さらに日本市場におけるNTT DATA XAM Technologiesとの総代理店契約締結など、有力な地域・装置パートナーを通じたグローバル展開を加速させている",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance provides solutions for quality assurance of components made with additive manufacturing. Specialising in metal powder bed fusion techniques (SLM, DLMS, SLS etc.) our patent-pending in-situ analysis method allows for the rapid detection of faults and variation in the AM process, allowing the user to take control of their AM builds.",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-on-the-growing-commercial-case-for-in-situ-quality-assurance-in-metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "We use machine learning analytics that combine the data stream into simple pass/fail criteria based on user-defined limits. Machine failures, laser scanning errors, geometric variations, coater interference, process variations, underfusion and overfusion are just a few of them. AMiRIS is easy to install, non-intrusive and can be applied on existing platforms without interrupting work.",
+    "url": "https://www.3dnatives.com/en/additive-assurance-part-quality-metal-3d-printing-290120244/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "First OEM Partnership",
+    "url": "https://additiveassurance.com/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding on our success with retrofit AMiRIS, we released our OEM integration kit to bring AMiRIS inside the machine.",
+    "url": "https://additiveassurance.com/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "The university is home to a range of world-leading facilities and technologies, giving it wide- ranging capabilities across many fields, sectors and industries. Monash works with a variety of industry, government and community groups, allowing its researchers to share their discoveries with the world.",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "The Monash Enterprise team, through Monash Innovation, protects Monash IP and commercialises technologies in various ways including spinouts such as Additive Assurance.",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "participated in live demonstrations in Panama City, Florida. Each company installed its",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "sensor technologies on industrial-scale metal 3D printers to demonstrate its capabilities",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "Assurance. “This program gave us the opportunity to demonstrate the power of our AMiRIS",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": ", with ‘invaluable assistance from Headland Technology’, a prominent supplier of advanced manufacturing technologies. This advanced metal additive manufacturing system will serve as a demonstration facility for quality assurance applications and further the company’s development capabilities.",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "A business case summary demonstrating the value and ROI of implementing AMiRIS monitoring in series production.",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "Real-world validation demonstrating AMiRIS defect detection accuracy compared to post-process CT scanning inspection results.",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo",
+    "url": "https://www.caplight.com/company/additiveassurance",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance Pty Ltd is scheduled to exhibit at the ASTM International Conference on Advanced Manufacturing, ICAM 2026, in Florida from Sep 28th to Oct 2nd '26, with AMiRIS demonstrations at booth K19.",
+    "url": "https://www.caplight.com/company/additiveassurance",
+    "pass": 3
+   },
+   {
+    "quote": "The platform has been deployed across multiple machines around the world, with adoption progressing from academic environments into contract manufacturing and prime-led applications.",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "a Demo",
+    "url": "https://additiveassurance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "a Demo",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gain a significant, demonstrable competitive advantage",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "Schedule a demo to see AMiRIS in action on your machines and discuss which solution fits your needs.",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "Snowbird demonstrates at-sea metal manufacturing during naval exercise",
+    "url": "https://www.machinery-market.co.uk/news/43558/Additive-Assurances-AMiRIS-impresses-in-CCAM-evaluation",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Origins within advanced academic programs investigating melt pool physics and real-time, data-driven in-situ monitoring for laser powder bed fusion.",
+    "url": "https://additiveassurance.com/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "Freedom of Speech and Academic Freedom",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Leads",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Freedom",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Board",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Academic structure",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Monash University is Australia’s largest and most international university. Its extensive educational offering, delivered across 10 faculties, includes undergraduate, postgraduate and research courses. Monash is also a research-intensive university, known for some significant and lasting discoveries that have delivered impact beyond the academic community.",
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "to launch its real-time quality assurance solution, AMiRIS, in the Japanese market.",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "challenges in the Japanese",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "in the Japanese metal",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "Leveraging XAM's Expertise for the Japanese Market",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "for Japanese manufacturers:",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "exceptional technical capabilities in the Japanese market,\" said Marten Jurg, CEO of Additive",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA XAM Technologies Corporation is a Japanese provider of comprehensive additive",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "systems in Japan, the company has long been a leader in the Japanese AM industry. XAM provides",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": ". (XAM) to launch its real-time quality assurance solution, AMiRIS, in the Japanese market. Through this agreement, Additive Assurance aims to resolve quality assurance and mass production challenges in the Japanese metal powder bed fusion market by leveraging XAM’s well established technical capabilities.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "To address these challenges, there is an increasing demand for technology that monitors the build status in real-time. Additive Assurance has partnered with XAM due to their specialised capabilities and track record in the Japanese metal additive manufacturing industry.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Leveraging XAM’s Expertise for the Japanese Market",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "XAM will provide comprehensive local services to ensure successful implementation and operations for Japanese manufacturers:",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are honoured to partner with NTT DATA XAM Technologies, a company with a rich track record and exceptional technical capabilities in the Japanese market,”",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "to launch its real-time quality assurance solution, AMiRIS, in the Japanese market.",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The Australian company, which develops quality assurance products for metal powder bed fusion, says it has selected XAM to bring its AMiRIS in-situ process monitoring solution to laser powder bed fusion (LPBF) users in Japan due to its \"rich track record and exceptional technical capabilities in the Japanese market.\"",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "In recent years, the adoption of metal 3D printers has expanded across the aerospace, automotive,",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "and medical device fields,",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "will support customers in utilising build data to establish a stable manufacturing",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "quality assurance solutions to customers in Japan and supporting their transition to stable,",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "advancing the reliability and adoption of the technology in key sectors like aerospace and",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "defense. Additive Assurance was selected from a competitive field of five finalists who",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "organizations including the Air Force Research Laboratory, Boeing, GE Aerospace, Lockheed",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "globally and has been serving production oriented customers for over a decade. Additive",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "customers.",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industries to add value to their customers’ experience and to push the boundaries of",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "offering cutting-edge technology that enable customers to industrialize and accelerate their",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "customer relationships while driving adoption of AMiRIS",
+    "url": "https://additiveassurance.com/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Industries is one of the major manufacturers of metal L-PBF machines globally and has been serving production oriented customers for over a decade. Additive Industries’ MetalFab printers offer class leading automation, scalability and capability. Their product portfolio has recently been updated with their newest machine; the",
+    "url": "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "As AM printers are increasing build rates and productivity, the requirement for in-process monitoring and quality assurance is becoming essential in many industries to ensure repeatability and generate high production yields. Additive Industries has identified the market gap and is leading the charge with offering this extended capability to their customers.",
+    "url": "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "DEFENSE",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "AEROSPACE",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "ENERGY",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SUPPORT",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "AUTOMOTIVE",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Together, Nikon SLM Solutions and Additive Assurance are taking a decisive step toward certifiable, serial AM production, enabling customers in aerospace, defense and energy to manufacture larger, more complex components with complete confidence.",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "for metal additive manufacturing, has recently introduced its AMiRIS-LF. The AMiRIS-LF is tailored for large format Laser Powder Bed Fusion (L-PBF) systems with platforms of 400mm or larger. This system brings the company’s unique process monitoring and QA solution to larger production systems, with a focus on aerospace, defense, and energy applications.",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "In support of its commitment to innovation and providing class-leading quality assurance to its customers, the company recently installed and",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER STORIES",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, the adoption of metal 3D printers has expanded across the aerospace, automotive, and medical device fields, shifting from prototyping to mass production. However, mass production presents several challenges, including variations in build quality, difficulties in quality assurance processes, and Difficulties in securing traceability.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "XAM and Additive Assurance will support customers in utilising build data to establish a stable manufacturing foundation and promote digital transformation (DX).",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "“Through this partnership, we look forward to delivering our innovative real-time quality assurance solutions to customers in Japan and supporting their transition to stable, high-quality mass production.”",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Optical Sensors Enable High-Precision Inline Inspection of Automotive Spot Welds",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Metrology News showcases new product introductions, technology, innovation, research, people, customer applications, industry trends and sector dynamics.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "team, an auditor, and a customer will all accept.",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Business Case",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "View Case Study →",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace OEM Adopts Machine-Agnostic In-Situ QA to Accelerate Confidence in Metal AM Builds",
+    "url": "https://additiveassurance.com/resources.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing, Smart Manufacturing, Quality Management, Sensors, Defense Tech",
+    "url": "https://www.caplight.com/company/additiveassurance",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Profile",
+    "url": "https://www.caplight.com/company/additiveassurance",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "What started off as a spin-out at Monash University in Melbourne in 2019 has become a startup that commercializes a novel in-situ monitoring tool for metal 3D printing to customers like",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Originating from research led by doctoral candidate Marten Jurg and materials engineer and Monash University Senior Lecturer Andrey Molotnikov, the machine learning-powered technology solves reproducibility and reliability issues and enables increased adoption of metal 3D printing across several industries, from energy to healthcare, indicates Additive Assurance.",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, the startup is working with leading global customers in the aerospace and advanced manufacturing industries to enable the use of 3D printed parts in serial production.",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://additiveassurance.com/resources/docs/AdditiveAssurance_AMiRIS-Overview.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://additiveassurance.com/resources/docs/AdditiveAssurance_AMiRIS-Overview.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://additiveassurance.com/resources/docs/AdditiveAssurance_AMiRIS-Overview.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年、航空宇宙、自動車、医療機器分野を中心に金属3Dプリンターの活用が拡大し、試作用途から量産適用への移行が進んでいます",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした特長から、「AMiRIS」は航空宇宙、防衛、医療、エネルギーなど、高い品質と信頼性が求められる分野において、量産化と品質安定化を支援するソリューションとして注目されています",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Eka Robotics Secures $150 Million to Advance Physical AI",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to new data released by the Association for Advancing Automation (A3). Orders increased 24.8% in units and 26.1% in value compared to the third quarter of 2025, making it the strongest quarter of the year so far.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance Closes AU$4.1M for 3D Printing Quality Control - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance Closes AU$4.1M for 3D Printing Quality Control",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "quality assurance startup, has now raised AU$4.1 million ($2.7 million) in early-stage venture capital funding to establish an additive manufacturing quality assurance center of excellence at its Melbourne, Australia headquarters, as well as expand the team internationally and support further growth initiatives. The round was led by Australian tech investor",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": ". With this latest funding round, Additive Assurance has raised AU$5.9 million ($4 million).",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルは、ハードウェアの提供と機械学習搭載解析ソフトウェアのサブスクリプション/ライセンス（業界メディアFabbalooの報道では初期月額約4,000〜5,000米ドル規模、オンプレミス・エアギャップ環境にも対応）を主軸とする",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects Raises $40 Million to Boost Industrial Additive Manufacturing",
+    "url": "https://www.3dnatives.com/en/additive-assurance-part-quality-metal-3d-printing-290120244/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs Launches Form Studio 1, a $699 Resin 3D Printer",
+    "url": "https://www.3dnatives.com/en/additive-assurance-part-quality-metal-3d-printing-290120244/",
+    "pass": 3
+   },
+   {
+    "quote": "$2.48M",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance has raised $4.31M.",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance raises $1.6M, announces partnership with Defence and appoints industry expert to Board – IP Group Australia",
+    "url": "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance raises $1.6M, announces partnership with Defence and appoints industry expert to Board",
+    "url": "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance, the provider of world-leading quality assurance solutions for additive manufacturing, announced that it closed a $1.6M funding round led by IP Group. This funding will support a significant expansion of Additive Assurance’s team, following on from an Accelerating Commercialisation project and a successful customer evaluation program with several leading manufacturers.",
+    "url": "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "pass": 3
+   },
+   {
+    "quote": "Monash 3D printing spin out Additive Assurance lands $4.1 million for global plans - Startup Daily",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "Monash 3D printing spin out Additive Assurance lands $4.1 million for global plans",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "A Melbourne startup tackling the tricky task of ensuring the quality of 3D printing for aerospace, defence and cutting edge manufacturing, has raised $4.1 million in VC funding.",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "Swinburne University spin out takes off with $1 million for aerospace materials",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "EV motor magnetics startup Kite Magnetics accelerates with $2m grant",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "3 Monash University health tech startups score $2.25 million in pre-Seed backing, supported by Breakthrough Victoria",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Kreon Technologies has introduced ANEMO, a new 3D laser scanner designed for its Onyx portable measuring arm. The scanner combines high-speed data acquisition with fine resolution and a stated accuracy of 12 µm, targeting the inspection of complex components with tight tolerances.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The development of artificial intelligence for industrial robotics has received a significant boost following the announcement that US-based Eka Robotics has raised $150 million in Series A funding to accelerate its development of general-purpose robots capable of performing complex physical tasks.",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement",
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance's most recent funding round was VC Round on December 7, 2022.",
+    "url": "https://www.caplight.com/company/additiveassurance",
+    "pass": 3
+   },
+   {
+    "quote": "quality assurance startup, has now raised AU$4.1 million ($2.7 million) in early-stage venture capital funding to establish an additive manufacturing quality assurance center of excellence at its Melbourne, Australia headquarters, as well as expand the team internationally and support further growth initiatives. The round was led by Australian tech investor",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": ". With this latest funding round, Additive Assurance has raised AU$5.9 million ($4 million).",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "What started off as a spin-out at Monash University in Melbourne in 2019 has become a startup that commercializes a novel in-situ monitoring tool for metal 3D printing to customers like",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, the startup is working with leading global customers in the aerospace and advanced manufacturing industries to enable the use of 3D printed parts in serial production.",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Jurg, who is also the CEO of the company, anticipated in a series of posts on social media that Additive Assurance has “big plans for 2023” and encouraged machine learning specialists, software engineers, and others to apply to several of the opportunities currently available at the company’s Australian headquarters.",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing funding",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "XAM, which has been distributing EOS machines in Japan since 1993, is set to handle product sales, implementation support, and technical maintenance, and will link AMiRIS with its existing metal 3D printers, including EOS and AMCM systems. Together, the partners also plan to support customers in utilising build data to establish a stable manufacturing foundation and promote digital transformation.",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "M270, M280, M290 series",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "AM250, AM400, RENAM 500 series",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProX DMP320, DMP350 series",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "M2 Series 4+/5",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "MetalFAB 1, G2, 300Flex, 420K series",
+    "url": "https://additiveassurance.com/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる3Dモデル生成技術を開発するTripo AIは2026年9月1日、シリーズBおよびシリーズB+の資金調達ラウンドで、総額約30億元（2026年9月…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はオーストラリアの名門モナッシュ大学（Monash University）材料科学工学部における研究成果を基盤に、2019年にスピンアウト設立された",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "Slamcoreは、2016年にインペリアル・カレッジ・ロンドン発で設立された英国ロンドン本拠の空間知能（Spatial Intelligence）および...",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "STORM Therapeuticsは、英国ケンブリッジ大学ガードン研究所のスピンアウトとして2015年に設立された臨床段階のバイオテクノロジー企業です",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "AirForestry（エアフォレストリー）は、2020年に設立されたスウェーデン・ウプサラ本拠のディープテック企業である",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance was founded in 2018.",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance has 11 total employees.",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance, the provider of world-leading quality assurance solutions for additive manufacturing, announced that it closed a $1.6M funding round led by IP Group. This funding will support a significant expansion of Additive Assurance’s team, following on from an Accelerating Commercialisation project and a successful customer evaluation program with several leading manufacturers.",
+    "url": "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "pass": 3
+   },
+   {
+    "quote": "A Melbourne startup tackling the tricky task of ensuring the quality of 3D printing for aerospace, defence and cutting edge manufacturing, has raised $4.1 million in VC funding.",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "The company already works with leading global customers in the aerospace and advanced manufacturing industries to enable the use of 3D-printed parts in serial production.",
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Additive Assurance Closes AU$4.1M for 3D Printing Quality ... — Additive Assurance Closes AU$4.1M for 3D Printing Quality ... 3DPrint.com https://3dprint.com > additive-assuran...",
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance takes metal 3D printing ... - TCT Magazine — Additive Assurance takes metal 3D printing ... - TCT Magazine TCT Magazine https://www.tctmagazine.com > additi...",
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance 社のDavid Menzies氏へのインタビュー — Additive Assurance 社のDavid Menzies氏へのインタビュー 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%B9%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance | In-Situ Quality Assurance for Metal 3D ... — Additive Assurance | In-Situ Quality Assurance for Metal 3D ... Additive Assurance https://www.additiveassurance.com",
+    "url": "https://www.additiveassurance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance 2026 Company Profile - PitchBook — Additive Assurance 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance raises $1.6M, announces partnership with ... — Additive Assurance raises $1.6M, announces partnership with ... IP Group Australia https://www.ipgroupanz.com > news",
+    "url": "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "Additive Assurance社と国内販売代理店契約を締結 | 株式会社NTTデータ ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   },
+   {
+    "quote": "2026.06.03 Additive Assurance社と国内販売代理店契約を締結",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance社と国内販売代理店契約を締結",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータ ザムテクノロジーズ（本社：東京都、以下 当社）は、金属粉末積層造形向け品質保証ソフトウェアを提供するAdditive Assurance社（本社：オーストラリア）のリアルタイム品質保証ソリューション「AMiRIS」の",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   },
+   {
+    "quote": "、日本国内における販売代理店契約を締結しており、",
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA XAM、Additive Assuranceと国内販売代理店契約を締結 | e.x.press",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/",
+    "pass": 3
+   },
+   {
+    "quote": "> NTT DATA XAM、Additive Assuranceと国内販売代理店契約を締結",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA XAM、Additive Assuranceと国内販売代理店契約を締結",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/",
+    "pass": 3
+   },
+   {
+    "quote": "--株式会社NTTデータ ザムテクノロジーズ（NTT DATA XAM Technologies Corp. (XAM)）は、金属粉末積層造形向け品質保証ソフトウェアを提供するAdditive Assurance社（本社：オーストラリア）のリアルタイム品質保証ソリューション「AMiRIS」の日本国内における販売を、2026年6月3日より開始した",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/",
+    "pass": 3
+   },
+   {
+    "quote": "XAMは2026年1月7日にAdditive Assurance社と、日本国内における販売代理店契約を締結しており、本契約に基づき、「AMiRIS」の提供を通じて、金属粉末積層造形の量産適用における品質保証の課題解決を支援する",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "pass": 3
+   },
+   {
+    "quote": "販売チャネルは、既存機に30〜45分で後付け可能なレトロフィット販売に加え、Additive Industries（MetalFABシリーズ）やNikon SLM Solutions（NXGプラットフォーム）とのOEM組み込み連携（AMiRIS Inside™）、さらに日本市場におけるNTT DATA XAM Technologiesとの総代理店契約締結など、有力な地域・装置パートナーを通じたグローバル展開を加速させている",
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://additiveassurance.com/press.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/resources.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caplight.com/company/additiveassurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monash.edu/monash-innovation/impact/spinouts/additive-assurance",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/resources/docs/AdditiveAssurance_AMiRIS-Overview.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/news/info/article_8906/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/press.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/77985/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/additive-assurance%E3%81%8C%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%90%91%E3%81%91amiris%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AB%E5%B0%8E%E5%85%A5/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/industry-2/additive-assurance-brings-amiris-metal-3d-printing-to-japan-50162195/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.firstcvc.jp/global/additiveassurance.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%B9%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%A1/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raleys.com/product/10028944",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mscdirect.com/product/details/63300263?item=63300263",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-on-the-growing-commercial-case-for-in-situ-quality-assurance-in-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/additive-assurance-part-quality-metal-3d-printing-290120244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/research_development.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://poc.actuate.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machinery-market.co.uk/news/43558/Additive-Assurances-AMiRIS-impresses-in-CCAM-evaluation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433087-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveassurance.com/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Additive Assurance reseller partner program",
+   "results": [
+    "https://www.additiveassurance.com/press.html",
+    "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "https://au.linkedin.com/company/additive-assurance",
+    "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "https://www.3dnatives.com/en/additive-assurance-part-quality-metal-3d-printing-290120244/",
+    "https://amcoe.org/about/our-partners/",
+    "https://www.monash.edu/monash-innovation/impact/annual-reports/additive-assurance",
+    "https://www.helioadditive.com/partners/reseller-partner-program"
+   ]
+  },
+  {
+   "query": "Additive Assurance pricing license",
+   "results": [
+    "https://additiveassurance.com/resources.html",
+    "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "https://www.caplight.com/company/additiveassurance",
+    "https://www.monash.edu/monash-innovation/impact/spinouts/additive-assurance",
+    "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "https://au.linkedin.com/company/additive-assurance",
+    "https://www.additiveassurance.com/resources/docs/AdditiveAssurance_AMiRIS-Overview.pdf",
+    "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-on-the-growing-commercial-case-for-in-situ-quality-assurance-in-metal-am/",
+    "https://www.additiveassurance.com/"
+   ]
+  },
+  {
+   "query": "Additive Assurance Japan distributor",
+   "results": [
+    "https://www.additiveassurance.com/press.html",
+    "https://www.nttdata-xam.com/news/info/article_8906/",
+    "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan/",
+    "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "https://au.linkedin.com/company/additive-assurance",
+    "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "https://www.additiveassurance.com/",
+    "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "https://additiveassurance.com/press.html"
+   ]
+  },
+  {
+   "query": "Additive Assurance AMiRIS 代理店",
+   "results": [
+    "https://www.nttdata-xam.com/news/info/article_8906/",
+    "https://www.additiveassurance.com/press.html",
+    "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-and-additive-assurance-partner-to-integrate-amiris-inside-for-enhanced-in-process-quality-assurance/",
+    "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "https://au.linkedin.com/company/additive-assurance",
+    "https://www.additiveassurance.com/",
+    "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "https://additiveassurance.com/product.html"
+   ]
+  },
+  {
+   "query": "Additive Assurance AMiRIS 価格",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/additive-industries-additive-assurance-240904/",
+    "https://en.firstcvc.jp/global/additiveassurance.com",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%B9%E7%A4%BE%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%A1/",
+    "https://www.raleys.com/product/10028944",
+    "https://www.mscdirect.com/product/63300263",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%9A%E3%83%BC%E3%82%B8/10/?/ilz78win01/",
+    "https://www.lcsc.com/product-detail/C124408.html?currency=JPY",
+    "https://15th-rock.com/%E7%94%A3%E6%A5%AD%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%80%8C%E8%87%AA%E5%8B%95%E4%BB%95%E4%B8%8A%E3%81%92%E6%A9%9F%E5%99%A8%E3%80%8D%E3%82%92%E8%A3%BD%E9%80%A0%E3%83%BB/",
+    "https://www.mt.com/jp/ja/home/service/warranty/product-inspection-warranty.html",
+    "https://additiveassurance.com/product.html"
+   ]
+  },
+  {
+   "query": "Additive Assurance free trial",
+   "results": [
+    "https://www.additiveassurance.com/",
+    "https://nikon-slm-solutions.com/newsroom/nikon-slm-solutions-on-the-growing-commercial-case-for-in-situ-quality-assurance-in-metal-am/",
+    "https://au.linkedin.com/company/additive-assurance",
+    "https://www.additiveindustries.com/additive-industries-additive-assurance/",
+    "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "https://www.monash.edu/monash-innovation/impact/spinouts/additive-assurance",
+    "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "https://www.additiveassurance.com/resources/docs/AdditiveAssurance_AMiRIS-Overview.pdf",
+    "https://www.3dnatives.com/en/additive-assurance-part-quality-metal-3d-printing-290120244/",
+    "https://www.additiveassurance.com/research_development.html"
+   ]
+  },
+  {
+   "query": "Additive Assurance company founded employees funding",
+   "results": [
+    "https://pitchbook.com/profiles/company/433087-84",
+    "https://www.caplight.com/company/additiveassurance",
+    "https://3dprint.com/296069/additive-assurance-closes-au4-1m-for-3d-printing-quality-control/",
+    "https://www.ipgroupanz.com/news/2020/2020-07-30",
+    "https://www.additiveassurance.com/about.html",
+    "https://au.linkedin.com/company/additive-assurance",
+    "https://www.voxelmatters.com/additive-assurance-introduces-amiris-lf-for-lfam-process-monitoring/",
+    "https://www.monash.edu/news/articles/additive-assurance-unlocks-the-next-generation-of-metal-3d-printing",
+    "https://www.startupdaily.net/topic/funding/monash-3d-printing-spin-out-additive-assurance-lands-4-1-million-for-global-plans/",
+    "https://tracxn.com/d/companies/additiveassurance/__ObQkMqaQMv6HK47CqsXDIWUPtLuSVueQOA9E9WDqZuY"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,647 @@
+{
+ "name": "Siemens NX Additive Manufacturing",
+ "en": "Siemens NX Additive Manufacturing",
+ "aliases": [
+  "NX AM",
+  "シーメンス NX"
+ ],
+ "context": "造形の準備から生産までの一貫ソフト",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:43:13.898208+00:00",
+ "evidence": {
+  "顧客・用途": [
+   {
+    "quote": "Case study",
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-machine-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to making AM efficiency and profitability better, this integrated reseller agreement will give customers connectivity to upstream design and downstream production processes, and give them access to build preparation and optimization as well.",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "“Point solutions introduce time-consuming, error-prone inefficiencies into the AM workflow. Customers often have to interrupt their process to convert data for different software environments. And the problems with this approach are compounded with every change that’s required,” Frankel explained.",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "With the ability to leverage all of these combined capabilities, EOS says that its customers can rest easy with the knowledge that their 3D printed parts have been created “to best accomplish their goals of first-time-right printing.”",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Digital Industries Software will train the EOS Additive Minds technical consulting team on how to use the NX AM and AM Build Optimizer software as part of the reseller agreement, and Additive Minds will teach EOS customers how to use Siemens’ AM software solutions. In addition, the companies have already agreed upon a framework that will offer comprehensive technical support.",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "automotive",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "medical",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace and defense",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "energy, oil and gas",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "customer",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "energy efficiency",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy and power systems",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Maximum flexibility and energy efficiency with Smart Lab Ecosystem",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Maximize energy efficiency with data-driven decisions",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "AMbitious powered by toolcraft provides practical advice for real-world use. toolcraft has manufactured 3D-printed parts since 2011 and has expertise across the entire process. It works closely with customers to understand their goals and requirements, helping develop strategies to stay competitive.",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Transportation",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Utilities",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices & Pharmaceuticals",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Transformation Podcast",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "On the Move: A Siemens Automotive Podcast",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Talking Aerospace Today Podcast",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine builders and equipment manufacturers face mounting pressure from multiple directions: a widening workforce skills gap threatens operational continuity, customers...",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-design/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー事例",
+    "url": "https://www.siemens.com/ja-jp/products/nx-manufacturing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies collaborate to help auto and industrial customers create high-quality 3D printed parts faster; enabling unique product designs, new applications, and digital factories",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“We are proud to partner with Siemens to make high-performance parts, personalized products, and serialized 3D production a reality for our customers,”",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“HP and Siemens share the vision that digital manufacturing systems are catalysts for change – expanded software, data, services, and industrial production solutions that lead to new manufacturing capabilities, innovative applications, and breakthrough business results for our customers.”",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The cooperation is coupled with the new Siemens Polymer Competency Center, which will be the focal point for the two companies to work jointly with automotive and industrial customers to create unique product designs, bring 3D printed parts to market faster, and set up digital factory environments that unleash the full potential of additive manufacturing.",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "HP, Siemens, and their customers will initially explore exciting new applications in areas such as personalization, fluid dynamics optimization, and energy absorption, to name a few.",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to making AM efficiency and profitability better, this integrated reseller agreement will give customers connectivity to upstream design and downstream production processes, and give them access to build preparation and optimization as well.",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "This extended agreement makes it possible for EOS North America to resell products in Siemens’ industrialized AM solution as part of its",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "The integration of NX AM software with EOS’ job and process management software EOSPRINT 2 enables users to generate EOS build files directly in NX, defining material, exposure sets, and beam offset values, among other variables.",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Digital Industries Software will train the EOS Additive Minds technical consulting team on how to use the NX AM and AM Build Optimizer software as part of the reseller agreement, and Additive Minds will teach EOS customers how to use Siemens’ AM software solutions. In addition, the companies have already agreed upon a framework that will offer comprehensive technical support.",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "reseller agreement",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "distributors",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "installation commissioning",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "virtual commissioning",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "and use the NX AM Fixed-Plane tools for build tray setup, basic support geometry (block, line and point) creation, and the build processor framework, which supports build processors for various types of additive manufacturing equipment.",
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/offerings/nx-x-manufacturing-value-based-licensing/",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Meyers is a senior digital content marketing specialist for the industrial machinery industry at Siemens Digital Industries Software. He creates content about digital solutions that help machine builders, OEMs, component manufacturers and machine shops become more efficient, profitable, sustainable and more.",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.",
+    "url": "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing is a complex process with many variables. It can lead to companies struggling with generating quality, repeatable output from the 3D printing process. Our NX products address these challenges and provide solutions to help you make high-quality first-article prints.",
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-simulation/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "HP Amplify Partner Program",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "With the ability to leverage all of these combined capabilities, EOS says that its customers can rest easy with the knowledge that their 3D printed parts have been created “to best accomplish their goals of first-time-right printing.”",
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "AMbitious powered by toolcraft provides practical advice for real-world use. toolcraft has manufactured 3D-printed parts since 2011 and has expertise across the entire process. It works closely with customers to understand their goals and requirements, helping develop strategies to stay competitive.",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "HP’s new Jet Fusion 5200 Series industrial 3D printing system integrated with Siemens’ Digital Enterprise offering, combination of Digital Twins for product, production, and performance with MindSphere to enable mid-volume serial plastic parts production",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Companies collaborate to help auto and industrial customers create high-quality 3D printed parts faster; enabling unique product designs, new applications, and digital factories",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "HP’s new Jet Fusion 5200 Series 3D printing solution",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“We are proud to partner with Siemens to make high-performance parts, personalized products, and serialized 3D production a reality for our customers,”",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The cooperation is coupled with the new Siemens Polymer Competency Center, which will be the focal point for the two companies to work jointly with automotive and industrial customers to create unique product designs, bring 3D printed parts to market faster, and set up digital factory environments that unleash the full potential of additive manufacturing.",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "demo material",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Link",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, the Democratic Republic of the",
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Academic and Future Workforce",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "With integrated solutions, robust simulations and efficient workflows, Siemens NX AM demonstrates the potential for significant improvements in additive manufacturing.",
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens expands Additive Manufacturing Experience Center with new Polymer Competency Center to develop and demonstrate new applications suitable for industrial-scale 3D printing",
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-machine-connectivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/siemens-and-materialise-integrate-additive-manufacturing-technology-into-nx-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/offerings/nx-x-manufacturing-value-based-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/915355503/2024-Nx-Pricebook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/cad/comments/23advz/siemens_nx_cost/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://community.sw.siemens.com/s/question/0D5Vb000007gJOwKAM/cost-of-license",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/video-introduction-to-additive-hybrid-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saratech.com/nx-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens-energy.com/global/en/home/products-services/service/additive-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-simulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2623",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/industries/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://distymap.com/zh/manufacturers/siemens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/products/nx-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://optitech.vn/ja/2024-2025%e5%b9%b4%e3%81%ae%e6%ad%a3%e8%a6%8fnx%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%ae%e4%be%a1%e6%a0%bc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/cad/comments/23advz/siemens_nx_cost/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/products/nx-manufacturing/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alternatives.co/software/siemens-nx/pricing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/cad-cam-software/trials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/designcenter/try-our-nx-trials-on-the-cloud-for-free/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mayahtt.com/free-trials/nx-for-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/start-your-free-nx-cam-cloud-trial-in-just-minutes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swooshtech.com/siemens-nx-cam-30-day-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/financial-services/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrichlayer.com/company/siemens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/news/siemens-expands-us-additive-manufacturing-research-development-initiatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/nx-manufacturing/video-precision-machining-with-siemens-nx-cam-software/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Siemens NX Additive Manufacturing reseller partner program",
+   "results": [
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-machine-connectivity/",
+    "https://blogs.sw.siemens.com/nx-manufacturing/siemens-and-materialise-integrate-additive-manufacturing-technology-into-nx-software/",
+    "https://www.youtube.com/watch?v=qigb1uqCLug",
+    "https://3dprint.com/279409/eos-siemens-expand-partnership-through-3d-printing-software-integration-and-reseller-agreement/",
+    "https://www.siemens.com/en-us/products/ambitious-technology-consulting-for-am/",
+    "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "https://www.digitalengineering247.com/article/siemens-hp-partner-enhance-3d-printing-capabilities",
+    "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "https://www.siemens.com/en-us/partners/software/join-partner-program/"
+   ]
+  },
+  {
+   "query": "Siemens NX Additive Manufacturing pricing license",
+   "results": [
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/offerings/nx-x-manufacturing-value-based-licensing/",
+    "https://www.scribd.com/document/915355503/2024-Nx-Pricebook",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/",
+    "https://www.reddit.com/r/cad/comments/23advz/siemens_nx_cost/",
+    "https://community.sw.siemens.com/s/question/0D5Vb000007gJOwKAM/cost-of-license",
+    "https://industrialmonitordirect.com/blogs/knowledgebase/siemens-nx-pricing-reference-3-axis-to-5-axis-cam-costs?srsltid=AYCX9vL7SSxpbtrYqr5zimCG_QzO8vWZ9XcqdZaNp0MWypGMOmrJS78D",
+    "https://www.360quadrants.com/software/3d-rendering-software/siemens-ag",
+    "https://www.quora.com/Can-anyone-help-me-about-Siemens-NX-software-pricing-in-India-for-the-solid-modeling-and-manufacturing-modules-Also-is-student-version-available",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/offerings/buyers-guide/"
+   ]
+  },
+  {
+   "query": "Siemens NX Additive Manufacturing Japan distributor",
+   "results": [
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://blogs.sw.siemens.com/nx-manufacturing/video-introduction-to-additive-hybrid-manufacturing/",
+    "https://www.youtube.com/watch?v=qigb1uqCLug",
+    "https://blogs.sw.siemens.com/industrial-machinery/2024/10/01/streamline-additive-manufacturing-process-with-end-to-end-workflow/",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-machine-connectivity/",
+    "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "https://saratech.com/nx-for-additive-manufacturing/",
+    "https://www.siemens-energy.com/global/en/home/products-services/service/additive-manufacturing.html",
+    "https://www.youtube.com/watch?v=U0JhO78eSD0"
+   ]
+  },
+  {
+   "query": "Siemens NX Additive Manufacturing 代理店",
+   "results": [
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-simulation/",
+    "https://www.youtube.com/watch?v=qigb1uqCLug",
+    "https://blogs.sw.siemens.com/nx-manufacturing/siemens-and-materialise-integrate-additive-manufacturing-technology-into-nx-software/",
+    "https://www.engineering.com/siemens-nx-expands-toolset-including-additive-manufacturing-tools/",
+    "https://saratech.com/nx-for-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=U0JhO78eSD0",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-design/",
+    "https://www.youtube.com/watch?v=zQ3snPxqyt8",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2623"
+   ]
+  },
+  {
+   "query": "Siemens NX Additive Manufacturing 価格",
+   "results": [
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://www.siemens.com/ja-jp/products/nx-manufacturing/",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-build-simulation/",
+    "https://optitech.vn/ja/gia-phan-mem-nx-chinh-hang-2024-2025.html",
+    "https://www.reddit.com/r/cad/comments/23advz/siemens_nx_cost/?tl=ja",
+    "https://www.siemens.com/ja-jp/products/nx-manufacturing/additive-manufacturing/",
+    "https://alternatives.co/software/siemens-nx/pricing/",
+    "https://www.scribd.com/document/915355503/2024-Nx-Pricebook",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/am-design/",
+    "https://cad-kenkyujo.com/nx-cad-kakaku/"
+   ]
+  },
+  {
+   "query": "Siemens NX Additive Manufacturing free trial",
+   "results": [
+    "https://www.siemens.com/en-us/products/cad-cam-software/trials/",
+    "https://blogs.sw.siemens.com/designcenter/try-our-nx-trials-on-the-cloud-for-free/",
+    "https://www.mayahtt.com/free-trials/nx-for-manufacturing/",
+    "https://blogs.sw.siemens.com/nx-manufacturing/start-your-free-nx-cam-cloud-trial-in-just-minutes/",
+    "https://www.swooshtech.com/siemens-nx-cam-30-day-trial/",
+    "https://www.siemens.com/en-us/solutions/additive-manufacturing/",
+    "https://all3dp.com/1/siemens-nx-free-download-full-version/",
+    "https://www.janus-engineering.com/en_en/services/free-trial/",
+    "https://trials.sw.siemens.com/en-US/trials/additive-manufacturing-tooling-industry",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "Siemens NX Additive Manufacturing company founded employees funding",
+   "results": [
+    "https://www.siemens.com/en-us/products/financial-services/additive-manufacturing/",
+    "https://blogs.sw.siemens.com/nx-manufacturing/siemens-and-materialise-integrate-additive-manufacturing-technology-into-nx-software/",
+    "https://www.siemens.com/en-us/products/nx-manufacturing/additive-manufacturing/",
+    "https://investor.hp.com/news-events/news/news-details/2019/HP-and-Siemens-Deepen-Additive-Manufacturing-Alliance-to-Advance-Digital-Manufacturing/default.aspx",
+    "https://enrichlayer.com/company/siemens",
+    "https://www.additivemanufacturing.media/news/siemens-expands-us-additive-manufacturing-research-development-initiatives",
+    "https://www.facebook.com/siemensusa/videos/siemens-has-been-named-one-of-the-worlds-most-innovative-companies-for-applying-/2069483500286141/",
+    "https://blogs.sw.siemens.com/nx-manufacturing/video-precision-machining-with-siemens-nx-cam-software/",
+    "https://data.landbase.com/technology/siemens-nx/",
+    "https://tracxn.com/d/companies/siemens/__lsgNhPkGyNXFwnTj8QpY9tPF_kiIWApp5nGBQ9B8QnI"
+   ]
+  }
+ ],
+ "missing": {
+  "日本の代理店": "記載なし（読んだ35頁・検索7回）",
+  "料金": "記載なし（読んだ35頁・検索7回）",
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}

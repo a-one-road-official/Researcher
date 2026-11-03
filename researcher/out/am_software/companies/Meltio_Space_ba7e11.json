@@ -1,0 +1,1486 @@
+{
+ "name": "Meltio Space",
+ "en": "Meltio Space",
+ "aliases": [
+  "Meltio",
+  "メルティオ"
+ ],
+ "context": "造形の準備（DED・ロボットアーム）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:43:48.080491+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "The additive software module must be requested from the software reseller, as the machining modules alone are not sufficient to support the Meltio process.",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple slicing options including variable deposition to address a wide variety of geometries with very fast calculation of complex toolpaths.",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced variable deposition strategies",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacture directly on top of flanges different curved pipes and manifolds without the need to depend on standard curvature radii to fit properly your design. Admits also has pipes and manifolds with variable diameters along the part.",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller or integrator",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "This new software ecosystem offers tools to address a variety of applications and industries through advanced slicing features, such as fixed tool orientation, revolved surfaces, features on non-planar surfaces, simple surface coating, radial cladding, 360° features, variable layer deposition, controlled area repair, and non-controlled area repair.",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "In any case, the Additive part of the software needs to be requested by the software reseller as the machining modules are not enough to support the Meltio process.",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "The additive software module must be requested from the software reseller, as the machining modules alone are not sufficient to support the Meltio process.",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller or integrator",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "This new software ecosystem offers tools to address a variety of applications and industries through advanced slicing features, such as fixed tool orientation, revolved surfaces, features on non-planar surfaces, simple surface coating, radial cladding, 360° features, variable layer deposition, controlled area repair, and non-controlled area repair.",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", Meltio Space incorporates a user-friendly interface for planar, non-planar, and variable extrusion toolpaths. 2-axis workpiece positioner interpolation, kinematics simulation, collisions check, and cell configuration are also included with the platform.",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "easy-to-use interface for planar, non-planar, and variable extrusion toolpaths",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "with an easy-to-use interface for planar, non-planar, and variable extrusion toolpaths. It also includes 2-axis workpiece positioner interpolation, kinematics simulation, collisions check, and cell configuration.",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "This toolpath generator software for the Meltio Engine Robot Integration offers an easy-to-use interface for planar, nonplanar, and variable extrusion toolpaths. It also includes 2-axis workpiece positioner interpolation, kinematics simulation, collisions check and cell configuration.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space is a toolpath generator for Meltio Engine Robot Integration with a user-friendly interface for planar, non-planar, and variable extrusion toolpaths.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "for planar, non-planar, and variable-extrusion toolpaths, said Meltio. The robot slicer also includes two-axis workpiece positioner interpolation, kinematics simulation, collision checking, and cell configuration.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "The company also offers existing customers to access Meltio Space free of charge for the first year if it is associated with the purchase of training through a sales channel or reseller.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space is a state-of-the-art toolpath generator software for the Meltio Engine Robot Integration with an easy-to-use interface for planar, non-planar, and Meltio’s tech adapted variable extrusion calculation for the ABB, Kuka, Fanuc, Yaskawa and Siemens robots.",
+    "url": "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple slicing options including variable deposition to address a wide variety of geometries with very fast calculation of complex toolpaths",
+    "url": "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Variable Deposition Strategies",
+    "url": "https://hdc3d.com/meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Admits also has pipes and manifolds with variable diameters along the part.",
+    "url": "https://hdc3d.com/meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple slicing options including variable deposition to address a wide variety of geometries with very fast calculation of complex toolpaths.",
+    "url": "https://hdc3d.com/meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space is a toolpath generator software for the Meltio Engine Robot Integration with an easy-to-use interface for planar, non-planar and variable extrusion toolpaths",
+    "url": "https://industryemea.com/news/71388-meltio-revolutionizes-the-ability-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-its-ultimate-meltio-space-software,-which-enables-highly-accurate-and-reliable-designs",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space is a toolpath generator software for the Meltio Engine Robot Integration with an easy-to-use interface for planar, non-planar, and variable extrusion toolpaths. It also includes 2-axis workpiece positioner interpolation, kinematics simulation, collisions check, and cell configuration.",
+    "url": "https://industryemea.com/news/71388-meltio-revolutionizes-the-ability-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-its-ultimate-meltio-space-software,-which-enables-highly-accurate-and-reliable-designs",
+    "pass": 3
+   },
+   {
+    "quote": "Authorized sales partners (Resellers)",
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Alliances",
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller or integrator",
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space is a slicing software for Meltio Engine Robot Laser Integration kit, featuring an intuitive interface for planar, non-planar, and variable extrusion toolpaths, compatible with leading industrial robot brands.",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "This ecosystem enables advanced slicing features like fixed tool orientation, radial cladding, variable layer deposition, and more, providing tools for diverse industrial applications.",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "The additive software module must be requested from the software reseller, as the machining modules alone are not sufficient to support the Meltio process.",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "To program Hybrid CNC systems, you must acquire the Additive Manufacturing Module from your CAM reseller. Standard machining modules are not sufficient to control the laser and wire functions. Meltio provides the specific Post-Processors and M-Code libraries.",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether it's for lab research purposes or functional part replacement, the Meltio M600 ensures size and material are not prominent limiting factors to accessing a wide variety of industrial applications.",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "This particular process offers faster build rates than powder bed fusion, produces fully dense parts within hours, and is ideal for repairing high-end components. It's versatile and works with various metals like stainless steel and titanium so you can skip the production of green parts and go straight into manufacturing the real deal.",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "To learn about available discounts, training, and maintenance options, please use the form below and a MatterHackers Expert will contact you within one business day. Alternatively, you can always feel free to give us a call",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/meltio-space-download/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/meltio-space-download/",
+    "pass": 3
+   },
+   {
+    "quote": "with an easy-to-use interface for planar, non-planar, and variable extrusion toolpaths. It also includes 2-axis workpiece positioner interpolation, kinematics simulation, collision checks, and cell configuration.",
+    "url": "https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AMT3D has been recognised with the Above and Beyond EMEA Award at the BLT Global Distributor Summit in China. This achievement highlights AMT3D’s commitment to advancing industrial additive manufacturing through engineering expertise, technology",
+    "url": "https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AMT3D has partnered with SWICE as an official reseller of its precision wire cutting technology across Sub-Saharan Africa. Discover how SWICE combines precision, ease of operation and competitive pricing-and see the technology operating",
+    "url": "https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover company news, insights, case studies, testimonials, and announcements from a variety of organizations.",
+    "url": "https://www.engineering.com/meltio-space-helps-robots-manufacture-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space is a new innovation to increase the reliability of metal part manufacturing. It is a toolpath generator software for the Meltio Engine Robot Integration with an easy-to-use interface for planar, non-planar, and variable extrusion toolpaths. It also includes 2-axis workpiece positioner interpolation, kinematics simulation, collisions check, and cell configuration.",
+    "url": "https://www.engineering.com/meltio-space-helps-robots-manufacture-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The Meltio Space software sales model is an annual subscription. The software will be free for the first year with each sale of the Engine. The company offers existing customers access to Meltio Space free of charge for the first year if it is associated with the purchase of training through a sales channel or reseller.",
+    "url": "https://www.engineering.com/meltio-space-helps-robots-manufacture-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "* to get your software activation key, the only requirement is to contract the associated product training.(2,000€) through your reseller.",
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.",
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "pass": 3
+   },
+   {
+    "quote": "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+    "url": "https://meltio3d.com/meltio-consolidates-its-position-as-the-metal-am-industrys-trusted-partner/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Defense",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Trading / Customer Service",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "– to ensure a set of guaranteed and reliable software solutions for the customer to identify the best software solutions for",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "the role of the integrator is crucial to provide the end customer with a complete solution",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Trading / Customer Service",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "– to ensure a set of guaranteed and reliable software solutions for the customer to identify the best software solutions for Meltio’s Engine CNC Integration and Engine Robot Integration.",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "“Meltio Space makes it possible to design very reliable parts as quickly as possible and with a wider range of possibilities for our industrial customers. And this is thanks to a very user-friendly interface of the Meltio Engine Robot Integration,” commented Meltio Engine Product Manager Alejandro Nieto.",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "“The main goal of our technology is to give the most efficient tool that allows the industry the most of the applications they need to manufacture metal parts with our wire-laser technology. Meltio Space is a living platform that will provide feedback to keep improving and offer competitive software to different industrial customers of Meltio”.",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Now, thanks to Meltio Space, this wire-laser technology has been made available to a wider range of industrial customers who do not possess expertise in robotics and additive manufacturing. Indeed, the toolpath generator software has been specifically developed to accelerate the adoption of Meltio technology within the industrial additive manufacturing space.",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex is a Technology Journalist at 3D Printing Industry who enjoys researching and writing articles covering a wide variety of topics. Possessing a BA in military history and an MA in History of War, he has a keen interest in additive manufacturing applications within the defense and aerospace industries.",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "But, thanks to Meltio Space now the company facilitates the use or adoption of its wire-laser technology for industrial customers who do not have specific expertise in robotics and additive manufacturing, and all these capabilities are integrated in the new Meltio Space.",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "“Meltio Space makes it possible to design very reliable parts as quickly as possible and with a wider range of possibilities for our industrial customers. And this is thanks to a very user-friendly interface of the Meltio Engine Robot Integration.",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "So the main goal of our technology is to give the most efficient tool that allows the industry the most of the applications they need to manufacture metal parts with our wire-laser technology. Meltio Space is a living platform that will provide feedback to keep improving and offers competitive software to different industrial customers of Meltio”.",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "a fully tailored customer journey",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker partners with Singapore-based MedTech startup Bioactivx under a new MOU to co-develop a scalable, on-demand medical printing solution for regenerative wound care, as Bioactivx earns HSA approval for its Bioactiv Matrix — manufactured on UltiMaker systems.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Uptive Manufacturing has its roots in AM’s Wild West entrepreneurial past, but today it helps customers of all sizes use the technology as a strategic manufacturing option.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "QuesTek Innovations adds the Niobium Suite to its Icmd materials design and engineering platform, developed in collaboration with niobium producer CBMM to accelerate design of high-performance alloys for aerospace, energy and additive manufacturing.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "AUVSI Defense / Drone & AAM Policy Symposium",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "AUVSI hosts AUVSI Defense / Drone & AAM Policy Symposium on Nov. 9-10, 2026 in Washington, DC.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "It is designed for using the Meltio Engine integrated into a robotic arm. Prior to launching Meltio Space, the company had agreements with 12 major software companies with which its technology is compatible and open. Now, the Meltio Space software facilitates the use or adoption of its wire-laser technology for industrial customers who do not have specific expertise in robotics and AM.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "With a strong focus on user experience, it offers a fully tailored customer journey centered around the seamless integration between the Meltio Engine and Meltio Space. The software offers custom-developed Meltio print profiles for the Meltio",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription Customer",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "“Meltio Space makes it possible to design very reliable parts as quickly as possible and with a wider range of possibilities for our industrial customers,\"",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": ", a directed energy deposition (DED) process. The multinational",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "said it provides high-performance, affordable, and easy-to-use systems for industrial customers, research-and-development organizations, and universities.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Training programs, customer support, and resource platforms empower users to optimize the technology, Meltio said.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "\"Meltio Space is a living platform that will provide feedback to keep improving and offers competitive software to different industrial customers of Meltio,\" he said.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": ". Its customers include the",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "The company also offers existing customers to access Meltio Space free of charge for the first year if it is associated with the purchase of training through a sales channel or reseller.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "At Meltio we offer a unique technology which is a type of Directed Energy Deposition (DED). This process functions by precisely stacking weld beads on top of one another, in wire form, when introduced into the laser-generated melt pool.",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio technology uses welding wire as the metal feedstock and laser energy to deposit material precisely where it is needed. This makes it possible to combine additive and subtractive processes for applications including complex part production, repair, remanufacturing, and prototyping.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs secures A$6 million to scale up turbojet engine production",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Alley Secures $7.5M Contract to Advance Distributed Additive Manufacturing for U.S. Army",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "FORT Robotics secures $20M funding round led by Tiger Global, Mark Cuban Companies",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics quadruples U.S. Navy contract to $300M to support military readiness",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Bedrock Robotics announces $600M Series C to scale autonomous construction equipment across U.S. sites",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence raises $34M Series A to scale AI-powered warehouse robot worker fleet",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics raises $100M Series A to build autonomous factory for assembly",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space (1‑year subscription included)",
+    "url": "https://hdc3d.com/robot-cell/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの構成については当初から鉄鋼系モノづくりを志向しており、価格や作業者の安全性、使用環境への配慮がなされている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "FREE, FAST Shipping on orders over $35 in the U.S.*",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "Free Shipping on +$35 orders in the U.S.*",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "$3,271.54",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "Քಇʹඞཁͳ෇ଳઃඋΛશͯἧ͑ͨʮ.FMUJP\u00013PCPU\u0001$FMMʯ͕ొ৔ɻ",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1BSU\u00013FQBJS\u0001\u0007\u0001$MBEEJOH",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "$\"4&\u0001456%:",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2VBMJUZ\u0001$POUSPM",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ࢲͨͪ \u0014 %\u00011SJOUJOH\u0001$PSQPSBUJPO\u0001͸ɺσδλϧͰطଘͷ੡଄ۀͷαϓϥΠνΣʔϯΛ͔͍͑ͯ͘͜ͱΛ໨ඪʹɺ\u0014 %",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "%\u00141$ ͷαʔϏε",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0014%1$ ʹͯ",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ੜ࢈ʹಛԽͨ͠ 2\u0010$",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\"MVNJOJVNɺ$BSCPO\u00014UFFMɺ",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "$PQQFSɺ5JUBOJVN\u0017\u0015ɺ",
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、Meltio Robot Cellを、4から6週間のリードタイムで、現在市場にある既存製品と比較して競争力のある価格で提供できるとしている",
+    "url": "https://note.com/robizy/n/na72a7b1660aa",
+    "pass": 3
+   },
+   {
+    "quote": "AMT3D has partnered with SWICE as an official reseller of its precision wire cutting technology across Sub-Saharan Africa. Discover how SWICE combines precision, ease of operation and competitive pricing-and see the technology operating",
+    "url": "https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Download now the free version for Meltio SPACE* valued in 7,500€",
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "pass": 3
+   },
+   {
+    "quote": "* to get your software activation key, the only requirement is to contract the associated product training.(2,000€) through your reseller.",
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "pass": 3
+   },
+   {
+    "quote": "13 million in 2022 to €19 million in 2024.",
+    "url": "https://en.wikipedia.org/wiki/Meltio",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "It is designed for using the Meltio Engine integrated into a robotic arm. Prior to launching Meltio Space, the company had agreements with 12 major software companies with which its technology is compatible and open. Now, the Meltio Space software facilitates the use or adoption of its wire-laser technology for industrial customers who do not have specific expertise in robotics and AM.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "FORT Robotics secures $20M funding round led by Tiger Global, Mark Cuban Companies",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Bedrock Robotics announces $600M Series C to scale autonomous construction equipment across U.S. sites",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence raises $34M Series A to scale AI-powered warehouse robot worker fleet",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics raises $100M Series A to build autonomous factory for assembly",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio takes metal additive manufacturing to the next level by developing high-performance, affordable, and easy-to-use metal 3D printing solutions using wire-laser metal deposition technology. The company’s mission is to delight customers, partners, and employees by pioneering the development of affordable metal 3D printing systems that are reliable, safe, and powerful.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D print community has spoken: Sovol’s M1D Kickstarter campaign has raised an incredible amount of money.",
+    "url": "https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "2019年にラスベガスのテクノロジー企業Additec社と3Dプリンター販売大手のSicnova社との合弁会社として設立され、世界最大級の鉄鋼メーカーであるArcelorMittal社にも戦略的支援を実施している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる3Dモデル生成技術を開発するTripo AIは2026年9月1日、シリーズBおよびシリーズB+の資金調達ラウンドで、総額約30億元（2026年9月…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio company reports over 50% growth in revenue for fiscal year 2024.",
+    "url": "https://meltio3d.com/meltio-consolidates-its-position-as-the-metal-am-industrys-trusted-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio was founded in 2019.",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio has 120 total employees.",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": "is a Spanish industrial technology company founded in 2019 and based in",
+    "url": "https://en.wikipedia.org/wiki/Meltio",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio was founded in 2019 in",
+    "url": "https://en.wikipedia.org/wiki/Meltio",
+    "pass": 3
+   },
+   {
+    "quote": "\"Meltio surpasses 500 3D printer sales amid 50% revenue growth\"",
+    "url": "https://en.wikipedia.org/wiki/Meltio",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Meltio Space : Robotic toolpath generator — Meltio Space : Robotic toolpath generator Meltio https://meltio3d.com > meltio-space",
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Software Partners — Meltio Software Partners Meltio https://meltio3d.com > software > mel...",
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio partners with 12 leading AM software companies — Meltio partners with 12 leading AM software companies VoxelMatters https://www.voxelmatters.com > melti...",
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio introduces new toolpath generator software to optimize ... — Meltio introduces new toolpath generator software to optimize ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Space : The Ultimate Industrial Additive Slicer for Robot ... — Meltio Space : The Ultimate Industrial Additive Slicer for Robot ... Meltio https://meltio3d.com > meltio-space-a...",
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Software Simplifies Wire-Laser Metal 3D Printing ... — Meltio Software Simplifies Wire-Laser Metal 3D Printing ... additivemanufacturing.media https://www.additivemanufacturing.media > ...",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Software Enables Robot Arms to Accurately Create 3D ... — Meltio Software Enables Robot Arms to Accurately Create 3D ... Robotics 24/7 https://www.robotics247.com > article",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing and developing Wire-Laser Metal 3D Printing ... — Manufacturing and developing Wire-Laser Metal 3D Printing ... AHB Tooling & Machinery PDF https://ahbinc.com > get-document > Meltio Product...",
+    "url": "https://ahbinc.com/get-document?file=AHB%20-%20Machinery%2FMeltio%20Product%20Brochure.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Technology Powers HORKOS's New NX70 DUO Hybrid ... — Meltio Technology Powers HORKOS's New NX70 DUO Hybrid ... Meltio https://meltio3d.com > meltio-technol...",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio - Wire DED Metal 3D Printer - Additive Manufacturing — Meltio - Wire DED Metal 3D Printer - Additive Manufacturing hdc3d.com https://hdc3d.com > meltio",
+    "url": "https://hdc3d.com/meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio revolutionizes the ability of a robotic arm to manufacture ... — Meltio revolutionizes the ability of a robotic arm to manufacture ... Industry EMEA https://industryemea.com > news > 71...",
+    "url": "https://industryemea.com/news/71388-meltio-revolutionizes-the-ability-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-its-ultimate-meltio-space-software,-which-enables-highly-accurate-and-reliable-designs",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Ecosystem - Meltio — Partner Ecosystem - Meltio Meltio https://meltio3d.com > partner-ecosys...",
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio Robot Cell ワイヤー DED方式金属 3Dプリンター — Meltio Robot Cell ワイヤー DED方式金属 3Dプリンター 3dpc.co.jp https://www.3dpc.co.jp > products > meltio-robot-cell",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "meltio robot cell - Additive Manufacturing — meltio robot cell - Additive Manufacturing hdc3d.com https://hdc3d.com > robot-cell",
+    "url": "https://hdc3d.com/robot-cell/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio | ワイヤーレーザー金属3Dプリンティングソリューション — Meltio | ワイヤーレーザー金属3Dプリンティングソリューション hdc3d.com https://hdc3d.com > meltio",
+    "url": "https://hdc3d.com/ja/meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printing Software - Meltio — Metal 3D Printing Software - Meltio Meltio https://meltio3d.com > software",
+    "url": "https://meltio3d.com/software/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio M600 Wire-Laser Metal 3D Printer - MatterHackers — Meltio M600 Wire-Laser Metal 3D Printer - MatterHackers MatterHackers https://www.matterhackers.com > store",
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio's Engine Robot Integration Kit lets you upgrade ... — Meltio's Engine Robot Integration Kit lets you upgrade ... Facebook https://www.facebook.com > ... > 3DGBIRE > Videos",
+    "url": "https://www.facebook.com/3dgbire/videos/meltios-engine-robot-integration-kit-lets-you-upgrade-standard-industrial-robots/1433615824744933/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio consolidates its position as the metal AM industry's ... — Meltio consolidates its position as the metal AM industry's ... Meltio https://meltio3d.com > meltio-consoli...",
+    "url": "https://meltio3d.com/meltio-consolidates-its-position-as-the-metal-am-industrys-trusted-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio 2026 Company Profile: Valuation, Funding & Investors — Meltio 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio - LinkedIn — Meltio - LinkedIn LinkedIn https://www.linkedin.com > meltio3d",
+    "url": "https://www.linkedin.com/company/meltio3d",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "CHIPART Project Demonstrates Recycled Titanium Powder Reduces CO2 Emissions in AM Production",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "pass": 3
+   },
+   {
+    "quote": "Intel and SAP demonstrate physical AI and the autonomous warehouse in action",
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "pass": 3
+   },
+   {
+    "quote": "“This purpose-built hybrid machine directly addresses the most pressing challenges in modern manufacturing—including severe labor shortages, floor-space constraints, and environmental impact—by delivering an uncompromising, highly automated solution. We look forward to demonstrating its unique capabilities to the global industry at JIMTOF 2026.”",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Visitors will be able to view the dry-run operation of the NX70 DUO version AM along with video demonstrations of actual printing, and explore how Meltio Wire Laser Metal Deposition and HORKOS precision machining can be combined within a single manufacturing environment.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "フォームネクスト2024ではオイル＆ガス向けの冷却チャンネル一体型デュアル燃焼室の造形デモを実施し、安全クリティカルインフラに必要な材料密度と機械的特性をW-LMDで達成できることを証明しました",
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, Democratic Republic of the",
+    "url": "https://www.multistation.com/en/product/meltio-engine-robot/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Meltio’s Wire-Laser Metal Additive Manufacturing helped transform a complex, hand-welded turbo manifold into a streamlined, digitally manufactured component – demonstrating the potential of additive manufacturing for part consolidation, reverse engineering, and",
+    "url": "https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Download now the free version for Meltio SPACE* valued in 7,500€",
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "pass": 3
+   },
+   {
+    "quote": ", using a Meltio robot-integrated system, examined wire laser cladding on stainless steel substrates and demonstrated the viability of wire-laser DED for surface coating applications.",
+    "url": "https://en.wikipedia.org/wiki/Meltio",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": ", Meltio’s official partner in Japan.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", the 33rd Japan International Machine Tool Fair, at Tokyo Big Sight in Tokyo from October 26 to October 31, 2026, at Booth E2001.",
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MadeHereが日本総代理店を務める、スペインの金属３DプリンターメーカーMeltio社についてご紹介します",
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での導入・運用サポートは「株式会社MadeHere」にお任せください",
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MadeHereはMeltio 社金属３Dプリンターの日本総代理店総代理店として",
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MadeHere",
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "pass": 3
+   },
+   {
+    "quote": "※2025年9月1日に株式会社3D Printing Corporationより社名変更いたしました",
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MadeHereはMeltio社3Dプリンターの日本総代理店です",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "富士高周波工業株式会社",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MadeHere",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "※2025年9月1日に株式会社3D Printing Corporationより社名変更いたしました",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing CorporationがMeltioと国内代理店契約を締結 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing CorporationがMeltioと国内代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "と日本総代理店契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "が国内代理店契約を締結したことで、",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社3D Printing Corporationが、Meltio社のワイヤーDED方式金属3Dプリンター「Meltio M450」で、金型内部に冷却水管を …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント技術を用いた設計や開発、製造などを行う株式会社3D Printing Corporation（神奈川県横浜市",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Japanese",
+    "url": "https://hdc3d.com/meltio/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://hdc3d.com/robot-cell/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://meltio3d.com/software/meltio-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/software/meltio-software-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forceautomationusa.com/meltios-official-integration-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ahbinc.com/get-document?file=AHB%20-%20Machinery%2FMeltio%20Product%20Brochure.pdf",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/meltio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industryemea.com/news/71388-meltio-revolutionizes-the-ability-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-its-ultimate-meltio-space-software,-which-enables-highly-accurate-and-reliable-designs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/partner-ecosystem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/robot-cell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multistation.com/en/fabricant/meltio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/meltio_220621/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/meltio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/robizy/n/na72a7b1660aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multistation.com/en/product/meltio-engine-robot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/meltio-space-download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amt3d.com/2023/09/meltio-revolutionises-the-programming-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-the-launch-of-meltio-space-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/meltio-space-helps-robots-manufacture-metal-3d-printed-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/meltio-space-request-offer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/meltio-consolidates-its-position-as-the-metal-am-industrys-trusted-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/458381-98",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Meltio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.com/relativity-space-3d-printing-startup-raises-650m-from-fidelity-2021-6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/grants/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Meltio Space reseller partner program",
+   "results": [
+    "https://meltio3d.com/software/meltio-space/",
+    "https://meltio3d.com/software/meltio-software-partners/",
+    "https://www.youtube.com/watch?v=ea829zpjNLs",
+    "https://www.voxelmatters.com/meltio-partners-with-12-leading-am-software-companies/",
+    "https://www.forceautomationusa.com/meltios-official-integration-partner/",
+    "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "https://meltio3d.com/partner-ecosystem/",
+    "https://www.foundry-planet.com/d/meltio-partners-with-12-leading-software-companies-to-foster-hybrid-and-robotic-additive-manufacturing-adoption/",
+    "https://www.youtube.com/watch?v=MPYtvFSKn0s",
+    "https://meltio3d.com/category/partnership/"
+   ]
+  },
+  {
+   "query": "Meltio Space pricing license",
+   "results": [
+    "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "https://meltio3d.com/software/meltio-space/",
+    "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "https://www.robotics247.com/article/meltio_software_enables_robot_arms_accurately_create_3d_printed_metal_designs/Motion_Control",
+    "https://ahbinc.com/get-document?file=AHB%20-%20Machinery%2FMeltio%20Product%20Brochure.pdf",
+    "https://www.youtube.com/watch?v=ea829zpjNLs",
+    "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing",
+    "https://3dgbire.com/products/meltio-robot-integration?srsltid=AYCX9vLdKc2KoP5KAxqjACNQzejN1sKoSGECrzol242rKl1YBsX5G41z",
+    "https://shop.production-to-go.com/en/Meltio-Space-2024-License-Subscription-Research-Education/58342"
+   ]
+  },
+  {
+   "query": "Meltio Space Japan distributor",
+   "results": [
+    "https://meltio3d.com/meltio-technology-powers-horkoss-new-nx70-duo-hybrid-manufacturing-solution-in-japan/",
+    "https://hdc3d.com/meltio/",
+    "https://www.instagram.com/p/DewJrSMCKcP/",
+    "https://meltio3d.com/software/meltio-space/",
+    "https://industryemea.com/news/71388-meltio-revolutionizes-the-ability-of-a-robotic-arm-to-manufacture-3d-printed-metal-parts-with-its-ultimate-meltio-space-software,-which-enables-highly-accurate-and-reliable-designs",
+    "https://meltio3d.com/partner-ecosystem/",
+    "https://www.3dpc.co.jp/articles/what-is-meltio",
+    "https://www.multistation.com/en/product/meltio-engine-robot/",
+    "https://www.youtube.com/watch?v=MPYtvFSKn0s",
+    "https://www.metal-am.com/meltio-announces-distribution-partners-in-japan-and-north-america/"
+   ]
+  },
+  {
+   "query": "Meltio Space 代理店",
+   "results": [
+    "https://meltio3d.com/software/meltio-space/",
+    "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing",
+    "https://hdc3d.com/robot-cell/",
+    "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "https://www.multistation.com/en/fabricant/meltio/",
+    "https://www.youtube.com/watch?v=MPYtvFSKn0s",
+    "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "https://meltio3d.com/partner-ecosystem/"
+   ]
+  },
+  {
+   "query": "Meltio Space 価格",
+   "results": [
+    "https://meltio3d.com/software/meltio-space/",
+    "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "https://hdc3d.com/ja/meltio/",
+    "https://meltio3d.com/software/",
+    "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "https://www.matterhackers.com/store/l/meltio-m600-wire-laser-metal-3d-printer/sk/MKC8MMHN?srsltid=AYCX9vKhHKXbvSltXv18T9C-ZHoQp4k8i22bfuCSMeh8Cx5IZmiVG79b",
+    "https://cdn.prod.website-files.com/61eccc366e7fdb0d66d9a66c/65bc95731b4a00e99420daa8_engine_20230927_2.pdf",
+    "https://note.com/robizy/n/na72a7b1660aa",
+    "https://www.metal.sin.jp/meltio-m450"
+   ]
+  },
+  {
+   "query": "Meltio Space free trial",
+   "results": [
+    "https://meltio3d.com/meltio-space-an-ultimate-toolpath-generator-software/",
+    "https://www.additivemanufacturing.media/products/meltio-software-simplifies-wire-laser-metal-3d-printing-technology-",
+    "https://www.youtube.com/watch?v=ea829zpjNLs",
+    "https://meltio3d.com/software/meltio-space/",
+    "https://3dprintingindustry.com/news/meltio-introduces-new-toolpath-generator-software-to-optimize-robot-3d-printing-224379/",
+    "https://www.facebook.com/3dgbire/videos/meltios-engine-robot-integration-kit-lets-you-upgrade-standard-industrial-robots/1433615824744933/",
+    "https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing",
+    "https://www.multistation.com/en/product/meltio-engine-robot/",
+    "https://landmarkcnc.com/products/meltio-3d-printers/meltio-space/",
+    "https://meltio3d.com/meltio-space-download/"
+   ]
+  },
+  {
+   "query": "Meltio Space company founded employees funding",
+   "results": [
+    "https://meltio3d.com/meltio-consolidates-its-position-as-the-metal-am-industrys-trusted-partner/",
+    "https://pitchbook.com/profiles/company/458381-98",
+    "https://www.linkedin.com/company/meltio3d",
+    "https://en.wikipedia.org/wiki/Meltio",
+    "https://www.businessinsider.com/relativity-space-3d-printing-startup-raises-650m-from-fidelity-2021-6",
+    "https://www.youtube.com/watch?v=ea829zpjNLs",
+    "https://meltio3d.com/grants/",
+    "https://production-to-go.com/en/manufacturers/meltio",
+    "https://www.fabbaloo.com/news/introducing-meltio-space-the-slicing-software-powering-meltios-robotic-metal-3d-printing",
+    "https://meltio3d.com/about-us/"
+   ]
+  }
+ ],
+ "missing": {}
+}

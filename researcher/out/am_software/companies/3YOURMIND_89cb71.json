@@ -1,0 +1,1092 @@
+{
+ "name": "3YOURMIND",
+ "en": "3YOURMIND",
+ "aliases": [
+  "3YOURMIND Agile MES"
+ ],
+ "context": "生産管理・部品の選定",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:36:42.777974+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "3DBAVARIA",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Authorized Resellers",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "OEMメーカー、運用会社、受託製造メーカーは、認定部品のデジタル在庫を構築することで、コスト削減、生産リードタイムの短縮、より効率的で俊敏なオペレーションの実現が可能となります",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "pass": 3
+   },
+   {
+    "quote": "This software supports both internal production facilities and contracted on-demand manufacturing services, ensuring smooth operations and high-quality output across various production environments. By integrating your processes, you can improve collaboration, reduce errors, and enhance overall productivity.",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "新しいOEMや材料メーカーが業界に参入したことで、積層造形プロセスのフロントエンドとバックエンドをつなぐ信頼性の高いソフトウェアの必要性が高まった",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、複数の施設や海外拠点で事業を展開している多くの大手OEMや政府保護機関にとって、戦略的にに不可欠なものである",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMINDのAMワークフローソフトウェアの機能を使えば、OEM企業は資産をデジタル化し、AMに対応した部品を特定し、コスト効率の高いソリューションを迅速に評価して、すべてのステークホルダーに即座に答えを導き出すことができる",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": ". OEMs, operating companies, and contract manufacturers can create digital inventories of qualified parts to",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "many OEM’s. “ The ability to produce parts on demand is a crucial advantage for",
+    "url": "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, software provider in additive manufacturing, raises $12.4M in a continued series A+ round. The funding will fuel the company’s ambition to advance end-to-end production processes digitization.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, a US-German software company in additive manufacturing (AM), has successfully closed a new Series A+ financing round with two prominent European investors. LBBW VC, the venture capital arm of Landesbank Baden-Württemberg, is strategically focused on supporting highly innovative companies",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "want to secure our technology leadership in part identification and digitization of AM processes and expand our business internationally.” Today, 3YOURMIND’s customers include Deutsche Bahn, Erpro, Bosch, and other international companies operating in",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "“The ability to produce parts on demand is a crucial advantage for companies who wish to control their production value chain.” says Aleksander Ciszek, co-founder of 3YOURMIND. “With this investment, we will extend our international footprint and further support our customers who wish to implement additive technologies into their production process.”",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a startup looking for funding to launch your industrial 3D printing venture?",
+    "url": "https://amventures.com/company-portfolios/3yourmind/",
+    "pass": 3
+   },
+   {
+    "quote": "「3YOURMINDの共同設立者兼CEOであるAleksander Ciszek氏は",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "pass": 3
+   },
+   {
+    "quote": "1989年に設立された独立企業であるEOSは、先駆的なイノベーションと持続可能な実践により、高品質な生産効率と結びつけ、製造業の未来を形作ります",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "pass": 3
+   },
+   {
+    "quote": "As a 3D printing service provider, you can produce complex parts for your customers. But do you still struggle with manual processes for pricing orders, evaluating print feasibility, and calculating delivery times through phone calls and emails?",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND makes it easy for customers (whether within the same organization or externally) to get instant price quotes using your pricing formulas.",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Customers",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue\".",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMINDはドイツに本社を置く積層造形ワークフローソフトウェアプロバイダーで、2014年に設立したのち、瞬く間に積層造形における最も著名なプレーヤーの一人となった",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMINDの共同設立者であるStephan Kuehr氏は、企業の戦略的方向性について次のように述べている",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMINDの共同設立者 Stephan Kuehr氏",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMINDの共同設立者 Stephan Kuehr氏（出典：3YOURMIND）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "The Top 3D Printing Platforms According to the FeaturedCustomers Fall 2025 Customer Success Report Rankings",
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Software Markets Report 2025: Analysis, Data and Forecast - Revenues Expected to Hit $6.78B by 2033 - ResearchAndMarkets.com",
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "pass": 3
+   },
+   {
+    "quote": "The Top 3D Printing Platforms According to the FeaturedCustomers Fall 2024 Customer Success Report Rankings",
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "14. Later Stage VC (Series A)",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "12. Later Stage VC (Series A)",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "10. Early Stage VC (Series A)",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "To view 3YOURMIND’s complete valuation and funding history, request access »",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, a leading provider of software solutions for additive manufacturing (industrial 3D printing), announces the closing of a $12M Series A round today. The company also announces the opening of its East Coast office, based in New York City, NY.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "“3YOURMIND provides a missing link in the growth and development of industrial 3D printing,” says Markus Josten at GKN. “The platform enables customers to dramatically decrease the cost and complexity of using 3D printing, and thus makes it much more accessible.”",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND's customers include Siemens, Continental and other global technology leaders from the automotive, aerospace and engineering sectors as well as medium- sized companies and 3D printing service providers. In 2016, the company was awarded the \"German Innovation Prize\" and entered the elite StartX Accelerator network in Silicon Valley in 2017.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND’s Series A funding brings together a strong combination of well established financial investors and strategic industry partners. The round is led by Unternehmertum Venture Capital Partners (UVC Partners), an experienced investor in B2B SaaS and industrial technologies, and is joined by fellow VC coparion.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "\"3YOURMIND has developed very positively since we were a lead investor in their first financing round in 2015. Very quickly, they have grown into one of the leading providers of intelligent software solutions for 3D printing. Being part of the Series A financing to support the expansion into the U.S. and Asia was an easy decision,\" says Johann Oberhofer, CEO of AMV.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "In 2016/17, the TRUMPF Group – which has about 12,000 employees – achieved sales of 3.1 billion euros (preliminary figures). With over 70 subsidiaries, it is represented in nearly all the countries of Europe, North and South America, and Asia. It has production facilities in Germany, France, Great Britain, Italy, Austria, Switzerland, Poland, the Czech Republic, the USA, Mexico, China and Japan.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "With a total volume of 40 million euros TRUMPF Venture GmbH invests in innovative start-ups with a focus on seed and (pre-) Series A funding. The requirements for an investment are that the business model should be technology-based and scalable and there should be an experienced management team.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "processes and expand our business internationally.” Today, 3YOURMIND’s customers",
+    "url": "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Switzerland. Founded in 2010 by Steffen Wagner and Lukas Weber, Verve Ventures",
+    "url": "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a 3YOURMIND customer who wants to be featured?",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Medical, Aerospace, Luxury Goods, Construction, Mobility",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Electronics, Automotive, Aerospace, Automation, Robotics, Luxury and Consumer Goods.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Architecture, Construction, Energy, Automation, Automotive",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, Defense, Automotive, Motorsport, Medical, Energy, Railway, Oil & Gas",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Medical, Consumer Goods, Consumer Electronics, Robotics, Automotive",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive, Medical, Defense, Consumer",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive, Industrial, Consumer Electronics",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Military, Automotive, Railway, Aviation (Unmanned), Furniture, Electronics, Machines",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Phillips Corporation is an authorized reseller of 3YOURMIND, serving U.S. federal customers.",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "“The original investment made by EnBW New Ventures supports 3YOURMIND’s growth in the energy sector while the latest investment enables the company to further invest in building a Digital Qualified Inventory”, says 3YOURMIND co-founder Stephan Kühr. “We",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "want to secure our technology leadership in part identification and digitization of AM processes and expand our business internationally.” Today, 3YOURMIND’s customers include Deutsche Bahn, Erpro, Bosch, and other international companies operating in",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense, Automotive or Medical industry.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "“The ability to produce parts on demand is a crucial advantage for companies who wish to control their production value chain.” says Aleksander Ciszek, co-founder of 3YOURMIND. “With this investment, we will extend our international footprint and further support our customers who wish to implement additive technologies into their production process.”",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our products provide engineers with actionable information to identify AM-ready parts that are less expensive than conventional manufacturing methods,” says Ciszek. “We are working with the most progressive manufacturing leaders in automotive, energy, and healthcare sectors to develop innovative ways to improve flexibility and sustainability.”",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "energy flexibility",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Encosa offers an end-to-end solution that allows their customers to lower their costs via energy saving strategies, while also generating revenues by trading excess capacity on the energy markets.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Resources",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "As a 3D printing service provider, you can produce complex parts for your customers. But do you still struggle with manual processes for pricing orders, evaluating print feasibility, and calculating delivery times through phone calls and emails?",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Eliminate the hassle of manual calculations and time-consuming communications. Our software simplifies the management of price quotes and part orders, enabling you to respond to customer inquiries quickly and accurately.",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND makes it easy for customers (whether within the same organization or externally) to get instant price quotes using your pricing formulas.",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "The schedule overview displays which machines are in production and for how long, helping companies optimize their workflows. It is also linked to part orders, giving customers real-time updates on the status of their orders.",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See Our Customers",
+    "url": "https://www.3yourmind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND | Customer Success Stories",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Customers",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "helps scale business by offering solutions to manage customer orders and schedule production jobs.",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "What Our Customers Say",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Download Customer Use Cases",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wabtec was one of the first companies to introduce a digital warehouse. The idea was to avoid any stoppage of maintenance or breakdown on our customers, so we’ve implemented some data acquisition and platforms (like 3YOURMIND) to be able to monitor our stock and to be able to respond quickly when there is an issue\".",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "with DMDV will enhance warfighter efforts to approve spare parts and components for field use. The effort is part of a larger mission by the Department of Defense to reshore supply chains, create distributed manufacturing networks, and sustain legacy equipment using additive technologies.",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "In year two, the initiative will expand on these milestones and further configure 3YOURMIND software with proprietary and third-party systems like PTC Windchill, used by DMDV. AMOC will also onboard capabilities to perform 2D drawing analysis to quickly bulk analyze technical data packages for compelling AM use cases.",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.3yourmind.com/on-demand-manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://www.3yourmind.com/on-demand-manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "3YOURMIND, software provider in additive manufacturing, raises $12.4M in a continued series A+ round. The funding will fuel the company’s ambition to advance end-to-end production processes digitization.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "which resulted in September 2020 to the amount of $5.5M USD. This expanded financing round accumulates to a total of 12.4M USD. Existing investors UVC Partners, TRUMPF Venture, coparion and AM Ventures participated in this financing round.",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "As a 3D printing service provider, you can produce complex parts for your customers. But do you still struggle with manual processes for pricing orders, evaluating print feasibility, and calculating delivery times through phone calls and emails?",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "1. Manage Price Quotes and Part Orders",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND makes it easy for customers (whether within the same organization or externally) to get instant price quotes using your pricing formulas.",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "US Marine Corps awards 3YOURMIND and Phillips Corp $2.5M contract",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs secures A$6 million to scale up turbojet engine production",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "今年の3月に一億円規模の新たなファンドを立ち上げたAMに特化したベンチャーキャピタル AM Ventures",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "$27.4M",
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Software Markets Report 2025: Analysis, Data and Forecast - Revenues Expected to Hit $6.78B by 2033 - ResearchAndMarkets.com",
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "pass": 3
+   },
+   {
+    "quote": "$11.8M",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND has raised $35.8M.",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Raises $12M to Transform Industrial 3D Printing | News | 3YOURMIND",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Raises $12M to Transform Industrial 3D Printing",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, a leading provider of software solutions for additive manufacturing (industrial 3D printing), announces the closing of a $12M Series A round today. The company also announces the opening of its East Coast office, based in New York City, NY.",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND, software provider in additive manufacturing, raises $12.4M in",
+    "url": "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "which resulted in September 2020 to the amount of $5.5M USD. This expanded",
+    "url": "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Partners - 3YOURMIND — Partners - 3YOURMIND 3YOURMIND https://www.3yourmind.com > partners",
+    "url": "https://www.3yourmind.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND raises USD 12.4 to fuel its growth - verve.vc — 3YOURMIND raises USD 12.4 to fuel its growth - verve.vc verve.vc https://www.verve.vc > blog > 3your...",
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - LinkedIn — 3YOURMIND - LinkedIn LinkedIn https://www.linkedin.com > 3yourmind",
+    "url": "https://www.linkedin.com/company/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - AM Ventures — 3YOURMIND - AM Ventures AM Ventures https://amventures.com > 3yourmind",
+    "url": "https://amventures.com/company-portfolios/3yourmind/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS North America and 3YOURMIND Launch Rapid Part ... — EOS North America and 3YOURMIND Launch Rapid Part ... EOS GmbH https://www.eos.info > ... > 2023 ...",
+    "url": "https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "pass": 3
+   },
+   {
+    "quote": "Use 3YOURMIND to Streamline Your 3D Printing Operations — Use 3YOURMIND to Streamline Your 3D Printing Operations 3YOURMIND https://www.3yourmind.com > news",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND | Identify and Produce Parts On-Demand — 3YOURMIND | Identify and Produce Parts On-Demand 3YOURMIND https://www.3yourmind.com",
+    "url": "https://www.3yourmind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Alternative for MJF 3D Printing Shops | SeekMake — 3YOURMIND Alternative for MJF 3D Printing Shops | SeekMake SeekMake https://seekmake.com > 3yourmind",
+    "url": "https://seekmake.com/compare/3yourmind/mjf-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND | Berlin - Facebook — 3YOURMIND | Berlin - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/3yourmind/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories - 3YOURMIND — Customer Success Stories - 3YOURMIND 3YOURMIND https://www.3yourmind.com > custo...",
+    "url": "https://www.3yourmind.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership Between 3YOURMIND and DPD Envisions a ... — Partnership Between 3YOURMIND and DPD Envisions a ... 3DPrint.com https://3dprint.com > 3yourmind-dpd...",
+    "url": "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND | LinkedIn — 3YOURMIND | LinkedIn LinkedIn https://tt.linkedin.com > 3yourmind",
+    "url": "https://tt.linkedin.com/company/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND GmbH - LinkedIn — 3YOURMIND GmbH - LinkedIn LinkedIn https://de.linkedin.com > 3yourmind",
+    "url": "https://de.linkedin.com/company/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "US Marine Corps awards 3YOURMIND and Phillips Corp $2.5 ... — US Marine Corps awards 3YOURMIND and Phillips Corp $2.5 ... VoxelMatters https://www.voxelmatters.com > us-m...",
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - World Economic Forum — 3YOURMIND - World Economic Forum World Economic Forum https://www.weforum.org > 3yourmind",
+    "url": "https://www.weforum.org/organizations/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "Software for On-Demand Manufacturing - 3YOURMIND — Software for On-Demand Manufacturing - 3YOURMIND 3YOURMIND https://www.3yourmind.com > on-de...",
+    "url": "https://www.3yourmind.com/on-demand-manufacturing-software",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND が歩んだグローバル展開の道のりーAM Ventures ... — 3YOURMIND が歩んだグローバル展開の道のりーAM Ventures ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > その他製品・サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND 社がAIを活用した技術図面分析機能の提供を開始 — 3YOURMIND 社がAIを活用した技術図面分析機能の提供を開始 CAD Japan.com https://www.cadjapan.com > ニュース > 2025年",
+    "url": "https://www.cadjapan.com/news/2025/d20250425_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND | BLITZ Portal イノベーション情報 ... — 3YOURMIND | BLITZ Portal イノベーション情報 ... blitzportal.com https://blitzportal.com > 3YOURMIND-d9KpvzxN",
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Unveils AI-Powered Technical Drawing Analysis ... — 3YOURMIND Unveils AI-Powered Technical Drawing Analysis ... 3YOURMIND https://www.3yourmind.com > news",
+    "url": "https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Pricing, Cost & Reviews - Capterra UK 2026 — 3YOURMIND Pricing, Cost & Reviews - Capterra UK 2026 Capterra UK https://www.capterra.co.uk > software",
+    "url": "https://www.capterra.co.uk/software/179812/3yourmind",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND 2026 Company Profile - PitchBook — 3YOURMIND 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND Raises $12M to Transform Industrial 3D Printing — 3YOURMIND Raises $12M to Transform Industrial 3D Printing 3YOURMIND https://www.3yourmind.com > news",
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND - 2026 Company Profile & Team - Tracxn — 3YOURMIND - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "pass": 3
+   },
+   {
+    "quote": "About 3YOURMIND — About 3YOURMIND 3YOURMIND https://www.3yourmind.com > about-us",
+    "url": "https://www.3yourmind.com/about-us",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Fill out the form to request a software demonstration",
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND is now offering the new feature as part of a free trial of its Part Identification software.",
+    "url": "https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts",
+    "pass": 3
+   },
+   {
+    "quote": "3YOURMIND is now offering a free trial of AI-Powered Technical Drawing Analysis to qualifying companies. To get started, request a free consultation at",
+    "url": "https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free trial",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Free Trial",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   },
+   {
+    "quote": "Request your free trial to access PitchBook and act confidently",
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.3yourmind.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verve.vc/blog/3yourmind-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amventures.com/company-portfolios/3yourmind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekmake.com/compare/3yourmind/mjf-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/organizations/3yourmind",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.food4rhino.com/en/app/3d-printing-plugin-3yourmind",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3yourmind.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwavesys.com/about/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/on-demand-manufacturing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2025/d20250425_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3/deutsche-bahn-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-3yourmind-2380401/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.co.uk/software/179812/3yourmind",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/169025-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3yourmind.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wellfound.com/company/3yourmind/people",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3YOURMIND reseller partner program",
+   "results": [
+    "https://www.3yourmind.com/partners",
+    "https://www.verve.vc/blog/3yourmind-series-a/",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://www.eos.info/press-media/press-center/press-releases/2023/3ym-eos-rapid-part-identifier-2023",
+    "https://www.3yourmind.com/customers",
+    "https://www.facebook.com/3yourmind/",
+    "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "https://www.phillipscorp.com/federal/3yourmind/"
+   ]
+  },
+  {
+   "query": "3YOURMIND pricing license",
+   "results": [
+    "https://www.3yourmind.com/news/use-3yourmind-to-streamline-your-3d-printing-operations",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.3yourmind.com/",
+    "https://www.verve.vc/blog/3yourmind-series-a/",
+    "https://seekmake.com/compare/3yourmind/mjf-3d-printing",
+    "https://www.facebook.com/3yourmind/",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://www.food4rhino.com/en/app/3d-printing-plugin-3yourmind",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://www.capterra.com/p/179812/3YOURMIND/"
+   ]
+  },
+  {
+   "query": "3YOURMIND Japan distributor",
+   "results": [
+    "https://www.3yourmind.com/",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.3yourmind.com/customers",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://3dprint.com/154821/3yourmind-dpd-partnership/",
+    "https://tt.linkedin.com/company/3yourmind",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://thirdwavesys.com/about/distributors/",
+    "https://www.upnano.com/distributors/",
+    "https://www.3yourmind.com/partners"
+   ]
+  },
+  {
+   "query": "3YOURMIND 代理店",
+   "results": [
+    "https://www.3yourmind.com/customers",
+    "https://de.linkedin.com/company/3yourmind",
+    "https://www.voxelmatters.com/us-marine-corps-awards-3yourmind-and-phillips-corp-2-5m-contract/",
+    "https://www.facebook.com/3yourmind/",
+    "https://www.weforum.org/organizations/3yourmind",
+    "https://www.3yourmind.com/",
+    "https://www.youtube.com/watch?v=e4gRTMTHLD8",
+    "https://seekmake.com/compare/3yourmind/mjf-3d-printing",
+    "https://3dprint.com/154821/3yourmind-dpd-partnership/"
+   ]
+  },
+  {
+   "query": "3YOURMIND 価格",
+   "results": [
+    "https://www.3yourmind.com/",
+    "https://www.3yourmind.com/on-demand-manufacturing-software",
+    "https://seekmake.com/compare/3yourmind/mjf-3d-printing",
+    "https://news.sharelab.jp/3dp-news/others/3yourmind-210728/",
+    "https://www.cadjapan.com/news/2025/d20250425_01.html",
+    "https://blitzportal.com/startups/3YOURMIND-d9KpvzxN",
+    "https://3druck.com/ja/%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3/deutsche-bahn-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-3yourmind-2380401/",
+    "https://www.3yourmind.com/customers"
+   ]
+  },
+  {
+   "query": "3YOURMIND free trial",
+   "results": [
+    "https://www.3yourmind.com/news/3yourmind-unveils-ai-powered-technical-drawings-analysis-to-digitize-spare-parts",
+    "https://www.3yourmind.com/",
+    "https://www.capterra.co.uk/software/179812/3yourmind",
+    "https://pitchbook.com/profiles/company/169025-59",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://www.facebook.com/3yourmind/",
+    "https://www.food4rhino.com/en/app/3d-printing-plugin-3yourmind",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://seekmake.com/compare/3yourmind/mjf-3d-printing"
+   ]
+  },
+  {
+   "query": "3YOURMIND company founded employees funding",
+   "results": [
+    "https://www.3yourmind.com/news/series-a-closed-with-12m",
+    "https://pitchbook.com/profiles/company/169025-59",
+    "https://www.linkedin.com/company/3yourmind",
+    "https://tracxn.com/d/companies/3yourmind/__Pr4ovWFMrwTICKGzpIO38St21r2mUOa6OqS6dpjTb-w",
+    "https://www.verve.vc/blog/3yourmind-series-a/",
+    "https://www.3yourmind.com/about-us",
+    "https://amventures.com/company-portfolios/3yourmind/",
+    "https://wellfound.com/company/3yourmind/people",
+    "https://www.enbw.com/media/enbw-new-ventures/3yourmind_series-a-investment-pr_en.pdf",
+    "https://www.thecompanycheck.com/company/b/3yourmind/swcpkvb898pnrnetv"
+   ]
+  }
+ ],
+ "missing": {
+  "日本語対応": "記載なし（読んだ29頁・検索7回）"
+ }
+}

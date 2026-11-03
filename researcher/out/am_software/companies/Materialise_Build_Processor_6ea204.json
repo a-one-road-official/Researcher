@@ -1,0 +1,786 @@
+{
+ "name": "Materialise Build Processor",
+ "en": "Materialise Build Processor",
+ "aliases": [
+  "ビルドプロセッサ"
+ ],
+ "context": "造形の準備（装置メーカー向け）",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:30:41.195661+00:00",
+ "evidence": {
+  "顧客・用途": [
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "Medical 3D Printers",
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Form 4BL Medical",
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Form 4B Medical",
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "Our customer service team is happy to help!",
+    "url": "https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "DEFENSE",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "AEROSPACE",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "ENERGY",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SUPPORT",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "AUTOMOTIVE",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration addresses key production pain points, including fragmented workflows, lack of validation, and limited customization options. For aerospace, defense, and advanced manufacturing customers, this means the ability to move from prototype to certified production faster — while maintaining traceability and process stability.",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": ", to generate optimised scan strategies for higher machine utilisation, and support OEM verified parameters and advanced customisation. Using the Materialise Build Processor Software Development Kit (BPSDK), customers can also tailor their toolpath strategies to specific applications within a secure framework to protect IP.",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "関連情報・事例紹介",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Makeプログラムを活用して、開発者には高度なツールと充実したドキュメントを提供し、アプリケーションニーズに基づいたお客様の要望に応えられる体制を整えます",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "pass": 3
+   },
+   {
+    "quote": "あなたに合った開発の道を探るために、Materialise MakeやCustomer Makeのカスタマイズプログラムについてお問合せください",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Make｜ビルドプロセッサーのカスタマイズ",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "pass": 3
+   },
+   {
+    "quote": "関連情報・事例紹介",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "関連情報・事例紹介",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/library",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "iQUAVISを基盤とする仕組みでISO 26262を取得自動車業界向け半導体事業を加速",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな解析自動化プラットフォーム構築で成長市場の自動車開発を加速",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルスレッドとデジタルツインの違い 事例とメリットをご紹介",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "MBEとは？製造業のものづくりを変えるメリットと事例をご紹介",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Portal",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Eliminate print failures caused by human error",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Customers can take advantage of free six-month access to Materialise Magics Essentials software with purchase of a HP Jet Fusion 300/500 Series printer",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical professionals can use the HP Jet Fusion 580/380 3D printers, in combination with Mimics software technology, to print robust full-color anatomical models for diagnostic and surgical planning processes, delivering broad benefits for patient-specific care.",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Defense & Aerospace",
+    "url": "https://dimension.works/shop/materialise/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://dimension.works/shop/materialise/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device / Orthotics",
+    "url": "https://dimension.works/shop/materialise/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Access training, tutorials, customer support, and more information on using our software with the following resources.",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/create-customize-build-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/create-customize-build-platforms",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "software tailored to the RenAM 500 series of metal AM systems. They will also have access to",
+    "url": "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vL8VNGX8uNLbgxT1OpYtPlYs-kMkrB8je5IkIb39HXzgozDwiXQ",
+    "pass": 3
+   },
+   {
+    "quote": "Renishaw and Materialise announce a partnership to increase efficiency and productivity for manufacturers. Renishaw system users will benefit from Materialise’s next-generation build processor software tailored to the RenAM 500 series of metal AM systems.",
+    "url": "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vL8VNGX8uNLbgxT1OpYtPlYs-kMkrB8je5IkIb39HXzgozDwiXQ",
+    "pass": 3
+   },
+   {
+    "quote": "F123CR Series",
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "F123 Series",
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "software tailored to the RenAM 500 series of metal AM systems. They will also have access to",
+    "url": "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vLudjuSyYq9JmRbt2DddTVicB0jVT85e4jGJTbc1B8VakuZOhGU",
+    "pass": 3
+   },
+   {
+    "quote": "Renishaw and Materialise announce a partnership to increase efficiency and productivity for manufacturers. Renishaw system users will benefit from Materialise’s next-generation build processor software tailored to the RenAM 500 series of metal AM systems.",
+    "url": "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vLudjuSyYq9JmRbt2DddTVicB0jVT85e4jGJTbc1B8VakuZOhGU",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "D10-Series",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/library",
+    "pass": 3
+   },
+   {
+    "quote": "D20-Series",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/library",
+    "pass": 3
+   },
+   {
+    "quote": "Customers can take advantage of free six-month access to Materialise Magics Essentials software with purchase of a HP Jet Fusion 300/500 Series printer",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Materialise Build Processor | 3D Printing Slicing Software — Materialise Build Processor | 3D Printing Slicing Software Purple Platypus https://purpleplatypus.com > materiali...",
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Build Processor | 3D Printer Communication — Materialise Build Processor | 3D Printer Communication Materialise https://www.materialise.com > software",
+    "url": "https://www.materialise.com/en/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Build Processors for CAD to 3D Print Connectivity ... — Materialise Build Processors for CAD to 3D Print Connectivity ... TriMech Manufacturing https://mfg.trimech.com > product",
+    "url": "https://mfg.trimech.com/product/materialise-build-processors/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Build Processor ｜3Dプリンター用通信機器 — Materialise Build Processor ｜3Dプリンター用通信機器 Materialise https://www.materialise.com > software > build-processor",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Our experts will set up a demo to show Build Processors in action. Together, we’ll explore its functionalities and discuss how it could advance your production.",
+    "url": "https://www.materialise.com/en/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "当社の専門家がNext-Genビルドプロセッサーのデモを実施し、その機能を実際にご覧いただけます",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "pass": 3
+   },
+   {
+    "quote": "Build Processorが実際に動作する様子をご覧いただけるよう、デモを用意しています",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "このデモでは、Build Processorの機能をご紹介するとともに、Build Processorがお客様の生産をどのように向上させるかをご説明します",
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor",
+    "pass": 3
+   },
+   {
+    "quote": "Our YouTube channel hosts hundreds of educational tutorials, product demonstrations, recorded webinars, and best practices for all of our products and services.",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "HP & Adobe Free Trial",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Request free trial",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "If you have any questions or are interested in getting a demo of Magics, get in touch with us. Our team is happy to discuss how Magics fits into your business.",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "Japanese",
+    "url": "https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://materialise.helpjuice.com/ja_JP/102642",
+    "pass": 3
+   },
+   {
+    "quote": "Our translation team is diligently working to provide a fully localized experience.",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "The partnership bridges the gap between software and hardware, solving one of the industry’s long-standing challenges: scaling from new product introduction (NPI) to full series production. Advanced users will be able to optimize toolpaths, assign laser strategies, and configure machine parameters within an OEM-validated environment, ensuring both control and reliability.",
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "pass": 3
+   },
+   {
+    "quote": ", to generate optimised scan strategies for higher machine utilisation, and support OEM verified parameters and advanced customisation. Using the Materialise Build Processor Software Development Kit (BPSDK), customers can also tailor their toolpath strategies to specific applications within a secure framework to protect IP.",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "GoEngineer’s extensive technical knowledge can assist with your additive manufacturing needs. Our Award winning team is ready to help. Reach out and see why GoEngineer is the #1 reseller of SOLIDWORKS and Stratasys systems in the world!",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "GoEngineer's CAE consultants help you design better products faster. Our advanced FEA & CFD services provide critical engineering insight to world-class OEMs, suppliers, and start-ups alike.",
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Find a reseller",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "HP Amplify Partner Program",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "How do I become a reseller of Magics?",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "We’re happy to have you join our growing community of Magics resellers! Here, you can find information on becoming a",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "reseller",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "We offer a variety of licensing options that users can combine to suit their needs. Learn more about what’s available on our",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "You can find various training options and tutorial videos on the",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate critical workflows into your solutions powered by third-party software and hardware vendors, 3D printer OEMs, or build apps with our APIs.",
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "pass": 3
+   },
+   {
+    "quote": "HP Inc. (NYSE:HPQ) is a global technology leader redefining the Future of Work. Operating in more than 180 countries, HP delivers innovative and AI-powered devices, software, services and subscriptions that drive business growth and professional fulfillment. For more information, please visit:",
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "セイコーエプソン株式会社",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "スズキ株式会社",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 電通総研",
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/build-processor/next-generation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vL8VNGX8uNLbgxT1OpYtPlYs-kMkrB8je5IkIb39HXzgozDwiXQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://purpleplatypus.com/materialise-build-processor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/build-processor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.trimech.com/product/materialise-build-processors/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phillipscorp.com/federal/materialise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.materialise.com/en_US/category-issues-updates/how-to-reset-your-materialise-software-license",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1vod621/is_materialise_magics_still_the_gold_standard_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vLudjuSyYq9JmRbt2DddTVicB0jVT85e4jGJTbc1B8VakuZOhGU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcae.cz/wp-content/uploads/2025/09/Materialise-Magics-2025.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialise.helpjuice.com/ja_JP/102642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/build-processor/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.dentsusoken.com/product/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://production-to-go.com/en/manufacturers/materialise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.oneclickmetal.com/us-software/materialise-magics-products_902_2288/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.eos.info/products/magics-polymer-package-from-materialise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goengineer.com/3d-printing/materialise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimension.works/shop/materialise/materialise-build-processor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/create-customize-build-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1mhm2b9/materialise_magics_3d_printing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://store.oneclickmetal.com/en/software-parameter/materialise-magics-products_902_2288/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/build-processor/slm/request-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/materialise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Materialise_NV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/materialise-unveils-2025-magics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trueup.io/co/materialise",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Materialise Build Processor reseller partner program",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/partnerships",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor",
+    "https://www.materialise.com/en/industrial/software/build-processor/next-generation",
+    "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vL8VNGX8uNLbgxT1OpYtPlYs-kMkrB8je5IkIb39HXzgozDwiXQ",
+    "https://www.youtube.com/watch?v=CuPJ9aj70XA",
+    "https://purpleplatypus.com/materialise-build-processor/",
+    "https://www.ntop.com/resources/blog/materialise-and-ntop-partner-to-push-the-boundaries-of-what-s-possible-with-additive-manufacturing/",
+    "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "https://mfg.trimech.com/product/materialise-build-processors/",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller"
+   ]
+  },
+  {
+   "query": "Materialise Build Processor pricing license",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/build-processor",
+    "https://purpleplatypus.com/materialise-build-processor/",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor",
+    "https://mfg.trimech.com/product/materialise-build-processors/",
+    "https://www.phillipscorp.com/federal/materialise/",
+    "https://help.materialise.com/category-issues-updates/how-to-reset-your-materialise-software-license",
+    "https://www.facebook.com/groups/malaysia3Dprinting/posts/7922117631190848/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1vod621/is_materialise_magics_still_the_gold_standard_for/",
+    "https://develop3d.com/3d-printing/materialises-open-software-strategy-adds-new-solutions/",
+    "https://materialize.com/materialize-pricing/"
+   ]
+  },
+  {
+   "query": "Materialise Build Processor Japan distributor",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/build-processor/next-generation",
+    "https://purpleplatypus.com/materialise-build-processor/",
+    "https://mfg.trimech.com/product/materialise-build-processors/",
+    "https://www.renishaw.com/en/materialise-and-renishaw-announce-partnership-to-increase-efficiency-of-metal-3d-printing--48591?srsltid=AYCX9vLudjuSyYq9JmRbt2DddTVicB0jVT85e4jGJTbc1B8VakuZOhGU",
+    "https://nikon-slm-solutions.com/newsroom/materialise-and-nikon-slm-solutions-co-develop-integrated-data-preparation-workflow-for-scalable-series-production/",
+    "https://www.materialise.com/en/industrial/software/build-processor",
+    "https://www.mcae.cz/wp-content/uploads/2025/09/Materialise-Magics-2025.pdf",
+    "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "https://materialise.helpjuice.com/ja_JP/102642",
+    "https://www.materialise.com/ja/industrial/software/build-processor"
+   ]
+  },
+  {
+   "query": "Materialise Build Processor 代理店",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/build-processor/next-generation",
+    "https://purpleplatypus.com/materialise-build-processor/",
+    "https://www.materialise.com/ja/industrial/software/build-processor",
+    "https://materialise.helpjuice.com/ja_JP/102642",
+    "https://www.materialise.com/ja/industrial/software/build-processor/library",
+    "https://mfg.dentsusoken.com/product/3d-printing/",
+    "https://www.youtube.com/watch?v=ICf5mFaMidU",
+    "https://www.facebook.com/MaterialiseJapan/?locale=ja_JP",
+    "https://production-to-go.com/en/manufacturers/materialise",
+    "https://www.materialise.com/en/industrial/software/build-processor"
+   ]
+  },
+  {
+   "query": "Materialise Build Processor 価格",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/build-processor",
+    "https://www.materialise.com/ja/industrial/software/build-processor/library",
+    "https://store.oneclickmetal.com/us-software/materialise-magics-products_902_2288/",
+    "https://store.eos.info/products/magics-polymer-package-from-materialise",
+    "https://materialise.helpjuice.com/ja_JP/102642",
+    "https://www.goengineer.com/3d-printing/materialise",
+    "https://www.tctmagazine.com/nikon-slm-solutions-and-materialise-announce-software-and-build-processor-collaborations/",
+    "https://www.hp.com/us-en/newsroom/press-releases/2019/materialize-expands-innovative-work-with-hp-to-advance-industrial-scale-3d-printing.html",
+    "https://www.facebook.com/3dprintingcom/posts/together-with-materialise-the-company-has-developed-a-new-build-processor-that-s/1590166186478133/",
+    "https://www.materialise.com/en/industrial/software/build-processor"
+   ]
+  },
+  {
+   "query": "Materialise Build Processor free trial",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/magics-data-build-preparation",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/export-platforms-build-processor",
+    "https://purpleplatypus.com/materialise-build-processor/",
+    "https://www.youtube.com/watch?v=CuPJ9aj70XA",
+    "https://www.materialise.com/en/industrial/software/build-processor",
+    "https://www.materialise.com/en/academy/industrial/magics/video-tutorials/create-customize-build-platforms",
+    "https://www.reddit.com/r/3Dprinting/comments/1mhm2b9/materialise_magics_3d_printing/",
+    "https://store.oneclickmetal.com/en/software-parameter/materialise-magics-products_902_2288/",
+    "https://www.phillipscorp.com/federal/materialise/",
+    "https://www.materialise.com/en/industrial/software/build-processor/slm/request-trial"
+   ]
+  },
+  {
+   "query": "Materialise Build Processor company founded employees funding",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/build-processor",
+    "https://www.linkedin.com/company/materialise",
+    "https://dealroom.co/companies/materialise/",
+    "https://en.wikipedia.org/wiki/Materialise_NV",
+    "https://tracxn.com/d/companies/materialise/__eLjYftAJUe8touLZjXRZKKQFOcAc_lPyROBhDEVMDbw",
+    "https://www.voxelmatters.com/materialise-unveils-2025-magics/",
+    "https://www.trueup.io/co/materialise",
+    "https://3dprint.com/industry-directory/materialise/",
+    "https://materialize.com/blog/materialize-raises-a-series-c/",
+    "https://seedtable.com/companies/materialise"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,831 @@
+{
+ "name": "Amphyon",
+ "en": "Amphyon",
+ "aliases": [
+  "Additive Works",
+  "アンフィオン"
+ ],
+ "context": "造形シミュレーション",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:33:12.205262+00:00",
+ "evidence": {
+  "会社の規模": [
+   {
+    "quote": "Additive Works GmbH was founded by four interdisciplinary professionals in late 2015. As a Spin-Off company of ISEMP, University of Bremen, Additive Works combines state-of-the-art scientific approaches with application-oriented software engineering to offer innovative software solutions for simulation based additive processes.",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT: Global 3D printer revenues rise 31% year-on-year",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "The product is the next generation of Phase3D's Fringe Inspection series and is the result of a multi-year development project.",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments.",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "A notable change following the acquisition of Oqton is that all 3D Systems software has been transferred to Oqton, for us to develop and support. This includes the Geomagic portfolio –",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a startup looking for funding to launch your industrial 3D printing venture?",
+    "url": "https://amventures.com/company-portfolios/additive-works/",
+    "pass": 3
+   },
+   {
+    "quote": "設立：平成4年6月19日",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Guides",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMER SUPPORT",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "As well as a save on resources, Amphyon is said to also bring a reduction on costs, time and energy. Integrating fast numerical process analysis and simulation within the process chain, quality and accuracy can be, not only maintained, but improved upon per Additive Works. The company adds, this is achieved without the need for further action by the user.",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Area Medical (RAM) will utilise the machine to support the production of customised dentures at no cost to patients.",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "AMP is already working with customers and will host a grand opening and official ribbon-cutting ceremony for its new facility in early 2027.",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’ve been a customer, partner, or a follower of ours on social media, you may have noticed some changes in the past months. Some of you might know that Oqton was acquired in November 2021 by 3D Systems – a move which ushered in exciting developments.",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Our top priority is to keep you in the loop and put emphasis on the importance of communication with our customers and partners!",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Handle every file format your customers send with parametric, automation-ready build preparation and Supportless enabling strategies.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Customers Across Many Industries",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Have a look at how successful our customers are",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・自動車部品",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & space",
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare & medical",
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Amphyon 3D Printing Simulation Software by Additive Works ... — Amphyon 3D Printing Simulation Software by Additive Works ... VoxelMatters https://www.voxelmatters.com > amp...",
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Started Amphyon - 3D Systems Support Home — Getting Started Amphyon - 3D Systems Support Home 3D Systems https://support.3dsystems.com > article",
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon",
+    "pass": 3
+   },
+   {
+    "quote": "Geomagic, 3DXpert, and Amphyon – now developed by Oqton — Geomagic, 3DXpert, and Amphyon – now developed by Oqton Oqton https://oqton.com > Blog",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "How does Amphyon software improve simulation ... - 3d adept — How does Amphyon software improve simulation ... - 3d adept 3d adept https://3dadept.com > Home > News",
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "Aurora Labs raises $6m to expand advanced manufacturing capabilites",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "Three of the four price classes that CONTEXT uses to categorise 3D printers saw higher unit shipment volumes in Q2 2026 than in the same period last year.",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert is available as a standalone subscription license, ensuring all users have access to the newest features and capabilities. The software comes in different packages",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "– 3DXpert Educational: Classroom bundle of 3DXpert Elite with all available tools, including a power seat for the professor and up to 10 student seats, for non-commercial use and non-commercial research institutes.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：1,000万円",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "【梅田】100万通り以上から選べる「マイポキボウル」が今だけ1,200円！11/16ポキボウル専門店『3POKEOSAKA』オープン",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "Wonlean製 卓上ウォータジェット切断機「Pockcut 300」による低価格、省スペースの冷間切断を実現 ～普及モデルを産業・教育・研究分野に～",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Request demo",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo Pop Form",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, Democratic Republic of the",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Korea, Democratic People's Republic of",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Lao People's Democratic Republic",
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "pass": 3
+   },
+   {
+    "quote": "Request demo",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Demo Pop Form",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Congo, Democratic Republic of the",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Korea, Democratic People's Republic of",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Lao People's Democratic Republic",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Demo Now",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "How can I contact Oqton to request a demo, or purchase 3DXpert?",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "request a demo here",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Request A Demo",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "amphion loudspeakers Ltd（アンフィオンラウドスピーカーズ） コンシューマー向け日本代理店 DataGate",
+    "url": "https://data-gate.com/amphion/shoplist.php",
+    "pass": 3
+   },
+   {
+    "quote": "amphion loudspeakers 販売店一覧",
+    "url": "https://data-gate.com/amphion/shoplist.php",
+    "pass": 3
+   },
+   {
+    "quote": "amphion loudspeakers コンシューマー向け日本代理店 DataGate",
+    "url": "https://data-gate.com/amphion/shoplist.php",
+    "pass": 3
+   },
+   {
+    "quote": "> 販売店一覧",
+    "url": "https://data-gate.com/amphion/shoplist.php",
+    "pass": 3
+   },
+   {
+    "quote": "【日本初上陸】金属3Dプリンタ用レーザー焼結式造形プロセスシミュレーションソフト「Amphyon」を取扱い開始 - 株式会社システムクリエイトのプレスリリース",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械やCAD/CAMシステム、3Dプリンタ、3Dスキャナをはじめとするデジタルものづくりツールの販売・サポートを手がける株式会社システムクリエイト（本社：大阪府東大阪市 代表取締役社長：川上正義）は、2019年5月より、金属3Dプリンタ用レーザー焼結式造形プロセスシミュレーションソフト「Amphyon」の販売を開始します",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイトは、2019年5月に金属3Dプリンタ用レーザー焼結式造形プロセスシミュレーションソフト「Amphyon」の販売を開始します",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "<株式会社システムクリエイトについて>",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドリームブロッサム",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社緑書房",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カプコン",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東京通信グループ",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社favy",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "Lemone株式会社",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "グルマンマルセ株式会社",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ガッツ・ジャパン",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイトの",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   },
+   {
+    "quote": "「Revopoint RANGE 3/RANGE 3 Pro」日本国内販売準備開始！",
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "MeltControl uses micro-thermal simulation to automatically optimize every scan vector in your build. Physics-based. Localized. Validated.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "Support localized production, spare parts on demand, or transformative concepts like additively manufactured valves or heat exchangers.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   },
+   {
+    "quote": "3DXpert supports the following languages: English, German, Chinese, Korean, Japanese.",
+    "url": "https://oqton.com/3dxpert/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.helioadditive.com/partners/reseller-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigin.com/partners/reseller-partner-program.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epson.com/epson-partners-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ativion.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amphion.fi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.actiprosoftware.com/purchase/price-lists",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amphion.fi/where-to-buy/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proaudio-central.com/archive/asia/amphion-rides-the-mix-wave-to-japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://data-gate.com/amphion/shoplist.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://playbackdistribution.com/collections/amphion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mondodr.com/mix-wave-inc-and-amphion-loudspeakers-sign-dealership-agreement-for-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amventures.com/company-portfolios/additive-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/amphyon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/3dxpert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simuarts.co.jp/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/contact-us/additive-manufacturing-expert-advice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.value-press.com/pressrelease/220463",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amplify.fixstars.com/ja/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wavefun.jp/spartan-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/store/products/creo/creo-additive-manufacturing-extension?srsltid=AYCX9vISYRC4dRNweX1-7Hhm4Y1sBOA9_E-yzUp58ZDWfEz2K5yK3oIy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iguazu-3d.jp/product/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ops.opengrants.io/grants/amphion-grant-program",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slashdot.org/software/comparison/Amphyon-vs-Ansys-Additive-Suite/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://amphionfoundation.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://amphionfoundation.org/programs/amphion-grant-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/amphion-innovations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privateequityinternational.com/amphion-struggles-to-reverse-its-fate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finder.startupnationcentral.org/company_page/amplication",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://quoteddata.com/company/0p00007nxf/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Amphyon reseller partner program",
+   "results": [
+    "https://www.helioadditive.com/partners/reseller-partner-program",
+    "https://www.bigin.com/partners/reseller-partner-program.html",
+    "https://epson.com/epson-partners-program",
+    "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "https://www.ativion.com/partner/",
+    "https://amplitude.com/partner-program",
+    "https://partners.adobe.com/apac/channelpartners/program/",
+    "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "https://hyperionpartners.net/partner-program/become-a-partner/"
+   ]
+  },
+  {
+   "query": "Amphyon pricing license",
+   "results": [
+    "https://support.3dsystems.com/s/article/Getting-Started-Amphyon",
+    "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "https://amphion.fi/",
+    "https://www.actiprosoftware.com/purchase/price-lists",
+    "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "https://amphionfoundation.org/terms-use",
+    "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "https://github.com/open-mmlab/amphion",
+    "https://manufacturing.toolsinfo.com/tool/amphyon"
+   ]
+  },
+  {
+   "query": "Amphyon Japan distributor",
+   "results": [
+    "https://amphion.fi/where-to-buy/japan/",
+    "https://www.facebook.com/AmphionLoudspeakers/posts/-usen-is-the-largest-music-broadcasting-company-in-japan-with-over-80-market-sha/1054656186697053/",
+    "https://www.proaudio-central.com/archive/asia/amphion-rides-the-mix-wave-to-japan",
+    "https://data-gate.com/amphion/shoplist.php",
+    "https://playbackdistribution.com/collections/amphion",
+    "https://www.mondodr.com/mix-wave-inc-and-amphion-loudspeakers-sign-dealership-agreement-for-japan/",
+    "https://www.instagram.com/amphion_loudspeakers/",
+    "https://www.audendistribution.co.uk/amphion/",
+    "https://www.amphenolaudio.com/distributors/",
+    "https://amphion.fi/where-to-buy/"
+   ]
+  },
+  {
+   "query": "Amphyon 代理店",
+   "results": [
+    "https://support.3dsystems.com/s/article/Getting-Started-Amphyon",
+    "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "https://amventures.com/company-portfolios/additive-works/",
+    "https://systemcreate-inc.co.jp/products/amphyon",
+    "https://oqton.com/3dxpert/",
+    "https://simuarts.co.jp/software",
+    "https://www.stratasys.co.jp/contact-us/additive-manufacturing-expert-advice/",
+    "https://fusiontechnology.co.jp/access/",
+    "https://phrozen3d.com/ja-jp/pages/find-a-reseller",
+    "https://www.amphenol.co.jp/infocom/distributor.html"
+   ]
+  },
+  {
+   "query": "Amphyon 価格",
+   "results": [
+    "https://systemcreate-inc.co.jp/products/amphyon",
+    "https://www.value-press.com/pressrelease/220463",
+    "https://amplify.fixstars.com/ja/pricing",
+    "https://www.wavefun.jp/spartan-pricing",
+    "https://www.youtube.com/watch?v=JGyWEE4Cgo4",
+    "https://www.ptc.com/ja/store/products/creo/creo-additive-manufacturing-extension?srsltid=AYCX9vISYRC4dRNweX1-7Hhm4Y1sBOA9_E-yzUp58ZDWfEz2K5yK3oIy",
+    "https://www.iguazu-3d.jp/product/price/",
+    "https://www.asl-i.com/contents/category/price-order/",
+    "https://search.kakaku.com/amphion/",
+    "https://store.miroc.co.jp/category/BRAND369"
+   ]
+  },
+  {
+   "query": "Amphyon free trial",
+   "results": [
+    "https://oqton.com/geomagic-3dxpert-and-amphyon-now-developed-by-oqton/",
+    "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "https://support.3dsystems.com/s/article/Getting-Started-Amphyon",
+    "https://ops.opengrants.io/grants/amphion-grant-program",
+    "https://www.tctmagazine.com/altair-partner-alliance-addition-additive-works-amphyon/",
+    "https://3dadept.com/how-does-amphyon-software-improve-simulation-aided-additive-manufacturing/",
+    "https://slashdot.org/software/comparison/Amphyon-vs-Ansys-Additive-Suite/",
+    "https://amphionfoundation.org/",
+    "https://www.youtube.com/watch?v=9PVe1Xy-ClE",
+    "https://support.3dsystems.com/s/article/Getting-Started-Amphyon?language=en_US"
+   ]
+  },
+  {
+   "query": "Amphyon company founded employees funding",
+   "results": [
+    "https://amphionfoundation.org/programs/amphion-grant-program",
+    "https://startupintros.com/orgs/amphion-innovations",
+    "https://www.privateequityinternational.com/amphion-struggles-to-reverse-its-fate/",
+    "https://finder.startupnationcentral.org/company_page/amplication",
+    "https://quoteddata.com/company/0p00007nxf/",
+    "https://amventures.com/company-portfolios/additive-works/",
+    "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/",
+    "https://www.voxelmatters.com/amphyon-3d-printing-simulation-software-additive-works-joins-altair-partner-alliance/",
+    "https://tracxn.com/d/companies/amplify/__zMen4YQZOqMTd5lNct6GeDV0OC6x0pSataAQmgZjiLo",
+    "https://pitchbook.com/profiles/company/452882-17"
+   ]
+  }
+ ],
+ "missing": {
+  "再販・パートナー制度": "記載なし（読んだ35頁・検索7回）"
+ }
+}

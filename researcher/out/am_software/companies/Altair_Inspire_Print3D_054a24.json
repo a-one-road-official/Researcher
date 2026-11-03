@@ -1,0 +1,887 @@
+{
+ "name": "Altair Inspire Print3D",
+ "en": "Inspire Print3D",
+ "aliases": [
+  "Altair Inspire",
+  "アルテア"
+ ],
+ "context": "造形シミュレーション",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:34:32.198205+00:00",
+ "evidence": {
+  "再販・パートナー制度": [
+   {
+    "quote": "Siemens/Altair Channel Partner",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Altair Channel Partner",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "TrueInsight is the premium channel partner for Altair Engineering, providing solutions and support for Altair’s cutting-edge design, simulation and data analytics solutions like HyperMesh, OptiStruct and Feko.",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Variables",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Create and assign variables to parametrize a model. This allows you to quickly iterate and compare design concepts by tweaking the values of the variables.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Create parametric sketches, geometry, and PolyNURBS with construction history and variables.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate designs by using geometric variables and applying a design-of-experiments (DOE) or optimization method. We recommend fully constraining your sketch when sketch variables are used in the design exploration.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Perform linear static and normal modes analysis with advanced embedded solvers. Rapidly assess multiple design variants from fully featured CAD geometry, while traditional finite element analysis (FEA) ensures detailed structural validation.",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Variables",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Create and assign variables to parametrize a model. This allows you to quickly iterate and compare design concepts by tweaking the values of the variables.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Create parametric sketches, geometry, and PolyNURBS with construction history and variables.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate designs by using geometric variables and applying a design-of-experiments (DOE) or optimization method. We recommend fully constraining your sketch when sketch variables are used in the design exploration.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "VariCAD",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Inspire Extrude Polymer profile enhances and optimizes the polymer extrusion process for improved quality and productivity. Understand how profile features and process variables interact for any polymer.",
+    "url": "https://altairone.com:443/marketplace?queryText=Inspire&tab=Info&app=Inspire",
+    "pass": 3
+   },
+   {
+    "quote": "Var Industries",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Var Group",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise OEM",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Referrals",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Free Trial",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "TrueInsight helps teams evaluate, adopt, and use Altair Inspire Print3D with practical guidance tied to real engineering workflows. From licensing and demos to onboarding, training, and day-to-day support, the goal is to help your team move faster with additive manufacturing simulation and make better use of the software in production-focused environments.",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "TrueInsight can support evaluation, licensing, demos, onboarding, training, and practical implementation guidance so your team can adopt Inspire Print3D with less friction and stronger workflow alignment.",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how to access the Inspire Python API including online help, quick start demos, and the Extension Manager.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "folder from the Demo Browser (F7).",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Academic Programs",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo, Trial, or Quote",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "See Altair Inspire demonstrated by engineers who use it every day.",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Trial, Demo, or Quote",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how to access the Inspire Python API including online help, quick start demos, and the Extension Manager.",
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインヘルプ、クイックスタートデモ、拡張マネージャーなど、Inspire Python API へのアクセス方法について説明します",
+    "url": "https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "キーを押してデモブラウザを開きます",
+    "url": "https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "実行の完了を待たずに次のステップに進む場合は、デモブラウザ（F7）からPrint3Dフォルダにある",
+    "url": "https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://altairone.com:443/marketplace?queryText=Inspire&tab=Info&app=Inspire",
+    "pass": 3
+   },
+   {
+    "quote": "for a free Altair One account for access to free trials, more purchase options and more!",
+    "url": "https://altairone.com:443/marketplace?queryText=Inspire&tab=Info&app=Inspire",
+    "pass": 3
+   },
+   {
+    "quote": "Free 30-Day Trial",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "The Simcenter Inspire trial version is completely free. Simply fill in the form with your details to request an Inspire evaluation license.",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Request Your Free Trial",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "To be sure of your choice, we recommend starting with the free Trial Version.",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace Startup",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Engineering Solutions",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device Engineering Solutions",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Engineering Solutions & Simulation",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Aviation",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Care",
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "iQUAVISを基盤とする仕組みでISO 26262を取得自動車業界向け半導体事業を加速",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな解析自動化プラットフォーム構築で成長市場の自動車開発を加速",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "CAEプラットフォームの マルチクラウド環境実現により 次世代自動車開発を加速",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "#自動車業界",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "電動工具開発での樹脂流動解析の活用事例",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルスレッドとデジタルツインの違い 事例とメリットをご紹介",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "MBEとは？製造業のものづくりを変えるメリットと事例をご紹介",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "このページでは、Altair社が開発した工業デザイン向けの3DCAD「Altair Inspire Studio」について、製品の特徴やシステムの強み、導入事例などを詳しく紹介しています",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界や建築業界、その他にも様々なジャンルで活躍するデザイナーやエンジニアに向いており、さらに個々のニーズに合わせてカスタマイズもできます",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車や航空宇宙開発などに携わっている中央エンジニアリングでは、製品の軽量化と高剛性化を叶えるためのトポロジー最適化を実現するため、アルテア社が開発したAIソリューションを導入しました",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.altairjp.co.jp/customer-story/chuo-engineering-ml",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspireの特徴・導入事例など製品情報を紹介！【ITreview】IT製品のレビュー・比較サイト",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspireの製品情報（特徴・導入事例）",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "最適化され、3D プリンターで作成された航空宇宙分野向け金属ブラケット",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "＜Altair Inspireユーザー事例＞",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspireの事例を紹介しています",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.altairjp.co.jp/resourcelibrary/?category=Customer%20Stories&keywords=Inspire",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspireを用いた活用事例などに関する講演を開催しています",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・輸送機器｜製造・生産技術｜300-1000人未満｜ユーザー（利用者）｜契約タイプ 有償利用",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エイトエンジニアリング｜自動車・輸送機器｜機構・筐体などのメカ設計｜100-300人未満｜ユーザー（利用者）",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Customers with an active annual subscription can transfer the license to a different machine upon formal request to Simcenter.",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defence",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "The earliest adopters were the satellite and aerospace companies, because they didn't have large volumes, but they needed highly optimized and lightweight designs. We designed a telescope bracket and other brackets with EOS for EADS where complex loads came into play.",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defence",
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Verified advantage: Algorithms enable up to 15% weight reduction and 3x fatigue life increase in metal AM parts (e.g., Sintavia case study). Defensible through integration with Altair's simulation suite and patents on optimization methods.",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Target Customers",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Design engineers, product designers, architects, and scientists in industries like aerospace, automotive, and manufacturing seeking to optimize parts for AM production.",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace; Automotive; Manufacturing; Industrial Design",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Notable Customers",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Altair Inspire Print3D | 3D Printing Simulation Software — Altair Inspire Print3D | 3D Printing Simulation Software TrueInsight https://www.trueinsight.io > Altair",
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Simulating Binder Sintering in Altair Inspire Print 3D - YouTube — Simulating Binder Sintering in Altair Inspire Print 3D - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=mWdd6yAen-s",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspire ™ Print3D Product Overview - YouTube — Altair Inspire ™ Print3D Product Overview - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=2NntjlFbQ0U",
+    "pass": 3
+   },
+   {
+    "quote": "What's New in Inspire Print3D - Siemens Community — What's New in Inspire Print3D - Siemens Community Siemens https://community.sw.siemens.com > ...",
+    "url": "https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspire Print3D - Support Optimization - YouTube — Altair Inspire Print3D - Support Optimization - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=vj9iqgBP_Gk",
+    "pass": 3
+   },
+   {
+    "quote": "Print 3D using Altair Inspire - YouTube — Print 3D using Altair Inspire - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=xf-6G2tE1Ys",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形向けの設計/シミュレーションツール Inspire Print3D ... — 積層造形向けの設計/シミュレーションツール Inspire Print3D ... altair.com https://web.altair.com > webinar-inspireprint3d",
+    "url": "https://web.altair.com/webinar-inspireprint3d",
+    "pass": 3
+   },
+   {
+    "quote": "「 Altair Inspire Studio」の 価格 や利点 — 「 Altair Inspire Studio」の 価格 や利点 3dcad-productiontech.net https://www.3dcad-productiontech.net > altair-inspire-studio",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspire シミュレーションドリブンデザイン - 3DiH — Altair Inspire シミュレーションドリブンデザイン - 3DiH 3D innovation Hub https://3dih.jp > printer > software > inspire",
+    "url": "https://3dih.jp/printer/software/inspire/",
+    "pass": 3
+   }
+  ],
+  "日本の代理店": [
+   {
+    "quote": "セイコーエプソン株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "スズキ株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東芝",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットグリッパーの最終デザイン 画像提供：アルテアエンジニアリング株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspireで設計されたロボットアーム 画像提供：アルテアエンジニアリング株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "ブラザー工業株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "日立建機株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "リョービ株式会社",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 電通総研",
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "pass": 3
+   },
+   {
+    "quote": "ブリヂストンサイクル株式会社では、電動アシスト自転車やロードバイクなど様々な自転車製品の開発を効率的に進められるよう、アルテアの「Altair AcuSolve」を導入しています",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "Altair社（日本法人：アルテアエンジニアリング株式会社）",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルテアエンジニアリング株式会社",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Altair Inspireとは、アルテアエンジニアリング株式会社が提供している構造解析、CAE製品",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エイトエンジニアリング｜自動車・輸送機器｜機構・筐体などのメカ設計｜100-300人未満｜ユーザー（利用者）",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "対応する拡張子が合計20以上、価格は40～120万円程度",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,135,970円（税込）",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "535,000円（税込）",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "946,000円（税込）",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "その内、対応するデータ形式が合計20個以上で、パラメトリックモデリング対応とマウスによる直観操作が可能、かつ価格が40万円～120万円程度のミドルレンジ帯のソフトウェア10種に絞り込んだ",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Alibre Designの選定理由：10種の内、ライセンスの価格がもっとも安い3DCADソフトウェアとして選出",
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2026 SmartCAE srl | All Rights Reserved | Share capital €100,000.00 fully paid | REA number FI: 602503 | VAT no. 01899650970 |",
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "pass": 3
+   }
+  ],
+  "日本語対応": [
+   {
+    "quote": "日本語、 中国語、 英語、 フランス語、 ドイツ語、イタリア語、 韓国語、 ポルトガル語、 スペイン語",
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "Acquired by Altair in 2008; expanded product offerings include Altair 365 cloud-based simulation and integration of Click2Cast products post-2015 acquisition; global distribution network and part of Altair HyperWorks suite.",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1991; Acquired by Altair in 2008; Released Inspire Print3D in 2019 for metal AM simulation",
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.trueinsight.io/altair/print3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/165766/voodoo-print-api-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.prusa3d.com/affiliates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simutron.co.za/products/simcenter-inspire-3d-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoftwarehub.com/en-bh/products/inspire/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sdasoftware.com/software/altair/altair-inspire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/inspire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/en/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano3dprint.com/partnerships/distributor/?srsltid=AYCX9vKc5DJv8l5HVA9ipc5yuePNwBhh9x9ksYI0_kSQIigRn1K6G8Fu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/inspire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richintech.com/product/Inspire_Print3D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrastrong-it.com/index.php/dsms/inspire/alp3d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/products/simcenter/mechanical-simulation/inspire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/altair-inspire/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dih.jp/printer/software/inspire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altairone.com:443/marketplace?queryText=Inspire&tab=Info&app=Inspire",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dgbire.com/pages/3d-printer-loan-scheme?srsltid=AYCX9vKWs-el1lXgzXQuhHzc8w9EqCse4EKUHP8_CHOuI1qcloWWBbrw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slashdot.org/software/3d-printing/free-trial/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/altair-offering-free-trial-license-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanalyze.com/2017/02/7-3d-printing-metal-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asme.org/topics-resources/content/7-startups-driving-innovation-in-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampulse.online/company/solidthinking",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inspire Print3D reseller partner program",
+   "results": [
+    "https://www.trueinsight.io/altair/print3d",
+    "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "https://www.youtube.com/watch?v=mWdd6yAen-s",
+    "https://www.materialise.com/en/industrial/software/partnerships",
+    "https://3dprint.com/165766/voodoo-print-api-partner-program/",
+    "https://www.youtube.com/watch?v=iyytBOXPMnw",
+    "https://partner.prusa3d.com/",
+    "https://www.creality.com/campaigns/maker-program-2026",
+    "https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d",
+    "https://www.inspirecommerce.com/channel.html"
+   ]
+  },
+  {
+   "query": "Inspire Print3D pricing license",
+   "results": [
+    "https://www.trueinsight.io/altair/print3d",
+    "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "https://www.youtube.com/watch?v=2NntjlFbQ0U",
+    "https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d",
+    "https://simutron.co.za/products/simcenter-inspire-3d-print/",
+    "https://www.youtube.com/watch?v=vj9iqgBP_Gk",
+    "https://zoftwarehub.com/en-bh/products/inspire/overview",
+    "https://www.youtube.com/watch?v=mWdd6yAen-s",
+    "https://sdasoftware.com/software/altair/altair-inspire/",
+    "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/inspire/"
+   ]
+  },
+  {
+   "query": "Inspire Print3D Japan distributor",
+   "results": [
+    "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "https://www.trueinsight.io/altair/print3d",
+    "https://www.youtube.com/watch?v=xf-6G2tE1Ys",
+    "https://partners.solize.com/en/manufacturing",
+    "https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://nano3dprint.com/partnerships/distributor/?srsltid=AYCX9vKc5DJv8l5HVA9ipc5yuePNwBhh9x9ksYI0_kSQIigRn1K6G8Fu",
+    "https://www.inspirejp.com/en"
+   ]
+  },
+  {
+   "query": "Altair Inspire Print3D 代理店",
+   "results": [
+    "https://www.youtube.com/watch?v=2NntjlFbQ0U",
+    "https://www.trueinsight.io/altair/print3d",
+    "https://help.altair.com/inspire/en_us/topics/inspire/3Dprint/3Dprint_inspire_c.htm",
+    "https://www.youtube.com/watch?v=xf-6G2tE1Ys",
+    "https://web.altair.com/webinar-inspireprint3d",
+    "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "https://www.richintech.com/product/Inspire_Print3D/",
+    "https://ultrastrong-it.com/index.php/dsms/inspire/alp3d.html",
+    "https://www.siemens.com/ja-jp/products/simcenter/mechanical-simulation/inspire/",
+    "https://www.ruanfujia.com/software/10480519/reseller/"
+   ]
+  },
+  {
+   "query": "Altair Inspire Print3D 価格",
+   "results": [
+    "https://www.3dcad-productiontech.net/manufacturing/altair-inspire-studio.html",
+    "https://2022.help.altair.com/2022/inspire/ja_jp/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "https://www.siemens.com/ja-jp/products/simcenter/mechanical-simulation/inspire/",
+    "https://mfg.dentsusoken.com/product/cae/software/vendor/altair-engineering/inspire.php",
+    "https://www.itreview.jp/products/altair-inspire/profile",
+    "https://3dih.jp/printer/software/inspire/",
+    "https://monoist.itmedia.co.jp/mn/articles/1911/27/news041.html",
+    "https://www.richintech.com/product/Inspire_Print3D/",
+    "https://skhonpo.com/blogs/blog/3dartair",
+    "https://www.itreview.jp/products/inspire-studio/price"
+   ]
+  },
+  {
+   "query": "Inspire Print3D free trial",
+   "results": [
+    "https://www.trueinsight.io/altair/print3d",
+    "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "https://altairone.com/Marketplace?queryText=Inspire&tab=Info&app=Inspire",
+    "https://community.sw.siemens.com/s/article/34209-whats-new-in-inspire-print3d",
+    "https://www.youtube.com/watch?v=2NntjlFbQ0U",
+    "https://3dgbire.com/pages/3d-printer-loan-scheme?srsltid=AYCX9vKWs-el1lXgzXQuhHzc8w9EqCse4EKUHP8_CHOuI1qcloWWBbrw",
+    "https://inspire.smartcae.com/en/how-to-get-inspire/",
+    "https://slashdot.org/software/3d-printing/free-trial/",
+    "https://www.americamakes.us/altair-offering-free-trial-license-training/",
+    "https://web.altair.com/inspire-free-trial"
+   ]
+  },
+  {
+   "query": "Inspire Print3D company founded employees funding",
+   "results": [
+    "https://www.youtube.com/watch?v=2NntjlFbQ0U",
+    "https://ie.linkedin.com/company/inspire-3d",
+    "https://www.trueinsight.io/altair/print3d",
+    "https://help.altair.com/inspire/en_us/topics/inspire/tutorials/tut_GSprint3D_gettingstarted_c.htm",
+    "https://www.nanalyze.com/2017/02/7-3d-printing-metal-startups/",
+    "https://www.asme.org/topics-resources/content/7-startups-driving-innovation-in-3d-printing",
+    "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "https://www.amfg.ai/post/expert-interview-altairs-sr-vp-business-development-strategy-ravi-kunju-on-simulation-software-for-3d-printing",
+    "https://www.youtube.com/watch?v=vj9iqgBP_Gk",
+    "https://www.ampulse.online/company/solidthinking"
+   ]
+  }
+ ],
+ "missing": {}
+}

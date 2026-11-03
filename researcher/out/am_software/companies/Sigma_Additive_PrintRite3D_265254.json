@@ -1,0 +1,771 @@
+{
+ "name": "Sigma Additive PrintRite3D",
+ "en": "PrintRite3D",
+ "aliases": [
+  "Sigma Additive",
+  "Sigma Labs"
+ ],
+ "context": "造形中の監視・品質保証",
+ "kind": "market",
+ "researched_at": "2026-11-03T01:36:02.548171+00:00",
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Lockheed Martin Selects PrintRite3D for Aerospace 3D ... — Lockheed Martin Selects PrintRite3D for Aerospace 3D ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=KYCPNAS83cE",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma Labs Releases PrintRite3D 7.0 Quality Assurance ... — Sigma Labs Releases PrintRite3D 7.0 Quality Assurance ... America Makes https://www.americamakes.us > sigma...",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "SIGMA Labs PrintRite3D ® - Digital-Can Tech — SIGMA Labs PrintRite3D ® - Digital-Can Tech digital-can.com https://www.digital-can.com > sigma-l...",
+    "url": "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "pass": 3
+   },
+   {
+    "quote": "PrintRite3D ® - EWI.org — PrintRite3D ® - EWI.org ewi.org PDF https://ewi.org > wp-content > uploads > 2015/11",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma Labs launches PrintRite3D Version 5.0 at RAPID + TCT — Sigma Labs launches PrintRite3D Version 5.0 at RAPID + TCT 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma Additive Sells 3D Printing IP to Become an Online ... — Sigma Additive Sells 3D Printing IP to Become an Online ... 3DPrint.com https://3dprint.com > sigma-additive-s...",
+    "url": "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.",
+    "url": "https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Farsoon Files $479M Raise for New Manufacturing Services Expansion",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "compared to some of its 3D printing software peers, and it generated just $700,000 in Q3 2021, thus its decision to introduce PrintRite3D into polymer production could be seen as a move to broaden its market base.",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAXIS raises more than €1M to launch its AdaOne 3D printing software",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma Labs PrintRite3D: Pricing, Reviews & Features 2026 | Manufact...",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   }
+  ],
+  "会社の規模": [
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "“PrintRite3D 7.0 is a very important release as it provides a competitive advantage for our customers. They can access calibrated melt pool temperature and monitor the cooling rate which means higher quality mission critical parts,” said",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "“PrintRite3D 7.0 has established a new level in technology to ensure the highest quality standard in the 3D metal printing industry and this is paramount to our customers. Most important, Sigma accomplishes this at production scale in an era of increasing part complexity.” said",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Gradient Ventures, Google’s AI-focused Investment Fund and former Autodesk CEO Carl Bass. The company was founded in 2015 and is headquartered in Seattle, WA. Dyndrite was named a World Economic Forum Technology Pioneer for 2021.",
+    "url": "https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software",
+    "pass": 3
+   },
+   {
+    "quote": "11-50 Employees",
+    "url": "https://www.annualreports.com/Company/sigma-additive-solutions-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Although Ruport says it’s currently “difficult to quantify the size of the market opportunity,” Sigma Labs has already gained two PrintRite3D orders from SLS customers, which he has branded “a fantastic first step into the polymer segment of the market, that demonstrates the need to ensure the quality and consistency of 3D printed parts.”",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2010,",
+    "url": "https://www.excel3d.com/sigma-labs",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "“PrintRite3D 7.0 is a very important release as it provides a competitive advantage for our customers. They can access calibrated melt pool temperature and monitor the cooling rate which means higher quality mission critical parts,” said",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "“PrintRite3D 7.0 has established a new level in technology to ensure the highest quality standard in the 3D metal printing industry and this is paramount to our customers. Most important, Sigma accomplishes this at production scale in an era of increasing part complexity.” said",
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "pass": 3
+   },
+   {
+    "quote": " Validated by industry leaders GE Aviation and Honeywell Aerospace",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "For the most critical applications like aerospace and defense, there",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "parts to go beyond aerospace, defense and biomedical to",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "automotive and general industrial applications.",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Components",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "– Honeywell Aerospace (prime)",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma Additive Solutions’ PrintRite3D technology employs sensors and software to monitor various aspects of metal laser powder bed fusion (LPBF) machines. Traditionally, internal access for monitoring risked voiding the warranty or required OEM assistance, making Sigma’s direct collaborations with OEMs and aerospace entities through America Makes essential. Newer companies like",
+    "url": "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Military & Defense",
+    "url": "https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software",
+    "pass": 3
+   },
+   {
+    "quote": "航空MRO新紀元：3D列印如何提升效率與可靠性！",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "航空航太：以多孔螺旋曲面設計熱交換器並突破其限制",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "航空航太：實現卓越的智慧策略—MTU使用積層製造技術生產系列元件",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "航空航太：Airbus Defence and Space – EOS 的積層製造工藝優化衛星技術",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "航空航太：RUAG — 實現衛星零部件積層製造",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "高科技航空航太元件的工業級 3D 列印",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "民用航空器的液壓控制閥",
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "thus it can be utilized on any third-party Directed Energy Deposition (DED) system, and retrofitted to scale existing dual and quad-laser setups.",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "in various defense and civil aviation programs as well.",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": ", Sigma Labs says the industrial polymer market is around 2.5 times the size of its metal counterpart, with 35% of systems being sold in the U.S. As a result, the firm sees polymer 3D printing as a lucrative potential sector for it to expand into, especially given that AMPOWER has found the tech’s adoption to be growing in healthcare, aviation and automotive.",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Although Ruport says it’s currently “difficult to quantify the size of the market opportunity,” Sigma Labs has already gained two PrintRite3D orders from SLS customers, which he has branded “a fantastic first step into the polymer segment of the market, that demonstrates the need to ensure the quality and consistency of 3D printed parts.”",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Experience",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Medical device manufacturing",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive industry",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Customers:",
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma’s innovative approach to quality assurance for products in highly demanding production environments like the Aerospace and Defence industries is a proactive, comprehensive, and process-focused methodology. It allows prediction with adequate requirements of product conformance to defined acceptance levels.",
+    "url": "https://www.excel3d.com/sigma-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.digital-can.com/products/printrite3d-version-7-0/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.digital-can.com/products/printrite3d-version-7-0/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive",
+    "url": "https://www.digital-can.com/products/printrite3d-version-7-0/",
+    "pass": 3
+   }
+  ],
+  "再販・パートナー制度": [
+   {
+    "quote": "Trumpf LMD Distributors",
+    "url": "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "pass": 3
+   },
+   {
+    "quote": "is still a lot of variation part-to-part, run-to-run, and machine-to-",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "process state variables",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ability to Predict Variations in Part Quality from In-Process Quality Metric Data",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " In-process data can be used to measure variations in material",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ability to Predict Variations in Part Quality from In-Process Quality Metric",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "variation",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ability to Detect Variations in Powder Size, Layer Thickness & Deposit",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Variations in Process/Part Quality",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Same Process Parameters Variation in Layer Thickness",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“PrintRite3D Version 5.0 resolves this challenge with results comparable and complementary to CT testing. This genuine advance provides value to OEMs and manufacturers, and is designed to increase production yield of 3D metal manufactured parts, cut post-process quality inspection costs and reduce time to market.”",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "pass": 3
+   },
+   {
+    "quote": "Sigma Additive Solutions’ PrintRite3D technology employs sensors and software to monitor various aspects of metal laser powder bed fusion (LPBF) machines. Traditionally, internal access for monitoring risked voiding the warranty or required OEM assistance, making Sigma’s direct collaborations with OEMs and aerospace entities through America Makes essential. Newer companies like",
+    "url": "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "pass": 3
+   },
+   {
+    "quote": "in various defense and civil aviation programs as well.",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "In effect, Sigma Labs has managed to achieve this by tweaking its platform’s software element, so that it’s capable of translating the signatures of SLS-radiated emissions in a way that enables the real-time monitoring of polymer prints, and provides OEMs with the ability to rapidly identify defects and deliver parts with greater quality assurance.",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM brand-independent",
+    "url": "https://www.excel3d.com/sigma-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Trumpf LMD Distributors",
+    "url": "https://www.digital-can.com/products/printrite3d-version-7-0/",
+    "pass": 3
+   }
+  ],
+  "無料体験": [
+   {
+    "quote": "Purpose of study was to demonstrate the ability of PrintRite3D®",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose of test was to demonstrate the ability of PrintRite3D® INSPECT™ software",
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Although Ruport says it’s currently “difficult to quantify the size of the market opportunity,” Sigma Labs has already gained two PrintRite3D orders from SLS customers, which he has branded “a fantastic first step into the polymer segment of the market, that demonstrates the need to ensure the quality and consistency of 3D printed parts.”",
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Demo",
+    "url": "https://www.excel3d.com/sigma-labs",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.printxpand.com/partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onprintshop.com/reseller-program",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.helioadditive.com/partners/reseller-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluestarinc.com/en-ca/manufacturers/partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/en/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20221108005388/en/Sigma-Additive-Solutions-Announces-Agreement-with-SLM-Solutions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.annualreports.com/Company/sigma-additive-solutions-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/%E3%82%B7%E3%82%B0%E3%83%9E%E3%83%BB%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%9E%E3%83%86/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/process-and-quality-control-for-3d-printing-sigma-labs-printrite3d/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.excel3d.com/sigma-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dgbire.com/pages/3d-printer-loan-scheme?srsltid=AYCX9vKTJFhtl0Xz1tr5uy5Q-3iQmT9wHJiddsaODgrMY_grejFCievC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/software/grabcad-print-pro-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiery.com/en-gb/free-trials/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polyga.com/xtract3d/free-trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital-can.com/products/printrite3d-version-7-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/3d-printing-venture-funding-fsrd-dm-mkfg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/company-lists/top-23-3d-printing-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vcbacked.co/directory/industries/printing/page/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanalyze.com/2023/04/3d-printing-startups-disrupt-industry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PrintRite3D reseller partner program",
+   "results": [
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.printxpand.com/partnership-program/",
+    "https://onprintshop.com/reseller-program",
+    "https://www.helioadditive.com/partners/reseller-partner-program",
+    "https://www.bluestarinc.com/en-ca/manufacturers/partner-programs",
+    "https://www.youtube.com/watch?v=KYCPNAS83cE",
+    "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "https://www.flashforge.com/pages/affiliate-program?srsltid=AYCX9vJd64nucWh1QwsSVcZvJNPLD2E-OHTsTSvrIfQeSiPDp3mMPXZS",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/indirect-reseller-eligibility-requirements"
+   ]
+  },
+  {
+   "query": "PrintRite3D pricing license",
+   "results": [
+    "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "https://simplyprint.io/pricing",
+    "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "https://www.youtube.com/watch?v=G_1soqmPHG8&vl=ja",
+    "https://www.laserproductsus.com/lt3raptor/pricing/",
+    "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "https://www.facebook.com/groups/482533505156388/posts/27650156277967410/",
+    "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d"
+   ]
+  },
+  {
+   "query": "PrintRite3D Japan distributor",
+   "results": [
+    "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.upnano.com/distributors/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "https://mono.ipros.com/product/detail/2000582529/"
+   ]
+  },
+  {
+   "query": "Sigma Additive PrintRite3D 代理店",
+   "results": [
+    "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "https://www.linkedin.com/company/sigma-additive",
+    "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "https://www.businesswire.com/news/home/20221108005388/en/Sigma-Additive-Solutions-Announces-Agreement-with-SLM-Solutions",
+    "https://www.dyndrite.com/press-releases/sigma-dyndrite-agree-build-connected-in-process-data-software",
+    "https://www.annualreports.com/Company/sigma-additive-solutions-inc",
+    "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "https://www.digital-can.com/zh-hant/sigma-labs-printrite3d-zh/",
+    "https://www.mg21.com/sasi.html"
+   ]
+  },
+  {
+   "query": "Sigma Additive PrintRite3D 価格",
+   "results": [
+    "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "https://3dprint.com/303197/sigma-additive-sells-3d-printing-ip-to-become-an-online-travel-company/",
+    "https://www.linkedin.com/company/sigma-additive",
+    "https://www.annualreports.com/Company/sigma-additive-solutions-inc",
+    "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "https://www.materialise.com/en/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "https://3dprintingindustry.com/news/sigma-labs-printrite3d-platform-made-compatible-with-polymer-3d-printing-201503/",
+    "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/%E3%82%B7%E3%82%B0%E3%83%9E%E3%83%BB%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%9E%E3%83%86/",
+    "https://manufacturing.toolsinfo.com/tool/sigma-labs-printrite3d",
+    "https://www.metal-am.com/articles/process-and-quality-control-for-3d-printing-sigma-labs-printrite3d/"
+   ]
+  },
+  {
+   "query": "PrintRite3D free trial",
+   "results": [
+    "https://www.americamakes.us/sigma-labs-releases-printrite3d-7-0-quality-assurance-system-for-3d-metal-printing/",
+    "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "https://www.digital-can.com/sigma-labs-printrite3d/",
+    "https://3dprintingindustry.com/news/sigma-labs-launches-printrite3d-version-5-0-at-rapid-tct-155943/",
+    "https://3dgbire.com/pages/3d-printer-loan-scheme?srsltid=AYCX9vKTJFhtl0Xz1tr5uy5Q-3iQmT9wHJiddsaODgrMY_grejFCievC",
+    "https://www.stratasys.com/en/software/grabcad-print-pro-trial/",
+    "https://www.youtube.com/watch?v=KYCPNAS83cE",
+    "https://www.fiery.com/en-gb/free-trials/",
+    "https://www.polyga.com/xtract3d/free-trial/",
+    "https://www.digital-can.com/products/printrite3d-version-7-0/"
+   ]
+  },
+  {
+   "query": "PrintRite3D company founded employees funding",
+   "results": [
+    "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "https://news.crunchbase.com/venture/3d-printing-venture-funding-fsrd-dm-mkfg/",
+    "https://www.inven.ai/company-lists/top-23-3d-printing-companies",
+    "https://www.vcbacked.co/directory/industries/printing/page/3",
+    "https://www.nanalyze.com/2023/04/3d-printing-startups-disrupt-industry/",
+    "https://www.youtube.com/watch?v=KYCPNAS83cE",
+    "https://startupintros.com/orgs/aon3d",
+    "https://www.sandiegouniontribune.com/business/story/2023-02-07/san-diego-startup-to-build-3d-printing-factory-that-would-almost-triple-its-workforce/",
+    "https://ewi.org/wp-content/uploads/2015/11/Sigma_Labs_AMC_Fall_Meeting_20151019_1340___Mark_Cola.pdf",
+    "https://www.metal-am.com/spartacus3d-applies-printrite3d-from-sigma-labs/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本の代理店": "記載なし（読んだ35頁・検索7回）",
+  "日本語対応": "記載なし（読んだ35頁・検索7回）"
+ }
+}
