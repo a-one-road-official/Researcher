@@ -1,4 +1,4 @@
-# 日本から海外へ売る商材の候補 — 輸出額・伸び・仕向け先・取り分・規制（事実のみ・6品目）
+# 日本から海外へ売る商材の候補 — 輸出額・伸び・仕向け先・取り分・規制（事実のみ・8品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -89,13 +89,9 @@
 - 取り分・商流：記載なし（読んだ36頁・検索6回）
 - 規制：記載なし（読んだ36頁・検索6回）
 
-## 日本製測定機器・計測器の輸出（Japanese measuring instruments export）
-- 文脈：輸出
-- 輸出額・伸び：記載なし（読んだ36頁・検索6回）
-- 仕向け先：記載なし（読んだ36頁・検索6回）
-- 価格差・需要：記載なし（読んだ36頁・検索6回）
-- 取り分・商流：記載なし（読んだ36頁・検索6回）
-- 規制：記載なし（読んだ36頁・検索6回）
+## 日本製測定機器・計測器の輸出
+- 文脈：
+- エラー：ValueError: netloc '＃toka＃' contains invalid characters under NFKC normalization
 
 ## 金型の輸出（Japanese molds and dies export）
 - 文脈：輸出
@@ -162,11 +158,70 @@
 
 ## 町工場の試作・部品加工の海外受託（Japanese job shop machining for overseas customers）
 - 文脈：輸出
-- 輸出額・伸び：記載なし（読んだ33頁・検索6回）
-- 仕向け先：記載なし（読んだ33頁・検索6回）
-- 価格差・需要：記載なし（読んだ33頁・検索6回）
-- 取り分・商流：記載なし（読んだ33頁・検索6回）
-- 規制：記載なし（読んだ33頁・検索6回）
+- 輸出額・伸び：
+  - 「リスク4：為替変動と取引条件による負担の増加」（https://lefixea.jp/mfg/articles/supplier-development6）
+  - 「3D CAD/CAMのスキルを持つ若手技術者も増加中」（https://vietnam-metal-kakou.com/2025/07/28/parts/）
+  - 「本記事では、国内市場の縮小に直面しながらも、海外展開に積極的に取り組み、年商10億円を超える成長を実現した町工場の成功事例を10件ご紹介します」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「従業員わずか15名の金属加工会社が、現在では30カ国以上に製品を輸出し、年商50億円を超える企業へと変貌を遂げました」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「2. 日本の町工場が海外進出で年商10億円達成！実践された販路開拓戦略を徹底解説」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「大阪府八尾市に本社を構える金属加工の町工場「サカイ精機」は、創業から40年以上の歴史を持ちながら、わずか5年で年商2億円から10億円へと飛躍的な成長を遂げました」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「Japan’s machine tool industry returned to growth in 2025, with total orders reaching JPY 1,604.3 billion — the fourth-highest level on record. Production also grew for the first time in three years, rising 9.0% to JPY 982.6 billion. Foreign demand drove the recovery, while domestic demand remained sluggish.」（https://seisanzai-japan.com/article/p6194/）
+  - 「: up 17.6% to a record JPY 360.0 billion, with the U.S. up 17.0% to JPY 312.7 billion. Aerospace, construction machinery, and automotive all contributed. Mexico extended its growth streak to five consecutive years.」（https://seisanzai-japan.com/article/p6194/）
+  - 「: up 4.5% to JPY 197.4 billion, returning to growth but remaining below JPY 200 billion. Germany recovered only modestly, up 4.7%.」（https://seisanzai-japan.com/article/p6194/）
+  - 「By country, China topped the rankings for the second consecutive year, up 19.9% to JPY 246.2 billion. Vietnam was the standout mover, climbing to fifth place with growth of 102.9%.」（https://seisanzai-japan.com/article/p6194/）
+- 仕向け先：
+  - 「海外、特に中国や東南アジアの国々では、」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「ここでは、日本企業にとって主要な部品調達先である中国、タイ、ベトナムの3カ国を取り上げ、それぞれの特徴と強みを解説します」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「中国：コストメリットと量産体制が強み」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「「世界の工場」として知られる中国は、圧倒的な生産能力と広範なサプライチェーンが最大の魅力です」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「中国の金属加工については」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「中国の金属加工のメリット・デメリット」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「「東南アジアのデトロイト」」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「人件費は中国よりは高いものの、日本国内と比較すれば依然としてコストメリットは大きく、品質とコストのバランスに優れた国と言えます」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「ベトナムは、中国やタイと比較して人件費が安く、コスト削減を最優先する場合には有力な選択肢となります」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「中国、香港に進出して20年を迎える企業」（https://www.tech-journey.jp/column/11-blg/）
+  - 「中国、韓国、台湾、ベトナムなどで調達」（https://www.tech-journey.jp/column/11-blg/）
+  - 「創業２0年以上の経験と自社工場以外に中国・韓国・ベトナムなど協力ネットワークを持っています」（https://www.tech-journey.jp/column/11-blg/）
+  - 「弊社の英語、中国語に堪能なスタッフが直接工場とやり取りを行います」（https://www.tech-journey.jp/column/11-blg/）
+  - 「中国 (広州・大連・深セン・東莞・蘇州)、台湾、ベトナム(ハノイ)、タイ、インド、シンガポール、韓国」（https://www.tech-journey.jp/column/11-blg/）
+  - 「プレス加工・深絞り加工の場合、弊社の自社工場が中国にあることから中国華南地区からの調達が多いです」（https://www.tech-journey.jp/column/11-blg/）
+- 価格差・需要：
+  - 「例えば、日本ではコストや環境規制の観点から実施が難しい加工方法でも、海外では対応できるケースが存在します」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「さらに、日本メーカー独自の「オリジナル材料」や「ブランド鋼材」も、海外では流通していないケースが多いです」（https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/）
+  - 「コラムー人気記事」（https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/）
+  - 「国内であれば短期間で訪問して確認できる不具合も、海外では移動や輸送、通訳の手配が必要になり、原因究明と是正に時間がかかる場合があります」（https://lefixea.jp/mfg/articles/supplier-development6）
+  - 「安全在庫や発注時期は需要変動と調達期間に応じて設計し、遅れが一定の水準を超えた場合は社内へ報告する基準を決めます」（https://lefixea.jp/mfg/articles/supplier-development6）
+  - 「新たな製造先に見積もりや試作を依頼する際には、図面、製品構造、材料情報、加工条件、需要見通しなど、競争力に関わる情報を開示することがあります」（https://lefixea.jp/mfg/articles/supplier-development6）
+  - 「machines are fully equipped, combining features which have previously been options, and ready for your demanding and arduous machining center environment.」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Today, third generation President, Katsutoshi Matsuura and his son Yuto, continue this tradition expanding the business to meet rising global demands for groundbreaking manufacturing solutions.」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Pallets and Tools to Meet Demanding Production Goals」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Meet even the most demanding of production goals with the」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Meeting Customer Demands for Precision and Delivery」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「At Matsuura, as a premium machine tool builder, our mission is to build high quality and dependable machines. Our goal [...]」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Takashima Sangyo may be suitable for buyers who need small precision machined parts for demanding technical applications.」（https://www.naitetech.com/top-cnc-machining-companies-in-japan.html）
+  - 「Small precision parts and demanding technical components」（https://www.naitetech.com/top-cnc-machining-companies-in-japan.html）
+  - 「Japan machine tool market 2025: foreign demand drives recovery as orders hit fourth-highest level | Industry and Manufacturing News Archive | SEISANZAI Japan」（https://seisanzai-japan.com/article/p6194/）
+- 取り分・商流：
+  - 「また、日本国内に拠点や代理店を持つ企業であれば、緊急時の連絡や対応がスムーズに進むため、より安心して取引ができます」（https://asiaplanning.com/machining/column/column-3626/）
+  - 「弊社では、日本の商社や中国商社を介さず、直接に中国の加工メーカーとやり取りをしておりますので、余計な中間マージンは発生しません」（https://www.hirano-s.jp/kaigaisei）
+  - 「デジタルマーケティングの活用方法や展示会戦略、越境ECの活用法、現地パートナーとの効果的な提携方法など、実際に成果を上げた企業の取り組みから、あなたの会社でも応用できるエッセンスを抽出しました」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「現地代理店との連携により、言語や商習慣の壁を乗り越え、現在は売上の30%以上を海外が占めるまでに成長しています」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「坂口製作所は各国の商社や代理店との連携を強化」（https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/）
+  - 「「アストロプロダクツ」の正規代理店」（https://alps-inc.com/machining-outsourcing-jp-cn-vn/）
+  - 「「Ko-ken(コーケン)」の正規代理店」（https://alps-inc.com/machining-outsourcing-jp-cn-vn/）
+  - 「「オレンジブック.com」の正規代理店」（https://alps-inc.com/machining-outsourcing-jp-cn-vn/）
+  - 「まず仲介手数料、いわゆるマージンコストの発生が挙げられます」（https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/）
+  - 「商社を介することでマージンが発生し、直接調達と比較してコストが上昇する場合があります」（https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/）
+  - 「Find a Distributor」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Distributor Map」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Exclusive Matsuura Distributor, Selway Machine Tool」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「“Our local distributor,」（https://www.matsuurausa.com/job-shop-dream-machines/）
+  - 「Exclusive Matsuura Distributor,」（https://www.matsuurausa.com/job-shop-dream-machines/）
+- 検索結果の抜粋：
+  - 「日本国内/ 海外 調達による 部品加工 について — 日本国内/ 海外 調達による 部品加工 について tech-journey.jp https://www.tech-journey.jp > column > 11-blg」（https://www.tech-journey.jp/column/11-blg/）
+  - 「町工場 マッチングで 海外 製 部品 の国内代替先を探す6つの手順 — 町工場 マッチングで 海外 製 部品 の国内代替先を探す6つの手順 lefixea.jp https://lefixea.jp > articles > small-factory-matching15」（https://lefixea.jp/mfg/articles/small-factory-matching15）
+  - 「町工場の試作部品加工の海外受託 越境EC 手数料 の求人情報をすべて見る （221,173件） — 町工場の試作部品加工の海外受託 越境EC 手数料 の求人情報をすべて見る （221,173件） スタンバイ」（https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 規制：記載なし（読んだ34頁・検索6回）
 
 ## 日本製の金属材料・特殊鋼の輸出（Japanese specialty steel export）
 - 文脈：輸出
@@ -189,3 +244,123 @@
   - 「10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新」（https://www.iru-miru.com/article/77591）
 - 取り分・商流：記載なし（読んだ34頁・検索6回）
 - 規制：記載なし（読んだ34頁・検索6回）
+
+## 中古工作機械の輸出業者・買取業者（used machine tool exporters Japan）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「10億円以下の罰金」（https://re-labo.jp/news/scientific-instrument-export-control-risk/）
+- 仕向け先：
+  - 「しかし、旋盤・プレス機をはじめとする機械は、アジア・東南アジアでは今でも主力機械として現役で使われています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「東南アジア・南アジア・中東・アフリカでは製造業が急速に拡大しており、新品機械を購入する資金力はないが品質の高い機械を求めているという企業が多数あります」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「特にタイ・ベトナム・インドネシア・インド・トルコ・メキシコは日本製中古機械の主要な輸出先として知られています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「旋盤・マシニングセンタ・5軸加工機など多彩な機種が輸出市場でも需要があり、特に東南アジア・インド市場での人気が高いです」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「DMG森精機は欧州・中東・アフリカ市場への強い販売ルートを持ち、高精度な旋盤・マシニングセンタが世界的に評価されています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「精度・耐久性ともに世界トップクラスの評価を受けており、東南アジア・インド・中東を中心に中古市場でも高い需要があります」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「特に自動車部品の量産に使われる高速プレスは、タイ・メキシコ・インドネシアなど自動車産業が発展している国々で引き合いが強いです」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「大型の機械プレスを中心に、自動車・家電・重工業向けの部品製造に使われており、東南アジア・インド・中東の大手メーカー向けに需要があります」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「立形マシニングセンタは設置スペースが比較的小さく、多品種少量生産に向いているため、製造業が拡大中の東南アジアの中小企業に特に需要があります」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「横形マシニングセンタはパレット交換機能による量産加工への対応力から、タイ・メキシコ・インドなど自動車産業が発展している国々で引き合いが強い機種です」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「精密小径部品の大量生産に使われる自動旋盤（スター精密・シチズン・ツガミ）は、電子部品・医療部品需要が高まる東南アジア・インドでの引き合いが増えています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「旋盤は東南アジアの金属加工工場向け、プレス機はインドの鍛造工場向けの需要がありました」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「一方、アジア・東南アジア・インド・中東などでは、中古機械がまだ製造業の主力を担っています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「汎用旋盤はベトナム・インドネシア・バングラデシュなどの町工場向け、NC旋盤はインド・タイ・マレーシアなどの中規模製造業向けに需要があります」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「インドや中東の鍛造・プレス加工業者に根強い需要があります」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+- 価格差・需要：
+  - 「海外市場においては日本製の中古工作機械の信頼性が高く、需要があります」（https://www.kowakikai.com/business/global）
+  - 「海外輸出向けで需要が高い中古工作機械の機種とは」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「海外輸出向けで需要が高い中古工作機械の機種とは？買取価格が上がる条件も解説」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「20年を超えた工作機械は、国内市場ではほぼ需要がありません」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「「国内でゴミ扱いの機械が、海外では即決で売れる」——これは当社では日常的に起きることです」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「この記事では、海外需要が高い機種・条件・市場の実態を現場目線で解説します」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「なぜ日本製中古機械は海外で人気なのか」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「新興国での製造業拡大が需要を後押し」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「そうした市場では、日本製の中古機械が「手頃な価格で高品質」な選択肢として非常に人気です」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「国内では「古い」機械が海外では「最新鋭」になる」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「海外輸出向けに需要が高いメーカー（工作機械）」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「海外では部品供給体制や代理店ネットワークが整っているため、中古機械を購入した後のサポートも受けやすく、バイヤーから高い信頼を得ています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「旋盤・マシニングセンタ・5軸加工機など多彩な機種が輸出市場でも需要があり、特に東南アジア・インド市場での人気が高いです」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「牧野フライスは金型加工用マシニングセンタの分野で世界トップクラスの評価を持ち、アジア各国での需要が安定しています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「海外輸出向けに需要が高い機種・カテゴリ」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+- 取り分・商流：
+  - 「海外 輸出・輸入 | 興和機械株式会社｜中古工作機械の買取・販売・修理、bodor laser公式代理店」（https://www.kowakikai.com/business/global）
+  - 「海外では部品供給体制や代理店ネットワークが整っているため、中古機械を購入した後のサポートも受けやすく、バイヤーから高い信頼を得ています」（https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/）
+  - 「②海外メーカー製で国内代理店が対応していない」（https://www.maxet.co.jp/service）
+  - 「新品（代理店）」（https://www.toyo-trading.com/company/）
+  - 「興和機械株式会社｜中古工作機械の買取・販売・修理、bodor laser公式代理店」（https://kowakikai.com/）
+  - 「Step 2 — Choose a Trusted Japan-Based Exporter or Agent」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+  - 「You will need a licensed exporter in Japan. Look for a company with verifiable auction access, full inspection services, transparent fee structures, and a track record of international exports. At JapanCarNet, our team handles everything from sourcing to shipping, with no hidden fees.」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+  - 「Japanese machinery is sold through two main channels: fixed-price dealer stock (immediately available, inspected, photographed) and auction houses (USS Machinery, JBA, and others — weekly sales with live or proxy bidding). Your exporter will have access to both. Browse our current machinery stock or submit an auction search request.」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+  - 「Payments are typically by international bank wire transfer (T/T). Once payment is confirmed, your exporter will arrange port booking and provide you with the Bill of Lading, Japanese Export Certificate (de-registration document), commercial invoice, and packing list. Keep all of these — you will need them for import clearance.」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+  - 「Step 8 — Receive, Commission, and Put to Work」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+  - 「Once your machinery arrives, conduct a thorough commissioning check before putting it into full operation. For complex equipment, consider engaging a qualified local technician familiar with the brand to verify all systems and carry out any necessary servicing or calibration.」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+  - 「Pro Tip: For high-value machinery, always take out marine cargo insurance. Standard shipping liability covers only a fraction of the equipment's value. Ask your exporter or freight forwarder to arrange comprehensive All-Risk marine cover for the full CIF value of the shipment.」（https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/）
+- 規制：
+  - 「工作機械の輸出該非判定ソリューション」（https://www.nakamoto-3r.com/solution-1/）
+  - 「貨物の輸出をする際に生じる面倒な梱包やコンテナ船便の手配、さらに輸出手続きや輸出該非判定まで、トータルでの代行サービスを行っています」（https://www.nakamoto-3r.com/solution-1/）
+  - 「位置決め精度チェックと機械エラーの診断に基づき、工作機械の該非判定書(該当証明書、非該当証明書)の発行を行います」（https://www.nakamoto-3r.com/solution-1/）
+  - 「※本記事は2026年9月15日に、2025年5月28日施行の該非判定手続き改正およびロシア・ベラルーシ向け輸出規制の最新情報を反映して更新しました」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「神奈川県の機械メーカーの社長たちが、生物兵器に転用できる機械を中国に不正に輸出したという疑いをかけられ警視庁に、外国為替及び外国貿易法（以下、外為法）違反容疑で逮捕さました（＊1）」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「我が国をはじめとする主要国では、武器や軍事転用可能な貨物・技術が、我が国及び国際社会の安全性を脅かす国家やテロリスト等、懸念活動を行うおそれのある者に渡ることを防ぐため、先進国を中心とした国際的な枠組み（国際輸出管理レジーム）をつくり、国際社会と協調して輸出等の管理を行っています」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「リスト規制の対象か否か」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「輸出貿易管理令・別表第1や外国為替令・別表に記載されている機械や技術（リスト規制の対象の機械や技術」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「これらの機械や技術を「リスト規制の対象の機械や技術」といいます」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「「数値制御を行うことができる工作機械」がリスト規制の対象になるかどうかは、機種名だけで一律に決まるわけではありません」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「つまり同じ型式のマシニングセンタでも、新品同様の精度を保っている機械と、経年劣化で精度が落ちている機械とでは、該非判定の結果が変わることがあります」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「そのため中古機械の該非判定では、カタログスペック上の精度ではなく、実機を測定した「今の精度」が重要な判断材料になります」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「キャッチオール規制」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「「リスト規制の対象の機械や技術」でなくても、輸出規制の対象になることがあります」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+  - 「それは補完的輸出規制（キャッチオール規制）があるからです」（https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/）
+
+## 中古工作機械の輸出の商流と手数料（used machine tool export commission margin）
+- 文脈：輸出
+- 輸出額・伸び：
+  - 「日本産業機械工業会によると、2025年度の産業機械受注総額は前年度比30.3％増の7兆4,951億円となり、過去最高を記録しました」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「内需も19.8％増の4兆5,945億円まで戻っています」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+- 仕向け先：
+  - 「工作機械や産業機械、工場の設備を輸出するときは、輸送の手配だけでなく、輸出規制の確認、輸出先の規制、搬出と梱包の段取りが必要です」（https://logimeets.jp/column/machinery-export-guide）
+  - 「機械の輸出では、①外為法の該非判定、②輸出先の輸入規制（特に中古機械）、③搬出・梱包・輸送の方法を、売買契約の前後で並行して確認すると、出荷直前のトラブルを減らせます」（https://logimeets.jp/column/machinery-export-guide）
+  - 「輸出先の規制は、買い手や現地の通関業者に確認してもらいましょう」（https://logimeets.jp/column/machinery-export-guide）
+  - 「輸出先で求められる検査・証明書の有無と、手配する人」（https://logimeets.jp/column/machinery-export-guide）
+  - 「梱包業者に、輸出先と処理の要否を伝えましょう」（https://logimeets.jp/column/machinery-export-guide）
+  - 「｜韓国・中国からの航路とフェリー・RORO船の使い分け」（https://logimeets.jp/column/machinery-export-guide）
+  - 「中国から大阪への海上輸送ガイド」（https://logimeets.jp/column/machinery-export-guide）
+  - 「中国から日本への輸入ガイド」（https://logimeets.jp/column/machinery-export-guide）
+  - 「インドネシアから日本への輸入ガイド」（https://logimeets.jp/column/machinery-export-guide）
+  - 「インドから日本への輸入ガイド」（https://logimeets.jp/column/machinery-export-guide）
+  - 「｜主要港・輸送日数・日インドEPAと必要書類」（https://logimeets.jp/column/machinery-export-guide）
+- 価格差・需要：
+  - 「リスト規制に当てはまらなくても、用途や需要者によっては許可が必要になる場合があります」（https://logimeets.jp/column/machinery-export-guide）
+  - 「経済産業省は2025年10月9日施行で補完的輸出規制を見直し、これまで非該当だった汎用機械でも、用途や需要者によっては許可が要る場面が広がりました」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「産業機械の需要は戻っていますが、恩恵の届き方は会社ごとに違います」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+- 取り分・商流：
+  - 「越境ECの物流ガイド」（https://logimeets.jp/column/machinery-export-guide）
+  - 「通関手数料の相場と通関業者の選び方」（https://logimeets.jp/column/machinery-export-guide）
+  - 「越境ECで失敗しない！」（https://logimeets.jp/column/machinery-export-guide）
+  - 「フォワーダーの海外代理店の探し方」（https://logimeets.jp/column/machinery-export-guide）
+  - 「機械専門商社の売却｜据付・保守の承継と輸出管理から見るM&A評価 | M&A仲介会社なら、みつきコンサルティング」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「メーカーの再編と代理店政策の見直し」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「代理店網が整理されれば、扱い品目の縮小や販売地域の見直しが通告されることも」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「メーカー代理店網」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「重複する代理店権は整理の対象になりやすい」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「仲介の役割は、この交渉を早い段階で金融機関に持ち込むこと」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「メーカー代理店契約」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「自社が弱い地域や、扱っていないメーカーの代理店権を持つ会社は、時間を買う対象になります」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「仲介会社一覧」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「メーカー系が相手だと、既存の代理店網との調整が条件交渉の中心になる点も頭に入れておいてください」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「M&Aが成立した場合のみ、譲渡対価に応じた手数料を頂戴します」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+- 規制：
+  - 「機械・設備を輸出するには？該非判定・中古機械の規制・梱包と輸送の準備 | LogiMeets」（https://logimeets.jp/column/machinery-export-guide）
+  - 「機械・設備を輸出するには？該非判定・中古機械の規制・梱包と輸送の準備」（https://logimeets.jp/column/machinery-export-guide）
+  - 「機械の輸出では、①外為法の該非判定、②輸出先の輸入規制（特に中古機械）、③搬出・梱包・輸送の方法を、売買契約の前後で並行して確認すると、出荷直前のトラブルを減らせます」（https://logimeets.jp/column/machinery-export-guide）
+  - 「外為法の該非判定」（https://logimeets.jp/column/machinery-export-guide）
+  - 「1. 外為法の該非判定」（https://logimeets.jp/column/machinery-export-guide）
+  - 「工作機械、測定装置、制御装置などの一部は、外国為替及び外国貿易法（外為法）の規制対象（リスト規制）に該当する可能性があります」（https://logimeets.jp/column/machinery-export-guide）
+  - 「製造元が発行する該非判定書を入手できるか確認しましょう」（https://logimeets.jp/column/machinery-export-guide）
+  - 「キャッチオール規制：」（https://logimeets.jp/column/machinery-export-guide）
+  - 「リスト規制に当てはまらなくても、用途や需要者によっては許可が必要になる場合があります」（https://logimeets.jp/column/machinery-export-guide）
+  - 「製造元に該非判定書を依頼済み」（https://logimeets.jp/column/machinery-export-guide）
+  - 「該非判定は自社で行う必要がありますか？」（https://logimeets.jp/column/machinery-export-guide）
+  - 「製造元の該非判定書を参考にしつつ、自社でも内容を確認し、記録を保存してください」（https://logimeets.jp/column/machinery-export-guide）
+  - 「該非判定・中古機械の規制・」（https://logimeets.jp/column/machinery-export-guide）
+  - 「機械専門商社の売却｜据付・保守の承継と輸出管理から見るM&A評価 | M&A仲介会社なら、みつきコンサルティング」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）
+  - 「機械専門商社の売却｜据付・保守の承継と輸出管理から見るM&A評価」（https://mitsukijapan.com/ma/column/industrial-machinery-whsl/）

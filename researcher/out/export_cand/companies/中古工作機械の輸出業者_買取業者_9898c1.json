@@ -1,0 +1,1253 @@
+{
+ "name": "中古工作機械の輸出業者・買取業者",
+ "en": "used machine tool exporters Japan",
+ "aliases": [
+  "中古機械 買取",
+  "中古工作機械 販売",
+  "used machine dealer",
+  "中古機械商社"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:45:22.824363+00:00",
+ "evidence": {
+  "価格差・需要": [
+   {
+    "quote": "海外市場においては日本製の中古工作機械の信頼性が高く、需要があります",
+    "url": "https://www.kowakikai.com/business/global",
+    "pass": 3
+   },
+   {
+    "quote": "海外輸出向けで需要が高い中古工作機械の機種とは",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "海外輸出向けで需要が高い中古工作機械の機種とは？買取価格が上がる条件も解説",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "20年を超えた工作機械は、国内市場ではほぼ需要がありません",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "「国内でゴミ扱いの機械が、海外では即決で売れる」——これは当社では日常的に起きることです",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、海外需要が高い機種・条件・市場の実態を現場目線で解説します",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ日本製中古機械は海外で人気なのか",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "新興国での製造業拡大が需要を後押し",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした市場では、日本製の中古機械が「手頃な価格で高品質」な選択肢として非常に人気です",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "国内では「古い」機械が海外では「最新鋭」になる",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "海外輸出向けに需要が高いメーカー（工作機械）",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "海外では部品供給体制や代理店ネットワークが整っているため、中古機械を購入した後のサポートも受けやすく、バイヤーから高い信頼を得ています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "旋盤・マシニングセンタ・5軸加工機など多彩な機種が輸出市場でも需要があり、特に東南アジア・インド市場での人気が高いです",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "牧野フライスは金型加工用マシニングセンタの分野で世界トップクラスの評価を持ち、アジア各国での需要が安定しています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "海外輸出向けに需要が高い機種・カテゴリ",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーだけでなく、機種のカテゴリによっても海外需要の高さは異なります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "海外での需要｜工作機械・プレス機｜中古機械買取専門のYAMATOへ",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "海外で今需要があります！",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "Overseas demand",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "中古機械の海外需要!",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "海外で今需要があります!",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "不要になった中古機械も、海外需要がアップしています",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の工場では役目を終えた中古機械であっても、海外ではまだまだ現役として稼働しており、また近代化・工業化が進む途上国においては需要が高まっています",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、東南アジアをはじめとする諸外国では急速に工業化が進み、日本で不要になった工業機械の需要が高まっています",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "国内工場ではすでに役目を終えたと思われている中古機械であっても、海外ではまだ活躍できるシーンがあるのです",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "旋盤やフライス盤などの一般工作機械はもとより、NC工作機械、板金・プレス・各種加工・輸送・荷役機械、発電機や溶接機、コンプレッサーなどさまざまな機械に対して需要があります",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "国内では古すぎて需要がなく、海外への輸出を検討したところ、今度は輸出規制の対象になりうる機種であることが分かりました",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制で特に注意すべきなのは「用途要件」と「需要者要件」です",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "用途要件は、輸出しようとする貨物が大量破壊兵器の開発等に用いられるおそれがあるかどうか、需要者要件は、輸出相手（需要者）が大量破壊兵器の開発等に関与しているおそれがあるかどうかを指します",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制（用途・需要者要件）に問題はないか",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "、実際に需要が高い機種は",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "海外輸出向けで需要が高い中古工作機械の機種とは？",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "古いプレス機は海外で需要がある？輸出市場の実態と高く売るためのポイント",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "海外輸出向けで需要が高い中古工作機械の機種とは？買取価格が上がる条件も解説",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ後の中古工作機械市場——需要の変化を振り返る",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "中古機械市場の動向2026｜価格は上がる？下がる？国内・海外需要と相場の読み方を徹底解説",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "国内では買い手が付きにくい古い機械でも、海外で需要があれば値段が残ります",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "中古機械の世界では、国内需要が弱いときに輸出が支えるケースが多々あります",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "1）新品機械の納期長期化と“つなぎ需要”",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "中古機械は用途別に需要が動くため、業界の波を読むのが実務的です",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "国内需要はピーク時より減っていますが、補助加工・教育用途・海外需要で一定のマーケットがあります",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "精密加工の現場では根強い需要がありますが、状態で価格差が極端に出ます",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "大型プレスは設置や安全対応がネックになりやすい一方、現場で使いやすい能力帯は需要があります",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "需要が当たれば高いが、外れると動かない",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資が動いている（国内需要が強い）",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資が動くと「すぐ欲しい」「納期が間に合わない」という需要が出ます",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "円安＋輸送が回っている（輸出需要が強い）",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "国内需要が止まると在庫が積み上がり、相場が緩みやすいです",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "動作良好、付属品あり、一般的な用途に刺さる機種は国内外で需要が残りやすいです",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の中古機械市場は、国内・海外の需要に一定支えられています",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "処分したいといった需要が発生します",
+    "url": "https://kokusei-seimitsu.co.jp/purchase/",
+    "pass": 3
+   },
+   {
+    "quote": "2. キャッチオール規制（用途・需要者による補完的規制）",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "質問2：「需要者要件（顧客審査）のプロセスを見せてください」",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "需要者（インフォーム）要件：",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大学や公的研究機関から出る機器は、メンテナンスが行き届いており状態が良いことが多いため、海外のブローカーから高い人気があります",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "需要があるからといって、そのまま船積みできるわけではないんですよね",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "といった切削・仕上げ系の需要がイメージされやすいです",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "まずは需要のイメージがつきやすい",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は、需要と規制の両面があるテーマです",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "用途や需要者によっては、許可が必要になる場合があります",
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "pass": 3
+   }
+  ],
+  "取り分・商流": [
+   {
+    "quote": "海外 輸出・輸入 | 興和機械株式会社｜中古工作機械の買取・販売・修理、bodor laser公式代理店",
+    "url": "https://www.kowakikai.com/business/global",
+    "pass": 3
+   },
+   {
+    "quote": "海外では部品供給体制や代理店ネットワークが整っているため、中古機械を購入した後のサポートも受けやすく、バイヤーから高い信頼を得ています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "②海外メーカー製で国内代理店が対応していない",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "新品（代理店）",
+    "url": "https://www.toyo-trading.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "興和機械株式会社｜中古工作機械の買取・販売・修理、bodor laser公式代理店",
+    "url": "https://kowakikai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2 — Choose a Trusted Japan-Based Exporter or Agent",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "You will need a licensed exporter in Japan. Look for a company with verifiable auction access, full inspection services, transparent fee structures, and a track record of international exports. At JapanCarNet, our team handles everything from sourcing to shipping, with no hidden fees.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese machinery is sold through two main channels: fixed-price dealer stock (immediately available, inspected, photographed) and auction houses (USS Machinery, JBA, and others — weekly sales with live or proxy bidding). Your exporter will have access to both. Browse our current machinery stock or submit an auction search request.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Payments are typically by international bank wire transfer (T/T). Once payment is confirmed, your exporter will arrange port booking and provide you with the Bill of Lading, Japanese Export Certificate (de-registration document), commercial invoice, and packing list. Keep all of these — you will need them for import clearance.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 8 — Receive, Commission, and Put to Work",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Once your machinery arrives, conduct a thorough commissioning check before putting it into full operation. For complex equipment, consider engaging a qualified local technician familiar with the brand to verify all systems and carry out any necessary servicing or calibration.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro Tip: For high-value machinery, always take out marine cargo insurance. Standard shipping liability covers only a fraction of the equipment's value. Ask your exporter or freight forwarder to arrange comprehensive All-Risk marine cover for the full CIF value of the shipment.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   }
+  ],
+  "仕向け先": [
+   {
+    "quote": "しかし、旋盤・プレス機をはじめとする機械は、アジア・東南アジアでは今でも主力機械として現役で使われています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "東南アジア・南アジア・中東・アフリカでは製造業が急速に拡大しており、新品機械を購入する資金力はないが品質の高い機械を求めているという企業が多数あります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "特にタイ・ベトナム・インドネシア・インド・トルコ・メキシコは日本製中古機械の主要な輸出先として知られています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "旋盤・マシニングセンタ・5軸加工機など多彩な機種が輸出市場でも需要があり、特に東南アジア・インド市場での人気が高いです",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機は欧州・中東・アフリカ市場への強い販売ルートを持ち、高精度な旋盤・マシニングセンタが世界的に評価されています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "精度・耐久性ともに世界トップクラスの評価を受けており、東南アジア・インド・中東を中心に中古市場でも高い需要があります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "特に自動車部品の量産に使われる高速プレスは、タイ・メキシコ・インドネシアなど自動車産業が発展している国々で引き合いが強いです",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "大型の機械プレスを中心に、自動車・家電・重工業向けの部品製造に使われており、東南アジア・インド・中東の大手メーカー向けに需要があります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "立形マシニングセンタは設置スペースが比較的小さく、多品種少量生産に向いているため、製造業が拡大中の東南アジアの中小企業に特に需要があります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "横形マシニングセンタはパレット交換機能による量産加工への対応力から、タイ・メキシコ・インドなど自動車産業が発展している国々で引き合いが強い機種です",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "精密小径部品の大量生産に使われる自動旋盤（スター精密・シチズン・ツガミ）は、電子部品・医療部品需要が高まる東南アジア・インドでの引き合いが増えています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "旋盤は東南アジアの金属加工工場向け、プレス機はインドの鍛造工場向けの需要がありました",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アジア・東南アジア・インド・中東などでは、中古機械がまだ製造業の主力を担っています",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用旋盤はベトナム・インドネシア・バングラデシュなどの町工場向け、NC旋盤はインド・タイ・マレーシアなどの中規模製造業向けに需要があります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "インドや中東の鍛造・プレス加工業者に根強い需要があります",
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は主に、インド、パキスタン、ベトナムの顧客とのネットワークがあり、中古機械を保有している日本企業様及び購入したい海外顧客双方のマッチングサービスを行っております",
+    "url": "https://sa-servicegroup.com/export/",
+    "pass": 3
+   },
+   {
+    "quote": "インド、ベトナム、パキスタンetc",
+    "url": "https://sa-servicegroup.com/export/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社が保有する海外ネットワークを活かし、韓国、タイ、フィリピン、ベトナム、インド、中国、インドネシア、台湾などアジア各国への産業設備の輸出入の手続き、通関業務などを迅速に、そして確実に行います",
+    "url": "https://www.nakamoto-3r.com/solution-1/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、東南アジアをはじめとする諸外国では急速に工業化が進み、日本で不要になった工業機械の需要が高まっています",
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県の機械メーカーの社長たちが、生物兵器に転用できる機械を中国に不正に輸出したという疑いをかけられ警視庁に、外国為替及び外国貿易法（以下、外為法）違反容疑で逮捕さました（＊1）",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定の結果とは別に、輸出先がロシアまたはベラルーシの場合は、さらに厳しい規制がかかっている点にも注意が必要です",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府はロシアによるウクライナ侵略を受け、2022年以降、米国・欧州各国と協調して対ロシア制裁を段階的に強化してきました",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "これは通常の該非判定（リスト規制に該当するかどうか）とは別の枠組みで、機械の精度や型式にかかわらず、輸出先がロシア・ベラルーシであれば輸出できないということです",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、該非判定で「非該当」と判定された機械であっても、輸出先がロシア・ベラルーシであれば話は別です",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出先の国名を確認することは、精度測定や該非判定と並んで欠かせないチェック項目になっています",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出先の国・相手先が禁輸対象や懸念国でないか",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "ASA（American Society of Appraisers：米国評価人協会）の認定資産評価士が評価いたします",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "インド・アジア向け中古機械市場とは？",
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社社長がインド大統領との面会をしました",
+    "url": "https://www.arigatocorp.jp/ja",
+    "pass": 3
+   },
+   {
+    "quote": "即位礼正殿の儀でお越しになられたインド大統領が弊社社長と面会をしました",
+    "url": "https://www.arigatocorp.jp/ja",
+    "pass": 3
+   },
+   {
+    "quote": "インド共和国第14代大統領 ラーム・ナート・コーヴィンド 氏とサビタ・コーヴィンド大統領夫人の日本訪問中に",
+    "url": "https://www.arigatocorp.jp/ja",
+    "pass": 3
+   },
+   {
+    "quote": "関西で中古工作機械の売却をご検討中ですか？高価買取の鍵は東南アジアへの輸出販路です",
+    "url": "https://www.arigatocorp.jp/ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本の中古機械を東南アジアへ繋ぐ、株式会社ありがとうコーポレーションです",
+    "url": "https://www.arigatocorp.jp/ja",
+    "pass": 3
+   },
+   {
+    "quote": "インド支店：合弁",
+    "url": "https://www.toyo-trading.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "・翻訳（ 英語、タイ語、ベトナム語、中国語、タミル語 ）",
+    "url": "https://www.toyo-trading.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "This JapanCarNet article covers how to buy industrial machinery straight from japan: complete 2026 guide—practical guidance for buyers interested in",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Engage a licensed customs broker in your destination country well before the shipment arrives. Duties and import regulations vary significantly by country and machinery type. Your broker will use your shipping documents to clear the machinery and arrange final delivery to your site.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Transit times from Japan typically range from 2 to 5 weeks depending on the destination port. Our JapanCarNet shipping team will recommend the most cost-effective method for your specific equipment and destination.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "From the point of purchase, allow 4–10 weeks depending on port availability, your destination, and customs processing time. Your JapanCarNet agent will provide an estimated timeline at the time of purchase.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "We provide all required Japanese export documents. For import-side customs, we recommend engaging a licensed customs broker in your destination country. We can refer you to brokers we work with in many regions — ask our team.",
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「外国ユーザーリスト」や、米国財務省のSDNリスト（制裁対象者リスト）と照合を行う具体的なプロセスを持っているかが重要です",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の輸出について(インドネシア)｜該非判定・中古資本財規制・船積前検査の流れをやさしく解説",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の輸出について(インドネシア)｜該非判定・中古資本財規制・船積前検査の流れをやさしく解説 読み込まれました",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア向けに",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、インドネシア向けの",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア向け工作機械輸出が注目される理由",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア側の中古資本財輸入規制の要点",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 新品の工作機械と中古では、インドネシア側の手続きは違う？",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア向け",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアは、自動車関連や部品加工を中心に製造業の裾野が広く、",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、インドネシアは中古資本財の輸入に対して、品目・経過年数・輸入できる事業者の種類を細かく管理しています",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアでは、中古の機械設備は「中古資本財」として扱われ、2025年6月30日付の商業大臣規則2025年第24号の付表で、輸入できる品目・経過年数・事業者などが整理されています",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア向けの流れは、大まかに次の順番で考えると整理しやすいです",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "日インドネシア経済連携協定（IJEPA）を使う場合は、原産地証明書の要否も早めに確認しておきましょう",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシア向けでは、",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "ご依頼内容は、設備の入替に伴い古くなった保有する工作機械を東南アジアのグループ企業へ売却する経緯でご相談いただきました",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   }
+  ],
+  "規制": [
+   {
+    "quote": "工作機械の輸出該非判定ソリューション",
+    "url": "https://www.nakamoto-3r.com/solution-1/",
+    "pass": 3
+   },
+   {
+    "quote": "貨物の輸出をする際に生じる面倒な梱包やコンテナ船便の手配、さらに輸出手続きや輸出該非判定まで、トータルでの代行サービスを行っています",
+    "url": "https://www.nakamoto-3r.com/solution-1/",
+    "pass": 3
+   },
+   {
+    "quote": "位置決め精度チェックと機械エラーの診断に基づき、工作機械の該非判定書(該当証明書、非該当証明書)の発行を行います",
+    "url": "https://www.nakamoto-3r.com/solution-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事は2026年9月15日に、2025年5月28日施行の該非判定手続き改正およびロシア・ベラルーシ向け輸出規制の最新情報を反映して更新しました",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県の機械メーカーの社長たちが、生物兵器に転用できる機械を中国に不正に輸出したという疑いをかけられ警視庁に、外国為替及び外国貿易法（以下、外為法）違反容疑で逮捕さました（＊1）",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "我が国をはじめとする主要国では、武器や軍事転用可能な貨物・技術が、我が国及び国際社会の安全性を脅かす国家やテロリスト等、懸念活動を行うおそれのある者に渡ることを防ぐため、先進国を中心とした国際的な枠組み（国際輸出管理レジーム）をつくり、国際社会と協調して輸出等の管理を行っています",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制の対象か否か",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出貿易管理令・別表第1や外国為替令・別表に記載されている機械や技術（リスト規制の対象の機械や技術",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの機械や技術を「リスト規制の対象の機械や技術」といいます",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "「数値制御を行うことができる工作機械」がリスト規制の対象になるかどうかは、機種名だけで一律に決まるわけではありません",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり同じ型式のマシニングセンタでも、新品同様の精度を保っている機械と、経年劣化で精度が落ちている機械とでは、該非判定の結果が変わることがあります",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため中古機械の該非判定では、カタログスペック上の精度ではなく、実機を測定した「今の精度」が重要な判断材料になります",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "「リスト規制の対象の機械や技術」でなくても、輸出規制の対象になることがあります",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "それは補完的輸出規制（キャッチオール規制）があるからです",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制は、「リスト規制の対象の機械や技術」でなくても、輸出しようとする機械や技術が兵器の開発や製造に使われることを、輸出者が知っていた場合、輸出するときに経済産業大臣の許可が要る、というルールです",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり「普通のなんてことのない」機械でも、キャッチオール規制によって輸出できない機械になる可能性がある、ということです",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制で特に注意すべきなのは「用途要件」と「需要者要件」です",
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "​該非判定書発行サ",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー測定による位置決め精度測定から、輸出用該非判定書の発行まで",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "・輸出用 該非判定書の発行",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定書発行後の経産省/経産局への輸出許可（EL）申請も代行いたし�ます",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定書の注目ポイント",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "下記理由で製造メーカーからの該非判定書が入手できない場合、MAXETにて対応させていただきます",
+    "url": "https://www.maxet.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "理化学機器の買取と「輸出管理」の落とし穴｜売却時の法的責任と安全な業者選びの基準 | 株式会社リラボ",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "理化学機器の買取と「輸出管理」の落とし穴｜売却時の法的責任と安全な業者選びの基準",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "1. リスト規制（スペックによる客観的規制）",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "2. キャッチオール規制（用途・需要者による補完的規制）",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "外為法違反の代償：罰金と社会的信用の失墜",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "【重要課題】メーカーは中古品への「該非判定書」発行を断る？",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "中古市場の闇：「該非判定」なき横流しの実態",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "質問1：「御社は該非判定を自社、または専門機関で行っていますか？」",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 専門家による「自社完結型」の確実な該非判定",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "「安全保障貿易管理」という言葉を聞くと、ミサイルや戦車といった明らかな武器・兵器の輸出管理をイメージされるかもしれません",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制とは、輸出貿易管理令別表第1に掲げられた品目（貨物）や技術を輸出・提供する際に、経済産業大臣の許可を必須とする制度です",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定（規制対象かどうかの判定）は、原則として「メーカー公表のカタログスペック（設計値）」が基準となります",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "では、リスト規制のスペック値に届かない、いわゆる「非該当品（汎用品）」なら自由に売ってよいのでしょうか？",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで登場するのが「キャッチオール規制」です",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、リスト規制に該当しない品目であっても、以下の2つの条件（要件）のいずれかに当てはまる場合、輸出許可が必要となる制度です",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の輸出について(インドネシア)｜該非判定・中古資本財規制・船積前検査の流れをやさしく解説",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の輸出について(インドネシア)｜該非判定・中古資本財規制・船積前検査の流れをやさしく解説 読み込まれました",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "私も最初は、日本側の輸出管理と現地側の輸入規制が別物だと気づくまで、少し混乱していました",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "輸出で押さえておきたいポイントを、該非判定、現地の中古資本財ルール、船積前検査、書類と物流の流れまで、初心者にも分かりやすく整理していきます",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "日本側で必ず確認する該非判定と外為法",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 海外子会社向けなら該非判定は不要？",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "まず日本側で外せないのが、外国為替及び外国貿易法（外為法）に基づく安全保障貿易管理です",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "は、輸出貿易管理令のリスト規制に該当するかどうかの該非判定が、実務の出発点になります",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定では、カタログ値や仕様書だけでなく、位置決め精度など規制に関わる数値を、法令の定義と照らし合わせます",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "外為法上の責任は、基本的に輸出者側にあります",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの該非判定書を受け取ったとしても、そのまま鵜呑みにせず、自社でも再確認する姿勢が大切です",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "日本側で該非判定を行い、許可が必要なら申請する",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "輸出実務でよく出てくる書類は、インボイス、パッキングリスト、船荷証券（B/L）、該非判定の根拠資料、機械の状態が分かる資料などです",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定の根拠（仕様・精度・制御）が説明できるか",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "特に制御装置まわりは、輸出管理と現地での保守の両方に関わります",
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の該非判定 レーザー測定 - 株式会社中本は工作機械、産業機械、古鉄を買い取りしております",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の輸出該非判定ソリューション",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の下取り・処分時に輸出の該非判定でお悩みやお困り事はありませんか？",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定とは、これから輸出しようとする貨物（工作機械等）に関して、輸出貿易管理令（輸出令）で規定されている項目、貨物物省令で定める仕様に抵触するかどうか、または、第三国に提供する技術（プログラムを含む）に関して、外国為替令にて規制されている項目、及び貨物等省令で定める仕様に抵触するか否かを判定することです",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   },
+   {
+    "quote": "|中本のレーザー測定 該非判定サービス",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   },
+   {
+    "quote": "03 該非判定書・輸出申請書類の作成サポート",
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "pass": 3
+   }
+  ],
+  "輸出額・伸び": [
+   {
+    "quote": "10億円以下の罰金",
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.kowakikai.com/business/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sa-servicegroup.com/export/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyu-project.com/contents/category/works01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nakamoto-3r.com/solution-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamatokikai.co.jp/yamato/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daichitrade.com/export/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnkk.co.jp/export/?mode=detail&article=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maxet.co.jp/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkg14.jp/column/detail/20240602094347/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaikaitori-center.com/2026/02/17/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%912026%EF%BD%9C%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BC%9F%E4%B8%8B%E3%81%8C%E3%82%8B%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arigatocorp.jp/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unipole.co.jp/business/equipment/second-hand.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-trading.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%A9%9F%E6%A2%B0%E8%B2%B7%E5%8F%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kowakikai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crossjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-industrial-machine-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Machinists/comments/1rfud5n/understanding_the_us_market_for_used_machine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seals-japan.co.jp/en/solution/lift/trade/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/machine-tools-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kokusei-seimitsu.co.jp/purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wadachi-jp.com/cross-border-ec-logistics-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.udx.co.jp/blog/machine-tools-export-certification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.udx.co.jp/blog/machine-tools-export-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.star-express.co.jp/2025/11/05/6690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/export/faq/faq.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中古工作機械の輸出業者・買取業者 輸出額 推移",
+   "results": [
+    "https://www.kowakikai.com/business/global",
+    "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "https://sa-servicegroup.com/export/",
+    "https://www.sanyu-project.com/contents/category/works01/",
+    "https://www.nakamoto-3r.com/solution-1/",
+    "https://www.yamatokikai.co.jp/yamato/",
+    "https://daichitrade.com/export/",
+    "https://www.maxet.co.jp/service",
+    "https://www.daina-blog.online/%E4%B8%AD%E5%8F%A4%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%B2%B7%E5%8F%96%E3%81%AF%E8%BC%B8%E5%87%BA%E5%AF%BE%E5%BF%9C%E3%81%8C%E9%8D%B5%EF%BD%9C%E3%82%A4%E3%83%B3%E3%83%89/",
+    "https://www.globalnote.jp/post-12097.html"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出業者・買取業者 輸出 増加 海外需要",
+   "results": [
+    "https://www.kowakikai.com/business/global",
+    "https://www.youtube.com/watch?v=krSCI2kgxRA",
+    "https://www.yamatokikai.co.jp/yamato/",
+    "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "https://daichitrade.com/export/",
+    "https://www.dnkk.co.jp/export/?mode=detail&article=2",
+    "https://sa-servicegroup.com/export/",
+    "https://www.sanyu-project.com/contents/category/works01/",
+    "https://www.maxet.co.jp/service",
+    "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出業者・買取業者 輸出商社 代理店",
+   "results": [
+    "https://www.kowakikai.com/business/global",
+    "https://www.maxet.co.jp/service",
+    "https://sa-servicegroup.com/export/",
+    "https://www.arigatocorp.jp/ja",
+    "https://unipole.co.jp/business/equipment/second-hand.html",
+    "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "https://www.toyo-trading.com/company/",
+    "https://mono.ipros.com/cg2/%E6%A9%9F%E6%A2%B0%E8%B2%B7%E5%8F%96/",
+    "https://www.dnkk.co.jp/export/?mode=detail&article=2",
+    "https://kowakikai.com/"
+   ]
+  },
+  {
+   "query": "used machine tool exporters Japan demand overseas buyers",
+   "results": [
+    "https://www.trade.gov/country-commercial-guides/japan-industrial-machine-tools",
+    "https://www.reddit.com/r/Machinists/comments/1rfud5n/understanding_the_us_market_for_used_machine/",
+    "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
+    "https://japancarnet.com/blog/how-to-buy-industrial-machinery-straight-from-japan-complete-2026-guide/",
+    "https://www.seals-japan.co.jp/en/solution/lift/trade/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/machine-tools-market/Japan",
+    "https://www.arigatocorp.jp/",
+    "https://seisanzai-japan.com/article/p4192/",
+    "https://www.intlmach.com/en/articles/japan-used-machine-tool-market-2026",
+    "https://www.yamatokikai.co.jp/en/"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出業者・買取業者 越境EC 手数料",
+   "results": [
+    "https://www.kowakikai.com/business/global",
+    "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "https://www.dnkk.co.jp/export/?mode=detail&article=2",
+    "https://sa-servicegroup.com/export/",
+    "https://www.maxet.co.jp/service",
+    "https://www.nakamoto-3r.com/solution-1/",
+    "https://www.sanyu-project.com/contents/category/works01/",
+    "https://www.yamatokikai.co.jp/yamato/",
+    "https://kokusei-seimitsu.co.jp/purchase/",
+    "https://wadachi-jp.com/cross-border-ec-logistics-comparison"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出業者・買取業者 輸出管理 該非判定",
+   "results": [
+    "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "https://www.dnkk.co.jp/export/?mode=detail&article=2",
+    "https://re-labo.jp/news/scientific-instrument-export-control-risk/",
+    "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "https://www.nakamoto-3r.com/solution/non-judgment/",
+    "https://logimeets.jp/column/machinery-export-guide",
+    "https://sharingfactory.jp/2026/10/03/machine-tool-buyback/",
+    "https://www.cistec.or.jp/export/faq/faq.html",
+    "https://www.udx.co.jp/blog/machine-tools-export-certification"
+   ]
+  }
+ ],
+ "missing": {}
+}

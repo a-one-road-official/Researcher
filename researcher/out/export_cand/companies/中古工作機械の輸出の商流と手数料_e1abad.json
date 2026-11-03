@@ -1,0 +1,580 @@
+{
+ "name": "中古工作機械の輸出の商流と手数料",
+ "en": "used machine tool export commission margin",
+ "aliases": [
+  "中古機械 輸出 手数料",
+  "中古機械 マージン",
+  "輸出代行",
+  "仲介手数料"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:45:56.707429+00:00",
+ "evidence": {
+  "仕向け先": [
+   {
+    "quote": "工作機械や産業機械、工場の設備を輸出するときは、輸送の手配だけでなく、輸出規制の確認、輸出先の規制、搬出と梱包の段取りが必要です",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "機械の輸出では、①外為法の該非判定、②輸出先の輸入規制（特に中古機械）、③搬出・梱包・輸送の方法を、売買契約の前後で並行して確認すると、出荷直前のトラブルを減らせます",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "輸出先の規制は、買い手や現地の通関業者に確認してもらいましょう",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "輸出先で求められる検査・証明書の有無と、手配する人",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "梱包業者に、輸出先と処理の要否を伝えましょう",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "｜韓国・中国からの航路とフェリー・RORO船の使い分け",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中国から大阪への海上輸送ガイド",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中国から日本への輸入ガイド",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアから日本への輸入ガイド",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "インドから日本への輸入ガイド",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "｜主要港・輸送日数・日インドEPAと必要書類",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "リスト規制に当てはまらなくても、用途や需要者によっては許可が必要になる場合があります",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省は2025年10月9日施行で補完的輸出規制を見直し、これまで非該当だった汎用機械でも、用途や需要者によっては許可が要る場面が広がりました",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械の需要は戻っていますが、恩恵の届き方は会社ごとに違います",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   }
+  ],
+  "取り分・商流": [
+   {
+    "quote": "越境ECの物流ガイド",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "通関手数料の相場と通関業者の選び方",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "越境ECで失敗しない！",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "フォワーダーの海外代理店の探し方",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "機械専門商社の売却｜据付・保守の承継と輸出管理から見るM&A評価 | M&A仲介会社なら、みつきコンサルティング",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの再編と代理店政策の見直し",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店網が整理されれば、扱い品目の縮小や販売地域の見直しが通告されることも",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー代理店網",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "重複する代理店権は整理の対象になりやすい",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "仲介の役割は、この交渉を早い段階で金融機関に持ち込むこと",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー代理店契約",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "自社が弱い地域や、扱っていないメーカーの代理店権を持つ会社は、時間を買う対象になります",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "仲介会社一覧",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー系が相手だと、既存の代理店網との調整が条件交渉の中心になる点も頭に入れておいてください",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aが成立した場合のみ、譲渡対価に応じた手数料を頂戴します",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約に株主変更で解約できる条項があります",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の販売代理店を持っている場合、売り手として不利になりますか？",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "現地の代理店契約と駐在員の雇用条件を先に整理しておけば、むしろ評価が上がります",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "国によっては代理店保護の法制があり、一方的な解除に補償が要る場合も",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   }
+  ],
+  "規制": [
+   {
+    "quote": "機械・設備を輸出するには？該非判定・中古機械の規制・梱包と輸送の準備 | LogiMeets",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "機械・設備を輸出するには？該非判定・中古機械の規制・梱包と輸送の準備",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "機械の輸出では、①外為法の該非判定、②輸出先の輸入規制（特に中古機械）、③搬出・梱包・輸送の方法を、売買契約の前後で並行して確認すると、出荷直前のトラブルを減らせます",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "外為法の該非判定",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1. 外為法の該非判定",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械、測定装置、制御装置などの一部は、外国為替及び外国貿易法（外為法）の規制対象（リスト規制）に該当する可能性があります",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "製造元が発行する該非判定書を入手できるか確認しましょう",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "キャッチオール規制：",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "リスト規制に当てはまらなくても、用途や需要者によっては許可が必要になる場合があります",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "製造元に該非判定書を依頼済み",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定は自社で行う必要がありますか？",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "製造元の該非判定書を参考にしつつ、自社でも内容を確認し、記録を保存してください",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定・中古機械の規制・",
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "pass": 3
+   },
+   {
+    "quote": "機械専門商社の売却｜据付・保守の承継と輸出管理から見るM&A評価 | M&A仲介会社なら、みつきコンサルティング",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "機械専門商社の売却｜据付・保守の承継と輸出管理から見るM&A評価",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "機械専門商社の売却では、据付や試運転を担う技術者の在籍、保守・部品売上の厚み、外為法に基づく輸出管理の記録が譲渡価格に響きます",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "機械器具設置工事業の許可と外為法の輸出管理をどう引き継ぐか",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "該非判定と輸出者等遵守基準の運用実態",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "技術営業の高齢化、機械器具設置工事業の許可、輸出案件の該非判定",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械や計測機器を海外へ出しているなら、外為法に基づく該非判定と取引審査の記録が問われます",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "据付と保守を担う技術者、機械器具設置工事業の許可要件、輸出管理の記録",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   }
+  ],
+  "輸出額・伸び": [
+   {
+    "quote": "日本産業機械工業会によると、2025年度の産業機械受注総額は前年度比30.3％増の7兆4,951億円となり、過去最高を記録しました",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   },
+   {
+    "quote": "内需も19.8％増の4兆5,945億円まで戻っています",
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.customs.go.jp/toukei/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.umnet.jp/blog/?page=details&code=26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/machinery/agricultural-machinery/exports",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2018/0501/2ee81cf3ac22b1b7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/columns/a01_0757.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kowakikai.com/business/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logimeets.jp/column/machinery-export-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyu-project.com/contents/category/works01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/toyo_trading/n/ne99ada3c1fd6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machine-freak.com/blog/notes/0244-DifferenceBetweenDealersandRetailers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261016.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maxet.co.jp/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaiou.com/service/sale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/finance/keiei/yusyutu_column_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.usitc.gov/research_and_analysis/tradeshifts/2020/machinery.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gtsetu.com/guide/how-to-sell-manufacturing-equipment-in-foreign-markets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ironmartonline.com/blog/how-to-sell-used-heavy-equipment-internationally/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.dtic.mil/landingpage/maint.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://manufacturing.asia/manufacturing/news/japans-machine-tool-exports-surge-foreign-orders-hit-776-share",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meadoworks.com/resources/exporting-used-machinery-internationally",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/jetro/japan/kanazawa/ec/seminar_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rakuful.co.jp/2026/06/21/cross-border-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/kokusai/ec_supportbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shopee.jp/column/cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spool.co.jp/service/logi/overseas/ekkyouec.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=56823",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/export/faq/faqansers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://office-yuyatochiki.com/%E4%B8%AD%E5%8F%A4%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%82%92%E3%80%8C%E9%9D%9E%E8%A9%B2%E5%BD%93%E3%80%8D%E3%81%A7%E8%BC%B8%E5%87%BA%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E6%B8%AC%E5%AE%9A%E7%B5%90/2552/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.udx.co.jp/blog/machine-tools-export-certification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yushutsu.com/jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hn_stc_nightmare/n/n5cd4162dffea",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中古工作機械の輸出の商流と手数料 輸出額 推移",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.umnet.jp/blog/?page=details&code=26",
+    "https://www.crex-data.com/industry/machinery/agricultural-machinery/exports",
+    "https://www.jetro.go.jp/biz/areareports/special/2018/0501/2ee81cf3ac22b1b7.html",
+    "https://www.rieti.go.jp/jp/columns/a01_0757.html",
+    "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "https://www.jfmma.or.jp/statistics.html",
+    "https://note.com/toyo_trading/n/ne99ada3c1fd6",
+    "https://jp.gdfreak.com/public/detail/jp010090001110120020/1"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出の商流と手数料 輸出 増加 海外需要",
+   "results": [
+    "https://www.kowakikai.com/business/global",
+    "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "https://logimeets.jp/column/machinery-export-guide",
+    "https://www.sanyu-project.com/contents/category/works01/",
+    "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "https://note.com/toyo_trading/n/ne99ada3c1fd6",
+    "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "https://www.yamatokikai.co.jp/yamato/",
+    "https://unipole.co.jp/business/equipment/second-hand.html"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出の商流と手数料 輸出商社 代理店",
+   "results": [
+    "https://www.kowakikai.com/business/global",
+    "https://mitsukijapan.com/ma/column/industrial-machinery-whsl/",
+    "https://machine-freak.com/blog/notes/0244-DifferenceBetweenDealersandRetailers",
+    "https://www.digima-japan.com/knowhow/world/d-globalbusiness-261016.php",
+    "https://www.maxet.co.jp/service",
+    "https://www.kaiou.com/service/sale/",
+    "https://kikaikaitori-center.com/2026/06/09/used-machine-tool-export-demand/",
+    "https://logimeets.jp/column/machinery-export-guide",
+    "https://www.jfc.go.jp/n/finance/keiei/yusyutu_column_03.pdf"
+   ]
+  },
+  {
+   "query": "used machine tool export commission margin demand overseas buyers",
+   "results": [
+    "https://www.usitc.gov/research_and_analysis/tradeshifts/2020/machinery.htm",
+    "https://gtsetu.com/blogs/how-to-sell-manufacturing-equipment-in-foreign-markets/",
+    "https://www.ironmartonline.com/blog/how-to-sell-used-heavy-equipment-internationally/",
+    "https://apps.dtic.mil/sti/tr/pdf/ADA513765.pdf",
+    "https://manufacturing.asia/manufacturing/news/japans-machine-tool-exports-surge-foreign-orders-hit-776-share",
+    "https://www.meadoworks.com/resources/exporting-used-machinery-internationally",
+    "https://www.kinternational.com/from-the-u-s-to-the-world-exporting-used-equipment/",
+    "https://www.farm-equipment.com/articles/18808-tips-for-successfully-selling-used-equipment-overseas",
+    "https://www.nber.org/system/files/chapters/c6710/c6710.pdf",
+    "https://mbrcnc.com/blog/market-report-2026/"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出の商流と手数料 越境EC 手数料",
+   "results": [
+    "https://www.jetro.go.jp/ext_images/jetro/japan/kanazawa/ec/seminar_01.pdf",
+    "https://rakuful.co.jp/2026/06/21/cross-border-pricing/",
+    "https://www.jcci.or.jp/kokusai/ec_supportbook.pdf",
+    "https://shopee.jp/column/cost/",
+    "https://www.spool.co.jp/service/logi/overseas/ekkyouec.html",
+    "https://www.jfc.go.jp/n/finance/keiei/yusyutu_column_03.pdf",
+    "https://catalog.monex.co.jp/article/?p=56823",
+    "https://www.plc.co.jp/blog/crossborder-ec/",
+    "https://www.ebay.co.jp/info/cbt-blog/cbt-p4/",
+    "https://www.mechandlink.com/en/support-guide/3bt9xwh0"
+   ]
+  },
+  {
+   "query": "中古工作機械の輸出の商流と手数料 輸出管理 該非判定",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/apply-01/shinseishorui/kobetu/kamotu/ichigimeseido/ichigimeseido.html",
+    "https://logimeets.jp/column/machinery-export-guide",
+    "https://www.cistec.or.jp/export/faq/faqansers.html",
+    "https://office-yuyatochiki.com/%E4%B8%AD%E5%8F%A4%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%82%92%E3%80%8C%E9%9D%9E%E8%A9%B2%E5%BD%93%E3%80%8D%E3%81%A7%E8%BC%B8%E5%87%BA%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E6%B8%AC%E5%AE%9A%E7%B5%90/2552/",
+    "https://www.udx.co.jp/blog/machine-tools-export-certification",
+    "https://machine-freak.com/blog/notes/0185-PackagingMethods",
+    "https://kikaikaitori-center.com/2022/08/22/%E4%B8%AD%E5%8F%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%BC%B8%E5%87%BA/",
+    "https://yushutsu.com/jirei/",
+    "https://note.com/hn_stc_nightmare/n/n5cd4162dffea"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,934 @@
+{
+ "name": "町工場の試作・部品加工の海外受託",
+ "en": "Japanese job shop machining for overseas customers",
+ "aliases": [
+  "海外受注",
+  "部品加工",
+  "町工場",
+  "machining service",
+  "job shop"
+ ],
+ "context": "輸出",
+ "kind": "market",
+ "researched_at": "2026-11-03T23:45:23.838064+00:00",
+ "evidence": {
+  "仕向け先": [
+   {
+    "quote": "海外、特に中国や東南アジアの国々では、",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本企業にとって主要な部品調達先である中国、タイ、ベトナムの3カ国を取り上げ、それぞれの特徴と強みを解説します",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "中国：コストメリットと量産体制が強み",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "「世界の工場」として知られる中国は、圧倒的な生産能力と広範なサプライチェーンが最大の魅力です",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金属加工については",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金属加工のメリット・デメリット",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "「東南アジアのデトロイト」",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "人件費は中国よりは高いものの、日本国内と比較すれば依然としてコストメリットは大きく、品質とコストのバランスに優れた国と言えます",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムは、中国やタイと比較して人件費が安く、コスト削減を最優先する場合には有力な選択肢となります",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、香港に進出して20年を迎える企業",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、韓国、台湾、ベトナムなどで調達",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "創業２0年以上の経験と自社工場以外に中国・韓国・ベトナムなど協力ネットワークを持っています",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の英語、中国語に堪能なスタッフが直接工場とやり取りを行います",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "中国 (広州・大連・深セン・東莞・蘇州)、台湾、ベトナム(ハノイ)、タイ、インド、シンガポール、韓国",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス加工・深絞り加工の場合、弊社の自社工場が中国にあることから中国華南地区からの調達が多いです",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "【中国向け】切削加工 用語集｜日中対訳で現場・調達に役立つ完全ガイド",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、中国の",
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "海外、特に中国やベトナムの主要工場では、",
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、中国や東南アジアの工場では、",
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. 中国の春節・国慶節と航空便遅延への備え",
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "海外（中国）メーカーから部品を直接調達しています",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社平野製作所では主に中国メーカーから部品を仕入れています",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "中国の品質を確かめてみたい！",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "そんなときこそ中国の加工メーカーを使ってみませんか？",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカーに丸投げしてしまえば、あなたの仕事の負担がかなり軽減されるはず",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では主に中国メーカーから",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "よくある話として、商社を介して中国から部品を仕入れている会社はあります",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "でも、中国メーカーと直接やりとりをして仕入れている町工場は少数派です",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時には中国メーカーを候補の１つとしてお考えください",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では中国メーカーとの関係は10年以上になり（2025年現在）、金額ベースですと",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "現在、弊社が取引している中国メーカーでは大手自動車メーカーや製鉄、鋼管関係の会社様にも納品実績が継続的にありますのでご興味がありましたらご連絡お待ちしております",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "中国製で製作実績のあるものとは？",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "も中国製で多数製作納入実績があります",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "では、毎月大量の造形物が必要である場合、弊社の中国協力工場がおススメです",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "中国製部品事例",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "かつては中国やタイが中心だった外注先も、コスト・品質・労働力などの観点からベトナムへのシフトが進んでいます",
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに日系企業や欧州系の技術支援を受けた工場では、日本の加工現場と遜色ない加工精度（±0.01mm以下）や品質管理水準を実現しており、自動車・精密機器・医療分野の部品にも対応可能です",
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどもお伝えしましたが、ベトナムでは、日系・韓国系・欧州系の工場を中心に、",
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ切削加工の外注でコスト削減する方法！切削加工の海外活用と中国加工との比較【ベトナム加工】",
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "中国とベトナムの製造業の違いを比較！なぜベトナムで海外調達なのかを解説",
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "【中国向け】切削加工 用語集｜日中対訳で現場・調達に役立つ完全ガイド",
+    "url": "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "pass": 3
+   },
+   {
+    "quote": "まず第一に、英語・中国語・スペイン語の多言語対応ウェブサイトを構築し、製品の強みを徹底的に可視化しました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "現在ではドイツを拠点に欧州全域、さらに北米市場にも販路を拡大",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより欧州全域への販路を開拓しました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡の「フジテック」は、JETROの支援プログラムを活用して東南アジア市場への参入を果たしました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより欧州市場での取引障壁を下げることに成功しました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "京都の精密金属加工メーカー「川並製作所」は、医療機器部品の高精度加工技術を武器に、まずドイツの展示会に出展したことで欧州市場への足がかりを築きました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "日本品質の技術を現地に根付かせることで、東南アジア全域にビジネスを拡大させました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "英語・中国語・ベトナム語の多言語Webサイトを構築し、製品動画を定期的にYouTubeで配信",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "特に東南アジア市場では、現地企業との技術提携により現地ニーズに合わせた製品カスタマイズを実現しています",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みの結果、坂口製作所は東南アジアを中心に30カ国以上への輸出を実現",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工の委託先を比較｜日本・中国・ベトナム | 有限会社アルプス",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工の委託先を比較｜日本・中国・ベトナム",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "🇨🇳 中国の加工業者：コスト・量産・設備規模",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "国内（新潟三条が中心）と中国・上海の協力工場が受け持ちます",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "このコラムでは、金属部品加工の外注先として日本・中国・ベトナムを比較し、「どの部品をどこに出すべきか」の判断基準を整理します",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の加工業者",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "中国と同等〜やや高め",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "人件費はまだ中国より安い水準",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "：△ 船便4〜7週間（中国よりやや長い）",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   }
+  ],
+  "価格差・需要": [
+   {
+    "quote": "例えば、日本ではコストや環境規制の観点から実施が難しい加工方法でも、海外では対応できるケースが存在します",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本メーカー独自の「オリジナル材料」や「ブランド鋼材」も、海外では流通していないケースが多いです",
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "コラムー人気記事",
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "国内であれば短期間で訪問して確認できる不具合も、海外では移動や輸送、通訳の手配が必要になり、原因究明と是正に時間がかかる場合があります",
+    "url": "https://lefixea.jp/mfg/articles/supplier-development6",
+    "pass": 3
+   },
+   {
+    "quote": "安全在庫や発注時期は需要変動と調達期間に応じて設計し、遅れが一定の水準を超えた場合は社内へ報告する基準を決めます",
+    "url": "https://lefixea.jp/mfg/articles/supplier-development6",
+    "pass": 3
+   },
+   {
+    "quote": "新たな製造先に見積もりや試作を依頼する際には、図面、製品構造、材料情報、加工条件、需要見通しなど、競争力に関わる情報を開示することがあります",
+    "url": "https://lefixea.jp/mfg/articles/supplier-development6",
+    "pass": 3
+   },
+   {
+    "quote": "machines are fully equipped, combining features which have previously been options, and ready for your demanding and arduous machining center environment.",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, third generation President, Katsutoshi Matsuura and his son Yuto, continue this tradition expanding the business to meet rising global demands for groundbreaking manufacturing solutions.",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Pallets and Tools to Meet Demanding Production Goals",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet even the most demanding of production goals with the",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Meeting Customer Demands for Precision and Delivery",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "At Matsuura, as a premium machine tool builder, our mission is to build high quality and dependable machines. Our goal [...]",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Takashima Sangyo may be suitable for buyers who need small precision machined parts for demanding technical applications.",
+    "url": "https://www.naitetech.com/top-cnc-machining-companies-in-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small precision parts and demanding technical components",
+    "url": "https://www.naitetech.com/top-cnc-machining-companies-in-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan machine tool market 2025: foreign demand drives recovery as orders hit fourth-highest level | Industry and Manufacturing News Archive | SEISANZAI Japan",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan machine tool market 2025: foreign demand drives recovery as orders hit fourth-highest level",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s machine tool industry returned to growth in 2025, with total orders reaching JPY 1,604.3 billion — the fourth-highest level on record. Production also grew for the first time in three years, rising 9.0% to JPY 982.6 billion. Foreign demand drove the recovery, while domestic demand remained sluggish.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "This report covers Japan’s machine tool supply and demand figures for 2025, drawing on two sources:",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "– Five-axis and above MC orders grew 28.1%, reflecting demand for higher-capability equipment",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, domestic demand fell below JPY 450 billion for the second consecutive year, and the order backlog declined for the third straight year — signals that the recovery remains uneven.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "Orders: foreign demand sets records",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": ": up 12.2% to JPY 580.2 billion. China recovered strongly, up 15.7% to a record JPY 390.1 billion, driven by automotive and electronics demand. Korea, India, and Singapore also posted gains.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "海外では労働コストや材料費が安い地域も多く、部品加工を海外へ委託することで大きなコストメリットが生まれます",
+    "url": "https://ammex.co.jp/service/overseas-parts-import/",
+    "pass": 3
+   },
+   {
+    "quote": "コラムー人気記事",
+    "url": "https://ammex.co.jp/service/overseas-parts-import/",
+    "pass": 3
+   }
+  ],
+  "取り分・商流": [
+   {
+    "quote": "また、日本国内に拠点や代理店を持つ企業であれば、緊急時の連絡や対応がスムーズに進むため、より安心して取引ができます",
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、日本の商社や中国商社を介さず、直接に中国の加工メーカーとやり取りをしておりますので、余計な中間マージンは発生しません",
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティングの活用方法や展示会戦略、越境ECの活用法、現地パートナーとの効果的な提携方法など、実際に成果を上げた企業の取り組みから、あなたの会社でも応用できるエッセンスを抽出しました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "現地代理店との連携により、言語や商習慣の壁を乗り越え、現在は売上の30%以上を海外が占めるまでに成長しています",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "坂口製作所は各国の商社や代理店との連携を強化",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "「アストロプロダクツ」の正規代理店",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "「Ko-ken(コーケン)」の正規代理店",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "「オレンジブック.com」の正規代理店",
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "pass": 3
+   },
+   {
+    "quote": "まず仲介手数料、いわゆるマージンコストの発生が挙げられます",
+    "url": "https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "商社を介することでマージンが発生し、直接調達と比較してコストが上昇する場合があります",
+    "url": "https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Distributor",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor Map",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive Matsuura Distributor, Selway Machine Tool",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our local distributor,",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive Matsuura Distributor,",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "is the exclusive distributor of Matsuura products on the West Coast, offering a wide variety of manufacturing solutions including machine tools, accessories, automation, service, and application support.",
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料 町工場の試作部品加工の海外受託 越境ecの求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "町工場の試作部品加工の海外受託 越境ec 手数料",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集背景 韓国、中国などアジア10ヶ国から2,500以上のブランドが集い、15万点のアイテムを展開するグローバルファッションECストア「60％」で、ユーザーとブランド双方の体験向上を担うストア運営・CS/CXインターンを募集します！ 60%は自社ブランドの商品を仕入れて売る一般的なアパレルECとは異なり、海外のファッションブランドと日本のユーザーをつなぐ越境ECプラットフォームです",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "上場／越境EC企画「マネージャー候補」日本製品を世界中にお届けする越境ECプラットフォームを担当",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "事務員／手数料の入力・管理業務（在宅）",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【在宅勤務】社内事務サポート業務 ・人材紹介「手数料」を管理するお仕事です ・請求金額を確認し、内容確認や入力をします ・コミュニケーションを取り、確認しながら進めるお仕事です ・指定のシステムやメールを使用します ◆業務のポイント ・数字を正確に入力・確認することが得意な方におすすめの業務♪ ・業務の変化とともに、変化・成長を楽しめるお仕事です ・Ｇｏｏｇｌｅスプレッドシートの知識が身につきます！ ・コミュニケーションを伴う事務がお好きな方、是非ご応募下さい ＊変更範囲：変更無し",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "一般事務・OA事務／基本定時で帰れる 未経験者歓迎！手数料請求など …",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【職種】 一般事務・OA事務 【仕事内容】 ≫ＢＰＯサービス事業会社≪大手企業で活躍できるチャンス！有名ビル勤務です！ 【ＯＡ事務】案件チェック・審査｜住宅成約手数料の請求対応｜案件管理｜メール送信｜資料作成（Ｅｘｃｅｌ使用）などのＯＡ事務のお仕事をお願いします",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "海外事業（海外卸・越境EC）の推進担当",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "海外事業（海外卸・越境EC）の推進担当 【移住支援金対象求人】海外事業（海外卸・越境EC）の推進担当の募集 【移住支援金対象求人】 金物業界での長い社歴を生かし、厳選した良質な刃物・道具を「ほんまもん」ブランドとして皆様にお届けしております",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "梅田／越境ECサイト運営×海外バイヤーへの販売促進／中国語を活かせる環境少数精鋭／年休123日",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ｏｆｆｂｅａｔ 【梅田】越境ECサイト運営×海外バイヤーへの販売促進※中国語を活かせる環境◆少数精鋭／年休123日 【仕事内容】 【梅田】越境ECサイト運営×海外バイヤーへの販売促進※中国語を活かせる環境◆少数精鋭／年休123日 【具体的な仕事内容】 ～元楽天・Amazonのメンバーが中心の少数精鋭／越境EC市場規模拡大中／土日祝休み・年休123日以上／転勤なし～ ■職務概要： 海外向けECサービス「imoko」における、バイヤー営業支援・EC運営を担うポジションです",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "法務担当「フレックス／越境EC／複数事業展開の企業」",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 企業法務の実務経験 【職種名】 法務担当【フレックス／越境EC × 複数事業展開の企業】 【仕事内容】 以下業務をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "東京／韓国事業推進／越境ECの新規事業立ち上げ韓国語力を活かせる／職種未経験歓迎",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本国内/ 海外 調達による 部品加工 について — 日本国内/ 海外 調達による 部品加工 について tech-journey.jp https://www.tech-journey.jp > column > 11-blg",
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "pass": 3
+   },
+   {
+    "quote": "町工場 マッチングで 海外 製 部品 の国内代替先を探す6つの手順 — 町工場 マッチングで 海外 製 部品 の国内代替先を探す6つの手順 lefixea.jp https://lefixea.jp > articles > small-factory-matching15",
+    "url": "https://lefixea.jp/mfg/articles/small-factory-matching15",
+    "pass": 3
+   },
+   {
+    "quote": "町工場の試作部品加工の海外受託 越境EC 手数料 の求人情報をすべて見る （221,173件） — 町工場の試作部品加工の海外受託 越境EC 手数料 の求人情報をすべて見る （221,173件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "輸出額・伸び": [
+   {
+    "quote": "リスク4：為替変動と取引条件による負担の増加",
+    "url": "https://lefixea.jp/mfg/articles/supplier-development6",
+    "pass": 3
+   },
+   {
+    "quote": "3D CAD/CAMのスキルを持つ若手技術者も増加中",
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、国内市場の縮小に直面しながらも、海外展開に積極的に取り組み、年商10億円を超える成長を実現した町工場の成功事例を10件ご紹介します",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員わずか15名の金属加工会社が、現在では30カ国以上に製品を輸出し、年商50億円を超える企業へと変貌を遂げました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日本の町工場が海外進出で年商10億円達成！実践された販路開拓戦略を徹底解説",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府八尾市に本社を構える金属加工の町工場「サカイ精機」は、創業から40年以上の歴史を持ちながら、わずか5年で年商2億円から10億円へと飛躍的な成長を遂げました",
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s machine tool industry returned to growth in 2025, with total orders reaching JPY 1,604.3 billion — the fourth-highest level on record. Production also grew for the first time in three years, rising 9.0% to JPY 982.6 billion. Foreign demand drove the recovery, while domestic demand remained sluggish.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": ": up 17.6% to a record JPY 360.0 billion, with the U.S. up 17.0% to JPY 312.7 billion. Aerospace, construction machinery, and automotive all contributed. Mexico extended its growth streak to five consecutive years.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": ": up 4.5% to JPY 197.4 billion, returning to growth but remaining below JPY 200 billion. Germany recovered only modestly, up 4.7%.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   },
+   {
+    "quote": "By country, China topped the rankings for the second consecutive year, up 19.9% to JPY 246.2 billion. Vietnam was the standout mover, climbing to fifth place with growth of 102.9%.",
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://asiaplanning.com/machining/column/column-3626/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-journey.jp/column/11-blg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/1924/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/supplier-development6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwai-global-parts.com/reason/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirano-s.jp/kaigaisei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://design-iwish.jp/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%80%81%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lefixea.jp/mfg/articles/small-factory-matching15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bantec2022.com/archives/1438",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ozekinet.com/metal_cutting/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naitetech.com/top-cnc-machining-companies-in-japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resellcnc.com/cnc-resell-news/article/japanese-machine-tool-invasion-american-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p6194/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-dev.com/blog/japan-tech-companies-hiring-from-overseas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/case/column_usecase002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-journey.jp/column/merit062223/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ammex.co.jp/service/overseas-parts-import/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/wtm/product/detail/2001626652/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_level1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpnca.or.jp/column-article/manufacturing-export-risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cistec.or.jp/service/daigaku/data/shizuoka_daigaku_anpohandbook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lrn.com/ja/blog/manufacturing-security-trade-control-training",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkakyo.org/system/files/%E5%88%9D%E5%AD%A6%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E8%BC%B8%E5%87%BA%E7%AE%A1%E7%90%86%E8%A7%A3%E8%AA%AC%E6%9B%B8%E2%80%97202410%E7%99%BA%E8%A1%8C.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出額 推移",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://www.tech-journey.jp/column/11-blg/",
+    "https://www.agency-assist.co.jp/column/1924/",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://ammex.co.jp/2026/03/15/overseas-parts-procurement-merit/",
+    "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "https://www.meti.go.jp/statistics/toppage/report/minikeizai/kako/20160617minikeizai.html",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/dcd5884576619dba/20160020.pdf",
+    "https://jupiter-japan.jp/journal/355/",
+    "https://www.meti.go.jp/statistics/tyo/kaigaizi/index.html"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出 増加 海外需要",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://lefixea.jp/mfg/articles/supplier-development6",
+    "https://www.agency-assist.co.jp/column/1924/",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://iwai-global-parts.com/reason/strategy/",
+    "https://www.hirano-s.jp/kaigaisei",
+    "https://vietnam-metal-kakou.com/2025/07/28/parts/",
+    "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "https://design-iwish.jp/町工場からグローバル企業へ、販路開拓の成功事/"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出商社 代理店",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://alps-inc.com/machining-outsourcing-jp-cn-vn/",
+    "https://iwai-global-parts.com/column/%E6%B5%B7%E5%A4%96%E9%83%A8%E5%93%81%E8%AA%BF%E9%81%94%E3%81%A7%E5%95%86%E7%A4%BE%E3%82%92%E4%BD%BF%E3%81%86%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "https://www.hirano-s.jp/kaigaisei",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://lefixea.jp/mfg/articles/small-factory-matching15",
+    "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "https://www.bantec2022.com/archives/1438",
+    "https://www.ozekinet.com/metal_cutting/about/"
+   ]
+  },
+  {
+   "query": "Japanese job shop machining for overseas customers demand overseas buyers",
+   "results": [
+    "https://manufacturing.asia/manufacturing/news/japanese-machine-tool-orders-hit-record-overseas-demand",
+    "https://www.matsuurausa.com/job-shop-dream-machines/",
+    "https://www.naitetech.com/top-cnc-machining-companies-in-japan.html",
+    "https://www.resellcnc.com/cnc-resell-news/article/japanese-machine-tool-invasion-american-manufacturing/",
+    "https://seisanzai-japan.com/article/p6194/",
+    "https://japan-dev.com/blog/japan-tech-companies-hiring-from-overseas",
+    "https://www.reddit.com/r/Machinists/comments/1rfud5n/understanding_the_us_market_for_used_machine/",
+    "https://www.youtube.com/watch?v=D_rQIwdG1JA",
+    "https://made-in-japan.jp/en/guide/sourcing-from-japan/",
+    "https://japanesemfg.com/category/machining/"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 越境EC 手数料",
+   "results": [
+    "https://jp.stanby.com/search?q=%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A9%A6%E4%BD%9C%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%B5%B7%E5%A4%96%E5%8F%97%E8%A8%97+%E8%B6%8A%E5%A2%83ec+%E6%89%8B%E6%95%B0%E6%96%99&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://sekai-c.jp/case/column_usecase002/",
+    "https://asiaplanning.com/machining/column/column-3626/",
+    "https://www.hirano-s.jp/kaigaisei",
+    "https://www.tech-journey.jp/column/merit062223/",
+    "https://www.takion21.co.jp/column/machining-overseas-transfer/",
+    "https://www.yoshimoto-fc.co.jp/outsourcing/",
+    "https://ammex.co.jp/service/overseas-parts-import/",
+    "https://pr.mono.ipros.com/wtm/product/detail/2001626652/",
+    "https://www.agency-assist.co.jp/column/1924/"
+   ]
+  },
+  {
+   "query": "町工場の試作・部品加工の海外受託 輸出管理 該非判定",
+   "results": [
+    "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_level1.pdf",
+    "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "https://www.jpnca.or.jp/column-article/manufacturing-export-risk/",
+    "https://www.cistec.or.jp/service/daigaku/data/shizuoka_daigaku_anpohandbook.pdf",
+    "https://lrn.com/ja/blog/manufacturing-security-trade-control-training",
+    "https://www.nikkakyo.org/system/files/%E5%88%9D%E5%AD%A6%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E8%BC%B8%E5%87%BA%E7%AE%A1%E7%90%86%E8%A7%A3%E8%AA%AC%E6%9B%B8%E2%80%97202410%E7%99%BA%E8%A1%8C.pdf",
+    "https://d-monoweb.com/blog/foreign-exchange-law/",
+    "https://www.futaba.co.jp/support/judgment",
+    "https://chubu-meti-gov.note.jp/n/ncb8cf107a9c7"
+   ]
+  }
+ ],
+ "missing": {
+  "規制": "記載なし（読んだ34頁・検索6回）"
+ }
+}

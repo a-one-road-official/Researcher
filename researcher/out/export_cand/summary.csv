@@ -1,7 +1,9 @@
 ﻿品目,英語名,文脈,輸出額・伸び_引用数,仕向け先_引用数,価格差・需要_引用数,取り分・商流_引用数,規制_引用数,読んだ頁数,記載なし項目,エラー
 中古工作機械の輸出,used machine tools export Japan,輸出,8,15,22,5,46,36,,
 日本製切削工具の輸出,Japanese cutting tools export,輸出,4,4,3,0,0,36,取り分・商流／規制,
-日本製測定機器・計測器の輸出,Japanese measuring instruments export,輸出,0,0,0,0,0,36,輸出額・伸び／仕向け先／価格差・需要／取り分・商流／規制,
+日本製測定機器・計測器の輸出,,,0,0,0,0,0,0,,ValueError: netloc '＃toka＃' contains invalid characters under NFKC normalization
 金型の輸出,Japanese molds and dies export,輸出,33,46,22,1,9,36,,
-町工場の試作・部品加工の海外受託,Japanese job shop machining for overseas customers,輸出,0,0,0,0,0,33,輸出額・伸び／仕向け先／価格差・需要／取り分・商流／規制,
+町工場の試作・部品加工の海外受託,Japanese job shop machining for overseas customers,輸出,10,60,24,31,0,34,規制,
 日本製の金属材料・特殊鋼の輸出,Japanese specialty steel export,輸出,3,10,1,0,0,34,取り分・商流／規制,
+中古工作機械の輸出業者・買取業者,used machine tool exporters Japan,輸出,1,57,60,12,60,36,,
+中古工作機械の輸出の商流と手数料,used machine tool export commission margin,輸出,2,11,3,19,21,36,,
