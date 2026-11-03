@@ -1,0 +1,15 @@
+品目,英語名,別名,文脈
+試作・受託開発の町工場の数（従業員規模別）,number of prototyping job shops Japan by size,試作 受託開発 町工場;金属製品製造業 事業所数 規模別;生産用機械器具製造業 事業所数;試作メーカー,①Yomi
+製造業向け見積AIの料金,quotation AI for manufacturers Japan pricing,見積AI;見積もり自動化 製造業;AI見積 料金,①Yomi
+製造業向けナレッジAI・過去案件検索AIの料金,knowledge AI past project search manufacturers Japan,ナレッジ検索AI 製造業;技術伝承 AI;過去案件 検索 AI,①Yomi
+中小企業向けオンプレ生成AI導入の費用,on-premise generative AI SMB Japan cost,オンプレ 生成AI 費用;ローカルLLM 導入費用;社内生成AI オンプレ 価格,①Yomi
+省力化投資補助金（一般型）の補助率と上限,shoryokuka subsidy Japan rate cap,省力化投資補助金 一般型;省力化補助金 補助率;省力化投資補助金 上限,①Yomi
+ものづくり補助金の補助率と上限,monodzukuri subsidy rate cap,ものづくり補助金 補助率;ものづくり補助金 上限,②③共通
+卓上金属3Dプリンターの価格,desktop metal 3D printer price,卓上 金属3Dプリンター 価格;小型 金属3Dプリンター;desktop SLM price,②卓上金属AM
+日本の金属3Dプリンター市場規模と出荷台数,Japan metal 3D printer market size units,金属3Dプリンター 市場規模;金属AM 国内 出荷台数;金属積層造形 市場,②卓上金属AM
+3Dプリンター販売代理店のマージン,3D printer reseller margin,3Dプリンター 代理店 マージン;3D printer dealer margin;reseller discount 3D printer,②卓上金属AM
+日本の金属3Dプリンター販売代理店,metal 3D printer distributors Japan,金属3Dプリンター 代理店;金属3Dプリンター 販売店;金属AM 総代理店,②卓上金属AM
+金属3Dプリンターの導入先（大学・デザイン事務所・建築）,metal 3D printer adopters universities design studios Japan,金属3Dプリンター 導入事例 大学;金属3Dプリンター デザイン事務所;金属3Dプリンター 建築,②卓上金属AM
+日本の受託開発・設計受託会社の数（規模別）,number of contract development design firms Japan,受託開発 会社数;設計受託 会社;開発受託 企業数;製品設計 受託,③WL
+受託開発会社の営業・問い合わせ対応の予算,sales inquiry budget contract development firms Japan,受託開発 営業 課題;受託開発 問い合わせ 獲得;受託開発 マーケティング 予算,③WL
+ホワイトラベルSaaSの再販マージン,white label SaaS reseller margin,white label reseller margin;ホワイトラベル 再販 マージン;SaaS 代理店 手数料,③WL

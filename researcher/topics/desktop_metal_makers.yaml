@@ -1,0 +1,43 @@
+# 本人の指示（2026-11-03）：選択肢②「SnowXのような卓上金属3Dプリンターを担いで日本で売る」を数字で比べるため、メーカーを1社ずつ三重確認する。
+# 取るのは：装置価格・消耗品(粉末)価格・販売台数・導入先・代理店条件(マージン/最低発注/独占)・日本の販路と保守・ISO等の認証・創業年度・株主構成・売上・資金調達・存続。引用のまま。
+title: 卓上金属3Dプリンターのメーカー — 価格・代理店条件・保守・認証・会社の実体
+input: researcher/inputs/desktop_metal_makers.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, Founded, Established, founded in, year founded, 成立]
+  株主: [株主, Shareholders, Ownership, Parent company, Investors, 股东]
+  従業員数: [Employees, Team size, employees, 员工]
+  所在地: [Headquarters, Location, HQ, 地址]
+  売上高: [Revenue, Turnover, 营收]
+  代表者: [CEO, Founder, Co-founder]
+
+evidence:
+  装置価格: [price, priced at, USD, $, €, starting at, MSRP, 价格, 售价, 万元, 円]
+  消耗品・粉末: [powder, 316L, consumable, per kg, gas, argon, nitrogen, 粉末, 耗材]
+  販売台数・導入先: [units sold, installations, installed base, customers, shipped, delivered, universities, research, 台, 客户, 交付]
+  代理店条件: [reseller, distributor, dealer, partner program, margin, discount, minimum order, exclusive, territory, 代理, 经销]
+  日本対応・保守: [Japan, Japanese, 日本, service, maintenance, warranty, installation, training, support, 售后, 维修]
+  認証: [ISO 9001, ISO 27001, CE, UL, FCC, certified, certification, 认证]
+  安全: [inert, laser class, Class 1, powder handling, ATEX, safety, 安全]
+  株主構成: [shareholder, investors, backed by, led by, stake, parent company, 股东, 投资方, 融资]
+  創業年度: [founded in, established in, since, 成立于, 创立]
+  売上: [revenue, sales, turnover, 营收, 销售额]
+  資金調達: [raised, funding, Series A, Series B, seed, Kickstarter, crowdfunding, 融资, 轮]
+  存続: [acquired, insolvency, bankruptcy, closed, ceased, 破产, 收购]
+
+subpage_keywords: [about, company, product, pricing, price, spec, reseller, distributor, partner, dealer, support, service, news, press, contact, faq, store, shop]
+image_keywords: [spec, price, partner]
+
+external_queries:
+  - "{name} price USD"
+  - "{name} desktop metal 3D printer review"
+  - "{name} reseller distributor program"
+  - "{name} Japan"
+  - "{name} funding raised investors"
+  - "{name} founded company employees"
+  - "{name} ISO 9001 CE certification"
+  - "{name} units sold customers installations"
+  - "{name} 融资 OR 投资"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 6, external_per_query: 4}
